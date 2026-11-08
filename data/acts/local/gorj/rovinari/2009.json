@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/gorj/rovinari/2009",
+"acts": [
+{
+"slug": "hcl-gorj--rovinari-11-2009",
+"path": "local/gorj/rovinari/2009/11",
+"kind": "local",
+"year": "2009",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 11/2009",
+"short": "HCL Rovinari nr. 11/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-06-25",
+"latest": "2009-06-25",
+"portal": null,
+"council": "gorj/rovinari",
+"council_name": "Consiliul Local al Orașului Rovinari",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

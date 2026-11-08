@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--ulmi-5-2021",
+"path": "local/giurgiu/ulmi/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 5/2021 privind aprobarea numarul de posturi pentru asistentii personali si persoanelor cu handicap si numarul de indemnizatii de insotitor pe anul 2021 in comuna Ulmi",
+"short": "HCL Ulmi nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-04",
+"latest": "2021-02-04",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/16985",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-6-2021",
 "path": "local/giurgiu/ulmi/2021/6",
 "kind": "local",
@@ -267,6 +289,29 @@
 }
 },
 {
+"slug": "hcl-giurgiu--ulmi-14-2021",
+"path": "local/giurgiu/ulmi/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 14/2021",
+"short": "HCL Ulmi nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/25451",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-15-2021",
 "path": "local/giurgiu/ulmi/2021/15",
 "kind": "local",
@@ -421,6 +466,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--ulmi-22-2021",
+"path": "local/giurgiu/ulmi/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 22/2021 privind aprobarea unui schimb de terenuri",
+"short": "HCL Ulmi nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-23",
+"latest": "2021-06-23",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/28384",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-23-2021",
 "path": "local/giurgiu/ulmi/2021/23",
 "kind": "local",
@@ -572,6 +639,72 @@
 "council_name": "Consiliul Local al Comunei Ulmi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-30-2021",
+"path": "local/giurgiu/ulmi/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 30/2021 privind aprobarea cuantumului lunar al burselor școlare și al numărului de beneficiari, pentru elevii din învățământul preuniversitar de stat din comuna Ulmi anul școlar 2020-2021",
+"short": "HCL Ulmi nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/35141",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-31-2021",
+"path": "local/giurgiu/ulmi/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 31/2021 privind aprobarea documentatiei de atribuire pentru inchiriere prin licitatie publica imobil teren in suprafata de 102 mp si locuinta tip cladire in suprafata de 31,92 mp",
+"short": "HCL Ulmi nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/35144",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-32-2021",
+"path": "local/giurgiu/ulmi/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 32/2021 privind insusirea Deciziei nr.14 din 30.08.2021 emisa de Camera de Conturi a Romaniei –Directia de control al achizitiilor publice",
+"short": "HCL Ulmi nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-20",
+"latest": "2021-10-20",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/38898",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -91,6 +91,29 @@
 }
 },
 {
+"slug": "hcl-gorj--scoarta-5-2024",
+"path": "local/gorj/scoarta/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 5/2024",
+"short": "HCL Scoarța nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-26",
+"latest": "2024-01-26",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/150426",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-gorj--scoarta-6-2024",
 "path": "local/gorj/scoarta/2024/6",
 "kind": "local",
@@ -245,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-gorj--scoarta-13-2024",
+"path": "local/gorj/scoarta/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 13/2024 privind aprobarea cumpărării unui teren situat pe raza comunei Scoarța, județul Gorj, în vederea amplasării stației de epurare necesară pentru realizarea sistemului de canalizare din Comuna Scoarța",
+"short": "HCL Scoarța nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251076",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--scoarta-14-2024",
 "path": "local/gorj/scoarta/2024/14",
 "kind": "local",
@@ -377,6 +422,51 @@
 }
 },
 {
+"slug": "hcl-gorj--scoarta-21-2024",
+"path": "local/gorj/scoarta/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 21/2024 privind modificarea Organigramei și a Ștatului de funcții ale aparatului de specialitate al primarului comunei Scoarța, județul Gorj, pentru anul 2024",
+"short": "HCL Scoarța nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-19",
+"latest": "2024-03-19",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251089",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--scoarta-23-2024",
+"path": "local/gorj/scoarta/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 23/2024",
+"short": "HCL Scoarța nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-22",
+"latest": "2024-04-22",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251091",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-gorj--scoarta-24-2024",
 "path": "local/gorj/scoarta/2024/24",
 "kind": "local",
@@ -418,6 +508,29 @@
 "council_name": "Consiliul Local al Comunei Scoarța",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--scoarta-26-2024",
+"path": "local/gorj/scoarta/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 26/2024",
+"short": "HCL Scoarța nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-22",
+"latest": "2024-04-22",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251459",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -532,6 +645,52 @@
 }
 },
 {
+"slug": "hcl-gorj--scoarta-32-2024",
+"path": "local/gorj/scoarta/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 32/2024",
+"short": "HCL Scoarța nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-24",
+"latest": "2024-05-24",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251703",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--scoarta-33-2024",
+"path": "local/gorj/scoarta/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 33/2024",
+"short": "HCL Scoarța nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-24",
+"latest": "2024-05-24",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251704",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-gorj--scoarta-34-2024",
 "path": "local/gorj/scoarta/2024/34",
 "kind": "local",
@@ -573,6 +732,28 @@
 "council_name": "Consiliul Local al Comunei Scoarța",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--scoarta-37-2024",
+"path": "local/gorj/scoarta/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 37/2024 privind modificarea Organigramei și a Statului de funcții ale aparatului de specialitate al primarului comunei Scoarța, județul Gorj, pentru anul 2024",
+"short": "HCL Scoarța nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-24",
+"latest": "2024-05-24",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251714",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -620,6 +801,28 @@
 }
 },
 {
+"slug": "hcl-gorj--scoarta-40-2024",
+"path": "local/gorj/scoarta/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 40/2024 privind aprobarea acordării „Diplomei de fidelitate„ familiilor care împlinesc sau au împlinit 50 de ani de căsătorie neîntreruptă în anul 2024 și au domiciliul comun în comuna Scoarța, județul Gorj și a „Diplomei de Tânăr Cetățean al Comunei Scoarța„ tinerilor care au împlinit sau împlinesc 18 ani în anul 2024 și au domiciliul în comuna Scoarța, județul Gorj",
+"short": "HCL Scoarța nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251717",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--scoarta-41-2024",
 "path": "local/gorj/scoarta/2024/41",
 "kind": "local",
@@ -639,6 +842,50 @@
 "council_name": "Consiliul Local al Comunei Scoarța",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--scoarta-42-2024",
+"path": "local/gorj/scoarta/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 42/2024 privind acordarea titlului de ”Cetățean de onoare” al comunei Scoarța, domnișoarei Popescu Alexandra-Ștefania",
+"short": "HCL Scoarța nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251723",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--scoarta-43-2024",
+"path": "local/gorj/scoarta/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 43/2024 privind alegerea președintelui de ședință",
+"short": "HCL Scoarța nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251724",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -686,6 +933,28 @@
 }
 },
 {
+"slug": "hcl-gorj--scoarta-46-2024",
+"path": "local/gorj/scoarta/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 46/2024 privind modificarea Organigramei și a Statului de funcții ale aparatului de specialitate al primarului comunei Scoarța, județul Gorj, pentru anul 2024",
+"short": "HCL Scoarța nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-24",
+"latest": "2024-07-24",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251728",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--scoarta-47-2024",
 "path": "local/gorj/scoarta/2024/47",
 "kind": "local",
@@ -708,6 +977,51 @@
 }
 },
 {
+"slug": "hcl-gorj--scoarta-48-2024",
+"path": "local/gorj/scoarta/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 48/2024 privind aprobarea Regulamentului local privind implicarea publicului în elaborarea sau revizuirea planurilor de urbanism sau de amenajare a teritoriului comunei Scoarța",
+"short": "HCL Scoarța nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-27",
+"latest": "2024-08-27",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251732",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--scoarta-49-2024",
+"path": "local/gorj/scoarta/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 49/2024",
+"short": "HCL Scoarța nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-27",
+"latest": "2024-08-27",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251733",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-gorj--scoarta-50-2024",
 "path": "local/gorj/scoarta/2024/50",
 "kind": "local",
@@ -727,6 +1041,28 @@
 "council_name": "Consiliul Local al Comunei Scoarța",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--scoarta-52-2024",
+"path": "local/gorj/scoarta/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 52/2024 privind aprobarea diferențierii tipului de suport alimentar pe niveluri de învățământ, a modalității de distribuire a suportului alimentar acordat preșcolarilor și elevilor din unitățile de învățământ preuniversitar de stat de pe raza Comunei Scoarța, județul Gorj în anul 2024 și a altor aspecte necesare în vederea instituirii Programului național ”Masă sănătoasă”",
+"short": "HCL Scoarța nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-27",
+"latest": "2024-08-27",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251737",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -774,6 +1110,28 @@
 }
 },
 {
+"slug": "hcl-gorj--scoarta-56-2024",
+"path": "local/gorj/scoarta/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 56/2024 privind alegerea președintelui de ședință",
+"short": "HCL Scoarța nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251746",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--scoarta-57-2024",
 "path": "local/gorj/scoarta/2024/57",
 "kind": "local",
@@ -815,6 +1173,28 @@
 "council_name": "Consiliul Local al Comunei Scoarța",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--scoarta-59-2024",
+"path": "local/gorj/scoarta/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 59/2024 privind alegerea președintelui de ședință",
+"short": "HCL Scoarța nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/scoarta-gj/registru-hcl/251749",
+"council": "gorj/scoarta",
+"council_name": "Consiliul Local al Comunei Scoarța",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

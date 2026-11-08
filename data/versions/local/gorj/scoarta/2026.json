@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-gorj--scoarta-11-2026",
+   "path": "local/gorj/scoarta/2026/11",
+   "short": "HCL Scoarța nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 11/2026 privind aprobarea raportului de evaluare și a studiului de oportunitate întocmite în vederea concesionării unor spații din „Dispensarul Uman” aflat în domeniul privat al UAT Comuna Scoarța, județul Gorj",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/284481",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/284481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--scoarta-12-2026",
+   "path": "local/gorj/scoarta/2026/12",
+   "short": "HCL Scoarța nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 12/2026 privind aprobarea raportului de evaluare și a studiului de oportunitate întocmite în vederea concesionării unui teren aparținând domeniului privat al UAT Comuna Scoarța, județul Gorj",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/284482",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/284482",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--scoarta-13-2026",
    "path": "local/gorj/scoarta/2026/13",
    "short": "HCL Scoarța nr. 13/2026",
@@ -88,6 +118,21 @@
      "from": "2026-08-26",
      "units": 1,
      "source_url": "https://emol.ro/scoarta-gj/registru-hcl/284486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--scoarta-17-2026",
+   "path": "local/gorj/scoarta/2026/17",
+   "short": "HCL Scoarța nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 17/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/284487",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/284487",
      "sha256": null
     }
    ]
@@ -153,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--scoarta-21-2026",
+   "path": "local/gorj/scoarta/2026/21",
+   "short": "HCL Scoarța nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 21/2026",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/284491",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/284491",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--scoarta-22-2026",
    "path": "local/gorj/scoarta/2026/22",
    "short": "HCL Scoarța nr. 22/2026",
@@ -193,6 +253,21 @@
      "from": "2026-08-26",
      "units": 1,
      "source_url": "https://emol.ro/scoarta-gj/registru-hcl/284498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--scoarta-25-2026",
+   "path": "local/gorj/scoarta/2026/25",
+   "short": "HCL Scoarța nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 25/2026 privind aprobarea Regulamentului de organizare și funcționare și a taxelor pentru utilizarea Căminelor Culturale, proprietatea Comunei Scoarța, județul Gorj",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/284499",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/284499",
      "sha256": null
     }
    ]
@@ -558,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--scoarta-5-2026",
+   "path": "local/gorj/scoarta/2026/5",
+   "short": "HCL Scoarța nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 5/2026 privind constituirea Comisiei de evaluare a performanțelor profesionale individuale ale Secretarului General al comunei Scoarța, județul Gorj pentru anul 2025",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/284475",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/284475",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--scoarta-6-2026",
    "path": "local/gorj/scoarta/2026/6",
    "short": "HCL Scoarța nr. 6/2026",
@@ -598,6 +688,21 @@
      "from": "2026-08-26",
      "units": 1,
      "source_url": "https://emol.ro/scoarta-gj/registru-hcl/284478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--scoarta-9-2026",
+   "path": "local/gorj/scoarta/2026/9",
+   "short": "HCL Scoarța nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 9/2026 privind acordarea unui mandat special reprezentantului U.A.T.-Comuna Scoarța, județul Gorj în Adunarea Generală a Asociației de Dezvoltare Intercomunitara ADIA Gorj",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/284479",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/284479",
      "sha256": null
     }
    ]

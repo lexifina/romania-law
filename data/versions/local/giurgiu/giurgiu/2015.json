@@ -3,6 +3,21 @@
  "shard": "local/giurgiu/giurgiu/2015",
  "acts": [
   {
+   "slug": "hcl-giurgiu--giurgiu-130-2015",
+   "path": "local/giurgiu/giurgiu/2015/130",
+   "short": "HCL Giurgiu nr. 130/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 130/2015",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/130-52-1.pdf",
+     "sha256": "b4e5ff4cbb9f76da987c6df81c422caae009cb82c52a274433a91b5f8045b507"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-145-2015",
    "path": "local/giurgiu/giurgiu/2015/145",
    "short": "HCL Giurgiu nr. 145/2015",
@@ -63,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-170-2015",
+   "path": "local/giurgiu/giurgiu/2015/170",
+   "short": "HCL Giurgiu nr. 170/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 170/2015 privind acordarea mandatului special, acordat expres în scopul reprezentării la ședința Adunării Generale a Acționarilor a Asociației de Dezvoltare Intercomunitară „MANAGEMENT EFICIENT PENTRU UN JUDEȚ CURAT”,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-04-22",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/170-management-1.pdf",
+     "sha256": "24180841398058962baee2323389c2595a69aa2566bf25af5ce000c2b83f6c79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-172-2015",
+   "path": "local/giurgiu/giurgiu/2015/172",
+   "short": "HCL Giurgiu nr. 172/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 172/2015 privind aprobarea modificării Hotărârii Consiliului Local nr.167 din data de 22 aprilie 2015 întrunit în ședință extraordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/172-modificare-167-1.pdf",
+     "sha256": "57f8774f50f7ec22a5bc88d505e5574321257a3a9516dc25b689038e74746350"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-174-2015",
    "path": "local/giurgiu/giurgiu/2015/174",
    "short": "HCL Giurgiu nr. 174/2015",
@@ -74,6 +119,21 @@
      "units": 4,
      "source_url": "https://primariagiurgiu.ro/storage/formidable/193/174-impozite-si-taxe-noi-2015-carnet-agricol-1.pdf",
      "sha256": "e1e06c885c9a2a300c3a1f30f462064d6c15d14fc6ea5585da5c887d1b64d6b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-182-2015",
+   "path": "local/giurgiu/giurgiu/2015/182",
+   "short": "HCL Giurgiu nr. 182/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 182/2015 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.42 din data de 27 februarie 2014 privind aprobarea procedurii de acordare a eșalonărilor la plată pentru obligațiile fiscale restante datorate bugetului local de către persoanele fizice și juridice întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/182-modificare-42-1.pdf",
+     "sha256": "a84c18b6bbd237836561519e4a11efb57ce27a3af7927ed872e96223395378a0"
     }
    ]
   },
@@ -93,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-22-2015",
+   "path": "local/giurgiu/giurgiu/2015/22",
+   "short": "HCL Giurgiu nr. 22/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 22/2015 privind modificarea Anexei la Hotărârea Consiliului Local nr.204 din data de 30 august 2012 privind numirea reprezentanților Consiliului Local al Municipiului Giurgiu, în Consiliile de Administrație și în Comisiile de Evaluare și asigurarea calității educației, ale unităților de învățământ preuniversitar de stat din Municipiul Giurgiu” întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/22-numire-reprezentanti-in-C-A-1.pdf",
+     "sha256": "bde0fcb7a6943c9bcff05445cf561366d0ae1a9e3fef66e245ad51e1ceae58b1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-269-2015",
    "path": "local/giurgiu/giurgiu/2015/269",
    "short": "HCL Giurgiu nr. 269/2015",
@@ -108,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-28-2015",
+   "path": "local/giurgiu/giurgiu/2015/28",
+   "short": "HCL Giurgiu nr. 28/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 28/2015",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/28-anexa-3-modificata-1.pdf",
+     "sha256": "f7849c9eb135d967de9928c3b988232de23e115fb544db97c1fc2ed42c726f07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-306-2015",
+   "path": "local/giurgiu/giurgiu/2015/306",
+   "short": "HCL Giurgiu nr. 306/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 306/2015 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.275 din data de 06 august 2015 privind acordarea unor ajutoare de urgență la 45 de familii întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-08-21",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/306-modificare-date-45-familii-1.pdf",
+     "sha256": "cba3cf72fd8fadc4c180a5e12b86eefc815007e696b23d4ab7c0af94673081a7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-31-2015",
    "path": "local/giurgiu/giurgiu/2015/31",
    "short": "HCL Giurgiu nr. 31/2015",
@@ -119,6 +224,66 @@
      "units": 1,
      "source_url": "https://primariagiurgiu.ro/storage/formidable/193/76-hcl-31-completare-1.pdf",
      "sha256": "26c62c6509d6bdb43ab95fcc8b005be6659e2979f981690d721f3a2dcbf75cc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-32-2015",
+   "path": "local/giurgiu/giurgiu/2015/32",
+   "short": "HCL Giurgiu nr. 32/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 32/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/32-modificare-HCL-323-02-10-2014-1.pdf",
+     "sha256": "77ec427a6777e03cc81530d7c6c9bebc514f158c4cde8f59f0b100a838234208"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-327-2015",
+   "path": "local/giurgiu/giurgiu/2015/327",
+   "short": "HCL Giurgiu nr. 327/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 327/2015 privind modificarea Hotărârii Consiliului Local al municipiului Giurgiu nr.270 din data de 31 iulie 2007 privind darea în administrare a unui teren în suprafață de 2.200 mp., aparținând domeniului public al Municipiului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/327-2200-mp-1.pdf",
+     "sha256": "7c3b71672db55982ff9520ac8e60ecd775ea4d3b95f20d8115343f86c87d6198"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-329-2015",
+   "path": "local/giurgiu/giurgiu/2015/329",
+   "short": "HCL Giurgiu nr. 329/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 329/2015 privind aprobarea modificării Anexei 1 la Hotărârea Consiliului Local al municipiului Giurgiu nr.427 din data de 20 noiembrie 2014 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/329-427-1.pdf",
+     "sha256": "a7f22dcdb977ab8dae5037af21559f7b73e9f487feecb904658324dea3822f0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-335-2015",
+   "path": "local/giurgiu/giurgiu/2015/335",
+   "short": "HCL Giurgiu nr. 335/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 335/2015 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiui nr.269 din data de 29 iulie 2015",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/335-269-1.pdf",
+     "sha256": "ae741501f481ad1b28da6dd7608e008c92e3665958a7f2ceceb24f0954c17806"
     }
    ]
   },
@@ -153,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-38-2015",
+   "path": "local/giurgiu/giurgiu/2015/38",
+   "short": "HCL Giurgiu nr. 38/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 38/2015",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/38-modificare-HCL-249-2014-1.pdf",
+     "sha256": "c487f468a820086b3fcafe0ea41c99cecb2158be399341315a95dfbc26bbd738"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-384-2015",
    "path": "local/giurgiu/giurgiu/2015/384",
    "short": "HCL Giurgiu nr. 384/2015",
@@ -183,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-39-2015",
+   "path": "local/giurgiu/giurgiu/2015/39",
+   "short": "HCL Giurgiu nr. 39/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 39/2015 privind aprobarea modificării Hotărârii Consiliului Local al Municipiului Giurgiu nr.144 din 24 aprilie 2008 privind participarea Municipiului Giurgiu la înființarea Asociației de Dezvoltare Intercomunitară „MANAGEMENT EFICIENT PENTRU UN JUDEȚ CURAT”, cu modificările și completările ulterioare întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/39-management-eficient-pentru-un-judet-curat-1.pdf",
+     "sha256": "c0a2328e4d03677c8e8f3d7112c415b6ff9d6dbc5eaa3cabff10105eb24bad4d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-41-2015",
    "path": "local/giurgiu/giurgiu/2015/41",
    "short": "HCL Giurgiu nr. 41/2015",
@@ -194,6 +389,36 @@
      "units": 1,
      "source_url": "https://primariagiurgiu.ro/storage/formidable/193/98-modificare-41-1.pdf",
      "sha256": "e3915118a4a0acd6a75f5a5bd9616516a9e5a45a27dd53989bb18035a2fb9456"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-433-2015",
+   "path": "local/giurgiu/giurgiu/2015/433",
+   "short": "HCL Giurgiu nr. 433/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 433/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/433-spatii-colegiu-3.pdf",
+     "sha256": "67da1a2d0263231676b9fd557fabb6922048b60d9c7d1d0422b46fb203180d86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-436-2015",
+   "path": "local/giurgiu/giurgiu/2015/436",
+   "short": "HCL Giurgiu nr. 436/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 436/2015",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/436-rectificare-HCL-231-1.pdf",
+     "sha256": "78a145da3c5ebeee42ea2f4dc509280f612866ba72a55924aad997c701addbde"
     }
    ]
   },
@@ -221,6 +446,21 @@
    "versions": [
     {
      "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/462-modificare-454-1.pdf",
+     "sha256": "7e8a99a80caa2e48b4edbe6e20fda8ffed5f15e2c4aaab41ddbf49982d0369b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-462-2015",
+   "path": "local/giurgiu/giurgiu/2015/462",
+   "short": "HCL Giurgiu nr. 462/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 462/2015 privind aprobarea modificării Hotărârii Consiliului Local nr.454 din data de 26 noiembrie 2015 întrunit în ședință extraordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-12-08",
      "units": 1,
      "source_url": "https://primariagiurgiu.ro/storage/formidable/193/462-modificare-454-1.pdf",
      "sha256": "7e8a99a80caa2e48b4edbe6e20fda8ffed5f15e2c4aaab41ddbf49982d0369b3"
@@ -258,6 +498,36 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-482-2015",
+   "path": "local/giurgiu/giurgiu/2015/482",
+   "short": "HCL Giurgiu nr. 482/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 482/2015 privind modificarea și completarea Hotârării Consiliului Local al Municipiului Giurgiu nr.273 din data de 25 octombrie 2012 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/482-hcl-273-1.pdf",
+     "sha256": "e88e06ef256b2f5adc49c9e60dee7bd210306c0489150ae13f25e549072ea0b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-501-2015",
+   "path": "local/giurgiu/giurgiu/2015/501",
+   "short": "HCL Giurgiu nr. 501/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 501/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/501-ANTENA-3-1.pdf",
+     "sha256": "b404b6dbe5202f3b0083889c7f99d9f2d206c41805cc40e7241ee030b339bb02"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-52-2015",
    "path": "local/giurgiu/giurgiu/2015/52",
    "short": "HCL Giurgiu nr. 52/2015",
@@ -269,6 +539,111 @@
      "units": 1,
      "source_url": "https://primariagiurgiu.ro/storage/formidable/193/130-52-1.pdf",
      "sha256": "b4e5ff4cbb9f76da987c6df81c422caae009cb82c52a274433a91b5f8045b507"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-60-2015",
+   "path": "local/giurgiu/giurgiu/2015/60",
+   "short": "HCL Giurgiu nr. 60/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 60/2015 privind modificarea prețului local de facturare al energiei termice livrată populației din municipiul Giurgiu, prin sistem centralizat, în scopul încălzirii și preparării apei calde, aprobat prin Hotărârea Consiliului Local nr.360 din data de 27 octombrie 2014",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/60-modificare-pret-energie-termica-1.pdf",
+     "sha256": "d800fb1b81d2743e56aafea54a27a5481cdff08d047c452bc8ea9e6730cad86a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-66-2015",
+   "path": "local/giurgiu/giurgiu/2015/66",
+   "short": "HCL Giurgiu nr. 66/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 66/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c3992c6f65b223a32c33215ed9f7d621354dcfd0d4893ad91e5aa9ce076f9ed7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-91-2015",
+   "path": "local/giurgiu/giurgiu/2015/91",
+   "short": "HCL Giurgiu nr. 91/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 91/2015 privind rectificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.203 din data de 09 iulie 2014 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/91-rectificare-203-1.pdf",
+     "sha256": "8587616cba34d8efdd645b3efdb21006a6ed48d174d77b132769bdfa31c7959e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-92-2015",
+   "path": "local/giurgiu/giurgiu/2015/92",
+   "short": "HCL Giurgiu nr. 92/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 92/2015 privind revocarea Hotărârii Consiliului Local nr.149 din data de 24 iunie 2010 privind atribuirea în folosință gratuită a unui teren în suprafață de 150,00 mp., pentru construirea unei locuințe proprietate personală, domnișoarei Meiuș Darina întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/92-rectificare-149-1.pdf",
+     "sha256": "9b25cddab758a7f9be6c64b5f9f445ede43e0eeb64d73efe03503385966f5fc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-95-2015",
+   "path": "local/giurgiu/giurgiu/2015/95",
+   "short": "HCL Giurgiu nr. 95/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 95/2015",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/95-modificare-471-1.pdf",
+     "sha256": "746c9a449b4dd7ce2bb8c94ed0921b23a0b61ddeb559574dec761aeed4a6e30b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-97-2015",
+   "path": "local/giurgiu/giurgiu/2015/97",
+   "short": "HCL Giurgiu nr. 97/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 97/2015 privind aprobarea modificării Hotărârii Consiliului Local nr.191 din data de 09 iulie 2014 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/97-modificare-191-1.pdf",
+     "sha256": "6eee55323d728df3d366b6f6d704adce7923d89299371173f115df8bb7ac4885"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-98-2015",
+   "path": "local/giurgiu/giurgiu/2015/98",
+   "short": "HCL Giurgiu nr. 98/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 98/2015 privind aprobarea modificării Hotărârii Consiliului Local nr.41 din data de 29 ianuarie 2015 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/98-modificare-41-1.pdf",
+     "sha256": "e3915118a4a0acd6a75f5a5bd9616516a9e5a45a27dd53989bb18035a2fb9456"
     }
    ]
   }

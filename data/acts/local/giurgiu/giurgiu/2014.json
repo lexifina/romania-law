@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-34-2014",
+"path": "local/giurgiu/giurgiu/2014/34",
+"kind": "local",
+"year": "2014",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 34/2014 privind revocarea Hotărârii Consiliului Local nr.151 din 18 aprilie 2013",
+"short": "HCL Giurgiu nr. 34/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-01-30",
+"latest": "2014-01-30",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-42-2014",
 "path": "local/giurgiu/giurgiu/2014/42",
 "kind": "local",
@@ -47,6 +69,72 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-45-2014",
+"path": "local/giurgiu/giurgiu/2014/45",
+"kind": "local",
+"year": "2014",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 45/2014 privind completarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.327 din data de 03 septembrie 2013 Întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 45/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-02-27",
+"latest": "2014-02-27",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-58-2014",
+"path": "local/giurgiu/giurgiu/2014/58",
+"kind": "local",
+"year": "2014",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 58/2014 privind modificarea Hotărârii Consiliului Local nr. 426 din data de 11 noiembrie 2013 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 58/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-02-27",
+"latest": "2014-02-27",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-63-2014",
+"path": "local/giurgiu/giurgiu/2014/63",
+"kind": "local",
+"year": "2014",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 63/2014 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.373 din data de 02 octombrie 2013 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 63/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-02-27",
+"latest": "2014-02-27",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-71-2014",
 "path": "local/giurgiu/giurgiu/2014/71",
 "kind": "local",
@@ -62,6 +150,117 @@
 "from": "2014-03-27",
 "latest": "2014-03-27",
 "portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-133-2014",
+"path": "local/giurgiu/giurgiu/2014/133",
+"kind": "local",
+"year": "2014",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 133/2014 privind aprobarea revocării Hotărârii Consiliului Local al Municipiului Giurgiu nr.193 din data de 25 iunie 2009",
+"short": "HCL Giurgiu nr. 133/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-05-22",
+"latest": "2014-05-22",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-146-2014",
+"path": "local/giurgiu/giurgiu/2014/146",
+"kind": "local",
+"year": "2014",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 146/2014",
+"short": "HCL Giurgiu nr. 146/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-05",
+"latest": "2014-06-05",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-168-2014",
+"path": "local/giurgiu/giurgiu/2014/168",
+"kind": "local",
+"year": "2014",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 168/2014",
+"short": "HCL Giurgiu nr. 168/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-05",
+"latest": "2014-06-05",
+"portal": null,
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-169-2014",
+"path": "local/giurgiu/giurgiu/2014/169",
+"kind": "local",
+"year": "2014",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 169/2014",
+"short": "HCL Giurgiu nr. 169/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-05",
+"latest": "2014-06-05",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-180-2014",
+"path": "local/giurgiu/giurgiu/2014/180",
+"kind": "local",
+"year": "2014",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 180/2014 privind modificarea Hotărârii Consiliului Local nr.148 din data de 24 iunie 2010",
+"short": "HCL Giurgiu nr. 180/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-05",
+"latest": "2014-06-05",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
 "council": "giurgiu/giurgiu",
 "council_name": "Consiliul Local al Municipiului Giurgiu",
 "flags": {
@@ -201,6 +400,50 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-218-2014",
+"path": "local/giurgiu/giurgiu/2014/218",
+"kind": "local",
+"year": "2014",
+"number": "218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 218/2014",
+"short": "HCL Giurgiu nr. 218/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-07-21",
+"latest": "2014-07-21",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-219-2014",
+"path": "local/giurgiu/giurgiu/2014/219",
+"kind": "local",
+"year": "2014",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 219/2014",
+"short": "HCL Giurgiu nr. 219/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-07-21",
+"latest": "2014-07-21",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-249-2014",
 "path": "local/giurgiu/giurgiu/2014/249",
 "kind": "local",
@@ -289,6 +532,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-314-2014",
+"path": "local/giurgiu/giurgiu/2014/314",
+"kind": "local",
+"year": "2014",
+"number": "314",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 314/2014",
+"short": "HCL Giurgiu nr. 314/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-02",
+"latest": "2014-10-02",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-323-2014",
 "path": "local/giurgiu/giurgiu/2014/323",
 "kind": "local",
@@ -304,6 +569,50 @@
 "from": "2014-10-02",
 "latest": "2014-10-02",
 "portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-325-2014",
+"path": "local/giurgiu/giurgiu/2014/325",
+"kind": "local",
+"year": "2014",
+"number": "325",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 325/2014",
+"short": "HCL Giurgiu nr. 325/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-02",
+"latest": "2014-10-02",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-331-2014",
+"path": "local/giurgiu/giurgiu/2014/331",
+"kind": "local",
+"year": "2014",
+"number": "331",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 331/2014",
+"short": "HCL Giurgiu nr. 331/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-02",
+"latest": "2014-10-02",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
 "council": "giurgiu/giurgiu",
 "council_name": "Consiliul Local al Municipiului Giurgiu",
 "flags": {
@@ -333,6 +642,116 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-370-2014",
+"path": "local/giurgiu/giurgiu/2014/370",
+"kind": "local",
+"year": "2014",
+"number": "370",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 370/2014",
+"short": "HCL Giurgiu nr. 370/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-30",
+"latest": "2014-10-30",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-388-2014",
+"path": "local/giurgiu/giurgiu/2014/388",
+"kind": "local",
+"year": "2014",
+"number": "388",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 388/2014 privind modificarea Hotărârii Consiliului Local nr.301 din data de 29 august 2013 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 388/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-30",
+"latest": "2014-10-30",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-394-2014",
+"path": "local/giurgiu/giurgiu/2014/394",
+"kind": "local",
+"year": "2014",
+"number": "394",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 394/2014 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.114 din data de 01 aprilie 2013 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 394/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-30",
+"latest": "2014-10-30",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-404-2014",
+"path": "local/giurgiu/giurgiu/2014/404",
+"kind": "local",
+"year": "2014",
+"number": "404",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 404/2014 privind aprobarea modificării Comisiei de evaluare a ofertelor pentru concesionarea prin licitație publică a Serviciului de transport public local de persoane în Municipiului Giurgiu, aprobată prin Hotărârea Consiliului Local nr.335 din data de 02 octombrie 2014",
+"short": "HCL Giurgiu nr. 404/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-11-20",
+"latest": "2014-11-20",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-417-2014",
+"path": "local/giurgiu/giurgiu/2014/417",
+"kind": "local",
+"year": "2014",
+"number": "417",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 417/2014",
+"short": "HCL Giurgiu nr. 417/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-11-20",
+"latest": "2014-11-20",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-427-2014",
 "path": "local/giurgiu/giurgiu/2014/427",
 "kind": "local",
@@ -348,6 +767,50 @@
 "from": "2014-11-20",
 "latest": "2014-11-20",
 "portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-440-2014",
+"path": "local/giurgiu/giurgiu/2014/440",
+"kind": "local",
+"year": "2014",
+"number": "440",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 440/2014",
+"short": "HCL Giurgiu nr. 440/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-11-20",
+"latest": "2014-11-20",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-462-2014",
+"path": "local/giurgiu/giurgiu/2014/462",
+"kind": "local",
+"year": "2014",
+"number": "462",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 462/2014 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.307 din data de 29 august 2013 privind aprobarea studiului de oportunitate și caietului de sarcini în vederea concesionării prin licitație publică a terenului în suprafață de 4,00 ha., situat în Municipiul Giurgiu, adiacent strada Voestalpine, Platforma I Chimie întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 462/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-12-18",
+"latest": "2014-12-18",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
 "council": "giurgiu/giurgiu",
 "council_name": "Consiliul Local al Municipiului Giurgiu",
 "flags": {

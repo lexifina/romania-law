@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/mihailesti/2022",
+"acts": [
+{
+"slug": "hcl-giurgiu--mihailesti-1-2022",
+"path": "local/giurgiu/mihailesti/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 1/2022",
+"short": "HCL Mihăilești nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-05",
+"latest": "2022-01-05",
+"portal": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+"council": "giurgiu/mihailesti",
+"council_name": "Consiliul Local al Orașului Mihăilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--mihailesti-24-2022",
+"path": "local/giurgiu/mihailesti/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 24/2022",
+"short": "HCL Mihăilești nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-20",
+"latest": "2022-04-20",
+"portal": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+"council": "giurgiu/mihailesti",
+"council_name": "Consiliul Local al Orașului Mihăilești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

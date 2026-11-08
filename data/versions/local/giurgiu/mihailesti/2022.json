@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/mihailesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--mihailesti-1-2022",
+   "path": "local/giurgiu/mihailesti/2022/1",
+   "short": "HCL Mihăilești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 1/2022",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/HCL-nr-1_05.01.2022-Aprobare-achizitie-servicii-juridice.pdf",
+     "sha256": "e9ff3bd8ab88b2ad01ff874f586e3ccd73d4dece078b9fb3d0a96187ef148348"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-24-2022",
+   "path": "local/giurgiu/mihailesti/2022/24",
+   "short": "HCL Mihăilești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 24/2022",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/HCL-47-din-30.08.2022-Aprobare-indreptare-eroare-materiara-HCL-nr-24-din-20.04.2022.pdf",
+     "sha256": "8d3b25eaee3d648d37d2f2d2eab4954eaec3d76a69f5b3adf0595eb707f0f323"
+    }
+   ]
+  }
+ ]
+}

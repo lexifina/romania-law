@@ -3,6 +3,21 @@
  "shard": "local/giurgiu/giurgiu/2024",
  "acts": [
   {
+   "slug": "hcl-giurgiu--giurgiu-204-2024",
+   "path": "local/giurgiu/giurgiu/2024/204",
+   "short": "HCL Giurgiu nr. 204/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 204/2024 privind abrogarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.97/25.04.2024 privind aprobarea prelungirii Contractului de delegare nr.36550/06.08.2019 cu doi ani și șase luni",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2024-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/277/HCL-204-din-25.07.2024-1.pdf",
+     "sha256": "b8fff85d9e5a667ea8cb9f55ff65362b972ad3d66b8cad4769b147f2c03413e6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-317-2024",
    "path": "local/giurgiu/giurgiu/2024/317",
    "short": "HCL Giurgiu nr. 317/2024",
@@ -18,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-324-2024",
+   "path": "local/giurgiu/giurgiu/2024/324",
+   "short": "HCL Giurgiu nr. 324/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 324/2024 privind încetarea aplicabilității Hotărârilor Consiliului Local nr.145/2024, nr.316/2024, nr.317/2024, respectiv nr.323/2024 întrunit în ședință extraordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2024-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/277/Hcl-324-fs.pdf",
+     "sha256": "555528668ee0baaeddf291fde863ca1ba9af0ffa35f0d2458e1a5078b58c5989"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-328-2024",
    "path": "local/giurgiu/giurgiu/2024/328",
    "short": "HCL Giurgiu nr. 328/2024",
@@ -29,6 +59,96 @@
      "units": 1,
      "source_url": "https://primariagiurgiu.ro/storage/2024/12/HCL-nr.-328-28.11.2024.pdf",
      "sha256": "dbddb3602a3640e1acf58fe9842082b77e30f1b7953a455481d85c321c787233"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-339-2024",
+   "path": "local/giurgiu/giurgiu/2024/339",
+   "short": "HCL Giurgiu nr. 339/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 339/2024",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2024-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/277/Hcl-339-fs.pdf",
+     "sha256": "e080f6c8946ee7cb9c272dc8a48d88b55c925944e7b6e9b4883ce668e01886a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-351-2024",
+   "path": "local/giurgiu/giurgiu/2024/351",
+   "short": "HCL Giurgiu nr. 351/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 351/2024",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2024-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/277/Hcl-351-fs.pdf",
+     "sha256": "0fd1015d8dc8414bb357f41e11c0908e5b11abc78595a460e973a9b5d88a1008"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-353-2024",
+   "path": "local/giurgiu/giurgiu/2024/353",
+   "short": "HCL Giurgiu nr. 353/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 353/2024 privind modificarea art.2, alin.(1) din Hotărârea Consiliului Local Giurgiu nr.230 din 28 iulie 2016, modificată prin Hotărârea Consiliului Local nr.426 din 22.12.2020 cu privire la structura Comisiei sociale pentru analizarea dosarelor de locuință pentru tineri și familii de tineri în vârstă de până la 35 ani, precum și a locuințelor sociale și celor din fondul locativ de stat, destinate închirierii întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2024-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/277/Hcl-353-fs.pdf",
+     "sha256": "a3261f23461c265fc43dcd14d0d472f9d314571cd6618019e947e4aabd6ff297"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-354-2024",
+   "path": "local/giurgiu/giurgiu/2024/354",
+   "short": "HCL Giurgiu nr. 354/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 354/2024 privind modificarea componenței Grupului de Lucru Local constituit prin Hotărârea Consiliului Local al Municipiului Giurgiu nr.239/28.07.2022 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2024-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/277/Hcl-354-fs.pdf",
+     "sha256": "824cacbd80614cd1617f96e02892861e02bb8447943926b5e68396be16cdee98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-370-2024",
+   "path": "local/giurgiu/giurgiu/2024/370",
+   "short": "HCL Giurgiu nr. 370/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 370/2024 privind modificarea Actului Adițional nr.2/05.12.2024 la Acordul de asociere înregistrat la Primăria Municipiului Giurgiu cu nr.71.473/30.07.2024 și la",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2024-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/277/Hcl-370-fs.pdf",
+     "sha256": "619968bce373cb2340e6179cc539b46a9eb53c97a80eba5d996623dfba7423bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-8-2024",
+   "path": "local/giurgiu/giurgiu/2024/8",
+   "short": "HCL Giurgiu nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 8/2024 pentru modificarea Hotărârii nr.235/31.08.2023 privind constatarea dreptului de proprietate privată asupra unor terenuri situate în intravilanul Municipiului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2024-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/277/HCL-8.pdf",
+     "sha256": "bf3a1706506ab4f4521370cbe56fb9f058c884f7926a1843dc73fd64e63aea7c"
     }
    ]
   }

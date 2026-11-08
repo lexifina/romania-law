@@ -3,6 +3,73 @@
 "shard": "local/giurgiu/ulmi/2022",
 "acts": [
 {
+"slug": "hcl-giurgiu--ulmi-1-2022",
+"path": "local/giurgiu/ulmi/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 1/2022",
+"short": "HCL Ulmi nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-07",
+"latest": "2022-01-07",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/46735",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-2-2022",
+"path": "local/giurgiu/ulmi/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 2/2022 privind aprobarea acoperirii definitive a deficitului Secţiunii de Dezvoltare a Bugetului local de Venituri şi Cheltuieli al comunei Ulmi in suma de 1048162,71 din excedentul anului 2020",
+"short": "HCL Ulmi nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-07",
+"latest": "2022-01-07",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/46736",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-3-2022",
+"path": "local/giurgiu/ulmi/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 3/2022 privind modificarea Hotărâri Consiliului Local al comunei Ulmi nr. 36/2021",
+"short": "HCL Ulmi nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-07",
+"latest": "2022-01-07",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/46737",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-4-2022",
 "path": "local/giurgiu/ulmi/2022/4",
 "kind": "local",
@@ -44,6 +111,72 @@
 "council_name": "Consiliul Local al Comunei Ulmi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-6-2022",
+"path": "local/giurgiu/ulmi/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 6/2022 privind aprobarea planului de actiune sau lucrari de interes local pentru repartizarea orelor de munca pentru persoanele majore apte de muncã din familia beneficiarã de ajutor social",
+"short": "HCL Ulmi nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/51160",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-7-2022",
+"path": "local/giurgiu/ulmi/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 7/2022 privind aprobarea numarul de posturi pentru asistentii personali si persoanelor cu handicap si numarul de indemnizatii de insotitor pe anul 2022 in comuna Ulmi",
+"short": "HCL Ulmi nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/51161",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-8-2022",
+"path": "local/giurgiu/ulmi/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 8/2022 privind modificarea HCL nr.35/20.10.2021 pentru aprobarea cererii de finanțare și a devizului general estimativ, pentru obiectivul de investiții „Retea de canalizare si statie de epurare in comuna Ulmi judetul Giurgiu ”, prin Programul Național de Investiții „Anghel Saligny”",
+"short": "HCL Ulmi nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/51162",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--ulmi-13-2022",
+"path": "local/giurgiu/ulmi/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 13/2022 privind aprobarea cuantumului lunar al burselor școlare și al numărului de beneficiari, pentru elevii din învățământul preuniversitar de stat din comuna Ulmi pentru semestrul II anul școlar 2021-2022 si sumele estimate pe anul bugetar 2022",
+"short": "HCL Ulmi nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-02",
+"latest": "2022-06-02",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/55483",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-14-2022",
 "path": "local/giurgiu/ulmi/2022/14",
 "kind": "local",
@@ -180,6 +335,50 @@
 }
 },
 {
+"slug": "hcl-giurgiu--ulmi-16-2022",
+"path": "local/giurgiu/ulmi/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 16/2022 privind vânzarea fara licitatie publica (directa) a unui teren in surafata de 325mp situat in comuna Ulmi, sat Poenari , str. Intrarea Sabarului, proprietate privată a Unităţii Administrativ Teritoriale Comuna Ulmi judetul Giurgiu inscris in cartea funciara nr.34581",
+"short": "HCL Ulmi nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-02",
+"latest": "2022-06-02",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/55486",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-17-2022",
+"path": "local/giurgiu/ulmi/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 17/2022 privind vânzarea fara licitatie publica (directa) a unui teren in surafata de 189 mp situat in comuna Ulmi, sat Poenari , str. Intrarea Sabarului, proprietate privată a Unităţii Administrativ Teritoriale Comuna Ulmi judetul Giurgiu inscris in cartea funciara nr.34582",
+"short": "HCL Ulmi nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-02",
+"latest": "2022-06-02",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/55487",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-18-2022",
 "path": "local/giurgiu/ulmi/2022/18",
 "kind": "local",
@@ -221,6 +420,52 @@
 "council_name": "Consiliul Local al Comunei Ulmi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-20-2022",
+"path": "local/giurgiu/ulmi/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 20/2022",
+"short": "HCL Ulmi nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-02",
+"latest": "2022-06-02",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/59610",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-21-2022",
+"path": "local/giurgiu/ulmi/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 21/2022",
+"short": "HCL Ulmi nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-02",
+"latest": "2022-06-02",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/59611",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -357,6 +602,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--ulmi-28-2022",
+"path": "local/giurgiu/ulmi/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 28/2022 privind alegerea presedintelui de sedinta",
+"short": "HCL Ulmi nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/65510",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-29-2022",
 "path": "local/giurgiu/ulmi/2022/29",
 "kind": "local",
@@ -376,6 +643,72 @@
 "council_name": "Consiliul Local al Comunei Ulmi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-30-2022",
+"path": "local/giurgiu/ulmi/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 30/2022 privind modificarea titulaturii HCL 20/28.04.2022",
+"short": "HCL Ulmi nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/65512",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-31-2022",
+"path": "local/giurgiu/ulmi/2022/31",
+"kind": "local",
+"year": "2022",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 31/2022 privind actualizarea Studiu de Fezabilitate pentru obiectivul „ Infintare sistem de distributie al gazelor naturale in satele Ulmi, Ghionea, Mosteni, Poenari, Icoana , Trestieni, Cascioarele, si Draganeasca ”",
+"short": "HCL Ulmi nr. 31/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/67900",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-32-2022",
+"path": "local/giurgiu/ulmi/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 32/2022 privind rectificarea bugetului local al comunei Ulmi si modificarea listei de investitii",
+"short": "HCL Ulmi nr. 32/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/67901",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -399,6 +732,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-34-2022",
+"path": "local/giurgiu/ulmi/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 34/2022 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, în trimestrul II/2022",
+"short": "HCL Ulmi nr. 34/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/67903",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -446,6 +801,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--ulmi-37-2022",
+"path": "local/giurgiu/ulmi/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 37/2022 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+"short": "HCL Ulmi nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-10",
+"latest": "2022-08-10",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/83060",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-38-2022",
 "path": "local/giurgiu/ulmi/2022/38",
 "kind": "local",
@@ -465,6 +842,73 @@
 "council_name": "Consiliul Local al Comunei Ulmi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-39-2022",
+"path": "local/giurgiu/ulmi/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 39/2022",
+"short": "HCL Ulmi nr. 39/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-10",
+"latest": "2022-08-10",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/83062",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-40-2022",
+"path": "local/giurgiu/ulmi/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 40/2022 privind alegerea presedintelui de sedinta",
+"short": "HCL Ulmi nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-10",
+"latest": "2022-08-10",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/83063",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-41-2022",
+"path": "local/giurgiu/ulmi/2022/41",
+"kind": "local",
+"year": "2022",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 41/2022 privind completarea HCL nr.25/2022",
+"short": "HCL Ulmi nr. 41/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-10",
+"latest": "2022-08-10",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/83064",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

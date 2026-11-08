@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/mihailesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--mihailesti-56-2020",
+   "path": "local/giurgiu/mihailesti/2020/56",
+   "short": "HCL Mihăilești nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 56/2020",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/Modificare-denumiri-strazi-Nr-56_11.12.2020.pdf",
+     "sha256": "d591d57642aaed7d9d0705a48dfb720a8bd6516c162f7b7eb1fddcc27091a18b"
+    }
+   ]
+  }
+ ]
+}

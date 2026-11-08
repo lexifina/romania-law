@@ -243,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--scoarta-24-2025",
+   "path": "local/gorj/scoarta/2025/24",
+   "short": "HCL Scoarța nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 24/2025",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/259177",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/259177",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--scoarta-25-2025",
    "path": "local/gorj/scoarta/2025/25",
    "short": "HCL Scoarța nr. 25/2025",
@@ -798,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--scoarta-59-2025",
+   "path": "local/gorj/scoarta/2025/59",
+   "short": "HCL Scoarța nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 59/2025 privind aprobarea Studiului de Fundamentare a deciziei de concesionare a serviciului de utilitate publica de distributie a gazelor naturale in Comuna Scoarța, județul Gorj, punerea la dispoziția concesionarului a terenurilor necesare pentru realizarea obiectivelor aferente sistemelor de distribuție a gazelor naturale pe toată durata concesiunii, precum şi a terenurilor necesare organizării de şantier pe toată durata realizării investiției în cadrul obiectivului de investiții: „Înfiinţare sistem inteligent de distribuţie de gaze naturale în Comuna Scoarța, Judeţul Gorj”",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/259346",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/259346",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--scoarta-6-2025",
    "path": "local/gorj/scoarta/2025/6",
    "short": "HCL Scoarța nr. 6/2025",
@@ -808,6 +838,21 @@
      "from": "2025-01-29",
      "units": 1,
      "source_url": "https://emol.ro/scoarta-gj/registru-hcl/259130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--scoarta-60-2025",
+   "path": "local/gorj/scoarta/2025/60",
+   "short": "HCL Scoarța nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 60/2025 privind constituirea Comisiei de evaluare a ofertelor depuse in cadrul procedurii de atribuire contractului de concesiune a Serviciului de utilitate publica de distribuție gaze naturale la nivelul comunei Scoarța, județul Gorj, pentru obiectivul de investitii „ÎNFIINŢARE SISTEM INTELIGENT DE DISTRIBUŢIE DE GAZE NATURALE ÎN COMUNA SCOARȚA, JUDEŢUL GORJ”",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/259347",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/259347",
      "sha256": null
     }
    ]
@@ -838,6 +883,21 @@
      "from": "2025-10-16",
      "units": 1,
      "source_url": "https://emol.ro/scoarta-gj/registru-hcl/259349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--scoarta-63-2025",
+   "path": "local/gorj/scoarta/2025/63",
+   "short": "HCL Scoarța nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 63/2025 privind desemnarea reprezentanţilor Consiliului Local al Comunei Scoarţa, județul Gorj în Consiliul de Administrație al Școlii Gimnaziale Scoarța în anul școlar 2025-2026",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/259350",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/259350",
      "sha256": null
     }
    ]

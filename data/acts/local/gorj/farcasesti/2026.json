@@ -223,6 +223,29 @@
 }
 },
 {
+"slug": "hcl-gorj--farcasesti-11-2026",
+"path": "local/gorj/farcasesti/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 11/2026",
+"short": "HCL Fărcășești nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/farcasesti-gj/registru-hcl/255483",
+"council": "gorj/farcasesti",
+"council_name": "Consiliul Local al Comunei Fărcășești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-gorj--farcasesti-12-2026",
 "path": "local/gorj/farcasesti/2026/12",
 "kind": "local",
@@ -242,6 +265,28 @@
 "council_name": "Consiliul Local al Comunei Fărcășești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--farcasesti-13-2026",
+"path": "local/gorj/farcasesti/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 13/2026 privind alegerea Președintelui de ședință al Consiliului Local Fărcășești",
+"short": "HCL Fărcășești nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/farcasesti-gj/registru-hcl/261142",
+"council": "gorj/farcasesti",
+"council_name": "Consiliul Local al Comunei Fărcășești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -488,6 +533,29 @@
 }
 },
 {
+"slug": "hcl-gorj--farcasesti-25-2026",
+"path": "local/gorj/farcasesti/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 25/2026",
+"short": "HCL Fărcășești nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/farcasesti-gj/registru-hcl/271211",
+"council": "gorj/farcasesti",
+"council_name": "Consiliul Local al Comunei Fărcășești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-gorj--farcasesti-26-2026",
 "path": "local/gorj/farcasesti/2026/26",
 "kind": "local",
@@ -551,6 +619,28 @@
 "council_name": "Consiliul Local al Comunei Fărcășești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--farcasesti-29-2026",
+"path": "local/gorj/farcasesti/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 29/2026 privind alegerea Președintelui de ședință al Consiliului Local Fărcășești",
+"short": "HCL Fărcășești nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/farcasesti-gj/registru-hcl/276826",
+"council": "gorj/farcasesti",
+"council_name": "Consiliul Local al Comunei Fărcășești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

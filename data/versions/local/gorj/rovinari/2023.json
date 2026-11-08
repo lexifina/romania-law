@@ -3,6 +3,846 @@
  "shard": "local/gorj/rovinari/2023",
  "acts": [
   {
+   "slug": "hcl-gorj--rovinari-1-2023",
+   "path": "local/gorj/rovinari/2023/1",
+   "short": "HCL Rovinari nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 1/2023 privind utilizarea excedentului bugetului local înregistrat la data de 31.12.2022, în sumă de 5.877.534,20 lei ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare în anul 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.1_din_20.01.2023.pdf",
+     "sha256": "6cd0fc6e0a08d5a59f64e7fbe5b7d570eb4e1b49685d00b5dffe09cc7232fd4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-10-2023",
+   "path": "local/gorj/rovinari/2023/10",
+   "short": "HCL Rovinari nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 10/2023 privind aprobarea Calendarului activităților de primavară 2023 și Calendarul activităților de vară-toamnă 2023, cuprinzând lucrările de întreținere și înfrumusețare a spațiilor verzi ale orașului Rovinari, ce vor fi executate de către Societatea Servicii Publice Locale Rovinari SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.10_din_26.01.2023.pdf",
+     "sha256": "3739927faffb8ceb81963804ca7751e32db264e29ac256c1c177ff0b47fd4eae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-100-2023",
+   "path": "local/gorj/rovinari/2023/100",
+   "short": "HCL Rovinari nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 100/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.100_din_28.06.2023.pdf",
+     "sha256": "383e90bb2c60984bde5c755e9be589e5ab762044c9322259bfe5e5e2769fa01f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-101-2023",
+   "path": "local/gorj/rovinari/2023/101",
+   "short": "HCL Rovinari nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 101/2023 privind aprobarea listei de repartizare a locuințelor sociale din blocul B2 (camera 39), situat în orașul Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.101_din_28.06.2023.pdf",
+     "sha256": "c483debc4d31571090dec9e4ca052ca9e53ae7dd0cd36bc00876d56846f48c62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-102-2023",
+   "path": "local/gorj/rovinari/2023/102",
+   "short": "HCL Rovinari nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 102/2023 privind demararea procedurii în vederea achiziționării terenului în suprafață de 1155mp din suprafata de 3989mp, situat în intravilanul orașului Rovinari, tarlaua 9- parcelele 53/1; 59/1, tarlaua 10- parcela 59/2, județul Gorj, înscris în CF 36629, cu numar cadastral 36629 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.102_din_28.06.2023.pdf",
+     "sha256": "4c829ae392ac42478276dadf4e9ed9d5a39bf18be7a888f93375b6703c02a677"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-103-2023",
+   "path": "local/gorj/rovinari/2023/103",
+   "short": "HCL Rovinari nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 103/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.103_din_28.06.2023.pdf",
+     "sha256": "7c2e165e7b5c57e59ee9fe21313c31ff7c2b95d0d8d0f8aa7a2106b6d7239a58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-104-2023",
+   "path": "local/gorj/rovinari/2023/104",
+   "short": "HCL Rovinari nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 104/2023 privind rectificarea bugetului local pe anul 2023 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.104_din_28.06.2023.pdf",
+     "sha256": "7d623580587edbb9fec12139db269d8e16ae6b6c01b1e5de03fa1f1537440356"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-105-2023",
+   "path": "local/gorj/rovinari/2023/105",
+   "short": "HCL Rovinari nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 105/2023 privind modificarea și completarea Hotărârii Consiliului Local nr.175/19.10.2021 privind aprobarea cererii de finanțare și a devizului general pentru obiectivul de investiții „Reabilitare și modernizare drumuri în localitatea Vârț, oraș Rovinari”, pentru finanțarea acestuia în cadrul Programului National de lnvestiții Anghel Saligny Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.105_din_28.06.2023.pdf",
+     "sha256": "bf55a578c063dcfeaeb417fb75e4c0bdda4cca9a08e61e5f8f50d45b9caa4c17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-106-2023",
+   "path": "local/gorj/rovinari/2023/106",
+   "short": "HCL Rovinari nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 106/2023 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții „Amenajare parcare de reședință în zona bl.P2 Rovinari, județul Gorj” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.106_din_28.06.2023.pdf",
+     "sha256": "17c85b24739dff7d4068d0aab60f44e6bef867055adae5fd3e8ecdff0fae4987"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-107-2023",
+   "path": "local/gorj/rovinari/2023/107",
+   "short": "HCL Rovinari nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 107/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.107_din_28.06.2023.pdf",
+     "sha256": "6f9677626cbb23b64971b0803bfa42819d7fd7504be05382b3ee9a95021a4213"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-108-2023",
+   "path": "local/gorj/rovinari/2023/108",
+   "short": "HCL Rovinari nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 108/2023 privind însușirea domeniului privat conform propunerii comisiei speciale de inventariere a domeniului public și privat constituită la nivelul unității administrativ-teritoriale oraș Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.108_din_28.06.2023.pdf",
+     "sha256": "c3e36780b0167bf56198e3f374da3aed769261f61b9d8d73068e67cdc9bb81b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-109-2023",
+   "path": "local/gorj/rovinari/2023/109",
+   "short": "HCL Rovinari nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 109/2023 privind aprobarea Organigramei și a Statului de funcții pentru Clubul Sportiv „JIUL Rovinari 2016”, valabile începând cu data de 01.07.2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.109_din_28.06.2023.pdf",
+     "sha256": "2a7fedf3d78fae227eb740c9eb720b0b181eb5a1a396d033f6c391c6fb585782"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-11-2023",
+   "path": "local/gorj/rovinari/2023/11",
+   "short": "HCL Rovinari nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 11/2023 privind aprobarea Calendarului Competițional al Clubului Sportiv ,JIUL Rovinari 2016″ pentru perioada 01.02.2023-28.02.2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.11_din_26.01.2023.pdf",
+     "sha256": "f431078b391f6b94583f6e11a487881d00e2f34e5cec171e8423b2baf7d96eea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-110-2023",
+   "path": "local/gorj/rovinari/2023/110",
+   "short": "HCL Rovinari nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 110/2023 privind completarea art.l lit. b) din Hotărârea Consiliului Local nr.90/30.05.2023 privind acordarea normei de hrană personalului din cadrul Direcției Publice de Poliție Locală Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.110_din_28.06.2023.pdf",
+     "sha256": "de2ed41573b95a5f6bc505588cb51d77eeb4a34a61fca01341ece57989450fc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-111-2023",
+   "path": "local/gorj/rovinari/2023/111",
+   "short": "HCL Rovinari nr. 111/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 111/2023 privind aprobarea organigramei și statului de funcții pentru Societatea Servicii Publice Locale SRL, valabile începând cu 01 iulie 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.111_din_28.06.2023.pdf",
+     "sha256": "0173e71f86af2001eb56976065327111ad5227d681b66e235aed102aa14b9f46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-112-2023",
+   "path": "local/gorj/rovinari/2023/112",
+   "short": "HCL Rovinari nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 112/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.112_din_24.07.2023.pdf",
+     "sha256": "c1baa472dc24cfda1dc17862e64af7a9ce44cb1adb4303a30984fa9a0a28cb5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-113-2023",
+   "path": "local/gorj/rovinari/2023/113",
+   "short": "HCL Rovinari nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 113/2023 privind alipirea terenului în suprafață de 9495mp, cu număr cadastral 35988, cu terenul în suprafață de 9500mp, cu număr cadastral 35989mp, situate în orașul Rovinari, strada Jiului, nr.6, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.113_din_24.07.2023.pdf",
+     "sha256": "4facb9fd06ff07c96876ece58b0cebd99654179ad1c4facd5aae25317e4aae90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-119-2023",
+   "path": "local/gorj/rovinari/2023/119",
+   "short": "HCL Rovinari nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 119/2023 privind aprobarea statului de funcții al Spitalului Orășenesc ”Sfântul Ștefan” Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.119_din_24.07.2023.pdf",
+     "sha256": "240d1bf410bfac634e706f76080f2e5df60ee14e2cd02397468710ad791e978c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-12-2023",
+   "path": "local/gorj/rovinari/2023/12",
+   "short": "HCL Rovinari nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 12/2023 privind desemnarea a doi consilieri locali din cadrul Consiliului Local oraș Rovinari, în calitate de membri ai Comisiei de evaluare a performanțelor profesionale ale secretarului general al UAT oraș Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.12_din_26.01.2023.pdf",
+     "sha256": "581711ef3a72896924148b20c2b77c22ddbbeecbc7acb1a6e61e5559ffbf8129"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-127-2023",
+   "path": "local/gorj/rovinari/2023/127",
+   "short": "HCL Rovinari nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 127/2023 privind aprobarea proiectului „Investiții în sistemele informatice și în infrastructură digitală la Spitalului orășenesc „Sfântul Ștefan” Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.127_din_02.08.2023.pdf",
+     "sha256": "1567dc1dab3e7c97a6220c77ebca8ee6ea6898c77f8bf3224cbc92fe43aaa86f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-128-2023",
+   "path": "local/gorj/rovinari/2023/128",
+   "short": "HCL Rovinari nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 128/2023",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.128_din_23.08.2023.pdf",
+     "sha256": "052429d37ac92efda8252de1ae12bc62e438360745975dac0083f63a75f2e70e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-129-2023",
+   "path": "local/gorj/rovinari/2023/129",
+   "short": "HCL Rovinari nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 129/2023",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.129_din_23.08.2023.pdf",
+     "sha256": "22426497cf9e2d1cc23114daf5620c7ed680208abe06b42407afbca84b7d106e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-13-2023",
+   "path": "local/gorj/rovinari/2023/13",
+   "short": "HCL Rovinari nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 13/2023 privind aprobarea organigramei și statului de funcții pentru Clubul Sportiv „JIUL Rovinari 2016”, valabile începând cu data de 01 februarie 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.13_din_26.01.2023.pdf",
+     "sha256": "370c615693e22b9d52d23147e2ebbf44c5c43eeb31edfb622a8b0905b4606b07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-130-2023",
+   "path": "local/gorj/rovinari/2023/130",
+   "short": "HCL Rovinari nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 130/2023",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.130_din_23.08.2023.pdf",
+     "sha256": "2d1b3a63bb4a4043aba36db9f9ee2c72cc93a255022b0552c8586d31f7234687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-131-2023",
+   "path": "local/gorj/rovinari/2023/131",
+   "short": "HCL Rovinari nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 131/2023 privind darea în administrare a terenului în suprafață de 6190 mp, număr cadastral 36706, situat în orașul Rovinari, str.Autoliv, județ Gorj, către Societates Servicii Publice Locale Rovinari SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.131_din_23.08.2023.pdf",
+     "sha256": "536f1612184b483a297d55761db7254af4c5352fc266bb06042f5fa652d3e1b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-132-2023",
+   "path": "local/gorj/rovinari/2023/132",
+   "short": "HCL Rovinari nr. 132/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 132/2023 privind aprobarea repartizării, conform listei de priorități stabilită prin Hotărârea Consiliului Local nr.232/25.10.2022, a unui apartament în regim ANL din orașul Rovinari, judțetul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.132_din_23.08.2023.pdf",
+     "sha256": "2d1e34680fe9083bbe450ba35ca4c7fcc03e02ddebacc14762a81c8e9b5af1f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-133-2023",
+   "path": "local/gorj/rovinari/2023/133",
+   "short": "HCL Rovinari nr. 133/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 133/2023 privind însușirea rapoartelor de evaluare, întocmite în vederea inventarierii în domeniul privat, a unor terenuri situate în intravilanul orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.133_din_23.08.2023.pdf",
+     "sha256": "e22c4a7393bc26af4acd6cfb37f08b279135dbc2749d3d895a49c5e3beb4843f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-134-2023",
+   "path": "local/gorj/rovinari/2023/134",
+   "short": "HCL Rovinari nr. 134/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 134/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.134_din_23.08.2023.pdf",
+     "sha256": "d7d44c19e79a17f5cad3c6dedb178c4baf4213f81fe118e9964f7145c3ea1ee2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-135-2023",
+   "path": "local/gorj/rovinari/2023/135",
+   "short": "HCL Rovinari nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 135/2023 privind însușirea domeniului privat conform propunerii comisiei speciale de inventariere a domeniului public și privat constituită la nivelul unității administrativ-teritoriale oraș Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.135_din_23.08.2023.pdf",
+     "sha256": "d3c26563fe75e9c340a81d70bb313d23261b43ca56c967aa13700bdaee622590"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-136-2023",
+   "path": "local/gorj/rovinari/2023/136",
+   "short": "HCL Rovinari nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 136/2023 privind modificarea comisiei de analiză a cererilor de locuințe și repartiție a locuințelor din Fondul locativ de stat, stabilită prin Hotararea Consiliului Local Rovinari nr.103/25.09.2014 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.136_din_23.08.2023.pdf",
+     "sha256": "1780ad2c7f5bde21bd173a58e0e876a64fb6619ba00c0527e06e894733cbd7d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-137-2023",
+   "path": "local/gorj/rovinari/2023/137",
+   "short": "HCL Rovinari nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 137/2023 privind rectificarea bugetului local pe anul 2023 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.137_din_23.08.2023.pdf",
+     "sha256": "5038029c5a7b76caad1439a99eec90ed7bf969d6f6d10c63975290599480bb72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-138-2023",
+   "path": "local/gorj/rovinari/2023/138",
+   "short": "HCL Rovinari nr. 138/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 138/2023 privind aprobarea organigramei și statului de funcții pentru Societatea Servicii Publice Locale SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.138_din_23.08.2023.pdf",
+     "sha256": "a7f4312f176064433c2a35f03d1b7d93c6ea796f17abba05f7579896efb4a7c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-139-2023",
+   "path": "local/gorj/rovinari/2023/139",
+   "short": "HCL Rovinari nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 139/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.139__din_23.08.2023.pdf",
+     "sha256": "88fa9c422d00d77de1c5f59fabd560d8d9ac3c26e60b09b14a95e4393dce3d46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-14-2023",
+   "path": "local/gorj/rovinari/2023/14",
+   "short": "HCL Rovinari nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 14/2023 privind aprobarea condițiilor de organizare și desfășurare a concursului pentru ocuparea funcției publice de conducere vacantă de director executiv- Direcția Publică de Poliție Locală Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.14_din_26.01.2023.pdf",
+     "sha256": "68258b6426cb2bbc397aa994184175b2ecffd16b470fbdeeed4ada4f320043fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-140-2023",
+   "path": "local/gorj/rovinari/2023/140",
+   "short": "HCL Rovinari nr. 140/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 140/2023 privind aprobarea listei de repartizare a locuințelor sociale din blocul B2 (camera 23 și camera 39), situat în orașul Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.140_din_23.08.2023.pdf",
+     "sha256": "f9deb56a6297664284f0b9863b6d731a1438edc54502418f9c9974a94d33cd63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-141-2023",
+   "path": "local/gorj/rovinari/2023/141",
+   "short": "HCL Rovinari nr. 141/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 141/2023 privind modificarea și completarea Hotărârii Consiliului Local nr. 127/02.08.2023 privind aprobarea proiectului „Investitii în sistemele informatice și în infrastructura digitală a Spitalului orășenesc „Sfantul Ștefan” Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.141_din_23.08.2023.pdf",
+     "sha256": "e9aff50383bd197369fffa8771425347675f328889674d583b79dd17ed734176"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-142-2023",
+   "path": "local/gorj/rovinari/2023/142",
+   "short": "HCL Rovinari nr. 142/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 142/2023 privind actualizarea indicatorilor tehnico-economici, faza proiect tehnic-detalii de execuție, pentru obiectivul de investiții „Creșterea eficienței energetice în clădirile de locuințe – bloc R2, R6, T5, T4, S5, S4, S2, H5, Gl, F3, Fl, E3, D2, C6, C5, C4, și C1, oraș Rovinari, județ Gorj” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.142_din_23.08.2023.pdf",
+     "sha256": "2ec97469edf00768dac6f73b9bec15e76cffa3e6ec8a5884a12271bca015ede1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-145-2023",
+   "path": "local/gorj/rovinari/2023/145",
+   "short": "HCL Rovinari nr. 145/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 145/2023 privind aprobarea Graficului de ședințe al Consiliului Local Rovinari pentru trimestrul IV al anului 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.145_din_25.09.2023.pdf",
+     "sha256": "35bab7d3177ed0265703eb11a3c3a1d4afdb6e2dd5f5c3fc55c4a4d0079223de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-146-2023",
+   "path": "local/gorj/rovinari/2023/146",
+   "short": "HCL Rovinari nr. 146/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 146/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.146_din_25.09.2023.pdf",
+     "sha256": "1e79590c88f62933f9cf1aaa0d3af7883ef1864168c145fdbef01af711f16447"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-147-2023",
+   "path": "local/gorj/rovinari/2023/147",
+   "short": "HCL Rovinari nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 147/2023 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Liceului „Gheorghe Tătărescu” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.147_din_25.09.2023.pdf",
+     "sha256": "201001a096d04e108466927697a3148e476e411ffab6c5ad233d5607f35378f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-148-2023",
+   "path": "local/gorj/rovinari/2023/148",
+   "short": "HCL Rovinari nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 148/2023 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al școlii Gimnaziale Nr.l Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.148_din_25.09.2023.pdf",
+     "sha256": "1990e0e4fa9ea9134e202d48870c0272a06a709de56a5c7a376eaa132c905603"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-149-2023",
+   "path": "local/gorj/rovinari/2023/149",
+   "short": "HCL Rovinari nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 149/2023 privind aprobarea completării Calendarului Competițional al Clubului Sportiv ,,JIUL Rovinari 2016″ aprobat prin Hotărârea Consiliului Local Rovinari nr.30/27.02.2023, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.149_din_25.09.2023.pdf",
+     "sha256": "05f6fa919669a3aa6e9ee85cba3501a9e7b8a5c70de9f3f7f611fbaa7762d37e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-15-2023",
+   "path": "local/gorj/rovinari/2023/15",
+   "short": "HCL Rovinari nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 15/2023 privind aprobarea Regulamentului de Organizare și Funcționare al Directiei Publice de Asistență Socială Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.15_din_26.01.2023.pdf",
+     "sha256": "dcfef4f460a2813a9cc0ca2685a6747f926eee47913579142cd4f8c08f7cbff7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-150-2023",
+   "path": "local/gorj/rovinari/2023/150",
+   "short": "HCL Rovinari nr. 150/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 150/2023 privind constituirea cu titlu oneros, fără licitație publică, a dreptului de superficie asupra terenului în suprafață de 100 mp, cu număr cadastral 37048, aparținând domeniului privat, situat în oraș Rovinari, județul Gorj, în favoarea Societății Complexul Energetic Oltenia S.A Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.150_din_25.09.2023.pdf",
+     "sha256": "aa4140ee129082da7c6181cd6117534831565bd8b9a261d5087f4bc432d0981c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-151-2023",
+   "path": "local/gorj/rovinari/2023/151",
+   "short": "HCL Rovinari nr. 151/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 151/2023 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Grădiniței cu Program Prelungit Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.151_din_25.09.2023.pdf",
+     "sha256": "46df50136c71f53d5495dcef8059d4c3334e87d064b8e40879d5c767d91c33d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-152-2023",
+   "path": "local/gorj/rovinari/2023/152",
+   "short": "HCL Rovinari nr. 152/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 152/2023 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al școlii Gimnaziale Nr. 3 Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.152_din_25.09.2023.pdf",
+     "sha256": "0771490af6fa309c1737f0b6e9cd273a749ffc799b9f2b7161dc3b7f2f628776"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-153-2023",
+   "path": "local/gorj/rovinari/2023/153",
+   "short": "HCL Rovinari nr. 153/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 153/2023 privind desemnarea reprezentantului Consiliului Local în Comisia pentru Evaluarea și Asigurarea Calității la Liceul „Gheorghe Tătărescu” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.153_din_25.09.2023.pdf",
+     "sha256": "58965d3f00d1b8d98df9eac9cee5105b258ab084d78c7fc1386e1e3a88bec7a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-154-2023",
+   "path": "local/gorj/rovinari/2023/154",
+   "short": "HCL Rovinari nr. 154/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 154/2023 privind desemnarea reprezentantului Consiliului Local în Comisia pentru Evaluarea și Asigurarea Caliății la Școala Gimnazială nr.3 Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.154_din_25.09.2023.pdf",
+     "sha256": "e0bb094cdfbdd8c234ea5066710e13ce343ccc64786a156271ccf62a341795f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-155-2023",
+   "path": "local/gorj/rovinari/2023/155",
+   "short": "HCL Rovinari nr. 155/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 155/2023 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „Creșterea eficienței energetice în clădiri rezidențiale, pentru blocurile C7, H2, H3, D6, R4, S6, S3, El, G2, G3, T6, oraș Rovinari, județul Gorj” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.155_din_25.09.2023.pdf",
+     "sha256": "94820e458ce95fd3f2ba0c78dab25b68a9260c5547fa1891cef2118207c77c1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-156-2023",
+   "path": "local/gorj/rovinari/2023/156",
+   "short": "HCL Rovinari nr. 156/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 156/2023 privind aprobarea organigramei și statului de funcții pentru aparatul de specialitate al Primarului orașului Rovinari și serviciilor publice fără personalitate juridică aflate în subordinea Consiliului Local al orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.156_din_25.09.2023.pdf",
+     "sha256": "a56b08027ba86ca7d74b6017cacf79b655985781e48148a69bb5d2a085ab9c53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-157-2023",
+   "path": "local/gorj/rovinari/2023/157",
+   "short": "HCL Rovinari nr. 157/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 157/2023 privind rectificarea bugetului local pe anul 2023 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.157_din_25.09.2023.pdf",
+     "sha256": "9994138696af190286287440c4370cc09a6486cdd099f7452cb51498e855a467"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-158-2023",
+   "path": "local/gorj/rovinari/2023/158",
+   "short": "HCL Rovinari nr. 158/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 158/2023 privind desemnarea reprezentantului Consiliului Local în Comisia pentru Evaluarea și Asigurarea Calității la școala Gimnazială Nr.l Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.158_din_25.09.2023.pdf",
+     "sha256": "76e24801098cbe73c1aff72d5af1705e683a56bb8e6bf49838d1f012077d62aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-159-2023",
+   "path": "local/gorj/rovinari/2023/159",
+   "short": "HCL Rovinari nr. 159/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 159/2023 privind alocarea din bugetul local a sumei de 114.000 lei cu TVA pentru „Ziua Internațională a Persoanelor Vârstnice” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.159_din_25.09.2023.pdf",
+     "sha256": "ec813ceef93ec6aa8dbca2db45a049bfbb95ca1f1b3afe327c27f758679ff72b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-16-2023",
+   "path": "local/gorj/rovinari/2023/16",
+   "short": "HCL Rovinari nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 16/2023 privind aprobarea Bugetului local de venituri și cheltuieli al UATO Rovinari pe anul 2023 și estimări pe anii 2024-2026, Bugetul centralizat al instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, pe anul 2023 și estimări pe anii 2024-2026 și a Programului de invetiții pe anul 2023. Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.16_din_02.02.2023.pdf",
+     "sha256": "ef0231126e359bcd417ef7ebe6dac04aada4e1912c46e7842247c9357daae847"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-160-2023",
+   "path": "local/gorj/rovinari/2023/160",
+   "short": "HCL Rovinari nr. 160/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 160/2023 privind aprobarea Organigramei și Statului de funcții pentru Serviciul de Iluminat Public al Orașului Rovinari, valabile începand cu data de 01 octombrie 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.160_din_25.09.2023.pdf",
+     "sha256": "0fda0d97317c776d65a91308a8c5e3541b4b7d92095e284c3ea9c3a6a0f8b02f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-161-2023",
+   "path": "local/gorj/rovinari/2023/161",
+   "short": "HCL Rovinari nr. 161/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 161/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.161_din_11.10.2023.pdf",
+     "sha256": "48b3c35b86ef2d32763d046b7b74c90dd2ae63580b2faf510625952fdd3b5590"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-166-2023",
    "path": "local/gorj/rovinari/2023/166",
    "short": "HCL Rovinari nr. 166/2023",
@@ -14,6 +854,66 @@
      "units": 6,
      "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.166_din_30.10.2023.pdf",
      "sha256": "d5302d8a6a0f4d0d5ae4f535e75d0178f16a525a58adcc5d875d115f7e1655ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-167-2023",
+   "path": "local/gorj/rovinari/2023/167",
+   "short": "HCL Rovinari nr. 167/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 167/2023 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici, faza Studiu de fezabilitate pentru obiectivul de investiții „Realizarea sistemului de canalizare în localitatea Vârț din cadrul orașului Rovinari, județul Gorj” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.167_din_30.10.2023.pdf",
+     "sha256": "6c56b290cee30d6eb63c96b2bd573a70011f2f69e09aa415729a198f62bf5e9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-169-2023",
+   "path": "local/gorj/rovinari/2023/169",
+   "short": "HCL Rovinari nr. 169/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 169/2023 privind aprobarea Regulamentului de organizare și funcționare al Clubului Sportiv ”Jiul Rovinari 2016” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.169_din_30.10.2023.pdf",
+     "sha256": "e6ccfc2ece3f276fe38e9b9cb64ea7c155df28c95a2af94f6b81a46894119e13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-17-2023",
+   "path": "local/gorj/rovinari/2023/17",
+   "short": "HCL Rovinari nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 17/2023 privind rectificarea Bugetului local pe anul 2023 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.17_din_03.02.2023.pdf",
+     "sha256": "cabb0608230fb251c056a7e80869e6a1bb37438efa530fddd2c0de340550e225"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-170-2023",
+   "path": "local/gorj/rovinari/2023/170",
+   "short": "HCL Rovinari nr. 170/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 170/2023 privind modificarea manoperei directe la Societatea Servicii Publice Locale Rovinari SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.170_din_30.10.2023.pdf",
+     "sha256": "f1816d5380f38e5ee82331ba452ebd1e2aaab75ed8f4022fbdce036bab7acd37"
     }
    ]
   },
@@ -33,6 +933,126 @@
    ]
   },
   {
+   "slug": "hcl-gorj--rovinari-172-2023",
+   "path": "local/gorj/rovinari/2023/172",
+   "short": "HCL Rovinari nr. 172/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 172/2023 privind rectificarea bugetului local pe anul 2023 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.172_din_30.10.2023.pdf",
+     "sha256": "16600d0dcab47502374563d26b2a3a404bbe0f390d0327caa8537bc0e410afa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-173-2023",
+   "path": "local/gorj/rovinari/2023/173",
+   "short": "HCL Rovinari nr. 173/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 173/2023 privind modificarea Hotărârilor Consiliului Local nr.129/23.08.2023 și nr.188/28.09.2022 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.173_din_30.10.2023.pdf",
+     "sha256": "ae3c60733a3e60d3d6d3e279463da113c9f8a656b2df7eecc295ed3bb5804b85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-174-2023",
+   "path": "local/gorj/rovinari/2023/174",
+   "short": "HCL Rovinari nr. 174/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 174/2023 privind modificarea și completarea Hotărârilor Consiliului Local nr.130/23.08.2023, nr.189/28.09.2022 și nr.207/25.11.2021 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.174_din_30.10.2023.pdf",
+     "sha256": "166317f9c3c7faa9f685162ded8d78ef47b0ba0fc335ef7cb0cc9338fed77f9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-176-2023",
+   "path": "local/gorj/rovinari/2023/176",
+   "short": "HCL Rovinari nr. 176/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 176/2023 privind aprobarea încheierii unui Acord de parteneriat între Primaria Orașului Rovinari împreună cu Primaria Orașului Corabia, Asociația Grupul Local Prietenii Pescarilor Olteni și Asociația Rază de Speranță în Intervenția în Terapia Tulburărilor din Spectrul Autist Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.176_din_09.11.2023.pdf",
+     "sha256": "df2cd838e2e4a2ab57894879477bff34468f50ff0fd4e90ce27b55d7efb6e8e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-177-2023",
+   "path": "local/gorj/rovinari/2023/177",
+   "short": "HCL Rovinari nr. 177/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 177/2023 privind aprobarea documentației tehnico-economică pentru investiția: „Extindere, modernizare și dotare Complex Sportiv, Str",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.177din_09.11.2023.pdf",
+     "sha256": "370a79c5eab2a7906dbde2856c3ded2f86e0845805323b4e5aecaadf1d315560"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-178-2023",
+   "path": "local/gorj/rovinari/2023/178",
+   "short": "HCL Rovinari nr. 178/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 178/2023 privind aprobarea Studiului de Fezabilitate, a devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții „Construire parc fotovoltaic pentru consum propriu Oraș Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.178_din_14.11.2023.pdf",
+     "sha256": "c59169d593c98dd7fd39d7a6dd8d885f11829b1c90d80e42865842cd9b301d06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-179-2023",
+   "path": "local/gorj/rovinari/2023/179",
+   "short": "HCL Rovinari nr. 179/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 179/2023 privind aprobarea, depunerea proiectului, precum și probarea valorii totale a proiectului „Construire parc fotovoltaic pentru consum propriu Oraș Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.179_din_14.11.2023.pdf",
+     "sha256": "13aec69550306c90cc97e447d1a4b4fdb65731eb56629bc20246aaa370cb2049"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-18-2023",
+   "path": "local/gorj/rovinari/2023/18",
+   "short": "HCL Rovinari nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 18/2023 privind aprobarea cuantumului cotizatiei pentru anul 2023 ce revine unităților administrativ­ teritoriale membre în Asociația de Dezvoltare Intercomunitară de utilități publice pentru serviciul de alimentare cu apă și de canalizare „ADIA” Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.18_din_27.02.2023.pdf",
+     "sha256": "4b6b6980c0a6a46004b166b65ba3ffde16ebe06f69e2f34f66629c274761c40f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-180-2023",
    "path": "local/gorj/rovinari/2023/180",
    "short": "HCL Rovinari nr. 180/2023",
@@ -44,6 +1064,246 @@
      "units": 1,
      "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.180_din_27.11.2023.pdf",
      "sha256": "dfac782381b6b833533fb493344ce65637b7a78ca6955b18fff38852d51d3252"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-181-2023",
+   "path": "local/gorj/rovinari/2023/181",
+   "short": "HCL Rovinari nr. 181/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 181/2023 privind aprobarea Programului operativ al pregătirilor de iarnă 2023-2024 pe raza orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.181_din_27.11.2023.pdf",
+     "sha256": "9be5e741c8f1096039bf1474562365c155fed696d8f2da9b41b7a53320b211b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-182-2023",
+   "path": "local/gorj/rovinari/2023/182",
+   "short": "HCL Rovinari nr. 182/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 182/2023 privind actualizarea Consiliului tehnico-economic Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.182_din_27.11.2023.pdf",
+     "sha256": "7a74b70ec2144d2aa9061451278144e3d698585333f9ad80cd590e9b18b38040"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-183-2023",
+   "path": "local/gorj/rovinari/2023/183",
+   "short": "HCL Rovinari nr. 183/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 183/2023 privind aprobarea listei de repartizare a locuințelor sociale din blocul B2 (camera 6), situat în orașul Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.183_din_27.11.2023.pdf",
+     "sha256": "b953d4765e458c23ed4e088ce2333b0ae930cc7139259f8770a92590ce292a48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-184-2023",
+   "path": "local/gorj/rovinari/2023/184",
+   "short": "HCL Rovinari nr. 184/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 184/2023 privind aprobarea contului de execuție al bugetului local al unității administrativ teritoriale Oraș Rovinari, al bugetului centralizat al instituțiilor publice finanțate din venituri proprii și subvenții din bugetul local al unității administrativ teritoriale Oraș Rovinari, încheiate la data de 30.09.2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.184_din_27.11.2023.pdf",
+     "sha256": "14fa4c6b35af249a16fd1bb639fb10b5f332fef46b9ec6c47c37d9c7a3b06401"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-185-2023",
+   "path": "local/gorj/rovinari/2023/185",
+   "short": "HCL Rovinari nr. 185/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 185/2023 privind aprobarea alocării de la bugetul local, în condițiiile legislației în vigoare, a sumei de 16.000 lei (fără TVA) pentru organizarea unor manifestări dedicate zilei de 1 Decembrie- Ziua Naționalăa României Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.185_din_27.11.2023.pdf",
+     "sha256": "baf0feb06134003da8649a2a714aedc761ec8fa312e5331764b6535a7d0d64c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-186-2023",
+   "path": "local/gorj/rovinari/2023/186",
+   "short": "HCL Rovinari nr. 186/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 186/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.186_din_27.11.2023.pdf",
+     "sha256": "723f05758f4112ba2d407ff252d916f7e65aebeaf24b2dabf15fb7e5377057bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-187-2023",
+   "path": "local/gorj/rovinari/2023/187",
+   "short": "HCL Rovinari nr. 187/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 187/2023 privind rectificarea bugetului local pe anul 2023 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.187_din_27.11.2023.pdf",
+     "sha256": "02ed271c3259e9cda8c8f98184434a3c76a2d4fbef11e186b2aab0b4590beb66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-188-2023",
+   "path": "local/gorj/rovinari/2023/188",
+   "short": "HCL Rovinari nr. 188/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 188/2023 privind acordarea unui ajutor de urgență în sumă de 10.000 lei Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.188_din_27.11.2023.pdf",
+     "sha256": "02a617b19b26805e0a694df8b6369ca526271a4d4e81720ae8de7554a41707d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-189-2023",
+   "path": "local/gorj/rovinari/2023/189",
+   "short": "HCL Rovinari nr. 189/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 189/2023 privind aprobarea Organigramei, Statului de funcții și Regulamentului de Organizare și Funcționare pentru Aparatul de specialitate al Primarului orașului Rovinari, în conformitate cu prevederile Legii nr.296/2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.189_din_27.11.2023.pdf",
+     "sha256": "66836c6b72fd0f7b00503319403e4358c33a13dd01b5162455a048e3b327efb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-19-2023",
+   "path": "local/gorj/rovinari/2023/19",
+   "short": "HCL Rovinari nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 19/2023 privind aprobarea cuantumului cotizației pentru anul 2023 ce revine unităților administrativ­ teritoriale membre în Asociatia de Dezvoltare Intercomunitară în domeniul Serviciilor Publice de Salubrizare, „ADIS” Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.19_din_27.02.2023.pdf",
+     "sha256": "1d5d60bce77ad21a36c4a4e88332c7ca365c25085922c4f4785669fc47c12a34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-190-2023",
+   "path": "local/gorj/rovinari/2023/190",
+   "short": "HCL Rovinari nr. 190/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 190/2023 privind aprobarea Organigramei, Statului de funcții și Regulamentului de organizare și funcționare pentru Clubul Sportiv „JIUL Rovinari2016”, în conformitate cu prevederile Legii nr.296/2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.190_din_27.11.2023.pdf",
+     "sha256": "32d11edae5be8b59b8b2e1ff0ed33b2c6865980763501758a0a14e27dd848411"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-191-2023",
+   "path": "local/gorj/rovinari/2023/191",
+   "short": "HCL Rovinari nr. 191/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 191/2023 privind aprobarea achiziționării unui număr de 206 tichete sociale în valoare de 100 lei/tichet cu TVA, în sumă de 20.600 lei cu TVA și a unui număr de 350 pachete cu dulciuri pentru copii, în valoare de 80 lei/pachet cu TVA, în sumă de 28.000 lei cu TVA, reprezentând beneficii de asistență socială, acordate cu ocazia sarbătorilor de iamă 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.191_din_27.11.2023.pdf",
+     "sha256": "52d34b76565c6b14ee5b00cd649e5bee6d204c84a48b40c603c59e2b50cab46d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-192-2023",
+   "path": "local/gorj/rovinari/2023/192",
+   "short": "HCL Rovinari nr. 192/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 192/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din cadrul Primăriei oraș Rovinari și serviciilor publice, fără personalitate juridică, din subordinea Consiliului Local al orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.192_din_04.12.2023.pdf",
+     "sha256": "463f42211e4160bd543031fc041c6349be0382c170c9aeaf45eb44c984d777a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-193-2023",
+   "path": "local/gorj/rovinari/2023/193",
+   "short": "HCL Rovinari nr. 193/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 193/2023 privind aprobarea etapizării și continuarea finanțării proiectului cu titlul „Construire bloc locuințe sociale și amenajare zonă aferentă, precum și Amenajare zonă centrală pietonală oraș Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.193_din_07.12.2023.pdf",
+     "sha256": "42ca7a495444112b0445dc0a4e7e8fc02da6dad03a7cd5ee601a241203392897"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-194-2023",
+   "path": "local/gorj/rovinari/2023/194",
+   "short": "HCL Rovinari nr. 194/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 194/2023 privind aderarea, susținerea și participarea Orașului Rovinari, județul Gorj la parteneriatul constituit de Asociația Grupul de Acțiune Locală Sudul Gorjului cu denumirea „Parteneriat LEADER Sudul Gorjului”, aprobarea elaborării și implementării Strategiei de Dezvoltare Locală a ASOCIAȚIEI GRUPULUI DE ACȚIUNE LOCALĂ SUDUL GORJULUI Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.194_din_07.12.2023.pdf",
+     "sha256": "6774957e35a45d1347cb2124c87e938c466d517173b69de63c8881abdfea72a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-195-2023",
+   "path": "local/gorj/rovinari/2023/195",
+   "short": "HCL Rovinari nr. 195/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 195/2023 privind rectificarea bugetului local pe anul 2023 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.195_din_14.12.2023.pdf",
+     "sha256": "7592c1efeafdbaaa781d67ff372811980bf6a0f9932c1431156f6109788b6a38"
     }
    ]
   },
@@ -63,6 +1323,81 @@
    ]
   },
   {
+   "slug": "hcl-gorj--rovinari-197-2023",
+   "path": "local/gorj/rovinari/2023/197",
+   "short": "HCL Rovinari nr. 197/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 197/2023 privind aprobarea Graficului de ședințe al Consiliului Local Rovinari pentru trimestrul I al anului 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.197_din_19.12.2023.pdf",
+     "sha256": "5a8f96953ac68d4c32bf6fb39ec7a1267eb075f38609521639ca202e05ef90e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-198-2023",
+   "path": "local/gorj/rovinari/2023/198",
+   "short": "HCL Rovinari nr. 198/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 198/2023 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici, faza proiect tehnic- detalii de execuție, pentru obiectivul de investiții „Amenajare toaletă publică, spațiu de joacă, alei și zonă aferentă sălii de sport Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.198_din_19.12.2023.pdf",
+     "sha256": "3a2c8ded071ac6db63d3a41b6b4605d198e0aff2fdf9bcacc564d94009a91869"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-199-2023",
+   "path": "local/gorj/rovinari/2023/199",
+   "short": "HCL Rovinari nr. 199/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 199/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.199_din_19.12.2023.pdf",
+     "sha256": "43ac3062e04f4b93c215b9734630ffd3e7b05e8402e90413bfb3ace7245ac21d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-2-2023",
+   "path": "local/gorj/rovinari/2023/2",
+   "short": "HCL Rovinari nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 2/2023 privind modificarea și completarea Hotărârii Consiliului Local Rovinari nr.260/21.12.2022, privind acordarea normei de hrană personalului din cadrul Direcției Publice de Poliție Locală Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.2_din_20.01.2023.pdf",
+     "sha256": "01f2889e48f786178302683141222b3c9cfd87a056e2b756ef076443cc8da89f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-20-2023",
+   "path": "local/gorj/rovinari/2023/20",
+   "short": "HCL Rovinari nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 20/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.20_din_27.02.2023.pdf",
+     "sha256": "32eb7abfe37d4efac86f989b570a13b6c454f53321af47c1c8151a8410cca12e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-200-2023",
    "path": "local/gorj/rovinari/2023/200",
    "short": "HCL Rovinari nr. 200/2023",
@@ -74,6 +1409,261 @@
      "units": 5,
      "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.200_din_19.12.2023.pdf",
      "sha256": "086217f9fb7f8c1458d738ad20cf3b91c07d237e3d90d5097c0bd6e4840f88cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-201-2023",
+   "path": "local/gorj/rovinari/2023/201",
+   "short": "HCL Rovinari nr. 201/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 201/2023 privind desemnarea a doi reprezentanți ai Consiliului Local al Orașului Rovinari pentru comisia de concurs și a doi reprezentanti ai Consiliului Local al Orașului Rovinari pentru comisia de soluționare a contestațiilor la concursul organizat pentru ocuparea funcției de director financiar contabil la Spitalului Orășenesc ”Sfântul Ștefan” Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.201_din_19.12.2023.pdf",
+     "sha256": "bea90484606642db81d09dc559815c98bb2a9276c9a13dff37d048061bbab586"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-202-2023",
+   "path": "local/gorj/rovinari/2023/202",
+   "short": "HCL Rovinari nr. 202/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 202/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.202_din_19.12.2023.pdf",
+     "sha256": "4eed2f88d9a3b9964752cff7abc24b8d7c56ca67abf776e5a95c61495fa866cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-203-2023",
+   "path": "local/gorj/rovinari/2023/203",
+   "short": "HCL Rovinari nr. 203/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 203/2023 privind acordul în favoarea ADIS Gorj pentru aprobarea procedurii de prelungire a contractului nr.555/29.12.2022, prin încheierea unui act adițional Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.203_din_19.12.2023.pdf",
+     "sha256": "062c2477e734009669c4843c72508611aef3acb09566d95e73ddcad9203bb49f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-204-2023",
+   "path": "local/gorj/rovinari/2023/204",
+   "short": "HCL Rovinari nr. 204/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 204/2023 privind validarea Dispozitiei primarului orașului Rovinari nr. 1257/06.12.2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.204_din_19.12.2023.pdf",
+     "sha256": "e94cdeabbcf54437a7a90bd738f969d604d030d8c0387f7ee0824757cc462b57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-205-2023",
+   "path": "local/gorj/rovinari/2023/205",
+   "short": "HCL Rovinari nr. 205/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 205/2023 privind rectificarea bugetului local pe anul 2023 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.205_din_19.12.2023.pdf",
+     "sha256": "d2844616c4756156d571ec3b35944354611680631eaed19eba40ab2cdde9cb69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-206-2023",
+   "path": "local/gorj/rovinari/2023/206",
+   "short": "HCL Rovinari nr. 206/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 206/2023 privind rectificarea bugetului local al Societății Servicii Publice Locale SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.206_din_19.12.2023.pdf",
+     "sha256": "dc2774731b3ec858570f0af8072338be14d4e60c4fcebf4f386b8cfbc5a30f17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-207-2023",
+   "path": "local/gorj/rovinari/2023/207",
+   "short": "HCL Rovinari nr. 207/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 207/2023 privind aprobarea contului de execuție preliminar al bugetului local al unității administrative Oraș Rovinari, al instituțiilor publice finanțate din venituri proprii și subvenții din bugetul local al unității administrative Oraș Rovinari pentru trim. IV 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.207_din_19.12.2023.pdf",
+     "sha256": "35211f65e41169789f744fe1449cfc2e07f0d27fb9b82cc2d32c272dee6eaf40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-208-2023",
+   "path": "local/gorj/rovinari/2023/208",
+   "short": "HCL Rovinari nr. 208/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 208/2023 privind aprobarea Calendarului Competițional al Clubului Sportiv „JIUL Rovinari 2016” pentru perioada 01.01.2024-29.02.2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.208_din_19.12.2023.pdf",
+     "sha256": "8f479762e538128c887c407d2aaea82e745c2ec73650f16c2781d014ac418c6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-209-2023",
+   "path": "local/gorj/rovinari/2023/209",
+   "short": "HCL Rovinari nr. 209/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 209/2023 privind aprobarea listei de priorități privind locuințele din fondul locativ de stat în vederea repartizării prin ierarhizare, în funcție de punctajul obținut Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.209_din_19.12.2023.pdf",
+     "sha256": "7022e32fc866eab2c876be198bde1bbd290a39775bd794a7163a4c12537c4ee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-21-2023",
+   "path": "local/gorj/rovinari/2023/21",
+   "short": "HCL Rovinari nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 21/2023 privind plata cotizației pentru anul 2023 la Asociația Orașelor din România Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.21_din_27.02.2023.pdf",
+     "sha256": "4077af2dee61323b0a5beaca9f4a7293be7c682c03065b69753f9510d614e467"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-210-2023",
+   "path": "local/gorj/rovinari/2023/210",
+   "short": "HCL Rovinari nr. 210/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 210/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.210_din_19.12.2023.pdf",
+     "sha256": "7d2fecdf18075fd20d9e1d8defb76b3405695a1401cb388c5c7712670111594c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-22-2023",
+   "path": "local/gorj/rovinari/2023/22",
+   "short": "HCL Rovinari nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 22/2023 privind modificarea Anexei 1 a Hotararii Consiliului Local nr.49/27.02.2018 privind aprobarea nomenclatorului stradal al orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.22_din_27.02.2023.pdf",
+     "sha256": "4a59d34a0e1e8c0163217d937fbbad2b358226a8d47940c87d93d827df2ceab2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-23-2023",
+   "path": "local/gorj/rovinari/2023/23",
+   "short": "HCL Rovinari nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 23/2023 privind aprobarea organigramei și statului de funcții ale Spitalului Orășenesc „Sfântul Ștefan” Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.23_din_27.02.2023.pdf",
+     "sha256": "ae510df775c1ed4f95d8b0a7cb9c1b0e9ff9c98d90a92ce01c994e026b312b74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-24-2023",
+   "path": "local/gorj/rovinari/2023/24",
+   "short": "HCL Rovinari nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 24/2023 privind îndreptarea erorilor materiale strecurate în Hotărârea Consiliului Local Rovinari nr.251/24.11.2022 și Hotărârea Consiliului Local Rovinari nr.4/20.01.2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.24_din_27.02.2023.pdf",
+     "sha256": "a9d2a704d029c499407438044dedee58a0e9925690b84ace14b719463585b810"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-25-2023",
+   "path": "local/gorj/rovinari/2023/25",
+   "short": "HCL Rovinari nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 25/2023 privind aprobarea contului de execuție al bugetului local al unității administrativ teritoriale oraș Rovinari, al instituțiilor publice finanțate din venituri proprii și subvenții din bugetul local al unității administrativ teritoriale Oraș Rovinari și a situațiilor financiare încheiate la data de 31.12.2022 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.25_din_27.02.2023.pdf",
+     "sha256": "a4a2577bdb58d72911965605d0f3caf4bc5bdec7f8d9e4fe7103da3d376a3168"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-26-2023",
+   "path": "local/gorj/rovinari/2023/26",
+   "short": "HCL Rovinari nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 26/2023 privind aprobarea cuantumului chiriei aferente locuințelor pentru tineri, destinate închirierii, realizate de Agenția Națională pentru Locuințe în Orașul Rovinari, județul Gorj, începând cu luna martie 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.26_din_27.02.2023.pdf",
+     "sha256": "ce853f774f50a4b6923528c1bb4e9e8f68af8406097b8dcf7fcc76f2d870b919"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-27-2023",
+   "path": "local/gorj/rovinari/2023/27",
+   "short": "HCL Rovinari nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 27/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.27__din_27.02.2023.pdf",
+     "sha256": "f53cfe8318ac00eb5e8b7b630df77c64ecae46c9dca9673cd3ede64ff8059d19"
     }
    ]
   },
@@ -93,6 +1683,51 @@
    ]
   },
   {
+   "slug": "hcl-gorj--rovinari-29-2023",
+   "path": "local/gorj/rovinari/2023/29",
+   "short": "HCL Rovinari nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 29/2023 privind aprobarea premierii sportivilor și colectivelor tehnice, din cadrul Clubului Sportiv „JIUL ROVINARI 2016”, care obțin performanțe deosebite la acțiunile sportive internaționale și naționale oficiale în cursul anului 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.29_din_27.02.2023.pdf",
+     "sha256": "85b2e460de6115cc0b62006dfb004c1affa2062932ff62acbc1553e93b5ec968"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-3-2023",
+   "path": "local/gorj/rovinari/2023/3",
+   "short": "HCL Rovinari nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 3/2023 privind actualizarea Statutului Asociației de Dezvoltare Intercomunitară de utilități publice pentru serviciul de transport public local „Asociația Jiul de Transport Public Local” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.3_din_20.01.2023.pdf",
+     "sha256": "8055d53c3618b178c3a0d2636443be1201ba1599c28ba1ae369574bc0b45bacb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-30-2023",
+   "path": "local/gorj/rovinari/2023/30",
+   "short": "HCL Rovinari nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 30/2023 privind aprobarea Calendarului Competițional al Clubului Sportiv „JIUL Rovinari 2016″ pentru perioada 01.03.2023-31.12.2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.30_din_27.02.2023.pdf",
+     "sha256": "e713d038a321f1d7a871429e680c345414fe8099a3a6edf825027e054bdf94f7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-31-2023",
    "path": "local/gorj/rovinari/2023/31",
    "short": "HCL Rovinari nr. 31/2023",
@@ -104,6 +1739,366 @@
      "units": 1,
      "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.31_din_27.02.2023.pdf",
      "sha256": "9349094b6f635abd9026d837d8b634db81dfd8a29813dd67d105c116951756eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-32-2023",
+   "path": "local/gorj/rovinari/2023/32",
+   "short": "HCL Rovinari nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 32/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății Serviciul de Bază, Pază și Protecție SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.32_din_27.02.2023.pdf",
+     "sha256": "5faf3fc7547a35295780712d05bec8c7e125f71be8d919fee5bf136147378cc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-33-2023",
+   "path": "local/gorj/rovinari/2023/33",
+   "short": "HCL Rovinari nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 33/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 al Societății Servicii Publice Locale SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.33_din_27.02.2023.pdf",
+     "sha256": "9117046c8a620f543070fa3e597120431b25ad297250c615809ccd460d0480f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-34-2023",
+   "path": "local/gorj/rovinari/2023/34",
+   "short": "HCL Rovinari nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 34/2023 privind rectificarea bugetului local pe anul 2023 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.34_din_27.02.2023.pdf",
+     "sha256": "a2636303445b9a7db2e7662bed4666af3fcf4b26bab683e2e52ad94c714a734b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-35-2023",
+   "path": "local/gorj/rovinari/2023/35",
+   "short": "HCL Rovinari nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 35/2023 privind demararea procedurii de înscriere a cetățenilor din orașul Rovinari, în perioada 06.03.20223- 24.03.2023, în vederea acordării și distribuirii de beneficii de asistență socială, constând în tichete sociale, conform legislației în vigoare, cu ocazia sărbătorilor pascale 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.35_din_27.02.2023.pdf",
+     "sha256": "6c720e45ebae472b3310eea304902fe2c1195bd6d207051cd3d3e25e92fdc8ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-36-2023",
+   "path": "local/gorj/rovinari/2023/36",
+   "short": "HCL Rovinari nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 36/2023 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local Rovinari pentru anul 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.36_din_27.02.2023.pdf",
+     "sha256": "b5e1cd959e640a30b286718e2de758d9acaf3b4b7dd15e71c655209e7baee987"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-37-2023",
+   "path": "local/gorj/rovinari/2023/37",
+   "short": "HCL Rovinari nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 37/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.37_din_27.02.2023.pdf",
+     "sha256": "a992f0a4be4df4035ef20bd370c7ea5618347cdef472f7f25f1c10ccd3853462"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-38-2023",
+   "path": "local/gorj/rovinari/2023/38",
+   "short": "HCL Rovinari nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 38/2023 privind trecerea din domeniul privat în domeniul public al UAT Rovinari și declararea de uz și interes public a terenului în suprafață de 4134mp din acte, respectiv 4138mp suprafața masurată, cu numar cadastral 35269, înscris în cartea funciară 35269, situat în oraș Rovinari, Bulevardul Minerilor, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.38_din_27.02.2023.pdf",
+     "sha256": "1114c1788d6fc9e034c0c297aec19390527bfb24bd2c0fa17fc4aee643dd890a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-39-2023",
+   "path": "local/gorj/rovinari/2023/39",
+   "short": "HCL Rovinari nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 39/2023 privind însușirea inventarului domeniului privat conform propunerii comisiei speciale de inventariere a domeniului public și privat constituită la nivelul unității administrativ-teritoriale oraș Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.39_din_27.02.2023.pdf",
+     "sha256": "6d4618757ebf202ea76fc67149f39b819b364309d7a4d833e21f3d491c72a6fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-4-2023",
+   "path": "local/gorj/rovinari/2023/4",
+   "short": "HCL Rovinari nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 4/2023 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al orașului Rovinari, județul Gorj, însușit prin Hotărârea Consiliului Local Rovinari nr.192/27.10.2021 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.4_din_20.01.2023.pdf",
+     "sha256": "5a8d4168dca98d5a7fb3fa8b2357cb67093ba22aa3d0d31aa80ee345f20e6fa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-40-2023",
+   "path": "local/gorj/rovinari/2023/40",
+   "short": "HCL Rovinari nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 40/2023 privind însușirea rapoartelor de evaluare întocmite în vederea concesionării, prin licitație publică, a unor terenuri situate în extravilanul orașului Rovinari, zona Albiei majore a Râului Jiu, în aval de Termocentrala Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.40_din_27.02.2023.pdf",
+     "sha256": "d9d125d152cbde7290ece90360129af71aff7a8f1c2410b3fc42263d7329d4ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-41-2023",
+   "path": "local/gorj/rovinari/2023/41",
+   "short": "HCL Rovinari nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 41/2023 privind acordarea de sprijin financiar pe anul 2023 pentru unitățile de cult religios Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.41_din_27.02.2023.pdf",
+     "sha256": "86bcdd41b182b73a7c3175c90cfbaaf324935281464da6051375138ba5403e4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-42-2023",
+   "path": "local/gorj/rovinari/2023/42",
+   "short": "HCL Rovinari nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 42/2023 privind aprobarea organigramei și statului de funcții pentru aparatul de specialitate al Primarului orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.42_din_6.03.2023.pdf",
+     "sha256": "ed47963392f0ef53dfa820b5dd6cc4548918887c9a319a5e877f78ac47edee2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-43-2023",
+   "path": "local/gorj/rovinari/2023/43",
+   "short": "HCL Rovinari nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 43/2023 privind privind aprobarea organigramei și statului de funcții pentru Societatea Servicii Publice Locale Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.43_din_6.03.2023.pdf",
+     "sha256": "5f337433b8f7880d4d6db0244b5fad359864ddfde64645f2b8f7d1e3cf06b364"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-44-2023",
+   "path": "local/gorj/rovinari/2023/44",
+   "short": "HCL Rovinari nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 44/2023 privind cesiunea părților sociale deținute de SC APĂ CANAL SALUBRITATE SRL, prin lichidator judiciar SIOMAX SPLR, către ORAȘUL ROVINARI prin CONSILIUL LOCAL ROVINARI și actualizarea actului constitutiv al Societății Servicii Publice Locale SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.44_din_6.03.2023.pdf",
+     "sha256": "832d5b84fbba1f45b3377c295350814bae93fc2b36e39b7c0d67869716cba1ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-45-2023",
+   "path": "local/gorj/rovinari/2023/45",
+   "short": "HCL Rovinari nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 45/2023 privind demararea procedurii de concesionare, prin licitație publică organizată în condițiile legii, a terenurilor în suprafață de 132932mp cu nr. cadastral 37036 și în suprafață de 6076mp cu nr. cadastral 37037, situate în extravilanul orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.45_din_6.03.2023.pdf",
+     "sha256": "d45b91fa1881bf7b97983555b9729a57f35e4546a4fd096ab9b10db930dbce31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-46-2023",
+   "path": "local/gorj/rovinari/2023/46",
+   "short": "HCL Rovinari nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 46/2023 privind aprobarea schemei de ajutor de minimis reprezentând scutiri de la plata majorărilor de întârziere aferente impozitelor și taxelor locale datorate de către intreprinderile care au calitatea de contribuabili ai bugetului local al Orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.46_din_29.03.2023.pdf",
+     "sha256": "2f555f7ab439596dd233798862aceff042d2e8b0d1054e76be83d8c5a3b53e04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-47-2023",
+   "path": "local/gorj/rovinari/2023/47",
+   "short": "HCL Rovinari nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 47/2023 privind aprobarea Graficului de ședinte al Consiliului Local Rovinari pentru trimestrul II al anului 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.47_din_29.03.2023.pdf",
+     "sha256": "ef8b24b129d97a600383d31c038ce855b19d093ae5e686973460417cc25cfb08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-48-2023",
+   "path": "local/gorj/rovinari/2023/48",
+   "short": "HCL Rovinari nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 48/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.48_din_29.03.2023.pdf",
+     "sha256": "bd781f1d08ee19086683871fe4d5ddb5a383abc8c231f65e79e367999c6b8e08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-49-2023",
+   "path": "local/gorj/rovinari/2023/49",
+   "short": "HCL Rovinari nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 49/2023 privind aprobarea raportelor de evaluare întocmite de SC Consulting Compa1ty SRL pentru stabilirea valorii de piață a unor terenuri ce urmează a fi inventariate în domeniul public al orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.49_din_29.03.2023.pdf",
+     "sha256": "4af995385a93a00b31ce22a1eb5e11d9e73a4f0ecb55fc95160bf5cbdb5b5b8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-5-2023",
+   "path": "local/gorj/rovinari/2023/5",
+   "short": "HCL Rovinari nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 5/2023 privind aprobarea rețelei școlare ce va funcționa în anul școlar 2023-2024, pe raza orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.5_din_26.01.2023.pdf",
+     "sha256": "324462b94b517dfe620da0dae4343bad3f8e4657e32a6af7b8d4ab0c9e8b77e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-50-2023",
+   "path": "local/gorj/rovinari/2023/50",
+   "short": "HCL Rovinari nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 50/2023 privind alipirea terenului în suprafață de 17mp, cu număr cadastral 35861, cu terenul în suprafață de 35mp, cu numar cadastral 35968 , proprietate privată a orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.50_din_29.03.2023.pdf",
+     "sha256": "9abc86d1a4202235541e51667107734dd583d2253d329e1c408e7991cc27e510"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-51-2023",
+   "path": "local/gorj/rovinari/2023/51",
+   "short": "HCL Rovinari nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 51/2023 privind constituirea cu titlu oneros, fără licitație publică, a dreptului de superficie asupra terenului în suprafață de 58mp, cu nr.cadastral 37034, proprietate privată a orașului Rovinari, situat în oraș Rovinari, Aleea Pieții, FN, lângă bl.G4, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.51_din_29.03.2023.pdf",
+     "sha256": "8f31c86c5da8651144d7212e9ec6080b5fc86660d251ba7aeee38c7dcbc75aac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-52-2023",
+   "path": "local/gorj/rovinari/2023/52",
+   "short": "HCL Rovinari nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 52/2023 privind aprobarea Protocolului de colaborare privind proiectul „HUB de servicii MMSS- SII MMSS”, cod MySmis 130963, între Ministerul Muncii și Solidarității Sociale (MMSS) și UATO Rovinari prin Direcția Publică de Asistență Socială Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.52_din_29.03.2023.pdf",
+     "sha256": "feba17749c759278c0f1ac073ce3a638f65db6101135f349b9926ec5a3872cb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-53-2023",
+   "path": "local/gorj/rovinari/2023/53",
+   "short": "HCL Rovinari nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 53/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.53_din_29.03.2023.pdf",
+     "sha256": "f1e22ffa94434c6b26a44c18efdd4b04ece07d80d9aab49e47b3bd9c3665f9e7"
     }
    ]
   },
@@ -123,6 +2118,51 @@
    ]
   },
   {
+   "slug": "hcl-gorj--rovinari-55-2023",
+   "path": "local/gorj/rovinari/2023/55",
+   "short": "HCL Rovinari nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 55/2023 privind privind rectificarea Bugetului local pe anul 2023 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.55_din_29.03.2023.pdf",
+     "sha256": "7d50f5339ddac21d566a7a0cacda9aff0eaa3612de81cd6da9641808b334d61e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-56-2023",
+   "path": "local/gorj/rovinari/2023/56",
+   "short": "HCL Rovinari nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 56/2023 privind modificarea anexei nr.22657/23.06.2021 la Hotărârea Consiliului Local nr.109/29.06.2021 pentru aprobarea Studiului de oportunitate privind modalitatea de gestiune a unor activități din cadrul serviciului public de salubrizare la nivelul orașului Rovinari și stabilirea modalității de gestiune a serviciului public de salubrizare la nivelul orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.56_din_29.03.2023.pdf",
+     "sha256": "a38491ff453a75867f6aaf9606adc3e15933ca6cf4a652877a0c60d0d6ccc1ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-57-2023",
+   "path": "local/gorj/rovinari/2023/57",
+   "short": "HCL Rovinari nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 57/2023 privind încetarea dreptului de folosință gratuită (comodat) dintre Serviciul de Iluminat Public al orașului Rovinari a bunurilor care au făcut obiectul anexei nr.21455/18.05.2022 la Hotărârea Consiliului Local nr.112/25.05.2022 și anexei nr.46497/18.10.2022 la Hotararea Consiliului Local nr.’228/25.10.2022 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.57_din_29.03.2023.pdf",
+     "sha256": "279128df87a8c93905b824f2e612c674e60de32d6e09ece84284c544cf31b9e3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-58-2023",
    "path": "local/gorj/rovinari/2023/58",
    "short": "HCL Rovinari nr. 58/2023",
@@ -134,6 +2174,21 @@
      "units": 1,
      "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.58_din_29.03.2023.pdf",
      "sha256": "855fc34cf986e854aed96108e3abc1042dd2b76570005e056a700442fd89fc33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-59-2023",
+   "path": "local/gorj/rovinari/2023/59",
+   "short": "HCL Rovinari nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 59/2023 privind aprobarea achiziționării, în condițiile legislației în vigoare, a unui numar de 300 tichete sociale, în valoare de 100 lei/tichet cu TVA, în sumă totală de 30.000 lei cu TVA, cu ocazia sarbatorilor pascale 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.59_din_29.03.2023.pdf",
+     "sha256": "994cbd5d57796786a5ede94e9c94f1950a377f64f680ccb612dce900faa69083"
     }
    ]
   },
@@ -168,6 +2223,216 @@
    ]
   },
   {
+   "slug": "hcl-gorj--rovinari-61-2023",
+   "path": "local/gorj/rovinari/2023/61",
+   "short": "HCL Rovinari nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 61/2023 privind achiziționarea, în condițiile legislației în vigoare, a terenului în suprafață de 3000mp, număr cadastral 36881, CF 36881, tarlaua 100, parcelele 741, 745,746, situat în intravilanul orașului Rovinari, jud.Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.61_din_27.04.2023.pdf",
+     "sha256": "665842361f482b68986289e896f92c9105bf6ab2cd3613a2bb2bd5b07a5da8e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-62-2023",
+   "path": "local/gorj/rovinari/2023/62",
+   "short": "HCL Rovinari nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 62/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.62_din_27.04.2023.pdf",
+     "sha256": "0ffaa07e2a414a7c6077cd2b59979ff91aa57dddf3d243855df9260df31ca083"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-63-2023",
+   "path": "local/gorj/rovinari/2023/63",
+   "short": "HCL Rovinari nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 63/2023 privind însușirea rapoartelor de evaluare, întocmite în vederea inventarierii în domeniul privat, a unor terenuri situate în intravilanul orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.63_din_27.04.2023.pdf",
+     "sha256": "2e91370a5d04200c59518857c144878bb8b902752245ea214e6a5cc3e393634a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-64-2023",
+   "path": "local/gorj/rovinari/2023/64",
+   "short": "HCL Rovinari nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 64/2023",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.64_din__27.04.2023.pdf",
+     "sha256": "0759e2ab27a84a7bba8d11ca2e0735b71f08ff206c6c7f448269ef913a5e60aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-65-2023",
+   "path": "local/gorj/rovinari/2023/65",
+   "short": "HCL Rovinari nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 65/2023",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.65_din_27.04.2023.pdf",
+     "sha256": "7fce27e73a211778748da33943d9e30b813b98951acfcbd309add0248050d969"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-66-2023",
+   "path": "local/gorj/rovinari/2023/66",
+   "short": "HCL Rovinari nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 66/2023 privind 66.HOTĂRÂRE – privind aprobarea Organigramei și Statului de Personal ale Spitalului Orășenesc „Sfântul Ștefan” Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.66_din_27.04.2023.pdf",
+     "sha256": "7066187655ae73ba9ef736bf70c4d1651f54ea6170acd4322a6b09ee1c2b4167"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-67-2023",
+   "path": "local/gorj/rovinari/2023/67",
+   "short": "HCL Rovinari nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 67/2023 privind aprobarea indicatorilor tehnico-economici actualizați – faza proiect tehnic detalii de execuție- pentru obiectivul de investișii „Creșterea eficienței energetice în clădirile rezidențiale – bloc T1, L1 și H4” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.67_din_27.04.2023.pdf",
+     "sha256": "d0a4611955a741609b62a4c3964f3c21426c01fe0ca64627441627ca9f5d5e46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-68-2023",
+   "path": "local/gorj/rovinari/2023/68",
+   "short": "HCL Rovinari nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 68/2023",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.68_din_27.04.2023.pdf",
+     "sha256": "3b768c98362a24aa3df2475e74882beadc4b800c68f0c5537b9e807e8affd413"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-69-2023",
+   "path": "local/gorj/rovinari/2023/69",
+   "short": "HCL Rovinari nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 69/2023",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.69_din_27.04.2023.pdf",
+     "sha256": "b6c1057b829d553a992c9874a99c0f1aed3c6bf269ad536b33553972e9640ca6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-7-2023",
+   "path": "local/gorj/rovinari/2023/7",
+   "short": "HCL Rovinari nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 7/2023 pentru anul 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.7_din_26.01.2023.pdf",
+     "sha256": "6df145d3f4b14bcccfc73d4034cbb034d4e47920b38859d3f986e22fede730ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-70-2023",
+   "path": "local/gorj/rovinari/2023/70",
+   "short": "HCL Rovinari nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 70/2023 privind însușirea domeniului privat conform propunerii comisiei speciale de inventariere a domeniului public și privat constituită la nivelul unității administrativ-tcritoriale oraș Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.70_din_27.04.2023.pdf",
+     "sha256": "7537d4e640b17bf199d526c4ee369285480c04a4f1640b7deb6c1535ab13a090"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-71-2023",
+   "path": "local/gorj/rovinari/2023/71",
+   "short": "HCL Rovinari nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 71/2023 privind rectificarea bugetului local pe anul 2023 al UATO Ravinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.71_din_27.04.2023.pdf",
+     "sha256": "7ff90481373f8422f26de3da500fd11931276a2d520d574c335c4b46b26816e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-72-2023",
+   "path": "local/gorj/rovinari/2023/72",
+   "short": "HCL Rovinari nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 72/2023 privind aprobarea indicatorilor tehnico-economici actualizați – faza proiect tehnic detalii de execuție- pentru obiectivul de investiții „Amenajare parc joacă, zona blocurilor D3-D5, oraș Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.72_din_27.04.2023.pdf",
+     "sha256": "99cb0a8e7e0b3a5a0347e0a8b8e99677e423fc519d15768b66a2590771b2af22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-73-2023",
+   "path": "local/gorj/rovinari/2023/73",
+   "short": "HCL Rovinari nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 73/2023 privind modificarea anexei nr.10065/08.03.2023 la Hotărârea Consiliului Local nr.47129.03.2023 privind aprobarea Graficului de ședințe al Consiliului Local Rovinari pentru trimestrul II al anului 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.73_din_27.04.2023.pdf",
+     "sha256": "831c9342c1afe76a821333f8daf817eef1be388be759e9387dcb623767897bc1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-74-2023",
    "path": "local/gorj/rovinari/2023/74",
    "short": "HCL Rovinari nr. 74/2023",
@@ -183,6 +2448,81 @@
    ]
   },
   {
+   "slug": "hcl-gorj--rovinari-75-2023",
+   "path": "local/gorj/rovinari/2023/75",
+   "short": "HCL Rovinari nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 75/2023 privind aprobarea participării UATO Rovinari în cadrul Programului privind casarea autovehiculelor uzate, derulat în cofinanțare cu Administrația Fondului pentru Mediu Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.75_din_27.04.2023.pdf",
+     "sha256": "e4fdda00c16ad73f06d4690fbab00ba7e85151886f50779a2e602e51c33507e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-76-2023",
+   "path": "local/gorj/rovinari/2023/76",
+   "short": "HCL Rovinari nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 76/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.76_din_27.04.2023.pdf",
+     "sha256": "a5c78d681e822ed25bb4bdce7dd041c2a6b2821c431097127e936b09088045a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-77-2023",
+   "path": "local/gorj/rovinari/2023/77",
+   "short": "HCL Rovinari nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 77/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.77_din_27.04.2023.pdf",
+     "sha256": "0249c62b44ae26f09074a01f4f106c709b6245d754dcbe54f6caeba48ce7f0a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-78-2023",
+   "path": "local/gorj/rovinari/2023/78",
+   "short": "HCL Rovinari nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 78/2023 privind actualizarea indicatorilor tehnico-economici, faza proiect tehnic – detalii de execuție, pentru obiectivul de investiții „Actualizare proiectare – Reabilitare și modernizare centro de asistență școlara afterschool și creșă oraș Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.78_din_27.04.2023.pdf",
+     "sha256": "29016eb1dd13a24e49e75933dc35dcad31de71f7672fed9d1c6df1265ef083f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-79-2023",
+   "path": "local/gorj/rovinari/2023/79",
+   "short": "HCL Rovinari nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 79/2023 privind aprobarea proiectului „MICROBUZE ELECTRICE PENTRU ELEVII JUDEȚULUI GORJ”, în vederea depunerii acestuia în cadrul Apelului de proiecte „Microbuze electrice pentru elevi”, ce va fi finanțat prin Planul Național de Redresare și Reziliență – Componenta C15:Educație Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.79_din_10.05.2023.pdf",
+     "sha256": "002f2f8e9429687619d01d482c855c33e047a6bc964eb3022e207c92a11cc42f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-8-2023",
    "path": "local/gorj/rovinari/2023/8",
    "short": "HCL Rovinari nr. 8/2023",
@@ -194,6 +2534,306 @@
      "units": 1,
      "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.8_din_26.01.2023.pdf",
      "sha256": "13d31a2a8eb9ad2bf08d4d2620459bdf5f27c9b0ed28c76f96baeede74d38d90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-81-2023",
+   "path": "local/gorj/rovinari/2023/81",
+   "short": "HCL Rovinari nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 81/2023 privind aprobarea contului de execuție al bugetului local al unității administrativ teritoriale oraș Rovinari, al bugetului centralizat al instituțiilor publice finanțate din venituri proprii și subvenții din bugetul local al unității administrativ teritoriale oraș Rovinari, încheiate la data de 31.03.2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.81_din_30.05.2023.pdf",
+     "sha256": "331ee3f836e7bc1b412f630ac4fe418995cd76058b19e9fb56ea57d6e36dc30f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-82-2023",
+   "path": "local/gorj/rovinari/2023/82",
+   "short": "HCL Rovinari nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 82/2023 pentru Societatea Servicii Publice Locale Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.82_din_30.05.2023.pdf",
+     "sha256": "22a23bf403d06e20c155aafa13d670b00d8baa47a6f65aee34ee4e341f92a37a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-83-2023",
+   "path": "local/gorj/rovinari/2023/83",
+   "short": "HCL Rovinari nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 83/2023 pentru Societatea Serviciul de Bază, Pază și Protecție SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.83_din_30.05.2023.pdf",
+     "sha256": "3897a8da60832c965f9125db8298005cfc2c6f1fdcde4f4dded86db6954df4ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-84-2023",
+   "path": "local/gorj/rovinari/2023/84",
+   "short": "HCL Rovinari nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 84/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.84_din_30.05.2023.pdf",
+     "sha256": "5347973996b5612f48bf025edbb489f5f0d6b2d51849f26b0deb34de71467a51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-85-2023",
+   "path": "local/gorj/rovinari/2023/85",
+   "short": "HCL Rovinari nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 85/2023 privind îndreptarea erorilor materiale strecurate în art.2 al Hotărârii Consiliului Local Rovinari nr.64/27.04.2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.85_din_30.05.2023.pdf",
+     "sha256": "36f438720f6094c125eb8c3382aa98e4896455ac60fc0f4204678f13bd890f6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-86-2023",
+   "path": "local/gorj/rovinari/2023/86",
+   "short": "HCL Rovinari nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 86/2023 privind aprobarea Regulamentului de organizare și funcționare a Serviciului Social „CENTRU DE ZI DE SOCIALIZARE SI PETRECERE A TIMPULUI LIBER (TIP CLUB) DESTINAT PERSOANELOR VÂRSTNICE – „CLUBUL SENIORILOR” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.86_din_30.05.2023.pdf",
+     "sha256": "fa217d6cfad34b6c21af402ce9e9303fa074ed6adb40b9bbb3341cfd24cdb926"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-87-2023",
+   "path": "local/gorj/rovinari/2023/87",
+   "short": "HCL Rovinari nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 87/2023 privind prelungirea contractelor de concesiune pentru cabinetele medicale ce funcționează în imobilul „internat” al Liceului „Gheorghe Tătărescu” Rovinari, situat în oraș Rovinari, str.Jiului, nr.6, jud.Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.87_din_30.05.2023.pdf",
+     "sha256": "181fe7d6c0755e6d9bb2635f34c67701c6d962fcd90b13415e7aed9df5dbb446"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-88-2023",
+   "path": "local/gorj/rovinari/2023/88",
+   "short": "HCL Rovinari nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 88/2023 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici la obiectivul de investiții „Amenajare parcare de reședință în zona bl.P7, oraș Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.88_din_30.05.2023.pdf",
+     "sha256": "d3bbd4e4b11a0c0a8e2cf23462616c8040afe2dd49d38ed595db7ce7bb5b63ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-89-2023",
+   "path": "local/gorj/rovinari/2023/89",
+   "short": "HCL Rovinari nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 89/2023 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici la obiectivul de investiții „Amenajare parcare de reședință în zona bl.A2 -P7, oraș Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.89_din_30.05.2023.pdf",
+     "sha256": "9a0d439d6ab880f10aa0b511f17c3b9ca03c250d6355771d33f4952d8ce5cdea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-9-2023",
+   "path": "local/gorj/rovinari/2023/9",
+   "short": "HCL Rovinari nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 9/2023 privind aprobarea Planului de acțiuni sau lucrări de interes local ce se vor desfășura în anul 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.9_din_26.01.2023.pdf",
+     "sha256": "2dda42022934acd7dc4c019bcda0cd4fd94bf1d89eae27de942b190c2754809c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-90-2023",
+   "path": "local/gorj/rovinari/2023/90",
+   "short": "HCL Rovinari nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 90/2023 privind acordarea normei de hrană personanului din cadrul Direcției Publice de Poliție Locală Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.90_din_30.05.2023.pdf",
+     "sha256": "f21bcfd96561f9b9f33bf2b7a3b115e59157810d43fbc0d18f5bb7d20852c751"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-91-2023",
+   "path": "local/gorj/rovinari/2023/91",
+   "short": "HCL Rovinari nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 91/2023 privind rectificarea bugetului local pe anul 2023 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.91_din_30.05.2023.pdf",
+     "sha256": "263ca68aac71c7a4525973e3b046486ef95babc2ba8ed4b6fc7431136aee990f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-92-2023",
+   "path": "local/gorj/rovinari/2023/92",
+   "short": "HCL Rovinari nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 92/2023 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „Construire bloc locuinte sociale P+4E și amenajare zonă aferentă, branșare la utilități” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.92_din_30.05.2023.pdf",
+     "sha256": "896969a451622f19b193161e1348fb8bd2f3b8e46d1b1379df4b486e67eb8142"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-93-2023",
+   "path": "local/gorj/rovinari/2023/93",
+   "short": "HCL Rovinari nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 93/2023 privind însușirea domeniului privat conform propunerii comisiei speciale de inventariere a domeniului public și privat constituită la nivelul unității administrativ-teritoriale oraș Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.93_din_30.05.2023.pdf",
+     "sha256": "bed071c9ec8b84532d280a1e2e3c9134422cb403e3ea5013a7f0fdbec2232cdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-94-2023",
+   "path": "local/gorj/rovinari/2023/94",
+   "short": "HCL Rovinari nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 94/2023 privind aprobarea efectuării în anul 2023 a concediului de odihnă neefectuat în anul 2022, de către primarul orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.94_din_30.05.2023.pdf",
+     "sha256": "bdb10d90af4a0c030b797fb9b2e14c290234a1622b13d6c113fccfdf0e3e3a42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-95-2023",
+   "path": "local/gorj/rovinari/2023/95",
+   "short": "HCL Rovinari nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 95/2023 privind aprobarea organigramei și statului de funcții pentru aparatul de specialitate al Primarului orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.95_din_30.05.2023.pdf",
+     "sha256": "e4fe83acbe59848f0cb158fc9bbd9c2ade85286d28e49bd71ba80dd56b139f7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-96-2023",
+   "path": "local/gorj/rovinari/2023/96",
+   "short": "HCL Rovinari nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 96/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.96_din_30.05.2023.pdf",
+     "sha256": "95ae2e0c5589279de0373541d6e94495fbb21484c332c146e19c4167b58ae533"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-97-2023",
+   "path": "local/gorj/rovinari/2023/97",
+   "short": "HCL Rovinari nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 97/2023 privind modificarea art.3 din Hotărârea Consiliului Local nr.236/14.11.2022 privind aprobarea proiectului „Dotarea cu insule ecologice digitalizate a Orașului Rovinari” în vederea depunerii în cadrul apelului de proiecte PNRR/2022/C3/S/I.l.B finanțat din Planul Național de Redresare și Reziliență, Componenta C3-Managementul deșeurilor, Investiția I1- Dezvoltarea, modernizarea și completarea sistem",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.97_din_30.05.2023.pdf",
+     "sha256": "ffabb1388010ac59baaaa08bb278d819b15b1dcf40587c75be52f808406e1e25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-98-2023",
+   "path": "local/gorj/rovinari/2023/98",
+   "short": "HCL Rovinari nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 98/2023 privind declararea de uz și interes public a unor terenuri situate în oraș Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.98_din_30.05.2023.pdf",
+     "sha256": "0da11566e1a9185b7ce3b5337c5484af9aa0ddb90d7d79a4297a9e0b9bfdd7b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-99-2023",
+   "path": "local/gorj/rovinari/2023/99",
+   "short": "HCL Rovinari nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 99/2023 privind aprobarea Graficului de ședințe al Consiliului Local Rovinari pentru trimestrul III al anului 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2023-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.99_din_28.06.2023.pdf",
+     "sha256": "16da830ad71f1aa22e7a1d6b2552e669f1ec046242f3122aa739c8ecf4307f30"
     }
    ]
   }

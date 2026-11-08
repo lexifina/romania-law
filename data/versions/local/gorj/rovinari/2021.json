@@ -3,6 +3,2931 @@
  "shard": "local/gorj/rovinari/2021",
  "acts": [
   {
+   "slug": "hcl-gorj--rovinari-1-2021",
+   "path": "local/gorj/rovinari/2021/1",
+   "short": "HCL Rovinari nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 1/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.1_din_12.01.2021.pdf",
+     "sha256": "b91c7ab3ba736dd5e6eb25168c7112281fe3aafebc30534bdfa0fc586dfc8690"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-10-2021",
+   "path": "local/gorj/rovinari/2021/10",
+   "short": "HCL Rovinari nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 10/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.10_din_27.01.2021.pdf",
+     "sha256": "2d4a68cf6780bd9b1c34bb4f885e3b75683276442e33cb8ef7a8eb03732921b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-100-2021",
+   "path": "local/gorj/rovinari/2021/100",
+   "short": "HCL Rovinari nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 100/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.100_din_29.06.2021.pdf",
+     "sha256": "48359873f9a34e1bb617114e7d052b978e803a911301b60620bd4ef9343457c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-101-2021",
+   "path": "local/gorj/rovinari/2021/101",
+   "short": "HCL Rovinari nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 101/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.101_din_29.06.2021.pdf",
+     "sha256": "a3aa9e12abdcb520d5a3718d15329178aabae98141b5e947706a00b8a942ba1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-102-2021",
+   "path": "local/gorj/rovinari/2021/102",
+   "short": "HCL Rovinari nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 102/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_nr.102_din_29.06.2021.pdf",
+     "sha256": "39f5184dd382d6823692e4a583a949563207dacaaa718702fa04a53adc081e83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-103-2021",
+   "path": "local/gorj/rovinari/2021/103",
+   "short": "HCL Rovinari nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 103/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.103_din_29.06.2021.pdf",
+     "sha256": "fa6894a55ccd9e70eca03c34357038e9fbb993d77af15fcdc57da3505bf5041a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-104-2021",
+   "path": "local/gorj/rovinari/2021/104",
+   "short": "HCL Rovinari nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 104/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.104_din_29.06.2021.pdf",
+     "sha256": "c48b393915258659a5fde4e2bb889fc87916c1ef154c6825800839d725840d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-105-2021",
+   "path": "local/gorj/rovinari/2021/105",
+   "short": "HCL Rovinari nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 105/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.105_din_29.06.2021.pdf",
+     "sha256": "8f41f07fb1d54a00ffdbb3d8eae0079fb4a6bd278603222d631266d89dd8fadc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-106-2021",
+   "path": "local/gorj/rovinari/2021/106",
+   "short": "HCL Rovinari nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 106/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.106_din_29.06.2021.pdf",
+     "sha256": "1e9631ede694cee9a0687fe1c249093bfb1c2d429a32118571b0501428d306b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-107-2021",
+   "path": "local/gorj/rovinari/2021/107",
+   "short": "HCL Rovinari nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 107/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.107_din_29.06.2021.pdf",
+     "sha256": "581da822c58896cacc8376947af7d6f95f170a2569fc37288d307d4f60b04cff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-108-2021",
+   "path": "local/gorj/rovinari/2021/108",
+   "short": "HCL Rovinari nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 108/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.108_din_29.06.2021.pdf",
+     "sha256": "63828791b265e3730aa7b91363a9f3acd06f192d3deba1d1c05fbc328e0b6d8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-109-2021",
+   "path": "local/gorj/rovinari/2021/109",
+   "short": "HCL Rovinari nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 109/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.109_din_29.06.2021.pdf",
+     "sha256": "3d9fc85fbe111f90665b865f430563e29a4e3c5953f746d999a3b28b0b4c9a0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-11-2021",
+   "path": "local/gorj/rovinari/2021/11",
+   "short": "HCL Rovinari nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 11/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.11_din_27.01.2021.pdf",
+     "sha256": "ab8f81fefe6b71a84ddcad2103f6abec99cb4c12fb18ee3e4c8884c27bde2288"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-110-2021",
+   "path": "local/gorj/rovinari/2021/110",
+   "short": "HCL Rovinari nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 110/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.110_din_29.06.2021.pdf",
+     "sha256": "be6429af39d54b512b9fc712db49bde6ff4cb200582e5ea0194ebe336a1bf0cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-111-2021",
+   "path": "local/gorj/rovinari/2021/111",
+   "short": "HCL Rovinari nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 111/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.111_din_29.06.2021.pdf",
+     "sha256": "e0e35996ee29d4244e0420c4b121c2f2bfcccebc67cf6928dea134514a18ec59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-112-2021",
+   "path": "local/gorj/rovinari/2021/112",
+   "short": "HCL Rovinari nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 112/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.112_din_29.06.2021.pdf",
+     "sha256": "c3bfe4f0e2d590adfefaebc17d41a4fec70814077e8016df6d54cb76df01ccdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-113-2021",
+   "path": "local/gorj/rovinari/2021/113",
+   "short": "HCL Rovinari nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 113/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.113_din_15.07.2021.pdf",
+     "sha256": "91dc09c94544f054ddaba66e74f992468c92d248747711f4d0a2a36e5a273b1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-114-2021",
+   "path": "local/gorj/rovinari/2021/114",
+   "short": "HCL Rovinari nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 114/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.114_din_15.07.2021.pdf",
+     "sha256": "cf9ec3ee3cd2712ad94e8389ed12da345d16666577c5eaea858ce97a432a5e81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-115-2021",
+   "path": "local/gorj/rovinari/2021/115",
+   "short": "HCL Rovinari nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 115/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.115_din_27.07.2021.pdf",
+     "sha256": "1ca2c5b4b41029e0ffd638d34918e08372d9055de6f3e2238eff0b2d6805077c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-116-2021",
+   "path": "local/gorj/rovinari/2021/116",
+   "short": "HCL Rovinari nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 116/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_nr.116_din_27.07.2021.pdf",
+     "sha256": "b7660bd5ca12011f80d8e6945ec5352e60bc306ce327e6141ce9c09ecf4b5a4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-117-2021",
+   "path": "local/gorj/rovinari/2021/117",
+   "short": "HCL Rovinari nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 117/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.117_din_27.07.2021.pdf",
+     "sha256": "638162c7358c4220c85294486f753ade54bb1ccfe98f5b6639d95260d317759e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-118-2021",
+   "path": "local/gorj/rovinari/2021/118",
+   "short": "HCL Rovinari nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 118/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.118_din_27.07.2021.pdf",
+     "sha256": "b5a74c78272d5e9c26e8dd452e3df4232c1f0aa2b7c4c0ec1d7f1650fef59fac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-119-2021",
+   "path": "local/gorj/rovinari/2021/119",
+   "short": "HCL Rovinari nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 119/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.119_din_27.07.2021.pdf",
+     "sha256": "a3df7e8df67ef7c75da3f9d63d48309220626465cc4cad6f07bbda6d8be0f24d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-12-2021",
+   "path": "local/gorj/rovinari/2021/12",
+   "short": "HCL Rovinari nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 12/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr._12_din_27.01.2021.pdf",
+     "sha256": "eaea048f4b57f23832502dfb51e00e1a15a5b7d2e3534e7d3e0f6f7860b2d97c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-120-2021",
+   "path": "local/gorj/rovinari/2021/120",
+   "short": "HCL Rovinari nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 120/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.120_din_27.07.2021.pdf",
+     "sha256": "936e33c62468bb772f262c474da44e868d9ec0fa09a50c9708d59e9842b48afe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-121-2021",
+   "path": "local/gorj/rovinari/2021/121",
+   "short": "HCL Rovinari nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 121/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.121_din_27.07.2021.pdf",
+     "sha256": "b605a80cb01ab585c2d2bceb0dd345c33e3b3f93faf9396ff752bd6168e575ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-122-2021",
+   "path": "local/gorj/rovinari/2021/122",
+   "short": "HCL Rovinari nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 122/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.122_din_27.07.2021.pdf",
+     "sha256": "ce1e21aea62075003bd8a27061c0efc7701472e0dd758b5d919bd037a07c293f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-123-2021",
+   "path": "local/gorj/rovinari/2021/123",
+   "short": "HCL Rovinari nr. 123/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 123/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.123_din_27.07.2021.pdf",
+     "sha256": "ccb55245f2a540047046d4a0c8e1408c3ca9c10cbde44e33ad75515e084cec3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-124-2021",
+   "path": "local/gorj/rovinari/2021/124",
+   "short": "HCL Rovinari nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 124/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.124_din_27.07.2021.pdf",
+     "sha256": "580390f715fd9684e9d07b7c69c32c230d8bf9b0cb66af778d8e4e800e5430eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-125-2021",
+   "path": "local/gorj/rovinari/2021/125",
+   "short": "HCL Rovinari nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 125/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.125_din_27.07.2021.pdf",
+     "sha256": "b9dec321b2dc937e4070b93739d966dd69bb5f7ac27525973597bed5116f91f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-126-2021",
+   "path": "local/gorj/rovinari/2021/126",
+   "short": "HCL Rovinari nr. 126/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 126/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.126_din_27.07.2021.pdf",
+     "sha256": "95b45660784e3b6dfd65897c46028ddd5363fbb644ebcc9184c59cd0904bd3b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-127-2021",
+   "path": "local/gorj/rovinari/2021/127",
+   "short": "HCL Rovinari nr. 127/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 127/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.127din_27.07.2021.pdf",
+     "sha256": "7ae8209a4c9264dd5608b2a01ed00dbbf426f70e0a17a114a7fa1cfdf7623377"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-128-2021",
+   "path": "local/gorj/rovinari/2021/128",
+   "short": "HCL Rovinari nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 128/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.128_din_27.07.2021.pdf",
+     "sha256": "29f01d8bc3a3697a8aff0702ea58efab75dcbb10919b72555aaebc9e60e1050b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-129-2021",
+   "path": "local/gorj/rovinari/2021/129",
+   "short": "HCL Rovinari nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 129/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.129_din_27.07.2021.pdf",
+     "sha256": "96e475a69071bcb7b59da03849a99ec957678770d5c662d8eeb71b128c4952de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-13-2021",
+   "path": "local/gorj/rovinari/2021/13",
+   "short": "HCL Rovinari nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 13/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.13_din_27.01.2021.pdf",
+     "sha256": "2fd97d18aabc157f3bdb6200c19808eb828b25aa07564993912ed13d5d9a8cbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-130-2021",
+   "path": "local/gorj/rovinari/2021/130",
+   "short": "HCL Rovinari nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 130/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.130_din_27.07.2021.pdf",
+     "sha256": "13c41a7dcec6e86b6548baed34aaf66c2030a0ae49948f8b487ac4e1973b84a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-131-2021",
+   "path": "local/gorj/rovinari/2021/131",
+   "short": "HCL Rovinari nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 131/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.131_din_31.08.2021.pdf",
+     "sha256": "d0dd43a59f8e958d2710cda4715bf5dbcd92a97863380b36932c1019465e77d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-132-2021",
+   "path": "local/gorj/rovinari/2021/132",
+   "short": "HCL Rovinari nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 132/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.132_din_31.08.2021.pdf",
+     "sha256": "c6897eee93a507f28b5393d2884809c7081b658802e318e346586952bac585ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-133-2021",
+   "path": "local/gorj/rovinari/2021/133",
+   "short": "HCL Rovinari nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 133/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.133_din_31.08.2021.pdf",
+     "sha256": "a639d2e0a7528b5133eccc91241cf3aadf58cb56f32e61d07fd61cc2604f3405"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-134-2021",
+   "path": "local/gorj/rovinari/2021/134",
+   "short": "HCL Rovinari nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 134/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.134_din_31.08.2021.pdf",
+     "sha256": "83e954671e23b034b405e780e410a0deb76e25b62c1a0228746a217af06a35c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-135-2021",
+   "path": "local/gorj/rovinari/2021/135",
+   "short": "HCL Rovinari nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 135/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.135_din_31.08.2021.pdf",
+     "sha256": "ede4f5ad65eb9b9933ad3ecb94cc5477f7f25523b9ea39f29bb67157018a3594"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-136-2021",
+   "path": "local/gorj/rovinari/2021/136",
+   "short": "HCL Rovinari nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 136/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.136_din_31.08.2021.pdf",
+     "sha256": "5f1b18eeb26765e5c06ae4f4165ef3326983a45ee77018861f722448e16915e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-137-2021",
+   "path": "local/gorj/rovinari/2021/137",
+   "short": "HCL Rovinari nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 137/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.137_din_31.08.2021.pdf",
+     "sha256": "be7e11710a49a18d0bd3e30d7ada50092c4197d8b19c5efcedc1610cee5a585e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-138-2021",
+   "path": "local/gorj/rovinari/2021/138",
+   "short": "HCL Rovinari nr. 138/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 138/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_nr.138_din_31.08.2021.pdf",
+     "sha256": "291a0cb2d9905af488df1a1a18e99f0494b747a9c8003c292db6cff12ce11e34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-139-2021",
+   "path": "local/gorj/rovinari/2021/139",
+   "short": "HCL Rovinari nr. 139/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 139/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.139_din_31.08.2021.pdf",
+     "sha256": "9ac2ee231079135658b9f725d9d01860b8e2ed8bd8d042689f62451dcd28b4c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-14-2021",
+   "path": "local/gorj/rovinari/2021/14",
+   "short": "HCL Rovinari nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 14/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.14_din_27.01.2021.pdf",
+     "sha256": "5cecd5cff65e490b39f81778e37b8c1abd9f38948b8a54a7b9c4b92c1ed8f48b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-140-2021",
+   "path": "local/gorj/rovinari/2021/140",
+   "short": "HCL Rovinari nr. 140/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 140/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.140_din_31.08.2021.pdf",
+     "sha256": "88bf2799c276597ec85f486df43c1d2742f982621100bdc524b467416eb86f92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-141-2021",
+   "path": "local/gorj/rovinari/2021/141",
+   "short": "HCL Rovinari nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 141/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.141_din_31.08.2021.pdf",
+     "sha256": "321b0d3e9c9afe4593d066650c3778d8c97af9c7d6c3f09e249d7db0640d4b90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-142-2021",
+   "path": "local/gorj/rovinari/2021/142",
+   "short": "HCL Rovinari nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 142/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_nr.142_din_31.08.2021.pdf",
+     "sha256": "99b6a6e99e60b23bc85a5f49fb01af3fbeeee7e8ce87f74921b79283d85557a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-143-2021",
+   "path": "local/gorj/rovinari/2021/143",
+   "short": "HCL Rovinari nr. 143/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 143/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_nr.143_din_10.09.2021.pdf",
+     "sha256": "31fa9e168ec047e04cc00d35c05d8d7bc54f5cabb89cba1b07a37f8098dfbfb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-144-2021",
+   "path": "local/gorj/rovinari/2021/144",
+   "short": "HCL Rovinari nr. 144/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 144/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.144_din_10.09.2021.pdf",
+     "sha256": "613fba1dab865036f40a7ad13ea53ec3ff93b9d2bcaedf3e2cbfa69bf924919c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-145-2021",
+   "path": "local/gorj/rovinari/2021/145",
+   "short": "HCL Rovinari nr. 145/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 145/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.145_din_10.09.2021.pdf",
+     "sha256": "c1b2da47b174640d95b1a76575c69f0000fbbafd58b492ae0e236a5bc29d4203"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-146-2021",
+   "path": "local/gorj/rovinari/2021/146",
+   "short": "HCL Rovinari nr. 146/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 146/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.146_din_29.09.2021.pdf",
+     "sha256": "ff0bf77ccc91faf774d657f8d2c39146444dad71635654f66283d758ce54b7cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-147-2021",
+   "path": "local/gorj/rovinari/2021/147",
+   "short": "HCL Rovinari nr. 147/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 147/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.147_din_29.09.2021.pdf",
+     "sha256": "1643e803228549473e14f125056271390d97382a0692d26883210099f2d58a9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-148-2021",
+   "path": "local/gorj/rovinari/2021/148",
+   "short": "HCL Rovinari nr. 148/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 148/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.148_din_29.09.2021.pdf",
+     "sha256": "3f2262b43d57d0b82181a36c48d1a25d66bff824b297789c788134bd63cd666d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-149-2021",
+   "path": "local/gorj/rovinari/2021/149",
+   "short": "HCL Rovinari nr. 149/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 149/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.149_din_29.09.2021.pdf",
+     "sha256": "738823c9b3107cd446137e4684da6566fc7ddf8a89c55e99bf08531390d95cab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-15-2021",
+   "path": "local/gorj/rovinari/2021/15",
+   "short": "HCL Rovinari nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 15/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.15_din_27.01.2021.pdf",
+     "sha256": "12d0dcf0e4e7930fedbf0f7b2b4e4aec42ad92c385fd9671d0e7290461448ecb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-150-2021",
+   "path": "local/gorj/rovinari/2021/150",
+   "short": "HCL Rovinari nr. 150/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 150/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.150_din_29.09.2021.pdf",
+     "sha256": "7dc9561ec71ee0ba4de72b1aaa26ee25315623a7aeb0716473ac3a0e54f851f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-151-2021",
+   "path": "local/gorj/rovinari/2021/151",
+   "short": "HCL Rovinari nr. 151/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 151/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.151_din_29.09.2021.pdf",
+     "sha256": "1ee2084bb8c572294be9399195581f018dbe11429d78878269e516cc59fec7bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-152-2021",
+   "path": "local/gorj/rovinari/2021/152",
+   "short": "HCL Rovinari nr. 152/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 152/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.152_din_29.09.2021.pdf",
+     "sha256": "20a076a212c38c37f87dfcefa137d7f28fe11cf3badc18e0ac018e556b2f601c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-153-2021",
+   "path": "local/gorj/rovinari/2021/153",
+   "short": "HCL Rovinari nr. 153/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 153/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.153_din_29.09.2021.pdf",
+     "sha256": "7c8c4927b6296bbb0b916ccfe3e037767ba54ed56aa4042db558e88059fd2850"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-154-2021",
+   "path": "local/gorj/rovinari/2021/154",
+   "short": "HCL Rovinari nr. 154/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 154/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.154_din_29.09.2021.pdf",
+     "sha256": "ee3cb09c50ff34ddb716ee3b3c1615e97c00ca22e8f02e59416eec697b0d5fa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-155-2021",
+   "path": "local/gorj/rovinari/2021/155",
+   "short": "HCL Rovinari nr. 155/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 155/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.155_din_29.09.2021.pdf",
+     "sha256": "a32e6d73d843921cfcc3b7efa53d78d16235167a77b0b23ece0a73a16002a332"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-156-2021",
+   "path": "local/gorj/rovinari/2021/156",
+   "short": "HCL Rovinari nr. 156/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 156/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.156_din_29.09.2021.pdf",
+     "sha256": "0ebcd2e8eb64fed00b18d67ef652b26c12821761c1339d9762459b81b627c4d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-157-2021",
+   "path": "local/gorj/rovinari/2021/157",
+   "short": "HCL Rovinari nr. 157/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 157/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.157_din_29.09.2021.pdf",
+     "sha256": "78ed560392f1d34c999cd1750f9a266cf40168ea659fde74213bf00840edcc0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-158-2021",
+   "path": "local/gorj/rovinari/2021/158",
+   "short": "HCL Rovinari nr. 158/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 158/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.158_din_29.09.2021.pdf",
+     "sha256": "681e7803949865933dd0063461d31ebbc60abafaf34a87d68914185e2d1ebf81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-159-2021",
+   "path": "local/gorj/rovinari/2021/159",
+   "short": "HCL Rovinari nr. 159/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 159/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.159_din_29.09.2021.pdf",
+     "sha256": "27105a716baa60e5a380bf3708b6d46cb0bcae5266d524d63ad27337e8750dfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-16-2021",
+   "path": "local/gorj/rovinari/2021/16",
+   "short": "HCL Rovinari nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 16/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.16_din_27.01.2021.pdf",
+     "sha256": "84a17575d84ba56b88dbfbe7f662a056db30737c9f4b74cbc64f0c6e1702096a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-160-2021",
+   "path": "local/gorj/rovinari/2021/160",
+   "short": "HCL Rovinari nr. 160/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 160/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.160_din_29.09.2021.pdf",
+     "sha256": "8053e6e0b4876c5b81a1716f24dec672fc20d25bd122129f220201b83f1bfb0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-161-2021",
+   "path": "local/gorj/rovinari/2021/161",
+   "short": "HCL Rovinari nr. 161/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 161/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.161_din_29.09.2021.pdf",
+     "sha256": "ab199bd4d31a027680cd190cd2bc788a17024b1535bcc2987f8cbd1416597795"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-162-2021",
+   "path": "local/gorj/rovinari/2021/162",
+   "short": "HCL Rovinari nr. 162/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 162/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.162_din_29.09.2021.pdf",
+     "sha256": "651e548864dd9e4c83f213ba5dbc09fecebb6fbac5a8ee81620f09780bccc1bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-163-2021",
+   "path": "local/gorj/rovinari/2021/163",
+   "short": "HCL Rovinari nr. 163/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 163/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.163_din_29.09.2021.pdf",
+     "sha256": "e8ac76cf0505dd068426b3450f35da63e8cb8b1febd875e6046e127073d5c197"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-164-2021",
+   "path": "local/gorj/rovinari/2021/164",
+   "short": "HCL Rovinari nr. 164/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 164/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.164_din_29.09.2021.pdf",
+     "sha256": "ad299e0a8ad63edc648636cd67448b6c8655109cf61619fdc7bfb646616c7aa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-165-2021",
+   "path": "local/gorj/rovinari/2021/165",
+   "short": "HCL Rovinari nr. 165/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 165/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_nr.165_din_29.09.2021.pdf",
+     "sha256": "eb3ada0683436586c82f64a9a36cc2d6dccc20634063a3bdf687ae83deb34efc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-166-2021",
+   "path": "local/gorj/rovinari/2021/166",
+   "short": "HCL Rovinari nr. 166/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 166/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.166_din_08.10.2021.pdf",
+     "sha256": "b7461252b4465683ffae505b112b55cc55ba687ef8a99dc30c46d27b4cc0c5d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-167-2021",
+   "path": "local/gorj/rovinari/2021/167",
+   "short": "HCL Rovinari nr. 167/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 167/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.167_din_08.10.2021.pdf",
+     "sha256": "b56795d76adddfc0dcec60984cb85b32c445fdc49662729599c37ede77efa327"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-168-2021",
+   "path": "local/gorj/rovinari/2021/168",
+   "short": "HCL Rovinari nr. 168/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 168/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.168_din_08.10.2021.pdf",
+     "sha256": "16dfeab9498f05d77483a074af036e018f8bcef7a8e290a5a486886fd59accb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-169-2021",
+   "path": "local/gorj/rovinari/2021/169",
+   "short": "HCL Rovinari nr. 169/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 169/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.169_din_08.10.2021.pdf",
+     "sha256": "b3fc3502f42117ddccd889aeecdd11f54c32c817fdd87b4983d4ed4e72d66c6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-17-2021",
+   "path": "local/gorj/rovinari/2021/17",
+   "short": "HCL Rovinari nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 17/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.17_din_27.01.2021.pdf",
+     "sha256": "9bc01dfecfd1ce4f76d04f448f9b664c880e43bb7a7f6e30e98bf87f2194b177"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-170-2021",
+   "path": "local/gorj/rovinari/2021/170",
+   "short": "HCL Rovinari nr. 170/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 170/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.170_din_08.10.2021.pdf",
+     "sha256": "f749538a3f9537268bf5e136439924044fe9c2a95effe8cea516bc8a86ecc84a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-171-2021",
+   "path": "local/gorj/rovinari/2021/171",
+   "short": "HCL Rovinari nr. 171/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 171/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.171_din_08.10.2021.pdf",
+     "sha256": "9e05fdd9a6a350c05c308f037080952f67d3a3857d77b3c63459882e844036d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-172-2021",
+   "path": "local/gorj/rovinari/2021/172",
+   "short": "HCL Rovinari nr. 172/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 172/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.172_din_19.10.2021.pdf",
+     "sha256": "b69f402d79e64b0c973c32bf9edad01a25ab4562d0d67946dde267ff8e371dbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-173-2021",
+   "path": "local/gorj/rovinari/2021/173",
+   "short": "HCL Rovinari nr. 173/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 173/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.173_din_19.10.2021.pdf",
+     "sha256": "c8f5159e6b02b8a68b925395adc7686482ec3cb5eb93de71c9e929a80f31d6d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-174-2021",
+   "path": "local/gorj/rovinari/2021/174",
+   "short": "HCL Rovinari nr. 174/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 174/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.174_din_19.10.2021.pdf",
+     "sha256": "18ea32b6df793074d7f20f0b7d9fada989346bd23f152e9d62c38d9369ac542e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-175-2021",
+   "path": "local/gorj/rovinari/2021/175",
+   "short": "HCL Rovinari nr. 175/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 175/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.175_din19.10.2021.pdf",
+     "sha256": "fec51949d3c1f5243b777d22020eb6fea1a4fca4962609a371c115521cea1366"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-176-2021",
+   "path": "local/gorj/rovinari/2021/176",
+   "short": "HCL Rovinari nr. 176/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 176/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.176_din_19.10.2021.pdf",
+     "sha256": "5055865a1996689fac5442f6ea11353ff74dd5f2aa330fed7a02ebb24af068cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-177-2021",
+   "path": "local/gorj/rovinari/2021/177",
+   "short": "HCL Rovinari nr. 177/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 177/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.177_din_27.10.2021.pdf",
+     "sha256": "7e457c645c796a3d8f4c355f35cfc77bb00cc0469f5d147f9ba0aff07bddd540"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-178-2021",
+   "path": "local/gorj/rovinari/2021/178",
+   "short": "HCL Rovinari nr. 178/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 178/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.178_din_27.10.2021.pdf",
+     "sha256": "b75af16e6dfb0252413d6ef021c45fe2d63d8860e99fd9fd91a7b66e025d3118"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-179-2021",
+   "path": "local/gorj/rovinari/2021/179",
+   "short": "HCL Rovinari nr. 179/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 179/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.179_din_27.10.2021.pdf",
+     "sha256": "75d657ff565ccc97ad1ffa2bc7418f254c656a4a24ce246e01a727fbd866e86c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-18-2021",
+   "path": "local/gorj/rovinari/2021/18",
+   "short": "HCL Rovinari nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 18/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.18_din_27.01.2021.pdf",
+     "sha256": "9e2322a425c1e6a033ef7620622f069ad6da3e48383862147ceef06beb797818"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-180-2021",
+   "path": "local/gorj/rovinari/2021/180",
+   "short": "HCL Rovinari nr. 180/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 180/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.180_din_27.10.2021.pdf",
+     "sha256": "3bf68602dba0896d85a48382c77ce4eee06ca9395018e9980149653d50b921ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-181-2021",
+   "path": "local/gorj/rovinari/2021/181",
+   "short": "HCL Rovinari nr. 181/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 181/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.181_din_27.10.2021.pdf",
+     "sha256": "a8954010922165455377fd7dea5869ad7b32fea45c7aa710e46f428e965325e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-182-2021",
+   "path": "local/gorj/rovinari/2021/182",
+   "short": "HCL Rovinari nr. 182/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 182/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.182_din_27.10.2021.pdf",
+     "sha256": "7dc3f9b71cad4157c20c05f1bd935bec7cfd87a92f90cae53b5ccae23541392a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-183-2021",
+   "path": "local/gorj/rovinari/2021/183",
+   "short": "HCL Rovinari nr. 183/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 183/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.183_din_27.10.2021.pdf",
+     "sha256": "789c18abbf718884a8a29373862ba56dd753577d3932daeb0d85e4c8ebb64e00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-184-2021",
+   "path": "local/gorj/rovinari/2021/184",
+   "short": "HCL Rovinari nr. 184/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 184/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.184_din_27.10.2021.pdf",
+     "sha256": "6873caa5bc285a16a9881b612570ecceb4e2c174012d086d6153c9b87a6f5af7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-185-2021",
+   "path": "local/gorj/rovinari/2021/185",
+   "short": "HCL Rovinari nr. 185/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 185/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.185_din_27.10.2021.pdf",
+     "sha256": "4a69ee2116b02569d10d53cf289b37e2e9ec59cbd3dfd43b815bfb168521cf1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-186-2021",
+   "path": "local/gorj/rovinari/2021/186",
+   "short": "HCL Rovinari nr. 186/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 186/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.186_din_27.10.2021.pdf",
+     "sha256": "f5253eb5dffd3e6f52e7469380b6f55c61af4156ed50949d1398560c0d73c7ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-187-2021",
+   "path": "local/gorj/rovinari/2021/187",
+   "short": "HCL Rovinari nr. 187/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 187/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.187_din_27.10.2021.pdf",
+     "sha256": "9612c892030d7e117581c38931029007489d47ad94cde41d750b0afb91ac16de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-188-2021",
+   "path": "local/gorj/rovinari/2021/188",
+   "short": "HCL Rovinari nr. 188/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 188/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.188_din_27.10.2021.pdf",
+     "sha256": "d3dfb47df17b094e8872b1add42c4aaddca0b65b6af0730ad78641ea40e87677"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-189-2021",
+   "path": "local/gorj/rovinari/2021/189",
+   "short": "HCL Rovinari nr. 189/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 189/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.189_din_27.10.2021.pdf",
+     "sha256": "afc55efb6278272276831e715915a9ee91116b278df97904f40067b3141114eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-19-2021",
+   "path": "local/gorj/rovinari/2021/19",
+   "short": "HCL Rovinari nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 19/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.19_din_24.02.2021.pdf",
+     "sha256": "d1b00b65d9530b800454fbcde0118703677d9253911f0ddd29a7534a2280c771"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-190-2021",
+   "path": "local/gorj/rovinari/2021/190",
+   "short": "HCL Rovinari nr. 190/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 190/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.190_din_27.10.2021.pdf",
+     "sha256": "a11ffcb609cd6edd1ebef1059822893c985563e3557c65bede544489e48f25f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-191-2021",
+   "path": "local/gorj/rovinari/2021/191",
+   "short": "HCL Rovinari nr. 191/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 191/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.191._din_27.10.2021.pdf",
+     "sha256": "fb6436b905349e5476fe406ce4a9567477a5e44f2b76ee927566426d2d410d8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-192-2021",
+   "path": "local/gorj/rovinari/2021/192",
+   "short": "HCL Rovinari nr. 192/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 192/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.192_din_27.10.2021.pdf",
+     "sha256": "4020ea5edf4e3e7ea837f7a1ba95d8915d651395858a8d8305c28ba6927d05e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-193-2021",
+   "path": "local/gorj/rovinari/2021/193",
+   "short": "HCL Rovinari nr. 193/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 193/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.193_din_27.10.2021.pdf",
+     "sha256": "85a33a8ced0078d5d662ba6e75422f180acddc273695290990f971ceaa85ae38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-194-2021",
+   "path": "local/gorj/rovinari/2021/194",
+   "short": "HCL Rovinari nr. 194/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 194/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.194_din_27.10.2021.pdf",
+     "sha256": "22d65ad76e082e25b7e09df83af0514a53e7ed4cda0b96f7b16fa48d939a1baf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-195-2021",
+   "path": "local/gorj/rovinari/2021/195",
+   "short": "HCL Rovinari nr. 195/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 195/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.195_din_27.10.2021.pdf",
+     "sha256": "2378a4d5cee621da880c533d06d7723198c5e6cdc04eae9a1d6e6368d490caa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-196-2021",
+   "path": "local/gorj/rovinari/2021/196",
+   "short": "HCL Rovinari nr. 196/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 196/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.196_din_27.10.2021.pdf",
+     "sha256": "45c2e5a178260d7b652b40ab1d809162a66412d25d2eb78a7bfe8ed72454899a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-197-2021",
+   "path": "local/gorj/rovinari/2021/197",
+   "short": "HCL Rovinari nr. 197/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 197/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.197_din_27.10.2021.pdf",
+     "sha256": "4c609402c0b3c374dc3c6559e9bf2162c384090eea81d7715f1d91e25dd726cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-198-2021",
+   "path": "local/gorj/rovinari/2021/198",
+   "short": "HCL Rovinari nr. 198/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 198/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_nr.198_din_27.10.2021.pdf",
+     "sha256": "c6bcedb3503bd62429591f2537b01624425254bb146de353d3a462e6c6729110"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-199-2021",
+   "path": "local/gorj/rovinari/2021/199",
+   "short": "HCL Rovinari nr. 199/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 199/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.199_din_27.10.2021.pdf",
+     "sha256": "6e71b584079830501cbba9df5583e74bcbeb95682e82a95ee754bb1bde855a93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-2-2021",
+   "path": "local/gorj/rovinari/2021/2",
+   "short": "HCL Rovinari nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 2/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.2_din_12.01.2021.pdf",
+     "sha256": "836a6537da49f9321a0a387bdc7fbca799234e7f8f6221e7beb03dc296ca8630"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-20-2021",
+   "path": "local/gorj/rovinari/2021/20",
+   "short": "HCL Rovinari nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 20/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.20_din_24.02.2021.pdf",
+     "sha256": "81dbb2dcababb059856b5b1475f37e9eab292629ed4cf800061f1b2f156b9d1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-200-2021",
+   "path": "local/gorj/rovinari/2021/200",
+   "short": "HCL Rovinari nr. 200/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 200/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.200_din_05.11.2021.pdf",
+     "sha256": "4e1cc7fd9064639f9660bc7c57a8e02047d3ee2203b3dbb3b8addc5829b93ab8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-201-2021",
+   "path": "local/gorj/rovinari/2021/201",
+   "short": "HCL Rovinari nr. 201/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 201/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.201_din_05.11.2021.pdf",
+     "sha256": "622191d5d5828ca5e291cec53a87e64cae6fbd7c7d94f7e602fd44b74cd1d6d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-202-2021",
+   "path": "local/gorj/rovinari/2021/202",
+   "short": "HCL Rovinari nr. 202/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 202/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.202_din_12.11.2021.pdf",
+     "sha256": "a9df67ef90e7b79155565a475500681f0ca8b7ae62367eef1767a9a4d52f259f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-203-2021",
+   "path": "local/gorj/rovinari/2021/203",
+   "short": "HCL Rovinari nr. 203/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 203/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.203_din_25.11.2021.pdf",
+     "sha256": "1189b5013d1148d720de5f4bae9972cf01cd4dda329316c31714554aae908b14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-204-2021",
+   "path": "local/gorj/rovinari/2021/204",
+   "short": "HCL Rovinari nr. 204/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 204/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.204_din_25.11.2021.pdf",
+     "sha256": "6ad3c165a70374205c27b3da0a59dfab8a42356942fc9ec780ce42b076c246f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-205-2021",
+   "path": "local/gorj/rovinari/2021/205",
+   "short": "HCL Rovinari nr. 205/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 205/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.205_din_25.11.2021.pdf",
+     "sha256": "907afb4e5d8d34f2265ea1b9b66c8950dddc16702f725d937fb044a02520b7c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-206-2021",
+   "path": "local/gorj/rovinari/2021/206",
+   "short": "HCL Rovinari nr. 206/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 206/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.206_din_25.11.2021.pdf",
+     "sha256": "278a5ef6cd64264612f5beb53ee350b9a0cf2d2be8eb16e1ea44ba4bcf0782cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-207-2021",
+   "path": "local/gorj/rovinari/2021/207",
+   "short": "HCL Rovinari nr. 207/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 207/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.207_din_25.11.2021.pdf",
+     "sha256": "5cf1797e4296e1e4d1ddd934645fb09f3cebc479d8dfc875938ccbcbd0aa12f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-208-2021",
+   "path": "local/gorj/rovinari/2021/208",
+   "short": "HCL Rovinari nr. 208/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 208/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.208_din_25.11.2021.pdf",
+     "sha256": "181b90be6072edc075dd43e37215716970fbc6d78f94111f54cbeea49b620c42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-209-2021",
+   "path": "local/gorj/rovinari/2021/209",
+   "short": "HCL Rovinari nr. 209/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 209/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.209_din_25.11.2021.pdf",
+     "sha256": "6cd66180afa7fbc8bf13b1eae85f26a0ed8c978638572fd9c3f3d680915b8100"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-21-2021",
+   "path": "local/gorj/rovinari/2021/21",
+   "short": "HCL Rovinari nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 21/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.21_din_24.02.2021.pdf",
+     "sha256": "2c6ccb0993e3078be8450331cf2bc8e4c3c37d62303ec9fafe48467ce7633ca1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-210-2021",
+   "path": "local/gorj/rovinari/2021/210",
+   "short": "HCL Rovinari nr. 210/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 210/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.210_din_25.11.2021.pdf",
+     "sha256": "47ef41939caa1e1649d6e193945c4a29abf57ebb0c035fe18ba9dcac7d002bbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-211-2021",
+   "path": "local/gorj/rovinari/2021/211",
+   "short": "HCL Rovinari nr. 211/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 211/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.211_din_25.11.2021.pdf",
+     "sha256": "e14e0a2f71dc884006a99d83f8142df580bf5ae31c5c8e241038ec22cc0c6b4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-212-2021",
+   "path": "local/gorj/rovinari/2021/212",
+   "short": "HCL Rovinari nr. 212/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 212/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.212_din_25.11.2021.pdf",
+     "sha256": "f609d2a83f4bd4a3c6cad936bc2bc8c81845bd1ad43d758f77bc0e1bc332c5ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-214-2021",
+   "path": "local/gorj/rovinari/2021/214",
+   "short": "HCL Rovinari nr. 214/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 214/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.214_din_25.11.2021.pdf",
+     "sha256": "0dfe8ef578c808ca9d32cf1ccad2e02e793b7340aa81782011aa14211af63715"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-215-2021",
+   "path": "local/gorj/rovinari/2021/215",
+   "short": "HCL Rovinari nr. 215/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 215/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.215_din_25.11.2021.pdf",
+     "sha256": "da843f0b5cec8685e1a8be88daeaaab8c0d8c83eaaef2ebb853e5778cc0795af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-217-2021",
+   "path": "local/gorj/rovinari/2021/217",
+   "short": "HCL Rovinari nr. 217/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 217/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.217_din_25.11.2021.pdf",
+     "sha256": "0b6ce1b77c3aa74e3c6c749376e382fb8b659bc2df6410164607d9f185fedafb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-218-2021",
+   "path": "local/gorj/rovinari/2021/218",
+   "short": "HCL Rovinari nr. 218/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 218/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.218_din_25.11.2021.pdf",
+     "sha256": "33fbc5ecc52bbfff0f863a2f0f80a350ed7a68f68a9cdaf9b1a3178cf58fdda8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-219-2021",
+   "path": "local/gorj/rovinari/2021/219",
+   "short": "HCL Rovinari nr. 219/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 219/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.219_din_25.11.2021.pdf",
+     "sha256": "134f1d6821ec54d0c8f641c02bc1df096dce0112e3e275016ce6849ec7f20bc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-22-2021",
+   "path": "local/gorj/rovinari/2021/22",
+   "short": "HCL Rovinari nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 22/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.22_din_24.02.2021.pdf",
+     "sha256": "a430eeaddd5a4b4b9af36c355a00de2d93001768cc18f74b82c58ce2c7cdcd9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-220-2021",
+   "path": "local/gorj/rovinari/2021/220",
+   "short": "HCL Rovinari nr. 220/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 220/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.220_din_25.11.2021.pdf",
+     "sha256": "dbeec4bb1ed8b8dc48acc02f8f8a3ab124e42a063f86847ff2bf68e34df165ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-221-2021",
+   "path": "local/gorj/rovinari/2021/221",
+   "short": "HCL Rovinari nr. 221/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 221/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.221din_21.12.2021.pdf",
+     "sha256": "15d79f88009fb541b820eb0ef00047910c6abb93e6e1eeaddf07d3999e403ffc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-222-2021",
+   "path": "local/gorj/rovinari/2021/222",
+   "short": "HCL Rovinari nr. 222/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 222/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.222_din_21.12.2021.pdf",
+     "sha256": "eefb5189a0c649137f8db4a3007d792e3be524e67d487b12a8c41d35f8930db5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-223-2021",
+   "path": "local/gorj/rovinari/2021/223",
+   "short": "HCL Rovinari nr. 223/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 223/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.223_din_21.12.2021.pdf",
+     "sha256": "5a839c867214c4768fa0db3031e6a59eb40dd29e7b8dc90b633f25b5000572c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-224-2021",
+   "path": "local/gorj/rovinari/2021/224",
+   "short": "HCL Rovinari nr. 224/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 224/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.224_din_21.12.2021.pdf",
+     "sha256": "17b4b2cf07cca3d4ad46dfc598fe55ff447da5457e3aab2d16e8418375fe165e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-225-2021",
+   "path": "local/gorj/rovinari/2021/225",
+   "short": "HCL Rovinari nr. 225/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 225/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.225_din_21.12.2021.pdf",
+     "sha256": "9a3c6bebfe15d527b37a5c294a566dd7b9a5de56354f5a8df9bd31d7085caede"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-226-2021",
+   "path": "local/gorj/rovinari/2021/226",
+   "short": "HCL Rovinari nr. 226/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 226/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.226_din_21.12.2021.pdf",
+     "sha256": "9ed530a5123c7e69b86058a3c8e912f23c416a340900289f06c55d00cdca9205"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-227-2021",
+   "path": "local/gorj/rovinari/2021/227",
+   "short": "HCL Rovinari nr. 227/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 227/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.227_din_21.12.2021.pdf",
+     "sha256": "29addc6edbef869ed414afe12785ebff5fa6bb6037a9592aefacc21cac874ead"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-229-2021",
+   "path": "local/gorj/rovinari/2021/229",
+   "short": "HCL Rovinari nr. 229/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 229/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.229_din_21.12.2021.pdf",
+     "sha256": "b9af8d475bd595cebc02263022267ae4cde7e999494b1ee226f2bbc80b0d401f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-23-2021",
+   "path": "local/gorj/rovinari/2021/23",
+   "short": "HCL Rovinari nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 23/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.23_din_24.02.2021.pdf",
+     "sha256": "b45d87b8626855c57e461b34c97d2e44b1196014be1edc49f5558a61e10736b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-230-2021",
+   "path": "local/gorj/rovinari/2021/230",
+   "short": "HCL Rovinari nr. 230/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 230/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.230_din_21.12.2021.pdf",
+     "sha256": "4532de682f45c31feb79ba69093a15888d3cafdc9693468a0eecbed03e376135"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-231-2021",
+   "path": "local/gorj/rovinari/2021/231",
+   "short": "HCL Rovinari nr. 231/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 231/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.231din_21.12.2021.pdf",
+     "sha256": "7783c95648465f0ade68d956aead1c07f2ec5f9eb6dd029345310776b05b1e40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-232-2021",
+   "path": "local/gorj/rovinari/2021/232",
+   "short": "HCL Rovinari nr. 232/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 232/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.232_din_21.12.2021.pdf",
+     "sha256": "87dd168c1059efa7341496dd2133b4fd692b92cdde3d89efeb04f053172e30d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-233-2021",
+   "path": "local/gorj/rovinari/2021/233",
+   "short": "HCL Rovinari nr. 233/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 233/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.233_din_21.12.2021.pdf",
+     "sha256": "739305ba4c70030c2805dffb78079c81c8dfde52941189d07af9bc4292bd8f46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-234-2021",
+   "path": "local/gorj/rovinari/2021/234",
+   "short": "HCL Rovinari nr. 234/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 234/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.234_din_21.12.2021.pdf",
+     "sha256": "b6328bc802d68277795d267c50f4dac0afab94600db9990c07371abf25069c52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-235-2021",
+   "path": "local/gorj/rovinari/2021/235",
+   "short": "HCL Rovinari nr. 235/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 235/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.235_din_21.12.2021.pdf",
+     "sha256": "d762ce2b1df50b3a8f783d750c464303163e15c237601359a5fecb4eb0c588dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-236-2021",
+   "path": "local/gorj/rovinari/2021/236",
+   "short": "HCL Rovinari nr. 236/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 236/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.236_din_21.12.2021.pdf",
+     "sha256": "432064e16a5940d0f1b5f624b4a489f5591990f98ace7dc4f09e675d6e5658a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-237-2021",
+   "path": "local/gorj/rovinari/2021/237",
+   "short": "HCL Rovinari nr. 237/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 237/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.237_din_21.12.2021.pdf",
+     "sha256": "ceebb975c69db93a7a960054f278092bfc7e3778cb94be92e449ac12bb132b70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-238-2021",
+   "path": "local/gorj/rovinari/2021/238",
+   "short": "HCL Rovinari nr. 238/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 238/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.238_din_21.12.2021.pdf",
+     "sha256": "9ed4f9f7839a53feec0fbe8211a63879b449d423198ba6206ba9173be5265b1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-239-2021",
+   "path": "local/gorj/rovinari/2021/239",
+   "short": "HCL Rovinari nr. 239/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 239/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.239_din_21.12.2021.pdf",
+     "sha256": "38144acf9606d014a1917417c9e7c2fdf36e52db7407ae0318a7f5b540258605"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-24-2021",
+   "path": "local/gorj/rovinari/2021/24",
+   "short": "HCL Rovinari nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 24/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.24_din_24.02.2021.pdf",
+     "sha256": "abad7ff3d1b1e1907717ff284413df7cfebefb6b266bb30cca3bd29ae6855687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-25-2021",
+   "path": "local/gorj/rovinari/2021/25",
+   "short": "HCL Rovinari nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 25/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.25_din_24.02.2021.pdf",
+     "sha256": "ffb78efb6aae6a768290283375bbc624bbce0bc139d69a64beb39edf05f4fbc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-26-2021",
+   "path": "local/gorj/rovinari/2021/26",
+   "short": "HCL Rovinari nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 26/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.26_din_24.02.2021.pdf",
+     "sha256": "ed103b21b5fda69e6458da0b3b76316b7e812233ad1e690e376dda00ab889b2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-27-2021",
+   "path": "local/gorj/rovinari/2021/27",
+   "short": "HCL Rovinari nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 27/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.27_din_24.02.2021.pdf",
+     "sha256": "3f291769ee731bed132158b3407eb072b21ec1cd3fa213d75ce88edbbe91f04d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-28-2021",
+   "path": "local/gorj/rovinari/2021/28",
+   "short": "HCL Rovinari nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 28/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.28_din_24.02.2021.pdf",
+     "sha256": "a329e3011770acdf24c1a4e6d46d6ba036b8712ad232785d0d73707e433bf8ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-29-2021",
+   "path": "local/gorj/rovinari/2021/29",
+   "short": "HCL Rovinari nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 29/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.29_din_24.02.2021.pdf",
+     "sha256": "6565e2f32b8c6f7ffe9756cab7b7e3408ae31b1204b418803a7374920c261ffd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-3-2021",
+   "path": "local/gorj/rovinari/2021/3",
+   "short": "HCL Rovinari nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 3/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.3_din_12.01.2021.pdf",
+     "sha256": "6eca44594261d81ec724effec26189a6f62d64c84286edd4ece1dc931e435e7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-30-2021",
+   "path": "local/gorj/rovinari/2021/30",
+   "short": "HCL Rovinari nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 30/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.30_din_24.02.2021.pdf",
+     "sha256": "0f9cd1c0721a0e59b3f87823f468aaf059e577778bf4c91f7ddf96c10f1cbc51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-31-2021",
+   "path": "local/gorj/rovinari/2021/31",
+   "short": "HCL Rovinari nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 31/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.31_din_24.02.2021.pdf",
+     "sha256": "2a4cb40ff3fd5fcf4e216fc0a5c97dab0180ee266b698da824ed89008ce22d2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-32-2021",
+   "path": "local/gorj/rovinari/2021/32",
+   "short": "HCL Rovinari nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 32/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.32_din_24.02.2021.pdf",
+     "sha256": "5a59ca514717c5e5016c038c3643952c1c75ea8474f4630473ab30ce43385394"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-33-2021",
+   "path": "local/gorj/rovinari/2021/33",
+   "short": "HCL Rovinari nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 33/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.33_din_24.02.2021.pdf",
+     "sha256": "1b25d3eb0508508ba4e92ec049ec6c8f8a172e4bfa8d371f3e17b0cc8476ba22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-34-2021",
+   "path": "local/gorj/rovinari/2021/34",
+   "short": "HCL Rovinari nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 34/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.34_din_24.02.2021.pdf",
+     "sha256": "fbb4c35e2a0c482ace91fcb0dde0b104d6ffd92be72161f28334e217583a8c3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-35-2021",
+   "path": "local/gorj/rovinari/2021/35",
+   "short": "HCL Rovinari nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 35/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.35_din_24.02.2021.pdf",
+     "sha256": "c4b3ed5d466dae637147ec9168b46bb0818c3ee4f0ef4717b3f9d518ffb573ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-36-2021",
+   "path": "local/gorj/rovinari/2021/36",
+   "short": "HCL Rovinari nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 36/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.36_din_24.02.2021.pdf",
+     "sha256": "6ac11f6419b0535f85584ed256be1ea5caccab000928295c2f88566138987fdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-37-2021",
+   "path": "local/gorj/rovinari/2021/37",
+   "short": "HCL Rovinari nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 37/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.37_din_24.02.2021.pdf",
+     "sha256": "2efb2a11eff43a52b0ab7198b73120f2fe38799319e4cad39b5deeb4cb753843"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-38-2021",
+   "path": "local/gorj/rovinari/2021/38",
+   "short": "HCL Rovinari nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 38/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-16",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.38_din_16.03.2021.pdf",
+     "sha256": "6730f66b5d49e68bc035de1370b910bf78f92e4c6bf14f32b2de2074df477dc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-39-2021",
+   "path": "local/gorj/rovinari/2021/39",
+   "short": "HCL Rovinari nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 39/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.39_din_30.03.2021.pdf",
+     "sha256": "f0c99d2008373103e9d1a7ebb71b2d8c745b9db3d2a9942382e9f1d072a3014d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-4-2021",
+   "path": "local/gorj/rovinari/2021/4",
+   "short": "HCL Rovinari nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 4/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.4_din_27.01.2021.pdf",
+     "sha256": "fdb31c5adaf9d9a403544d1e7223ae865050be9478fa47903745131492349187"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-40-2021",
+   "path": "local/gorj/rovinari/2021/40",
+   "short": "HCL Rovinari nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 40/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.40_din_30.03.2021.pdf",
+     "sha256": "60347855ffc14f6c39e965d9bbd1cb9758eb063d125f0865f2fda1ec0306b24e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-41-2021",
+   "path": "local/gorj/rovinari/2021/41",
+   "short": "HCL Rovinari nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 41/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.41_din_30.03.2021.pdf",
+     "sha256": "fce0941dcf77c44ce72b65bee2db78db8125444952647f4f9e5db229ac1976e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-42-2021",
+   "path": "local/gorj/rovinari/2021/42",
+   "short": "HCL Rovinari nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 42/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.42_din_30.03.2021.pdf",
+     "sha256": "03e9675e3080272f5735cad31e14b7e692c176cc76d59c38507f85ffee9cbaa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-43-2021",
+   "path": "local/gorj/rovinari/2021/43",
+   "short": "HCL Rovinari nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 43/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.43_din_30.03.2021.pdf",
+     "sha256": "0629cd2aa2c18bb37255355c70e444844780851a82bfa7dd7f22a400736fe8c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-44-2021",
+   "path": "local/gorj/rovinari/2021/44",
+   "short": "HCL Rovinari nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 44/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.44_din_30.03.2021.pdf",
+     "sha256": "5b3ee6b871b1b51b0b34f7155d483bd6cba4b0c8828421f4ae7998c3f375a521"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-45-2021",
+   "path": "local/gorj/rovinari/2021/45",
+   "short": "HCL Rovinari nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 45/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.45_din_30.03.2021.pdf",
+     "sha256": "30d945cd96fca3bb5457dc7f8d36e175daf9ad4404271bf9e695d4a784b789f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-46-2021",
+   "path": "local/gorj/rovinari/2021/46",
+   "short": "HCL Rovinari nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 46/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.46_din_30.03.2021.pdf",
+     "sha256": "1d6c89ed45172bd23e2ece42887057bb92485a4e69f68be917e33a72d69ab530"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-47-2021",
+   "path": "local/gorj/rovinari/2021/47",
+   "short": "HCL Rovinari nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 47/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.47_din_30.03.2021.pdf",
+     "sha256": "18c166e3ff1ea8299ac9f156b792d4971c0713630e4ab9ab519c9d6c31091709"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-48-2021",
+   "path": "local/gorj/rovinari/2021/48",
+   "short": "HCL Rovinari nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 48/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.48_din_30.03.2021.pdf",
+     "sha256": "748cb3356033a999bfc41ac06b588f59ca16fd880b8db45ceece37130cd88b73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-49-2021",
+   "path": "local/gorj/rovinari/2021/49",
+   "short": "HCL Rovinari nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 49/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.49_din_30.03.2021.pdf",
+     "sha256": "a8a52482900789c1148a6899543fe805ab0198c9feb48b7525b556d3e2061080"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-5-2021",
+   "path": "local/gorj/rovinari/2021/5",
+   "short": "HCL Rovinari nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 5/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.5_din_27.01.2021.pdf",
+     "sha256": "cc3d25dee0b86d3a3af343fcd17f824bb49df7583d7f8b7d1a644d9a7711af6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-50-2021",
+   "path": "local/gorj/rovinari/2021/50",
+   "short": "HCL Rovinari nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 50/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.50_din_30.03.2021.pdf",
+     "sha256": "6a14f18fa8ac7baccf1145c7663fb0aa4710df4db09e4be3b17c453e62df7356"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-51-2021",
+   "path": "local/gorj/rovinari/2021/51",
+   "short": "HCL Rovinari nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 51/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.51_din_30.03.2021.pdf",
+     "sha256": "1cf68e60994de86c3f65f05ed438fc2acb0ed71b8392d1d8cb8e754720428d9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-52-2021",
+   "path": "local/gorj/rovinari/2021/52",
+   "short": "HCL Rovinari nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 52/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.52_din_30.03.2021.pdf",
+     "sha256": "fa33f2408cb20bfccc43472058f9fc0a1f082048e8919a0a0ea98b6766e0ceb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-53-2021",
+   "path": "local/gorj/rovinari/2021/53",
+   "short": "HCL Rovinari nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 53/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.53_din_30.03.2021.pdf",
+     "sha256": "f75fc052ff9f3568785177cf49922f36d241e78550d305da7a15afc31552f76b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-54-2021",
+   "path": "local/gorj/rovinari/2021/54",
+   "short": "HCL Rovinari nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 54/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.54_din_30.03.2021.pdf",
+     "sha256": "2611567883e4bf9a641e260918a93e9f2eefd03c308c1ec2863b49b1b99db2c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-55-2021",
+   "path": "local/gorj/rovinari/2021/55",
+   "short": "HCL Rovinari nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 55/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.55_din_30.03.2021.pdf",
+     "sha256": "f1278e67eb284bc680f6ad99519dac7763669856842cd938c08f3d2f647bd3c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-56-2021",
+   "path": "local/gorj/rovinari/2021/56",
+   "short": "HCL Rovinari nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 56/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.56_din_16.04.2021.pdf",
+     "sha256": "08d009001ea0cd3146206398633002ae31096e54c9a0fc4c6315d6b743d79f35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-57-2021",
+   "path": "local/gorj/rovinari/2021/57",
+   "short": "HCL Rovinari nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 57/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.57_din_16.04.2021.pdf",
+     "sha256": "9877bff21bf82ce01815945c850f986caee654624431748a76c4d315d7a55dc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-58-2021",
+   "path": "local/gorj/rovinari/2021/58",
+   "short": "HCL Rovinari nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 58/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.58_din_27.04.2021.pdf",
+     "sha256": "2ee7250380900e3a97999c88276dfcf4cd8a61110c73ad5e9eb44e7ccc23d4e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-59-2021",
+   "path": "local/gorj/rovinari/2021/59",
+   "short": "HCL Rovinari nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 59/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.59_din_27.04.2021.pdf",
+     "sha256": "b963b49a96ffa48164ccca3787dfd354912c23b4cc0a35325c0ee2bf21b275b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-6-2021",
+   "path": "local/gorj/rovinari/2021/6",
+   "short": "HCL Rovinari nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 6/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.6_din_27.01.2021.pdf",
+     "sha256": "0f9655aa301f3051771b0734086280e6840d2107cf61ac76ac559b2c0be332ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-60-2021",
+   "path": "local/gorj/rovinari/2021/60",
+   "short": "HCL Rovinari nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 60/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.60_din_27.04.2021.pdf",
+     "sha256": "478098021d8deacc8b1f706f5f09e62ec38b3787a1949bb05a89f20e16134b5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-61-2021",
+   "path": "local/gorj/rovinari/2021/61",
+   "short": "HCL Rovinari nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 61/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.61_din_27.04.2021.pdf",
+     "sha256": "6efca859965f0368653515f9a2ce3e3a66bf5608a468d71f44b19c7cab8bdbe3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-614-2021",
    "path": "local/gorj/rovinari/2021/614",
    "short": "HCL Rovinari nr. 614/2021",
@@ -14,6 +2939,621 @@
      "units": 1,
      "source_url": "https://primariarovinari.ro/storage/formidable/228/Dipozitia_Nr.614_din_22.09.2021.pdf",
      "sha256": "186fee6ea56ecd19b758c24fbfd927e2c2042d7930698c6fe23ee22457f73203"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-62-2021",
+   "path": "local/gorj/rovinari/2021/62",
+   "short": "HCL Rovinari nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 62/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.62_din_27.04.2021.pdf",
+     "sha256": "b6b980a9e5ceffec245259f6129a41707320467630e308b628326c44412d2b97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-63-2021",
+   "path": "local/gorj/rovinari/2021/63",
+   "short": "HCL Rovinari nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 63/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.63_din_27.04.2021.pdf",
+     "sha256": "318cae7167e92be633eea5c4c1bfe33c543793941b201df5c0f4d41bf79de774"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-64-2021",
+   "path": "local/gorj/rovinari/2021/64",
+   "short": "HCL Rovinari nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 64/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr._64_din_27.04.2021.pdf",
+     "sha256": "57f35492698b4738757db1fb3e9306bd85019868deb66b68b983e1ea5974066d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-65-2021",
+   "path": "local/gorj/rovinari/2021/65",
+   "short": "HCL Rovinari nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 65/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.65_din_27.04.2021.pdf",
+     "sha256": "d7d2ef7932bf3789d225c2b4d81a17fdc4d3e1ef6a9d6484ad83ec1927190d62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-66-2021",
+   "path": "local/gorj/rovinari/2021/66",
+   "short": "HCL Rovinari nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 66/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.66_din_27.04.2021.pdf",
+     "sha256": "32299ebd8023fba9fb30626f62c0bcc6246f46fe7589a3ce24eaadfb8fba4611"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-67-2021",
+   "path": "local/gorj/rovinari/2021/67",
+   "short": "HCL Rovinari nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 67/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.67_din_17.05.2021.pdf",
+     "sha256": "0fdb2a1f5b6114f01edfc1779ad43caf497e0457ca162956c30b4b23006d5482"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-68-2021",
+   "path": "local/gorj/rovinari/2021/68",
+   "short": "HCL Rovinari nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 68/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.68_din_17.05.2021.pdf",
+     "sha256": "1fdd19dd144e79fe64b20f16cb2ef936f56435a669cdb4ef95e22d9285e0544e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-69-2021",
+   "path": "local/gorj/rovinari/2021/69",
+   "short": "HCL Rovinari nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 69/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.69_din_17.05.2021.pdf",
+     "sha256": "45552aa194bd91c49e336d5140ef285625dabd0dfb82119a0b91f289f95a80f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-7-2021",
+   "path": "local/gorj/rovinari/2021/7",
+   "short": "HCL Rovinari nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 7/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.7_din_27.01.2021.pdf",
+     "sha256": "014c795924b0cf4ae7de3be5011f65e94409c7fb8d7b848bd6ca28d0f5c6906b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-70-2021",
+   "path": "local/gorj/rovinari/2021/70",
+   "short": "HCL Rovinari nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 70/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.70_din_17.05.2021.pdf",
+     "sha256": "66003170a1859665ff71d85c586ab5347b7a1c64f28564412688c16969f13438"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-71-2021",
+   "path": "local/gorj/rovinari/2021/71",
+   "short": "HCL Rovinari nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 71/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.71_din_17.05.2021.pdf",
+     "sha256": "65a6b696cadec46270656a166cccdc6b4f2db60693e8bf2ae14a13dbbe1924a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-72-2021",
+   "path": "local/gorj/rovinari/2021/72",
+   "short": "HCL Rovinari nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 72/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_nr.72_din_17.05.2021.pdf",
+     "sha256": "ee4c5676aff41b478961cc5e8b0e4f21d0988a504dc6f62e7c657c506caf103a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-73-2021",
+   "path": "local/gorj/rovinari/2021/73",
+   "short": "HCL Rovinari nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 73/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_nr.73_din_26.05.2021.pdf",
+     "sha256": "c5c8cfe7d77f75d5809b5507dea4dbcc17fb23927fe1cff88ef4cd0269a05f70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-74-2021",
+   "path": "local/gorj/rovinari/2021/74",
+   "short": "HCL Rovinari nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 74/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.74_din_26.05.2021.pdf",
+     "sha256": "8527b52464947758230f890fd77416073301b9056210ff6aae0ccd210987a371"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-75-2021",
+   "path": "local/gorj/rovinari/2021/75",
+   "short": "HCL Rovinari nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 75/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.75_din_26.05.2021.pdf",
+     "sha256": "b70ac31f15a3fad318e328b1bbda129ea59792851825fad9f41c9ed3bccc28cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-76-2021",
+   "path": "local/gorj/rovinari/2021/76",
+   "short": "HCL Rovinari nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 76/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.76_din26.05.2021.pdf",
+     "sha256": "d833d6d1b90f553cf04cd12a60609880df81897817f30e9b57531e578e37bb05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-77-2021",
+   "path": "local/gorj/rovinari/2021/77",
+   "short": "HCL Rovinari nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 77/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.77_din_26.05.2021.pdf",
+     "sha256": "6b9b9eadfc02adaa302a342b619e582fa2aa92bca38809070c0c1c46a3300f3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-78-2021",
+   "path": "local/gorj/rovinari/2021/78",
+   "short": "HCL Rovinari nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 78/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.78_din_26.05.2021.pdf",
+     "sha256": "169592b84645c89e3e2674156ff7c900ab9d325856deb92052ce29ca5a7d6321"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-79-2021",
+   "path": "local/gorj/rovinari/2021/79",
+   "short": "HCL Rovinari nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 79/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.79_din_26.05.2021.pdf",
+     "sha256": "a0e06d55f88e5b19714f7e0e493e9cf57772689c67fa9e77434e94dd1cfe61da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-8-2021",
+   "path": "local/gorj/rovinari/2021/8",
+   "short": "HCL Rovinari nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 8/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.8_din_27.01.2021.pdf",
+     "sha256": "ec0d9a6d1681e7e683fc720bd52ea0638d2a639bb3c0654ba6a7e20ac8488f99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-80-2021",
+   "path": "local/gorj/rovinari/2021/80",
+   "short": "HCL Rovinari nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 80/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.80_din_26.05.2021.pdf",
+     "sha256": "f35813c8486b92bd8fbe58639f0dfa491231946dacbd69daae3efd7574fa907b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-81-2021",
+   "path": "local/gorj/rovinari/2021/81",
+   "short": "HCL Rovinari nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 81/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.81_din_26.05.2021.pdf",
+     "sha256": "fc66fb7b0dc0920139f0b9b1875409a5862bf3e602c878fc3df7d55cc8ca8b6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-82-2021",
+   "path": "local/gorj/rovinari/2021/82",
+   "short": "HCL Rovinari nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 82/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.82_din_26.05.2021.pdf",
+     "sha256": "95ee373fda0f943d8322c027ef95bf90636dfdfe3dc6841648864a1b8607f0f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-83-2021",
+   "path": "local/gorj/rovinari/2021/83",
+   "short": "HCL Rovinari nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 83/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.83_din_26.05.2021.pdf",
+     "sha256": "19840450690935af12fdceea96d4b0ca12c8e0771f26f600ac8bc8a3466b9032"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-84-2021",
+   "path": "local/gorj/rovinari/2021/84",
+   "short": "HCL Rovinari nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 84/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.84_din_26.05.2021.pdf",
+     "sha256": "ecf262ca8f622285144d0abcf71647f6cf41cff9dbc87fca6ddb9a5131351e41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-85-2021",
+   "path": "local/gorj/rovinari/2021/85",
+   "short": "HCL Rovinari nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 85/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.85_din_26.05.2021.pdf",
+     "sha256": "d35dba6ba35ba2feea3135aa2e9f4f18866dfe88b9bf95c94179bb5ccb40b164"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-86-2021",
+   "path": "local/gorj/rovinari/2021/86",
+   "short": "HCL Rovinari nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 86/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.86_din_26.05.2021.pdf",
+     "sha256": "103f0eb7e28abd81b0ab8a642385cc67cba1b54f9a939e680699698b0f07fbb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-87-2021",
+   "path": "local/gorj/rovinari/2021/87",
+   "short": "HCL Rovinari nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 87/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.87_din_26.05.2021.pdf",
+     "sha256": "7154c4cf3f5cb488b9379cc50f5e72c323af05f199856a81cfff4086b613f5fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-88-2021",
+   "path": "local/gorj/rovinari/2021/88",
+   "short": "HCL Rovinari nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 88/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.88_din26.05.2021.pdf",
+     "sha256": "2bd02946522e37aadfd91bab797e5e3f72c09210dc9296de70c737a10b063541"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-89-2021",
+   "path": "local/gorj/rovinari/2021/89",
+   "short": "HCL Rovinari nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 89/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.89_din_26.05.2021.pdf",
+     "sha256": "dd9ebcdbae5b71a8df323785a9cc41f7bc7deae3d9a8a99fb982e68f5b3461f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-9-2021",
+   "path": "local/gorj/rovinari/2021/9",
+   "short": "HCL Rovinari nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 9/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_Nr.9_din_27.01.2021.pdf",
+     "sha256": "3b610a85cc8b74e26e09677363fcba2495b1538edf953587128afbe4df4f241b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-90-2021",
+   "path": "local/gorj/rovinari/2021/90",
+   "short": "HCL Rovinari nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 90/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.90_din_29.06.2021.pdf",
+     "sha256": "ac129943f4af02f02189a16ee1dbdc9c7512ca8981274ececd822f2266f7eb0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-91-2021",
+   "path": "local/gorj/rovinari/2021/91",
+   "short": "HCL Rovinari nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 91/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.91_din_29.06.2021.pdf",
+     "sha256": "2c67bedb804a295ad08304e0e32fa31fd2ed78cc6d2c1e0e71478bfacff3f67c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-92-2021",
+   "path": "local/gorj/rovinari/2021/92",
+   "short": "HCL Rovinari nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 92/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.92_din_29.06.2021.pdf",
+     "sha256": "d06583ddfd65f514ad583db89330c04907462127d92e1767fba01f69f29c444d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-93-2021",
+   "path": "local/gorj/rovinari/2021/93",
+   "short": "HCL Rovinari nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 93/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.93_din_29.06.2021.pdf",
+     "sha256": "c0f71655a0bd93e63badc028f604d9478da5c109b6855e2a94e2a867f1ac100a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-94-2021",
+   "path": "local/gorj/rovinari/2021/94",
+   "short": "HCL Rovinari nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 94/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.94_din_29.06.2021.pdf",
+     "sha256": "a9b66b259f6575d26f015c6f032a35c1faf3cc01383f75b81e4e9ec356c2ac1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-95-2021",
+   "path": "local/gorj/rovinari/2021/95",
+   "short": "HCL Rovinari nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 95/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.95_din_29.06.2021.pdf",
+     "sha256": "661c3ac15891e09f8e9d085c61a409ffec3649e99f5a1102ae6f3726bbc28478"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-96-2021",
+   "path": "local/gorj/rovinari/2021/96",
+   "short": "HCL Rovinari nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 96/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.96_din_29.06.2021.pdf",
+     "sha256": "1d22a298bf0a6bca0defd95d840055bf2ce7f08186f6c881737b6607b2707240"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-97-2021",
+   "path": "local/gorj/rovinari/2021/97",
+   "short": "HCL Rovinari nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 97/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.97_din_29.06.2021.pdf",
+     "sha256": "033421136888d4e733ee5d34f9b562d105937f5094c55320b31a4b461782ecdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-98-2021",
+   "path": "local/gorj/rovinari/2021/98",
+   "short": "HCL Rovinari nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 98/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.98_din_29.06.2021.pdf",
+     "sha256": "59735198e340fe7df109ab390e1799a94d666a59862a8899bcb2439df88725a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-99-2021",
+   "path": "local/gorj/rovinari/2021/99",
+   "short": "HCL Rovinari nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 99/2021",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2021-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.99_din_29.06.2021.pdf",
+     "sha256": "83fb64af1ad7c0d2fc04b9b634590f6d82cbb5f2671c9f0e2de9602222840366"
     }
    ]
   }

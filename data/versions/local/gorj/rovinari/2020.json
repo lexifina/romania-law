@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/rovinari/2020",
+ "acts": [
+  {
+   "slug": "hcl-gorj--rovinari-2020-2020",
+   "path": "local/gorj/rovinari/2020/2020",
+   "short": "HCL Rovinari nr. 2020/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 2020/2020",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2020-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/HCL_Rovinari_adoptate_in_sedinta_extraordinara_din_data_de_30.12.2020.pdf",
+     "sha256": "29699cdc834bb1219bf467bed86794f7114a49a5243cf39eeaad9e85516c67c1"
+    }
+   ]
+  }
+ ]
+}

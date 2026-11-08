@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-gorj--capreni-4-2025",
+"path": "local/gorj/capreni/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 4/2025 privind aprobarea taxei de închiriere pentru utilajele din dotarea UAT Căpreni",
+"short": "HCL Căpreni nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/207994",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--capreni-5-2025",
+"path": "local/gorj/capreni/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 5/2025 privind modificarea HCL NR. 52/2024 referitoare la transportul elevilor și preșcolarilor care frecventează cursurile unităților școlare de pe teritoriul UAT Căpreni",
+"short": "HCL Căpreni nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/207995",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--capreni-6-2025",
 "path": "local/gorj/capreni/2025/6",
 "kind": "local",
@@ -135,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-gorj--capreni-10-2025",
+"path": "local/gorj/capreni/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 10/2025 privind aprobarea acordării cheltuielilor de deplasare a cadrele didactice pentru lunile noiembrie și decembrie 2024",
+"short": "HCL Căpreni nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/208004",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--capreni-11-2025",
 "path": "local/gorj/capreni/2025/11",
 "kind": "local",
@@ -176,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Căpreni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--capreni-13-2025",
+"path": "local/gorj/capreni/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 13/2025 privind planul lucrărilor de interes local pentru beneficiarii de venit minim de incluziune pe anul 2025",
+"short": "HCL Căpreni nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/208003",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +311,72 @@
 }
 },
 {
+"slug": "hcl-gorj--capreni-17-2025",
+"path": "local/gorj/capreni/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 17/2025 privind aprobarea prețului apei nepotabile captată, tratată și distribuită populației și pentru restul utilizatorilor din Comuna Căpreni de Serviciului Public Apă Canal Căpreni",
+"short": "HCL Căpreni nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/232692",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--capreni-18-2025",
+"path": "local/gorj/capreni/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 18/2025 privind aprobarea Planului anual de acţiune privind serviciile sociale acordate la nivelul comunei Căpreni, judeţul Gorj pentru anul 2025",
+"short": "HCL Căpreni nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/208013",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--capreni-19-2025",
+"path": "local/gorj/capreni/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 19/2025 privind modificarea HCL NR. 52/2024 referitoare la transportul elevilor și preșcolarilor care frecventează cursurile unităților școlare de pe teritoriul UAT Căpreni",
+"short": "HCL Căpreni nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/208014",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--capreni-20-2025",
 "path": "local/gorj/capreni/2025/20",
 "kind": "local",
@@ -242,6 +396,72 @@
 "council_name": "Consiliul Local al Comunei Căpreni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--capreni-21-2025",
+"path": "local/gorj/capreni/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 21/2025 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență Urgență de tip V1 la nivelul comunei Căpreni",
+"short": "HCL Căpreni nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/208028",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--capreni-22-2025",
+"path": "local/gorj/capreni/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 22/2025 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Căpreni, pentru perioada aprilie 2025 - iunie 2025",
+"short": "HCL Căpreni nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/208029",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--capreni-23-2025",
+"path": "local/gorj/capreni/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 23/2025 privind aprobarea Regulamentului de organizare și funcționare a Pieței și Târgului săptămânal din comuna Căpreni, județul Gorj",
+"short": "HCL Căpreni nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/208030",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -286,6 +506,50 @@
 "council_name": "Consiliul Local al Comunei Căpreni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--capreni-26-2025",
+"path": "local/gorj/capreni/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 26/2025 privind dezafectare platformă betonată executată pe pârâul Cocorova din satul Bulbuceni, Comuna Căpreni, județul Gorj",
+"short": "HCL Căpreni nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/208053",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--capreni-27-2025",
+"path": "local/gorj/capreni/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 27/2025 privind stabilirea normativelor proprii de consum carburant la utilajele aflate în dotarea Comunei Căpreni",
+"short": "HCL Căpreni nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/208108",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -374,6 +638,28 @@
 "council_name": "Consiliul Local al Comunei Căpreni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--capreni-32-2025",
+"path": "local/gorj/capreni/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 32/2025 privind aprobarea acordării cheltuielilor de deplasare a cadrele didactice pentru lunile ianuarie și februarie 2025",
+"short": "HCL Căpreni nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/208125",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -509,6 +795,28 @@
 }
 },
 {
+"slug": "hcl-gorj--capreni-41-2025",
+"path": "local/gorj/capreni/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 41/2025 privind organizarea sărbătorii Zilei de 1 Iunie – Ziua Internațională a Copilului",
+"short": "HCL Căpreni nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/232705",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--capreni-42-2025",
 "path": "local/gorj/capreni/2025/42",
 "kind": "local",
@@ -594,6 +902,29 @@
 "council_name": "Consiliul Local al Comunei Căpreni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--capreni-46-2025",
+"path": "local/gorj/capreni/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 46/2025",
+"short": "HCL Căpreni nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/232631",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -685,6 +1016,28 @@
 }
 },
 {
+"slug": "hcl-gorj--capreni-51-2025",
+"path": "local/gorj/capreni/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 51/2025 privind aprobarea documentației de dezmembrare a unui imobil – teren situat în comuna Căpreni, județul Gorj",
+"short": "HCL Căpreni nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/232696",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--capreni-52-2025",
 "path": "local/gorj/capreni/2025/52",
 "kind": "local",
@@ -748,6 +1101,28 @@
 "council_name": "Consiliul Local al Comunei Căpreni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--capreni-57-2025",
+"path": "local/gorj/capreni/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 57/2025 privind aprobarea documentației de dezmembrare a unui imobil – teren situat în comuna Căpreni, județul Gorj,",
+"short": "HCL Căpreni nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-21",
+"latest": "2025-08-21",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/221615",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -880,6 +1255,28 @@
 "council_name": "Consiliul Local al Comunei Căpreni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--capreni-64-2025",
+"path": "local/gorj/capreni/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 64/2025 privind concesionarea prin licitație publică, a unui teren, aparținând domeniului privat al comunei Căpreni, județul Gorj",
+"short": "HCL Căpreni nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/232507",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

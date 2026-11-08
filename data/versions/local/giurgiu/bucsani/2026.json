@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--bucsani-10-2026",
+   "path": "local/giurgiu/bucsani/2026/10",
+   "short": "HCL Bucșani nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 10/2026 privind aprobarea încheierii unui contract de asistenţă juridică şi reprezentare în instanţă dosar nr.1400/122/2024 aflat pe rolul Tribunalului Giurgiu",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/250482",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/250482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-11-2026",
+   "path": "local/giurgiu/bucsani/2026/11",
+   "short": "HCL Bucșani nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 11/2026 privind aprobarea încheierii unui contract de asistenţă juridică şi reprezentare în instanţă dosar nr.1286/122/2023 aflat pe rolul Tribunalului Giurgiu",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/250483",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/250483",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--bucsani-12-2026",
    "path": "local/giurgiu/bucsani/2026/12",
    "short": "HCL Bucșani nr. 12/2026",
@@ -28,6 +58,36 @@
      "from": "2026-02-27",
      "units": 1,
      "source_url": "https://emol.ro/bucsani-gr/registru-hcl/250484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-13-2026",
+   "path": "local/giurgiu/bucsani/2026/13",
+   "short": "HCL Bucșani nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 13/2026 privind aprobarea încheierii unui contract de asistenţă juridică şi reprezentare în instanţă dosar nr.826/122/2025 aflat pe rolul Tribunalului Giurgiu",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/250485",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/250485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-14-2026",
+   "path": "local/giurgiu/bucsani/2026/14",
+   "short": "HCL Bucșani nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 14/2026 privind stabilirea modalitatii de completare a registrelor agricole 2025-2029 si aprobarea Programului de masuri pentru eficientizxarea activitatii de inscriere a datelor in registrul agricol",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/255863",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/255863",
      "sha256": null
     }
    ]
@@ -48,6 +108,36 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--bucsani-16-2026",
+   "path": "local/giurgiu/bucsani/2026/16",
+   "short": "HCL Bucșani nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 16/2026 privind aprobarea Devizului general actualizat cu cota de TVA 21%, incepand cu data de 01.08.2025,pentru ‘’Proiectare tehnica , asistenta tehnica din partea proiectantului si executie lucrari pentru obiectivul: Infiintare retea canalizare si statie de epurare in comuna Bucsani, Podisor si Vadu Lat judetul Giurgiu ,,contract de lucrari nr. 1074/341/20.02.2024",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/257981",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/257981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-17-2026",
+   "path": "local/giurgiu/bucsani/2026/17",
+   "short": "HCL Bucșani nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 17/2026 privind alegerea Președintelui de ședință pe o perioadă de 3 luni- respectiv aprilie - iunie 2026",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/260261",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/260261",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--bucsani-18-2026",
    "path": "local/giurgiu/bucsani/2026/18",
    "short": "HCL Bucșani nr. 18/2026",
@@ -63,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--bucsani-19-2026",
+   "path": "local/giurgiu/bucsani/2026/19",
+   "short": "HCL Bucșani nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 19/2026 privind continuarea activitatii Serviciului de Alimentare cu Apă Bucsani in subordinea Consiliului Local Bucsani conform prevederilor art. XXIX alin (14) lit a din Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/260263",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/260263",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--bucsani-2-2026",
    "path": "local/giurgiu/bucsani/2026/2",
    "short": "HCL Bucșani nr. 2/2026",
@@ -73,6 +178,261 @@
      "from": "2026-01-16",
      "units": 1,
      "source_url": "https://emol.ro/bucsani-gr/registru-hcl/245841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-20-2026",
+   "path": "local/giurgiu/bucsani/2026/20",
+   "short": "HCL Bucșani nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 20/2026 Privind aprobarea INDICATORILOR TEHNICO- ECONOMICI revizuiti pentru obiectivul ”ÎNFIINŢARE REŢEA DE CANALIZARE ŞI STAŢIE DE EPURARE ÎN SATELE BUCŞANI, PODIŞOR VADU LAT, COMUNA BUCŞANI, JUDEŢUL GIURGIU” faza proiect tehnic",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/260264",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/260264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-21-2026",
+   "path": "local/giurgiu/bucsani/2026/21",
+   "short": "HCL Bucșani nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 21/2026 privind reorganizarea aparatului de specialitate al Primarului comunei Bucsani , judetul Giurgiu,aprobarea Organigramei și a Statului de funcții",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/262141",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/262141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-22-2026",
+   "path": "local/giurgiu/bucsani/2026/22",
+   "short": "HCL Bucșani nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 22/2026 privind aprobarea Procedurilor de închiriere și concesionare a bunurilor imobile care apartin domeniului public şi privat al comunei Bucsani, judeţul Giurgiu",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/262142",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/262142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-23-2026",
+   "path": "local/giurgiu/bucsani/2026/23",
+   "short": "HCL Bucșani nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 23/2026 privind aprobarea pierderilor tehnologice din sistemul de alimentare cu apa al comunei Bucsani ,judetul Giurgiu",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/262143",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/262143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-24-2026",
+   "path": "local/giurgiu/bucsani/2026/24",
+   "short": "HCL Bucșani nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 24/2026 Privind completarea HCL nr. 56/30.09.2021 privind darea în administrare şi exploatare a serviciului şi sistemului (infrastructura tehnico-edilitară) de alimentare cu apă ale comunei Bucșani, către Serviciul de alimentare cu apă Bucșani, serviciu public de interes local, cu personalitate juridică, înființat în subordinea Consiliului Local al comunei Bucșani, județul Giurgiu",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/262144",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/262144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-25-2026",
+   "path": "local/giurgiu/bucsani/2026/25",
+   "short": "HCL Bucșani nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 25/2026 privind aprobarea închirierea prin licitaţie publică a unui spaţiu, proprietate publică a comunei Bucsani, judetul Giurgiu",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/265771",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/265771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-26-2026",
+   "path": "local/giurgiu/bucsani/2026/26",
+   "short": "HCL Bucșani nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 26/2026 privind aprobarea Bugetului de venituri si cheltuieli al comunei Bucsani judetul Giurgiu pentru anul 2026 si estimarile pentru anii 2027-2029",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/265772",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/265772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-27-2026",
+   "path": "local/giurgiu/bucsani/2026/27",
+   "short": "HCL Bucșani nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 27/2026 privind aprobarea susținerii financiare a Asociațiilor sportive de fotbal ”Tineretul Vadu Lat”,”Fotbal Club Podișor” și ”Viitorul Goleasca” din comuna Bucsani, judetul Giurgiu în anul 2026",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/265773",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/265773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-28-2026",
+   "path": "local/giurgiu/bucsani/2026/28",
+   "short": "HCL Bucșani nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 28/2026 privind alocarea sumei de 300.000 lei, din bugetul local al comunei Bușcani, în vederea administrării, funcționării și exploatării Serviciului de Alimentare cu Apă al comunei Bucșani, județul Giurgiu",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/265774",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/265774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-29-2026",
+   "path": "local/giurgiu/bucsani/2026/29",
+   "short": "HCL Bucșani nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 29/2026 privind aprobarea indexării impozitelor și taxelor locale pentru anul 2027 cu rata inflației,pentru comuna bucsani, judetul Giurgiu",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/265775",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/265775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-3-2026",
+   "path": "local/giurgiu/bucsani/2026/3",
+   "short": "HCL Bucșani nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 3/2026 privind desemnarea a doi consilieri locali, în calitate de membri ai Comisiei de evaluare a performanțelor profesionale ale Secretarului general al UAT-Comuna Bucsani , pentru anul 2025",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/250475",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/250475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-30-2026",
+   "path": "local/giurgiu/bucsani/2026/30",
+   "short": "HCL Bucșani nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 30/2026 privind stabilire taxa speciala de salubrizare pentru utilizatorii casnici din comuna Bucsani judetul Giurgiu",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/271496",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/271496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-31-2026",
+   "path": "local/giurgiu/bucsani/2026/31",
+   "short": "HCL Bucșani nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 31/2026 privind rectificarea Bugetului de venituri si cheltuieli al comunei Bucsani judetul Giurgiu pentru anul 2026",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/271497",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/271497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-32-2026",
+   "path": "local/giurgiu/bucsani/2026/32",
+   "short": "HCL Bucșani nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 32/2026 Privind completarea inventarului bunurilor care aparțin domeniului privat al comunei Bucsani judetul Giurgiu",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/271498",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/271498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-33-2026",
+   "path": "local/giurgiu/bucsani/2026/33",
+   "short": "HCL Bucșani nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 33/2026 privind alegerea Președintelui de ședință pentru sedinta din 29.06.2026",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/281439",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/281439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-34-2026",
+   "path": "local/giurgiu/bucsani/2026/34",
+   "short": "HCL Bucșani nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 34/2026 privind aprobare închiriere prin licitaţie publică teren arabil extravilan, proprietate privata a comunei Bucsani, judetul Giurgiu",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/281440",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/281440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-35-2026",
+   "path": "local/giurgiu/bucsani/2026/35",
+   "short": "HCL Bucșani nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 35/2026 privind aprobarea atribuirii unor loturi de teren pentru construirea de locuinte proprietate personala pentru tineri conform Legii nr. 15/2003",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/281441",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/281441",
      "sha256": null
     }
    ]
@@ -418,6 +778,36 @@
      "from": "2026-02-27",
      "units": 1,
      "source_url": "https://emol.ro/bucsani-gr/registru-hcl/250478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-7-2026",
+   "path": "local/giurgiu/bucsani/2026/7",
+   "short": "HCL Bucșani nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 7/2026 Privind indreptare erori materiale din cuprinsul ANEXEI nr. 1 la HCL nr. 64/23.12.2025 privind aprobarea cotelor si nivelurilor impozitelor si taxelor locale pe anul 2026",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/250479",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/250479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bucsani-8-2026",
+   "path": "local/giurgiu/bucsani/2026/8",
+   "short": "HCL Bucșani nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucșani nr. 8/2026 privind desemnarea de reprezentanti ai Consiliului Local Bucani în Consiliul de Administrație al Școlii Gimnaziale nr. 1 Bucsani ,pentru anul scolar 2025-2026",
+   "url": "https://emol.ro/bucsani-gr/registru-hcl/250480",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bucsani-gr/registru-hcl/250480",
      "sha256": null
     }
    ]

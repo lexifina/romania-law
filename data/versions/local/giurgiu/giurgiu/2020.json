@@ -3,6 +3,81 @@
  "shard": "local/giurgiu/giurgiu/2020",
  "acts": [
   {
+   "slug": "hcl-giurgiu--giurgiu-101-2020",
+   "path": "local/giurgiu/giurgiu/2020/101",
+   "short": "HCL Giurgiu nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 101/2020 privind aprobarea revocării Hotărârii Consiliului Local nr.464/27.11.2017 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-03-03",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/101.pdf",
+     "sha256": "bc267b99ceaaa49bbd1ae7cc718b459c87d3bd45d7601a11c3806e7244f0a0dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-122-2020",
+   "path": "local/giurgiu/giurgiu/2020/122",
+   "short": "HCL Giurgiu nr. 122/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 122/2020 privind completarea Regulamentului de Organizare și Funcționare a Consiliului Local al Municipiului Giurgiu, aprobat prin Hotărârea Consiliului Local nr.375 din data de 25 septembrie 2019 întrunit în ședință extraordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/122.pdf",
+     "sha256": "4b7e9e6b4cecbbc91966f099ea04e82c21fb4f63a8d057666b9e4ac7ddf48adf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-153-2020",
+   "path": "local/giurgiu/giurgiu/2020/153",
+   "short": "HCL Giurgiu nr. 153/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 153/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/hcl-153.pdf",
+     "sha256": "9eed71773e4d1ec04afe3e020a104d9259e454bc5cc80c650a300aec9aeea4b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-164-2020",
+   "path": "local/giurgiu/giurgiu/2020/164",
+   "short": "HCL Giurgiu nr. 164/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 164/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/hcl-164.pdf",
+     "sha256": "ca658b4bd5b11162b6b554bdcee72e2a69f8600e61051e3538195da74e909372"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-220-2020",
+   "path": "local/giurgiu/giurgiu/2020/220",
+   "short": "HCL Giurgiu nr. 220/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 220/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/220.pdf",
+     "sha256": "ccabec7765c3313b17251835b3090634a03c58508fef6dd8aea4688f65a32207"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-249-2020",
    "path": "local/giurgiu/giurgiu/2020/249",
    "short": "HCL Giurgiu nr. 249/2020",
@@ -18,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-298-2020",
+   "path": "local/giurgiu/giurgiu/2020/298",
+   "short": "HCL Giurgiu nr. 298/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 298/2020 privind aprobarea încetării contractului de atribuire în folosință nr.5.786/25.03.1996 încheiat între Consiliul Local al Municipiului Giurgiu și Societatea Comercială „GHE ȘTUBEANU” S.R.L",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/298.pdf",
+     "sha256": "737d421ec8161ce143f97a69bba270e4945bcde3fa7083fb6b08c310b6498d4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-336-2020",
+   "path": "local/giurgiu/giurgiu/2020/336",
+   "short": "HCL Giurgiu nr. 336/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 336/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/HCL-336.pdf",
+     "sha256": "39522d2349777f9a2bcb71a25476ff4a161a62973f8591fa2c7b0331eb38bafe"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-373-2020",
    "path": "local/giurgiu/giurgiu/2020/373",
    "short": "HCL Giurgiu nr. 373/2020",
@@ -29,6 +134,201 @@
      "units": 1,
      "source_url": "https://primariagiurgiu.ro/storage/formidable/149/373.pdf",
      "sha256": "1799072d1adf4db63064dd6e190b25a08393126e01fadfe43476b51652a8ae0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-389-2020",
+   "path": "local/giurgiu/giurgiu/2020/389",
+   "short": "HCL Giurgiu nr. 389/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 389/2020",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/HCL-389.pdf",
+     "sha256": "7d64a091b66f365e09e320d09cb85351e640bcfe4f18f58e4bb448370362e052"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-401-2020",
+   "path": "local/giurgiu/giurgiu/2020/401",
+   "short": "HCL Giurgiu nr. 401/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 401/2020 privind modificarea Anexelor 1.b și 2.b la Hotărârea Consiliului Local nr.254/21.07.2020 privind aprobarea documentației tehnico-economice (faza DALT) pentru proiectul Lucrări de intervenții pentru creșterea performanței energetice: Liceul Tehnologic Ion Barbu și Școala Gimnazială arondată Savin Popescu, din Municipiul Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/HCL-401.pdf",
+     "sha256": "b793903280c819c17bf012f0f02163e0f22ac637c090d2c80cfd72c77c5be2e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-404-2020",
+   "path": "local/giurgiu/giurgiu/2020/404",
+   "short": "HCL Giurgiu nr. 404/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 404/2020 privind modificarea Hotărârii Consiliului Local nr.387 din 25 noiembrie 2020 și Hotărârii Consiliului Local nr.388 din 25 noiembrie 2020",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/HCL-404.pdf",
+     "sha256": "2abda40d9b68b3b7656d97741750566dbfd992bb0450a735c3935210e130a422"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-406-2020",
+   "path": "local/giurgiu/giurgiu/2020/406",
+   "short": "HCL Giurgiu nr. 406/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 406/2020 privind modificarea componenței Comisiei speciale de verificare a condițiilor de acordare a ajutoarelor financiare, care depășesc suma de 5.000 lei, aprobată prin Hotărârea Consiliului Local al Municipiului Giurgiu nr.74/30.03.2017 Intrunit în ședință extraordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/HCL-406.pdf",
+     "sha256": "a47b6c6ba1d41c6115f62b249df26c84a0869c749a64ff4863143ec706817607"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-430-2020",
+   "path": "local/giurgiu/giurgiu/2020/430",
+   "short": "HCL Giurgiu nr. 430/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 430/2020 privind revocarea Hotărârii Consiliului Local Giurgiu nr.282 din data 30 iulie 2020 cu privire la aprobarea documentației de atribuire în vederea vânzării prin licitație publică a terenului în suprafață de 40,00 mp., situat în Municipiul Giurgiu, Fundătura Vânătorilor, nr.12 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/430.pdf",
+     "sha256": "6aa28c6c5e620faf0f10c6ba5d42f0fcf3aab985f9f6d5d6b44067f445675f94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-431-2020",
+   "path": "local/giurgiu/giurgiu/2020/431",
+   "short": "HCL Giurgiu nr. 431/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 431/2020 privind prorogarea termenului stabilit prin Hotărârea Consiliului Local al Municipiului Giurgiu nr.233/25 iunie 2020 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/431.pdf",
+     "sha256": "f355cd3504d05e79d14b2d11073a0ef403504f102b4f105533b5bb1a794cf6cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-446-2020",
+   "path": "local/giurgiu/giurgiu/2020/446",
+   "short": "HCL Giurgiu nr. 446/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 446/2020",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/446.pdf",
+     "sha256": "dd430624de76b8b348bc588b0331c651eb0a9c3bcd678554fadf1cd59f4177d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-54-2020",
+   "path": "local/giurgiu/giurgiu/2020/54",
+   "short": "HCL Giurgiu nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 54/2020 privind aprobarea modificării Anexei la Hotărârea Consiliului Local al Municipiului Giurgiu nr.62/03.03.2017 privind aprobarea contractării și garantării unei finanțări rambursabile interne, în valoare de 31.039.930 lei, pentru realizarea unor obiective de investiții de interes local în Municipiul Giurgiu, cu modificările și completările ulterioare întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/54.pdf",
+     "sha256": "a23d2f99b4d5257b7befa3805013b437d371b23253cba2c710dbf301df45180e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-66-2020",
+   "path": "local/giurgiu/giurgiu/2020/66",
+   "short": "HCL Giurgiu nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 66/2020 privind completarea Hotărârii Consiliului Local nr.43 din data de 29.01.2020 privind aprobarea Actului adițional nr.1 la Contractul de delegare a gestiunii Serviciului public de salubrizare din Municipiul Giurgiu nr.13.901/20.04.2017",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/66.pdf",
+     "sha256": "34b80d2847e0508874d800c394149d089e63653dbab53fb3a27c967f40fe7507"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-7-2020",
+   "path": "local/giurgiu/giurgiu/2020/7",
+   "short": "HCL Giurgiu nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 7/2020",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/7.pdf",
+     "sha256": "c641fd7b2eec1e9d3381b7929e39664e6b906ee83ee919bca081ca4eefed8e4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-89-2020",
+   "path": "local/giurgiu/giurgiu/2020/89",
+   "short": "HCL Giurgiu nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 89/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-03",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/89.pdf",
+     "sha256": "7069706c5ad9b7b24d788c6420c24930fd94bf65378beffb71a44fd254fd1891"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-91-2020",
+   "path": "local/giurgiu/giurgiu/2020/91",
+   "short": "HCL Giurgiu nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 91/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-03",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/91.pdf",
+     "sha256": "bc1178913d0b7fc3776d0cb5524697b370e1ca14481dc73959727e67d8389eb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-93-2020",
+   "path": "local/giurgiu/giurgiu/2020/93",
+   "short": "HCL Giurgiu nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 93/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-03",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/93.pdf",
+     "sha256": "b2374cd47e20b69f26ca8d613a1f13d8b334148a6fb5ebafd030007ec258e3d2"
     }
    ]
   }

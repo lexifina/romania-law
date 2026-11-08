@@ -3,6 +3,696 @@
  "shard": "local/gorj/runcu/2025",
  "acts": [
   {
+   "slug": "hcl-gorj--runcu-1-2025",
+   "path": "local/gorj/runcu/2025/1",
+   "short": "HCL Runcu nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 1/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/187738",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/187738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-10-2025",
+   "path": "local/gorj/runcu/2025/10",
+   "short": "HCL Runcu nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 10/2025 privind aprobarea Strategiei de dezvoltare a serviciilor sociale acordate de furnizorii publici şi privaţi la nivelul comunei Runcu, judeţul Gorj pentru perioada 2025-2030",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/200387",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/200387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-11-2025",
+   "path": "local/gorj/runcu/2025/11",
+   "short": "HCL Runcu nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 11/2025",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/200388",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/200388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-12-2025",
+   "path": "local/gorj/runcu/2025/12",
+   "short": "HCL Runcu nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 12/2025 privind aprobarea participarii Comunei Runcu la Programul privind acordarea de sprijin în vederea achiziţionării de aparate pentru încălzirea locuinţelor, pentru localităţile din zona montană",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/200389",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/200389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-13-2025",
+   "path": "local/gorj/runcu/2025/13",
+   "short": "HCL Runcu nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 13/2025 privind aprobarea organigramei si ştatului de funcţii al aparatului de specialitate al Primarului comunei Runcu, judeţul Gorj si a serviciilor publice de interes local",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/200390",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/200390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-14-2025",
+   "path": "local/gorj/runcu/2025/14",
+   "short": "HCL Runcu nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 14/2025 privind aprobarea bugetului local comunal, aprobarea bugetelor de venituri şi cheltuieli la activităţile extrabugetare si a programului obiectivelor de investitii pentru anul 2025 la nivelul Comunei Runcu, Judetul Gorj",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/200391",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/200391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-15-2025",
+   "path": "local/gorj/runcu/2025/15",
+   "short": "HCL Runcu nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 15/2025 privind aprobarea protocolului de colaborare încheiat între Obstea Valea Susenilor si UAT Comuna Runcu",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/200392",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/200392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-16-2025",
+   "path": "local/gorj/runcu/2025/16",
+   "short": "HCL Runcu nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 16/2025 privind aprobarea închirierii prin licitaţie publică, respectiv a documentatiei de atribuire, aferente unei suprafete de teren, situat in comuna Runcu-sat Runcu în vederea amplasarii unei cutii postale digitale (Loker)",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/200393",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/200393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-17-2025",
+   "path": "local/gorj/runcu/2025/17",
+   "short": "HCL Runcu nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 17/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/203219",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/203219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-18-2025",
+   "path": "local/gorj/runcu/2025/18",
+   "short": "HCL Runcu nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 18/2025",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/203220",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/203220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-19-2025",
+   "path": "local/gorj/runcu/2025/19",
+   "short": "HCL Runcu nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 19/2025 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Reabilitare captare, marire capacitate rezervor inmagazinare apa si statie de tratare - alimentare cu apa potabila satele Baltisoara, Balta si Valea Mare, Comuna Runcu, judetul Gorj”aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/203221",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/203221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-2-2025",
+   "path": "local/gorj/runcu/2025/2",
+   "short": "HCL Runcu nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 2/2025 privind aprobarea utilizarii excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar 2024",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/187739",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/187739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-20-2025",
+   "path": "local/gorj/runcu/2025/20",
+   "short": "HCL Runcu nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 20/2025 privind aprobarea Planului de acțiune privind serviciile sociale administrate și finanțate din bugetul local al comunei Runcu pentru anul 2025",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/205983",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/205983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-21-2025",
+   "path": "local/gorj/runcu/2025/21",
+   "short": "HCL Runcu nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 21/2025 privind închirierea prin atribuire directa a pajistilor aflate in domeniul privat al comunei Runcu, judetul Gorj",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/205984",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/205984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-22-2025",
+   "path": "local/gorj/runcu/2025/22",
+   "short": "HCL Runcu nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 22/2025 privind aprobarea contului de încheiere al exercitiului bugetar și a situațiilor financiare pe anul 2024",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/205985",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/205985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-23-2025",
+   "path": "local/gorj/runcu/2025/23",
+   "short": "HCL Runcu nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 23/2025 privind actualizarea devizului general aprobat prin HCL nr.53 /27.09.2024 privind aprobarea documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici pentru obiectivul de investiții „REABILITARE, CONSOLIDARE, EFICIENTA ENERGETICA CORP C3, SCOALA GENERALA DOBRITA SI SCHIMBARE DE DESTINATIE IN SEDIU ADMINISTRATIV”, propus pentru finanțare prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile de interes și utilitate publică",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/207726",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/207726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-24-2025",
+   "path": "local/gorj/runcu/2025/24",
+   "short": "HCL Runcu nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 24/2025 privind aprobarea implementării proiectului ,,Diversificarea și flexibilizarea serviciilor de educație timpurie la nivelul județului Gorj”, Cod SMIS 336477",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/207727",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/207727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-25-2025",
+   "path": "local/gorj/runcu/2025/25",
+   "short": "HCL Runcu nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 25/2025 privind reorganizarea COMISIEI ECONOMICO-FINANCIARE, AMENAJAREA TERITORIULUI SI URBANISM, AGRICULTURA, GOSPODARIE COMUNALA, PROTECTIA MEDIULUI SI TURISM din cadrul Consiliului local Runcu, Județul Gorj",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/210793",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/210793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-26-2025",
+   "path": "local/gorj/runcu/2025/26",
+   "short": "HCL Runcu nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 26/2025 privind acordarea avizului pentru efectuarea activitatilor specifice pentru prestatorul de servicii funerare MEMORIA FUNERARE S.R.L",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/210794",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/210794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-27-2025",
+   "path": "local/gorj/runcu/2025/27",
+   "short": "HCL Runcu nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 27/2025 privind modificarea ştatului de funcţii al aparatului de specialitate al Primarului comunei Runcu, judeţul Gorj si a serviciilor publice de interes local",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/210795",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/210795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-28-2025",
+   "path": "local/gorj/runcu/2025/28",
+   "short": "HCL Runcu nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 28/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/210796",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/210796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-29-2025",
+   "path": "local/gorj/runcu/2025/29",
+   "short": "HCL Runcu nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 29/2025 privind înființarea, organigrama și numărul de personal ale Serviciului Voluntar pentru Situații de Urgență de tip V1, al comunei Runcu, județul Gorj",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/210797",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/210797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-3-2025",
+   "path": "local/gorj/runcu/2025/3",
+   "short": "HCL Runcu nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 3/2025 privind aprobarea/stabilirea locației pentru depozitarea temporară a deșeurilor inerte, provenite de la lucrări de construcții pentru care nu este necesară emiterea unei autorizații de construire/desființare, potrivit art 11 din Legea nr. 50/1991 și a deșeurilor provenite de la lucrări de construcții abandonate pe domeniul public, in vederea valorificării acestora, de pe raza comunei Runcu, județul Gorj",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/190060",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/190060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-30-2025",
+   "path": "local/gorj/runcu/2025/30",
+   "short": "HCL Runcu nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 30/2025",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/214599",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/214599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-31-2025",
+   "path": "local/gorj/runcu/2025/31",
+   "short": "HCL Runcu nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 31/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/214600",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/214600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-32-2025",
+   "path": "local/gorj/runcu/2025/32",
+   "short": "HCL Runcu nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 32/2025 privind darea in folosinta gratuita a terenului în suprafață de 14000 mp, proprietate privată a comunei Runcu, Jud. Gorj, în favoarea Manastirii Sf Ilie",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/214601",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/214601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-33-2025",
+   "path": "local/gorj/runcu/2025/33",
+   "short": "HCL Runcu nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 33/2025 privind constituirea Consiliului Comunitar Consultativ pentru perioada 2025 - 2026",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/218233",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/218233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-34-2025",
+   "path": "local/gorj/runcu/2025/34",
+   "short": "HCL Runcu nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 34/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale al Comunei Runcu",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/218234",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/218234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-35-2025",
+   "path": "local/gorj/runcu/2025/35",
+   "short": "HCL Runcu nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 35/2025 privind însușirea si aprobarea propunerii comisiei speciale de inventariere a domeniului public al comunei Runcu, de actualizare a inventarului bunurilor care apartin domeniului public al comunei Runcu, judetul Gorj",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/218235",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/218235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-36-2025",
+   "path": "local/gorj/runcu/2025/36",
+   "short": "HCL Runcu nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 36/2025 privind modificarea Regulamentului de organizare si functionare al Serviciului Public Comunitar Local de Evidenta a Persoanelor al Comunei Runcu",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/218236",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/218236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-37-2025",
+   "path": "local/gorj/runcu/2025/37",
+   "short": "HCL Runcu nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 37/2025 privind aprobarea Încheierii unor contracte de inchiriere avand ca obiect pasuni alpine, aflate in domeniul privat al comunei Runcu, judetul Gorj",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/218237",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/218237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-38-2025",
+   "path": "local/gorj/runcu/2025/38",
+   "short": "HCL Runcu nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 38/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/218238",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/218238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-39-2025",
+   "path": "local/gorj/runcu/2025/39",
+   "short": "HCL Runcu nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 39/2025",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/223154",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/223154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-4-2025",
+   "path": "local/gorj/runcu/2025/4",
+   "short": "HCL Runcu nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 4/2025 privind aprobarea tarifelor pentru activitatile prestate de catre SC SALUBRIS GILORT SRL pe raza Comunei Runcu, Județul Gorj",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/190061",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/190061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-40-2025",
+   "path": "local/gorj/runcu/2025/40",
+   "short": "HCL Runcu nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 40/2025 privind modificarea ştatului de funcţii al aparatului de specialitate al Primarului comunei Runcu, judeţul Gorj si a serviciilor publice de interes local",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/223155",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/223155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-41-2025",
+   "path": "local/gorj/runcu/2025/41",
+   "short": "HCL Runcu nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 41/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/223156",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/223156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-42-2025",
+   "path": "local/gorj/runcu/2025/42",
+   "short": "HCL Runcu nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 42/2025 privind însușirea si aprobarea propunerii comisiei speciale de inventariere a domeniului public al comunei Runcu, de actualizare a inventarului bunurilor care apartin domeniului public al comunei Runcu, judetul Gorj",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/223157",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/223157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-43-2025",
+   "path": "local/gorj/runcu/2025/43",
+   "short": "HCL Runcu nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 43/2025 privind aprobarea participării UAT Comuna Runcu județul GORJ în cadrul ‘’Programului Incluziune și demnitate socială. 2021 - 2027, Prioritate:P06. Servicii de suport pentru persoane vârstnice ; Obiectiv specific:ESO4.11.,Apel de proiecte:,,Servicii de îngrijire la domiciliu pentru persoanele vârstnice’’",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/223158",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/223158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-44-2025",
+   "path": "local/gorj/runcu/2025/44",
+   "short": "HCL Runcu nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 44/2025 privind aprobarea documentaţiilor Întocmite În etapa 1 \"Nota conceptuală\" şi \"Tema de proiectare\" În vederea elaborării Documentaţiei Studiu de Fezabilitate la obiectivul de investiţie „Construirea/ modernizarea căilor de acces la principalele obiective turistice naturale prin amenajare de trasee turistice cu puncte (foisoare) de observare/ filmare/ fotografiere, cu refugii montane în stațiunea turistica Runcu, județul Gorj”",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/223159",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/223159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-45-2025",
+   "path": "local/gorj/runcu/2025/45",
+   "short": "HCL Runcu nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 45/2025 privind aprobarea proiectului“INGRIJIRE LA DOMICILIU PENTRU BUNICII COMUNITATII, COMUNA RUNCU, JUDETUL GORJ” proiect ce urmeaza a fi depus in cadrul Programului : „Programul Incluziune și Demnitate Socială 2021-2027” /Prioritate: P06. Servicii de suport pentru persoane vârstnice Obiectiv specific: ESO4.11. Lărgirea accesului egal și în timp util la servicii de calitate, sustenabile și la prețuri accesibile, inclusiv servicii care promovează accesul la locuințe și îngrijire orientată către persoane, inclusiv asistență medicală Modernizarea sistemelor de protecție socială, inclusiv promovarea accesului la protecție socială, acordând o atenție deosebită copiilor și grupurilor defavorizate Îmbunătățirea accesibilității, inclusiv pentru persoanele cu dizabilități, precum și a eficacității și rezilienței sistemelor de sănătate și a serviciilor de îngrijire pe termen lung (FSE+) Acțiunea 6.1. Servicii de îngrijire la domiciliu pentru persoanele vârstnice",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/223505",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/223505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-46-2025",
+   "path": "local/gorj/runcu/2025/46",
+   "short": "HCL Runcu nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 46/2025",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/226958",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/226958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-47-2025",
+   "path": "local/gorj/runcu/2025/47",
+   "short": "HCL Runcu nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 47/2025 privind aprobarea documentaţiilor Întocmite În etapa 1 \"Nota conceptuală\" şi \"Tema de proiectare\" În vederea elaborării Documentaţiei Studiu de Fezabilitate la obiectivul de investiţie „REALIZAREA UNUI SISTEM DE STOCARE A ENERGIEI ELECTRICE PRODUSE DIN SURSE REGENERABILE DE TIP SOLAR, PENTRU CLADIRILE PUBLICE SI ILUMINATUL PUBLIC - COMUNA RUNCU, JUDETUL GORJ”",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/226959",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/226959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-48-2025",
+   "path": "local/gorj/runcu/2025/48",
+   "short": "HCL Runcu nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 48/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/226960",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/226960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-49-2025",
+   "path": "local/gorj/runcu/2025/49",
+   "short": "HCL Runcu nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 49/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/233191",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/233191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-5-2025",
+   "path": "local/gorj/runcu/2025/5",
+   "short": "HCL Runcu nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 5/2025 privind actualizarea Regulamentului de organizare şi funcţionare al Compartimentului de asistenţă socială organizat la nivelul comunei Runcu, județul Gorj",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/190062",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/190062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-50-2025",
+   "path": "local/gorj/runcu/2025/50",
+   "short": "HCL Runcu nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 50/2025 privind aprobarea documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici pentru obiectivul de investiții „Consolidare si reabilitare termica sediu administrativ”, propus pentru finanțare prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile de interes și utilitate publică",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/233192",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/233192",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--runcu-51-2025",
    "path": "local/gorj/runcu/2025/51",
    "short": "HCL Runcu nr. 51/2025",
@@ -133,6 +823,21 @@
      "from": "2025-12-10",
      "units": 1,
      "source_url": "https://emol.ro/runcu-gj/registru-hcl/237822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-6-2025",
+   "path": "local/gorj/runcu/2025/6",
+   "short": "HCL Runcu nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 6/2025 privind aprobarea metodologiei de evaluare a nevoilor comunității în vederea organizării serviciilor sociale pentru persoanele vărstnice din U.A.T comuna Runcu",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/190063",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/190063",
      "sha256": null
     }
    ]
@@ -288,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--runcu-7-2025",
+   "path": "local/gorj/runcu/2025/7",
+   "short": "HCL Runcu nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 7/2025 privind aprobarea procedurii de autorizare si functionare a spatiilor de joaca situate pe raza comunei Runcu",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/190064",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/190064",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--runcu-70-2025",
    "path": "local/gorj/runcu/2025/70",
    "short": "HCL Runcu nr. 70/2025",
@@ -298,6 +1018,36 @@
      "from": "2026-01-15",
      "units": 1,
      "source_url": "https://emol.ro/runcu-gj/registru-hcl/244853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-8-2025",
+   "path": "local/gorj/runcu/2025/8",
+   "short": "HCL Runcu nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 8/2025",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/192858",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/192858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--runcu-9-2025",
+   "path": "local/gorj/runcu/2025/9",
+   "short": "HCL Runcu nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu nr. 9/2025 privind aprobarea“Strategiei integrate de dezvoltare locală a comunei Runcu pentru perioada 2024 – 2030”",
+   "url": "https://emol.ro/runcu-gj/registru-hcl/192859",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/runcu-gj/registru-hcl/192859",
      "sha256": null
     }
    ]

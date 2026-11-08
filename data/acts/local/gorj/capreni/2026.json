@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-gorj--capreni-3-2026",
+"path": "local/gorj/capreni/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 3/2026 privind aprobarea Strategiei anuale de achiziții publice a comunei Căpreni , județul Gorj și a programului de achiziţii publice pentru anul 2026",
+"short": "HCL Căpreni nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-06",
+"latest": "2026-02-06",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/251782",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--capreni-4-2026",
 "path": "local/gorj/capreni/2026/4",
 "kind": "local",

@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-114-2019",
+   "path": "local/giurgiu/giurgiu/2019/114",
+   "short": "HCL Giurgiu nr. 114/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 114/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/114.pdf",
+     "sha256": "189ce29717ac9bbbe4d9d8755a20ec1c110967d5607df84ead9b68328756a380"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-165-2019",
+   "path": "local/giurgiu/giurgiu/2019/165",
+   "short": "HCL Giurgiu nr. 165/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 165/2019 privind modificarea și completarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.83 din data de 28 martie 2019 privind înființarea SPORT CLUB MUNICIPAL DUNĂREA 2020 GIURGIU întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/165.pdf",
+     "sha256": "f7966f301bac380c0e2b0a0f7d700bf6a40474c93603452e8e6c1151a9cb6074"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-173-2019",
    "path": "local/giurgiu/giurgiu/2019/173",
    "short": "HCL Giurgiu nr. 173/2019",
@@ -33,6 +63,261 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-195-2019",
+   "path": "local/giurgiu/giurgiu/2019/195",
+   "short": "HCL Giurgiu nr. 195/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 195/2019 privind completarea și modificarea art.1 din Hotărârea Consiliului Local al Municipiului Giurgiu nr.138/24.04.2019 privind aprobarea actualizării indicatorilor tehnico-cconomici, în conformitate cu prevederile art.71, alin.(1) din Ordonanța de Urgență a Guvernului nr.114/2018, pentru obiectivul de investiții „Sistematizare verticală ansambluri blocuri zona PTI8 “ întrunit în ședința ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/195.pdf",
+     "sha256": "ea8f3d8042d84c809839b35be20294e37849ee70a2f46caed764b001f12b495b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-198-2019",
+   "path": "local/giurgiu/giurgiu/2019/198",
+   "short": "HCL Giurgiu nr. 198/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 198/2019",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/198.pdf",
+     "sha256": "97335db9019d5a23a6bb714e76d2e9c0e2c2f1fcf595554593b362a2d6bbc83e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-200-2019",
+   "path": "local/giurgiu/giurgiu/2019/200",
+   "short": "HCL Giurgiu nr. 200/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 200/2019 privind completarea Hotărârii Consiliului Local nr.298 din data de 29 august 2007 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/200.pdf",
+     "sha256": "dfa3a04effbfe752347a8e0151f3096d3c96369561c5935e5d55a4cb447d3e70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-215-2019",
+   "path": "local/giurgiu/giurgiu/2019/215",
+   "short": "HCL Giurgiu nr. 215/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 215/2019",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/215.pdf",
+     "sha256": "d726fd5aa3c0965aa3d059637cf9bc5cb168d45708701347188fb24b9b125a02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-23-2019",
+   "path": "local/giurgiu/giurgiu/2019/23",
+   "short": "HCL Giurgiu nr. 23/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 23/2019 privind abrogarea Hotărârii nr.S din data de 09.01.2020 a Consiliului Local al Municipiului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/23.pdf",
+     "sha256": "b046d110fbc952e95b38a408a9439cc796f3975af73f00a71325ee83d3c50fd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-240-2019",
+   "path": "local/giurgiu/giurgiu/2019/240",
+   "short": "HCL Giurgiu nr. 240/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 240/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/240.pdf",
+     "sha256": "b040ebce6a6f10429db8fad44ac43854402378f1f1f92893b37fbe2d6350dc0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-260-2019",
+   "path": "local/giurgiu/giurgiu/2019/260",
+   "short": "HCL Giurgiu nr. 260/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 260/2019",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-07-10",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/260.pdf",
+     "sha256": "e0112973c884db70666eea612484e7ad8f76ece779178c7a45a1ec27b2f4843a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-267-2019",
+   "path": "local/giurgiu/giurgiu/2019/267",
+   "short": "HCL Giurgiu nr. 267/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 267/2019 privind modificarea Anexei la Hotărârea Consiliulu Local nr.396/27.09.2018 privind numirea reprezentanților Consiliului Local al Municipiului Giurgiu, în Consiliile de Administrație ale unităților de învățământ preuniversitar de stat din Municipiul Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/267.pdf",
+     "sha256": "f62697cf3896e6870048a274b50c2976a626bca4cd77150b47f9c5f0bf550bb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-28-2019",
+   "path": "local/giurgiu/giurgiu/2019/28",
+   "short": "HCL Giurgiu nr. 28/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 28/2019 privind continuarea în anul 2019 a acordului de parteneriat între Municipiul Giurgiu și unitățile de învățământ liceale și gimnaziale din Municipiul Giurgiu în conformitate cu Hotărârea Consiliului Local al Municipiului Giurgiu nr.420/18.10.2018 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/28.pdf",
+     "sha256": "c7c7e34e95fca9ddc20ccb635d613a6338762be4c0c3f8ea1fa708f15c704d4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-285-2019",
+   "path": "local/giurgiu/giurgiu/2019/285",
+   "short": "HCL Giurgiu nr. 285/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 285/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/285.pdf",
+     "sha256": "4abf2e29f69044403b881d129addd3240f6bf14ee4b31e7715cf13fdb75810e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-291-2019",
+   "path": "local/giurgiu/giurgiu/2019/291",
+   "short": "HCL Giurgiu nr. 291/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 291/2019 privind modificarea Anexei la Hotărârea Consiliului Local al Municipiului Giurgiu nr.371/24.10.2007 privind autorizarea Nomenclatorului Stradal al Municipiului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/291.pdf",
+     "sha256": "4f2ec7f27be219fc18f618ad363dfca1b0360c005b4d1d8b843d5aa079c80fbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-296-2019",
+   "path": "local/giurgiu/giurgiu/2019/296",
+   "short": "HCL Giurgiu nr. 296/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 296/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/296.pdf",
+     "sha256": "805abbd2857d14247bec963e8acc8648afcfef8c2722045a29831219946b4c15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-317-2019",
+   "path": "local/giurgiu/giurgiu/2019/317",
+   "short": "HCL Giurgiu nr. 317/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 317/2019",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/317.pdf",
+     "sha256": "9f48b028295b739e83bbc1fcc28e8f0207846f78fddde3dc29fc092e4f5bc87b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-345-2019",
+   "path": "local/giurgiu/giurgiu/2019/345",
+   "short": "HCL Giurgiu nr. 345/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 345/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-09-06",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/345.pdf",
+     "sha256": "b04408b4807eb0155c94a727555f30061bdaf8000b2ac85fb9a30b747af9e5fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-371-2019",
+   "path": "local/giurgiu/giurgiu/2019/371",
+   "short": "HCL Giurgiu nr. 371/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 371/2019 privind îndreptarea unei erori materiale din cuprinsul Hotărârii Consiliului Local al Municipiului Giurgiu nr.172 din data de 24 aprilie 2019 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-09-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/hcl-371-sept.pdf",
+     "sha256": "e0be85c621a1dc482ae9f78ab8c35f1d7865e14d01aa0200000d085300c1bc50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-39-2019",
+   "path": "local/giurgiu/giurgiu/2019/39",
+   "short": "HCL Giurgiu nr. 39/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 39/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-13",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/39.pdf",
+     "sha256": "52cf6193bf512e4f29fcabb2edc36dd87361b71c0f0075914c71a70bdfe973f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-42-2019",
+   "path": "local/giurgiu/giurgiu/2019/42",
+   "short": "HCL Giurgiu nr. 42/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 42/2019 privind completarea și modificarea Anexei 1 la Hotărârea Consiliului Local al Municipiului Giurgiu nr.40 din data de 13 februarie 2019 întrunit în ședință extraordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-02-18",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/HCL-42-din-18.02.2019.pdf",
+     "sha256": "65d49309fd01ba20e14770511787ad41103dce447619e6fe0dba6064764b9cea"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-43-2019",
    "path": "local/giurgiu/giurgiu/2019/43",
    "short": "HCL Giurgiu nr. 43/2019",
@@ -44,6 +329,96 @@
      "units": 1,
      "source_url": "https://primariagiurgiu.ro/storage/formidable/151/HCL-NR.-43-din-18.02.2019.pdf",
      "sha256": "e6c391dc6ca56f21cb0fd785b48c5e4fbe4af414d422f3d65e4235868b7258a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-447-2019",
+   "path": "local/giurgiu/giurgiu/2019/447",
+   "short": "HCL Giurgiu nr. 447/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 447/2019",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/447.pdf",
+     "sha256": "4b2d9ee2f46a93fc645c7ba3ef95c8bf2c32e02c85b6adc9128e1915002cd273"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-469-2019",
+   "path": "local/giurgiu/giurgiu/2019/469",
+   "short": "HCL Giurgiu nr. 469/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 469/2019 privind rectificarea Articolului 1 la Hotărârea Consiliului Local al Municipiului Giurgiu nr.80/28.03.2019 privind aprobarea indicatorilor tehnico- economici pentru obiectivul de investiții „Sistematizare zona Biserica Sfinții Martiri Brâncoveni” întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/469.pdf",
+     "sha256": "64560b32e3a2fbc7c28c61bb4d03f1497075accae225162133b50457369cdb9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-576-2019",
+   "path": "local/giurgiu/giurgiu/2019/576",
+   "short": "HCL Giurgiu nr. 576/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 576/2019 privind modificarea Anexei la Hotărârea Consiliului Local al Municipiului Giurgiu nr.342/28.08.2019 privind numirea reprezentanților Consiliului Local al Municipiului Giurgiu în Comisiile de Evaluare și asigurarea calității educației în unitățile de învățământ preuniversitar de stat din Municipiul Giurgiu, pentru anul școlar 2019-2020 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/576.pdf",
+     "sha256": "889d4869d471412d000030e1184cd7e1ed1b86ba7837b3310029a643540da2ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-578-2019",
+   "path": "local/giurgiu/giurgiu/2019/578",
+   "short": "HCL Giurgiu nr. 578/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 578/2019 privind modificarea Anexei la Hotărârea Consiliului Local nr.346/06.09.2019 privind numirea reprezentanților Consiliului Local al Municipiului Giurgiu, în Consiliile de Administrație ale unităților de învățământ preuniversitar de stat din Municipiul Giurgiu pentru anul școlar 2019-2020 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/578.pdf",
+     "sha256": "3c7e9fc6df0654e3abfb576f464b4fcde0bbb9b65c58780081578032d3f027cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-59-2019",
+   "path": "local/giurgiu/giurgiu/2019/59",
+   "short": "HCL Giurgiu nr. 59/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 59/2019 privind modificarea Anexei 4 la Hotărârea Consiliului Local al Municipiului Giurgiu nr.26/31.01.2019 Intrunit în ședința ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/59.pdf",
+     "sha256": "911b171d545f32c0cab713c2da6df297164a11d1d72f081bae208cec210d615d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-62-2019",
+   "path": "local/giurgiu/giurgiu/2019/62",
+   "short": "HCL Giurgiu nr. 62/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 62/2019 privind completarea Anexei 1A la Hotărârea Consiliului Local al Municipiului Giurgiu nr.42 din data de 18 februarie 2019 intrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/62.pdf",
+     "sha256": "55072cb5ce44669359d176cf79c8a52c217b6ee6b3945eca23da6b076c30d96d"
     }
    ]
   },

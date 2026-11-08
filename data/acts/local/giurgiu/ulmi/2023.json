@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--ulmi-4-2023",
+"path": "local/giurgiu/ulmi/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 4/2023 privind aprobarea numarul de posturi pentru asistentii personali si persoanelor cu handicap si numarul de indemnizatii de insotitor pe anul 2023 in comuna Ulmi",
+"short": "HCL Ulmi nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/89158",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-5-2023",
 "path": "local/giurgiu/ulmi/2023/5",
 "kind": "local",
@@ -224,6 +246,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--ulmi-12-2023",
+"path": "local/giurgiu/ulmi/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 12/2023 privind atribuirea loturilor de teren pentru construirea de locuinte proprietate personala pentru tineri in conditiile Legii 15/2003",
+"short": "HCL Ulmi nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-09",
+"latest": "2023-03-09",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/92467",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-13-2023",
 "path": "local/giurgiu/ulmi/2023/13",
 "kind": "local",
@@ -309,6 +353,29 @@
 "council_name": "Consiliul Local al Comunei Ulmi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-17-2023",
+"path": "local/giurgiu/ulmi/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 17/2023",
+"short": "HCL Ulmi nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/103689",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -423,6 +490,29 @@
 }
 },
 {
+"slug": "hcl-giurgiu--ulmi-23-2023",
+"path": "local/giurgiu/ulmi/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 23/2023",
+"short": "HCL Ulmi nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/103695",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-24-2023",
 "path": "local/giurgiu/ulmi/2023/24",
 "kind": "local",
@@ -467,6 +557,50 @@
 }
 },
 {
+"slug": "hcl-giurgiu--ulmi-26-2023",
+"path": "local/giurgiu/ulmi/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 26/2023 privind modificarea si completarea inventarului domeniului public al comunei Ulmi",
+"short": "HCL Ulmi nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/110197",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-27-2023",
+"path": "local/giurgiu/ulmi/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 27/2023 privind aprobarea Amenajamentului pastoral pentru pajistile naturale aflate pe raza administrativ teritoriala a Comunei Ulmi judetul Giurgiu",
+"short": "HCL Ulmi nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/110198",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-28-2023",
 "path": "local/giurgiu/ulmi/2023/28",
 "kind": "local",
@@ -486,6 +620,72 @@
 "council_name": "Consiliul Local al Comunei Ulmi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-29-2023",
+"path": "local/giurgiu/ulmi/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 29/2023 privind rectificarea bugetului local al comunei Ulmi, virarea de credite bugetare de la un capitol la altul si intre trimestrele aceluiasi articol, modificarea listei de investitii",
+"short": "HCL Ulmi nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/110200",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-30-2023",
+"path": "local/giurgiu/ulmi/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 30/2023 privind aprobarea utilizarea excedentului bugetar rezultat la încheierea exercițiului bugetar al anilor anterior al comunei Ulmi",
+"short": "HCL Ulmi nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/110201",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-31-2023",
+"path": "local/giurgiu/ulmi/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 31/2023 privind alegerea presedintelui de sedinta",
+"short": "HCL Ulmi nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/110202",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

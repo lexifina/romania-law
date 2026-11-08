@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/mihailesti/2020",
+"acts": [
+{
+"slug": "hcl-giurgiu--mihailesti-56-2020",
+"path": "local/giurgiu/mihailesti/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 56/2020",
+"short": "HCL Mihăilești nr. 56/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-11",
+"latest": "2020-12-11",
+"portal": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+"council": "giurgiu/mihailesti",
+"council_name": "Consiliul Local al Orașului Mihăilești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -333,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--varasti-16-2025",
+"path": "local/giurgiu/varasti/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 16/2025 privind desemnarea consilierilor locali, membri ai comisiei pentru evaluarea performanțelor profesionale individuale ale secretariatului general al comunei Vărăști",
+"short": "HCL Vărăști nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-17",
+"latest": "2025-04-17",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202384",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-17-2025",
 "path": "local/giurgiu/varasti/2025/17",
 "kind": "local",
@@ -421,6 +443,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--varasti-21-2025",
+"path": "local/giurgiu/varasti/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 21/2025 privind aprobarea prelungirii contractului de închiriere nr. 1791/11.05.2023",
+"short": "HCL Vărăști nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-11",
+"latest": "2025-06-11",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/211002",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-22-2025",
 "path": "local/giurgiu/varasti/2025/22",
 "kind": "local",
@@ -440,6 +484,50 @@
 "council_name": "Consiliul Local al Comunei Vărăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-23-2025",
+"path": "local/giurgiu/varasti/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 23/2025 privind aprobarea închirierii unor suprafețe de teren extravilan, categoria de folosință arabil, cu destinația de izlaz, aflat în proprietatea privată a comunei Vărăști, județul Giurgiu",
+"short": "HCL Vărăști nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-11",
+"latest": "2025-06-11",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/211010",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-24-2025",
+"path": "local/giurgiu/varasti/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 24/2025 privind achiziționarea de servicii juridice",
+"short": "HCL Vărăști nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-11",
+"latest": "2025-06-11",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/211011",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -528,6 +616,28 @@
 "council_name": "Consiliul Local al Comunei Vărăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-29-2025",
+"path": "local/giurgiu/varasti/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 29/2025 privind alegerea președintelui de ședință pentru perioada iunie, iulie și august 2025",
+"short": "HCL Vărăști nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-11",
+"latest": "2025-06-11",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/211016",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1147,6 +1257,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--varasti-58-2025",
+"path": "local/giurgiu/varasti/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 58/2025 privind desemnarea reprezentanților consiliului local Vărăști în consiliul de administrație al Școlii Gimnazilae nr.1 Vărăști",
+"short": "HCL Vărăști nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/230053",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-59-2025",
 "path": "local/giurgiu/varasti/2025/59",
 "kind": "local",
@@ -1343,6 +1475,28 @@
 "council_name": "Consiliul Local al Comunei Vărăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-68-2025",
+"path": "local/giurgiu/varasti/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 68/2025 privind încetarea contractului de închiriere a spațiului aflat în domeniul public al Comunei Vărăști, județul Giurgiu cu destințaia de cabinet stomatologic",
+"short": "HCL Vărăști nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/247288",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

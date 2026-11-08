@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/rovinari/2007",
+ "acts": [
+  {
+   "slug": "hcl-gorj--rovinari-57-2007",
+   "path": "local/gorj/rovinari/2007/57",
+   "short": "HCL Rovinari nr. 57/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 57/2007",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2019-2006-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2007-04-27",
+     "units": 1,
+     "source_url": "https://primariarovinari.ro/storage/formidable/230/06_Hotarari_C.L._Rovinari_27.04.2007.pdf",
+     "sha256": "6a0a4f634ad48a362e3555add38d4656fc063f885d3128755762ece668447ab4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-7-2007",
+   "path": "local/gorj/rovinari/2007/7",
+   "short": "HCL Rovinari nr. 7/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 7/2007",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2019-2006-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 1,
+     "source_url": "https://primariarovinari.ro/storage/formidable/230/07_Hotarari_C.L._Rovinari_29.05.2007.pdf",
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+   ]
+  }
+ ]
+}

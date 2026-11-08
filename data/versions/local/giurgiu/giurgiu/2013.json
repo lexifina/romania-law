@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-477-2013",
+   "path": "local/giurgiu/giurgiu/2013/477",
+   "short": "HCL Giurgiu nr. 477/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 477/2013",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/195/451-mentiner-chirii.pdf",
+     "sha256": "d8eccf51b9205c39884041e7091a7b02abb937cd6329bf15550b3e75e686207b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-63-2013",
    "path": "local/giurgiu/giurgiu/2013/63",
    "short": "HCL Giurgiu nr. 63/2013",

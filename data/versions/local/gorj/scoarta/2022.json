@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--scoarta-23-2022",
+   "path": "local/gorj/scoarta/2022/23",
+   "short": "HCL Scoarța nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 23/2022 privind aprobarea cumpărării unui teren în suprafață totală de 2579 mp situat în satul Scoarța, comuna Scoarța, județul Gorj /, înscris în CF nr. 38348, având nr. cadastral 38348 în vederea amenajării unui parc recreativ",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/53586",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/53586",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--scoarta-24-2022",
    "path": "local/gorj/scoarta/2022/24",
    "short": "HCL Scoarța nr. 24/2022",
@@ -873,6 +888,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--scoarta-63-2022",
+   "path": "local/gorj/scoarta/2022/63",
+   "short": "HCL Scoarța nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 63/2022 privind desemnarea reprezentanților Consiliului Local al Comunei Scoarța, județul Gorj în Consiliul de Administrație al Școlii Gimnaziale Scoarța în anul școlar 2022-2023",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/79577",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/79577",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--scoarta-64-2022",
    "path": "local/gorj/scoarta/2022/64",
    "short": "HCL Scoarța nr. 64/2022",
@@ -898,6 +928,21 @@
      "from": "2022-11-18",
      "units": 1,
      "source_url": "https://emol.ro/scoarta-gj/registru-hcl/79579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--scoarta-66-2022",
+   "path": "local/gorj/scoarta/2022/66",
+   "short": "HCL Scoarța nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 66/2022 privind majorarea taxei de închiriere a utilajului buldoexcavator aflat în patrimoniul Primăriei Scoarța, județul Gorj",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/79580",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/79580",
      "sha256": null
     }
    ]
@@ -988,6 +1033,21 @@
      "from": "2022-11-18",
      "units": 1,
      "source_url": "https://emol.ro/scoarta-gj/registru-hcl/79883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--scoarta-72-2022",
+   "path": "local/gorj/scoarta/2022/72",
+   "short": "HCL Scoarța nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 72/2022 privind aprobarea prelungirii, prin act adițional, a contractului de închiriere nr. 13979/21.12.2018 încheiat între Comuna Scoarța și SC FORCĂTĂVET SRL",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/79884",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/79884",
      "sha256": null
     }
    ]

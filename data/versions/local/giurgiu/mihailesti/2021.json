@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/mihailesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--mihailesti-10-2021",
+   "path": "local/giurgiu/mihailesti/2021/10",
+   "short": "HCL Mihăilești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 10/2021",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/Nr.-10_28.01.2021-Alegere-Presedinte-de-sedinta.pdf",
+     "sha256": "f0ddbd25488a83d68df96c918f4d7a0adf828bd64221e6643ffae7a224701505"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-11-2021",
+   "path": "local/giurgiu/mihailesti/2021/11",
+   "short": "HCL Mihăilești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 11/2021",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/HCL-nr.-11_28.01.2021-Predare-apmlasament-CNI-Dispensar-medical.pdf",
+     "sha256": "0ac1b8a28f825a4b4a282bdab4d0ba105e66b8db79061b8d170a037335170152"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-17-2021",
+   "path": "local/giurgiu/mihailesti/2021/17",
+   "short": "HCL Mihăilești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 17/2021",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/HCL-NR.-17_25_02_2021-Aprobare-facilitati-fiscale.pdf",
+     "sha256": "39f894ba74848f912ac8e181d80bfb04e3a24cf37d57abea3b09591b59e51906"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-25-2021",
+   "path": "local/giurgiu/mihailesti/2021/25",
+   "short": "HCL Mihăilești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 25/2021",
+   "url": "https://primariamihailesti.ro/consiliul-local/alte-documente/",
+   "versions": [
+    {
+     "from": "2021-04-26",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/consiliul-local/alte-documente/",
+     "sha256": "dcb038f8d6b27740a9a5866cb105d883fc9e36a0ef4fd229601d81e85f1409c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-27-2021",
+   "path": "local/giurgiu/mihailesti/2021/27",
+   "short": "HCL Mihăilești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 27/2021",
+   "url": "https://primariamihailesti.ro/consiliul-local/alte-documente/",
+   "versions": [
+    {
+     "from": "2021-05-18",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/PHCL-APROBARE-MANDAT-SPECIAL-APA-SERVICE-nr.-27_18.05.2021.pdf",
+     "sha256": "cc999808e130756778739ab02d4bef039c3241c085c9fe1ee85b10d3fcd4f7d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-28-2021",
+   "path": "local/giurgiu/mihailesti/2021/28",
+   "short": "HCL Mihăilești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 28/2021",
+   "url": "https://primariamihailesti.ro/consiliul-local/alte-documente/",
+   "versions": [
+    {
+     "from": "2021-05-18",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/PHCL-INITIERE-ACTUALIZARE-PUG-nr-28_18.05.2021.pdf",
+     "sha256": "1c2659dac5a6da7789c9ca3143db0268159a8fb6427c419660ee38d4e8b24ccb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-4-2021",
+   "path": "local/giurgiu/mihailesti/2021/4",
+   "short": "HCL Mihăilești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 4/2021",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/Nr.-04_06.01.2021-Modificare-stat-de-functii.pdf",
+     "sha256": "ed8b054ddfabc69bf495b6deef8084e3404b562e09e58f33d024f510f5524b30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-46-2021",
+   "path": "local/giurgiu/mihailesti/2021/46",
+   "short": "HCL Mihăilești nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 46/2021",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/HCL-NR.-46_21.10.2021-Modificare-amplasament-Dispensar-medical.pdf",
+     "sha256": "a6bcec06796391ffa3c28415855b762e3fa2fdc1c64883c6b907ee61ab48021c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-6-2021",
+   "path": "local/giurgiu/mihailesti/2021/6",
+   "short": "HCL Mihăilești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 6/2021",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/HCL-nr.6_28.01.2021-aprobare-intentie-de-cedare-actiuni-APA-SERVICE-GR.pdf",
+     "sha256": "6cb0640c72665baf70f3bdc0fc3cced45c874921189a72b6a1a30b721717df41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-60-2021",
+   "path": "local/giurgiu/mihailesti/2021/60",
+   "short": "HCL Mihăilești nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 60/2021",
+   "url": "https://primariamihailesti.ro/consiliul-local/alte-documente/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/consiliul-local/alte-documente/",
+     "sha256": "49aeedb7121afeffe31de4947e216e613a77653be5bb244c52bf485d53534413"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-8-2021",
+   "path": "local/giurgiu/mihailesti/2021/8",
+   "short": "HCL Mihăilești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 8/2021",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/Nr.-8_28.01.2021-Restrictii-de-circulatie-Str.-Aleea-Crizantemelor.pdf",
+     "sha256": "514d81be165209983b23d172ad5f9a4e42755affc758a0b9f365cb4498653a06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--mihailesti-9-2021",
+   "path": "local/giurgiu/mihailesti/2021/9",
+   "short": "HCL Mihăilești nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Mihăilești nr. 9/2021",
+   "url": "https://primariamihailesti.ro/consiliul-local/hotararile-consiliului-local-mihailesti/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariamihailesti.ro/wp-content/uploads/2024/12/Nr.-9_28.01.2021-Desfiintare-constructii-ilegale.pdf",
+     "sha256": "d9e8ebacc7c785eb8cdffb53542685565d2bac0bfea0d5ba97b4d892c1572de0"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,50 @@
 "shard": "local/gorj/bustuchin/2026",
 "acts": [
 {
+"slug": "hcl-gorj--bustuchin-1-2026",
+"path": "local/gorj/bustuchin/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 1/2026 privind aprobarea tipului de suport alimentar precum și modalitatea de distribuire a acestuia preșcolarilor și elevilor Liceului Tehnologic Bustuchin din com Bustuchin, județul Gorj",
+"short": "HCL Bustuchin nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/246920",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-2-2026",
+"path": "local/gorj/bustuchin/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 2/2026 privind aprobarea listei solicitantilor care indeplinesc conditiile de repartizare a locuintelor pentru tineri destinate inchirierii, realizate de Agentia Nationala pentru Locuinte in Comuna Bustuchin, judetul Gorj",
+"short": "HCL Bustuchin nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/246921",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--bustuchin-3-2026",
 "path": "local/gorj/bustuchin/2026/3",
 "kind": "local",
@@ -69,6 +113,95 @@
 }
 },
 {
+"slug": "hcl-gorj--bustuchin-6-2026",
+"path": "local/gorj/bustuchin/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 6/2026",
+"short": "HCL Bustuchin nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/250138",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-7-2026",
+"path": "local/gorj/bustuchin/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 7/2026 privind aprobarea listei cu ordinea de prioritate a solicitanților îndreptățiți la repartizarea de locuinţe sociale construite în baza Legii nr.114/1996 precum si atribuirea unei locuinte de necesitate familiei a cărei locuință a devenit inutilizabilă în urma unor calamități naturale sau accidente",
+"short": "HCL Bustuchin nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/250139",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-8-2026",
+"path": "local/gorj/bustuchin/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 8/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Bustuchin",
+"short": "HCL Bustuchin nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/250140",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-9-2026",
+"path": "local/gorj/bustuchin/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 9/2026 privind desemnarea unui reprezentant al Consiliului Local Bustuchin in Comisia de Evaluare si Asigurare a Calitatii constituita la nivelul Liceului Tehnologic Bustuchin , pentru anul scolar 2025 - 2026",
+"short": "HCL Bustuchin nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/250141",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--bustuchin-10-2026",
 "path": "local/gorj/bustuchin/2026/10",
 "kind": "local",
@@ -88,6 +221,28 @@
 "council_name": "Consiliul Local al Comunei Bustuchin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-11-2026",
+"path": "local/gorj/bustuchin/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 11/2026 privind aprobarea modelului-cadru al contractului de închiriere pentru suprafețele cu destinația de locuință socială din fondul locativ al UAT Comuna Bustuchin",
+"short": "HCL Bustuchin nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/254357",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +290,163 @@
 }
 },
 {
+"slug": "hcl-gorj--bustuchin-14-2026",
+"path": "local/gorj/bustuchin/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 14/2026",
+"short": "HCL Bustuchin nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/256954",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-15-2026",
+"path": "local/gorj/bustuchin/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 15/2026 privind aderarea Comunei Bustuchin la Asociația de Dezvoltare Intercomunitară \"Serviciul județean pentru ocrotirea animalelor fară stăpân\"",
+"short": "HCL Bustuchin nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/256955",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-16-2026",
+"path": "local/gorj/bustuchin/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 16/2026 privind completarea Hotărârii Consiliului Local nr. 72 din 30.12.2025 privind apartamentarea blocului nr. 235, cu nr. cadastral 35873, apartinand statului Român prin Agentia Nationala pentru Locuințe în administrarea UAT – comuna Bustuchin, situat în comuna Bustuchin, sat Bustuchin, str. Principala, nr. 235, jud. Gorj",
+"short": "HCL Bustuchin nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/256956",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-17-2026",
+"path": "local/gorj/bustuchin/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 17/2026",
+"short": "HCL Bustuchin nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-20",
+"latest": "2026-04-20",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/261645",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-18-2026",
+"path": "local/gorj/bustuchin/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 18/2026",
+"short": "HCL Bustuchin nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-20",
+"latest": "2026-04-20",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/261646",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-19-2026",
+"path": "local/gorj/bustuchin/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 19/2026 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „REABILITARE SI MODERNIZARE SISTEME DE APĂ POTABILĂ IN COMUNA BUSTUCHIN, JUDEȚUL GORJ, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, ca urmare a modificării cotei TVA de la 19% la 21%",
+"short": "HCL Bustuchin nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/263838",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-20-2026",
+"path": "local/gorj/bustuchin/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 20/2026 privind aprobarea implementarii proiectului Achiziționarea de mobilier, materiale și echipamente necesare pentru funcționalizarea serviciilor sociale in Comuna Bustuchin, Jud Gorj și asumarea mentenanței și a funcționalității investiției pentru o perioadă de 5 ani de la finalizarea acesteia",
+"short": "HCL Bustuchin nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/263839",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--bustuchin-21-2026",
 "path": "local/gorj/bustuchin/2026/21",
 "kind": "local",
@@ -158,6 +470,94 @@
 }
 },
 {
+"slug": "hcl-gorj--bustuchin-22-2026",
+"path": "local/gorj/bustuchin/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 22/2026 privind aprobarea documentatiei tehnico-economica si a indicatorilor tehnico-economici pentru proiectul “CRESTEREA EFICIENTEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC IN COMUNA BUSTUCHIN, JUDETUL GORJ”, din cadrul ,,Programului privind creşterea eficienţei energetice a infrastructurii de iluminat public,, respectiv acordul privind asigurarea si sutinerea contributiei financiare aferente chelutielilor implementarii proiectului si care nu sunt finantate de AFM",
+"short": "HCL Bustuchin nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/267041",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-23-2026",
+"path": "local/gorj/bustuchin/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 23/2026 privind aprobarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții „Desființare construcție C1 – Cămin cultural Poiana Seciuri, sat Poiana Seciuri, comuna Bustuchin, județul Gorj”",
+"short": "HCL Bustuchin nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/267042",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-24-2026",
+"path": "local/gorj/bustuchin/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 24/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Bustuchin",
+"short": "HCL Bustuchin nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/267043",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-25-2026",
+"path": "local/gorj/bustuchin/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 25/2026 privind aprobarea listei cu ordinea de prioritate a solicitanților îndreptățiți la repartizarea de locuinţe sociale construite în baza Legii nr.114/1996",
+"short": "HCL Bustuchin nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/267044",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--bustuchin-26-2026",
 "path": "local/gorj/bustuchin/2026/26",
 "kind": "local",
@@ -177,6 +577,72 @@
 "council_name": "Consiliul Local al Comunei Bustuchin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-27-2026",
+"path": "local/gorj/bustuchin/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 27/2026 privind aprobarea implementării proiectului „Servicii sociale integrate de îngrijire la domiciliu pentru vârstnicii din comuna Bustuchin”, proiect ce a fost aprobat contractat prin contractul IDS/632/PIDS_P6/OP4/ESO4.11/PIDS_A26 349079 cu perioada de implementare pentru Comuna Bustuchin în calitate de beneficiar 01.05.2026 - 30.04.2029",
+"short": "HCL Bustuchin nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/267046",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-28-2026",
+"path": "local/gorj/bustuchin/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 28/2026 privind aprobarea oportunității cumpărării unui teren necesar construirii unui rezervor pentru stocarea apei în comuna Bustuchin, județul Gorj",
+"short": "HCL Bustuchin nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/267137",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-29-2026",
+"path": "local/gorj/bustuchin/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 29/2026 privind modificarea Hotărârii Consiliului Local nr. 19/15.04.2026 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „REABILITARE SI MODERNIZARE SISTEME DE APĂ POTABILĂ IN COMUNA BUSTUCHIN, JUDEȚUL GORJ, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, ca urmare a corectării devizului general",
+"short": "HCL Bustuchin nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/267138",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -224,6 +690,51 @@
 }
 },
 {
+"slug": "hcl-gorj--bustuchin-32-2026",
+"path": "local/gorj/bustuchin/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 32/2026 privind aprobarea modificării statului de funcții al aparatului de specialitate al Primarului Comunei Bustuchin, județul Gorj",
+"short": "HCL Bustuchin nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/268702",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-33-2026",
+"path": "local/gorj/bustuchin/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 33/2026",
+"short": "HCL Bustuchin nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/268703",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-gorj--bustuchin-34-2026",
 "path": "local/gorj/bustuchin/2026/34",
 "kind": "local",
@@ -243,6 +754,52 @@
 "council_name": "Consiliul Local al Comunei Bustuchin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-35-2026",
+"path": "local/gorj/bustuchin/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 35/2026",
+"short": "HCL Bustuchin nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/271977",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-36-2026",
+"path": "local/gorj/bustuchin/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 36/2026",
+"short": "HCL Bustuchin nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/271978",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -268,6 +825,28 @@
 }
 },
 {
+"slug": "hcl-gorj--bustuchin-38-2026",
+"path": "local/gorj/bustuchin/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 38/2026 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „Reabilitarea moderată a clădirilor publice pentru îmbunătățirea serviciilor sociale prestate la nivelul comunei Bustuchin, jud. Gorj” , ca urmare a modificării cotei TVA de la 19% la 21%",
+"short": "HCL Bustuchin nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/271980",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--bustuchin-39-2026",
 "path": "local/gorj/bustuchin/2026/39",
 "kind": "local",
@@ -290,6 +869,94 @@
 }
 },
 {
+"slug": "hcl-gorj--bustuchin-40-2026",
+"path": "local/gorj/bustuchin/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 40/2026 privind aprobarea listei solicitantilor care indeplinesc conditiile de repartizare a locuintelor pentru tineri destinate inchirierii, realizate de Agentia Nationala pentru Locuinte in Comuna Bustuchin, judetul Gorj",
+"short": "HCL Bustuchin nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/271982",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-41-2026",
+"path": "local/gorj/bustuchin/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 41/2026 privind modificarea art. 6 din Hotărârea Consiliului Local nr. 14 din 28.03.2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Bustuchin nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/271983",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-42-2026",
+"path": "local/gorj/bustuchin/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 42/2026 privind modificarea și completarea Hotărârii Consiliului Local nr. 20 din 15.04.2026 privind aprobarea implementării proiectului „Achiziționarea de mobilier, materiale și echipamente necesare pentru funcționalizarea serviciilor sociale în Comuna Bustuchin, jud. Gorj” și asumarea mentenanței și funcționalității investiției pentru o perioadă de 5 ani de la finalizarea acesteia",
+"short": "HCL Bustuchin nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/272232",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-43-2026",
+"path": "local/gorj/bustuchin/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 43/2026 privind alegerea unui președinte de ședință pentru ședința Consiliului Local al Comunei Bustuchin din data de 03.06.2026",
+"short": "HCL Bustuchin nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/272233",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--bustuchin-44-2026",
 "path": "local/gorj/bustuchin/2026/44",
 "kind": "local",
@@ -309,6 +976,50 @@
 "council_name": "Consiliul Local al Comunei Bustuchin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-45-2026",
+"path": "local/gorj/bustuchin/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 45/2026 privind completarea Hotărârii Consiliului Local al Comunei Bustuchin nr. 15 din 26.02.2026 privind aderarea Comunei Bustuchin la Asociația de Dezvoltare Intercomunitară „Serviciul județean pentru ocrotirea animalelor fără stăpân”",
+"short": "HCL Bustuchin nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-16",
+"latest": "2026-06-16",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/274204",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-46-2026",
+"path": "local/gorj/bustuchin/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 46/2026 privind însușirea Raportului de evaluare nr. 14/26.05.2026, aprobarea prețului negociat și cumpărarea terenului înscris în Cartea Funciară nr. 7254 Bustuchin, necesar construirii unui rezervor pentru stocarea apei în comuna Bustuchin, județul Gorj",
+"short": "HCL Bustuchin nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-16",
+"latest": "2026-06-16",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/274205",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -356,6 +1067,162 @@
 }
 },
 {
+"slug": "hcl-gorj--bustuchin-49-2026",
+"path": "local/gorj/bustuchin/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 49/2026",
+"short": "HCL Bustuchin nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-16",
+"latest": "2026-06-16",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/274208",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-50-2026",
+"path": "local/gorj/bustuchin/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 50/2026",
+"short": "HCL Bustuchin nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/278948",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-51-2026",
+"path": "local/gorj/bustuchin/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 51/2026 privind încheierea unui Protocol de colaborare cu Uniunea Națională a Notarilor Publici din România - Camera Notarilor Publici Craiova, în vederea schimbului de informații de interes pentru activitatea notarială",
+"short": "HCL Bustuchin nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/278949",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-52-2026",
+"path": "local/gorj/bustuchin/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 52/2026 privind aprobarea valorii devizului general pentru obiectivul de investiții „Consolidarea și reabilitarea Liceului Tehnologic Bustuchin, județul Gorj”, aprobat pentru finanțare prin Programul național de consolidare a clădirilor cu risc seismic ridicat – Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile de interes și utilitate publică, dupa realizarea proiectului tehnic",
+"short": "HCL Bustuchin nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/278950",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-53-2026",
+"path": "local/gorj/bustuchin/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 53/2026 privind modificarea Anexei nr. 2 la Hotărârea Consiliului Local nr. 20 din 15.04.2026 privind aprobarea implementării proiectului „Achiziționarea de mobilier, materiale și echipamente necesare pentru funcționalizarea serviciilor sociale în Comuna Bustuchin, jud. Gorj” și asumarea mentenanței și funcționalității investiției pentru o perioadă de 5 ani de la finalizarea acesteia",
+"short": "HCL Bustuchin nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-17",
+"latest": "2026-07-17",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/279049",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-54-2026",
+"path": "local/gorj/bustuchin/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 54/2026 privind aprobarea alocării din bugetul local a unei sume necesare pentru premierea unor elevi din cadrul Liceului Tehnologic Bustuchin care au obținut rezultate deosebite la examenul național de bacalaureat – sesiunea iunie 2026",
+"short": "HCL Bustuchin nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-17",
+"latest": "2026-07-17",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/279050",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-55-2026",
+"path": "local/gorj/bustuchin/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 55/2026 privind acceptarea și aprobarea contractului de sponsorizare nr. 7435/01.07.2026 încheiat între Comuna Bustuchin și societatea comerciala OMV Petrom SA pentru dotarea cu panouri fotovoltaice a Centrului de zi si noapte pentru persoane varstnice, din Comuna Bustuchin - proiectul „Dotarea Centrului de Batrani din Comuna Bustuchin cu panouri fotovoltaice”",
+"short": "HCL Bustuchin nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-31",
+"latest": "2026-07-31",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/282028",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-gorj--bustuchin-56-2026",
 "path": "local/gorj/bustuchin/2026/56",
 "kind": "local",
@@ -375,6 +1242,162 @@
 "council_name": "Consiliul Local al Comunei Bustuchin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-57-2026",
+"path": "local/gorj/bustuchin/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 57/2026",
+"short": "HCL Bustuchin nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-31",
+"latest": "2026-07-31",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/282030",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-58-2026",
+"path": "local/gorj/bustuchin/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 58/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Bustuchin",
+"short": "HCL Bustuchin nr. 58/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-31",
+"latest": "2026-07-31",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/282031",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-59-2026",
+"path": "local/gorj/bustuchin/2026/59",
+"kind": "local",
+"year": "2026",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 59/2026 privind constituirea Comisiei sociale de analiză a cererilor de locuințe și repartizare a locuințelor sociale la nivelul UAT Comuna Bustuchin, județul Gorj",
+"short": "HCL Bustuchin nr. 59/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-31",
+"latest": "2026-07-31",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/282032",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-60-2026",
+"path": "local/gorj/bustuchin/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 60/2026 privind aprobarea elaborării ,,Studiu de Specialitate” necesar stabilirii modului de: Asigurare, furnizare/prestare și utilizare a serviciilor comunitare de utilități din comuna Bustuchin, și Asigurare, prestare și utilizare a serviciilor de administrare a domeniului public și privat, de interes local, din comuna Bustuchin",
+"short": "HCL Bustuchin nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/286142",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-61-2026",
+"path": "local/gorj/bustuchin/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 61/2026 privind aprobarea valorii finale a obiectivului de investiții „Modernizare drumuri de interes local: DC 31 Valea Pojarului, DJ 3C Bustuchin peste apa și DC 29 Poiana Seciuri în Comuna Bustuchin, Județul Gorj”",
+"short": "HCL Bustuchin nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/286143",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-62-2026",
+"path": "local/gorj/bustuchin/2026/62",
+"kind": "local",
+"year": "2026",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 62/2026 privind aprobarea indicatorilor tehnico - economici, a studiului de fezabilitate si a cheltuielilor legate de proiectul ,,Dezvoltare surse de energie regenerabila la nivelul cladirilor publice si in gospodării individuale in perspectiva formarii comunitatii de energie regenerabilă de la nivelul comunei Bustuchin, judetul Gorj''",
+"short": "HCL Bustuchin nr. 62/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/286144",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-63-2026",
+"path": "local/gorj/bustuchin/2026/63",
+"kind": "local",
+"year": "2026",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 63/2026",
+"short": "HCL Bustuchin nr. 63/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/289070",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

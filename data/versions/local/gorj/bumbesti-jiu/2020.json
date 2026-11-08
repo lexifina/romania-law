@@ -1,0 +1,786 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/bumbesti-jiu/2020",
+ "acts": [
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-10-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/10",
+   "short": "HCL Bumbești-Jiu nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 10/2020 privind excedentul bugetar al anului 2019",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr10_din_20022020_-_Excedent_2019_Bumbesti-Jiu.pdf",
+     "sha256": "27cf603415d5ee32ce0c92e494922bb330ab85690841bfe3408a33b0d8bcd57b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-100-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/100",
+   "short": "HCL Bumbești-Jiu nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 100/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr100_din_24092020.pdf",
+     "sha256": "b82d74fd37cd8166b9819adc1f41dbe69a40dae19669b464e64844341e295f5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-102-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/102",
+   "short": "HCL Bumbești-Jiu nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 102/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr102_din_24092020.pdf",
+     "sha256": "f26b3106cb9641940b979171c4ba101f9ccb26f3b9b5bb22c2f9903dd3ea10a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-104-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/104",
+   "short": "HCL Bumbești-Jiu nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 104/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr104_din_24092020.pdf",
+     "sha256": "3160585bd283a7ae936f89576e245dea0af58bcf8ad6d380e3d684948823a71e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-12-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/12",
+   "short": "HCL Bumbești-Jiu nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 12/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr12_din_27022020.pdf",
+     "sha256": "7f2608070d69226b9282c5ab461336ebfc43e972b1903ee57d3d3b916d6aaba1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-14-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/14",
+   "short": "HCL Bumbești-Jiu nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 14/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr14_din_27022020.pdf",
+     "sha256": "f92dcfae6492a64958908bdd607f609b54fc5e04be9d13d6c8fc1424fb44facc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-16-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/16",
+   "short": "HCL Bumbești-Jiu nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 16/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr16_din_27022020.pdf",
+     "sha256": "9087009e2e31866d17a16e6b09e8d04dbda6b6212e09505a8d3db0fb2f9132c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-18-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/18",
+   "short": "HCL Bumbești-Jiu nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 18/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr18_din_27022020.pdf",
+     "sha256": "cc969b09d271dfc4f0f2787942e58b4d8fc42d9aba4f62ef95444f2a750d1a06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-2-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/2",
+   "short": "HCL Bumbești-Jiu nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 2/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr2_din_30012020.pdf",
+     "sha256": "1311bb4dd8ab469195be566a25882c8bb59e2e32b68cd9a62c4b8e5fc810f375"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-20-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/20",
+   "short": "HCL Bumbești-Jiu nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 20/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr20_din_26032020.pdf",
+     "sha256": "87b8744acfb885172497b65efbe5afdd03dd46ec7eecaa7afae1af9605b305ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-22-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/22",
+   "short": "HCL Bumbești-Jiu nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 22/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr22_din_26032020.pdf",
+     "sha256": "185e56ecc1667d02c62961b0520a0de97607abf4648eaa7231bcb65cf00a1344"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-24-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/24",
+   "short": "HCL Bumbești-Jiu nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 24/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr24_din_26032020.pdf",
+     "sha256": "4ca6e7029429a57dee300177345720685c4ba091f51ab47c4fdf5ae199d81e49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-26-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/26",
+   "short": "HCL Bumbești-Jiu nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 26/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr26_din_26032020.pdf",
+     "sha256": "3348ed1ca7f943ba9af1041f5f51e994a61ca53f3b7a9c9150b1e5087a347bbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-28-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/28",
+   "short": "HCL Bumbești-Jiu nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 28/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr28_din_26032020.pdf",
+     "sha256": "b85cdabbf84a58026c74de467f5de18050e685f4a77303acb2000c87576a3347"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-30-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/30",
+   "short": "HCL Bumbești-Jiu nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 30/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr30_din_26032020.pdf",
+     "sha256": "660188ccde90cf40f06902a71279b1ea28e6080835ea10613d2a978bacfa035c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-32-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/32",
+   "short": "HCL Bumbești-Jiu nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 32/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr32_din_26032020.pdf",
+     "sha256": "3c65b07954367ce0735a287395283e9e1830eea82b1353e7aa65d852eb280e61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-34-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/34",
+   "short": "HCL Bumbești-Jiu nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 34/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr34_din_26032020.pdf",
+     "sha256": "31eb5426bd2da86ee5da31a689bfddf93517f2825545cbf0a65b113884f23565"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-36-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/36",
+   "short": "HCL Bumbești-Jiu nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 36/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr36_din_30042020.pdf",
+     "sha256": "ac2a3aedb6c895a7c0d28b0b2e6ec5345010adff5450f2996733248b526b2ba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-38-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/38",
+   "short": "HCL Bumbești-Jiu nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 38/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr38_din_30042020.pdf",
+     "sha256": "15b1dca23b149fe1decf572c6e048c762c98ecc16f7cc98be2c342e85cb07d03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-4-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/4",
+   "short": "HCL Bumbești-Jiu nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 4/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr4_din_30012020.pdf",
+     "sha256": "c736d38edf83c94b54c561fea77a36afd4f0f73fbf25a15e3da9a7a35082c714"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-40-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/40",
+   "short": "HCL Bumbești-Jiu nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 40/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr40_din_30042020.pdf",
+     "sha256": "d1876b2caba1a92656f759fca3b89013346e512d4db02c8ac76152381656df69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-42-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/42",
+   "short": "HCL Bumbești-Jiu nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 42/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr42_din_30042020.pdf",
+     "sha256": "c34e660bbd6637056700ce17779ae91d3f5889da661b589ccfd5ae2963237770"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-44-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/44",
+   "short": "HCL Bumbești-Jiu nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 44/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr44_din_30042020.pdf",
+     "sha256": "c4047ab9efa1a216a4fcacbff05cf2268668f8f4d2e4e72674e07bbad2e0fb9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-46-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/46",
+   "short": "HCL Bumbești-Jiu nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 46/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr46_din_28052020.pdf",
+     "sha256": "ab984130cabe55ae78fda40e9ec86ee5a17366716ea292231b23978d7a7dece8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-48-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/48",
+   "short": "HCL Bumbești-Jiu nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 48/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr48_din_28052020.pdf",
+     "sha256": "f3bd5e13d5c9ab637139ea2c2100d7397437470544a8bb4b65671c1ff58f237e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-50-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/50",
+   "short": "HCL Bumbești-Jiu nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 50/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr50_din_28052020.pdf",
+     "sha256": "404c4bdb71d760288e54940b1941ddaef38bd63b390ca32e3cadc714523647b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-52-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/52",
+   "short": "HCL Bumbești-Jiu nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 52/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr52_din_28052020.pdf",
+     "sha256": "fc2185bbe758a902a3f8af7ff2de83425e1c6c47a58540a1a8eecd6532d7921b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-54-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/54",
+   "short": "HCL Bumbești-Jiu nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 54/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr54_din_25062020.pdf",
+     "sha256": "099e4cbdd9dfa91fd7eb44158725b937f0e40415587e184a3f1503a52309fe0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-56-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/56",
+   "short": "HCL Bumbești-Jiu nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 56/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr56_din_25062020.pdf",
+     "sha256": "76c7e923def707fd17b186628f4b25df104a3578430c657b0231ae9b7a74f3b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-58-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/58",
+   "short": "HCL Bumbești-Jiu nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 58/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr58_din_25062020.pdf",
+     "sha256": "e6f6e899809db8eebf8b6f9f51711ffb84aee7825da8085bfec4fb38b4d7c82c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-6-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/6",
+   "short": "HCL Bumbești-Jiu nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 6/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr6_din_30012020.pdf",
+     "sha256": "d58f9e04c0b09cfea977f4f45bf95322fd0586b6d8ed85c8165bf1274b81db6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-60-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/60",
+   "short": "HCL Bumbești-Jiu nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 60/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr60_din_25062020.pdf",
+     "sha256": "b9a1684f0495d8a850227ab1dd58d116fe76a3a1ea2be813a838136f465fe038"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-62-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/62",
+   "short": "HCL Bumbești-Jiu nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 62/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr62_din_25062020.pdf",
+     "sha256": "ade118c6a44075435051c4813e4a79c7fc5e2a1a541c961e39d6a771622e5e80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-64-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/64",
+   "short": "HCL Bumbești-Jiu nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 64/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr64_din_25062020.pdf",
+     "sha256": "1964c8e7341af1c1819266723c47590da02ff5faba304a8d726cc195031d2cfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-66-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/66",
+   "short": "HCL Bumbești-Jiu nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 66/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr66_din_30072020.pdf",
+     "sha256": "c95b0641342963df1d3405d8f6f04cd91aa694eac50cbe487803ff86d0be1af2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-68-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/68",
+   "short": "HCL Bumbești-Jiu nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 68/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr68_din_30072020.pdf",
+     "sha256": "7c3622991e4e6af13115965b73f172cdfd2753de35d5f3edf0fab1dfe2a8815c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-70-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/70",
+   "short": "HCL Bumbești-Jiu nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 70/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr70_din_30072020.pdf",
+     "sha256": "a7f68f826213dd92f951780eca2159cf0916c9fe49d8fc6775d34d1ae9298e97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-72-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/72",
+   "short": "HCL Bumbești-Jiu nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 72/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr72_din_30072020.pdf",
+     "sha256": "96751358ff33a82c7fa76ad22351e68891f63f5c0ae0ed445e626b1f332dc182"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-74-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/74",
+   "short": "HCL Bumbești-Jiu nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 74/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr74_din_30072020.pdf",
+     "sha256": "3b6f9425c848bcdd4d84545ce71c9f1f01f486656ba2f0c5b17b0c64da6a7c56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-76-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/76",
+   "short": "HCL Bumbești-Jiu nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 76/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr76_din_27082020.pdf",
+     "sha256": "e9589e918496e50661cc1833f8ceedc69b023e8dafc857b4c3953eea5b43a7a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-78-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/78",
+   "short": "HCL Bumbești-Jiu nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 78/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr78_din_27082020.pdf",
+     "sha256": "1e55c5413b77c2ae4e168edada55a3c15bd02ed50cef127f036dede8dc4c496f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-8-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/8",
+   "short": "HCL Bumbești-Jiu nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 8/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotrrea_nr8_din_30012020.pdf",
+     "sha256": "b49dabf15dc582729925164a397b2a74e8cab4a90d27ac3852de5d7fccb5e844"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-80-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/80",
+   "short": "HCL Bumbești-Jiu nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 80/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr80_din_27082020.pdf",
+     "sha256": "f6522089f4edc95771f96911128b694bc973c25d58c51313b03097edc5d0211f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-82-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/82",
+   "short": "HCL Bumbești-Jiu nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 82/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr82_din_27082020.pdf",
+     "sha256": "79c1114faa021ad4c6563d22fac0359b56a33e2185cd87da94ac3834983fe00f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-84-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/84",
+   "short": "HCL Bumbești-Jiu nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 84/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr84_din_27082020.pdf",
+     "sha256": "319543ed976e81cc0c86e3291a765b126b196c86173637708c57fef1f64db448"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-86-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/86",
+   "short": "HCL Bumbești-Jiu nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 86/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr86_din_27082020.pdf",
+     "sha256": "eb61d2af14d2787144f8ae160d29398f0aa6038a01b55b5dd5a6217b8cea1e02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-88-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/88",
+   "short": "HCL Bumbești-Jiu nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 88/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr88_din_27082020.pdf",
+     "sha256": "d00ad8e387e8374b83ea7b7141e82fff5e15b1735937890e7d0605f0e6f517c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-90-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/90",
+   "short": "HCL Bumbești-Jiu nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 90/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr90_din_27082020.pdf",
+     "sha256": "82ea7e87ec27a91a4fe4afa9d0f486d00dea6c6259526d9c1894fab5cc2a2195"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-92-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/92",
+   "short": "HCL Bumbești-Jiu nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 92/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr92_din_27082020.pdf",
+     "sha256": "af56aded3ddcab13496cc505f098721d4f352c400c73f28037f0926a015a5770"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-94-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/94",
+   "short": "HCL Bumbești-Jiu nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 94/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr94_din_24092020.pdf",
+     "sha256": "b293e82f7a65e1c149a0559b1cee17cf13ad8a93f8536e4703ac3665dcac5b5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-96-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/96",
+   "short": "HCL Bumbești-Jiu nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 96/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr96_din_24092020.pdf",
+     "sha256": "ed85db6827c5c1f3caa182e47f6ad0e3823efd245880c78a5e7900914f64059a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-98-2020",
+   "path": "local/gorj/bumbesti-jiu/2020/98",
+   "short": "HCL Bumbești-Jiu nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 98/2020",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2020/Hotararea_nr98_din_24092020.pdf",
+     "sha256": "495f976a0006acc917c0bedf44359a99733d1c2b2cb5b39e4832441e7403bbf2"
+    }
+   ]
+  }
+ ]
+}

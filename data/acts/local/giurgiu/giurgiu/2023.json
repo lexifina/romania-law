@@ -3,6 +3,72 @@
 "shard": "local/giurgiu/giurgiu/2023",
 "acts": [
 {
+"slug": "hcl-giurgiu--giurgiu-99-2023",
+"path": "local/giurgiu/giurgiu/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 99/2023 privind completarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.83 din 30.03.2023",
+"short": "HCL Giurgiu nr. 99/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2023-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-102-2023",
+"path": "local/giurgiu/giurgiu/2023/102",
+"kind": "local",
+"year": "2023",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 102/2023 privind rectificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.101/06.04.2023 întrunit în ședință extraordinară,",
+"short": "HCL Giurgiu nr. 102/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-12",
+"latest": "2023-04-12",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2023-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-103-2023",
+"path": "local/giurgiu/giurgiu/2023/103",
+"kind": "local",
+"year": "2023",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 103/2023 privind aprobarea încheierii unui Act adițional la Contractul nr.7344/13.02.2019 privind asigurarea continuității prestării serviciului de salubrizare al Municipiului Giurgiu pentru activitățile privind colectarea și transportul deșeurilor municipale, a deșeurilor similare provenind din activității comerciale din industrie și instituții, inclusiv fracții colectate separat, fără a aduce atingere fluxului de deșeuri de echipamente electrice și electronice, baterii și acumulatori și deșeurilor provenite din locuințe, generate de activități de reamenajare și reabilitare interioară și/sau exterioară a acestora întrunit în ședință extraordinară,",
+"short": "HCL Giurgiu nr. 103/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2023-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-125-2023",
 "path": "local/giurgiu/giurgiu/2023/125",
 "kind": "local",
@@ -46,6 +112,50 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-317-2023",
+"path": "local/giurgiu/giurgiu/2023/317",
+"kind": "local",
+"year": "2023",
+"number": "317",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 317/2023 privind modificarea Anexei 1 la Hotărârea nr.305/26.10.2023 a Consiliului Local al Municipiului Giurgiu întrunit în ședință extraordinară,",
+"short": "HCL Giurgiu nr. 317/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-03",
+"latest": "2023-11-03",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2023-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-322-2023",
+"path": "local/giurgiu/giurgiu/2023/322",
+"kind": "local",
+"year": "2023",
+"number": "322",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 322/2023 privind modificarea Anexei la Hotărârea Consiliului Local nr.195/14.06.2021 privind aprobarea contractării și garantării unui credit revolving în valoare de 23.170.000 lei pentru asigurarea prefinanțării / cofinanțării / finanțării unor proiecte care beneficiază de fonduri externe nerambursabile postaderare de la Uniunea Europeană, în vederea realizării de investiții publice de interes local întrunit în ședință extraordinară,",
+"short": "HCL Giurgiu nr. 322/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-16",
+"latest": "2023-11-16",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2023-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/rovinari/2009",
+ "acts": [
+  {
+   "slug": "hcl-gorj--rovinari-11-2009",
+   "path": "local/gorj/rovinari/2009/11",
+   "short": "HCL Rovinari nr. 11/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 11/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "https://primariarovinari.ro/storage/formidable/230/11_hotarari_c.l._rovinari_25.06.2009.pdf",
+     "sha256": "3f52d044252de8a2bbc160536f675a85fc245ca42794445e154b9e58fa98c3cb"
+    }
+   ]
+  }
+ ]
+}

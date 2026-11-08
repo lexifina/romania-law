@@ -783,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--scoarta-36-2023",
+   "path": "local/gorj/scoarta/2023/36",
+   "short": "HCL Scoarța nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 36/2023 privind aprobarea cumpărării unui teren în suprafață de 1903 mp situat în satul Scoarța, comuna Scoarța, județul Gorj înscris în CF nr. 38561, având nr cadastral 38561 în vederea amplasării stației de epurare necesară pentru realizarea sistemului de canalizare din comuna Scoarța",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/104681",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/104681",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--scoarta-37-2023",
    "path": "local/gorj/scoarta/2023/37",
    "short": "HCL Scoarța nr. 37/2023",
@@ -1158,6 +1173,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--scoarta-6-2023",
+   "path": "local/gorj/scoarta/2023/6",
+   "short": "HCL Scoarța nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 6/2023 privind aprobarea rezultatului final al evaluării managementului Căminului Cultural „Pompiliu Marcea” Scoarța, judeţul Gorj (prima evaluare)",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/89542",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/89542",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--scoarta-60-2023",
    "path": "local/gorj/scoarta/2023/60",
    "short": "HCL Scoarța nr. 60/2023",
@@ -1308,6 +1338,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--scoarta-7-2023",
+   "path": "local/gorj/scoarta/2023/7",
+   "short": "HCL Scoarța nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 7/2023 privind constituirea comisiei de evaluare a performanțelor profesionale individuale ale Secretarului General al comunei Scoarța, județul Gorj pentru anul 2022",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/89543",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/89543",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--scoarta-70-2023",
    "path": "local/gorj/scoarta/2023/70",
    "short": "HCL Scoarța nr. 70/2023",
@@ -1318,6 +1363,21 @@
      "from": "2023-09-27",
      "units": 1,
      "source_url": "https://emol.ro/scoarta-gj/registru-hcl/123797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--scoarta-71-2023",
+   "path": "local/gorj/scoarta/2023/71",
+   "short": "HCL Scoarța nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 71/2023 privind desemnarea reprezentanților Consiliului Localal Comunei Scoarț, județul Gorj în Consiliul de Administrație al Școlii Gimnaziale Scoarța în anul școlar 2023-2024",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/123798",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/123798",
      "sha256": null
     }
    ]
@@ -1663,6 +1723,21 @@
      "from": "2023-11-27",
      "units": 1,
      "source_url": "https://emol.ro/scoarta-gj/registru-hcl/137308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--scoarta-93-2023",
+   "path": "local/gorj/scoarta/2023/93",
+   "short": "HCL Scoarța nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scoarța nr. 93/2023 privind aprobarea cumpărării unor terenuri situate pe raza comunei Scoarța, județul Gorj în vederea amplasării stației de epurare necesraă pentru realizarea sistemului de canalizare din Comuna Scoarța",
+   "url": "https://emol.ro/scoarta-gj/registru-hcl/137309",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scoarta-gj/registru-hcl/137309",
      "sha256": null
     }
    ]

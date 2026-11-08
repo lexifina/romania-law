@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--ulmi-20-2020",
+   "path": "local/giurgiu/ulmi/2020/20",
+   "short": "HCL Ulmi nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 20/2020",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/6024",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/6024",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-21-2020",
    "path": "local/giurgiu/ulmi/2020/21",
    "short": "HCL Ulmi nr. 21/2020",
@@ -243,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--ulmi-25-2020",
+   "path": "local/giurgiu/ulmi/2020/25",
+   "short": "HCL Ulmi nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 25/2020 privind numirea comisiei de evaluare pentru concesionarea Serviciului de utilitate publica de distributie a gazelor naturale in comuna Ulmi cu satele Ulmi ,Trestieni, Mosteni, Poenari, Ghionea, Cascioarele, Draganeasca, Icoana, judetul Ghiurgiu",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/6029",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/6029",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-26-2020",
    "path": "local/giurgiu/ulmi/2020/26",
    "short": "HCL Ulmi nr. 26/2020",
@@ -283,6 +313,36 @@
      "from": "2020-07-27",
      "units": 1,
      "source_url": "https://emol.ro/ulmi-gr/registru-hcl/7899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-29-2020",
+   "path": "local/giurgiu/ulmi/2020/29",
+   "short": "HCL Ulmi nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 29/2020 privind aprobarea concesionarii prin atribuire directa a unui teren in suprafata de 189 mp a terenului identificat cu numarul cadastral 34582 proprietatea privata a comunei Ulmi situat in comuna Ulmi sat Poenari",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/7900",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/7900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-3-2020",
+   "path": "local/giurgiu/ulmi/2020/3",
+   "short": "HCL Ulmi nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 3/2020",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/250",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/250",
      "sha256": null
     }
    ]
@@ -618,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--ulmi-6-2020",
+   "path": "local/giurgiu/ulmi/2020/6",
+   "short": "HCL Ulmi nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 6/2020",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/253",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/253",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-7-2020",
    "path": "local/giurgiu/ulmi/2020/7",
    "short": "HCL Ulmi nr. 7/2020",
@@ -643,6 +718,21 @@
      "from": "2020-02-21",
      "units": 1,
      "source_url": "https://emol.ro/ulmi-gr/registru-hcl/255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-9-2020",
+   "path": "local/giurgiu/ulmi/2020/9",
+   "short": "HCL Ulmi nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 9/2020 privind aprobarea numarul de posturi pentru asistentii personali si numarul de indemnizatii ai persoanelor cu handicap pe anul 2020",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/256",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/256",
      "sha256": null
     }
    ]

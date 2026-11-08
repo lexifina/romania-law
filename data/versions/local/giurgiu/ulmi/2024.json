@@ -3,6 +3,66 @@
  "shard": "local/giurgiu/ulmi/2024",
  "acts": [
   {
+   "slug": "hcl-giurgiu--ulmi-1-2024",
+   "path": "local/giurgiu/ulmi/2024/1",
+   "short": "HCL Ulmi nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 1/2024 privind aprobarea acoperirii definitive a deficitului Secţiunii de Dezvoltare a Bugetului local de Venituri şi Cheltuieli al comunei Ulmi in suma de 2070071,23 lei din excedentul bugetului local",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/136959",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/136959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-10-2024",
+   "path": "local/giurgiu/ulmi/2024/10",
+   "short": "HCL Ulmi nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 10/2024",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/151711",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/151711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-11-2024",
+   "path": "local/giurgiu/ulmi/2024/11",
+   "short": "HCL Ulmi nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 11/2024",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/151712",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/151712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-12-2024",
+   "path": "local/giurgiu/ulmi/2024/12",
+   "short": "HCL Ulmi nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 12/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/153330",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/153330",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-13-2024",
    "path": "local/giurgiu/ulmi/2024/13",
    "short": "HCL Ulmi nr. 13/2024",
@@ -18,6 +78,51 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--ulmi-14-2024",
+   "path": "local/giurgiu/ulmi/2024/14",
+   "short": "HCL Ulmi nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 14/2024",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/153332",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/153332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-15-2024",
+   "path": "local/giurgiu/ulmi/2024/15",
+   "short": "HCL Ulmi nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 15/2024 privind aprobarea actualizarii devizului general al studiului de fezabilitate “ Infiintare sistem de distributie gaze naturale in satele Ulmi, Ghionea, Moșteni, Poenari, Icoana, Trestieni, Căscioarele și Drăgăneasca, aparținătoare comunei Ulmi, județul Giurgiu”",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/154428",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/154428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-16-2024",
+   "path": "local/giurgiu/ulmi/2024/16",
+   "short": "HCL Ulmi nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 16/2024 privind aprobarea Principalilor indicatori tehnico-economici in vederea concesionarii serviciului de utilitate publica de distributie a gazelor naturale în satele Ulmi, Ghionea, Moșteni, Poenari, Icoana, Trestieni, Căscioarele și Drăgăneasca, aparținătoare comunei Ulmi, județul Giurgiu",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/154429",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/154429",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-17-2024",
    "path": "local/giurgiu/ulmi/2024/17",
    "short": "HCL Ulmi nr. 17/2024",
@@ -28,6 +133,66 @@
      "from": "2025-05-14",
      "units": 1,
      "source_url": "https://emol.ro/ulmi-gr/registru-hcl/156924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-18-2024",
+   "path": "local/giurgiu/ulmi/2024/18",
+   "short": "HCL Ulmi nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 18/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/156925",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/156925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-19-2024",
+   "path": "local/giurgiu/ulmi/2024/19",
+   "short": "HCL Ulmi nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 19/2024 alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/162473",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/162473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-2-2024",
+   "path": "local/giurgiu/ulmi/2024/2",
+   "short": "HCL Ulmi nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 2/2024 privind organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat la nivelul comunei ULMI pentru anul 2024-2025",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/136960",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/136960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-20-2024",
+   "path": "local/giurgiu/ulmi/2024/20",
+   "short": "HCL Ulmi nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 20/2024 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei Ulmi si Serviciului local de Salubrizare al comunei Ulmi pentru trimestrul II/2024",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/162474",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/162474",
      "sha256": null
     }
    ]
@@ -333,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--ulmi-4-2024",
+   "path": "local/giurgiu/ulmi/2024/4",
+   "short": "HCL Ulmi nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 4/2024 privind aprobarea planului de actiune sau lucrari de interes local pentru repartizarea orelor de munca pentru persoanele majore apte de muncã din familia beneficiare de venit minim de incluziune",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/142773",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/142773",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-40-2024",
    "path": "local/giurgiu/ulmi/2024/40",
    "short": "HCL Ulmi nr. 40/2024",
@@ -348,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--ulmi-5-2024",
+   "path": "local/giurgiu/ulmi/2024/5",
+   "short": "HCL Ulmi nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 5/2024 privind aprobarea numarul de posturi pentru asistentii personali si persoanelor cu handicap si numarul de indemnizatii de insotitor pe anul 2024 in comuna Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/142774",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/142774",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-6-2024",
    "path": "local/giurgiu/ulmi/2024/6",
    "short": "HCL Ulmi nr. 6/2024",
@@ -358,6 +553,51 @@
      "from": "2024-02-13",
      "units": 1,
      "source_url": "https://emol.ro/ulmi-gr/registru-hcl/143474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-7-2024",
+   "path": "local/giurgiu/ulmi/2024/7",
+   "short": "HCL Ulmi nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 7/2024 privind aprobarea utilizarea excedentului bugetar al comunei Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/143475",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/143475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-8-2024",
+   "path": "local/giurgiu/ulmi/2024/8",
+   "short": "HCL Ulmi nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 8/2024 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Înființare sistem de distribuție gaze naturale în comuna Ulmi, județul Giurgiu”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/143895",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/143895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-9-2024",
+   "path": "local/giurgiu/ulmi/2024/9",
+   "short": "HCL Ulmi nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 9/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/151710",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/151710",
      "sha256": null
     }
    ]

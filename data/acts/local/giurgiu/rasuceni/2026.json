@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--rasuceni-2-2026",
+"path": "local/giurgiu/rasuceni/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răsuceni nr. 2/2026 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap si a indemnizațiilor pentru persoanele cu handicap",
+"short": "HCL Răsuceni nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/rasuceni-gr/registru-hcl/257637",
+"council": "giurgiu/rasuceni",
+"council_name": "Consiliul Local al Comunei Răsuceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--rasuceni-3-2026",
 "path": "local/giurgiu/rasuceni/2026/3",
 "kind": "local",
@@ -289,6 +311,28 @@
 "council_name": "Consiliul Local al Comunei Răsuceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--rasuceni-15-2026",
+"path": "local/giurgiu/rasuceni/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răsuceni nr. 15/2026 cu privire la alegerea președintelui de ședință pentru ședințele Consiliului local al Comunei Răsuceni, pentru următoarele trei luni",
+"short": "HCL Răsuceni nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-27",
+"latest": "2026-03-27",
+"portal": "https://emol.ro/rasuceni-gr/registru-hcl/258573",
+"council": "giurgiu/rasuceni",
+"council_name": "Consiliul Local al Comunei Răsuceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/rovinari/2014",
+ "acts": [
+  {
+   "slug": "hcl-gorj--rovinari-213-2014",
+   "path": "local/gorj/rovinari/2014/213",
+   "short": "HCL Rovinari nr. 213/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 213/2014 privind alegerea viceprimarului orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.213_din_14.10.2014.pdf",
+     "sha256": "051a77108deacdc3e1846d5ce23e2914d29314281d037b76f81c86f014eff425"
+    }
+   ]
+  }
+ ]
+}

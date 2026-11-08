@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--capreni-2-2020",
+   "path": "local/gorj/capreni/2020/2",
+   "short": "HCL Căpreni nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 2/2020",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/1277",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/1277",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--capreni-20-2020",
    "path": "local/gorj/capreni/2020/20",
    "short": "HCL Căpreni nr. 20/2020",

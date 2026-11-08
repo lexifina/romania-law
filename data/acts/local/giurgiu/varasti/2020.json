@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--varasti-3-2020",
+"path": "local/giurgiu/varasti/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 3/2020 privind numirea reprezentantilor consiliului local al comunei Varasti in comisia de evaluare pentru inchirierea spatiului domeniului public",
+"short": "HCL Vărăști nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-09",
+"latest": "2020-01-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/1348",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-4-2020",
 "path": "local/giurgiu/varasti/2020/4",
 "kind": "local",
@@ -88,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Vărăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-6-2020",
+"path": "local/giurgiu/varasti/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 6/2020 privind aprobarea Regulmentului aplicabil concesionare bunuri ce apartin domeniul public si privat la comunei Varasti, judetul Giurgiu",
+"short": "HCL Vărăști nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/1351",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--varasti-10-2020",
+"path": "local/giurgiu/varasti/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 10/2020 privind alegerea presedintelui de sedinta pentru perioada martie, aprilie si mai 2020",
+"short": "HCL Vărăști nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/1355",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-11-2020",
 "path": "local/giurgiu/varasti/2020/11",
 "kind": "local",
@@ -176,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Vărăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-12-2020",
+"path": "local/giurgiu/varasti/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 12/2020 privind desemnarea consilierilor locali care vor fi nominalizati in comitetul Local pentru Situatii de Urgenta",
+"short": "HCL Vărăști nr. 12/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-20",
+"latest": "2020-03-20",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/1357",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--varasti-17-2020",
+"path": "local/giurgiu/varasti/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 17/2020 privind alegerea președintelui de ședință pentru perioada iunie, iulie și august 2020",
+"short": "HCL Vărăști nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-06",
+"latest": "2020-05-06",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/4847",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-18-2020",
 "path": "local/giurgiu/varasti/2020/18",
 "kind": "local",
@@ -311,6 +421,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--varasti-20-2020",
+"path": "local/giurgiu/varasti/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 20/2020 privind aprobare puz sc auto matei srl",
+"short": "HCL Vărăști nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-19",
+"latest": "2020-05-19",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/4850",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-21-2020",
 "path": "local/giurgiu/varasti/2020/21",
 "kind": "local",
@@ -333,6 +465,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--varasti-22-2020",
+"path": "local/giurgiu/varasti/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 22/2020 privind încetarea contractului de concesiune nr.2423/2004",
+"short": "HCL Vărăști nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-23",
+"latest": "2020-06-23",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/8036",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-23-2020",
 "path": "local/giurgiu/varasti/2020/23",
 "kind": "local",
@@ -352,6 +506,205 @@
 "council_name": "Consiliul Local al Comunei Vărăști",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-25-2020",
+"path": "local/giurgiu/varasti/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 25/2020 privind aprobarea studiului de fezabilitate și indicatorii tehnico-economici sistem distribuție gaze naturale",
+"short": "HCL Vărăști nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-29",
+"latest": "2020-06-29",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/22821",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-26-2020",
+"path": "local/giurgiu/varasti/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 26/2020 privind aprobarea modificării statului de funcții și a organigramei aparatului de specialitate al primarului comunei Vărăști",
+"short": "HCL Vărăști nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-29",
+"latest": "2020-06-29",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/22819",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-27-2020",
+"path": "local/giurgiu/varasti/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 27/2020",
+"short": "HCL Vărăști nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-29",
+"latest": "2020-06-29",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/22820",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-28-2020",
+"path": "local/giurgiu/varasti/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 28/2020 privind aprobarea concesionării serviciului de utilitate publică de distribuție gaze naturale aferent obiectivului de investiții ,, înființare sistem de distribuție gaze naturale în satele Vărăști și Dobreni, aparținătoare comunei Vărăști, județul Giurgiu”",
+"short": "HCL Vărăști nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-22",
+"latest": "2020-07-22",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/22822",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-29-2020",
+"path": "local/giurgiu/varasti/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 29/2020 privind numirea comisiei de evaluare a ofertelor în vederea atribuirii contractului de concesiune a serviciului de utilitate publică de distribuție gaze naturale aferent obiectivului de investiții ,, înființare sistem de distribuție gaze naturale în satele Vărăști și Dobreni, aparținătoare comunei Vărăști, județul Giurgiu”",
+"short": "HCL Vărăști nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-22",
+"latest": "2020-07-22",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/22823",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-30-2020",
+"path": "local/giurgiu/varasti/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 30/2020 privind probarea documentației de atribuire a serviciului public de distribuție gaze naturale aferent obiectivului de investiții ,, înființare sistem de distribuție gaze naturale în satele Vărăști și Dobreni, aparținătoare comunei Vărăști, județul Giurgiu”",
+"short": "HCL Vărăști nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/22942",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-31-2020",
+"path": "local/giurgiu/varasti/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 31/2020 privind rectificarea bugetului local pe anul 2020",
+"short": "HCL Vărăști nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-25",
+"latest": "2020-08-25",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/22943",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-32-2020",
+"path": "local/giurgiu/varasti/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 32/2020 privind aprobarea studiului de fezabilitate pentru obiectivul de investiții ,,Construire teren minifotbal și amenajare loc de joacă, sat Dobreni, comuna Vărăști, județul Giurgiu”",
+"short": "HCL Vărăști nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-25",
+"latest": "2020-08-25",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/22944",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-33-2020",
+"path": "local/giurgiu/varasti/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 33/2020 privind completarea hotărârii Consiliului local Vărăști nr.2/2020",
+"short": "HCL Vărăști nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-25",
+"latest": "2020-08-25",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/22945",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

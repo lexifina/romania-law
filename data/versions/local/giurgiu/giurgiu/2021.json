@@ -3,6 +3,126 @@
  "shard": "local/giurgiu/giurgiu/2021",
  "acts": [
   {
+   "slug": "hcl-giurgiu--giurgiu-102-2021",
+   "path": "local/giurgiu/giurgiu/2021/102",
+   "short": "HCL Giurgiu nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 102/2021 privind revocarea Hotărârii Consiliui Local al Municipiului Giurgiu nr.92/31.03.2021 întrunit în ședință extraordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/hcl-102-fs.pdf",
+     "sha256": "90987fdb85f7de03135876897c28d4c2440000dd5fba3afaf229400fff0f0039"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-119-2021",
+   "path": "local/giurgiu/giurgiu/2021/119",
+   "short": "HCL Giurgiu nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 119/2021 privind abrogarea art.4 din Hotărârea nr.29/15.02.2021 a Consiliului Local al Municipiului Giurgiu privind aprobarea trecerii din domeniul public al Municipiului Giurgiu în domeniul public al Județului Giurgiu a unor suprafețe de teren întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/119-FS.pdf",
+     "sha256": "6450d93a7b7ef52a706d3c108aa9f3609c19e74bac72f9bd23ba8c5274ecdbd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-12-2021",
+   "path": "local/giurgiu/giurgiu/2021/12",
+   "short": "HCL Giurgiu nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 12/2021 prin care se ia act de suspendarea de drept a Hotărârii Consiliului Local nr.324/28.08.2019 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/hcl-12_0001.pdf",
+     "sha256": "db0f5864cbad9f0f17bed1575c3fb743abcdf8471b08740810005670b1245b7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-137-2021",
+   "path": "local/giurgiu/giurgiu/2021/137",
+   "short": "HCL Giurgiu nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 137/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/137-fs.pdf",
+     "sha256": "688af6409c17a701bd598abfac8a9481ecbf85d937ee2788fcc9fd5213bc56f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-151-2021",
+   "path": "local/giurgiu/giurgiu/2021/151",
+   "short": "HCL Giurgiu nr. 151/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 151/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/151-fs.pdf",
+     "sha256": "275edf330f1440790cb6ece05e27b548569dc3c6bd100689608c42ea63242d30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-181-2021",
+   "path": "local/giurgiu/giurgiu/2021/181",
+   "short": "HCL Giurgiu nr. 181/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 181/2021",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/181-fs.pdf",
+     "sha256": "760cc21d3323313d479a3cdbd4a2379dfcef4ef7ea4bc968ea97885037f2d7e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-183-2021",
+   "path": "local/giurgiu/giurgiu/2021/183",
+   "short": "HCL Giurgiu nr. 183/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 183/2021",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/183-fs.pdf",
+     "sha256": "5b2a2a0c316e0705e53ce6862df67e48a88dbd5777593b42aa87f734bbf78df0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-197-2021",
+   "path": "local/giurgiu/giurgiu/2021/197",
+   "short": "HCL Giurgiu nr. 197/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 197/2021 pentru modificarea Hotărârii nr.24/23.01.2018 a Consiliului Local al Municipiului Giurgiu privind aprobarea reglementării situației juridice a unui teren situat în municipiul Giurgiu, includerea în nomenclatorul stradal și atribuirea de denumire întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/197.pdf",
+     "sha256": "c6144677c26d9e17522b60142b46830554e3db46bbbc0f3cc7d6bf8fed064ab4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-20-2021",
    "path": "local/giurgiu/giurgiu/2021/20",
    "short": "HCL Giurgiu nr. 20/2021",
@@ -14,6 +134,126 @@
      "units": 1,
      "source_url": "https://primariagiurgiu.ro/storage/formidable/16/Hotararea20CAIL2020nr20665920din2013.09.2021.pdf",
      "sha256": "9804ea0f466133dea68125d0b88c6a12ba6111f67f06d95f2d961af520b4e81a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-22-2021",
+   "path": "local/giurgiu/giurgiu/2021/22",
+   "short": "HCL Giurgiu nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 22/2021 privind modificarea Anexei la Hotărârea Consiliului Local nr.385/25.11.2020 modificată prin Hotărârea Consiliului Local nr.420/22.12.2020 privind numirea reprezentanților Consiliului Local al Municipiului Giurgiu în Consiliile de Administrație ale unităților de învățământ preuniversitar de stat din Municipiul Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/hcl-22_0001.pdf",
+     "sha256": "dbaf2db547bae9626a3ddcd178dfe15fd4cd64580d55412b5ecdf988c6599a1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-23-2021",
+   "path": "local/giurgiu/giurgiu/2021/23",
+   "short": "HCL Giurgiu nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 23/2021 privind modificarea Anexei la Hotărârea Consiliului Local nr.386/25.11.2020, modificată prin Hotărârea Consiliului Local nr.421/22.12.2020 privind numirea reprezentanților Consiliului Local al Municipiului Giurgiu în Comisiile pentru evaluarea și asigurarea calității educației în unitățile de învățământ preuniversitar de stat din Municipiul Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/hcl-23_0001.pdf",
+     "sha256": "731d5a815b546428d8294db498fb41d3c11be6427587ffcc04117d2cc3464842"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-239-2021",
+   "path": "local/giurgiu/giurgiu/2021/239",
+   "short": "HCL Giurgiu nr. 239/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 239/2021 privind modificarea Hotărârii nr.53 din data de 25 februarie 2021 a Consiliului Local al Municipiului Giurgiu, cu privire la constituirea Comisiei de vânzare a bunurilor aparținând domeniului privat de interes local al Municipiului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/239-fs.pdf",
+     "sha256": "628834823b0a5057a96c8a6923844442a761d1e40edb86e02e31a16eab36bc1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-247-2021",
+   "path": "local/giurgiu/giurgiu/2021/247",
+   "short": "HCL Giurgiu nr. 247/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 247/2021 privind abrogarea Hotărârii nr.302 din 05 septembrie 2016 a Consiliului Local al Municipiului Giurgiu privind transmiterea în folosință gratuită a unui teren în Municipiul Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/247-fs.pdf",
+     "sha256": "a4e5e9ef2ddf9b639a89bcc044168b75576d9b583f2e4b50050b64784e99bd28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-270-2021",
+   "path": "local/giurgiu/giurgiu/2021/270",
+   "short": "HCL Giurgiu nr. 270/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 270/2021",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/270fs.pdf",
+     "sha256": "db74e9517e05fe6dce5e289b68c9b77089b6efe4be55bb10e2231074b608ad27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-278-2021",
+   "path": "local/giurgiu/giurgiu/2021/278",
+   "short": "HCL Giurgiu nr. 278/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 278/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/278fs.pdf",
+     "sha256": "abc3909e82d1c320e28930431b137a95d14511680dc3f99803b6eb6bb64762e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-351-2021",
+   "path": "local/giurgiu/giurgiu/2021/351",
+   "short": "HCL Giurgiu nr. 351/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 351/2021",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/351-fs.pdf",
+     "sha256": "f32f495e050bc37e3ecdd1ccbc7267f768c6cc0b82bd3ccc215ef52cd40a0acd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-352-2021",
+   "path": "local/giurgiu/giurgiu/2021/352",
+   "short": "HCL Giurgiu nr. 352/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 352/2021",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/352fs.pdf",
+     "sha256": "ba1c713a58e021b0575c31d1d564d2d625a5d003282a9a8029a25b5f20d01878"
     }
    ]
   },
@@ -44,6 +284,81 @@
      "units": 3,
      "source_url": "https://primariagiurgiu.ro/storage/formidable/147/hcl-42-fs.pdf",
      "sha256": "c877a10b0aa34a29fc3deaf657435f71fa9f01045ecf28467d746c1f46f10cc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-48-2021",
+   "path": "local/giurgiu/giurgiu/2021/48",
+   "short": "HCL Giurgiu nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 48/2021 privind modificarea Anexei nr.2 - Graficul de rambursare din contractul de credit pentru refinanțarea datoriei publice locale a Municipiului Giurgiu, aprobat prin Hotărârea Consiliului Local nr.297/27.07.2017 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/48.pdf",
+     "sha256": "198d89658d9013458a20542968489e8a5e34fead6bcada84158091e7f1816733"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-57-2021",
+   "path": "local/giurgiu/giurgiu/2021/57",
+   "short": "HCL Giurgiu nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 57/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/hcl-57fs.pdf",
+     "sha256": "8694b8e615abbf7b25ee4988ae7c357ff7dd7ba2d7611f1f4053c38b19890df5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-77-2021",
+   "path": "local/giurgiu/giurgiu/2021/77",
+   "short": "HCL Giurgiu nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 77/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/HCL-77.pdf",
+     "sha256": "d32af35b035aa4d5aae068c30aad9f2eee022dc4ce84c76449bdf4604b88af35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-78-2021",
+   "path": "local/giurgiu/giurgiu/2021/78",
+   "short": "HCL Giurgiu nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 78/2021",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/HCL-78.pdf",
+     "sha256": "867d25c64c8ec72f6171cfb67638379bc3675724a0ac82d76f3c6f8fe98c9f90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-9-2021",
+   "path": "local/giurgiu/giurgiu/2021/9",
+   "short": "HCL Giurgiu nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 9/2021",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/hcl-9_0001.pdf",
+     "sha256": "58e7efb5cfc6449c01b53d886dddec42e9e410f9ce601adce2f27840dbfc3eac"
     }
    ]
   }

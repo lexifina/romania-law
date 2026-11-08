@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/gorj/rovinari/2008",
+"acts": [
+{
+"slug": "hcl-gorj--rovinari-1-2008",
+"path": "local/gorj/rovinari/2008/1",
+"kind": "local",
+"year": "2008",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 1/2008 Privind aprobarea \" Listelor ce cuprind ordinea de prioritate in solutionarea cererilor de locuinta si in repartizarea locuintelor stabilita de catre Comisia de analiza si repartizare a locuintelor cu chirie pentru tineri construite prin ANL \" conform anexelor nr. 1 si 2 care fac parte integranta din prezenta hotarare. CONSILIUL LOCAL AL ORASULUI ROVINARI, JUDETUL GORJ Avand in vedere: - Adresa nr",
+"short": "HCL Rovinari nr. 1/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-01-10",
+"latest": "2008-01-10",
+"portal": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2019-2006-hotararile-consiliului-local/",
+"council": "gorj/rovinari",
+"council_name": "Consiliul Local al Orașului Rovinari",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

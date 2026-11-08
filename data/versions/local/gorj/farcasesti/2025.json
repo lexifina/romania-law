@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--farcasesti-12-2025",
+   "path": "local/gorj/farcasesti/2025/12",
+   "short": "HCL Fărcășești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 12/2025 privind alegerea Președintelui de ședință al Consiliului Local Fărcășești",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/200426",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/200426",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--farcasesti-13-2025",
    "path": "local/gorj/farcasesti/2025/13",
    "short": "HCL Fărcășești nr. 13/2025",
@@ -348,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--farcasesti-35-2025",
+   "path": "local/gorj/farcasesti/2025/35",
+   "short": "HCL Fărcășești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 35/2025 privind alegerea Președintelui de ședință al Consiliului Local Fărcășești",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/214170",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/214170",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--farcasesti-36-2025",
    "path": "local/gorj/farcasesti/2025/36",
    "short": "HCL Fărcășești nr. 36/2025",
@@ -528,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--farcasesti-48-2025",
+   "path": "local/gorj/farcasesti/2025/48",
+   "short": "HCL Fărcășești nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 48/2025 privind desemnarea reprezentanților Consiliului Local Fărcășești în Consiliul de Administrație al Liceului Tehnologic Roșia Jiu, pentru anul şcolar 2025-2026",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/226930",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/226930",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--farcasesti-49-2025",
    "path": "local/gorj/farcasesti/2025/49",
    "short": "HCL Fărcășești nr. 49/2025",
@@ -553,6 +598,21 @@
      "from": "2026-01-28",
      "units": 1,
      "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/226932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-51-2025",
+   "path": "local/gorj/farcasesti/2025/51",
+   "short": "HCL Fărcășești nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 51/2025 privind alegerea Președintelui de ședință al Consiliului Local Fărcășești",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/226933",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/226933",
      "sha256": null
     }
    ]

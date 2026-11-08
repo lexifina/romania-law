@@ -1,0 +1,183 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/giurgiu/2022",
+"acts": [
+{
+"slug": "hcl-giurgiu--giurgiu-50-2022",
+"path": "local/giurgiu/giurgiu/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 50/2022",
+"short": "HCL Giurgiu nr. 50/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": null,
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-66-2022",
+"path": "local/giurgiu/giurgiu/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 66/2022 privind modificarea Anexei 3 la Hotărârea nr.281/26.08.2021 a Consiliului local al Municipiului Giurgiu întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 66/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2022-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-69-2022",
+"path": "local/giurgiu/giurgiu/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 69/2022 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.399 din 03.11.2021",
+"short": "HCL Giurgiu nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2022-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-70-2022",
+"path": "local/giurgiu/giurgiu/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 70/2022 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.449/22.12.2020 privind aprobarea schimbării denumirii Școlii Gimnaziale nr.10 în Școala Gimnazială „Sfinții Martiri Brâncoveni”, începând cu anul școlar 2021-2022 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2022-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-71-2022",
+"path": "local/giurgiu/giurgiu/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 71/2022 privind modificarea Anexei la Hotărârea Consiliului Local al Municipiului Giurgiu nr.283/26.08.2021 privind numirea reprezentanților Consiliului Local al Municipiului Giurgiu în Consiliile de Administrație ale unităților de învățământ preuniversitar de stat din Municipiul Giurgiu, pentru anul școlar 2021-2022, modificată prin Hotărârea Consiliului Local al Municipiului nr.373/28.10.2021 și Hotărârea Consiliului Local al Municipiului nr.473/22.12.2021 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2022-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-75-2022",
+"path": "local/giurgiu/giurgiu/2022/75",
+"kind": "local",
+"year": "2022",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 75/2022",
+"short": "HCL Giurgiu nr. 75/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2022-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-86-2022",
+"path": "local/giurgiu/giurgiu/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 86/2022",
+"short": "HCL Giurgiu nr. 86/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2022-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-92-2022",
+"path": "local/giurgiu/giurgiu/2022/92",
+"kind": "local",
+"year": "2022",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 92/2022 privind modificarea Hotărârii nr.89/28.02.2022 a Consiliului Local al Municipiului Giurgiu întrunit în ședință extraordinară,",
+"short": "HCL Giurgiu nr. 92/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-18",
+"latest": "2022-03-18",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2022-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

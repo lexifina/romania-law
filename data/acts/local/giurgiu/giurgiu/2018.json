@@ -3,6 +3,29 @@
 "shard": "local/giurgiu/giurgiu/2018",
 "acts": [
 {
+"slug": "hcl-giurgiu--giurgiu-13-2018",
+"path": "local/giurgiu/giurgiu/2018/13",
+"kind": "local",
+"year": "2018",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 13/2018",
+"short": "HCL Giurgiu nr. 13/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-23",
+"latest": "2018-01-23",
+"portal": null,
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-20-2018",
 "path": "local/giurgiu/giurgiu/2018/20",
 "kind": "local",
@@ -47,6 +70,138 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-32-2018",
+"path": "local/giurgiu/giurgiu/2018/32",
+"kind": "local",
+"year": "2018",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 32/2018 privind continuarea finanțării nerambursabile în anul 2018, în sumă de 2.700 lei, . Asociației Județeane de Atletism Giurgiu, în conformitate cu Hotărârea : Consiliului Local nr.327 din data de 31 august 2017 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 32/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-23",
+"latest": "2018-01-23",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-34-2018",
+"path": "local/giurgiu/giurgiu/2018/34",
+"kind": "local",
+"year": "2018",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 34/2018 privind continuarea finanțării nerambursabile în anul 2018, în sumă de 3.000 lei, a Asociației Naționale a Cadrelor Militare în Rezervă și Retragere — Organizația Județeană Giurgiu, în conformitate cu Hotărârea Consiliului Local al Municipiului Giurgiu nr.141/28.04.2017 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 34/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-23",
+"latest": "2018-01-23",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-36-2018",
+"path": "local/giurgiu/giurgiu/2018/36",
+"kind": "local",
+"year": "2018",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 36/2018 privind continuarea finanțării nerambursabile în anul 2018, în sumă de 161.629 lei, a Asociației Club Sportiv Municipal DUNĂREA Giurgiu,",
+"short": "HCL Giurgiu nr. 36/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-23",
+"latest": "2018-01-23",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-38-2018",
+"path": "local/giurgiu/giurgiu/2018/38",
+"kind": "local",
+"year": "2018",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 38/2018 privind continuarea finanțării nerambursabile în anul 2018 în sumă de 1.500 lei, Asociației CLUB SPORTIV PRO Giurgiu, în conformitate cu Hotărârea Consiliului Local nr.431/26.10.2017 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 38/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-23",
+"latest": "2018-01-23",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-41-2018",
+"path": "local/giurgiu/giurgiu/2018/41",
+"kind": "local",
+"year": "2018",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 41/2018 privind continuarea finanțării nerambursabile în anul 2018, în sumă de 20 lei, a Bisericii Creștine Evanghelice în conformitate cu Hotărârea Consiliului Local al Municipiului Giurgiu nr.97/30.03.2017 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 41/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-23",
+"latest": "2018-01-23",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-50-2018",
+"path": "local/giurgiu/giurgiu/2018/50",
+"kind": "local",
+"year": "2018",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 50/2018 privind modificarea Hotărârii Consiliului Local nr.291 din data de 27 iulie 2017 privind aprobarea Contractului de credit pentru finanțarea realizării unor obiective de investiții de interes local în Municipiul Giurgiu, a contractului de ipotecă asupra creanțelor rezultate din veniturile bugetare locale și a contractului de ipotectă mobiliară-conturi, încheiate cu CEC BANK | întrunit în ședință extraordinară,",
+"short": "HCL Giurgiu nr. 50/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-29",
+"latest": "2018-01-29",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-107-2018",
 "path": "local/giurgiu/giurgiu/2018/107",
 "kind": "local",
@@ -61,6 +216,248 @@
 "versions": 1,
 "from": "2018-03-29",
 "latest": "2018-03-29",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-111-2018",
+"path": "local/giurgiu/giurgiu/2018/111",
+"kind": "local",
+"year": "2018",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 111/2018 privind completarea preambulului Hotărârii Consiliului Local al Municipiului Giurgiu nr.406 din data de 26 octombrie 2017",
+"short": "HCL Giurgiu nr. 111/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-29",
+"latest": "2018-03-29",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-139-2018",
+"path": "local/giurgiu/giurgiu/2018/139",
+"kind": "local",
+"year": "2018",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 139/2018 privind completarea preambulului Hotărârii Consiliului Local nr.422 din data de 26 octombrie 2017 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 139/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-29",
+"latest": "2018-03-29",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-140-2018",
+"path": "local/giurgiu/giurgiu/2018/140",
+"kind": "local",
+"year": "2018",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 140/2018 privind completarea preambulului Hotărârii Consiliului Local nr.433 din data de 26 octombrie 2017 întrunit în ședință ordinară, :",
+"short": "HCL Giurgiu nr. 140/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-29",
+"latest": "2018-03-29",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-141-2018",
+"path": "local/giurgiu/giurgiu/2018/141",
+"kind": "local",
+"year": "2018",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 141/2018 privind completarea preambulului Hotărârii Consiliului Local nr.421 din data de 26 octombrie 2017 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 141/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-29",
+"latest": "2018-03-29",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-143-2018",
+"path": "local/giurgiu/giurgiu/2018/143",
+"kind": "local",
+"year": "2018",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 143/2018 privind îndreptarea unei erori materiale din preambulul Hotărârii Consiliului Local al Municipiului Giurgiu nr.432 din data de 26 octombrie 2017 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 143/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-29",
+"latest": "2018-03-29",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-180-2018",
+"path": "local/giurgiu/giurgiu/2018/180",
+"kind": "local",
+"year": "2018",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 180/2018 privind modificarea Hotărârii Consiliului Local nr.21 din data de 23 ianuarie 2018 privind reorganizarea Comisiei de evaluare pentru concesionarea bunurilor aparținând domeniului public și privat al Municipiului Giurgiu întrunit în ședință extraordinară,",
+"short": "HCL Giurgiu nr. 180/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-05-14",
+"latest": "2018-05-14",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-190-2018",
+"path": "local/giurgiu/giurgiu/2018/190",
+"kind": "local",
+"year": "2018",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 190/2018 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.71 din data de 27 martie 2014 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 190/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-05-31",
+"latest": "2018-05-31",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-208-2018",
+"path": "local/giurgiu/giurgiu/2018/208",
+"kind": "local",
+"year": "2018",
+"number": "208",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 208/2018 privind încetarea aplicabilității Hotărârii nr.19 din data de 27 februarie 199% a Consiliului Local al Municipiului Giurgiu privind atribuirea în folosință gratuită a unui teren întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 208/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-05-31",
+"latest": "2018-05-31",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-237-2018",
+"path": "local/giurgiu/giurgiu/2018/237",
+"kind": "local",
+"year": "2018",
+"number": "237",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 237/2018",
+"short": "HCL Giurgiu nr. 237/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-06-28",
+"latest": "2018-06-28",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-242-2018",
+"path": "local/giurgiu/giurgiu/2018/242",
+"kind": "local",
+"year": "2018",
+"number": "242",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 242/2018 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.270/05.09.2016 cu privire la obligativitatea prestării de activități gospodărești de către persoanele beneficiare ale Cantinei de ajutor social Intrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 242/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-06-28",
+"latest": "2018-06-28",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-281-2018",
+"path": "local/giurgiu/giurgiu/2018/281",
+"kind": "local",
+"year": "2018",
+"number": "281",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 281/2018 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.153/19.04.2018 privind transmiterea cu titlu gratuit a unui imobil din domeniul public al statului și din administrarea Ministerului Afacerilor Interne prin Inspectoratul Teritorial al Poliției de Frontieră Giurgiu, în domeniul public al Municipiului Giurgiu întrunit în ședință extraordinară,",
+"short": "HCL Giurgiu nr. 281/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-07-13",
+"latest": "2018-07-13",
 "portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
 "council": "giurgiu/giurgiu",
 "council_name": "Consiliul Local al Municipiului Giurgiu",
@@ -91,6 +488,72 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-292-2018",
+"path": "local/giurgiu/giurgiu/2018/292",
+"kind": "local",
+"year": "2018",
+"number": "292",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 292/2018 privind completarea Convenției nr.16.597/05.06.2014, aprobată prin Hotărârea Consiliului Local nr.160 din data de 05 iunie 2014 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 292/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-10-02",
+"latest": "2018-10-02",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-293-2018",
+"path": "local/giurgiu/giurgiu/2018/293",
+"kind": "local",
+"year": "2018",
+"number": "293",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 293/2018 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.22 din 23 ianuarie 2018 privind reorganizarea Comisiei de vânzare a bunurilor aparținând domeniului privat de interes local al Municipiului Giurgiu întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 293/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-07-26",
+"latest": "2018-07-26",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-304-2018",
+"path": "local/giurgiu/giurgiu/2018/304",
+"kind": "local",
+"year": "2018",
+"number": "304",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 304/2018 privind abrogarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.107/29.03.2018 privind aprobarea constituirii Colegiului Director al Direcției de Asistență Socială Giurgiu Intrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 304/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-07-26",
+"latest": "2018-07-26",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-324-2018",
 "path": "local/giurgiu/giurgiu/2018/324",
 "kind": "local",
@@ -113,6 +576,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-337-2018",
+"path": "local/giurgiu/giurgiu/2018/337",
+"kind": "local",
+"year": "2018",
+"number": "337",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 337/2018 privind aprobarea modificării Anexei la Hotărârea Consiliului Local al Municipiului Giurgiu nr.62 din data de 03 martie 2017, modificată prin Hotărârea Consiliului Local al Municipiului Giurgiu nr.301 din data de 25 august 2017, Hotărârea Consiliului Local al Municipiului Giurgiu nr.496 din data de 18 decembrie 2017 și Hotărârea Consiliului Local al Municipiului Giurgiu nr.2 din data de 15 ianuarie 2018 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 337/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-08-29",
+"latest": "2018-08-29",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-365-2018",
 "path": "local/giurgiu/giurgiu/2018/365",
 "kind": "local",
@@ -132,6 +617,28 @@
 "council_name": "Consiliul Local al Municipiului Giurgiu",
 "flags": {
 "text_source": "ocr"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-375-2018",
+"path": "local/giurgiu/giurgiu/2018/375",
+"kind": "local",
+"year": "2018",
+"number": "375",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 375/2018 privind modificarea Hotărârii Consiliului local al Municipiului Giurgiu nr.350 din data de 29 august 2018 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 375/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-09-27",
+"latest": "2018-09-27",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -158,6 +665,140 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-406-2018",
+"path": "local/giurgiu/giurgiu/2018/406",
+"kind": "local",
+"year": "2018",
+"number": "406",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 406/2018",
+"short": "HCL Giurgiu nr. 406/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-09-27",
+"latest": "2018-09-27",
+"portal": null,
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-447-2018",
+"path": "local/giurgiu/giurgiu/2018/447",
+"kind": "local",
+"year": "2018",
+"number": "447",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 447/2018 privind achiziția de servicii juridice pentru asistență și reprezentare în vederea promovării unei acțiuni având ca obiect anularea Hotărârii Consiliului Județean Giurgiu nr.111/2018 Intrunit în ședință extraordinară,",
+"short": "HCL Giurgiu nr. 447/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-10-25",
+"latest": "2018-10-25",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-451-2018",
+"path": "local/giurgiu/giurgiu/2018/451",
+"kind": "local",
+"year": "2018",
+"number": "451",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 451/2018 privind modificarea Hotărârii nr.259 din data de 28 iunie 2018 de aprobare a documentației pentru organizarca licitației publice deschise, cu strigare, pentru vânzarea unor bunuri care fac parte din sistemul de alimentare centralizată cu energie termică și care aparțin domeniului privat al Municipiului Giurgiu întrunit în ședință extraordinară,",
+"short": "HCL Giurgiu nr. 451/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-10-25",
+"latest": "2018-10-25",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-472-2018",
+"path": "local/giurgiu/giurgiu/2018/472",
+"kind": "local",
+"year": "2018",
+"number": "472",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 472/2018 privind modificarea Anexei la Hotărârea Consiliului Local al Municipiului Giurgiu nr. 397/27.09.2018 privind numirea reprezentanților Consiliului Local al Municipiului Giurgiu, în Comisiile de evaluare și asigurarea calității educației ale unităților de învățământ preuniversitar de stat din Municipiul Giurgiu întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 472/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-01",
+"latest": "2018-11-01",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-478-2018",
+"path": "local/giurgiu/giurgiu/2018/478",
+"kind": "local",
+"year": "2018",
+"number": "478",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 478/2018 privind îndreptarea unei erori materiale cuprinsă în Anexa 2 la Hotărârea nr.306/26.07.2018 a Consiliului Local al Municipiului Giurgiu privind aprobarea documentației pentru organizarea licitației publice deschise, cu strigare, pentru vânzarea unor bunuri rezultate în urma desființării instalației „FERRY BOAT”- construcție specială și care aparține domeniului privat al Municipiului Giurgiu întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 478/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-01",
+"latest": "2018-11-01",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-501-2018",
+"path": "local/giurgiu/giurgiu/2018/501",
+"kind": "local",
+"year": "2018",
+"number": "501",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 501/2018",
+"short": "HCL Giurgiu nr. 501/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-28",
+"latest": "2018-11-28",
+"portal": null,
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-522-2018",
 "path": "local/giurgiu/giurgiu/2018/522",
 "kind": "local",
@@ -177,6 +818,28 @@
 "council_name": "Consiliul Local al Municipiului Giurgiu",
 "flags": {
 "text_source": "ocr"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-535-2018",
+"path": "local/giurgiu/giurgiu/2018/535",
+"kind": "local",
+"year": "2018",
+"number": "535",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 535/2018 privind încetarea aplicabilității Hotărârii Consiliului Local al Municipiului Giurgiu nr. 313 din data de 21 august 2015 privind transmiterea în administrare a unui spațiu către Centrul Cultural Local „lon Vinea” Giurgiu întrunit în ședință ordinară",
+"short": "HCL Giurgiu nr. 535/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-19",
+"latest": "2018-12-19",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

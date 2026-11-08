@@ -3,6 +3,621 @@
  "shard": "local/gorj/bumbesti-jiu/2023",
  "acts": [
   {
+   "slug": "hcl-gorj--bumbesti-jiu-1-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/1",
+   "short": "HCL Bumbești-Jiu nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 1/2023 privind excedentul bugetar al anului 2022",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr1_din_11012023.pdf",
+     "sha256": "82b0f57c82e4c0a414fd5c7dc77d0c482e3c159bac6a85f9b5c12bc3432078e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-10-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/10",
+   "short": "HCL Bumbești-Jiu nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 10/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr10_din_30012023.pdf",
+     "sha256": "7adacbedc3fbcce7406e8d368d13cd7d715ba4fc212ba42f82fc373b1c9e6a51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-11-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/11",
+   "short": "HCL Bumbești-Jiu nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 11/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr11_din_30012023.pdf",
+     "sha256": "615f026c61c4eb86db9ca0e6fd9aaad516330b8e75fa62081e0db6b971e1dbf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-115-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/115",
+   "short": "HCL Bumbești-Jiu nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 115/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr115_din_26102023.pdf",
+     "sha256": "00984ee3587795b585ee5421dbaa4be0118d9c84f62144afd21d1b881408f8f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-117-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/117",
+   "short": "HCL Bumbești-Jiu nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 117/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr117_din_06112023.pdf",
+     "sha256": "90e7e56f970ece17b215ed609e9a84e7fa2772b62d7991b95e7eafc91cf260eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-118-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/118",
+   "short": "HCL Bumbești-Jiu nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 118/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr118_din_06112023.pdf",
+     "sha256": "91360805ccb99d9ff109d30ccf49122641c6952b3b0f40d458a52ff768c1ab44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-12-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/12",
+   "short": "HCL Bumbești-Jiu nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 12/2023 pentru aprobarea modificării HCL nr.1 din 11.01.2023 - privind excedentul bugetar al anului 2022",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr12_din_10022023.pdf",
+     "sha256": "08ddaf86744f6c721ff1647249c485ce73b223d952697693230895f6add85bef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-124-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/124",
+   "short": "HCL Bumbești-Jiu nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 124/2023 privind Codul Administrativ, cu modificarile si completarile ulterioarc; - Legea nr. 153/2017 pdvind salarizarea personalului platit din fonduri publice, cu modificarile si - completarile ulterioare; Legea N.27312006 privind finanlele publice locale, precum si pentru stabilirea unor masurifinanciare, cu modifi carile si completarile ulterioare; - Legeaff.53 /2003 - Codul Muncii, republicatd, cu mo",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr124_din_14122023.pdf",
+     "sha256": "2074838313cf3794ce7ac2302867c324296a5afb9799b58af8738e4649ae9450"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-128-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/128",
+   "short": "HCL Bumbești-Jiu nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 128/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr128_din_21122023.pdf",
+     "sha256": "e1213551b249c0be6c23fd096440ac5cb615b35d331ca41553bf5ecc2b36f7be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-129-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/129",
+   "short": "HCL Bumbești-Jiu nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 129/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr129_din_21122023.pdf",
+     "sha256": "ea9630a00ddbc649b0163ed0cfbac3b01ab5699b75602a16203cff0cd807d94d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-13-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/13",
+   "short": "HCL Bumbești-Jiu nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 13/2023 privind bugetul pe anul 2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr13_din_10022023.pdf",
+     "sha256": "43548bb9cd632f44b058443fd5ebb0b5d035497ab768bd5488e3d30ac1b8e2b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-130-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/130",
+   "short": "HCL Bumbești-Jiu nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 130/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr130_din_21122023.pdf",
+     "sha256": "200e70a0bd24b46c3bd0fb29da4ae50ee7a33654e381cfae16db1ef5524e071d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-131-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/131",
+   "short": "HCL Bumbești-Jiu nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 131/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr131_din_21122023.pdf",
+     "sha256": "7245a4b45442efc4957c7f5a44819a5b367203bcf5dee774eb5be796c9675018"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-132-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/132",
+   "short": "HCL Bumbești-Jiu nr. 132/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 132/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr132_din_21122023.pdf",
+     "sha256": "1648fe077f50b0476a2e2c3f5a42ba218eb8b07d0307b6bd5cf9439fa90c9585"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-133-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/133",
+   "short": "HCL Bumbești-Jiu nr. 133/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 133/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr133_din_21122023.pdf",
+     "sha256": "1c4b20788dffe8ed3b2410e64b23774d4f986e15c0aaa0f6228471c74e0beb60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-134-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/134",
+   "short": "HCL Bumbești-Jiu nr. 134/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 134/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr134_din_21122023.pdf",
+     "sha256": "04cf03b26da32dc9118845c4d01de6d2377d2b6bc08f0535b21b6036fab77284"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-135-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/135",
+   "short": "HCL Bumbești-Jiu nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 135/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr135_din_21122023.pdf",
+     "sha256": "4d53af1e573b1227cc59b12077aba9cfb85f3da12dcee5ac6b1ef72e131265f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-136-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/136",
+   "short": "HCL Bumbești-Jiu nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 136/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr136_din_21122023.pdf",
+     "sha256": "478f22722b1f05624a4e2ecd2329e132d311b58dfa543700bff1690d19a8d2f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-137-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/137",
+   "short": "HCL Bumbești-Jiu nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 137/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr137_din_21122023.pdf",
+     "sha256": "fbba2df2bf88e0d48d365a3ee5edc1372dcd719b961c24f514f38812b46da9a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-138-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/138",
+   "short": "HCL Bumbești-Jiu nr. 138/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 138/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr138_din_21122023.pdf",
+     "sha256": "ff27f14d5c570bd8cdeae37dae1fc2cb0dc3d1fc0e6edd4006a7724b3dae2064"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-139-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/139",
+   "short": "HCL Bumbești-Jiu nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 139/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr139_din_21122023.pdf",
+     "sha256": "3622bb72851ec9fde3a59a3c074683d0e7444da254ce5bf55863fc8cdc6d8ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-14-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/14",
+   "short": "HCL Bumbești-Jiu nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 14/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr14_din_23022023.pdf",
+     "sha256": "b739c9ea88434a36c5a33bbd2723f1ce4d2c6f2cb982c0431a0b81de196bd5e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-17-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/17",
+   "short": "HCL Bumbești-Jiu nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 17/2023 Pentru aprobarea modiltcariBi ustmatbuteustdtle-Jfiuu,nincc#o:pl$lnAd ncu5dr'ataorda€se0n1.e0s3c.2,0,2D3r. Greorg, e constantinescu,, - Conslliul Localal Orasulul Bumbesti-Jlu, judotul GorJ, - Avind ln ved€re : Adresa nr. 725 / 10.02.2023 a l\\,,lanagerului Spitalului OEsenesc Dr Gheorgh. Corsfarfl/,\"scu Bumbesti_ - Jiu, inregislrata la Primaria orasutui Bumbesti Jiu sub nr. 1697 / 10.02.2023; - Ra",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr17_din_23022023.pdf",
+     "sha256": "d4856a727fb1f9ed4e1351fce2c886d35a3dfdb37c5175cb82c26dfbaebcb260"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-18-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/18",
+   "short": "HCL Bumbești-Jiu nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 18/2023 privind insufirea Raporturui de Evaruare r din spafiu cu suprarartr de s6,2e mp, situat .ra Consiliul local al Ora$uhri Bumbe$li Jiu.judetul Corj",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr18_din_23022023.pdf",
+     "sha256": "d423d672a2681f821bccbf6bff4e28295115f61020caf75047f0b9b54364907f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-2-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/2",
+   "short": "HCL Bumbești-Jiu nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 2/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr2_din_11012023.pdf",
+     "sha256": "412989bf6df77ae98cd3a1acde8fb6ac3173d308376aad7d05375144974b4ad6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-23-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/23",
+   "short": "HCL Bumbești-Jiu nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 23/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/Hotararea_nr_23_din_15032023.pdf",
+     "sha256": "6197d9ca4fe85f77879b729664d0edea2d55d04aec8b870f00b996c312448505"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-24-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/24",
+   "short": "HCL Bumbești-Jiu nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 24/2023 Privind aprobarea transferului unor bunurimobile catreSpildlul Ofirehesc,,Dr",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/Hotararea_nr_24_din_15032023.pdf",
+     "sha256": "57ca57a31aab5c7e49b995a0c49b260cfbe8ddf7724a1e7818c7f7d88588b4ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-29-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/29",
+   "short": "HCL Bumbești-Jiu nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 29/2023 pentru aprobarea indicatorilor tchnico-economici si a devizului general faza DALI, pentru obiectivul de invcstitii ,,Modernizare drumuri in localitate, orasul Bumbesti Jiu, judetul Corj\" Consiliul Local al oragului Bumbe$ti Jiu, j udelul Corj, - Av6nd in vedere: - -- - Referatul de aprobare nr. nr. 3377 / 15.03.2023 al Primarului Orasului Bumbesti - Jiu ; Devizul general intocmit de SC PROMIAFLOR",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr29_din_30032023.pdf",
+     "sha256": "8b17b50107da65dc68fed135fb793f1af4692d51c7214105ac60f3e231c3b82b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-38-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/38",
+   "short": "HCL Bumbești-Jiu nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 38/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr38_din_12042023.pdf",
+     "sha256": "c6a04a8a0ce519fe0221047c48b0838b3fc83e5d7338a8a0dabc65d921d16542"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-44-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/44",
+   "short": "HCL Bumbești-Jiu nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 44/2023 privind codur Administrativ, cu r^*r*i ;;; BP\"R-uriemmPabrabeeictvisoteatndir-seeJrii,slS,et;r.arc.dota.n-LtBriaudmcetbureludsiteidseai ssluotrccarideaarreiGnshrie. ov8ra1s2hlr,\"4u/m24.0p6r.o20d2_0coj\"smi\"a\"Sc1te-\"lre,.\"ia.r_di*i;tit;o;in';i;ai;,lieriiini'c.h\"et,iatotie,b*ice,uc,tiAvuusrrobacdnieeereiinnavoeGrsatrisutiuip:l ,f o2b--0-ieREAlcoaxnrpr;evaopxesaarlnoidver6e/tip'enCrcdodaaieeprelceiart",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr44_din_27042023.pdf",
+     "sha256": "15ef43145296761605d2513e8a8c251f5decc62bfb5b36a75d60d1e543a4df35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-48-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/48",
+   "short": "HCL Bumbești-Jiu nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 48/2023 pentru aprobarea ildicatorilor tehnico-economici si a deyizului general faza DALI, pentru obiectivul de investitii ,,Reabilitare sediu primarie inclusiv retele utilitati si dotari, orasul Bumbesti Jiu, judetul Gorj,, Consiliul Local al oraqului Bumbeqti Jiu,judelul Gorj, -- AvAnd in vedere: - Referatul de aprobare nr. nr. 5525 / 03.05.2023 al primarului Orasului Bumbesti _ Jiu ; - Devizul general",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr48_din_04052023.pdf",
+     "sha256": "dc4cb987cf9eae7e2c9bb15815bc8b1cbee8eaefcbe2deb02656f1b95fd613e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-57-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/57",
+   "short": "HCL Bumbești-Jiu nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 57/2023 privind aprobarea organigramei, statului de funcfii si numirului de personal din cadrul aparatului de specialitate al Primarului Oraqului Bumbeqti - Jiu, serviciilor publice si ale institutiilor fara personalitate juridica, subordonate autoritifilor publice locale Consiliul local al Orasului Bumbegti - Jiu, judeJul Qorj, Av6nd in vedere : - Referatul nr. 6332 I 19.05.2023 de aprobare a proiectului",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr57_din_25052023.pdf",
+     "sha256": "33b25ad6431ef83e3bac3241b21fd4aa88816408f9c1626125b2737518c6e8b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-59-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/59",
+   "short": "HCL Bumbești-Jiu nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 59/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr59_din_25052023.pdf",
+     "sha256": "8919af69407e0ae93163b5375ce30548cb8ee012e848d44592535dcadcfc2197"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-6-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/6",
+   "short": "HCL Bumbești-Jiu nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 6/2023 pentru aprobarea indicatorilor tehnico-economici si a devizului general pentru obiectivul de investitii ,,Realizare cale de acces sediu primarie,, Consiliul Local al oraqului Bumbegti Jiu,judelul Gorj, - Av6nd in vedere: - - Referatul de aprobare nr. nr.750/ 19.01.2023 alp marului Orasului Bumbesti -.liu: - Proiectul de hotarare al initiatorului ; Devizul general intocmit de SC DOMARCONS SRL Craio",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr6_din_26012023.pdf",
+     "sha256": "425d9f2af3ea8ac23144b09dd34711b0efa6af09cbee040283d65fe68f03bf6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-62-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/62",
+   "short": "HCL Bumbești-Jiu nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 62/2023 pentru perioada 2024_2026; -- f.fftl DAevsfia^slurfaf,re4a28e3ve0n7im1e3n1.t0uslu.2i 0lo2c3alem.. ZisiledelecOarrraesCulu.irpBu\"m.tbiie\"s*rirf_ Jiu., : Bumbesti - Jiu ; Rutiera din cadrul politiei Orasului - ff Refemtul de aprobare al primarului orasului Bumbesti_Jiu - Proiectul de holaEre al initiatorului ; 6287 / 31.05.2023 ; ----- i'-**- *\" i\"r.\"f* p*r. aPO4pPRl,rrrGaceeeapovvlvnonieenertd.d.tr",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr62_din_31052023.pdf",
+     "sha256": "799a9bf6aeb02d7cdb5c2b2063db73d08151ef30834eb2513eaa98f6026d432a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-63-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/63",
+   "short": "HCL Bumbești-Jiu nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 63/2023 privind Codul pEr€ndiL id. 123, al secEt rului Jiu alin, I si !n. 57 - RegulMenlul de Or8tuiar si Fun€tione al Cohsilirlui Ldal Bumb.sli Jiu opobat prin - HcLnr, r01 /24,10.2021 : rapoa.lel€ & .vi@ al @misiilor d€ sDeisliror. ol. co iliului local j l In temeiul an. 139, alin. l, corobo8t.u an , alin. l,lir a din OUC nr,57 /20t9 p.ivind Codul Admi.istrativ, cu nodilicsile si @mplet&ile ulleiioe, II",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr63_din_22062023.pdf",
+     "sha256": "d4c942ce81074b914a7fb2f961a97585cad1dff2a54a3f75751fbe98de3decbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-64-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/64",
+   "short": "HCL Bumbești-Jiu nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 64/2023 privind Codul Admihistraliv, cu nodifi.&il€ si .omplehriL uteriorc; RaD@nele de svire ol. comisiilor de specialiiate rle @osiliului l@l ; In lemeiul arl. 139, alin. I din OUC tu. 57 / 2019 pnviDd Codul Administntiv, cu modifi.dile UOTARASTE: t ARr",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr64_din_22062023.pdf",
+     "sha256": "e6bd480d2bd503e41dc041feaac511b3135982570894f76c41966f8fad8add0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-65-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/65",
+   "short": "HCL Bumbești-Jiu nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 65/2023 privind C.dul Adminisnaiv, ou - r,pomlede avie al. comisiilorde specioliEE ol. comihului l@l I In remeiul d. lle. alin. I ombod.u d. Ieo,.lin L lil. a din OUC r.5?,20lepivind Codul Adoinistaliv, cu rodii6ile ultenoaE , IIOTARASTE: ARf. l. S€ apoba r6rda@ de sprijin nndoie prin alo@a de sume din bug.tul local, uoihlilor de cull din Oaul Brhb€sri - Jiu. e\\tf€l : l,PehiaSadu dio Oraul Bumb€sli - Jiu",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr65_din_22062023.pdf",
+     "sha256": "6b6ed403e988eacf4ff0c7167901f7d5b5a91f973105d459b18049030132fa71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-66-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/66",
+   "short": "HCL Bumbești-Jiu nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 66/2023 privind insk inrEq fomuldl de Pario Bmt S.A.; - FPRi6p.jf@oolmituultlud&ld. n.sao!p.ch6ibfatdliiL.nrtlinnMiitidouetoPrirulilmCti,o7lm4op46a5..utilmuI io1B6tu.u0lun6bi,2eb0su2tjs! .,|t Iiu ; mnr$iUele, inrcsistrd sub nr, fbmts . 1443 | 16.06.202t i H,C,L, Bumh. iJiu n,.4727,05,2010 pdvind lnsuirci i,Mt tului bunurilor mobile g imobilc c. - rlcnbieso domeDiul privd al or.gulni Bu(terriJiq An. 7 alin",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr66_din_22062023.pdf",
+     "sha256": "2cee98fd1489e69a8ee33806aad4f69a33e0ccbd2ea17a7101ebec31cfd9e5ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-67-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/67",
+   "short": "HCL Bumbești-Jiu nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 67/2023 privind aprcbaE! pEtului p.r ru tnchid*e brmurito. - propneE prilbn a oelului Bumb.$ri-iiu, afM. leirnu@inl.olom. tupllFBimehbl .D+miJoinDlE .ip ,,C!' j Crrciuesu pit6 Cot dcrul de leiliue r,325109.05.2016 inchciat Ioard.ll,cliD,5j - Exr6 CF nr, 39515 Bumbcati - Jiu ; - d Prcv.de6le 129 clin, o ) lir.(c), !lin. (6) ln. (d), pEcm !i col. al. an,362 atin I din ouc n.5720t 9 privind cddul adDinisLoli",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr67_din_22062023.pdf",
+     "sha256": "53ae49633c10bf93c8fa342939d6b554f73047fb54147d8269497b920965d241"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-68-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/68",
+   "short": "HCL Bumbești-Jiu nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 68/2023 privind de irverritii .,! d. looirte irdividu.lc t.u colativ. dici ri fuoctiuri corpleDe .rc prc.rb il C$ii.. \" a.rctrului .r lc6tuir C,miliul t c.l el oEului Bmbesti Jiu, re - R.lqanrl de aprcbe a ptui@tulni &ho1It6ft n. 1611 I 22-06-2023 i - Proiecrul de hot al initiatorului; - Raponul de sD€ciarihle @mb N. 1678 I 22.06.2021 lrrocmit de Comp. wbeisn, menajd€a leriloriului, Conp. Inv6lirii, SNici",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr68_din_22062023.pdf",
+     "sha256": "2b40002ac568e6444aad926352cbef291bf122232147754d5404380aef81972d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--bumbesti-jiu-71-2023",
    "path": "local/gorj/bumbesti-jiu/2023/71",
    "short": "HCL Bumbești-Jiu nr. 71/2023",
@@ -14,6 +629,66 @@
      "units": 1,
      "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr71_din_26072023.pdf",
      "sha256": "b63e6d3ea2f717295117381a650c9fdff6f657a8291ecb461b941dea4ee425b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-9-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/9",
+   "short": "HCL Bumbești-Jiu nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 9/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr9_din_30012023.pdf",
+     "sha256": "9f7e17f47e45f5f93886204501904830b42b19066b97a6cc57437aeb13ac47f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-95-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/95",
+   "short": "HCL Bumbești-Jiu nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 95/2023",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr95_din_31082023.pdf",
+     "sha256": "286ad50b2a1a17dd20d3c5273d13920a6e62e2f3bf1a7e5fda94a2fb310cb1c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-98-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/98",
+   "short": "HCL Bumbești-Jiu nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 98/2023 privind aprobarea bugetului local de venituri si cheltuieli, Rectificarea I pe anul2023 Consiliul local al Orasului Bumbesti Jiu, jud.Gorj, Avand in yedere: - Referatul de aprobare al initiatorul\\ti tv. 10268 122.08.2023 ; - Proiectul de hotamre initiat de catre P marul OrasulLri Bumbesti Jiu; - Raporhrl de specialitate al Serviciului Buget-finante-contabilitate w, 10269 122.08.2023 ; - Prcvederil",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr98_din_31082023.pdf",
+     "sha256": "9410c9e2fcabf4d8556d983e381e2838cfc80782c98bb7ff214b717b70a0f415"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bumbesti-jiu-99-2023",
+   "path": "local/gorj/bumbesti-jiu/2023/99",
+   "short": "HCL Bumbești-Jiu nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 99/2023 privind aprobarea organigramei, statului de funcfii si numirului de personal din cadrul aparatului de specialitate al Primarului Oragului Bumbegti - Jiu, serviciilor publice si ale instituriilor fara persotralitate juridica, subordonate autorititilor publice locale Consiliul local al Orasului Bumbefti - Jiu, judetul Gorj, Avind in vedere : - Referatul de aprobare privind necesitatea si oportunitat",
+   "url": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "http://www.bumbesti-jiu.ro/images/documente/hotarari/2023/HCL_nr99_din_31082023.pdf",
+     "sha256": "7cf5ce7cad9097ed13ff0b53b9b8fb42acfff64b6e9a0986d856582258bad311"
     }
    ]
   }

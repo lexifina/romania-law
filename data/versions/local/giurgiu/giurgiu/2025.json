@@ -3,6 +3,66 @@
  "shard": "local/giurgiu/giurgiu/2025",
  "acts": [
   {
+   "slug": "hcl-giurgiu--giurgiu-104-2025",
+   "path": "local/giurgiu/giurgiu/2025/104",
+   "short": "HCL Giurgiu nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 104/2025",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-104-fs.pdf",
+     "sha256": "7d6f850b5282dcb72909523dbded7c224e42d20bfc13c284c138aef12aa973c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-143-2025",
+   "path": "local/giurgiu/giurgiu/2025/143",
+   "short": "HCL Giurgiu nr. 143/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 143/2025 privind modificarea Hotărârii nr.473/18.12.2014 a Consiliului Local al Municipiului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-143-fs.pdf",
+     "sha256": "4d40415a71ae32111ab6e5b1f2b7b11e10e703c33928eca6917a1c26794566f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-145-2025",
+   "path": "local/giurgiu/giurgiu/2025/145",
+   "short": "HCL Giurgiu nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 145/2025 privind aprobarea încheierii Actului adițional la contractul de concesiune nr.135/12.07.2005, pentru serviciul public privind distribuția gazelor naturale în Municipiul Giurgiu, Județul Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-145-fs.pdf",
+     "sha256": "0e3275a6ae400763c22d354de13d92e8385619057f7b0ba606483a7e87bcb923"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-172-2025",
+   "path": "local/giurgiu/giurgiu/2025/172",
+   "short": "HCL Giurgiu nr. 172/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 172/2025 privind încheierea Actului Adițional nr.4 la Acordul de asociere înregistrat la Primăria Municipiului Giurgiu cu nr.71.473/30.07.2024 și la Consiliul Județean Giurgiu cu nr.190/05.08.2024” întrunit în ședință extraordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-172-fs.pdf",
+     "sha256": "684722bc98c776979c7f9d0899d9407e28aa1de3254e67edff8b03345fda11c8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-193-2025",
    "path": "local/giurgiu/giurgiu/2025/193",
    "short": "HCL Giurgiu nr. 193/2025",
@@ -18,6 +78,216 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-194-2025",
+   "path": "local/giurgiu/giurgiu/2025/194",
+   "short": "HCL Giurgiu nr. 194/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 194/2025 privind modificarea Hotărârii nr.268/28.09.2023 a Consiliului Local al Municipiului Giurgiu, cu modificările ulterioare întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/HCL-194-din-14.08.2025.pdf",
+     "sha256": "d365d8f8404ef9caeab9d7f29571d3ddcb9fd70fc15cda9c7a562692ec967f5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-2-2025",
+   "path": "local/giurgiu/giurgiu/2025/2",
+   "short": "HCL Giurgiu nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 2/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-2-fs.pdf",
+     "sha256": "31fd7911c42dab0ab367437b0d4b7fc3ae26b705d1b934079db7d14c2855119b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-238-2025",
+   "path": "local/giurgiu/giurgiu/2025/238",
+   "short": "HCL Giurgiu nr. 238/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 238/2025 privind abrogarea Hotărârii nr.167/26.05.2022 a Consiliului Local al Municipiului Giurgiu privind darea în folosință gratuită a unui teren situat în Punctul de Trecere a Frontierei Giurgiu, către Garda Națională de Mediu- Comisariatul Județean Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-238-fs.pdf",
+     "sha256": "317ff67bc57da8f58e4a4f1617d210da3d659103a67062eabcdd09aaff676930"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-240-2025",
+   "path": "local/giurgiu/giurgiu/2025/240",
+   "short": "HCL Giurgiu nr. 240/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 240/2025 privind modificarea Hotărârii nr.148/28.04.2022 a Consiliului Local al Municipiului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-240-fs.pdf",
+     "sha256": "5f85e4b077a5bfe6f4f7f9c55c6733d48afcb385c6730bf47bdef5c955b1d6ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-244-2025",
+   "path": "local/giurgiu/giurgiu/2025/244",
+   "short": "HCL Giurgiu nr. 244/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 244/2025 privind modificarea și completarea Hotărârii nr.142/26.06.2025 a Consiliului Local al Municipiului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-244-fs.pdf",
+     "sha256": "771c1e85d59cd20c4a3c54f8e44bbf74b1db2851617cc6c002b7ab15301b913c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-248-2025",
+   "path": "local/giurgiu/giurgiu/2025/248",
+   "short": "HCL Giurgiu nr. 248/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 248/2025 privind revocarea Hotărârii nr.41/29.02.2024 a Consiliului Local al Municipiului Giurgiu privind trecerea din domeniul public al Municipiului Giurgiu în domeniul public al Județului Giurgiu a unui teren situat în intravilanul Municipiului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-248-fs.pdf",
+     "sha256": "e7530b1a67e737b7193be4c2948afc7851a96faba669a01d7fbf804e816b1be9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-255-2025",
+   "path": "local/giurgiu/giurgiu/2025/255",
+   "short": "HCL Giurgiu nr. 255/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 255/2025",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-255-fs.pdf",
+     "sha256": "fe7c6582b8480a79f1918a61b899fd5b0d3b58d04686471044052d3f17171934"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-272-2025",
+   "path": "local/giurgiu/giurgiu/2025/272",
+   "short": "HCL Giurgiu nr. 272/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 272/2025 privind modificarea și completarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.17 din 30.01.2025",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-272-fs.pdf",
+     "sha256": "fc5162effe5920407a20f00af2c14abf813933023a9a58e2f7f0ac3d0b4d8728"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-274-2025",
+   "path": "local/giurgiu/giurgiu/2025/274",
+   "short": "HCL Giurgiu nr. 274/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 274/2025 privind aprobarea contractării unui împrumut în valoare de 2.229.837 lei,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-274-fs.pdf",
+     "sha256": "f1239b78606eef874d0411c056e1f2fc06d197c3e0eebf4b9c7edd26c600060c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-304-2025",
+   "path": "local/giurgiu/giurgiu/2025/304",
+   "short": "HCL Giurgiu nr. 304/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 304/2025 privind modificarea Hotărârii nr.431/22.12.2020 a Consiliului Local al Municipiului Giurgiu, cu modificările și completările ulterioare întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/HCL-304-fs.pdf",
+     "sha256": "e9691822d1b88a3140f06e98d9ad9c257bfd9c346979ae04a1045e0caa4fbd97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-311-2025",
+   "path": "local/giurgiu/giurgiu/2025/311",
+   "short": "HCL Giurgiu nr. 311/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 311/2025 privind modificarea Hotărârii nr.282/24.09.2009 cu modificările ulterioare, privind constituirea Comisiei Tehnice de Amenajare a Teritoriului și de Urbanism la nivelul Municipiului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-311-fs.pdf",
+     "sha256": "2e90e4c856d3fbbee9938d00483bd83ed2c81385e903c5b4bf0dbbacf894124a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-313-2025",
+   "path": "local/giurgiu/giurgiu/2025/313",
+   "short": "HCL Giurgiu nr. 313/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 313/2025 privind modificarea Anexei la Hotărârea Consiliului Local al Municipiului Giurgiu nr.372/23.12.2024 privind aprobarea Rețelei școlare din Municipiul Giurgiu pentru anul școlar 2025 - 2026 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/HCL-219-cu-anexa.pdf",
+     "sha256": "84130ef1a7d6f0ce5d376ce633105227907bc9d67522df3ba964f93e5afced7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-316-2025",
+   "path": "local/giurgiu/giurgiu/2025/316",
+   "short": "HCL Giurgiu nr. 316/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 316/2025 privind modificarea Anexei la Hotărârea Consiliului Local al Municipiului Giurgiu nr.295/22.12.2025 privind aprobarea Rețelei școlare din Municipiul Giurgiu pentru anul școlar 2026-2027 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-316-fs.pdf",
+     "sha256": "b0d4de2c777c981280c692ea5067d6af64ef9792b18a6dda236d264d74d0b060"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-45-2025",
+   "path": "local/giurgiu/giurgiu/2025/45",
+   "short": "HCL Giurgiu nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 45/2025 privind aprobarea sumelor reprezentând ajustările de preț totale, conform Ordonanței de Urgență a Guvernului nr.64/2022, din cadrul acordului contractual nr.30333/08.07.2022 la contractul de execuție lucrări pentru proiectului „Modernizarea infrastructurii de transport public pe coridorul de mobilitate urbană central al Municipiului Giurgiu” întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-45-fs.pdf",
+     "sha256": "9735038824bb2b2911c0410dc91effcf5bf33050dfd9ecd5fdedbfc09e47de1a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-460-2025",
    "path": "local/giurgiu/giurgiu/2025/460",
    "short": "HCL Giurgiu nr. 460/2025",
@@ -29,6 +299,81 @@
      "units": 1,
      "source_url": "https://primariagiurgiu.ro/storage/formidable/199/Modificare-Disp.-460-din-03.09.2025-fs.pdf",
      "sha256": "0ec0563d63bdd49572601c7e5a3589ce8ff5eceed53e93067a03df6ac9dc9e6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-52-2025",
+   "path": "local/giurgiu/giurgiu/2025/52",
+   "short": "HCL Giurgiu nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 52/2025 privind modificarea Hotărârii nr.332/28.11.2024 a Consiliului Local al Municipiului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-52-din-2025-fs.pdf",
+     "sha256": "0a6c002d149dcac4aef92bca0e4b4c05a08727fa9259ab5d77791c10b3d16569"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-53-2025",
+   "path": "local/giurgiu/giurgiu/2025/53",
+   "short": "HCL Giurgiu nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 53/2025",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-53-din-2025-fs.pdf",
+     "sha256": "3c15a68bee4e138c19da3eddce8f8a57eee2ecf8c7a424df5818b86843f4319e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-58-2025",
+   "path": "local/giurgiu/giurgiu/2025/58",
+   "short": "HCL Giurgiu nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 58/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-58-din-2025-fs.pdf",
+     "sha256": "6e0adcb1afa26f038e4d0a134bc26c163c05e726ad0f5cfd89dbabcf496900e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-63-2025",
+   "path": "local/giurgiu/giurgiu/2025/63",
+   "short": "HCL Giurgiu nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 63/2025 privind abrogarea Hotărârii nr.7/17.01.2017 a Consiliului Local al Municipiului Giurgiu privind transmiterea în folosință gratuită a unui spațiu din incinta imobilului situat în Municipiul Giurgiu, șoseaua Prieteniei, nr.2, către Agenția Națională Antidrog - Centrul de Prevenire, Evaluare și Consiliere Antidrog Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-63-din-2025-fs.pdf",
+     "sha256": "801dc8a5e28d3b3578d20f67442b7c753f9b4f44e455e7b0037bee2c9dabf353"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-81-2025",
+   "path": "local/giurgiu/giurgiu/2025/81",
+   "short": "HCL Giurgiu nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 81/2025 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.79 din 28.03.2025",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/Hcl-81-fs.pdf",
+     "sha256": "94e4cf6a922a78db68fbcdc99e74f046a626bb3dcf50f31d1943dd721a60ca37"
     }
    ]
   }

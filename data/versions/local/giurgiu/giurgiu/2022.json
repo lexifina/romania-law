@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/giurgiu/2022",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--giurgiu-50-2022",
+   "path": "local/giurgiu/giurgiu/2022/50",
+   "short": "HCL Giurgiu nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 50/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/145/50fs-1.pdf",
+     "sha256": "6f9797ec239773d95b9ddebe8804e71378d789ea264dcc591af0011a43f4f527"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-66-2022",
+   "path": "local/giurgiu/giurgiu/2022/66",
+   "short": "HCL Giurgiu nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 66/2022 privind modificarea Anexei 3 la Hotărârea nr.281/26.08.2021 a Consiliului local al Municipiului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2022-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/145/66fs-1.pdf",
+     "sha256": "f180cc699fd408470baf9f29d9adb271e26785aec407a66b6e1a70600d77c3e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-69-2022",
+   "path": "local/giurgiu/giurgiu/2022/69",
+   "short": "HCL Giurgiu nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 69/2022 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.399 din 03.11.2021",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2022-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/145/69fs-1.pdf",
+     "sha256": "66d8d0ef8a6caeef8f97fff5d3bd3b7e02049dae00d935b3a73766d52238d647"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-70-2022",
+   "path": "local/giurgiu/giurgiu/2022/70",
+   "short": "HCL Giurgiu nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 70/2022 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.449/22.12.2020 privind aprobarea schimbării denumirii Școlii Gimnaziale nr.10 în Școala Gimnazială „Sfinții Martiri Brâncoveni”, începând cu anul școlar 2021-2022 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2022-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/145/70fs-1.pdf",
+     "sha256": "b8b852b1c42f9668cad079655d502f49269da9805ef149166f0d14616f0b2883"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-71-2022",
+   "path": "local/giurgiu/giurgiu/2022/71",
+   "short": "HCL Giurgiu nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 71/2022 privind modificarea Anexei la Hotărârea Consiliului Local al Municipiului Giurgiu nr.283/26.08.2021 privind numirea reprezentanților Consiliului Local al Municipiului Giurgiu în Consiliile de Administrație ale unităților de învățământ preuniversitar de stat din Municipiul Giurgiu, pentru anul școlar 2021-2022, modificată prin Hotărârea Consiliului Local al Municipiului nr.373/28.10.2021 și Hotărârea Consiliului Local al Municipiului nr.473/22.12.2021 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2022-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/145/71fs-1.pdf",
+     "sha256": "a2e911ca93a8873ffa066e33cc144919427dd45808483b8a30abce4b642c5d3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-75-2022",
+   "path": "local/giurgiu/giurgiu/2022/75",
+   "short": "HCL Giurgiu nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 75/2022",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2022-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/145/75fs-1.pdf",
+     "sha256": "1f3b0f0cbb52ee96ffd89c5b6bee3c193c1f508eb8f1b8e6013cf87033cc19ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-86-2022",
+   "path": "local/giurgiu/giurgiu/2022/86",
+   "short": "HCL Giurgiu nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 86/2022",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2022-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/145/86fs-1.pdf",
+     "sha256": "998d66358029d81a6d109bebbdc32cb826eaf71d07d4a835bbd0b40239a6901a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-92-2022",
+   "path": "local/giurgiu/giurgiu/2022/92",
+   "short": "HCL Giurgiu nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 92/2022 privind modificarea Hotărârii nr.89/28.02.2022 a Consiliului Local al Municipiului Giurgiu întrunit în ședință extraordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2022-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/145/92fs-1.pdf",
+     "sha256": "db7a9d08ee2fc5229bd5a63c481e366ad09984cf195d0dde5fa1eb53398790c3"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,996 @@
  "shard": "local/gorj/rovinari/2024",
  "acts": [
   {
+   "slug": "hcl-gorj--rovinari-1-2024",
+   "path": "local/gorj/rovinari/2024/1",
+   "short": "HCL Rovinari nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 1/2024 privind aprobarea rețelei școlare propusă a funcționa în anul școlar 2024-2025 pe raza orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.1_din_12.01.2024.pdf",
+     "sha256": "6f9d7aea616d49b8be07dadc84e0d8372f86cd060ec017ffdf9c526887201af3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-10-2024",
+   "path": "local/gorj/rovinari/2024/10",
+   "short": "HCL Rovinari nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 10/2024 privind aprobarea Planului de acțiuni sau lucrări de interes local ce se vor desfășura în anul 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.10_din_30.01.2024.pdf",
+     "sha256": "c15ded48981475254123d4687daa048f530761edca89fbfed046bea24e01afb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-100-2024",
+   "path": "local/gorj/rovinari/2024/100",
+   "short": "HCL Rovinari nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 100/2024 privind abrogarea Hotărârii Consiliului Local Rovinari nr.98/30.05.2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.100_din_25.04.2024.pdf",
+     "sha256": "5c928578cf63fc52e21d32377224c4db11471cb5b63648d089008355567760be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-101-2024",
+   "path": "local/gorj/rovinari/2024/101",
+   "short": "HCL Rovinari nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 101/2024 privind dezmembrarea terenului în suprafață de 6567mp, avand număr cadastra 137002, situat în intravilanul orașului Rovinari, strada Autoliv, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.101_din_25.04.2024.pdf",
+     "sha256": "66d5ce773b8d76ae0e1dbad2bc84e02786c50fc71a5afb4d2fb5571eba066b8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-102-2024",
+   "path": "local/gorj/rovinari/2024/102",
+   "short": "HCL Rovinari nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 102/2024 privind dezmembrarea terenului în suprafață de 2631mp, avand număr cadastral 35326, situat în intravilanul orașului Rovinari, bulevardul Minerilor, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.102_din_25.04.2024.pdf",
+     "sha256": "7ff02181fd76ba24c4b06e3aa67f3b53d747079c61a5e0978c2911e08c2c6c5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-103-2024",
+   "path": "local/gorj/rovinari/2024/103",
+   "short": "HCL Rovinari nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 103/2024 privind alipirea unor imobile (terenuri) situate în orașul Rovinari, strada Autoliv, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_nr.103_din_25.04.2024.pdf",
+     "sha256": "083f12cdab98867a1c22653bdff89d9e64cd25de02f653fee6cf4b827ef8a0d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-104-2024",
+   "path": "local/gorj/rovinari/2024/104",
+   "short": "HCL Rovinari nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 104/2024 privind aprobarea vânzării locninței cu rezerva dreptului de proprietate domnnlni Marcu Engen Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_nr.104_din_25.04.2024.pdf",
+     "sha256": "a945031a5bd2dc0862c9f67a545e36f8e1d0595478cf3421a9536c7767932abd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-105-2024",
+   "path": "local/gorj/rovinari/2024/105",
+   "short": "HCL Rovinari nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 105/2024 privind însușirea inventarului domeniului public, conform propunerii comisiei speciale de inventariere a domeniului public și privat al unității administrativ teritoriale oraș Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.105_din_25.04.2024.pdf",
+     "sha256": "42b3f4044c681927a500973ce11a9878c064d7b9618dcde6726fc4656f301d57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-106-2024",
+   "path": "local/gorj/rovinari/2024/106",
+   "short": "HCL Rovinari nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 106/2024 privind aprobarea achizitionării, în condițiile legislatiei în vigoare, a unui număr de 300 tichete sociale, în valoare de 150 lei/tichet cu TVA, în sumă totală de 45.000 lei cu TVA, cu ocazia sărbătorilor pascale 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.106_din_25.04.2024.pdf",
+     "sha256": "e6dbbb1c9f4649ddc08677f09e2d3ca2fcfbc26cf361333e17c7fc6caa31459b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-107-2024",
+   "path": "local/gorj/rovinari/2024/107",
+   "short": "HCL Rovinari nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 107/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții „Amenajare parcare de reședință în zona blocului A6, oraș Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.107_din_25.04.2024.pdf",
+     "sha256": "4779430aeb055a727d6734266c36c835973c139eed076bf9251a05a9ede22bca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-109-2024",
+   "path": "local/gorj/rovinari/2024/109",
+   "short": "HCL Rovinari nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 109/2024 privind aprobarea actualizării indicatorilor tehnico-economici și a cheltuielilor legate de proiect- „Reabilitarea energetică a Spitalului Orășenesc Sfântul Ștefan Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.109_din_25.04.2024.pdf",
+     "sha256": "aa8c8793d2f99068770a011b97d66a7a3869feaeffb2445bc96d74bdb78dee8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-11-2024",
+   "path": "local/gorj/rovinari/2024/11",
+   "short": "HCL Rovinari nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 11/2024 privind aprobarea Calendarului activităților de primăvă 2024 și Calendarul activitităților de vară-toamnă 2024, cuprinzând lucrările de întreținere și înfrumusețare a spațiilor verzi ale orașului Rovinari, ce vor fi executate de către Societatea Scrvicii Publiee Locale Rovinari SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.11_din_30.01.2024.pdf",
+     "sha256": "ab54ccfd2ea388ce430b29a536a7e743dbf7d93b2b9953d18fccd94ca3d1864a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-110-2024",
+   "path": "local/gorj/rovinari/2024/110",
+   "short": "HCL Rovinari nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 110/2024 privind aprobarea contractării proiectului și a cheltuielilor legate de proiect „Reabilitarea energetică a Spitalului Orășenesc Sfântul Ștefan Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_nr.110_din_25.04.2024.pdf",
+     "sha256": "554b37f20a35fc2697728c3dc76cc5d464279e1f9542375523371f1e0e9dc88a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-111-2024",
+   "path": "local/gorj/rovinari/2024/111",
+   "short": "HCL Rovinari nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 111/2024 privind demararea procedurii de concesionare, prin licitație publică organizată în condițiile legii, a terenului în suprafață de 9900mp cu număr cadastral 37108, situat în extravilanul orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.111_din_30.04.2024.pdf",
+     "sha256": "60474e6ba902fb1921cbfd598aae7ce62294f1f74ee16e19db7f8e64db1a209a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-113-2024",
+   "path": "local/gorj/rovinari/2024/113",
+   "short": "HCL Rovinari nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 113/2024 privind darea în administrare a depoului autobuze electrice, către Societatea Serviciul de Bază Pază și Protecție SRL pe o perioada de 5 ani, cu posibilitatea prelungirii Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.113_din_21.05.2024.pdf",
+     "sha256": "64427f16313da7310acf4364e60b328b6b3900573eccd1aac050e019ec426ef6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-114-2024",
+   "path": "local/gorj/rovinari/2024/114",
+   "short": "HCL Rovinari nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 114/2024 privind rectificarea bugetului local pe anul 2024 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.114_din_21.05.2024.pdf",
+     "sha256": "42477c8f3889ac51b4a0c91ed6a44e747de389c81e0e6b566c7f2590b89fd7ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-115-2024",
+   "path": "local/gorj/rovinari/2024/115",
+   "short": "HCL Rovinari nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 115/2024 privind completarea Hotărârii Consiliului Local nr.13/30.01.2024 privind aprobarea Agendei Principalelor Manifestări Culturale pe anul 2024, a sumelor alocate pentru aceste manifestări și a sumelor pentru achiziția de servicii artistice pentru Ansamblul artistic de amatori „JIULEȚUL” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.115_din_21.05.2024.pdf",
+     "sha256": "dc115935a09cba30ae23eec44a468150a022a30bd410d22c2e1d2997ab385145"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-116-2024",
+   "path": "local/gorj/rovinari/2024/116",
+   "short": "HCL Rovinari nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 116/2024 privind concesionarea prin licitatie publica a terenului aparținând domeniului privat al orașului Rovinari, în suprafață de 9900mp, înscris în cartea funciară 37108, situat în extravilanul orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.116_din_21.05.2024.pdf",
+     "sha256": "45f27be2ec40f1c01c58bc524cd5fd1a90f3697ef9750149e8ce99602412f5ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-117-2024",
+   "path": "local/gorj/rovinari/2024/117",
+   "short": "HCL Rovinari nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 117/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.117_din_29.05.2024.pdf",
+     "sha256": "266acc68ad7583474f1df2b3031fc9de1288bf52d8dc1dc4e26081b5e733e599"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-118-2024",
+   "path": "local/gorj/rovinari/2024/118",
+   "short": "HCL Rovinari nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 118/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.118_din_29.05.2024.pdf",
+     "sha256": "4747afcf9d54ca59bcbdebc6e148473113f2ce6846fc0d39854719ce9fe30dc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-119-2024",
+   "path": "local/gorj/rovinari/2024/119",
+   "short": "HCL Rovinari nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 119/2024 privind aprobarea raportului de evaluare nr.19627/228/13.05.2024, întocmit de SC CONSULTING COMPANY SRL pentru stabilirea valorii de piață a terenului intravilan în suprafață de 1341mp, situat în oraș Rovinari, strada Autoliv, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.119_din_29.05.2024.pdf",
+     "sha256": "ff166227bce691487848d9ef08becea8ab7e104e90bac36fe9bb4ce3c7a31a22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-12-2024",
+   "path": "local/gorj/rovinari/2024/12",
+   "short": "HCL Rovinari nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 12/2024 privind majorarea sumei de la 1200 lei/16 ore/lună la 1500 lei/16/ore/lună reprezentând contravaloare servicii artistice pentru membrii Ansamblului artistic de amatori „JIULEȚUL” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.12_din_30.01.2024.pdf",
+     "sha256": "c8d31b460ed656816ad89db97ba7dc6caafb68104f189440815cfc2719bf963e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-120-2024",
+   "path": "local/gorj/rovinari/2024/120",
+   "short": "HCL Rovinari nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 120/2024 privind aprobarea raportului de evaluare nr.19624/226/13.05.2024, întocmit de SC CONSULTING COMPANY SRL pentru stabilirea valorii de piață a terenului intravilan în suprafață de 10112mp, situat în oraș Rovinari, strada Autoliv, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.120_din_29.05.2024.pdf",
+     "sha256": "63c033be24db78459413c4834f078463b83fc2fb4708491430322128367ecd57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-121-2024",
+   "path": "local/gorj/rovinari/2024/121",
+   "short": "HCL Rovinari nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 121/2024 privind aprobarea raportului de evaluare nr.19626/227/13.05.2024, întocmit de SC CONSULTING COMPANY SRL pentru stabilirea valorii de piață a terenului intravilan în suprafață de 265mp, situat în oraș Rovinari, strada Autoliv, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.121_din_29.05.2024.pdf",
+     "sha256": "93d20828b8827ded58d99ebe163bc1495317e294f43ddec0e1501b2a5f9961c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-122-2024",
+   "path": "local/gorj/rovinari/2024/122",
+   "short": "HCL Rovinari nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 122/2024 privind aprobarea organigramei și statului de funcții ale Spitalului Orășenesc „Sfântul Ștefan” Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.122_din_29.05.2024.pdf",
+     "sha256": "1cb8dcd7b31c1131ef480c68adf807fd74712f871e86f15c96bbc31d0a0c97e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-123-2024",
+   "path": "local/gorj/rovinari/2024/123",
+   "short": "HCL Rovinari nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 123/2024 privind însușirea domeniului privat conform propunerii comisiei speciale de inventariere a domeniului public și privat constituită la nivelul unității administrativ-teritoriale oraș Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.123_din_29.05.2024.pdf",
+     "sha256": "dde5ebaee5ed94895cbe7aefe0949049c8aa990ad2d102a24339e020a4382752"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-124-2024",
+   "path": "local/gorj/rovinari/2024/124",
+   "short": "HCL Rovinari nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 124/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.124_din_29.05.2024.pdf",
+     "sha256": "b3c9f357ad56634dbf91ac30065e71135884e6e92c0245b1c196f1aeee178e84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-125-2024",
+   "path": "local/gorj/rovinari/2024/125",
+   "short": "HCL Rovinari nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 125/2024 privind acordul Consiliului Local Rovinari în vederea demarării procedurii de închiriere, prin licitație publică organizată în condițiile legii, a pergolelor de aluminiu cu acoperiș automat, proprietate publică a orașului Rovinari, situate în oraș Rovinari pe platoul Casei de Cultură Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.125_din_29.05.2024.pdf",
+     "sha256": "bda9fa8a68097e8b76dfcd4e2591fe3e4bc054eac0e13cbf70261af26c48de48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-126-2024",
+   "path": "local/gorj/rovinari/2024/126",
+   "short": "HCL Rovinari nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 126/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.126_din_29.05.2024.pdf",
+     "sha256": "2ee8fc8dcd31cc42b4ba285ecd1a2ceffaaf40ffc38f0d0c595f0dcddc306d3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-127-2024",
+   "path": "local/gorj/rovinari/2024/127",
+   "short": "HCL Rovinari nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 127/2024 privind alipirea unor imobile (terenuri) situate în extravilanul orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.127_din_29.05.2024.pdf",
+     "sha256": "5be36716ebdd8706f29b86cdd8e41aa37e3b54f52e55f425a1c4801a738f5849"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-128-2024",
+   "path": "local/gorj/rovinari/2024/128",
+   "short": "HCL Rovinari nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 128/2024 privind aprobarea contului de execuțtie al bugetului local al unității administrativ teritoriale Oraș Rovinari, al bugetului centralizat al instituțiilor publice finanțate din venituri proprii și subvenții din bugetul local al unității administrativ teritoriale Oraș Rovinari, încheiat la data de 31.03.2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.128_din_29.05.2024.pdf",
+     "sha256": "5fd985021cf4c58df12ffae82923a64c28faca4928c20ed1de06840589e6bd37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-129-2024",
+   "path": "local/gorj/rovinari/2024/129",
+   "short": "HCL Rovinari nr. 129/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 129/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din cadrul Primăriei oraș Rovinari și serviciilor publice fără personalitate juridică din subordinea Consiliului Local al Orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.129_din_29.05.2024.pdf",
+     "sha256": "bdd04b42c17ef9f65f9d4fd97f28bbd94f049a4b83c7800cb412b350e29e6053"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-13-2024",
+   "path": "local/gorj/rovinari/2024/13",
+   "short": "HCL Rovinari nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 13/2024 privind aprobarea Agendei Principalelor Manifestări Culturale pe anul 2024, a sumelor alocate pentru aceste manifestări și a sumelor pentru achiziția de servicii artistice pentru Ansamblul artistic de amatori „JIULEȚUL” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.13_din_30.01.2024.pdf",
+     "sha256": "16a78c0e70b25eda36a02e0f75472f0529ce826db2ccb9d0bb628408a75bd752"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-130-2024",
+   "path": "local/gorj/rovinari/2024/130",
+   "short": "HCL Rovinari nr. 130/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 130/2024 privind stabilirea salariilor de baza pentru personalul contractual din cadrul Clubului Sportiv „Jiul Rovinari 2016” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.130_din_29.05.2024.pdf",
+     "sha256": "f424afee37267cd1aa0022038913028d7f6aef4f1edf09bed1970874dab3646e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-131-2024",
+   "path": "local/gorj/rovinari/2024/131",
+   "short": "HCL Rovinari nr. 131/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 131/2024 pentru Societatea Servicii Publice Locale Rovinari SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.131_din_29.05.2024.pdf",
+     "sha256": "b60bfe5e87d8714436c6ac23d8cc1221581a5b5c41c3d76c4d4fed4f3ed5b83a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-132-2024",
+   "path": "local/gorj/rovinari/2024/132",
+   "short": "HCL Rovinari nr. 132/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 132/2024 pentru Societatea Serviciul de Bază Pază și Protecție SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.132_din_29.05.2024.pdf",
+     "sha256": "7d71e4ef892ad5fa2a8fa2599a3f5424773cc35378fbd560e7c6b5d9040bb7f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-133-2024",
+   "path": "local/gorj/rovinari/2024/133",
+   "short": "HCL Rovinari nr. 133/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 133/2024 privind aprobarea studiului de fezabilitate pentru obiectivul de investiții ” Digitalizarea interacțiunilor Primăriei orașului Rovinari cu cetățenii și mediul de afaceri și asigurarea de servicii publice digitale noi” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.133_din_13.06.2024.pdf",
+     "sha256": "d41af96c368e6712ad335f1b3d356900a01583141462cdf2091da7c54bedc996"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-134-2024",
+   "path": "local/gorj/rovinari/2024/134",
+   "short": "HCL Rovinari nr. 134/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 134/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.134_din_25.06.2024.pdf",
+     "sha256": "fca37c693109b0eeb15193a370680eaa6438735438aff80fae723e2b345a6c64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-135-2024",
+   "path": "local/gorj/rovinari/2024/135",
+   "short": "HCL Rovinari nr. 135/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 135/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.135_din_25.06.2024.pdf",
+     "sha256": "3d8afb817f18b4f91fea9b20a944d61ad4ccc1e09b4288743ee5a10a0985ece7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-136-2024",
+   "path": "local/gorj/rovinari/2024/136",
+   "short": "HCL Rovinari nr. 136/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 136/2024 privind aprobarea Graficului de ședințe al Consiliului Local Rovinari pentru trimestrul III al anului 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.136_din_25.06.2024.pdf",
+     "sha256": "e74629e01f146fd58e115219e0127d28f53f784cdf73609a59641f1c6e5b4b9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-137-2024",
+   "path": "local/gorj/rovinari/2024/137",
+   "short": "HCL Rovinari nr. 137/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 137/2024 privind rectificarea bugetului local al Societății Servicii Publice Locale SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.137_din_25.06.2024.pdf",
+     "sha256": "c07753a538b7ef7df48a876f6724e621ac8ebcee98bace5491d764cf9b3772f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-138-2024",
+   "path": "local/gorj/rovinari/2024/138",
+   "short": "HCL Rovinari nr. 138/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 138/2024 privind trecerea din domeniul public în domeniul privat al UATO Rovinari a mijlocului fix Sistem de colectare selectivă și valorificare a deșurilor – Phare 2004 în scopul scoaterii din functiune, casării și valorificarea acestuia în condițiile legii Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.138_din_25.06.2024.pdf",
+     "sha256": "fa77f70630975b9330b3367a67650cb20b43638e2164faa4abf09fd508f9f978"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-139-2024",
+   "path": "local/gorj/rovinari/2024/139",
+   "short": "HCL Rovinari nr. 139/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 139/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.139_din_25.06.2024.pdf",
+     "sha256": "fc55deb7ab2db9e8d6bd0c1fa6986adbb5d56782ae2d9ec431cb12af98bf4e09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-14-2024",
+   "path": "local/gorj/rovinari/2024/14",
+   "short": "HCL Rovinari nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 14/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.14_din_30.01.2024.pdf",
+     "sha256": "ec8233b35377b39f98690d2815ef65426186c6d7782c7122f30b337480e32f42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-140-2024",
+   "path": "local/gorj/rovinari/2024/140",
+   "short": "HCL Rovinari nr. 140/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 140/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.140_din_25.06.2024.pdf",
+     "sha256": "e77cbe6624a78eeb15c2319af96141488dc3d91bad6ad8feacfc69b9bbb81e08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-141-2024",
+   "path": "local/gorj/rovinari/2024/141",
+   "short": "HCL Rovinari nr. 141/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 141/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.141_din_25.06.2024.pdf",
+     "sha256": "b9711cdf6c6af0106e8a226eb1505e59fa0ea239fb56e36c1c5f450821fbd600"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-142-2024",
+   "path": "local/gorj/rovinari/2024/142",
+   "short": "HCL Rovinari nr. 142/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 142/2024 privind aprobarea listei de repartizare a unei locuințe sociale din blocul B2 (camera 18), situat în orașul Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.142_din_25.06.2024.pdf",
+     "sha256": "f9b420994866ced453d221a3f4d5be69695f558af7ad6d05fbf46cd79f3007c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-143-2024",
+   "path": "local/gorj/rovinari/2024/143",
+   "short": "HCL Rovinari nr. 143/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 143/2024 privind aprobarea constituirii Consiliului Comunitar Consultativ la nivelul Orașului Rovinari, județul Gorj și aprobarea Regulamentului de organizare și funcționare Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.143_din_25.06.2024.pdf",
+     "sha256": "23b03025731cb9f725e380463507897e5304056e02dfdf61302b0a918a367e27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-144-2024",
+   "path": "local/gorj/rovinari/2024/144",
+   "short": "HCL Rovinari nr. 144/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 144/2024 privind rectificarea bugetului local pe anul 2024 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.144_din_25.06.2024.pdf",
+     "sha256": "597a78f3fc3732c68ee0c16a9a9a4912dcea7db818c7aee35acd61e0a14d4807"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-145-2024",
+   "path": "local/gorj/rovinari/2024/145",
+   "short": "HCL Rovinari nr. 145/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 145/2024 privind modificarea art.1 și art.2 din Hotărârea Consiliului Local nr.83/15.04.2024 privind actualizarea devizului general și a indicatorilor tehnico-economici aferenți obiectivului de investiții „Reabilitare și modernizare infrastructură drumuri stradale în orașul Rovinari, județul Gorj”- rest de executat Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.145_din_25.06.2024.pdf",
+     "sha256": "b24d1ef4a378e65baa3e123a27d22ad1eab32f71d0d976745aea8dc2642ab061"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-146-2024",
+   "path": "local/gorj/rovinari/2024/146",
+   "short": "HCL Rovinari nr. 146/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 146/2024 privind inchirierea prin licitație publică organizată în condițiile legii, a pergolelor de aluminiu cu acoperiș automat, proprietate publică a orașului Rovinari, situate în oraș Rovinari, Bulevardul Minerilor, platoul Casei de Cultură Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.146_din_25.06.2024.pdf",
+     "sha256": "c5a704089c9161a4ceb251e8a67467dd85391e458f40967e0abc10b6f6b41aad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-147-2024",
+   "path": "local/gorj/rovinari/2024/147",
+   "short": "HCL Rovinari nr. 147/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 147/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici faza proiect tehnic – detalii de execuție pentru obiectivul de investiții „Lucrări de reabilitare/renovare și modernizare în vederea obținerii avizului-autorizației de securitate la incendiu – Casa de Cultură Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.147_din_25.06.2024.pdf",
+     "sha256": "b9b94b62056f2a96bf2869031b7e4ef3b2f34b6c8adfbd169afbb5225690e27b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-148-2024",
+   "path": "local/gorj/rovinari/2024/148",
+   "short": "HCL Rovinari nr. 148/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 148/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții „Statii de reîncarcare a vehiculelor electrice în orașul Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.148_din_25.06.2024.pdf",
+     "sha256": "bf43aa15453cba569050bc629621f2fc53ff0c2e4559a5a22199bdb5a4dd0b1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-149-2024",
+   "path": "local/gorj/rovinari/2024/149",
+   "short": "HCL Rovinari nr. 149/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 149/2024 privind aprobarea organigramei, statului de funcții și Regulamentele de organizare și funcționare pentru Societatea Servicii Publice Locale SRL, valabile începând cu data de 01 iulie 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.149_din_25.06.2024.pdf",
+     "sha256": "e3bebb177e5183a9c0a4a8402bba0eeff6f997b2f0c60e4478bb1f7e10ae0b14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-15-2024",
+   "path": "local/gorj/rovinari/2024/15",
+   "short": "HCL Rovinari nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 15/2024 privind utilizarea excedentului bugetului local înregistrat la data de 31.12.2023, în sumă de 18.439,54lei ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare în anul 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.15_din_30.01.2024.pdf",
+     "sha256": "95c9873e65754c5421e4171ee0c19135c1adf7795da7a99cd53edaa8e321a833"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-150-2024",
+   "path": "local/gorj/rovinari/2024/150",
+   "short": "HCL Rovinari nr. 150/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 150/2024 privind aprobarea Organigramei, Statului de funcții și Regulamentului de organizare și funcționare ale Spitalului Orășenesc „Sfântul Ștefan” Rovinari, valabile începând cu data de 01 iulie 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.150_din_25.06.2024.pdf",
+     "sha256": "baf788e65287d9929bd48a1d44f0584d2d2f0e0ea4e1c268ad7d21b88e83c35d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-151-2024",
+   "path": "local/gorj/rovinari/2024/151",
+   "short": "HCL Rovinari nr. 151/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 151/2024 privind însușirea domeniului privat conform propunerii comisiei speciale de inventariere a domeniului public și privat constituit la nivelul unității administrativ-teritoriale oraș Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.151_din_25.06.2024.pdf",
+     "sha256": "6071bff6e347fb8f0f4a838664f0949efe2c0ec083ed45e564ef680c945797bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-155-2024",
+   "path": "local/gorj/rovinari/2024/155",
+   "short": "HCL Rovinari nr. 155/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 155/2024 privind acordul Consiliului Local Rovinari în vederea demarării procedurii de concesionare, prin licitație publică organizată în condițiile legii, a terenului în suprafață de 93621 mp, înscris în cartea funciară nr.37135 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.155_din_30.07.2024.pdf",
+     "sha256": "012ceb57fffa8652a97422afedac1249d0000b45f0a83e498773df13bd89923f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-156-2024",
+   "path": "local/gorj/rovinari/2024/156",
+   "short": "HCL Rovinari nr. 156/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 156/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.156_din_30.07.2024.pdf",
+     "sha256": "f39c440e372e071b5b03b040f4bf6f184efe0ac800716a8dde6471b47fcf952a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-157-2024",
+   "path": "local/gorj/rovinari/2024/157",
+   "short": "HCL Rovinari nr. 157/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 157/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.157_din_30.07.2024.pdf",
+     "sha256": "8b5da65256247612c5f3255eaa5d8aa4254616f480b6edf8f1a8237528333ae4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-158-2024",
+   "path": "local/gorj/rovinari/2024/158",
+   "short": "HCL Rovinari nr. 158/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 158/2024 privind aprobarea vânzării locuinței cu rezerva dreptului de proprietate domnișoarei Fodor Eliza-Andreea Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.158_din_30.07.2024.pdf",
+     "sha256": "3882ed054d55fccc9d134684600d3b3dbca8925a70d1152a03c62e3e515bb60f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-159-2024",
+   "path": "local/gorj/rovinari/2024/159",
+   "short": "HCL Rovinari nr. 159/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 159/2024 privind însușirea domeniului privat conform propunerii comisiei speciale de inventariere a domeniului public și privat constituită la nivelul unității administrativ-teritoriale oraș Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.159_din_30.07.2024.pdf",
+     "sha256": "e6b394acc54fc1879ecbe47f0b849d2ce3a17a427a3e9accadd2c8b7ba703d3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-16-2024",
+   "path": "local/gorj/rovinari/2024/16",
+   "short": "HCL Rovinari nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 16/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.16_din_30.01.2024.pdf",
+     "sha256": "75401f16fabcc1788527e6bafb4b0f9290060c4f7a34d37892fb6519546f317c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-161-2024",
+   "path": "local/gorj/rovinari/2024/161",
+   "short": "HCL Rovinari nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 161/2024 privind rectificarea bugetului local pe anul 2024 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.161_din_30.07.2024.pdf",
+     "sha256": "7085941ea8af8000f8ca35126d783bd4ec52af68d9cd97a4d6816fedbeba8d1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-162-2024",
+   "path": "local/gorj/rovinari/2024/162",
+   "short": "HCL Rovinari nr. 162/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 162/2024 privind aprobarea contului de execuție al bugetului local al unității administrativ teritoriale Oraș Rovinari, al instituțiilor publice finanțate din venituri proprii și subvenții din bugetul local al unității administrativ teritoriale Oraș Rovinari, încheiat la data de 30.06.2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.162_din_30.07.2024.pdf",
+     "sha256": "ff0f53c1adbc257c6c4e847a49b79761d08269ca8e87daaa8fc7a28ae577a4b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-163-2024",
+   "path": "local/gorj/rovinari/2024/163",
+   "short": "HCL Rovinari nr. 163/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 163/2024 privind modificarea manoperei directe la Societatea Servicii Publice Locale Rovinari SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.163_din_30.07.2024.pdf",
+     "sha256": "7261a8e0090143353c4fee001d903f91809f5a096de67cfc65ba6e239ca010c5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-164-2024",
    "path": "local/gorj/rovinari/2024/164",
    "short": "HCL Rovinari nr. 164/2024",
@@ -14,6 +1004,126 @@
      "units": 6,
      "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.164_din_30.07.2024.pdf",
      "sha256": "6957226d6761d0b27cf3a6f4a0f388e55fe4230ea337de446fb857ea635c915d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-165-2024",
+   "path": "local/gorj/rovinari/2024/165",
+   "short": "HCL Rovinari nr. 165/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 165/2024 privind stabilirea salariilor de bază pentru personalul contractual din cadrul Serviciului de Iluminat Public al orașului Rovinari, serviciu cu personalitate juridică în subordinea Consiliului Local Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.165_din_30.07.2024.pdf",
+     "sha256": "3eef4fffd51abfb817c38e7e71cf7469467828ea0ba5ff1226e47260459f344a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-166-2024",
+   "path": "local/gorj/rovinari/2024/166",
+   "short": "HCL Rovinari nr. 166/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 166/2024 privind modificarea art.3 din Hotărârea Consiliului Local nr.113/21.05.2024 privind darea în administrare a depoului autobuze electrice, către Societatea Serviciul de Bază Pază și Protecție SRL pe o perioadă de 5 ani, cu posibilitatea prelungirii Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.166_din_30.07.2024.pdf",
+     "sha256": "c35acf76865c8af6bbfc1ac7e24d53bf6a47477abe722b50b81ef9794ee91fd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-167-2024",
+   "path": "local/gorj/rovinari/2024/167",
+   "short": "HCL Rovinari nr. 167/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 167/2024 privind aprobarea documentaţiei tehnico-economice (PT) şi a devizului general pentru obiectivul de investiție „Digitalizarea interacțiunilor Primăriei Orașului Rovinari cu cetățenii și mediul de afaceri și asigurarea de servicii publice digitale noi” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.167_din_30.07.2024.pdf",
+     "sha256": "7da5ea3106ad3cb37dde15a9ea76ed2e4809a8d49c9df6bcdabf08041a903520"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-168-2024",
+   "path": "local/gorj/rovinari/2024/168",
+   "short": "HCL Rovinari nr. 168/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 168/2024 privind aprobarea proiectului și a cheltuielilor legate de proiect pentru obiectivul „Digitalizarea interacțiunilor Primăriei Orașului Rovinari cu cetățenii și mediul de afaceri și asigurarea de servicii publice digitale noi” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.168_din_30.07.2024.pdf",
+     "sha256": "0bbcc8598acd2cdb3fc66caf703567cc94b7d144fec408641dd7d2ac674d54ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-17-2024",
+   "path": "local/gorj/rovinari/2024/17",
+   "short": "HCL Rovinari nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 17/2024 privind dezmembrarea terenului în suprafață de 6213 mp, avand numarul cadastral 35516, situat în orașul Rovinari, Bulevardul Minerilor, nr.2, județul Gorj, în două loturi Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.17_din_30.01.2024.pdf",
+     "sha256": "9f750912e6220d48bb7b7b93f5e45c73542ff6f27645264c146bf81d35d7a804"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-170-2024",
+   "path": "local/gorj/rovinari/2024/170",
+   "short": "HCL Rovinari nr. 170/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 170/2024 privind privind rectificarea bugetului local pe anul 2024 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.170_din_14.08.2024.pdf",
+     "sha256": "23dbc8b355a039705e7c09bcab658bc3356528bccab6ba53b1a771225b0cbdb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-171-2024",
+   "path": "local/gorj/rovinari/2024/171",
+   "short": "HCL Rovinari nr. 171/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 171/2024 privind aprobarea sediului secundar/punct de lucru pentru Societatea Servicii Publice Locale Rovinari SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.171_din_14.08.2024.pdf",
+     "sha256": "c1ab7ce8b4ed474867ef3ddf8a207f8a39bb6bd5baa5809a2183e8a355c0df28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-172-2024",
+   "path": "local/gorj/rovinari/2024/172",
+   "short": "HCL Rovinari nr. 172/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 172/2024 privind aprobarea tarifelor ce vor fi practicate de Societatea Servicii Publice Locale Rovinari SRL precum și aprobarea Regulamentului de organizare și funcționare al Ștrandului din orașul Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.172_din_14.08.2024.pdf",
+     "sha256": "cbced94ac3dee0824138a869d1914754b2d72b999bc6b15abbec5e904f36f9d8"
     }
    ]
   },
@@ -33,6 +1143,81 @@
    ]
   },
   {
+   "slug": "hcl-gorj--rovinari-174-2024",
+   "path": "local/gorj/rovinari/2024/174",
+   "short": "HCL Rovinari nr. 174/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 174/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.174_din_28.08.2024.pdf",
+     "sha256": "e90fe82ed67049e6011f93504d42586f82786bd483ca16542a45a2ac30c56102"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-175-2024",
+   "path": "local/gorj/rovinari/2024/175",
+   "short": "HCL Rovinari nr. 175/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 175/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.175_din_28.08.2024.pdf",
+     "sha256": "6e39794ed9c0c9a8b272eefa779c58905278aa78518661fa6af71603a5201b59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-176-2024",
+   "path": "local/gorj/rovinari/2024/176",
+   "short": "HCL Rovinari nr. 176/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 176/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.176_din_28.08.2024.pdf",
+     "sha256": "8c5672e381de739ea6f7565dfdd78f56276b5089be53ab18fe5d40ecaee85b56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-177-2024",
+   "path": "local/gorj/rovinari/2024/177",
+   "short": "HCL Rovinari nr. 177/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 177/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.177_din_28.08.2024.pdf",
+     "sha256": "4bbe75afd1a31b0cdd5f24bdbf69a149045e5f042237564d0aec88254f19f218"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-178-2024",
+   "path": "local/gorj/rovinari/2024/178",
+   "short": "HCL Rovinari nr. 178/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 178/2024 privind recompensarea elevilor pentrn rezultate deosebite obținute la examenul de Evaluare Națională – sesiunea iunie 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.178_din_28.08.2024.pdf",
+     "sha256": "2990265b8d51ab0bbf2ffbc490b1c27fee8188731a44dc8cf392ee7d4879a3e3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-179-2024",
    "path": "local/gorj/rovinari/2024/179",
    "short": "HCL Rovinari nr. 179/2024",
@@ -44,6 +1229,921 @@
      "units": 1,
      "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.179_din_28.08.2024.pdf",
      "sha256": "813a9a5e447a6597a66f3d522bb195dc2e6d466a09f7f111211f3c9aa4a8c321"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-18-2024",
+   "path": "local/gorj/rovinari/2024/18",
+   "short": "HCL Rovinari nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 18/2024 privind validarea Dispoziției primarului nr. 1.356/20.12.2023 privind rectificarea bugetului local pe anul 2023 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.18_din_30.01.2024.pdf",
+     "sha256": "1db9754c4343060defe7358e494c1de10cec3b68b3109f6f6b95200de4cfb6a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-180-2024",
+   "path": "local/gorj/rovinari/2024/180",
+   "short": "HCL Rovinari nr. 180/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 180/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.180_din_28.08.2024.pdf",
+     "sha256": "db663450f741faf38d70552f47058dce1c94de67826369e7342c2383c3407643"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-181-2024",
+   "path": "local/gorj/rovinari/2024/181",
+   "short": "HCL Rovinari nr. 181/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 181/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.181_din_28.08.2024.pdf",
+     "sha256": "cf50a5d1be87b390d30e274771e5eb7c8f6d426732d609bfb6f5254e346f0568"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-182-2024",
+   "path": "local/gorj/rovinari/2024/182",
+   "short": "HCL Rovinari nr. 182/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 182/2024 privind concesionarea către SC SIUDOR SRL a spațiului nr.2, în suprafață totală de 35,25 mp, din imobilul „internat” al Liceului „Gheorghe Tătărescu” Rovinari, situat în oraș Rovinari,s tr.Jiului, nr.6, jud.Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.182_din_28.08.2024.pdf",
+     "sha256": "95cf1abd6f4926f023467b41c307d6596db8e836ce9b50ef9aa31b1ff365bf73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-183-2024",
+   "path": "local/gorj/rovinari/2024/183",
+   "short": "HCL Rovinari nr. 183/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 183/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.183_din_28.08.2024.pdf",
+     "sha256": "ce7d4d365dc0f413c54003ba45b1d67bfe06560cc62fd24c59090df15205e972"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-184-2024",
+   "path": "local/gorj/rovinari/2024/184",
+   "short": "HCL Rovinari nr. 184/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 184/2024 privind concesionarea către SC NEUROHEALING SRL a spațiului nr.4, în suprafață totală de 35,25 mp, din imobilul „internat” al Liceului „Gheorghe Tătărescu” Rovinari, situat în oraș Rovinari, str.Jiului, nr.6, jud.Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.184_din_28.08.2024.pdf",
+     "sha256": "43907bb6a126a8442bba5fd0c8752d78f1220c9c84ab6f8672ada38cc33be623"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-185-2024",
+   "path": "local/gorj/rovinari/2024/185",
+   "short": "HCL Rovinari nr. 185/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 185/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.185_din_28.08.2024.pdf",
+     "sha256": "d001d28503a15685248fb48b1c3fea25fc1f6a3aea3fe05c496f5078e998e7f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-186-2024",
+   "path": "local/gorj/rovinari/2024/186",
+   "short": "HCL Rovinari nr. 186/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 186/2024 privind concesionarea către SC Sonomed Fox SRL a spațiului nr.6, în suprafață totală de 35,25 mp, din imobilul „internat” al Liceului „Gheorghe Tătiărescu” Rovinari, situat în oraș Rovinari, str.Jiului, nr.6, jud.Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.186_din_28.08.2024.pdf",
+     "sha256": "6781e229ffdaf3abdcb2f3226052c9276fcde81053511d536b55973a083f6b44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-187-2024",
+   "path": "local/gorj/rovinari/2024/187",
+   "short": "HCL Rovinari nr. 187/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 187/2024 privind concesionarea către SC Radent Estetique&RX 3D SRL a spațiului nr.7, în suprafață totală de 35,25 mp, din imobilul „internat” al Liceului „Gheorghe Tiitiirescu” Rovinari, situat în oraș Rovinari, str.Jiului, nr.6, jud.Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.187_din_28.08.2024.pdf",
+     "sha256": "aa1fcca9588c0ce05fbd0e14b0c8f9d228b06b3c169376332261d5f4556f2735"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-188-2024",
+   "path": "local/gorj/rovinari/2024/188",
+   "short": "HCL Rovinari nr. 188/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 188/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.188_din_28.08.2024.pdf",
+     "sha256": "a200eaca4646054e66cabbb2d5a64001f5b6ae9666413b7463215aca1d254f70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-189-2024",
+   "path": "local/gorj/rovinari/2024/189",
+   "short": "HCL Rovinari nr. 189/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 189/2024 privind concesionarea către SC Ortoclinic Bones SRL a spațiului nr.10, în suprafață totalăde 35,25 mp, din imobilul „internat” al Liceului „Gheorghe Tătărescu” Rovinari, situat în oraș Rovinari, str.Jiului, nr.6, jud.Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.189_din_28.08.2024.pdf",
+     "sha256": "3092d3dd41001a5db128e1d19df3a2fdf585c93dbff397ee8aa1060c371e69bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-19-2024",
+   "path": "local/gorj/rovinari/2024/19",
+   "short": "HCL Rovinari nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 19/2024 privind actualizarea devizului general a indicatorilor tebnico-economici aferenți obiectivului de investiții „Amenajare parcare de reședință în zona bloc P7” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.19_din_30.01.2024.pdf",
+     "sha256": "bda36ff19b28c1a420d7776a13ddf86c30f59e3ece44901257aeda3489fdae16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-190-2024",
+   "path": "local/gorj/rovinari/2024/190",
+   "short": "HCL Rovinari nr. 190/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 190/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.190_din_28.08.2024.pdf",
+     "sha256": "472b2b49e587d1b28971b3d7912b13083733f05e86c73cc801c713d002cba8c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-191-2024",
+   "path": "local/gorj/rovinari/2024/191",
+   "short": "HCL Rovinari nr. 191/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 191/2024 privind concesionarea către Cabinet individual de Psihologie Plăsăirin Marinela a spațiului nr.14, în suprafață totală de 35,25 mp, din imobilul „internat” al Liceului „Gheorghe Tătărescu” Rovinari, situat în oraș Rovinari, str.Jiului, nr.6, jud.Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.191_din_28.08.2024.pdf",
+     "sha256": "39521543a2e9fe3e84d7dac831488144beebb88b481ed77aa5e0e19599ba53fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-192-2024",
+   "path": "local/gorj/rovinari/2024/192",
+   "short": "HCL Rovinari nr. 192/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 192/2024 privind privind concesionarea către SC Saude Med SRL a spațiului nr.16, în suprafață totală de 35,25 mp, din imobilul „internat” al Liceului „Gheorghe Tătărescu” Rovinari, situat în oraș Rovinari, str.Jiului, nr.6, jud.Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.192_din_28.08.2024.pdf",
+     "sha256": "e8ac976f490fb2cb54d97ff57fbd49c82bd2f32e87e8f41d66a2c85b3b6536bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-193-2024",
+   "path": "local/gorj/rovinari/2024/193",
+   "short": "HCL Rovinari nr. 193/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 193/2024 privind aprobarea organigramei și statului de funcții pentru aparatul de specialitate al Primarului orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.193_din_28.08.2024.pdf",
+     "sha256": "5f3b29baea1faccec281d501ff4df7d2def2fd75c53e0658ca6deda2368d7984"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-194-2024",
+   "path": "local/gorj/rovinari/2024/194",
+   "short": "HCL Rovinari nr. 194/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 194/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.194_din_28.08.2024.pdf",
+     "sha256": "0fa2980b363eef5cfcdbe7af5643cbc45b3601c869f6aa1f3970a15e300c2e3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-195-2024",
+   "path": "local/gorj/rovinari/2024/195",
+   "short": "HCL Rovinari nr. 195/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 195/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.195_din_28.08.2024.pdf",
+     "sha256": "79f33d601865fcf9b222fd6c0f24f5702f53f4ccc4845bc2d066fcd56d677407"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-196-2024",
+   "path": "local/gorj/rovinari/2024/196",
+   "short": "HCL Rovinari nr. 196/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 196/2024 privind încetarea dării în administrare a unui număr de 26 de platforme de gunoi atribuite către ADIS Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.196_din_28.08.2024.pdf",
+     "sha256": "10bfe095d09fc8cac8a17378cac31b3d7792ab67bb2e12ad9cb15b76b29ec0d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-197-2024",
+   "path": "local/gorj/rovinari/2024/197",
+   "short": "HCL Rovinari nr. 197/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 197/2024 privind darea în folosință gratuită a unui numar de 6 camere situate la parter și etajul 1, în suprafata de 190,45 mp din imobilul „internat” al Liceului „Gheorghe Tatarescu” Rovinari, situat în oraș Rovinari, str.Jiului, nr.6, jud.Gorj, către Inspectoratul de Jandarmi Județean „Tudor Vladimirescu” Gorj – Secția de Jandarmi Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.197_din_28.08.2024.pdf",
+     "sha256": "60e420dda1c2b0a0159ee6c42a796c8f23d51754aca8015efd23fb74e1d6f519"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-198-2024",
+   "path": "local/gorj/rovinari/2024/198",
+   "short": "HCL Rovinari nr. 198/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 198/2024 privind aprobarea indicatorilor tehnico-economici si a cofinantarii proiectului: ,PROIECTUL REGIONAL DE DEZVOLTARE A INFRASTRUCTURII DE APA I APA UZATA IN JUDETUL GORJ” Studiu de fezabilitate – revizuit 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.198_din_28.08.2024.pdf",
+     "sha256": "19b1bb89480f3eb7f401536eaf4cc0840986c01c523c15a28078fbbf866727ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-199-2024",
+   "path": "local/gorj/rovinari/2024/199",
+   "short": "HCL Rovinari nr. 199/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 199/2024 privind rectificarea bugetului local pe anul 2024 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.199_din_28.08.2024.pdf",
+     "sha256": "c8e3f4b26870ebb2e2274c366efee68c2e405fb85c280c0cbe1eff40450944bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-200-2024",
+   "path": "local/gorj/rovinari/2024/200",
+   "short": "HCL Rovinari nr. 200/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 200/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.200_din_25.09.2024.pdf",
+     "sha256": "40ac83ef835acf965336df8c17c194895e2efcaf13fdc90a1550b3082b0e047e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-201-2024",
+   "path": "local/gorj/rovinari/2024/201",
+   "short": "HCL Rovinari nr. 201/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 201/2024 privind demararea procedurii de concesionare, prin licitație publică organizată în condițiile legii, a terenului în suprafață de 1368mp cu număr cadastral37057, situat în intravilanul orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.201_din_25.09.2024.pdf",
+     "sha256": "1e17dcbb531c16b4aa0127b4f304a2e3a5962cd7f6c52ff7789752b7103f3bc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-203-2024",
+   "path": "local/gorj/rovinari/2024/203",
+   "short": "HCL Rovinari nr. 203/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 203/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.203_din_25.09.2024.pdf",
+     "sha256": "ce56d67faf74ea31bd030e6b922d9c8571e3d99d7821b92c9d7f30b15cbef311"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-204-2024",
+   "path": "local/gorj/rovinari/2024/204",
+   "short": "HCL Rovinari nr. 204/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 204/2024 privind aprobarea participării primarului orașului Rovinari la Târgul Smart City Expo World Congress Barcelona, în perioada 04-08 noiembrie 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.204_din_25.09.2024.pdf",
+     "sha256": "8b016b25776d2c7950bd346946ad966d1e62e552f3b98a3f136b4c11a72e8998"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-205-2024",
+   "path": "local/gorj/rovinari/2024/205",
+   "short": "HCL Rovinari nr. 205/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 205/2024 privind aprobarea Planului de dezvoltare a serviciilor sociale de prevenire a separării copilului de familie pe anul 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.205_din_25.09.2024.pdf",
+     "sha256": "35661aa4c88188a891eb2abc67c506634bf1e4337662ced10e3613a7feb8de7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-206-2024",
+   "path": "local/gorj/rovinari/2024/206",
+   "short": "HCL Rovinari nr. 206/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 206/2024 privind actualizarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții „Extindere conductă de distribuție gaze naturale RP în localitatea Vârț, str. Vârț, jud.Gorj”, ce va fi realizat prin Programul național de investiții „Anghel Saligny”- Sistem de alimentare cu gaze naturale în localitatea Vârț Oraș Rovinari, Județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.206_din_25.09.2024.pdf",
+     "sha256": "1e164aeb96a0eb8e9d6772dc612195354d46d8cdbc0f279ed9be48afef7e2ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-207-2024",
+   "path": "local/gorj/rovinari/2024/207",
+   "short": "HCL Rovinari nr. 207/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 207/2024 privind rectificarea bugetului local pe anul 2024 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.207_din_25.09.2024.pdf",
+     "sha256": "6e5f5348deff948e6d9917b11bb0ab177f4efa4fce5b9d8f5bae63a5d44c567b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-208-2024",
+   "path": "local/gorj/rovinari/2024/208",
+   "short": "HCL Rovinari nr. 208/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 208/2024 privind aprobarea contractării unui împrumut în valoare de 3.239.805 lei, în conformitate cu prevederile art. I din Ordonanța de urgență a Guvernului nr. 35/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, precum și pentru modificarea și completarea unor acte normative aferente reprezentării statului în litigiile arbitrale și judiciare internaționale și concesionării proprietății p",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.208_din_25.09.2024.pdf",
+     "sha256": "5b8a5be6bfc177e50e70c81647b77b30d0b4e5e0058d07120a741c03128de259"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-209-2024",
+   "path": "local/gorj/rovinari/2024/209",
+   "short": "HCL Rovinari nr. 209/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 209/2024 privind alocarea din bugetul local a sumei de 129900 cu TVA pentru „Ziua Internațională a Persoanelor Vârstnice” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.209_din_25.09.2024.pdf",
+     "sha256": "ad8b70b1ea656d0ced214be2a8e216ed723f31aaa20eeaf66ade0eed99f312bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-21-2024",
+   "path": "local/gorj/rovinari/2024/21",
+   "short": "HCL Rovinari nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 21/2024 privind aprobarea organigramei și statului de funcții pentru aparatul de specialitate al Primarului orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.21_din_12.02.2024.pdf",
+     "sha256": "416d1fca34d75b634c4f4d96551e83ffba13413dcca7a79c33d9f324348c5d95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-210-2024",
+   "path": "local/gorj/rovinari/2024/210",
+   "short": "HCL Rovinari nr. 210/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 210/2024 privind organizarea comisiilor pe domenii de specialitate ale Consiliului Local al oraşului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.210_din_14.10.2024.pdf",
+     "sha256": "ec9affa450f87d9d004c42a562b6adf6288d643c943bc13e632aa4a21207b78d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-211-2024",
+   "path": "local/gorj/rovinari/2024/211",
+   "short": "HCL Rovinari nr. 211/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 211/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.211_din_14.10.2024.pdf",
+     "sha256": "46a81ef1f0f4c11b3d070a1e6beebc52c43004648b0176f61ba09d5e081ebf49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-212-2024",
+   "path": "local/gorj/rovinari/2024/212",
+   "short": "HCL Rovinari nr. 212/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 212/2024 privind aprobarea Graficului de ședințe al Consiliului Local Rovinari pentru trimestrul IV al anului 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.212_din_14.10.2024.pdf",
+     "sha256": "5d6b09a69fec4013e6631318f522ee8cbe28bbae9cfffdb4ebece82afd86ae7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-214-2024",
+   "path": "local/gorj/rovinari/2024/214",
+   "short": "HCL Rovinari nr. 214/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 214/2024 privind aprobarea organizării și desfășurării evenimentului cultural-artistic „Festivalul Toamnă, natură și culoare Rovinari – 2024” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.214_din_14.10.2024.pdf",
+     "sha256": "8fc16bd6384a1c1bcf19940f21cd716cc77da2021767c6335e87371b053d9343"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-215-2024",
+   "path": "local/gorj/rovinari/2024/215",
+   "short": "HCL Rovinari nr. 215/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 215/2024 privind desemnarea reprezentanților Consiliului Local in Consiliul de Administrație al Liceului „Gheorghe Tătărescu” pentru anul școlar 2024-2025 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.215_din_30.10.2024.pdf",
+     "sha256": "7734271617b3da84d38acb4012d9a0470a8b3356ebcaec934888f63ac599e00e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-216-2024",
+   "path": "local/gorj/rovinari/2024/216",
+   "short": "HCL Rovinari nr. 216/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 216/2024 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Gradiniței cu Program Prelungit Rovinari pentru anul școlar 2024-2025 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.216_din_30.10.2024.pdf",
+     "sha256": "41e2a0aa545c96e3fff4a58ba3ad89c241d9ca578aaf8e7742f1554f58937ba5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-217-2024",
+   "path": "local/gorj/rovinari/2024/217",
+   "short": "HCL Rovinari nr. 217/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 217/2024 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Școlii Gimnaziale nr.3 Rovinari pentru anul școlar 2024-2025 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.217_din_30.10.2024.pdf",
+     "sha256": "8f19f80656a4edbb037534acbe263022556207bbb2d222672ba7ec760195c935"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-218-2024",
+   "path": "local/gorj/rovinari/2024/218",
+   "short": "HCL Rovinari nr. 218/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 218/2024 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Școlii Gimnaziale nr.1 Rovinari pentru anul școlar 2024-2025 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.218_din__30.10.2024.pdf",
+     "sha256": "ec126c75553f03cbd41a4219a593d3b296962c5b6cf6a8a401caf4f7ac646de1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-219-2024",
+   "path": "local/gorj/rovinari/2024/219",
+   "short": "HCL Rovinari nr. 219/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 219/2024 privind desemnarea reprezentantului Consiliului Local în Comisia pentru Evaluarea și Asigurarea Calității la Liceul „Gheorghe Tătărescu” pentru anul școlar 2024-2025 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.219_din_30.10.2024.pdf",
+     "sha256": "916472dc128db3b2f83b84f3f2e7557d9bc8a502e2db446261ae9a1683509f35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-22-2024",
+   "path": "local/gorj/rovinari/2024/22",
+   "short": "HCL Rovinari nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 22/2024 privind aprobarea Bugetului local de venituri și cheltuieli al UATO ROVINARI pe anul 2024 și estimări pe anii 2025-2027, Bugetul centralizat al instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2024 și estimări pe anii 2025-2027 și a Programului de investiții pe anul 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.22_din_12.02.2024.pdf",
+     "sha256": "58a2bfcd246d1e8989b29a983ff706c17ffc50ba028f9d4d0e8b55e3a976e583"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-220-2024",
+   "path": "local/gorj/rovinari/2024/220",
+   "short": "HCL Rovinari nr. 220/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 220/2024 privind desemnarea reprezentantului Consiliului Local în Comisia pentru Evaluarea și Asigurarea Calității la Școala Gimnazială Nr.3 Rovinari pentru anul școlar 2024-2025 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.220_din_30.10.2024.pdf",
+     "sha256": "a743b322351d2d61624f531a54509dd6b3d1fc4e1fa8f4088bb80e881f15ad54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-221-2024",
+   "path": "local/gorj/rovinari/2024/221",
+   "short": "HCL Rovinari nr. 221/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 221/2024 privind desemnarea reprezentantului Consiliului Local în Comisia pentru Evaluarea și Asigurarea Calității la Școala Gimnazială Nr.1 Rovinari pentru anul școlar 2024-2025 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.221_din_30.10.2024.pdf",
+     "sha256": "3452a7d17edcb2ce16b343d943ffc86d08b54422851991daf9bac49631f58ee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-222-2024",
+   "path": "local/gorj/rovinari/2024/222",
+   "short": "HCL Rovinari nr. 222/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 222/2024 privind actualizarea Consiliului tehnico-economic Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.222_din_30.10.2024.pdf",
+     "sha256": "672900244fc341418b9ba0e553d9a7f7781beea85fc0e06d6b6f0af851a12923"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-223-2024",
+   "path": "local/gorj/rovinari/2024/223",
+   "short": "HCL Rovinari nr. 223/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 223/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.223_din_30.10.2024.pdf",
+     "sha256": "7a9f0a2033c85462040df1ed3ba006978460833b35ea4c4e9790ba07cf701cd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-225-2024",
+   "path": "local/gorj/rovinari/2024/225",
+   "short": "HCL Rovinari nr. 225/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 225/2024 privind aprobarea raportului de evaluare nr.334/27.09.2024/36832/27.09.2024, întocmit de SC Consulting Company SRL, pentru stabilirea valorii de piață a terenului intravilan în suprafață de 1368 mp, cu număr cadastral37057, situat în orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.225_din_30.10.2024.pdf",
+     "sha256": "aaf9d78b4ee9b23e4796fefd7fc55b1ac4cbea0ee938f0c70f2b1ab124493a0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-226-2024",
+   "path": "local/gorj/rovinari/2024/226",
+   "short": "HCL Rovinari nr. 226/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 226/2024 privind aprobarea raportului de evaluare nr.332/26.09.2024/36819/27.09.2024, întocmit de SC Consulting Company SRL, pentru stabilirea valorii de piață a terenului în suprafață de 93621 mp, teren parțial intravilan, cu număr cadastral 37135, în vederea concesionării Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.226_din_30.10.2024.pdf",
+     "sha256": "602337c22c396b9e10d7b5e17c3394f208478f2c7c3b33a05aa48f036a34e659"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-227-2024",
+   "path": "local/gorj/rovinari/2024/227",
+   "short": "HCL Rovinari nr. 227/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 227/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.227_din_30.10.2024.pdf",
+     "sha256": "acaeb6e15eb6f7a7baf6ef5e989456fb3562bdb647febc6c8b2fd22a37926ab1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-228-2024",
+   "path": "local/gorj/rovinari/2024/228",
+   "short": "HCL Rovinari nr. 228/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 228/2024 privind aprobarea listei solicitanților de locuințe pentru tineri în regim ANL și aprobarea listei de priorități rezultată în urma departajării, conform criteriilor cadru de ierarhizare prin punctaj, în vederea repartizării locuințelor pentru tineri, destinate închirierii, pentru locuințele construite de către Agenția Națională pentru Locuințe Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.228_din_30.10.2024.pdf",
+     "sha256": "6bafee828c4d17df6569d725a7459edb12a6275630310008acdc3edd3c844f01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-229-2024",
+   "path": "local/gorj/rovinari/2024/229",
+   "short": "HCL Rovinari nr. 229/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 229/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.229_din_30.10.2024.pdf",
+     "sha256": "ee841326e8dc527dffa940053c1723226d6755628d595201a7f623f054c3a5f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-230-2024",
+   "path": "local/gorj/rovinari/2024/230",
+   "short": "HCL Rovinari nr. 230/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 230/2024 privind aprobarea listei de repartizare a unei locuințe sociale din blocul B2 (camera 11, parter), situat în orașul Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.230_din_30.10.2024.pdf",
+     "sha256": "fddb320903dffd39058c5687990f438fe64ef011455cf4307ca5c1d2a04be330"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-231-2024",
+   "path": "local/gorj/rovinari/2024/231",
+   "short": "HCL Rovinari nr. 231/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 231/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.231_din_30.10.2024.pdf",
+     "sha256": "e3c2eb9d72b1987ed34f1b1bda902a2deb261d4a504ebefd1d6dc0ee88c1e102"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-232-2024",
+   "path": "local/gorj/rovinari/2024/232",
+   "short": "HCL Rovinari nr. 232/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 232/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.232_din_30.10.2024.pdf",
+     "sha256": "b8858a28f63a02b5e29dd072e8b44e1fe00d00b09d535dbf11f68b2e0c4534a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-233-2024",
+   "path": "local/gorj/rovinari/2024/233",
+   "short": "HCL Rovinari nr. 233/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 233/2024 privind aprobarea statului de funcții pentru Spitalul Orășenesc „Sfântul Ștefan” Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.233_din_30.10.2024.pdf",
+     "sha256": "194299260582864ccbd12c894206b8eef695a3a87f3e5925b9ff421b9ce1ac46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-234-2024",
+   "path": "local/gorj/rovinari/2024/234",
+   "short": "HCL Rovinari nr. 234/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 234/2024 privind aprobarea organigramei și statului de funcții pentru aparatul de specialitate al Primarului orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.234_din_30.10.2024.pdf",
+     "sha256": "5e051cca503cbd80e256839617563fd49f9855b10dbc137e24b637c1d8d0a76e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-235-2024",
+   "path": "local/gorj/rovinari/2024/235",
+   "short": "HCL Rovinari nr. 235/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 235/2024 privind rectificarea bugetului local pe anul 2024 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.235_din_30.10.2024.pdf",
+     "sha256": "8ee66e6d11f3d241dc1c5d88768227932c363ffa4ac048506d407a55e990b853"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-236-2024",
+   "path": "local/gorj/rovinari/2024/236",
+   "short": "HCL Rovinari nr. 236/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 236/2024 privind validarea Dispoziției primarului nr.1131/22.10.2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.236_din_30.10.2024.pdf",
+     "sha256": "d4ff55c90d7e678f719b7babc827ab069976affdae1babc097d69cd88f63542d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-237-2024",
+   "path": "local/gorj/rovinari/2024/237",
+   "short": "HCL Rovinari nr. 237/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 237/2024 privind aprobarea contului de execuție al bugetului local al unității administrativ teritoriale Oraș Rovinari, al instituțiilor publice finanțate din venituri proprii și subvenții din bugetul local al unității administrativ teritoriale Oraș Rovinari, încheiat la data de 30.09.2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.237_din_30.10.2024.pdf",
+     "sha256": "f60a0e62ae0e3691c3b6fc54b5d91061a8266637762a68e89a726c0730cfcc32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-238-2024",
+   "path": "local/gorj/rovinari/2024/238",
+   "short": "HCL Rovinari nr. 238/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 238/2024 privind aprobarea Programului operativ al pregătirilor de iarnă 2024-2025 pe raza orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.238_din_30.10.2024.pdf",
+     "sha256": "820b33a2b66d3e1f7d8041cb5219fcf3de6c967b2670ce425c8057744015cf71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-239-2024",
+   "path": "local/gorj/rovinari/2024/239",
+   "short": "HCL Rovinari nr. 239/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 239/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.239_din_30.10.2024.pdf",
+     "sha256": "74c1e194b58bbcd775318e59ec647c88392b20dd148dc647a7cbf906567d9e83"
     }
    ]
   },
@@ -63,6 +2163,96 @@
    ]
   },
   {
+   "slug": "hcl-gorj--rovinari-240-2024",
+   "path": "local/gorj/rovinari/2024/240",
+   "short": "HCL Rovinari nr. 240/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 240/2024 privind completarea art.2 din Hotărârea Consiliului Local Rovinari nr.210/14.10.2024 privind organizarea comisiilor pe domenii de specialitate ale Consiliului Local al orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.240_din_30.10.2024.pdf",
+     "sha256": "9bc76d487dda1fe59a0d8edba91bb28d824bf18e026f634974cb67c4adc3cdb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-242-2024",
+   "path": "local/gorj/rovinari/2024/242",
+   "short": "HCL Rovinari nr. 242/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 242/2024 privind stabilirea nivelurilor pentru valorile impozabile pentru anul 2025 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.242_din_28.11.2024.pdf",
+     "sha256": "932248885e94c9ee9cd8a0de4e942594c55fdcb2927eeb3a3dd4f92636aa2663"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-244-2024",
+   "path": "local/gorj/rovinari/2024/244",
+   "short": "HCL Rovinari nr. 244/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 244/2024 privind constituirea Societății Servicii Publice Locale Rovinari SRL; -HCL nr.173/31.10.2023 privind modificarea Hotărârilor Consiliului Local nr.129/23.08.2023 și 188/28.09.2022; -Prevederile art. 129 alin. 2 lit. a), alin.3 lit.d) din Ordonanța de Urgență a Guvernului nr.57/2019 privind Codul Administrativ, cu modificările și completările ulterioare; -Prevederile art.110 și urm. din Legea nr.31/",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.244_din_28.11.2024.pdf",
+     "sha256": "b6c03d1146450835c47e8c07b482b9b28ebacc1b2655fd7b53a0f42b9fc1ae09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-245-2024",
+   "path": "local/gorj/rovinari/2024/245",
+   "short": "HCL Rovinari nr. 245/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 245/2024 privind constituirea Societății Serviciul de Bază Pază și Protecție SRL; -HCL nr.174/31.10.2023 privind modificarea și completarea Hotărârilor Consiliului Local nr.130/23.08.2023, nr.189/28.09.2022 și nr.207/25.11.2021 -Prevederile art. 129 alin. 2 lit. a), alin.3 lit.d) din Ordonanța de Urgență a Guvernului nr.57/2019 privind Codul Administrativ, cu modificările și completările ulterioare; -Preve",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.245_din_28.11.2024.pdf",
+     "sha256": "37e3b616325356a7159e0aca054ab4a222b0484440cee48aa79bc510924e6154"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-248-2024",
+   "path": "local/gorj/rovinari/2024/248",
+   "short": "HCL Rovinari nr. 248/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 248/2024 privind validarea Dispoziției primarului nr.1416/12.11.2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.248_din_28.11.2024.pdf",
+     "sha256": "c4f1a50d2d492d76866f140b913beecaf7b9acd4eba988021df9cac7d560f035"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-25-2024",
+   "path": "local/gorj/rovinari/2024/25",
+   "short": "HCL Rovinari nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 25/2024 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local Rovinari pentru anul 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.25_din_27.02.2024.pdf",
+     "sha256": "107fb010395f5480dcd780fc56c6ff582df47e9246e16ee638477e7b7b39a65e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-250-2024",
    "path": "local/gorj/rovinari/2024/250",
    "short": "HCL Rovinari nr. 250/2024",
@@ -74,6 +2264,66 @@
      "units": 1,
      "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.250_din_28.11.2024.pdf",
      "sha256": "78465fb1ad1d9c0cab9ec1ba863823d1755fbcdcedac5e2bea875ebe776ca152"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-256-2024",
+   "path": "local/gorj/rovinari/2024/256",
+   "short": "HCL Rovinari nr. 256/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 256/2024 privind rectificarea bugetului local pe anul 2024 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.256_din_28.11.2024.pdf",
+     "sha256": "807e2992d7f414045dd180f9f312a3df292c47b8ef50f12c73a8052f055efb3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-257-2024",
+   "path": "local/gorj/rovinari/2024/257",
+   "short": "HCL Rovinari nr. 257/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 257/2024 privind aprobarea indicatorilor tehnico-economici, a documentației Studiu de fezabilitate și a devizului general pentru obiectivul de investiții „Instalarea unui număr de 6 stații de reîncărcare a vehiculelor electrice în orașul Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.257_din_28.11.2024.pdf",
+     "sha256": "775a0d2bf6420a2990e08ae902024837f7cfc2d25ba439f1e138a17194f29270"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-258-2024",
+   "path": "local/gorj/rovinari/2024/258",
+   "short": "HCL Rovinari nr. 258/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 258/2024 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul familiei ocupaționale ”Administrație” din cadrul Primăriei oraș Rovinari și serviciilor publice, fără personalitate juridică, din subordinea Consiliului Local al Orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.258_din_28.11.2024.pdf",
+     "sha256": "e999c76b6cee1a88f4f1e927049faae5f6213595dc2e94fac1f2d3a6838bbc51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-259-2024",
+   "path": "local/gorj/rovinari/2024/259",
+   "short": "HCL Rovinari nr. 259/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 259/2024 privind stabilirea salariilor de baza pentru personalul contractual din cadrul Clubului Sportiv ”Jiul Rovinari 2016” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.259_din_28.11.2024.pdf",
+     "sha256": "4a956a58ac0de3a5cde6b94f2f92232a509bc08025e5227573a49664523f4630"
     }
    ]
   },
@@ -93,6 +2343,141 @@
    ]
   },
   {
+   "slug": "hcl-gorj--rovinari-260-2024",
+   "path": "local/gorj/rovinari/2024/260",
+   "short": "HCL Rovinari nr. 260/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 260/2024 privind stabilirea salariilor de baza pentru personalul contractual din cadrul Serviciului de Iluminat Public al orașului Rovinari, serviciu cu personalitate juridică în subordinea Consiliului Local Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.260_din_28.11.2024.pdf",
+     "sha256": "97af3bbc731c34a7479821326395a8f03e813340f930bac39f6485e84cd06976"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-261-2024",
+   "path": "local/gorj/rovinari/2024/261",
+   "short": "HCL Rovinari nr. 261/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 261/2024 privind aprobarea organigramei și statului de funcții pentru Societatea Serviciul de Bază Pază și Protecție SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.261_din_28.11.2024.pdf",
+     "sha256": "7c96d2380447faddfa7dec417756b7ee489c9288f0c317c259420dc2dc12361a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-265-2024",
+   "path": "local/gorj/rovinari/2024/265",
+   "short": "HCL Rovinari nr. 265/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 265/2024 privind aprobarea Graficului de ședințe al Consiliului Local Rovinari pentru trimestrul I al anului 2025 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.265_din_18.12.2024.pdf",
+     "sha256": "6e09577d54834debad7dcb957f3c2d9939df11606f964a76edb2c1257f9713ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-266-2024",
+   "path": "local/gorj/rovinari/2024/266",
+   "short": "HCL Rovinari nr. 266/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 266/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.266_din_18.12.2024.pdf",
+     "sha256": "82a56b97df95a5cab14379a260a4faa8c66b04dd1d5a37f16fc0b3b15ac7d015"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-267-2024",
+   "path": "local/gorj/rovinari/2024/267",
+   "short": "HCL Rovinari nr. 267/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 267/2024 privind validarea Dispoziției primarului nr.1616/06.12.2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.267_din_18.12.2024.pdf",
+     "sha256": "60942c86d38f67ff7c598a3c7315bd0131d2f8cd376caf571a133e27f4a3c89a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-268-2024",
+   "path": "local/gorj/rovinari/2024/268",
+   "short": "HCL Rovinari nr. 268/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 268/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.268_din_18.12.2024.pdf",
+     "sha256": "265a013b106a83f101535c2b9fe1c7f5ee702406fbdcde79dffdea6731e4ff98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-269-2024",
+   "path": "local/gorj/rovinari/2024/269",
+   "short": "HCL Rovinari nr. 269/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 269/2024 privind probarea listei de repartizare a locuințelor sociale din blocul B2 (camera 5 și camera 22), situat în orașul Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.269_din_18.12.2024.pdf",
+     "sha256": "71dcc3d0d639fd5cca6fd1e2cbeb13c893b0003d96beb78ac28eb533dd477a89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-27-2024",
+   "path": "local/gorj/rovinari/2024/27",
+   "short": "HCL Rovinari nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 27/2024 privind aprobarea contului de execuție al bugetului local al unității administrativ-teritoriale Oraș Rovinari, al bugetului centralizat al instituțiilor publice finanțate din venituri proprii și subvenții din bugetul local al unității administrativ-teritoriale Oraș Rovinari și a situațiilor financiare încheiate la data de 31.12.2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.27_din_27.02.2024.pdf",
+     "sha256": "50728d97c92a59e1a80358619e9d7bbf0a04ead71c91bce6987090ca1cb0f3ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-270-2024",
+   "path": "local/gorj/rovinari/2024/270",
+   "short": "HCL Rovinari nr. 270/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 270/2024 privind modificarea manoperei directe la Societatea Servicii Publice Locale Rovinari SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.270_din_18.12.2024.pdf",
+     "sha256": "2d5e40f8afcbde75e8cf864b40ce0d74819e813e886edf98ec860f8fb2514c9a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-271-2024",
    "path": "local/gorj/rovinari/2024/271",
    "short": "HCL Rovinari nr. 271/2024",
@@ -104,6 +2489,156 @@
      "units": 1,
      "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.271_din_18.12.2024.pdf",
      "sha256": "66fd3d460653eb1bfed4598f2e651f5979118af06984afc56b21e32d82689af8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-272-2024",
+   "path": "local/gorj/rovinari/2024/272",
+   "short": "HCL Rovinari nr. 272/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 272/2024 privind rectificarea bugetului local al Societății Servicii Publice Locale SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.272_din_18.12.2024.pdf",
+     "sha256": "5ea67b3a50e3542edfe5d067262b67eceb8f0a0fc0069c7e886bd3d91f692b43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-273-2024",
+   "path": "local/gorj/rovinari/2024/273",
+   "short": "HCL Rovinari nr. 273/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 273/2024 privind majorarea capitalului social al Societății Servicii Publice Locale Rovinari SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.273_din_18.12.2024.pdf",
+     "sha256": "8c6aa44737c3d009e94dd76f94bbe1a4487a79f9438915bf89ecc6f9c417192c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-274-2024",
+   "path": "local/gorj/rovinari/2024/274",
+   "short": "HCL Rovinari nr. 274/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 274/2024 privind aprobarea contului de execuție preliminar al bugetului local al unitații administrative Oraș Rovinari și al instituțiilor publice finanțate din venituri proprii și subvenții din bugetul local al unității administrative Oraș Rovinari pentru trimestrul IV 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.274_din_18.12.2024.pdf",
+     "sha256": "87dec3be7cb6d46f36428a70b34510b70de086fcefafb6b437bc2f360d83418c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-275-2024",
+   "path": "local/gorj/rovinari/2024/275",
+   "short": "HCL Rovinari nr. 275/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 275/2024 privind rectificarea bugetului local pe anul 2024 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.275_din_18.12.2024.pdf",
+     "sha256": "bc17324492e3a595821d32b7b75627942c773e274a5801e6786966219daab17b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-276-2024",
+   "path": "local/gorj/rovinari/2024/276",
+   "short": "HCL Rovinari nr. 276/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 276/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.276_din_18.12.2024.pdf",
+     "sha256": "c5339234d607f432e0ddac1a9f11d86b8f7b9a037aa6e8461857dbc4e6077262"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-277-2024",
+   "path": "local/gorj/rovinari/2024/277",
+   "short": "HCL Rovinari nr. 277/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 277/2024 privind aprobarea studiului de oportunitate, caietului de sarcini și documentației de atribuire pentru concesionarea prin licitație publică a terenului aparținând domeniului privat al orașului Rovinari, în suprafață de 1368 mp, înscris în cartea funciară 37057, situat în intravilanul Orașului Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.277_din_18.12.2024.pdf",
+     "sha256": "1ba0ba4c732cfb24474ea91db05a6e42fbd1812a4a6a1eb926dd3ff4613bb0e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-278-2024",
+   "path": "local/gorj/rovinari/2024/278",
+   "short": "HCL Rovinari nr. 278/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 278/2024 privind încetarea acordării stimulentului financiar pentru nou-născut aprobat prin Hotărârea Consiliului Local Rovinari nr.58/27.03.2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.278_din_18.12.2024.pdf",
+     "sha256": "74b980860ec77942aca62e013cfa7051f5bed0c0ed785a768e46695ab70d7d8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-279-2024",
+   "path": "local/gorj/rovinari/2024/279",
+   "short": "HCL Rovinari nr. 279/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 279/2024 privind numirea consilierilor locali în Consiliul de Administrație al Clubului Sportiv „JIUL Rovinari 2016” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.279_din_18.12.2024.pdf",
+     "sha256": "95adc8b6e077f77dcd7e2f257a830d349d23330d36d4f33fe7c4dd2925ebd16e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-29-2024",
+   "path": "local/gorj/rovinari/2024/29",
+   "short": "HCL Rovinari nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 29/2024 privind aprobarea cuantumului chiriei aferente locuințelor pentru tineri, destinate închirierii, realizate de Agenția Natională pentru Locuințe în Orașul Rovinari, județul Gorj, începand cu luna martie 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.29_din_27.02.2024.pdf",
+     "sha256": "5287ee87046765310caf3299e56d58692fdcde57ee57989bca9b3cdd8edff6ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-30-2024",
+   "path": "local/gorj/rovinari/2024/30",
+   "short": "HCL Rovinari nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 30/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.30_din_27.02.2024.pdf",
+     "sha256": "24867a1e9fb56341f17f4d55a72267d87a32f0a6f6fa10248e66c500764715a2"
     }
    ]
   },
@@ -123,6 +2658,36 @@
    ]
   },
   {
+   "slug": "hcl-gorj--rovinari-32-2024",
+   "path": "local/gorj/rovinari/2024/32",
+   "short": "HCL Rovinari nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 32/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.32_din_27.02.2024.pdf",
+     "sha256": "e46742d0973f08b42caf4e15dd6f795b52578b5f108b483c226ac9e1026ae8ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-33-2024",
+   "path": "local/gorj/rovinari/2024/33",
+   "short": "HCL Rovinari nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 33/2024 privind aprobarea Calendarului Competițional al Clubului Sportiv „JIUL Rovinari 2016” pentru perioada 01.03.2024-31.12.2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.33_din_27.02.2024.pdf",
+     "sha256": "34fb955e4d57ec37c86b6fb18c664f3e2d7e58882c59f34719708f64dd992b68"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-35-2024",
    "path": "local/gorj/rovinari/2024/35",
    "short": "HCL Rovinari nr. 35/2024",
@@ -134,6 +2699,171 @@
      "units": 1,
      "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.35_din_27.02.2024.pdf",
      "sha256": "58ab4dc8d6e58e9e17d712eca337250b5cb7382e5e08e5999f885298cfc591ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-36-2024",
+   "path": "local/gorj/rovinari/2024/36",
+   "short": "HCL Rovinari nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 36/2024 privind aprobarea premierii sportivilor și colectivelor tehnice, din cadrul Clubului Sportiv „JIUL ROVINARI 2016”, care obțin performanțe deosebite la acțiunile sportive internaționale și naționale oficiale în cursul anului 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.36_din_27.02.2024.pdf",
+     "sha256": "aeb0674fb763a596b19d5a8419a237b8517006b9ad4f85a06e7287ba3472e6f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-38-2024",
+   "path": "local/gorj/rovinari/2024/38",
+   "short": "HCL Rovinari nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 38/2024 privind împuternicirea Asociației de Dezvoltare Intercomunitară de utilități publice pentru serviciul de transport public local „Asociația Jiul de Transport Public Local” pentru încheierea contractului de delegare a gestiunii serviciului de transport public local, precum și acordarea unui mandat reprezentantului UATO Rovinari în cadrul Adunării Generale a Asociației pentru a vota și semna contract",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.38_din_27.02.2024.pdf",
+     "sha256": "f31653e7f64c1ddc03f08edaffb9fe02edf87d286c1a2b09aa12a1dc1814c3ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-39-2024",
+   "path": "local/gorj/rovinari/2024/39",
+   "short": "HCL Rovinari nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 39/2024 privind rectificarea bugetului local pe anul2024 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.39_din_27.02.2024.pdf",
+     "sha256": "3fcba12d366df93e92a4717bab62a6dbdd8b0723cbdf7d7e2bf3a21eaf268f7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-4-2024",
+   "path": "local/gorj/rovinari/2024/4",
+   "short": "HCL Rovinari nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 4/2024 privind privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din cadrul Primăriei oraș Rovinari și serviciilor publice, fără personalitate juridică, din subordinea Consiliului Local al Orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.4_din_30.01.2024.pdf",
+     "sha256": "415a81c67a6264b2eeb87fb436fc179c04f69b6d644698c42d7ae4a26af83dcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-40-2024",
+   "path": "local/gorj/rovinari/2024/40",
+   "short": "HCL Rovinari nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 40/2024 privind aprobarea organigramei și statului de funcții pentru aparatul de specialitate al Primarului orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.40_din_27.02.2024.pdf",
+     "sha256": "caed00809624a623bd2ce8e8d17c14ca0d6754152a78842cda2c5c3d1f6d604e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-41-2024",
+   "path": "local/gorj/rovinari/2024/41",
+   "short": "HCL Rovinari nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 41/2024 privind completarea Hotărârii Consiliului Local nr. 127/02.08.2023 privind aprobarea proiectului „Investiții în sistemele informatice și în infrastructura digitala a Spitalului orășenesc „Sfântul Ștefan” Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.41_din_27.02.2024.pdf",
+     "sha256": "7ac7c5df46d912194d78a359c1b4536116deb92905811565f15fd0b164b4938c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-44-2024",
+   "path": "local/gorj/rovinari/2024/44",
+   "short": "HCL Rovinari nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 44/2024 privind acordarea de sprijin financiar pe anul 2024 pentru unitățile de cult religios Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.44_din_29.02.2024.pdf",
+     "sha256": "1531cbfb7ee79e581695957d51efdfc383857ed8ad7a7631175a7d3ae6910f08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-45-2024",
+   "path": "local/gorj/rovinari/2024/45",
+   "short": "HCL Rovinari nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 45/2024 privind actualizarea indicatorilor tehnico-economici ai investiției „Reabilitarea energetică a Spitalului Orășenesc Sfântul Ștefan Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.45_din_29.02.2024.pdf",
+     "sha256": "c628bdcec0108a3020677375b3355c1029b374f44ef8a4acad51af4956ae4d9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-46-2024",
+   "path": "local/gorj/rovinari/2024/46",
+   "short": "HCL Rovinari nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 46/2024 privind rectificarea bugetului local pe anul 2024 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.46_din_29.02.2024.pdf",
+     "sha256": "4ebf26ab16a37187af1883f9ff47328dc0bdc0dfbe33a62f7553f8bb6db8519f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-47-2024",
+   "path": "local/gorj/rovinari/2024/47",
+   "short": "HCL Rovinari nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 47/2024 privind aprobarea Graficului de ședințe al Consiliului Local Rovinari pentru trimestrul II al anului 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.47_din_27.03.2024.pdf",
+     "sha256": "c74efeb468142d6308327861f7f75fe8cefd47a31093030134a36829cd02ba19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-48-2024",
+   "path": "local/gorj/rovinari/2024/48",
+   "short": "HCL Rovinari nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 48/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.48_din_27.03.2024.pdf",
+     "sha256": "a72191dbfa9301fcc8dba85e09e6a4396924cac4b0da2adec60c5751a0850641"
     }
    ]
   },
@@ -153,6 +2883,141 @@
    ]
   },
   {
+   "slug": "hcl-gorj--rovinari-5-2024",
+   "path": "local/gorj/rovinari/2024/5",
+   "short": "HCL Rovinari nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 5/2024 privind stabilirea salariilor de bază pentru personalul contractual din cadrul Clubului Sportiv „Jiul Rovinari 2016” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.5_din_30.01.2024.pdf",
+     "sha256": "c36029f724627a8e43831d9e78a11f36d15957f525ec5e07d739efbce43dd7dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-50-2024",
+   "path": "local/gorj/rovinari/2024/50",
+   "short": "HCL Rovinari nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 50/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.50_din_27.03.2024.pdf",
+     "sha256": "0c284960493c2e9ade9ea3524248b6cbad4c6502c6e009aa8996e193085304f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-51-2024",
+   "path": "local/gorj/rovinari/2024/51",
+   "short": "HCL Rovinari nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 51/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.51_din_27.03.2024.pdf",
+     "sha256": "2151ad0e08e4adf503bf9666da8b9106c110adc2daa1b169753acdce6bad87d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-52-2024",
+   "path": "local/gorj/rovinari/2024/52",
+   "short": "HCL Rovinari nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 52/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.52_din_27.03.2024.pdf",
+     "sha256": "38babcd55dbfb4f9a251f3c0acbf63f5842d61b34a14b0f42453d81d31b4876e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-53-2024",
+   "path": "local/gorj/rovinari/2024/53",
+   "short": "HCL Rovinari nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 53/2024 privind aprobarea vânzării locuinței, cu rezerva dreptului de proprietate, situată la adresa oraș Rovinari, str. Plopilor, nr.12, bl.C3, sc.2, et.4, ap.30, jud. Gorj, compusă din 2 (două) camere, în suprafață utilă de 48,90 mp., la prețul de 61.300 lei, respectiv 12.600 euro, stabilit prin raportul de evaluare nr.36260/ 09.11.2020, cu un avans de 9.195 lei, reprezentand 15% din valoarea locuinței",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.53_din_27.03.2024.pdf",
+     "sha256": "768f102f8daf842fc2469f868c825cfe51b270d8531ee692b182c3ec7115a87b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-54-2024",
+   "path": "local/gorj/rovinari/2024/54",
+   "short": "HCL Rovinari nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 54/2024 privind privind aprobarea vânzării locuinței cu rezerva dreptului de proprietate, situată la adresa oraș Rovinari, str. Muncii, nr.3, bl.B7, sc.1, et.4, ap.14, jud. Gorj, compusă din 3(trei) camere, în suprafață utilă de 64,70 mp., la prețul de 75.300 lei, respectiv 15.500 euro, stabilit prin raportul de evaluare nr.36260/ 09.11.2020, cu un avans de 11.295 lei, reprezentând 15% din valoarea locuin",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.54_din_27.03.2024.pdf",
+     "sha256": "fdce28d8944ed1e990c241b2b7e1f2b53da7cd854438d668e852ec36016f960f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-55-2024",
+   "path": "local/gorj/rovinari/2024/55",
+   "short": "HCL Rovinari nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 55/2024 privind aprobarea vânzîrii locuinței, cu rezerva dreptului de proprietate, situată la adresa oraș Rovinari, Aleea Școlii, nr.6, bl.G7, sc.3, et.parter, ap.41, jud. Gorj, compusă din 1 (una) cameră,în suprafață utilă de 26,90 mp., la prețul de 37.300 lei, respectiv 7.700 euro, stabilit prin raportul de evaluare nr.36260/ 09.11.2020, cu un avans de 5.595 lei, reprezentând 15% din valoarea locuinței",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.55_din_27.03.2024.pdf",
+     "sha256": "dcd0329d9080e84f83b2e6948a67d1eb979749e4960b76ed05181194cd238465"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-56-2024",
+   "path": "local/gorj/rovinari/2024/56",
+   "short": "HCL Rovinari nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 56/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.56_din_27.03.2024.pdf",
+     "sha256": "31b8bd4987c5bca4bfa197a768f798cfd386c7f578f6771267df9e2428b3cc76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-57-2024",
+   "path": "local/gorj/rovinari/2024/57",
+   "short": "HCL Rovinari nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 57/2024 privind actualizarea devizului general și a indicatorilor tehnico-economici aferenți obiectivului de investiții „Confecționare sală post-operatorie la adapostul câinilor fără stăpân” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.57_din_27.03.2024.pdf",
+     "sha256": "7a45a1e13a1354cbe50ecb34ed2df2dd3cc0aff0df80945ba69148c7b2e2e32c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-58-2024",
    "path": "local/gorj/rovinari/2024/58",
    "short": "HCL Rovinari nr. 58/2024",
@@ -164,6 +3029,636 @@
      "units": 1,
      "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.58_din_27.03.2024.pdf",
      "sha256": "0747cda584d7e0e628c2ed9c72ed0515449bc67842c9dbd8f92e8d3803d537c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-59-2024",
+   "path": "local/gorj/rovinari/2024/59",
+   "short": "HCL Rovinari nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 59/2024 privind plata cotizației pentrn anul 2024 la Asociația Orașelor din România Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.59_din_27.03.2024.pdf",
+     "sha256": "c71a9d87cc6d589d0c4e8429546aac2a1ada18ef008b3848cc7ba1e94744c9b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-6-2024",
+   "path": "local/gorj/rovinari/2024/6",
+   "short": "HCL Rovinari nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 6/2024 privind aprobarea efectuării în anul 2024 a concediului de odihnă neefectuat în anul 2023, de către primarul orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.6_din_30.01.2024.pdf",
+     "sha256": "1b73f6586899ef313005baa941cd29f475636b52e1dc35af02567bbeca733343"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-61-2024",
+   "path": "local/gorj/rovinari/2024/61",
+   "short": "HCL Rovinari nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 61/2024 privind aprobarea vânzarii locuinței, cu rezerva dreptului de proprietate, situată la adresa oraș Rovinari, str. Tineretului, nr.6, bl.G3, sc.4, et.3, ap.14, jud. Gorj, compusă din 2 (două) camere, în suprafață utilă de 47,10 mp., la prețul de 70.000 lei, respectiv 14.400 euro, stabilit prin raportul de evaluare nr.36260/ 09.11.2020, cu un avans de 10.500 lei, reprezentand 15% din valoarea locuinț",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.61_din_27.03.2024.pdf",
+     "sha256": "9dca6ba3800505e9284a88e1093705fbcb3000d8a4213d860c3cedbad16553f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-62-2024",
+   "path": "local/gorj/rovinari/2024/62",
+   "short": "HCL Rovinari nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 62/2024 privind dezmembrarea terenului în suprafață de 5018 mp, având numărul cadastral 36969, situat în orașul Rovinari, tarlaua 21, parcelele 1, 2, 3, județul Gorj, în două loturi Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.62_din_27.03.2024.pdf",
+     "sha256": "881609fdc9e92afa67fa2951c8e7461beb0241cfd54c7b4b236789ec04035d73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-63-2024",
+   "path": "local/gorj/rovinari/2024/63",
+   "short": "HCL Rovinari nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 63/2024 privind dezmembrarea terenului în suprafață de 16858 mp, având numărul cadastral 36968, situat în orașul Rovinari, strada Sporturilor, județul Gorj, în două loturi Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.63_din_27.03.2024.pdf",
+     "sha256": "a90ed6c34e4ad663c59f0a49149cca3e4209a1ae1745431df4e0bdd069a9ae35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-64-2024",
+   "path": "local/gorj/rovinari/2024/64",
+   "short": "HCL Rovinari nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 64/2024 privind alipirea unor imobile (terenuri) situate în orașul Rovinari, strada Jiului, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.64_din_27.03.2024.pdf",
+     "sha256": "f20b7a27f0137ce5afd48c1344095fb0cd8c1ddf72def4826ef505209686175f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-65-2024",
+   "path": "local/gorj/rovinari/2024/65",
+   "short": "HCL Rovinari nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 65/2024 privind plata cotizației pentru anul 2024 la Asociația de Dezvoltare Intercomunitară în Domeniul Serviciilor Publice de Salubrizare- „ADIS” Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.65_din_27.03.2024.pdf",
+     "sha256": "0604b72a323f8e756f1fdb2d5e626749e484af929a7a7c2b3abd58ec03028cad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-66-2024",
+   "path": "local/gorj/rovinari/2024/66",
+   "short": "HCL Rovinari nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 66/2024 privind acordarea unui ajutor de urgență domnului .…..în sumă de 8000 lei pentru investigații medicale Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.66_din_27.03.2024.pdf",
+     "sha256": "fea0235080074a0eacd238d479a1e65a423b718eedbfcd4e0fee8854138755fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-67-2024",
+   "path": "local/gorj/rovinari/2024/67",
+   "short": "HCL Rovinari nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 67/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 al Societății Serviciul de Bază, Pază și Protecție SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.67_din_27.03.2024.pdf",
+     "sha256": "f1e24e90a64f510bbdc1a01e0ef1345fbfa19bdc6d9fa311bcaca34e5ad837d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-68-2024",
+   "path": "local/gorj/rovinari/2024/68",
+   "short": "HCL Rovinari nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 68/2024 privind aprobarea bugetului de venituri si cheltuieli pe anul 2024 al Societății Servicii Publice Locale SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.68_din_27.03.2024.pdf",
+     "sha256": "41af0177cc5c031ada181aa6b16886f2f820042e95819c33ba4db4ba1f543a2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-69-2024",
+   "path": "local/gorj/rovinari/2024/69",
+   "short": "HCL Rovinari nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 69/2024 privind rectificarea bugetului local pe anul2024 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.69_din_27.03.2024.pdf",
+     "sha256": "da98273d8c8358a0cc0d7f08a19c796adc7a0a938de76beb6c06b172975f19d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-7-2024",
+   "path": "local/gorj/rovinari/2024/7",
+   "short": "HCL Rovinari nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 7/2024 privind stabilirea salariilor de bază pentru personalul contractual din cadrul Serviciului de Iluminat Public al orașului Rovinari, serviciu cu personalitate juridică în subordinea Consiliului Local Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.7_din_30.01.2024.pdf",
+     "sha256": "16cd6ba65f21f027886fa3ecf76b6e07a68873172e3181908626f583cffa0b90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-70-2024",
+   "path": "local/gorj/rovinari/2024/70",
+   "short": "HCL Rovinari nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 70/2024 privind aprobarea Organigramei și Statului de Personal ale Spitalului Orășenesc „Sfântul Ștefan” Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.70_din_27.03.2024.pdf",
+     "sha256": "ea2c2ac39ca6808a17ffe7f731f9673ff1c39031eee14c0601593a7dea56a917"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-71-2024",
+   "path": "local/gorj/rovinari/2024/71",
+   "short": "HCL Rovinari nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 71/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții „Construire parcare Școala Gimnazială Nr.1 Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.71_din_27.03.2024.pdf",
+     "sha256": "bb3ee906d7de3a636300e31ac2942e7a32e1cd8953f95211b2200520e12b90a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-72-2024",
+   "path": "local/gorj/rovinari/2024/72",
+   "short": "HCL Rovinari nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 72/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții „Sistematizare pe verticală și racordare la utilități – Grădinița cu program normal pentru 4 săli de grupă – Rovinari, județul Gorj” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.72_din_27.03.2024.pdf",
+     "sha256": "42eed81fbe92d84745a8b7223c36e78b51757d9c8079689820a8894e384b21cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-73-2024",
+   "path": "local/gorj/rovinari/2024/73",
+   "short": "HCL Rovinari nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 73/2024 privind aprobarea vânzării locuinței, cu rezerva dreptului de proprietate, situată la adresa oraș Rovinari, str. Termocentralei, nr.15, bl.S4, sc.2, et.2, ap.25, jud. Gorj, compusă din 2 (două) camere, în suprafață utilă de 52,90 mp., la prețul de 70.300 lei, respectiv 14.500 euro, stabilit prin raportul de evaluare nr.36260/ 09.11.2020, cu un avans de 10.545 lei, reprezentând 15% din valoarea loc",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.73_din_27.03.2024.pdf",
+     "sha256": "66fa3e91a40e77105656e6a6d67ce5f23478714ec0048efcd51288a45b6d9511"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-74-2024",
+   "path": "local/gorj/rovinari/2024/74",
+   "short": "HCL Rovinari nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 74/2024 privind aprobarea vânzării locuinței, cu rezerva dreptului de proprietate, situată la adresa oraș Rovinari, str. Castanilor, nr.5, bl.D2, sc.2, et.parter, ap.22, jud. Gorj, compusă din 2 (două) camere, în suprafață utilă de 42,50 mp., la pretul de 53.200 lei, respectiv 10.900 euro, stabilit prin raportul de evaluare nr.36260/ 09.11.2020, cu un avans de 7.980 lei, reprezentand 15% din valoarea locu",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.74_din_27.03.2024.pdf",
+     "sha256": "0e11d731ef90a10081f54c7b4a1bcf9f1c8bef3a47e063e0bf2126a144eef4ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-75-2024",
+   "path": "local/gorj/rovinari/2024/75",
+   "short": "HCL Rovinari nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 75/2024 privind demararea procedurii de înscriere a cetățenilor din oraș ul Rovinari, în perioada 01.04.2024- 22.04.2024, în vederea acordării și distribuirii de beneficii de asistență socială, constând în tichete sociale în valoare de 150 lei/tichet, cu ocazia sărbătorilor pascale 2024 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.75_din_27.03.2024.pdf",
+     "sha256": "703b6b5b11bb7317cd5da889768708b4abcab5a6f9a91f63d738665dc911a7d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-76-2024",
+   "path": "local/gorj/rovinari/2024/76",
+   "short": "HCL Rovinari nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 76/2024 privind însușirea domeniului privat conform propunerii comisiei speciale de inventariere a domeniului public și privat constituită la nivelul unității administrativ-teritoriale oraș Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.76_din_27.03.2024.pdf",
+     "sha256": "6eadcfc239a7443f5b4b874660c936dc88422961d0cac9af76702648b8694352"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-77-2024",
+   "path": "local/gorj/rovinari/2024/77",
+   "short": "HCL Rovinari nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 77/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții „Extindere parcare în zona blocurilor Ml-M2” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.77_din_27.03.2024.pdf",
+     "sha256": "36530d2d91b211ec83d4c5c66209b78367fa998d6865f79c869678cbc09b54a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-78-2024",
+   "path": "local/gorj/rovinari/2024/78",
+   "short": "HCL Rovinari nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 78/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții „Amenajare parcare de reședință în zona blocului P3, oraș Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.78_din_27.03.2024.pdf",
+     "sha256": "99f80620bc6d8cde9206651776dc11d3ebaa916b89b8fd515464357abf1e80bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-79-2024",
+   "path": "local/gorj/rovinari/2024/79",
+   "short": "HCL Rovinari nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 79/2024 privind aprobarea documentației tehnico-economice (proiect tehnic), a indicatorilor tehnico-economici și a descrierii sumare aferenși investiției „Regenerarea spațiilor publice urbane din orașul Rovinari – zona canalelor Roșia-Prundurel – componenta I și Amenajare zonă agrement cana Roșia-Prundurel” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.79_din_29.03.2024.pdf",
+     "sha256": "08958a44f95906b1280f1f3d794d4b0ce5142807d2ded58f66267e398c1e913b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-8-2024",
+   "path": "local/gorj/rovinari/2024/8",
+   "short": "HCL Rovinari nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 8/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.8_din_30.01.2024.pdf",
+     "sha256": "e0bdd17a0df58171858a9b99874e3cd8072d2c11d223f1efea0f5981a8b456ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-80-2024",
+   "path": "local/gorj/rovinari/2024/80",
+   "short": "HCL Rovinari nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 80/2024 privind aprobarea proiectului„Regenerarea spațiilor publice urbane din orașul Rovinari – zona canalelor Roșia-Prundurel – componenta I și cheltuielilor aferente proiectului” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.80_din_29.03.2024.pdf",
+     "sha256": "ae9144f4b92d70f12730d072c22885b9665afef5d46698ad5ae026238952a4ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-81-2024",
+   "path": "local/gorj/rovinari/2024/81",
+   "short": "HCL Rovinari nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 81/2024 privind aprobarea actualizării Studiului de Fezabilitate, a devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții „Înființarea sistemului de canalizare în localitatea Vârț, oraș Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.81_din_04.04.2024.pdf",
+     "sha256": "8f26b5ed2265a28545a14dfac41bfa3620fbe5cd36dc4f49aff20fd72f55560c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-82-2024",
+   "path": "local/gorj/rovinari/2024/82",
+   "short": "HCL Rovinari nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 82/2024 privind aprobarea depunerii spre finanțare a proiectului „Înființarea sistemului de canalizare în localitatea Vârț, oraș Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.82_din_04.04.2024.pdf",
+     "sha256": "73b0a55c0343749786b2ecb3e60eb5634e33d57bf650833a84daeb9b7f14da1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-85-2024",
+   "path": "local/gorj/rovinari/2024/85",
+   "short": "HCL Rovinari nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 85/2024 privind privind aprobarea listei de repartizare a locuințelor sociale din blocul B2 (camera 33 și camera 39), situat în orașul Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.85_din_25.04.2024.pdf",
+     "sha256": "b07641ea345d058e4927b4fdb48c17ae72e3f28a7a9dfbccc5274dd4f62b62ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-86-2024",
+   "path": "local/gorj/rovinari/2024/86",
+   "short": "HCL Rovinari nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 86/2024 privind stabilirea salariului de baza pentru personalul contractual ( șef Serviciu) din cadrul Serviciului de Iluminat Public al orașului Rovinari, serviciu cu personalitate juridică în subordinea Consiliului Local Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.86_din_25.04.2024.pdf",
+     "sha256": "d9aebd6937068e2fc83cd917669db6b05f5cc1cf0898ceb572dae8dad6793978"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-87-2024",
+   "path": "local/gorj/rovinari/2024/87",
+   "short": "HCL Rovinari nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 87/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.87_din_25.04.2024.pdf",
+     "sha256": "a4306530c345ccc73d29c11bbd7f1fd6ca8c1d6499c3ae3695e1d9271e3ee18a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-88-2024",
+   "path": "local/gorj/rovinari/2024/88",
+   "short": "HCL Rovinari nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 88/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.88__din_25.04.2024.pdf",
+     "sha256": "3c4787066fdccc490ebec47a28570fa7bf0da2c914ba337f63f92271023c8a7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-89-2024",
+   "path": "local/gorj/rovinari/2024/89",
+   "short": "HCL Rovinari nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 89/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.89_din_25.04.2024.pdf",
+     "sha256": "cfae9c95fe5ffb4b91d44c7352f21388c986f4e9d935c3f75786f5d64ac185f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-9-2024",
+   "path": "local/gorj/rovinari/2024/9",
+   "short": "HCL Rovinari nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 9/2024 privind aprobarea listei de repartizare a unei locuințe sociale din blocul B2 (camera 35, etaj 2), situat în orașul Rovinari, județul Gorj Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.9_din_30.01.2024.pdf",
+     "sha256": "11a3b8436abfdf33b2181bae2fe69206cbfbb153636cc1b9de2a79d52afd9902"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-90-2024",
+   "path": "local/gorj/rovinari/2024/90",
+   "short": "HCL Rovinari nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 90/2024 privind aprobarea completării Calendarului Competițional al Clubului Sportiv„JIUL Rovinari 2016″ Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.90_din_25.04.2024.pdf",
+     "sha256": "2064a8980257779d448543f51d9c701e0bc9a76fa12b8808d736c1aca321e0b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-91-2024",
+   "path": "local/gorj/rovinari/2024/91",
+   "short": "HCL Rovinari nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 91/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.91_din_25.04.2024.pdf",
+     "sha256": "1fcc14e250e7403a608361e656ab4ca2863c634a609822e7df5fc9a82ca3aab5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-92-2024",
+   "path": "local/gorj/rovinari/2024/92",
+   "short": "HCL Rovinari nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 92/2024 privind aprobarea documentației tehnico-economice și a devizului general pentru obiectivul de investiții „SISTEM DETECȚIE, ALARMARE ȘI SEMNALIZARE ÎN CAZ DE INCENDIU LA SEDIUL PRIMĂRIEI ROVINARI”, în vederea autorizării ISU Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.92_din_25.04.2024.pdf",
+     "sha256": "9655b93c8bdeb3356b9d2fd46d4c82928df215a02cd0cb00b7c09ef132873202"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-93-2024",
+   "path": "local/gorj/rovinari/2024/93",
+   "short": "HCL Rovinari nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 93/2024 privind completarea anexei nr.50852/27.12.2023 la Hotărârea Consiliului Local nr.4/30.01.2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din cadrul Primăriei oraș Rovinari și serviciilor publice, fără personalitate juridică, din subordinea Consiliului Local al Orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.93_din_25.04.2024.pdf",
+     "sha256": "74270d07340dbc632573b22b793498b65d59036948cb1eb9f263be85ebdeafe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-94-2024",
+   "path": "local/gorj/rovinari/2024/94",
+   "short": "HCL Rovinari nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 94/2024 privind dezmembrarea terenului în suprafață de 11900 mp, avand număr cadastral 36965, situat în extravilanul orașului Rovinari, tarla 2, județul Gorj, în două loturi Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.94_din_25.04.2024.pdf",
+     "sha256": "915ce14011a09704edda6d122b8ea85b2dbc2cc50b355131a4cf00605b0406bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-95-2024",
+   "path": "local/gorj/rovinari/2024/95",
+   "short": "HCL Rovinari nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 95/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.95_din_25.04.2024.pdf",
+     "sha256": "8429ffb5130996420c276f1d63a58384d347904c2193df782d2595452cbf7d3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-96-2024",
+   "path": "local/gorj/rovinari/2024/96",
+   "short": "HCL Rovinari nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 96/2024 privind privind modificarea pct.B- art.24 alin.2 din anexa la Hotărârea Consiliului Local nr.3/20.01.2023 privind actualizarea Statutului Asociației de Dezvoltare lntercomunitară de utilități publice pentru serviciul de transport public local „Asociația Jiul de Transport Public Local” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.96_din_25.04.2024.pdf",
+     "sha256": "130a3dd40c500a953a96557f76a04d12c2da8240df65b232601f7de8330390ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-97-2024",
+   "path": "local/gorj/rovinari/2024/97",
+   "short": "HCL Rovinari nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 97/2024 privind actnalizarea devizului general și a indicatorilor tehnico-economici aferenți obiectivnlui de investiții „Amenajare parcare de reședință în zona Bl.P2” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.97_din_25.04.2024.pdf",
+     "sha256": "db41a207b9ec9002f52a29ff00951d4b66629d19d3b19dbd826b2f2a39fa544a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-98-2024",
+   "path": "local/gorj/rovinari/2024/98",
+   "short": "HCL Rovinari nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 98/2024 privind rectificarea bugetului local pe anul 2024 al UATO Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.98_din_25.04.2024.pdf",
+     "sha256": "bee9b82a78727a9fefd9cb311bd1c59fca2cd276afa73625884348c197b237f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-99-2024",
+   "path": "local/gorj/rovinari/2024/99",
+   "short": "HCL Rovinari nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 99/2024 privind aprobarea organizarii unui concurs cu tema „Un oraș verde„ Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.99_din_25.04.2024.pdf",
+     "sha256": "5cb3c0ad7e275bf7f6d4303dfa4bde9f54217ede02e79108a370b6b97123000c"
     }
    ]
   }

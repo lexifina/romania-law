@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Orașului Rovinari nr. 28/2022 privind modificarea Hotărârii Consiliului Local Rovinari nr.175/19.10.2021 privind aprobarea cererii de finanțare și a devizului general pentru obiectivul de investiții „Reabilitare și modernizare drumuri în localitatea Vârț, oraș Rovinari”, pentru finanțarea acestuia în cadrul Programului Național de Investiții Anghel Saligny Vizualizare
+
+HCL Rovinari nr. 28/2022 · 1 versions, from 2022-02-09 (latest in force: 2022-02-09) · <https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-gorj--rovinari-28-2022` (tags `hcl-gorj--rovinari-28-2022/<day>`; `python tools/on.py <day> hcl-gorj--rovinari-28-2022`).
+
+## Decisions made by hand
+
+- HCL Rovinari nr. 28/2022: listed from Consiliul Local al Orașului Rovinari (primariarovinari.ro); an individual decision: metadata only.
+- HCL Rovinari nr. 28/2022: dated from 9 February 2022, the day it was adopted (the register gives no later day of publication).
+- HCL Rovinari nr. 28/2022: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

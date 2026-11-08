@@ -3,6 +3,306 @@
  "shard": "local/giurgiu/bolintin-vale/2018",
  "acts": [
   {
+   "slug": "hcl-giurgiu--bolintin-vale-100-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/100",
+   "short": "HCL Bolintin-Vale nr. 100/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 100/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-04",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-100-din-04.10.2018.pdf",
+     "sha256": "8e6cba372525ea6a95f685c080e31c119d561622aa4c68fa9a89dea825fbf8e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-101-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/101",
+   "short": "HCL Bolintin-Vale nr. 101/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 101/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-04",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-101-din-04.10.2018.pdf",
+     "sha256": "b2848cee59907e5f7b0cea98ae94172730fbeae6acb68337c9c9b0d098b1a2da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-102-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/102",
+   "short": "HCL Bolintin-Vale nr. 102/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 102/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-18",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-102-din-18.10.2018.pdf",
+     "sha256": "045b4cf1d7709e5610c4800c96a1ffbd255568bf5de0473f272bd15794d008cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-103-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/103",
+   "short": "HCL Bolintin-Vale nr. 103/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 103/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-18",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-103-din-18.10.2018.pdf",
+     "sha256": "46816482884a6083fdb599991b17044de21e99684780847e3d40ede398390293"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-104-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/104",
+   "short": "HCL Bolintin-Vale nr. 104/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 104/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-18",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-104-din-18.10.2018.pdf",
+     "sha256": "cc7a65dd93f320db9d09543292568d9fac83c45aeb0971b8785f9c361ad15aef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-105-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/105",
+   "short": "HCL Bolintin-Vale nr. 105/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 105/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-18",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-105-din-18.10.2018-Anexe.pdf",
+     "sha256": "c1bc20b9713a5fa3fa9deb85a8e054c8688173a0cab937ab2e3adb67a7894c7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-106-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/106",
+   "short": "HCL Bolintin-Vale nr. 106/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 106/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-18",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-106-din-18.10.2018.pdf",
+     "sha256": "aec68dc1a9d7c33465aa2d35f972c62e389e8488a3314b1a10db75bccef4c378"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-107-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/107",
+   "short": "HCL Bolintin-Vale nr. 107/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 107/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-107-din-31.10.2018.pdf",
+     "sha256": "3fa1634fb618d3c1e2b0f9b76188d40535fd405a27e4b4f66116ca121bffd56d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-108-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/108",
+   "short": "HCL Bolintin-Vale nr. 108/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 108/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-108-din-31.10.2018.pdf",
+     "sha256": "87c0ae8983da494e49737c9a4227a928fe1dd3a487cd7aa55ea265ef60c80d25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-109-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/109",
+   "short": "HCL Bolintin-Vale nr. 109/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 109/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-109-din-31.10.2018.pdf",
+     "sha256": "82c8862c1fae047be36d289f6e048527262534484ba567441a59064dc522c059"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-110-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/110",
+   "short": "HCL Bolintin-Vale nr. 110/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 110/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-110-din-31.10.2018.pdf",
+     "sha256": "56fda47a96d0bf3eae3ee22dd3258124bda2348b6ddcb4ec8a034a43a3248e7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-111-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/111",
+   "short": "HCL Bolintin-Vale nr. 111/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 111/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-111-din-31.10.2018.pdf",
+     "sha256": "4f99dc022ae2875e4992842bc92bb3e23726c76b3fa7af9e9d5bd8b6a5f608f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-112-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/112",
+   "short": "HCL Bolintin-Vale nr. 112/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 112/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-112-din-31.10.2018.pdf",
+     "sha256": "1ec95d3e1ec87dfc5ae40a90c1729c0a9c4b3ac1a8e86db1d7f38699c1a04e18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-113-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/113",
+   "short": "HCL Bolintin-Vale nr. 113/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 113/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-113-din-31.10.2018.pdf",
+     "sha256": "789de762a5bac179de675df7b01af331a12deef260122c8a71eee7ab063b3904"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-114-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/114",
+   "short": "HCL Bolintin-Vale nr. 114/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 114/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-114-din-31.10.2018.pdf",
+     "sha256": "6746314a632949898d692d192fa725720bcde0f1f43f2c25172cde65b9b04d2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-115-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/115",
+   "short": "HCL Bolintin-Vale nr. 115/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 115/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-115-din-31.10.2018.pdf",
+     "sha256": "214a911fe0f6420c3363002d472e6dd17a699652dbedf17f8f84eb25d40289f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-116-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/116",
+   "short": "HCL Bolintin-Vale nr. 116/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 116/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-116-din-31.10.2018.pdf",
+     "sha256": "d4ecdc06f3b60104a9830e178697e7dac1746ad5bf0f56191247ead625af2df3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-117-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/117",
+   "short": "HCL Bolintin-Vale nr. 117/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 117/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-117-din-31.10.2018.pdf",
+     "sha256": "36a4d23cbe5d2e7807c3725efefad7b6af68fbf3e9cc1ac82f701c40e6328bd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-118-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/118",
+   "short": "HCL Bolintin-Vale nr. 118/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 118/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-15",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-118-din-15.11.2018.pdf",
+     "sha256": "18a4282d46dd3871ed24ab63da4ea6618fe3d9e097fee854ff90cb91dff43d69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-119-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/119",
+   "short": "HCL Bolintin-Vale nr. 119/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 119/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-15",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-119-din-15.11.2018.pdf",
+     "sha256": "7e254859bc3d02e43e4fa8a2d518d788564abefc61144d6e2c3d1cc857187af2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--bolintin-vale-120-2018",
    "path": "local/giurgiu/bolintin-vale/2018/120",
    "short": "HCL Bolintin-Vale nr. 120/2018",
@@ -14,6 +314,186 @@
      "units": 1,
      "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr-120-din-29.11.2018-Anexa-1-Anexa-2-Anexa-3-Anexa-4-Anexa-5.pdf",
      "sha256": "8704a399b885585b8e053610bbc86aa3324680f98ea03770d33cbb56cba1d8c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-121-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/121",
+   "short": "HCL Bolintin-Vale nr. 121/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 121/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr-121-din-29.11.2018-Anexa-1.pdf",
+     "sha256": "c9722f81aae7fd8d083aebc29be102a771dceac6457b1ac47f0f4c3ef8962fd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-122-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/122",
+   "short": "HCL Bolintin-Vale nr. 122/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 122/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr-122-din-29.11.2018.pdf",
+     "sha256": "fcab750c521f796e6cf6491634f964e46df2f7421acfd0f5d52d779cc17c82cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-123-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/123",
+   "short": "HCL Bolintin-Vale nr. 123/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 123/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr-123-din-29.11.2018.pdf",
+     "sha256": "90bddcfcbce9d2ff2c87121863cde3af7e23e61c349207d306d9e0209c524d70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-124-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/124",
+   "short": "HCL Bolintin-Vale nr. 124/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 124/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr-124-din-29.11.2018.pdf",
+     "sha256": "cd44d7163f169a5b6832f964dee706941a0b00be69e782a4daa00fec20b6b826"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-125-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/125",
+   "short": "HCL Bolintin-Vale nr. 125/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 125/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr-125-din-29.11.2018.pdf",
+     "sha256": "bf6d9f8a709a583ba9bcdacf958a95225bc47faec97c66e50ddfde84bfca17b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-126-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/126",
+   "short": "HCL Bolintin-Vale nr. 126/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 126/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr-126-din-29.11.2018.pdf",
+     "sha256": "f13b79b0d727b62e5fef5be92e0a337d90eed9ad56ef32e4514172dd29604d05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-127-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/127",
+   "short": "HCL Bolintin-Vale nr. 127/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 127/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr-127-din-29.11.2018.pdf",
+     "sha256": "33644dd0c1a6e09d23007b4b4d46e9611534014eb2e2fe2e99a2449a9e58750c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-128-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/128",
+   "short": "HCL Bolintin-Vale nr. 128/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 128/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr-128-din-29.11.2018.pdf",
+     "sha256": "695f5784ec831db5820da404aef301506654a5172ef15968ed7cc6afd7034099"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-129-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/129",
+   "short": "HCL Bolintin-Vale nr. 129/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 129/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr-129-din-29.11.2018.pdf",
+     "sha256": "1ee3be0d4f4078093f8e15ae896c41a84b29eebba705b390c5b14b072d25a648"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-130-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/130",
+   "short": "HCL Bolintin-Vale nr. 130/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 130/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr-130-din-29.11.2018.pdf",
+     "sha256": "86e02e3ced45eb1c3192573b77539dc76a61e9e274429c41e4762c6a15ed6398"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-131-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/131",
+   "short": "HCL Bolintin-Vale nr. 131/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 131/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr-131-din-29.11.2018.pdf",
+     "sha256": "6b987f6f5ae0ae34a011bcd6dec24304c1f765f3c3c1453f8897afd3516453f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-132-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/132",
+   "short": "HCL Bolintin-Vale nr. 132/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 132/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2019/01/Hotararea-nr.132-din-11.12.2018-Anexe.pdf",
+     "sha256": "20e0734e5593f04a8022f0e040135148f21c7ea9c0cccc8ed3fadb5508b63fc8"
     }
    ]
   },
@@ -33,6 +513,111 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--bolintin-vale-134-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/134",
+   "short": "HCL Bolintin-Vale nr. 134/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 134/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2019/01/Hotararea-nr.134-din-21.12.2018-Anexa.pdf",
+     "sha256": "c94c41626467dad8f80ca84dc625d9602763c349321e9cf0373430cdff7c22d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-135-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/135",
+   "short": "HCL Bolintin-Vale nr. 135/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 135/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2019/01/Hotararea-nr.135-din-21.12.2018.pdf",
+     "sha256": "1709d6772b2b561453724001f14986bbfd7a7fe92a417ae88b5627c10cd1b9ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-136-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/136",
+   "short": "HCL Bolintin-Vale nr. 136/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 136/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2019/01/Hotararea-nr.136-din-21.12.2018.pdf",
+     "sha256": "fd0115e917e479531c50667aafe7841a001b607a6b6f7cd6cae41a2726e29a27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-137-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/137",
+   "short": "HCL Bolintin-Vale nr. 137/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 137/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2019/01/Hotararea-nr.137-din-21.12.2018.pdf",
+     "sha256": "cf0a70d1bd03726f74a0c5cca561570c91e8b16857de0c637787580f40930566"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-138-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/138",
+   "short": "HCL Bolintin-Vale nr. 138/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 138/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2019/01/Hotararea-nr.138-din-21.12.2018.pdf",
+     "sha256": "f930fc84b78c140bf807ce82f7735f9aeca39816461607939c262978802fa70a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-40-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/40",
+   "short": "HCL Bolintin-Vale nr. 40/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 40/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-04-12",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-40-din-12.04.2018.pdf",
+     "sha256": "0bf2ebd17a78be21024707122d655fc879ec9c7f37e418c4448928d2c5398876"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-41-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/41",
+   "short": "HCL Bolintin-Vale nr. 41/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 41/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-04-12",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-nr.-41-din-12.-04.-2018-Anexe.pdf",
+     "sha256": "b949d6aa66799a5c60ac40ef7bc5bf3ad32e60b6b87eb873be8a9373ec150f52"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--bolintin-vale-42-2018",
    "path": "local/giurgiu/bolintin-vale/2018/42",
    "short": "HCL Bolintin-Vale nr. 42/2018",
@@ -48,6 +633,411 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--bolintin-vale-43-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/43",
+   "short": "HCL Bolintin-Vale nr. 43/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 43/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-nr.-43-din-25.-04.-2018.pdf",
+     "sha256": "84347cbdb9644ad428aa1fe48076404e0b7a0cdc37cc1f956a80cd9209cff128"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-44-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/44",
+   "short": "HCL Bolintin-Vale nr. 44/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 44/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-nr.-44-din-25.-04.-2018.pdf",
+     "sha256": "b5b84783e600af292dfbf059015e96978f4c05035c515169b1d1b50a8fd6c3de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-45-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/45",
+   "short": "HCL Bolintin-Vale nr. 45/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 45/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-nr.-45-din-25.-04.-2018.pdf",
+     "sha256": "24b1b2a49e26ccbbc9f79695830c7c00822effca4ce3432b877c1fa3e16d9c6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-46-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/46",
+   "short": "HCL Bolintin-Vale nr. 46/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 46/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-nr.-46-din-25.-04.-2018.pdf",
+     "sha256": "ea52853ea8c4aafab720ba440b040a397292b543bea08ed9d5465846e644611b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-47-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/47",
+   "short": "HCL Bolintin-Vale nr. 47/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 47/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-nr.-47-din-25.-04.-2018.pdf",
+     "sha256": "b8bbcf066146df08b6f972c6bc0c1abaa9dc8ab1784c8c3770ef72310d6600b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-48-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/48",
+   "short": "HCL Bolintin-Vale nr. 48/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 48/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-nr.-48-din-11.-05.-2018.pdf",
+     "sha256": "2b8c4a26708b10c636e0cc463be97cd93e88c77a6d7c29384aa7669ea0bcc5d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-49-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/49",
+   "short": "HCL Bolintin-Vale nr. 49/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 49/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-nr.-49-din-11.-05.-2018-Anexe.pdf",
+     "sha256": "3e738e69d4fb3808909b78033e60fe6d4f0d3a23474ff60078fde355dfd9c7ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-50-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/50",
+   "short": "HCL Bolintin-Vale nr. 50/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 50/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotararea-nr.-50-din-11.-05.-2018-Anexe.pdf",
+     "sha256": "07800ae7ed0ad79e995771c3b083217d84fa4fc7a285b69eadd84d00c9019146"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-51-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/51",
+   "short": "HCL Bolintin-Vale nr. 51/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 51/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotararea-nr.-51-din-11.-05.-2018.pdf",
+     "sha256": "2f1dc482dde276d8104855b2b2196062374290f5cb7ace930323ebda967e584c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-52-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/52",
+   "short": "HCL Bolintin-Vale nr. 52/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 52/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotararea-nr.-52-din-11.-05.-2018.pdf",
+     "sha256": "cc68a4fbac967f0e6dd41c534171f0b6015ce31fe42e0b51f016e4183972825e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-53-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/53",
+   "short": "HCL Bolintin-Vale nr. 53/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 53/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotararea-nr.-53-din-11.-05.-2018.pdf",
+     "sha256": "d2688c764f08c6c7377bbffb8cbf14f3b38be3de1b48f318f1eb2151eb1ba7dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-54-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/54",
+   "short": "HCL Bolintin-Vale nr. 54/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 54/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-nr.-54-din-31.-05.-2018.pdf",
+     "sha256": "c6ef5466f2acda243d4f8b3cf6a430f2988325a9e5b4081470e6979be4c11d9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-55-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/55",
+   "short": "HCL Bolintin-Vale nr. 55/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 55/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-nr.-55-din-31.-05.-2018.pdf",
+     "sha256": "0d9215429857f54612866e83b4c46fcb6544c7014422fecbf85b331c8de70251"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-56-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/56",
+   "short": "HCL Bolintin-Vale nr. 56/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 56/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-nr.-56-din-31.-05.-2018.pdf",
+     "sha256": "61cc04fa5a6e0601a861d1c3ba39a6e73e93649f5ba23470d0eff4a9fcdf4332"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-57-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/57",
+   "short": "HCL Bolintin-Vale nr. 57/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 57/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-nr.-57-din-31.-05.-2018.pdf",
+     "sha256": "dc121c89a2ad284bee55a3e6de049d197ffff2e57a4c38977a01f7ef7b007910"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-58-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/58",
+   "short": "HCL Bolintin-Vale nr. 58/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 58/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/3/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/07/Hotarare-nr.-58-din-31.-05.-2018.pdf",
+     "sha256": "c487e6f2852eb65cbf5ba89c773e8b0db68aa0a0113e3f7a9d8785a5a110a942"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-59-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/59",
+   "short": "HCL Bolintin-Vale nr. 59/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 59/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-nr-59-din-28.06.2018-Regulament-pentru-functionare-Targ-Saptamanal.pdf",
+     "sha256": "f7dd22c5f09f9c627596de3964fb6953ee5128d40a0dce20ee0559a953acaa09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-60-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/60",
+   "short": "HCL Bolintin-Vale nr. 60/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 60/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-nr.-60-din-28.06.2018Anexe.pdf",
+     "sha256": "98c4fd16691ed45bce743780c82b86c29978c56da3650fc718ee30825e3f7017"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-61-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/61",
+   "short": "HCL Bolintin-Vale nr. 61/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 61/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-nr.-61-din-28.06.2018.pdf",
+     "sha256": "255abe4e9c7ee01633d8fd1b20cf5461fcca00926b8cb59771947694d4c3e149"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-62-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/62",
+   "short": "HCL Bolintin-Vale nr. 62/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 62/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-nr.-62-din-28.06.2018.pdf",
+     "sha256": "4e8659bc8bbca10e5945e884112b8f74c65e10293ead0aab29665bc6af54e5f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-63-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/63",
+   "short": "HCL Bolintin-Vale nr. 63/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 63/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-nr.-63-din-28.06.2018.pdf",
+     "sha256": "783b3781501b6fe7d7a7fcf7c4ad7d7c6a6ae0325e4e816e3c406900ac782178"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-64-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/64",
+   "short": "HCL Bolintin-Vale nr. 64/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 64/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-07-02",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr.-64-din-02.07.2018.pdf",
+     "sha256": "587fa8d77be3e309bfde98f3bf1e926171a8eb137c71e3d8141dc8d4fce5c666"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-65-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/65",
+   "short": "HCL Bolintin-Vale nr. 65/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 65/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-07-02",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr.-65-din-02.07.2018-Anexe.pdf",
+     "sha256": "e5791a18dbc170df5fd71d5f813f810ff3877ede190ea63e88dd04dbbf31cdf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-66-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/66",
+   "short": "HCL Bolintin-Vale nr. 66/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 66/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-07-02",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr.-66-din-02.07.2018.pdf",
+     "sha256": "2ea93667425854b5f70247bca8da645bd497295c1f490455be801c5a3b93ea35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-67-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/67",
+   "short": "HCL Bolintin-Vale nr. 67/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 67/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-07-02",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr.-67-din-02.07.2018.pdf",
+     "sha256": "48df2e8dce960ffcfde9e2710ea93005c5dd74596076667a5ecd56c521d9fda7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-68-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/68",
+   "short": "HCL Bolintin-Vale nr. 68/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 68/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-68-din-20.07.2018.pdf",
+     "sha256": "91f09e978f9a024c6451a50e4a99dc9c7a3a3e4459d3c963f09bbbfddde3f7a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-69-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/69",
+   "short": "HCL Bolintin-Vale nr. 69/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 69/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-07-20",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliu-Local-nr-69-din-20.07.2018.pdf",
+     "sha256": "a5095f90a4de61afef3dc0ec72948ddbae98e33a348f89fb7da4dfb766cb8103"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--bolintin-vale-70-2018",
    "path": "local/giurgiu/bolintin-vale/2018/70",
    "short": "HCL Bolintin-Vale nr. 70/2018",
@@ -59,6 +1049,411 @@
      "units": 1,
      "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-70-din-30.07.2018.pdf",
      "sha256": "a6abd09fae14f20d4100576498f151cd48f818c6019fcb34a1f4aeafe6661fae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-71-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/71",
+   "short": "HCL Bolintin-Vale nr. 71/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 71/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-07-30",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-71-din-30.07.2018.pdf",
+     "sha256": "85ee1018867c92bb588fcf8f88f2d21f2f9f98e963674eca982e5cf3ad72f90d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-72-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/72",
+   "short": "HCL Bolintin-Vale nr. 72/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 72/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-07-30",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-72-din-30.07.2018.pdf",
+     "sha256": "ad7bbbae1433f1048191f768d7cb7e5754a00b061561d17067820eb665fd6783"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-73-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/73",
+   "short": "HCL Bolintin-Vale nr. 73/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 73/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr-73-din-14.08.2018.pdf",
+     "sha256": "acabcf5d0da0d41fa0e4c5db890d33c324bd3d5d16ce7d6b8db725ff316d0b65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-74-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/74",
+   "short": "HCL Bolintin-Vale nr. 74/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 74/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr-74-din-14.08.2018.pdf",
+     "sha256": "b68bdc3d8e6ac0ccfa4e3de973b1b5af9e629a02243b9ec6321348961c9f0d42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-75-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/75",
+   "short": "HCL Bolintin-Vale nr. 75/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 75/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr-75-din-14.08.2018.pdf",
+     "sha256": "fbb366806b1e5df18bf400a9494ca2da835cacc1e6f681c470eaa976ce0e43db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-76-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/76",
+   "short": "HCL Bolintin-Vale nr. 76/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 76/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr-76-din-14.08.2018.pdf",
+     "sha256": "924e7feb08eec4a484d4da50f67b7c86239f63101654be659b58299ceb0421af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-78-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/78",
+   "short": "HCL Bolintin-Vale nr. 78/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 78/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-78-din-29.08.2018.pdf",
+     "sha256": "bb653d3b525c51b5e37e128c2e833d7a5944e59b55fcf5f31909616a918ce35c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-79-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/79",
+   "short": "HCL Bolintin-Vale nr. 79/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 79/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-79-din-29.08.2018.pdf",
+     "sha256": "946835e1ac328224e3969d3e62731e6edff9726a86a0f9f39ef1bab0615c88b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-80-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/80",
+   "short": "HCL Bolintin-Vale nr. 80/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 80/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-80-din-29.08.2018.pdf",
+     "sha256": "771464fb986c00c72a3506da61e38987f1403a93de4954f1654edde1fe2ea487"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-81-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/81",
+   "short": "HCL Bolintin-Vale nr. 81/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 81/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-81-din-29.08.2018.pdf",
+     "sha256": "45f41fcd09893b17ae6c4063bb3c28da063741958d13b1ebb0c99b85e273b291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-82-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/82",
+   "short": "HCL Bolintin-Vale nr. 82/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 82/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-82-din-29.08.2018.pdf",
+     "sha256": "37d6231ce94ec92cd7e80972f5025c7261b8c2d31f96a0eb92af8dcf4b3e6101"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-83-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/83",
+   "short": "HCL Bolintin-Vale nr. 83/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 83/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-83-din-29.08.2018.pdf",
+     "sha256": "7f5a15683edc1e17377f046d4b93a73bbfdc08726c772f574507782cd060ba3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-84-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/84",
+   "short": "HCL Bolintin-Vale nr. 84/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 84/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-84-din-29.08.2018.pdf",
+     "sha256": "8b55ca12decdbfd3ebfb546c429ee57e4af34f3d90ab9b2b6891672e6cd7831f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-85-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/85",
+   "short": "HCL Bolintin-Vale nr. 85/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 85/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-85-din-29.08.2018.pdf",
+     "sha256": "0f66985ef161afb3460f9eed71b89430f73e9d7a607dccca2d5a2b5155a85257"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-86-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/86",
+   "short": "HCL Bolintin-Vale nr. 86/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 86/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-86-din-29.08.2018.pdf",
+     "sha256": "0bb61a0edcb5d92d5798c739718e526ac9bd353cf8d1ee6a202522a3d3e60be7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-87-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/87",
+   "short": "HCL Bolintin-Vale nr. 87/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 87/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-87-din-29.08.2018.pdf",
+     "sha256": "db9a136044d78b81ef2d23e858115c0a650e902fcb347e703dc5ea9429a72e8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-88-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/88",
+   "short": "HCL Bolintin-Vale nr. 88/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 88/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-88-din-29.08.2018.pdf",
+     "sha256": "8b6deff6d6e8ac45659bfab028b35fcf8d0eee2cfc497590d40fb861f5e3adfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-89-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/89",
+   "short": "HCL Bolintin-Vale nr. 89/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 89/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-08-29",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-89-din-29.08.2018.pdf",
+     "sha256": "cdb31ae3dfd5c81b61906020fef79e33c262c1459987d441dc4f47311fe239b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-91-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/91",
+   "short": "HCL Bolintin-Vale nr. 91/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 91/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-09-21",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-91-din-21.09.2018.pdf",
+     "sha256": "abd53b882a143f8268425924f278c5c431eb6c3c0c3312197ece12aced7a9279"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-92-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/92",
+   "short": "HCL Bolintin-Vale nr. 92/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 92/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-92-din-27.09.2018.pdf",
+     "sha256": "26fd0175b99aaca85526fa8caf48194e2a29167689854875599d6bab5de6ea6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-93-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/93",
+   "short": "HCL Bolintin-Vale nr. 93/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 93/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-93-din-27.09.2018.pdf",
+     "sha256": "a25d6c5c65cb282662d745048c579f0aa39e390d247641bb082ddc22727150ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-94-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/94",
+   "short": "HCL Bolintin-Vale nr. 94/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 94/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-94-din-27.09.2018.pdf",
+     "sha256": "2d52b0866381db2631cb83d43e5420f4c37e4972fe89a0c12df13513d0f6cf65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-95-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/95",
+   "short": "HCL Bolintin-Vale nr. 95/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 95/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-95-din-27.09.2018.pdf",
+     "sha256": "c72441243b2d79016db40bb3c9094fe2dc99ca53c57839b4523c685bcee4e5d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-96-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/96",
+   "short": "HCL Bolintin-Vale nr. 96/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 96/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-96-din-27.09.2018.pdf",
+     "sha256": "521e1bb9a9fac0fb68904dfc24bb8265dca2d87bec2570c165511ca0f6358755"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-97-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/97",
+   "short": "HCL Bolintin-Vale nr. 97/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 97/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-97-din-27.09.2018.pdf",
+     "sha256": "b517fbf645926876237bf83caadb1412c5166e80e269e1306e1929496937a2d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-98-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/98",
+   "short": "HCL Bolintin-Vale nr. 98/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 98/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/page/2/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-98-din-27.09.2018.pdf",
+     "sha256": "4848319507f5f5fee42205bd338c015d8346e0255588f3a7cbc6743644968105"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--bolintin-vale-99-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/99",
+   "short": "HCL Bolintin-Vale nr. 99/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 99/2018",
+   "url": "https://www.bolintin-vale.ro/categorie-documente/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2018/12/Hotarare-Consiliul-Local-nr.-99-din-27.09.2018.pdf",
+     "sha256": "e45488fcf878f02e234039150ec31e53d30fe4656e0bdc13f5ce724d5befc032"
     }
    ]
   }

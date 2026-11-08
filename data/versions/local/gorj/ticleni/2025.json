@@ -3,6 +3,21 @@
  "shard": "local/gorj/ticleni/2025",
  "acts": [
   {
+   "slug": "hcl-gorj--ticleni-1-2025",
+   "path": "local/gorj/ticleni/2025/1",
+   "short": "HCL Țicleni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 1/2025 privind aprobarea numărului de asistenţi personali ai persoanelor cu handicap grav pentru anul 2025",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-1-din-29.01.2025-privind-aprobrea-numarului-de-asistenti-personali-ai-persoanelor-cu-handicap-grav-pentru-anul-2025-.pdf",
+     "sha256": "7c2eb2aaeeb7cfa756e70cd4961f25fb63483095509ec39c1f3aba35f21dd906"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-10-2025",
    "path": "local/gorj/ticleni/2025/10",
    "short": "HCL Țicleni nr. 10/2025",
@@ -14,6 +29,231 @@
      "units": 1,
      "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-10-din-28.02.2025-privind-aprobarea-tarifelor-pt-activitatile-prestate-de-SC-SALUBRIS-GILORT-SRL-conform-contractului-de-delegare-a-gestiunii-nr.485-din-17.06.2011-.pdf",
      "sha256": "11d2b6e08738986cb624770d26fa23ab42db4b98c74ad8a6f2560b07593ba7c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-11-2025",
+   "path": "local/gorj/ticleni/2025/11",
+   "short": "HCL Țicleni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 11/2025 privind aprobarea acordării normei de hrană, pentru personalul din cadrul compartimentului POLIŢIE LOCALĂ din aparatul de specialitate al primăriei oraşului Ţicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-11-din-17.03.2025-privind-aprob-acordarii-normei-de-hrana-pentru-personalul-din-cdrul-compartimentului-Politie-Locala-.pdf",
+     "sha256": "30c1158e9b2d8b8a8e27e63d66839d7d8df7f8c9e4222f22376a53347ade40bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-12-2025",
+   "path": "local/gorj/ticleni/2025/12",
+   "short": "HCL Țicleni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 12/2025 privind aprobarea Acordului colectiv de muncă al salariaţiilor - funcţionari publici şi personal contractual - din cadrul aparatului de specialitate al primarului şi serviciilor publice de interes local fără personalitate juridică",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-12-din-17.03.2025-privind-aprobarea-Acordului-colectiv-de-munca-al-salariatiilor-.pdf",
+     "sha256": "e29d64df7c89a246a2d224d2899d7e3c0a5056b71b778f94c1e8b61e6da0bac6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-13-2025",
+   "path": "local/gorj/ticleni/2025/13",
+   "short": "HCL Țicleni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 13/2025",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+     "sha256": "dad488ef216ec49d6d96aac1013acaf2fa056b085ec0b4eb5a51e78d60909a44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-14-2025",
+   "path": "local/gorj/ticleni/2025/14",
+   "short": "HCL Țicleni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 14/2025 privind aprobarea privind aprobarea Notei de fundamentare nr. 2022/14.02.2025 privind necesitatea şi oportunitatea realizării investiţiei ,,Asfaltare,, (modernizare) aleea Cetăţii , aleea Tunarilor (partea neasfaltată), aleea Villeneuve D'Ascq, aleea Fabricii de Pâine (Proi",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-14-din-17.03.2025-privind-aprobarea-Notei-de-fundamentare-nr.-2022-din-14.05.2025-.pdf",
+     "sha256": "415b1122981d949ed0715fddedce454b58e1557aac2612e419cd4f20cafd472b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-15-2025",
+   "path": "local/gorj/ticleni/2025/15",
+   "short": "HCL Țicleni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 15/2025 privind utilizarea excedentului anual al bugetului local rezultat la încheierea exercitiului bugetar al anului 2024",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-15-din-27.03.2025-privind-utilizarea-execdentului-anual-al-bugetului-local-rezultat-la-incheierea-exercitiului-bugetar-al-anului-2025-.pdf",
+     "sha256": "14961c3836edfaa3bc4f34bb2d82761570c723659dbc9a118d2f60335e71e42a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-16-2025",
+   "path": "local/gorj/ticleni/2025/16",
+   "short": "HCL Țicleni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 16/2025 privind aprobarea bugetului local de venituri şi cheltuieli al oraşului Ticleni și bugetul instituțiilor finanțate integral din venituri proprii pe anul 2025",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-16-din-27.03.2025-privind-aprobarea-Bugetului-local-.pdf",
+     "sha256": "1346f1e49dbf0e841f34cc4da0b3fdd23503029dab4302ba63fe9e8a06cf5949"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-17-2025",
+   "path": "local/gorj/ticleni/2025/17",
+   "short": "HCL Țicleni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 17/2025 privind aprobarea Planului de analiză şi acoperire a riscurilor la nivelul localităţii Ţicleni pentru anul 2025",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-17-din-27.03.2025-privind-aprobarea-Planului-de-analiza-si-acoperirea-a-rsicurilor-la-nivelul-localitatii-Ticleni-pentru-anul-2025-.pdf",
+     "sha256": "c8ab2cbeeb046be050e57c568453df6fda9e82fb28b576c0af4652d4c0030279"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-18-2025",
+   "path": "local/gorj/ticleni/2025/18",
+   "short": "HCL Țicleni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 18/2025 privind aprobarea Programul de măsuri pentru gospodărirea şi înfrumusețarea oraşului Ţicleni, anul 2025",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-18-din-27.03.2025-privind-aprobarea-Programului-de-masuri-pentru-gospodarirea-si-infrumusetarea-orasului-Ticlenianul-2025-.pdf",
+     "sha256": "87ffe26d99d76bc8f568e89ad9a1fcf61055165500a6641c80650b5945d652f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-19-2025",
+   "path": "local/gorj/ticleni/2025/19",
+   "short": "HCL Țicleni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 19/2025 privind aprobarea Programului de acţiune comunitară destinat prevenirii şi combaterii riscului de sărăcie şi excluziune socială",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-19-din-27.03.2025-privind-aprob-Programului-de-actiune-comunitara-destinat-prevenirii-si-combaterii-riscului-de-saracie-si-excluziune-sociala-.pdf",
+     "sha256": "ef8b38dfcbe9d4b0ecaa04926c26fc926841ab06aa064de73e3fcdfdfcc4920a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-2-2025",
+   "path": "local/gorj/ticleni/2025/2",
+   "short": "HCL Țicleni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 2/2025 privind aprobarea Planului de acţiuni şi lucrări de interes local ce se vor executa în anul 2025 de către persoanele apte de muncă, beneficiarii Legii nr.196/2016- privind venitul minim de incluziune - componenţa ajutor de incluziune",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-2-din-29.01.2025-privind-aprobarea-Planului-de-actiuni-si-lucrari-de-interes-local-ce-se-vor-executa-in-anul-2025-de-catre-pers-apte-de-munca-beneficiari-ai-Legii-196-2016-.pdf",
+     "sha256": "c3de23b2d7a4f01c8c43abcf77c3c299fc75309f6f0e093b141e786b88b48198"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-20-2025",
+   "path": "local/gorj/ticleni/2025/20",
+   "short": "HCL Țicleni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 20/2025 privind aprobarea materialelor din cuprinsul Anuarului Oraşului Ţicleni ”Glasul Cetăţii”, ediţia 2025",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-20-din-27.03.2025-privind-aprobarea-materialelor-din-cuprinsul-Anuarului-Orasului-Ticleni-Glasul-Cetatii-editia-2025-.pdf",
+     "sha256": "020331f06e647a2fd8c543aa08cce67a30f9fd6fe2a5257277298d2ea9736b52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-21-2025",
+   "path": "local/gorj/ticleni/2025/21",
+   "short": "HCL Țicleni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 21/2025 privind alegerea preşedintelui de şedinţă pentru perioada aprilie-iunie 2025",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-21-din-27.03.2025-privind-alegerea-presedintelui-de-sedinta-pentru-perioada-aprilie-iunie-2025-.pdf",
+     "sha256": "83e417c4a7b252e72f84f9c3a8ff781f955b358020d391d8dfb9c10aa770dc24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-22-2025",
+   "path": "local/gorj/ticleni/2025/22",
+   "short": "HCL Țicleni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 22/2025 privind aprobarea contului de execuție al Bugetului local, Bugetului instituțiilor publice finanțate din venituri proprii, încheiate la data de 31.12.2024",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-22-din-30.04.2025-privind-aprobarea-contului-de-executie-al-Bugetului-localBugetului-inst.publice-finntate-din-venitur-proprii-incheiate-la-31.12.2024-.pdf",
+     "sha256": "821c68c48ad70ca4de438488e0a6a7c4c178a7e0d3c2116784cbdb2c1b6849bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-23-2025",
+   "path": "local/gorj/ticleni/2025/23",
+   "short": "HCL Țicleni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 23/2025 privind aprobarea execuției Bugetului local și Bugetului instituțiilor publice finanțate din venituri proprii, încheiată la data de 31.03.2025",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-23-din-30.04.-2025-privind-aprob-executiei-Bugetului-local-si-Bugetuluil-inst-publice-din-venituri-proprii-incheiata-la-data-de-31.03.2025-.pdf",
+     "sha256": "0c439311432508f710ae72b936c91a38368ece4d10ebbb6af5551477be8db085"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-24-2025",
+   "path": "local/gorj/ticleni/2025/24",
+   "short": "HCL Țicleni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 24/2025 privind aprobarea organizării unor manifestări dedicate evenimentului ”1 Iunie -Ziua Internaţională a Copilului”",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-24-din-30.04.2025-privind-aprobarea-organizarii-unor-manifestari-dedicate-ev-1-Iunie-ZIua-Internationala-a-Copilului-.pdf",
+     "sha256": "2361bd5ed6d2b716865bf32cd24ba7a432747e5a04f7261b5e69e4e68c7ef9b4"
     }
    ]
   },
@@ -48,6 +288,36 @@
    ]
   },
   {
+   "slug": "hcl-gorj--ticleni-27-2025",
+   "path": "local/gorj/ticleni/2025/27",
+   "short": "HCL Țicleni nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 27/2025",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+     "sha256": "270c345f9ab017ded49c6fa21c11fa41e2764d328d1ee090f3b26aeee1327312"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-28-2025",
+   "path": "local/gorj/ticleni/2025/28",
+   "short": "HCL Țicleni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 28/2025",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+     "sha256": "b82c85d42322e0328dffc6f78e9c14530c3e57ce0ca8613dfb4465ee3758dcd1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-29-2025",
    "path": "local/gorj/ticleni/2025/29",
    "short": "HCL Țicleni nr. 29/2025",
@@ -59,6 +329,21 @@
      "units": 1,
      "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
      "sha256": "dae0a7a45e27cd5ab650b569d42f66b283043e5f6978cc8b1d399936cd638c36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-3-2025",
+   "path": "local/gorj/ticleni/2025/3",
+   "short": "HCL Țicleni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 3/2025 privind aprobarea privind aprobarea activităţilor finanţate integral din venituri proprii, sursa E de finanţare a Liceului Tehnologic Ţicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-3-din-27.02.2025-privind-aprobarea-activitatilor-finantate-integral-din-venituri-proprii-sursa-E-de-finantare-a-Liceului-tehnologic-Ticleni-.pdf",
+     "sha256": "890e9d06f1e81d3c9261461a6598f902e1d958ef278b5925f6bf408b6fdc3a9d"
     }
    ]
   },
@@ -198,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--ticleni-4-2025",
+   "path": "local/gorj/ticleni/2025/4",
+   "short": "HCL Țicleni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 4/2025 privind aprobarea privind aprobarea activităţilor finanţate integral din venituri proprii, sursa E de finanţare a Şcolii Gimnaziale nr.1 Ţicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-4-din-27.02.2025-privind-aprobarea-activ-finantate-integral-din-venituri-proprii-sursa-E-de-finantare-a-Scolii-Gimnaziale-nr.1-Ticleni-.pdf",
+     "sha256": "55dd036df9d07237a0a21d7c2a8a8546d19215a98fe93eea87c6c5bdebcce5bc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-41-2025",
    "path": "local/gorj/ticleni/2025/41",
    "short": "HCL Țicleni nr. 41/2025",
@@ -288,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--ticleni-47-2025",
+   "path": "local/gorj/ticleni/2025/47",
+   "short": "HCL Țicleni nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 47/2025 privind aprobarea situaților financiare anuale și anexelor acestora, încheiate la data de 31.12.2024",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2026/01/HCL-nr.-47-din-18.07.2025-privind-aprobarea-situatiilor-finaciare-anuale-si-anexele-acestora-incheiate-la-data-de-31.12.2024.pdf",
+     "sha256": "ec9dbf3af9e6ed018fbc583ad17f61dce6469a2860ec9cc52897ec985ce1a1c9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-48-2025",
    "path": "local/gorj/ticleni/2025/48",
    "short": "HCL Țicleni nr. 48/2025",
@@ -314,6 +629,21 @@
      "units": 1,
      "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2026/01/HCL-nr.-49-din-31.07.2025-privind-organizarea-si-desfasurarea-evenimentului-1-Oct-Ziua-Internatioanala-a-Pers-Varstnice.pdf",
      "sha256": "e0cff8407c014b8191fc719988f8bf3f9015cbdbd1feef3eaa042428d6586981"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-5-2025",
+   "path": "local/gorj/ticleni/2025/5",
+   "short": "HCL Țicleni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 5/2025 privind aprobarea finantarii din bugetul de venituri si cheltuieli al orasului Ticleni a cofinatarii Liceului Tehnologic Ticleni",
+   "url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.5-din-27.02.2025-privind-aprobarea-finantarii-din-bugetul-de-venituri-si-cheltuieli-al-orasului-Ticleni-a-cofinatarii-Liceului-Tehnologic-Ticleni.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.5-din-27.02.2025-privind-aprobarea-finantarii-din-bugetul-de-venituri-si-cheltuieli-al-orasului-Ticleni-a-cofinatarii-Liceului-Tehnologic-Ticleni.pdf",
+     "sha256": "220dd6d009f48fac1da76e17cbd68c333ca67951f89c6eff750cf160571b1629"
     }
    ]
   },
@@ -468,6 +798,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--ticleni-6-2025",
+   "path": "local/gorj/ticleni/2025/6",
+   "short": "HCL Țicleni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 6/2025 privind aprobarea Planului anual de acţiune al serviciilor sociale administrate şi finanţate din bugetul Consiliului Local al oraşului Ţicleni, judeţul Gorj, pentru anul 2025",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-6-din-27.02.2025-privind-aprovarea-Planului-anual-de-actiune-al-serviciilor-sociale-adminsitrate-si-finantate-din-bugeul-Consiliului-Local-al-orasului-Ticleni-.pdf",
+     "sha256": "f8f748b79fad34c5f9dc10851f4d6cbb8f7da62ffb3fea649258c7ac064989e1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-60-2025",
    "path": "local/gorj/ticleni/2025/60",
    "short": "HCL Țicleni nr. 60/2025",
@@ -584,6 +929,21 @@
      "units": 1,
      "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2026/01/HCL-nr.-67-din-25.09.2025-privind-stabilirea-salariilor-de-baza-in-suma-fixa-pentru-functionarii-publici-si-personalul-contractual.pdf",
      "sha256": "665cfde65f6d1b90e759f4055e21eccaae187f38fa03602620e72afdbd5bdd28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-7-2025",
+   "path": "local/gorj/ticleni/2025/7",
+   "short": "HCL Țicleni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 7/2025 privind aprobarea aprobarea colectivului de redacţie al Anuarului Oraşului Ţicleni ``Glasul Cetăţii``, ediţia 2025",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-7-din-27.02.2025-privind-aprobarea-colectivului-de-redactie-al-Anuarului-Orasului-Ticleni-Glasul-cetatii-editia-2025-.pdf",
+     "sha256": "d66d4ee1197c56d236d25b9456e946d62ddc73b6a31e017a4e5815974db79c18"
     }
    ]
   },
@@ -719,6 +1079,21 @@
      "units": 1,
      "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2026/01/HCL-nr.-79-din-30.10.2025-privind-trecerea-imbilului-teren-intravilan-.-din-domeniul-privat-in-domeniul-public-al-orasului-Ticleni-.pdf",
      "sha256": "825e04458ea8d40f6b1adc816ff580aff6f410dddfbf1de38054ae8bd545d15a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-8-2025",
+   "path": "local/gorj/ticleni/2025/8",
+   "short": "HCL Țicleni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 8/2025 privind aprobarea Notei de fundamentare nr.2023 din 14.02.2025",
+   "url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-8-din-27.02.2025-privind-aprobarea-Notei-de-fundamentare-nr.2023-din-14.02.2025-.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-8-din-27.02.2025-privind-aprobarea-Notei-de-fundamentare-nr.2023-din-14.02.2025-.pdf",
+     "sha256": "76ddad2b527ebf59dd6d370101b35ed91cbfffbffe0ffcdacc2e8c3d76dbb755"
     }
    ]
   },
@@ -869,6 +1244,21 @@
      "units": 1,
      "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
      "sha256": "7d8607207caedcf0311297a5c5064660510ecf0881d3eeaa8892b8192fd15b47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-9-2025",
+   "path": "local/gorj/ticleni/2025/9",
+   "short": "HCL Țicleni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 9/2025 privind aprobarea aprobarea Studiului de fezabilitate, a Devizului general şi a indicatorilor tehnico-economici aferenţi obiectivului de investiţii „ Dezvoltarea infrastructurii ITS/TIC a Oraşului Ţicleni``finanţat prin PNRR, C-10 Fondul Local 1.1.2-Asigurarea infrastructuri",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-9-din-27.02.2025-privind-aprobarea-Studiului-de-fezabilitate-a-Devizului-general-si-a-indicatorilor-tehnico-economic-aferenti-ob-de-investitii.pdf",
+     "sha256": "f22e0fabad55240ab3a5df155f96f076a745a414b50de99f0ef3ef53080795c7"
     }
    ]
   },

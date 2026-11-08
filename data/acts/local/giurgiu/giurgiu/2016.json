@@ -3,6 +3,116 @@
 "shard": "local/giurgiu/giurgiu/2016",
 "acts": [
 {
+"slug": "hcl-giurgiu--giurgiu-8-2016",
+"path": "local/giurgiu/giurgiu/2016/8",
+"kind": "local",
+"year": "2016",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 8/2016 privind modificarea Hotărârii Consiliului Local al municipiului Giurgiu nr.30 din data de 31 ianuarie 2013 privind preluarea în administrarea Consiliului Local al municipiului Giurgiu a obiectivului „Depozit de deșeuri neconform al Municipiului Giurgiu” întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 8/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-01-15",
+"latest": "2016-01-15",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-21-2016",
+"path": "local/giurgiu/giurgiu/2016/21",
+"kind": "local",
+"year": "2016",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 21/2016 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.372 din data de 06 octombrie 2015 privind aprobarea prețului local de facturare al energiei termice livrată populației din Municipiul Giurgiu, prin sistem centralizat, în scopul încălzirii și preparării apei calde pentru sezonul de încălzire 15 octombrie 2015 — 15 aprilie 2016",
+"short": "HCL Giurgiu nr. 21/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-01-15",
+"latest": "2016-01-15",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-22-2016",
+"path": "local/giurgiu/giurgiu/2016/22",
+"kind": "local",
+"year": "2016",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 22/2016 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.371 din data de 06 octombrie 2015 privind aprobarea prețului local al energiei termice către utilizatorii de energie termică din Municipiul Giurgiu, pentru sezonul de încălzire 15 octombrie 2015 — 15 aprilie 2016",
+"short": "HCL Giurgiu nr. 22/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-01-15",
+"latest": "2016-01-15",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-57-2016",
+"path": "local/giurgiu/giurgiu/2016/57",
+"kind": "local",
+"year": "2016",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 57/2016 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.21 din data 15 ianuarie 2016",
+"short": "HCL Giurgiu nr. 57/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-01-15",
+"latest": "2016-01-15",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-67-2016",
+"path": "local/giurgiu/giurgiu/2016/67",
+"kind": "local",
+"year": "2016",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 67/2016 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.184 din data de 28 mai 2015",
+"short": "HCL Giurgiu nr. 67/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-03-09",
+"latest": "2016-03-09",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-103-2016",
 "path": "local/giurgiu/giurgiu/2016/103",
 "kind": "local",
@@ -47,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-140-2016",
+"path": "local/giurgiu/giurgiu/2016/140",
+"kind": "local",
+"year": "2016",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 140/2016 privind completarea Hotărârii Consiliului Local nr.1/2016 de aprobare a excedentului secțiunii de funcționare și deficitului secțiunii de dezvoltare din excedentul Bugetului local pe anul 2015 precum și utilizarea excedentului bugetar rezultat la încheierea exercițiului bugetar 2015 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 140/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-04-06",
+"latest": "2016-04-06",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-153-2016",
 "path": "local/giurgiu/giurgiu/2016/153",
 "kind": "local",
@@ -61,6 +193,28 @@
 "versions": 1,
 "from": "2016-04-06",
 "latest": "2016-04-06",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-168-2016",
+"path": "local/giurgiu/giurgiu/2016/168",
+"kind": "local",
+"year": "2016",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 168/2016 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.132 din data de 06 aprilie 2016 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 168/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-05-12",
+"latest": "2016-05-12",
 "portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
 "council": "giurgiu/giurgiu",
 "council_name": "Consiliul Local al Municipiului Giurgiu",
@@ -267,6 +421,29 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-310-2016",
+"path": "local/giurgiu/giurgiu/2016/310",
+"kind": "local",
+"year": "2016",
+"number": "310",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 310/2016",
+"short": "HCL Giurgiu nr. 310/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-05",
+"latest": "2016-09-05",
+"portal": null,
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-323-2016",
 "path": "local/giurgiu/giurgiu/2016/323",
 "kind": "local",
@@ -276,6 +453,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 323/2016 privind trecerea din domeniul punlic în domeniul privat al Muncipiului Giurgiu a unor bunuri aflate în exploatarea S.C",
 "short": "HCL Giurgiu nr. 323/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-29",
+"latest": "2016-09-29",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-338-2016",
+"path": "local/giurgiu/giurgiu/2016/338",
+"kind": "local",
+"year": "2016",
+"number": "338",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 338/2016 privind completarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.286 din data de 05 septembrie 2016 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 338/2016",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,
@@ -311,6 +510,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-367-2016",
+"path": "local/giurgiu/giurgiu/2016/367",
+"kind": "local",
+"year": "2016",
+"number": "367",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 367/2016",
+"short": "HCL Giurgiu nr. 367/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-10-27",
+"latest": "2016-10-27",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-369-2016",
 "path": "local/giurgiu/giurgiu/2016/369",
 "kind": "local",
@@ -326,6 +547,94 @@
 "from": "2016-10-27",
 "latest": "2016-10-27",
 "portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2017-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-371-2016",
+"path": "local/giurgiu/giurgiu/2016/371",
+"kind": "local",
+"year": "2016",
+"number": "371",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 371/2016 privind modificarea și completarea Anexei la Hotărârea Consiliului Local al Municipiului Giurgiu nr.82 din data de 26 februarie 2015 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 371/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-10-27",
+"latest": "2016-10-27",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-374-2016",
+"path": "local/giurgiu/giurgiu/2016/374",
+"kind": "local",
+"year": "2016",
+"number": "374",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 374/2016 privind aprobarea alipirii a două terenuri și modificarea și completarea Hotârării nr.491 din data de 19 decembrie 2013 a Consiliului Local al Municipiului Giurgiu întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 374/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-10-27",
+"latest": "2016-10-27",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-391-2016",
+"path": "local/giurgiu/giurgiu/2016/391",
+"kind": "local",
+"year": "2016",
+"number": "391",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 391/2016 privind modificarea Hotărârii de Consiliu Local al Municipiului Giurgiu nr.359 din 14 octombrie 2016 privind aprobarea prețului local de facturare al energiei termice livrată populației în municipiul Giurgiu, prin sistem centralizat, în scopul încălzirii și preparării apei calde pentru sezonul de încălzire 16 octombrie 2016 — 15 aprilie 2017",
+"short": "HCL Giurgiu nr. 391/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-10-27",
+"latest": "2016-10-27",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-392-2016",
+"path": "local/giurgiu/giurgiu/2016/392",
+"kind": "local",
+"year": "2016",
+"number": "392",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 392/2016 privind modificarea Hotărârii de Consiliu Local al Municipiului Giurgiu nr.358 din14 octombrie 2016 privind aprobarea prețului local al energiei termice către utilizatorii de energie termică din Municipiul Giurgiu, prin sistem centralizat, în scopul încălzirii și preparării apei calde pentru sezonul de încălzire 16 octombrie 2016 — 15 aprilie 2017",
+"short": "HCL Giurgiu nr. 392/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-10-27",
+"latest": "2016-10-27",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
 "council": "giurgiu/giurgiu",
 "council_name": "Consiliul Local al Municipiului Giurgiu",
 "flags": {
@@ -352,6 +661,74 @@
 "council_name": "Consiliul Local al Municipiului Giurgiu",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-453-2016",
+"path": "local/giurgiu/giurgiu/2016/453",
+"kind": "local",
+"year": "2016",
+"number": "453",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 453/2016",
+"short": "HCL Giurgiu nr. 453/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-12-21",
+"latest": "2016-12-21",
+"portal": null,
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-456-2016",
+"path": "local/giurgiu/giurgiu/2016/456",
+"kind": "local",
+"year": "2016",
+"number": "456",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 456/2016",
+"short": "HCL Giurgiu nr. 456/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-12-21",
+"latest": "2016-12-21",
+"portal": null,
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-467-2016",
+"path": "local/giurgiu/giurgiu/2016/467",
+"kind": "local",
+"year": "2016",
+"number": "467",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 467/2016 privind aprobarea modificării și completării Hotărârii Consiliului Local nr. 319 din data de 24 septembrie 2015 privind aderarea Municipiului Giurgiu la Asociația „GIURGIU — TRADIȚIA PESCUITULUI DUNĂREAN” întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 467/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-12-21",
+"latest": "2016-12-21",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

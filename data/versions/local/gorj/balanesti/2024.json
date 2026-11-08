@@ -3,6 +3,276 @@
  "shard": "local/gorj/balanesti/2024",
  "acts": [
   {
+   "slug": "hcl-gorj--balanesti-1-2024",
+   "path": "local/gorj/balanesti/2024/1",
+   "short": "HCL Bălănești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 1/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/141187",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/141187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-10-2024",
+   "path": "local/gorj/balanesti/2024/10",
+   "short": "HCL Bălănești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 10/2024 privind aprobarea bugetului local de venituri şi cheltuieli, a listei de investiţii, a organigramei şi ştatului de funcţii pentru anul 2024 la nivelul comunei Bălăneşti, judeţul Gorj, precum şi utilizarea excedentului multianual bugetar al anului 2023",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/147196",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/147196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-11-2024",
+   "path": "local/gorj/balanesti/2024/11",
+   "short": "HCL Bălănești nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 11/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024 - R 1",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/148708",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/148708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-12-2024",
+   "path": "local/gorj/balanesti/2024/12",
+   "short": "HCL Bălănești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 12/2024 privind aprobarea depunerii proiectului si a cheltuielilor aferente proiectului “ Servicii sociale integrate pentru vârstnicii din Comuna BĂLĂNEȘTI” in cadrul apelului de proiecte ” PIDS/65/PIDS_P6/OP4 - COMUNITĂȚI DE SENIORI - Regiuni mai putin dezvoltate” din cadrul Programului Incluziune și Demnitate Socială 2021 – 2027 (PIDS), Prioritatea P06. Servicii de suport pentru persoane vârstnice, Obiectiv specific RSO4.3. Promovarea incluziunii socioeconomice a comunităților marginalizate, a gospodăriilor cu venituri reduse și a grupurilor defavorizate, inclusiv a persoanelor cu nevoi speciale, prin acțiuni integrate, inclusiv locuințe și servicii sociale (FEDR) si ESO4.11. Lărgirea accesului egal și în timp util la servicii de calitate, sustenabile și la prețuri accesibile, inclusiv servicii care promovează accesul la locuințe și îngrijire orientată către persoane, inclusiv asistență medicală",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/148709",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/148709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-13-2024",
+   "path": "local/gorj/balanesti/2024/13",
+   "short": "HCL Bălănești nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 13/2024 privind însuşirea variantei finale a proiectului de steag a comunei Bălănești, județul Gorj",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/151545",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/151545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-14-2024",
+   "path": "local/gorj/balanesti/2024/14",
+   "short": "HCL Bălănești nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 14/2024 privind reorganizarea Comitetului Local pentru Situații de Urgență la nivelul comunei Bălănești, județul Gorj",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/151546",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/151546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-15-2024",
+   "path": "local/gorj/balanesti/2024/15",
+   "short": "HCL Bălănești nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 15/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/155461",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/155461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-16-2024",
+   "path": "local/gorj/balanesti/2024/16",
+   "short": "HCL Bălănești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 16/2024 privind Aprobarea Planului anual de acțiune privind serviciile sociale administrative și finanțate din bugetul local al Unității Administrativ Teritoriale-comuna Bălănești, județul Gorj pentru anul 2024",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/155462",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/155462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-17-2024",
+   "path": "local/gorj/balanesti/2024/17",
+   "short": "HCL Bălănești nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 17/2024",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/155463",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/155463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-18-2024",
+   "path": "local/gorj/balanesti/2024/18",
+   "short": "HCL Bălănești nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 18/2024 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico -economici pentru obiectivul de investiție ,,Suplimentare sursă de alimentare cu apă de adâncime pentru sistemul de alimentare cu apă în comuna Bălănești, județul Gorj”",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/157128",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/157128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-19-2024",
+   "path": "local/gorj/balanesti/2024/19",
+   "short": "HCL Bălănești nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 19/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024 - R 2",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/157129",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/157129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-2-2024",
+   "path": "local/gorj/balanesti/2024/2",
+   "short": "HCL Bălănești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 2/2024 privind validarea Dispozitiei nr. 2/08.01.2024 privind acoperirea definitiva a deficitului sectiunii de dezvoltare in suma de -292.097,30 lei din excedentul bugetului local al anului precedent",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/141188",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/141188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-20-2024",
+   "path": "local/gorj/balanesti/2024/20",
+   "short": "HCL Bălănești nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 20/2024 privind validarea Dispozitiei nr. 38/23.05.2024 cu privire la modificarea de alocații bugetare pe anul 2024",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/158960",
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/158960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-21-2024",
+   "path": "local/gorj/balanesti/2024/21",
+   "short": "HCL Bălănești nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 21/2024 privind alocarea sumei de 35.000 lei din bugetul local pentru ziua de 1 IUNIE – « Ziua Copilului » la nivelul comunei Balanesti, judetul Gorj",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/158961",
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/158961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-22-2024",
+   "path": "local/gorj/balanesti/2024/22",
+   "short": "HCL Bălănești nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 22/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024 - R3",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/158998",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/158998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-23-2024",
+   "path": "local/gorj/balanesti/2024/23",
+   "short": "HCL Bălănești nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 23/2024 privind aprobarea majorarii cu 10% fata de nivelul acordat pentru luna decembrie 2023 a veniturilor salariale existente, ale angajatilor din cadrul aparatului de specialitate al Primarului Comunei Bălăneșști, județul Gorj si a celorlalte structuri şi servicii publice subordonate Consiliului Local al comunei Bălănești, județul Gorj, incepand cu data de 1 iunie 2024aprobarea majorarii cu 10% fata de nivelul acordat pentru luna decembrie 2023 a veniturilor salariale existente, ale angajatilor din cadrul aparatului de specialitate al Primarului Comunei Bălănești, județul Gorj si a celorlalte structuri şi servicii publice subordonate Consiliului Local al comunei Bălănești, județul Gorj, incepand cu data de 1 iunie 2024",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/162053",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/162053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-24-2024",
+   "path": "local/gorj/balanesti/2024/24",
+   "short": "HCL Bălănești nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 24/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/163791",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/163791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-25-2024",
+   "path": "local/gorj/balanesti/2024/25",
+   "short": "HCL Bălănești nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 25/2024 privind validarea Dispozitiei nr. 64/22.07.2024 cu privire la rectificarea bugetului local de venituri și cheltuieli pe anul 2024, prin modificarea de alocații bugetare",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/163792",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/163792",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--balanesti-26-2024",
    "path": "local/gorj/balanesti/2024/26",
    "short": "HCL Bălănești nr. 26/2024",
@@ -58,6 +328,21 @@
      "from": "2024-10-07",
      "units": 1,
      "source_url": "https://emol.ro/balanesti-gj/registru-hcl/171359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-3-2024",
+   "path": "local/gorj/balanesti/2024/3",
+   "short": "HCL Bălănești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 3/2024 privind aprobarea documentației tehnico-economice faza-SF și a indicatorilor tehnico-economici pentru obiectivul de investiții „Suplimentare sursă de apă de adâncime pentru sistemul de alimentare cu apă în comuna Bălănesti, judetul Gorj”",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/141189",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/141189",
      "sha256": null
     }
    ]
@@ -213,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--balanesti-4-2024",
+   "path": "local/gorj/balanesti/2024/4",
+   "short": "HCL Bălănești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 4/2024 privind aprobarea reorganizării planului de școlarizare și a rețelei școlare ce urmează a funcționa în anul școlar 2024-2025 pe raza comunei Bălănești, județul Gorj",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/141190",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/141190",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--balanesti-40-2024",
    "path": "local/gorj/balanesti/2024/40",
    "short": "HCL Bălănești nr. 40/2024",
@@ -298,6 +598,81 @@
      "from": "2024-12-23",
      "units": 1,
      "source_url": "https://emol.ro/balanesti-gj/registru-hcl/184401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-5-2024",
+   "path": "local/gorj/balanesti/2024/5",
+   "short": "HCL Bălănești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 5/2024 privind aprobarea reorganizării Consiliului Comunitar Consultativ al comunei Bălănești, județul Gorj și aprobarea Regulamentului de organizare și funcționare al Consiliului Comunitar Consultativ al comunei Bălănești, județul Gorj",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/141191",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/141191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-6-2024",
+   "path": "local/gorj/balanesti/2024/6",
+   "short": "HCL Bălănești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 6/2024",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/141192",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/141192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-7-2024",
+   "path": "local/gorj/balanesti/2024/7",
+   "short": "HCL Bălănești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 7/2024 privind aprobarea încheierii unui acord de cooperare cu Asociația Comunelor din România - Filiala Gorj în vederea asigurării funcției de audit public intern",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/141193",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/141193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-8-2024",
+   "path": "local/gorj/balanesti/2024/8",
+   "short": "HCL Bălănești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 8/2024 privind aprobarea procedurii privind aprobarea scutirii la plata majorărilor și a penalităților de întârziere aferente obligațiilor fiscale și celor bugetare asimilate acestora, constând în impozite și taxe locale, redevențe și chirii datorate bugetului local de către persoanele fizice",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/141194",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/141194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--balanesti-9-2024",
+   "path": "local/gorj/balanesti/2024/9",
+   "short": "HCL Bălănești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 9/2024 privind reorganizarea comisiilor de specialitate ale Consiliului Local Bălăneşti, Gorj",
+   "url": "https://emol.ro/balanesti-gj/registru-hcl/147195",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/balanesti-gj/registru-hcl/147195",
      "sha256": null
     }
    ]

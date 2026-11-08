@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--schitu-3-2026",
+"path": "local/giurgiu/schitu/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu nr. 3/2026 privind alegerea preşedintelui de şedinţă care va conduce şedinṭa ordinară convocată pentru data de 30.01.2026 şi va exercita pentru această şedinṭă atribuṭiile prevăzute de lege",
+"short": "HCL Schitu nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/schitu-gr/registru-hcl/279074",
+"council": "giurgiu/schitu",
+"council_name": "Consiliul Local al Comunei Schitu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--schitu-4-2026",
 "path": "local/giurgiu/schitu/2026/4",
 "kind": "local",
@@ -69,6 +91,74 @@
 }
 },
 {
+"slug": "hcl-giurgiu--schitu-5-2026",
+"path": "local/giurgiu/schitu/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu nr. 5/2026",
+"short": "HCL Schitu nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/schitu-gr/registru-hcl/279076",
+"council": "giurgiu/schitu",
+"council_name": "Consiliul Local al Comunei Schitu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--schitu-6-2026",
+"path": "local/giurgiu/schitu/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu nr. 6/2026 privind rectificarea Anexei nr.2, la HCL nr. 59/30.12.2025 privind stabilirea impozitelor și taxelor locale pe anul 2026 la nivelul comunei Schitu, judetul Giurgiu",
+"short": "HCL Schitu nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/schitu-gr/registru-hcl/279077",
+"council": "giurgiu/schitu",
+"council_name": "Consiliul Local al Comunei Schitu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--schitu-7-2026",
+"path": "local/giurgiu/schitu/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu nr. 7/2026",
+"short": "HCL Schitu nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/schitu-gr/registru-hcl/279078",
+"council": "giurgiu/schitu",
+"council_name": "Consiliul Local al Comunei Schitu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-giurgiu--schitu-8-2026",
 "path": "local/giurgiu/schitu/2026/8",
 "kind": "local",
@@ -88,6 +178,72 @@
 "council_name": "Consiliul Local al Comunei Schitu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--schitu-9-2026",
+"path": "local/giurgiu/schitu/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu nr. 9/2026 privind aprobarea închirierii prin atribuire directă a terenului în suprafață de 187 ha, pășune, crescătorilor de animale",
+"short": "HCL Schitu nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/schitu-gr/registru-hcl/279080",
+"council": "giurgiu/schitu",
+"council_name": "Consiliul Local al Comunei Schitu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--schitu-10-2026",
+"path": "local/giurgiu/schitu/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu nr. 10/2026 privind aprobarea închirierii prin atribuire directă a terenului în suprafață de 70,87 de ha, teren arabil islaz , crescătorilor de animale",
+"short": "HCL Schitu nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/schitu-gr/registru-hcl/279081",
+"council": "giurgiu/schitu",
+"council_name": "Consiliul Local al Comunei Schitu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--schitu-11-2026",
+"path": "local/giurgiu/schitu/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu nr. 11/2026 privind desemnarea unui consilier pentru a îndeplini funcţia de preşedinte de şedinţă pe o perioadă de 3 luni",
+"short": "HCL Schitu nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/schitu-gr/registru-hcl/279082",
+"council": "giurgiu/schitu",
+"council_name": "Consiliul Local al Comunei Schitu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -224,6 +380,51 @@
 }
 },
 {
+"slug": "hcl-giurgiu--schitu-18-2026",
+"path": "local/giurgiu/schitu/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu nr. 18/2026",
+"short": "HCL Schitu nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/schitu-gr/registru-hcl/279091",
+"council": "giurgiu/schitu",
+"council_name": "Consiliul Local al Comunei Schitu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--schitu-19-2026",
+"path": "local/giurgiu/schitu/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu nr. 19/2026 privind actualizarea HCL nr. 73 din 04.12.2023 privind depunerea și implementarea proiectului “EFICIENTIZAREA CONSUMULUI DE ENERGIE ELECTRICA LA UAT COMUNA SCHITU, JUD. GIURGIU PRIN INSTALARE DE PANOURI FOTOVOLTAICE CU PUTEREA DE 280 KWp”",
+"short": "HCL Schitu nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/schitu-gr/registru-hcl/279092",
+"council": "giurgiu/schitu",
+"council_name": "Consiliul Local al Comunei Schitu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-giurgiu--schitu-20-2026",
 "path": "local/giurgiu/schitu/2026/20",
 "kind": "local",
@@ -243,6 +444,52 @@
 "council_name": "Consiliul Local al Comunei Schitu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--schitu-21-2026",
+"path": "local/giurgiu/schitu/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu nr. 21/2026",
+"short": "HCL Schitu nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/schitu-gr/registru-hcl/279094",
+"council": "giurgiu/schitu",
+"council_name": "Consiliul Local al Comunei Schitu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--schitu-22-2026",
+"path": "local/giurgiu/schitu/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schitu nr. 22/2026",
+"short": "HCL Schitu nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/schitu-gr/registru-hcl/279095",
+"council": "giurgiu/schitu",
+"council_name": "Consiliul Local al Comunei Schitu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
