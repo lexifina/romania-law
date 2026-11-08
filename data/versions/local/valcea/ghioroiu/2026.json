@@ -3,6 +3,51 @@
  "shard": "local/valcea/ghioroiu/2026",
  "acts": [
   {
+   "slug": "hcl-valcea--ghioroiu-1-2026",
+   "path": "local/valcea/ghioroiu/2026/1",
+   "short": "HCL Ghioroiu nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 1/2026 acoperirea definitiva a deficitului sectiunii de dezvoltare si sectiunii de functionare inregistrat la 31.12.2025 din excedentul bugetului local al anului 2024",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#114176",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#114176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-10-2026",
+   "path": "local/valcea/ghioroiu/2026/10",
+   "short": "HCL Ghioroiu nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 10/2026 actualizarea Planului de analiza si acoperire a riscurilor",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119016",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-11-2026",
+   "path": "local/valcea/ghioroiu/2026/11",
+   "short": "HCL Ghioroiu nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 11/2026 aprobarea Regulamentului privind reglementarea utilizarii focului deschis pe raza comunei Ghioroiu, judetul Valcea",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119017",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119017",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--ghioroiu-12-2026",
    "path": "local/valcea/ghioroiu/2026/12",
    "short": "HCL Ghioroiu nr. 12/2026",
@@ -28,6 +73,21 @@
      "from": "2026-04-14",
      "units": 1,
      "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-14-2026",
+   "path": "local/valcea/ghioroiu/2026/14",
+   "short": "HCL Ghioroiu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 14/2026 aprobarea contului de executie a bugetului local pe trim.I al anului 2026",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#121461",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#121461",
      "sha256": null
     }
    ]
@@ -63,6 +123,126 @@
    ]
   },
   {
+   "slug": "hcl-valcea--ghioroiu-17-2026",
+   "path": "local/valcea/ghioroiu/2026/17",
+   "short": "HCL Ghioroiu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 17/2026 aprobarea documentelor necesare demarării procedurii de atribuire a Contractului de delegare prin concesiune a gestiunii activități componente ale serviciului de salubrizare (colectare, transport, transfer si operare CAV-uri) prin concesiune al unitatilor administrativ-teritoriale membre ale Asociatiei de Dezvoltare Intercomunitara ADISSL Valcea- Județul Valcea",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119019",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-18-2026",
+   "path": "local/valcea/ghioroiu/2026/18",
+   "short": "HCL Ghioroiu nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 18/2026 aprobarea documentelor necesare demarării procedurii de atribuire a Contractului de delegare prin concesiune a serviciului de operare a Centrului de Management Integrat al Deșeurilor Roești, a Stațiilor de sortare Râureni și Brezoi, Stație de compostare Râureni, activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitara ADISL a județului Vâlcea",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119021",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-19-2026",
+   "path": "local/valcea/ghioroiu/2026/19",
+   "short": "HCL Ghioroiu nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 19/2026 aprobarea Regulamentului propriu de organizare și funcţionare al serviciului public de salubrizare din județul Vâlcea",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119022",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-2-2026",
+   "path": "local/valcea/ghioroiu/2026/2",
+   "short": "HCL Ghioroiu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 2/2026 aprobarea Listei provizorii a obiectivelor de investitii pe anul 2026",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#114177",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#114177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-20-2026",
+   "path": "local/valcea/ghioroiu/2026/20",
+   "short": "HCL Ghioroiu nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 20/2026 aprobare buget local pe anul 2026",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#122074",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#122074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-21-2026",
+   "path": "local/valcea/ghioroiu/2026/21",
+   "short": "HCL Ghioroiu nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 21/2026 aprobarea Listei de investitii pe anul 2026",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#122076",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#122076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-22-2026",
+   "path": "local/valcea/ghioroiu/2026/22",
+   "short": "HCL Ghioroiu nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 22/2026 utilizarea excedentului bugetar al anului 2025",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#122077",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#122077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-23-2026",
+   "path": "local/valcea/ghioroiu/2026/23",
+   "short": "HCL Ghioroiu nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 23/2026 insusirea Raportului de inventariere a patrimoniului pe anul 2025",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#122078",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#122078",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--ghioroiu-24-2026",
    "path": "local/valcea/ghioroiu/2026/24",
    "short": "HCL Ghioroiu nr. 24/2026",
@@ -88,6 +268,21 @@
      "from": "2026-05-06",
      "units": 1,
      "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#122081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-26-2026",
+   "path": "local/valcea/ghioroiu/2026/26",
+   "short": "HCL Ghioroiu nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 26/2026 rectificarea bugetului local pe anul 2026",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#124606",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#124606",
      "sha256": null
     }
    ]
@@ -133,6 +328,21 @@
      "from": "2026-01-29",
      "units": 1,
      "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#114829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-30-2026",
+   "path": "local/valcea/ghioroiu/2026/30",
+   "short": "HCL Ghioroiu nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 30/2026 rectificarea bugetului local pe anul 2026",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#127133",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#127133",
      "sha256": null
     }
    ]
@@ -198,6 +408,36 @@
    ]
   },
   {
+   "slug": "hcl-valcea--ghioroiu-35-2026",
+   "path": "local/valcea/ghioroiu/2026/35",
+   "short": "HCL Ghioroiu nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 35/2026 inregistrarea comunei Ghioroiu in Sistemul National Electronic de Plata online a taxelor si impozitelor utilizand cardul bancar, respectiv inrolarea in sistemul ghiseul.ro",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#127831",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#127831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-36-2026",
+   "path": "local/valcea/ghioroiu/2026/36",
+   "short": "HCL Ghioroiu nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 36/2026 actualizarea si modificarea anexei nr.1 la hotararea nr.29/29.06.2017 privind aprobarea Nomenclaturii stradale a comunei Ghioroiu",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#127832",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#127832",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--ghioroiu-37-2026",
    "path": "local/valcea/ghioroiu/2026/37",
    "short": "HCL Ghioroiu nr. 37/2026",
@@ -208,6 +448,36 @@
      "from": "2026-08-25",
      "units": 1,
      "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#127833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-38-2026",
+   "path": "local/valcea/ghioroiu/2026/38",
+   "short": "HCL Ghioroiu nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 38/2026 rectificarea bugetului local si modificarea Listei de investitii pe anul 2026",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#130283",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#130283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-39-2026",
+   "path": "local/valcea/ghioroiu/2026/39",
+   "short": "HCL Ghioroiu nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 39/2026 implementarea proiectului ”IMPLEMENTARE SOLUȚII DE TIP SMART VILLAGE ÎN COMUNA GHIOROIU, JUDEȚUL VÂLCEA”",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#130284",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#130284",
      "sha256": null
     }
    ]
@@ -288,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--ghioroiu-7-2026",
+   "path": "local/valcea/ghioroiu/2026/7",
+   "short": "HCL Ghioroiu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 7/2026 aprobarea contului de executie a bugetului local pe anul 2025",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119013",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119013",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--ghioroiu-8-2026",
    "path": "local/valcea/ghioroiu/2026/8",
    "short": "HCL Ghioroiu nr. 8/2026",
@@ -298,6 +583,21 @@
      "from": "2026-03-26",
      "units": 1,
      "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-9-2026",
+   "path": "local/valcea/ghioroiu/2026/9",
+   "short": "HCL Ghioroiu nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 9/2026 modificarea Listei provizorii a obiectivelor de investitii pe anul 2026",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119015",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#119015",
      "sha256": null
     }
    ]

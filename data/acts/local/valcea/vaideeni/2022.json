@@ -1,0 +1,162 @@
+{
+"country": "RO",
+"shard": "local/valcea/vaideeni/2022",
+"acts": [
+{
+"slug": "hcl-valcea--vaideeni-17-2022",
+"path": "local/valcea/vaideeni/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 17/2022",
+"short": "HCL Vaideeni nr. 17/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-04",
+"latest": "2022-05-04",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/56767",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-20-2022",
+"path": "local/valcea/vaideeni/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 20/2022 privind aprobarea scutirii de la plata taxei de salubrizare a locuințelor nelocuite",
+"short": "HCL Vaideeni nr. 20/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-04",
+"latest": "2022-05-04",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/59552",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-24-2022",
+"path": "local/valcea/vaideeni/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 24/2022 privind aprobarea Devizului General Estimativ al obiectivului de investiții „Lucrări de consolidare și punere în siguranță platforma drum comunal DC 137, sat Vaideeni, Comuna Vaideeni, județul Vâlcea”",
+"short": "HCL Vaideeni nr. 24/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-04",
+"latest": "2022-05-04",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/59556",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-25-2022",
+"path": "local/valcea/vaideeni/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 25/2022 privind aprobarea Devizului General Estimativ al obiectivului de investiții „Lucrări de refacere și punere în siguranță Podeț Tubular peste Pârâul Stroe, Pct. „Bazine de Apă”, sat Izvorul rece, Comuna Vaideeni, județul Vâlcea”",
+"short": "HCL Vaideeni nr. 25/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-04",
+"latest": "2022-05-04",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/59557",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-27-2022",
+"path": "local/valcea/vaideeni/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 27/2022",
+"short": "HCL Vaideeni nr. 27/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-04",
+"latest": "2022-05-04",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/59559",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-28-2022",
+"path": "local/valcea/vaideeni/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 28/2022 privind achiziția unui număr de 500 pubele cu o capacitate de 1201, în valoare de 50.000 lei",
+"short": "HCL Vaideeni nr. 28/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-04",
+"latest": "2022-05-04",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/59560",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-45-2022",
+"path": "local/valcea/vaideeni/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 45/2022 privind aprobarea necesității și oportunității proiectului de atestare a Comunei Vaideeni, Județul Vâlcea, ca Stațiune Turistică de interes local",
+"short": "HCL Vaideeni nr. 45/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/66393",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/horezu/2012",
+ "acts": [
+  {
+   "slug": "hcl-valcea--horezu-3-2012",
+   "path": "local/valcea/horezu/2012/3",
+   "short": "HCL Horezu nr. 3/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Horezu nr. 3/2012 privind administrația publică locală și art. 8 din regulamentul-cadru de organizare și funcționare a consiliilor locale, aprobat prin Legea nr.673/2002, privind depunerea jurământului; Fiind validate mandatele a unui număr de 15 consilieri care au depus jurământul; În temeiul art.34 alin.2 și art.45 alin.1 din Legea nr.215/2001, privind administrația publică locală, republicată, cu modificările și",
+   "url": "https://www.orasul-horezu.ro/hotarari-ale-consiliului-local?title=&field_data_value_2=All&page=101",
+   "versions": [
+    {
+     "from": "2012-06-22",
+     "units": 1,
+     "source_url": "https://www.orasul-horezu.ro/sites/default/files/horezu_documents/hot_nr_3_constituirea_consiliului_local_20121001_id2211.pdf",
+     "sha256": "25821dbfe4a12dcb0b16063df9497105da68138dfb5abe83e6fa73078d9f7fef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--horezu-5-2012",
+   "path": "local/valcea/horezu/2012/5",
+   "short": "HCL Horezu nr. 5/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Horezu nr. 5/2012 privind administrația publică locală, republicată, cu modificările și completările ulterioare, și art.11 din Legea nr.673/2002 privind aprobarea Ordonanței Guvernului nr.35/2002 pentru aprobarea Regulamentului-cadru de organizare și funcționare a consiliilor locale; Având în vedere rezultatul votului secret efectuat în scopul alegerii viceprimarului localității Horezu, precum și procesul verbal al",
+   "url": "https://www.orasul-horezu.ro/hotarari-ale-consiliului-local?title=&field_data_value_2=All&page=101",
+   "versions": [
+    {
+     "from": "2012-06-22",
+     "units": 1,
+     "source_url": "https://www.orasul-horezu.ro/sites/default/files/horezu_documents/hot_nr_5_alegerea_viceprimarului_20121001_id2213.pdf",
+     "sha256": "eb8409b153785f67f21f1696c07f7118c5a968fe0bbe22342e449e991d5d63a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--horezu-6-2012",
+   "path": "local/valcea/horezu/2012/6",
+   "short": "HCL Horezu nr. 6/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Horezu nr. 6/2012 privind administrația publică locală, republicată, cu modificările și completările ulterioare, și art.15 din Regulamentul- cadru de organizare și funcționare a consiliilor locale,aprobat prin Legea nr.673/2002, potrivit cărora consiliul local stabilește și organizează pe durata mandatului, comisii de specialitate pe principalele domenii de activitate, în funcție de specificul activității din fieca",
+   "url": "https://www.orasul-horezu.ro/hotarari-ale-consiliului-local?title=&field_data_value_2=All&page=101",
+   "versions": [
+    {
+     "from": "2012-06-22",
+     "units": 1,
+     "source_url": "https://www.orasul-horezu.ro/sites/default/files/horezu_documents/hot_nr_6_stabilirea_comisiilor_de_specia_20121001_id2214.pdf",
+     "sha256": "947e664a28ceeb8de7e9d482552073a00ffc4af64136c3b1c72b895350bab2c0"
+    }
+   ]
+  }
+ ]
+}

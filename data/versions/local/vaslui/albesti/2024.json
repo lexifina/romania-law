@@ -1,0 +1,666 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/albesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--albesti-10-2024",
+   "path": "local/vaslui/albesti/2024/10",
+   "short": "HCL Albești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 10/2024 privind aprobarea actualizării devizului general și a principalilor indicatori tehnico-economici după finalizarea procedurii de licitație pentru proiectul „ÎNFIINȚARE SISTEM INTELIGENT DE DISTRIBUȚIE GAZE NATURALE ÎN SATELE ALBEȘTI, CORNI ALBEȘTI ȘI CRASNA APARȚINĂTOARE COMUNEI ALBEȘTI, JUDEȚUL VASLUI”, aprobat pentru finanțare prin Programul Național de Investiții ”Anghel Saligny”, de către Ministerul Dezvoltării Lucrărilor Publice și Administrației (MDLPA)",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/155346",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/155346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-12-2024",
+   "path": "local/vaslui/albesti/2024/12",
+   "short": "HCL Albești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 12/2024 privind alocarea unei sume de bani din capitolul 67.02 - \"Cultură, recreere și religie, pentru tehnoredactarea unei lucrări de tip Monografie a comunei Albești intitulată ,,Comuna Albești: Istorie, cultură și oameni”",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192104",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-14-2024",
+   "path": "local/vaslui/albesti/2024/14",
+   "short": "HCL Albești nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 14/2024 privind stabilirea impozitelor și taxelor locale, a altor taxe asimilate acestora pentru anul fiscal 2025",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192105",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-15-2024",
+   "path": "local/vaslui/albesti/2024/15",
+   "short": "HCL Albești nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 15/2024 privind aprobarea Contului de execuție al Bugetului Local pentru trimestrul I 2024",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192107",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-16-2024",
+   "path": "local/vaslui/albesti/2024/16",
+   "short": "HCL Albești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 16/2024 privind rectificarea bugetului local al comunei Albești, județul Vaslui, pentru anul 2024",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192108",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-17-2024",
+   "path": "local/vaslui/albesti/2024/17",
+   "short": "HCL Albești nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 17/2024 privind aprobarea actualizării devizului general și a principalilor indicatori tehnico-economici după finalizarea procedurii de licitație, precum și ca urmare a aprobării sumelor alocate de la Bugetul de Stat, pentru obiectivul de investiții „ÎNFIINȚARE SISTEM INTELIGENT DE DISTRIBUȚIE GAZE NATURALE ÎN SATELE ALBEȘTI, CORNI ALBEȘTI ȘI CRASNA APARȚINĂTOARE COMUNEI ALBEȘTI, JUDEȚUL VASLUI\", aprobat pentru finanțare prin Programul Național de Investiții ,,Anghel Saligny”",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192109",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-18-2024",
+   "path": "local/vaslui/albesti/2024/18",
+   "short": "HCL Albești nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 18/2024 privind aprobarea contului anual de executie al Bugetului Local și a situațiilor financiare anuale pentru perioada 01.01.2023 -31.12.2023",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192110",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-19-2024",
+   "path": "local/vaslui/albesti/2024/19",
+   "short": "HCL Albești nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 19/2024 privind actualizarea Planului de analiză și acoperire a riscurilor în domeniul situațiilor de urgență al comunei Albești, județul Vaslui",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192111",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-2-2024",
+   "path": "local/vaslui/albesti/2024/2",
+   "short": "HCL Albești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 2/2024 privind aprobarea situațiilor financiare și a contului de încheiere a exercițiului bugetar pe anul 2023",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/155283",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/155283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-21-2024",
+   "path": "local/vaslui/albesti/2024/21",
+   "short": "HCL Albești nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 21/2024 privind însușirea și aprobarea documentației cadastrale pentru dezmembrarea imobilului cu numărul cadastral 75037, aparținând UAT Albești",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192113",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-22-2024",
+   "path": "local/vaslui/albesti/2024/22",
+   "short": "HCL Albești nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 22/2024 privind aprobarea actualizării devizului general și a principalilor indicatori tehnico-economici după finalizarea procedurii de licitație, precum și ca urmare a aprobării sumelor alocate de la Bugetul de Stat, pentru obiectivul de investiții „ÎNFIINȚARE SISTEM INTELIGENT DE DISTRIBUȚIE GAZE NATURALE ÎN SATELE ALBEȘTI, CORNI ALBEȘTI ȘI CRASNA APARȚINĂTOARE COMUNEI ALBEȘTI, JUDEȚUL VASLUI\", aprobat pentru finanțare prin Programul Național de Investiții ,,Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192124",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-23-2024",
+   "path": "local/vaslui/albesti/2024/23",
+   "short": "HCL Albești nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 23/2024 privind alegerea președintelui de ședință pentru lunile August, Septembrie și Octombrie 2024",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192353",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-24-2024",
+   "path": "local/vaslui/albesti/2024/24",
+   "short": "HCL Albești nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 24/2024 privind actualizarea HCL nr.22 din 28.06.2024 privind actualizarea devizului general și a principalilor indicatori tehnico-economici după finalizarea procedurii de licitție, precum și ca urmare a aprobării sumelor alocate de la Bugetul de stat",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192354",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-25-2024",
+   "path": "local/vaslui/albesti/2024/25",
+   "short": "HCL Albești nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 25/2024 privind aprobarea Contului de execuție al Bugetului Local",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192355",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-26-2024",
+   "path": "local/vaslui/albesti/2024/26",
+   "short": "HCL Albești nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 26/2024 privind rectificarea bugetului local al comunei Albești, județul Vaslui pentru anul 2024",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192356",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-27-2024",
+   "path": "local/vaslui/albesti/2024/27",
+   "short": "HCL Albești nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 27/2024 privind transformarea postului de asistent medical comunitar principal, în asistent medical comunitar debutant, post prevăzut în statul de funcții al Primăriei comunei Albești aflată în subordinea Consiliului LOcal al comunei Albești, din Compartimentul de Asistență Socială",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192357",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-28-2024",
+   "path": "local/vaslui/albesti/2024/28",
+   "short": "HCL Albești nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 28/2024 privind aprobarea majorării valorii neeligibile a proiectului \" Achiziție articole și echipamente sportive \"",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192358",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-29-2024",
+   "path": "local/vaslui/albesti/2024/29",
+   "short": "HCL Albești nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 29/2024 privind aprobarea devizului general actualizat și a principalilor indicatori tehnico-economici după finalizarea procedurii de licitație, precum și ca urmare a aprobării sumelor alocate de la Bugetul de stat",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192359",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-30-2024",
+   "path": "local/vaslui/albesti/2024/30",
+   "short": "HCL Albești nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 30/2024 privind aprobarea documentației tehnico-economice faza Proiect Tehnic și a principalilor indicatori tehnico-economici pentru proiectul \" Înființare rețea de alimentare cu apă în comuna Albești, județul Vaslui \" aprobat pentru finanțarea prin Programul Național de investiții \" Anghel Saligny\" precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului de investiții",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192375",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-31-2024",
+   "path": "local/vaslui/albesti/2024/31",
+   "short": "HCL Albești nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 31/2024 privind rectificarea bugetului local al comunei Albești, județul Vaslui, pentru anul 2024",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192376",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-32-2024",
+   "path": "local/vaslui/albesti/2024/32",
+   "short": "HCL Albești nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 32/2024 privind rectificarea bugetului local al comunei Albești, județul Vaslui, pentru anul 2024",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192377",
+   "versions": [
+    {
+     "from": "2024-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-33-2024",
+   "path": "local/vaslui/albesti/2024/33",
+   "short": "HCL Albești nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 33/2024 privind declararea unor imobile cu bunuri ce aprțin domeniului public de interes local al comunei Albești, județul Vaslui",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192379",
+   "versions": [
+    {
+     "from": "2024-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-34-2024",
+   "path": "local/vaslui/albesti/2024/34",
+   "short": "HCL Albești nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 34/2024 privind stabilirea impozitelor pentru autovehiculele de transport marfă cu masă totală autorizată egală sau mai mare de 12 tone aferent anului 2025",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192385",
+   "versions": [
+    {
+     "from": "2024-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-35-2024",
+   "path": "local/vaslui/albesti/2024/35",
+   "short": "HCL Albești nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 35/2024 privind aprobarea actualizării Devizului pentru proiectul \" Înfințare sistem de monitorizare video pentru siguranța publică și stația de încărcare vehicule electrice, Comuna Albești și satele componente, județul Vaslui",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192386",
+   "versions": [
+    {
+     "from": "2024-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-36-2024",
+   "path": "local/vaslui/albesti/2024/36",
+   "short": "HCL Albești nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 36/2024 privind modificare HCL nr.30/13.09.2024 pentru proiectul \" Înființare rețea de alimentare cu apă în comuna Albești, județul Vaslui \" aprobat pentru finanțarea prin Programul Național de investiții \" Anghel Saligny \"",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192387",
+   "versions": [
+    {
+     "from": "2024-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-37-2024",
+   "path": "local/vaslui/albesti/2024/37",
+   "short": "HCL Albești nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 37/2024 privind aprobarea Contului de execuție al Bugetului Local",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192388",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-38-2024",
+   "path": "local/vaslui/albesti/2024/38",
+   "short": "HCL Albești nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 38/2024 privind aprobarea Contului de execuție al Bugetului local pentru trimestrul III 2024",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192413",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-39-2024",
+   "path": "local/vaslui/albesti/2024/39",
+   "short": "HCL Albești nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 39/2024 privind alegerea președintelui de sedință pentru lunile Noiembrie, Decembrie 2024 și Decembrie 2025",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192414",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-40-2024",
+   "path": "local/vaslui/albesti/2024/40",
+   "short": "HCL Albești nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 40/2024 privind organizarea componenței comisiilor de specialitate ale Consiliului Local al comunei Albești, județul Vaslui",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192415",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-41-2024",
+   "path": "local/vaslui/albesti/2024/41",
+   "short": "HCL Albești nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 41/2024 privind aprobarea Regulamentului de organizare și funcționare aConsiliului Local al comunei Albești, județul Vaslui",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192416",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-44-2024",
+   "path": "local/vaslui/albesti/2024/44",
+   "short": "HCL Albești nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 44/2024 privind aprobarea documentației tehnico-ecomice faza Proiect Tehnic și actualizarea principalilor indicatori tehnico-economici pentru proiectul \" Înființare rețea de alimentare cu apă în comuna Albești, județul Vaslui \" aprobat pentru finanțarea prin Programul Național de investiții \" Anghel Saligny\" precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului de investiții",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192428",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-45-2024",
+   "path": "local/vaslui/albesti/2024/45",
+   "short": "HCL Albești nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 45/2024 privind rectificarea bugetului local al comunei Albești, județul Vaslui pentru anul 2024",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192429",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-46-2024",
+   "path": "local/vaslui/albesti/2024/46",
+   "short": "HCL Albești nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 46/2024 privind alegerea Viceprimarului comunei Albești, județul Vaslui",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192434",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-48-2024",
+   "path": "local/vaslui/albesti/2024/48",
+   "short": "HCL Albești nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 48/2024 privind aprobarea devizului general și al indicatorilor tehnico-economici în faza de inițiere procedură atribuire lucrări-pentru investiția \" Amenajare descărcare aval podețe existete în sat Corni-Albești, comuna Albești, județul Vaslui",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192440",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-49-2024",
+   "path": "local/vaslui/albesti/2024/49",
+   "short": "HCL Albești nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 49/2024 privind aprobarea Programului de dezăpezire a poleiului pe drumurile din administrarea comunei în perioada de iarnă 2024-2025",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192442",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-5-2024",
+   "path": "local/vaslui/albesti/2024/5",
+   "short": "HCL Albești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 5/2024 privind aprobarea utilizării excedentului anual al bugetului local al comunei Albești, rezultat la încheierea exercițiului bugetar al anului 2023 pentru finanțarea cheltuielilor secțiunii de dezvoltare pentru anul 2024",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/155341",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/155341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-51-2024",
+   "path": "local/vaslui/albesti/2024/51",
+   "short": "HCL Albești nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 51/2024 privind declararea unor imobile ca bunuri ce aparțin domeniului public de interes local al comunei Albești, județul Vaslui",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192447",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-52-2024",
+   "path": "local/vaslui/albesti/2024/52",
+   "short": "HCL Albești nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 52/2024 privind aprobarea extinderii rețelei electrice pentru alimentarea cu energie electrică a stației racord pentru obiectivul de investițiii \" Înfințare sistem inteligent de distribuție gaze naturale în satele Albești, Corni Albești și Crasna aparținătoare comunei Albești, județul Vaslui \"",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192454",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-53-2024",
+   "path": "local/vaslui/albesti/2024/53",
+   "short": "HCL Albești nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 53/2024 privind încetarea contractului de încheiere spațiu cu destinație de farmacie, situat în imobilul \" Clădire de Utilitate Publică DISPENSAR UMAN ALBEȘTI încheiat între Comuna Albești și S.C ROPHARMA SA",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192455",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-54-2024",
+   "path": "local/vaslui/albesti/2024/54",
+   "short": "HCL Albești nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 54/2024 privind rectificarea bugetului local al comunei Albești, județul Vaslui, pentru anul 2024",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192463",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-55-2024",
+   "path": "local/vaslui/albesti/2024/55",
+   "short": "HCL Albești nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 55/2024 privind aprobarea taxei speciale de salubrizare pentru utilizatorii casnici și non-casnici pentru anul 2025",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/192464",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/192464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-6-2024",
+   "path": "local/vaslui/albesti/2024/6",
+   "short": "HCL Albești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 6/2024 privind aprobarea bugetului Consiliului Local Albești pe anul 2024 și estimări pe anii 2025, 2026, 2027",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/155342",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/155342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-7-2024",
+   "path": "local/vaslui/albesti/2024/7",
+   "short": "HCL Albești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 7/2024 privind aprobarea actualizării devizului general și a principalilor indicatori tehnico-economici după finalizarea procedurii de licitație pentru proiectul „ÎNFIINȚARE REȚEA DE ALIMENTARE CU APĂ ÎN COMUNA ALBEȘTI, JUDEȚUL VASLUI”, aprobat pentru finanțare prin Programul Național de Investiții ”Anghel Saligny”, de către Ministerul Dezvoltării Lucrărilor Publice și Administrației (MDLPA)",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/155343",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/155343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--albesti-8-2024",
+   "path": "local/vaslui/albesti/2024/8",
+   "short": "HCL Albești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 8/2024",
+   "url": "https://emol.ro/albesti-vs/registru-hcl/155344",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-vs/registru-hcl/155344",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

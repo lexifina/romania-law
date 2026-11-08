@@ -3,6 +3,81 @@
  "shard": "cnsc/2023",
  "acts": [
   {
+   "slug": "cnsc-decizie-2023-1299",
+   "path": "cnsc/decizie/2023/1299",
+   "short": "Decizia CNSC nr. 1299/C11/1553 din 15.05.2023",
+   "title": "Decizia CNSC nr. 1299/C11/1553 din 15.05.2023: contestația PACIFIC TUR SRL în contradictoriu cu COMUNA AITON",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2I5NWFiZmEtMDU1OS00NTQzLTlkNTYtMDhmNTIzOGEyZDdm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMjk5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=N2I5NWFiZmEtMDU1OS00NTQzLTlkNTYtMDhmNTIzOGEyZDdm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMjk5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "7da62fd529e8bc858a709d934bb8806df6874dad71199ce766a52791e1ae7764"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2023-1361",
+   "path": "cnsc/decizie/2023/1361",
+   "short": "Decizia CNSC nr. 1361/C11/1565 din 20.05.2023",
+   "title": "Decizia CNSC nr. 1361/C11/1565 din 20.05.2023: contestația OYL COMPANY HOLDING AG SRL în contradictoriu cu COMUNA GHINDARESTI (PRIMARIA GHINDARESTI)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjgyYTkwOTktZTUzMS00MDQzLTllN2YtNjE0MWNkNjhmNTJj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzYxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-05-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjgyYTkwOTktZTUzMS00MDQzLTllN2YtNjE0MWNkNjhmNTJj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzYxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "7b7906728ddc7048aaa4c67f691064b964caeabecdc3475ca92d8a0987b6696c"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2023-1363",
+   "path": "cnsc/decizie/2023/1363",
+   "short": "Decizia CNSC nr. 1363/C11/1674 din 20.05.2023",
+   "title": "Decizia CNSC nr. 1363/C11/1674 din 20.05.2023: contestația DRUMURI SI PODURI COVASNA SA în contradictoriu cu COVASNA (CONSILIUL LOCAL ORAS COVASNA)",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTZmNWE5YmMtYzFmNS00NGUwLWI1MTUtNjAxMTM3YmFjZDBl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzYzLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-05-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTZmNWE5YmMtYzFmNS00NGUwLWI1MTUtNjAxMTM3YmFjZDBl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzYzLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "ae2fe3b300058f6e3d1aa8f58e87e33a73cf03654fc9ea1e08fc4041e4a36f07"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2023-1491",
+   "path": "cnsc/decizie/2023/1491",
+   "short": "Decizia CNSC nr. 1491/C4/1379 din 30.05.2023",
+   "title": "Decizia CNSC nr. 1491/C4/1379 din 30.05.2023: contestația FLYNG IMPEX SRL în contradictoriu cu DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI - SALAJ",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjM4ZjAyNzQtMTc2OS00YjQ2LWI5YjEtMDJiMWYyYzAyMDEx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNDkxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjM4ZjAyNzQtMTc2OS00YjQ2LWI5YjEtMDJiMWYyYzAyMDEx&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNDkxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "758411e5a38eb582d6c8c18c171dfb223deb715b98ae34f602ac24b8be3d18d5"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2023-1721",
+   "path": "cnsc/decizie/2023/1721",
+   "short": "Decizia CNSC nr. 1721/C5/1544 din 20.06.2023",
+   "title": "Decizia CNSC nr. 1721/C5/1544 din 20.06.2023: contestația G&S PROIECT 2015 SRL în contradictoriu cu COMUNA VALEA VINULUI JUDETUL SATU MARE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmE2Zjg5NTQtZDBlNC00MjY4LTgzODUtOWE2N2I2YzlmMGM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNzIxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmE2Zjg5NTQtZDBlNC00MjY4LTgzODUtOWE2N2I2YzlmMGM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNzIxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "8f6d9be91b5ac7840496c2daeae3b18a1db5b3c544b3ae06dd677f2c020a385b"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2023-1773",
    "path": "cnsc/decizie/2023/1773",
    "short": "Decizia CNSC nr. 1773/C11/2148 din 27.06.2023",

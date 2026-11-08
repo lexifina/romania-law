@@ -3,6 +3,801 @@
  "shard": "local/valcea/pietrari/2023",
  "acts": [
   {
+   "slug": "hcl-valcea--pietrari-1-2023",
+   "path": "local/valcea/pietrari/2023/1",
+   "short": "HCL Pietrari nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 1/2023 Acoperirea definitiva a deficitului bugetar al sectiunii de dezvoltare din excedentul bugetului local A la data de 31 decembrie 2022",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41471",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-10-2023",
+   "path": "local/valcea/pietrari/2023/10",
+   "short": "HCL Pietrari nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 10/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-11-2023",
+   "path": "local/valcea/pietrari/2023/11",
+   "short": "HCL Pietrari nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 11/2023 Aprobarea încheierii Protocolului de Colaborare intre Comuna Pietrari,judetul Vâlcea si Ministerul Muncii si Solidarității Sociale în vederea implementării proiectului ,,HUB de servicii MMSS-SII MMSS”, cod MySmis 130963",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41483",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-12-2023",
+   "path": "local/valcea/pietrari/2023/12",
+   "short": "HCL Pietrari nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 12/2023 Rectificarea bugetului local pe anul 2023 si modificarea listei de investitii",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43525",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-13-2023",
+   "path": "local/valcea/pietrari/2023/13",
+   "short": "HCL Pietrari nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 13/2023 Implementarea proiectului „DOTAREA SERVICIULUI VOLUNTAR PENTRU SITUAȚII DE URGENȚĂ, COMUNA PIETRARI, JUDEȚUL VÂLCEA”",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43527",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-14-2023",
+   "path": "local/valcea/pietrari/2023/14",
+   "short": "HCL Pietrari nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 14/2023 Acordarea unui mandat special reprezentatului UAT Pietrari, în Adunarea Generală a Asociației în vederea exprimării votului cu privire la aprobarea Strategiei Asociației de Dezvoltare Intercomunitară ”APA Vâlcea” privind serviciul public de alimentare cu apă și de canalizare, pentru perioada 2023-2030",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43529",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-15-2023",
+   "path": "local/valcea/pietrari/2023/15",
+   "short": "HCL Pietrari nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 15/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-16-2023",
+   "path": "local/valcea/pietrari/2023/16",
+   "short": "HCL Pietrari nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 16/2023 Acordarea unui mandat special reprezentatului UAT Pietrari în Adunarea Generală a Asociației în vederea exprimării votului cu privire la modificarea și completarea, prin Act adițional, a Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr.1/2008, cu modificările și completările ulterioare",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43534",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-17-2023",
+   "path": "local/valcea/pietrari/2023/17",
+   "short": "HCL Pietrari nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 17/2023 Aprobarea asocierii cu Unitatea Administrativ Teritorială - Județul Vâlcea, prin Consiliul Județean Vâlcea, în vederea depunerii spre finanțare, implementării și monitorizării proiectului cu titlul „Bibliotecile vâlcene, noi hub-uri de dezvoltare a competențelor digitale” gestionat de Ministerul Cercetării, Inovării și Digitalizării, în cadrul apelului de proiecte PNRR/2022/C7/MCID/I17/",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43535",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-18-2023",
+   "path": "local/valcea/pietrari/2023/18",
+   "short": "HCL Pietrari nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 18/2023 Analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul IV, anul 2022 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43537",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-19-2023",
+   "path": "local/valcea/pietrari/2023/19",
+   "short": "HCL Pietrari nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 19/2023 Aprobarea raportului privind activitatea asistentilor personali desfasurata in semestrul II al anului 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43539",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-2-2023",
+   "path": "local/valcea/pietrari/2023/2",
+   "short": "HCL Pietrari nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 2/2023 Utilizarea excedentului bugetar inregistrat la 31 decembrie 2022 in cadrul bugetului local A, in anul 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41473",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-20-2023",
+   "path": "local/valcea/pietrari/2023/20",
+   "short": "HCL Pietrari nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 20/2023 Aprobarea Planului de paza privind paza obiectivelor bunurilor si valorilor pe raza comunei Pietrari, judetul Valcea, pe anul 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43521",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-21-2023",
+   "path": "local/valcea/pietrari/2023/21",
+   "short": "HCL Pietrari nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 21/2023 Aprobarea Protocolului de Colaborare dintre UAT Horezu prin Consiliul local al orașului Horezu și UAT Pietrari, în vederea gestionării câinilor fără stăpân",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43522",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-22-2023",
+   "path": "local/valcea/pietrari/2023/22",
+   "short": "HCL Pietrari nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 22/2023 Aprobarea Acordului de parteneriat privind executarea lucrărilor de alimentare cu apă/canalizare/gaze naturale pe traseul drumurilor județene modernizate și aflate în perioada de garanție",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43543",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-23-2023",
+   "path": "local/valcea/pietrari/2023/23",
+   "short": "HCL Pietrari nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 23/2023 Modificarea contractului de lucrări, pentru obiectivul de investitii “Modernizare și dotare dispensar uman in comuna Pietrari, judetul Valcea” și aprobarea actului adițional",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43545",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-24-2023",
+   "path": "local/valcea/pietrari/2023/24",
+   "short": "HCL Pietrari nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 24/2023 Aprobarea executiei bugetara la data de 31.12 2022",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43547",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#43547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-25-2023",
+   "path": "local/valcea/pietrari/2023/25",
+   "short": "HCL Pietrari nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 25/2023 Alegerea presedintelui de sedinta pe o perioada de trei luni",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#45735",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#45735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-26-2023",
+   "path": "local/valcea/pietrari/2023/26",
+   "short": "HCL Pietrari nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 26/2023 Aprobarea participării în cadrul proiectului „DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A ȘCOLII GIMNAZIALE, COMUNA PIETRARI - JUDEȚUL VÂLCEA” în vederea finanțării acestuia în cadrul Planului Național de Redresare și Reziliență al României, Componenta C15: Educație",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#45736",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#45736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-27-2023",
+   "path": "local/valcea/pietrari/2023/27",
+   "short": "HCL Pietrari nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 27/2023 Actualizarea Regulamentului de organizare și funcționare a aparatului de specialitate al primarului comunei Pietrari",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#45737",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#45737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-28-2023",
+   "path": "local/valcea/pietrari/2023/28",
+   "short": "HCL Pietrari nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 28/2023 Însusirea raportului privind situatia gestionarii bunurilor din domeniul public si privat al Comunei Pietrari, Judetul Valcea la 31 decembrie 2022",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#45738",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#45738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-29-2023",
+   "path": "local/valcea/pietrari/2023/29",
+   "short": "HCL Pietrari nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 29/2023 Aprobarea documentației și indicatorilor tehnico-economici pentru investiţia: „Construire trotuar pietonal adiacent DN 67-partea stângă, în sat Pietrari, comuna Pietrari, județul Vâlcea.”",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#45739",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#45739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-3-2023",
+   "path": "local/valcea/pietrari/2023/3",
+   "short": "HCL Pietrari nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 3/2023 Utilizarea excedentului bugetar inregistrat la 31 decembrie 2022 in cadrul bugetului local E, in anul 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41474",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-30-2023",
+   "path": "local/valcea/pietrari/2023/30",
+   "short": "HCL Pietrari nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 30/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-31-2023",
+   "path": "local/valcea/pietrari/2023/31",
+   "short": "HCL Pietrari nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 31/2023 Insușirea Raportului primarului comunei Pietrari privind starea economică, socialî și de mediu a comunei Pietrari, județul Vâlcea pe anul 2022",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#45742",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#45742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-32-2023",
+   "path": "local/valcea/pietrari/2023/32",
+   "short": "HCL Pietrari nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 32/2023 Indexarea cu rata inflației și stabilirea nivelului impozitelor, taxelor si a altor sume cuvenite bugetului local pentru anul 2024",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#47543",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#47543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-33-2023",
+   "path": "local/valcea/pietrari/2023/33",
+   "short": "HCL Pietrari nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 33/2023 Stabilirea taxelor speciale de pasunat pe anul 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#47880",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#47880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-34-2023",
+   "path": "local/valcea/pietrari/2023/34",
+   "short": "HCL Pietrari nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 34/2023 Aprobarea executiei bugetare pe trimestrul I-2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#47881",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#47881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-35-2023",
+   "path": "local/valcea/pietrari/2023/35",
+   "short": "HCL Pietrari nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 35/2023 Aprobarea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al Primarului şi din serviciile publice din subordinea Consiliului local al Comunei Pietrari, începând cu 01.05.2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#47882",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#47882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-36-2023",
+   "path": "local/valcea/pietrari/2023/36",
+   "short": "HCL Pietrari nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 36/2023 Modificarea și completarea listei de investiții pe anul 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#47883",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#47883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-37-2023",
+   "path": "local/valcea/pietrari/2023/37",
+   "short": "HCL Pietrari nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 37/2023 Aprobarea asocierii cu Unitatea Administrativ Teritorială - Județul Vâlcea, prin Consiliul Județean Vâlcea, în vederea depunerii spre finanțare, implementării și monitorizării proiectului „Microbuze electrice pentru elevii din județul Vâlcea” în cadrul apelului de proiecte cu titlul Microbuze electrice pentru elevi, finanțat din componenta C15: Educație, Reforma 6. Actualizarea cadrului legislativ pentru a asigura standarde ecologice de proiectare, construcție și dotare în sistemul de învățământ preuniversitar, Investiția 10. Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi prin Planul Național de Redresare și Reziliență",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#49492",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#49492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-38-2023",
+   "path": "local/valcea/pietrari/2023/38",
+   "short": "HCL Pietrari nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 38/2023 Aderarea, susținerea si participarea comunei Pietrari , judetul Vâlcea la parteneriatul constituit de Asociația Grupul de Acțiune Locala Microregiunea Horezu",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#49493",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#49493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-39-2023",
+   "path": "local/valcea/pietrari/2023/39",
+   "short": "HCL Pietrari nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 39/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-4-2023",
+   "path": "local/valcea/pietrari/2023/4",
+   "short": "HCL Pietrari nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 4/2023 Aprobarea tematicii orientative cu problemele ce urmeaza a fi dezbatute in sedintele ordinare ale Consiliului Local Pietrari pe anul 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41475",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-40-2023",
+   "path": "local/valcea/pietrari/2023/40",
+   "short": "HCL Pietrari nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 40/2023 Alegerea presedintelui de sedinta pe o perioada de trei luni",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#52342",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#52342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-41-2023",
+   "path": "local/valcea/pietrari/2023/41",
+   "short": "HCL Pietrari nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 41/2023 Aprobarea documentației, devizului general și indicatorilor tehnico-economici pentru investiţia: „Lucrări de punere în siguranță a podului peste pârâul Otăsău, Punctul Schit, comuna Pietrari, județul Vâlcea",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#52345",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#52345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-42-2023",
+   "path": "local/valcea/pietrari/2023/42",
+   "short": "HCL Pietrari nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 42/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-43-2023",
+   "path": "local/valcea/pietrari/2023/43",
+   "short": "HCL Pietrari nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 43/2023 Aprobarea investiţiei: „Achiziție și montare instalație termosolară pentru Baza sportivă, comuna Pietrari, județul Vâlcea.”",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#52347",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#52347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-44-2023",
+   "path": "local/valcea/pietrari/2023/44",
+   "short": "HCL Pietrari nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 44/2023 Rectificarea bugetului local și modificarea listei de investiții pe anul 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#52348",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#52348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-45-2023",
+   "path": "local/valcea/pietrari/2023/45",
+   "short": "HCL Pietrari nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 45/2023 Aprobarea Documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați si a devizului general actualizat pentru obiectivul de investiții “Modernizarea drumurilor comunale clasate DC 151 și DC 153 și a drumurilor publice din interiorul localității în satele Pietrari și Pietrarii de Sus, in comuna Pietrari, județul Vâlcea”, aprobat pentru finanțare prin Programul național de investiții “Anghel Saligny”, precum si a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56275",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-46-2023",
+   "path": "local/valcea/pietrari/2023/46",
+   "short": "HCL Pietrari nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 46/2023 Acordarea unui mandat special reprezentantului Comunei Pietrari în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „APA Vâlcea” în vederea exprimării votului cu privire la retragerea comunelor Costești și Scundu din cadrul Asociației și la încheierea Actului adițional la Statutul Asociației, cu modificările și completările ulterioare",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56276",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-47-2023",
+   "path": "local/valcea/pietrari/2023/47",
+   "short": "HCL Pietrari nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 47/2023 Rectificarea bugetului local și modificarea listei de investiții pe anul 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56277",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-48-2023",
+   "path": "local/valcea/pietrari/2023/48",
+   "short": "HCL Pietrari nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 48/2023 Analiza stadiului de înscriere a datelor în registrul agricol pentru semestrul I, anul 2023 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56278",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-49-2023",
+   "path": "local/valcea/pietrari/2023/49",
+   "short": "HCL Pietrari nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 49/2023 Aprobarea raportului privind activitatea asistentilor personali desfasurata in semestrul I al anului 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56279",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-5-2023",
+   "path": "local/valcea/pietrari/2023/5",
+   "short": "HCL Pietrari nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 5/2023 APROBAREA BUGETULUI LOCAL PE ANUL 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41470",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-50-2023",
+   "path": "local/valcea/pietrari/2023/50",
+   "short": "HCL Pietrari nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 50/2023 Modificarea contractului de lucrări, pentru obiectivul de investitii “Modernizare și dotare dispensar uman in comuna Pietrari, judetul Valcea” și aprobarea actului adițional",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56280",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-51-2023",
+   "path": "local/valcea/pietrari/2023/51",
+   "short": "HCL Pietrari nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 51/2023 Participarea UAT Pietrari la Programul privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public, program finațat din ”Fondul pentru mediu”, elaborarea studiilor de specialitate, expertizei tehnice si realizrea Studiului de Fezabilitate-D.A.L.I, proiect tehnic, in vederea finanțării din surse legal constituite (buget local, , alte fonduri guvernamentale, fonduri europene nerambursabile)",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56281",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-52-2023",
+   "path": "local/valcea/pietrari/2023/52",
+   "short": "HCL Pietrari nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 52/2023 Aprobarea scoaterii din funcțiune a mijloacelor fixe, respectiv a scoaterii din uz a bunurilor de natura obiectelor de inventar din patrimoniul UAT Pietrari, în vederea casării și valorificării",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56282",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-53-2023",
+   "path": "local/valcea/pietrari/2023/53",
+   "short": "HCL Pietrari nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 53/2023 Aprobarea executiei bugetare pe trimestrul II-2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56283",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-54-2023",
+   "path": "local/valcea/pietrari/2023/54",
+   "short": "HCL Pietrari nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 54/2023 Rectificarea bugetului local pe anul 2022",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56284",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-55-2023",
+   "path": "local/valcea/pietrari/2023/55",
+   "short": "HCL Pietrari nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 55/2023 Participarea UAT Pietrari la Programul DR-28-Creearea/modernizarea infrastructurii rutiere de bază din spațiul rural, program finațat prin A.F.I.R.-Agenția pentru Finanțarea Investițiilor Rurale, elaborarea studiilor de specialitate, expertizei tehnice si realizrea Studiului de Fezabilitate-D.A.L.I, proiect tehnic, in vederea finanțării din surse legal constituite (buget local, , alte fonduri guvernamentale, fonduri europene nerambursabile)",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56285",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-56-2023",
+   "path": "local/valcea/pietrari/2023/56",
+   "short": "HCL Pietrari nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 56/2023 Aprobarea realizării obiectivului de investiții: ”Reabilitare canalizare menajeră afectată în urma viiturilor, în punctul Moara Miroiului, comuna Pietrari, jud. Vâlcea”",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56286",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-57-2023",
+   "path": "local/valcea/pietrari/2023/57",
+   "short": "HCL Pietrari nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 57/2023 Modificarea contractului de lucrări, pentru obiectivul de investitii “Modernizare și dotare dispensar uman in comuna Pietrari, judetul Valcea” și aprobarea actului adițional",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56287",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#56287",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--pietrari-59-2023",
    "path": "local/valcea/pietrari/2023/59",
    "short": "HCL Pietrari nr. 59/2023",
@@ -13,6 +808,321 @@
      "from": "2023-09-29",
      "units": 1,
      "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#58892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-6-2023",
+   "path": "local/valcea/pietrari/2023/6",
+   "short": "HCL Pietrari nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 6/2023 Aprobarea organigramei,a ştatului de funcţii şi a numărului de personal din aparatul de specialitate al primarului şi din institutiile publice de inters local: biblioteca si camin cultural pe anul 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41476",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-60-2023",
+   "path": "local/valcea/pietrari/2023/60",
+   "short": "HCL Pietrari nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 60/2023 Rectificarea bugetului local și modificarea listei de investiții pe anul 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#58893",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#58893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-61-2023",
+   "path": "local/valcea/pietrari/2023/61",
+   "short": "HCL Pietrari nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 61/2023 Aprobarea documentaţiei tehnico-economice (SF), a devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiții “ INVESTITII IN INFRASTRUCTURA TIC IN COMUNA PIETRARI, JUDETUL VALCEA, COMPONENTA C10 – FONDUL LOCAL, Investiția I.1.2 – Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#58895",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#58895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-62-2023",
+   "path": "local/valcea/pietrari/2023/62",
+   "short": "HCL Pietrari nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 62/2023 Acordarea unui mandat special reprezentantului Comunei Pietrari în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „APA Vâlcea” în vederea exprimării votului cu privire la retragerea Comunei Sutești din cadrul Asociației și la încheierea Actului adițional la Statutul Asociației, cu modificările și completările ulterioare",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#58896",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#58896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-63-2023",
+   "path": "local/valcea/pietrari/2023/63",
+   "short": "HCL Pietrari nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 63/2023 Aprobarea elaborării unui Studiu de validare a zonei marginalizate situate în Comuna Pietrari, judetul Vâlcea, în vederea participării, ca partener a UAT Comuna Pietrari, în cadrul Programului de Incluziune și Demnitate Socială 2021-2027, Prioritate: P03.Protejarea dreptului la demnitate socială, Obiectiv Specific: Îmbunătățirea accesului la piața muncii și măsuri de activare pentru toate persoanele aflate în căutarea unui loc de muncă, în special pentru tineri, îndeosebi prin implementarea Garanței pentru tineret, pentru șomerii de lungă durată și grupurile defavorizate de pe piața muncii și pentru persoanele inactive, precum și prin promovarea desfășurării de activități independente și a economiei sociale (FSE+)",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#58897",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#58897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-64-2023",
+   "path": "local/valcea/pietrari/2023/64",
+   "short": "HCL Pietrari nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 64/2023 Rectificarea bugetului local și modificarea listei de investiții pe anul 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#62290",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#62290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-65-2023",
+   "path": "local/valcea/pietrari/2023/65",
+   "short": "HCL Pietrari nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 65/2023 Aprobarea executiei bugetare pe trimestrul III-2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#62292",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#62292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-66-2023",
+   "path": "local/valcea/pietrari/2023/66",
+   "short": "HCL Pietrari nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 66/2023 Rectificarea bugetului local pe anul 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64076",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-67-2023",
+   "path": "local/valcea/pietrari/2023/67",
+   "short": "HCL Pietrari nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 67/2023 Aprobarea modificării organigramei și ştatului de funcţii ale aparatului de specialitate al primarului comunei Pietrari, județul Vâlcea, ca urmare a reducerii cu 10% a numărului de posturi",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64079",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-68-2023",
+   "path": "local/valcea/pietrari/2023/68",
+   "short": "HCL Pietrari nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 68/2023 Aprobarea valorilor reevaluate a bunurilor aflate în domeniul public al Comunei Pietrari, județul Vâlcea",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64081",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-69-2023",
+   "path": "local/valcea/pietrari/2023/69",
+   "short": "HCL Pietrari nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 69/2023 Alegerea președintelui de ședință pe o perioada de trei luni luni",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64801",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-7-2023",
+   "path": "local/valcea/pietrari/2023/7",
+   "short": "HCL Pietrari nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 7/2023 Stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al Primarului şi din serviciile publice din subordinea Consiliului local al Comunei Pietrari",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41477",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-70-2023",
+   "path": "local/valcea/pietrari/2023/70",
+   "short": "HCL Pietrari nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 70/2023 Rectificarea bugetului local pe anul 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64802",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-71-2023",
+   "path": "local/valcea/pietrari/2023/71",
+   "short": "HCL Pietrari nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 71/2023 modificarea și completarea Hotărârii Consiliului Local al comunei Pietrari nr.32/28 aprilie 2023 privitor la stabilirea nivelului impozitelor, taxelor si a altor sume cuvenite bugetului local pentru anul 2024",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64804",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-72-2023",
+   "path": "local/valcea/pietrari/2023/72",
+   "short": "HCL Pietrari nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 72/2023 Aprobarea inventarierii materiei impozabile pentru anul fiscal 2024, la nivelul UAT Comuna Pietrari, județul Vâlcea",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64805",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-73-2023",
+   "path": "local/valcea/pietrari/2023/73",
+   "short": "HCL Pietrari nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 73/2023 Aprobarea executiei bugetare pe trimestrul IV-2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64806",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-74-2023",
+   "path": "local/valcea/pietrari/2023/74",
+   "short": "HCL Pietrari nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 74/2023 Aprobarea proiectului Reţelei şcolare a unităţilor de învăţământ preuniversitar, pentru anul şcolar 2024 – 2025, din cadrul comunei Pietrari, judeţul Vâlcea",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64807",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#64807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-75-2023",
+   "path": "local/valcea/pietrari/2023/75",
+   "short": "HCL Pietrari nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 75/2023 Rectificarea bugetului local pe anul 2023",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#66449",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#66449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-76-2023",
+   "path": "local/valcea/pietrari/2023/76",
+   "short": "HCL Pietrari nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 76/2023 Aprobarea realizării obiectivului de investiții ”Instalație de dezintegrare moleculara și valorificare a deșeurilor”, in vederea finanțării din surse legal constituite (buget local, fonduri europene nerambursabile, alte fonduri guvernamentale)",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#66450",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#66450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-77-2023",
+   "path": "local/valcea/pietrari/2023/77",
+   "short": "HCL Pietrari nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 77/2023 Aprobarea Reţelei şcolare a unităţilor de învăţământ preuniversitar, pentru anul şcolar 2024 – 2025, din cadrul comunei Pietrari, judeţul Vâlcea",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#66451",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#66451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--pietrari-9-2023",
+   "path": "local/valcea/pietrari/2023/9",
+   "short": "HCL Pietrari nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 9/2023 Aprobarea Planului de actiuni si lucrari de interes local pe anul 2023, pentru repartizarea orelor de munca prestate lunar de catre persoanele majore,apte de munca din familiile beneficiare de ajutor social in conformitate cu prevederile Legii nr.416/2001 privind venitul minim garantat, cu modificarile si completarile ulterioare",
+   "url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41479",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#41479",
      "sha256": null
     }
    ]

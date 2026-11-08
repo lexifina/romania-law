@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/valcea/vaideeni/2026",
+"acts": [
+{
+"slug": "hcl-valcea--vaideeni-18-2026",
+"path": "local/valcea/vaideeni/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 18/2026 privitor la aprobarea contului de executie al bugetului local al comunei Vaideeni, județul Vâlcea la data de 31.12.2025",
+"short": "HCL Vaideeni nr. 18/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-31",
+"latest": "2026-03-31",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/260517",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-21-2026",
+"path": "local/valcea/vaideeni/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 21/2026 privind aprobarea Regulamentului de utilizare a focului deschis la arderea miriştilor, vegetaţiei uscate şi a resturilor vegetale",
+"short": "HCL Vaideeni nr. 21/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-31",
+"latest": "2026-03-31",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/260520",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-30-2026",
+"path": "local/valcea/vaideeni/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 30/2026 privind modificarea și completarea Anexei la HCL nr. 133/29.12.2025 privind stabilirea impozitelor, taxelor speciale si a taxelor locale aplicabile în comuna Vaideeni, judetul Vâlcea, în anul fiscal 2026",
+"short": "HCL Vaideeni nr. 30/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-31",
+"latest": "2026-03-31",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/260550",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-51-2026",
+"path": "local/valcea/vaideeni/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 51/2026",
+"short": "HCL Vaideeni nr. 51/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/263745",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-53-2026",
+"path": "local/valcea/vaideeni/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 53/2026 privind aprobarea documentelor necesare demarării procedurii de atribuire a Contractului de delegare prin concesiune a gestiunii activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat transferul deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat din județul Valcea",
+"short": "HCL Vaideeni nr. 53/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-15",
+"latest": "2026-05-15",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/268614",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-54-2026",
+"path": "local/valcea/vaideeni/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 54/2026 privind aprobarea REGULAMENTULUI propriu de organizare și funcţionare al serviciului public de salubrizare din județul Vâlcea",
+"short": "HCL Vaideeni nr. 54/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-15",
+"latest": "2026-05-15",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/268615",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-55-2026",
+"path": "local/valcea/vaideeni/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 55/2026 privind aprobarea documentelor necesare demarării procedurii de atribuire a Contractului de delegare prin concesiune a serviciului de operare a Centrului de Management Integrat al Deșeurilor Roești, a Stațiilor de sortare Râureni și Brezoi, Stație de compostare Râureni, activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitara ADISL a județului Vâlcea",
+"short": "HCL Vaideeni nr. 55/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-15",
+"latest": "2026-05-15",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/268616",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-56-2026",
+"path": "local/valcea/vaideeni/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 56/2026 Privitor la : aprobarea bugetului local al comunei Vaideeni, a bugetului instituțiilor publice și activităților finanțate parțial sau integral din venituri proprii şi a listei de investiţii pentru anul 2026",
+"short": "HCL Vaideeni nr. 56/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-15",
+"latest": "2026-05-15",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/268617",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-66-2026",
+"path": "local/valcea/vaideeni/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 66/2026 privitor la aprobarea contului de execuție al bugetului local al comunei Vaideeni, județul Vâlcea, la data de 31.03.2026",
+"short": "HCL Vaideeni nr. 66/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-24",
+"latest": "2026-06-24",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/275196",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-74-2026",
+"path": "local/valcea/vaideeni/2026/74",
+"kind": "local",
+"year": "2026",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 74/2026 privind rectificarea bugetului local al comunei Vaideeni pentru anul 2026",
+"short": "HCL Vaideeni nr. 74/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/282914",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-82-2026",
+"path": "local/valcea/vaideeni/2026/82",
+"kind": "local",
+"year": "2026",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 82/2026 privind aprobarea actualizării bugetului proiectului „Reabilitare, extindere și eficientizare energetică, Școala gimnazială Luca Solomon, sat Vaideeni, comuna Vaideeni, județul Vâlcea” și a cheltuielilor legate de proiect în vederea finanțării acestuia în cadrul Programului Regional Sud-Vest Oltenia 2021-2027",
+"short": "HCL Vaideeni nr. 82/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/282935",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

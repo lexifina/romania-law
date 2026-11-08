@@ -1,0 +1,1026 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/maldaresti/2022",
+ "acts": [
+  {
+   "slug": "hcl-valcea--maldaresti-1-2022",
+   "path": "local/valcea/maldaresti/2022/1",
+   "short": "HCL Măldărești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 1/2022 cu privire la acoperirea definitivă a deficitului bugetar al secțiunii de dezvoltarea a bugetului local al comunei Măldărești, județul Vâlcea, pe anul 2020, din excedentul bugetului local al comunei Măldărești, județul Vâlcea, înregistrat la sfârșitul anului 2021",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/46665",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/46665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-10-2022",
+   "path": "local/valcea/maldaresti/2022/10",
+   "short": "HCL Măldărești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 10/2022 privind aprobarea Organigramei, Statului de funcții și Statului de personal al aparatului de specialitate al Primarului comunei Măldărești, județul Vâlcea (pentru persoanele care ocupă funcții de demnitate publică, funcționari publici și personal contractual) pe anul 2022",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/51426",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/51426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-11-2022",
+   "path": "local/valcea/maldaresti/2022/11",
+   "short": "HCL Măldărești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 11/2022 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Măldărești, județul Vâlcea și din cadrul serviciilor publice din subordinea Consiliului Local pe anul 2022",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/51427",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/51427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-12-2022",
+   "path": "local/valcea/maldaresti/2022/12",
+   "short": "HCL Măldărești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 12/2022 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav pentru anul 2022",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/51428",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/51428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-14-2022",
+   "path": "local/valcea/maldaresti/2022/14",
+   "short": "HCL Măldărești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 14/2022 privind amplasarea gospodăriei de apă și aprobarea forării unui număr de 3 puțuri pentru alimentare cu apă a gospodăriilor de pe raza comunei Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/51430",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/51430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-15-2022",
+   "path": "local/valcea/maldaresti/2022/15",
+   "short": "HCL Măldărești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 15/2022 privind aprobarea Raportului privind activitatea desfăşurată de asistenții personali ai persoanelor cu handicap grav pe semestrul II al anului 2021",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/51431",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/51431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-16-2022",
+   "path": "local/valcea/maldaresti/2022/16",
+   "short": "HCL Măldărești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 16/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție „Desființare imobile corp C1, C2, C3 și construire imobil parter cu funcțiuni-birou, anexă și garaj, lucrări de împrejmuire, racordare utilități și organizare de șantier”",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/51432",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/51432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-17-2022",
+   "path": "local/valcea/maldaresti/2022/17",
+   "short": "HCL Măldărești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 17/2022 privind rectificarea bugetului de venituri și cheltuieli pe anul curent și actualizarea listei de investiții",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/53084",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/53084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-18-2022",
+   "path": "local/valcea/maldaresti/2022/18",
+   "short": "HCL Măldărești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 18/2022 privind aprobarea indicatorilor tehnico-economici actualizați în urma revizuirii proiectului tehnic pentru obiectivul de investiții ”Înființare rețea publică de alimentare cu apă în comuna Măldărești, județul Vâlcea”",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/53085",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/53085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-19-2022",
+   "path": "local/valcea/maldaresti/2022/19",
+   "short": "HCL Măldărești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 19/2022 privind aprobarea indicatorilor tehnico-economici actualizați în urma revizuirii proiectului tehnic pentru obiectivul de investiții ”Înființare rețea publică de apă uzată - canalizare, stație de epurare în comuna Măldărești, județul Vâlcea”",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/53086",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/53086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-2-2022",
+   "path": "local/valcea/maldaresti/2022/2",
+   "short": "HCL Măldărești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 2/2022 cu privire la atestarea apartenenței unui imobil – teren la domeniul privat al comunei Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/46666",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/46666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-20-2022",
+   "path": "local/valcea/maldaresti/2022/20",
+   "short": "HCL Măldărești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 20/2022 privind aprobarea încheierii contractului de prestări servicii pentru precolectarea, colectarea, transportul și depozitarea deșeurilor municipale și a deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat fără a aduce atingere fluxului de deșeuri din echipamente electrice și electrocasnice, baterii și acumulatori",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/56572",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/56572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-21-2022",
+   "path": "local/valcea/maldaresti/2022/21",
+   "short": "HCL Măldărești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 21/2022 privind aprobarea încheierii contractului de prestări servicii pentru gestionarea deșeurilor colectate selectiv de la populație, reprezentând deșeuri de ambalaje – metal, plastic, hârtie și carton, sticlă, lemn și deșeuri de tip DEEE",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/56573",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/56573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-22-2022",
+   "path": "local/valcea/maldaresti/2022/22",
+   "short": "HCL Măldărești nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 22/2022 privind aprobarea cuantumului burselor ce se vor acorda elevilor din cadrul Școlii Gimnaziale, comuna Măldărești, județul Vâlcea, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/56574",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/56574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-23-2022",
+   "path": "local/valcea/maldaresti/2022/23",
+   "short": "HCL Măldărești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 23/2022 privind aprobarea și indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2023",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/58034",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/58034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-24-2022",
+   "path": "local/valcea/maldaresti/2022/24",
+   "short": "HCL Măldărești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 24/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Lucrări de punere în siguranță a zonelor supuse eroziunii de către pârâul Ciupa (gospodării ale populației, DN 67), punctul Ancuța – Zugravu, comuna Măldărești, județul Vâlcea”",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/58035",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/58035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-25-2022",
+   "path": "local/valcea/maldaresti/2022/25",
+   "short": "HCL Măldărești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 25/2022 privind aprobarea aderării unității administrativ teritoriale - comuna Măldărești, județul Vâlcea la Asociația de Dezvoltare Intercomunitară „Roua Munților”",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/58036",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/58036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-26-2022",
+   "path": "local/valcea/maldaresti/2022/26",
+   "short": "HCL Măldărești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 26/2022 privind aprobarea asocierii comunei Măldărești cu localitățile Polovragi, Bengești – Ciocadia, Alimpești, Bumbești – Pițic, județul Gorj și localitățile Alunu, Mateești, Slătioara, Vaideeni, Tomșani și Pietrari, județul Vâlcea” în vederea implementării în comun a proiectului ”Înființare sistem inteligent de distribuție gaze naturale în comunele Polovragi, Alimpești, Bengești – Ciocadia, Bumbești – Pițic, județul Gorj și comunele Alunu, Măldărești, Mateești, Pietrari, Slătioara, Tomșani, Vaideeni, județul Vâlcea”",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/58037",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/58037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-27-2022",
+   "path": "local/valcea/maldaresti/2022/27",
+   "short": "HCL Măldărești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 27/2022 privind aprobarea depunerii devizului general estimativ și a cererii de finanțare prin Programul Național de Investiții ”Anghel Saligny” pentru obiectivul de investiții ”Înființare sistem inteligent de distribuție gaze naturale în comunele Polovragi, Alimpești, Bengești – Ciocadia, Bumbești – Pițic, județul Gorj și comunele Alunu, Măldărești, Mateești, Pietrari, Slătioara, Tomșani, Vaideeni, județul Vâlcea”",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/58038",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/58038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-28-2022",
+   "path": "local/valcea/maldaresti/2022/28",
+   "short": "HCL Măldărești nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 28/2022 privind aprobarea depunerii devizului general estimativ și a cererii de finanțare prin Programul Național de Investiții ”Anghel Saligny” pentru obiectivul de investiții ”Înființare sistem inteligent de distribuție gaze naturale în comuna Măldărești, județul Vâlcea”",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/58039",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/58039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-29-2022",
+   "path": "local/valcea/maldaresti/2022/29",
+   "short": "HCL Măldărești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 29/2022 privind privind aprobarea conturilor de execuție bugetară ale comunei Măldărești, județul Vâlcea pentru trimestrul I al anului 2022",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/58040",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/58040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-3-2022",
+   "path": "local/valcea/maldaresti/2022/3",
+   "short": "HCL Măldărești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 3/2022 privind aprobarea contului de execuție bugetară al comunei Măldărești, pentru trimestrul IV al anului 2021",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/49751",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/49751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-31-2022",
+   "path": "local/valcea/maldaresti/2022/31",
+   "short": "HCL Măldărești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 31/2022 privind rectificarea bugetului de venituri și cheltuieli pe anul curent",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/60922",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/60922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-32-2022",
+   "path": "local/valcea/maldaresti/2022/32",
+   "short": "HCL Măldărești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 32/2022 privind aprobarea participării în cadrul proiectului cu titlul ”Înființarea și dotarea cu autobuze nepoluante a serviciul public de transport local Horezu în parteneriat cu comuna Măldărești, județul Vâlcea”",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/60923",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/60923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-33-2022",
+   "path": "local/valcea/maldaresti/2022/33",
+   "short": "HCL Măldărești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 33/2022 privind aprobarea inițierii procedurii de scoatere definitivă din circuitul agricol a suprafeței de teren de 2.814 mp, teren extravilan, categoria de folosință ”fânețe”, identificat cu număr cadastral 36149 situat în comuna Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/60924",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/60924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-34-2022",
+   "path": "local/valcea/maldaresti/2022/34",
+   "short": "HCL Măldărești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 34/2022 privind înființarea Serviciului public de gestionare a câinilor fără stăpân la nivelul comunei Măldărești, județul Vâlcea, și stabilirea modalității de gestiune a acestui serviciu",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/64225",
+   "versions": [
+    {
+     "from": "2022-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/64225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-35-2022",
+   "path": "local/valcea/maldaresti/2022/35",
+   "short": "HCL Măldărești nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 35/2022 privind aprobarea dezmembrării imobilului – teren intravilan în suprafață de 28.669 mp având număr cadastral 37912, situat pe raza orașului Horezu, județ Vâlcea, în punctul ”Treapturi”",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/64226",
+   "versions": [
+    {
+     "from": "2022-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/64226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-37-2022",
+   "path": "local/valcea/maldaresti/2022/37",
+   "short": "HCL Măldărești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 37/2022 privind aprobarea indicatorilor tehnico-economici pentru rest de executant la obiectivul de investiții ”Realizare sediu primărie, comuna Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/64228",
+   "versions": [
+    {
+     "from": "2022-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/64228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-38-2022",
+   "path": "local/valcea/maldaresti/2022/38",
+   "short": "HCL Măldărești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 38/2022",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/65447",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/65447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-39-2022",
+   "path": "local/valcea/maldaresti/2022/39",
+   "short": "HCL Măldărești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 39/2022",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/65991",
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/65991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-4-2022",
+   "path": "local/valcea/maldaresti/2022/4",
+   "short": "HCL Măldărești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 4/2022 privind utilizarea excedentului bugetar înregistrat la finele anului 2021",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/49752",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/49752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-40-2022",
+   "path": "local/valcea/maldaresti/2022/40",
+   "short": "HCL Măldărești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 40/2022 privind aprobarea Planului de Paza al comunei Măldărești, județul Vâlcea, pentru anul 2022",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/70118",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/70118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-41-2022",
+   "path": "local/valcea/maldaresti/2022/41",
+   "short": "HCL Măldărești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 41/2022 privind aprobarea conturilor de execuție bugetară ale comunei Măldărești, județul Vâlcea pentru trimestrul II anul 2022",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/70119",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/70119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-42-2022",
+   "path": "local/valcea/maldaresti/2022/42",
+   "short": "HCL Măldărești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 42/2022 privind rectificarea bugetului de venituri și cheltuieli pe anul curent și actualizarea listei de investiții",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/70120",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/70120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-43-2022",
+   "path": "local/valcea/maldaresti/2022/43",
+   "short": "HCL Măldărești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 43/2022 privind reducerea numărului de posturi de asistent personal pentru persoanele cu handicap grav de pe raza comunei Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/70121",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/70121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-44-2022",
+   "path": "local/valcea/maldaresti/2022/44",
+   "short": "HCL Măldărești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 44/2022 privind aprobarea efectuării unui schimb de imobile - terenuri",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/70122",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/70122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-45-2022",
+   "path": "local/valcea/maldaresti/2022/45",
+   "short": "HCL Măldărești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 45/2022 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pe semestrul I al anului 2022",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/70123",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/70123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-46-2022",
+   "path": "local/valcea/maldaresti/2022/46",
+   "short": "HCL Măldărești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 46/2022 privind aprobarea participării comunei Măldărești, județul Vâlcea, la realizarea obiectivului de investiții ”Varianta de ocolire Horezu”",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/70124",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/70124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-48-2022",
+   "path": "local/valcea/maldaresti/2022/48",
+   "short": "HCL Măldărești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 48/2022 privind rectificarea bugetului de venituri și cheltuieli pe anul curent și actualizarea listei de investiții",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/72986",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/72986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-49-2022",
+   "path": "local/valcea/maldaresti/2022/49",
+   "short": "HCL Măldărești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 49/2022 privind aprobarea proiectului “Reabilitare moderată Cămin Cultural, comuna Măldărești, județul Vâlcea” și a cheltuielilor aferente implementării acestuia",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/75280",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/75280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-5-2022",
+   "path": "local/valcea/maldaresti/2022/5",
+   "short": "HCL Măldărești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 5/2022 privind aprobarea proceselor verbale de evaluare a rezultatelor inventarierii și de scoatere din inventar a unor bunuri aparținând unității administrativ teritoriale comuna Măldărești și a unităților din subordinea acesteia, pentru anul 2021",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/49753",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/49753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-50-2022",
+   "path": "local/valcea/maldaresti/2022/50",
+   "short": "HCL Măldărești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 50/2022 privind aprobarea conturilor de execuție bugetară ale comunei Măldărești, județul Vâlcea, pentru trimestrul III al anului 2022",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/78079",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/78079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-51-2022",
+   "path": "local/valcea/maldaresti/2022/51",
+   "short": "HCL Măldărești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 51/2022",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/78080",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/78080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-52-2022",
+   "path": "local/valcea/maldaresti/2022/52",
+   "short": "HCL Măldărești nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 52/2022 privind alegerea președintelui de ședință pentru lunile noiembrie - decembrie 2022 – ianuarie 2023",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/78081",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/78081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-53-2022",
+   "path": "local/valcea/maldaresti/2022/53",
+   "short": "HCL Măldărești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 53/2022 privind aprobarea cuantumului compensației în bani acordate voluntarilor pentru timpul efectiv de lucru prestat la intervenții și activități prevăzute în programul Serviciului Voluntar pentru Situații de Urgență din cadrul aparatului de specialitate al primarului comunei Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/78082",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/78082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-54-2022",
+   "path": "local/valcea/maldaresti/2022/54",
+   "short": "HCL Măldărești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 54/2022 privind aprobarea modificării organigramei și statutului de funcții ale aparatului de specialitate al primarului comunei Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/78083",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/78083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-55-2022",
+   "path": "local/valcea/maldaresti/2022/55",
+   "short": "HCL Măldărești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 55/2022 privind aderarea comunei Măldărești, județul Vâlcea, la serviciul de audit public intern din cadrul Filialei Județene Vâlcea a Asociației Comunelor din România",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/78084",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/78084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-56-2022",
+   "path": "local/valcea/maldaresti/2022/56",
+   "short": "HCL Măldărești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 56/2022 privind însușirea Acordului de cooperare cu Filiala Județeană Vâlcea a Asociației Comunelor din România privind organizarea și exercitarea activității de audit public intern",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/78085",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/78085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-57-2022",
+   "path": "local/valcea/maldaresti/2022/57",
+   "short": "HCL Măldărești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 57/2022 privind aprobarea contribuției comunei Măldărești, județul Vâlcea, pentru susținerea și funcționarea Serviciului de audit public intern din cadrul Filialei Județene Vâlcea a A.Co.R",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/78086",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/78086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-58-2022",
+   "path": "local/valcea/maldaresti/2022/58",
+   "short": "HCL Măldărești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 58/2022 privind aprobarea Strategiei de dezvoltare locală pe perioada 2022 – 2025 a comunei Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/81765",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/81765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-59-2022",
+   "path": "local/valcea/maldaresti/2022/59",
+   "short": "HCL Măldărești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 59/2022 privind privind aprobarea majorării taxei de închiriere a utilajului buldoexcavator aflat în patrimoniul comunei Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/81766",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/81766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-6-2022",
+   "path": "local/valcea/maldaresti/2022/6",
+   "short": "HCL Măldărești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 6/2022 privind aprobarea efectuării unui schimb de imobile - terenuri",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/49754",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/49754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-60-2022",
+   "path": "local/valcea/maldaresti/2022/60",
+   "short": "HCL Măldărești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 60/2022 privind aprobarea traseelor și a consumului de carburant pentru autovehiculele de transport școlari din dotarea Primăriei comunei Măldărești, județul Vâlcea, pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/81767",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/81767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-61-2022",
+   "path": "local/valcea/maldaresti/2022/61",
+   "short": "HCL Măldărești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 61/2022 privind aprobarea regulamentului de instituire și administrare a taxei speciale de salubrizare de pe raza comunei Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/81768",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/81768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-62-2022",
+   "path": "local/valcea/maldaresti/2022/62",
+   "short": "HCL Măldărești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 62/2022 privind aprobarea Programului de măsuri privind gospodărirea comunei Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/81769",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/81769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-63-2022",
+   "path": "local/valcea/maldaresti/2022/63",
+   "short": "HCL Măldărești nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 63/2022 privind rectificarea bugetului local al comunei Măldărești, județul Vâlcea, pe anul curent și actualizarea listei de investiții",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/81770",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/81770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-64-2022",
+   "path": "local/valcea/maldaresti/2022/64",
+   "short": "HCL Măldărești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 64/2022 privind aprobarea trecerii din domeniul public în domeniul privat al comunei Măldărești, județul Vâlcea, a imobilului cu funcțiune ”Grădiniță și Cămin cultural”, situat în punctul ”Măldăreștii de Jos” și aprobarea demolării acestuia",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/81771",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/81771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-65-2022",
+   "path": "local/valcea/maldaresti/2022/65",
+   "short": "HCL Măldărești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 65/2022 privind aprobarea Protocolului de Colaborare pentru implementarea proiectului ,,HUB de servicii MMSS-SII MMSS”, cod MySmis 130963",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/81772",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/81772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-66-2022",
+   "path": "local/valcea/maldaresti/2022/66",
+   "short": "HCL Măldărești nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 66/2022 privind aprobarea cuantumului și numărului burselor ce se vor acorda elevilor din cadrul Școlii Gimnaziale Măldărești, județul Vâlcea, pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/81773",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/81773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-67-2022",
+   "path": "local/valcea/maldaresti/2022/67",
+   "short": "HCL Măldărești nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 67/2022 privind achiziționarea serviciilor juridice de asistență și reprezentare juridică pentru anul 2023",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/81774",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/81774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-68-2022",
+   "path": "local/valcea/maldaresti/2022/68",
+   "short": "HCL Măldărești nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 68/2022 privind aprobarea planului de acțiuni și lucrări de interes local pe anul 2023 ce vor fi executate de către beneficiarii de ajutor social",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/81775",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/81775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-69-2022",
+   "path": "local/valcea/maldaresti/2022/69",
+   "short": "HCL Măldărești nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 69/2022 privind aprobarea încheierii contractului vizând activitatea de colectare și transport, stocare temporară, sortare și încredințare în vederea valorificării deșeurilor de ambalaje la nivelul comunei Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/81776",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/81776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-70-2022",
+   "path": "local/valcea/maldaresti/2022/70",
+   "short": "HCL Măldărești nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 70/2022 privind rectificarea bugetului local al comunei Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/84242",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/84242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-71-2022",
+   "path": "local/valcea/maldaresti/2022/71",
+   "short": "HCL Măldărești nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 71/2022 privind validarea și însușirea Dispoziţiei Primarului comunei Măldărești nr. 191/22.12.2022 privind rectificarea bugetului local al comunei Măldărești, pe trimestrul IV al anului 2022",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/84684",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/84684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-72-2022",
+   "path": "local/valcea/maldaresti/2022/72",
+   "short": "HCL Măldărești nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 72/2022 privind alegerea președintelui de ședință pentru lunile februarie - aprilie 2023",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/84685",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/84685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-73-2022",
+   "path": "local/valcea/maldaresti/2022/73",
+   "short": "HCL Măldărești nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 73/2022 privind acordarea unor facilități reprezentând cadouri de Crăciun, personalului aparatului de specialitate al Primarului comunei Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/84686",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/84686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-74-2022",
+   "path": "local/valcea/maldaresti/2022/74",
+   "short": "HCL Măldărești nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 74/2022 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat aflate pe raza comunei Măldărești, județul Vâlcea, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/84687",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/84687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-9-2022",
+   "path": "local/valcea/maldaresti/2022/9",
+   "short": "HCL Măldărești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 9/2022 privind aprobarea bugetului unității administrativ teritoriale comuna Măldărești, județul Vâlcea, pentru anul 2022",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/51425",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/51425",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

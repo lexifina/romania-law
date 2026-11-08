@@ -3,6 +3,28 @@
 "shard": "local/brasov/ghimbav/2023",
 "acts": [
 {
+"slug": "hcl-brasov--ghimbav-3-2023",
+"path": "local/brasov/ghimbav/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 3/2023 PENTRU SERVICIU COMPARTIMENT 4 FPE CONTABILITATE ȘI 10 FPE COMPARTIMENT SECRETARIAT – RELAȚII CU PUBLICUL IMPOZITE ȘI TAXE IMPOZITE ȘI TAXE SITUAȚII DE URGENȚĂ PC 7 PC 1 PC COMPARTIMENT ADMINISTRATIV 1 ARHITECT SERVICIUL PUBLIC COMUNITAR DE 3 FPE ȘEF EVIDENȚĂ A PERSOANELOR SERVICIUL AMENAJAREA TERITORIULUI 7 FPE ȘI URBANISM COMPARTIMENT 4 FPE 1 ȘEF DIRECȚIA SE ASISTENȚĂ 1 DIR. URBANISM 3 FPE BIROU",
+"short": "HCL Ghimbav nr. 3/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://primaria-ghimbav.ro/wp-content/uploads/2020/07/2023-01-26-Primaria_Orasului_Ghimbav-Organigrama-HCL_nr_3_26-01-2023.pdf",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-brasov--ghimbav-16-2023",
 "path": "local/brasov/ghimbav/2023/16",
 "kind": "local",

@@ -1,0 +1,561 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/vaideeni/2020",
+ "acts": [
+  {
+   "slug": "hcl-valcea--vaideeni-1-2020",
+   "path": "local/valcea/vaideeni/2020/1",
+   "short": "HCL Vaideeni nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 1/2020 privind aprobarea acoperirii deficitului bugetar pentru anul 2019 - Sectiunea Dezvoltare",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1635",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-10-2020",
+   "path": "local/valcea/vaideeni/2020/10",
+   "short": "HCL Vaideeni nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 10/2020 privind aprobarea bugetului local pe anul 2020 al comunei Vaideeni",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1647",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-101-2020",
+   "path": "local/valcea/vaideeni/2020/101",
+   "short": "HCL Vaideeni nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 101/2020 privind aprobarea proiectului structurii rețelei școlare a unităților de învățământ preuniversitar din comuna Vaideeni",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/20762",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/20762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-103-2020",
+   "path": "local/valcea/vaideeni/2020/103",
+   "short": "HCL Vaideeni nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 103/2020 privind propunerea schimbării destinației imobilului ”Școala cu clasele I-IV Vaideeni” situat în satul Vaideeni, comuna Vaideeni, din clădire pentru învățământ în clădire pentru cultură, precum și a terenului aferent, în suprafață de 2195 mp, înscris în cartea funciară a localității Vaideeni, la numărul 35910, pentru o perioadă de 10 ani",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/20764",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/20764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-104-2020",
+   "path": "local/valcea/vaideeni/2020/104",
+   "short": "HCL Vaideeni nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 104/2020 privind aprobarea prestării serviciilor juridice de consultanță, asistență, reprezentare și redactare acțiune în răspundere civilă delictuală cu comuna Voineasa pentru anii 2017-2020",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/20765",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/20765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-107-2020",
+   "path": "local/valcea/vaideeni/2020/107",
+   "short": "HCL Vaideeni nr. 107/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 107/2020 privind aprobarea indicatorilor tehnico-economici al obiectivului de investiții ” Dezvoltarea rețelelor inteligente de distribuție a gazelor naturale în vederea creșterii nivelului de flexibilitate, siguranță, eficiență în operare precum și de integrarea activitățiilor de transport, distribuție și consum final în Comuna Vaideeni, cu localitățile aparținătoare ( Cerna, Cornet, Izvoru Rece, Marița, Vaideeni), jud. Vâlcea”",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/20768",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/20768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-108-2020",
+   "path": "local/valcea/vaideeni/2020/108",
+   "short": "HCL Vaideeni nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 108/2020 privind aprobarea aderării comunei Vaideeni, județul Vâlcea, la Cluster BIO Oltenia",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/20769",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/20769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-109-2020",
+   "path": "local/valcea/vaideeni/2020/109",
+   "short": "HCL Vaideeni nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 109/2020 privind mandatarea reprezentantului Comunei Vaideeni în Adunarea generală a Asociației de Dezvoltare Intercomunitară ” APA Vâlcea” să aprobe completarea art.36 din Contractul de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr.1 /2008, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/20770",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/20770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-11-2020",
+   "path": "local/valcea/vaideeni/2020/11",
+   "short": "HCL Vaideeni nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 11/2020 privind aprobarea actualizarii „Planului de analiza si acoperires riscurilor in domeniul situatiilor de urgenta” la nivelul comunei Vaideeni, judetul Valcea",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1648",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-12-2020",
+   "path": "local/valcea/vaideeni/2020/12",
+   "short": "HCL Vaideeni nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 12/2020",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1687",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-13-2020",
+   "path": "local/valcea/vaideeni/2020/13",
+   "short": "HCL Vaideeni nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 13/2020 privind prorogarea termenului din art. 1 al HCL nr. 48/31.07.2019 privind stabilirea taxei speciale de salubrizare a cazul prestatiilor de care beneficiaza utilizatorii fara contract din comuna Vaideeni si cei carora li s-a denuntat unilateral contractul de catre operator",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1688",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-16-2020",
+   "path": "local/valcea/vaideeni/2020/16",
+   "short": "HCL Vaideeni nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 16/2020 privind aporbarea organigramei si a statului de functii ale aparatului de specialitate al primarului comunei Vaideeni",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1691",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-17-2020",
+   "path": "local/valcea/vaideeni/2020/17",
+   "short": "HCL Vaideeni nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 17/2020 privind aprobarea actului aditional nr.2 la contractul 2412 din 21.04.2008 inchieat intre comuna Vaideeni prin Consiliul Local Vaideeni si Urban SA",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1692",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-18-2020",
+   "path": "local/valcea/vaideeni/2020/18",
+   "short": "HCL Vaideeni nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 18/2020",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1695",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-19-2020",
+   "path": "local/valcea/vaideeni/2020/19",
+   "short": "HCL Vaideeni nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 19/2020 privind achizitia unui numar de 5000 de saci pentru colectarea separata a deseurilor in comuna Vaideeni si a unui numar de 200 de pubele cu capacitatea de 120l",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1696",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-2-2020",
+   "path": "local/valcea/vaideeni/2020/2",
+   "short": "HCL Vaideeni nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 2/2020 privind aprobarea excedentului de buget pe anul 2020",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1636",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-20-2020",
+   "path": "local/valcea/vaideeni/2020/20",
+   "short": "HCL Vaideeni nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 20/2020 privind aprobarea bugetului local rectificativ pe trim I pe anul 2020 al comunei Vaideeni",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1697",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-21-2020",
+   "path": "local/valcea/vaideeni/2020/21",
+   "short": "HCL Vaideeni nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 21/2020 privind aprobarea inventarierii pe anul 2018 al comunei Vaideeni",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1698",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-23-2020",
+   "path": "local/valcea/vaideeni/2020/23",
+   "short": "HCL Vaideeni nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 23/2020 privind aprobarea indicatorilor tehnico-economici si a devizului general al obiectivului de investitii: „Lucrarile de punere in siguranta a drumurilor afectate de calamitati in comuna Vaideeni, judetul Vâlcea",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1700",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-24-2020",
+   "path": "local/valcea/vaideeni/2020/24",
+   "short": "HCL Vaideeni nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 24/2020 privind aprobarea unui acord de parteneriat intre Asociatia Grupul de Actiune Locala „Microregiunea Horezu” in calitate de lider parteneriat si UAT orasul Horezu, UAT comuna Costesti, UAT comuna Vaideeni, Liceul Constantin Brancoveanu Horezu, Scoala cu clasele I-VIII Ferigile si Scoala Gimnaziala „Luca Solomon” Vaideeni, in calitate de parteneri",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1701",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-25-2020",
+   "path": "local/valcea/vaideeni/2020/25",
+   "short": "HCL Vaideeni nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 25/2020",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1702",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-26-2020",
+   "path": "local/valcea/vaideeni/2020/26",
+   "short": "HCL Vaideeni nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 26/2020 privind aprobarea structurii retelei scolare a unitatilor de invatamant preuniversitar din comuna Vaideeni",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1703",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-27-2020",
+   "path": "local/valcea/vaideeni/2020/27",
+   "short": "HCL Vaideeni nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 27/2020 privind aprobarea contractarii unor servicii de redactare, asistenta/reprezentare - litigiu cu Ocolul Silvic Romani Iosivel SRL cu Cabinetul de Avocat Constantinescu Dinu",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1704",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-29-2020",
+   "path": "local/valcea/vaideeni/2020/29",
+   "short": "HCL Vaideeni nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 29/2020 privind aprobarea documentelor necesare demararii procedurii de atribuire a contractului de delegare prin concesiune a Serviciului de salubrizare constand in colectare, transfer si sortare a deseurilor municipale in judetul Vâlcea",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1706",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-32-2020",
+   "path": "local/valcea/vaideeni/2020/32",
+   "short": "HCL Vaideeni nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 32/2020 privind completarea preambulului HCL Vaideeni nr. 101/2019 cu precizarea ca au fost respectate prevederile art.7 din Legea nr. 52/2003 conform procesului verbal de afisare publica din data de 25.11.2019",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1709",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-35-2020",
+   "path": "local/valcea/vaideeni/2020/35",
+   "short": "HCL Vaideeni nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 35/2020 privind aprobarea bugetului local rectificativ pe trim II pe anul 2020 al comunei Vaideeni",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1712",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-36-2020",
+   "path": "local/valcea/vaideeni/2020/36",
+   "short": "HCL Vaideeni nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 36/2020",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1713",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-37-2020",
+   "path": "local/valcea/vaideeni/2020/37",
+   "short": "HCL Vaideeni nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 37/2020 privind aprobarea contractarii unor servicii de asistenta, redactare, plangere penala cu Cabinetul de Avocat Constantinescu Dinu",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1714",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-5-2020",
+   "path": "local/valcea/vaideeni/2020/5",
+   "short": "HCL Vaideeni nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 5/2020 privind aprobarea contului de executie al bugetului local al comunei Vaideeni pe trim. I, II; anul 2019",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1639",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-6-2020",
+   "path": "local/valcea/vaideeni/2020/6",
+   "short": "HCL Vaideeni nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 6/2020 privind aprobarea modului de intocmire si tinere la zi a Registrului agricol al comunei Vaideeni",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1640",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-8-2020",
+   "path": "local/valcea/vaideeni/2020/8",
+   "short": "HCL Vaideeni nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 8/2020 privind aprobarea unui Acord de Parteneriat intre UAT comuna Vaideeni si UAT judetul Vâlcea pentru realizarea studiilor in vederea depunderii spre finantare a proiectului ”Centru comunitar integrat in comuna Vaideeni, judetul Vâlcea”",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1642",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-89-2020",
+   "path": "local/valcea/vaideeni/2020/89",
+   "short": "HCL Vaideeni nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 89/2020 privind constituirea comisiilor de specialitate ale Consiliului Local Vaideeni",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/20749",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/20749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-9-2020",
+   "path": "local/valcea/vaideeni/2020/9",
+   "short": "HCL Vaideeni nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 9/2020 privind aprobarea unui Acord de Colaborare intre UAT Vaideeni si Scoala Gimnaziala Luca Solomon Vaideeni cu privire la identificarea si agrearea modalitatilor de realizare a actiunilor comunei pentru punerea in aplicare a activitatilor aferente proiectului ”incluziROMOltenia - Incluziune Sociala si abilitarea romilor din Oltenia”",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/1643",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/1643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-91-2020",
+   "path": "local/valcea/vaideeni/2020/91",
+   "short": "HCL Vaideeni nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 91/2020 privind aprobarea rectificări bugetului local pe trim. IV pe anul 2020 al comunei Vaideeni",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/20751",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/20751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-94-2020",
+   "path": "local/valcea/vaideeni/2020/94",
+   "short": "HCL Vaideeni nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 94/2020 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2021",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/20755",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/20755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-96-2020",
+   "path": "local/valcea/vaideeni/2020/96",
+   "short": "HCL Vaideeni nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 96/2020 privind aprobarea rectificării bugetului local pe trim. IV, anul 2020 al comunei Vaideenii, județul Vâlcea",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/20757",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/20757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-97-2020",
+   "path": "local/valcea/vaideeni/2020/97",
+   "short": "HCL Vaideeni nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 97/2020 privind aprobarea prelungirii până la data de 05.07.2021 a Scrisorii de garanție de la FNGCIMM SA IFN nr. 824/12.10.2017 pentru implementarea proiectului ” Restaurare și dotare școala din ansamblul rural cu destinația expunerii tradițiilor locale în comuna Vaideeni, județul Vâlcea, în baza contractului de finanțare nerambursabilă 05.10.2017 în favoarea Agenției pentru Finanțarea Investițiilor Rurale",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/20758",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/20758",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

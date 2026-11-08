@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/maldaresti/2021",
+ "acts": [
+  {
+   "slug": "hcl-valcea--maldaresti-14-2021",
+   "path": "local/valcea/maldaresti/2021/14",
+   "short": "HCL Măldărești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 14/2021 privind actualizarea componenței echipei mobile pentru intervenția de urgență în cazurile de violență domestică",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/46138",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/46138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-67-2021",
+   "path": "local/valcea/maldaresti/2021/67",
+   "short": "HCL Măldărești nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 67/2021 privind aprobarea indicatorilor tehnico-economici actualizați în urma finalizării procedurilor de achiziție publică de lucrări pentru obiectivul de investiții „Înființarea Rețelei Publice De Apă Uzată – Canalizare, Stație de Epurare în comuna Măldărești, județul Vâlcea”",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/47153",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/47153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--maldaresti-74-2021",
+   "path": "local/valcea/maldaresti/2021/74",
+   "short": "HCL Măldărești nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Măldărești nr. 74/2021 privind aprobarea regulamentului de instituire și administrare a taxei speciale de salubrizare de pe raza comunei Măldărești, județul Vâlcea",
+   "url": "https://emol.ro/maldaresti-vl/registru-hcl/47160",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/maldaresti-vl/registru-hcl/47160",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/vaideeni/2023",
+ "acts": [
+  {
+   "slug": "hcl-valcea--vaideeni-1-2023",
+   "path": "local/valcea/vaideeni/2023/1",
+   "short": "HCL Vaideeni nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 1/2023 privind aprobarea acoperirii deficitului bugetar pentru anul 2022 Secțiunea Dezvoltare si Secțiunea de Funcționare",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/92206",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/92206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-16-2023",
+   "path": "local/valcea/vaideeni/2023/16",
+   "short": "HCL Vaideeni nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 16/2023",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/92702",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/92702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-2-2023",
+   "path": "local/valcea/vaideeni/2023/2",
+   "short": "HCL Vaideeni nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 2/2023 privind adoptarea bugetului local pe anul 2023 al Comunei Vaideeni",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/92688",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/92688",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

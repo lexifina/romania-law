@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/horezu/2013",
+ "acts": [
+  {
+   "slug": "hcl-valcea--horezu-8-2013",
+   "path": "local/valcea/horezu/2013/8",
+   "short": "HCL Horezu nr. 8/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Horezu nr. 8/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7d5f4eb769c0b920c9c62668a704c0fa51ffdb320970ab4a973eeaaa2f5e3c5f"
+    }
+   ]
+  }
+ ]
+}

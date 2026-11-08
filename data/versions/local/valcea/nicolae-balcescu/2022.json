@@ -1,0 +1,1296 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/nicolae-balcescu/2022",
+ "acts": [
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-1-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/1",
+   "short": "HCL Nicolae Bălcescu nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 1/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/50259",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/50259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-10-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/10",
+   "short": "HCL Nicolae Bălcescu nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 10/2022 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al Primarului şi din serviciile publice din subordinea Consiliului local incepand cu 01.01.2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/53912",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/53912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-11-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/11",
+   "short": "HCL Nicolae Bălcescu nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 11/2022 privind actualizarea devizului general pentru obiectivul de investitii «Reabilitare termica, extindere si construire teren sport la Scoala Gimnaziala Nicolae Balcescu, comuna Nicolae Balcescu, judetul Valcea » dupa finalizarea procedurii de atribuire a contractului de lucrari",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/53913",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/53913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-12-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/12",
+   "short": "HCL Nicolae Bălcescu nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 12/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/54037",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/54037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-13-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/13",
+   "short": "HCL Nicolae Bălcescu nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 13/2022 privind actualizarea devizului general pentru obiectivul de investiții «Lucrări de protecție mal pârâu Topolog și punerea în siguranță a unor obiective de infrastructura edilitară locală (stație pompare apă, DC34)- Pod Corbi»",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/54038",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/54038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-14-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/14",
+   "short": "HCL Nicolae Bălcescu nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 14/2022 privind utilizarea sumei de 351 000 lei din excedentul bugetar al anului 2021 in valoare totala de 3 699 483 lei ca sursa de finantare a sectiunii de dezvoltare, pentru obiectivul de investitii « Lucrări de protecţie mal pârâu Topolog şi punere în siguranţă a unor obiective de infrastructură edilitară locală (staţie pompare apă, DC 34)»",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/54039",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/54039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-16-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/16",
+   "short": "HCL Nicolae Bălcescu nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 16/2022 privind utilizarea sumei de 1 774 000 lei din excedentul bugetar al anului 2021 in valoare totala de 3 699 483 lei ca sursa de finantare a sectiunii de dezvoltare, pentru realizarea obiectivelor de investitii in comuna Nicolae Balcescu, judetul Valcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/54041",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/54041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-17-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/17",
+   "short": "HCL Nicolae Bălcescu nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 17/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/58661",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/58661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-18-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/18",
+   "short": "HCL Nicolae Bălcescu nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 18/2022 privind aprobarea raportului asupra gestionarii bunurilor care apartin comunei Nicolae Balcescu, judetul Valcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/58662",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/58662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-19-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/19",
+   "short": "HCL Nicolae Bălcescu nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 19/2022 privind atestarea inventarului bunurilor care aparțin domeniului public al comunei Nicolae Bălcescu, județul Vâlcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/58663",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/58663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-2-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/2",
+   "short": "HCL Nicolae Bălcescu nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 2/2022 privind acoperirea definitiva a deficitului la Sectiunea de dezvoltare din excedentul anului 2021 in suma de 656228,77 lei",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/50260",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/50260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-20-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/20",
+   "short": "HCL Nicolae Bălcescu nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 20/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/59767",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/59767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-21-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/21",
+   "short": "HCL Nicolae Bălcescu nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 21/2022 privind avizarea PUZ “Creșterea Capacității de producere a energiei regenerabile în comuna Nicolae Bălcescu, județul Vâlcea”",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/59768",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/59768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-22-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/22",
+   "short": "HCL Nicolae Bălcescu nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 22/2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/59769",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/59769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-23-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/23",
+   "short": "HCL Nicolae Bălcescu nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 23/2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/59770",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/59770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-24-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/24",
+   "short": "HCL Nicolae Bălcescu nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 24/2022 privind acordarea unui mandat special reprezentantului comunei Nicolae Bălcescu în vederea exprimării votului în Adunarea Generală a Asociației de Dezvoltare Intercomunitară APA Vâlcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/59771",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/59771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-25-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/25",
+   "short": "HCL Nicolae Bălcescu nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 25/2022 privind stabilirea impozitelor si taxelor locale pentru anul fiscal 2023",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/59772",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/59772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-26-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/26",
+   "short": "HCL Nicolae Bălcescu nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 26/2022 privind aprobarea proiectului „ Sisteme inteligente de management local pentru dezvoltarea de servicii și structuri de sprijin, specializate pentru administrația publica Nicolae Balcescu” a cheltuielilor legate de proiect si depunerea acestuia in cadrul apelului de proiecte din Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C10 — Fondul Local",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66269",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-27-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/27",
+   "short": "HCL Nicolae Bălcescu nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 27/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66296",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-28-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/28",
+   "short": "HCL Nicolae Bălcescu nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 28/2022 privind aprobarea Regulamentului de acordare a voucherelor de vacanta pentru personalul din cadrul U.A.T Nicolae Balcescu, judetul Valcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66297",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-29-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/29",
+   "short": "HCL Nicolae Bălcescu nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 29/2022 privind aprobarea contului de execuție la 31.03.2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66298",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-3-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/3",
+   "short": "HCL Nicolae Bălcescu nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 3/2022 privind modificarea H.C.L nr. 58/12.08.2020 referitor la instituirea taxei speciale de salubrizare in cazul prestatiilor efectuate in beneficiul intregii comunitati locale si aprobarea Regulamentului privind stabilirea si aplicarea taxei speciale de salubrizare",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/50277",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/50277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-30-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/30",
+   "short": "HCL Nicolae Bălcescu nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 30/2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66299",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-31-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/31",
+   "short": "HCL Nicolae Bălcescu nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 31/2022 privind însușirea procesului-verbal de recepție la terminarea lucrarilor cu nr. 4601 din 11.04.2022, privind executia lucrarilor de constructii aferente obiectivului de investitii “Lucrari de protectie mal parau Topolog si punere in siguranta a unor obiective de infrastructura edilitara locala” (Statie pompare apa, DC 34) – Pod Corbi, comuna Nicolae Balcescu, judetul Valcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66300",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-32-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/32",
+   "short": "HCL Nicolae Bălcescu nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 32/2022 privind aprobarea accesării Programului Operațional pentru Pescuit și Afaceri Maritime (POPAM) 2014 – 2020, prin Strategia de dezvoltare locală integrată a Asociației Grupul Local de Pescuit “LOTRU-OLT MIJLOCIU”, Măsura 1 – Promovarea bunastarii sociale si a patrimoniului cultural (cod 109,110), prin investitia „Parcul micilor pescari”",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66301",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-33-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/33",
+   "short": "HCL Nicolae Bălcescu nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 33/2022 privind aprobarea indicatorilor tehnico-economici pentru investitia \"Parcul micilor pescari” în comuna Nicolae Balcescu, sat Valea-Viei, judetul Valcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66302",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-34-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/34",
+   "short": "HCL Nicolae Bălcescu nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 34/2022 privind aprobarea investitiei „Realizare podețe metalice prin montarea unor tronsoane relocate de punte carosabilă, in punctele “La Mureș”, sat Valea Viei; “La Bleiceanu” si” La Coandă”, sat Șerbăneasa; “La Niculescu” si “La Tomulescu”, sat Valea Bălcească” și a indicatorilor tehnico-economici aferenți, conform devizului general",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66303",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-35-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/35",
+   "short": "HCL Nicolae Bălcescu nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 35/2022 privind aprobarea investitiei „Impermeabilizare drumuri de interes local în comuna Nicolae Bălcescu, județul Vâlcea”, a documentatie tehnico-economic faza PT+DTAC+DE și a indicatorilor tehnico economici",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66304",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-36-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/36",
+   "short": "HCL Nicolae Bălcescu nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 36/2022 privind actualizarea Planului de Analiza si Acoperire a Riscurilor în comuna Nicolae Balcescu, judetul Valcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66305",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-37-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/37",
+   "short": "HCL Nicolae Bălcescu nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 37/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66353",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-38-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/38",
+   "short": "HCL Nicolae Bălcescu nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 38/2022 privind la utilizarea sumei de 242 500 lei din excedentul bugetar al anului 2021 in valoare totala de 3 699 483 lei ca sursa de finantare a sectiunii de dezvoltare, pentru realizarea obiectivelor de investitii in comuna Nicolae Balcescu, judetul Valcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66354",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-39-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/39",
+   "short": "HCL Nicolae Bălcescu nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 39/2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66355",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-4-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/4",
+   "short": "HCL Nicolae Bălcescu nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 4/2022 privind aprobarea Planului de activitati pentru beneficiarii de ajutor social conform Legii nr. 416/2001, privind venitul minim garantat",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/50278",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/50278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-40-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/40",
+   "short": "HCL Nicolae Bălcescu nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 40/2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66356",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-46-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/46",
+   "short": "HCL Nicolae Bălcescu nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 46/2022 privind schimbarea destinației bazei materiale a „Scolii Serbaneasa” in ceea ce priveste imobilul teren si constructie cu destinatie initiala de „Scoala Serbaneasa” in cladire cu functiuni administrative",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66362",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-47-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/47",
+   "short": "HCL Nicolae Bălcescu nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 47/2022 privind aprobarea investitiei „Lucrari de protectie mal stang parau Topolog amonte Pod, punctul Comanca (Balastiere), a documentatiei tehnico-economice faza DALI si a indicatorilor tehnico-economici aferenti",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66363",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/66363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-48-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/48",
+   "short": "HCL Nicolae Bălcescu nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 48/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/67565",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/67565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-49-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/49",
+   "short": "HCL Nicolae Bălcescu nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 49/2022 privind aprobarea contului de execuție la 30.06.2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/67566",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/67566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-5-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/5",
+   "short": "HCL Nicolae Bălcescu nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 5/2022 privind aprobarea retelei scolare a unitatilor de invatamant preuniversitar ce vor functiona in anul scolar 2022 - 2023 in comuna Nicolae Balcescu, judetul Valcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/50279",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/50279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-50-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/50",
+   "short": "HCL Nicolae Bălcescu nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 50/2022 privind utilizarea sumei de 300000 lei din excedentul bugetar al anului 2021 in valoare totala de 3 699 483 lei ca sursa de finantare a sectiunii de dezvoltare, pentru realizarea obiectivelor de investitii in comuna Nicolae Balcescu, judetul Valcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/67567",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/67567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-51-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/51",
+   "short": "HCL Nicolae Bălcescu nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 51/2022 privind completarea statului de functii al aparatului de specialitate al primarului localitatii Nicolae Balcescu, judetul Valcea pentru anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/67568",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/67568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-52-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/52",
+   "short": "HCL Nicolae Bălcescu nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 52/2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/67569",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/67569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-53-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/53",
+   "short": "HCL Nicolae Bălcescu nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 53/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/68333",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/68333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-54-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/54",
+   "short": "HCL Nicolae Bălcescu nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 54/2022 privind utilizarea sumei de 382 980 lei din excedentul bugetar al anului 2021 in valoare totala de 3 699 483 lei ca sursa de finantare a sectiunii de dezvoltare, pentru realizarea obiectivelor de investitii in comuna Nicolae Balcescu, judetul Valcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/68334",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/68334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-55-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/55",
+   "short": "HCL Nicolae Bălcescu nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 55/2022 privind aprobarea devizului general al obiectivului de investiții “Modernizare Iluminat public stradal aferent domeniului public – tronson DJ 678 A în Comuna Nicolae Bălcescu, județul Vâlcea” și participarea la Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/68335",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/68335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-56-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/56",
+   "short": "HCL Nicolae Bălcescu nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 56/2022 privind actualizarea devizului general pentru obiectivul de investitii «Impermeabilizare drumuri de interes local in comuna Nicolae Balcescu, judetul Valcea », a documentatiei tehnico-economice faza PT+DTAC+DE si a indicatorilor tehnico economici",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/68336",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/68336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-58-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/58",
+   "short": "HCL Nicolae Bălcescu nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 58/2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/68338",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/68338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-59-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/59",
+   "short": "HCL Nicolae Bălcescu nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 59/2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/74330",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/74330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-6-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/6",
+   "short": "HCL Nicolae Bălcescu nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 6/2022 aprobarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/53908",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/53908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-61-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/61",
+   "short": "HCL Nicolae Bălcescu nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 61/2022 privind aprobarea documentației tehnico-economice – faza DALI în vederea realizării investiției „Reabilitare interioară, amenajare si dotare în vederea functionării corespunzatoare a sediului Primăriei Comunei Nicolae Bălcescu, Judetul Valcea” și a indicatorilor tehnico-economici aferenți",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/74332",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/74332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-62-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/62",
+   "short": "HCL Nicolae Bălcescu nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 62/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/74334",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/74334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-63-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/63",
+   "short": "HCL Nicolae Bălcescu nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 63/2022 privind modificarea si completarea HCL 25/15.04.2022 privind stabilirea impozitelor si taxelor locale pentru anul fiscal 2023",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/74335",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/74335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-65-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/65",
+   "short": "HCL Nicolae Bălcescu nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 65/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/74346",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/74346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-66-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/66",
+   "short": "HCL Nicolae Bălcescu nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 66/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/77879",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/77879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-67-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/67",
+   "short": "HCL Nicolae Bălcescu nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 67/2022 privind aprobarea depunerii proiectului: ,,Reabilitarea integrată a Căminului Cultural Gâltofani,Sat Gâltofani, Comuna Nicolae Bălcescu, județul Vâlcea”, în cadrul apelului de proiecte din Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C5 – Valul renovării, B.1 –Reabilitarea integrată (consolidarea seismică şi renovarea energetică moderată) a clădirilor publice, si a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/77880",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/77880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-68-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/68",
+   "short": "HCL Nicolae Bălcescu nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 68/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/77881",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/77881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-69-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/69",
+   "short": "HCL Nicolae Bălcescu nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 69/2022 privind aprobarea regulamentului propriu cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri cu caracter normativ care se supun adoptării Consiliului Local al Comunei Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/77882",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/77882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-7-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/7",
+   "short": "HCL Nicolae Bălcescu nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 7/2022 privind aprobarea contului de executie la 31.12.2021",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/53909",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/53909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-70-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/70",
+   "short": "HCL Nicolae Bălcescu nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 70/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81568",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-71-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/71",
+   "short": "HCL Nicolae Bălcescu nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 71/2022 privind aprobarea contului de execuție la 30.09.2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81569",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-72-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/72",
+   "short": "HCL Nicolae Bălcescu nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 72/2022 privind Privind însușirea procesului-verbal de recepție la terminarea lucrarilor cu nr.10801 din 20.10.2022, privind executia lucrarilor de constructii aferente investitiei “Impermeabilizare drumuri de interes local in comuna Nicolae Balcescu, judetul Valcea” situate in comuna Nicolae Balcescu, judetul Valcea, lucrari executate in cadrul contractului nr. 8091/2876 din 21.07.2022, si a actului additional nr. 1 inregistrat cu nr. 9509/09.09.2022 incheiat intre Primaria comunei Nicolae Balcescu si Regia autonoma Judeteana de Drumuri si Poduri Valcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81570",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-73-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/73",
+   "short": "HCL Nicolae Bălcescu nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 73/2022 privind schimbarea destinației bazei materiale a „Scolii Serbaneasa” în ceea ce priveste imobilul teren si constructie cu destinatie initiala de „Școala Șerbăneasa” în cladire cu funcțiuni administrative si economice",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81571",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-74-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/74",
+   "short": "HCL Nicolae Bălcescu nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 74/2022 privind schimbarea destinației bazei materiale a „Scolii Predești” în ceea ce priveste imobilul teren si construcție cu destinație initiala de „Școala Predești – Corpul I” în clădire cu funcțiuni administrative",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81572",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-75-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/75",
+   "short": "HCL Nicolae Bălcescu nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 75/2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81573",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-76-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/76",
+   "short": "HCL Nicolae Bălcescu nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 76/2022 privind aderarea comunei Nicolae Balcescu la serviciul de audit public intern din cadrul Filialei Județene Vâlcea a Asociației Comunelor din România",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81574",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-77-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/77",
+   "short": "HCL Nicolae Bălcescu nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 77/2022 privind însușirea Acordului de cooperare cu Filiala Județeană Vâlcea a Asociației Comunelor din România privind organizarea și exercitarea activității de audit public intern",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81575",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-78-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/78",
+   "short": "HCL Nicolae Bălcescu nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 78/2022 privind aprobarea contribuției Comunei Nicolae Bălcescu pentru susținerea și funcționarea Serviciului de audit public intern din cadrul Filialei Județene Vâlcea a A.Co.R",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81576",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/81576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-79-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/79",
+   "short": "HCL Nicolae Bălcescu nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 79/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82433",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-8-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/8",
+   "short": "HCL Nicolae Bălcescu nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 8/2022 privind aprobarea organigramei si statului de functii al aparatului de specialitate al primarului localitatii Nicolae Balcescu, judetul Valcea pentru anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/53910",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/53910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-80-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/80",
+   "short": "HCL Nicolae Bălcescu nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 80/2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82434",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-81-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/81",
+   "short": "HCL Nicolae Bălcescu nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 81/2022 privind alocarea unor fonduri din bugetul local în vederea organizării „Pomului de Crăciun” pentru copiii din învățământul preșcolar și școlar de la Școala Gimnazială Nicolae Bălcescu, județul Vâlcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82435",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-83-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/83",
+   "short": "HCL Nicolae Bălcescu nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 83/2022 privind aprobarea cuantumului pentru asigurarea alocatiei zilnice de hrana, îmbracăminte, încaltaminte, materiale igienico-sanitare, rechizite/manuale, jucării, transport, materiale cultural-sportive, precum si sume de bani pentru nevoi personale, pentru copii si tinerii cu cerințe educaționale speciale scolarizați în unitațile de învățământ de masa din comuna Nicolae Bălcescu, județul Vâlcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82437",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-84-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/84",
+   "short": "HCL Nicolae Bălcescu nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 84/2022 privind modificarea si completarea HCL nr. 41/18.05.2016 privind acordarea unei diplome si a unui premiu, pentru familiile domiciliate pe raza administrativ-teritoriala a comunei Nicolae Balcescu care aniverseaza 50 de ani de casatorie",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82438",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-85-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/85",
+   "short": "HCL Nicolae Bălcescu nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 85/2022 privind declararea de utilitate publică de interes local a obiectivului de investiţii “Creșterea Capacității de producere a energiei regenerabile în comuna Nicolae Bălcescu, județul Vâlcea” si initierea procedurii de scoatere definitiva din circuitul agricol a terenului in suprafata de 7122 m.p., categoria de folosinta pasune, extravilan, CF nr. 37756",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82439",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-86-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/86",
+   "short": "HCL Nicolae Bălcescu nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 86/2022 privind aprobarea documentatiei tehnico- economice si a indicatorilor tehnico-economici al investitiei \"ASFALTARE DRUMURI COMUNALE, COMUNA NICOLAE BALCESCU, JUDETUL VALCEA\" aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82440",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-87-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/87",
+   "short": "HCL Nicolae Bălcescu nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 87/2022 privind aprobarea cheltuielilor neeligibile ale investitiei “Asfaltare drumuri comunale, comuna Nicolae Balcescu, judetul Valcea” aprobat pentru finantare prin Programul national de investitii “Anghel Saligny”",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82441",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/82441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-88-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/88",
+   "short": "HCL Nicolae Bălcescu nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 88/2022 privind instituirea de restricții de circulație cu limitare de tonaj și viteză, pe sectoarele de drum determinate și pe timp limitat, respectiv DC 34 – Rotărăști (DJ 678A) – Corbii din Vale – limita Județul Argeș și DC 34A Mângureni (DJ 678A) – Corbii din Vale (DC 34)",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84744",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-89-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/89",
+   "short": "HCL Nicolae Bălcescu nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 89/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84753",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-9-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/9",
+   "short": "HCL Nicolae Bălcescu nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 9/2022 privind aprobarea numarului de posturi pentru asistentii personali ai persoanelor cu handicap din comuna Nicolae Balcescu, judetul Valcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/53911",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/53911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-90-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/90",
+   "short": "HCL Nicolae Bălcescu nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 90/2022 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții “Modernizare Iluminat public stradal aferent domeniului public – tronson DJ 678 A în Comuna Nicolae Bălcescu, județul Vâlcea” și acordul privind asigurarea și susținerea contribuției financiare aferente cheltuielilor implementării proiectului",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84755",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-91-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/91",
+   "short": "HCL Nicolae Bălcescu nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 91/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84814",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-92-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/92",
+   "short": "HCL Nicolae Bălcescu nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 92/2022 privind stabilirea impozitelor si taxelor locale pentru anul fiscal 2023",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84815",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-93-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/93",
+   "short": "HCL Nicolae Bălcescu nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 93/2022 privind aprobarea Planului de activitati pentru beneficiarii de ajutor social conform Legii nr. 416/2001, privind venitul minim garantat",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84816",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-94-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/94",
+   "short": "HCL Nicolae Bălcescu nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 94/2022 privind aprobarea rețelei scolare a unitatilor de învățământ preuniversitar ce vor funcționa în anul școlar 2023 - 2024 în comuna Nicolae Bălcescu, județul Vâlcea",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84817",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-96-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/96",
+   "short": "HCL Nicolae Bălcescu nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 96/2022",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84819",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--nicolae-balcescu-97-2022",
+   "path": "local/valcea/nicolae-balcescu/2022/97",
+   "short": "HCL Nicolae Bălcescu nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 97/2022 privind la utilizarea sumei de 88 000 lei din excedentul bugetar al anului 2021 in valoare totala de 3 699 483 lei ca sursa de finantare a sectiunii de dezvoltare, pentru obiectivul de investitii «Reabilitare termica, extindere si construire teren sport la scoala Gimnaziala Nicolae Balcescu, comuna Nicolae Balcescu, judetul Valcea»",
+   "url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84820",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-vl/registru-hcl/84820",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/slatioara/2024",
+ "acts": [
+  {
+   "slug": "hcl-valcea--slatioara-30-2024",
+   "path": "local/valcea/slatioara/2024/30",
+   "short": "HCL Slătioara nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Slătioara nr. 30/2024 privind aprobarea participarii la Programul vizând sisteme de alimentare cu apă, canalizare şi epurare a apelor uzate – Apă-canal pentru proiectul \" EXTINDERE RETEA APA-CANAL IN COMUNA SLATIOARA, JUDETUL VALCEA’’",
+   "url": "https://emol.ro/slatioara-vl/registru-hcl/187563",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/slatioara-vl/registru-hcl/187563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--slatioara-32-2024",
+   "path": "local/valcea/slatioara/2024/32",
+   "short": "HCL Slătioara nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Slătioara nr. 32/2024 privind acordarea ajutoarelor de urgență în bani în situații de necessitate cauzate de calamități naturale, incendii, accidente, epidemii, epizootii, precum și pentru alte situatii deosebite",
+   "url": "https://emol.ro/slatioara-vl/registru-hcl/187565",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/slatioara-vl/registru-hcl/187565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--slatioara-37-2024",
+   "path": "local/valcea/slatioara/2024/37",
+   "short": "HCL Slătioara nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Slătioara nr. 37/2024 privind aprobarea Regulamentului de functionare a platformei de depozitare a gunoiului de grajd aflata in domeniul public al comunei Slatioara",
+   "url": "https://emol.ro/slatioara-vl/registru-hcl/187595",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/slatioara-vl/registru-hcl/187595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--slatioara-38-2024",
+   "path": "local/valcea/slatioara/2024/38",
+   "short": "HCL Slătioara nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Slătioara nr. 38/2024 privind aprobarea taxei speciale pentru serviciile aferente platformei de depozitare a gunoiului de grajd aflata in domeniul public al comunei Slatioara",
+   "url": "https://emol.ro/slatioara-vl/registru-hcl/187599",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/slatioara-vl/registru-hcl/187599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--slatioara-44-2024",
+   "path": "local/valcea/slatioara/2024/44",
+   "short": "HCL Slătioara nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Slătioara nr. 44/2024 privind aprobarea documentelor necesare demarării procedurii de atribuire a Contractului de delegare prin concesiune a Serviciului de salubrizare constând în colectare separată, transport separat, transfer al deșeurilor municipale în Județul Vâlcea, sortare în stațiile de sortare Râureni și Brezoi, compostare în stația de compost Râureni și operare a centrelor de aport voluntar (CAV)",
+   "url": "https://emol.ro/slatioara-vl/registru-hcl/187616",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/slatioara-vl/registru-hcl/187616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--slatioara-50-2024",
+   "path": "local/valcea/slatioara/2024/50",
+   "short": "HCL Slătioara nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Slătioara nr. 50/2024 privind aprobarea valorii finale a obiectivului de ivestitii ,,MODERNIZARE DRUMURI DE INTERES LOCAL IN COMUNA SLATIOARA, JUDETUL VALCEA-ETAPA I’’",
+   "url": "https://emol.ro/slatioara-vl/registru-hcl/187622",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/slatioara-vl/registru-hcl/187622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--slatioara-57-2024",
+   "path": "local/valcea/slatioara/2024/57",
+   "short": "HCL Slătioara nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Slătioara nr. 57/2024 privind aprobarea actualizarii tarifului privind colectarea, transportul, sortarea, procesarea si valorificarea deseurilor reciclabile la nivelul comunei Slatioara",
+   "url": "https://emol.ro/slatioara-vl/registru-hcl/187629",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/slatioara-vl/registru-hcl/187629",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

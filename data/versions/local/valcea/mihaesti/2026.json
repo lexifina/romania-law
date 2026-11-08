@@ -1,0 +1,696 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/mihaesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-valcea--mihaesti-10-2026",
+   "path": "local/valcea/mihaesti/2026/10",
+   "short": "HCL Mihăești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 10/2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/258365",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/258365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-12-2026",
+   "path": "local/valcea/mihaesti/2026/12",
+   "short": "HCL Mihăești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 12/2026 privind aprobarea contului anual de execuție bugetară și a situațiilor financiare anuale, încheiate la data de 31 Decembrie 2025",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/258367",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/258367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-13-2026",
+   "path": "local/valcea/mihaesti/2026/13",
+   "short": "HCL Mihăești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 13/2026 privind aprobarea organigramei și statului de funcții ale aparatului de specialitate al primarului comunei Mihăești",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/268062",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/268062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-16-2026",
+   "path": "local/valcea/mihaesti/2026/16",
+   "short": "HCL Mihăești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 16/2026 privind actualizarea Devizului general și a indicatorilor tehnico-economici necesari realizării proiectului ,, CREȘTEREA EFICIENȚEI ENERGETICE A CLĂDIRII LA ȘCOALĂ CU CLASELE I-VIII SAT MĂGURA, JUDEȚ VÂLCEA”",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/268075",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/268075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-17-2026",
+   "path": "local/valcea/mihaesti/2026/17",
+   "short": "HCL Mihăești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 17/2026 privind actualizarea indicatorilor tehnico-economici necesari realizării proiectului ,,CREȘTEREA EFICIENȚEI ENERGETICE A CLĂDIRII LA ȘCOALA CU CLASELE I-VIII SAT BULETA, JUDEȚ VÂLCEA”",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/268076",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/268076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-18-2026",
+   "path": "local/valcea/mihaesti/2026/18",
+   "short": "HCL Mihăești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 18/2026 privind reorganizarea aparatului de specialitate al primarului comunei Mihăești, județul Vâlcea în conformitate cu prevederile Ordonanței de Urgență a Guvernului nr.7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ - teritoriale",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/268077",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/268077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-19-2026",
+   "path": "local/valcea/mihaesti/2026/19",
+   "short": "HCL Mihăești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 19/2026 privind aprobarea invetiției și indicatorilor tehnico-economici pentru investiția «Alimentare cu energie electrică stație de încărcare rapidă autobuze electrice, situată în comuna Mihăești, sat Rugetu, str.Rugetu, județ Vâlcea»",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/268078",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/268078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-23-2026",
+   "path": "local/valcea/mihaesti/2026/23",
+   "short": "HCL Mihăești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 23/2026 privind aprobarea documentelor necesare demarării procedurii de atribuire a Contractului de delegare prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare (colectare, transport, transfer și operare CAV-uri) prin concesiune al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară ADISSL Vâlcea - Județul Vâlcea",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/274160",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/274160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-24-2026",
+   "path": "local/valcea/mihaesti/2026/24",
+   "short": "HCL Mihăești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 24/2026 privind aprobarea REGULAMENTULUI propriu de organizare și funcţionare al serviciului public de salubrizare din județul Vâlcea",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/274161",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/274161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-25-2026",
+   "path": "local/valcea/mihaesti/2026/25",
+   "short": "HCL Mihăești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 25/2026 privind aprobarea documentelor necesare demarării procedurii de atribuire a Contractului de delegare prin concesiune a serviciului de operare a Centrului de Management Integrat al Deșeurilor Roești, a Stațiilor de sortare Râureni și Brezoi, Stație de compostare Râureni, activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitara ADISL a județului Vâlcea",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/274162",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/274162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-26-2026",
+   "path": "local/valcea/mihaesti/2026/26",
+   "short": "HCL Mihăești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 26/2026 privind clasificarea unor imobile drept bunuri de interes public care apartin domeniului public al UAT comuna Mihăești, județul Vâlcea",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/274168",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/274168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-27-2026",
+   "path": "local/valcea/mihaesti/2026/27",
+   "short": "HCL Mihăești nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 27/2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/274169",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/274169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-28-2026",
+   "path": "local/valcea/mihaesti/2026/28",
+   "short": "HCL Mihăești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 28/2026 privind aprobarea bugetului local de venituri și cheltuieli al comunei Mihăești, județul Vâlcea, pe anul 2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/274174",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/274174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-3-2026",
+   "path": "local/valcea/mihaesti/2026/3",
+   "short": "HCL Mihăești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 3/2026 privind aprobarea rezultatului inventarierii generale a patrimoniului general al U.A.T comuna Mihăiești",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/251629",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/251629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-30-2026",
+   "path": "local/valcea/mihaesti/2026/30",
+   "short": "HCL Mihăești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 30/2026 privind modificarea și completarea Hotărârii Consiliului Local Mihăești nr. 9/12.02.2026 cu privire la atribuirea directă a contractului de delegare a gestiunii serviciului de transport public local în aria de delegare a Asociației de Dezvoltare Intercomunitară pentru Transportul Public Vâlcea, aprobarea contractului de delegare și mandatarea președintelui Asociației pentru semnarea acestuia",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/274176",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/274176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-32-2026",
+   "path": "local/valcea/mihaesti/2026/32",
+   "short": "HCL Mihăești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 32/2026 privind aprobarea contului trimestrial de execuție bugetară și a situațiilor financiare trimestriale, încheiate la data de 31 MARTIE 2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/274178",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/274178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-33-2026",
+   "path": "local/valcea/mihaesti/2026/33",
+   "short": "HCL Mihăești nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 33/2026 privind clasificarea unor imobile drept bunuri de interes public care apartin domeniului public al UAT comuna Mihăești, județul Vâlcea",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/274179",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/274179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-35-2026",
+   "path": "local/valcea/mihaesti/2026/35",
+   "short": "HCL Mihăești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 35/2026 privind aprobarea proiectului și a cheltuielilor legate de proiectul „Investiții integrate în infrastructura medicală școlară și stomatologică din județul Vâlcea” în vederea finanțării acestuia în cadrul Programului Sănătate",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/274181",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/274181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-36-2026",
+   "path": "local/valcea/mihaesti/2026/36",
+   "short": "HCL Mihăești nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 36/2026 privind aprobarea invetiției și indicatorilor tehnico-economici pentru investiția «Construire garaje și spații depozitare în comuna Mihăești, sat Buleta, județul Vâlcea»",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/274182",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/274182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-37-2026",
+   "path": "local/valcea/mihaesti/2026/37",
+   "short": "HCL Mihăești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 37/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/274183",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/274183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-39-2026",
+   "path": "local/valcea/mihaesti/2026/39",
+   "short": "HCL Mihăești nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 39/2026 privind aprobarea contractului de parteneriat între UAT comuna Mihăești, prin Consiliul local Mihăești și Clubul Sportiv NeoMotorsport, în vederea organizării evenimentului “Raliul Vâlcii”, în perioada 24 - 26 septembrie 2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/274185",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/274185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-40-2026",
+   "path": "local/valcea/mihaesti/2026/40",
+   "short": "HCL Mihăești nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 40/2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285363",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-42-2026",
+   "path": "local/valcea/mihaesti/2026/42",
+   "short": "HCL Mihăești nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 42/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285365",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-43-2026",
+   "path": "local/valcea/mihaesti/2026/43",
+   "short": "HCL Mihăești nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 43/2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285366",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-44-2026",
+   "path": "local/valcea/mihaesti/2026/44",
+   "short": "HCL Mihăești nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 44/2026 privind actualizarea indicatorilor Tehnico-Economici și a Devizului General pentru obiectivul de investiții «Modernizare drumuri de interes local în comuna Mihăești, județul Vâlcea », finantat prin Programul National de Investitii ”Anghel Saligny”",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285371",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-46-2026",
+   "path": "local/valcea/mihaesti/2026/46",
+   "short": "HCL Mihăești nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 46/2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285373",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-47-2026",
+   "path": "local/valcea/mihaesti/2026/47",
+   "short": "HCL Mihăești nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 47/2026 privind aprobarea invetiției și indicatorilor tehnico-economici pentru investiția «Extindere rețea și branșamente de apă potabilă în comuna Mihăești, sat Mihăești, str. Boalca, județul Vâlcea»",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285376",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-48-2026",
+   "path": "local/valcea/mihaesti/2026/48",
+   "short": "HCL Mihăești nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 48/2026 privind aprobarea invetiției și indicatorilor tehnico-economici pentru investiția «Extindere rețea de apă potabilă în comuna Mihăești, sat Bârsești, strada Valea lui Naneș, județul Vâlcea»",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285377",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-49-2026",
+   "path": "local/valcea/mihaesti/2026/49",
+   "short": "HCL Mihăești nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 49/2026 privind distribuirea unei sume alocată de Ministerul Finațelor Publice, în vederea unui spriin financiar pentru finanțarea achiziționării unui teren necesar extinderii Cimitirului Buleta și a unor lucrări privind amenajarea și consolidarea acestuia, la Parohia Buleta, cu Hramul « Sfântul Ioan Botezătorul »",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285378",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-52-2026",
+   "path": "local/valcea/mihaesti/2026/52",
+   "short": "HCL Mihăești nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 52/2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285585",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-53-2026",
+   "path": "local/valcea/mihaesti/2026/53",
+   "short": "HCL Mihăești nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 53/2026 privind clasificarea unor imobile drept drumuri de interes public care apartin domeniului public al UAT comuna Mihăești, județul Vâlcea",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285586",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-54-2026",
+   "path": "local/valcea/mihaesti/2026/54",
+   "short": "HCL Mihăești nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 54/2026 privind aprobarea corectării unei erori a limitei intravilanului din Planului Urbanistic General al comunei Mihăeşti, judeţul Vâlcea",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285587",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-55-2026",
+   "path": "local/valcea/mihaesti/2026/55",
+   "short": "HCL Mihăești nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 55/2026 privind aprobarea lucrărilor suplimentare la stația de îmbarcare “Sanatoriu”, din satul Mihăești, necesare realizarii proiectului \"Sistem de transport inteligent la nivelul localităților membre ale Asociației de Dezvoltare Intercomunitară Transport\"",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285588",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-56-2026",
+   "path": "local/valcea/mihaesti/2026/56",
+   "short": "HCL Mihăești nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 56/2026 privind îndreptarea erorii materiale din cuprinsul Hotărârii nr.44 din 22 iunie 2026 privind actualizarea indicatorilor Tehnico-Economici și a Devizului General pentru obiectivul de investiții «Modernizare drumuri de interes local în comuna Mihăești, județul Vâlcea » , finantat prin Programul National de Investitii ”Anghel Saligny ”",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285596",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-57-2026",
+   "path": "local/valcea/mihaesti/2026/57",
+   "short": "HCL Mihăești nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 57/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285599",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-58-2026",
+   "path": "local/valcea/mihaesti/2026/58",
+   "short": "HCL Mihăești nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 58/2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285600",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-6-2026",
+   "path": "local/valcea/mihaesti/2026/6",
+   "short": "HCL Mihăești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 6/2026 privind aprobarea Programului de acțiuni comunitare pentru combaterea sărăciei și marginalizării sociale la nivelul comunei Mihăiești, județul Vâlcea, pe anul 2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/251632",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/251632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-61-2026",
+   "path": "local/valcea/mihaesti/2026/61",
+   "short": "HCL Mihăești nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 61/2026 privind aprobarea contului trimestrial de execuție bugetară și a situațiilor financiare trimestriale, încheiate la data de 30 IUNIE 2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285603",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-64-2026",
+   "path": "local/valcea/mihaesti/2026/64",
+   "short": "HCL Mihăești nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 64/2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285606",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-65-2026",
+   "path": "local/valcea/mihaesti/2026/65",
+   "short": "HCL Mihăești nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 65/2026 privind aprobarea încheierii de către Comuna Mihăești prin Consiliul Local al Comunei Mihăești cu Județul Vâlcea, prin Consiliul Județean Vâlcea, a contractului de împrumut de folosință cu titlu gratuit (comodat) a microbuzului electric școlar, achiziționat în cadrul Proiectului ”Achiziția de autovehicule mai puțin poluante pentru transportul elevilor din județul Vâlcea”, finanțat prin Administrația Fondului pentru Mediu, precum și a modelului de contract",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285607",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-66-2026",
+   "path": "local/valcea/mihaesti/2026/66",
+   "short": "HCL Mihăești nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 66/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/285621",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/285621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-68-2026",
+   "path": "local/valcea/mihaesti/2026/68",
+   "short": "HCL Mihăești nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 68/2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/292351",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/292351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-69-2026",
+   "path": "local/valcea/mihaesti/2026/69",
+   "short": "HCL Mihăești nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 69/2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/292352",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/292352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-70-2026",
+   "path": "local/valcea/mihaesti/2026/70",
+   "short": "HCL Mihăești nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 70/2026",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/292353",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/292353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-73-2026",
+   "path": "local/valcea/mihaesti/2026/73",
+   "short": "HCL Mihăești nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 73/2026 privind aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici și a implementării proiectului „Lucrări de construire – Parc de agrement în comuna Mihăești, județul Vâlcea”",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/292368",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/292368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--mihaesti-74-2026",
+   "path": "local/valcea/mihaesti/2026/74",
+   "short": "HCL Mihăești nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihăești nr. 74/2026 privind aprobarea corectării unei erori a limitei intravilanului din Planului Urbanistic General al comunei Mihăeşti, judeţul Vâlcea",
+   "url": "https://emol.ro/mihaesti-vl/registru-hcl/292369",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaesti-vl/registru-hcl/292369",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

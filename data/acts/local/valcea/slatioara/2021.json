@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/valcea/slatioara/2021",
+"acts": [
+{
+"slug": "hcl-valcea--slatioara-3-2021",
+"path": "local/valcea/slatioara/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Slătioara nr. 3/2021 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții ”Dezvoltarea rețelelor inteligente de distribuție gaze naturale în vederea creșterii nivelului de flexibilitate, siguranță, eficiență în operare, precum și de integrare a activităților de transport, distribuție și consum final în comuna Slătioara și satele aparținătoare (Coasta Cerbului, Gorunești, Milostea, Mogești, Rugetu, Slătioara), Județul Vâlcea”",
+"short": "HCL Slătioara nr. 3/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-22",
+"latest": "2021-01-22",
+"portal": "https://emol.ro/slatioara-vl/registru-hcl/37870",
+"council": "valcea/slatioara",
+"council_name": "Consiliul Local al Comunei Slătioara",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

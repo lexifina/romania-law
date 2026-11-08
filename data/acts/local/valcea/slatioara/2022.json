@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/valcea/slatioara/2022",
+"acts": [
+{
+"slug": "hcl-valcea--slatioara-1-2022",
+"path": "local/valcea/slatioara/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Slătioara nr. 1/2022 privind utilizarea excedentului bugetar rezultat la inchiderea exercitiului bugetar al anului 2021",
+"short": "HCL Slătioara nr. 1/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/slatioara-vl/registru-hcl/93263",
+"council": "valcea/slatioara",
+"council_name": "Consiliul Local al Comunei Slătioara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--slatioara-22-2022",
+"path": "local/valcea/slatioara/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Slătioara nr. 22/2022 privind actualizarea indicatorilor tehnico-economici ai obiectivului de investitii ,,Dezvoltarea retelelor inteligente de distributie gaze naturale in vederea cresterii nivelului de flexibilitate, siguranta, eficienta in operare, precum si integrare a activitatilor de transport, distributie si consum final in comuna Slatioara si satele apartinatoare (Coasta cerbului, Gorunesti, Milostea, Mogesti, Rugetu, Slatioara), judetul Valcea",
+"short": "HCL Slătioara nr. 22/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://emol.ro/slatioara-vl/registru-hcl/93379",
+"council": "valcea/slatioara",
+"council_name": "Consiliul Local al Comunei Slătioara",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

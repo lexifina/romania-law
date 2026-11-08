@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/valcea/vaideeni/2023",
+"acts": [
+{
+"slug": "hcl-valcea--vaideeni-1-2023",
+"path": "local/valcea/vaideeni/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 1/2023 privind aprobarea acoperirii deficitului bugetar pentru anul 2022 Secțiunea Dezvoltare si Secțiunea de Funcționare",
+"short": "HCL Vaideeni nr. 1/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/92206",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-2-2023",
+"path": "local/valcea/vaideeni/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 2/2023 privind adoptarea bugetului local pe anul 2023 al Comunei Vaideeni",
+"short": "HCL Vaideeni nr. 2/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/92688",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--vaideeni-16-2023",
+"path": "local/valcea/vaideeni/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 16/2023",
+"short": "HCL Vaideeni nr. 16/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-01",
+"latest": "2023-03-01",
+"portal": "https://emol.ro/vaideeni-vl/registru-hcl/92702",
+"council": "valcea/vaideeni",
+"council_name": "Consiliul Local al Comunei Vaideeni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Pietrari nr. 45/2022 Aprobarea indicatorilor tehnico-economici actualizati si a Devizului General, actualizat și Devizul General rest de executat, pentru obiectivul de investitii “Reabilitare Scoala Gimnaziala în comuna Pietrari, sat Pietrari, Județul Vâlcea”, ca urmare a prevederilor Legii nr. 176/2022
+
+HCL Pietrari nr. 45/2022 · 1 versions, from 2022-07-11 (latest in force: 2022-07-11) · <https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#25874>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-valcea--pietrari-45-2022` (tags `hcl-valcea--pietrari-45-2022/<day>`; `python tools/on.py <day> hcl-valcea--pietrari-45-2022`).
+
+## Decisions made by hand
+
+- HCL Pietrari nr. 45/2022: listed from Consiliul Local al Comunei Pietrari (pietrari.regista.ro); metadata only for now: no document of it is held.
+- HCL Pietrari nr. 45/2022: dated from 11 July 2022, the day it was adopted (the register gives no later day of publication).
+- HCL Pietrari nr. 45/2022: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

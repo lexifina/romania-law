@@ -1,0 +1,876 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/berezeni/2026",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--berezeni-1-2026",
+   "path": "local/vaslui/berezeni/2026/1",
+   "short": "HCL Berezeni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 1/2026 privind utilizarea excedentului bugetar al comunei Berezeni din anul 2025, pentru exercițiul bugetar al anului 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/252212",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/252212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-10-2026",
+   "path": "local/vaslui/berezeni/2026/10",
+   "short": "HCL Berezeni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 10/2026 privind privind aprobarea Situațiilor financiare pentru anul 2025 ale UAT Comuna Berezeni",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/257438",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/257438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-11-2026",
+   "path": "local/vaslui/berezeni/2026/11",
+   "short": "HCL Berezeni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 11/2026 privind privind aprobarea bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2026 și estimările pentru anii 2027-2029",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/257439",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/257439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-12-2026",
+   "path": "local/vaslui/berezeni/2026/12",
+   "short": "HCL Berezeni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 12/2026 privind aprobarea Raportului de activitate pentru anul 2025 si aprobarea Programului de activitate pentru anul 2026 al Bibliotecii Publice Comunale ,,Anastasie Fătu’’ Berezeni",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/257440",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/257440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-13-2026",
+   "path": "local/vaslui/berezeni/2026/13",
+   "short": "HCL Berezeni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 13/2026 privind modificarea organigramei si statului de functii din aparatul de specialitate al primarului comunei Berezeni, judetul Vaslui",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/257441",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/257441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-14-2026",
+   "path": "local/vaslui/berezeni/2026/14",
+   "short": "HCL Berezeni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 14/2026 privind aprobarea Strategiei de dezvoltare a serviciilor sociale pentru perioada 2026-2030, a Planului Local de acţiune în domeniul serviciilor sociale, precum și Procedura de identificare a situaţiilor de risc de separare a copiilor de părinţi şi a monitorizării situației familiilor cu copii în situație de risc și a copiilor separați de părinți la nivelul Comunei Berezeni",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/257442",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/257442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-18-2026",
+   "path": "local/vaslui/berezeni/2026/18",
+   "short": "HCL Berezeni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 18/2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/257446",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/257446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-19-2026",
+   "path": "local/vaslui/berezeni/2026/19",
+   "short": "HCL Berezeni nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 19/2026 privind aprobarea prelungirii valabilității prin Act aditional a Contractului de comodat nr. 2829 din 03.03.2025 încheiat între UAT Comuna Berezeni, județul Vaslui și Inspectoratul de Poliție al Județului Vaslui",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/257447",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/257447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-2-2026",
+   "path": "local/vaslui/berezeni/2026/2",
+   "short": "HCL Berezeni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 2/2026 privind analiza stadiului de inscriere a datelor in Registrul Agricol al Comunei Berezeni pentru trimestrul IV al anului 2025 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/252213",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/252213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-20-2026",
+   "path": "local/vaslui/berezeni/2026/20",
+   "short": "HCL Berezeni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 20/2026 privind implementarea proiectului „Creșterea capacității administrative și tehnice a Comunei Berezeni pentru intervenții la nivel local”",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/257448",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/257448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-21-2026",
+   "path": "local/vaslui/berezeni/2026/21",
+   "short": "HCL Berezeni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 21/2026 privind privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al Comunei Berezeni, județul Vaslui, pentru anul 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/264829",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/264829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-26-2026",
+   "path": "local/vaslui/berezeni/2026/26",
+   "short": "HCL Berezeni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 26/2026 privind aprobarea instalării mijloacelor de semnalizare rutieră pe strada Primăriei din localitatea Berezeni, județul Vaslui",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/264834",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/264834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-28-2026",
+   "path": "local/vaslui/berezeni/2026/28",
+   "short": "HCL Berezeni nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 28/2026 privind reorganizarea aparatului de specialitate al primarului comunei Berezeni, judetul Vaslui, in conformitate cu prevederile Ordonanței de Urgență a Guvernului nr. 7/2026, pentru modificarea si completarea unor acte normative, precum si pentru adoptarea unor masuri pentru cresterea capacitatii financiare a unitatilor administrativ - teritoriale",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/264838",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/264838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-29-2026",
+   "path": "local/vaslui/berezeni/2026/29",
+   "short": "HCL Berezeni nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 29/2026 privind aprobarea contului de execuție a bugetului de venituri și cheltuieli al comunei Berezeni - Trimestrul I Anul 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/265696",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/265696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-3-2026",
+   "path": "local/vaslui/berezeni/2026/3",
+   "short": "HCL Berezeni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 3/2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/252214",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/252214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-30-2026",
+   "path": "local/vaslui/berezeni/2026/30",
+   "short": "HCL Berezeni nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 30/2026 privind aprobarea bugetului local pe anul 2026 și estimări pentru anii 2027-2029",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/265697",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/265697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-32-2026",
+   "path": "local/vaslui/berezeni/2026/32",
+   "short": "HCL Berezeni nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 32/2026 privind analiza stadiului de inscriere a datelor in Registrul Agricol al Comunei Berezeni pentru trimestrul I al anului 2026 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/265699",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/265699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-34-2026",
+   "path": "local/vaslui/berezeni/2026/34",
+   "short": "HCL Berezeni nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 34/2026 privind privind alegerea președintelui de ședință a Consiliului Local al Comunei Berezeni, județul Vaslui pentru o perioadă de 3 luni, respectiv luna mai, iunie și iulie 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/265701",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/265701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-35-2026",
+   "path": "local/vaslui/berezeni/2026/35",
+   "short": "HCL Berezeni nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 35/2026 privind privind actualizarea indicatorilor tehnico-economici si a devizelor generale pentru obiectivul de investitie “INFIINTARE SISTEM DE ALIMENTARE CU APA IN LOCALITATILE RANCENI si STUHULET, COMUNA BEREZENI, JUDETUL VASLUI’’, aprobat pentru finanțare prin Programul Național de Investiții ,,Anghel Saligny’’",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/265702",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/265702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-36-2026",
+   "path": "local/vaslui/berezeni/2026/36",
+   "short": "HCL Berezeni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 36/2026 privind privind aprobarea obiectivului de investiții ,,Amenajare Parcare Piata Agroalimentara” sat Berezeni, comuna Berezeni, județul Vaslui",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/265703",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/265703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-37-2026",
+   "path": "local/vaslui/berezeni/2026/37",
+   "short": "HCL Berezeni nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 37/2026 privind actualizarea devizului general pentru obiectivul de investiție „Înființare Centru Comunitar Integrat în Comuna Berezeni, județul Vaslui”",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/269033",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/269033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-38-2026",
+   "path": "local/vaslui/berezeni/2026/38",
+   "short": "HCL Berezeni nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 38/2026 privind aprobarea Rectificării I a Bugetului Local pe anul 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/271046",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/271046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-39-2026",
+   "path": "local/vaslui/berezeni/2026/39",
+   "short": "HCL Berezeni nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 39/2026 privind stabilirea datei pentru organizarea Zilei Comunei Berezeni, județul Vaslui și alocarea unei sumei din bugetul local al comunei Berezeni, județul Vaslui, pentru desfășurarea evenimentului",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/271047",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/271047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-4-2026",
+   "path": "local/vaslui/berezeni/2026/4",
+   "short": "HCL Berezeni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 4/2026 pentru aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav cu asistent personal pentru semestrul II al anului 2025",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/252215",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/252215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-40-2026",
+   "path": "local/vaslui/berezeni/2026/40",
+   "short": "HCL Berezeni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 40/2026 privind actualizarea informațiilor cu privire la un imobil aflat în Inventarului bunurilor apartinand domeniului privat al comunei Berezeni, judetul Vaslui",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/271048",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/271048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-41-2026",
+   "path": "local/vaslui/berezeni/2026/41",
+   "short": "HCL Berezeni nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 41/2026 privind desfășurarea unor acțiuni de vânătoare pentru combaterea dăunătorilor vânatului (șacali și vulpi) în vederea prevenirii rabiei și pestei porcine africane, pentru a proteja animalele populației de pe raza UAT Berezeni, județul Vaslui",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/271049",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/271049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-42-2026",
+   "path": "local/vaslui/berezeni/2026/42",
+   "short": "HCL Berezeni nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 42/2026 pentru aprobarea planului de asigurare cu resurse umane, materiale și financiare pentru gestionarea situațiilor de urgență din comuna Berezeni, județul Vaslui pe anul 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/271050",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/271050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-43-2026",
+   "path": "local/vaslui/berezeni/2026/43",
+   "short": "HCL Berezeni nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 43/2026 privind aprobarea „PLANULUI DE EVACUARE ÎN SITUAȚII DE URGENTĂ” al comunei Berezeni, județul Vaslui",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/271051",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/271051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-44-2026",
+   "path": "local/vaslui/berezeni/2026/44",
+   "short": "HCL Berezeni nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 44/2026 privind aprobarea „PLANULUI DE ANALIZĂ ŞI ACOPERIRE A RISCURILOR IDENTIFICATE LA NIVELUL COMUNEI BEREZENI, JUDEȚUL VASLUI”",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/271052",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/271052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-46-2026",
+   "path": "local/vaslui/berezeni/2026/46",
+   "short": "HCL Berezeni nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 46/2026 privind aprobarea trecerii unui teren și a construcției aferente-Centru Comunitar Integrat din domeniul privat în domeniul public al comunei Berezeni, județul Vaslui",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/274608",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/274608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-47-2026",
+   "path": "local/vaslui/berezeni/2026/47",
+   "short": "HCL Berezeni nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 47/2026 privind înființarea Centrului Comunitar Integrat în cadrul U.A.T Comuna Berezeni, județul Vaslui, fără personalitate juridică, în subordinea Compartimentului de Asistență Socială",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/274609",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/274609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-48-2026",
+   "path": "local/vaslui/berezeni/2026/48",
+   "short": "HCL Berezeni nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 48/2026 privind privind aprobarea Rectificării a II-a a Bugetului Local pe anul 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/276768",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/276768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-50-2026",
+   "path": "local/vaslui/berezeni/2026/50",
+   "short": "HCL Berezeni nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 50/2026 privind aprobarea Programului de intretinere si reparare a drumurilor sătești din comuna Berezeni, judetul Vaslui",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/276770",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/276770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-51-2026",
+   "path": "local/vaslui/berezeni/2026/51",
+   "short": "HCL Berezeni nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 51/2026 privind modificarea si completarea Regulamentului de organizare şi funcţionare a aparatului de specialitate al Primarului comunei Berezeni, judetul Vaslui",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/276771",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/276771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-52-2026",
+   "path": "local/vaslui/berezeni/2026/52",
+   "short": "HCL Berezeni nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 52/2026 privind stabilirea salariilor de bază pentru personalul contractual din cadrul aparatului de specialitate al primarului comunei Berezeni, judetul Vaslui, în conformitate cu prevederile legale în vigoare, începând cu data de 01 Iulie 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/276772",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/276772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-53-2026",
+   "path": "local/vaslui/berezeni/2026/53",
+   "short": "HCL Berezeni nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 53/2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/276773",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/276773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-54-2026",
+   "path": "local/vaslui/berezeni/2026/54",
+   "short": "HCL Berezeni nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 54/2026 privind actualizarea devizului general pentru obiectivul de investiție „Înființare Centru Comunitar Integrat în Comuna Berezeni, județul Vaslui”",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/280061",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/280061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-55-2026",
+   "path": "local/vaslui/berezeni/2026/55",
+   "short": "HCL Berezeni nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 55/2026 privind aprobarea contului de execuție a bugetului de venituri și cheltuieli al comunei Berezeni - Trimestrul II Anul 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/280987",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/280987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-56-2026",
+   "path": "local/vaslui/berezeni/2026/56",
+   "short": "HCL Berezeni nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 56/2026 privind analiza stadiului de inscriere a datelor in Registrul Agricol al Comunei Berezeni pentru trimestrul II al anului 2026 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/280988",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/280988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-57-2026",
+   "path": "local/vaslui/berezeni/2026/57",
+   "short": "HCL Berezeni nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 57/2026 pentru aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav cu asistent personal pentru semestrul I al anului 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/280989",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/280989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-58-2026",
+   "path": "local/vaslui/berezeni/2026/58",
+   "short": "HCL Berezeni nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 58/2026 privind alegerea președintelui de ședință a Consiliului Local al Comunei Berezeni, județul Vaslui pentru o perioadă de 3 luni, respectiv luna august, septembrie și octombrie 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/280990",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/280990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-59-2026",
+   "path": "local/vaslui/berezeni/2026/59",
+   "short": "HCL Berezeni nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 59/2026 privind aprobarea Rectificării a III-a a Bugetului Local pe anul 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/284994",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/284994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-6-2026",
+   "path": "local/vaslui/berezeni/2026/6",
+   "short": "HCL Berezeni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 6/2026 privind privind aprobarea suportului alimentar acordat preșcolarilor si elevilor din cadrul Școlii Gimnaziale ‘’Anastasie Fătu’’ Berezeni din comuna Berezeni, județul Vaslui, în cadrul Programului naţional \"Masă sănătoasă\" în anul 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/252217",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/252217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-60-2026",
+   "path": "local/vaslui/berezeni/2026/60",
+   "short": "HCL Berezeni nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 60/2026 privind aprobarea depunerii și implementării proiectului „Capacitate de producere și stocare a energie electrice din surse regenerabile în comuna Berezeni, judeţul Vaslui” și a cheltuielilor aferente acestuia",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/289496",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/289496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-61-2026",
+   "path": "local/vaslui/berezeni/2026/61",
+   "short": "HCL Berezeni nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 61/2026 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „Capacitate de producere și stocare a energie electrice din surse regenerabile în comuna Berezeni, judeţul Vaslui”",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/289497",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/289497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-62-2026",
+   "path": "local/vaslui/berezeni/2026/62",
+   "short": "HCL Berezeni nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 62/2026 privind aprobarea taxei de închiriere și a regulamentului privind modalitatea de închiriere a utilajelor din patrimoniul Comunei Berezeni, județul Vaslui",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/292360",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/292360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-66-2026",
+   "path": "local/vaslui/berezeni/2026/66",
+   "short": "HCL Berezeni nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 66/2026 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/292364",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/292364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-67-2026",
+   "path": "local/vaslui/berezeni/2026/67",
+   "short": "HCL Berezeni nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 67/2026 privind APROBAREA ACTUALIZĂRII DOCUMENTATIEI TEHNICO-ECONOMICE (faza STUDIU DE FEZABILITATE), a INDICATORILOR TEHNICO-ECONOMICI si a DEVIZULUI GENERAL ca urmare a creșterii cotei TVA, pentru obiectivul de investitii „Dezvoltarea infrastructurii educaționale din comuna Berezeni, județul Vaslui, prin construirea unei săli de sport”, propus a se finanța prin PROGRAMUL REGIONAL NORD-EST, Prioritatea 6",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/292365",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/292365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-68-2026",
+   "path": "local/vaslui/berezeni/2026/68",
+   "short": "HCL Berezeni nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 68/2026 privind APROBAREA DEPUNERII PROIECTULUI și a CHELTUIELILOR LEGATE DE ACESTA, pentru obiectivul de investitii „Dezvoltarea infrastructurii educaționale din comuna Berezeni, județul Vaslui, prin construirea unei săli de sport”, propus a se finanța prin PROGRAMUL REGIONAL NORD-EST, Prioritatea 6 ACTUALIZATĂ în conformitate cu ultima formă a bugetului rezultat în urma etapei de evaluare tehnică și financiară, inclusiv ca urmare a creșterii cotei TVA",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/292366",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/292366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-69-2026",
+   "path": "local/vaslui/berezeni/2026/69",
+   "short": "HCL Berezeni nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 69/2026 privind aprobarea achiziționării și montării unei centrale termice pentru Școala Gimnazială „ Anastasie Fătu” Berezeni, județul Vaslui",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/292367",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/292367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-7-2026",
+   "path": "local/vaslui/berezeni/2026/7",
+   "short": "HCL Berezeni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 7/2026 privind aprobarea Programului de Acțiune Comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2026 la nivelul comunei Berezeni, județul Vaslui",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/252218",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/252218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-70-2026",
+   "path": "local/vaslui/berezeni/2026/70",
+   "short": "HCL Berezeni nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 70/2026 privind aprobarea contului de execuție a bugetului de venituri și cheltuieli al comunei Berezeni - Trimestrul III Anul 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/297435",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/297435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-71-2026",
+   "path": "local/vaslui/berezeni/2026/71",
+   "short": "HCL Berezeni nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 71/2026 privind aprobarea Rectificării a IV-a a Bugetului Local pe anul 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/297436",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/297436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-72-2026",
+   "path": "local/vaslui/berezeni/2026/72",
+   "short": "HCL Berezeni nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 72/2026 privind analiza stadiului de inscriere a datelor in Registrul Agricol al Comunei Berezeni pentru trimestrul III al anului 2026 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/297437",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/297437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-73-2026",
+   "path": "local/vaslui/berezeni/2026/73",
+   "short": "HCL Berezeni nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 73/2026 privind aprobarea documentației tehnico-economice la faza Proiect tehnic, a indicatorilor tehnico- economici, a Devizului General actualizat pentru realizarea obiectivului de investiții: ,,MODERNIZAREA SISTEMULUI DE ILUMINAT PUBLIC STRADAL IN COMUNA BEREZENI, JUDEȚUL VASLUI’’",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/297438",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/297438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-75-2026",
+   "path": "local/vaslui/berezeni/2026/75",
+   "short": "HCL Berezeni nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 75/2026 privind aprobarea “Programului de deszăpezire și combaterea poleiului pe drumurile din administrarea comunei Berezeni, in perioada de iarna 01 noiembrie 2026 – 31 martie 2027”",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/297440",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/297440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-8-2026",
+   "path": "local/vaslui/berezeni/2026/8",
+   "short": "HCL Berezeni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 8/2026 privind alegerea președintelui de ședință a Consiliului Local al Comunei Berezeni, județul Vaslui pentru o perioadă de 3 luni, respectiv luna februarie, martie și aprilie 2026",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/252219",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/252219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--berezeni-9-2026",
+   "path": "local/vaslui/berezeni/2026/9",
+   "short": "HCL Berezeni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berezeni nr. 9/2026 privind privind aprobarea contului de execuție a bugetului local și a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii al comunei Berezeni pentru anul 2025",
+   "url": "https://emol.ro/berezeni-vs/registru-hcl/257437",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/berezeni-vs/registru-hcl/257437",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

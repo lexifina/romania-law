@@ -3,6 +3,50 @@
 "shard": "local/vaslui/balteni/2024",
 "acts": [
 {
+"slug": "hcl-vaslui--balteni-1-2024",
+"path": "local/vaslui/balteni/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 1/2024 PRIVIND APROBAREA ORGANIZARII RETELEI SCOLARE PE ANUL 2024-2025",
+"short": "HCL Bălteni nr. 1/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#68022",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--balteni-2-2024",
+"path": "local/vaslui/balteni/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 2/2024 PRIVIND ACOPERIREA DEFINITIVA A DEFICITULUI SECTIUNII DE FUNCTIONARE",
+"short": "HCL Bălteni nr. 2/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#68023",
+"council": "vaslui/balteni",
+"council_name": "Consiliul Local al Comunei Bălteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vaslui--balteni-3-2024",
 "path": "local/vaslui/balteni/2024/3",
 "kind": "local",

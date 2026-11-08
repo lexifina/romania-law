@@ -3,6 +3,36 @@
  "shard": "local/valcea/tomsani/2023",
  "acts": [
   {
+   "slug": "hcl-valcea--tomsani-1-2023",
+   "path": "local/valcea/tomsani/2023/1",
+   "short": "HCL Tomșani nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 1/2023 Privind aprobarea utilizării și repartizării excedentului bugetar la sfârșitul anului 2022 în anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#38956",
+   "versions": [
+    {
+     "from": "2023-01-09",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#38956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-10-2023",
+   "path": "local/valcea/tomsani/2023/10",
+   "short": "HCL Tomșani nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 10/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--tomsani-100-2023",
    "path": "local/valcea/tomsani/2023/100",
    "short": "HCL Tomșani nr. 100/2023",
@@ -13,6 +43,1506 @@
      "from": "2023-12-06",
      "units": 1,
      "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#65454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-102-2023",
+   "path": "local/valcea/tomsani/2023/102",
+   "short": "HCL Tomșani nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 102/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-103-2023",
+   "path": "local/valcea/tomsani/2023/103",
+   "short": "HCL Tomșani nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 103/2023 Cu privire la rectificarea bugetului local pe anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#65457",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#65457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-104-2023",
+   "path": "local/valcea/tomsani/2023/104",
+   "short": "HCL Tomșani nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 104/2023 Privind scoaterea din evidentele fiscale ale Primăriei comunei Tomșani a unui proces verbal de contraventie si scăderea sumelor reprezentând amenzi contraventionale, ale debitorilor decedați",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#65460",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#65460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-105-2023",
+   "path": "local/valcea/tomsani/2023/105",
+   "short": "HCL Tomșani nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 105/2023 Cu privire la aprobarea indicatorilor tehnico-economici pentru obiectivul ,, Modernizare și reabilitare drumuri de interes local în Comuna Tomșani, județul Vâlcea,, în cadrul Programului Național de Investiții ,, Anghel Saligny, la faza proiect tehnic",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#65461",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#65461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-106-2023",
+   "path": "local/valcea/tomsani/2023/106",
+   "short": "HCL Tomșani nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 106/2023 Cu privire la : acordarea avizului consultativ al Consiliului Local Tomșani pentru Rețeaua unitaților școlare de învatamant preuniversitar de stat din Comuna Tomșani, pentru anul școlar 2024-2025",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#65451",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#65451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-107-2023",
+   "path": "local/valcea/tomsani/2023/107",
+   "short": "HCL Tomșani nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 107/2023 privind aprobarea execuţiei bugetului local de venituri şi cheltuieli şi a bugetelor instituţiilor publice subordonate Consiliului Local al Comunei Tomșani la data de 30.11.2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#65459",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#65459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-11-2023",
+   "path": "local/valcea/tomsani/2023/11",
+   "short": "HCL Tomșani nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 11/2023 privind însușirea Acordului de cooperare cu Asociația de audit CDS cu sediul Slatina , județul Olt privind organizarea și exercitarea activității de audit public intern și a anexei nr.27 la acordul de cooperare",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#41347",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#41347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-12-2023",
+   "path": "local/valcea/tomsani/2023/12",
+   "short": "HCL Tomșani nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 12/2023 PRIVIND ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ PENTRU LUNILE FEBRUARIE, MARTIE, APRILIE 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42021",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-13-2023",
+   "path": "local/valcea/tomsani/2023/13",
+   "short": "HCL Tomșani nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 13/2023 Privitor la : completarea programului anual de achiziții publice al comunei Tomșani, pentru anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42174",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-14-2023",
+   "path": "local/valcea/tomsani/2023/14",
+   "short": "HCL Tomșani nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 14/2023 Cu privire la rectificarea bugetului local pe anul 2023 și modificarea și completarea listei de investiții",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42175",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-15-2023",
+   "path": "local/valcea/tomsani/2023/15",
+   "short": "HCL Tomșani nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 15/2023 a Consiliului Local Tomșani privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general, actualizat pentru obiectivul de investiții ,, Modernizare și reabilitare drumuri de interes local în Comuna Tomșani, județul Vâlcea”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42176",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-16-2023",
+   "path": "local/valcea/tomsani/2023/16",
+   "short": "HCL Tomșani nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 16/2023 privind aprobarea incheierii contractului de prestări servicii cu UAT Horezu, Județul Vâlcea-Serviciul Public Comunitar Local de Evidență a Persoanelor",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42177",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-17-2023",
+   "path": "local/valcea/tomsani/2023/17",
+   "short": "HCL Tomșani nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 17/2023 Cu privire la aprobarea Acordului de parteneriat privind executarea lucrărilor de alimentare cu apă/canalizare/gaze naturale pe traseul drumurilor județene modernizate și aflate în perioada de garanție",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42178",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-18-2023",
+   "path": "local/valcea/tomsani/2023/18",
+   "short": "HCL Tomșani nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 18/2023 privind acordarea unui mandat special reprezentatului UAT Tomșani în Adunarea Generală a Asociației în vederea exprimării votului cu privire la aprobarea Strategiei Asociației de Dezvoltare Intercomunitară ”APA Vâlcea” privind serviciul public de alimentare cu apă și de canalizare, pentru perioada 2023-2030",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42179",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-19-2023",
+   "path": "local/valcea/tomsani/2023/19",
+   "short": "HCL Tomșani nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 19/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-2-2023",
+   "path": "local/valcea/tomsani/2023/2",
+   "short": "HCL Tomșani nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 2/2023 PRIVIND ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ PENTRU LUNILE FEBRUARIE, MARTIE, APRILIE 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#39858",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#39858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-20-2023",
+   "path": "local/valcea/tomsani/2023/20",
+   "short": "HCL Tomșani nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 20/2023 privind trecerea unui imobil din domeniul privat în domeniul public al comunei Tomșani, județul Vâlcea",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42181",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-21-2023",
+   "path": "local/valcea/tomsani/2023/21",
+   "short": "HCL Tomșani nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 21/2023 cu privire la implementarea proiectului „ACHIZIȚIONAREA ȘI DOTAREA CU CU UTILAJE ȘI ECHIPAMENTE A SERVICIULUI VOLUNTAR PENTRU SITUAȚII DE URGENȚĂ, COMUNA TOMȘANI,JUDEȚUL VÂLCEA”5)",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42282",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-22-2023",
+   "path": "local/valcea/tomsani/2023/22",
+   "short": "HCL Tomșani nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 22/2023 Cu privire la aprobarea participării in cadrul ”Planului Național de Redresare și Reziliență, Componenta 15 – Educație cu proiectul: “DOTAREA CU MOBILIER, MATERIALE DIDACTICE SI ECHIPAMENTE DIGITALE A ȘCOLII GIMNAZIALE COMUNA TOMȘANI, JUDEȚUL VÂLCEA”",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42546",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#42546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-23-2023",
+   "path": "local/valcea/tomsani/2023/23",
+   "short": "HCL Tomșani nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 23/2023 H O T Ă R Â R E nr.22 privind acordarea unui mandat special reprezentatului UAT Tomșani în Adunarea Generală a Asociației în vederea exprimării votului cu privire la modificarea și completarea, prin Act adițional, a Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr.1/2008, cu modificările și completările ulterioare",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#43427",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#43427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-24-2023",
+   "path": "local/valcea/tomsani/2023/24",
+   "short": "HCL Tomșani nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 24/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-25-2023",
+   "path": "local/valcea/tomsani/2023/25",
+   "short": "HCL Tomșani nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 25/2023 privind aprobarea asocierii cu Unitatea Administrativ Teritorială - Județul Vâlcea, prin Consiliul Județean Vâlcea, în vederea depunerii spre finanțare, implementării și monitorizării proiectului cu titlul „Bibliotecile vâlcene, noi hub-uri de dezvoltare a competențelor digitale” gestionat de Ministerul Cercetării, Inovării și Digitalizării, în cadrul apelului de proiecte PNRR/2022/C7/MCID/I17/",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#43430",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#43430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-26-2023",
+   "path": "local/valcea/tomsani/2023/26",
+   "short": "HCL Tomșani nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 26/2023 HCL 25 rectificare buget",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#45253",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#45253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-27-2023",
+   "path": "local/valcea/tomsani/2023/27",
+   "short": "HCL Tomșani nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 27/2023 privind trecerea unor imobile din domeniul privat în domeniul public al comunei Tomșani, județul Vâlcea",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#45254",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#45254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-28-2023",
+   "path": "local/valcea/tomsani/2023/28",
+   "short": "HCL Tomșani nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 28/2023 CU PRIVIRE LA ACHIZIȚIONAREA SERVICIILOR DE CADASTRU ȘI TOPOMETRIE IN VEDEREA INSCRIERII IN CARTEA FUNCIARĂ A COMUNEI TOMȘANI A UNOR IMOBILE APARȚINÂND DOMENIULUI PUBLIC ȘI PRIVAT AL COMUNEI TOMȘANI",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#45255",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#45255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-29-2023",
+   "path": "local/valcea/tomsani/2023/29",
+   "short": "HCL Tomșani nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 29/2023 H O T Ă R Â R E NR. 28 cu privire la aprobarea actului aditional nr.1 la Protocolul de Colaborare dintre UAT Horezu prin Consiliul local al orașului Horezu și UAT Tomșani, în vederea gestionării câinilor fără stăpân",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#45256",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#45256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-3-2023",
+   "path": "local/valcea/tomsani/2023/3",
+   "short": "HCL Tomșani nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 3/2023 Cu privire la aprobarea bugetului local pe anul 2023, a estimărilor pentru anii 2024, 2025, 2026 și a listei de investiții ce urmează a fi finanțate din bugetul local pe anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#40297",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#40297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-30-2023",
+   "path": "local/valcea/tomsani/2023/30",
+   "short": "HCL Tomșani nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 30/2023 privind modificarea HCL nr.26/26.04.2018 privind trecerea unor terenuri cu destinația islazuri comunale din domeniul public in domeniul privat al comunei Tomșani, județul Vâlcea",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#45257",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#45257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-31-2023",
+   "path": "local/valcea/tomsani/2023/31",
+   "short": "HCL Tomșani nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 31/2023 Cu privire la : aprobarea contului de incheiere a exercitiului bugetar pe anul 2022",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#45473",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#45473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-32-2023",
+   "path": "local/valcea/tomsani/2023/32",
+   "short": "HCL Tomșani nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 32/2023 Cu privire la organizarea manifestării cultural-artistice ,,Fagurele de Aur,, - ediția a 51-a",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#45871",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#45871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-33-2023",
+   "path": "local/valcea/tomsani/2023/33",
+   "short": "HCL Tomșani nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 33/2023 Cu privire la : aprobarea indexării impozitelor si taxelor locale pentru anul fiscal 2024 ținând seama de rata inflației în anul anterior",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#47024",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#47024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-34-2023",
+   "path": "local/valcea/tomsani/2023/34",
+   "short": "HCL Tomșani nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 34/2023 privind aprobarea documentației tehnico-economice actualizată, pentru obiectivul de investiții,, Construirea unui teren de sport sintetic la Școala Gimnazială Foleștii de Sus, Comuna Tomșani, județul Vâlcea,,",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#47025",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#47025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-35-2023",
+   "path": "local/valcea/tomsani/2023/35",
+   "short": "HCL Tomșani nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 35/2023 Privitor la : modificarea și completarea programului anual de achiziții publice al comunei Tomșani, pentru anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#47026",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#47026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-36-2023",
+   "path": "local/valcea/tomsani/2023/36",
+   "short": "HCL Tomșani nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 36/2023 CU PRIVIRE LA RECTIFICAREA BUGETULUI LOCAL PE ANUL 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#47027",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#47027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-37-2023",
+   "path": "local/valcea/tomsani/2023/37",
+   "short": "HCL Tomșani nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 37/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ,, Reabilitare moderată a clădirilor publice C1(clădire școlală nouă parter și etaj), din punctul Școală Foleștii de Sus, nr. cadastral 35231, UAT Comuna Tomșani, județul Vâlcea”, aprobat pentru finanțare prin PNRR, Componenta C10-fondul local”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#47028",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#47028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-38-2023",
+   "path": "local/valcea/tomsani/2023/38",
+   "short": "HCL Tomșani nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 38/2023 privind aprobarea execuţiei bugetului local de venituri şi cheltuieli şi a bugetelor instituţiilor publice subordonate Consiliului Local al Comunei Tomșani la data de 31.03.2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#47029",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#47029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-39-2023",
+   "path": "local/valcea/tomsani/2023/39",
+   "short": "HCL Tomșani nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 39/2023 privind aprobarea modificarii organigramei şi statului de funcţii ale aparatului de specialitate al primarului comunei Tomșani, județul Vâlcea",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#48576",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#48576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-4-2023",
+   "path": "local/valcea/tomsani/2023/4",
+   "short": "HCL Tomșani nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 4/2023 Privitor la : aprobarea salariilor de bază aferente funcţiilor publice şi contractuale din cadrul Familiei ocupaționale,, Administrație,, utilizate pentru aparatul de specialitate al Primarului comunei Tomșani, județul Vâlcea și pentru serviciile subordonate Consiliului local pentru anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#40287",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#40287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-41-2023",
+   "path": "local/valcea/tomsani/2023/41",
+   "short": "HCL Tomșani nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 41/2023 Cu privire la rectificarea bugetului local pe anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49000",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-42-2023",
+   "path": "local/valcea/tomsani/2023/42",
+   "short": "HCL Tomșani nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 42/2023 Cu privire la completarea prin act aditional nr.1a Contractului de concesiune nr.4551/29.07.2022 incheiat între Comuna Tomșani și SC Grup Industrial Filler și Pulberi",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49001",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-43-2023",
+   "path": "local/valcea/tomsani/2023/43",
+   "short": "HCL Tomșani nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 43/2023 Cu privire la : aprobarea situațiilor financiare anuale ale Comunei Tomșani, județul Vâlcea la incheierea exercițiului financiar 2022",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49002",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-44-2023",
+   "path": "local/valcea/tomsani/2023/44",
+   "short": "HCL Tomșani nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 44/2023 PRIVIND ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ PENTRU LUNILE MAI, IUNIE, IULIE 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49003",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-45-2023",
+   "path": "local/valcea/tomsani/2023/45",
+   "short": "HCL Tomșani nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 45/2023 Privitor la : pentru alocarea sumelor din bugetul local al Comunei Tomșani pentru finanțarea activităților sportive pentru sezonul competițional 2022-2023 retur, pentru Asociația Club Sportiv Unirea Tomșani",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49004",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-46-2023",
+   "path": "local/valcea/tomsani/2023/46",
+   "short": "HCL Tomșani nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 46/2023 Privitor la : modificarea programului anual de achiziții publice al comunei Tomșani, pentru anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49264",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-47-2023",
+   "path": "local/valcea/tomsani/2023/47",
+   "short": "HCL Tomșani nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 47/2023 Cu privire la: cu privire la aprobarea a indicatorilor tehnico-economici actualizați și a devizelor pentru obiectivul de investiții ,,Înființare stații de reîncărcare pentru autovehicule electrice în comuna Tomșani, județul Vâlcea” in cadrul programului „Reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități”",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49572",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-48-2023",
+   "path": "local/valcea/tomsani/2023/48",
+   "short": "HCL Tomșani nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 48/2023 privind aprobarea asocierii cu Unitatea Administrativ Teritorială - Județul Vâlcea, prin Consiliul Județean Vâlcea, în vederea depunerii spre finanțare, implementării și monitorizării proiectului „Microbuze electrice pentru elevii din județul Vâlcea” în cadrul apelului de proiecte cu titlul Microbuze electrice pentru elevi, finanțat din componenta C15: Educație, Reforma 6. Actualizarea cadrului legislativ pentru a asigura standarde ecologice de proiectare, construcție și dotare în sistemul de învățământ preuniversitar, Investiția 10. Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi prin Planul Național de Redresare și Reziliență",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49573",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-49-2023",
+   "path": "local/valcea/tomsani/2023/49",
+   "short": "HCL Tomșani nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 49/2023 privind: modificarea și completarea Regulamentului de finanțare din bugetul local, a activităților sportive organizate în baza Legii nr.69/2000 a educației fizice și sportului cu modificările și completările ulterioare, aprobat prin HCL nr.17/22.04.2021",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49574",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-5-2023",
+   "path": "local/valcea/tomsani/2023/5",
+   "short": "HCL Tomșani nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 5/2023 cu privire la aprobarea actualizarii tarifelor practicate pentru prestarea serviciului de salubrizare de pe raza Comunei Tomșani, județul Vâlcea",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#40288",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#40288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-50-2023",
+   "path": "local/valcea/tomsani/2023/50",
+   "short": "HCL Tomșani nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 50/2023 Privind aprobarea Regulamentului privind acordarea sprijinului financiar, de la bugetul local al Comunei Tomșani, pentru unitățile de cult de pe raza Comunei Tomșani, județul Vâlcea, aparținând cultelor religioase recunoscute în România",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49575",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-51-2023",
+   "path": "local/valcea/tomsani/2023/51",
+   "short": "HCL Tomșani nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 51/2023 privind aderarea, sustinerea si participarea Comunei Tomșani , judetul Vâlcea la parteneriatul constituit de Asociatia Grupul de Actiune Locala Microregiunea Horezu",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49576",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-52-2023",
+   "path": "local/valcea/tomsani/2023/52",
+   "short": "HCL Tomșani nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 52/2023 Privind stabilirea programului de audiențe al consilierilor locali și organizarea întâlnirilor cu cetățenii",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49577",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-53-2023",
+   "path": "local/valcea/tomsani/2023/53",
+   "short": "HCL Tomșani nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 53/2023 CU PRIVIRE LA ACHIZIȚIONAREA SERVICIILOR EVLUARE IMOBILE PRECUM ȘI DE CADASTRU ȘI TOPOMETRIE PENTRU IMOBILE APARȚINÂND DOMENIULUI PUBLIC ȘI PRIVAT AL COMUNEI TOMȘANI",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49578",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-54-2023",
+   "path": "local/valcea/tomsani/2023/54",
+   "short": "HCL Tomșani nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 54/2023 Privitor la : modificarea și completarea programului anual de achiziții publice al comunei Tomșani, pentru anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49579",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-55-2023",
+   "path": "local/valcea/tomsani/2023/55",
+   "short": "HCL Tomșani nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 55/2023 Cu privire la rectificarea bugetului local pe anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49580",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#49580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-56-2023",
+   "path": "local/valcea/tomsani/2023/56",
+   "short": "HCL Tomșani nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 56/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-57-2023",
+   "path": "local/valcea/tomsani/2023/57",
+   "short": "HCL Tomșani nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 57/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-58-2023",
+   "path": "local/valcea/tomsani/2023/58",
+   "short": "HCL Tomșani nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 58/2023 Privind: modificarea și completarea atestarii inventarului bunurilor care aparțin domeniului public al comunei Tomșani, județul Vâlcea",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#43428",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#43428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-59-2023",
+   "path": "local/valcea/tomsani/2023/59",
+   "short": "HCL Tomșani nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 59/2023 Privitor la : modificarea și completarea programului anual de achiziții publice al comunei Tomșani, pentru anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#52121",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#52121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-60-2023",
+   "path": "local/valcea/tomsani/2023/60",
+   "short": "HCL Tomșani nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 60/2023 Privind: modificarea și completarea atestării inventarului bunurilor care aparțin domeniului public al comunei Tomșani, județul Vâlcea",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#52120",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#52120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-61-2023",
+   "path": "local/valcea/tomsani/2023/61",
+   "short": "HCL Tomșani nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 61/2023 Cu privire la rectificarea bugetului local pe anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#52122",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#52122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-62-2023",
+   "path": "local/valcea/tomsani/2023/62",
+   "short": "HCL Tomșani nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 62/2023 privind aprobarea achiziționării unor servicii juridice de asistență și reprezentare pentru apărarea intereselor Comunei Tomșani și ale autorităților publice locale din comuna Tomșani",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#52123",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#52123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-63-2023",
+   "path": "local/valcea/tomsani/2023/63",
+   "short": "HCL Tomșani nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 63/2023 Cu privire : la modificarea anexelor la HCL nr.48/2017 privind aprobarea nomenclatorului stradal și a numerotării stradale pentru satele componente al Comunei Tomșani cu modificările și completările ulterioare,",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#52124",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#52124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-64-2023",
+   "path": "local/valcea/tomsani/2023/64",
+   "short": "HCL Tomșani nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 64/2023 privind acordarea unui mandat special reprezentantului Comunei Tomșani în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „APA Vâlcea” în vederea exprimării votului cu privire la retragerea comunelor Costești Scundu și Lungești din cadrul Asociației și la încheierea Actului adițional la Statutul Asociației, cu modificările și completările ulterioare",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#53932",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#53932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-65-2023",
+   "path": "local/valcea/tomsani/2023/65",
+   "short": "HCL Tomșani nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 65/2023 privind aprobarea execuţiei bugetului local de venituri şi cheltuieli şi a bugetelor instituţiilor publice subordonate Consiliului Local al Comunei Tomșani la data de 30.06.2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#53933",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#53933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-66-2023",
+   "path": "local/valcea/tomsani/2023/66",
+   "short": "HCL Tomșani nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 66/2023 Privitor la : modificarea și completarea programului anual de achiziții publice al comunei Tomșani, pentru anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#53935",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#53935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-67-2023",
+   "path": "local/valcea/tomsani/2023/67",
+   "short": "HCL Tomșani nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 67/2023 Cu privire la rectificarea bugetului local pe anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#53936",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#53936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-68-2023",
+   "path": "local/valcea/tomsani/2023/68",
+   "short": "HCL Tomșani nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 68/2023 Cu privire la: aprobarea devizului general acutalizat pentru obiectivul de investiții ,,Modernizare și reabilitare drumuri de interes local, strada Salciei, strada Modârceni, strada Poștăriței, strada Lungulești în Comuna Tomșani, Județul Vâlcea",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#53937",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#53937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-69-2023",
+   "path": "local/valcea/tomsani/2023/69",
+   "short": "HCL Tomșani nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 69/2023 PRIVIND ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ PENTRU LUNILE AUGUST SEPTEMBRIE OCTOMBRIE, 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#55499",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#55499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-7-2023",
+   "path": "local/valcea/tomsani/2023/7",
+   "short": "HCL Tomșani nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 7/2023 Cu privire la : aprobarea Planului de acțiuni si lucrări de interes local ce urmează a fi executate in anul 2023 de catre persoanele apte de muncă beneficiare de ajutor social",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#40293",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#40293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-70-2023",
+   "path": "local/valcea/tomsani/2023/70",
+   "short": "HCL Tomșani nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 70/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-71-2023",
+   "path": "local/valcea/tomsani/2023/71",
+   "short": "HCL Tomșani nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 71/2023 CU PRIVIRE LA ACHIZIȚIONAREA SERVICIILOR DE TRANSPORT PENTRU DEPLASAREA FORMAȚIEI DE DANSURI DE FEMEI ȘI OBICEIURI POPULARE ,,NEDEIȚA ,, A CĂMINULUI CULTURAL TOMȘANI, LA FESTIVITĂȚILE ZILELE COMUNEI JIGĂLIA , JUDEȚUL CĂLĂRAȘI",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#55501",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#55501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-72-2023",
+   "path": "local/valcea/tomsani/2023/72",
+   "short": "HCL Tomșani nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 72/2023 Cu privire la rectificarea bugetului local pe anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#55502",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#55502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-73-2023",
+   "path": "local/valcea/tomsani/2023/73",
+   "short": "HCL Tomșani nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 73/2023 Privitor la : modificarea programului anual de achiziții publice al comunei Tomșani, pentru anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#55633",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#55633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-74-2023",
+   "path": "local/valcea/tomsani/2023/74",
+   "short": "HCL Tomșani nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 74/2023 Privind analiza stadiului de înscriere a datelor în registrul agricol și stabilirea măsurilor pentru eficientizarea acestei activități în anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58040",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-75-2023",
+   "path": "local/valcea/tomsani/2023/75",
+   "short": "HCL Tomșani nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 75/2023 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență al Comunei Tomșani, județul Vâlcea, în categoria tip V1",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58041",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-76-2023",
+   "path": "local/valcea/tomsani/2023/76",
+   "short": "HCL Tomșani nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 76/2023 privind aprobarea studiului de oportunitate privind modalitatea de gestionare a serviciului de iluminat public actualizarea caietului de sarcini , actualizarea regulamentului serviciului de iluminat public, a indicatorilor de performanță și a modelului de contract de delegare a serviciului",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58043",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-77-2023",
+   "path": "local/valcea/tomsani/2023/77",
+   "short": "HCL Tomșani nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 77/2023 privind acordarea unui mandat special reprezentantului Comunei Tomșani în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „APA Vâlcea” în vederea exprimării votului cu privire la retragerea comunei Sutești din cadrul Asociației și la încheierea Actului adițional la Statutul Asociației, cu modificările și completările ulterioare",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58045",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-78-2023",
+   "path": "local/valcea/tomsani/2023/78",
+   "short": "HCL Tomșani nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 78/2023 Cu privire la rectificarea bugetului local pe anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58046",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-79-2023",
+   "path": "local/valcea/tomsani/2023/79",
+   "short": "HCL Tomșani nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 79/2023 Privind aprobarea sumelor necesare instruirii asistenților personali din subordinea consiliului local Tomșani",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58047",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-8-2023",
+   "path": "local/valcea/tomsani/2023/8",
+   "short": "HCL Tomșani nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 8/2023 Privitor la : aprobarea programului anual de achiziții publice al comunei Tomșani, pentru anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#40294",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#40294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-80-2023",
+   "path": "local/valcea/tomsani/2023/80",
+   "short": "HCL Tomșani nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 80/2023 privind aprobarea devizului general actualizat, pentru obiectivul de investiții,, Construirea unui teren de sport sintetic la Școala Gimnazială Foleștii de Sus, Comuna Tomșani, județul Vâlcea,, după finalizarea proceduri de achiziție publică",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58048",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-81-2023",
+   "path": "local/valcea/tomsani/2023/81",
+   "short": "HCL Tomșani nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 81/2023 privind aprobarea devizului general actualizat pentru obiectivul de investiții ,,Cresterea eficientei energetice a infrastructurii de iluminat public in comuna Tomșani, județul Vâlcea după finalizarea proceduri de achiziție publică",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58049",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-82-2023",
+   "path": "local/valcea/tomsani/2023/82",
+   "short": "HCL Tomșani nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 82/2023 privind realizarea lucrărilor de reparații și aprobarea devizului general și pe obiect pentru obiectivul “Reparatii fatade,, cosuri de fum, sisteme de colectare a apelor pluviale si cai de acces la Caminul Cultural Tomsani”",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58050",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-83-2023",
+   "path": "local/valcea/tomsani/2023/83",
+   "short": "HCL Tomșani nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 83/2023 privind aprobarea devizului general actualizat, pentru obiectivul de investiții “Achiziționarea si dotarea cu utilaje si echipamente a serviciului de voluntar pentru situatii de urgenta, Comuna Tomsani, Judetul Vâlcea,, în urma atribuirii contractului de finanțare",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58052",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-84-2023",
+   "path": "local/valcea/tomsani/2023/84",
+   "short": "HCL Tomșani nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 84/2023 Privitor la : modificarea și completarea programului anual de achiziții publice al comunei Tomșani, pentru anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58053",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-85-2023",
+   "path": "local/valcea/tomsani/2023/85",
+   "short": "HCL Tomșani nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 85/2023 privind acordarea unui mandat special reprezentantului Comunei Tomșani în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „APA Vâlcea” în vederea exprimării votului cu privire la încheierea actului adițional la Statutul Asociației, cu modificările și completările ulterioare",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58301",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-86-2023",
+   "path": "local/valcea/tomsani/2023/86",
+   "short": "HCL Tomșani nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 86/2023 pentru alocarea sumelor din bugetul local al Comunei Tomșani pentru finanțarea activităților sportive pentru sezonul competițional 2023-2024 tur, pentru Asociația Club Sportiv Unirea Tomșani",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58302",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#58302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-88-2023",
+   "path": "local/valcea/tomsani/2023/88",
+   "short": "HCL Tomșani nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 88/2023 Privind aprobarea sumelor necesare achiziționării microcipurilor necesare identificării și înregistrării câinilor cu stăpân de pe raza Comunei Tomșani",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#59199",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#59199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-89-2023",
+   "path": "local/valcea/tomsani/2023/89",
+   "short": "HCL Tomșani nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 89/2023 Privitor la : completarea programului anual de achiziții publice al comunei Tomșani, pentru anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#59200",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#59200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-9-2023",
+   "path": "local/valcea/tomsani/2023/9",
+   "short": "HCL Tomșani nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 9/2023 Privind: aprobarea actului aditional la Contractul-cadru vizând acoperirea costurilor nete pentru colectarea și transportul, stocarea temporară, sortarea și încredințarea în vederea valorificării deșeurilor de ambalaje la nivelul UAT Comuna Tomșani încheiat cu Geenpoint Management SA și Urban S.A",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#40296",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#40296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-90-2023",
+   "path": "local/valcea/tomsani/2023/90",
+   "short": "HCL Tomșani nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 90/2023 privind aprobarea execuţiei bugetului local de venituri şi cheltuieli şi a bugetelor instituţiilor publice subordonate Consiliului Local al Comunei Tomșani la data de 30.09.2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#59291",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#59291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-91-2023",
+   "path": "local/valcea/tomsani/2023/91",
+   "short": "HCL Tomșani nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 91/2023 Cu privire la rectificarea bugetului local pe anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#60910",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#60910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-92-2023",
+   "path": "local/valcea/tomsani/2023/92",
+   "short": "HCL Tomșani nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 92/2023 Cu privire la actualizarea indicatorilor tehnico-economici pentru obiectivul ,, Modernizare și reabilitare drumuri de interes local în Comuna Tomșani, județul Vâlcea,, în cadrul Programului Național de Investiții ,, Anghel Saligny, la data solicitării autorizației de construire",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#61453",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#61453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-93-2023",
+   "path": "local/valcea/tomsani/2023/93",
+   "short": "HCL Tomșani nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 93/2023 Privind: aprobarea actului aditional nr.2 la protocolul de colaborare nr.20220/92/78514/24.09.2021, încheiat pentru pregătirea obiectivului de investiții “Elaborare Studiu de Fezabilitate si elaborare Proiect Tehnic pentru obiectivul Varianta de ocolire Horezu”",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#61459",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#61459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-94-2023",
+   "path": "local/valcea/tomsani/2023/94",
+   "short": "HCL Tomșani nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 94/2023 privind aprobarea devizului general actualizat , a devizului general cheltuieli eligibile și a devizului general cheltuieli neeligibile pentru obiectivul de investiții ,, Reabilitare moderată a clădirilor publice C1(clădire școlală nouă parter și etaj), din punctul Școală Foleștii de Sus, nr. cadastral 35231, UAT Comuna Tomșani, județul Vâ1cea”, la data autorizației de construire",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#61460",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#61460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-95-2023",
+   "path": "local/valcea/tomsani/2023/95",
+   "short": "HCL Tomșani nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 95/2023 Privind : aprobarea acordarii cadourilor de Craciun pentru elevii Școlii Gimnaziale Tomșani și alocarea sumelor necesare pentru desfășurarea evenimentelor cultural-artistice de sfârșit de an și a sărbătorilor de iarnă",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#61461",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#61461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-96-2023",
+   "path": "local/valcea/tomsani/2023/96",
+   "short": "HCL Tomșani nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 96/2023 privind aprobarea modificării organigramei și statului de funcții al aparatului de specialitate al ale primarului Comunei Tomșani, județul Vâlcea",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#62117",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#62117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-97-2023",
+   "path": "local/valcea/tomsani/2023/97",
+   "short": "HCL Tomșani nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 97/2023 PRIVIND ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ PENTRU LUNILE NOIEMBRIE, DECEMBRIE, IANUARIE, 2024",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#62118",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#62118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-98-2023",
+   "path": "local/valcea/tomsani/2023/98",
+   "short": "HCL Tomșani nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 98/2023 Cu privire la rectificarea bugetului local pe anul 2023",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#62119",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#62119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--tomsani-99-2023",
+   "path": "local/valcea/tomsani/2023/99",
+   "short": "HCL Tomșani nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 99/2023 PRIVITOR LA: aprobarea inventarierii materiei impozabile pentru anul fiscal 2024",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#62503",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#62503",
      "sha256": null
     }
    ]

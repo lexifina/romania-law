@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/vaideeni/2021",
+ "acts": [
+  {
+   "slug": "hcl-valcea--vaideeni-1-2021",
+   "path": "local/valcea/vaideeni/2021/1",
+   "short": "HCL Vaideeni nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 1/2021 privind aprobarea acoperirii deficitului bugetar pentru anul 2020-Secțiunea Dezvoltare",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/20780",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/20780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-30-2021",
+   "path": "local/valcea/vaideeni/2021/30",
+   "short": "HCL Vaideeni nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 30/2021 privind aprobarea cu titlu gratuit a unor cantități de material lemnos pentru unități de cult din comuna Vaideeni",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/50302",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/50302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-31-2021",
+   "path": "local/valcea/vaideeni/2021/31",
+   "short": "HCL Vaideeni nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 31/2021 privind aprobarea actualizării Planului de analiză și acoperire a riscurilor în domeniul situațiilor de urgență, la nivelul comunei Vaideeni, județul Vâlcea",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/50303",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/50303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-39-2021",
+   "path": "local/valcea/vaideeni/2021/39",
+   "short": "HCL Vaideeni nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 39/2021 privind aprobarea actualizări listei bunurilor proprietate publică și privată aferentă „Sistemului public de alimentare cu apă și canalizare al comunei Vaideeni”",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/50318",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/50318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-65-2021",
+   "path": "local/valcea/vaideeni/2021/65",
+   "short": "HCL Vaideeni nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 65/2021 privind aprobarea investiției „Modernizarea iluminatului stradal în comuna Vaideeni, județul Vâlcea”",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/52311",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/52311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-68-2021",
+   "path": "local/valcea/vaideeni/2021/68",
+   "short": "HCL Vaideeni nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 68/2021 privind instituirea taxei speciale de salubrizare pentru utilizatorii casnici și non-casnici beneficiari ai serviciului de salubrizare care nu au încheiat contract de salubrizare și aprobarea regulamentului de instituire, stabilire, aplicare, încasare și administrare a taxei speciale de salubrizare în comuna Vaideeni, județul Vâlcea",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/52347",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/52347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-7-2021",
+   "path": "local/valcea/vaideeni/2021/7",
+   "short": "HCL Vaideeni nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 7/2021 privind aprobarea Devizului General, rest de executat al obiectivului de investiții ”Modernizare drumuri de interes local, comuna Vaideeni, județul Vâlcea”",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/50268",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/50268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-80-2021",
+   "path": "local/valcea/vaideeni/2021/80",
+   "short": "HCL Vaideeni nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 80/2021 privind aprobarea participării la „Programul privind creșterea eficienței energetice a infrastructurii de iluminat public” cu proiectul: „Modernizarea iluminat stradal în comuna Vaideeni, județul Vâlcea!",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/52367",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/52367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--vaideeni-81-2021",
+   "path": "local/valcea/vaideeni/2021/81",
+   "short": "HCL Vaideeni nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vaideeni nr. 81/2021 privind aprobarea unor sume cu destinația cadou, cu ocazia sărbătorilor de iarnă",
+   "url": "https://emol.ro/vaideeni-vl/registru-hcl/52368",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vaideeni-vl/registru-hcl/52368",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/valcea/horezu/2011",
+"acts": [
+{
+"slug": "hcl-valcea--horezu-2-2011",
+"path": "local/valcea/horezu/2011/2",
+"kind": "local",
+"year": "2011",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Horezu nr. 2/2011 cu privire la constituirea Comisiei Locale de Ordine Publica Horezu initiate de Primarul orasului Horezu prof.ec",
+"short": "HCL Horezu nr. 2/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-01-10",
+"latest": "2011-01-10",
+"portal": "https://www.orasul-horezu.ro/hotarari-ale-consiliului-local?title=&field_data_value_2=All&page=105",
+"council": "valcea/horezu",
+"council_name": "Consiliul Local al Orașului Horezu",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

@@ -3,6 +3,36 @@
  "shard": "local/valcea/horezu/2008",
  "acts": [
   {
+   "slug": "hcl-valcea--horezu-3-2008",
+   "path": "local/valcea/horezu/2008/3",
+   "short": "HCL Horezu nr. 3/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Horezu nr. 3/2008 privind administrația publică locală, republicată, cu modificările și completările ulterioare și art.8 din Regulamentul-cadru de organizare și funcționare a consiliului local, aprobat prin Legea nr.673/2002, privind depunerea jurământului; Fiind validate mandatele a unui număr de 15 consilieri care au depus jurământul; În temeiul art.34 alin.2 și art.45 alin.1 din Legea nr.215/2001, privind admini",
+   "url": "https://www.orasul-horezu.ro/hotarari-ale-consiliului-local?title=&field_data_value_2=All&page=118",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 1,
+     "source_url": "https://www.orasul-horezu.ro/sites/default/files/horezu_documents/hot_nr_3_-_constituirea_consiliului_loca_20090222_id264.pdf",
+     "sha256": "b25678a7fed0a96dc6991f09b472ccb0e85125a542d617c6f5d0715343478122"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--horezu-4-2008",
+   "path": "local/valcea/horezu/2008/4",
+   "short": "HCL Horezu nr. 4/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Horezu nr. 4/2008 privind administrația publică locală, republicată, cu modificările și completările ulterioare și art.9 alin.1 din Legea nr.673/2002 privind aprobarea Ordonanței Guvernului nr.35/2002 pentru aprobarea Regulamentului-cadru de organizare și funcționare a consiliilor locale; Prin vot deschis, cu un număr de 15 voturi pentru; În temeiul art.45 alin.1 din Legea nr.215/2001, privind administrația publică",
+   "url": "https://www.orasul-horezu.ro/hotarari-ale-consiliului-local?title=&field_data_value_2=All&page=117",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 1,
+     "source_url": "https://www.orasul-horezu.ro/sites/default/files/horezu_documents/hot_nr_4_-_alegerea_presedintelui_de_sed_20090223_id267.pdf",
+     "sha256": "e9b608cea1dedf66ca825dac2412c93657620b8fc5d4cbd1a04ecae1303f350d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--horezu-48-2008",
    "path": "local/valcea/horezu/2008/48",
    "short": "HCL Horezu nr. 48/2008",
@@ -14,6 +44,36 @@
      "units": 1,
      "source_url": "https://www.orasul-horezu.ro/sites/default/files/horezu_documents/hot_nr_48_-_aprobarea_regulamentului_de__20090223_id316.pdf",
      "sha256": "b03a2d0dc81ec81dcfdfdc81a47cc55a053d533395c54c43f71fa11b847dfa0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--horezu-5-2008",
+   "path": "local/valcea/horezu/2008/5",
+   "short": "HCL Horezu nr. 5/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Horezu nr. 5/2008 privind administrația publică locală, republicată, cu modificările și completările ulterioare și art.11 din Legea nr.673/2002 privind aprobarea Ordonanței Guvernului nr.35/2002 pentru aprobarea Regulamentului-cadru de organizare și funcționare a consiliilor locale; Având în vedere rezultatul votului secret efectuat în scopul alegerii viceprimarului localității HOREZU, precum și procesul verbal al",
+   "url": "https://www.orasul-horezu.ro/hotarari-ale-consiliului-local?title=&field_data_value_2=All&page=117",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 1,
+     "source_url": "https://www.orasul-horezu.ro/sites/default/files/horezu_documents/hot_nr_5_-_alegerea_viceprimarului_20090223_id268.pdf",
+     "sha256": "57d2ba0ebfdaaf4892362c013d17c2406543133754c4c0395067322e2dcb8a3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--horezu-6-2008",
+   "path": "local/valcea/horezu/2008/6",
+   "short": "HCL Horezu nr. 6/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Horezu nr. 6/2008 privind administrația publică locală, republicată, cu modificările și completările ulterioare și art.15 din Regulamentul-cadru de organizare și funcționare a consiliilor locale, aprobat prin Legea nr.673/2002, potrivit cărora consiliul local stabilește și organizează pe durata mandatului, comisii de specialitate pe principalele domenii de activitate, în funcție de specificul activității din fiecar",
+   "url": "https://www.orasul-horezu.ro/hotarari-ale-consiliului-local?title=&field_data_value_2=All&page=117",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 1,
+     "source_url": "https://www.orasul-horezu.ro/sites/default/files/horezu_documents/hot_nr_6_-_stabilirea_comisiilor_de_spec_20090223_id269.pdf",
+     "sha256": "7872db0ed2b557c9a11ac70ffda8e37e9cd968c3c1f6506eada3f45fb8c1d247"
     }
    ]
   }
