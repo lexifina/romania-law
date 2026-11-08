@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/arges/corbeni/2026",
+"acts": [
+{
+"slug": "hcl-arges--corbeni-33-2026",
+"path": "local/arges/corbeni/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbeni nr. 33/2026",
+"short": "HCL Corbeni nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://primariacorbeni.ro/wp-content/uploads/2026/10/HCL-nr.-33-din-28.05.2026-PUG-.pdf",
+"council": "arges/corbeni",
+"council_name": "Consiliul Local al Comunei Corbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--corbeni-75-2026",
+"path": "local/arges/corbeni/2026/75",
+"kind": "local",
+"year": "2026",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbeni nr. 75/2026",
+"short": "HCL Corbeni nr. 75/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://primariacorbeni.ro/wp-content/uploads/2026/11/HCL-nr.-75-din-30.10.2026-presedinte-luna-noiembrie-2026.pdf",
+"council": "arges/corbeni",
+"council_name": "Consiliul Local al Comunei Corbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--corbeni-76-2026",
+"path": "local/arges/corbeni/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbeni nr. 76/2026",
+"short": "HCL Corbeni nr. 76/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://primariacorbeni.ro/wp-content/uploads/2026/11/HCL-nr.-76-din-30.10.2026-incetare-hcl-38.pdf",
+"council": "arges/corbeni",
+"council_name": "Consiliul Local al Comunei Corbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--corbeni-77-2026",
+"path": "local/arges/corbeni/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbeni nr. 77/2026",
+"short": "HCL Corbeni nr. 77/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://primariacorbeni.ro/wp-content/uploads/2026/11/HCL-nr.-77-din-30.10.2026-amenajare-parcare-izlaz-Pluta-.pdf",
+"council": "arges/corbeni",
+"council_name": "Consiliul Local al Comunei Corbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--corbeni-78-2026",
+"path": "local/arges/corbeni/2026/78",
+"kind": "local",
+"year": "2026",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbeni nr. 78/2026",
+"short": "HCL Corbeni nr. 78/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://primariacorbeni.ro/wp-content/uploads/2026/11/HCL-nr.-78-din-30.10.2026-dare-in-administrare-centru-catre-scoala.pdf",
+"council": "arges/corbeni",
+"council_name": "Consiliul Local al Comunei Corbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--corbeni-79-2026",
+"path": "local/arges/corbeni/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbeni nr. 79/2026",
+"short": "HCL Corbeni nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://primariacorbeni.ro/wp-content/uploads/2026/11/HCL-nr.-79-din-30.10.2026-SF-GAZE-1-1.pdf",
+"council": "arges/corbeni",
+"council_name": "Consiliul Local al Comunei Corbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--corbeni-80-2026",
+"path": "local/arges/corbeni/2026/80",
+"kind": "local",
+"year": "2026",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbeni nr. 80/2026",
+"short": "HCL Corbeni nr. 80/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://primariacorbeni.ro/wp-content/uploads/2026/11/HCL-nr.-80-din-30.10.2026-CAIET-DE-SARCINI-GAZE-.pdf",
+"council": "arges/corbeni",
+"council_name": "Consiliul Local al Comunei Corbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--corbeni-81-2026",
+"path": "local/arges/corbeni/2026/81",
+"kind": "local",
+"year": "2026",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbeni nr. 81/2026",
+"short": "HCL Corbeni nr. 81/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://primariacorbeni.ro/wp-content/uploads/2026/11/HCL-nr.-81-din-30.10.2026-comisie-licitatie-gaze-.pdf",
+"council": "arges/corbeni",
+"council_name": "Consiliul Local al Comunei Corbeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

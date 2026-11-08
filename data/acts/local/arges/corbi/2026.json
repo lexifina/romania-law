@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-arges--corbi-2-2026",
+"path": "local/arges/corbi/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbi nr. 2/2026 privind ACOPERIREA DEFINITIVĂ DIN EXCEDENTUL BUGETULUI LOCAL, A DEFICITULUI SECȚIUNII DE DEZVOLTARE PENTRU ANUL 2026",
+"short": "HCL Corbi nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/corbi-ag/registru-hcl/251370",
+"council": "arges/corbi",
+"council_name": "Consiliul Local al Comunei Corbi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--corbi-3-2026",
+"path": "local/arges/corbi/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbi nr. 3/2026 privind modificarea anexelor la HCL nr. 44 din 23.12.2025 pentru stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, în anul 2026",
+"short": "HCL Corbi nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/corbi-ag/registru-hcl/251373",
+"council": "arges/corbi",
+"council_name": "Consiliul Local al Comunei Corbi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--corbi-4-2026",
 "path": "local/arges/corbi/2026/4",
 "kind": "local",
@@ -201,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-arges--corbi-12-2026",
+"path": "local/arges/corbi/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbi nr. 12/2026 privind schimbarea destinației imobilului situat în Comuna Corbi, judetul Arges, din Cladire Primarie, Camin Cultural, Biblioteca, Muzeu in Cladire Primarie, Camin Cultural, SVSU si Muzeu",
+"short": "HCL Corbi nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/corbi-ag/registru-hcl/257986",
+"council": "arges/corbi",
+"council_name": "Consiliul Local al Comunei Corbi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--corbi-13-2026",
 "path": "local/arges/corbi/2026/13",
 "kind": "local",
@@ -220,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Corbi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--corbi-14-2026",
+"path": "local/arges/corbi/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbi nr. 14/2026 privind alegerea presedintelui de sedinta al Consiliului Local Corbi",
+"short": "HCL Corbi nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/corbi-ag/registru-hcl/268376",
+"council": "arges/corbi",
+"council_name": "Consiliul Local al Comunei Corbi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

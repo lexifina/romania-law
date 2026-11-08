@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/zarand/2024",
+"acts": [
+{
+"slug": "hcl-arad--zarand-17-2024",
+"path": "local/arad/zarand/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zărand nr. 17/2024 privind modificarea anexei la HCL nr.112/11.12.2023 privind salariilor de bază pentru funcțiilor publice și contractuale din cadrul aparatului de specialitate al primarului comunei Zărand, județul Arad., începând cu 1 ianuarie 2024 Consiliul local Zărand , județul Arad,întrunit în ședință ordinară în data de 25.01.2024 Având în vedere : - PHCL nr.11/17.01.2024 , inițiativa primarului, -referatul d",
+"short": "HCL Zărand nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://primariazarand.ro/hotararile-autoritatii-deliberative/registrul-pentru-evidena-hotararilor-de-consiliu-local-zarand/",
+"council": "arad/zarand",
+"council_name": "Consiliul Local al Comunei Zărand",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

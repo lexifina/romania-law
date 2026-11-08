@@ -3,6 +3,36 @@
  "shard": "local/arad/santana/2011",
  "acts": [
   {
+   "slug": "hcl-arad--santana-1-2011",
+   "path": "local/arad/santana/2011/1",
+   "short": "HCL Sântana nr. 1/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 1/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; - Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; - Prevederile art. 35 alin. (1) din din Leg",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=339",
+   "versions": [
+    {
+     "from": "2011-01-04",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0001_2011_01_04.pdf",
+     "sha256": "a6f4b62b0cdc792c62daf059007b95dfb0edc69cfabfd8f52c0b228e894d1540"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-10-2011",
+   "path": "local/arad/santana/2011/10",
+   "short": "HCL Sântana nr. 10/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 10/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0010_2011_01_18.pdf",
+     "sha256": "429ab66c41296158d861da01ebb66bf6176a25699f70edf6df1629fbe5b2e7c9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-100-2011",
    "path": "local/arad/santana/2011/100",
    "short": "HCL Sântana nr. 100/2011",
@@ -14,6 +44,936 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0100_2011_06_23.pdf",
      "sha256": "c1a00e72ea71bf955f4ba597bd533b5b4793db5d94811b7778adaad8573dc233"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-101-2011",
+   "path": "local/arad/santana/2011/101",
+   "short": "HCL Sântana nr. 101/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 101/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0101_2011_06_23.pdf",
+     "sha256": "fe6d344352341587315a207d653ad2d51a2b762d0d8cef122bc92de015a4fc5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-102-2011",
+   "path": "local/arad/santana/2011/102",
+   "short": "HCL Sântana nr. 102/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 102/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0102_2011_06_23.pdf",
+     "sha256": "9c102cac64abfcd4e45b71532c4882ac52c079b24f264f52497601bccfbd62d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-103-2011",
+   "path": "local/arad/santana/2011/103",
+   "short": "HCL Sântana nr. 103/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 103/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0103_2011_06_23.pdf",
+     "sha256": "f58c1f74929133996c0918a70e31e315f6e0e90d8a927d924ccdbc48a3894f1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-104-2011",
+   "path": "local/arad/santana/2011/104",
+   "short": "HCL Sântana nr. 104/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 104/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0104_2011_06_23.pdf",
+     "sha256": "0b906f80d2282744c90bc6fc3b6828b4a0460a8a07a87248ca4211d5fb8eca86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-105-2011",
+   "path": "local/arad/santana/2011/105",
+   "short": "HCL Sântana nr. 105/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 105/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0105_2011_06_23.pdf",
+     "sha256": "0ee486a84aea4c2a7992fb3afdf4d3a75b10651283b836632e0c8a08a19603fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-106-2011",
+   "path": "local/arad/santana/2011/106",
+   "short": "HCL Sântana nr. 106/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 106/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0106_2011_06_23.pdf",
+     "sha256": "58eb63bea0ef4f31bc21c2d12a647a16dfbc1555377342d211d24c365f180830"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-107-2011",
+   "path": "local/arad/santana/2011/107",
+   "short": "HCL Sântana nr. 107/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 107/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0107_2011_06_23.pdf",
+     "sha256": "c880e98ac74d2b931a6438c45edd3539752f51096e5e5fe3b6ab7aa011d2ba7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-108-2011",
+   "path": "local/arad/santana/2011/108",
+   "short": "HCL Sântana nr. 108/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 108/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0108_2011_06_23.pdf",
+     "sha256": "640c16d5422c9dfc00141ff78be73720c5f7176dc6a03278d5aa2fc7679a6342"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-109-2011",
+   "path": "local/arad/santana/2011/109",
+   "short": "HCL Sântana nr. 109/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 109/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0109_2011_06_23.pdf",
+     "sha256": "dda7cb2bd4969f0aed9bab5ba42c8fd358e0200ae51871a6e9c3d8466461e573"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-11-2011",
+   "path": "local/arad/santana/2011/11",
+   "short": "HCL Sântana nr. 11/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 11/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=338",
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0011_2011_02_21.pdf",
+     "sha256": "3f8cd201031309aac8cc2becaf18879e6239d85745f4ba80a7a33124891d04fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-110-2011",
+   "path": "local/arad/santana/2011/110",
+   "short": "HCL Sântana nr. 110/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 110/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0110_2011_06_23.pdf",
+     "sha256": "3f47656254f810f314254a8f65e90e3645617e3c838aa475faaf6d0480d4222c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-111-2011",
+   "path": "local/arad/santana/2011/111",
+   "short": "HCL Sântana nr. 111/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 111/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0111_2011_06_23.pdf",
+     "sha256": "90f0da7f50cf2284f7841f0c43b089584b33e1f4e86e8dd7613e5527d11af809"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-112-2011",
+   "path": "local/arad/santana/2011/112",
+   "short": "HCL Sântana nr. 112/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 112/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0112_2011_06_23.pdf",
+     "sha256": "63373d57b3a3afe6f5f21261fa5101b0e5d5ac53550642fa9b4f1c18c02e3aaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-113-2011",
+   "path": "local/arad/santana/2011/113",
+   "short": "HCL Sântana nr. 113/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 113/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0113_2011_06_23.pdf",
+     "sha256": "167006136f4d68d43a1b24d10c105a4b6a7ee5a1ff78dd67b42fbd4a8d69cce2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-114-2011",
+   "path": "local/arad/santana/2011/114",
+   "short": "HCL Sântana nr. 114/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 114/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0114_2011_06_23.pdf",
+     "sha256": "f67b6bb1652999ba412138b3a1fd9711ce8f79a12d940d6d07eaaee432e3dc11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-115-2011",
+   "path": "local/arad/santana/2011/115",
+   "short": "HCL Sântana nr. 115/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 115/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0115_2011_06_23.pdf",
+     "sha256": "b3806d9bc4f3326bbceed6705641ac8339fffa9d2ad542b5dee9f425244dcb53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-116-2011",
+   "path": "local/arad/santana/2011/116",
+   "short": "HCL Sântana nr. 116/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 116/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0116_2011_06_23.pdf",
+     "sha256": "cde38948dbb94c3fb15edd54cf8751f033cc6fb29d859e951fdae154a3e97d6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-118-2011",
+   "path": "local/arad/santana/2011/118",
+   "short": "HCL Sântana nr. 118/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 118/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0118_2011_06_23.pdf",
+     "sha256": "3672ffa0ad572d21605e0ac91e929a98a63c31787f5f96282c139a2c0764935f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-119-2011",
+   "path": "local/arad/santana/2011/119",
+   "short": "HCL Sântana nr. 119/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 119/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0119_2011_06_23.pdf",
+     "sha256": "c45ad41fb09ede4649dcbbdb14c650f4dd1312b72436d9560d132bd32c20baf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-12-2011",
+   "path": "local/arad/santana/2011/12",
+   "short": "HCL Sântana nr. 12/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 12/2011 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Art. 1",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=338",
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0012_2011_02_21.pdf",
+     "sha256": "bf623bc3a8fdf1a276c985c0d9a490870895f6c3352688d37b636415fcf7e4fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-120-2011",
+   "path": "local/arad/santana/2011/120",
+   "short": "HCL Sântana nr. 120/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 120/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0120_2011_06_23.pdf",
+     "sha256": "eefd4629beecad10cf3e26c541a3cf2de7b50edaa456358c9d6e35137adcfbc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-121-2011",
+   "path": "local/arad/santana/2011/121",
+   "short": "HCL Sântana nr. 121/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 121/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0121_2011_06_23.pdf",
+     "sha256": "07f11da5fef73b7a615ef87c496527934b84997bfc0c3c62411012d87a2672b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-122-2011",
+   "path": "local/arad/santana/2011/122",
+   "short": "HCL Sântana nr. 122/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 122/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0122_2011_06_23.pdf",
+     "sha256": "a826dc96f85083268da18201319428e2c562e3b36201c2fbbebcda50e5b08826"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-123-2011",
+   "path": "local/arad/santana/2011/123",
+   "short": "HCL Sântana nr. 123/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 123/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0123_2011_06_23.pdf",
+     "sha256": "646fabe09dc0680cc23d40958f03ae3695a33deedbcc88afc402802e748ccbac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-124-2011",
+   "path": "local/arad/santana/2011/124",
+   "short": "HCL Sântana nr. 124/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 124/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0124_2011_06_23.pdf",
+     "sha256": "3a7fd98273b468aeb7a8e759b783eb092073e2eb33e58e7d5c3c1e9e9fe2621c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-125-2011",
+   "path": "local/arad/santana/2011/125",
+   "short": "HCL Sântana nr. 125/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 125/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0125_2011_06_23.pdf",
+     "sha256": "9255754349b1e3c1c9f2dd8c4319af29b317d2a6e7a3b951d655b3d7b4a516c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-126-2011",
+   "path": "local/arad/santana/2011/126",
+   "short": "HCL Sântana nr. 126/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 126/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0126_2011_06_23.pdf",
+     "sha256": "bcfb825e43aa6c632e0a475b96e3665bd20a64fdee4050cc2a815a86df976c42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-127-2011",
+   "path": "local/arad/santana/2011/127",
+   "short": "HCL Sântana nr. 127/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 127/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0127_2011_06_23.pdf",
+     "sha256": "d1331ed2089b5cb02131a65369d8792a7c688300a8dfb93b23a76e8e739198cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-128-2011",
+   "path": "local/arad/santana/2011/128",
+   "short": "HCL Sântana nr. 128/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 128/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0128_2011_06_23.pdf",
+     "sha256": "dabb251bce209cd19172cf72be722c9b1c1e50157d3398b59cdbc970c85a3edb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-129-2011",
+   "path": "local/arad/santana/2011/129",
+   "short": "HCL Sântana nr. 129/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 129/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0129_2011_06_23.pdf",
+     "sha256": "ea38182e4ae15a551d6fcfa1f3bf0148223791a8726cfe7818e0417dc524bcae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-13-2011",
+   "path": "local/arad/santana/2011/13",
+   "short": "HCL Sântana nr. 13/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 13/2011 privind aprobarea proceselor verbale a sedintelor din luna ianuarie 2011 a Consiliului local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=338",
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0013_2011_02_21.pdf",
+     "sha256": "0e7b1cb814d6e1732486e2c0abc1a61926ef55d8c1239aba51f6592c77905c12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-130-2011",
+   "path": "local/arad/santana/2011/130",
+   "short": "HCL Sântana nr. 130/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 130/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0130_2011_06_23.pdf",
+     "sha256": "c60d70904a62419e906bcd08f18d3fa2f9c34b6c68e70d1736b8c60d63f50ef8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-131-2011",
+   "path": "local/arad/santana/2011/131",
+   "short": "HCL Sântana nr. 131/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 131/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0131_2011_06_23.pdf",
+     "sha256": "4821acf9d0126dfaccda014bcaffd6023186a44b70d09ddf84cd2623830daafe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-132-2011",
+   "path": "local/arad/santana/2011/132",
+   "short": "HCL Sântana nr. 132/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 132/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0132_2011_06_23.pdf",
+     "sha256": "45fde4e8b4a9027c954ce8a7c715b2a37827714394ef8de5b887983ad3d8ac91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-133-2011",
+   "path": "local/arad/santana/2011/133",
+   "short": "HCL Sântana nr. 133/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 133/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0133_2011_06_23.pdf",
+     "sha256": "340b577a5c938ea6da57137f7122f211e4b766e14fd758428d3d8f94c5d5d574"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-134-2011",
+   "path": "local/arad/santana/2011/134",
+   "short": "HCL Sântana nr. 134/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 134/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0134_2011_06_23.pdf",
+     "sha256": "7298f4b581959d5e588e78d8d8e8cb4500b15c1c176d3b5f65d0bc088e245f5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-135-2011",
+   "path": "local/arad/santana/2011/135",
+   "short": "HCL Sântana nr. 135/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 135/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0135_2011_06_23.pdf",
+     "sha256": "ec033ae2929015ed63e7091b2c6a5f4822aaa1054c2154fae1cc06516d8d09de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-136-2011",
+   "path": "local/arad/santana/2011/136",
+   "short": "HCL Sântana nr. 136/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 136/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0136_2011_06_23.pdf",
+     "sha256": "0e3cf82c7ae7922fc25a9246057d606bbe52714ed0918ec05a43566f39c4ffcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-137-2011",
+   "path": "local/arad/santana/2011/137",
+   "short": "HCL Sântana nr. 137/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 137/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0137_2011_06_23.pdf",
+     "sha256": "09a264ba4ec2c5a923eead6712b0a2ef4b9f332f81a5e084a42a796ab26be604"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-138-2011",
+   "path": "local/arad/santana/2011/138",
+   "short": "HCL Sântana nr. 138/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 138/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0138_2011_06_23.pdf",
+     "sha256": "aaef9687a13a2cb8fec85ab146fc2fc048edba1de23728f6fc03203223df0729"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-139-2011",
+   "path": "local/arad/santana/2011/139",
+   "short": "HCL Sântana nr. 139/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 139/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0139_2011_06_23.pdf",
+     "sha256": "e230f31dd99fc771686aedec5e3059ef602a96bbb71203790689d59367fe8e63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-14-2011",
+   "path": "local/arad/santana/2011/14",
+   "short": "HCL Sântana nr. 14/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 14/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0014_2011_02_21.pdf",
+     "sha256": "e1886219264a9a3077554330ee3323803f97fc2144e1b66380481b98af43b3ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-140-2011",
+   "path": "local/arad/santana/2011/140",
+   "short": "HCL Sântana nr. 140/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 140/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0140_2011_06_23.pdf",
+     "sha256": "d47dc0f30e79d2cfcb84a765011ab137391ea195741b670a1a084e148d50ce8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-141-2011",
+   "path": "local/arad/santana/2011/141",
+   "short": "HCL Sântana nr. 141/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 141/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0141_2011_06_23.pdf",
+     "sha256": "938657d8290a5e428abe08f0f36c0d16a0004c7cde47848b209961af22a2ed8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-142-2011",
+   "path": "local/arad/santana/2011/142",
+   "short": "HCL Sântana nr. 142/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 142/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0142_2011_06_23.pdf",
+     "sha256": "8e11f1b295b369f363588f910e9f3ebd756dbed11728c8a1a00cdcde3999cd35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-143-2011",
+   "path": "local/arad/santana/2011/143",
+   "short": "HCL Sântana nr. 143/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 143/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0143_2011_06_23.pdf",
+     "sha256": "9cb58238b23987f3c16af8ffccafc58f626fbd5e45e215a0468381efe7634e76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-144-2011",
+   "path": "local/arad/santana/2011/144",
+   "short": "HCL Sântana nr. 144/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 144/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0144_2011_06_23.pdf",
+     "sha256": "4b55fdd3ec8f0aca4f96ecc356b43cfacaf5b90a6803c5293c6bf5619dd7f4da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-145-2011",
+   "path": "local/arad/santana/2011/145",
+   "short": "HCL Sântana nr. 145/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 145/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0145_2011_06_23.pdf",
+     "sha256": "2c384b99ccd7c62e40fa30f72e89402699d896fab04a3b8730d06440c96aa9a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-146-2011",
+   "path": "local/arad/santana/2011/146",
+   "short": "HCL Sântana nr. 146/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 146/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0146_2011_06_23.pdf",
+     "sha256": "609f65dc835d511955bc83fc66320227d1b2f12391001be7942f4317faa35e14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-147-2011",
+   "path": "local/arad/santana/2011/147",
+   "short": "HCL Sântana nr. 147/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 147/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0147_2011_06_23.pdf",
+     "sha256": "8c91d4ded749c35a4260602d62083bdedea6b5028a2ce9989c0ce1bae40ad73a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-148-2011",
+   "path": "local/arad/santana/2011/148",
+   "short": "HCL Sântana nr. 148/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 148/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0148_2011_06_23.pdf",
+     "sha256": "ca02504a1ece2560b393efcb860fde3a90d189e00e1de423f189dfa67657b073"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-149-2011",
+   "path": "local/arad/santana/2011/149",
+   "short": "HCL Sântana nr. 149/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 149/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0149_2011_06_23.pdf",
+     "sha256": "18b46a74e3b9c5a13355aa27ed4365723b04566dcd8beb6c0eb21a9da5097824"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-15-2011",
+   "path": "local/arad/santana/2011/15",
+   "short": "HCL Sântana nr. 15/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 15/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0015_2011_02_21.pdf",
+     "sha256": "71c8d3f3a1e1d3fbe7c56ef9214d21fd3caed20ab3f881ce4dcf537611161124"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-150-2011",
+   "path": "local/arad/santana/2011/150",
+   "short": "HCL Sântana nr. 150/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 150/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0150_2011_06_23.pdf",
+     "sha256": "330e2af05110db778e2c04224129363a7a60d1df16326c1951b7d1cb5dbd85c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-151-2011",
+   "path": "local/arad/santana/2011/151",
+   "short": "HCL Sântana nr. 151/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 151/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0151_2011_06_23.pdf",
+     "sha256": "929a7067c81aa87f212e3829f23842baf9d42bc79caedbae163fd3bf4073dbc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-152-2011",
+   "path": "local/arad/santana/2011/152",
+   "short": "HCL Sântana nr. 152/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 152/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0152_2011_06_23.pdf",
+     "sha256": "996801f3c18b46d809623a8d2a6c9730c839257aed9ba161ee2a8f495c2d6bf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-153-2011",
+   "path": "local/arad/santana/2011/153",
+   "short": "HCL Sântana nr. 153/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 153/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0153_2011_06_23.pdf",
+     "sha256": "4b4ecce840a1bc5297baaecb7b3b0a2a2ebf1a0d2b61ab5f39999081aba76d4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-154-2011",
+   "path": "local/arad/santana/2011/154",
+   "short": "HCL Sântana nr. 154/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 154/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0154_2011_06_23.pdf",
+     "sha256": "771fb812a2fcc905d68adab1b5e5d3f626fc649a818fbf129e052eb43d511af9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-155-2011",
+   "path": "local/arad/santana/2011/155",
+   "short": "HCL Sântana nr. 155/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 155/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0155_2011_06_23.pdf",
+     "sha256": "a8103d3ba60a430ab1640869c0f3d33b2f10096752bf2a6bef3e53b7db41d447"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-156-2011",
+   "path": "local/arad/santana/2011/156",
+   "short": "HCL Sântana nr. 156/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 156/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0156_2011_06_23.pdf",
+     "sha256": "e122fb07d2b0e17d850c8d19de25805d1c6bb02b4bdfd02a2c55afb75d11ee9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-157-2011",
+   "path": "local/arad/santana/2011/157",
+   "short": "HCL Sântana nr. 157/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 157/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0157_2011_06_23.pdf",
+     "sha256": "d02d21011ccb7deb5e334f666e42ff83bf299e724596816aeec96b841da81f12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-158-2011",
+   "path": "local/arad/santana/2011/158",
+   "short": "HCL Sântana nr. 158/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 158/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0158_2011_06_23.pdf",
+     "sha256": "e45b33ebb56bd1d0fcfb65b5ef096024c308f6a9e966e13a7a3e4b708eb21287"
     }
    ]
   },
@@ -48,6 +1008,486 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-160-2011",
+   "path": "local/arad/santana/2011/160",
+   "short": "HCL Sântana nr. 160/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 160/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0160_2011_06_23.pdf",
+     "sha256": "8e290b0390952712380dd3b2efed37ee73c9a70c809de121cd36cee415bb1ad9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-161-2011",
+   "path": "local/arad/santana/2011/161",
+   "short": "HCL Sântana nr. 161/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 161/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0161_2011_06_23.pdf",
+     "sha256": "8be3a5f6df5f2bec72999f52432facb0b88b16b21ae1c094633b54afb6023aae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-163-2011",
+   "path": "local/arad/santana/2011/163",
+   "short": "HCL Sântana nr. 163/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 163/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0163_2011_06_23.pdf",
+     "sha256": "823af2de9302e3a56ecd02a0921a61b0b121c87297b0ba38ed2111e9b7a45c0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-164-2011",
+   "path": "local/arad/santana/2011/164",
+   "short": "HCL Sântana nr. 164/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 164/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0164_2011_06_23.pdf",
+     "sha256": "db8d8e02f1336c79bcda6c604b8493c72a9b6286cef3710a920a9a26ff8c6347"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-165-2011",
+   "path": "local/arad/santana/2011/165",
+   "short": "HCL Sântana nr. 165/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 165/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0165_2011_06_23.pdf",
+     "sha256": "2c236bfb17e06597f7be4f615045b672d92f7d9b3345ddad4cd91f284fd65fb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-166-2011",
+   "path": "local/arad/santana/2011/166",
+   "short": "HCL Sântana nr. 166/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 166/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0166_2011_06_23.pdf",
+     "sha256": "0f0b42424d3a802152b320abfc2a4a3f04d8355d51195a05ddce123109169718"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-167-2011",
+   "path": "local/arad/santana/2011/167",
+   "short": "HCL Sântana nr. 167/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 167/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0167_2011_06_23.pdf",
+     "sha256": "527fa98da72fc7840b8f976468419379fdd14a5c10cb1b09ff0e828f35afe268"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-168-2011",
+   "path": "local/arad/santana/2011/168",
+   "short": "HCL Sântana nr. 168/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 168/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0168_2011_06_23.pdf",
+     "sha256": "eb3bd98cb1bc682b756d628623c74dceade687cf4a9296e13abc218df7225aca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-169-2011",
+   "path": "local/arad/santana/2011/169",
+   "short": "HCL Sântana nr. 169/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 169/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0169_2011_06_23.pdf",
+     "sha256": "b2b7868c204e7ff7e2d43303ecf012b03ea646a79d466726d4de8e12f7db49d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-17-2011",
+   "path": "local/arad/santana/2011/17",
+   "short": "HCL Sântana nr. 17/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 17/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0017_2011_02_21.pdf",
+     "sha256": "6b5075d0effa8cd083a8feb892744e510cccf30c70093cbd1ce9b9eda9f1dde8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-170-2011",
+   "path": "local/arad/santana/2011/170",
+   "short": "HCL Sântana nr. 170/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 170/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0170_2011_06_23.pdf",
+     "sha256": "5e9c41cde380c156eb995c5d7221ee846c573f6187b6a8400cccac4c799ea1a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-171-2011",
+   "path": "local/arad/santana/2011/171",
+   "short": "HCL Sântana nr. 171/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 171/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0171_2011_06_23.pdf",
+     "sha256": "4c792f5380994a0a0ffca18611b5f714c362ff25dd1af90a062ebf0d3833d263"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-172-2011",
+   "path": "local/arad/santana/2011/172",
+   "short": "HCL Sântana nr. 172/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 172/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0172_2011_06_23.pdf",
+     "sha256": "ec4292fd4c104d1713c747870ef2d620fab2cf0b585363c232816d82496de0bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-173-2011",
+   "path": "local/arad/santana/2011/173",
+   "short": "HCL Sântana nr. 173/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 173/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0173_2011_06_23.pdf",
+     "sha256": "0c793d62964cddb6b5c8e6281e62509a66f1939f02630f16b158f80241e4bdf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-174-2011",
+   "path": "local/arad/santana/2011/174",
+   "short": "HCL Sântana nr. 174/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 174/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0174_2011_06_23.pdf",
+     "sha256": "7d7474e7bb2e598f57af1b04aa2bca5dce8a1af5fa855247b7f87b365dd825db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-175-2011",
+   "path": "local/arad/santana/2011/175",
+   "short": "HCL Sântana nr. 175/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 175/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0175_2011_06_23.pdf",
+     "sha256": "79a834800a511db8f0f2f5fb584a81f25384968449977b911c3d80d57270cf04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-176-2011",
+   "path": "local/arad/santana/2011/176",
+   "short": "HCL Sântana nr. 176/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 176/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0176_2011_06_23.pdf",
+     "sha256": "239b8405c5cbae6d30ebcf2420890a844073fb6e7b681a0ec6a052acb19206ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-177-2011",
+   "path": "local/arad/santana/2011/177",
+   "short": "HCL Sântana nr. 177/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 177/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0177_2011_06_23.pdf",
+     "sha256": "f3518b22edc09a23138010888209697c4a1aa34b17adf6f565b737523d92e472"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-178-2011",
+   "path": "local/arad/santana/2011/178",
+   "short": "HCL Sântana nr. 178/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 178/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0178_2011_06_23.pdf",
+     "sha256": "0c550bf75d9fd664a625b1b9adf733b2467310cf352665fa14147e6d0a297a2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-179-2011",
+   "path": "local/arad/santana/2011/179",
+   "short": "HCL Sântana nr. 179/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 179/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0179_2011_06_23.pdf",
+     "sha256": "f3d2b3dbbb2d016fc499f900e255dd6fb014c226f87d499df87bea94a771397d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-18-2011",
+   "path": "local/arad/santana/2011/18",
+   "short": "HCL Sântana nr. 18/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 18/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0018_2011_02_21.pdf",
+     "sha256": "050a64901e996cefac95addffae23c2f3d33f6f04db25d82fcb683e5d05158c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-180-2011",
+   "path": "local/arad/santana/2011/180",
+   "short": "HCL Sântana nr. 180/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 180/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=321",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0180_2011_07_19.pdf",
+     "sha256": "072569e81c4e3c4997d62079ea4ca0e67b39c5b2aadd3ee7a6b97914d33a5642"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-181-2011",
+   "path": "local/arad/santana/2011/181",
+   "short": "HCL Sântana nr. 181/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 181/2011 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Art. 1",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=321",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0181_2011_07_19.pdf",
+     "sha256": "93b2eb3b46ab03ea2836226fbc7d8da533a1e46f493738e8e941b92bdc996274"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-182-2011",
+   "path": "local/arad/santana/2011/182",
+   "short": "HCL Sântana nr. 182/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 182/2011 privind aprobarea procesului verbal a sedintei din luna iunie 2011 a Consiliului Local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu modifi",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=321",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0182_2011_07_19.pdf",
+     "sha256": "8efc55e1ce142700d0bb9da59a7df3f1017cd4a17d6882deb26c0076fceb4ab0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-183-2011",
+   "path": "local/arad/santana/2011/183",
+   "short": "HCL Sântana nr. 183/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 183/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0183_2011_07_19.pdf",
+     "sha256": "1de4ed441c156dff0fa9488eb06e0e30b3a5f47e96d2df73ed97bcdf5d03b4da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-184-2011",
+   "path": "local/arad/santana/2011/184",
+   "short": "HCL Sântana nr. 184/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 184/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0184_2011_07_19.pdf",
+     "sha256": "a98b92fba0da5aad1bea81aa3b3e2bf69843244f607ebf93ed1fee7108cd76bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-185-2011",
+   "path": "local/arad/santana/2011/185",
+   "short": "HCL Sântana nr. 185/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 185/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=321",
+   "versions": [
+    {
+     "from": "2011-08-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0185_2011_08_16.pdf",
+     "sha256": "2bd3ee19919b3c6e8c63d448d502fa68b153b8468422a602dedb0ac82f4d4cd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-186-2011",
+   "path": "local/arad/santana/2011/186",
+   "short": "HCL Sântana nr. 186/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 186/2011 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Art. 1",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=321",
+   "versions": [
+    {
+     "from": "2011-08-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0186_2011_08_16.pdf",
+     "sha256": "720a50112c1ef77c9c3e1e2692cd3188024d8c7ab429b1ad7b2e19b4dcf1cfd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-187-2011",
+   "path": "local/arad/santana/2011/187",
+   "short": "HCL Sântana nr. 187/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 187/2011 privind aprobarea procesului verbal a sedintei din luna iulie 2011 a Consiliului Local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu modifi",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=321",
+   "versions": [
+    {
+     "from": "2011-08-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0187_2011_08_16.pdf",
+     "sha256": "72fabb0b4a4412dc1544d6d19fe0f189b40a9fde164ff4463aa5b4fb96c4cb2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-188-2011",
+   "path": "local/arad/santana/2011/188",
+   "short": "HCL Sântana nr. 188/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 188/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-08-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0188_2011_08_16.pdf",
+     "sha256": "0bf4beddaebc570832c2340f4cc502c8c46dc2ec7a6d3625104974faa1c9a95b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-189-2011",
+   "path": "local/arad/santana/2011/189",
+   "short": "HCL Sântana nr. 189/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 189/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-08-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0189_2011_08_16.pdf",
+     "sha256": "eb5c25de3c6caf9d6381034b248176baed5e689dda9dd21d6033dd4a9316bf98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-19-2011",
+   "path": "local/arad/santana/2011/19",
+   "short": "HCL Sântana nr. 19/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 19/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0019_2011_02_21.pdf",
+     "sha256": "c3578c506e6ee540669118e62d0c641325e661b379403b5580f36be4dbf4d1b3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-190-2011",
    "path": "local/arad/santana/2011/190",
    "short": "HCL Sântana nr. 190/2011",
@@ -59,6 +1499,36 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0190_2011_08_16.pdf",
      "sha256": "733d9141e6ffa3e7579d68581cac90df3d2c3f47e8d64e143c0e6369df04acb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-191-2011",
+   "path": "local/arad/santana/2011/191",
+   "short": "HCL Sântana nr. 191/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 191/2011 PRIVIND APROBAREA DEPUNERII DECLARATIILOR NOTARIALE FINALE IN VEDEREA REZOLVARII CERERILOR DEPUSE IN BAZA LEGII NR. 15/2003 CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Referat Comisia Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala - Proces verbal sedinta din data de 12.05.2011 , nr. - Prevederile art. 3 si 4 Legii nr. 15/20",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=320",
+   "versions": [
+    {
+     "from": "2011-08-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0191_2011_08_16.pdf",
+     "sha256": "49493d0f89f60c7e6cac412f1391c840f6b2de26e37bc4cdce50c426df2311ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-192-2011",
+   "path": "local/arad/santana/2011/192",
+   "short": "HCL Sântana nr. 192/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 192/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-08-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0192_2011_08_16.pdf",
+     "sha256": "bc8b31dbe37a20af4725a15646319a1fb9a8b12e9618f9c4547f10290db24131"
     }
    ]
   },
@@ -78,6 +1548,891 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-194-2011",
+   "path": "local/arad/santana/2011/194",
+   "short": "HCL Sântana nr. 194/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 194/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-08-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0194_2011_08_16.pdf",
+     "sha256": "1a2dfe5a794e879c8b5d8add6270e9164abdbb54f7fdcf3d427e3d03b6d555cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-195-2011",
+   "path": "local/arad/santana/2011/195",
+   "short": "HCL Sântana nr. 195/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 195/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=320",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0195_2011_09_20.pdf",
+     "sha256": "802ebfb095d172c7c56fe222d0af18c8fb2cdb1a4301bd2ab77c0157d511c9f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-196-2011",
+   "path": "local/arad/santana/2011/196",
+   "short": "HCL Sântana nr. 196/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 196/2011 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Art. 1",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=320",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0196_2011_09_20.pdf",
+     "sha256": "689945c269d5533371f89bbeb0aed84e7b30aa6d13b426202ee7f584b2ba1a68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-197-2011",
+   "path": "local/arad/santana/2011/197",
+   "short": "HCL Sântana nr. 197/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 197/2011 privind aprobarea procesului verbal a sedintei din luna august 2011 a Consiliului Local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu modif",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=320",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0197_2011_09_20.pdf",
+     "sha256": "10ed9288805d69dc6a596ed72c428e47efa3035ed8423a54db794c78c8f7ddd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-198-2011",
+   "path": "local/arad/santana/2011/198",
+   "short": "HCL Sântana nr. 198/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 198/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0198_2011_09_20.pdf",
+     "sha256": "313487b2bd6094935b2268da5e1a8f194c6fb7e182c2e230e47ae213221c6375"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-2-2011",
+   "path": "local/arad/santana/2011/2",
+   "short": "HCL Sântana nr. 2/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 2/2011 privind aprobarea ordinei de zi a sedintei extraordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare HOTĂRĂȘTE:",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=339",
+   "versions": [
+    {
+     "from": "2011-01-04",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0002_2011_01_04.pdf",
+     "sha256": "b540234123752feec64e4f38354f52c24c55829fbed571a11f5c9f34c9adb5a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-20-2011",
+   "path": "local/arad/santana/2011/20",
+   "short": "HCL Sântana nr. 20/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 20/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0020_2011_02_21.pdf",
+     "sha256": "d9b539a7b525e3d38c59b72ce66f6a270d1abedc7ca4b89dcaa610bfbfaaa26e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-200-2011",
+   "path": "local/arad/santana/2011/200",
+   "short": "HCL Sântana nr. 200/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 200/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0200_2011_09_20.pdf",
+     "sha256": "3c4118bb0b8e2af3375c7e53be0d509f4b31a2af7da131ab0f8491d10a95f62a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-201-2011",
+   "path": "local/arad/santana/2011/201",
+   "short": "HCL Sântana nr. 201/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 201/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0201_2011_09_20.pdf",
+     "sha256": "37e3206addc24f8b57b36d6e993f924c997f8894af9bc340eaaf77dfca32cd53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-202-2011",
+   "path": "local/arad/santana/2011/202",
+   "short": "HCL Sântana nr. 202/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 202/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0202_2011_09_20.pdf",
+     "sha256": "10c89da95822b4a9b81820081dc36ec60db38d42e3b4508c1d9989a9358dee05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-203-2011",
+   "path": "local/arad/santana/2011/203",
+   "short": "HCL Sântana nr. 203/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 203/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0203_2011_09_20.pdf",
+     "sha256": "c17c7f159aff03a5c3103171bfd5ed845486e64eb6726010725027737fa473b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-204-2011",
+   "path": "local/arad/santana/2011/204",
+   "short": "HCL Sântana nr. 204/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 204/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0204_2011_09_20.pdf",
+     "sha256": "d80f710b0fe92aced3e1ee200cd7808560908fce93d9432b4a26628348486b02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-205-2011",
+   "path": "local/arad/santana/2011/205",
+   "short": "HCL Sântana nr. 205/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 205/2011 PRIVIND APROBAREA ADERARII ORASULUI SANTANA LA PACTUL PRIMARIILOR PENTRU ENERGII REGENERABILE LOCALE CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Expunerea de motive înregistrată cu nr. - Raportul de specialitate - adresa Primariei municipiului Arad nr. 61145/14.09.2011 - prevederile Pactului Primarilor pentru energii regenerabile locale; - măsurile adoptate de Uniunea Europeană privin",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=319",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0205_2011_09_20.pdf",
+     "sha256": "5ecae75b35cc8b81b2b2d26b22cf13510a3ff938eaa6b90d44639baee9396850"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-206-2011",
+   "path": "local/arad/santana/2011/206",
+   "short": "HCL Sântana nr. 206/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 206/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0206_2011_09_20.pdf",
+     "sha256": "918a4e25bd5ff986152b899557ca4a437ae63836b57923344858dd1343d411fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-207-2011",
+   "path": "local/arad/santana/2011/207",
+   "short": "HCL Sântana nr. 207/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 207/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0207_2011_09_20.pdf",
+     "sha256": "a55f1237330a94598db2260b284a018239f8d7f2df5ac618d7639a03b61f97f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-208-2011",
+   "path": "local/arad/santana/2011/208",
+   "short": "HCL Sântana nr. 208/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 208/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0208_2011_09_20.pdf",
+     "sha256": "966c66e6ad2520e779865fa3c6fbf2ec8a98d9775e20ae0304a3d155ea8c5ab4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-209-2011",
+   "path": "local/arad/santana/2011/209",
+   "short": "HCL Sântana nr. 209/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 209/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0209_2011_09_20.pdf",
+     "sha256": "f557f17ce187b3f260e678c34d909fb46c5d22686aab7757cb1743b5794a62ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-21-2011",
+   "path": "local/arad/santana/2011/21",
+   "short": "HCL Sântana nr. 21/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 21/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0021_2011_02_21.pdf",
+     "sha256": "44384b2a1e9f6a7dff651f96ad8ed9f269109adb71a1ae29eb4e1bc7228eec91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-210-2011",
+   "path": "local/arad/santana/2011/210",
+   "short": "HCL Sântana nr. 210/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 210/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0210_2011_09_20.pdf",
+     "sha256": "027f1629ee36a4dc290b9828d1e7d5a9a8c9915891bb9625334d0d4eeeaf5dae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-211-2011",
+   "path": "local/arad/santana/2011/211",
+   "short": "HCL Sântana nr. 211/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 211/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0211_2011_09_20.pdf",
+     "sha256": "2c1e7dce73df4514956142e3569d9041184d2c51406a6f4ca61c284c1b5546da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-212-2011",
+   "path": "local/arad/santana/2011/212",
+   "short": "HCL Sântana nr. 212/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 212/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0212_2011_09_20.pdf",
+     "sha256": "db6be2fc3d3f02e18afeb94db656e5ffd88fa67789068fcec511c68cc6428ba7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-213-2011",
+   "path": "local/arad/santana/2011/213",
+   "short": "HCL Sântana nr. 213/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 213/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0213_2011_09_20.pdf",
+     "sha256": "1688c97d653c1ce95f06ce4e67bfcbfcab9c5cb0ae137bf5372c9807daa15cb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-214-2011",
+   "path": "local/arad/santana/2011/214",
+   "short": "HCL Sântana nr. 214/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 214/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0214_2011_09_20.pdf",
+     "sha256": "703ddf4b3906ad99a40458f5ef96ae6e419649293f23164b586423a74068f2dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-215-2011",
+   "path": "local/arad/santana/2011/215",
+   "short": "HCL Sântana nr. 215/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 215/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0215_2011_09_20.pdf",
+     "sha256": "1f607d04777d1dfd7f44674990e708b8388047618322d4e92c4f1a3ea69da00f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-216-2011",
+   "path": "local/arad/santana/2011/216",
+   "short": "HCL Sântana nr. 216/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 216/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0216_2011_09_20.pdf",
+     "sha256": "a83a1ca88e4a1230cc39ef6ecc4e6225ac347f5b75a981f13cb0f021ab5ff239"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-217-2011",
+   "path": "local/arad/santana/2011/217",
+   "short": "HCL Sântana nr. 217/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 217/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0217_2011_09_20.pdf",
+     "sha256": "86e3482f969f2c875080e22504a4f6f70b2dec0083bff672441ba58c1882c117"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-218-2011",
+   "path": "local/arad/santana/2011/218",
+   "short": "HCL Sântana nr. 218/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 218/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=317",
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0218_2011_10_04.pdf",
+     "sha256": "ded70b661c2fdea23cc81a3740a71706bb7de00e43575e5492cedcf7bed3b4bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-219-2011",
+   "path": "local/arad/santana/2011/219",
+   "short": "HCL Sântana nr. 219/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 219/2011 privind aprobarea ordinei de zi a sedintei extraordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Ar",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=317",
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0219_2011_10_04.pdf",
+     "sha256": "db3ea37c04272a16f741108a743ef335ebc2daf594c3e280960514492b7d24aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-22-2011",
+   "path": "local/arad/santana/2011/22",
+   "short": "HCL Sântana nr. 22/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 22/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0022_2011_02_21.pdf",
+     "sha256": "e11048f832b8f1571000e78a5b27fbc9035c6709ec33c79714f99737ec4fc3fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-220-2011",
+   "path": "local/arad/santana/2011/220",
+   "short": "HCL Sântana nr. 220/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 220/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0220_2011_10_04.pdf",
+     "sha256": "0e7486bba8cc7703c655446e83c84001ac7e964cb29e157b531e368f4b0de170"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-221-2011",
+   "path": "local/arad/santana/2011/221",
+   "short": "HCL Sântana nr. 221/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 221/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0221_2011_10_04.pdf",
+     "sha256": "ff147b7dd16fc22c99071f470295f15cebd8a87fa09db183890f7b8a850be71a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-222-2011",
+   "path": "local/arad/santana/2011/222",
+   "short": "HCL Sântana nr. 222/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 222/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0222_2011_10_04.pdf",
+     "sha256": "e9a68bfe5c030f7c50c5adeea6bc97495ef4d5d86cef62afed4dda14b310796a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-223-2011",
+   "path": "local/arad/santana/2011/223",
+   "short": "HCL Sântana nr. 223/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 223/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=317",
+   "versions": [
+    {
+     "from": "2011-10-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0223_2011_10_24.pdf",
+     "sha256": "1deb33adf9b4c06f17d8f442d2797d20f2e7239cce31c96a4031bdaf12d9affe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-224-2011",
+   "path": "local/arad/santana/2011/224",
+   "short": "HCL Sântana nr. 224/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 224/2011 privind aprobarea ordinei de zi a ședinței ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Art. 1",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=317",
+   "versions": [
+    {
+     "from": "2011-10-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0224_2011_10_24.pdf",
+     "sha256": "0c284517c1d403c28ea118e56c9962d89693c33f15b27552194e5d1dc4dc2b68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-225-2011",
+   "path": "local/arad/santana/2011/225",
+   "short": "HCL Sântana nr. 225/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 225/2011 privind aprobarea procesului verbal a ședinței din luna septembrie 2011 a Consiliului Local Sântana CONSILIUL LOCAL AL ORAȘULUI SÂNTANA, Având în vedere : Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu m",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=317",
+   "versions": [
+    {
+     "from": "2011-10-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0225_2011_10_24.pdf",
+     "sha256": "71c2412ce5a701828f03b6667fb68dc4735d6c5b082c8bbf5175c7a6771546f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-226-2011",
+   "path": "local/arad/santana/2011/226",
+   "short": "HCL Sântana nr. 226/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 226/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-10-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0226_2011_10_24.pdf",
+     "sha256": "360f2c721cd99f00c518f3fc78414490fe4c78155a9cdf05175eb42b4e59e09f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-227-2011",
+   "path": "local/arad/santana/2011/227",
+   "short": "HCL Sântana nr. 227/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 227/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-10-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0227_2011_10_24.pdf",
+     "sha256": "5306c6a1cf2c07cb53ef0a3fe68428dfb8ae81240bad2b7d6e9a43d98c9c6dd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-228-2011",
+   "path": "local/arad/santana/2011/228",
+   "short": "HCL Sântana nr. 228/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 228/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-10-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0228_2011_10_24.pdf",
+     "sha256": "90b5ff54eb209cb36153f1fc83a4138c8438bfd082305e2f4c6a9898f87abf31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-229-2011",
+   "path": "local/arad/santana/2011/229",
+   "short": "HCL Sântana nr. 229/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 229/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-10-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0229_2011_10_24.pdf",
+     "sha256": "0feddaf6742eba782e24ec43033666550725eacffef7766a55a138f2d68641b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-23-2011",
+   "path": "local/arad/santana/2011/23",
+   "short": "HCL Sântana nr. 23/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 23/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0023_2011_02_21.pdf",
+     "sha256": "45edd816db8eaf41b4bef9bc0c59c63e822726c4428d4a0e77882d2fa4dfe9a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-230-2011",
+   "path": "local/arad/santana/2011/230",
+   "short": "HCL Sântana nr. 230/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 230/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-10-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0230_2011_10_24.pdf",
+     "sha256": "b96f9d2b929e10bd7b0e05adb1608a0ad6e6635006c14c1109ba14b112c9b687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-231-2011",
+   "path": "local/arad/santana/2011/231",
+   "short": "HCL Sântana nr. 231/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 231/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=315",
+   "versions": [
+    {
+     "from": "2011-11-01",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0231_2011_11_01.pdf",
+     "sha256": "eeed46080c6aee4cef9ffa9b01959a3cb3048d133462a5b1cc51ec5121fcddb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-232-2011",
+   "path": "local/arad/santana/2011/232",
+   "short": "HCL Sântana nr. 232/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 232/2011 privind aprobarea ordinei de zi a ședinței de îndată CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Art. 1",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=315",
+   "versions": [
+    {
+     "from": "2011-11-01",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0232_2011_11_01.pdf",
+     "sha256": "a811a9254f83454d32af32aace343a904dc30a5c8ee4ebb323bcc5843a459c0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-233-2011",
+   "path": "local/arad/santana/2011/233",
+   "short": "HCL Sântana nr. 233/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 233/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-01",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0233_2011_11_01.pdf",
+     "sha256": "250bff2dd6a33707fb9f16486e4f8c5eb892ecaed6d58be6cfcf8476b967978e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-234-2011",
+   "path": "local/arad/santana/2011/234",
+   "short": "HCL Sântana nr. 234/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 234/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=316",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0234_2011_11_16.pdf",
+     "sha256": "bbebd32702949a72776ffd0483bd8b6278013bf02eb1092870f68d3ba4c377d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-235-2011",
+   "path": "local/arad/santana/2011/235",
+   "short": "HCL Sântana nr. 235/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 235/2011 privind aprobarea ordinei de zi a ședinței ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Art. 1",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=316",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0235_2011_11_16.pdf",
+     "sha256": "9644a158a6eb9fa22458bd452198d526ac472dd0cb91a50089d895baf9802e49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-236-2011",
+   "path": "local/arad/santana/2011/236",
+   "short": "HCL Sântana nr. 236/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 236/2011 privind aprobarea procesului verbal a ședinței din luna octombrie 2011 a Consiliului Local Sântana CONSILIUL LOCAL AL ORAȘULUI SÂNTANA, Având în vedere : Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu mo",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=316",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0236_2011_11_16.pdf",
+     "sha256": "f42e5079f108ca15415c737904e38a394894b24861e058c4bc87fa59058fbc62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-237-2011",
+   "path": "local/arad/santana/2011/237",
+   "short": "HCL Sântana nr. 237/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 237/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0237_2011_11_16.pdf",
+     "sha256": "6acc45b5f370bc751f691cae776376bf0588e39254ded3009e420bb4a49b8e2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-238-2011",
+   "path": "local/arad/santana/2011/238",
+   "short": "HCL Sântana nr. 238/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 238/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0238_2011_11_16.pdf",
+     "sha256": "371498f86136709bca1facdf518e6299d2b4000799bd7aec80d207a530016c8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-239-2011",
+   "path": "local/arad/santana/2011/239",
+   "short": "HCL Sântana nr. 239/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 239/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0239_2011_11_16.pdf",
+     "sha256": "26c6de22c73c1d75d766e83c08b8d64e38ba17ccaa7ed8b76db353661790259a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-24-2011",
+   "path": "local/arad/santana/2011/24",
+   "short": "HCL Sântana nr. 24/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 24/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0024_2011_02_21.pdf",
+     "sha256": "b9771dd6765687118d9b662edb5a2338bffe25701f2fdedf8316a204ae91fbf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-240-2011",
+   "path": "local/arad/santana/2011/240",
+   "short": "HCL Sântana nr. 240/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 240/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0240_2011_11_16.pdf",
+     "sha256": "11efe4e160b445f1339fccee89417925cf19e9b1c1f01fd2810839e5e7703dca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-241-2011",
+   "path": "local/arad/santana/2011/241",
+   "short": "HCL Sântana nr. 241/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 241/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0241_2011_11_16.pdf",
+     "sha256": "19ad70a4833034ed3cb7f815c7566277072b896313311527bdd68a2f90a7259e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-242-2011",
+   "path": "local/arad/santana/2011/242",
+   "short": "HCL Sântana nr. 242/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 242/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=315",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0242_2011_11_16.pdf",
+     "sha256": "df9bb8164b3ef9e37be01a3f9283a5ab62c16b4e7e4d632c7599a9d60b05715a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-243-2011",
+   "path": "local/arad/santana/2011/243",
+   "short": "HCL Sântana nr. 243/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 243/2011 privind aprobarea ordinei de zi a sedintei extraordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Ar",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=315",
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0243_2011_12_06.pdf",
+     "sha256": "4f78c9bb39d19efa8e97e444f1ca9f5b4650dcf3e3ce98f92a82097d6f5d34c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-244-2011",
+   "path": "local/arad/santana/2011/244",
+   "short": "HCL Sântana nr. 244/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 244/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0244_2011_12_06.pdf",
+     "sha256": "860925d122e319782140a5fc63ac6ad38800b4920b44e8ccc4ad0dfcf360dc2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-245-2011",
+   "path": "local/arad/santana/2011/245",
+   "short": "HCL Sântana nr. 245/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 245/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0245_2011_12_06.pdf",
+     "sha256": "da9dea1d3ff3b8a913212154af5d61e0d7bcbf5da5911aa8321d19b4a0488a36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-246-2011",
+   "path": "local/arad/santana/2011/246",
+   "short": "HCL Sântana nr. 246/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 246/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0246_2011_12_06.pdf",
+     "sha256": "884fe8a131b4dc7f45a0b5cb829379bb9fadc675b5f2b990c55c574a701602df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-247-2011",
+   "path": "local/arad/santana/2011/247",
+   "short": "HCL Sântana nr. 247/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 247/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0247_2011_12_06.pdf",
+     "sha256": "4930e6266924433a0928ce1b3f67b3afe2eabcde4f4842b3273d561f537e3901"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-248-2011",
    "path": "local/arad/santana/2011/248",
    "short": "HCL Sântana nr. 248/2011",
@@ -93,6 +2448,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-249-2011",
+   "path": "local/arad/santana/2011/249",
+   "short": "HCL Sântana nr. 249/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 249/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0249_2011_12_06.pdf",
+     "sha256": "7ebbece8608b7a21896083e5fc4abf9a1ce667f04f65a19df6dfd154e52af595"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-25-2011",
+   "path": "local/arad/santana/2011/25",
+   "short": "HCL Sântana nr. 25/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 25/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0025_2011_02_21.pdf",
+     "sha256": "8d1e7fddc0bacf8b6b2b85b5fda4b4e881b8a96ca83136e9c2453964a5d14d06"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-250-2011",
    "path": "local/arad/santana/2011/250",
    "short": "HCL Sântana nr. 250/2011",
@@ -104,6 +2489,126 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0250_2011_12_06.pdf",
      "sha256": "93559036f5c44fa06380e560781433a2022e3fbd3e6a3acb8b7b67a810c0f986"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-251-2011",
+   "path": "local/arad/santana/2011/251",
+   "short": "HCL Sântana nr. 251/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 251/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0251_2011_12_06.pdf",
+     "sha256": "fef9ecb584680f6e53f85f753bc83527df6e529b69aa73f4254ea90a69baa323"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-252-2011",
+   "path": "local/arad/santana/2011/252",
+   "short": "HCL Sântana nr. 252/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 252/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=314",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0252_2011_12_20.pdf",
+     "sha256": "103fb21ec51d5d405108858f33a16c5cc1f5aeebc7a318dbd6f658442c5b6026"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-253-2011",
+   "path": "local/arad/santana/2011/253",
+   "short": "HCL Sântana nr. 253/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 253/2011 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Art. 1",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=314",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0253_2011_12_20.pdf",
+     "sha256": "38ab0bea986ee4911ff0b1556b984b24dc4ec67ec2da8cf335269ef4d8bfb34a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-254-2011",
+   "path": "local/arad/santana/2011/254",
+   "short": "HCL Sântana nr. 254/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 254/2011 privind aprobarea proceselor verbale a sedintelor din luna noiembrie 2011 a Consiliului Local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=314",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0254_2011_12_20.pdf",
+     "sha256": "4f7381a75d077bf20d4a46d68a0a9175bf30006063745ce665f3d706442fc93c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-255-2011",
+   "path": "local/arad/santana/2011/255",
+   "short": "HCL Sântana nr. 255/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 255/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0255_2011_12_20.pdf",
+     "sha256": "2c37e71d3580d0ea13ddcbb5d2b251f138a68bd7629e96f03ec45707372a1aa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-256-2011",
+   "path": "local/arad/santana/2011/256",
+   "short": "HCL Sântana nr. 256/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 256/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0256_2011_12_20.pdf",
+     "sha256": "27e9ea8be3034c308cae1a9bff425ca8419cd9a5bc2fe0ac7364fe7181e21d73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-257-2011",
+   "path": "local/arad/santana/2011/257",
+   "short": "HCL Sântana nr. 257/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 257/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0257_2011_12_20.pdf",
+     "sha256": "f856add834921cd6285798e58a7523620f05ffe1a34e316290f8cbc215efe4c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-26-2011",
+   "path": "local/arad/santana/2011/26",
+   "short": "HCL Sântana nr. 26/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 26/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0026_2011_02_21.pdf",
+     "sha256": "2169f6e03ac959dad1d295183519f8af850e3d85a6736afce9a8c8d370d08e03"
     }
    ]
   },
@@ -138,6 +2643,156 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-29-2011",
+   "path": "local/arad/santana/2011/29",
+   "short": "HCL Sântana nr. 29/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 29/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0029_2011_02_21.pdf",
+     "sha256": "4b4534b998ea1f7807000fb024491d444d171b4afeb42922c020dcaea7ba286a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-3-2011",
+   "path": "local/arad/santana/2011/3",
+   "short": "HCL Sântana nr. 3/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 3/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-04",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0003_2011_01_04.pdf",
+     "sha256": "e5e86c8c4a8ba1c9109eec90eeb1e46b75cb4dfe065c2712014208bd073e88f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-30-2011",
+   "path": "local/arad/santana/2011/30",
+   "short": "HCL Sântana nr. 30/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 30/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0030_2011_02_21.pdf",
+     "sha256": "497371e24c129d4885c654213e806b9bc97471afdbb84fdeba9d168145f82fd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-31-2011",
+   "path": "local/arad/santana/2011/31",
+   "short": "HCL Sântana nr. 31/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 31/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0031_2011_02_21.pdf",
+     "sha256": "a69693cd893f05f1264a58e3331fcac27f79b1c601b61ade45d9aa88b83adc75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-32-2011",
+   "path": "local/arad/santana/2011/32",
+   "short": "HCL Sântana nr. 32/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 32/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=336",
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0032_2011_03_22.pdf",
+     "sha256": "5db65c71b323e3f754ea9f05dd0812054f7b3c4a4dcceeb0ec8ef8644a36e060"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-33-2011",
+   "path": "local/arad/santana/2011/33",
+   "short": "HCL Sântana nr. 33/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 33/2011 privind aprobarea ordinei de zi a ședinței ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Art. 1",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=336",
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0033_2011_03_22.pdf",
+     "sha256": "27a0154cf753d8a80730bfd47fb1309d70411d131a2f8d9e6cf8342c99c18be8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-34-2011",
+   "path": "local/arad/santana/2011/34",
+   "short": "HCL Sântana nr. 34/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 34/2011 privind aprobarea procesului verbal a ședinței din luna februarie 2011 a Consiliului local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu mo",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=336",
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0034_2011_03_22.pdf",
+     "sha256": "151256158cb2036f50a6507a24ba72e2fab71321106957330976c8c6ac83a34b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-35-2011",
+   "path": "local/arad/santana/2011/35",
+   "short": "HCL Sântana nr. 35/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 35/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0035_2011_03_22.pdf",
+     "sha256": "21e5e3aaf0cd853f012cbb23032c934aed06b6c634c6ce86eb0b4f90b0f189d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-36-2011",
+   "path": "local/arad/santana/2011/36",
+   "short": "HCL Sântana nr. 36/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 36/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0036_2011_03_22.pdf",
+     "sha256": "cd672008552c97da45a75621d77f7242a28974f3611986d5782575cd6d97d509"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-37-2011",
+   "path": "local/arad/santana/2011/37",
+   "short": "HCL Sântana nr. 37/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 37/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0037_2011_03_22.pdf",
+     "sha256": "e067984b2fb1b490c3e3182bbb62da945c4aa571a2b7038eb67aecdde431a425"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-38-2011",
    "path": "local/arad/santana/2011/38",
    "short": "HCL Sântana nr. 38/2011",
@@ -149,6 +2804,111 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0038_2011_03_22.pdf",
      "sha256": "13dfd8eafe97fccac0f220f85084eb2accfef36782375cf0b094e593c9e6ef06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-39-2011",
+   "path": "local/arad/santana/2011/39",
+   "short": "HCL Sântana nr. 39/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 39/2011 PRIVIND APROBAREA PROIECTULUI URBANISTIC ZONAL PENTRU ,, FABRICA DE RECICLARE MAGNEZIU ''extravilan Santana , jud",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=335",
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0039_2011_03_22.pdf",
+     "sha256": "a32de5d4421fd61d80eb1fd8ef43df2e9c8079ea83c93a6460562753c1c2c5ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-4-2011",
+   "path": "local/arad/santana/2011/4",
+   "short": "HCL Sântana nr. 4/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 4/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din Legea 215/200",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=339",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0004_2011_01_18.pdf",
+     "sha256": "266b3770393a0afbc3ccd84c09a5a54d9cb73156481b00d6707c9618a6c24a5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-40-2011",
+   "path": "local/arad/santana/2011/40",
+   "short": "HCL Sântana nr. 40/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 40/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0040_2011_03_22.pdf",
+     "sha256": "ffef9737ae10ebce3001cb73e53fda168e33206aa6c38df70ebea6fd33a158d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-41-2011",
+   "path": "local/arad/santana/2011/41",
+   "short": "HCL Sântana nr. 41/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 41/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0041_2011_03_22.pdf",
+     "sha256": "3ac4ab75aaea2d7107aaf17bb5cf199cbdb5377c20a9cd1625d919dd650325a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-42-2011",
+   "path": "local/arad/santana/2011/42",
+   "short": "HCL Sântana nr. 42/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 42/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0042_2011_03_22.pdf",
+     "sha256": "b59ad298a445e5aba95238361e84a4641ba09f41e4b4e49c21162afd445f932d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-43-2011",
+   "path": "local/arad/santana/2011/43",
+   "short": "HCL Sântana nr. 43/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 43/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0043_2011_03_22.pdf",
+     "sha256": "578e9aa0531ddc5ee6f73190898c1a59fd33bb47fa28298f5223801715d4ccff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-44-2011",
+   "path": "local/arad/santana/2011/44",
+   "short": "HCL Sântana nr. 44/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 44/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0044_2011_03_22.pdf",
+     "sha256": "ee7ebb983188c18b4d1044c816d9874580060be7c969e199e60793ec0441ebac"
     }
    ]
   },
@@ -168,6 +2928,216 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-46-2011",
+   "path": "local/arad/santana/2011/46",
+   "short": "HCL Sântana nr. 46/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 46/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=335",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0047_2011_02_21.pdf",
+     "sha256": "ad8487d6e9328d6f0d42197b5269d46f014233df35d79c4585bb841cce69f1d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-48-2011",
+   "path": "local/arad/santana/2011/48",
+   "short": "HCL Sântana nr. 48/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 48/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0048_2011_03_28.pdf",
+     "sha256": "e804a2cb06da1b1b6323822678a8261c8913fa20e9340fdc1967523185c56038"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-49-2011",
+   "path": "local/arad/santana/2011/49",
+   "short": "HCL Sântana nr. 49/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 49/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=334",
+   "versions": [
+    {
+     "from": "2011-04-12",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0049_2011_04_12.pdf",
+     "sha256": "adfdcece6fb9083384649c267a8f0147814e021bb1cc0695ede8ad35d4d35f7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-5-2011",
+   "path": "local/arad/santana/2011/5",
+   "short": "HCL Sântana nr. 5/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 5/2011 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001, legea administrației publice locale, republicată, cu modificările si completările ulterioare, HOTĂRĂȘTE: Art",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=339",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0005_2011_01_18.pdf",
+     "sha256": "cbfc5f651d0a3350a547d70dd3a74684f36ac44bcd4e51652ba601f59cbc344b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-50-2011",
+   "path": "local/arad/santana/2011/50",
+   "short": "HCL Sântana nr. 50/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 50/2011 privind aprobarea ordinei de zi a ședinței de îndată CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001, legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Art",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=334",
+   "versions": [
+    {
+     "from": "2011-04-12",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0050_2011_04_12.pdf",
+     "sha256": "f1daf2714f6ccf0d205813c6372ac3f906024b6356ce55bb4ea668fd36da3fbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-51-2011",
+   "path": "local/arad/santana/2011/51",
+   "short": "HCL Sântana nr. 51/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 51/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-12",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0051_2011_04_12.pdf",
+     "sha256": "d0d720cc880f4bf5a82133dbf6c3765cba4f4a1ef380d3dfe3f715992aaf5e07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-52-2011",
+   "path": "local/arad/santana/2011/52",
+   "short": "HCL Sântana nr. 52/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 52/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-12",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0052_2011_04_12.pdf",
+     "sha256": "21bc55685a3832c063f78df80f5ef2c5570ed4e46918513a4d3d5722190e5f92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-53-2011",
+   "path": "local/arad/santana/2011/53",
+   "short": "HCL Sântana nr. 53/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 53/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=334",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0053_2011_04_28.pdf",
+     "sha256": "efc109cfe9707390fb0e8fdcfbf4d63cf324af544e72e6ce7800a566056c6988"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-56-2011",
+   "path": "local/arad/santana/2011/56",
+   "short": "HCL Sântana nr. 56/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 56/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0056_2011_04_28.pdf",
+     "sha256": "068842abb6fba37dfa795eeecf35c159e0d44d54a8412d8a6346a3f8cf221893"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-57-2011",
+   "path": "local/arad/santana/2011/57",
+   "short": "HCL Sântana nr. 57/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 57/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0057_2011_04_28.pdf",
+     "sha256": "17464df9a930c777c10c50110d9c45c04753fb169e20d939e1c6c9a68853a7f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-58-2011",
+   "path": "local/arad/santana/2011/58",
+   "short": "HCL Sântana nr. 58/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 58/2011 PRIVIND APROBAREA PLANULULUI ANUAL AL ACHIZITIILOR PUBLICE PE ANUL 2011 CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Referat de specialitate nr. 2960/2011 al echipei de implementare a proiectului ,,Vatra folclorica Elek – Santana – Graniceri ’’ Prevederile OUG nr. 34/2006 privind atribuirea contractelor de achizitie publica, a contractelor de concesiune de lucrari publice si a contractel",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=333",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0058_2011_04_28.pdf",
+     "sha256": "a0e6d9a79e853e3ffa162be87c59a92c1e2aa4f10ed5b5589e08729a3a0c43c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-59-2011",
+   "path": "local/arad/santana/2011/59",
+   "short": "HCL Sântana nr. 59/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 59/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0059_2011_04_28.pdf",
+     "sha256": "8ccd2fdf05bc5e4737795fd27f11bab6a03dafd0d7936834e3f30d65b85a75fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-6-2011",
+   "path": "local/arad/santana/2011/6",
+   "short": "HCL Sântana nr. 6/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 6/2011 privind aprobarea proceselor verbale a sedintelor din luna decembrie 2010 a Consiliului local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=339",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0006_2011_01_18.pdf",
+     "sha256": "04db32cab32539da0fc3d363fdc8d548d6db55019fbe43a3d3b754559d56cf5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-60-2011",
+   "path": "local/arad/santana/2011/60",
+   "short": "HCL Sântana nr. 60/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 60/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0060_2011_04_28.pdf",
+     "sha256": "cd3649765e323fe1e738f6587701200364b3dc08c5e9ffb932aadad37d085ffb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-61-2011",
    "path": "local/arad/santana/2011/61",
    "short": "HCL Sântana nr. 61/2011",
@@ -179,6 +3149,216 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0061_2011_04_28.pdf",
      "sha256": "1103c0209c6bc7292e00ea375f55d881c8d9a46a4bc771cc5fd0359f65df04a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-62-2011",
+   "path": "local/arad/santana/2011/62",
+   "short": "HCL Sântana nr. 62/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 62/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0062_2011_04_28.pdf",
+     "sha256": "125d85fd4a6695ee7548cc8bd42d1e5ae11538d744bf125dfd9c69045d7bfd31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-63-2011",
+   "path": "local/arad/santana/2011/63",
+   "short": "HCL Sântana nr. 63/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 63/2011 PRIVIND APROBAREA SITUATIEI BUNURILOR RECEPTIONATE DE COMPANIA DE APA ARAD IN ANUL 2010 SI DECLARAREA LOR DE INTERES PUBLIC LOCAL CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : – Raportul de specialitate al domnuluiIonasDumitrusefserviciucontabilitate in cadrulPrimarieiorasului Santana; AdresaCompaniei de ApaArad,inregistrata cu numarul3684/15.03.2011 Prevederile art. 36 alin. 2 litera c s",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=333",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0063_2011_04_28.pdf",
+     "sha256": "e684bd22c91a45bee61bc6634b2525370820b24a9b1966c7b63ff6a448b61112"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-64-2011",
+   "path": "local/arad/santana/2011/64",
+   "short": "HCL Sântana nr. 64/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 64/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0064_2011_04_28.pdf",
+     "sha256": "51f9a48bd3afe8e41ed044fa1a323e428210a15eeff437d77a19a9122d36c1f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-65-2011",
+   "path": "local/arad/santana/2011/65",
+   "short": "HCL Sântana nr. 65/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 65/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0065_2011_04_28.pdf",
+     "sha256": "1d7fa8d94267fd54f924af6c3e9eb5b1cddbf0df3cc9b466230d707a48e443dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-66-2011",
+   "path": "local/arad/santana/2011/66",
+   "short": "HCL Sântana nr. 66/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 66/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0066_2011_04_28.pdf",
+     "sha256": "ead6d7cde81911cfc51e554ac72a9ec8a445d8dec177b6d3f1d74ba590bb2654"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-67-2011",
+   "path": "local/arad/santana/2011/67",
+   "short": "HCL Sântana nr. 67/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 67/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0067_2011_04_28.pdf",
+     "sha256": "dd99d84f7eb7136b380b44ad642733b2c358b87fbebb967fd9b7c0fde747a7c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-68-2011",
+   "path": "local/arad/santana/2011/68",
+   "short": "HCL Sântana nr. 68/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 68/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=332",
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0068_2011_04_28.pdf",
+     "sha256": "894107ce33cf2859e1c0fb13891a6a9f446c61277ab25e60255510f740c4bf58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-69-2011",
+   "path": "local/arad/santana/2011/69",
+   "short": "HCL Sântana nr. 69/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 69/2011 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Art. 1",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=332",
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0069_2011_04_28.pdf",
+     "sha256": "3a54c7c913047f8a4221a333cfe742df0c662ed619906526b18a9f3512164d08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-7-2011",
+   "path": "local/arad/santana/2011/7",
+   "short": "HCL Sântana nr. 7/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 7/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0007_2011_01_18.pdf",
+     "sha256": "9d137df4714dbf272b5c460c13ec170ffc94c5867d32bbd92752b03855dd0d2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-70-2011",
+   "path": "local/arad/santana/2011/70",
+   "short": "HCL Sântana nr. 70/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 70/2011 privind aprobarea proceselor verbale a sedintelor din luna aprilie 2011 a Consiliului Local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu m",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=332",
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0070_2011_05_17.pdf",
+     "sha256": "cc667462649bf9a91d3d2f293bc720f79cabe02db8e5db731695c5ea3de98f7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-71-2011",
+   "path": "local/arad/santana/2011/71",
+   "short": "HCL Sântana nr. 71/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 71/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0071_2011_05_17.pdf",
+     "sha256": "68e270e99f2a95db7a01548d726f19ac208094939271404e0fe91566142845df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-72-2011",
+   "path": "local/arad/santana/2011/72",
+   "short": "HCL Sântana nr. 72/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 72/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0072_2011_05_17.pdf",
+     "sha256": "349d0a660b46a3313330ce7cffb6955dc271d7aca5c9a048dbb8982065aad65e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-73-2011",
+   "path": "local/arad/santana/2011/73",
+   "short": "HCL Sântana nr. 73/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 73/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0073_2011_05_17.pdf",
+     "sha256": "48fbd3527e8670fc7f82c7eec00305383a97eea54d7f1f0eb92472391f33c3d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-74-2011",
+   "path": "local/arad/santana/2011/74",
+   "short": "HCL Sântana nr. 74/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 74/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0074_2011_05_17.pdf",
+     "sha256": "7e726706cfaf5bd2c72b8b52133e972c84f263928c83c9d524078989e11e6690"
     }
    ]
   },
@@ -198,6 +3378,186 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-76-2011",
+   "path": "local/arad/santana/2011/76",
+   "short": "HCL Sântana nr. 76/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 76/2011 PRIVIND APROBAREA DEPUNERII DECLARATIILOR NOTARIALE FINALE IN VEDEREA REZOLVARII CERERILOR DEPUSE IN BAZA LEGII NR. 15/2003 CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Referat Comisia Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala - Proces verbal sedinta din data de 12.05.2011 , nr. - Prevederile art. 3 si 4 Legii nr. 15/20",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=332",
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0076_2011_05_17.pdf",
+     "sha256": "8e69b3f57d217622cadc06ecbdcf8f75866b661ed8b085d77c0d0ee92bd3945c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-77-2011",
+   "path": "local/arad/santana/2011/77",
+   "short": "HCL Sântana nr. 77/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 77/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0077_2011_05_17.pdf",
+     "sha256": "462daef4bc6190e2b82b81b72b5cff2de1fb590bb685029a660ee59c95a34823"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-78-2011",
+   "path": "local/arad/santana/2011/78",
+   "short": "HCL Sântana nr. 78/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 78/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0078_2011_05_17.pdf",
+     "sha256": "898e04aebfc5e35ed1f183634c5052e902c963474a5e861ce9a5da6731bf90f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-79-2011",
+   "path": "local/arad/santana/2011/79",
+   "short": "HCL Sântana nr. 79/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 79/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0079_2011_05_17.pdf",
+     "sha256": "50e7923ad888c4df039cad4749dec187ad6ae00a446543161362a8de31056aff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-8-2011",
+   "path": "local/arad/santana/2011/8",
+   "short": "HCL Sântana nr. 8/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 8/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0008_2011_01_18.pdf",
+     "sha256": "281ffbf3fd6d292c7974383afe564abbd6fedeb7cb5b6694f9245c94ac7fa4eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-80-2011",
+   "path": "local/arad/santana/2011/80",
+   "short": "HCL Sântana nr. 80/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 80/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0080_2011_05_17.pdf",
+     "sha256": "f413bde264a76ae27f2788e5b22dd61aede9ae1d0d838bec59dc69c09810ff49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-81-2011",
+   "path": "local/arad/santana/2011/81",
+   "short": "HCL Sântana nr. 81/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 81/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0081_2011_05_17.pdf",
+     "sha256": "319ee1ea0f0d775478030316957c28f9b5f69bbd3bab93e9c3e6a1a09689aecc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-82-2011",
+   "path": "local/arad/santana/2011/82",
+   "short": "HCL Sântana nr. 82/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 82/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0082_2011_05_17.pdf",
+     "sha256": "2ffa9d0691a107f2d944bd4aa9f4549c160c0c270c19d5742d959e5513ccb424"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-83-2011",
+   "path": "local/arad/santana/2011/83",
+   "short": "HCL Sântana nr. 83/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 83/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0083_2011_05_17.pdf",
+     "sha256": "ec0f59c0534e34eb8a79409692c06b537fe08f214440d03e8a6c4be887216681"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-84-2011",
+   "path": "local/arad/santana/2011/84",
+   "short": "HCL Sântana nr. 84/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 84/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0084_2011_05_17.pdf",
+     "sha256": "a1552b0b0e79ea0b4dedd3fbbff169557dce083cb9f251b93f6c1990971a8fc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-85-2011",
+   "path": "local/arad/santana/2011/85",
+   "short": "HCL Sântana nr. 85/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 85/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=331",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0085_2011_05_17.pdf",
+     "sha256": "9f8fe147d0a4960a9629f430a3042c3562b9ccb1ca6d94ac6e0c2a861f80d799"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-86-2011",
+   "path": "local/arad/santana/2011/86",
+   "short": "HCL Sântana nr. 86/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 86/2011 privind aprobarea ordinei de zi a sedintei extraordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Ar",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=331",
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0086_2011_05_31.pdf",
+     "sha256": "205fcb11d5c36001f8da4a1d225223944ed1d674821c516e9f9c31aef3ae7244"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-87-2011",
    "path": "local/arad/santana/2011/87",
    "short": "HCL Sântana nr. 87/2011",
@@ -213,6 +3573,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-88-2011",
+   "path": "local/arad/santana/2011/88",
+   "short": "HCL Sântana nr. 88/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 88/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0088_2011_05_31.pdf",
+     "sha256": "9ef0ad91d13253b29daaf3b1c0f5257714dd94cd2f43aeddf26340b3f4e31aa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-89-2011",
+   "path": "local/arad/santana/2011/89",
+   "short": "HCL Sântana nr. 89/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 89/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0089_2011_05_31.pdf",
+     "sha256": "4f86389aaf4b3e11b174aceb1cae49f7d341a35e67d760d18e79c7cca50c0798"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-9-2011",
    "path": "local/arad/santana/2011/9",
    "short": "HCL Sântana nr. 9/2011",
@@ -224,6 +3614,141 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0009_2011_01_18.pdf",
      "sha256": "4aa8a27961247fa26707e49b0d9d9f6be66065c8f10a0e1ae8b8744a0d9a3dca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-90-2011",
+   "path": "local/arad/santana/2011/90",
+   "short": "HCL Sântana nr. 90/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 90/2011 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea 215",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=330",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0090_2011_06_23.pdf",
+     "sha256": "017372b923e444db34065b4ff448f1103f08f9a3663cd64818a0986b828bc1b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-91-2011",
+   "path": "local/arad/santana/2011/91",
+   "short": "HCL Sântana nr. 91/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 91/2011 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările si completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările si completările ulterioare, HOTĂRĂȘTE: Art. 1",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=330",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0091_2011_06_23.pdf",
+     "sha256": "dcfecb704745c3e234d708d48b82b4e585e5da917b7b1ba85c8bc0e5d6c9f3d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-92-2011",
+   "path": "local/arad/santana/2011/92",
+   "short": "HCL Sântana nr. 92/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 92/2011 privind aprobarea proceselor verbale a sedintelor din luna mai 2011 a Consiliului Local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu modif",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=330",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0092_2011_06_23.pdf",
+     "sha256": "d3d088bd518d6d823daf86a8986a4f4d0c03652a33a4fc982eb44a5a0b18ee8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-93-2011",
+   "path": "local/arad/santana/2011/93",
+   "short": "HCL Sântana nr. 93/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 93/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0093_2011_06_23.pdf",
+     "sha256": "c1754bf44036b2dca95a2b995078bc490f53dcb1fec27113ce8f5261d518cae0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-94-2011",
+   "path": "local/arad/santana/2011/94",
+   "short": "HCL Sântana nr. 94/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 94/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0094_2011_06_23.pdf",
+     "sha256": "70e06ca26fd3ea30fe096773b85912d046c083142c4db4d9784fdb118a1ee3d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-95-2011",
+   "path": "local/arad/santana/2011/95",
+   "short": "HCL Sântana nr. 95/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 95/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0095_2011_06_23.pdf",
+     "sha256": "ba62dc91bbdaee39a946ae1264484a4ec50ef4a80ffb32002b295c3bf118862d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-96-2011",
+   "path": "local/arad/santana/2011/96",
+   "short": "HCL Sântana nr. 96/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 96/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0096_2011_06_23.pdf",
+     "sha256": "aa55f914899d3d5230072c595cdd4fe9011b96c533297a9f84e6069b3eb7ec73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-97-2011",
+   "path": "local/arad/santana/2011/97",
+   "short": "HCL Sântana nr. 97/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 97/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0097_2011_06_23.pdf",
+     "sha256": "bed414cc7d3f1dc3a4b5d3e2c4534404ee277304cf10bfe94b8a6877729144cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-98-2011",
+   "path": "local/arad/santana/2011/98",
+   "short": "HCL Sântana nr. 98/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 98/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0098_2011_06_23.pdf",
+     "sha256": "11cd7669e8ce313a170161e408da1b50082b641d0f533fb6dc5ffe49f9d9d5dd"
     }
    ]
   },

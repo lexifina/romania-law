@@ -245,6 +245,72 @@
 }
 },
 {
+"slug": "hcl-arad--taut-27-2021",
+"path": "local/arad/taut/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 27/2021 privind aprobarea executiei obiectivului instalare sistem video de supraveghere",
+"short": "HCL Tauț nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-23",
+"latest": "2021-04-23",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-28-2021",
+"path": "local/arad/taut/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 28/2021 privind aprobarea documentatiei tehnice pt.faza PAC +PTE Construire capela funerara in loc. Taut",
+"short": "HCL Tauț nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-23",
+"latest": "2021-04-23",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-29-2021",
+"path": "local/arad/taut/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 29/2021 privind aprobarea documentatiei tehnico &#8211; economice pt.faza PAC+PTE ,expertiza tehnica Lucrari de asfaltare strazile 1,1B si 2 in loc. Taut",
+"short": "HCL Tauț nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-23",
+"latest": "2021-04-23",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--taut-49-2021",
 "path": "local/arad/taut/2021/49",
 "kind": "local",

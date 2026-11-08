@@ -858,6 +858,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--vladimirescu-30-2026",
+   "path": "local/arad/vladimirescu/2026/30",
+   "short": "HCL Vladimirescu nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 30/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/03/Hotararea-30-din-27.02.2026.pdf",
+     "sha256": "0680fcb0fd3866d7c618bb66337f84d940e69a1de2620815c95951a7a1371707"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-31-2026",
+   "path": "local/arad/vladimirescu/2026/31",
+   "short": "HCL Vladimirescu nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 31/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/03/Hotararea-31-din-27.02.2026.pdf",
+     "sha256": "d89a116f4063870bdadb3cadf6e3ce16c9f76ccaa4e9c911ac449fdb90229d50"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--vladimirescu-32-2026",
    "path": "local/arad/vladimirescu/2026/32",
    "short": "HCL Vladimirescu nr. 32/2026",

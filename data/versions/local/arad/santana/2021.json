@@ -3,6 +3,696 @@
  "shard": "local/arad/santana/2021",
  "acts": [
   {
+   "slug": "hcl-arad--santana-104-2021",
+   "path": "local/arad/santana/2021/104",
+   "short": "HCL Sântana nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 104/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=127",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_104_din_15.07.21.pdf",
+     "sha256": "af3c9b7ecf6e87a91cf4a615673192f448ab5f6936fa61230b75b6cbf1bbd26d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-105-2021",
+   "path": "local/arad/santana/2021/105",
+   "short": "HCL Sântana nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 105/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=127",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_105_din_15.07.21.pdf",
+     "sha256": "f605ce5677c4e1c5e9188146192fd8f196a42edc0f132870f6f8218e8d4e45ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-106-2021",
+   "path": "local/arad/santana/2021/106",
+   "short": "HCL Sântana nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 106/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=127",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_106_din_15.07.21.pdf",
+     "sha256": "d16f4d367e63d34a44eba350b61fdfe563998e990456127416f2ca13b78e4ed3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-107-2021",
+   "path": "local/arad/santana/2021/107",
+   "short": "HCL Sântana nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 107/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=127",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_107_din_15.07.21.pdf",
+     "sha256": "9c68043146ad83d6a30aae89dc4d78edaf3fa6ae80f6817ca872504ffd3102ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-108-2021",
+   "path": "local/arad/santana/2021/108",
+   "short": "HCL Sântana nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 108/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=127",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_108_din_15.07.21.pdf",
+     "sha256": "9b18eaf2b5764d24037e2a11853f975dac2e58ba6a078417a331323e37376250"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-109-2021",
+   "path": "local/arad/santana/2021/109",
+   "short": "HCL Sântana nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 109/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=126",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_109_din_15.07.21.pdf",
+     "sha256": "973836a057c2ca45719d1ee20ab3954a2680471dfe35290d6fb7ec1e4809f610"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-110-2021",
+   "path": "local/arad/santana/2021/110",
+   "short": "HCL Sântana nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 110/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=126",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_110_din_15.07.21.pdf",
+     "sha256": "950ef0f2f7f7cf847aa037e6ee048dc0b1292edd749cda8f28516a2f86f48e88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-111-2021",
+   "path": "local/arad/santana/2021/111",
+   "short": "HCL Sântana nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 111/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=126",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_111_din_15.07.21.pdf",
+     "sha256": "732c90806212b8fc068df69e72def7d90f80f54e5a99832ebc281a832d59eb4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-112-2021",
+   "path": "local/arad/santana/2021/112",
+   "short": "HCL Sântana nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 112/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=126",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_112_din_15.07.21.pdf",
+     "sha256": "8e09f906ebfb5a362eeb9378d2b9271a3c7bc26b49710f2c1ea9279a045d9203"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-113-2021",
+   "path": "local/arad/santana/2021/113",
+   "short": "HCL Sântana nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 113/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=126",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_113_din_15.07.21.pdf",
+     "sha256": "c0789b3c674f4e15639225545b401367b1f890bbf1fb497eb4eb4f6e775a2376"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-114-2021",
+   "path": "local/arad/santana/2021/114",
+   "short": "HCL Sântana nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 114/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=126",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_114_din_15.06.21.pdf",
+     "sha256": "671befad839b71ffd03adf2cb223b6d394d02743d37210de161d0431c83f2a54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-116-2021",
+   "path": "local/arad/santana/2021/116",
+   "short": "HCL Sântana nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 116/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=126",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_116_din_15.07.21.pdf",
+     "sha256": "eb92a53dd93b1430182bc3b2ec90084f03a0c1dd293cc490325a6d9f6505e625"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-117-2021",
+   "path": "local/arad/santana/2021/117",
+   "short": "HCL Sântana nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 117/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=126",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_117_din_15.07.21.pdf",
+     "sha256": "0693f452d80a5a72d46b79c5d49b65ede692183041c5988cb1e3f245219fca78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-118-2021",
+   "path": "local/arad/santana/2021/118",
+   "short": "HCL Sântana nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 118/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=126",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_118_din_15.07.21.pdf",
+     "sha256": "acfbb8cf270d33941cb0318fd22c96c050fbf9f5133d480fa01b14464d07d1b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-119-2021",
+   "path": "local/arad/santana/2021/119",
+   "short": "HCL Sântana nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 119/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=125",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_119_din_15.07.21.pdf",
+     "sha256": "5d0512c86c6b762f7f6e7e5e0d7c4cfc447a8477a2168538956c23974d6e49ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-120-2021",
+   "path": "local/arad/santana/2021/120",
+   "short": "HCL Sântana nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 120/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=125",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_120_din_26_08_21.pdf",
+     "sha256": "128362d89bf38f7694412a3a64dcca1c1b46b9bf3152acd9a8e8dd5b8ee7e12f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-121-2021",
+   "path": "local/arad/santana/2021/121",
+   "short": "HCL Sântana nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 121/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=125",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_121_din_26_08_21.pdf",
+     "sha256": "21b0f5e16318f5e545d7180377cbb0b4ab3115ef24e3c9ffc706106b0355408d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-122-2021",
+   "path": "local/arad/santana/2021/122",
+   "short": "HCL Sântana nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 122/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=125",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_122_din_26_08_21.pdf",
+     "sha256": "51e475fb02a5e20aecc18eebf38263356cddbf6c8333daa646992461ecce5820"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-124-2021",
+   "path": "local/arad/santana/2021/124",
+   "short": "HCL Sântana nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 124/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=125",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_124_din_26_08_21.pdf",
+     "sha256": "717bf8ad5db1f4751b8c516d488d130efe21e7895d6eb40b373b171eb397eda2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-125-2021",
+   "path": "local/arad/santana/2021/125",
+   "short": "HCL Sântana nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 125/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=125",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_125_din_26_08_21.pdf",
+     "sha256": "b7a8aceb42e20a575b71c95cc20bdb359a0c5b661157abc677dc38b122e5f84a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-126-2021",
+   "path": "local/arad/santana/2021/126",
+   "short": "HCL Sântana nr. 126/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 126/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=125",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_126_din_26_08_21.pdf",
+     "sha256": "4dea2f233e817e54bc6ad7a9fb215cc5438a8ed6666bc8cf0df62c72340913a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-127-2021",
+   "path": "local/arad/santana/2021/127",
+   "short": "HCL Sântana nr. 127/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 127/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=124",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_127_din_26_08_21.pdf",
+     "sha256": "35b4bb7e8378a7a4d5bca3f8e95c7d187d5499dcd3a523231a474e131de11d47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-128-2021",
+   "path": "local/arad/santana/2021/128",
+   "short": "HCL Sântana nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 128/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=124",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_128_din_26_08_21.pdf",
+     "sha256": "129cf79fbb755464d527e6102afa6f0fb9a134f189b0aea4b7f259e4dc9421dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-129-2021",
+   "path": "local/arad/santana/2021/129",
+   "short": "HCL Sântana nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 129/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=124",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_129_din_26_08_21.pdf",
+     "sha256": "2bd4ca0768a21fb1d6890b757ae76ea8360e9d0392be3212d3be28f93f63e3e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-130-2021",
+   "path": "local/arad/santana/2021/130",
+   "short": "HCL Sântana nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 130/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=124",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_130_din_26_08_21.pdf",
+     "sha256": "49efe928d0e63369958a0c8e258080cfa66b5874b7f969120fe5d1469db26a6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-131-2021",
+   "path": "local/arad/santana/2021/131",
+   "short": "HCL Sântana nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 131/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=124",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_131_din_26_08_21.pdf",
+     "sha256": "45f314b798c8dd9fd2ce861093bc0e442d56b4404470a8528b7c9e5a54cdd64c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-132-2021",
+   "path": "local/arad/santana/2021/132",
+   "short": "HCL Sântana nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 132/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=124",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_132_din_26_08_21.pdf",
+     "sha256": "00b0576e28b0466b9e17f56480add02734a60b413607f890d2a0a278a1953cc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-133-2021",
+   "path": "local/arad/santana/2021/133",
+   "short": "HCL Sântana nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 133/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=124",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_133_din_26_08_21.pdf",
+     "sha256": "009e670def166969390b78583315c9a3a3c0d5337d71191f24399f746af34b35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-134-2021",
+   "path": "local/arad/santana/2021/134",
+   "short": "HCL Sântana nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 134/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=124",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_134_din_26_08_21.pdf",
+     "sha256": "efb932cf8704a59774cda757771bbd4a2091d8085c237b3f388e53db2dafee97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-135-2021",
+   "path": "local/arad/santana/2021/135",
+   "short": "HCL Sântana nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 135/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=124",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_135_din_26_08_21.pdf",
+     "sha256": "f8449a7385c7718d777db99227763e12a7441f733b8e57f4a1569b2e8edc533e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-136-2021",
+   "path": "local/arad/santana/2021/136",
+   "short": "HCL Sântana nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 136/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=123",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_136_din_22_09_21.pdf",
+     "sha256": "1fcfefb1d8ce6cb274c225b3d6768e898d7d3f57358691c2ef808938c69e9eeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-137-2021",
+   "path": "local/arad/santana/2021/137",
+   "short": "HCL Sântana nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 137/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=123",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_137_din_22_09_21.pdf",
+     "sha256": "6125b87f4b53bbd67db5a8641e9edaa2a7502c5b310666f715bda915a91f6f79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-138-2021",
+   "path": "local/arad/santana/2021/138",
+   "short": "HCL Sântana nr. 138/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 138/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=123",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_138_din_28_09_21.pdf",
+     "sha256": "9c3e7805ff913eebd96257a650ef61db065e3846cf998158cec31536ef755053"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-139-2021",
+   "path": "local/arad/santana/2021/139",
+   "short": "HCL Sântana nr. 139/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 139/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=123",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_139_din_28_09_21.pdf",
+     "sha256": "5685e490865e3d4437c661d2762b4e4d04aa46e65b346a234063c8b90d399c88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-140-2021",
+   "path": "local/arad/santana/2021/140",
+   "short": "HCL Sântana nr. 140/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 140/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=123",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_140_din_28_09_21.pdf",
+     "sha256": "98343eaa1e1b59fdbdf3d9be508279a39abebeb2043b70c8d8ee2bc11e8cab32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-141-2021",
+   "path": "local/arad/santana/2021/141",
+   "short": "HCL Sântana nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 141/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=123",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_141_din_28_09_21.pdf",
+     "sha256": "36d9d9254eec34e17f5039b4e1b3d100c375a6d841c4987bdd63a04d8973f015"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-142-2021",
+   "path": "local/arad/santana/2021/142",
+   "short": "HCL Sântana nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 142/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=123",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_142_din_28_09_21.pdf",
+     "sha256": "92a9de1c3fa3597877b2e6e2121e94406578c91a15f4314e8f0891af9cc8b2ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-143-2021",
+   "path": "local/arad/santana/2021/143",
+   "short": "HCL Sântana nr. 143/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 143/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=123",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_143_din_28_09_21.pdf",
+     "sha256": "f961ed4058ac7b904ae64db36a5264d98cc9c588c2fa683084ddc815034320e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-144-2021",
+   "path": "local/arad/santana/2021/144",
+   "short": "HCL Sântana nr. 144/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 144/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=122",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_144_din_28_09_21.pdf",
+     "sha256": "5693fb627cf3b96cab70220508c21bc78d863f47003d24b1a04860f00a206fd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-145-2021",
+   "path": "local/arad/santana/2021/145",
+   "short": "HCL Sântana nr. 145/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 145/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=122",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_145__din_28_09_21.pdf",
+     "sha256": "ed7cc64d211ee6347ad754e7971274d0d2338c103e47f841c6c2cbee59092b01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-146-2021",
+   "path": "local/arad/santana/2021/146",
+   "short": "HCL Sântana nr. 146/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 146/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=122",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_146__din_28_09_21.pdf",
+     "sha256": "123fba645a12c582c83ea689c4ff4e749440a29d326c5f7de549b18503b2e67f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-147-2021",
+   "path": "local/arad/santana/2021/147",
+   "short": "HCL Sântana nr. 147/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 147/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=122",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_147__din_28_09_21.pdf",
+     "sha256": "1659ca1bee8d00e276640eb6d756dc1dff4305fa0a356d8acdc8dd538beca32f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-148-2021",
+   "path": "local/arad/santana/2021/148",
+   "short": "HCL Sântana nr. 148/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 148/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=122",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_148_din_28_09_21.pdf",
+     "sha256": "afd3fc8b214b4ea7ca936f46f068ee118ae391ae2ebd7dd2184dac973041241c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-153-2021",
+   "path": "local/arad/santana/2021/153",
+   "short": "HCL Sântana nr. 153/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 153/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=122",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_153_din_08.10.21.pdf",
+     "sha256": "2586c5745f6f893dcc7eb9a24428182114c259b81732edec9b4226b7bf958865"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-154-2021",
+   "path": "local/arad/santana/2021/154",
+   "short": "HCL Sântana nr. 154/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 154/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=122",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_154_din_08_10_21.pdf",
+     "sha256": "1c2b47a10844b9ce5b0b1bfd1965c4766631b9a8d56c3d99881686e35486d097"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-155-2021",
+   "path": "local/arad/santana/2021/155",
+   "short": "HCL Sântana nr. 155/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 155/2021",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=122",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_155_din_08_10_21.pdf",
+     "sha256": "aa22035c1168f269af56cf55caf93d8ed2e5de3a21dc74d8707b19131e529ea3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-28-2021",
    "path": "local/arad/santana/2021/28",
    "short": "HCL Sântana nr. 28/2021",

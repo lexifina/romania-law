@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/arad/santana/2015",
+ "acts": [
+  {
+   "slug": "hcl-arad--santana-128-2015",
+   "path": "local/arad/santana/2015/128",
+   "short": "HCL Sântana nr. 128/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 128/2015 PRIVIND ItEC]TIFIC.\\REA BLGETIJT,TII I,OCAL AT, OIiASTiI,t I S,{NTA\\A P!_\\.' IliL :\\\\l 1.2015 CONSILIUL LOCAL AL ORASULUI SANTANA Avlnd in vedcrc: Pr.,ricl d. lrtr:,ur( rirrritrr ri. c.n1.d]. primir lonufu I)xnr.l \\,,J;r Rctrr';rt,lr.fccr:LIir:Lrc l{.,,,r Strn(lr L,uci:r dlrcto rvcL.r, I'rrcclcdc l-t!1i nr. l8a, l )1 1 I lnrs.ri,hll dr ir.tl p.nrtL\"nrtl I il! l)rc\\cdcnl. rff..1,).rljll f.i.6. lsr",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=246",
+   "versions": [
+    {
+     "from": "2015-07-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0128_2015_07_21.pdf",
+     "sha256": "effc56081ecc69ed91cb41e26f0efa126470886a968bebeb0916cf4a6871e33c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-172-2015",
+   "path": "local/arad/santana/2015/172",
+   "short": "HCL Sântana nr. 172/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 172/2015 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AI ON4SULUI SANTAATA",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=241",
+   "versions": [
+    {
+     "from": "2015-11-03",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0172_2015_11_03.pdf",
+     "sha256": "a890685a912ef359ecfed88aaf5f493810c4e16b9c3e2bf38a7452edc0effc10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-201-2015",
+   "path": "local/arad/santana/2015/201",
+   "short": "HCL Sântana nr. 201/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 201/2015",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=241",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0201_2015_12_22.pdf",
+     "sha256": "f1ab239f7f780244e9f8cbe3ef81def5f062559cbc3bf8c47793d0df08da2663"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-202-2015",
+   "path": "local/arad/santana/2015/202",
+   "short": "HCL Sântana nr. 202/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 202/2015",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=241",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0202_2015_12_22.pdf",
+     "sha256": "e70b93ca1259fda80f5e73a741ab913f12d803ce5f02abd207613db42604c85f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-3-2015",
+   "path": "local/arad/santana/2015/3",
+   "short": "HCL Sântana nr. 3/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 3/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0003_2015_01_08.pdf",
+     "sha256": "56c6afd170944ed202906c15e1a59c308758ddc1e3c37a9a97a1465c3b6a72c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-33-2015",
+   "path": "local/arad/santana/2015/33",
+   "short": "HCL Sântana nr. 33/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 33/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0033_2015_02_26.pdf",
+     "sha256": "fa3e9c3674cf5cdcf69471f6a8c408c8728064393b3fe3c9d9d48787ab364dae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-4-2015",
+   "path": "local/arad/santana/2015/4",
+   "short": "HCL Sântana nr. 4/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 4/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0004_2015_01_08.pdf",
+     "sha256": "6ccbdccccd6ae77ae3050e44eb7fbc6eea6ec3380c431bc29eda6eecd4d0cbb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-48-2015",
+   "path": "local/arad/santana/2015/48",
+   "short": "HCL Sântana nr. 48/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 48/2015 privind desemnarea presedintelui cle sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, AvAnd in vedere : Ordinea privind desemnarea pregedintelui de Sedinla stabilitA de Consiliul local; Prevederile Ordonan{ei 3512002 privind aprobarea Regulamentului cadru de functionare a (l) consiliilor locale qi al regulamentului de functionare al Consiliului Local S6ntana; Prevederile art. 35 alin. din din Legea 21",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=254",
+   "versions": [
+    {
+     "from": "2015-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0048_2015_03_17.pdf",
+     "sha256": "4aeba3d5d0c4805bb3a95ccb2bb774f82d3399a8bc7cfcf27fa1d0045ad1a411"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-5-2015",
+   "path": "local/arad/santana/2015/5",
+   "short": "HCL Sântana nr. 5/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 5/2015 privind Codul de Procedura Fiscala Prevederile art.36 a\\tn.(1), alin.(9), din Legea adminisuagiei publice locale m.275/2001, republicati, cu modificdrile gi completdrile ulterioare; In temeiul art. 45 alin. 1 din Legea 215 /2001, privind administraia publici locali republicata , cu modificarile si completarile ulterioare In temeiul art. 45 alin. I din Legea 21512001privind administralia publicd lo",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=258",
+   "versions": [
+    {
+     "from": "2015-01-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0005_2015_01_08.pdf",
+     "sha256": "4506cd440d9d3a49f8ad7d2406ded6502593c6a71c04c85d0135a26de58624db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-69-2015",
+   "path": "local/arad/santana/2015/69",
+   "short": "HCL Sântana nr. 69/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 69/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-07",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0069_2015_04_07.pdf",
+     "sha256": "109bf54c060eddf6475ffd79a1f4fb49f17f7487bae69438edde9f14b6d34b1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-81-2015",
+   "path": "local/arad/santana/2015/81",
+   "short": "HCL Sântana nr. 81/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 81/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0081_2015_04_23.pdf",
+     "sha256": "4fbec3a1ee217efb38402be8cd3cbf3096b593d6a390c602ff353a774a09c7b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-93-2015",
+   "path": "local/arad/santana/2015/93",
+   "short": "HCL Sântana nr. 93/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 93/2015 privind administratia publica locala. republicata cu modificarile si completarile ulterioare Piezcnta hotarare x fost adoptata cu .tul a 1i ccins ieri care au rr)rat pcntru din ro*lul de 17 cons icti at Consilului Local Santana ptezenti ta sedintr (nr. total al consilicdlor in tunctie 17) r\\rt. 1 HOTiRAsTF r\\rad la S3e1.a1p2r2o0b1a4sisrui :drtciaclabtaur'euarirloorrdteeccinpttciorens:rtpe.,b.sriic",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=249",
+   "versions": [
+    {
+     "from": "2015-05-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0093_2015_05_19.pdf",
+     "sha256": "deeea34a180ffc28c3b9752206d725ef72b98a648bca7725f4d09bed008c2310"
+    }
+   ]
+  }
+ ]
+}

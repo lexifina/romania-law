@@ -3,6 +3,96 @@
  "shard": "local/arges/poiana-lacului/2025",
  "acts": [
   {
+   "slug": "hcl-arges--poiana-lacului-1-2025",
+   "path": "local/arges/poiana-lacului/2025/1",
+   "short": "HCL Poiana Lacului nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 1/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/03/hcl-nr.-1-din-31.01.2025.pdf",
+     "sha256": "6345615520d999b6b97a77432186bff89ae794e1f402adec51f250879317f38e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-10-2025",
+   "path": "local/arges/poiana-lacului/2025/10",
+   "short": "HCL Poiana Lacului nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 10/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/05/HCL-nr.-10-din-21.03.2025-indicatori-tehnico-economici-locuinte-sociale.pdf",
+     "sha256": "0f25f265116197a4981e6896b42402be184ab0dbdd1ed6213599f6a65ebbf227"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-11-2025",
+   "path": "local/arges/poiana-lacului/2025/11",
+   "short": "HCL Poiana Lacului nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 11/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/09/HCL-nr.-11-din-27.03.2025-privind-indreptare-eroare-material.pdf",
+     "sha256": "fd575130dd4e63390a0bdea70281b82ef0da1f14b0a87dc522f62d7f5e6bdbe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-13-2025",
+   "path": "local/arges/poiana-lacului/2025/13",
+   "short": "HCL Poiana Lacului nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 13/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/09/HCL-nr.-13-din-27.03.2025-aprobare-organigrama-2025.pdf",
+     "sha256": "5ee44d4a38d880d3b3205788bf0ea549db8bb9a7ee78b0c71abf54e0e17a170c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-15-2025",
+   "path": "local/arges/poiana-lacului/2025/15",
+   "short": "HCL Poiana Lacului nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 15/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/09/HCL-nr.-15-din-27.03.2025-aprobare-numar-de-asistenti-personali.pdf",
+     "sha256": "d25d3398b94abb9df47a6368f44a4344820ee58fcae1c0f42861b3e3bb8ac0c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-16-2025",
+   "path": "local/arges/poiana-lacului/2025/16",
+   "short": "HCL Poiana Lacului nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 16/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/09/HCL-nr.-16-din-27.03.2025-actualizare-inventar-retur-apa-canal.pdf",
+     "sha256": "15d9e0e1f7fdbf3cb0971ff11cd573c61683d75d87d56fbf691a517c3d859242"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--poiana-lacului-164-2025",
    "path": "local/arges/poiana-lacului/2025/164",
    "short": "HCL Poiana Lacului nr. 164/2025",
@@ -14,6 +104,246 @@
      "units": 1,
      "source_url": "https://poianalacului.ro/wp-content/uploads/2026/07/Bug_rectif_HCL_63_28.11.2025-si-Disp.nr_.164_02.12.2025-1.pdf",
      "sha256": "bdb28ec5d942a042923c5dccaace8e61591e6cef897c235d1f7921692eedf6c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-17-2025",
+   "path": "local/arges/poiana-lacului/2025/17",
+   "short": "HCL Poiana Lacului nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 17/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/09/HCL-nr.-17-din-27.03.2025-plan-de-actiuni-2025.pdf",
+     "sha256": "c6375dfcfe3ff6d7a95e8eb8e7201316ffafe9191e61c187a866f9f82fcb2489"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-18-2025",
+   "path": "local/arges/poiana-lacului/2025/18",
+   "short": "HCL Poiana Lacului nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 18/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/09/HCL-nr.-18-din-27.03.2025-buget-2025.pdf",
+     "sha256": "e211006a52a8e84f96743cf98631e300cc39af1db7dd207aeacffb5730163a5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-2-2025",
+   "path": "local/arges/poiana-lacului/2025/2",
+   "short": "HCL Poiana Lacului nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 2/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/03/hcl-nr.-2-din-31.01.2025.pdf",
+     "sha256": "dd4674e1d1b068977bad3a9b37929654716579269c339273c676242b3afe3d99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-22-2025",
+   "path": "local/arges/poiana-lacului/2025/22",
+   "short": "HCL Poiana Lacului nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 22/2025 privind alegerea președintelui de ședință al Consiliului Local Poiana Lacului pentru lunile mai, iunie și iulie 2025 Având în vedere temeiurile juridice, respectiv prevederile: a) art.15 alin. 2, art. 120 alin. (1), art. 121 alin. (1) și alin. (2), din Constituția României, republicată; b) art. 7 alin. (2) din Legea nr. 287/2009 privind Codul civil, republicat, cu modificările și completările ulte",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2026/04/HCL-nr.-22-din-30.05.2025-alegere-presedinte-de-sedinta-lunile-februarie-aprilie-2025.pdf",
+     "sha256": "b52b9de8200c70f0d0a9b738c9067d761a30da5a1b7cb0d47a9a1478c792cc47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-3-2025",
+   "path": "local/arges/poiana-lacului/2025/3",
+   "short": "HCL Poiana Lacului nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 3/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/03/hcl-nr.-3-din-31.01.2025.pdf",
+     "sha256": "68173ec9d00f3422727c03f3ab0fb0e7670f5b4d85645eb7ee3048f8182d4f92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-33-2025",
+   "path": "local/arges/poiana-lacului/2025/33",
+   "short": "HCL Poiana Lacului nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 33/2025 privind modificarea și completarea Hotărârii Consiliului Local Poiana Lacului nr. 10 din 21.03.2025 pentru obiectivul “Construire locuințe sociale în Comuna Poiana Lacului, județul Argeș Având în vedere temeiurile juridice, respectiv prevederile: a) art. 120 și art. 121 alin. (1) și (2) din Constituția României, republicată; b) art. 8 și 9 din Carta europeană a autonomiei locale, adoptată la Stras",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2026/04/HCL-nr.-33-din-04.07.2025-modificare-si-completare-HCL-nr.-10-din-21.03.2025.pdf",
+     "sha256": "5b484acaefda62050349affbd431141e094efea85231871cccf2848c47fdbba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-36-2025",
+   "path": "local/arges/poiana-lacului/2025/36",
+   "short": "HCL Poiana Lacului nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 36/2025 privind revocarea Hotărârii Consiliului Local Poiana Lacului nr. 31 din 05.06.2025 privind atestarea apartanenței la domeniul public al comunei Poiana Lacului a unor imobile situate în comuna Poiana Lacului, județul Argeș Având în vedere temeiurile juridice, respectiv: a) art. 15 alin. (2), art. 120 alin. (1), art. 121 alin. (1) și alin. (2), din Constituția României, republicată; b) art. 3 și 4 d",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2026/04/HCL-nr.-36-din-31.07.2025-revocare-hotarare-consiliul-local.pdf",
+     "sha256": "1040bd1a664406179c61a12713317fcfa7ac6ff044c0782c537aabc34a1267e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-4-2025",
+   "path": "local/arges/poiana-lacului/2025/4",
+   "short": "HCL Poiana Lacului nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 4/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/03/hotarare-nr.-4-din-31.01.2025.pdf",
+     "sha256": "4191089cf4feed14b9ce5bc5e0d555fea861eceb6ba12bda001102c082c54e1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-41-2025",
+   "path": "local/arges/poiana-lacului/2025/41",
+   "short": "HCL Poiana Lacului nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 41/2025 privind alegerea președintelui de ședință al Consiliului Local Poiana Lacului pentru lunile august, septembrie și octombrie 2025 Având în vedere temeiurile juridice, respectiv prevederile: a) art.15 alin. 2, art. 120 alin. (1), art. 121 alin. (1) și alin. (2), din Constituția României, republicată; b) art. 7 alin. (2) din Legea nr. 287/2009 privind Codul civil, republicat, cu modificările și compl",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2026/04/HCL-nr.-41-din-21.08.2025-alegere-presedinte-de-sedinta-lunile-august-octombrie-2025.pdf",
+     "sha256": "02cc6b60d0b83b1400bc07979b2522976918969d7fcd339f55b8ee092cf82b0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-47-2025",
+   "path": "local/arges/poiana-lacului/2025/47",
+   "short": "HCL Poiana Lacului nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 47/2025 Privind actualizarea art. 2 din Hotărârea Consiliului Local Poiana Lacului nr. 39/19.11.2024 privind valoarea investiției conform modificărilor legislative în ceea ce privește cota TVA Având în vedere temeiurile juridice, respectiv: a) art. 15 alin. (2), art. 120 alin. (1), art. 121 alin. (1) și alin. (2), din Constituția României, republicată; b) art. 3 și 4 din Carta europeană a autonomiei local",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2026/04/HCL-nr.-47-din-23.09.2025-actualizare-cota-2-buldo.pdf",
+     "sha256": "149ba84b2272cd22479624850d04a4fd6277eced9e55d4b621463f7502a4b189"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-5-2025",
+   "path": "local/arges/poiana-lacului/2025/5",
+   "short": "HCL Poiana Lacului nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 5/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/03/Hotarare-nr.-5-din-31.01.2025.pdf",
+     "sha256": "efaf1308877c4dcc9a4de30b0631d490176499d20488efc92bfa206dca3e9910"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-51-2025",
+   "path": "local/arges/poiana-lacului/2025/51",
+   "short": "HCL Poiana Lacului nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 51/2025 privind desemnarea reprezentanților Consiliului local în Consiliul de Administrație al Școlii Gimnaziale nr. 1 Poiana Lacului pentru anul 2025-2026 Având în vedere temeiurile juridice, respectiv prevederile: a) art. 15 alin. (2), art. 120 alin. (1) și art. 121 alin. (1) și alin. (2) și art. 138 alin. (4) din Constituția României, republicată; b) art. 3 și 4 din Carta europeană a autonomiei locale",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2026/04/HCL-nr.-51-din-30.09.2025-desemnare-reprezentantii-CL-pentru-CA.pdf",
+     "sha256": "815a28cef3939141d18782732ab28ec3f1758d67823c18aec522b0b7fe187ecf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-6-2025",
+   "path": "local/arges/poiana-lacului/2025/6",
+   "short": "HCL Poiana Lacului nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 6/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/04/HCL-nr.-6-din-14.02.2025-alegere-presedinte-de-sedinta-februarie-aprilie-2025.pdf",
+     "sha256": "5a37069d09cf79299217b991f64a1db0a68a00dfae56dab51be627a0d66ca654"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-61-2025",
+   "path": "local/arges/poiana-lacului/2025/61",
+   "short": "HCL Poiana Lacului nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 61/2025 privind alegerea președintelui de ședință al Consiliului Local Poiana Lacului pentru lunile noiembrie-decembrie 2025 și ianuarie 2026 Având în vedere temeiurile juridice, respectiv prevederile: a) art.15 alin. 2, art. 120 alin. (1), art. 121 alin. (1) și alin. (2), din Constituția României, republicată; b) art. 7 alin. (2) din Legea nr. 287/2009 privind Codul civil, republicat, cu modificările și",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2026/04/HCL-nr.-61-din-06.11.2025-alegere-presedinte-de-sedinta-noiembrie-decembrie-2025-si-ianuarie-2026.pdf",
+     "sha256": "3ab4fa75c8397b79de0bd0a57d23060c30b2c686b733ca6ea4ce186934090ff8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-67-2025",
+   "path": "local/arges/poiana-lacului/2025/67",
+   "short": "HCL Poiana Lacului nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 67/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2026/01/HCL-nr.-67-din-29.12.2025-impozite-2026-Poiana-Lacului.pdf",
+     "sha256": "83a6e6800c5ea7074dd891dac334ac8ade30033d29a333b3b7a5aa9029f2d754"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-8-2025",
+   "path": "local/arges/poiana-lacului/2025/8",
+   "short": "HCL Poiana Lacului nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 8/2025",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/04/HCL-nr.-8-din-14.02.2025-aprobare-SF-indicatori-statii-1.pdf",
+     "sha256": "d1525081d97cecfd4d265db22cd3e669c103dff79d9b150a5b96c5210f515298"
     }
    ]
   }

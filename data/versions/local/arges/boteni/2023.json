@@ -3,6 +3,36 @@
  "shard": "local/arges/boteni/2023",
  "acts": [
   {
+   "slug": "hcl-arges--boteni-1-2023",
+   "path": "local/arges/boteni/2023/1",
+   "short": "HCL Boteni nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boteni nr. 1/2023",
+   "url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.1-4-IANUARIE-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.1-4-IANUARIE-2023.pdf",
+     "sha256": "e6766675df9cd1253eb4ba5a3aa5e2c807fff8b25e31aa6e51a44d38ea6cc8a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--boteni-11-2023",
+   "path": "local/arges/boteni/2023/11",
+   "short": "HCL Boteni nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boteni nr. 11/2023",
+   "url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.11-14-APRILIE-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 1,
+     "source_url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.11-14-APRILIE-2023.pdf",
+     "sha256": "01cbca096a4a0d3566e16bcf5491bae872578049bc2515c4ac8262077c9c4da5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--boteni-16-2023",
    "path": "local/arges/boteni/2023/16",
    "short": "HCL Boteni nr. 16/2023",
@@ -29,6 +59,21 @@
      "units": 1,
      "source_url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.17-19-IULIE-2023.pdf",
      "sha256": "ef29a84aedcafe3b6e316e89da0354f906ac56b8da0d0dad0441a62f77cf4599"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--boteni-20-2023",
+   "path": "local/arges/boteni/2023/20",
+   "short": "HCL Boteni nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boteni nr. 20/2023",
+   "url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.20-22-AUGUST-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-22",
+     "units": 1,
+     "source_url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.20-22-AUGUST-2023.pdf",
+     "sha256": "0f90fee1d34a3c971582757e2987197bc0d1fcaa4597fd0f62fa58c56518cbb0"
     }
    ]
   },

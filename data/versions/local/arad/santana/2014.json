@@ -3,6 +3,141 @@
  "shard": "local/arad/santana/2014",
  "acts": [
   {
+   "slug": "hcl-arad--santana-105-2014",
+   "path": "local/arad/santana/2014/105",
+   "short": "HCL Sântana nr. 105/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 105/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0105_2014_07_15.pdf",
+     "sha256": "4a56a9fa294464a6d97913749aca80e9c8fc09f25066f257db451d4a27399d4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-107-2014",
+   "path": "local/arad/santana/2014/107",
+   "short": "HCL Sântana nr. 107/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 107/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0107_2014_07_15.pdf",
+     "sha256": "9c3aa1d862b311e82319f5ab7889cf9166700ac69b443e5b19c6b9f5a0de377c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-108-2014",
+   "path": "local/arad/santana/2014/108",
+   "short": "HCL Sântana nr. 108/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 108/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0108_2014_07_15.pdf",
+     "sha256": "74b0fd02d3a96f09b38c68436815a171bcbc1ed3fa45de79e6eaa23e68792e10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-133-2014",
+   "path": "local/arad/santana/2014/133",
+   "short": "HCL Sântana nr. 133/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 133/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0133_2014_09_25.pdf",
+     "sha256": "132ecaba60bedb30d8efbc1ab75c691ba70d1875e0b47563ce24c9bb4a0bade8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-135-2014",
+   "path": "local/arad/santana/2014/135",
+   "short": "HCL Sântana nr. 135/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 135/2014 PRIVIND PRELUAREA BUNURILOR MATERIALE/ECHIPAMENT MIINMIPSETRERMUELPAOBAIFLLIATPCIELEOIRARILIOEOMRBAANINRETBEDARITRNI/EEIsCITBNIUSAPCDEAECTTIL,OOFRGAARISTAUTIPLCLAGATEAN,I,DREALLAAL corysILruL vLnOClrAnL tA,L ORASULUT SANTANA AVAND iN - - a - ARInedsfrteietruasttaiidloenrrs.Pp5ue4bc4li0iac1leit1aD9te.e0cn8or.n.2lc00e5rn47tra8t1e23Isn.0i s9Rt.2iet0lua1tt4iiei viInuptiecrreinufaetAcioltenuxalualeindr",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=262",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0135_2014_09_25.pdf",
+     "sha256": "d167943f6fed1c9fd3d47bf80b0fd6d634e2be1228891c897607f2227d2138f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-136-2014",
+   "path": "local/arad/santana/2014/136",
+   "short": "HCL Sântana nr. 136/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 136/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0136_2014_09_25.pdf",
+     "sha256": "eefaa552396bc0928a52764fe3f474502837e1c352a0c17883fcba9561980e38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-32-2014",
+   "path": "local/arad/santana/2014/32",
+   "short": "HCL Sântana nr. 32/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 32/2014 PRIVIND APROBAREA CUANTUMULUI COTIZATIEI ORASULUI SANTANA IN CADRUL ASOCIATIEI DE DEZVOLTARE INTERCOMUNITARA. SISTEM INTEGRAT DE GESTIONARE A DESEURILOR SI A PROIECTULUI DE BUGET PRIVIND VENITURILE SI CHELTUIELILE ASOCIATIEI PENTRU ANUL 20T4 CONSILIUL LOCAL AL ORASULUI SANTANA Avind in vedere :",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=273",
+   "versions": [
+    {
+     "from": "2014-03-25",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0032_2014_03_25.pdf",
+     "sha256": "1070948d034475b90f82222db7994f55e3427dc65d3c4ac26d334b62d82ba8d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-78-2014",
+   "path": "local/arad/santana/2014/78",
+   "short": "HCL Sântana nr. 78/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 78/2014 privind aprobarea ordinei de zi a sedintei extraordinare CONSILruL LOCAL AL ORASULUI SANTANA, AvAnd in vedere : I Prevederile art. 43 alin. din Legea 21512001 privind administralia publicd locald, republicata., cu modifi cdrile si completirile ulterioare In temeiul art.45 alin. 1 din Legea nr.215l2001,legea administraliei publice locale,republicati,cu modificirile si completdrile ulterioare, HorAR",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=264",
+   "versions": [
+    {
+     "from": "2014-06-03",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0078_2014_06_03.pdf",
+     "sha256": "68f64fe95fd6f1ea1194d84057e4573959e56d4074d83b7ba640dd47e19e8f6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-92-2014",
+   "path": "local/arad/santana/2014/92",
+   "short": "HCL Sântana nr. 92/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 92/2014 privind desemnarea presetlintelui tle sedinta LIUL LOCAL AL ORASULUI SANTANA, in vedere : privind desemnarea pregedintelui de gedinli stabilitd de Consiliul local; jt]^j: jl 3':ccc'iiao,rulti,:rall\":e\"l3ao\"c1curs,tai*j'm:4tc*^e5o1o:mgrad:i1\"pilafi::lni:tec.t.r.ti-e?drl'igril,e1iulide1laisn0umi-lctLe0eoen.r1migtoue,arpaurleeiyn,tdlirr\".ei2lterrl5ud.u/ne2clg0atlie0eop1narr,oiaobrl2e.a1ag\"5rrereeta2c",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=263",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0092_2014_07_15.pdf",
+     "sha256": "1c3de4e86c14f49acfa971666ac6109e91c8596b12ab3251e6d8563955212169"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-95-2014",
    "path": "local/arad/santana/2014/95",
    "short": "HCL Sântana nr. 95/2014",

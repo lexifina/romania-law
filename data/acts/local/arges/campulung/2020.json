@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-arges--campulung-5-2020",
+"path": "local/arges/campulung/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 5/2020 cu privire la aprobare modificare art. 3 din Hotărârea Consiliului Local al Municipiului Câmpulung nr. 36 din 25.04.2019 referitor la extindere sistem de distribuție a gazelor naturale în Municipiul Câmpulung pe strada Șoseaua Națională și aprobarea indicatorilor tehnico-economici ai investiției",
+"short": "HCL Câmpulung nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--campulung-6-2020",
 "path": "local/arges/campulung/2020/6",
 "kind": "local",
@@ -566,6 +588,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 28/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020 al S.C",
 "short": "HCL Câmpulung nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-29-2020",
+"path": "local/arges/campulung/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 29/2020 cu privire la modificarea anexei nr. 1 la Contractul de delegarea gestiunii prin concesiune a serviciuiui de utilitate publică de întreținere, administrare și exploatare a piețelor agroalimentare și târgului din Municipiul Câmpulung nr. 6483 din 25.02.2011",
+"short": "HCL Câmpulung nr. 29/2020",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,

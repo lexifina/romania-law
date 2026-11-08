@@ -3,6 +3,72 @@
 "shard": "local/arges/babana/2018",
 "acts": [
 {
+"slug": "hcl-arges--babana-2-2018",
+"path": "local/arges/babana/2018/2",
+"kind": "local",
+"year": "2018",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 2/2018 PRIVIND APROBAREA CALENDARULUI CULTURAL-ARTISTIC PE ANUL 20I8 Consiliul Local al comunei Babana, judetul Arges, intrunit in sedinta ordinara din data de 18.01.2018 Avand in vedere : - expunerea de motive si proiectul de hotarare; - in baza referatului nr.129/09.01.2018 intocmit de bibliotecarul comunei,privind aprobarea Calendarului Cultural-Artistic pe anul 201g - avand in vedere necesitatea desf",
+"short": "HCL Băbana nr. 2/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-18",
+"latest": "2018-01-18",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--babana-31-2018",
+"path": "local/arges/babana/2018/31",
+"kind": "local",
+"year": "2018",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 31/2018 pentru cuplurile care au implinit 50 si 60 de ani de casatorie",
+"short": "HCL Băbana nr. 31/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-06-28",
+"latest": "2018-06-28",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--babana-32-2018",
+"path": "local/arges/babana/2018/32",
+"kind": "local",
+"year": "2018",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 32/2018 Privind aprobarea Planului de Masuri Multianual de Gestionare a Deseurilor reciclabile provenite de la populatie si agentii economici in Localitatea Babana",
+"short": "HCL Băbana nr. 32/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-06-28",
+"latest": "2018-06-28",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--babana-33-2018",
 "path": "local/arges/babana/2018/33",
 "kind": "local",
@@ -22,6 +88,204 @@
 "council_name": "Consiliul Local al Comunei Băbana",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arges--babana-36-2018",
+"path": "local/arges/babana/2018/36",
+"kind": "local",
+"year": "2018",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 36/2018 pentru folosire statii maxi - taxi",
+"short": "HCL Băbana nr. 36/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-07-10",
+"latest": "2018-07-10",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--babana-42-2018",
+"path": "local/arges/babana/2018/42",
+"kind": "local",
+"year": "2018",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 42/2018 privind necesitatea achizitionarii si montarii unui hiidrant in incinta Scolii Gimnaziale Babana - art.13. alin(f)si lit.(g)din Legea3OT/2006 privind Apararea lmpotriva lncendiilor. - avizele comisiilor de specialitate -in temeiul dispozitiilor art.36 alin.1. din Legea 21.5/2001 privind administratia publica locala republicata, cu modificarile si complectarile ulterioare, cu modificarile si comple",
+"short": "HCL Băbana nr. 42/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-09-20",
+"latest": "2018-09-20",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--babana-43-2018",
+"path": "local/arges/babana/2018/43",
+"kind": "local",
+"year": "2018",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 43/2018 pentru autoutilitara IVECO DALLY",
+"short": "HCL Băbana nr. 43/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-09-20",
+"latest": "2018-09-20",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--babana-44-2018",
+"path": "local/arges/babana/2018/44",
+"kind": "local",
+"year": "2018",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 44/2018 privind uorAnAREA NR' 44t20'09'20r8 judetul Arges rectificarea;;;;iffiocal al comunei Babana, Consiliul Local al comunei Babana' jud' Arges intrunit in Eedinta ordinara din data de 20.09.2018 Av6nd in vedere: -referatulnr.3Tt4log.o1.20l8intocmitdecompartimentulContabilitatedincadrul Primariei Babana; --_LeAginevaitze2um?l Jefa;i0vuoxrr6aapbrtri.li3vai6nl dcdio.nfminLisaeiengiieeaal.e-prnpurii.b-ii",
+"short": "HCL Băbana nr. 44/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-09-20",
+"latest": "2018-09-20",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--babana-48-2018",
+"path": "local/arges/babana/2018/48",
+"kind": "local",
+"year": "2018",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 48/2018 pentru servicii de colectivare - transport a deseurilor",
+"short": "HCL Băbana nr. 48/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-10-25",
+"latest": "2018-10-25",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--babana-50-2018",
+"path": "local/arges/babana/2018/50",
+"kind": "local",
+"year": "2018",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 50/2018 Privind rectificarea Bugetului Local al comunei Babana,judetul Arges Consiliul Local al comunei Babana, jud",
+"short": "HCL Băbana nr. 50/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-10-25",
+"latest": "2018-10-25",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--babana-53-2018",
+"path": "local/arges/babana/2018/53",
+"kind": "local",
+"year": "2018",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 53/2018 privind aprobarea consumului lunarde carburanli pentru vehiculele gi utilajele care deservesc",
+"short": "HCL Băbana nr. 53/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-22",
+"latest": "2018-11-22",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--babana-63-2018",
+"path": "local/arges/babana/2018/63",
+"kind": "local",
+"year": "2018",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 63/2018 pentru solutionare cereri divort",
+"short": "HCL Băbana nr. 63/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-16",
+"latest": "2018-12-16",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--babana-65-2018",
+"path": "local/arges/babana/2018/65",
+"kind": "local",
+"year": "2018",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 65/2018 Privind anularea creantelor fiscale datorate si neachitate de debitori aflate in sold la data de 3L.L2.2OL8 de pana la 40 de lei. consiliul Local al comunei Babana, jud",
+"short": "HCL Băbana nr. 65/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-16",
+"latest": "2018-12-16",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,126 @@
  "shard": "local/arad/nadlac/2010",
  "acts": [
   {
+   "slug": "hcl-arad--nadlac-1-2010",
+   "path": "local/arad/nadlac/2010/1",
+   "short": "HCL Nădlac nr. 1/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 1/2010 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local Nădlac din data de 12.01.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-01-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_1_-_2010.pdf",
+     "sha256": "2f027d7d1a75fc6b312d11067a4760ec717d17a73ffce962167451eac429e8c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-100-2010",
+   "path": "local/arad/nadlac/2010/100",
+   "short": "HCL Nădlac nr. 100/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 100/2010 privind alegerea Consiliului de Administraţie la Clubul Sportiv „Victoria” Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iunie/hot_100_-_2010.pdf",
+     "sha256": "060e360d4612610c19da44a180bc882a4ed17026ae0f5624bc25377fac390296"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-101-2010",
+   "path": "local/arad/nadlac/2010/101",
+   "short": "HCL Nădlac nr. 101/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 101/2010 privind respingerea sesizării Instituţiei Prefectului- judeţul Arad, Direcţia Controlului Legalităţii Actelor, Juridic, Relaţii Publice şi Secretariat – Compartiment Controlul Legalităţii Actelor şi Contencios nr.2746/IV/C1/8/04.06.2010, înregistrată la primăria oraşu",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iunie/hot_101_-_2010.pdf",
+     "sha256": "933e62146bcb559c4b91bc8d877a179a0e349b1281199b359e12e75f08e93ad1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-102-2010",
+   "path": "local/arad/nadlac/2010/102",
+   "short": "HCL Nădlac nr. 102/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 102/2010 privind aprobarea trecerii în proprietatea privată a oraşului Nădlac a terenului în suprafaţă de 3744 mp, parcela nr.top.300259 ( număr vechi 12309/2/1), evidenţiată în CF nr.300259 Nădlac ( provenită din conversia pe hârtie a CF nr.1985 Nădlac ), precum şi emiterea a",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iunie/hot_102_-_2010.pdf",
+     "sha256": "c5492a40b1899b341470e14ca17c6a79d20b68ee956d577e392e7b60c0199d26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-103-2010",
+   "path": "local/arad/nadlac/2010/103",
+   "short": "HCL Nădlac nr. 103/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 103/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iunie/hot_103_-_2010.pdf",
+     "sha256": "cf0bb3e1a312e7fcf8d805877e1d65e29df72743412207d889208f548d7b1a65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-104-2010",
+   "path": "local/arad/nadlac/2010/104",
+   "short": "HCL Nădlac nr. 104/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 104/2010 privind aprobarea vânzării terenului în suprafaţă de 953 mp, parcela cu nr. top.13691/17, evidenţiată în CF nr.302043 Nădlac ( provenită din conversia pe hârtie a CF nr.2201 Nădlac ), teren situat în oraşul Nădlac, str. G",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iunie/hot_104_-_2010.pdf",
+     "sha256": "223b7052420480dbbdf86e2368b1a80df59f8701a16c3ecdc3ade0d9fb7e2bcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-105-2010",
+   "path": "local/arad/nadlac/2010/105",
+   "short": "HCL Nădlac nr. 105/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 105/2010 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 29.07.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iulie/hot_105_-_2010.pdf",
+     "sha256": "d714d639351015444f4f0e85777d3841e54fc78db436f1713ec4cf86d1e2d142"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-106-2010",
+   "path": "local/arad/nadlac/2010/106",
+   "short": "HCL Nădlac nr. 106/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 106/2010 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 29.06.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iulie/hot_106_-_2010.pdf",
+     "sha256": "dfb4a0293a4a882d96bacd06d1f1bea62f8630ff6010ce34a188afbdf0c47809"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-107-2010",
    "path": "local/arad/nadlac/2010/107",
    "short": "HCL Nădlac nr. 107/2010",
@@ -18,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-108-2010",
+   "path": "local/arad/nadlac/2010/108",
+   "short": "HCL Nădlac nr. 108/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 108/2010 privind aprobarea participării Consiliului Local Nădlac în calitate de co-partener în cadrul programului „Biblionet- lumea în biblioteca mea”, precum şi cofinanţarea costurilor aferente acestuia",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iulie/hot_108_-_2010.pdf",
+     "sha256": "8e1c58891a998783cc756f396aa6b2b80f964d3323eda94ad11eaff36ab2583a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-109-2010",
+   "path": "local/arad/nadlac/2010/109",
+   "short": "HCL Nădlac nr. 109/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 109/2010 privind aprobarea măsurilor de remediere a neregulilor în domeniul apărării împotriva incendiilor constatate la nivelul unităţii administrativ teritoriale Nădlac, în semestrul I al anului 2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iulie/hot_109_-_2010.pdf",
+     "sha256": "930862aa2520e3be71e560f2bd063513da8f6327e086e5a12e6a5e388c43eac8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-110-2010",
    "path": "local/arad/nadlac/2010/110",
    "short": "HCL Nădlac nr. 110/2010",
@@ -29,6 +179,651 @@
      "units": 5,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iulie/hot_110_-_2010.pdf",
      "sha256": "77db1537f26e2a6c7ba4d51c8ef94f5dfee977a4b15acc10cfcae1b6955f9ae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-111-2010",
+   "path": "local/arad/nadlac/2010/111",
+   "short": "HCL Nădlac nr. 111/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 111/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iulie/hot_111_-_2010.pdf",
+     "sha256": "2a644916ab549bf6fcde84a2d59b28597cfa21752120b46e5a44abd890821af6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-112-2010",
+   "path": "local/arad/nadlac/2010/112",
+   "short": "HCL Nădlac nr. 112/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 112/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iulie/hot_112_-_2010.pdf",
+     "sha256": "ecec2c2474157b221492f41cfc20b008d7a3f28ba02904eba583e3c9a03a3d50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-113-2010",
+   "path": "local/arad/nadlac/2010/113",
+   "short": "HCL Nădlac nr. 113/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 113/2010 privind aprobarea parcelării imobilului situat în oraşul Nădlac, str. G. Enescu, nr.74, evidenţiat în CF nr.301900 Nădlac, parcela nr. cad.1175, în suprafaţă de 1242 mpdin acte, suprafaţă măsurată- 1262 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iulie/hot_113_-_2010.pdf",
+     "sha256": "7bbac6b9a11008465d3117909ef5cbacb72fd630a5081af645b9d69223f0cde3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-116-2010",
+   "path": "local/arad/nadlac/2010/116",
+   "short": "HCL Nădlac nr. 116/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 116/2010 privind aprobarea preţului local al energiei termice facturată populaţiei, precum şi a subvenţiei unitare asigurată de autoritatea administraţiei publice locale pentru energia termică furnizată populaţiei în sistem centralizat, precum şi aprobarea preţului local pentr",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iulie/hot_116_-_2010.pdf",
+     "sha256": "2fe5287266079ac5a7ce730081479a8adcb62010dd5ccdba5ed141c4ef1ab451"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-117-2010",
+   "path": "local/arad/nadlac/2010/117",
+   "short": "HCL Nădlac nr. 117/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 117/2010 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 13.08.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-08-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/August/hot_117_-_2010.pdf",
+     "sha256": "632583091db54c7454e68ceba6edf7f7589904e28ae311581794df8525de5b6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-118-2010",
+   "path": "local/arad/nadlac/2010/118",
+   "short": "HCL Nădlac nr. 118/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 118/2010 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 29.07.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-08-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/August/hot_118_-_2010.pdf",
+     "sha256": "a3bef17ebe4f8c357b3a9f0ea637b9971e582df4e5819728ffbaa01c08282cce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-119-2010",
+   "path": "local/arad/nadlac/2010/119",
+   "short": "HCL Nădlac nr. 119/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 119/2010 privind modificarea organigramei şi a statului de funcţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-08-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/August/hot_119_-_2010.pdf",
+     "sha256": "08aa68d81eb3552962c8f99b8f8ed9f7a3b99ced5e8ce4de06e5f968486d8f92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-12-2010",
+   "path": "local/arad/nadlac/2010/12",
+   "short": "HCL Nădlac nr. 12/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 12/2010 privind stabilirea unor criterii de analiză a cererilor de acordare a ajutorului pentru încălzirea locuinţei pentru anul 2010, depuse de categorii de familii şi persoane singure, altele decât cele beneficiare ale ajutorului social în baza Legii nr. 416/2001, cu modific",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_12_-_2010.pdf",
+     "sha256": "cbcc0f7e3e0cc96b9e115e0e3bc6170175f5262f2d1f7711048aa7b1207f32b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-120-2010",
+   "path": "local/arad/nadlac/2010/120",
+   "short": "HCL Nădlac nr. 120/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 120/2010 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-08-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/August/hot_120_-_2010.pdf",
+     "sha256": "62f6bb209ebee83d8ea87248c104babad89095681f01c6e5e86b96f23a6a5451"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-121-2010",
+   "path": "local/arad/nadlac/2010/121",
+   "short": "HCL Nădlac nr. 121/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 121/2010 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 21.09.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Septembrie/hot_121_-_2010.pdf",
+     "sha256": "b71560f764103f85bcfd1f0e7187dd9561754e119012b37789901950a795835b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-122-2010",
+   "path": "local/arad/nadlac/2010/122",
+   "short": "HCL Nădlac nr. 122/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 122/2010 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 13.08.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Septembrie/hot_122_-_2010.pdf",
+     "sha256": "8e46afc940551a2230ccd18f185fcc9b0ea315c6590b020a6f34467ab00e8ae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-123-2010",
+   "path": "local/arad/nadlac/2010/123",
+   "short": "HCL Nădlac nr. 123/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 123/2010 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Septembrie/hot_123_-_2010.pdf",
+     "sha256": "2df31ec424f25a477f16158cc98d9488287f29bfc3d41430fa2ad39893ca7bc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-124-2010",
+   "path": "local/arad/nadlac/2010/124",
+   "short": "HCL Nădlac nr. 124/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 124/2010 privind aprobarea parcelării imobilului situat în intravilanul oraşului Nădlac, evidenţiat în CF nr.301730 Nădlac, parcela nr. cad.301730, în suprafaţă de 48421 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Septembrie/hot_124_-_2010.pdf",
+     "sha256": "e54ca46ee7013fbba78b708ac6739698e7ecc1f0c862ff9caff5af8ace51b3b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-125-2010",
+   "path": "local/arad/nadlac/2010/125",
+   "short": "HCL Nădlac nr. 125/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 125/2010 privind aprobarea parcelării imobilului situat în intravilanul oraşului Nădlac, evidenţiat în CF nr.301718 Nădlac, parcela nr. cad.301718, în suprafaţă de 160.778 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Septembrie/hot_125_-_2010.pdf",
+     "sha256": "abe9891e8c870bb0b5cecc81c1623d4e0b808741cda61280ce2e5133c590cc33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-126-2010",
+   "path": "local/arad/nadlac/2010/126",
+   "short": "HCL Nădlac nr. 126/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 126/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Septembrie/hot_126_-_2010.pdf",
+     "sha256": "6b41cadcee7508301954bd6e1ce7af26aee30632bda38a565ad2e2e4211b8e3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-127-2010",
+   "path": "local/arad/nadlac/2010/127",
+   "short": "HCL Nădlac nr. 127/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 127/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Septembrie/hot_127_-_2010.pdf",
+     "sha256": "8d8bc2156768e82cec550098828731c33dc94fd74a0a1ff7299e08f9629e6b59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-129-2010",
+   "path": "local/arad/nadlac/2010/129",
+   "short": "HCL Nădlac nr. 129/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 129/2010 privind radierea dreptului de folosinţă din CF nr.300088 Nădlac ( provenită din conversia pe hârtie a CF nr.1566 Nădlac ), parcela nr. top.2793, 2794",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Septembrie/hot_129_-_2010.pdf",
+     "sha256": "b734c831fb23ea29be00a437e7c2ba21f9e2dd50cdbc9cb73569d9cae0ccdb17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-130-2010",
+   "path": "local/arad/nadlac/2010/130",
+   "short": "HCL Nădlac nr. 130/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 130/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Septembrie/hot_130_-_2010.pdf",
+     "sha256": "534d44565c1543009169dbbd17a98ec048bc27089d3b1f4f8cb797d7ef0f57b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-131-2010",
+   "path": "local/arad/nadlac/2010/131",
+   "short": "HCL Nădlac nr. 131/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 131/2010 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-10-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Octombrie/hot_131_-_2010.pdf",
+     "sha256": "dba98890daf7d1e31f0e0fa1e870959888e31d69a0180d8f2fd28b587ce131d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-132-2010",
+   "path": "local/arad/nadlac/2010/132",
+   "short": "HCL Nădlac nr. 132/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 132/2010 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 05.10.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-10-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Octombrie/hot_132_-_2010.pdf",
+     "sha256": "aa5355a82b7528265ab1de0de766ec9609e31697e5e6ef7f996d4991dcd3fb83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-133-2010",
+   "path": "local/arad/nadlac/2010/133",
+   "short": "HCL Nădlac nr. 133/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 133/2010 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 21.09.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-10-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Octombrie/hot_133_-_2010.pdf",
+     "sha256": "68eab670165f40943c89e0ade97eb0107f95ce79390c6b98279f7f4b3784b1f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-134-2010",
+   "path": "local/arad/nadlac/2010/134",
+   "short": "HCL Nădlac nr. 134/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 134/2010 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-10-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Octombrie/hot_134_-_2010.pdf",
+     "sha256": "88609210dd0bf47e279dc27e8e8e9544959235f7852069b282c66eedf2bca35e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-135-2010",
+   "path": "local/arad/nadlac/2010/135",
+   "short": "HCL Nădlac nr. 135/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 135/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-10-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Octombrie/hot_135_-_2010.pdf",
+     "sha256": "1dae9c7dcb4169479c395061d56731583395122f88720c13efae93560eade3fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-136-2010",
+   "path": "local/arad/nadlac/2010/136",
+   "short": "HCL Nădlac nr. 136/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 136/2010 privind modificarea statului de funcţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-10-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Octombrie/hot_136_-_2010.pdf",
+     "sha256": "3429de9747230cc6395f010e2727d5bd190b49cc0199c3e2c9d97416e53e7852"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-137-2010",
+   "path": "local/arad/nadlac/2010/137",
+   "short": "HCL Nădlac nr. 137/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 137/2010 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 24.11.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Noiembrie/hot_137_-_2010.pdf",
+     "sha256": "c5a560c0c27591ef755c69968fc7e94c1185c10eb4c9035a7a3ec9d5ca6dc5dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-138-2010",
+   "path": "local/arad/nadlac/2010/138",
+   "short": "HCL Nădlac nr. 138/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 138/2010 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 05.10.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Noiembrie/hot_138_-_2010.pdf",
+     "sha256": "c9560ead7d9cd2c97f4383ed8812a09033c3f7b0cc96bf247815a8627b516b94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-139-2010",
+   "path": "local/arad/nadlac/2010/139",
+   "short": "HCL Nădlac nr. 139/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 139/2010 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Noiembrie/hot_139_-_2010.pdf",
+     "sha256": "557b433a6bd7bd9306b8eea477d02973152b298e8d2a21de625e46f30b9ed01c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-143-2010",
+   "path": "local/arad/nadlac/2010/143",
+   "short": "HCL Nădlac nr. 143/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 143/2010 privind aprobarea cererii comunei Pilu de a deveni acţionar la S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Noiembrie/hot_143_-_2010.pdf",
+     "sha256": "0d3db5a9c8dca5e6272f10b3eb58e98216cd9a1e5c2d8862a4c16853dbbdd1ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-144-2010",
+   "path": "local/arad/nadlac/2010/144",
+   "short": "HCL Nădlac nr. 144/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 144/2010 privind aprobarea vânzării prin licitaţie publică a parcelei nr. top. 13691/45, evidenţiată în CF nr. 302448 Nădlac (provenită din conversia de pe hârtie a CF nr. 2201 Nădlac), în suprafaţă de 756 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Noiembrie/hot_144_-_2010.pdf",
+     "sha256": "ce41fa39d609dd13e756df46634d70fff44e2bfb672a5179fae5d54f8308149c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-145-2010",
+   "path": "local/arad/nadlac/2010/145",
+   "short": "HCL Nădlac nr. 145/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 145/2010 privind aprobarea vânzării prin licitaţie publică a parcelelor nr. top. 2793, 2794, evidenţiate în CF nr.300088 Nădlac ( provenită din conversia de pe hârtie a CF nr. 1556 Nădlac), în suprafaţă totală de 1567 mp Consiliul local al oraşului Nădlac, întrunit în şedinţa",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Noiembrie/hot_145_-_2010.pdf",
+     "sha256": "cb4947aeb676cc79723b5923a660b7b89a8faa5ec3c8e6f1654e30941c9ca5e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-146-2010",
+   "path": "local/arad/nadlac/2010/146",
+   "short": "HCL Nădlac nr. 146/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 146/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Noiembrie/hot_146_-_2010.pdf",
+     "sha256": "d9871457fd559a5578cf7e77183898507219c3276a3c913622a49dd3e9fefaa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-147-2010",
+   "path": "local/arad/nadlac/2010/147",
+   "short": "HCL Nădlac nr. 147/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 147/2010 privind aprobarea Studiului de fezabilitate pentru obiectivul – Construire drum de legătură Csanadpalota- Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Noiembrie/hot_147_-_2010.pdf",
+     "sha256": "2de3f19975bda438a2f5e253b857c1f2ca4f2552ade3b285d579d4cf3b7020e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-148-2010",
+   "path": "local/arad/nadlac/2010/148",
+   "short": "HCL Nădlac nr. 148/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 148/2010 privind aprobarea completării inventarului terenurilor din domeniul privat al oraşului Nădlac, care se pot atribui în baza Legii nr. 15/2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Noiembrie/hot_148_-_2010.pdf",
+     "sha256": "2b94baad27d4dcc28cbb35a50ceb831cb28d5f544233fad41593f9134a9e3474"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-15-2010",
+   "path": "local/arad/nadlac/2010/15",
+   "short": "HCL Nădlac nr. 15/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 15/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_15_-_2010.pdf",
+     "sha256": "c3ff41b5629c6b7576c8c5505da2c86b465e6c8198cb3c73c90f50ecae528d08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-150-2010",
+   "path": "local/arad/nadlac/2010/150",
+   "short": "HCL Nădlac nr. 150/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 150/2010 privind aprobarea prelungirii, la cerere, a contractelor de închiriere, încheiate în baza Hotărârii Consiliului Local Nădlac nr. 56/30.03.2004, referitor la folosinţa unor terenuri proprietatea Statului Român şi proprietatea privată a oraşului, terenuri ocupate de căt",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Noiembrie/hot_150_-_2010.pdf",
+     "sha256": "6f0bf9b7d21eb5fb310207ec9edd96f6ec8aaacc84d38da7810009cbeeb01f70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-151-2010",
+   "path": "local/arad/nadlac/2010/151",
+   "short": "HCL Nădlac nr. 151/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 151/2010 privind emiterea acordului referitor la acceptarea ofertei, condiţiile exproprierii şi solicitarea consemnării despăgubirilor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Noiembrie/hot_151_-_2010.pdf",
+     "sha256": "9a636ffa70c1a21b92eb99862e774fea36173c1123798db20e0540d82a6e1066"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-156-2010",
+   "path": "local/arad/nadlac/2010/156",
+   "short": "HCL Nădlac nr. 156/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 156/2010 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local Nădlac din data de 15.12.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_156_-_2010.pdf",
+     "sha256": "56e4f2288fb64ef39a67a16bd570a5f7b04d71bca4e6ac16cb74fdf56a44be0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-157-2010",
+   "path": "local/arad/nadlac/2010/157",
+   "short": "HCL Nădlac nr. 157/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 157/2010 privind aprobarea procesului verbal al şedinţei extraordinare a Consiliului local Nădlac din data de 07.12.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_157_-_2010.pdf",
+     "sha256": "25ac2e8b61853e71957a99100a6db79ab3f72335d0027bd93c9910b1bb051018"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-158-2010",
+   "path": "local/arad/nadlac/2010/158",
+   "short": "HCL Nădlac nr. 158/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 158/2010 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_158_-_2010.pdf",
+     "sha256": "c9cd7b9d2f39a72643013a03c0e372d48b4e5899de4b076ab8bd6edee3d6a42a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-159-2010",
+   "path": "local/arad/nadlac/2010/159",
+   "short": "HCL Nădlac nr. 159/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 159/2010 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 27.12.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_159_-_2010.pdf",
+     "sha256": "bcc95e61f53f1674569154adad8ace1a982268013545edd5193b700ac5dd49a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-16-2010",
+   "path": "local/arad/nadlac/2010/16",
+   "short": "HCL Nădlac nr. 16/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 16/2010 privind alegerea Consiliului de Administraţie la Clubul Sportiv „Victoria” Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_16_-_2010.pdf",
+     "sha256": "838e37592b1774007afb02c192dde053e24a512ec1d04321408601c945c60e5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-160-2010",
+   "path": "local/arad/nadlac/2010/160",
+   "short": "HCL Nădlac nr. 160/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 160/2010 privind aprobarea procesului verbal al şedinţei extraordinare a Consiliului local Nădlac din data de 15.12.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_160_-_2010.pdf",
+     "sha256": "a708f21f30f11df34a4ef133205c2248bcb4f9439cd5a5fab690d668fe44bffa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-161-2010",
+   "path": "local/arad/nadlac/2010/161",
+   "short": "HCL Nădlac nr. 161/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 161/2010 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_161_-_2010.pdf",
+     "sha256": "1e87787c11fe68b9a3435074654caf88952dec9bd29ed7f75915f6d5e71a1b2a"
     }
    ]
   },
@@ -78,6 +873,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-165-2010",
+   "path": "local/arad/nadlac/2010/165",
+   "short": "HCL Nădlac nr. 165/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 165/2010 privind radierea dreptului de administrare operativă a imobilelor evidenţiate în CF nr.301741Nădlac şi CF nr. 301742 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_165_-_2010.pdf",
+     "sha256": "c923c1e3e71f6d2d3abbe9faf140d6cc38f22d1179ed655577c5faeb6f19dec4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-166-2010",
    "path": "local/arad/nadlac/2010/166",
    "short": "HCL Nădlac nr. 166/2010",
@@ -89,6 +899,51 @@
      "units": 4,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_166_-_2010.pdf",
      "sha256": "266e6baea3df44f6b4a5c2a601e8c9711ee066d893956ba2e87f9ef9390d204f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-167-2010",
+   "path": "local/arad/nadlac/2010/167",
+   "short": "HCL Nădlac nr. 167/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 167/2010 privind aprobarea preţului local al energiei termice facturată populaţiei, precum şi a subvenţiei unitare asigurată de autoritatea administraţiei publice locale pentru energia termică furnizată populaţiei în sistem centralizat, precum şi aprobarea preţului local pentr",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_167_-_2010.pdf",
+     "sha256": "a6d9074ba4cd640339072532f3e0c0ff6ff3bb3808d9669f47dead42eca1dc8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-168-2010",
+   "path": "local/arad/nadlac/2010/168",
+   "short": "HCL Nădlac nr. 168/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 168/2010 privind reorganizarea Poliţiei Comunitare în structură de Poliţie Locală Nădlac– ca serviciu în cadrul aparatului de specialitate al primarului oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_168_-_2010.pdf",
+     "sha256": "56fea1584fdfa2a929f4876f26d1d8215e35e38db54736d08fe9aa27c8cab53a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-169-2010",
+   "path": "local/arad/nadlac/2010/169",
+   "short": "HCL Nădlac nr. 169/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 169/2010 privind modificarea inventarului domeniului public al oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_169_-_2010.pdf",
+     "sha256": "3a47f93e253a2e50e3934ba08478dcc75cee4260cefaff6aed456c412aad5234"
     }
    ]
   },
@@ -108,6 +963,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-171-2010",
+   "path": "local/arad/nadlac/2010/171",
+   "short": "HCL Nădlac nr. 171/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 171/2010 privind aprobarea participarii la ,,Programul privind instalarea sistemelor de încălzire care utilizează energie regenerabilă, inclusiv înlocuirea sau completarea sistemelor clasice de încălzire — beneficiari unităţi administrativ-teritoriale, instituţii publice şi un",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_171_-_2010.pdf",
+     "sha256": "c2c4ac068d874d010a2b9fb6d37db41236f63d9ec0c7607a58c366a15c6ae61f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-172-2010",
+   "path": "local/arad/nadlac/2010/172",
+   "short": "HCL Nădlac nr. 172/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 172/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_172_-_2010.pdf",
+     "sha256": "1e9ec42c86ac865c93a0d072a7702a45a9e7c0d2c1bd6ade10ead93a6a8ead90"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-173-2010",
    "path": "local/arad/nadlac/2010/173",
    "short": "HCL Nădlac nr. 173/2010",
@@ -119,6 +1004,81 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_173_-_2010.pdf",
      "sha256": "5a99f59dbff1d22cd351b6820d7349bb62c3127ecf7618c61d696b48ea58ac4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-174-2010",
+   "path": "local/arad/nadlac/2010/174",
+   "short": "HCL Nădlac nr. 174/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 174/2010 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local Nădlac din data de 29.12.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_174_-_2010.pdf",
+     "sha256": "8d6959ee4af250ec1cd5843a0fa989dbb0632bfe48eb147af62294f2d4ac46f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-175-2010",
+   "path": "local/arad/nadlac/2010/175",
+   "short": "HCL Nădlac nr. 175/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 175/2010 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_175_-_2010.pdf",
+     "sha256": "97b44f706a681d79ee6efd6a44875d97ba0bb9441d3d37021d95f335732ed458"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-18-2010",
+   "path": "local/arad/nadlac/2010/18",
+   "short": "HCL Nădlac nr. 18/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 18/2010 privind modificarea caietului de sarcini referitor la vânzarea prin licitaţie publică a terenului în suprafaţă de 12.813 mp, evidenţiat în CF nr.9889 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_18_-_2010.pdf",
+     "sha256": "1ae7cbc4c047fcef3048d498db19a2a3ff861efeaef5ab1d415de9016e348834"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-19-2010",
+   "path": "local/arad/nadlac/2010/19",
+   "short": "HCL Nădlac nr. 19/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 19/2010 privind aprobarea modificării destinaţiei apartamentului nr. 1 din imobilul situat în oraşul Nădlac, str. G. Coşbuc, nr. 62",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_19_-_2010.pdf",
+     "sha256": "b4fdf9201da2158a75d051eff267fd79dec98d4020a437e8ae9654965a43ce30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-2-2010",
+   "path": "local/arad/nadlac/2010/2",
+   "short": "HCL Nădlac nr. 2/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 2/2010 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 18.12.2009",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-01-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_2_-_2010.pdf",
+     "sha256": "9675f1b696cd8927e2f8682326d9803962deaac7c73eb895c381310f7d91f99d"
     }
    ]
   },
@@ -138,6 +1098,201 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-21-2010",
+   "path": "local/arad/nadlac/2010/21",
+   "short": "HCL Nădlac nr. 21/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 21/2010 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local Nădlac din data de 05.02.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_21_-_2010.pdf",
+     "sha256": "4ca74eb395fbc2e102b967b4c6ceb9e279f9a6a3f2e90a33dec495ba45b2fa73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-22-2010",
+   "path": "local/arad/nadlac/2010/22",
+   "short": "HCL Nădlac nr. 22/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 22/2010 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 19.01.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_22_-_2010.pdf",
+     "sha256": "60d6fb621352bcf4e4498c19c3d0100c4836a863a3f5f812ca7a666528cc5c78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-23-2010",
+   "path": "local/arad/nadlac/2010/23",
+   "short": "HCL Nădlac nr. 23/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 23/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-02-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_23_-_2010.pdf",
+     "sha256": "da8386d83a187190b8f3c8a0268d86bf72c8acdc5acba234fe9e896835ccc904"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-24-2010",
+   "path": "local/arad/nadlac/2010/24",
+   "short": "HCL Nădlac nr. 24/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 24/2010 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 23.02.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_24_-_2010.pdf",
+     "sha256": "8d56bcbbf763ef39c6c76816c91da3aeea867584d43905c25ca19d2187fae902"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-26-2010",
+   "path": "local/arad/nadlac/2010/26",
+   "short": "HCL Nădlac nr. 26/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 26/2010 privind aprobarea Regulamentului de organizare şi funcţionare a Serviciului voluntar pentru situaţii de urgenţă Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_26_-_2010.pdf",
+     "sha256": "b1a98a4ee5d8a21cbbbcffdeb8fdeb57ae2dcb3c33a79ae30464d872df63b7e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-27-2010",
+   "path": "local/arad/nadlac/2010/27",
+   "short": "HCL Nădlac nr. 27/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 27/2010 privind acordul Consiliului local Nădlac privind transferul drepturilor si obligatiilor rezultând dintr-un contract",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_27_-_2010.pdf",
+     "sha256": "3857eec1ee3b71fa083a28f2ba4cadad6ffb1beeb4f0235559567e443d5fa6a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-28-2010",
+   "path": "local/arad/nadlac/2010/28",
+   "short": "HCL Nădlac nr. 28/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 28/2010 privind aprobarea trecerii în proprietatea privată a oraşului Nădlac a terenului în suprafaţă de 2422 mp, parcela nr.top.12308/1/1/2, evidenţiată în CF nr.301808 Nădlac ( provenită din conversia pe hârtie a CF nr.9488 Nădlac )",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_28_-_2010.pdf",
+     "sha256": "5125c83539548d137bfb3c402ddf41d8720c47a911df536f646e9d938e8bb16b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-29-2010",
+   "path": "local/arad/nadlac/2010/29",
+   "short": "HCL Nădlac nr. 29/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 29/2010 privind aprobarea trecerii în domeniul public al oraşului Nădlac a unor terenuri proprietatea Statului Român",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_29_-_2010.pdf",
+     "sha256": "80fab661181d2bddde02b925b855b88e045d7f67de341c1a6488358123332a7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-3-2010",
+   "path": "local/arad/nadlac/2010/3",
+   "short": "HCL Nădlac nr. 3/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 3/2010 privind aprobarea procesului verbal al şedinţei extraordinare a Consiliului local Nădlac din data de 22.12.2009",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-01-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_3_-_2010.pdf",
+     "sha256": "7e7c1bbf3895342afb61db83a4b27b708a426e9c095b73f5b1313412a47da652"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-30-2010",
+   "path": "local/arad/nadlac/2010/30",
+   "short": "HCL Nădlac nr. 30/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 30/2010 privind radierea dreptului de folosinţă asupra parcelei nr. cad.301725, nr. top. 895/1/1, 895/2, 896, 898/2, evidenţiată în CF nr.301725 Nădlac ( provenită din conversia pe hârtie a CF nr.9043 Nădlac )",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_30_-_2010.pdf",
+     "sha256": "491f134ceda202e1ab9bd41826ba7e733da49df40ec02fb071a5ef61b7527a42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-31-2010",
+   "path": "local/arad/nadlac/2010/31",
+   "short": "HCL Nădlac nr. 31/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 31/2010 privind modificarea şi completarea inventarului bunurilor care aparţin domeniului public al oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_31_-_2010.pdf",
+     "sha256": "8c6dcf62241edd09b66e34649b9774fc0a8802e1edc8afecd81f4e79e5c8624f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-33-2010",
+   "path": "local/arad/nadlac/2010/33",
+   "short": "HCL Nădlac nr. 33/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 33/2010 privind aprobarea programului local multianual aferent obiectivelor de investiţii in vederea creşterii performanţei energetice a blocurilor de locuinţe din oraşul Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_33_-_2010.pdf",
+     "sha256": "5211e315c60fd01db947e0c1b7cacd8118f9bdcdb5d0d52fc24acf2486d65d38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-34-2010",
+   "path": "local/arad/nadlac/2010/34",
+   "short": "HCL Nădlac nr. 34/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 34/2010 privind aprobarea depozitării deşeurilor menajere colectate de pe raza localităţilor Pecica şi Semlac la deponeul de deşeuri din oraşul Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_34_-_2010.pdf",
+     "sha256": "d616be38b436c78f431ec8aefc91845f621e4f7ebf9cf61040976588ccba6a56"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-35-2010",
    "path": "local/arad/nadlac/2010/35",
    "short": "HCL Nădlac nr. 35/2010",
@@ -149,6 +1304,501 @@
      "units": 8,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_35_-_2010.pdf",
      "sha256": "02bb0b785d58bec33d5748d435c28af486d93af935df95aa335d74c352bae9a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-36-2010",
+   "path": "local/arad/nadlac/2010/36",
+   "short": "HCL Nădlac nr. 36/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 36/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_36_-_2010.pdf",
+     "sha256": "8218aa13b38f4547807d30ee18523f245fe4ed0565b4d72c2a1fbe5d9099d3b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-37-2010",
+   "path": "local/arad/nadlac/2010/37",
+   "short": "HCL Nădlac nr. 37/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 37/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_37_-_2010.pdf",
+     "sha256": "1e4b1104bb8a00cae61efea60a84eea222c6857b200374b61425bd67acc72c89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-38-2010",
+   "path": "local/arad/nadlac/2010/38",
+   "short": "HCL Nădlac nr. 38/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 38/2010 privind aprobarea vânzării cu drept de preemţiune a suprafeţei de 198 mp din parcela nr. cad. 300244, nr. top. 1844/1, evidenţiată în CF nr.300244 Nădlac ( provenită din conversia pe hârtie a CF nr.3535 Nădlac )",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_38_-_2010.pdf",
+     "sha256": "e4444a6eb02749ea91681a431fdce971354c7d4c51c2610ce76a97daf5e8552a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-39-2010",
+   "path": "local/arad/nadlac/2010/39",
+   "short": "HCL Nădlac nr. 39/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 39/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_39_-_2010.pdf",
+     "sha256": "c1874c3b28cbd03aacc31d099a4f0af7d2e8248ac8a5dd4461ff77c249a0b946"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-40-2010",
+   "path": "local/arad/nadlac/2010/40",
+   "short": "HCL Nădlac nr. 40/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 40/2010 privind reducerea activităţii Serviciului Public Edilitar Gospodăresc",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_40_-_2010.pdf",
+     "sha256": "f8f1bb281c82d1b5945117f879f6dec3ec73cd532cd15111632b5ec2eefcade4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-41-2010",
+   "path": "local/arad/nadlac/2010/41",
+   "short": "HCL Nădlac nr. 41/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 41/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_41_-_2010.pdf",
+     "sha256": "4198a16228dba2c5322c82d958da9ca5c7c3e2e7dd874ceeac1eab182ead5e3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-42-2010",
+   "path": "local/arad/nadlac/2010/42",
+   "short": "HCL Nădlac nr. 42/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 42/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_42_-_2010.pdf",
+     "sha256": "6c834634a956e9ce5a1fc246544a58125606a67f317ac2fc2bd74bcebda92dd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-43-2010",
+   "path": "local/arad/nadlac/2010/43",
+   "short": "HCL Nădlac nr. 43/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 43/2010 privind modificarea componenţei comisiei de validare a mandatelor consilierilor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_43_-_2010.pdf",
+     "sha256": "07962ead79c1365c01448b8b328ae0e5b5220c82d70063e4e99c700d1a90fc7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-44-2010",
+   "path": "local/arad/nadlac/2010/44",
+   "short": "HCL Nădlac nr. 44/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 44/2010 privind validarea mandatului de consilier al d-lui Mokoş Pavel",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_44_-_2010.pdf",
+     "sha256": "7fb06ba1613e6b182c55c5552d913c341c90fc8242c2a78b9b11bdbe1e79dcdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-46-2010",
+   "path": "local/arad/nadlac/2010/46",
+   "short": "HCL Nădlac nr. 46/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 46/2010 privind reorganizarea comisiilor de specialitate pe principalele domenii de activitate",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_46_-_2010.pdf",
+     "sha256": "df05fb809d9f71097cbe2a03306f639e379b64330d433a20264470b105abf5d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-47-2010",
+   "path": "local/arad/nadlac/2010/47",
+   "short": "HCL Nădlac nr. 47/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 47/2010 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_47_-_2010.pdf",
+     "sha256": "1c936a82fffaaf7ea2e6ea79e405417607727c4abaf863a05ace3cf9e06517a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-48-2010",
+   "path": "local/arad/nadlac/2010/48",
+   "short": "HCL Nădlac nr. 48/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 48/2010 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 12.03.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_48_-_2010.pdf",
+     "sha256": "994301ea30f27fdd63d69862abab022daed948db67c3841133e53db84142cc66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-49-2010",
+   "path": "local/arad/nadlac/2010/49",
+   "short": "HCL Nădlac nr. 49/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 49/2010 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 23.02.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_49_-_2010.pdf",
+     "sha256": "bc8e5cf61650c727fe53be97f764269153b6c18801d78e885b9813055760bd90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-5-2010",
+   "path": "local/arad/nadlac/2010/5",
+   "short": "HCL Nădlac nr. 5/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 5/2010 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 19.01.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_5_-_2010.pdf",
+     "sha256": "c72f6d2aab6a9a9b0c97236c0192f91005a8cd327d09ec0fe3f76adbb6773c4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-50-2010",
+   "path": "local/arad/nadlac/2010/50",
+   "short": "HCL Nădlac nr. 50/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 50/2010 privind aprobarea organigramei, a statului de funcţii, numărului de personal din cadrul aparatului de specialitate al primarului, ale instituţiilor şi serviciilor publice din subordinea Consiliului Local Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_50_-_2010.pdf",
+     "sha256": "ea0d201a6d3cac8c8d2171dbf0cf332e37819ec5a070f2041823aa88daea9d1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-51-2010",
+   "path": "local/arad/nadlac/2010/51",
+   "short": "HCL Nădlac nr. 51/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 51/2010 privind aprobarea indemnizaţiilor personalului voluntar din cadrul Serviciului voluntar pentru Situaţii de Urgenţă Nădlac pe anul 2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_51_-_2010.pdf",
+     "sha256": "56927c88cc08ea447633ddd6a1a698c443f6485f68c31b05fb6d0a298566b1b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-52-2010",
+   "path": "local/arad/nadlac/2010/52",
+   "short": "HCL Nădlac nr. 52/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 52/2010 privind aprobarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_52_-_2010.pdf",
+     "sha256": "7259d0285170bcf00987d19ab650432cc4992e74a91fdad78dda666b5d972af2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-54-2010",
+   "path": "local/arad/nadlac/2010/54",
+   "short": "HCL Nădlac nr. 54/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 54/2010 privind modificarea Actului Constitutiv şi Statutului Asociaţiei de dezvoltare intercomunitară Apă Canalizare Judeţul Arad, la care Oraşul Nădlac este membru asociat",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_54_-_2010.pdf",
+     "sha256": "09b82cd8bd9765c8d0c93fd7b07d3438398cc046311817356442159ad83ce3db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-55-2010",
+   "path": "local/arad/nadlac/2010/55",
+   "short": "HCL Nădlac nr. 55/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 55/2010 privind modificarea Hotărârii Consiliului Local Nădlac nr.38/23.02.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_55_-_2010.pdf",
+     "sha256": "540d089cb32c3466f92800d3067d60279d146bc61f11c7fa30b69cb168b3763c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-56-2010",
+   "path": "local/arad/nadlac/2010/56",
+   "short": "HCL Nădlac nr. 56/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 56/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_56_-_2010.pdf",
+     "sha256": "e50f4aa459a730976f2b534abf0fbed6a4cad7bb9c61f2f63c1abdb6117903d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-58-2010",
+   "path": "local/arad/nadlac/2010/58",
+   "short": "HCL Nădlac nr. 58/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 58/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_58_-_2010.pdf",
+     "sha256": "6092672c4cbecf8ad28f401fe485428c17bbd27fce516125e389eac91d35e935"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-59-2010",
+   "path": "local/arad/nadlac/2010/59",
+   "short": "HCL Nădlac nr. 59/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 59/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_59_-_2010.pdf",
+     "sha256": "370b83eab8dd5351a4022739637ca02b311708d8f8ae9aa26279fe09b6589bc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-6-2010",
+   "path": "local/arad/nadlac/2010/6",
+   "short": "HCL Nădlac nr. 6/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 6/2010 privind aprobarea procesului verbal al şedinţei extraordinare a Consiliului local Nădlac din data de 12.01.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_6_-_2010.pdf",
+     "sha256": "1bd67b6e1acf515cc4e399510bd935bb06f2ec81b070bfe5bc0006f303c18e94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-60-2010",
+   "path": "local/arad/nadlac/2010/60",
+   "short": "HCL Nădlac nr. 60/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 60/2010 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local Nădlac din data de 30.03.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_60_-_2010.pdf",
+     "sha256": "c54289d4dd9a0c971133e27096fb2a425231c12fb5e0bdaf155a22b551dbd263"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-61-2010",
+   "path": "local/arad/nadlac/2010/61",
+   "short": "HCL Nădlac nr. 61/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 61/2010 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 12.03.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_61_-_2010.pdf",
+     "sha256": "0b9c822b90149718d4654ee72ea9123976a637f192e01551f40e6e2e15b5ccad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-62-2010",
+   "path": "local/arad/nadlac/2010/62",
+   "short": "HCL Nădlac nr. 62/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 62/2010 privind modificarea anexei nr.2 la Hotărârea Consiliului Local Nădlac nr.184/18.12.2009",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_62_-_2010.pdf",
+     "sha256": "f1382dc43028b17900546905d6202e36c4f41e9cf485e6a9b925e6b000e3dd03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-63-2010",
+   "path": "local/arad/nadlac/2010/63",
+   "short": "HCL Nădlac nr. 63/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 63/2010 privind darea în folosinţă gratuită a autovehicolului DACIA 1310 L către Serviciul Centrului de Zi de îngrijire a copiilor Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_63_-_2010.pdf",
+     "sha256": "a9be7deeb730eb94eb126f8d071eac62f1ab3820a5df3f160fd2c6bbec70c93c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-64-2010",
+   "path": "local/arad/nadlac/2010/64",
+   "short": "HCL Nădlac nr. 64/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 64/2010 privind aprobarea rezilierii pe cale amiabilă a contractului de închiriere nr. 5498 din 08.05.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Martie/hot_64_-_2010.pdf",
+     "sha256": "de688289c4855c8369f2231b4ef56edf86bddb5d946712df1b04b07b11c7a239"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-66-2010",
+   "path": "local/arad/nadlac/2010/66",
+   "short": "HCL Nădlac nr. 66/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 66/2010 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 15.04.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Aprilie/hot_66_-_2010.pdf",
+     "sha256": "0742cf90a6a4733366e8af5bf64836aedd99ff674c0258f8dc65d5349326ee86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-67-2010",
+   "path": "local/arad/nadlac/2010/67",
+   "short": "HCL Nădlac nr. 67/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 67/2010 privind aprobarea procesului verbal al şedinţei extraordinare a Consiliului local Nădlac din data de 30.03.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Aprilie/hot_67_-_2010.pdf",
+     "sha256": "1a8928dfcadc5dc235c3ffc7d6e67bd87004e086e2e9361f4d3496796d8436bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-68-2010",
+   "path": "local/arad/nadlac/2010/68",
+   "short": "HCL Nădlac nr. 68/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 68/2010 privind încheierea şi aprobarea exerciţiului bugetar pe anul 2009",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Aprilie/hot_68_-_2010.pdf",
+     "sha256": "00d57c3053882c65db0bc0903d7630c39a1b136ebcdf0f0b124c4e20c213311e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-69-2010",
+   "path": "local/arad/nadlac/2010/69",
+   "short": "HCL Nădlac nr. 69/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 69/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Aprilie/hot_69_-_2010.pdf",
+     "sha256": "c90e2668bef10141ee8d2bd809ddabb1fdaa52de1b940f87312962ce27048d6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-7-2010",
+   "path": "local/arad/nadlac/2010/7",
+   "short": "HCL Nădlac nr. 7/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 7/2010 privind participarea şi aprobarea cofinanţării de 2% a Consiliului Local Nădlac la Programul de Cooperare Transfrontalieră Ungaria- România 2007-2013, Axa Prioritară 2- Întărirea coeziunii sociale şi economice în regiunea de frontieră, domeniul major de intervenţie 2.5 – Co",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_7_-_2010.pdf",
+     "sha256": "e5075362d76e947cb5f1affb7f4f6dca520c63179058664a164f26882beed9a3"
     }
    ]
   },
@@ -183,6 +1833,231 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-72-2010",
+   "path": "local/arad/nadlac/2010/72",
+   "short": "HCL Nădlac nr. 72/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 72/2010 privind aprobarea demarării procedurii de conciliere privind rezilierea contractului de vânzare- cumpărare nr.46/06.02.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Aprilie/hot_72_-_2010.pdf",
+     "sha256": "a4294f0d6ceddc2475f982a71d7019b0cae201ab397fdc11324c17a0a7baa474"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-73-2010",
+   "path": "local/arad/nadlac/2010/73",
+   "short": "HCL Nădlac nr. 73/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 73/2010 privind stabilirea indemnizaţiei de şedinţă care se acordă membrilor Consiliului Local Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Aprilie/hot_73_-_2010.pdf",
+     "sha256": "ac7767907a76ad97ee624ee9bc876602f8db8b7763af7294eb95563d90580bb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-74-2010",
+   "path": "local/arad/nadlac/2010/74",
+   "short": "HCL Nădlac nr. 74/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 74/2010 privind aprobarea trecerii în domeniul public al oraşului Nădlac a unor terenuri proprietatea Statului Român",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Aprilie/hot_74_-_2010.pdf",
+     "sha256": "75ef3a1dcf866ddbb7541b0d688de6e5e52b6e65e76eb563675c761056154b8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-78-2010",
+   "path": "local/arad/nadlac/2010/78",
+   "short": "HCL Nădlac nr. 78/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 78/2010 PRIVIND ACORDAREA SUPLIMENTELOR SALARIALE PENTRU FUNŢIONARII PUBLICI DIN APARATUL DE SPECIALITATE AL PRIMARULUI ORAŞULUI NĂDLAC ŞI A SERVICIILOR ÎNFINŢATE ÎN SUBORDINEA CONSILIULUI LOCAL NĂDLAC",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Aprilie/hot_78_-_2010.pdf",
+     "sha256": "03a1d9438a7147d3a8255ab4c860d749c4dd1a51dbe1502231c3a0e94755ffec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-8-2010",
+   "path": "local/arad/nadlac/2010/8",
+   "short": "HCL Nădlac nr. 8/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 8/2010 privind aprobarea măsurilor de remediere a neregulilor în domeniul apărării împotriva incendiilor constatate la nivelul unităţii administrativ teritoriale a oraşului Nădlac în anul 2009",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_8_-_2010.pdf",
+     "sha256": "3c62bfc7059ad3d3572bc531067b871d3b061f5ea11ea5655dd2cdda69bdeb9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-80-2010",
+   "path": "local/arad/nadlac/2010/80",
+   "short": "HCL Nădlac nr. 80/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 80/2010 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local Nădlac din data de 27.04.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-04-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Aprilie/hot_80_-_2010.pdf",
+     "sha256": "3b737232487257758c56e72b9855ebd599108f336e62900639d3a1b8a9d31cca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-81-2010",
+   "path": "local/arad/nadlac/2010/81",
+   "short": "HCL Nădlac nr. 81/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 81/2010 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 15.04.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-04-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Aprilie/hot_81_-_2010.pdf",
+     "sha256": "e7cf871b3df22b021689b7b7962effc7e57fbf4d3439d2bd8546b8478634da1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-82-2010",
+   "path": "local/arad/nadlac/2010/82",
+   "short": "HCL Nădlac nr. 82/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 82/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Aprilie/hot_82_-_2010.pdf",
+     "sha256": "a443700b1667f7fcfb384f05b935a6afec1dfd7902c2331b6105e8e193e55bb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-83-2010",
+   "path": "local/arad/nadlac/2010/83",
+   "short": "HCL Nădlac nr. 83/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 83/2010 privind aprobarea disponibilizării unor terenuri proprietatea privată a oraşului Nădlac la dispoziţia Comisiei locale pentru stabilirea dreptului de proprietate privată asupra terenurilor Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-04-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Aprilie/hot_83_-_2010.pdf",
+     "sha256": "c14c1825c3e511aa403bfd5e604399555cf5816aea87dcb04e0f66a563b4a54f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-84-2010",
+   "path": "local/arad/nadlac/2010/84",
+   "short": "HCL Nădlac nr. 84/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 84/2010 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 27.05.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Mai/hot_84_-_2010.pdf",
+     "sha256": "1ffccd6c8ce5c60b5174a945259c5ca7b175f08963c87d995ca838347cfdbc84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-85-2010",
+   "path": "local/arad/nadlac/2010/85",
+   "short": "HCL Nădlac nr. 85/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 85/2010 privind aprobarea procesului verbal al şedinţei extraordinare a Consiliului local Nădlac din data de 27.04.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Mai/hot_85_-_2010.pdf",
+     "sha256": "592c79da97554c317d87cfc3d0928f7687101408480444dbb5b03807c715a548"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-86-2010",
+   "path": "local/arad/nadlac/2010/86",
+   "short": "HCL Nădlac nr. 86/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 86/2010 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Mai/hot_86_-_2010.pdf",
+     "sha256": "9d59cda4e4917871449e511a498a628024ce11c900617b07a9227b78bb898359"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-87-2010",
+   "path": "local/arad/nadlac/2010/87",
+   "short": "HCL Nădlac nr. 87/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 87/2010 privind modificarea Art.3. (1) din Hotărârea Consiliului Local Nădlac nr.35/23.02.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Mai/hot_87_-_2010.pdf",
+     "sha256": "90a118de3113ef9b8a210c256e990d430a10ed64bddceeb2c7b6eb89df2a313f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-88-2010",
+   "path": "local/arad/nadlac/2010/88",
+   "short": "HCL Nădlac nr. 88/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 88/2010 privind apartamentarea imobilului situat în oraşul Nădlac, str. 1 Decembrie, nr.24, parcela nr. cad.1177, evidenţiată în CF nr.301683 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Mai/hot_88_-_2010.pdf",
+     "sha256": "bf983200af8967a3568c2609228018a43d244700615f92363c804a0e10d05a6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-89-2010",
+   "path": "local/arad/nadlac/2010/89",
+   "short": "HCL Nădlac nr. 89/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 89/2010 privind aprobarea asocierii Oraşului Nădlac- România cu Oraşul Novy Bydzov- Cehia",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Mai/hot_89_-_2010.pdf",
+     "sha256": "892938009c5df4ca3d060e9645be02622e0c6ac4d58f601075ddb86c4f059f36"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-9-2010",
    "path": "local/arad/nadlac/2010/9",
    "short": "HCL Nădlac nr. 9/2010",
@@ -194,6 +2069,156 @@
      "units": 4,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_9_-_2010.pdf",
      "sha256": "3f3f142169fcfebee9a1cd360ebde42a3be2792b1ea09a7fe76adbce599cf2d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-90-2010",
+   "path": "local/arad/nadlac/2010/90",
+   "short": "HCL Nădlac nr. 90/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 90/2010 privind aprobarea Regulamentului de organizare şi funcţionare a echipajului mobil de urgenţă, reanimare Smurd Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Mai/hot_90_-_2010.pdf",
+     "sha256": "e891066920de8bf22c3fceae28c074436c94c0d69ee6092091a1fb274590c17c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-91-2010",
+   "path": "local/arad/nadlac/2010/91",
+   "short": "HCL Nădlac nr. 91/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 91/2010 privind aprobarea vânzării terenului în suprafaţă de 954 mp, parcela nr. top. 13691/25, evidenţiată în CF nr.301867 Nădlac (provenită din conversia de pe hârtie a CF nr. 8981 Nădlac), teren situat în oraşul Nădlac, str. G",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Mai/hot_91_-_2010.pdf",
+     "sha256": "ce91813f591b111657ecb63068ef66b011cdb612392fb9133ab8a021c4724e60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-92-2010",
+   "path": "local/arad/nadlac/2010/92",
+   "short": "HCL Nădlac nr. 92/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 92/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Mai/hot_92_-_2010.pdf",
+     "sha256": "745e7deb0e8ad1ec6681edf9d53da7236f3c23d285b2ced2fa20f6c5d6f28d41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-93-2010",
+   "path": "local/arad/nadlac/2010/93",
+   "short": "HCL Nădlac nr. 93/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 93/2010 privind modificarea obiectului contractului de comodat nr. 5092/28.06.2005",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Mai/hot_93_-_2010.pdf",
+     "sha256": "b1c9ae0821d5b7f92490307d73d9b17e3d76b947a6598a9633b946ead3bf8a59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-94-2010",
+   "path": "local/arad/nadlac/2010/94",
+   "short": "HCL Nădlac nr. 94/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 94/2010 privind aprobarea inventarului terenurilor din domeniul privat al oraşului Nădlac, care se pot atribui în baza Legii nr. 15/2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Mai/hot_94_-_2010.pdf",
+     "sha256": "ca6c76e55ebb866f59ae6faf90f173a1d38dad9eaa260ed4d53fe273f48737e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-95-2010",
+   "path": "local/arad/nadlac/2010/95",
+   "short": "HCL Nădlac nr. 95/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 95/2010 privind stabilirea destinaţiei unor terenuri proprietatea privată a Oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Mai/hot_95_-_2010.pdf",
+     "sha256": "cdaa5f3a79c20ec093c54d79ddae8426a7b7e3f62d600c40b83b395bad7c56e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-96-2010",
+   "path": "local/arad/nadlac/2010/96",
+   "short": "HCL Nădlac nr. 96/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 96/2010 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iunie/hot_96_-_2010.pdf",
+     "sha256": "37012d635c6563ff45e13be6e288809fa5c7d85af41b6815a595ee1d06eed9c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-97-2010",
+   "path": "local/arad/nadlac/2010/97",
+   "short": "HCL Nădlac nr. 97/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 97/2010 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Nădlac din data de 29.06.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iunie/hot_97_-_2010.pdf",
+     "sha256": "a7f759855581122a9995c9c6a2a58b26966251eb5e5c7942c66f0ad596a7df03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-98-2010",
+   "path": "local/arad/nadlac/2010/98",
+   "short": "HCL Nădlac nr. 98/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 98/2010 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 27.05.2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iunie/hot_98_-_2010.pdf",
+     "sha256": "3a735cb5238014ac914a9e080115513c0380a785c7e16d72f57c91f65801ceb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-99-2010",
+   "path": "local/arad/nadlac/2010/99",
+   "short": "HCL Nădlac nr. 99/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 99/2010 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iunie/hot_99_-_2010.pdf",
+     "sha256": "ada90a836ed990765f975950770bd60eba520f6282f7857558296070f2dde12d"
     }
    ]
   }

@@ -3,6 +3,291 @@
  "shard": "local/arad/nadlac/2008",
  "acts": [
   {
+   "slug": "hcl-arad--nadlac-1-2008",
+   "path": "local/arad/nadlac/2008/1",
+   "short": "HCL Nădlac nr. 1/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 1/2008 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 08.01.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-01-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_1_-_2008.pdf",
+     "sha256": "0b29e62ea2f01e1c7297aad4503d8f128f6faa6a3f0a747e6ead7520d1397175"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-10-2008",
+   "path": "local/arad/nadlac/2008/10",
+   "short": "HCL Nădlac nr. 10/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 10/2008 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 18.01.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_10_-_2008.pdf",
+     "sha256": "9db71532f290c9a3f159a22069ad313465f4069aac8ab7df00a2de81a53cddc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-100-2008",
+   "path": "local/arad/nadlac/2008/100",
+   "short": "HCL Nădlac nr. 100/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 100/2008 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_100_-_2008.pdf",
+     "sha256": "69f43e5b2da64c50e1652ca8c8f2f2fb1c887df087210b670f7c87ee0c073fd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-102-2008",
+   "path": "local/arad/nadlac/2008/102",
+   "short": "HCL Nădlac nr. 102/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 102/2008 privind aprobarea vânzării terenului în suprafaţă de 915 mp, parcela cu nr. cadastral 1088, evidenţiată în CF nr.10477 Nădlac, teren situat în Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_102_-_2008.pdf",
+     "sha256": "9ec3a15200cd45d3794be42eb60b0a0cb10e28c02642d603f3e31e60195a528b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-103-2008",
+   "path": "local/arad/nadlac/2008/103",
+   "short": "HCL Nădlac nr. 103/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 103/2008 privind parcelarea terenului în suprafaţă totală de 7893 mp, parcela nr. top. 11759, evidenţiată în CF nr. 2201 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_103_-_2008.pdf",
+     "sha256": "1666102335d2666bfadff2325b474edeb9d9cfd587450b0afe3638c1705f74bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-104-2008",
+   "path": "local/arad/nadlac/2008/104",
+   "short": "HCL Nădlac nr. 104/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 104/2008 privind unificarea terenului situat în oraşul Nădlac, parcelele nr. top. 11470, 11471, evidenţiate în CF nr.2201 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_104_-_2008.pdf",
+     "sha256": "dc04a345d343d0a763535bd213e369e609a099ad2fa9b71fe2ee7a315dc510d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-105-2008",
+   "path": "local/arad/nadlac/2008/105",
+   "short": "HCL Nădlac nr. 105/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 105/2008 privind reprezentarea intereselor capitalului oraşului Nădlac la agenţii economici la care Consiliul Local Nădlac este acţionar",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_105_-_2008.pdf",
+     "sha256": "0cb24cf12cb35ff387920a80081e8810f79d24b0276f38fb3a0fa6faf6731549"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-106-2008",
+   "path": "local/arad/nadlac/2008/106",
+   "short": "HCL Nădlac nr. 106/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 106/2008 privind modificarea Regulamentului de organizare şi funcţionare a Consiliului Local al oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_106_-_2008.pdf",
+     "sha256": "979d5c8c12f5857f4df7c722e8b7cc78ad7c03ddc35ede263a3064a18b1b3b89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-107-2008",
+   "path": "local/arad/nadlac/2008/107",
+   "short": "HCL Nădlac nr. 107/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 107/2008 privind aprobarea asocierii Oraşului Nădlac cu Oraşul Jelsava- Slovacia",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_107_-_2008.pdf",
+     "sha256": "a0625a78f422309b4c5ee125c377c0639dcfdf1fa00a7141f913a8f55b8188d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-108-2008",
+   "path": "local/arad/nadlac/2008/108",
+   "short": "HCL Nădlac nr. 108/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 108/2008 privind aprobarea asocierii Oraşului Nădlac cu Oraşul Vychodna- Slovacia",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_108_-_2008.pdf",
+     "sha256": "1e2e500d849c9c06c9bea28beeca41b45cca686bcac146b6f5bbebf7f7d4d0e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-109-2008",
+   "path": "local/arad/nadlac/2008/109",
+   "short": "HCL Nădlac nr. 109/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 109/2008 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 31.07.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_109_-_2008.pdf",
+     "sha256": "9d5679e3844861878a331e973708d46fe6c6a4b455809577bc8c6ba8cf21d0e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-11-2008",
+   "path": "local/arad/nadlac/2008/11",
+   "short": "HCL Nădlac nr. 11/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 11/2008 privind acordul Consiliului Local Nădlac referitor la sediul Asociaţiei Grădinarilor din Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_11_-_2008.pdf",
+     "sha256": "b7c5d632b2a0965d4607c5b07e12ec0ab41d52a6db694e42efc3a77e6b1bea27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-110-2008",
+   "path": "local/arad/nadlac/2008/110",
+   "short": "HCL Nădlac nr. 110/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 110/2008 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului local Nădlac din data de 08.07.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_110_-_2008.pdf",
+     "sha256": "61241479b1a9d594fe202e9bcf13bc504aefa6e7521a03315a6e0e630d448893"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-111-2008",
+   "path": "local/arad/nadlac/2008/111",
+   "short": "HCL Nădlac nr. 111/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 111/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_111_-_2008.pdf",
+     "sha256": "20ef413a7a3a0322b485fee66d6287b0371bb46a1df0ac4c8325524ab37c6066"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-112-2008",
+   "path": "local/arad/nadlac/2008/112",
+   "short": "HCL Nădlac nr. 112/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 112/2008 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 07.08.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_112_-_2008.pdf",
+     "sha256": "f33b7bd01ef9aa9513a34f68e45fb485f8f483b3170fbb445f4cbd2bcf3ae860"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-113-2008",
+   "path": "local/arad/nadlac/2008/113",
+   "short": "HCL Nădlac nr. 113/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 113/2008 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 31.07.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_113_-_2008.pdf",
+     "sha256": "da7c3557b6b5443ee1f3e0ed3fdfdad0e3b3f8c72f19367ec7abffcdc4b2978b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-114-2008",
+   "path": "local/arad/nadlac/2008/114",
+   "short": "HCL Nădlac nr. 114/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 114/2008 privind alegerea Consiliului de Administraţie la Clubul Polisportiv „Victoria” Nădlac şi modificarea prevederilor anexei la Hotărârea Consiliului Local Nădlac nr.112/23.07.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_114_-_2008.pdf",
+     "sha256": "b5d9977ceb9c8564f9e40676512930dea34335cf838284968bd28d965815bdfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-115-2008",
+   "path": "local/arad/nadlac/2008/115",
+   "short": "HCL Nădlac nr. 115/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 115/2008 privind rectificarea anexei nr.1 la Hotărârea Consiliului Local Nădlac nr. 86/29.05.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_115_-_2008.pdf",
+     "sha256": "0a3b035a8fc4f1ee077f51eb9268a74b43dbc8a1100ffa4096065d0a0c6172c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-116-2008",
+   "path": "local/arad/nadlac/2008/116",
+   "short": "HCL Nădlac nr. 116/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 116/2008 privind mandatarea reprezentantului Consiliului Local Nădlac în adunarea generală a acţionarilor S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_116_-_2008.pdf",
+     "sha256": "6bea1b0476ed249610d997e11b5aa094db2ac55cf78d23b9281be509455df8b8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-117-2008",
    "path": "local/arad/nadlac/2008/117",
    "short": "HCL Nădlac nr. 117/2008",
@@ -14,6 +299,171 @@
      "units": 4,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_117_-_2008.pdf",
      "sha256": "ff695fe9c6754a9508a12c65cb7b867f946cfd2ff4daeebce564cacfcf091b16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-118-2008",
+   "path": "local/arad/nadlac/2008/118",
+   "short": "HCL Nădlac nr. 118/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 118/2008 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_118_-_2008.pdf",
+     "sha256": "9344afd95ff249c328651ce865f4468f7d52f46e434d1f9d87f6ab195c46e039"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-119-2008",
+   "path": "local/arad/nadlac/2008/119",
+   "short": "HCL Nădlac nr. 119/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 119/2008 privind aprobarea închirierii prin ofertă publică a terenului aferent construcţiei evidenţiate în CF nr. 9577 Nădlac, din parcela nr. top. 4055/8/2/2/3, în suprafaţă de 224 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_119_-_2008.pdf",
+     "sha256": "50177ea4bf8174d887f539af985817300ac891bd7b3708d76f520a619c4e9d50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-12-2008",
+   "path": "local/arad/nadlac/2008/12",
+   "short": "HCL Nădlac nr. 12/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 12/2008 privind organizarea activităţii de apărare împotriva incendiilor pentru domeniul public şi privat al oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_12_-_2008.pdf",
+     "sha256": "6185e01e8d374cf6fe600891556010e9e96a3dde6644b804fd6cef5108e963da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-120-2008",
+   "path": "local/arad/nadlac/2008/120",
+   "short": "HCL Nădlac nr. 120/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 120/2008 privind aprobarea vânzării terenului în suprafaţă de 901 mp, parcela cu nr. cad. 1092, evidenţiată în CF nr. 10481 Nădlac, teren situat în Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_120_-_2008.pdf",
+     "sha256": "e0765eae893d6d7b876e5ea73a71bfd11735a28ef12e097b1411b7d36f46af96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-121-2008",
+   "path": "local/arad/nadlac/2008/121",
+   "short": "HCL Nădlac nr. 121/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 121/2008 privind aprobarea vânzării terenului în suprafaţă de 908 mp, parcela cu nr. cad. 1089, evidenţiată în CF nr. 10478 Nădlac, teren situat în oraşul Nădlac,str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_121_-_2008.pdf",
+     "sha256": "1168d02e714f9fbbdd4495ec07e81487f765bd4627f545077f39152634dfee40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-122-2008",
+   "path": "local/arad/nadlac/2008/122",
+   "short": "HCL Nădlac nr. 122/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 122/2008 privind aprobarea vânzării terenului în suprafaţă de 894 mp, parcela cu nr. cad. 1093, evidenţiată în CF nr. 10482 Nădlac, teren situat în oraşul Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_122_-_2008.pdf",
+     "sha256": "1ca8e6e88267b6ff55335b58c232a1ca7cc365c19a72d04e3439269460c81c7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-123-2008",
+   "path": "local/arad/nadlac/2008/123",
+   "short": "HCL Nădlac nr. 123/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 123/2008 privind aprobarea vânzării terenului în suprafaţă de 920 mp, parcela cu nr. cad. 1087, evidenţiată în CF nr. 10476 Nădlac, teren situat în oraşul Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_123_-_2008.pdf",
+     "sha256": "950867738365f4927d527d2800413ff3b0b4c25bde728fcc8cb64fb2d6273b7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-124-2008",
+   "path": "local/arad/nadlac/2008/124",
+   "short": "HCL Nădlac nr. 124/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 124/2008 privind aprobarea vânzării terenului în suprafaţă de 1577 mp, parcela cu nr. cad. 1083, evidenţiată în CF nr. 10472 Nădlac, teren situat în oraşul Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_124_-_2008.pdf",
+     "sha256": "5e19340bc109b9ca65098dc72956652f953b2966307ed3e48e0c9728cdc049bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-125-2008",
+   "path": "local/arad/nadlac/2008/125",
+   "short": "HCL Nădlac nr. 125/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 125/2008 privind aprobarea vânzării terenului în suprafaţă de 906 mp, parcela cu nr. cad. 1084, evidenţiată în CF nr. 10473 Nădlac, teren situat pe str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_125_-_2008.pdf",
+     "sha256": "b029ce8f96ca90f0f4ff20cdacadd837d83d9c8d6737382ff3cc5192267d4e3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-126-2008",
+   "path": "local/arad/nadlac/2008/126",
+   "short": "HCL Nădlac nr. 126/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 126/2008 privind aprobarea vânzării terenului în suprafaţă de 888 mp, parcela cu nr. cad. 1094, evidenţiată în CF nr. 10483 Nădlac, teren situat în oraşul Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_126_-_2008.pdf",
+     "sha256": "0a984ea60d5240a8e46925e34cf7af2a40a88ad8d41d66369153ebb4ebf2f4ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-127-2008",
+   "path": "local/arad/nadlac/2008/127",
+   "short": "HCL Nădlac nr. 127/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 127/2008 privind aprobarea vânzării terenului în suprafaţă de 396 mp, parcela cu nr. top. 13691/83/b, evidenţiată în CF nr. 2201 Nădlac, teren situat în oraşul Nădlac, str. M",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_127_-_2008.pdf",
+     "sha256": "d36a0d68d9bbf91bc390ab1c8f407066cf10226841a8fb86fb47e4be7b1538b3"
     }
    ]
   },
@@ -33,6 +483,606 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-13-2008",
+   "path": "local/arad/nadlac/2008/13",
+   "short": "HCL Nădlac nr. 13/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 13/2008 privind aprobarea planurilor urbanistice de identificare a parcelelor extrafunciare din intravilanul oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_13_-_2008.pdf",
+     "sha256": "8ba70df0e52dfb635838e1a7c73e3e4d02c8550dd48e988f562bcab3a28b16a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-130-2008",
+   "path": "local/arad/nadlac/2008/130",
+   "short": "HCL Nădlac nr. 130/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 130/2008 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 30.08.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_130_-_2008.pdf",
+     "sha256": "8c3c27f4708558a4cc2d1470e75b697a645135581fa019b6dead8e1e08d0f7f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-131-2008",
+   "path": "local/arad/nadlac/2008/131",
+   "short": "HCL Nădlac nr. 131/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 131/2008 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 07.08.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-08-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/August/hot_131_-_2008.pdf",
+     "sha256": "0378dc66d919a65dc84dcac125552e4dd808986e2bdbad597a5f097268d058b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-132-2008",
+   "path": "local/arad/nadlac/2008/132",
+   "short": "HCL Nădlac nr. 132/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 132/2008 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 04.09.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-09-04",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Septembrie/hot_132_-_2008.pdf",
+     "sha256": "e3198e0149be78dad0b833eb0fa180ff300335151efd9a7b3246c6f5717305fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-133-2008",
+   "path": "local/arad/nadlac/2008/133",
+   "short": "HCL Nădlac nr. 133/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 133/2008 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 30.08.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-09-04",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Septembrie/hot_133_-_2008.pdf",
+     "sha256": "2fa7c86d68030eb3101fdc602960bc405d058281418994060389d16c01a0d064"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-134-2008",
+   "path": "local/arad/nadlac/2008/134",
+   "short": "HCL Nădlac nr. 134/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 134/2008 privind aprobarea participării Consiliului Local Nădlac în vederea aplicării Programului Naţional de îmbunătăţire a calităţii mediului prin realizarea de spaţii verzi în localităţi",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-09-04",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Septembrie/hot_134_-_2008.pdf",
+     "sha256": "46c8425d102eb1c291064d1ce1d8c685b565fda71ba2c36f77331874468fcf26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-135-2008",
+   "path": "local/arad/nadlac/2008/135",
+   "short": "HCL Nădlac nr. 135/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 135/2008 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 11.09.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-09-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Septembrie/hot_135_-_2008.pdf",
+     "sha256": "d9c207652a97841b58cd803374fe5e1e3e6d3cf01437d50aa6e335e176a1b9e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-136-2008",
+   "path": "local/arad/nadlac/2008/136",
+   "short": "HCL Nădlac nr. 136/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 136/2008 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 04.09.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-09-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Septembrie/hot_136_-_2008.pdf",
+     "sha256": "c8c6c54baef165c50d87f4ec850c74b3b9bc022e1aa481bd175996e411f631de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-137-2008",
+   "path": "local/arad/nadlac/2008/137",
+   "short": "HCL Nădlac nr. 137/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 137/2008 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-09-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Septembrie/hot_137_-_2008.pdf",
+     "sha256": "03cb091551ee884510f3c1495994dcb01f597a0f0940a2416a9c7704c100264a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-138-2008",
+   "path": "local/arad/nadlac/2008/138",
+   "short": "HCL Nădlac nr. 138/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 138/2008 privind modificarea organigramei Consiliului Local, a numărului de personal al aparatului de specialitate al primarului, precum şi a statului de funcţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-09-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Septembrie/hot_138_-_2008.pdf",
+     "sha256": "5d1dea6d5765fcaa0d72ed4901c20e683b108754d03a4d9d2009b784205e5cf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-139-2008",
+   "path": "local/arad/nadlac/2008/139",
+   "short": "HCL Nădlac nr. 139/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 139/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-09-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Septembrie/hot_139_-_2008.pdf",
+     "sha256": "10e22b3dca52d4385988558d0bd89bb87451d467a1b451b9f07c85028574edd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-14-2008",
+   "path": "local/arad/nadlac/2008/14",
+   "short": "HCL Nădlac nr. 14/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 14/2008 privind aprobarea trecerii în domeniul public al oraşului Nădlac a terenului în suprafaţă de 35.583 mp, tarla 106, P 556/2 nr. cad.795, evidenţiat în CF nr.10253 nedefinitivă- Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_14_-_2008.pdf",
+     "sha256": "c978a0abfcbcd9dd53504151507b75c6934968b983848ae489367d38baf48fb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-140-2008",
+   "path": "local/arad/nadlac/2008/140",
+   "short": "HCL Nădlac nr. 140/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 140/2008 privind aprobarea măsurilor de îmbunătăţire a activităţii de apărare împotriva incendiilor în oraşul Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-09-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Septembrie/hot_140_-_2008.pdf",
+     "sha256": "9379b648c10758a99e35416f87df117a4901dd4dbc248d8a286d5ebfeab3e179"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-141-2008",
+   "path": "local/arad/nadlac/2008/141",
+   "short": "HCL Nădlac nr. 141/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 141/2008 privind obligaţiile şi răspunderile care revin instituţiilor publice, agenţilor economici şi cetăţenilor pentru buna gospodărire a localităţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-09-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Septembrie/hot_141_-_2008.pdf",
+     "sha256": "f314620e65bf98bb445eb6b206e90f2e3d51c00160645302b934a8ac33f4a125"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-142-2008",
+   "path": "local/arad/nadlac/2008/142",
+   "short": "HCL Nădlac nr. 142/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 142/2008 privind aprobarea trecerii din domeniul Statului Român în domeniul public al Oraşului Nădlac a terenului în suprafaţă de 1126 mp, parcelele nr. topo. 3001/1, 3001/2, 3001/3, evidenţiate în CF nr.8984 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-09-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Septembrie/hot_142_-_2008.pdf",
+     "sha256": "d1df23d1d48ad36d049344b1135b324cff21800b7016e6ed0fc020fa18e77ef5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-143-2008",
+   "path": "local/arad/nadlac/2008/143",
+   "short": "HCL Nădlac nr. 143/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 143/2008 privind unificarea terenului situat în oraşul Nădlac, parcelele nr. top. 2464, 2465/1, evidenţiate în CF nr.9254 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-09-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Septembrie/hot_143_-_2008.pdf",
+     "sha256": "d9bccb514cb4e64ba6312657d127fb641ca10135235face645bf49a3ff6819d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-144-2008",
+   "path": "local/arad/nadlac/2008/144",
+   "short": "HCL Nădlac nr. 144/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 144/2008 privind parcelarea terenului în suprafaţă totală de 4760 mp, parcela nr. top.1, evidenţiată în CF nr.2201 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-09-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Septembrie/hot_144_-_2008.pdf",
+     "sha256": "664f56b23901d978171cb06538675f046160739d3a3b13f120121e9ec541a27d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-145-2008",
+   "path": "local/arad/nadlac/2008/145",
+   "short": "HCL Nădlac nr. 145/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 145/2008 privind trecerea în proprietatea privată a Oraşului Nădlac a suprafeţei de 170 mp din parcela nr. topo. 2420, evidenţiată în CF nr.1278 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-09-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Septembrie/hot_145_-_2008.pdf",
+     "sha256": "6cff2e541564e8bd503640b273d1b811403cbc342fc66ef9d383abe86255dfb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-146-2008",
+   "path": "local/arad/nadlac/2008/146",
+   "short": "HCL Nădlac nr. 146/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 146/2008 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_146_-_2008.pdf",
+     "sha256": "b472615119eac51a56daf7f73ce71e49a3fa31de0348617292e5f79357a60ad3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-147-2008",
+   "path": "local/arad/nadlac/2008/147",
+   "short": "HCL Nădlac nr. 147/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 147/2008 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 07.10.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_147_-_2008.pdf",
+     "sha256": "320892f8f0196614829bc5971a6d9c85e15f7cb2b965d924d3375275bcf72006"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-148-2008",
+   "path": "local/arad/nadlac/2008/148",
+   "short": "HCL Nădlac nr. 148/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 148/2008 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 11.09.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_148_-_2008.pdf",
+     "sha256": "614378eaa02ac21a7c714acec8ecc66a5ac0bd3f4a1683c1dcc47c834ab17a58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-149-2008",
+   "path": "local/arad/nadlac/2008/149",
+   "short": "HCL Nădlac nr. 149/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 149/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_149_-_2008.pdf",
+     "sha256": "37b92eaf42f635ab2d021f450a20667a86771aa229a815cf5205fe3c881fb89f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-15-2008",
+   "path": "local/arad/nadlac/2008/15",
+   "short": "HCL Nădlac nr. 15/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 15/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_15_-_2008.pdf",
+     "sha256": "c00a0225565878da0b0bcea74d9f209c243f87f7afc3d588ce8870ddfe7182bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-150-2008",
+   "path": "local/arad/nadlac/2008/150",
+   "short": "HCL Nădlac nr. 150/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 150/2008 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_150_-_2008.pdf",
+     "sha256": "1f7336462cb33708d1dd0e79b4dc32d9627a294b66605eb3caad2f092ad950e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-151-2008",
+   "path": "local/arad/nadlac/2008/151",
+   "short": "HCL Nădlac nr. 151/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 151/2008 privind aprobarea Programului de investiţii care se va realiza în anul 2008 din Fondul de Întreţinere, Înlocuire şi Dezvoltare, precum şi a Contractului de reprezentare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_151_-_2008.pdf",
+     "sha256": "35d427f0deab8f1b39284b4e16a1a3321aa6fd2d87ce871ade6d181dcff68740"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-152-2008",
+   "path": "local/arad/nadlac/2008/152",
+   "short": "HCL Nădlac nr. 152/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 152/2008 privind aprobarea modificării art.3 din Hotărârea Consiliului Local Nădlac nr.119/07.08.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_152_-_2008.pdf",
+     "sha256": "1816894ec133f9142c646bfe47ca9c4f56af5c5f0689601a6c0df3d62d8d2b9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-153-2008",
+   "path": "local/arad/nadlac/2008/153",
+   "short": "HCL Nădlac nr. 153/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 153/2008 privind aprobarea vânzării terenului în suprafaţă de 952 mp, parcela cu nr. cad. 1124, evidenţiat în CF nr. 10515 Nădlac, teren situat în cart",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_153_-_2008.pdf",
+     "sha256": "9158fec0244d82e07d5ed4feee5bbcc70ecb2eee623307e43531ad3c9798f444"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-154-2008",
+   "path": "local/arad/nadlac/2008/154",
+   "short": "HCL Nădlac nr. 154/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 154/2008 privind aprobarea vânzării terenului în suprafaţă de 903 mp, parcela cu nr. cad. 1091, evidenţiat în CF nr. 10480 Nădlac, teren situat în cart",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_154_-_2008.pdf",
+     "sha256": "506848eca33a85417e03ff5bdae86c13453e884aade0b7ac33c80a10d555b9fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-155-2008",
+   "path": "local/arad/nadlac/2008/155",
+   "short": "HCL Nădlac nr. 155/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 155/2008 privind aprobarea vânzării terenului în suprafaţă de 927 mp, parcela cu nr. cad.1120, evidenţiată în CF nr. 10511 Nădlac, teren situat în cart",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_155_-_2008.pdf",
+     "sha256": "1c23999b0ec32d8a78edc9416e6cc20f81ffa5b306458e7389aba6dc31e752af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-156-2008",
+   "path": "local/arad/nadlac/2008/156",
+   "short": "HCL Nădlac nr. 156/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 156/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_156_-_2008.pdf",
+     "sha256": "b3dcfea7a5c4f24912890452d9b24fe827d17ef29cd819ef0a0f3a6a4b93a03e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-157-2008",
+   "path": "local/arad/nadlac/2008/157",
+   "short": "HCL Nădlac nr. 157/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 157/2008 privind aprobarea vânzării terenului în suprafaţă de 972 mp, parcela cu nr. top. 13691/72, evidenţiată în CF nr. 2201 Nădlac, teren situat pe str. G",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_157_-_2008.pdf",
+     "sha256": "033a73be3c8526000d49801cc7fa1ad53769b44740161806697d949f7a9cbc5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-158-2008",
+   "path": "local/arad/nadlac/2008/158",
+   "short": "HCL Nădlac nr. 158/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 158/2008 privind aprobarea închirierii prin licitaţie publică a imobilului (teren), situat în oraşul Nădlac, parcela nr. top. 4055/8/2/2/2, înscrisă în CF nr. 9399 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_158_-_2008.pdf",
+     "sha256": "1abbedf6b927a348bfda44a421126858f5af7762e8679ebc2f12a0ae5d12049c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-159-2008",
+   "path": "local/arad/nadlac/2008/159",
+   "short": "HCL Nădlac nr. 159/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 159/2008 privind stabilirea unor criterii de analiză a cererilor de acordare a ajutorului pentru încălzirea locuinţei pentru sezonul rece 2008-2009, depuse de categorii de familii şi persoane singure , altele decât cele beneficiare ale ajutorului social în baza Legii nr. 416/",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_159_-_2008.pdf",
+     "sha256": "cef155d204ac959a144b9ddd4b0416c489ee1eae8bfbb23e5631c1cd201ae5a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-16-2008",
+   "path": "local/arad/nadlac/2008/16",
+   "short": "HCL Nădlac nr. 16/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 16/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_16_-_2008.pdf",
+     "sha256": "905979741beb94a9abbe2dcd58fe07ecab5f5f0498491554d957131993f7b12f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-160-2008",
+   "path": "local/arad/nadlac/2008/160",
+   "short": "HCL Nădlac nr. 160/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 160/2008 privind aprobarea Planului de ocupare a funcţiilor publice pe anul 2009",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_160_-_2008.pdf",
+     "sha256": "6191a4327daaa54e0ea96e7d3c44e906a84167067230e633c4b37889b6474dfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-161-2008",
+   "path": "local/arad/nadlac/2008/161",
+   "short": "HCL Nădlac nr. 161/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 161/2008 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 28.10.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_161_-_2008.pdf",
+     "sha256": "412d6943edac68a3fe169d1dedbe16e5a6839a0f6a8b9b371219c4460437b71f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-162-2008",
+   "path": "local/arad/nadlac/2008/162",
+   "short": "HCL Nădlac nr. 162/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 162/2008 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 07.10.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_162_-_2008.pdf",
+     "sha256": "0f009b8b38f86251af3b82ea818bbb534987e16d8e29c4ffb23bd5a3de407485"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-164-2008",
+   "path": "local/arad/nadlac/2008/164",
+   "short": "HCL Nădlac nr. 164/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 164/2008 privind aprobarea vânzării cu drept de preemţiune a suprafeţei de 170 mp din parcela nr. topo. 2420, evidenţiată în CF nr.1278 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_164_-_2008.pdf",
+     "sha256": "80dab3973ef9b08b09e4ab1662f85916798385b6da83b4350f74be094d4ef7c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-165-2008",
+   "path": "local/arad/nadlac/2008/165",
+   "short": "HCL Nădlac nr. 165/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 165/2008 privind aprobarea închirierii terenului în suprafaţă de 2920 mp, parcela nr. top. 4055/8/1, evidenţiată în CF nr.9242 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_165_-_2008.pdf",
+     "sha256": "713b05dfbd9053298cfd3b7bfc8ebc39a25fddd75d16321425b4e22520b00d81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-167-2008",
+   "path": "local/arad/nadlac/2008/167",
+   "short": "HCL Nădlac nr. 167/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 167/2008 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_167_-_2008.pdf",
+     "sha256": "3ac6b1b10f35fe2593daf1597268d641f98756abcf6b20a275e75d6ecf48cc3b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-168-2008",
    "path": "local/arad/nadlac/2008/168",
    "short": "HCL Nădlac nr. 168/2008",
@@ -44,6 +1094,426 @@
      "units": 6,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_168_-_2008.pdf",
      "sha256": "64363ed465a39af86d6ea79acdf412b739583f85f8294b657bc314278fc13b9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-169-2008",
+   "path": "local/arad/nadlac/2008/169",
+   "short": "HCL Nădlac nr. 169/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 169/2008 privind stabilirea formei de gestiune a serviciului de transport public local în cadrul unităţii administrativ-teritoriale Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_169_-_2008.pdf",
+     "sha256": "af85473e11183dee406c9acc4c50c2fbbaba2045d61d035219985a9373f32a16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-17-2008",
+   "path": "local/arad/nadlac/2008/17",
+   "short": "HCL Nădlac nr. 17/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 17/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_17_-_2008.pdf",
+     "sha256": "259b86964849b284d9c4c77130c914bf9714c1aba0ff10780bd293ba1031af0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-170-2008",
+   "path": "local/arad/nadlac/2008/170",
+   "short": "HCL Nădlac nr. 170/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 170/2008 privind modificarea organigramei, a numărului de personal al aparatului de specialitate al primarului, al serviciului public voluntar pentru situaţii de urgenţă, precum şi a statului de funcţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_170_-_2008.pdf",
+     "sha256": "5a862b71044a53b1d5bfdeb3af123ce0be5f0fcd7dfee6551467ebb8a5267f9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-171-2008",
+   "path": "local/arad/nadlac/2008/171",
+   "short": "HCL Nădlac nr. 171/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 171/2008 privind aprobarea vânzării terenului în suprafaţă de 849 mp, parcela cu nr. top. 13691/120, evidenţiată în CF nr. 2201 Nădlac, teren situat pe str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_171_-_2008.pdf",
+     "sha256": "ca50518b4547ccd314d5095ca579923fd2a582dcadb5853b27449f86b667ebed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-172-2008",
+   "path": "local/arad/nadlac/2008/172",
+   "short": "HCL Nădlac nr. 172/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 172/2008 privind aprobarea vânzării terenului în suprafaţă de 934 mp, parcela cu nr. cad. 1119, evidenţiată în CF nr. 10510 Nădlac, teren situat pe str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_172_-_2008.pdf",
+     "sha256": "8c2fb6d44a14faac116e74d4da3cf9af3556943f3ee2a040d82667f750dbfbd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-174-2008",
+   "path": "local/arad/nadlac/2008/174",
+   "short": "HCL Nădlac nr. 174/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 174/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_174_-_2008.pdf",
+     "sha256": "9bfaf2472854caa423720c325d92675d8f985e373c4e0a6cd6289cad6f034c72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-175-2008",
+   "path": "local/arad/nadlac/2008/175",
+   "short": "HCL Nădlac nr. 175/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 175/2008 privind acordarea mandatului de reprezentare a Oraşului Nădlac pentru modificarea actului constitutiv şi a statutului pentru „Asociaţia de Dezvoltare Intercomunitară Apă Canalizare Judeţul Arad” şi acceptarea de noi membri",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Octombrie/hot_175_-_2008.pdf",
+     "sha256": "25b8355a757f50670a6473acdca4537e8378e2d10991b72d3c65fd69e31c1ab6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-176-2008",
+   "path": "local/arad/nadlac/2008/176",
+   "short": "HCL Nădlac nr. 176/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 176/2008 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 11.11.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-11-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_176_-_2008.pdf",
+     "sha256": "610e132a4ca639358a05218857d6f78121e0963b4240de0e582c8ebe1dc90b7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-177-2008",
+   "path": "local/arad/nadlac/2008/177",
+   "short": "HCL Nădlac nr. 177/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 177/2008 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 28.10.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-11-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_177_-_2008.pdf",
+     "sha256": "ea61203fe6f22745bf143280e429c333a770fd1658b11d6bf515829f9034ecab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-178-2008",
+   "path": "local/arad/nadlac/2008/178",
+   "short": "HCL Nădlac nr. 178/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 178/2008 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-11-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_178_-_2008.pdf",
+     "sha256": "85e914ddad1c4d8d8339013c42553f8414a83ee0544c4a9f9e7faf179ffbd142"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-179-2008",
+   "path": "local/arad/nadlac/2008/179",
+   "short": "HCL Nădlac nr. 179/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 179/2008 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 21.11.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-11-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_179_-_2008.pdf",
+     "sha256": "cfff3f01645a92583f695c5d26e0582f7d2225cfbcdf865e4ea4c5227a72e8c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-18-2008",
+   "path": "local/arad/nadlac/2008/18",
+   "short": "HCL Nădlac nr. 18/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 18/2008 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 05.02.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_18_-_2008.pdf",
+     "sha256": "74aaab24248a4b2f57cb5f762980b86ed7c2716a680c6709d79b4a1f191006b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-180-2008",
+   "path": "local/arad/nadlac/2008/180",
+   "short": "HCL Nădlac nr. 180/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 180/2008 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 11.11.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-11-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_180_-_2008.pdf",
+     "sha256": "06cf052dc252e58896b64362188d53681c5c33d7b9815cec49e4bedf6f579cb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-181-2008",
+   "path": "local/arad/nadlac/2008/181",
+   "short": "HCL Nădlac nr. 181/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 181/2008 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-11-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_181_-_2008.pdf",
+     "sha256": "5a5e7608e0cdf07392d9bb9b7823765db953914181c9346209aed1e8ee57ff4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-183-2008",
+   "path": "local/arad/nadlac/2008/183",
+   "short": "HCL Nădlac nr. 183/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 183/2008 privind rezilierea pe cale amiabilă a contractului de asociere nr. 2940/24.03.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-11-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_183_-_2008.pdf",
+     "sha256": "3b3027fef5ee88eb4f6fa0e18e008481a173e9de10cd732da4f342dab73d17ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-184-2008",
+   "path": "local/arad/nadlac/2008/184",
+   "short": "HCL Nădlac nr. 184/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 184/2008 privind aprobarea închirierii terenului în suprafaţă de 15 mp, din parcela nr. top. 4054/1/2, evidenţiată în CF nr. 9474 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-11-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_184_-_2008.pdf",
+     "sha256": "0f4bf07ecceb63a2f220e37df85af9de8d493d3aef7500bc3206f70695ffd974"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-185-2008",
+   "path": "local/arad/nadlac/2008/185",
+   "short": "HCL Nădlac nr. 185/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 185/2008 privind aprobarea vânzării terenului în suprafaţă de 1115 mp, parcela cu nr. top. 13691/102, evidenţiat în CF nr. 2201 Nădlac, teren situat pe str. M",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-11-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_185_-_2008.pdf",
+     "sha256": "4a23fea814389b8e1afe9bcc8a5645a347b9f9f738e0389f1a48c505bab950af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-186-2008",
+   "path": "local/arad/nadlac/2008/186",
+   "short": "HCL Nădlac nr. 186/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 186/2008 privind mandatarea reprezentantului Consiliului Local Nădlac în adunarea generală a acţionarilor S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-11-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_186_-_2008.pdf",
+     "sha256": "27cfd0c3c4d9a7c3be430bccfa87caa77a2601bb9ba753d7dce19f8514e31cb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-187-2008",
+   "path": "local/arad/nadlac/2008/187",
+   "short": "HCL Nădlac nr. 187/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 187/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-11-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_187_-_2008.pdf",
+     "sha256": "4ac17686120618b8d2c8b39248f3f49a6a20f6f47cf41892c9289fce4aa89b48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-188-2008",
+   "path": "local/arad/nadlac/2008/188",
+   "short": "HCL Nădlac nr. 188/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 188/2008 privind aprobarea corectării erorii materiale, precum şi modificarea Hotărârii Consiliului Local Nădlac nr.164/28.10.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-11-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_188_-_2008.pdf",
+     "sha256": "b8b769acb971aa1d9109606a9bf45eb48a0bc1de3d1b2be91a0f5e7196f1ceed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-189-2008",
+   "path": "local/arad/nadlac/2008/189",
+   "short": "HCL Nădlac nr. 189/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 189/2008 privind modificarea anexei nr.3 din Hotărârea Consiliului Local Nădlac nr.149/07.10.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-11-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_189_-_2008.pdf",
+     "sha256": "ef24c9c443fccf2b5d887100de638f48cfc0e6186edc4c581e55dfa27788e10f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-19-2008",
+   "path": "local/arad/nadlac/2008/19",
+   "short": "HCL Nădlac nr. 19/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 19/2008 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 29.01.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_19_-_2008.pdf",
+     "sha256": "e466aae911167192f005c2a463de3381e31b24acf6ed6113933f05b402383550"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-190-2008",
+   "path": "local/arad/nadlac/2008/190",
+   "short": "HCL Nădlac nr. 190/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 190/2008 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 28.11.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_190_-_2008.pdf",
+     "sha256": "6789cac073fcf31123cc6fb71c7e097e26e70375ed229222deb9aac64a21d84f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-191-2008",
+   "path": "local/arad/nadlac/2008/191",
+   "short": "HCL Nădlac nr. 191/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 191/2008 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Noiembrie/hot_191_-_2008.pdf",
+     "sha256": "e0d4c6196a8359ce3ad7d79da33d4acca771777f96cbecb9830266adccd08170"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-192-2008",
+   "path": "local/arad/nadlac/2008/192",
+   "short": "HCL Nădlac nr. 192/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 192/2008 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 05.12.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_192_-_2008.pdf",
+     "sha256": "84c4a5d608ee043eb9e31bda5461e33773810de2b0ceea33254429602c100ab8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-193-2008",
+   "path": "local/arad/nadlac/2008/193",
+   "short": "HCL Nădlac nr. 193/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 193/2008 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 21.11.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_193_-_2008.pdf",
+     "sha256": "20b48bc248e94d2eb999cfe628ca6a0754dfab1303e7869b4ab291e86b991944"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-194-2008",
+   "path": "local/arad/nadlac/2008/194",
+   "short": "HCL Nădlac nr. 194/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 194/2008 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 28.11.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_194_-_2008.pdf",
+     "sha256": "ada63910c632ebbd8b96e849b45d89d78984cd520d502f0e876d27e9b0a87555"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-195-2008",
+   "path": "local/arad/nadlac/2008/195",
+   "short": "HCL Nădlac nr. 195/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 195/2008 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_195_-_2008.pdf",
+     "sha256": "2cb034568e09e6bc0b25e8f4f45c37f3b1f84bbaf7e6215e23b7d1908f51da17"
     }
    ]
   },
@@ -63,6 +1533,141 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-197-2008",
+   "path": "local/arad/nadlac/2008/197",
+   "short": "HCL Nădlac nr. 197/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 197/2008 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 19.12.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_197_-_2008.pdf",
+     "sha256": "9d86f319c24e65189d703a8a65a9d7bf929dd9a60ab679613cbf88db33f1f494"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-198-2008",
+   "path": "local/arad/nadlac/2008/198",
+   "short": "HCL Nădlac nr. 198/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 198/2008 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 05.12.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_198_-_2008.pdf",
+     "sha256": "145d6b57f36356c8c4f9972a46a14e3b481b566f58b480ade8943348f95a1e3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-199-2008",
+   "path": "local/arad/nadlac/2008/199",
+   "short": "HCL Nădlac nr. 199/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 199/2008 privind mandatarea reprezentantului Consiliului Local Nădlac în adunarea generală a acţionarilor S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_199_-_2008.pdf",
+     "sha256": "f094d7d6a42a555cbc0cc50dc28adc3ffa555bb7d87667eb3711b0f87b4ad950"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-2-2008",
+   "path": "local/arad/nadlac/2008/2",
+   "short": "HCL Nădlac nr. 2/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 2/2008 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 28.12.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-01-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_2_-_2008.pdf",
+     "sha256": "6b36ece0c18106282b6f4b2faa05f487c81cf3dcf2fec0a506de3fd25b778b19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-20-2008",
+   "path": "local/arad/nadlac/2008/20",
+   "short": "HCL Nădlac nr. 20/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 20/2008 privind încetarea de drept a mandatului viceprimarului oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_20_-_2008.pdf",
+     "sha256": "dbfeb74b0805b4886c2ebcf76c02d7de3005f2a2e0aaeef1c93898779d20607d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-200-2008",
+   "path": "local/arad/nadlac/2008/200",
+   "short": "HCL Nădlac nr. 200/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 200/2008 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 23.12.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_200_-_2008.pdf",
+     "sha256": "76934067e5d6cc04bc4b3ed808221a4514b97834c73decec62cc9bb0ca2083d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-201-2008",
+   "path": "local/arad/nadlac/2008/201",
+   "short": "HCL Nădlac nr. 201/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 201/2008 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 19.12.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_201_-_2008.pdf",
+     "sha256": "a1da449cbf9d421a17e9530cbeaae2caf5d0187729c31692f404a48305df6dbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-202-2008",
+   "path": "local/arad/nadlac/2008/202",
+   "short": "HCL Nădlac nr. 202/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 202/2008 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_202_-_2008.pdf",
+     "sha256": "3c0fad0345b3b9c76890d2e09309644eb87403ff9390e288b3cd916e43f6ed80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-203-2008",
+   "path": "local/arad/nadlac/2008/203",
+   "short": "HCL Nădlac nr. 203/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 203/2008 privind aprobarea utilizării fondului de rulment existent în bugetul local al oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_203_-_2008.pdf",
+     "sha256": "7dc46cee0de2ab57393de7fece3117d48f8273e4210de9a46699a59c8fdc6cc2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-204-2008",
    "path": "local/arad/nadlac/2008/204",
    "short": "HCL Nădlac nr. 204/2008",
@@ -74,6 +1679,201 @@
      "units": 14,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_204_-_2008.pdf",
      "sha256": "303a886aebf8b08b6d3517a191c52c04f2f668300b4a89238fe27c813d9f849f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-205-2008",
+   "path": "local/arad/nadlac/2008/205",
+   "short": "HCL Nădlac nr. 205/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 205/2008 privind aprobarea preţului local de referinţă pentru producerea şi furnizarea energiei termice furnizate populaţiei în sistem centralizat",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_205_-_2008.pdf",
+     "sha256": "3a9b8574fd7c3fba0ee001657f66857a7c48c31f50de104dbf740c9b201c0b8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-206-2008",
+   "path": "local/arad/nadlac/2008/206",
+   "short": "HCL Nădlac nr. 206/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 206/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_206_-_2008.pdf",
+     "sha256": "4d1d22830e4c4aab6775eb9b35109a1de06b97591000d74275f0165a59aeb650"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-207-2008",
+   "path": "local/arad/nadlac/2008/207",
+   "short": "HCL Nădlac nr. 207/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 207/2008 privind parcelarea terenului în suprafaţă totală de 850 mp, parcela nr. top.13691/108, evidenţiată în CF nr.8828 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_207_-_2008.pdf",
+     "sha256": "3a69b52cfba6e04a813d9d523fc75e508b5c51ce8b19b9cd8ae41c36429511a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-208-2008",
+   "path": "local/arad/nadlac/2008/208",
+   "short": "HCL Nădlac nr. 208/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 208/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_208_-_2008.pdf",
+     "sha256": "4f63c202a255a96e8073074846ffa4f84b04f8fefaad5e4b5ab071670f4e326b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-21-2008",
+   "path": "local/arad/nadlac/2008/21",
+   "short": "HCL Nădlac nr. 21/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 21/2008 privind alegerea viceprimarului oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_21_-_2008.pdf",
+     "sha256": "4a1d1f3e9a8526111bdf5c9d9951bfb9d1a66cb76a145960123d0eaa79d2684f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-210-2008",
+   "path": "local/arad/nadlac/2008/210",
+   "short": "HCL Nădlac nr. 210/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 210/2008 privind desemnarea primarului oraşului Nădlac pentru evaluarea performanţelor profesionale ale secretarului",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Decembrie/hot_210_-_2008.pdf",
+     "sha256": "c860064c721852b6ac851e2f3c4182bec343556994e6fc7be6a9fa7e193ab7ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-22-2008",
+   "path": "local/arad/nadlac/2008/22",
+   "short": "HCL Nădlac nr. 22/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 22/2008 privind parcelarea şi vânzarea prin licitaţie publică a unui teren, proprietatea privată a oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_22_-_2008.pdf",
+     "sha256": "a09917d149f515242b318b6ddd83d6806f921bef857688dad3972187b6b58cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-23-2008",
+   "path": "local/arad/nadlac/2008/23",
+   "short": "HCL Nădlac nr. 23/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 23/2008 privind acordul Consiliului Local Nădlac referitor la înfiinţarea Serviciului Mobil de Urgenţă Reanimare şi Descarcerare (SMURD)",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_23_-_2008.pdf",
+     "sha256": "f0064f65c3da33345151a2c7f0c5b4178d467561e2f3812dd9f7d46ee5f3bf48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-24-2008",
+   "path": "local/arad/nadlac/2008/24",
+   "short": "HCL Nădlac nr. 24/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 24/2008 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 28.02.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_24_-_2008.pdf",
+     "sha256": "6555e4c578d843561f9ca50fb47dc892fe2f0c363dc3577ccb4a657aec9ef265"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-25-2008",
+   "path": "local/arad/nadlac/2008/25",
+   "short": "HCL Nădlac nr. 25/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 25/2008 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 05.02.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_25_-_2008.pdf",
+     "sha256": "a94d2b051830298ad35b669270a2c517ffab6c6572bbea05f82e1e019a60f9f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-27-2008",
+   "path": "local/arad/nadlac/2008/27",
+   "short": "HCL Nădlac nr. 27/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 27/2008 privind aprobarea vânzării terenului proprietatea privată a oraşului Nădlac, situat în Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_27_-_2008.pdf",
+     "sha256": "48a2578569a3b6d9c9396a5ab147be94a7012089811ef33d8f6e414d04c553d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-28-2008",
+   "path": "local/arad/nadlac/2008/28",
+   "short": "HCL Nădlac nr. 28/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 28/2008 privind aprobarea închirierii prin licitaţie publică a terenului, situat în oraşul Nădlac, tarla 127.928/2, parcela cu nr. cad. 782, înscrisă în CF nr. 10288 nedefinitivă Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_28_-_2008.pdf",
+     "sha256": "4eb9d7603a5745712bff9529f612d3cd1f733d57fe0a6b39042e7bc707710cd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-29-2008",
+   "path": "local/arad/nadlac/2008/29",
+   "short": "HCL Nădlac nr. 29/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 29/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_29_-_2008.pdf",
+     "sha256": "e785a0a27ccbba916de7677f7f91ec00a10bc415632644c39175a2414bbdc885"
     }
    ]
   },
@@ -93,6 +1893,66 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-30-2008",
+   "path": "local/arad/nadlac/2008/30",
+   "short": "HCL Nădlac nr. 30/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 30/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_30_-_2008.pdf",
+     "sha256": "25fcd8a09e619d668a2b11f701e221111799a556735d766e6b002a9503792f27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-31-2008",
+   "path": "local/arad/nadlac/2008/31",
+   "short": "HCL Nădlac nr. 31/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 31/2008 privind aprobarea închirierii prin licitaţie publică a imobilului (construcţie şi teren) în suprafaţă utilă de 120 mp, din parcela nr. top. 4055/1/1/1, situată în oraşul Nădlac, înscrisă în CF nr. 9474 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_31_-_2008.pdf",
+     "sha256": "feed6e04c12ec7c5614d47f78dbcabf029f1079b53b9d7bdad69009d833eb0c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-32-2008",
+   "path": "local/arad/nadlac/2008/32",
+   "short": "HCL Nădlac nr. 32/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 32/2008 privind reorganizarea Serviciului Public Voluntar pentru Situaţii de Urgenţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_32_-_2008.pdf",
+     "sha256": "0d16da54d0f9c44f77a54a67144bcf464d8769be263903155f8870e09865dada"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-33-2008",
+   "path": "local/arad/nadlac/2008/33",
+   "short": "HCL Nădlac nr. 33/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 33/2008 privind aprobarea organigramei, a statului de funcţii, numărului de personal din cadrul aparatului de specialitate al primarului, ale instituţiilor şi serviciilor publice din subordinea Consiliului Local Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_33_-_2008.pdf",
+     "sha256": "f2947f4d9903b1ae3f30f5a8cbe8ccc89d73000d49ffe0e444d328445d3ccdb8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-34-2008",
    "path": "local/arad/nadlac/2008/34",
    "short": "HCL Nădlac nr. 34/2008",
@@ -104,6 +1964,261 @@
      "units": 6,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_34_-_2008.pdf",
      "sha256": "aef80970db775c78bf0653093be89434469b15876b5b2a6f57d2cdfe9515d8b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-35-2008",
+   "path": "local/arad/nadlac/2008/35",
+   "short": "HCL Nădlac nr. 35/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 35/2008 privind modificarea art.5 din Hotărârea Consiliului Local Nădlac nr. 17/29.01.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_35_-_2008.pdf",
+     "sha256": "7645ff49b31ac2a222e688fbe7a791ef10ffe920f1447ae737edfcc2b5d7e3b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-36-2008",
+   "path": "local/arad/nadlac/2008/36",
+   "short": "HCL Nădlac nr. 36/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 36/2008 privind aprobarea ,,Studiului de prefezabilitate pentru înfiinţarea culturilor forestiere de protecţie a zonei de nord a oraşului Nădlac”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_36_-_2008.pdf",
+     "sha256": "e738ac0f11d1a0ac391f7eacae73a0aa531ee01d479d45349b3e9b077ed534a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-37-2008",
+   "path": "local/arad/nadlac/2008/37",
+   "short": "HCL Nădlac nr. 37/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 37/2008 privind aprobarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Februarie/hot_37_-_2008.pdf",
+     "sha256": "74b987a171ea2fa2a87dbc35479ab675de43696c45e28bbb8965d85169eecaef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-38-2008",
+   "path": "local/arad/nadlac/2008/38",
+   "short": "HCL Nădlac nr. 38/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 38/2008 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 19.03.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_38_-_2008.pdf",
+     "sha256": "50891f61dd649467d2bc8f9ab9da6fddfd7c9bdae9196e72850c78cf535556f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-39-2008",
+   "path": "local/arad/nadlac/2008/39",
+   "short": "HCL Nădlac nr. 39/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 39/2008 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 28.02.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_39_-_2008.pdf",
+     "sha256": "38a7636ced1483c0af3c9a3f467a74baf83fe851bd58338dc6ad52cb2935132a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-4-2008",
+   "path": "local/arad/nadlac/2008/4",
+   "short": "HCL Nădlac nr. 4/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 4/2008 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 18.01.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-01-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_4_-_2008.pdf",
+     "sha256": "d1df726274e83a3bf9232efcdaf4fca163554446917d7d9cb0234cea06d968ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-40-2008",
+   "path": "local/arad/nadlac/2008/40",
+   "short": "HCL Nădlac nr. 40/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 40/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_40_-_2008.pdf",
+     "sha256": "78728e6e8457c409df9cc19e3d879ad0e3a67f97baa4050fa77e6f0ee897c8db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-41-2008",
+   "path": "local/arad/nadlac/2008/41",
+   "short": "HCL Nădlac nr. 41/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 41/2008 privind reorganizarea comisiilor de specialitate pe principalele domenii de activitate ale Consiliului Local Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_41_-_2008.pdf",
+     "sha256": "df3d3113cd3763f042a45dbbc6ecb7ea62d08f3fdd8bff8f8445aacfefd4d9ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-42-2008",
+   "path": "local/arad/nadlac/2008/42",
+   "short": "HCL Nădlac nr. 42/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 42/2008 privind aprobarea asocierii Oraşului Nădlac cu Inspectoratul de Poliţie al Judeţului Arad în vederea atribuirii contractelor de achiziţie publică în scopul desfăşurării activităţii de supraveghere video a traficului rutier pe raza oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_42_-_2008.pdf",
+     "sha256": "36f77108a90d0f1e8d026b9f4495568e0855671353da3c236f0b4ea5f9a166a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-43-2008",
+   "path": "local/arad/nadlac/2008/43",
+   "short": "HCL Nădlac nr. 43/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 43/2008 privind vânzarea terenului în suprafaţă de 343 mp, parcela cu nr. top. 544/2/2/2, evidenţiată în CF nr. 9813 Nădlac, teren situat pe str. M",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_43_-_2008.pdf",
+     "sha256": "881eaf3c84c84209057f628710a6bc1c995126e2e9deb6233e5d4a6ca17d91f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-44-2008",
+   "path": "local/arad/nadlac/2008/44",
+   "short": "HCL Nădlac nr. 44/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 44/2008 privind vânzarea terenului în suprafaţă de 882 mp, parcela cu nr. top. 13691/9, evidenţiată în CF nr. 2201 Nădlac, teren situat pe str. M",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_44_-_2008.pdf",
+     "sha256": "3c5d8aae707f7567fdb3cf2d06e15af4e6c70a64eff3d489d445119eb4b270c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-45-2008",
+   "path": "local/arad/nadlac/2008/45",
+   "short": "HCL Nădlac nr. 45/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 45/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_45_-_2008.pdf",
+     "sha256": "c8eed81bd4dd35378dc8bb072723b8d5df4adb366f81100a04b456ad76152931"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-46-2008",
+   "path": "local/arad/nadlac/2008/46",
+   "short": "HCL Nădlac nr. 46/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 46/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_46_-_2008.pdf",
+     "sha256": "2bf2d3b7d11b83928548dbeb42efc4f88acd13231bf4d238121be85b2fd83aa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-48-2008",
+   "path": "local/arad/nadlac/2008/48",
+   "short": "HCL Nădlac nr. 48/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 48/2008 privind modificarea şi completarea caietelor de sarcini aprobate conform anexelor nr.1-2 la Hotărârea Consiliului Local nr. 99/18.06.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_48_-_2008.pdf",
+     "sha256": "803e314db3a7198e7a8dd189f37886cb41e3f51f1b494bd27b3dfb0e41f40ea8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-49-2008",
+   "path": "local/arad/nadlac/2008/49",
+   "short": "HCL Nădlac nr. 49/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 49/2008 privind aprobarea vânzării terenului proprietatea privată a oraşului Nădlac, situat în Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_49_-_2008.pdf",
+     "sha256": "cfca54431e1ab86fbf876522f3c7c404dfd0f4630df407ab5a33f787363bfaa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-5-2008",
+   "path": "local/arad/nadlac/2008/5",
+   "short": "HCL Nădlac nr. 5/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 5/2008 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 028.01.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-01-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_5_-_2008.pdf",
+     "sha256": "497f13f446e9d8069a2518a0e70e78939e0a593570dea2466c874a59c75e4ca1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-50-2008",
+   "path": "local/arad/nadlac/2008/50",
+   "short": "HCL Nădlac nr. 50/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 50/2008 privind reorganizarea Serviciului Public Edilitar Gospodăresc – serviciu sub autoritatea Consiliului Local Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_50_-_2008.pdf",
+     "sha256": "f131c512ab2b05409f308137df5bbdbe71b6a0c50331b77122cdffe25bb2f292"
     }
    ]
   },
@@ -123,6 +2238,186 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-53-2008",
+   "path": "local/arad/nadlac/2008/53",
+   "short": "HCL Nădlac nr. 53/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 53/2008 privind aprobarea actului adiţional nr. 2 la contractul de delegare de gestiune prin concesiune nr. 5128/04.06.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_53_-_2008.pdf",
+     "sha256": "db8597a9d254f70989998447548534b4b828e147f27c5e87e0aaad102bfd512d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-55-2008",
+   "path": "local/arad/nadlac/2008/55",
+   "short": "HCL Nădlac nr. 55/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 55/2008 privind aprobarea trecerii în proprietatea privată a Oraşului Nădlac şi a vânzării terenului, situat în Nădlac, str. N. Bălcescu, nr.10",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_55_-_2008.pdf",
+     "sha256": "fe62a5e2d5bbc9ec21587dc5bbffbd255f848c88f71b77d3073b4872a4e77e86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-56-2008",
+   "path": "local/arad/nadlac/2008/56",
+   "short": "HCL Nădlac nr. 56/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 56/2008 privind darea în folosinţă gratuită a unui teren către Grădiniţa PN nr.1 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Martie/hot_56_-_2008.pdf",
+     "sha256": "f6354196a83fb1ae44aa301b3553012cf7b589571948ae204a12fe8bda2d6b27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-57-2008",
+   "path": "local/arad/nadlac/2008/57",
+   "short": "HCL Nădlac nr. 57/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 57/2008 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_57_-_2008.pdf",
+     "sha256": "90b3c8d84d9d58a317a433d5ba73f785e38219c70a5fbbdc45ebdb081f86595a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-58-2008",
+   "path": "local/arad/nadlac/2008/58",
+   "short": "HCL Nădlac nr. 58/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 58/2008 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 15.04.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_58_-_2008.pdf",
+     "sha256": "1f2b9fcbc2c63f1ca77ef2a6e5cd0ec2d0f1c03752442705f280aa6f2f3788c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-59-2008",
+   "path": "local/arad/nadlac/2008/59",
+   "short": "HCL Nădlac nr. 59/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 59/2008 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 19.03.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_59_-_2008.pdf",
+     "sha256": "341717a87e736130fb8abff19407889494fa9f1c00682242edcaf3d4cb4ff91a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-6-2008",
+   "path": "local/arad/nadlac/2008/6",
+   "short": "HCL Nădlac nr. 6/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 6/2008 privind aprobarea inventarului mijloacelor aparţinând domeniului public şi privat al Oraşului Nădlac aferent sistemului de alimentare cu apă şi canalizare, precum şi a sistemului de termoficare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-01-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_6_-_2008.pdf",
+     "sha256": "e8b0872fe80367ebdcca08ca0b86f28a308b92aeb398b4de837aed455e908d3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-60-2008",
+   "path": "local/arad/nadlac/2008/60",
+   "short": "HCL Nădlac nr. 60/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 60/2008 privind aprobarea Regulilor şi măsurilor specifice de apărare împotriva incendiilor pentru domeniul public şi privat al oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_60_-_2008.pdf",
+     "sha256": "7154aba71e7cbd1427c2495380404658d216e6647c4b5fba89fe4d7db67801b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-62-2008",
+   "path": "local/arad/nadlac/2008/62",
+   "short": "HCL Nădlac nr. 62/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 62/2008 privind aprobarea Planului de investiţii pentru perioada 2008-2013 inclus în Master Plan- ul privind alimentarea cu apă şi evacuarea apelor uzate pentru judeţul Arad",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_62_-_2008.pdf",
+     "sha256": "f552ecf41e94641bc2a1dac5fae8e19bc431f48f5e24b013571856b9ff3ab0da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-63-2008",
+   "path": "local/arad/nadlac/2008/63",
+   "short": "HCL Nădlac nr. 63/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 63/2008 privind aprobarea ,,Studiului de fezabilitate privind Reabilitarea Centrului Civic al Oraşului Nădlac”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_63_-_2008.pdf",
+     "sha256": "74b3c41f2d3919b023113735cf54a1b008b668e86e0ffc5f8dcde3345c847081"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-64-2008",
+   "path": "local/arad/nadlac/2008/64",
+   "short": "HCL Nădlac nr. 64/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 64/2008 privind aprobarea Studiului de fezabilitate privind amenajarea Centrului Administrativ al Primăriei Oraşului Nădlac, cuprinzând: piese scrise şi piese desenate",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_64_-_2008.pdf",
+     "sha256": "f2fe4f789dea8b4e61dd8c193e3d302a1b7e945082284c95e65386580aa05909"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-65-2008",
+   "path": "local/arad/nadlac/2008/65",
+   "short": "HCL Nădlac nr. 65/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 65/2008 privind aprobarea ,,Strategiei de Dezvoltare Durabilă a oraşului Nădlac”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_65_-_2008.pdf",
+     "sha256": "94986d01d2ebbcd928717d7ab29fbe71897901f60af1d692edc590253365fd8b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-66-2008",
    "path": "local/arad/nadlac/2008/66",
    "short": "HCL Nădlac nr. 66/2008",
@@ -138,6 +2433,291 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-67-2008",
+   "path": "local/arad/nadlac/2008/67",
+   "short": "HCL Nădlac nr. 67/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 67/2008 privind aprobarea vânzării prin licitaţie publică a parcelei nr. top. 13025- 13026/4, evidenţiată în CF 9728 Nădlac, în suprafaţă de 6410 mp- proprietatea privată a Oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_67_-_2008.pdf",
+     "sha256": "9ae40f550431836e4de5de64282a05c3740a6eb20e28b2d58db5c790a338c60f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-69-2008",
+   "path": "local/arad/nadlac/2008/69",
+   "short": "HCL Nădlac nr. 69/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 69/2008 privind modificarea statului de funcţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_69_-_2008.pdf",
+     "sha256": "c6a3ca5b6f18f50c4d3bc205acd0a56c1f2c22f6604a4cb20710d3798d37fe1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-7-2008",
+   "path": "local/arad/nadlac/2008/7",
+   "short": "HCL Nădlac nr. 7/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 7/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-01-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_7_-_2008.pdf",
+     "sha256": "32b3fce74e8818c112b30400f1ee60c63de636c31ebc2ff42e058e419e0dffaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-70-2008",
+   "path": "local/arad/nadlac/2008/70",
+   "short": "HCL Nădlac nr. 70/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 70/2008 privind notarea dreptului de servitute asupra parcelei cu nr. top. 13692/1/2- CF nr.9434 Nădlac, în favoarea parcelei nr. top.13692/2/1/1/1- CF nr.9435 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_70_-_2008.pdf",
+     "sha256": "b38bf070bb452d5aee08af90d97d520fef8f66bf31d3fc5b09ba15c76f335542"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-71-2008",
+   "path": "local/arad/nadlac/2008/71",
+   "short": "HCL Nădlac nr. 71/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 71/2008 privind mandatarea reprezentantului Consiliului Local Nădlac în adunarea generală a acţionarilor S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_71_-_2008.pdf",
+     "sha256": "9703e2d97799fdcc5e48f939e7b094618fc656a0d27e49ac14466f305352167e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-72-2008",
+   "path": "local/arad/nadlac/2008/72",
+   "short": "HCL Nădlac nr. 72/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 72/2008 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 30.04.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_72_-_2008.pdf",
+     "sha256": "349bf1ed75696847fd8c4e0afe4e00b4d19fce21665dfef6e2d53c1102332e8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-73-2008",
+   "path": "local/arad/nadlac/2008/73",
+   "short": "HCL Nădlac nr. 73/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 73/2008 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 15.04.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_73_-_2008.pdf",
+     "sha256": "0cd7804d67d6090b6f6d80b3c92a028621dcf2bc05261bdb077247d91cb4e34f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-74-2008",
+   "path": "local/arad/nadlac/2008/74",
+   "short": "HCL Nădlac nr. 74/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 74/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_74_-_2008.pdf",
+     "sha256": "ddc74a146a3ff8338dbf0886d6ce76f0efc1185ec7cd1f856e64ba223b77d3b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-75-2008",
+   "path": "local/arad/nadlac/2008/75",
+   "short": "HCL Nădlac nr. 75/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 75/2008 privind modificarea comisiei de validare a mandatelor consilierilor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_75_-_2008.pdf",
+     "sha256": "6792792561813d15de44bbd882fcd45bc369ff3b627fabcf6b51286173469429"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-76-2008",
+   "path": "local/arad/nadlac/2008/76",
+   "short": "HCL Nădlac nr. 76/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 76/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_76_-_2008.pdf",
+     "sha256": "623e03f19370b49c31a47f406392cec744c83bbae8a471e22a23198a6dd03111"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-77-2008",
+   "path": "local/arad/nadlac/2008/77",
+   "short": "HCL Nădlac nr. 77/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 77/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_77_-_2008.pdf",
+     "sha256": "6c56acd85a377959de20f1c6007ed04f5d1e7890c527297c576af0f55f4e2503"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-78-2008",
+   "path": "local/arad/nadlac/2008/78",
+   "short": "HCL Nădlac nr. 78/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 78/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_78_-_2008.pdf",
+     "sha256": "b0e8e93c05717895d2b7b16597fca3c766c095f90ba2ae37ecdd6e8950ee9d51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-79-2008",
+   "path": "local/arad/nadlac/2008/79",
+   "short": "HCL Nădlac nr. 79/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 79/2008 privind reorganizarea comisiilor de specialitate pe principalele domenii de activitate ale Consiliului Local Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_79_-_2008.pdf",
+     "sha256": "1d29d1ed2fa4f7ab1c6dc1c8775e07e16fe76ea9332ed8708d9a46b4f8187d7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-8-2008",
+   "path": "local/arad/nadlac/2008/8",
+   "short": "HCL Nădlac nr. 8/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 8/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-01-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_8_-_2008.pdf",
+     "sha256": "aba7c5d375c1de5245365c4fa54a065cde78464e3e07c3ae5f7ab589e6e936fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-80-2008",
+   "path": "local/arad/nadlac/2008/80",
+   "short": "HCL Nădlac nr. 80/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 80/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_80_-_2008.pdf",
+     "sha256": "05c133fff94cde61cd3b5df6c0b01e90111f2fab43a6465ab8dc0308f9234995"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-81-2008",
+   "path": "local/arad/nadlac/2008/81",
+   "short": "HCL Nădlac nr. 81/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 81/2008 privind utilizarea fondului de rezervă bugetară pentru finanţarea unor cheltuieli urgente sau neprevăzute apărute în cursul exerciţiului bugetar",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_81_-_2008.pdf",
+     "sha256": "0f051f73424d539a1bee0236150f42c67f736e24a4b301e3fef4886fbb269558"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-83-2008",
+   "path": "local/arad/nadlac/2008/83",
+   "short": "HCL Nădlac nr. 83/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 83/2008 privind aprobarea trecerii în proprietatea privată a Oraşului Nădlac şi a vânzării terenului, situat în Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Aprilie/hot_83_-_2008.pdf",
+     "sha256": "3a27921734c7e57d99383626d942284053a539a6590db8b3ff681537b909f768"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-84-2008",
+   "path": "local/arad/nadlac/2008/84",
+   "short": "HCL Nădlac nr. 84/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 84/2008 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 29.05.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Mai/hot_84_-_2008.pdf",
+     "sha256": "a199b0f4a59f11926cf2dce2c676b39aae3699906915eacc3b9358cd0f5ee223"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-85-2008",
+   "path": "local/arad/nadlac/2008/85",
+   "short": "HCL Nădlac nr. 85/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 85/2008 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 30.04.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Mai/hot_85_-_2008.pdf",
+     "sha256": "d38b3d6e128816b6c0250c8ce5759e1c4d5e431eae666254ef9a8fd91ed3088f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-86-2008",
    "path": "local/arad/nadlac/2008/86",
    "short": "HCL Nădlac nr. 86/2008",
@@ -149,6 +2729,186 @@
      "units": 4,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Mai/hot_86_-_2008.pdf",
      "sha256": "a79a0af3f18dadb2064daddbd016a25729d08a3783b281004d19bf65a3d25e92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-87-2008",
+   "path": "local/arad/nadlac/2008/87",
+   "short": "HCL Nădlac nr. 87/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 87/2008 privind încheierea şi aprobarea exerciţiului bugetar pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Mai/hot_87_-_2008.pdf",
+     "sha256": "40d9ff505939208f7b6c4683fec6d76b49af83f0263fb99611cce00aa84d89e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-88-2008",
+   "path": "local/arad/nadlac/2008/88",
+   "short": "HCL Nădlac nr. 88/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 88/2008 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Mai/hot_88_-_2008.pdf",
+     "sha256": "1937097097b15bc8aae237de783cee8969547c8405bf73afe07486cd4894d319"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-89-2008",
+   "path": "local/arad/nadlac/2008/89",
+   "short": "HCL Nădlac nr. 89/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 89/2008 privind aprobarea asocierii Oraşului Nădlac – România cu Oraşul Brezno – Slovacia",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Mai/hot_89_-_2008.pdf",
+     "sha256": "664f36e8906da07b1c0555eefe927c21d49459142b3ae3c3f33c56187ca53972"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-9-2008",
+   "path": "local/arad/nadlac/2008/9",
+   "short": "HCL Nădlac nr. 9/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 9/2008 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 29.01.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Ianuarie/hot_9_-_2008.pdf",
+     "sha256": "fc9905d6fda7953484c6b7f236be9baede9402468cf8e348023d895a1dd23d61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-90-2008",
+   "path": "local/arad/nadlac/2008/90",
+   "short": "HCL Nădlac nr. 90/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 90/2008 privind acordul referitor la transmiterea unui imobil din domeniul public al Oraşului Nădlac în domeniul public al Statului",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Mai/hot_90_-_2008.pdf",
+     "sha256": "60a226832a20d8cbdf4cf1781643628d3d91520dc509048d1e4779e1302c4397"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-91-2008",
+   "path": "local/arad/nadlac/2008/91",
+   "short": "HCL Nădlac nr. 91/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 91/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Mai/hot_91_-_2008.pdf",
+     "sha256": "dd423572df9fcda83261831968095d43d6295fb1764c5a19952c9a0f0f1cb920"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-92-2008",
+   "path": "local/arad/nadlac/2008/92",
+   "short": "HCL Nădlac nr. 92/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 92/2008 privind aprobarea închirierii prin licitaţie publică a imobilului ( construcţie şi teren), situat în oraşul Nădlac, din parcela nr. topo. 4055/8/2/2/1, înscrisă în CF nr.9399 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Mai/hot_92_-_2008.pdf",
+     "sha256": "13bbb04836347e91bc35042308688c551a230527fbba8bf7228daf736b119560"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-95-2008",
+   "path": "local/arad/nadlac/2008/95",
+   "short": "HCL Nădlac nr. 95/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 95/2008 privind parcelarea terenului în suprafaţă totală de 12.889 mp, parcela nr. top. 11589, evidenţiată în CF nr. 2201 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Mai/hot_95_-_2008.pdf",
+     "sha256": "fe730f53ebc70928e57f12be5db1ca612c7666bb8177d2b00c5f0fd146e8bc86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-96-2008",
+   "path": "local/arad/nadlac/2008/96",
+   "short": "HCL Nădlac nr. 96/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 96/2008 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 08.07.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_96_-_2008.pdf",
+     "sha256": "423b1a2c16c95416395b25c7fe7ac0a3595ed8302677fbbd0ed2b566e285ffac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-97-2008",
+   "path": "local/arad/nadlac/2008/97",
+   "short": "HCL Nădlac nr. 97/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 97/2008 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 29.05.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_97_-_2008.pdf",
+     "sha256": "ddde1a9671c5c5b4d1e48fcc413c8ac402488ee992ba46c4c10d22bdb72d5856"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-98-2008",
+   "path": "local/arad/nadlac/2008/98",
+   "short": "HCL Nădlac nr. 98/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 98/2008 privind aprobarea procesului verbal al şedinţei de constituire al Consiliului local Nădlac din data de 19.06.2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_98_-_2008.pdf",
+     "sha256": "37058640e6f9021bad156b2152a1d177f1836aa8aab9233448232a7ba3f80c33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-99-2008",
+   "path": "local/arad/nadlac/2008/99",
+   "short": "HCL Nădlac nr. 99/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 99/2008 privind aprobarea programului de finalizare a contorizării energiei termice la branşament în Oraşul Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2008/Iulie/hot_99_-_2008.pdf",
+     "sha256": "f1681a4d2a66647598a41aa472ca987d6a1765328c92c376740e58289d8211e3"
     }
    ]
   }

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arges/poiana-lacului/2022",
+ "acts": [
+  {
+   "slug": "hcl-arges--poiana-lacului-28-2022",
+   "path": "local/arges/poiana-lacului/2022/28",
+   "short": "HCL Poiana Lacului nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 28/2022",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2023/03/Hotararea-Consiliului-Local-Poiana-Lacului-nr.-28-din-15.09.2022-1.pdf",
+     "sha256": "160aeb4b3ea60d5629876f2e5fd8a483210a1234bee8a6cf94010b44440e70cf"
+    }
+   ]
+  }
+ ]
+}

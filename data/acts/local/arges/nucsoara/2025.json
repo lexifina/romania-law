@@ -3,6 +3,28 @@
 "shard": "local/arges/nucsoara/2025",
 "acts": [
 {
+"slug": "hcl-arges--nucsoara-44-2025",
+"path": "local/arges/nucsoara/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 44/2025 privind alegerea Președintelui de ședință",
+"short": "HCL Nucșoara nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-01",
+"latest": "2025-09-01",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/222875",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--nucsoara-45-2025",
 "path": "local/arges/nucsoara/2025/45",
 "kind": "local",
@@ -23,6 +45,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--nucsoara-46-2025",
+"path": "local/arges/nucsoara/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 46/2025 privind alegerea Președintelui de ședință",
+"short": "HCL Nucșoara nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/224861",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -114,6 +158,28 @@
 }
 },
 {
+"slug": "hcl-arges--nucsoara-51-2025",
+"path": "local/arges/nucsoara/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 51/2025 privind alegerea PREȘEDINTELUI DE ȘEDINȚĂ",
+"short": "HCL Nucșoara nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/231189",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--nucsoara-52-2025",
 "path": "local/arges/nucsoara/2025/52",
 "kind": "local",
@@ -180,6 +246,52 @@
 }
 },
 {
+"slug": "hcl-arges--nucsoara-55-2025",
+"path": "local/arges/nucsoara/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 55/2025",
+"short": "HCL Nucșoara nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/231193",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--nucsoara-56-2025",
+"path": "local/arges/nucsoara/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 56/2025",
+"short": "HCL Nucșoara nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/231194",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arges--nucsoara-57-2025",
 "path": "local/arges/nucsoara/2025/57",
 "kind": "local",
@@ -203,6 +315,28 @@
 }
 },
 {
+"slug": "hcl-arges--nucsoara-58-2025",
+"path": "local/arges/nucsoara/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 58/2025 privind alegerea PREȘEDINTELUI DE ȘEDINȚĂ",
+"short": "HCL Nucșoara nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-03",
+"latest": "2025-11-03",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/233299",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--nucsoara-59-2025",
 "path": "local/arges/nucsoara/2025/59",
 "kind": "local",
@@ -222,6 +356,28 @@
 "council_name": "Consiliul Local al Comunei Nucșoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--nucsoara-60-2025",
+"path": "local/arges/nucsoara/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 60/2025 privind alegerea Președintelui de ședință pentru ședința extraordinară din data de 14.11.2025",
+"short": "HCL Nucșoara nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/235560",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -312,6 +468,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--nucsoara-65-2025",
+"path": "local/arges/nucsoara/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 65/2025 privind alegerea PREȘEDINTELUI DE ȘEDINȚĂ, pentru ședința ordinară din data de 26.11.2025",
+"short": "HCL Nucșoara nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/236995",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

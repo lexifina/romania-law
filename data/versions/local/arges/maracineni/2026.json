@@ -3,6 +3,21 @@
  "shard": "local/arges/maracineni/2026",
  "acts": [
   {
+   "slug": "hcl-arges--maracineni-1-2026",
+   "path": "local/arges/maracineni/2026/1",
+   "short": "HCL Mărăcineni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 1/2026 privind alegerea preşedintelui de şedinţă pentru lunile ianuarie,februarie și martie 2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/251474",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/251474",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-10-2026",
    "path": "local/arges/maracineni/2026/10",
    "short": "HCL Mărăcineni nr. 10/2026",
@@ -753,6 +768,36 @@
    ]
   },
   {
+   "slug": "hcl-arges--maracineni-35-2026",
+   "path": "local/arges/maracineni/2026/35",
+   "short": "HCL Mărăcineni nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 35/2026 privind aprobarea documentației privind organizarea și desfășurarea licitației publice deschise cu strigare, pentru valorificarea prin vânzare a unor mijloace fixe scoase din funcțiune și aparținând domeniul privat al comunei Maracineni, județul Argeș",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/264072",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/264072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-36-2026",
+   "path": "local/arges/maracineni/2026/36",
+   "short": "HCL Mărăcineni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 36/2026 privind actualizarea componenței Consiliului Comunitar Consultativ din comuna Mărăcineni, judeţul Argeș",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/264073",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/264073",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-37-2026",
    "path": "local/arges/maracineni/2026/37",
    "short": "HCL Mărăcineni nr. 37/2026",
@@ -763,6 +808,21 @@
      "from": "2026-05-14",
      "units": 1,
      "source_url": "https://emol.ro/maracineni-ag/registru-hcl/264074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-38-2026",
+   "path": "local/arges/maracineni/2026/38",
+   "short": "HCL Mărăcineni nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 38/2026 privind aprobarea actualizării componenței Comisiei și Regulamentului de organizare şi funcţionare a Comisiei locale de ordine publică si Situații de Urgență a comunei Mărăcineni, județul Argeș",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/264075",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/264075",
      "sha256": null
     }
    ]
@@ -828,6 +888,36 @@
    ]
   },
   {
+   "slug": "hcl-arges--maracineni-42-2026",
+   "path": "local/arges/maracineni/2026/42",
+   "short": "HCL Mărăcineni nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 42/2026 privind aprobarea închirierii utilajelor aflate în dotarea comunei Mărăcineni, județul Argeș, altor UAT-uri",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/264079",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/264079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-43-2026",
+   "path": "local/arges/maracineni/2026/43",
+   "short": "HCL Mărăcineni nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 43/2026 privind alegerea preşedintelui de şedinţă pentru lunile aprilie,mai și iunie 2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/264088",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/264088",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-44-2026",
    "path": "local/arges/maracineni/2026/44",
    "short": "HCL Mărăcineni nr. 44/2026",
@@ -843,6 +933,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--maracineni-45-2026",
+   "path": "local/arges/maracineni/2026/45",
+   "short": "HCL Mărăcineni nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 45/2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/264090",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/264090",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-46-2026",
    "path": "local/arges/maracineni/2026/46",
    "short": "HCL Mărăcineni nr. 46/2026",
@@ -853,6 +958,36 @@
      "from": "2026-05-14",
      "units": 1,
      "source_url": "https://emol.ro/maracineni-ag/registru-hcl/264091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-47-2026",
+   "path": "local/arges/maracineni/2026/47",
+   "short": "HCL Mărăcineni nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 47/2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/268259",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/268259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-48-2026",
+   "path": "local/arges/maracineni/2026/48",
+   "short": "HCL Mărăcineni nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 48/2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/268260",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/268260",
      "sha256": null
     }
    ]
@@ -898,6 +1033,21 @@
      "from": "2026-05-14",
      "units": 1,
      "source_url": "https://emol.ro/maracineni-ag/registru-hcl/268262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-51-2026",
+   "path": "local/arges/maracineni/2026/51",
+   "short": "HCL Mărăcineni nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 51/2026 Privind aprobarea bugetului local al comunei Mărăcineni, județul Argeș, pe anul 2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/268274",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/268274",
      "sha256": null
     }
    ]
@@ -1053,6 +1203,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--maracineni-61-2026",
+   "path": "local/arges/maracineni/2026/61",
+   "short": "HCL Mărăcineni nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 61/2026 Privind elaborarea și întocmirea Bugetului local rectificat nr.1, al comunei Mărăcineni pe anul 2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/274993",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/274993",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-62-2026",
    "path": "local/arges/maracineni/2026/62",
    "short": "HCL Mărăcineni nr. 62/2026",
@@ -1128,6 +1293,81 @@
    ]
   },
   {
+   "slug": "hcl-arges--maracineni-67-2026",
+   "path": "local/arges/maracineni/2026/67",
+   "short": "HCL Mărăcineni nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 67/2026 privind elaborarea și întocmirea Bugetului local rectificat nr.2, al comunei Mărăcineni pe anul 2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/275004",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/275004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-68-2026",
+   "path": "local/arges/maracineni/2026/68",
+   "short": "HCL Mărăcineni nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 68/2026 privind necesitatea declanșării și declanșarea procedurii de selecție și numire a administratorilor pentru S.C.Edilitar Mărăcineni SRL, conform art. 3 alin (2) din Anexa 1 la HG nr. 639/2023",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/275005",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/275005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-69-2026",
+   "path": "local/arges/maracineni/2026/69",
+   "short": "HCL Mărăcineni nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 69/2026 privind premierea elevilor din cadrul unităților de învățământ din comuna Mărăcineni, județul Argeș, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/275010",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/275010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-7-2026",
+   "path": "local/arges/maracineni/2026/7",
+   "short": "HCL Mărăcineni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 7/2026 privind acordarea normei de hrană personalului din cadrul Compartimentului Poliție Locală al comunei Mărăcineni, pe o perioadă de 1lună, în anul 2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/253763",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/253763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-70-2026",
+   "path": "local/arges/maracineni/2026/70",
+   "short": "HCL Mărăcineni nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 70/2026 privind aprobarea Raportului de evaluare privind echipamentele și instalațiile care compun sistemul de termoficare „Zona Blocuri Mărăcineni” prin valorificarea componentelor feroase și neferoase și a documentației privind organizarea și desfășurarea licitației publice deschise, cu strigare, pentru valorificarea prin vanzare a unor bunuri scoase din funcțiune și aparținând domeniului privat al comunei Mărăcineni, județul Argeș, ce urmează a fi valorificate ca materiale reciclabile",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/275011",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/275011",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-71-2026",
    "path": "local/arges/maracineni/2026/71",
    "short": "HCL Mărăcineni nr. 71/2026",
@@ -1153,6 +1393,21 @@
      "from": "2026-06-24",
      "units": 1,
      "source_url": "https://emol.ro/maracineni-ag/registru-hcl/275013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-73-2026",
+   "path": "local/arges/maracineni/2026/73",
+   "short": "HCL Mărăcineni nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 73/2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/275014",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/275014",
      "sha256": null
     }
    ]
@@ -1188,6 +1443,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--maracineni-76-2026",
+   "path": "local/arges/maracineni/2026/76",
+   "short": "HCL Mărăcineni nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 76/2026 privind elaborarea și întocmirea Bugetului local rectificat nr.3, al comunei Mărăcineni, pe anul 2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/278652",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/278652",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-77-2026",
    "path": "local/arges/maracineni/2026/77",
    "short": "HCL Mărăcineni nr. 77/2026",
@@ -1198,6 +1468,51 @@
      "from": "2026-07-15",
      "units": 1,
      "source_url": "https://emol.ro/maracineni-ag/registru-hcl/278653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-78-2026",
+   "path": "local/arges/maracineni/2026/78",
+   "short": "HCL Mărăcineni nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 78/2026 privind actualizarea art.1 al HCL nr.8/29.01.2026, privind desemnarea persoanei responsabile cu completarea și ținerea la zi a Registrului datoriei publice locale a unității administrativ teritoriale și a Registrului de evidență a garanțiilor locale a unității administrativ teritoriale, comuna Mărăcineni,judetul Arges, pentru anul 2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/278654",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/278654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-79-2026",
+   "path": "local/arges/maracineni/2026/79",
+   "short": "HCL Mărăcineni nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 79/2026 privind alegerea preşedintelui de şedinţă pentru lunile iulie,august și septembrie 2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/280088",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/280088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-8-2026",
+   "path": "local/arges/maracineni/2026/8",
+   "short": "HCL Mărăcineni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 8/2026 privind desemnarea persoanei responsabile cu completarea și ținerea la zi a Registrului datoriei publice locale a unității administrativ teritoriale și a Registrului de evidență a garanțiilor locale a unității administrativ teritoriale, comuna Mărăcineni,judetul Arges,pentru anul 2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/253764",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/253764",
      "sha256": null
     }
    ]
@@ -1233,6 +1548,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--maracineni-82-2026",
+   "path": "local/arges/maracineni/2026/82",
+   "short": "HCL Mărăcineni nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 82/2026 privind aprobarea documentației pentru organizarea și desfășurarea licitației publice deschise cu strigare, pentru valorificarea prin vânzare a unor mijloace fixe scoase din funcțiune și aparținând domeniul privat al comunei Maracineni, județul Argeș, ce urmează a fi valorificate ca materiale reciclabile",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/280091",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/280091",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-83-2026",
    "path": "local/arges/maracineni/2026/83",
    "short": "HCL Mărăcineni nr. 83/2026",
@@ -1258,6 +1588,21 @@
      "from": "2026-08-26",
      "units": 1,
      "source_url": "https://emol.ro/maracineni-ag/registru-hcl/280093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-85-2026",
+   "path": "local/arges/maracineni/2026/85",
+   "short": "HCL Mărăcineni nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 85/2026 privind numirea reprezentanților Consiliului Local al comunei Mărăcineni,județul Argeș, în Adunarea Generală a Acționarilor Societății Edilitar Mărăcineni S.R.L",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/280094",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/280094",
      "sha256": null
     }
    ]
@@ -1353,6 +1698,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--maracineni-91-2026",
+   "path": "local/arges/maracineni/2026/91",
+   "short": "HCL Mărăcineni nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 91/2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/282926",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/282926",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-92-2026",
    "path": "local/arges/maracineni/2026/92",
    "short": "HCL Mărăcineni nr. 92/2026",
@@ -1363,6 +1723,21 @@
      "from": "2026-08-26",
      "units": 1,
      "source_url": "https://emol.ro/maracineni-ag/registru-hcl/284402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-93-2026",
+   "path": "local/arges/maracineni/2026/93",
+   "short": "HCL Mărăcineni nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 93/2026 privind elaborarea și întocmirea Bugetului local rectificat nr. 5, al comunei Mărăcineni, pe anul 2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/284403",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/284403",
      "sha256": null
     }
    ]
@@ -1383,6 +1758,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--maracineni-95-2026",
+   "path": "local/arges/maracineni/2026/95",
+   "short": "HCL Mărăcineni nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 95/2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/284405",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/284405",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-96-2026",
    "path": "local/arges/maracineni/2026/96",
    "short": "HCL Mărăcineni nr. 96/2026",
@@ -1393,6 +1783,21 @@
      "from": "2026-10-06",
      "units": 1,
      "source_url": "https://emol.ro/maracineni-ag/registru-hcl/286187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-97-2026",
+   "path": "local/arges/maracineni/2026/97",
+   "short": "HCL Mărăcineni nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 97/2026 privind elaborarea și întocmirea Bugetului local rectificat nr.5, al comunei Mărăcineni, pe anul 2026",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/286188",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/286188",
      "sha256": null
     }
    ]

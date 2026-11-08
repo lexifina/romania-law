@@ -3,6 +3,36 @@
  "shard": "local/arad/zimandu-nou/2023",
  "acts": [
   {
+   "slug": "hcl-arad--zimandu-nou-1-2023",
+   "path": "local/arad/zimandu-nou/2023/1",
+   "short": "HCL Zimandu Nou nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 1/2023 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local Zimandu Nou din data de 06.01.2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94269",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-10-2023",
+   "path": "local/arad/zimandu-nou/2023/10",
+   "short": "HCL Zimandu Nou nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 10/2023 privind aprobarea Reţelei unităţilor de învăţământ preuniversitar de stat şi particular de pe raza unităţii administrativ-teritoriale Zimandu Nou pentru anul şcolar 2023 - 2024",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94292",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94292",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--zimandu-nou-100-2023",
    "path": "local/arad/zimandu-nou/2023/100",
    "short": "HCL Zimandu Nou nr. 100/2023",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--zimandu-nou-11-2023",
+   "path": "local/arad/zimandu-nou/2023/11",
+   "short": "HCL Zimandu Nou nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 11/2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94293",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94293",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--zimandu-nou-110-2023",
    "path": "local/arad/zimandu-nou/2023/110",
    "short": "HCL Zimandu Nou nr. 110/2023",
@@ -163,6 +208,1311 @@
      "from": "2023-12-19",
      "units": 1,
      "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/152043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-12-2023",
+   "path": "local/arad/zimandu-nou/2023/12",
+   "short": "HCL Zimandu Nou nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 12/2023 privind aprobarea planului de lucrări de interes local la nivelul unităţii administrativ-teritoriale Zimandu Nou în anul 2023 pentru persoanele apte de muncă, beneficiare de ajutor social potrivit Legii nr. 416/2001, privind venitul minim garantat",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94294",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-13-2023",
+   "path": "local/arad/zimandu-nou/2023/13",
+   "short": "HCL Zimandu Nou nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 13/2023 privind aprobarea închirierii prin atribuire directa a pășunilor disponibile aflate în proprietatea privată a Comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94295",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-14-2023",
+   "path": "local/arad/zimandu-nou/2023/14",
+   "short": "HCL Zimandu Nou nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 14/2023 privind aprobarea Programului de măsuri privind salubrizarea şi activităţile edilitar gospodăreşti care se vor desfăşura în comuna Zimandu Nou, în cursul anului 2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94296",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-15-2023",
+   "path": "local/arad/zimandu-nou/2023/15",
+   "short": "HCL Zimandu Nou nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 15/2023 privind aprobarea închirierii prin licitație publică a imobilului situat în localitatea Utviniș, ap. 5, comuna Zimandu Nou, Județul Arad, înscris în CF nr. 301194-C1-U5 Zimandu Nou, în suprafață de 36 mp construcție și cota de teren de 250 mp aferentă cotei de construcție și accesului, aflat în domeniul public al Comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94297",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-16-2023",
+   "path": "local/arad/zimandu-nou/2023/16",
+   "short": "HCL Zimandu Nou nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 16/2023 privind aprobarea actualizarii Planului de analiza si acoperire a riscurilor. Comuna Zimandu Nou - actualizat 2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94298",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-17-2023",
+   "path": "local/arad/zimandu-nou/2023/17",
+   "short": "HCL Zimandu Nou nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 17/2023 privind aprobarea proiectului „Bibliotecile din județul Arad – hub-uri de dezvoltare a competențelor digitale” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94299",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-18-2023",
+   "path": "local/arad/zimandu-nou/2023/18",
+   "short": "HCL Zimandu Nou nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 18/2023 privind instituirea taxei speciale de salubrizare datorată de utilizatorii casnici și utilizatorii non-casnici care refuză încheierea contractelor de prestări servicii cu operatorul RETIM ECOLOGIC SERVICE S.A",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96493",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-19-2023",
+   "path": "local/arad/zimandu-nou/2023/19",
+   "short": "HCL Zimandu Nou nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 19/2023 privind înscrierea dreptului de proprietate asupra terenurilor înscrise în CF nr. 303737, 303742, 303747,303752, 303521, 303522, 303525, 303529 Zimandu Nou, în folosul comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96494",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-2-2023",
+   "path": "local/arad/zimandu-nou/2023/2",
+   "short": "HCL Zimandu Nou nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 2/2023 privind acoperirea definitivă din excedentul bugetului local a deficitului secțiunii de dezvoltare pe anul 2022",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94270",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-20-2023",
+   "path": "local/arad/zimandu-nou/2023/20",
+   "short": "HCL Zimandu Nou nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 20/2023 privind încheierea și semnarea Contractului de delegare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată și transportul separat al deșeurilor municipale din județul Arad, ZONA 1",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96495",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-21-2023",
+   "path": "local/arad/zimandu-nou/2023/21",
+   "short": "HCL Zimandu Nou nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 21/2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96496",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-22-2023",
+   "path": "local/arad/zimandu-nou/2023/22",
+   "short": "HCL Zimandu Nou nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 22/2023 privind aprobarea a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții „Rețea de Canalizare Menajeră în localitatea Zimand Cuz, extindere canalizare menajeră în localitatea Zimandu Nou, racorduri, extindere capacitate stație de epurare, comuna Zimandu Nou, jud. Arad”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96497",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-23-2023",
+   "path": "local/arad/zimandu-nou/2023/23",
+   "short": "HCL Zimandu Nou nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 23/2023 privind aprobarea Contractului de gestiune directă a serviciului de sortare a deșeurilor reciclabile din deșeuri municipale în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în Județul Arad Operarea Stației de Sortare Arad",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96498",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-24-2023",
+   "path": "local/arad/zimandu-nou/2023/24",
+   "short": "HCL Zimandu Nou nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 24/2023 privind alipirea imobilelor înscrise în CF nr. 304621 și CF 308154, Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96499",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-25-2023",
+   "path": "local/arad/zimandu-nou/2023/25",
+   "short": "HCL Zimandu Nou nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 25/2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96500",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-26-2023",
+   "path": "local/arad/zimandu-nou/2023/26",
+   "short": "HCL Zimandu Nou nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 26/2023 privind aprobarea Regulamentului de atribuire a contractelor de finanţare nerambursabilă din fondurile bugetului Comunei Zimandu Nou, alocate pentru activităţi nonprofit potrivit Legii nr. 350/2005 Direcţia de finanţare: Cultură",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96501",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-27-2023",
+   "path": "local/arad/zimandu-nou/2023/27",
+   "short": "HCL Zimandu Nou nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 27/2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96502",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-28-2023",
+   "path": "local/arad/zimandu-nou/2023/28",
+   "short": "HCL Zimandu Nou nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 28/2023 privind aprobarea documentaţiei tehnice şi indicatorilor tehnico – economici pentru obiectivul de investiţie: Reparații clădire tip muzeu Comuna Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96503",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-29-2023",
+   "path": "local/arad/zimandu-nou/2023/29",
+   "short": "HCL Zimandu Nou nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 29/2023 privind aprobarea documentaţiei tehnice şi indicatorilor tehnico – economici pentru obiectivul de investiţie: Amplasare tonete Comuna Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96504",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-3-2023",
+   "path": "local/arad/zimandu-nou/2023/3",
+   "short": "HCL Zimandu Nou nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 3/2023 privind avizarea Studiului de fundamentare/oportunitate, a Documentației de atribuire a Contractul de gestiune directă a serviciului de sortare a deșeurilor municipale în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în Județul Arad Operarea Stației de Sortare Arad",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94275",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-30-2023",
+   "path": "local/arad/zimandu-nou/2023/30",
+   "short": "HCL Zimandu Nou nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 30/2023 privind aprobarea documentației tehnico-economice -Studiu de Fezabilitate - aferent obiectivului Amenajare Pista pentru cicliști în comuna Zimandu Nou, localitățile Zimandu Nou și Zimandcuz, a indicatorilor tehnico-economici și a Devizului general aferent obiectivului de investiții",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96505",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-31-2023",
+   "path": "local/arad/zimandu-nou/2023/31",
+   "short": "HCL Zimandu Nou nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 31/2023 privind dezmembrarea imobilului înscris în CF nr. 301823 Zimandu Nou în 32 de loturi",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96506",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-32-2023",
+   "path": "local/arad/zimandu-nou/2023/32",
+   "short": "HCL Zimandu Nou nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 32/2023 privind aprobarea primei înscrieri în cartea funciară a unor bunuri imobile proprietatea publică a comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96507",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-33-2023",
+   "path": "local/arad/zimandu-nou/2023/33",
+   "short": "HCL Zimandu Nou nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 33/2023 privind înființarea unui cabinet medical școlar care va deservi Școlile gimnaziale de pe raza comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/96509",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/96509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-34-2023",
+   "path": "local/arad/zimandu-nou/2023/34",
+   "short": "HCL Zimandu Nou nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 34/2023 privind acordul de participare a Comunei Zimandu Nou în cadrul Programului privind casarea autovehiculelor uzate",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/104815",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/104815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-35-2023",
+   "path": "local/arad/zimandu-nou/2023/35",
+   "short": "HCL Zimandu Nou nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 35/2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/104849",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/104849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-36-2023",
+   "path": "local/arad/zimandu-nou/2023/36",
+   "short": "HCL Zimandu Nou nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 36/2023 privind aprobarea drepturilor băneşti aferente personalului didactic de la Şcoala Gimnazială „Andrei Șaguna” jud. Arad, pentru cheltuielile de deplasare pe lunile ianuarie-martie 2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/104850",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/104850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-37-2023",
+   "path": "local/arad/zimandu-nou/2023/37",
+   "short": "HCL Zimandu Nou nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 37/2023 privind aprobarea trecerii din domeniul public în domeniul privat al Comunei Zimandu Nou a unor bunuri de natura mijloacelor fixe aflate în concesiune la SC Compania de Apă Arad SA în vederea scoaterii din funcțiune",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/104851",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/104851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-38-2023",
+   "path": "local/arad/zimandu-nou/2023/38",
+   "short": "HCL Zimandu Nou nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 38/2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/104852",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/104852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-39-2023",
+   "path": "local/arad/zimandu-nou/2023/39",
+   "short": "HCL Zimandu Nou nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 39/2023 privind modificarea Anexelor 1,2 la HCL 74 din 28.07.2017 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/104853",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/104853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-4-2023",
+   "path": "local/arad/zimandu-nou/2023/4",
+   "short": "HCL Zimandu Nou nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 4/2023 privind avizarea Strategiei de contractare, Studiului de fundamentare/oportunitate, Documentației de atribuire pentru delegarea gestiunii serviciului de depozitare și neutralizare a deșeurilor municipale în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în Județul Arad Operarea Depozitului Conform Arad",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94276",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-40-2023",
+   "path": "local/arad/zimandu-nou/2023/40",
+   "short": "HCL Zimandu Nou nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 40/2023 privind aprobarea vânzării prin licitație publică unor terenuri intravilane din proprietatea privată a comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/104860",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/104860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-41-2023",
+   "path": "local/arad/zimandu-nou/2023/41",
+   "short": "HCL Zimandu Nou nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 41/2023 privind aprobarea vânzării prin licitație publică unor terenuri intravilane din proprietatea privată a comunei Zimandu Nou situate în zona industrială",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/104861",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/104861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-42-2023",
+   "path": "local/arad/zimandu-nou/2023/42",
+   "short": "HCL Zimandu Nou nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 42/2023 privind aprobarea Actului Adițional nr. 5 la Statutul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/104862",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/104862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-43-2023",
+   "path": "local/arad/zimandu-nou/2023/43",
+   "short": "HCL Zimandu Nou nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 43/2023 privind modificarea Statutului Asociaţiei de Dezvoltare Intercomunitară Apă Canalizare Judeţul Arad, la care comuna Zimandu Nou este membru asociat",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/104863",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/104863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-44-2023",
+   "path": "local/arad/zimandu-nou/2023/44",
+   "short": "HCL Zimandu Nou nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 44/2023 privind aderarea și includerea teritoriului comunei Zimandu Nou la parteneriatul/teritoriul LEADER constituit prin Asociația GRUP DE ACȚIUNE LOCALĂ „MICRO-REGIUNEA VĂILOR CRIȘURILOR ALB ȘI NEGRU” pentru obținerea sprijinului pregătitor, pentru selecția și implementarea Strategiei de Dezvoltare Locală aferentă perioadei de programare 2023-2027",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/104864",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/104864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-45-2023",
+   "path": "local/arad/zimandu-nou/2023/45",
+   "short": "HCL Zimandu Nou nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 45/2023 privind rectificarea bugetului local al comunei Zimandu Nou pe anul 2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/104865",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/104865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-46-2023",
+   "path": "local/arad/zimandu-nou/2023/46",
+   "short": "HCL Zimandu Nou nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 46/2023 privind rectificarea suprafeţei de teren înscris în CF nr. 303584 comuna Zimandu Nou conform documentaţiei cadastrale întocmită de HEXAGON TOPOCAD SRL",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/104866",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/104866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-47-2023",
+   "path": "local/arad/zimandu-nou/2023/47",
+   "short": "HCL Zimandu Nou nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 47/2023 privind ...dezmembrarea imobilului înscris în CF nr. 308048 Zimandu Nou în două loturi",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/113039",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/113039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-48-2023",
+   "path": "local/arad/zimandu-nou/2023/48",
+   "short": "HCL Zimandu Nou nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 48/2023 privind aprobarea însușirii documentației de urbanism Plan Urbanistic Zonal „ZONA REZIDENTIALA MIXTA CU FUNCTIUNI COMPLEMENTARE SI DOTARI”, în sat Zimandcuz, com. Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/113040",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/113040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-49-2023",
+   "path": "local/arad/zimandu-nou/2023/49",
+   "short": "HCL Zimandu Nou nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 49/2023 privind întabularea definitivă în proprietatea privată a comunei Zimandu Nou a unui teren intravilan de pe teritoriul administrativ al comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/113041",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/113041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-5-2023",
+   "path": "local/arad/zimandu-nou/2023/5",
+   "short": "HCL Zimandu Nou nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 5/2023 privind aprobarea solicitării prelungirii Scrisorii de garantie nr. 624/11.10.2018 de la FNGCIMM SA IFN in valoare de 1.000.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 1.000.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – „ Construire grădiniţă cu program prelungit în localitatea Andrei Şaguna, judeţul Arad ”",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94277",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-50-2023",
+   "path": "local/arad/zimandu-nou/2023/50",
+   "short": "HCL Zimandu Nou nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 50/2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/113042",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/113042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-51-2023",
+   "path": "local/arad/zimandu-nou/2023/51",
+   "short": "HCL Zimandu Nou nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 51/2023 privind aprobarea drepturilor băneşti aferente personalului didactic de la Şcoala Gimnazială „Andrei Șaguna” jud. Arad, pentru cheltuielile de deplasare pe lunile martie-aprilie 2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/113043",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/113043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-52-2023",
+   "path": "local/arad/zimandu-nou/2023/52",
+   "short": "HCL Zimandu Nou nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 52/2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/113044",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/113044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-53-2023",
+   "path": "local/arad/zimandu-nou/2023/53",
+   "short": "HCL Zimandu Nou nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 53/2023 privind aprobarea vânzării prin licitație publică unor terenuri intravilane din proprietatea privată a comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/113045",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/113045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-54-2023",
+   "path": "local/arad/zimandu-nou/2023/54",
+   "short": "HCL Zimandu Nou nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 54/2023 privind rectificarea bugetului local al comunei Zimandu Nou pe anul 2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/113046",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/113046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-55-2023",
+   "path": "local/arad/zimandu-nou/2023/55",
+   "short": "HCL Zimandu Nou nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 55/2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/113047",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/113047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-56-2023",
+   "path": "local/arad/zimandu-nou/2023/56",
+   "short": "HCL Zimandu Nou nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 56/2023 privind aprobarea documentaţiei tehnice şi indicatorilor tehnico – economici pentru obiectivul de investiţie: : Subtraversare DN79 cu conducta de apa în localitatea Zimandcuz, com. Zimandu Nou, jud. Arad",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/113048",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/113048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-57-2023",
+   "path": "local/arad/zimandu-nou/2023/57",
+   "short": "HCL Zimandu Nou nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 57/2023 privind aprobarea documentaţiei tehnice şi indicatorilor tehnico – economici pentru obiectivul de investiţie: Extindere rețea de apa în com. Zimandu Nou, jud. Arad",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/113049",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/113049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-58-2023",
+   "path": "local/arad/zimandu-nou/2023/58",
+   "short": "HCL Zimandu Nou nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 58/2023 privind întabularea definitivă în proprietatea privată a comunei Zimandu Nou a unui teren intravilan de pe teritoriul administrativ al comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/113050",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/113050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-59-2023",
+   "path": "local/arad/zimandu-nou/2023/59",
+   "short": "HCL Zimandu Nou nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 59/2023 privind actualizarea valorii de inventar al unui bun imobil din inventarului domeniului public al comunei Zimandu Nou, județul Arad",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/113051",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/113051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-6-2023",
+   "path": "local/arad/zimandu-nou/2023/6",
+   "short": "HCL Zimandu Nou nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 6/2023 privind aprobarea bugetului de venituri şi cheltuieli al comunei Zimandu Nou pe anul 2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94288",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-60-2023",
+   "path": "local/arad/zimandu-nou/2023/60",
+   "short": "HCL Zimandu Nou nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 60/2023 privind rectificarea bugetului local al comunei Zimandu Nou pe anul 2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/117235",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/117235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-61-2023",
+   "path": "local/arad/zimandu-nou/2023/61",
+   "short": "HCL Zimandu Nou nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 61/2023 privind aprobarea drepturilor băneşti aferente personalului didactic de la Şcoala Gimnazială „Andrei Șaguna” jud. Arad, pentru cheltuielile de deplasare pe luna mai 2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/117236",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/117236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-62-2023",
+   "path": "local/arad/zimandu-nou/2023/62",
+   "short": "HCL Zimandu Nou nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 62/2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/117237",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/117237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-63-2023",
+   "path": "local/arad/zimandu-nou/2023/63",
+   "short": "HCL Zimandu Nou nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 63/2023 privind aprobarea trecerii din domeniul public în domeniul privat al Comunei Zimandu Nou a unor bunuri de natura mijloacelor fixe aflate în concesiune la SC Compania de Apă Arad SA în vederea scoaterii din funcțiune",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/117238",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/117238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-64-2023",
+   "path": "local/arad/zimandu-nou/2023/64",
+   "short": "HCL Zimandu Nou nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 64/2023 privind aprobarea documentaţiei tehnice şi indicatorilor tehnico – economici pentru obiectivul de investiţie: Construire sala de sport și împrejmuire parțială",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/117239",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/117239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-65-2023",
+   "path": "local/arad/zimandu-nou/2023/65",
+   "short": "HCL Zimandu Nou nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 65/2023 privind aprobarea Planului anual de acţiune privind serviciile sociale acordate la nivelul comunei Zimandu Nou, judeţul Arad pentru anul 2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/117240",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/117240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-66-2023",
+   "path": "local/arad/zimandu-nou/2023/66",
+   "short": "HCL Zimandu Nou nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 66/2023 privind aprobarea Studiului de oportunitate/fundamentare a deciziei de delegare a gestiunii serviciului de colectare și transport al deșeurilor municipale în județul Arad și de operare a stațiilor de transfer, sortare și compostare în județul Arad",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/118050",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/118050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-67-2023",
+   "path": "local/arad/zimandu-nou/2023/67",
+   "short": "HCL Zimandu Nou nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 67/2023 privind aprobarea tarifului pentru activitatea de tratare aerobă a biodeşeurilor colectate separat în instalaţii de compostare, inclusiv transportul reziduurilor la depozitele de deşeuri şi/sau la instalaţiile de valorificare energetică, la Stația de compostare în tunel Arad",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/118051",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/118051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-68-2023",
+   "path": "local/arad/zimandu-nou/2023/68",
+   "short": "HCL Zimandu Nou nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 68/2023 privind aprobarea tarifului pentru activitatea de sortare a deşeurilor de hârtie, carton, metal, plastic şi sticlă colectate separat din deşeurile municipale în staţii de sortare, inclusiv transportul reziduurilor rezultate din sortare la depozitele de deşeuri şi/sau la instalaţiile de valorificare energetică",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/118052",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/118052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-69-2023",
+   "path": "local/arad/zimandu-nou/2023/69",
+   "short": "HCL Zimandu Nou nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 69/2023 privind aprobarea tarifului pentru activitatea de eliminare, prin depozitare, a deşeurilor reziduale, a deşeurilor stradale, a deşeurilor de pământ şi pietre provenite de pe căile publice, a reziduurilor rezultate de la instalaţiile de tratare a deşeurilor municipale, precum şi a deşeurilor care nu pot fi valorificate provenite din activităţi de reamenajare şi reabilitare interioară şi/sau exterioară a locuinţelor la depozitele de deşeuri nepericuloase",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/118053",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/118053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-7-2023",
+   "path": "local/arad/zimandu-nou/2023/7",
+   "short": "HCL Zimandu Nou nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 7/2023 privind aprobarea cotizaţiei Comunei Zimandu Nou aferentă anului 2023, la bugetul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94289",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-70-2023",
+   "path": "local/arad/zimandu-nou/2023/70",
+   "short": "HCL Zimandu Nou nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 70/2023 privind neasumarea responsabilităţii UAT comuna Zimandu Nou, organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor lactate, de panificație și fructi, precum și a serviciilor pentru derularea măsurilor educative aferente programului pentru şcoli al României pentru anii școlari 2023-2029,",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/118054",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/118054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-71-2023",
+   "path": "local/arad/zimandu-nou/2023/71",
+   "short": "HCL Zimandu Nou nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 71/2023 privind însușirea și aprobarea situației bunurilor recepționate de SC Compania de Apă Arad la 31.12.2022",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/118055",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/118055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-72-2023",
+   "path": "local/arad/zimandu-nou/2023/72",
+   "short": "HCL Zimandu Nou nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 72/2023 privind aprobarea vânzării prin licitație publică unor terenuri intravilane din proprietatea privată a comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/118056",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/118056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-73-2023",
+   "path": "local/arad/zimandu-nou/2023/73",
+   "short": "HCL Zimandu Nou nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 73/2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/118057",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/118057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-74-2023",
+   "path": "local/arad/zimandu-nou/2023/74",
+   "short": "HCL Zimandu Nou nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 74/2023 privind aprobarea introducerii în circuitul funciar a unor terenuri neagricole",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/118058",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/118058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-75-2023",
+   "path": "local/arad/zimandu-nou/2023/75",
+   "short": "HCL Zimandu Nou nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 75/2023 privind privind dezmembrarea imobilului înscris în CF nr. 305619 Zimandu Nou în două loturi",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/118059",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/118059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-76-2023",
+   "path": "local/arad/zimandu-nou/2023/76",
+   "short": "HCL Zimandu Nou nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 76/2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/123389",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/123389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-77-2023",
+   "path": "local/arad/zimandu-nou/2023/77",
+   "short": "HCL Zimandu Nou nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 77/2023 privind avizarea Strategiei de contractare, Studiului de fundamentare/oportunitate, Documentației de atribuire pentru delegarea gestiunii serviciului de eliminare, prin depozitare, a deşeurilor reziduale, a deşeurilor stradale, a deşeurilor de pământ şi pietre provenite de pe căile publice, a reziduurilor rezultate de la instalaţiile de tratare a deşeurilor municipale, precum şi a deşeurilor care nu pot fi valorificate provenite din activităţi de reamenajare şi reabilitare interioară şi/sau exterioară a locuinţelor la depozitele de deşeuri nepericuloase, Operarea Depozitului de deseuri nepericuloase Arad, componenta eliminare, prin depozitare, a deșeurilor municipale reziduale, a reziduurilor rezultate de la instalaţiile de tratare a deşeurilor municipale, precum, a deşeurilor care nu pot fi valorificate provenite din activităţi de reamenajare şi reabilitare interioară şi/sau exterioară a locuinţelor si a deșeurilor ce nu pot fi valorificate din deșeurile voluminoase, deșeurile textile și deșeurile provenite de la evenimente la depozitul de deşeuri nepericuloase din Aria Delegării, în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în Județul Arad",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/123390",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/123390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-78-2023",
+   "path": "local/arad/zimandu-nou/2023/78",
+   "short": "HCL Zimandu Nou nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 78/2023 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 21",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/123391",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/123391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-79-2023",
+   "path": "local/arad/zimandu-nou/2023/79",
+   "short": "HCL Zimandu Nou nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 79/2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/123392",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/123392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-8-2023",
+   "path": "local/arad/zimandu-nou/2023/8",
+   "short": "HCL Zimandu Nou nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 8/2023 privind acordarea mandatului reprezentantului în AGA a ADIACJA pentru aprobarea Strategiei de de Dezoltare a Serviciului Public de Alimentare cu Apă și de Canalizare in aria de operare județul Arad 2022 – 2027",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94290",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-80-2023",
+   "path": "local/arad/zimandu-nou/2023/80",
+   "short": "HCL Zimandu Nou nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 80/2023 privind dezmembrarea imobilului înscris în CF nr. 309435 Zimandu Nou în trei loturi",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/123393",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/123393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-81-2023",
+   "path": "local/arad/zimandu-nou/2023/81",
+   "short": "HCL Zimandu Nou nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 81/2023 privind aprobarea dării în administrare gratuită către Şcoala Gimnazială ”Andrei Șaguna” a imobilului Grădiniță cu program prelungit din Andrei Șaguna, comuna Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/123394",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/123394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-82-2023",
+   "path": "local/arad/zimandu-nou/2023/82",
+   "short": "HCL Zimandu Nou nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 82/2023 privind stabilirea platformei de depozitare temporara a deseurilor voluminoase, deseurilor periculoase,deseurilor biodegradabile, care provin din gospodarii, precum și de ambalaje din sticlă generate de populație și agenți economici, stabilirea platformei de depozitare a deșeurilor inerte provenite din activitățile de construcții si demolări de pe raza comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/123395",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/123395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-83-2023",
+   "path": "local/arad/zimandu-nou/2023/83",
+   "short": "HCL Zimandu Nou nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 83/2023 privind privind întabularea definitivă în proprietatea privată a comunei Zimandu Nou a unui teren intravilan de pe teritoriul administrativ al comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/123396",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/123396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-84-2023",
+   "path": "local/arad/zimandu-nou/2023/84",
+   "short": "HCL Zimandu Nou nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 84/2023 privind întabularea definitivă în proprietatea privată a comunei Zimandu Nou a unui teren intravilan de pe teritoriul administrativ al comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/123397",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/123397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-85-2023",
+   "path": "local/arad/zimandu-nou/2023/85",
+   "short": "HCL Zimandu Nou nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 85/2023 privind dezmembrarea imobilului înscris în CF nr. 308158 Zimandu Nou în două loturi",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/123398",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/123398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-86-2023",
+   "path": "local/arad/zimandu-nou/2023/86",
+   "short": "HCL Zimandu Nou nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 86/2023 privind rectificarea bugetului local al comunei Zimandu Nou pe anul 2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/123399",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/123399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-87-2023",
+   "path": "local/arad/zimandu-nou/2023/87",
+   "short": "HCL Zimandu Nou nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 87/2023 privind atestarea inventarului bunurilor care aparțin domeniului public al comunei Zimandu Nou, județul Arad",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/152009",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/152009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-88-2023",
+   "path": "local/arad/zimandu-nou/2023/88",
+   "short": "HCL Zimandu Nou nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 88/2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/152010",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/152010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-89-2023",
+   "path": "local/arad/zimandu-nou/2023/89",
+   "short": "HCL Zimandu Nou nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 89/2023 privind aprobarea drepturilor băneşti aferente personalului didactic de la Şcoala Gimnazială „Andrei Șaguna” jud. Arad, pentru cheltuielile de deplasare pe lunile august-septembrie 2023",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/152011",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/152011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-9-2023",
+   "path": "local/arad/zimandu-nou/2023/9",
+   "short": "HCL Zimandu Nou nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 9/2023 privind aprobarea documentaţiei tehnice şi indicatorilor tehnico – economici pentru obiectivul de investiţie: Aducțiune de apa potabilă Arad-Zimandcuz, tronson Livada-Zimandcuz",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/94291",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/94291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-90-2023",
+   "path": "local/arad/zimandu-nou/2023/90",
+   "short": "HCL Zimandu Nou nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 90/2023 privind clasificarea unor drumuri de interes local în drum comunal, proprietatea publică a comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/152012",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/152012",
      "sha256": null
     }
    ]

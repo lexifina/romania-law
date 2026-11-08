@@ -3,6 +3,72 @@
 "shard": "local/arad/santana/2014",
 "acts": [
 {
+"slug": "hcl-arad--santana-32-2014",
+"path": "local/arad/santana/2014/32",
+"kind": "local",
+"year": "2014",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 32/2014 PRIVIND APROBAREA CUANTUMULUI COTIZATIEI ORASULUI SANTANA IN CADRUL ASOCIATIEI DE DEZVOLTARE INTERCOMUNITARA. SISTEM INTEGRAT DE GESTIONARE A DESEURILOR SI A PROIECTULUI DE BUGET PRIVIND VENITURILE SI CHELTUIELILE ASOCIATIEI PENTRU ANUL 20T4 CONSILIUL LOCAL AL ORASULUI SANTANA Avind in vedere :",
+"short": "HCL Sântana nr. 32/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-03-25",
+"latest": "2014-03-25",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=273",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--santana-78-2014",
+"path": "local/arad/santana/2014/78",
+"kind": "local",
+"year": "2014",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 78/2014 privind aprobarea ordinei de zi a sedintei extraordinare CONSILruL LOCAL AL ORASULUI SANTANA, AvAnd in vedere : I Prevederile art. 43 alin. din Legea 21512001 privind administralia publicd locald, republicata., cu modifi cdrile si completirile ulterioare In temeiul art.45 alin. 1 din Legea nr.215l2001,legea administraliei publice locale,republicati,cu modificirile si completdrile ulterioare, HorAR",
+"short": "HCL Sântana nr. 78/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-03",
+"latest": "2014-06-03",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=264",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--santana-92-2014",
+"path": "local/arad/santana/2014/92",
+"kind": "local",
+"year": "2014",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 92/2014 privind desemnarea presetlintelui tle sedinta LIUL LOCAL AL ORASULUI SANTANA, in vedere : privind desemnarea pregedintelui de gedinli stabilitd de Consiliul local; jt]^j: jl 3':ccc'iiao,rulti,:rall\":e\"l3ao\"c1curs,tai*j'm:4tc*^e5o1o:mgrad:i1\"pilafi::lni:tec.t.r.ti-e?drl'igril,e1iulide1laisn0umi-lctLe0eoen.r1migtoue,arpaurleeiyn,tdlirr\".ei2lterrl5ud.u/ne2clg0atlie0eop1narr,oiaobrl2e.a1ag\"5rrereeta2c",
+"short": "HCL Sântana nr. 92/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-07-15",
+"latest": "2014-07-15",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=263",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--santana-95-2014",
 "path": "local/arad/santana/2014/95",
 "kind": "local",
@@ -22,6 +88,143 @@
 "council_name": "Consiliul Local al Orașului Sântana",
 "flags": {
 "text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-105-2014",
+"path": "local/arad/santana/2014/105",
+"kind": "local",
+"year": "2014",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 105/2014",
+"short": "HCL Sântana nr. 105/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-07-15",
+"latest": "2014-07-15",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-107-2014",
+"path": "local/arad/santana/2014/107",
+"kind": "local",
+"year": "2014",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 107/2014",
+"short": "HCL Sântana nr. 107/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-07-15",
+"latest": "2014-07-15",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-108-2014",
+"path": "local/arad/santana/2014/108",
+"kind": "local",
+"year": "2014",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 108/2014",
+"short": "HCL Sântana nr. 108/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-07-15",
+"latest": "2014-07-15",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-133-2014",
+"path": "local/arad/santana/2014/133",
+"kind": "local",
+"year": "2014",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 133/2014",
+"short": "HCL Sântana nr. 133/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-09-25",
+"latest": "2014-09-25",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-135-2014",
+"path": "local/arad/santana/2014/135",
+"kind": "local",
+"year": "2014",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 135/2014 PRIVIND PRELUAREA BUNURILOR MATERIALE/ECHIPAMENT MIINMIPSETRERMUELPAOBAIFLLIATPCIELEOIRARILIOEOMRBAANINRETBEDARITRNI/EEIsCITBNIUSAPCDEAECTTIL,OOFRGAARISTAUTIPLCLAGATEAN,I,DREALLAAL corysILruL vLnOClrAnL tA,L ORASULUT SANTANA AVAND iN - - a - ARInedsfrteietruasttaiidloenrrs.Pp5ue4bc4li0iac1leit1aD9te.e0cn8or.n.2lc00e5rn47tra8t1e23Isn.0i s9Rt.2iet0lua1tt4iiei viInuptiecrreinufaetAcioltenuxalualeindr",
+"short": "HCL Sântana nr. 135/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-09-25",
+"latest": "2014-09-25",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=262",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--santana-136-2014",
+"path": "local/arad/santana/2014/136",
+"kind": "local",
+"year": "2014",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 136/2014",
+"short": "HCL Sântana nr. 136/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-09-25",
+"latest": "2014-09-25",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 }

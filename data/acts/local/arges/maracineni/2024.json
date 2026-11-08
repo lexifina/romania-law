@@ -3,6 +3,28 @@
 "shard": "local/arges/maracineni/2024",
 "acts": [
 {
+"slug": "hcl-arges--maracineni-1-2024",
+"path": "local/arges/maracineni/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 1/2024 privind alegerea preşedintelui de şedinţă pentru lunile ianuarie, februarie și martie 2024",
+"short": "HCL Mărăcineni nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-04",
+"latest": "2024-01-04",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/140398",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-2-2024",
 "path": "local/arges/maracineni/2024/2",
 "kind": "local",
@@ -89,6 +111,50 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-6-2024",
+"path": "local/arges/maracineni/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 6/2024 privind acordarea normei de hrană personalului din cadrul Compartimentului Poliție Locală al comunei Mărăcineni, pe o perioadă de 6 luni , în anul 2024",
+"short": "HCL Mărăcineni nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-18",
+"latest": "2024-01-18",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/140504",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-7-2024",
+"path": "local/arges/maracineni/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 7/2024 privind desemnarea persoanei responsabile cu completarea și ținerea la zi a Registrului datoriei publice locale a unității administrativ teritoriale și a Registrului de evidență a garanțiilor locale a unității administrativ teritoriale, comuna Mărăcineni,judetul Arges,pentru anul 2024",
+"short": "HCL Mărăcineni nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-18",
+"latest": "2024-01-18",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/140505",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -200,6 +266,28 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-13-2024",
+"path": "local/arges/maracineni/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 13/2024 privind aprobarea Ştatului de personal , pentru Centrul de copii Albă ca Zăpada si cei 60 de pitici , din comuna Mărăcineni,județul Argeș, aprobarea Devizului financiar al cheltuielilor totale pentru Centrul de zi ”Albă ca zăpada și cei 60 de pitici ” , indemnizaţiei de hrană și voucherelor de vacanță, pentru personal, aferente anului 2024, în vederea elaborării și întocmirii bugetului local al comunei Mărăcineni pentru anul 2024",
+"short": "HCL Mărăcineni nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-05",
+"latest": "2024-03-05",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/143995",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -336,6 +424,29 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-20-2024",
+"path": "local/arges/maracineni/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 20/2024",
+"short": "HCL Mărăcineni nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/146370",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arges--maracineni-21-2024",
 "path": "local/arges/maracineni/2024/21",
 "kind": "local",
@@ -402,6 +513,28 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-24-2024",
+"path": "local/arges/maracineni/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 24/2024 Privind aprobarea modificării prețului /hrană/beneficiar pentru serviciile de catering privind indemnizația de hrană pentru copii/ beneficiarii activității din cadrul Centrului de Zi ,,Albă ca Zăpada și cei 60 de pitici” din comuna Mărăcineni, judetul Argeș, începând cu 01.03.2024",
+"short": "HCL Mărăcineni nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/146374",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-25-2024",
 "path": "local/arges/maracineni/2024/25",
 "kind": "local",
@@ -443,6 +576,28 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-27-2024",
+"path": "local/arges/maracineni/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 27/2024 Privind aprobarea închirierii prin licitație publică a spațiilor din cadrul dispensarului uman din comuna Mărăcineni , sat Argeșelu, str. Argeșelu, nr. 375, aparținând domeniului public al Unității Administrativ- Teritoriale Mărăcineni, județul Argeș",
+"short": "HCL Mărăcineni nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/150463",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1088,6 +1243,29 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-57-2024",
+"path": "local/arges/maracineni/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 57/2024",
+"short": "HCL Mărăcineni nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-14",
+"latest": "2024-05-14",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/158828",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arges--maracineni-58-2024",
 "path": "local/arges/maracineni/2024/58",
 "kind": "local",
@@ -1354,6 +1532,28 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-70-2024",
+"path": "local/arges/maracineni/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 70/2024 privind majorarea, începând cu luna iunie 2024, a salariilor personalului angajat în aparatul de specialitate al Primarului comunei Mărăcineni , având în vedere punerea în aplicare a prevederilor Articolului II din Ordonanța de Urgență a Guvernului nr. 53/2024 și luând în calcul majorarea acordată prin Ordonanța de Urgență nr. 115/2023",
+"short": "HCL Mărăcineni nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-12",
+"latest": "2024-06-12",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/161340",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-71-2024",
 "path": "local/arges/maracineni/2024/71",
 "kind": "local",
@@ -1597,6 +1797,28 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-82-2024",
+"path": "local/arges/maracineni/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 82/2024 Privind aprobarea rectificării bugetului local al comunei Mărăcineni , la nivelul trimestrului III -rectificat nr.4/2024",
+"short": "HCL Mărăcineni nr. 82/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/165059",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-83-2024",
 "path": "local/arges/maracineni/2024/83",
 "kind": "local",
@@ -1642,6 +1864,29 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-85-2024",
+"path": "local/arges/maracineni/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 85/2024",
+"short": "HCL Mărăcineni nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/165062",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arges--maracineni-86-2024",
 "path": "local/arges/maracineni/2024/86",
 "kind": "local",
@@ -1661,6 +1906,28 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-87-2024",
+"path": "local/arges/maracineni/2024/87",
+"kind": "local",
+"year": "2024",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 87/2024 Privind modificarea și actualizarea HCL nr.82/17.07.2024 privind aprobarea rectificării bugetului local al comunei Mărăcineni , la nivelul trimestrului III -rectificat nr.4/2024",
+"short": "HCL Mărăcineni nr. 87/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-24",
+"latest": "2024-07-24",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/170523",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1752,6 +2019,28 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-92-2024",
+"path": "local/arges/maracineni/2024/92",
+"kind": "local",
+"year": "2024",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 92/2024 Privind aprobarea rectificării bugetului local al comunei Mărăcineni , la nivelul trimestrului III -rectificat nr.5/2024",
+"short": "HCL Mărăcineni nr. 92/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/170545",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-93-2024",
 "path": "local/arges/maracineni/2024/93",
 "kind": "local",
@@ -1771,6 +2060,28 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-94-2024",
+"path": "local/arges/maracineni/2024/94",
+"kind": "local",
+"year": "2024",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 94/2024 Privind aprobarea modificării prețului /hrană/beneficiar pentru serviciile de catering privind indemnizația de hrană pentru copii/ beneficiarii activității din cadrul Centrului de Zi ,,Albă ca Zăpada și cei 60 de pitici” din comuna Mărăcineni , judetul Argeș, începând cu 01.09.2024",
+"short": "HCL Mărăcineni nr. 94/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/170547",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1838,6 +2149,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--maracineni-98-2024",
+"path": "local/arges/maracineni/2024/98",
+"kind": "local",
+"year": "2024",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 98/2024 Privind aprobarea rectificării bugetului local al comunei Mărăcineni , la nivelul trimestrului III -rectificat nr.6/2024",
+"short": "HCL Mărăcineni nr. 98/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-18",
+"latest": "2024-09-18",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/170561",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1974,6 +2307,28 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-105-2024",
+"path": "local/arges/maracineni/2024/105",
+"kind": "local",
+"year": "2024",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 105/2024 Privind aprobarea rectificării bugetului local al comunei Mărăcineni , la nivelul trimestrului III -rectificat nr.7/2024",
+"short": "HCL Mărăcineni nr. 105/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/175661",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-106-2024",
 "path": "local/arges/maracineni/2024/106",
 "kind": "local",
@@ -2040,6 +2395,28 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-109-2024",
+"path": "local/arges/maracineni/2024/109",
+"kind": "local",
+"year": "2024",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 109/2024 Privind aprobarea rectificării bugetului local al comunei Mărăcineni , la nivelul trimestrului IV -rectificat nr.8/2024",
+"short": "HCL Mărăcineni nr. 109/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-03",
+"latest": "2024-10-03",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/175676",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-110-2024",
 "path": "local/arges/maracineni/2024/110",
 "kind": "local",
@@ -2059,6 +2436,28 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-111-2024",
+"path": "local/arges/maracineni/2024/111",
+"kind": "local",
+"year": "2024",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 111/2024 Privind aprobarea rectificării bugetului local al comunei Mărăcineni , la nivelul trimestrului IV -rectificat nr.8/2024",
+"short": "HCL Mărăcineni nr. 111/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-03",
+"latest": "2024-10-03",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/175678",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2128,6 +2527,117 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-115-2024",
+"path": "local/arges/maracineni/2024/115",
+"kind": "local",
+"year": "2024",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 115/2024 Privind aprobarea rectificării bugetului local al comunei Mărăcineni , la nivelul trimestrului IV -rectificat nr.9/2024",
+"short": "HCL Mărăcineni nr. 115/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-23",
+"latest": "2024-10-23",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/179916",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-116-2024",
+"path": "local/arges/maracineni/2024/116",
+"kind": "local",
+"year": "2024",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 116/2024",
+"short": "HCL Mărăcineni nr. 116/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-23",
+"latest": "2024-10-23",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/179917",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--maracineni-117-2024",
+"path": "local/arges/maracineni/2024/117",
+"kind": "local",
+"year": "2024",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 117/2024 privind alegerea preşedintelui de şedinţă pentru perioada rămasă până la sfărșitul anului 2024 (lunile noiembrie,decembrie 2024)",
+"short": "HCL Mărăcineni nr. 117/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/182053",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-118-2024",
+"path": "local/arges/maracineni/2024/118",
+"kind": "local",
+"year": "2024",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 118/2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Mărăcineni, județul Argeș",
+"short": "HCL Mărăcineni nr. 118/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/182054",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-119-2024",
+"path": "local/arges/maracineni/2024/119",
+"kind": "local",
+"year": "2024",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 119/2024 privind alegerea Viceprimarului comunei Mărăcineni, judeţul Argeș , pentru mandatul 2024-2028",
+"short": "HCL Mărăcineni nr. 119/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/182061",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-120-2024",
 "path": "local/arges/maracineni/2024/120",
 "kind": "local",
@@ -2147,6 +2657,28 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-121-2024",
+"path": "local/arges/maracineni/2024/121",
+"kind": "local",
+"year": "2024",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 121/2024 Privind aprobarea rectificării bugetului local al comunei Mărăcineni, la nivelul trimestrului IV -rectificat nr.10/2024",
+"short": "HCL Mărăcineni nr. 121/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/185370",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2192,6 +2724,28 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-124-2024",
+"path": "local/arges/maracineni/2024/124",
+"kind": "local",
+"year": "2024",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 124/2024 privind desemnarea unor reprezentanți în Consiliul de Administrație al Liceului Tehnologic nr.1 Mărăcineni pentru anul scolar 2024-2025",
+"short": "HCL Mărăcineni nr. 124/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/185384",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

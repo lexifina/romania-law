@@ -1,0 +1,248 @@
+{
+"country": "RO",
+"shard": "local/arges/poiana-lacului/2023",
+"acts": [
+{
+"slug": "hcl-arges--poiana-lacului-1-2023",
+"path": "local/arges/poiana-lacului/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 1/2023",
+"short": "HCL Poiana Lacului nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--poiana-lacului-2-2023",
+"path": "local/arges/poiana-lacului/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 2/2023",
+"short": "HCL Poiana Lacului nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--poiana-lacului-3-2023",
+"path": "local/arges/poiana-lacului/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 3/2023",
+"short": "HCL Poiana Lacului nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--poiana-lacului-4-2023",
+"path": "local/arges/poiana-lacului/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 4/2023",
+"short": "HCL Poiana Lacului nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--poiana-lacului-5-2023",
+"path": "local/arges/poiana-lacului/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 5/2023",
+"short": "HCL Poiana Lacului nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--poiana-lacului-6-2023",
+"path": "local/arges/poiana-lacului/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 6/2023",
+"short": "HCL Poiana Lacului nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--poiana-lacului-13-2023",
+"path": "local/arges/poiana-lacului/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 13/2023",
+"short": "HCL Poiana Lacului nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-31",
+"latest": "2023-03-31",
+"portal": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--poiana-lacului-14-2023",
+"path": "local/arges/poiana-lacului/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 14/2023",
+"short": "HCL Poiana Lacului nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-31",
+"latest": "2023-03-31",
+"portal": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--poiana-lacului-15-2023",
+"path": "local/arges/poiana-lacului/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 15/2023",
+"short": "HCL Poiana Lacului nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-31",
+"latest": "2023-03-31",
+"portal": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--poiana-lacului-16-2023",
+"path": "local/arges/poiana-lacului/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 16/2023",
+"short": "HCL Poiana Lacului nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-31",
+"latest": "2023-03-31",
+"portal": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--poiana-lacului-17-2023",
+"path": "local/arges/poiana-lacului/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 17/2023",
+"short": "HCL Poiana Lacului nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-31",
+"latest": "2023-03-31",
+"portal": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

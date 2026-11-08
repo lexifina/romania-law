@@ -1435,12 +1435,12 @@
    "shard": "cnsc/2023",
    "kind": "cnsc",
    "file": "data/freshness/cnsc/2023.csv",
-   "count": 16,
+   "count": 21,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 16,
+    "unverified": 21,
     "source-unavailable": 0
    }
   },
@@ -1448,12 +1448,12 @@
    "shard": "cnsc/2024",
    "kind": "cnsc",
    "file": "data/freshness/cnsc/2024.csv",
-   "count": 2643,
+   "count": 3030,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 2643,
+    "unverified": 3030,
     "source-unavailable": 0
    }
   },
@@ -7792,9 +7792,9 @@
    "shard": "local/alba/cugir/2019",
    "kind": "local",
    "file": "data/freshness/local/alba/cugir/2019.csv",
-   "count": 4,
+   "count": 16,
    "by_status": {
-    "current": 4,
+    "current": 16,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -7805,9 +7805,9 @@
    "shard": "local/alba/cugir/2020",
    "kind": "local",
    "file": "data/freshness/local/alba/cugir/2020.csv",
-   "count": 1,
+   "count": 11,
    "by_status": {
-    "current": 1,
+    "current": 11,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -7818,9 +7818,9 @@
    "shard": "local/alba/cugir/2021",
    "kind": "local",
    "file": "data/freshness/local/alba/cugir/2021.csv",
-   "count": 14,
+   "count": 60,
    "by_status": {
-    "current": 14,
+    "current": 60,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -7831,9 +7831,9 @@
    "shard": "local/alba/cugir/2022",
    "kind": "local",
    "file": "data/freshness/local/alba/cugir/2022.csv",
-   "count": 95,
+   "count": 148,
    "by_status": {
-    "current": 95,
+    "current": 148,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -8156,9 +8156,9 @@
    "shard": "local/alba/miraslau/2025",
    "kind": "local",
    "file": "data/freshness/local/alba/miraslau/2025.csv",
-   "count": 16,
+   "count": 22,
    "by_status": {
-    "current": 16,
+    "current": 22,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -8169,9 +8169,9 @@
    "shard": "local/alba/miraslau/2026",
    "kind": "local",
    "file": "data/freshness/local/alba/miraslau/2026.csv",
-   "count": 32,
+   "count": 45,
    "by_status": {
-    "current": 32,
+    "current": 45,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -8192,12 +8192,25 @@
    }
   },
   {
+   "shard": "local/alba/ocna-mures/2010",
+   "kind": "local",
+   "file": "data/freshness/local/alba/ocna-mures/2010.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/alba/ocna-mures/2011",
    "kind": "local",
    "file": "data/freshness/local/alba/ocna-mures/2011.csv",
-   "count": 7,
+   "count": 141,
    "by_status": {
-    "current": 7,
+    "current": 141,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -8208,9 +8221,9 @@
    "shard": "local/alba/ocna-mures/2012",
    "kind": "local",
    "file": "data/freshness/local/alba/ocna-mures/2012.csv",
-   "count": 10,
+   "count": 157,
    "by_status": {
-    "current": 10,
+    "current": 157,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -8221,9 +8234,9 @@
    "shard": "local/alba/ocna-mures/2013",
    "kind": "local",
    "file": "data/freshness/local/alba/ocna-mures/2013.csv",
-   "count": 12,
+   "count": 166,
    "by_status": {
-    "current": 12,
+    "current": 166,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -8234,9 +8247,9 @@
    "shard": "local/alba/ocna-mures/2014",
    "kind": "local",
    "file": "data/freshness/local/alba/ocna-mures/2014.csv",
-   "count": 17,
+   "count": 200,
    "by_status": {
-    "current": 17,
+    "current": 200,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -8247,9 +8260,9 @@
    "shard": "local/alba/ocna-mures/2016",
    "kind": "local",
    "file": "data/freshness/local/alba/ocna-mures/2016.csv",
-   "count": 56,
+   "count": 232,
    "by_status": {
-    "current": 56,
+    "current": 232,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -8286,6 +8299,45 @@
    "shard": "local/alba/ocna-mures/2020",
    "kind": "local",
    "file": "data/freshness/local/alba/ocna-mures/2020.csv",
+   "count": 57,
+   "by_status": {
+    "current": 57,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/alba/ocna-mures/2021",
+   "kind": "local",
+   "file": "data/freshness/local/alba/ocna-mures/2021.csv",
+   "count": 112,
+   "by_status": {
+    "current": 112,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/alba/ocna-mures/2022",
+   "kind": "local",
+   "file": "data/freshness/local/alba/ocna-mures/2022.csv",
+   "count": 7,
+   "by_status": {
+    "current": 7,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/alba/ocna-mures/2023",
+   "kind": "local",
+   "file": "data/freshness/local/alba/ocna-mures/2023.csv",
    "count": 2,
    "by_status": {
     "current": 2,
@@ -8299,9 +8351,9 @@
    "shard": "local/alba/ocna-mures/2024",
    "kind": "local",
    "file": "data/freshness/local/alba/ocna-mures/2024.csv",
-   "count": 13,
+   "count": 21,
    "by_status": {
-    "current": 13,
+    "current": 21,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -8312,9 +8364,9 @@
    "shard": "local/alba/ocna-mures/2025",
    "kind": "local",
    "file": "data/freshness/local/alba/ocna-mures/2025.csv",
-   "count": 33,
+   "count": 34,
    "by_status": {
-    "current": 33,
+    "current": 34,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -8338,9 +8390,9 @@
    "shard": "local/alba/pianu/2023",
    "kind": "local",
    "file": "data/freshness/local/alba/pianu/2023.csv",
-   "count": 12,
+   "count": 13,
    "by_status": {
-    "current": 12,
+    "current": 13,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -8416,9 +8468,9 @@
    "shard": "local/alba/sebes/2017",
    "kind": "local",
    "file": "data/freshness/local/alba/sebes/2017.csv",
-   "count": 22,
+   "count": 23,
    "by_status": {
-    "current": 14,
+    "current": 15,
     "pending-change": 0,
     "stale": 0,
     "unverified": 8,
@@ -8429,9 +8481,9 @@
    "shard": "local/alba/sebes/2018",
    "kind": "local",
    "file": "data/freshness/local/alba/sebes/2018.csv",
-   "count": 17,
+   "count": 266,
    "by_status": {
-    "current": 12,
+    "current": 261,
     "pending-change": 0,
     "stale": 0,
     "unverified": 5,
@@ -8442,9 +8494,9 @@
    "shard": "local/alba/sebes/2019",
    "kind": "local",
    "file": "data/freshness/local/alba/sebes/2019.csv",
-   "count": 28,
+   "count": 254,
    "by_status": {
-    "current": 18,
+    "current": 244,
     "pending-change": 0,
     "stale": 0,
     "unverified": 10,
@@ -8455,9 +8507,9 @@
    "shard": "local/alba/sebes/2020",
    "kind": "local",
    "file": "data/freshness/local/alba/sebes/2020.csv",
-   "count": 20,
+   "count": 209,
    "by_status": {
-    "current": 14,
+    "current": 203,
     "pending-change": 0,
     "stale": 0,
     "unverified": 6,
@@ -8468,9 +8520,9 @@
    "shard": "local/alba/sebes/2021",
    "kind": "local",
    "file": "data/freshness/local/alba/sebes/2021.csv",
-   "count": 55,
+   "count": 245,
    "by_status": {
-    "current": 52,
+    "current": 242,
     "pending-change": 0,
     "stale": 0,
     "unverified": 3,
@@ -8481,9 +8533,9 @@
    "shard": "local/alba/sebes/2022",
    "kind": "local",
    "file": "data/freshness/local/alba/sebes/2022.csv",
-   "count": 22,
+   "count": 237,
    "by_status": {
-    "current": 16,
+    "current": 231,
     "pending-change": 0,
     "stale": 0,
     "unverified": 6,
@@ -8494,9 +8546,9 @@
    "shard": "local/alba/sebes/2023",
    "kind": "local",
    "file": "data/freshness/local/alba/sebes/2023.csv",
-   "count": 20,
+   "count": 89,
    "by_status": {
-    "current": 18,
+    "current": 87,
     "pending-change": 0,
     "stale": 0,
     "unverified": 2,
@@ -8507,9 +8559,9 @@
    "shard": "local/alba/sebes/2024",
    "kind": "local",
    "file": "data/freshness/local/alba/sebes/2024.csv",
-   "count": 24,
+   "count": 304,
    "by_status": {
-    "current": 18,
+    "current": 298,
     "pending-change": 0,
     "stale": 0,
     "unverified": 6,
@@ -8520,9 +8572,9 @@
    "shard": "local/alba/sebes/2025",
    "kind": "local",
    "file": "data/freshness/local/alba/sebes/2025.csv",
-   "count": 21,
+   "count": 295,
    "by_status": {
-    "current": 12,
+    "current": 286,
     "pending-change": 0,
     "stale": 0,
     "unverified": 9,
@@ -8533,9 +8585,9 @@
    "shard": "local/alba/sebes/2026",
    "kind": "local",
    "file": "data/freshness/local/alba/sebes/2026.csv",
-   "count": 23,
+   "count": 209,
    "by_status": {
-    "current": 13,
+    "current": 199,
     "pending-change": 0,
     "stale": 0,
     "unverified": 10,

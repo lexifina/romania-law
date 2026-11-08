@@ -3,6 +3,50 @@
 "shard": "local/arges/balilesti/2019",
 "acts": [
 {
+"slug": "hcl-arges--balilesti-1-2019",
+"path": "local/arges/balilesti/2019/1",
+"kind": "local",
+"year": "2019",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălilești nr. 1/2019 privind alegerea președintelui de ședință pentru lunile ianuarie, februarie si martie 2019",
+"short": "HCL Bălilești nr. 1/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-01-09",
+"latest": "2019-01-09",
+"portal": "https://www.primariabalilesti.ro/ro/Informatii-Consiliul-Local/HOT%C4%82R%C3%82RI-ALE-CONSILIULUI-LOCAL-AL-COMUNEI-B%C4%82LILE%C8%98TI-359",
+"council": "arges/balilesti",
+"council_name": "Consiliul Local al Comunei Bălilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--balilesti-3-2019",
+"path": "local/arges/balilesti/2019/3",
+"kind": "local",
+"year": "2019",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălilești nr. 3/2019 privind aprobarea realizării unor proiecte multianuale",
+"short": "HCL Bălilești nr. 3/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-01-21",
+"latest": "2019-01-21",
+"portal": "https://www.primariabalilesti.ro/ro/Informatii-Consiliul-Local/HOT%C4%82R%C3%82RI-ALE-CONSILIULUI-LOCAL-AL-COMUNEI-B%C4%82LILE%C8%98TI-359",
+"council": "arges/balilesti",
+"council_name": "Consiliul Local al Comunei Bălilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--balilesti-9-2019",
 "path": "local/arges/balilesti/2019/9",
 "kind": "local",

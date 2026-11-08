@@ -3,6 +3,51 @@
  "shard": "local/arad/santana/2017",
  "acts": [
   {
+   "slug": "hcl-arad--santana-164-2017",
+   "path": "local/arad/santana/2017/164",
+   "short": "HCL Sântana nr. 164/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 164/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0164_2017_09_15.pdf",
+     "sha256": "e14da039455bfc405cff1ae4392c34b3ad8221a4d275db1927b2025fef2f580e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-183-2017",
+   "path": "local/arad/santana/2017/183",
+   "short": "HCL Sântana nr. 183/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 183/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-13",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0183_2017_10_13.pdf",
+     "sha256": "d6e621343608da5195e90c6dbcc08831860a72d692b857abbab9a8c822673437"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-185-2017",
+   "path": "local/arad/santana/2017/185",
+   "short": "HCL Sântana nr. 185/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 185/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-13",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0185_2017_10_13.pdf",
+     "sha256": "dab481670015893c26003ba9ced3b7adcec77c69fb7525c3396316446bd08e3e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-186-2017",
    "path": "local/arad/santana/2017/186",
    "short": "HCL Sântana nr. 186/2017",
@@ -14,6 +59,96 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0186_2017_10_13.pdf",
      "sha256": "5caad5542c6c015525b942a0a46d9fb73243581271136282c2666d402cd46832"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-193-2017",
+   "path": "local/arad/santana/2017/193",
+   "short": "HCL Sântana nr. 193/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 193/2017 privind transparenla decizionald in administraJia publicd Prevederile afi. 120 qi ar1. 124 din Legea nr.27212004 republicatd in 2014 privind promovarea drepturilor copiluiui Hotdrarea Guvernului nr. 90412014 pentru stabilirea limitelor minime de cheltuieli aferente drepturilor prevdzute de art. 129 alin. (l) din Legea nr.27212A04 privind protec!ia si promovarea drepturilor copilului Hotdrdrea Guve",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=200",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0193_2017_10_31.pdf",
+     "sha256": "6f3fb8385364faa03a65fa7eee93c0e971628bb40b75c34a758e2f8499714b2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-197-2017",
+   "path": "local/arad/santana/2017/197",
+   "short": "HCL Sântana nr. 197/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 197/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0197_2017_10_31.pdf",
+     "sha256": "11473a4843e1f082fd487fba480be284a50a9e15522d07fa0cde44698a0f2cb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-202-2017",
+   "path": "local/arad/santana/2017/202",
+   "short": "HCL Sântana nr. 202/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 202/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0202_2017_10_31.pdf",
+     "sha256": "4d34b07609a11879df2f1f0215b8e2b9f796c7bba7a94a7453058e8360d4dfc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-58-2017",
+   "path": "local/arad/santana/2017/58",
+   "short": "HCL Sântana nr. 58/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 58/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0058_2017_03_06.pdf",
+     "sha256": "6b1701bf328359cd954b70ec16618b5afbb3986d3fb4f65fbebbed015215d2e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-91-2017",
+   "path": "local/arad/santana/2017/91",
+   "short": "HCL Sântana nr. 91/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 91/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0091_2017_03_21.pdf",
+     "sha256": "d890d9cdaa067718b457e9c4d0add712b73792ad7818991b29f9fd4029b7e8a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-96-2017",
+   "path": "local/arad/santana/2017/96",
+   "short": "HCL Sântana nr. 96/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 96/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0096_2017_03_21.pdf",
+     "sha256": "8d340d6fc2496e7a5761fedb6a2dc98b6676a35f4f01fcf16d121c8f1bde2614"
     }
    ]
   }

@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--pietrosani-11-2025",
+   "path": "local/arges/pietrosani/2025/11",
+   "short": "HCL Pietroșani nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 11/2025",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217059",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217059",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--pietrosani-12-2025",
    "path": "local/arges/pietrosani/2025/12",
    "short": "HCL Pietroșani nr. 12/2025",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--pietrosani-14-2025",
+   "path": "local/arges/pietrosani/2025/14",
+   "short": "HCL Pietroșani nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 14/2025",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217062",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217062",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--pietrosani-15-2025",
    "path": "local/arges/pietrosani/2025/15",
    "short": "HCL Pietroșani nr. 15/2025",
@@ -88,6 +118,21 @@
      "from": "2025-07-17",
      "units": 1,
      "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-17-2025",
+   "path": "local/arges/pietrosani/2025/17",
+   "short": "HCL Pietroșani nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 17/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217180",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217180",
      "sha256": null
     }
    ]
@@ -213,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--pietrosani-25-2025",
+   "path": "local/arges/pietrosani/2025/25",
+   "short": "HCL Pietroșani nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 25/2025",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217864",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217864",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--pietrosani-26-2025",
    "path": "local/arges/pietrosani/2025/26",
    "short": "HCL Pietroșani nr. 26/2025",
@@ -238,6 +298,21 @@
      "from": "2025-08-06",
      "units": 1,
      "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-28-2025",
+   "path": "local/arges/pietrosani/2025/28",
+   "short": "HCL Pietroșani nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 28/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217867",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217867",
      "sha256": null
     }
    ]

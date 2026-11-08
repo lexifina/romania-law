@@ -63,6 +63,66 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-50-2022",
+   "path": "local/arad/santana/2022/50",
+   "short": "HCL Sântana nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 50/2022",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=105",
+   "versions": [
+    {
+     "from": "2022-07-30",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HOTARAREA_NR_50_DIN_30.07.2022.pdf",
+     "sha256": "613629cee153d7c69d6c2d3cdd010f5ffeff669b494adb5d3465b994481f0f63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-52-2022",
+   "path": "local/arad/santana/2022/52",
+   "short": "HCL Sântana nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 52/2022",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=111",
+   "versions": [
+    {
+     "from": "2022-04-05",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_52_din_05_04_22.pdf",
+     "sha256": "0ec7f6c369cff7bd2faabb0c18e2e0b13c42da035e8268c5fc409d90e122ac80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-56-2022",
+   "path": "local/arad/santana/2022/56",
+   "short": "HCL Sântana nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 56/2022",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=110",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_56_din_26_04_22.pdf",
+     "sha256": "0a3fb10b032e68c4bbbd6bc5c6c8b564b7922fad0536517b1d360372ee7790d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-58-2022",
+   "path": "local/arad/santana/2022/58",
+   "short": "HCL Sântana nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 58/2022",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=110",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_58_din_26_04_22.pdf",
+     "sha256": "0731e539a7ed973346b88f589b7d02aae0c0a252b2461e18689f91ac4a1ee18c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-69-2022",
    "path": "local/arad/santana/2022/69",
    "short": "HCL Sântana nr. 69/2022",
@@ -119,6 +179,51 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/filer_public/77/87/7787c66f-963c-4dcf-b006-51ccd61f3a75/oferta_vanzare_teren_nr_84_din_13_12_2022.pdf",
      "sha256": "b95a431068be6793ba45ff933a6416461ea4673e9570b251ac5d3a6c335892e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-85-2022",
+   "path": "local/arad/santana/2022/85",
+   "short": "HCL Sântana nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 85/2022",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=108",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_85_din_07_07_22.pdf",
+     "sha256": "2719d01f4885d953490d929c5109aa148037204ef7e09f6423d364d147c76f5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-86-2022",
+   "path": "local/arad/santana/2022/86",
+   "short": "HCL Sântana nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 86/2022",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=108",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_86_din_07_07_22.pdf",
+     "sha256": "a550be464238a1e78a1286a316d52d4638ae31cc888941e5214ea61528d1e641"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-87-2022",
+   "path": "local/arad/santana/2022/87",
+   "short": "HCL Sântana nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 87/2022",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=108",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hot_87_din_07_07_22.pdf",
+     "sha256": "ca5d82656bb8eacaf97be61b44b7bd0a9120bd66dbd70f2b06df1f4a24168bfa"
     }
    ]
   }

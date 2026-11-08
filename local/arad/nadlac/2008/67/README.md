@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Orașului Nădlac nr. 67/2008 privind aprobarea vânzării prin licitaţie publică a parcelei nr. top. 13025- 13026/4, evidenţiată în CF 9728 Nădlac, în suprafaţă de 6410 mp- proprietatea privată a Oraşului Nădlac
+
+HCL Nădlac nr. 67/2008 · 1 versions, from 2008-04-15 (latest in force: 2008-04-15) · <https://primaria-nadlac.ro/hotarari-din-anul-2008-2/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-arad--nadlac-67-2008` (tags `hcl-arad--nadlac-67-2008/<day>`; `python tools/on.py <day> hcl-arad--nadlac-67-2008`).
+
+## Decisions made by hand
+
+- HCL Nădlac nr. 67/2008: listed from Consiliul Local al Orașului Nădlac (primaria-nadlac.ro); an individual decision: metadata only.
+- HCL Nădlac nr. 67/2008: dated from 15 April 2008, the day it was adopted (the register gives no later day of publication).
+- HCL Nădlac nr. 67/2008: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

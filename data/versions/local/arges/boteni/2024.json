@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arges/boteni/2024",
+ "acts": [
+  {
+   "slug": "hcl-arges--boteni-10-2024",
+   "path": "local/arges/boteni/2024/10",
+   "short": "HCL Boteni nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Boteni nr. 10/2024",
+   "url": "https://comunaboteni.ro/wp-content/uploads/Hotararea-nr.10-din-11.12.2024-Impozite-si-taxe-locale-pentru-anul-2025.pdf",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://comunaboteni.ro/wp-content/uploads/Hotararea-nr.10-din-11.12.2024-Impozite-si-taxe-locale-pentru-anul-2025.pdf",
+     "sha256": "2471bb749e53037bf7f9f8a3bb73ae027e60bed8772fad113765b3b4b78ebf25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--boteni-12-2024",
+   "path": "local/arges/boteni/2024/12",
+   "short": "HCL Boteni nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Boteni nr. 12/2024",
+   "url": "https://comunaboteni.ro/wp-content/uploads/HCL-nr-12-11.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://comunaboteni.ro/wp-content/uploads/HCL-nr-12-11.12.2024.pdf",
+     "sha256": "9fd41f7cd82e31f2e2aedda9ef102da8a68005ddc030ddf1aa6f25c03c4d3783"
+    }
+   ]
+  }
+ ]
+}

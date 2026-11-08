@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Bălilești nr. 3/2019 privind aprobarea realizării unor proiecte multianuale
+
+HCL Bălilești nr. 3/2019 · 1 versions, from 2019-01-21 (latest in force: 2019-01-21) · <https://www.primariabalilesti.ro/ro/Informatii-Consiliul-Local/HOT%C4%82R%C3%82RI-ALE-CONSILIULUI-LOCAL-AL-COMUNEI-B%C4%82LILE%C8%98TI-359>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-arges--balilesti-3-2019` (tags `hcl-arges--balilesti-3-2019/<day>`; `python tools/on.py <day> hcl-arges--balilesti-3-2019`).
+
+## Decisions made by hand
+
+- HCL Bălilești nr. 3/2019: listed from Consiliul Local al Comunei Bălilești (www.primariabalilesti.ro); an individual decision: metadata only.
+- HCL Bălilești nr. 3/2019: dated from 21 January 2019, the day it was adopted (the register gives no later day of publication).
+- HCL Bălilești nr. 3/2019: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

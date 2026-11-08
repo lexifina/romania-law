@@ -61,6 +61,21 @@
      "sha256": "d183193170e91ebcc7351b9f0c0bc44fa492d3dbfc94e6cb80371d69b1e05a48"
     }
    ]
+  },
+  {
+   "slug": "hcl-arges--boteni-7-2025",
+   "path": "local/arges/boteni/2025/7",
+   "short": "HCL Boteni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boteni nr. 7/2025",
+   "url": "https://comunaboteni.ro/wp-content/uploads/Hotararea-nr.07-din-28.01.2025-incheiere-exercitiu-financiar-an-2024.pdf",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://comunaboteni.ro/wp-content/uploads/Hotararea-nr.07-din-28.01.2025-incheiere-exercitiu-financiar-an-2024.pdf",
+     "sha256": "4555bf7d6b71d99c4b6fbd1cb838c458f741ca064f9b5e904f66d6aee6015bf3"
+    }
+   ]
   }
  ]
 }

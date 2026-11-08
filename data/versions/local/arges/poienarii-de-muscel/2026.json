@@ -3,6 +3,21 @@
  "shard": "local/arges/poienarii-de-muscel/2026",
  "acts": [
   {
+   "slug": "hcl-arges--poienarii-de-muscel-1-2026",
+   "path": "local/arges/poienarii-de-muscel/2026/1",
+   "short": "HCL Poienarii de Muscel nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 1/2026 privind acoperirea definitivă a deficitului din excedentul anilor precedenți la secțiunea de dezvoltare a bugetului local Consiliul Local Poienarii de Muscel întrunit în ședință extraordinară convocată de îndată ; Văzând referatul de aprobare nr. 5933/05.01.2026 al primarului comunei și raportul nr. 5936/05.01.2026 întocmit de compartimentul contabilitate ; Luând în considerare dispozițiile O.M.F",
+   "url": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-1-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-1-1.pdf",
+     "sha256": "530018f7677c02edfa46b3ff43e16f75869424c31bdeb67f22f3977f8b74b111"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--poienarii-de-muscel-10-2026",
    "path": "local/arges/poienarii-de-muscel/2026/10",
    "short": "HCL Poienarii de Muscel nr. 10/2026",
@@ -138,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-arges--poienarii-de-muscel-2-2026",
+   "path": "local/arges/poienarii-de-muscel/2026/2",
+   "short": "HCL Poienarii de Muscel nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 2/2026 privind folosirea sumei de 270 mii lei din excedentul bugetar pentru acoperirea golului temporar de casă pentru secțiunea de funcționare a anului 2026 Consiliul Local Poienarii de Muscel întrunit în ședință extraordinară convocată de îndată ; Văzând referatul de aprobare nr. 5935/05.01.2026 al primarului comunei și raportul nr. 5938/05.01.2026 întocmit de compartimentul contabilitate ; Luând în co",
+   "url": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-2.pdf",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-2.pdf",
+     "sha256": "3c5f8e60b88a7d94b19f5e982c99264b1b855f252f8641ca064a2de842313ba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poienarii-de-muscel-3-2026",
+   "path": "local/arges/poienarii-de-muscel/2026/3",
+   "short": "HCL Poienarii de Muscel nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 3/2026 privind acoperirea definitivă a deficitului din excedentul anilor precedenți la secțiunea de funcționare a bugetului instituților publice finanțate din venituri proprii și subvenții Consiliul Local Poienarii de Muscel întrunit în ședință extraordinară convocată de îndată ; Văzând referatul de aprobare nr. 5934/05.01.2026 al primarului comunei și raportul nr. 5937/05.01.2026 întocmit de compartimen",
+   "url": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-3-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-3-1.pdf",
+     "sha256": "5d9878a00e7755433e674e324d2c1f3b68c425627032a6140f68d892fc81406e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--poienarii-de-muscel-4-2026",
    "path": "local/arges/poienarii-de-muscel/2026/4",
    "short": "HCL Poienarii de Muscel nr. 4/2026",
@@ -179,6 +224,36 @@
      "units": 1,
      "source_url": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-6-1.pdf",
      "sha256": "f2dde14463a21a4ca6519496e1d27b71d0a12f05cb72d9024d9d4ab387941bd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poienarii-de-muscel-7-2026",
+   "path": "local/arges/poienarii-de-muscel/2026/7",
+   "short": "HCL Poienarii de Muscel nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 7/2026",
+   "url": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-7-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-7-1.pdf",
+     "sha256": "09a83aee55f566830555c73d25d91d06eff8ead88d5ed9d2d389b09a4a42763d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poienarii-de-muscel-8-2026",
+   "path": "local/arges/poienarii-de-muscel/2026/8",
+   "short": "HCL Poienarii de Muscel nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 8/2026",
+   "url": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-8-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-8-1.pdf",
+     "sha256": "441968bc4adf9e73e5eaa9438933c5994b04e3bc2784240840a31d06001ca0db"
     }
    ]
   },

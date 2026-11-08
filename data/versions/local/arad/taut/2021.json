@@ -138,6 +138,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--taut-27-2021",
+   "path": "local/arad/taut/2021/27",
+   "short": "HCL Tauț nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 27/2021 privind aprobarea executiei obiectivului instalare sistem video de supraveghere",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.27-din-23.04.2021-privind-aprobarea-executiei-obiectivului-22instalare-sistem-video-de-supraveghere22.pdf",
+     "sha256": "436d70e621c584d1f55dd11e104b7184e1770b8ecf2177ee1c82d79ccfc3458a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-28-2021",
+   "path": "local/arad/taut/2021/28",
+   "short": "HCL Tauț nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 28/2021 privind aprobarea documentatiei tehnice pt.faza PAC +PTE Construire capela funerara in loc. Taut",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.28-din-23.04.2021-privind-aprobarea-documentatiei-tehnice-pt.faza-PAC-PTE-22Construire-capela-funerara-in-loc.-Taut.pdf",
+     "sha256": "223ec96cef916e6f2cb7b3f0845bd04d73351a86eda052fca4df5ae3791f4704"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-29-2021",
+   "path": "local/arad/taut/2021/29",
+   "short": "HCL Tauț nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 29/2021 privind aprobarea documentatiei tehnico &#8211; economice pt.faza PAC+PTE ,expertiza tehnica Lucrari de asfaltare strazile 1,1B si 2 in loc. Taut",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.29-din-23.04.2021-privind-aprobarea-documentatiei-tehnico-economice-pt.faza-PACPTE-expertiza-tehnica-22Lucrari-de-asfaltare-strazile-11B-si-2-in-loc.-Taut.pdf",
+     "sha256": "bdacb0c5ea62ef0037398b0f45f0fbcb1597c1d4b2feeef8450638aa163b2f82"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--taut-49-2021",
    "path": "local/arad/taut/2021/49",
    "short": "HCL Tauț nr. 49/2021",

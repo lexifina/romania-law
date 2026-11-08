@@ -3,6 +3,96 @@
  "shard": "local/arad/nadlac/2003",
  "acts": [
   {
+   "slug": "hcl-arad--nadlac-1-2003",
+   "path": "local/arad/nadlac/2003/1",
+   "short": "HCL Nădlac nr. 1/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 1/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-01-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Ianuarie/hot_1_-_2003.pdf",
+     "sha256": "f6e87ffbe87637a1d82ff146a50d4c87bdca7c3d9848ba849349fc110d202386"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-100-2003",
+   "path": "local/arad/nadlac/2003/100",
+   "short": "HCL Nădlac nr. 100/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 100/2003 privind aprobarea ordinei de zi al sedintei extraordinare al Consiliului local Nadlac din data de 11.11.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-11-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Noiembrie/hot_100_-_2003.pdf",
+     "sha256": "6038434d328f04852c687d7d28b12f0c47b08dd34bcf82665f9b17f219b4eb11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-101-2003",
+   "path": "local/arad/nadlac/2003/101",
+   "short": "HCL Nădlac nr. 101/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 101/2003 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 28.10.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-11-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Noiembrie/hot_101_-_2003.pdf",
+     "sha256": "05ae68d759d5ea0dcf243e0d973962b3ff15672a2cba3001dee5d4c565954d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-102-2003",
+   "path": "local/arad/nadlac/2003/102",
+   "short": "HCL Nădlac nr. 102/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 102/2003 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-11-11",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Noiembrie/hot_102_-_2003.pdf",
+     "sha256": "f762b60308ffa7641746926cc0c074f975f91f47ef8fc2a79c06296ff55ba613"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-103-2003",
+   "path": "local/arad/nadlac/2003/103",
+   "short": "HCL Nădlac nr. 103/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 103/2003 privind aprobarea ordinei de zi al sedintei ordinare al Consiliului local Nadlac din data de 28.11.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Noiembrie/hot_103_-_2003.pdf",
+     "sha256": "d9a0d4e8d51f1b8b308e53ded47f9c8f34ebf133c40efba25a831a3daa874eed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-104-2003",
+   "path": "local/arad/nadlac/2003/104",
+   "short": "HCL Nădlac nr. 104/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 104/2003 privind aprobarea procesului verbal al sedintei extraordinare al Consiliului local Nadlac din data de 11.11.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Noiembrie/hot_104_-_2003.pdf",
+     "sha256": "514b432cfb1a397f8b71c47c12c0057b69633b9ca924e529f3678f447ae5f326"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-105-2003",
    "path": "local/arad/nadlac/2003/105",
    "short": "HCL Nădlac nr. 105/2003",
@@ -14,6 +104,366 @@
      "units": 8,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Noiembrie/hot_105_-_2003.pdf",
      "sha256": "150c264c23594a6f7b2aae079b5650a5df0d63e76ac274ed58c8fc8a69419ea6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-106-2003",
+   "path": "local/arad/nadlac/2003/106",
+   "short": "HCL Nădlac nr. 106/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 106/2003 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Noiembrie/hot_106_-_2003.pdf",
+     "sha256": "4b1310942a6755b1ef5808b07f9054120031b0c6eddf3643bb259e26b67c77c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-109-2003",
+   "path": "local/arad/nadlac/2003/109",
+   "short": "HCL Nădlac nr. 109/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 109/2003 privind împuternicirea persoanelor care pot participa la licitatia publica care va avea loc la AVAB Bucuresti cu privire la achizitionarea imobil-sediu economic si administrativ, situat în orasul Nadlac, str. G. Enescu, nr.8 5, sediul fostei S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Noiembrie/hot_109_-_2003.pdf",
+     "sha256": "e6aa7cf946c9e141d8aa403633333e0527a0f16e96ee89350cea1b20b1205a26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-11-2003",
+   "path": "local/arad/nadlac/2003/11",
+   "short": "HCL Nădlac nr. 11/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 11/2003 privind aprobarea cuantumului indemnizatiei membrilor comisiei pentru vânzarea spatiilor comerciale în baza Legii nr. 550/2002",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Februarie/hot_11_-_2003.pdf",
+     "sha256": "99e30ba51182125378b50413a8c8251d1ef147b23be6374fb79bebf45f51b2d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-110-2003",
+   "path": "local/arad/nadlac/2003/110",
+   "short": "HCL Nădlac nr. 110/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 110/2003 privind trecerea în proprietatea privata a orasului Nadlac a terenului în suprafata de 744 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Noiembrie/hot_110_-_2003.pdf",
+     "sha256": "38fb1277bc86c20199e1a4bb0e1b45e7dac9c794fcb26a90a29a11247f01b493"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-111-2003",
+   "path": "local/arad/nadlac/2003/111",
+   "short": "HCL Nădlac nr. 111/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 111/2003 privind desemnarea primarului orasului Nadlac pentru evaluarea performantelor profesionale ale secretarului",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Noiembrie/hot_111_-_2003.pdf",
+     "sha256": "bad2c81ec70c7b46b17d5ec67f063e8096eb6647f0bf7e521c91457d867f7926"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-112-2003",
+   "path": "local/arad/nadlac/2003/112",
+   "short": "HCL Nădlac nr. 112/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 112/2003 privind aprobarea Studiului de fezabilitate la obiectivul „Retehnologizarea statiei de epurare, extindere si reabilitare retele de canalizare în orasul Nadlac”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Noiembrie/hot_112_-_2003.pdf",
+     "sha256": "47cb2d6565a39c187e2a67129452ff4aa6ef82da5be898e56f6f869838246a5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-113-2003",
+   "path": "local/arad/nadlac/2003/113",
+   "short": "HCL Nădlac nr. 113/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 113/2003 privind aprobarea propunerii Ministerului de Interne, Inspectoratul judetean al Politiei de Frontiera Arad privind preluarea fara plata a imobilelor Nadlac nord- extravilan, Peregu Mare- extravilan, foste pichete, ce apartin Inspectoratului judetean al Politiei de Fr",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Noiembrie/hot_113_-_2003.pdf",
+     "sha256": "ea6c1e1e954248eddebf0129d8c23e98bf5986d2a3b9ef6d0fa0dcba330d78f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-114-2003",
+   "path": "local/arad/nadlac/2003/114",
+   "short": "HCL Nădlac nr. 114/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 114/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Noiembrie/hot_114_-_2003.pdf",
+     "sha256": "43e4dea6bbfba564b6139f9ac18a0f34ef69ed154c2366023fcfc00e9de177aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-115-2003",
+   "path": "local/arad/nadlac/2003/115",
+   "short": "HCL Nădlac nr. 115/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 115/2003 privind stabilirea, alegerea formei de gestiune a serviciului de iluminat public ce va fi înfiintat la nivelul unitatii administrativ teritoriale Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-11-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Noiembrie/hot_115_-_2003.pdf",
+     "sha256": "e416d2bc97913150fd07740fd4743ac3037095f30ce33a54542a07735edc589c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-116-2003",
+   "path": "local/arad/nadlac/2003/116",
+   "short": "HCL Nădlac nr. 116/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 116/2003 privind alegerea presedintelui de sedinta",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-12-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Decembrie/hot_116_-_2003.pdf",
+     "sha256": "5991490f33fd3c5c9429bd08df16aa1c8662fe38649aa3820d5b754e93a058ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-117-2003",
+   "path": "local/arad/nadlac/2003/117",
+   "short": "HCL Nădlac nr. 117/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 117/2003 privind aprobarea ordinei de zi al sedintei ordinare a Consiliului local Nadlac din data de 17.12.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-12-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Decembrie/hot_117_-_2003.pdf",
+     "sha256": "e6588811a47c833deab6c1cbe3c7030af42038e38409da66cfc90e38715b8c6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-118-2003",
+   "path": "local/arad/nadlac/2003/118",
+   "short": "HCL Nădlac nr. 118/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 118/2003 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 28.11.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-12-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Decembrie/hot_118_-_2003.pdf",
+     "sha256": "acf06933d4224e1d99f2c0e92260ab4b2afe0c0848a0302b7dac10106d8c4764"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-119-2003",
+   "path": "local/arad/nadlac/2003/119",
+   "short": "HCL Nădlac nr. 119/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 119/2003 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-12-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Decembrie/hot_119_-_2003.pdf",
+     "sha256": "d546b08075bfd828dee6b7f2321b39f5f691a8e101a4140fcb7f0eb6cfa41c09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-12-2003",
+   "path": "local/arad/nadlac/2003/12",
+   "short": "HCL Nădlac nr. 12/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 12/2003 privind participarea Consiliului local Nadlac la finantare activitatii de protectie a copilului aflat în dificultate, a celui cu handicap precum si a persoanei majore care beneficiaza de protectie",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Februarie/hot_12_-_2003.pdf",
+     "sha256": "f707eedf0f1d1ce044397014e2378421c70c40c3ca89f710910c2e1035e45418"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-120-2003",
+   "path": "local/arad/nadlac/2003/120",
+   "short": "HCL Nădlac nr. 120/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 120/2003 privind aprobarea Programului de lucrari propuse a fi executate în folosul comunitatii de catre beneficiarii venitului minim garantat",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-12-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Decembrie/hot_120_-_2003.pdf",
+     "sha256": "3eee7c9bfe1dfb8880291585083f714ca22afb19f113e97928f5e696af78ca40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-13-2003",
+   "path": "local/arad/nadlac/2003/13",
+   "short": "HCL Nădlac nr. 13/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 13/2003 privind stabilirea numarului maxim de titulari pentru fiecare clasa al functiilor publice din cadrul aparatului propriu al Primariei orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Februarie/hot_13_-_2003.pdf",
+     "sha256": "d7f795196857d2820676f1b31fb0f7050cb465f49b4cbf93653b9be39cfed36d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-15-2003",
+   "path": "local/arad/nadlac/2003/15",
+   "short": "HCL Nădlac nr. 15/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 15/2003 privind stabilirea domeniilor serviciilor publice si locurile în care contravenientii vor presta activitati în folosul comunitatii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-03-04",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Martie/hot_15_-_2003.pdf",
+     "sha256": "902b6549592db3d53d5a8d312c615ad6c3f7296bc908488cfb1af3e16f134ae2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-16-2003",
+   "path": "local/arad/nadlac/2003/16",
+   "short": "HCL Nădlac nr. 16/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 16/2003 privind modificarea componentei comisiei de validare a mandatelor consilierilor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-03-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Martie/hot_16_-_2003.pdf",
+     "sha256": "57f3b77c75eb56e9e4c76756b48d858db7339ff5413bf3667d0c0bd60e3e93bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-17-2003",
+   "path": "local/arad/nadlac/2003/17",
+   "short": "HCL Nădlac nr. 17/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 17/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-03-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Martie/hot_17_-_2003.pdf",
+     "sha256": "52d8fdd1c0547444255dfc68e5e0c53aeac019d12a5143af624c19d2343dd183"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-18-2003",
+   "path": "local/arad/nadlac/2003/18",
+   "short": "HCL Nădlac nr. 18/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 18/2003 privind validarea mandatului d –lui consilier Hires Pavel Milan",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-03-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Martie/hot_18_-_2003.pdf",
+     "sha256": "c466d5243b45ab3c30ae2e9b71af3da1bb967d34488921c723385b98fd0d417a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-19-2003",
+   "path": "local/arad/nadlac/2003/19",
+   "short": "HCL Nădlac nr. 19/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 19/2003 privind reorganizarea comisiilor de specialitate a Consiliului Local al orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-03-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Martie/hot_19_-_2003.pdf",
+     "sha256": "934141d93c2e8cdf7ff39e61551fcf3ae4a78a4bbfbe6d2f662fbaa75cff2e33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-2-2003",
+   "path": "local/arad/nadlac/2003/2",
+   "short": "HCL Nădlac nr. 2/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 2/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-01-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Ianuarie/hot_2_-_2003.pdf",
+     "sha256": "93d8a05bbcb41bdf1ed73f6218adeacd846d0a5817e8679abfce348137c45679"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-20-2003",
+   "path": "local/arad/nadlac/2003/20",
+   "short": "HCL Nădlac nr. 20/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 20/2003 privind aprobarea programului participarii Consiliului Local la aniversarea a 200 de ani de la venirea slovacilor în localitatea Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-03-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Martie/hot_20_-_2003.pdf",
+     "sha256": "b2479fcab679e28d782012a9316bb4a0c09db7b7e3a5f4a607cb4ef34eeb5ec3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-22-2003",
+   "path": "local/arad/nadlac/2003/22",
+   "short": "HCL Nădlac nr. 22/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 22/2003 privind aprobarea propunerilor de modificare a inventarului domeniului public al orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-03-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Martie/hot_22_-_2003.pdf",
+     "sha256": "cee520bbbdccacd064672975cdb881d34a839ffcc87b84abf5fcd9363b271c47"
     }
    ]
   },
@@ -33,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-25-2003",
+   "path": "local/arad/nadlac/2003/25",
+   "short": "HCL Nădlac nr. 25/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 25/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-03-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Martie/hot_25_-_2003.pdf",
+     "sha256": "d713bc42af3ac4bf07879d87f93377cfab9c76cc65bd3ea92d77a88973b763cc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-26-2003",
    "path": "local/arad/nadlac/2003/26",
    "short": "HCL Nădlac nr. 26/2003",
@@ -44,6 +509,156 @@
      "units": 6,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Martie/hot_26_-_2003.pdf",
      "sha256": "7f1c16214b960f8dfcd70f9061caff6073bfd9b0890a230fe7636ed4ad444b8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-27-2003",
+   "path": "local/arad/nadlac/2003/27",
+   "short": "HCL Nădlac nr. 27/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 27/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-03-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Martie/hot_27_-_2003.pdf",
+     "sha256": "f353e6eba3a06fee5823ab483027a97daff10409cee15cf3856c7e4429918042"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-28-2003",
+   "path": "local/arad/nadlac/2003/28",
+   "short": "HCL Nădlac nr. 28/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 28/2003 privind încetarea de drept a mandatului de consilier de d-l Gondec Pavel",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Aprilie/hot_28_-_2003.pdf",
+     "sha256": "d1afb3304f12fff888a10386dfcdb5c32738df155c46addf7436c299df0be436"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-29-2003",
+   "path": "local/arad/nadlac/2003/29",
+   "short": "HCL Nădlac nr. 29/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 29/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Aprilie/hot_29_-_2003.pdf",
+     "sha256": "0c447111856b18a0fa59650e237fd4892073ec546b8ca11c248be095e5ae7bff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-3-2003",
+   "path": "local/arad/nadlac/2003/3",
+   "short": "HCL Nădlac nr. 3/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 3/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-01-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Ianuarie/hot_3_-_2003.pdf",
+     "sha256": "734d6a549d87eae91e35cb4df679969137ca8f6f1f236110e1c838780e7821a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-30-2003",
+   "path": "local/arad/nadlac/2003/30",
+   "short": "HCL Nădlac nr. 30/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 30/2003 privind reorganizarea comisiilor de specialitate a Consiliului Local al orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Aprilie/hot_30_-_2003.pdf",
+     "sha256": "1f2069e7f65a0f983db147ebf61b57c7fc0a483150441cab01c7cf3acbc40014"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-31-2003",
+   "path": "local/arad/nadlac/2003/31",
+   "short": "HCL Nădlac nr. 31/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 31/2003 privind modificarea art. 1 din HCL nr. 88/17.12.2002 privind desemnarea reprezentantilor Consiliului local care vor face parte din Comisia pentru vânzarea spatiilor comerciale sau de prestari servicii, proprietatea privata a statului",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Aprilie/hot_31_-_2003.pdf",
+     "sha256": "20600ff67b8571e154487b54fe1365964299941174da0e2eb96aa0f614d083e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-32-2003",
+   "path": "local/arad/nadlac/2003/32",
+   "short": "HCL Nădlac nr. 32/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 32/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Aprilie/hot_32_-_2003.pdf",
+     "sha256": "26f1059b9c5fbb0e8c527804d6605bbb2cc9d378b4454263191d66097f5aaa18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-33-2003",
+   "path": "local/arad/nadlac/2003/33",
+   "short": "HCL Nădlac nr. 33/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 33/2003 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Aprilie/hot_33_-_2003.pdf",
+     "sha256": "0b0192ee0feba49dbb34398e0a72aac08270061be741a83ef5277449bf10dc7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-34-2003",
+   "path": "local/arad/nadlac/2003/34",
+   "short": "HCL Nădlac nr. 34/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 34/2003 privind aprobarea propunerilor de modificare a inventarului domeniului public al orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Aprilie/hot_34_-_2003.pdf",
+     "sha256": "3d11f3e0dc4df0e8418372dd4821c2a78a70f7173a35142158e439b4119d1dd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-35-2003",
+   "path": "local/arad/nadlac/2003/35",
+   "short": "HCL Nădlac nr. 35/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 35/2003 privind ridicarea dreptului de folosinta gratuita pe termen limitat de catre Directia Sanitar Veterinara a Judetului Arad a suprafetei de teren de 513 mp. situat în Nadlac, înscris în CF nr. 9340-Nadlac, cu nr. top. 12278/1/1/1/1/2",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Aprilie/hot_35_-_2003.pdf",
+     "sha256": "888b0265e1e8cd158de0255fd521d9c4a4c3aa58ea7ed0dccd66ddda34b0e241"
     }
    ]
   },
@@ -63,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-37-2003",
+   "path": "local/arad/nadlac/2003/37",
+   "short": "HCL Nădlac nr. 37/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 37/2003 privind acordul pentru lucrarile ce se vor executa la spatiul închiriat, aflat în administrarea Consiliului Local al Orasului Nadlac, situat în str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Aprilie/hot_37_-_2003.pdf",
+     "sha256": "ad9b9a5a86ceeb672c1ff0d7e33fabb973dd5a7058d36297cf3e12992fb19641"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-38-2003",
    "path": "local/arad/nadlac/2003/38",
    "short": "HCL Nădlac nr. 38/2003",
@@ -74,6 +704,96 @@
      "units": 3,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Aprilie/hot_38_-_2003.pdf",
      "sha256": "45b7c418a43a9dbdaac2de76ed328cb4cb469e9a51f2b5984f112c8d4e46e709"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-39-2003",
+   "path": "local/arad/nadlac/2003/39",
+   "short": "HCL Nădlac nr. 39/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 39/2003 privind aprobarea valorificarii prin licitatie publica deschisa cu strigare a basculantei Roman 19215 DFK, care nu mai este necesara institutiei",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Aprilie/hot_39_-_2003.pdf",
+     "sha256": "3b150323289d9f562261922f9250cdbf3507a6e4b3da0a03a11a3f5c2d2f4b69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-4-2003",
+   "path": "local/arad/nadlac/2003/4",
+   "short": "HCL Nădlac nr. 4/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 4/2003 privind alegerea presedintelui de sedinta",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Februarie/hot_4_-_2003.pdf",
+     "sha256": "f229a9c45bf0698540b6cb9b6d4c53cec23ce8a1089d7d4207a9c25122d9ff87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-40-2003",
+   "path": "local/arad/nadlac/2003/40",
+   "short": "HCL Nădlac nr. 40/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 40/2003 privind alegerea presedintelui de sedinta",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-05-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Mai/hot_40_-_2003.pdf",
+     "sha256": "cd9ad4d29594fa4830bcad2467109247a5fc4e04e366958cb03c1630804efd4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-41-2003",
+   "path": "local/arad/nadlac/2003/41",
+   "short": "HCL Nădlac nr. 41/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 41/2003 privind emiterea cererii nr. 4477/2003 catre S.NP. PETROM S.A Bucuresti",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-05-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Mai/hot_41_-_2003.pdf",
+     "sha256": "cedbd06416b4779efaade0bc67b4ba56ba0a4910999db25a1f4d0668e2d8aec0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-42-2003",
+   "path": "local/arad/nadlac/2003/42",
+   "short": "HCL Nădlac nr. 42/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 42/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-05-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Mai/hot_42_-_2003.pdf",
+     "sha256": "32f6edc2c3865a8acbc1ac7e3cf0ca1e5ccd577a1b785b9dde9c4ac17bf2328e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-43-2003",
+   "path": "local/arad/nadlac/2003/43",
+   "short": "HCL Nădlac nr. 43/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 43/2003 privind reorganizarea comisiei locale de aparare împotriva dezastrelor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-05-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Mai/hot_43_-_2003.pdf",
+     "sha256": "083720d16ddbd215010bc012d39a6c4bbce057af400984244090dcebb1508e0f"
     }
    ]
   },
@@ -138,6 +858,216 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-48-2003",
+   "path": "local/arad/nadlac/2003/48",
+   "short": "HCL Nădlac nr. 48/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 48/2003 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Mai/hot_48_-_2003.pdf",
+     "sha256": "ef602952e217ea75f59c342c4b07131f9e70a10d98128aee00f4ff6a8200062f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-49-2003",
+   "path": "local/arad/nadlac/2003/49",
+   "short": "HCL Nădlac nr. 49/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 49/2003 privind aprobarea Programului de lucrari edilitar gospodaresti, reparatii si dotari pe anul 2003, finantate din bugetul local",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Mai/hot_49_-_2003.pdf",
+     "sha256": "0a23e12abe795a17704d523a95d18478a217de8c45e2e8d7a90a3bd0dc3897b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-5-2003",
+   "path": "local/arad/nadlac/2003/5",
+   "short": "HCL Nădlac nr. 5/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 5/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Februarie/hot_5_-_2003.pdf",
+     "sha256": "73bc4e75b91e8595c351a5f2a77e910f626e13e7d61ce4f9a0b7dffbc1d93fb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-50-2003",
+   "path": "local/arad/nadlac/2003/50",
+   "short": "HCL Nădlac nr. 50/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 50/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-05-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Mai/hot_50_-_2003.pdf",
+     "sha256": "1fed3a87ba4e440c1a19ffe8bc69cc238ed8393b8ee518bf72f95fb27b02bb37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-51-2003",
+   "path": "local/arad/nadlac/2003/51",
+   "short": "HCL Nădlac nr. 51/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 51/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-06-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iunie/hot_51_-_2003.pdf",
+     "sha256": "ad1972c414a2b1f2436add43a896c3ec5f89a9c45894d676fc57e0fffa458741"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-52-2003",
+   "path": "local/arad/nadlac/2003/52",
+   "short": "HCL Nădlac nr. 52/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 52/2003 privind modificarea componentei comisiei de validare a mandatelor consilierilor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-06-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iunie/hot_52_-_2003.pdf",
+     "sha256": "033a7c782498d8f4b319c4762050c84cbb64d13779ff12f3b23f7125ff769ceb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-53-2003",
+   "path": "local/arad/nadlac/2003/53",
+   "short": "HCL Nădlac nr. 53/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 53/2003 privind validarea mandatului d–lui consilier Palis Gligor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-06-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iunie/hot_53_-_2003.pdf",
+     "sha256": "f0063ba6da1572b97dc9f620662a8c3968b0723522c7aba61e51b36d1ca184bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-54-2003",
+   "path": "local/arad/nadlac/2003/54",
+   "short": "HCL Nădlac nr. 54/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 54/2003 privind reorganizarea comisiilor de specialitate a Consiliului Local al orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-06-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iunie/hot_54_-_2003.pdf",
+     "sha256": "effacf0e2829314c6ee90daff2a0e0f1263846702dbc3495426fd3edd7598439"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-55-2003",
+   "path": "local/arad/nadlac/2003/55",
+   "short": "HCL Nădlac nr. 55/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 55/2003 privind modificarea art. 1 din HCL nr. 31/15.04.2003 privind desemnarea reprezentantilor Consiliului local care vor face parte din Comisia pentru vânzarea spatiilor comerciale sau de prestari servicii, proprietatea privata a statului",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-06-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iunie/hot_55_-_2003.pdf",
+     "sha256": "6a8baf7767cd9a34aea76177312cdeb14ba7f75707f362bea8d03f32b65e254f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-56-2003",
+   "path": "local/arad/nadlac/2003/56",
+   "short": "HCL Nădlac nr. 56/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 56/2003 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-06-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iunie/hot_56_-_2003.pdf",
+     "sha256": "e77a73befc9aec1c67a5977af47c39ae79aa08def1a3c5c7764784fcd87ec08b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-57-2003",
+   "path": "local/arad/nadlac/2003/57",
+   "short": "HCL Nădlac nr. 57/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 57/2003 privind modificarea Regulamentului de organizare si functionare a Consiliului local Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-06-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iunie/hot_57_-_2003.pdf",
+     "sha256": "7d7df800375f15db7602c26fd10faf5dd80a0ee0c3388e6647c6fb1ff2cbf553"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-58-2003",
+   "path": "local/arad/nadlac/2003/58",
+   "short": "HCL Nădlac nr. 58/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 58/2003 privind stabilirea functiilor publice din cadrul aparatului Consiliului local al orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-06-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iunie/hot_58_-_2003.pdf",
+     "sha256": "853bb26b44da23b6223eec54a3279e97936cdb3b60477a82b827126bdfe87866"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-59-2003",
+   "path": "local/arad/nadlac/2003/59",
+   "short": "HCL Nădlac nr. 59/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 59/2003 privind schimbarea denumirii strazii 1 Mai în Dr",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-06-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iunie/hot_59_-_2003.pdf",
+     "sha256": "7b865d91aa3dd68bdcf7e37106669bb99714fcc09effc031c328c97c4fb371d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-6-2003",
+   "path": "local/arad/nadlac/2003/6",
+   "short": "HCL Nădlac nr. 6/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 6/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Februarie/hot_6_-_2003.pdf",
+     "sha256": "9e3a1690f2ba0ed0f9e9259b9c4748e7b54d7d4ae8581d0ea3d92df6e6da1668"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-60-2003",
    "path": "local/arad/nadlac/2003/60",
    "short": "HCL Nădlac nr. 60/2003",
@@ -149,6 +1079,96 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iunie/hot_60_-_2003.pdf",
      "sha256": "7bbac78d748ea2d5347a0aecbcc5da260077f15bbd7383784298ee7e88143f3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-61-2003",
+   "path": "local/arad/nadlac/2003/61",
+   "short": "HCL Nădlac nr. 61/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 61/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-06-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iunie/hot_61_-_2003.pdf",
+     "sha256": "eee8f10a8b2d7e882fd4abeb00fd238366671c23754d8402abb715c711395da0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-63-2003",
+   "path": "local/arad/nadlac/2003/63",
+   "short": "HCL Nădlac nr. 63/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 63/2003 privind alegerea presedintelui de sedinta",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iulie/hot_63_-_2003.pdf",
+     "sha256": "530e075d1fb93126e2b2252003f0155239ab17d74a84654ad46fcd31ae5301ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-64-2003",
+   "path": "local/arad/nadlac/2003/64",
+   "short": "HCL Nădlac nr. 64/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 64/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iulie/hot_64_-_2003.pdf",
+     "sha256": "08e382bf10fb804a9b2979eb08a1f646ffc0e4c763db695d12496205dc2e760a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-65-2003",
+   "path": "local/arad/nadlac/2003/65",
+   "short": "HCL Nădlac nr. 65/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 65/2003 privind aprobarea Planului de masuri pentru înlaturarea deficientelor în organizarea activitatii de aparare împotriva incendiilor la nivelul orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iulie/hot_65_-_2003.pdf",
+     "sha256": "909777573e73cb3453da2e499dac43c5fec9374273d4ef3c4fc77a277755786f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-66-2003",
+   "path": "local/arad/nadlac/2003/66",
+   "short": "HCL Nădlac nr. 66/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 66/2003 privind reorganizarea Serviciului public de pompieri civili al orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iulie/hot_66_-_2003.pdf",
+     "sha256": "f1a1c264e5a36960bf388c75659ea9d9e2a8808db061189ad518dfbd83ef296d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-67-2003",
+   "path": "local/arad/nadlac/2003/67",
+   "short": "HCL Nădlac nr. 67/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 67/2003 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iulie/hot_67_-_2003.pdf",
+     "sha256": "262fdbf99fa0d45844f960939dc32de56ddfc046e598dcc28d6f6e82b02e8524"
     }
    ]
   },
@@ -168,6 +1188,141 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-69-2003",
+   "path": "local/arad/nadlac/2003/69",
+   "short": "HCL Nădlac nr. 69/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 69/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iulie/hot_69_-_2003.pdf",
+     "sha256": "206c38b2cc1ec638151eebce9f44d7c10e15163df9260682aa79d912febb7c3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-7-2003",
+   "path": "local/arad/nadlac/2003/7",
+   "short": "HCL Nădlac nr. 7/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 7/2003 privind aprobarea fisei postului de consilier juridic din cadrul aparatului permanent al Consiliului local Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Februarie/hot_7_-_2003.pdf",
+     "sha256": "fa9c289d604f88e1fb949e6c7317ac89d8b367ab021b95dd3422e1900713e4ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-70-2003",
+   "path": "local/arad/nadlac/2003/70",
+   "short": "HCL Nădlac nr. 70/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 70/2003 privind trecerea în proprietatea privata a orasului Nadlac a terenului în suprafata de 75.861 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iulie/hot_70_-_2003.pdf",
+     "sha256": "f33dc8edd035749e8224e9c3f8abb01199b255ab193f473a853344e83044616b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-71-2003",
+   "path": "local/arad/nadlac/2003/71",
+   "short": "HCL Nădlac nr. 71/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 71/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iulie/hot_71_-_2003.pdf",
+     "sha256": "158ea1c45de7b2b4d78202c25db56794fb0725e0818423032324bbda8b45d88e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-72-2003",
+   "path": "local/arad/nadlac/2003/72",
+   "short": "HCL Nădlac nr. 72/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 72/2003 privind introducerea în circuitul funciar al parcelei cu nr. top. 2240 în vederea vânzarii a 2 loturi",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-07-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Iulie/hot_72_-_2003.pdf",
+     "sha256": "59a01f45e459ff5396e6405156bedcca6a75341bd9817d1f5bc120ee630d49fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-73-2003",
+   "path": "local/arad/nadlac/2003/73",
+   "short": "HCL Nădlac nr. 73/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 73/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-08-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/August/hot_73_-_2003.pdf",
+     "sha256": "544ceceb664f7c902a4f0ca09eb97ac8121bf6f1328856398ed8ea83272e6313"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-74-2003",
+   "path": "local/arad/nadlac/2003/74",
+   "short": "HCL Nădlac nr. 74/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 74/2003 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-08-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/August/hot_74_-_2003.pdf",
+     "sha256": "f55684e32cfca9004cfd5eb7c5ce70e67ad4d4a55066c504536d6053bfaa580a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-75-2003",
+   "path": "local/arad/nadlac/2003/75",
+   "short": "HCL Nădlac nr. 75/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 75/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-08-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/August/hot_75_-_2003.pdf",
+     "sha256": "7d059f09149814206412c10edf92885d045ac5efe8366cb2757cfab645c8abc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-76-2003",
+   "path": "local/arad/nadlac/2003/76",
+   "short": "HCL Nădlac nr. 76/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 76/2003 privind modificarea Hotarârii Consiliului Local Nadlac nr. 71/29.07.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-08-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/August/hot_76_-_2003.pdf",
+     "sha256": "8531b465770e8d8d5d75b221e8a147d211286fc9863ac038f3885c0eb1635ab4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-77-2003",
    "path": "local/arad/nadlac/2003/77",
    "short": "HCL Nădlac nr. 77/2003",
@@ -183,6 +1338,276 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-78-2003",
+   "path": "local/arad/nadlac/2003/78",
+   "short": "HCL Nădlac nr. 78/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 78/2003 privind vânzarea suprafetei de 3768 mp. situat în orasul Nadlac DN 7 km. 593+800",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-08-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/August/hot_78_-_2003.pdf",
+     "sha256": "ee8168032536cdecc1a7003e79df2f44db60abac14a6d33333ed2b0107e7a3ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-79-2003",
+   "path": "local/arad/nadlac/2003/79",
+   "short": "HCL Nădlac nr. 79/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 79/2003 privind darea în folosinta gratuita spatiului de 38,76 mp, situat în orasul Nadlac, str. G. Cosbuc, nr. 62, înscris în CF nr. 841 catre Cabinetul Medical Individual, Medicina Generala Pediatrie Dr",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-08-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/August/hot_79_-_2003.pdf",
+     "sha256": "0d1caf0268b230f26c73b9d0eb9f613f95385cc86cdc3a66cd026de65ad016ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-8-2003",
+   "path": "local/arad/nadlac/2003/8",
+   "short": "HCL Nădlac nr. 8/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 8/2003 privind aprobarea caietului de sarcini si a instructiunilor privind concesionarea prin licitatie publica a întretinerii si exploatarii strandului orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Februarie/hot_8_-_2003.pdf",
+     "sha256": "09e7e895488fb7706449a2dd33c6bb085f64bc10af6e883297bc024593cccfac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-82-2003",
+   "path": "local/arad/nadlac/2003/82",
+   "short": "HCL Nădlac nr. 82/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 82/2003 privind aprobarea ordinei de zi al sedintei extraordinare al Consiliului local Nadlac din data de 02.09.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-09-02",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Septembrie/hot_82_-_2003.pdf",
+     "sha256": "634c519af8039f41a7b916c15117b0dd27c188791e26ee8e3f34ee8146907759"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-83-2003",
+   "path": "local/arad/nadlac/2003/83",
+   "short": "HCL Nădlac nr. 83/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 83/2003 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 26.08.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-09-02",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Septembrie/hot_83_-_2003.pdf",
+     "sha256": "a6056bfec0559bce52fc2d48827cd67a6d31e463e612e9c92cdd3cb30b965d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-84-2003",
+   "path": "local/arad/nadlac/2003/84",
+   "short": "HCL Nădlac nr. 84/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 84/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-09-02",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Septembrie/hot_84_-_2003.pdf",
+     "sha256": "faaecc0e265e870784a677361ab19807c1a23ed99da9651a4d480285fe19772f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-85-2003",
+   "path": "local/arad/nadlac/2003/85",
+   "short": "HCL Nădlac nr. 85/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 85/2003 privind alegerea presedintelui de sedinta",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Septembrie/hot_85_-_2003.pdf",
+     "sha256": "5c7042a16d39967013e40e975aa3a701317040a59fc4503bffe05fed87937423"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-86-2003",
+   "path": "local/arad/nadlac/2003/86",
+   "short": "HCL Nădlac nr. 86/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 86/2003 privind aprobarea ordinei de zi al sedintei ordinare al Consiliului local Nadlac din data de 30.09.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Septembrie/hot_86_-_2003.pdf",
+     "sha256": "90fb94fc36fa225579dc7cc846d18b043d79b2996245b29f4b357f740b32d3dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-87-2003",
+   "path": "local/arad/nadlac/2003/87",
+   "short": "HCL Nădlac nr. 87/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 87/2003 privind aprobarea procesului verbal al sedintei extraordinare al Consiliului local Nadlac din data de 02.09.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Septembrie/hot_87_-_2003.pdf",
+     "sha256": "307b7fd7150218907b7e55d639f038028296f612a25419d7c06df7f8de50c619"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-88-2003",
+   "path": "local/arad/nadlac/2003/88",
+   "short": "HCL Nădlac nr. 88/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 88/2003 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Septembrie/hot_88_-_2003.pdf",
+     "sha256": "f5c343247200af9c081874590339fa5a58b7011c3bc7eecf7e72f82006e09c1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-89-2003",
+   "path": "local/arad/nadlac/2003/89",
+   "short": "HCL Nădlac nr. 89/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 89/2003 privind aprobarea scaderii din chirie a costului lucrarilor de reparatii a spatiului închiriat în baza contractului de închiriere nr. 2706/16.04.2002",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Septembrie/hot_89_-_2003.pdf",
+     "sha256": "966c19ca6c6b003ffdfdc584cdd7ed5e09530223210252402dfe9bc2d8a993d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-9-2003",
+   "path": "local/arad/nadlac/2003/9",
+   "short": "HCL Nădlac nr. 9/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 9/2003 privind încheierea si aprobarea exercitiului bugetar pe anul 2002",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-02-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Februarie/hot_9_-_2003.pdf",
+     "sha256": "d453f80800619fe5fe93341aa5adccd16745e94e5d55247467f8ba5cee6dc99c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-90-2003",
+   "path": "local/arad/nadlac/2003/90",
+   "short": "HCL Nădlac nr. 90/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 90/2003 privind împuternicirea persoanelor care vor participa la licitatia publica care va avea loc la AVAB Bucuresti cu privire la achizitionarea imobilului situat în orasul Nadlac, str. G. Enescu, nr. 85, sediul fostei S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Septembrie/hot_90_-_2003.pdf",
+     "sha256": "160c5f97efc8dd18b0c8b4911a4e37d649377e0cd7c995a37f50594e59661bf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-91-2003",
+   "path": "local/arad/nadlac/2003/91",
+   "short": "HCL Nădlac nr. 91/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 91/2003 privind aprobarea vânzarii prin licitatie publica deschisa a materialelor recuperate din schimbarea acoperisului primariei care nu mai sunt necesare institutiei",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Septembrie/hot_91_-_2003.pdf",
+     "sha256": "147a309f2a76c40527c65f1c5505c0a01b018ddd6156e1372acfedf88572898a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-92-2003",
+   "path": "local/arad/nadlac/2003/92",
+   "short": "HCL Nădlac nr. 92/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 92/2003 privind parcelarea imobilului situat în orasul Nadlac, str. N Balcescu, nr. 98, înscris în CF nr. 4797",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Septembrie/hot_92_-_2003.pdf",
+     "sha256": "96d79ae3af4a05252925e2f0182c022743115c2901364f40e6149ba62d4c146f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-93-2003",
+   "path": "local/arad/nadlac/2003/93",
+   "short": "HCL Nădlac nr. 93/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 93/2003 privind aprobarea ordinei de zi al sedintei ordinare al Consiliului local Nadlac din data de 28.10.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Octombrie/hot_93_-_2003.pdf",
+     "sha256": "74f2b74ad4f0610f54bba728f7bcceb97b7fadada8dbc3d46c4f3a70fed9aa16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-94-2003",
+   "path": "local/arad/nadlac/2003/94",
+   "short": "HCL Nădlac nr. 94/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 94/2003 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 30.09.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Octombrie/hot_94_-_2003.pdf",
+     "sha256": "4d2de9081d5241ee1bb4443c2def2f0062d601f2fc7ecdb99122bbba7f6b0255"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-95-2003",
+   "path": "local/arad/nadlac/2003/95",
+   "short": "HCL Nădlac nr. 95/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 95/2003 privind pasunatul si transhumanta pe teritoriul orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Octombrie/hot_95_-_2003.pdf",
+     "sha256": "7d51796d12da54667078f84b6ac2332039a64b9e37dcc658762222ec54cf3fa5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-96-2003",
    "path": "local/arad/nadlac/2003/96",
    "short": "HCL Nădlac nr. 96/2003",
@@ -194,6 +1619,51 @@
      "units": 3,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Octombrie/hot_96_-_2003.pdf",
      "sha256": "b4173d8cac278e7eb9955ebb2d4cff7cb71b34b18d13dce4d1f6e9854eec6a24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-97-2003",
+   "path": "local/arad/nadlac/2003/97",
+   "short": "HCL Nădlac nr. 97/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 97/2003",
+   "url": null,
+   "versions": [
+    {
+     "from": "2003-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Octombrie/hot_97_-_2003.pdf",
+     "sha256": "e7f5b3edcfc9214710bc6b007792ada9fcee30c8ca74792e5dba165c8b8fcbb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-98-2003",
+   "path": "local/arad/nadlac/2003/98",
+   "short": "HCL Nădlac nr. 98/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 98/2003 privind aprobarea inventarului terenurilor din domeniul privat al orasului Nadlac care se pot atribui în baza Legii nr.15/2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Octombrie/hot_98_-_2003.pdf",
+     "sha256": "807441e7ac093f7acfa53e5eae9e2dcdbd049cb518a244d9a108e3ac764a988d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-99-2003",
+   "path": "local/arad/nadlac/2003/99",
+   "short": "HCL Nădlac nr. 99/2003",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 99/2003 privind aprobarea „Regulamentului de organizare si functionare a pietei, târgului si a oborului în orasul Nadlac”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+   "versions": [
+    {
+     "from": "2003-10-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2003/Octombrie/hot_99_-_2003.pdf",
+     "sha256": "961e8268dafd49d25fcda3fa90e28e8a8248cd37a0669d4600c9e2b4cefb65c1"
     }
    ]
   }

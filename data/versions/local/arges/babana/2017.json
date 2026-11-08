@@ -3,6 +3,66 @@
  "shard": "local/arges/babana/2017",
  "acts": [
   {
+   "slug": "hcl-arges--babana-1-2017",
+   "path": "local/arges/babana/2017/1",
+   "short": "HCL Băbana nr. 1/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 1/2017 Privind utilizarea de sume din excedentui bugetului local pentru acoperirea deficitului sectiunii de dezvoltare Consiliul local al comunei Babana, jud",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2017-01-05",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%201%202017.pdf",
+     "sha256": "d2ea49119eab98d2e7b4fb4bdb821e510391180e57b57c217d7573c3cab2f1d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-16-2017",
+   "path": "local/arges/babana/2017/16",
+   "short": "HCL Băbana nr. 16/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 16/2017 privind aproburea investitiei,Devizului general si a indicatorilor tehnico-economici ai proiectitui \"Conalizare si epurare a apelor uzate menaiere insutul Grosi, comana Babana iudetul Arges\", Consiliul Local al com.Babana,judetul Arges; - Avand in vedere referatul nr.1172t03.03,2017 intocmit de Inspectorul de urbanism al primariei,conform adresei Ministerului Dezvoltarii Regionale si Administratie",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2017-03-06",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2016%2017.pdf",
+     "sha256": "4a1adcb5c5247d97d9d61074018030b6bf05ccfa2aeec135890acaad4e9c85b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-17-2017",
+   "path": "local/arges/babana/2017/17",
+   "short": "HCL Băbana nr. 17/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 17/2017 privind proieclul \"Modernizare DC 174A Babana-Volea Ctprii-Sutari si DC I 77 Grosi - Negulesti, in comuns Bobana jucletul Arges.\" Consiliul Local al com.Babanajudetul Arges; - Avatrd itr vedere referatul nr.ll74103.03.2017 intocmit de Inspectorul dc urb:rnism al primariei,corform adresei Ministerului Dezvoltarii Regionale si Administratiei I'ublicc nr. 21176128.02,2017 referitoare la depunerea sol",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2017-06-20",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hootarari18/hot_17_1_17.pdf",
+     "sha256": "4a31a605af232f6fe147b005976afab1f9bd4c70a416c280903bd8be400eecf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-18-2017",
+   "path": "local/arges/babana/2017/18",
+   "short": "HCL Băbana nr. 18/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 18/2017 privind aprobareu Devizului general actualizat in urma scaderii TVA la 19% precum si aprobarea indicatorilor tehnico-economici ui proiectului integrat in urma reculcularii devizului pentru lucrarea :\"Modernizare drumuri comunale DC 174 B,DC174 C si DC174 D in comuna Babana, judetul Arges \"",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2017-03-06",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2018%2017.pdf",
+     "sha256": "76552947ce3b151f6dd5e48594537d46739a07bfc6c2d4668bfe6e00aeb7e83f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--babana-29-2017",
    "path": "local/arges/babana/2017/29",
    "short": "HCL Băbana nr. 29/2017",
@@ -14,6 +74,141 @@
      "units": 1,
      "source_url": "https://www.primariababana.ro/images/pdf/hot%2029%2017.pdf",
      "sha256": "50d8397ffd033c9186cf6fd258f9ae0da18de565bb57c91ad6a1b1838098c923"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-3-2017",
+   "path": "local/arges/babana/2017/3",
+   "short": "HCL Băbana nr. 3/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 3/2017 pentru beneficiari Legii nr. 416/2001",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2017-01-12",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%203%202017.pdf",
+     "sha256": "64d7d407309713e80626f3260df687faf20794671d1844e7eccb76e37c4572fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-35-2017",
+   "path": "local/arges/babana/2017/35",
+   "short": "HCL Băbana nr. 35/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 35/2017 Privind aprobarea cumpararii imobilului situat in comuna Babana , sat Babana , str. Babana, jud. Arges, identificat prin lucrarea cadastrala cu nr. cadast ral gl734 Consiliul Local Babana intrunit in sedinta ordinara la data de 12.07.2017 Avand in vedere; -Expunerea de motive si proiectulde hotarare Cererea nr.31.!2/29.05.2017 - avizul comisiilor de specialitate;; ln temeiul art.36 Legea nr. 21\"5/",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2017-07-12",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2035%2017.pdf",
+     "sha256": "e792c5bfa882f1f879b4c29d00e9f266426f6dd9dc5c0a84d8f2f1dcbc396088"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-361-2017",
+   "path": "local/arges/babana/2017/361",
+   "short": "HCL Băbana nr. 361/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 361/2017 Privind rectificarea Bugetului Local al comunei Babana, judetul Arges",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2036%2017.pdf",
+     "sha256": "db196096259991f085cfe70de97cea73fc324a8b910d8eee14dcc9a8745a2042"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-45-2017",
+   "path": "local/arges/babana/2017/45",
+   "short": "HCL Băbana nr. 45/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 45/2017 Privind rectificarea bugetului local al comunei Babana, judetul Arges Consiliul local al comunei Babana, jud",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2045%2017.pdf",
+     "sha256": "3ffc6058e81be13ce769c1352f3ca077aabaa06e91cf25e80012905b684618ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-46-2017",
+   "path": "local/arges/babana/2017/46",
+   "short": "HCL Băbana nr. 46/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 46/2017 pentru Consiliul de Administrare al scolii",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2046%2017.pdf",
+     "sha256": "88ab153c974fdd2d2b3830d4fea72341cac1ebf9474649e55c477278977c8136"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-52-2017",
+   "path": "local/arges/babana/2017/52",
+   "short": "HCL Băbana nr. 52/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 52/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2052%2017.pdf",
+     "sha256": "1e337152eb0b905061fab434f086b8deb6c9ad006bebe6193804978b02fb5ce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-55-2017",
+   "path": "local/arges/babana/2017/55",
+   "short": "HCL Băbana nr. 55/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 55/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2055%2017.pdf",
+     "sha256": "c9f3ba66df44d92a2f2e94079a8a034735776af91e75317513c373872297a30a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-6-2017",
+   "path": "local/arges/babana/2017/6",
+   "short": "HCL Băbana nr. 6/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 6/2017 pentru lucrarea : uModernizorc drumuri comunale in comuna Babana judetul Arges ,Asfaltare drumurile comunale DC 165 Sumara-Bajenestisi DC 177 A Munolesti-Bogdanu ,in comuna Bubana i udetul Arges\"",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%206%2017.pdf",
+     "sha256": "f2a2e97ff01065e5da48744b013db5db37ea247be2ebc27afb150c4dc31dae12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-9-2017",
+   "path": "local/arges/babana/2017/9",
+   "short": "HCL Băbana nr. 9/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 9/2017 privind aprobarea Devizulai general actuulizat in urma scuderii TVA la 19% precum si uprobarea inclicatorilor tehnico-economici ui proiectului integrut in urmu recalcularii devizului Pentru lucrurea : $Canalizore si epurure u apelor uzute menujere in comuna Babanu judetul Arges\"",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%209%2017.pdf",
+     "sha256": "c06be50b9dfa24b7d5484fd586ac40e13f422f9c6b9f8175c7023c606a78e2ea"
     }
    ]
   }

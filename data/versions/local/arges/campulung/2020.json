@@ -1173,6 +1173,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-29-2020",
+   "path": "local/arges/campulung/2020/29",
+   "short": "HCL Câmpulung nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 29/2020 cu privire la modificarea anexei nr. 1 la Contractul de delegarea gestiunii prin concesiune a serviciuiui de utilitate publică de întreținere, administrare și exploatare a piețelor agroalimentare și târgului din Municipiul Câmpulung nr. 6483 din 25.02.2011",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%2029%20din%2031.03.2020.pdf",
+     "sha256": "177835797c1aaa451f0b8cdb21aca4eba14e751844a96265d93a6b17877c111c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-3-2020",
    "path": "local/arges/campulung/2020/3",
    "short": "HCL Câmpulung nr. 3/2020",
@@ -1484,6 +1499,21 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%2049%20din%2028.05.2020.pdf",
      "sha256": "c48245404f7dcc567a1cc95feac03cadad3f6d7795dcf71f6edcf12a06882c75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-5-2020",
+   "path": "local/arges/campulung/2020/5",
+   "short": "HCL Câmpulung nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 5/2020 cu privire la aprobare modificare art. 3 din Hotărârea Consiliului Local al Municipiului Câmpulung nr. 36 din 25.04.2019 referitor la extindere sistem de distribuție a gazelor naturale în Municipiul Câmpulung pe strada Șoseaua Națională și aprobarea indicatorilor tehnico-economici ai investiției",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%205%20din%2030.01.2020.pdf",
+     "sha256": "d7e08122f17ad8d08d5c65063a6fe7048fd4d49b1aee5ec3551d70b9f93984f9"
     }
    ]
   },

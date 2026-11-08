@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "cnsc-decizie-2023-229",
+   "path": "cnsc/decizie/2023/229",
+   "short": "Decizia CNSC nr. 229/C3/3638 din 29.01.2023",
+   "title": "Decizia CNSC nr. 229/C3/3638 din 29.01.2023: contestația COLEN IMPEX SRL, KRONOS LIFE CONSTRUCT SRL în contradictoriu cu COMUNA FLOREȘTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWI5NmNkMjktODYzYS00NTk0LThkMGItZTU0OTg4MDU4YTU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMjkucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-01-29",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWI5NmNkMjktODYzYS00NTk0LThkMGItZTU0OTg4MDU4YTU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMjkucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "d8adb1d288b999ed6ab01add14080d3760b4dcd3c6cc79e137b7753481514f03"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2023-2322",
    "path": "cnsc/decizie/2023/2322",
    "short": "Decizia CNSC nr. 2322/C4/2413 din 19.08.2023",
@@ -164,6 +179,21 @@
      "units": 3,
      "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTBiZmFmZTQtNTkyZS00ZGVkLWIwM2MtMTczMzMyZDdlNzRi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMzIyLnBkZg==&action=YXR0YWNobWVudA==",
      "sha256": "ec355b5697a4b2418c5574c0e9ad79cac1c675d8484a39c81bb17bc8e4c322df"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2023-238",
+   "path": "cnsc/decizie/2023/238",
+   "short": "Decizia CNSC nr. 238/C4/38 din 30.01.2023",
+   "title": "Decizia CNSC nr. 238/C4/38 din 30.01.2023: contestația OPTICA SOFIA SRL în contradictoriu cu PRIMARIA MUNICIPIULUI FAGARAS JUDETUL BRASOV",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTMwNGJiY2QtNGU2Ni00ZmUwLTg2OGUtNzIxZjQ3ZWQxNTRk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMzgucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTMwNGJiY2QtNGU2Ni00ZmUwLTg2OGUtNzIxZjQ3ZWQxNTRk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMzgucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "eecfbff3f1f84bce9f1b4405f4485b8606e2985ec649a73b2ea1fdd377e361a2"
     }
    ]
   },
@@ -194,6 +224,21 @@
      "units": 3,
      "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjJiMjBkOGUtOThjZi00N2Q2LTlmMzAtNGM1ZWNmZDUwNmI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNDU4LnBkZg==&action=YXR0YWNobWVudA==",
      "sha256": "ac0a94ec41af9633525640ce646d6aa60f672159e9d7747415059007149300ed"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2023-401",
+   "path": "cnsc/decizie/2023/401",
+   "short": "Decizia CNSC nr. 401/C1/3632 din 16.02.2023",
+   "title": "Decizia CNSC nr. 401/C1/3632 din 16.02.2023: contestația CROS CONSTRUCT SRL în contradictoriu cu MINISTERUL APARARII - U.M. 01512 SIBIU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWY0NDEwYzUtNGUzMi00NGU4LThmZDYtMDZlOWQ2OTQ5M2Ji&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MDEucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWY0NDEwYzUtNGUzMi00NGU4LThmZDYtMDZlOWQ2OTQ5M2Ji&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MDEucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "97a9d11348ece1665bad1b5e6cb1dc97c0a50d1b7e127e3b116549617b9c623e"
     }
    ]
   },

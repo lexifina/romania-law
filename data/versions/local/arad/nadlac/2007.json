@@ -3,6 +3,156 @@
  "shard": "local/arad/nadlac/2007",
  "acts": [
   {
+   "slug": "hcl-arad--nadlac-1-2007",
+   "path": "local/arad/nadlac/2007/1",
+   "short": "HCL Nădlac nr. 1/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 1/2007 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 05.01.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_1_-_2007.pdf",
+     "sha256": "65c7cbfac9805fecdb981b6ae6bb3f06feb9683fb54094f0870f779add0e3486"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-10-2007",
+   "path": "local/arad/nadlac/2007/10",
+   "short": "HCL Nădlac nr. 10/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 10/2007 privind modificarea anexei nr.1 din Hotărârea Consiliului Local nr. 153/28.12.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_10_-_2007.pdf",
+     "sha256": "9f3d70794a7d88bc2ba6a4df98bf1266ab357d64f4f2cc8ff3ee9a6c3d8abf12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-100-2007",
+   "path": "local/arad/nadlac/2007/100",
+   "short": "HCL Nădlac nr. 100/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 100/2007 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_100_-_2007.pdf",
+     "sha256": "297eeba8b398d9b358f4b23c2fe8896f5a220f42a2832f967e27717acd6c04bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-101-2007",
+   "path": "local/arad/nadlac/2007/101",
+   "short": "HCL Nădlac nr. 101/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 101/2007 privind aprobarea demarării procedurii de conciliere cu Judeţul Arad, prin",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_101_-_2007.pdf",
+     "sha256": "3281bb65c28bfd97e499a4b6480de400c308f3efacb42cdbb34e3fb20cc10fe5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-102-2007",
+   "path": "local/arad/nadlac/2007/102",
+   "short": "HCL Nădlac nr. 102/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 102/2007 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 21.06.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_102_-_2007.pdf",
+     "sha256": "8a992b2a28261362a351377efac8846d08961001c7e98b3ea0fbde20f5c983f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-103-2007",
+   "path": "local/arad/nadlac/2007/103",
+   "short": "HCL Nădlac nr. 103/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 103/2007 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_103_-_2007.pdf",
+     "sha256": "8f48655a12bbaaf6c25e48d64c76d05d174dbd18494e6d1e1e355daa39d81103"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-104-2007",
+   "path": "local/arad/nadlac/2007/104",
+   "short": "HCL Nădlac nr. 104/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 104/2007 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 29.06.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_104_-_2007.pdf",
+     "sha256": "3aaefb5bb72e49e1054ba2be9330d6251fc0c34415400af6b5b6549531451ad9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-105-2007",
+   "path": "local/arad/nadlac/2007/105",
+   "short": "HCL Nădlac nr. 105/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 105/2007 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 18.06.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_105_-_2007.pdf",
+     "sha256": "ecf881b511a2a7ec9a514d9bb14410cb879f8f52d7680272db49a192a56eeb99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-106-2007",
+   "path": "local/arad/nadlac/2007/106",
+   "short": "HCL Nădlac nr. 106/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 106/2007 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 21.06.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_106_-_2007.pdf",
+     "sha256": "b7e6516206cb4e989c86560994ec6be511f354c229ff7d12e91bf3bc050e3658"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-107-2007",
+   "path": "local/arad/nadlac/2007/107",
+   "short": "HCL Nădlac nr. 107/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 107/2007 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_107_-_2007.pdf",
+     "sha256": "28ac6bbb93c81ef6482a5fba2aaf9dbd9d1df5907b42a92b06a71119d34bd923"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-108-2007",
    "path": "local/arad/nadlac/2007/108",
    "short": "HCL Nădlac nr. 108/2007",
@@ -14,6 +164,201 @@
      "units": 6,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_108_-_2007.pdf",
      "sha256": "482430ed1f6f77db1dc90529b939365e97db8abedf98b643f59ac121aa23e2e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-109-2007",
+   "path": "local/arad/nadlac/2007/109",
+   "short": "HCL Nădlac nr. 109/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 109/2007 privind aprobarea închirierii prin licitaţie publică a imobilului ( construcţie şi teren), situat în oraşul Nădlac, parcela nr. topo. 4055/8/2/2/1, înscrisă în CF nr.9399 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_109_-_2007.pdf",
+     "sha256": "5ba16d27a5c49e044cb22be3a145315bbad8cad170c90e73b588d8784fa71553"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-11-2007",
+   "path": "local/arad/nadlac/2007/11",
+   "short": "HCL Nădlac nr. 11/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 11/2007 privind revocarea Hotărârii Consiliului Local nr. 149/28.12.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_11_-_2007.pdf",
+     "sha256": "20d24b48a51c38b544c8ae3e628f55122ec566685843b31d333c0fc57e898665"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-111-2007",
+   "path": "local/arad/nadlac/2007/111",
+   "short": "HCL Nădlac nr. 111/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 111/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_111_-_2007.pdf",
+     "sha256": "52a1b890e027ff177ae840b7687db4b277f830f1ddc6f7353fffd9f65c2fb221"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-112-2007",
+   "path": "local/arad/nadlac/2007/112",
+   "short": "HCL Nădlac nr. 112/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 112/2007 privind acordul Consiliului Local cu privire la cesionarea drepturilor şi obligaţiilor asumate conform contractului de concesiune nr. 3811/19.06.2001 încheiat cu S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_112_-_2007.pdf",
+     "sha256": "c0b9df9617968d388cc57ad59f608e939d5b884874c9cd606ea93fdb295f6afc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-113-2007",
+   "path": "local/arad/nadlac/2007/113",
+   "short": "HCL Nădlac nr. 113/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 113/2007 privind aprobarea Studiului de fezabilitate la obiectivul „Reabilitare curţi blocuri în oraşul Nădlac – jud. Arad”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_113_-_2007.pdf",
+     "sha256": "fb74904560b421607668ea0fc9e210f0ae8e42cf93d563223a683598e13e8c2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-114-2007",
+   "path": "local/arad/nadlac/2007/114",
+   "short": "HCL Nădlac nr. 114/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 114/2007 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 10.07.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-07-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iulie/hot_114_-_2007.pdf",
+     "sha256": "75b4a7f6be5b7224610c5b8e3c1793cf63f956b91c6e99f630d9e1d3bd85aedd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-115-2007",
+   "path": "local/arad/nadlac/2007/115",
+   "short": "HCL Nădlac nr. 115/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 115/2007 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 29.06.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-07-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iulie/hot_115_-_2007.pdf",
+     "sha256": "6dff17789fc73803dc8517661327117acea728c417b5a8dcc4bb1e5eb8b64083"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-116-2007",
+   "path": "local/arad/nadlac/2007/116",
+   "short": "HCL Nădlac nr. 116/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 116/2007 privind rectificarea bugetului de cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-07-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iulie/hot_116_-_2007.pdf",
+     "sha256": "4672cb61adf05188a5129c6d8307b0805e9b9b1fbb59259b32265326d8fb9c4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-117-2007",
+   "path": "local/arad/nadlac/2007/117",
+   "short": "HCL Nădlac nr. 117/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 117/2007 privind aprobarea actului adiţional nr.1 la contractul de delegare de gestiune prin concesiune nr. 5128/04.06.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-07-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iulie/hot_117_-_2007.pdf",
+     "sha256": "107d612651bf6996f8ea997b42b577c36a28b4195819342df450d1de7365fae1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-118-2007",
+   "path": "local/arad/nadlac/2007/118",
+   "short": "HCL Nădlac nr. 118/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 118/2007 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 31.07.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-07-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iulie/hot_118_-_2007.pdf",
+     "sha256": "10c56962fa88c33c0ee58346a17d1e87168b6104d83cd9eb221d434ebe8052fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-119-2007",
+   "path": "local/arad/nadlac/2007/119",
+   "short": "HCL Nădlac nr. 119/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 119/2007 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 10.07.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-07-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iulie/hot_119_-_2007.pdf",
+     "sha256": "3e48f35f8f8845ff32657d1e78deb9810f71a7c0e0919fad221170c33025b1ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-12-2007",
+   "path": "local/arad/nadlac/2007/12",
+   "short": "HCL Nădlac nr. 12/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 12/2007 privind revocarea Hotărârii Consiliului Local nr. 150/28.12.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_12_-_2007.pdf",
+     "sha256": "1596c8c29f7861763e5dfaf70de24ce02098685ceffdb63cc33644c07682d309"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-120-2007",
+   "path": "local/arad/nadlac/2007/120",
+   "short": "HCL Nădlac nr. 120/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 120/2007 privind înregistrarea ,radierea şi ţinerea evidenţei vehiculelor pentru care nu există obligaţia înmatriculării",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-07-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iulie/hot_120_-_2007.pdf",
+     "sha256": "7eac5f64b945ff68c34946f29b88573e489e0e3be4f193e65f97d52c260fbfdf"
     }
    ]
   },
@@ -33,6 +378,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-122-2007",
+   "path": "local/arad/nadlac/2007/122",
+   "short": "HCL Nădlac nr. 122/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 122/2007 privind trecerea în proprietatea privată a oraşului Nădlac a terenului în suprafaţă totală de 797 mp, parcelele nr.top. 3565, 3569/2, înscrise în CF nr. 565 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-07-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iulie/hot_122_-_2007.pdf",
+     "sha256": "96670e439ed725a28531f949a49e6a7bb6a3e5b3ff3f885fb76c4f67995fa060"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-123-2007",
+   "path": "local/arad/nadlac/2007/123",
+   "short": "HCL Nădlac nr. 123/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 123/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-07-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iulie/hot_123_-_2007.pdf",
+     "sha256": "342b44b11fcb35d9a6ada0989859a3155610281703d0217f0507dda89fe65531"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-124-2007",
+   "path": "local/arad/nadlac/2007/124",
+   "short": "HCL Nădlac nr. 124/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 124/2007 privind chemarea în judecată a S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-07-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iulie/hot_124_-_2007.pdf",
+     "sha256": "55c4f92ae0382afc232a358e64f4ab887e1b3e2482ef18a54d6b31d82dd1a41b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-125-2007",
    "path": "local/arad/nadlac/2007/125",
    "short": "HCL Nădlac nr. 125/2007",
@@ -44,6 +434,411 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iulie/hot_125_-_2007.pdf",
      "sha256": "b7b86c992f7129b77fa3e986e274c192c3300d7f40e11fec3dc8c0cc78eeb9d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-127-2007",
+   "path": "local/arad/nadlac/2007/127",
+   "short": "HCL Nădlac nr. 127/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 127/2007 privind vânzarea terenului în suprafaţă de 731 mp , evidenţiat în CF 9970 Nădlac, parcela nr.top 12345-12350/1/1/13/1, d-lui Cervenak Iosif-Iaroslav, domiciliat în oraşul Nădlac, str",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-07-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iulie/hot_127_-_2007.pdf",
+     "sha256": "a4c7e9013b56a60dca4a8ed1e00a17fab5911020c642d868be1bbf1d28dec653"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-129-2007",
+   "path": "local/arad/nadlac/2007/129",
+   "short": "HCL Nădlac nr. 129/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 129/2007 privind stabilirea condiţiilor de organizare şi desfăşurare a concursului sau examenului pentru ocuparea funcţiilor publice vacante din cadrul Serviciului Public de Poliţie comunitară Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-07-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iulie/hot_129_-_2007.pdf",
+     "sha256": "ca75aee3e059922889b335f90c6eecf8b9b37122bd04077999cec6bfdbf6eb63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-13-2007",
+   "path": "local/arad/nadlac/2007/13",
+   "short": "HCL Nădlac nr. 13/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 13/2007 privind aprobarea actului adiţional la contractul de concesiune nr. 3811/19.06.2001",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_13_-_2007.pdf",
+     "sha256": "b6b42027848ed3517242885e2be509d082a355d049500be8731248c78cbd243a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-130-2007",
+   "path": "local/arad/nadlac/2007/130",
+   "short": "HCL Nădlac nr. 130/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 130/2007 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 21.08.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/August/hot_130_-_2007.pdf",
+     "sha256": "b54d4c2b530893e8268afdb459e2239f4a3921f0a9a036bc01ed5de12f0346c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-131-2007",
+   "path": "local/arad/nadlac/2007/131",
+   "short": "HCL Nădlac nr. 131/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 131/2007 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 31.07.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/August/hot_131_-_2007.pdf",
+     "sha256": "f2fee0b71699153b2c6f6f06d93c1434806b7fc459468ecbca04d1f61576fb57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-132-2007",
+   "path": "local/arad/nadlac/2007/132",
+   "short": "HCL Nădlac nr. 132/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 132/2007 privind aprobarea închirierii prin licitaţie publică a culoarului de frontieră şi fâşiei de protecţie a frontierei de stat, în suprafaţă totală de 38,51 ha",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/August/hot_132_-_2007.pdf",
+     "sha256": "1a9710eea56f95ac7407f36ae705d40d16386f01f785e167b3e8a1d579cbba8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-133-2007",
+   "path": "local/arad/nadlac/2007/133",
+   "short": "HCL Nădlac nr. 133/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 133/2007 privind vânzarea prin licitaţie publică a parcelei cu nr.top.13691/29, evidenţiată în C.F.nr.2201- Nădlac, în suprafaţă de 731 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/August/hot_133_-_2007.pdf",
+     "sha256": "0e3ee0fbb7405f4ce395204a60ca59bdf509259f796410f4c4515b28096972b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-134-2007",
+   "path": "local/arad/nadlac/2007/134",
+   "short": "HCL Nădlac nr. 134/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 134/2007 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/August/hot_134_-_2007.pdf",
+     "sha256": "e3ebc3bd61b48b65bde3224a930b258ebbbb43835dc92368121230a283c7bbc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-135-2007",
+   "path": "local/arad/nadlac/2007/135",
+   "short": "HCL Nădlac nr. 135/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 135/2007 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Septembrie/hot_135_-_2007.pdf",
+     "sha256": "ec1cb7ab55011b99bd73bfff602700f11a68c23d3a7c7f4605498adf3f000340"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-136-2007",
+   "path": "local/arad/nadlac/2007/136",
+   "short": "HCL Nădlac nr. 136/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 136/2007 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 19.09.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Septembrie/hot_136_-_2007.pdf",
+     "sha256": "8e39f9672f2debb93bfd7a41d10f44fbb3d7233bb1f0c3713d2f5eebd78a9cd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-137-2007",
+   "path": "local/arad/nadlac/2007/137",
+   "short": "HCL Nădlac nr. 137/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 137/2007 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 21.08.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Septembrie/hot_137_-_2007.pdf",
+     "sha256": "9b23e3e3a61b724c32f60918502ef745f9f03a6f4e2e5614157180b178a1fd21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-138-2007",
+   "path": "local/arad/nadlac/2007/138",
+   "short": "HCL Nădlac nr. 138/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 138/2007 privind stabilirea formei de gestiune a serviciului de iluminat public în oraşul Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Septembrie/hot_138_-_2007.pdf",
+     "sha256": "7eaadc8fe5fce088eae0215723628998d33bb33d685e5fe25a641f82f64576ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-139-2007",
+   "path": "local/arad/nadlac/2007/139",
+   "short": "HCL Nădlac nr. 139/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 139/2007 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2000",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Septembrie/hot_139_-_2007.pdf",
+     "sha256": "526d699ebed417f3162ea87ab7014a5c8b4a5b33caf1e69e962bcefc22c1c164"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-14-2007",
+   "path": "local/arad/nadlac/2007/14",
+   "short": "HCL Nădlac nr. 14/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 14/2007 privind aprobarea actului adiţional la contractul de asociere nr. 6448/19.12.2000",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_14_-_2007.pdf",
+     "sha256": "c9ae40d401a7fabb89f534c66a0224f37e62db78cdc72dee37c03cd9e3a64328"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-140-2007",
+   "path": "local/arad/nadlac/2007/140",
+   "short": "HCL Nădlac nr. 140/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 140/2007 privind reglementarea modului de executare a lucrărilor cu foc deschis în sediul administrativ al primăriei, casei de cultură, bibliotecii şi serviciilor din subordinea Consiliului local Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Septembrie/hot_140_-_2007.pdf",
+     "sha256": "7611da1c35c83e0bc3ac83642f8d81f5d90d4fd53437d3cea60f8fc48789c8c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-141-2007",
+   "path": "local/arad/nadlac/2007/141",
+   "short": "HCL Nădlac nr. 141/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 141/2007 privind modificarea statului de funcţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Septembrie/hot_141_-_2007.pdf",
+     "sha256": "57fedb4d7e62eb39e2e34fd0d1d2098f93b85facc0d866004001b1586e39f00b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-142-2007",
+   "path": "local/arad/nadlac/2007/142",
+   "short": "HCL Nădlac nr. 142/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 142/2007 privind modificarea Planului de ocupare al funcţiilor publice pentru anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Septembrie/hot_142_-_2007.pdf",
+     "sha256": "ea3c33956a564e53f9ceccc854e99898a1dce70bcf66a72675a9b36c19c41f60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-143-2007",
+   "path": "local/arad/nadlac/2007/143",
+   "short": "HCL Nădlac nr. 143/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 143/2007 privind trecerea în proprietatea privată a oraşului Nădlac a terenului în suprafaţă totală de 1101 mp, parcela nr. top. 12345-12350/26/1/1, evidenţiată în CF nr.8722 Nădlac ( 1001 mp ) şi parcela nr. top.12345- 12350/26/1/2, evidenţiată în CF nr.9214 Nădlac ( 100 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Septembrie/hot_143_-_2007.pdf",
+     "sha256": "c5d867d7f66c566fd1d33c2746e0a1b79d0f7df8fab672bbf7d5352c1aaca9a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-144-2007",
+   "path": "local/arad/nadlac/2007/144",
+   "short": "HCL Nădlac nr. 144/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 144/2007 privind trecerea în proprietatea privată a oraşului Nădlac şi parcelarea unui teren",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Septembrie/hot_144_-_2007.pdf",
+     "sha256": "e493065889168ebf01d63cf7992f853e8515ad5be262f2c9d15a6ee3bf5b41d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-145-2007",
+   "path": "local/arad/nadlac/2007/145",
+   "short": "HCL Nădlac nr. 145/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 145/2007 privind trecerea în proprietatea privată a oraşului Nădlac a unor parcele situate în oraşul Nădlac, evidenţiate în CF nr.777 Nădlac, 9121 Nădlac, 9030 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Septembrie/hot_145_-_2007.pdf",
+     "sha256": "14bc1968265fb978d58c1240286b069e0efe74c0bde1377f92447b0ae7011e12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-146-2007",
+   "path": "local/arad/nadlac/2007/146",
+   "short": "HCL Nădlac nr. 146/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 146/2007 privind vânzarea prin licitaţie publică a unor parcele proprietatea privată a oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Septembrie/hot_146_-_2007.pdf",
+     "sha256": "7eb25a6021288e8f9aae1974d8daad5abac9e4b44c4ad2cb56b131fc864a2005"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-147-2007",
+   "path": "local/arad/nadlac/2007/147",
+   "short": "HCL Nădlac nr. 147/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 147/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Septembrie/hot_147_-_2007.pdf",
+     "sha256": "ca21c28b6ea35eb4f71f42efb1913249d0ffab4f4583e0a30c13b92f15683d75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-149-2007",
+   "path": "local/arad/nadlac/2007/149",
+   "short": "HCL Nădlac nr. 149/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 149/2007 privind aprobarea Studiului de fezabilitate referitor la obiectivul „Campus şcolar Gr. Şc. J. G",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Septembrie/hot_149_-_2007.pdf",
+     "sha256": "64f37a816afe9089fa13374da31d4e4e971efdb3d1bdb257f4cce05069a12c25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-15-2007",
+   "path": "local/arad/nadlac/2007/15",
+   "short": "HCL Nădlac nr. 15/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 15/2007 privind rezilierea pe cale amiabilă a contractului de asociere nr. 895/11.03.1998",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_15_-_2007.pdf",
+     "sha256": "80fc89be2eaea17b95d128123e34e4c591ffed5c5d2cf8e9634d45b3ad7a5abb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-150-2007",
+   "path": "local/arad/nadlac/2007/150",
+   "short": "HCL Nădlac nr. 150/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 150/2007 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 04.10.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-04",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_150_-_2007.pdf",
+     "sha256": "54f2e7993f4d88155ecce171e8fb344b28f9d2d9aefd44eac8b4e623810467d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-151-2007",
+   "path": "local/arad/nadlac/2007/151",
+   "short": "HCL Nădlac nr. 151/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 151/2007 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 19.09.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-04",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_151_-_2007.pdf",
+     "sha256": "32cb20855be12c2df443bf3d81c92f3ee54e8a77835cf15152539cb1668a8ec7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-152-2007",
+   "path": "local/arad/nadlac/2007/152",
+   "short": "HCL Nădlac nr. 152/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 152/2007 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-04",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_152_-_2007.pdf",
+     "sha256": "e4fa071bdebf019222045091437414b8a3175714143f58716ea66a516dd67006"
     }
    ]
   },
@@ -63,6 +858,321 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-154-2007",
+   "path": "local/arad/nadlac/2007/154",
+   "short": "HCL Nădlac nr. 154/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 154/2007 privind aprobarea Planului de analiză şi acoperire a riscurilor al localităţii Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-04",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_154_-_2007.pdf",
+     "sha256": "87ddc920a0ab921062846a998838e643951270380f50df1c32d3e1e31e074b8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-155-2007",
+   "path": "local/arad/nadlac/2007/155",
+   "short": "HCL Nădlac nr. 155/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 155/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-10-04",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_155_-_2007.pdf",
+     "sha256": "4baebe5798bd331ba1c2fa0e7c37ac0eaeec4f308ed3c90b164aa88887781726"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-156-2007",
+   "path": "local/arad/nadlac/2007/156",
+   "short": "HCL Nădlac nr. 156/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 156/2007 privind aprobarea numărului şi structurii personalului nedidactic la Grădiniţa PP Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-04",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_156_-_2007.pdf",
+     "sha256": "39c57d848e3a8985e3b2492f9b2e6a48c6a01fb4bf40e3eca44aec5748c331b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-157-2007",
+   "path": "local/arad/nadlac/2007/157",
+   "short": "HCL Nădlac nr. 157/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 157/2007 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 17.10.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_157_-_2007.pdf",
+     "sha256": "bc7767ec14b6354f51a2ae8db7ec0adf0c8a71db79895ddaf7e0ef876e512089"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-158-2007",
+   "path": "local/arad/nadlac/2007/158",
+   "short": "HCL Nădlac nr. 158/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 158/2007 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 04.10.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_158_-_2007.pdf",
+     "sha256": "dd414a26fa62c4a5738d12fe434a6a904f16e7a1cf231eae728ba722a98cc5a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-159-2007",
+   "path": "local/arad/nadlac/2007/159",
+   "short": "HCL Nădlac nr. 159/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 159/2007 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_159_-_2007.pdf",
+     "sha256": "826a648d84a62747733dfcefd28d6ef9823685b46465a0a1e635df7c628f71eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-160-2007",
+   "path": "local/arad/nadlac/2007/160",
+   "short": "HCL Nădlac nr. 160/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 160/2007 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 30.10.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_160_-_2007.pdf",
+     "sha256": "07458d338c93c46d11ae7719eef87d63c8dfaf03748625ba0a4695ffc0235753"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-161-2007",
+   "path": "local/arad/nadlac/2007/161",
+   "short": "HCL Nădlac nr. 161/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 161/2007 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 17.10.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_161_-_2007.pdf",
+     "sha256": "32ccab60574bae3c61c595aaaff5065b54f19217b2b3b7c28e8417287eb2c8e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-162-2007",
+   "path": "local/arad/nadlac/2007/162",
+   "short": "HCL Nădlac nr. 162/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 162/2007 privind aprobarea protocolului care se va încheia cu Secretariatul General al Guvernului şi Agenţia Naţională pentru Romi",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_162_-_2007.pdf",
+     "sha256": "e2a289c155ac24061b65d4ee9db59d33b7a591fd9a2041ade523bafecdec35e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-163-2007",
+   "path": "local/arad/nadlac/2007/163",
+   "short": "HCL Nădlac nr. 163/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 163/2007 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_163_-_2007.pdf",
+     "sha256": "d70fcf02555fff41bb36625690eda2b368b7977e843a36dbda35f48bca4faaed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-164-2007",
+   "path": "local/arad/nadlac/2007/164",
+   "short": "HCL Nădlac nr. 164/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 164/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-10-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_164_-_2007.pdf",
+     "sha256": "9d25f4d6014cc10b79dcbe5985c802a83c4fdbb19374c2b5002b4238d7844ca8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-166-2007",
+   "path": "local/arad/nadlac/2007/166",
+   "short": "HCL Nădlac nr. 166/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 166/2007 privind stabilirea funcţiilor publice în vederea numirii persoanelor încadrate cu contract individual de muncă pe perioada nedeterminată în posturi de natură contractuală, precum şi stabilirea unor funcţii publice",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_166_-_2007.pdf",
+     "sha256": "8d2bb6740672f4fa427e77e21902cbd760184ac4797a7c6a42116139d16b80a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-167-2007",
+   "path": "local/arad/nadlac/2007/167",
+   "short": "HCL Nădlac nr. 167/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 167/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-10-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_167_-_2007.pdf",
+     "sha256": "347c16a4238ef6ab8e5429a073be9cb9096c4b83324dcfa4e9f8520dd6aae236"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-168-2007",
+   "path": "local/arad/nadlac/2007/168",
+   "short": "HCL Nădlac nr. 168/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 168/2007 privind acordul de principiu referitor la transferul de la Inspectoratul Judeţean al Poliţiei de Frontieră Arad a fostului pichet de grăniceri Nădlac- extravilan",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_168_-_2007.pdf",
+     "sha256": "899341f6e529d1268e35ac023220933ca40c03f33a9290c2f433524517228967"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-169-2007",
+   "path": "local/arad/nadlac/2007/169",
+   "short": "HCL Nădlac nr. 169/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 169/2007 privind suspendarea prevederilor contractului de asociere nr. 6448/19.12.2000",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-10-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Octombrie/hot_169_-_2007.pdf",
+     "sha256": "4e63c188ba390266f039b8d8992a227377e06dca7cb18ef11becaea0f3d2934d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-17-2007",
+   "path": "local/arad/nadlac/2007/17",
+   "short": "HCL Nădlac nr. 17/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 17/2007 privind aprobarea vânzării cotei de 2/8 din construcţii şi a terenului în suprafaţă de 850 mp, din imobilul situat în oraşul Nădlac, str. M. Eminescu, nr. 114, cu efectuarea plăţii preţului în rate de către cumpărător",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_17_-_2007.pdf",
+     "sha256": "7cd8cf2b7a67765ad90a662ccdc69612f2c180a83e57df88dc5be0d0f41b6908"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-170-2007",
+   "path": "local/arad/nadlac/2007/170",
+   "short": "HCL Nădlac nr. 170/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 170/2007 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 08.11.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-11-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Noiembrie/hot_170_-_2007.pdf",
+     "sha256": "6915d047d9b8f289490432c4d899b60778012dd71beeb937e32a631a7960a149"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-172-2007",
+   "path": "local/arad/nadlac/2007/172",
+   "short": "HCL Nădlac nr. 172/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 172/2007 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 20.11.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-11-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Noiembrie/hot_172_-_2007.pdf",
+     "sha256": "06eeee4f012ed14cc1cc2805a319cb53955325c38c65d0151ed1c73362f85207"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-173-2007",
+   "path": "local/arad/nadlac/2007/173",
+   "short": "HCL Nădlac nr. 173/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 173/2007 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 30.10.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-11-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Noiembrie/hot_173_-_2007.pdf",
+     "sha256": "d0c6a4df33c79be9440ec079d2085d25386d0177d0b05c1f1ff53e600e4833a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-174-2007",
+   "path": "local/arad/nadlac/2007/174",
+   "short": "HCL Nădlac nr. 174/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 174/2007 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 08.11.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-11-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Noiembrie/hot_174_-_2007.pdf",
+     "sha256": "a29c77096e053324a4bd75e95f440bee4aefb36272e88fb652dd08dc149dca11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-175-2007",
+   "path": "local/arad/nadlac/2007/175",
+   "short": "HCL Nădlac nr. 175/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 175/2007 privind aprobarea documentaţiei de atribuire referitor la obiectivul „Campus şcolar Gr. Şc. J. G",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-11-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Noiembrie/hot_175_-_2007.pdf",
+     "sha256": "0b26bd98d43bc59e1f5118917ef58229cbee69dbe27a1290df7496218ec8d9d9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-176-2007",
    "path": "local/arad/nadlac/2007/176",
    "short": "HCL Nădlac nr. 176/2007",
@@ -74,6 +1184,201 @@
      "units": 4,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Noiembrie/hot_176_-_2007.pdf",
      "sha256": "7dc4865685db8a2551f4438159d2a4206c818bccccd1b17d2e8598ca6be521a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-179-2007",
+   "path": "local/arad/nadlac/2007/179",
+   "short": "HCL Nădlac nr. 179/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 179/2007 privind aprobarea trecerii în domeniul public al oraşului Nădlac a terenului în suprafaţă de 34.318 mp, parcela nr. top. 106.556/1, nr. cad.794, evidenţiat în CF nr.10252 nedefinitiv- Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-11-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Noiembrie/hot_179_-_2007.pdf",
+     "sha256": "e87d5a37ce1b029beae27fe0bb1db51f9c4e8ea12cda34b159e2357e789a3423"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-18-2007",
+   "path": "local/arad/nadlac/2007/18",
+   "short": "HCL Nădlac nr. 18/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 18/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_18_-_2007.pdf",
+     "sha256": "899582c3330650106add7c888ecaf4c88354dfb40876d89dccc5f277ecfbc946"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-180-2007",
+   "path": "local/arad/nadlac/2007/180",
+   "short": "HCL Nădlac nr. 180/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 180/2007 privind mandatarea reprezentantului Consiliului Local Nădlac în adunarea generală a acţionarilor S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-11-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Noiembrie/hot_180_-_2007.pdf",
+     "sha256": "442ddedde291c85fd9b9c1cb3ca47a6b4680ed033f91671ad00b6007fb5a2c93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-181-2007",
+   "path": "local/arad/nadlac/2007/181",
+   "short": "HCL Nădlac nr. 181/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 181/2007 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 10.12.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_181_-_2007.pdf",
+     "sha256": "7cbdf4ea0cc0dad401c4de41f7efeb07665447529e93e72dca06365d2b6a780b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-182-2007",
+   "path": "local/arad/nadlac/2007/182",
+   "short": "HCL Nădlac nr. 182/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 182/2007 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 20.11.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_182_-_2007.pdf",
+     "sha256": "71e5d88e0456118c71b1f7eeb95bba0a5746c233932cd7e9dda308ee6ee15fff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-183-2007",
+   "path": "local/arad/nadlac/2007/183",
+   "short": "HCL Nădlac nr. 183/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 183/2007 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_183_-_2007.pdf",
+     "sha256": "ac6e8b68a8aa82013c7ff762254cc9d2de891c03cf1525bcfe918e31c760034d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-184-2007",
+   "path": "local/arad/nadlac/2007/184",
+   "short": "HCL Nădlac nr. 184/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 184/2007 privind aprobarea măsurilor de îmbunătăţire a activităţii de apărare împotriva incendiilor în oraşul Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_184_-_2007.pdf",
+     "sha256": "694160f380f60092ec82a8ff5994cde14f8fe42ea492e4e911c350f833751500"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-185-2007",
+   "path": "local/arad/nadlac/2007/185",
+   "short": "HCL Nădlac nr. 185/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 185/2007 privind modificarea organigramei serviciului public edilitar gospodăresc şi a statului de funcţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_185_-_2007.pdf",
+     "sha256": "4aa263e5ff34a2e3a1a0c17d310ab4dd1ebc6eedb23df92f66731c579cb63d71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-187-2007",
+   "path": "local/arad/nadlac/2007/187",
+   "short": "HCL Nădlac nr. 187/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 187/2007 privind acordul Consiliului Local Nădlac referitor la dezafectarea unor mijloace fixe proprietatea Oraşului Nădlac, care nu sunt necesare instituţiei",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_187_-_2007.pdf",
+     "sha256": "22f32bd7ac3cce2a1924c40d5fb1f394df546d5fb78e19b6c7450fca48d5b377"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-188-2007",
+   "path": "local/arad/nadlac/2007/188",
+   "short": "HCL Nădlac nr. 188/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 188/2007 privind revocarea în parte a prevederilor Hotărârii Consiliului Local Nădlac nr. 92/31.05.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_188_-_2007.pdf",
+     "sha256": "8bb5876683c6058f82f4cd8ab92addaf4c5bd32b43d93ccdbcfd0ad39b88d88a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-189-2007",
+   "path": "local/arad/nadlac/2007/189",
+   "short": "HCL Nădlac nr. 189/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 189/2007 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 18.12.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_189_-_2007.pdf",
+     "sha256": "6a787045e951b74a1fd0765c207448c537e6ab91b84d4dea6aae9cb482528f71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-19-2007",
+   "path": "local/arad/nadlac/2007/19",
+   "short": "HCL Nădlac nr. 19/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 19/2007 privind aprobarea ordinei de zi al ședinței ordinare a Consiliului local Nădlac din data de 01.02.2007 Consiliul local al orașului Nădlac, întrunit în ședința ordinară din data de 01.02.2007, Având în vedere: ­ prevederile art.44 din Legea nr.251/2001 privind administrația publică locală, cu modificările și completările ulterioare ­ votul „pentru” a 11 consilieri, din totalul de 14 consilieri în f",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-01",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_19_-_2007.pdf",
+     "sha256": "022a86cdf778c9cb5b7934dd809800f7111f6197cb6e68ef46af49e18eff8459"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-190-2007",
+   "path": "local/arad/nadlac/2007/190",
+   "short": "HCL Nădlac nr. 190/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 190/2007 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 10.12.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_190_-_2007.pdf",
+     "sha256": "2d631e34c5a444d464a3d1b69d17151c5d88c523ac18af8d813521a19973a3df"
     }
    ]
   },
@@ -93,6 +1398,171 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-192-2007",
+   "path": "local/arad/nadlac/2007/192",
+   "short": "HCL Nădlac nr. 192/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 192/2007 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_192_-_2007.pdf",
+     "sha256": "2428f6d5512af47551dfdf0beccc753e956360d05c7742f85eb0d20aa5ae48fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-193-2007",
+   "path": "local/arad/nadlac/2007/193",
+   "short": "HCL Nădlac nr. 193/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 193/2007 privind aprobarea preţului local de referinţă pentru producerea şi furnizarea energiei termice furnizate populaţiei în sistem centralizat",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_193_-_2007.pdf",
+     "sha256": "a3e2d38e41fcc7faf7abefb87769e7a15051a3da2fff745d64741da40acac86a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-194-2007",
+   "path": "local/arad/nadlac/2007/194",
+   "short": "HCL Nădlac nr. 194/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 194/2007 privind mandatarea reprezentantului Consiliului Local Nădlac în adunarea generală a acţionarilor S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_194_-_2007.pdf",
+     "sha256": "a800258f85c49dd984da7abf4c17d5501c6274d279fcf0b5440a9e4bfee17640"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-195-2007",
+   "path": "local/arad/nadlac/2007/195",
+   "short": "HCL Nădlac nr. 195/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 195/2007 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_195_-_2007.pdf",
+     "sha256": "46899ff47725213af3e5af4e0c5a97355c1eff057d77b2518f827713b4a52a5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-196-2007",
+   "path": "local/arad/nadlac/2007/196",
+   "short": "HCL Nădlac nr. 196/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 196/2007 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 28.12.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_196_-_2007.pdf",
+     "sha256": "b1eab2f9f4a84ae8049bc486dbdfe1242195eb71ce3e388e95592d2857a49af0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-197-2007",
+   "path": "local/arad/nadlac/2007/197",
+   "short": "HCL Nădlac nr. 197/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 197/2007 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 18.12.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_197_-_2007.pdf",
+     "sha256": "7d1da67cd360c91386970d4faec122eb81b75ea7add04643cec09e9dbac322bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-198-2007",
+   "path": "local/arad/nadlac/2007/198",
+   "short": "HCL Nădlac nr. 198/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 198/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_198_-_2007.pdf",
+     "sha256": "821fb33581264af8faf00aa42710f88302240f0fcdee3cca21faf4ba850794de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-199-2007",
+   "path": "local/arad/nadlac/2007/199",
+   "short": "HCL Nădlac nr. 199/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 199/2007 privind constituirea Asociaţiei de Dezvoltare Intercomunitară Apa Canalizare Judeţul Arad",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_199_-_2007.pdf",
+     "sha256": "3be84b96fe54417d78aecc28be0f4ac3699376ff27eb60f20439f8c276e253dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-2-2007",
+   "path": "local/arad/nadlac/2007/2",
+   "short": "HCL Nădlac nr. 2/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 2/2007 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 28.12.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_2_-_2007.pdf",
+     "sha256": "ca07bddc2ca295befd0c5160987900d0ee9217d70a9e8e5d02a6cd8064dd8876"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-20-2007",
+   "path": "local/arad/nadlac/2007/20",
+   "short": "HCL Nădlac nr. 20/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 20/2007 privind aprobarea procesului verbal al ședinței ordinare al Consiliului local Nădlac din data de 30.01.2007 Consiliul local al orașului Nădlac, întrunit în ședința ordinară din data de 01.02.2007, Având în vedere: ­ prevederile art.43(5) din Legea nr.215/2001 privind administrația publică locală, cu modificările și completările ulterioare ­ votul „pentru” a 11 consilieri din totalul de 14 consilie",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-01",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_20_-_2007.pdf",
+     "sha256": "8ac79157b6b912a9b12cea2ef63ec1dc2d5a6950a68228ffa95063d9962907ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-200-2007",
+   "path": "local/arad/nadlac/2007/200",
+   "short": "HCL Nădlac nr. 200/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 200/2007 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_200_-_2007.pdf",
+     "sha256": "32ee8e2a777eb0472f95ff67904b99e019ae1edeb4939bf565f72b0fb4fd582d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-201-2007",
    "path": "local/arad/nadlac/2007/201",
    "short": "HCL Nădlac nr. 201/2007",
@@ -104,6 +1574,36 @@
      "units": 9,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_201_-_2007.pdf",
      "sha256": "a4c9c2069dd74e4bb6c1010b2d57b5065c3839347f0d6d2487fc853c0fcaaad4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-202-2007",
+   "path": "local/arad/nadlac/2007/202",
+   "short": "HCL Nădlac nr. 202/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 202/2007 privind aprobarea costurilor de utilizare a autospecialei şi a motopompei transportabile a serviciului voluntar pentru situaţii de urgenţă pe anul fiscal 2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_202_-_2007.pdf",
+     "sha256": "00366d0ebc090f39737578a9a95f328ae76a3933ac6419c994a8acb8ef74c974"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-203-2007",
+   "path": "local/arad/nadlac/2007/203",
+   "short": "HCL Nădlac nr. 203/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 203/2007 privind rezilierea pe cale amiabilă a contractului de asociere nr. 6448/19.12.2000",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Decembrie/hot_203_-_2007.pdf",
+     "sha256": "03afa715d6d282a4beeba9c04620c7c865ad9eab525ef26ec33788981ea06e76"
     }
    ]
   },
@@ -123,6 +1623,276 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-21-2007",
+   "path": "local/arad/nadlac/2007/21",
+   "short": "HCL Nădlac nr. 21/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 21/2007 privind avizul Consiliului Local asupra stabilirii funcțiilor publice în vederea numirii persoanelor încadrate cu contract individual de muncă pe perioada nedeterminată în posturi de natură contractuală Consiliul local al orașului Nădlac, întrunit în ședința ordinară din data de 30.01.2007, Având în vedere: ­ Referatul primarului orașului Nădlac nr.1279/2007 ­ Prevederile art.913 din Legea nr.188/",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-01",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_21_-_2007.pdf",
+     "sha256": "1df0487d4278b929f83ac86cebfe2c116df58d2f7ae210bba148aa7adae59777"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-22-2007",
+   "path": "local/arad/nadlac/2007/22",
+   "short": "HCL Nădlac nr. 22/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 22/2007 privind aprobarea Planului de ocupare al funcţiilor publice pentru anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-01",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_22_-_2007.pdf",
+     "sha256": "f7760bae59657896a5e7137d533060f1b4e2570b5a781a4a74c8cbc22ae6dc76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-24-2007",
+   "path": "local/arad/nadlac/2007/24",
+   "short": "HCL Nădlac nr. 24/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 24/2007 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-09",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_24_-_2007.pdf",
+     "sha256": "6e70c4646596bd7cd5bdcf8bd7f9ad7e1012b1d0a185487101c6d6595cdf33da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-25-2007",
+   "path": "local/arad/nadlac/2007/25",
+   "short": "HCL Nădlac nr. 25/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 25/2007 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local Nădlac din data de 09.02.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-09",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_25_-_2007.pdf",
+     "sha256": "8c5cd1b515c9c372232cdc290020398e3b29944ec76a037cce4b54bc40c6386f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-26-2007",
+   "path": "local/arad/nadlac/2007/26",
+   "short": "HCL Nădlac nr. 26/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 26/2007 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 01.02.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-09",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_26_-_2007.pdf",
+     "sha256": "4dac17039b4839358123ef01f7250bd0be56f604911dafd52d5f7f6550207617"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-27-2007",
+   "path": "local/arad/nadlac/2007/27",
+   "short": "HCL Nădlac nr. 27/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 27/2007 privind aprobarea organigramei, a statului de funcţii, numărului de personal din cadrul aparatului propriu, ale instituţiilor şi serviciilor publice din subordinea Consiliului local Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-09",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_27_-_2007.pdf",
+     "sha256": "1d3985911d6f991c68e25f9f5562cfacddb5372121501a8b801ee6ce1db8a307"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-28-2007",
+   "path": "local/arad/nadlac/2007/28",
+   "short": "HCL Nădlac nr. 28/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 28/2007 privind aprobarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-09",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_28_-_2007.pdf",
+     "sha256": "2dbea5a9c89c55ae095a345945461c74828fc380652bcdc62684e399a0607090"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-29-2007",
+   "path": "local/arad/nadlac/2007/29",
+   "short": "HCL Nădlac nr. 29/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 29/2007 privind rectificarea Hotărârii Consiliului Local nr. 18/30.01.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-09",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_29_-_2007.pdf",
+     "sha256": "cf7c55e27791f087cd514bd63e243feb2f575dcadd46ca0cd14c769048c3aab9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-3-2007",
+   "path": "local/arad/nadlac/2007/3",
+   "short": "HCL Nădlac nr. 3/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 3/2007 privind rezilierea pe cale amiabilă a contractului de asociere nr. 903/11.03.1998",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_3_-_2007.pdf",
+     "sha256": "e753e5073a0fb94fc6311a6fcdde9e63fc3923fad09d50ebb5283b153ec0233a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-30-2007",
+   "path": "local/arad/nadlac/2007/30",
+   "short": "HCL Nădlac nr. 30/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 30/2007 privind rectificarea Hotărârii Consiliului Local nr. 125/31.10.2005",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-09",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_30_-_2007.pdf",
+     "sha256": "8567f55f12df719d9f042d770ad614d281c518d966b056294a25f1f8b23890fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-31-2007",
+   "path": "local/arad/nadlac/2007/31",
+   "short": "HCL Nădlac nr. 31/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 31/2007 privind rectificarea anexei nr. 6 din Hotărârea Consiliului Local nr. 153/28.12.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-09",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_31_-_2007.pdf",
+     "sha256": "8e2a92240ab98766067880cda89acf8c4396bc2fd89c5bf14c90da93b2420288"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-32-2007",
+   "path": "local/arad/nadlac/2007/32",
+   "short": "HCL Nădlac nr. 32/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 32/2007 privind aprobarea ordinei de zi al ședinței extraordinare a Consiliului local Nădlac din data de 27.02.2007 Consiliul local al orașului Nădlac, întrunit în ședința extraordinară din data de 27.02.2007, Având în vedere: ­ prevederile art.44 din Legea nr.251/2001 privind administrația publică locală, cu modificările și completările ulterioare ­ votul „pentru” a 13 consilieri, din totalul de 15 consi",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_32_-_2007.pdf",
+     "sha256": "c53c19005fb4f3482a73d516849b05ca632260761e171b88a8f90a5bca83d26e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-33-2007",
+   "path": "local/arad/nadlac/2007/33",
+   "short": "HCL Nădlac nr. 33/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 33/2007 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 09.02.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_33_-_2007.pdf",
+     "sha256": "648df556e81f17f3b01f8c9adc1bd0cc9adf786b52483e40ab0a1786c0cf5487"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-34-2007",
+   "path": "local/arad/nadlac/2007/34",
+   "short": "HCL Nădlac nr. 34/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 34/2007 privind repartizarea sumelor de bani din bugetul Consiliului local Nădlac pentru ramurile sportive din cadrul Clubului polisportiv „Victoria” Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_34_-_2007.pdf",
+     "sha256": "3d6ad1617f6622569372d1755199243c420079464154be5a179cadb203dbb5a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-35-2007",
+   "path": "local/arad/nadlac/2007/35",
+   "short": "HCL Nădlac nr. 35/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 35/2007 privind aprobarea actului adiţional la contractul de concesiune nr. 3811/19.06.2001",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_35_-_2007.pdf",
+     "sha256": "ba76e5081560e291bc8cf5d2958f7a8d2816871a0bb2e485fddd83c3c0ec65c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-36-2007",
+   "path": "local/arad/nadlac/2007/36",
+   "short": "HCL Nădlac nr. 36/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 36/2007 privind acordul Consiliului Local Nădlac cu privire la cesionarea drepturilor şi obligaţiilor asumate conform contractului de concesiune nr.3811/19.06.2001, încheiat cu S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_36_-_2007.pdf",
+     "sha256": "e73770fb474622d27bcef39cb633821748c56e2ed39a4c1b9a2ab37bc14553cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-37-2007",
+   "path": "local/arad/nadlac/2007/37",
+   "short": "HCL Nădlac nr. 37/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 37/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_37_-_2007.pdf",
+     "sha256": "0792ed64bddfdb2477044e962e3ec0f9c343b388990d3ebb4c53e9ff380fd387"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-38-2007",
+   "path": "local/arad/nadlac/2007/38",
+   "short": "HCL Nădlac nr. 38/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 38/2007 privind aprobarea demarării procedurii de conciliere privind rezilierea contractului de concesiune nr.4471/30.04.2004 şi numirea reprezentanţilor care vor duce la îndeplinire această procedură",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_38_-_2007.pdf",
+     "sha256": "d7d5a1d852eedb3c9f53221c17e765de2d0b8403ba56586ac4955ee86b01a133"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-39-2007",
    "path": "local/arad/nadlac/2007/39",
    "short": "HCL Nădlac nr. 39/2007",
@@ -138,6 +1908,111 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-4-2007",
+   "path": "local/arad/nadlac/2007/4",
+   "short": "HCL Nădlac nr. 4/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 4/2007 privind modificarea şi completarea Hotărârii Consiliului Local Nădlac nr.133/24.11.2006, precum şi numirea comisiei de evaluare în vederea organizării şi desfăşurării procedurii de delegare a gestiunii serviciului public de salubrizare în oraşul Nadlac prin contract de",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-05",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_4_-_2007.pdf",
+     "sha256": "ce1cd6da128d6b74d087e9f3b0db9f3b4d1f01c07993ad97d1fe2f81baf047e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-40-2007",
+   "path": "local/arad/nadlac/2007/40",
+   "short": "HCL Nădlac nr. 40/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 40/2007 privind modificarea şi completarea Hotărârii Consiliului Local Nădlac nr. 4/05.01.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_40_-_2007.pdf",
+     "sha256": "0b76636cbb0bd7fedad5cb430eba33630af45793d91b7c59314a19ea76889010"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-41-2007",
+   "path": "local/arad/nadlac/2007/41",
+   "short": "HCL Nădlac nr. 41/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 41/2007 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 28.02.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_41_-_2007.pdf",
+     "sha256": "1f576ef878b9ee0bc13a5e701edd7f368a6331437d7684bc5d075628b912115a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-42-2007",
+   "path": "local/arad/nadlac/2007/42",
+   "short": "HCL Nădlac nr. 42/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 42/2007 privind aprobarea rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Februarie/hot_42_-_2007.pdf",
+     "sha256": "80f9066b226c7ae6449870184fa868f32a50b3ed2b2dd3267a3cfc3ddac5ecaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-43-2007",
+   "path": "local/arad/nadlac/2007/43",
+   "short": "HCL Nădlac nr. 43/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 43/2007 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 29.03.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Martie/hot_43_-_2007.pdf",
+     "sha256": "050993f11065fc2ac369386ca7ae83ddddb2465ab46c5fd18359b15c0111a104"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-44-2007",
+   "path": "local/arad/nadlac/2007/44",
+   "short": "HCL Nădlac nr. 44/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 44/2007 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 27.02.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Martie/hot_44_-_2007.pdf",
+     "sha256": "6350c7fc29d1a6359d02d098a5577acffbdd20dbdb2a25d5750dfdaea8396c37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-45-2007",
+   "path": "local/arad/nadlac/2007/45",
+   "short": "HCL Nădlac nr. 45/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 45/2007 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 28.02.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Martie/hot_45_-_2007.pdf",
+     "sha256": "48badef7e0038257508636e2ef56cc0d89ab4b4ea8d6d7a886ef0aa273341680"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-46-2007",
    "path": "local/arad/nadlac/2007/46",
    "short": "HCL Nădlac nr. 46/2007",
@@ -149,6 +2024,21 @@
      "units": 3,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Martie/hot_46_-_2007.pdf",
      "sha256": "d641f13a83de9933da4ccffbc3bef8ecf1f7113dcd0a012301e593d8d35e50a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-47-2007",
+   "path": "local/arad/nadlac/2007/47",
+   "short": "HCL Nădlac nr. 47/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 47/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Martie/hot_47_-_2007.pdf",
+     "sha256": "d4182a5ba8a77be39d5076358c5f1ac1b2a504bc30e7266f177ab4a347b2291b"
     }
    ]
   },
@@ -183,6 +2073,156 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-5-2007",
+   "path": "local/arad/nadlac/2007/5",
+   "short": "HCL Nădlac nr. 5/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 5/2007 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 10.01.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_5_-_2007.pdf",
+     "sha256": "fdf1915af418b5822f94b3dfe30cc376563428ac82e88ec30639f3dfade6b99c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-50-2007",
+   "path": "local/arad/nadlac/2007/50",
+   "short": "HCL Nădlac nr. 50/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 50/2007 privind aprobarea rezilierii pe cale amiabilă a contractului de concesiune nr. 4471/30.04.2004 încheiat între Primăria oraşului Nădlac şi S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Martie/hot_50_-_2007.pdf",
+     "sha256": "11c540d95299478ebd86b3b7152d7c7ee912514a52f66baee6720054ccb0dbb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-53-2007",
+   "path": "local/arad/nadlac/2007/53",
+   "short": "HCL Nădlac nr. 53/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 53/2007 privind modificarea destinaţiei clădirii situate în oraşul Nădlac, str. Victoriei, nr.45-47, înscrisă în CF nr.9320, nr. top.847/1, 848/4/1, 848/3/2",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Martie/hot_53_-_2007.pdf",
+     "sha256": "ea6cd428b15681f56500f8cbd938d1ac713c662c115bd38c9fd81b20e84e204a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-54-2007",
+   "path": "local/arad/nadlac/2007/54",
+   "short": "HCL Nădlac nr. 54/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 54/2007 privind aprobarea contractării şi angajării unui împrumut pentru finanţarea unor investiţii de interes public local în oraşul Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Martie/hot_54_-_2007.pdf",
+     "sha256": "db9c51f1f56ebabc7b28aab4de576ae919c54be3a318331d4a4be52877f2a79d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-57-2007",
+   "path": "local/arad/nadlac/2007/57",
+   "short": "HCL Nădlac nr. 57/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 57/2007 privind rezilierea pe cale unilaterală a contractului de asociere nr. 868/10.03.1998",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Martie/hot_57_-_2007.pdf",
+     "sha256": "83bdf52d672cb584314c41e197d6a67cd216cb6c86aee18a5754ee3643e1a7b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-58-2007",
+   "path": "local/arad/nadlac/2007/58",
+   "short": "HCL Nădlac nr. 58/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 58/2007 privind trecerea în proprietatea privată a oraşului Nădlac a terenului în suprafaţă totală de 759 mp, înscris în CF nr.8904 Nădlac, parcelele nr.top.881/2/1, 882/2/1",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Martie/hot_58_-_2007.pdf",
+     "sha256": "d2636bf1867c8ee5d9527a7b5d07f4319e97a42ca4217c8bfb1fd32021c1a42c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-6-2007",
+   "path": "local/arad/nadlac/2007/6",
+   "short": "HCL Nădlac nr. 6/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 6/2007 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 05.01.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_6_-_2007.pdf",
+     "sha256": "07bc0db305f1ef6fa28225353ad31250704e3fd3a0b0eb8210266b0f0407f9fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-60-2007",
+   "path": "local/arad/nadlac/2007/60",
+   "short": "HCL Nădlac nr. 60/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 60/2007 privind modificarea documentației de atribuire referitor la întreținerea DJ 709 J Nădlac­ Peregu Mare, tronsonul II Consiliul local al orașului Nădlac, întrunit în ședința ordinară din data de 29.03.2007, Având în vedere: ­ Hotărârea Consiliului Local nr.158/28.12.2006 privind aprobarea documentației tehnice pentru întreținerea DJ 709 J Nădlac­ Peregu Mare, tronsonul II ­ Referatul compartimentulu",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Martie/hot_60_-_2007.pdf",
+     "sha256": "aa8f6da3ed978c3ba1e1986f98cfc7149586886473369bb4d62748de021eeff2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-61-2007",
+   "path": "local/arad/nadlac/2007/61",
+   "short": "HCL Nădlac nr. 61/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 61/2007 privind aprobarea utilizării fondului de rulment existent în bugetul local al oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Martie/hot_61_-_2007.pdf",
+     "sha256": "3872d675ff9485ba766b1f3562736a33f4e5e211f6b995a16209d2f84e2d2d81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-62-2007",
+   "path": "local/arad/nadlac/2007/62",
+   "short": "HCL Nădlac nr. 62/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 62/2007 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Martie/hot_62_-_2007.pdf",
+     "sha256": "56c5beedbfd082e632422ef4116d39dfdff9635c06815d9ac20957296d9c1bc9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-63-2007",
    "path": "local/arad/nadlac/2007/63",
    "short": "HCL Nădlac nr. 63/2007",
@@ -198,6 +2238,396 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-66-2007",
+   "path": "local/arad/nadlac/2007/66",
+   "short": "HCL Nădlac nr. 66/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 66/2007 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 29.03.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_66_-_2007.pdf",
+     "sha256": "97556068bc43f9587460c556f22a5812f134f3a0d4b759197039d153686c9dc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-67-2007",
+   "path": "local/arad/nadlac/2007/67",
+   "short": "HCL Nădlac nr. 67/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 67/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_67_-_2007.pdf",
+     "sha256": "fb97cab0283d7c135274e69a60b58bf4acdcafde802075b207b462fdb44e489e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-68-2007",
+   "path": "local/arad/nadlac/2007/68",
+   "short": "HCL Nădlac nr. 68/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 68/2007 privind rectificarea art. 4 din Hotărârea Consiliului Local nr. 138/15.12.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_68_-_2007.pdf",
+     "sha256": "7fa508f409df3668263343bc1b010250342fe49808dc25afb1557d59499496a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-69-2007",
+   "path": "local/arad/nadlac/2007/69",
+   "short": "HCL Nădlac nr. 69/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 69/2007 privind modificarea Regulamentului de organizare şi funcţionare a Consiliului Local al oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_69_-_2007.pdf",
+     "sha256": "c9ab93990ceafe7e7412a087ea79e7738c0ef4f973264ab71bda2aea8c9d900b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-7-2007",
+   "path": "local/arad/nadlac/2007/7",
+   "short": "HCL Nădlac nr. 7/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 7/2007 privind revocarea art.4 şi 8 din Hotărârea Consiliului Local nr.153/28.12.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_7_-_2007.pdf",
+     "sha256": "f372766848fe3b3770863a04cfbfcc2c03e3595542a16967228beb184b90280c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-70-2007",
+   "path": "local/arad/nadlac/2007/70",
+   "short": "HCL Nădlac nr. 70/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 70/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_70_-_2007.pdf",
+     "sha256": "cd8eee11df00c19220c639ef9dd9fc5509b8a49f149a2a8b401feaa95cbb0d98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-71-2007",
+   "path": "local/arad/nadlac/2007/71",
+   "short": "HCL Nădlac nr. 71/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 71/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_71_-_2007.pdf",
+     "sha256": "f1eabe7aeb4fb2437b2ecdfed626b8ea7c2b4e554715ee1f8cf043f2b5f058e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-72-2007",
+   "path": "local/arad/nadlac/2007/72",
+   "short": "HCL Nădlac nr. 72/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 72/2007 privind ratificarea împuternicirii încheiate între Primăria oraşului Nădlac şi S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_72_-_2007.pdf",
+     "sha256": "3d96812cee3d73f1ca83c5edaffdadd12a41253825ddbe84894376c7e09819e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-73-2007",
+   "path": "local/arad/nadlac/2007/73",
+   "short": "HCL Nădlac nr. 73/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 73/2007 privind modificarea organigramei, a statului de funcţii, numărului de personal din cadrul aparatului propriu, ale instituţiilor şi serviciilor publice din subordinea Consiliului local Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_73_-_2007.pdf",
+     "sha256": "1e5a579374401b7e5937338b9e66f7ca00f5e7d726db700113414d0ed52e1e15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-74-2007",
+   "path": "local/arad/nadlac/2007/74",
+   "short": "HCL Nădlac nr. 74/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 74/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_74_-_2007.pdf",
+     "sha256": "6487b100e3aebe048a535214f4da058d2d7f1f893e3e6b30feba6aa9b0683620"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-77-2007",
+   "path": "local/arad/nadlac/2007/77",
+   "short": "HCL Nădlac nr. 77/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 77/2007 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_77_-_2007.pdf",
+     "sha256": "3ebd7c61abfcd510c454d31167d0359723f8a2e07665f8e2e0cec55a9be2b5c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-78-2007",
+   "path": "local/arad/nadlac/2007/78",
+   "short": "HCL Nădlac nr. 78/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 78/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_78_-_2007.pdf",
+     "sha256": "6ac6919f2656a87149d678e7785766ab9afcf8f83933acb91c91bb2ce64978d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-79-2007",
+   "path": "local/arad/nadlac/2007/79",
+   "short": "HCL Nădlac nr. 79/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 79/2007 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_79_-_2007.pdf",
+     "sha256": "4079553384dfa99dcf8e46f95be433c5a2e70894021d8592bcaad7d265b06ac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-8-2007",
+   "path": "local/arad/nadlac/2007/8",
+   "short": "HCL Nădlac nr. 8/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 8/2007 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 30.01.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_8_-_2007.pdf",
+     "sha256": "bbaa33a54d84637c0a4a2f74bd5b60cfc2f9a0ce0f9e05a0ff3e13c8a9f59aa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-80-2007",
+   "path": "local/arad/nadlac/2007/80",
+   "short": "HCL Nădlac nr. 80/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 80/2007 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 29.05.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_80_-_2007.pdf",
+     "sha256": "598251e3d7401feff5bd16f4676bad091546b319e1c5eb4c4c2d03dca3dcf337"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-81-2007",
+   "path": "local/arad/nadlac/2007/81",
+   "short": "HCL Nădlac nr. 81/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 81/2007 privind aprobarea procesului verbal al ședinței ordinare al Consiliului local Nădlac din data de 03.05.2007 Consiliul local al orașului Nădlac, întrunit în ședința extraordinară din data de 29.05.2007, Având în vedere: ­ prevederile art.42(5) din Legea nr.215/2001 privind administrația publică locală, republicata ­ votul „pentru” a 13 consilieri din totalul de 15 consilieri în funcție, fiind preze",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_81_-_2007.pdf",
+     "sha256": "fe5b1cd5c09b4ff246993a3cc3429f7de04a86b2f6ea422b75289eb31390c508"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-82-2007",
+   "path": "local/arad/nadlac/2007/82",
+   "short": "HCL Nădlac nr. 82/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 82/2007 privind încheierea şi aprobarea exerciţiului bugetar pe anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_82_-_2007.pdf",
+     "sha256": "3bc3e7cbb7a6d175bfa1eff0b873f2a6e327a19e1cb0ad064580adebe1be83ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-83-2007",
+   "path": "local/arad/nadlac/2007/83",
+   "short": "HCL Nădlac nr. 83/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 83/2007 privind vânzarea prin licitaţie publică a autoturismelor proprietatea oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_83_-_2007.pdf",
+     "sha256": "c5ad0060d28bfe68fc22ff06ba18a96e95bd278f14732f33d04c033903a782f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-84-2007",
+   "path": "local/arad/nadlac/2007/84",
+   "short": "HCL Nădlac nr. 84/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 84/2007 privind aprobarea actului adiţional la contractul de concesiune nr. 3811/19.06.2001",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_84_-_2007.pdf",
+     "sha256": "8e89d7beb95218c46d3f9aacbe3b3d86253a2594bcea4e68e6f53eceef6586ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-85-2007",
+   "path": "local/arad/nadlac/2007/85",
+   "short": "HCL Nădlac nr. 85/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 85/2007 privind acordul Consiliului Local Nădlac cu privire la cesionarea drepturilor şi obligaţiilor asumate conform contractului de concesiune nr.3811/19.06.2001, încheiat cu S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_85_-_2007.pdf",
+     "sha256": "41aecf3057eb37f6e50f0b09bf4dd3a60d53606166803aa73ac47e24481708b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-87-2007",
+   "path": "local/arad/nadlac/2007/87",
+   "short": "HCL Nădlac nr. 87/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 87/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_87_-_2007.pdf",
+     "sha256": "89540451fbf86197d5913320fb521d67244b2706201c215c391f7579659dcecf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-88-2007",
+   "path": "local/arad/nadlac/2007/88",
+   "short": "HCL Nădlac nr. 88/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 88/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_88_-_2007.pdf",
+     "sha256": "628eea21f09b3421592a3f3536bd67da91f2941143c180b8335988a12d09f7c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-89-2007",
+   "path": "local/arad/nadlac/2007/89",
+   "short": "HCL Nădlac nr. 89/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 89/2007 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 31.05.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_89_-_2007.pdf",
+     "sha256": "372798fae97cc9c33cda01c2f05e137f85e9a2689237c3cb7b2fe9a4439b975a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-9-2007",
+   "path": "local/arad/nadlac/2007/9",
+   "short": "HCL Nădlac nr. 9/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 9/2007 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 10.01.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Ianuarie/hot_9_-_2007.pdf",
+     "sha256": "bcbe754ec79ec69fd21a8f2fe6c856083e117d1fdedc05f74f12bee141fc5336"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-90-2007",
+   "path": "local/arad/nadlac/2007/90",
+   "short": "HCL Nădlac nr. 90/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 90/2007 privind împuternicirea persoanelor care reprezintă Consiliul local în adunările generale, ordinare, extraordinare ale asociaţilor, precum şi în relaţiile cu terţii, a S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_90_-_2007.pdf",
+     "sha256": "89f397d9df4822d3c6afbda14386be15fe6ab6a29af8c1db44c7facc2695b7b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-91-2007",
+   "path": "local/arad/nadlac/2007/91",
+   "short": "HCL Nădlac nr. 91/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 91/2007 privind parcelarea terenului în suprafaţă totală de 28029 mp, parcela nr. cadastral nr.366/3, din CF nr.9891 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_91_-_2007.pdf",
+     "sha256": "ccec85b29467095007ace487694a81a94dacaffc98e27798a613c2151dc98d1a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-92-2007",
    "path": "local/arad/nadlac/2007/92",
    "short": "HCL Nădlac nr. 92/2007",
@@ -209,6 +2639,111 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_92_-_2007.pdf",
      "sha256": "23d866ebc4f1cfab9d89bced3518fc53789d29e5e4c5a64e622b8b3a8f9fa2b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-93-2007",
+   "path": "local/arad/nadlac/2007/93",
+   "short": "HCL Nădlac nr. 93/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 93/2007 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_93_-_2007.pdf",
+     "sha256": "1ba991d91ccaec6305b9be33cb7541e57ddf3490ac0ecb1b2f7c9f70944a0860"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-94-2007",
+   "path": "local/arad/nadlac/2007/94",
+   "short": "HCL Nădlac nr. 94/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 94/2007 privind suplimentarea sumei necesare în vederea realizării investiţiei „Realizarea sistemului de iluminat public în oraşul Nădlac”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-05-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_94_-_2007.pdf",
+     "sha256": "7ff2a0b28b4930d5766a8bf69d609935f8d7bcbb3fa8d0b0bcafe6927c8d9255"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-95-2007",
+   "path": "local/arad/nadlac/2007/95",
+   "short": "HCL Nădlac nr. 95/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 95/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-05-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Mai/hot_95_-_2007.pdf",
+     "sha256": "a180d3a5178bdda2c23db465e4f04034d8fe0efe4ea5d7efd7c4f2ffb2b08556"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-96-2007",
+   "path": "local/arad/nadlac/2007/96",
+   "short": "HCL Nădlac nr. 96/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 96/2007 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 18.06.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_96_-_2007.pdf",
+     "sha256": "a2623ec4af1dfbc564bf5d41d4d119f956f192970374d15a08d91d7f0cf6dd9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-97-2007",
+   "path": "local/arad/nadlac/2007/97",
+   "short": "HCL Nădlac nr. 97/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 97/2007 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 29.05.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_97_-_2007.pdf",
+     "sha256": "3a91e516422b31c054d3d7e1b4683ea2cf3d77086797dc88e204ec1370cfe14b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-98-2007",
+   "path": "local/arad/nadlac/2007/98",
+   "short": "HCL Nădlac nr. 98/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 98/2007 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 31.05.2007",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_98_-_2007.pdf",
+     "sha256": "1d1f066072b4df3a2dca29c9297ac8640fd91acc4c20b2bc5f748609459cf1b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-99-2007",
+   "path": "local/arad/nadlac/2007/99",
+   "short": "HCL Nădlac nr. 99/2007",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 99/2007 privind vânzarea prin licitaţie publică a terenului în suprafaţă totală de 28029 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2007-2/",
+   "versions": [
+    {
+     "from": "2007-06-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2007/Iunie/hot_99_-_2007.pdf",
+     "sha256": "f0ac7fbe6215a03f70e321a351ac382ec24c011458151ac83ab6eb5e07872e4a"
     }
    ]
   }

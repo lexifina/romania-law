@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/arges/poiana-lacului/2023",
+ "acts": [
+  {
+   "slug": "hcl-arges--poiana-lacului-1-2023",
+   "path": "local/arges/poiana-lacului/2023/1",
+   "short": "HCL Poiana Lacului nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 1/2023",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2023/02/Hotararea-CL-nr.-1-din-31.01.2023-privind-reteaua-scolara.pdf",
+     "sha256": "eeff81648e43e83148f9109de8de4f3bd607242680e4ae4fcd4b745bf6453a88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-13-2023",
+   "path": "local/arges/poiana-lacului/2023/13",
+   "short": "HCL Poiana Lacului nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 13/2023",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2023/04/Hotarare-CL-nr.-13-din-31.03.2023-alegere-presedinte-de-sedinta-ordinara-31.03.2023.pdf",
+     "sha256": "72f2d7e8849bd840bd61d52aa8d1c6ebb2f77f22b71bb9e3758690fd21c8cd49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-14-2023",
+   "path": "local/arges/poiana-lacului/2023/14",
+   "short": "HCL Poiana Lacului nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 14/2023",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2023/04/Hotarare-CL-nr.-14-din-31.03.2023-comisie-evaluare-secretar-general-UATC-Poiana-Lacului.pdf",
+     "sha256": "fd724dde789b0f55ad4f74e7243b001e481dbf97bba43d012016d98cef5dd635"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-15-2023",
+   "path": "local/arges/poiana-lacului/2023/15",
+   "short": "HCL Poiana Lacului nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 15/2023",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2023/04/Hotarare-CL-nr.-15-din-31.03.2023-rectificare-buget-Comuna-Poiana-Lacului.pdf",
+     "sha256": "f6745fe1ed0b0543cbc428d5efd38953018c39dfd9d2bbccdd917db4411906f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-16-2023",
+   "path": "local/arges/poiana-lacului/2023/16",
+   "short": "HCL Poiana Lacului nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 16/2023",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2023/04/Hotarare-CL-nr.-16-din-31.03.2023-ompletare-Anexa-nr.-2-la-HCL-Poiana-Lacului-nr.-1-din-28.02.2019.pdf",
+     "sha256": "a48c8a3b759ef5da5d193780b0eb1e126747c9fa5e8d6e7474ba85f9101fd234"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-17-2023",
+   "path": "local/arges/poiana-lacului/2023/17",
+   "short": "HCL Poiana Lacului nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 17/2023",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2023/04/Hotarare-CL-nr.-17-din-31.03.2023-contract-comodat-UATC-Poiana-LAcului-si-Asociatia-Parintilor-Elevilor.pdf",
+     "sha256": "bea4cd63e7b6c07737c8aa58f1b99ce4ef659c08259b346d5721fa6d93f0e194"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-2-2023",
+   "path": "local/arges/poiana-lacului/2023/2",
+   "short": "HCL Poiana Lacului nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 2/2023",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2023/02/Hotararea-CL-nr.-2-din-31.01.2023-privind-modificarea-Hotararii-nr.-28-din-15.09.2022.pdf",
+     "sha256": "1cc10fe23ada8c9a797925869d1a7ba24faeab201c7d1ddaee99c87c7d5dd4be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-3-2023",
+   "path": "local/arges/poiana-lacului/2023/3",
+   "short": "HCL Poiana Lacului nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 3/2023",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2023/02/Hotararea-CL-nr.-3-din-31.01.2023-privind-planul-de-actiuni.pdf",
+     "sha256": "4fe95849037b4e11d0df660aedc857af7c4a73d9df9d0ab26c859d3ffbdf035e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-4-2023",
+   "path": "local/arges/poiana-lacului/2023/4",
+   "short": "HCL Poiana Lacului nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 4/2023",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2023/02/Hotararea-CL-nr.-4-din-31.01.2023-privind-aprobarea-organigramei-si-statului-de-functii.pdf",
+     "sha256": "e59e5b3063a11f83f2e142dfefa2183ecb281c3ccf309aed50323ac9073b3eb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-5-2023",
+   "path": "local/arges/poiana-lacului/2023/5",
+   "short": "HCL Poiana Lacului nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 5/2023",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2023/02/Hotararea-CL-nr.-5-din-31.01.2023-luare-la-cunostinta-Raport-si-decizie-camera-de-conturi.pdf",
+     "sha256": "e9116d155b0cc13c63a14b0fc665eb89f57e515dd1875e26e1d163471374a650"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-6-2023",
+   "path": "local/arges/poiana-lacului/2023/6",
+   "short": "HCL Poiana Lacului nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 6/2023",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2023/02/Hotararea-CL-nr.-6-din-31.01.2023-privind-bugetul-local-anul-2023.pdf",
+     "sha256": "d676aeef1d484f65ef8473784c91594a87b919d7f44536d465d81e6478d71034"
+    }
+   ]
+  }
+ ]
+}

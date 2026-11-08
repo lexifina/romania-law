@@ -3,6 +3,216 @@
  "shard": "local/arad/nadlac/2006",
  "acts": [
   {
+   "slug": "hcl-arad--nadlac-1-2006",
+   "path": "local/arad/nadlac/2006/1",
+   "short": "HCL Nădlac nr. 1/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 1/2006 privind alegerea presedintelui de sedinta",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_1_-_2006.pdf",
+     "sha256": "e291b23087065505acc36bb49d4fc54e1082aae9abe13b47feaec268856829a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-10-2006",
+   "path": "local/arad/nadlac/2006/10",
+   "short": "HCL Nădlac nr. 10/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 10/2006 privind aprobarea organigramei, a statului de functii, numarului de personal din cadrul aparatului propriu, ale institutiilor si serviciilor publice din subordinea Consiliului local Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_10_-_2006.pdf",
+     "sha256": "0bde40a418063d4fc9917cc72f2d2da87c1477d10038c329e36c695e31ce8e83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-100-2006",
+   "path": "local/arad/nadlac/2006/100",
+   "short": "HCL Nădlac nr. 100/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 100/2006 privind aprobarea revocării Hotărârii Consiliului Local nr. 61/27.04.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-09-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Septembrie/hot_100_-_2006.pdf",
+     "sha256": "3e75d86deadbdaa20920b3db69ef9bf039cc5c0de62e8507bfc1f6cd5de89432"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-101-2006",
+   "path": "local/arad/nadlac/2006/101",
+   "short": "HCL Nădlac nr. 101/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 101/2006 privind modificarea redevenţei de închiriere a culoarului şi fâşiei de protecţie a frontierei de stat",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-09-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Septembrie/hot_101_-_2006.pdf",
+     "sha256": "c37436416d9cb67242dc110476e468ad259813c5ffa9d7c40593da429ec57f47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-102-2006",
+   "path": "local/arad/nadlac/2006/102",
+   "short": "HCL Nădlac nr. 102/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 102/2006 privind închirierea prin licitaţie publică a imobilului (construcţie şi teren), în suprafaţă de 392 mp, situat în oraşul Nădlac, str. V. Lucaciu, nr. 44, înscris în CF nr. 8865 Nădlac, nr. topo. 2437/2",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-09-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Septembrie/hot_102_-_2006.pdf",
+     "sha256": "251b1df746eb062c50cc501eefefae7a5429e62d5d70e1e4c28b6ff65d574b53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-103-2006",
+   "path": "local/arad/nadlac/2006/103",
+   "short": "HCL Nădlac nr. 103/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 103/2006 privind parcelarea şi apartamentarea imobilului situat în oraşul Nădlac, str. G. Coşbuc, nr. 62, parcela nr. topo. 853, evidenţiată în CF nr. 841 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-09-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Septembrie/hot_103_-_2006.pdf",
+     "sha256": "83b4bb816e74f1b768e79d0b02128e7557c4eca37805804054c1697ec32b5936"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-104-2006",
+   "path": "local/arad/nadlac/2006/104",
+   "short": "HCL Nădlac nr. 104/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 104/2006 privind modificarea statului de funcţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-09-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Septembrie/hot_104_-_2006.pdf",
+     "sha256": "43f7513a3871c0ec6740fff650a81ab9d5982e6d3fd02a8ef4367d60dd1610ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-105-2006",
+   "path": "local/arad/nadlac/2006/105",
+   "short": "HCL Nădlac nr. 105/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 105/2006 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 26.09.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-09-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Septembrie/hot_105_-_2006.pdf",
+     "sha256": "ce9ea8523acf65e00142076c25ecbdecab14a53360e40a1f991cf463571623e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-106-2006",
+   "path": "local/arad/nadlac/2006/106",
+   "short": "HCL Nădlac nr. 106/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 106/2006 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 12.09.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-09-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Septembrie/hot_106_-_2006.pdf",
+     "sha256": "f6ef37311f7d355265a2f0808e6db9ba58e82c5c9fe83d94fd840e40f45d2ba5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-107-2006",
+   "path": "local/arad/nadlac/2006/107",
+   "short": "HCL Nădlac nr. 107/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 107/2006 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-09-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Septembrie/hot_107_-_2006.pdf",
+     "sha256": "98e645ca32edc119f789d96beaccf7775aa1327540858bddc502046aaa2e40db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-108-2006",
+   "path": "local/arad/nadlac/2006/108",
+   "short": "HCL Nădlac nr. 108/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 108/2006 privind transmiterea în folosinţă gratuită Companiei Naţionale de Investiţii CNI SA a terenului în suprafaţă totală de 6780 mp, pe durata construirii obiectivului „Sala de sport”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-09-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Septembrie/hot_108_-_2006.pdf",
+     "sha256": "4b5f71fca421cf2d3f01cb53029b2a2dde94b77ad4eb23b3035f3a5b8ff1be96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-109-2006",
+   "path": "local/arad/nadlac/2006/109",
+   "short": "HCL Nădlac nr. 109/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 109/2006 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 13.10.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-10-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Octombrie/hot_109_-_2006.pdf",
+     "sha256": "62602aa69e5d5fab3c823ea9519fad54072a5a553646969ab614b8e1a7a817c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-11-2006",
+   "path": "local/arad/nadlac/2006/11",
+   "short": "HCL Nădlac nr. 11/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 11/2006 privind aprobarea bugetului de venituri si cheltuieli al Consiliului local al orasului Nadlac pe anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_11_-_2006.pdf",
+     "sha256": "8f3901d2759210c3f9ef0da8ee0168a3b93e6b0dbc92f15636d31c0949e9e63f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-110-2006",
+   "path": "local/arad/nadlac/2006/110",
+   "short": "HCL Nădlac nr. 110/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 110/2006 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 26.09.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-10-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Octombrie/hot_110_-_2006.pdf",
+     "sha256": "4c14a16071b28c5abd68e769f579bbc4ce0ce9ebe1ab8c3fe1809270bdfc54c7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-111-2006",
    "path": "local/arad/nadlac/2006/111",
    "short": "HCL Nădlac nr. 111/2006",
@@ -14,6 +224,126 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Octombrie/hot_111_-_2006.pdf",
      "sha256": "4bc9206ecdef5f6e3c6541566574564692c9cd052fc8f76d64af7c694e2faeab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-112-2006",
+   "path": "local/arad/nadlac/2006/112",
+   "short": "HCL Nădlac nr. 112/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 112/2006 privind aprobarea preţului local de referinţă pentru producerea şi furnizarea energiei termice furnizate populaţiei în sistem centralizat",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-10-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Octombrie/hot_112_-_2006.pdf",
+     "sha256": "59fb6251e679567cda9080d6161520a9a0635db537af42ea3100a36cbc7f84b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-113-2006",
+   "path": "local/arad/nadlac/2006/113",
+   "short": "HCL Nădlac nr. 113/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 113/2006 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-10-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Octombrie/hot_113_-_2006.pdf",
+     "sha256": "35cfa2a8f994c894069ac45d37790ac2fa8c7a5c4e1d65a5ee752317f7c2cb2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-114-2006",
+   "path": "local/arad/nadlac/2006/114",
+   "short": "HCL Nădlac nr. 114/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 114/2006 privind modificarea organigramei Consiliului Local Nădlac, a organigramei aparatului propriu, a organigramei serviciului centrului de zi de îngrijire a copiilor Nădlac, precum şi a statului de funcţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-10-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Octombrie/hot_114_-_2006.pdf",
+     "sha256": "b8302dc97213a2bd36f165ae9ed9e343fce2ba59cc54715a0fbb6938980efede"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-115-2006",
+   "path": "local/arad/nadlac/2006/115",
+   "short": "HCL Nădlac nr. 115/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 115/2006 privind instituirea sancţiunii pentru nerespectarea prevederilor Hotărârii Consiliului Local nr. 92/21.07.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-10-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Octombrie/hot_115_-_2006.pdf",
+     "sha256": "f74c7cf8890bca9a38e4df91da87ac7d240037887f6af9f17c47e23dd93fcf99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-116-2006",
+   "path": "local/arad/nadlac/2006/116",
+   "short": "HCL Nădlac nr. 116/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 116/2006 privind acordul de principiu referitor la contractarea unor împrumuturi bancare, de către Consiliul Local Nădlac, pentru finanţarea unor investiţii de interes local",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-10-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Octombrie/hot_116_-_2006.pdf",
+     "sha256": "ed1c006931fdd3f08622b429eecd6e040ba5149c30c14bd056d499dee48e0459"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-117-2006",
+   "path": "local/arad/nadlac/2006/117",
+   "short": "HCL Nădlac nr. 117/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 117/2006 privind aprobarea studiului de oportunitate în vederea delegării serviciului public de salubrizare a localităţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-10-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Octombrie/hot_117_-_2006.pdf",
+     "sha256": "634901d8acc7b51aa92a6056827b2c7ec18d16742aca48c1638c92bf85d622b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-118-2006",
+   "path": "local/arad/nadlac/2006/118",
+   "short": "HCL Nădlac nr. 118/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 118/2006 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-11-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Noiembrie/hot_118_-_2006.pdf",
+     "sha256": "c5232fc710bddf70ca426cd4a88af786c9eac5c898346e27cc8423f432455fff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-119-2006",
+   "path": "local/arad/nadlac/2006/119",
+   "short": "HCL Nădlac nr. 119/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 119/2006 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 13.11.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-11-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Noiembrie/hot_119_-_2006.pdf",
+     "sha256": "3b17eaf103161fdcb13d4d192ab5891786287b07309a8275ddf84d1fbf0c12aa"
     }
    ]
   },
@@ -33,6 +363,186 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-120-2006",
+   "path": "local/arad/nadlac/2006/120",
+   "short": "HCL Nădlac nr. 120/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 120/2006 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 13.10.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-11-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Noiembrie/hot_120_-_2006.pdf",
+     "sha256": "2ae2b727f69e9e643c5951b990aec0ef5c9bfbcc0ad73251c78eac69dcbd561a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-122-2006",
+   "path": "local/arad/nadlac/2006/122",
+   "short": "HCL Nădlac nr. 122/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 122/2006 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-11-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Noiembrie/hot_122_-_2006.pdf",
+     "sha256": "5207a43cf44f971d1f8b7e806769a1de6960e7ea6ff1ea298234e06774d7c417"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-123-2006",
+   "path": "local/arad/nadlac/2006/123",
+   "short": "HCL Nădlac nr. 123/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 123/2006 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 24.11.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Noiembrie/hot_123_-_2006.pdf",
+     "sha256": "4020ee5a69305b92a2c9729bbede5fe47c573fbd65b4f69a3068cfb4365233da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-124-2006",
+   "path": "local/arad/nadlac/2006/124",
+   "short": "HCL Nădlac nr. 124/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 124/2006 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 13.11.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Noiembrie/hot_124_-_2006.pdf",
+     "sha256": "f8145be3b6af4495b04924d543edf028fd577c584dd260bc78db5d092f09c4ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-125-2006",
+   "path": "local/arad/nadlac/2006/125",
+   "short": "HCL Nădlac nr. 125/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 125/2006 privind aprobarea unor măsuri în vederea preluării activităţii de administrare a fondurilor încasate din taxele ecologice şi de salubrizare percepute în punctul de trecere a frontierei de stat din oraşul Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Noiembrie/hot_125_-_2006.pdf",
+     "sha256": "0bbeb58d95ef9e1dd8089c552087b57bfab6a1fd6a5c5b18ac5051e7846cf3da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-126-2006",
+   "path": "local/arad/nadlac/2006/126",
+   "short": "HCL Nădlac nr. 126/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 126/2006 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Noiembrie/hot_126_-_2006.pdf",
+     "sha256": "307029e81505cfc8c03d3bb8d8452b10e29fdcf02cbf00239dc9e18ac891815b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-127-2006",
+   "path": "local/arad/nadlac/2006/127",
+   "short": "HCL Nădlac nr. 127/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 127/2006 privind numirea persoanei care va ţine Registrul datoriei publice locale şi Registrul garanţiilor locale",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Noiembrie/hot_127_-_2006.pdf",
+     "sha256": "beaebf2461a4c25f9c0a62ff100de205ca5b8325f40d4757faeb5cf9bfbb0e92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-128-2006",
+   "path": "local/arad/nadlac/2006/128",
+   "short": "HCL Nădlac nr. 128/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 128/2006 privind numirea comisiei şi condiţiile de acordare a subvenţiei din bugetul de stat în vederea construirii de locuinţe proprietate personală",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Noiembrie/hot_128_-_2006.pdf",
+     "sha256": "6a1636c3c3bbc629068721b19b08e5b760ef96d8bfb8b4c579011837e227540f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-129-2006",
+   "path": "local/arad/nadlac/2006/129",
+   "short": "HCL Nădlac nr. 129/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 129/2006 privind modificarea organigramei Consiliului Local Nădlac, a organigramei aparatului de specialitate al primarului, precum şi a statului de funcţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Noiembrie/hot_129_-_2006.pdf",
+     "sha256": "c34beea36ca37c2a360609030095e1c567409ac235484d75d1d31885de212e48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-13-2006",
+   "path": "local/arad/nadlac/2006/13",
+   "short": "HCL Nădlac nr. 13/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 13/2006 privind stabilirea unor masuri administrativ- financiare în aplicarea Hotarârii Consiliului Local nr. 76/28.06.2005 si Hotarârii Consiliului Local nr. 114/11.10.2005",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_13_-_2006.pdf",
+     "sha256": "cc60e911bfade69cb8b32d4b3285ff42e3774e0793d673586146014b43b852e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-130-2006",
+   "path": "local/arad/nadlac/2006/130",
+   "short": "HCL Nădlac nr. 130/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 130/2006 privind constituirea comisiei de concurs pentru organizarea concursului de ocuparea postului de consilier juridic, GP III din cadrul aparatului permanent de lucru",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Noiembrie/hot_130_-_2006.pdf",
+     "sha256": "f391da7380c7a7d146a1bd73644057c19c08a1eda5447a3f95ae4b6cfbbab655"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-132-2006",
+   "path": "local/arad/nadlac/2006/132",
+   "short": "HCL Nădlac nr. 132/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 132/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Noiembrie/hot_132_-_2006.pdf",
+     "sha256": "8ffc8e7e5c39920fae635db336670f70675f25ba9b0a1d8c81163afb8de5665f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-133-2006",
    "path": "local/arad/nadlac/2006/133",
    "short": "HCL Nădlac nr. 133/2006",
@@ -44,6 +554,36 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Noiembrie/hot_133_-_2006.pdf",
      "sha256": "36f2ce24977d90151808d9c72ab3f83780ca77f0db1c91d9a711dee57aff4cf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-134-2006",
+   "path": "local/arad/nadlac/2006/134",
+   "short": "HCL Nădlac nr. 134/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 134/2006 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 15.12.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_134_-_2006.pdf",
+     "sha256": "dcc2390aec9236a56a4622bb464b5fe49719844be700e46daa515a885ccf98b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-135-2006",
+   "path": "local/arad/nadlac/2006/135",
+   "short": "HCL Nădlac nr. 135/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 135/2006 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 24.11.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_135_-_2006.pdf",
+     "sha256": "532562ba21b7ecdf1df7485c770ee602fb4f79519e10056377b969dedf67d4dd"
     }
    ]
   },
@@ -63,6 +603,276 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-137-2006",
+   "path": "local/arad/nadlac/2006/137",
+   "short": "HCL Nădlac nr. 137/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 137/2006 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_137_-_2006.pdf",
+     "sha256": "e1d521dec367f8fcfc7166d6cccd4fa61d215d2abaa733d008650a418c36f803"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-138-2006",
+   "path": "local/arad/nadlac/2006/138",
+   "short": "HCL Nădlac nr. 138/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 138/2006 privind trecerea în proprietatea privată a oraşului Nădlac a unor parcele şi vânzarea parcelei cu nr. top. 12345-12350/1/1/12/2 , evidenţiată în CF nr. 9582 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_138_-_2006.pdf",
+     "sha256": "e27896b5c3b320082c3c209413107bd1e2cd7277543c36a7477f0bdb96f78b91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-139-2006",
+   "path": "local/arad/nadlac/2006/139",
+   "short": "HCL Nădlac nr. 139/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 139/2006 privind aprobarea vânzării cotei de 2/8 din construcţii şi a terenului în suprafaţă de 850 mp, din imobilul situat în oraşul Nădlac, str. M. Eminescu, nr.114",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_139_-_2006.pdf",
+     "sha256": "a95a533bf905635557002d5093dae744c9f7095d527758e9841c5d1702a058be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-14-2006",
+   "path": "local/arad/nadlac/2006/14",
+   "short": "HCL Nădlac nr. 14/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 14/2006 privind revocarea pct. 6 (2) din anexa nr. 6 la Hotarârea Consiliului Local nr. 76/28.06.2005",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_14_-_2006.pdf",
+     "sha256": "810cd038dddd48521ef55d1ef2828ffb1050a30a2314e936d7cdc5d6f7cb2eb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-140-2006",
+   "path": "local/arad/nadlac/2006/140",
+   "short": "HCL Nădlac nr. 140/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 140/2006 privind aprobarea vânzării prin licitaţie publică a terenului în suprafaţă totală de 917 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_140_-_2006.pdf",
+     "sha256": "c66b34bdf8f10bb492c3ed3b8951b139bf9abc8b62a9b837656ee52fe2284ed3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-141-2006",
+   "path": "local/arad/nadlac/2006/141",
+   "short": "HCL Nădlac nr. 141/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 141/2006 privind aprobarea vânzării prin licitaţie publică a terenului în suprafaţă de 12813 mp, parcela evidenţiată în CF nr.9889 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_141_-_2006.pdf",
+     "sha256": "b739c3ab832fd33110e71f283a9b554e76434ffc383391e82eee60af90bcfea5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-142-2006",
+   "path": "local/arad/nadlac/2006/142",
+   "short": "HCL Nădlac nr. 142/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 142/2006 privind identificarea imobilelor din raza administrativă a localităţii Nădlac, care pot fi acordate în compensare pentru imobilele notificate ce nu pot fi restituite în natură",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_142_-_2006.pdf",
+     "sha256": "176594be543265a040d5c10670fe71348ae85999fe9883e323cdf2bc75f9d840"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-143-2006",
+   "path": "local/arad/nadlac/2006/143",
+   "short": "HCL Nădlac nr. 143/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 143/2006 privind soluţionarea cererii UDSCR, înregistrată la Primăria oraşului Nădlac sub nr. 9336/06.11.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_143_-_2006.pdf",
+     "sha256": "f52789035f02cf22143b2499fc7645d3ec38203f1e173221450bccbe16774205"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-144-2006",
+   "path": "local/arad/nadlac/2006/144",
+   "short": "HCL Nădlac nr. 144/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 144/2006 privind poziţia Consiliului Local faţă de acţiunea intentată de către funcţionarii publici cu privire la plata primelor restante",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_144_-_2006.pdf",
+     "sha256": "29310542b56dfab7a7945a5d8c8d4f4a7932c87c115e3fd93816c845fdb94a58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-145-2006",
+   "path": "local/arad/nadlac/2006/145",
+   "short": "HCL Nădlac nr. 145/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 145/2006 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_145_-_2006.pdf",
+     "sha256": "2e62de24c2fe6f63b4d87073e5b88861f3ab6eb01457eded52b053a7e9317a64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-146-2006",
+   "path": "local/arad/nadlac/2006/146",
+   "short": "HCL Nădlac nr. 146/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 146/2006 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 28.12.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_146_-_2006.pdf",
+     "sha256": "2db73fd6b56553c64b66ddc12593c15366e73074ccb882e51a2ee9d0aee5bb2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-147-2006",
+   "path": "local/arad/nadlac/2006/147",
+   "short": "HCL Nădlac nr. 147/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 147/2006 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 15.12.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_147_-_2006.pdf",
+     "sha256": "ed88739dd2d12712e47c1f427e76151d280f2c6968ec54df2c736826b0cb10b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-148-2006",
+   "path": "local/arad/nadlac/2006/148",
+   "short": "HCL Nădlac nr. 148/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 148/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_148_-_2006.pdf",
+     "sha256": "5c978e95fb2233af9f48b55d03ed39607ad3467ba8d9d38e048e6951235d50b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-149-2006",
+   "path": "local/arad/nadlac/2006/149",
+   "short": "HCL Nădlac nr. 149/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 149/2006 privind modificarea comisiei de validare a mandatelor consilierilor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_149_-_2006.pdf",
+     "sha256": "573bc1ba9bcd07fa67e62654c022c4ac9c779c07b7dcaf210ea59cd3c0484dc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-15-2006",
+   "path": "local/arad/nadlac/2006/15",
+   "short": "HCL Nădlac nr. 15/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 15/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_15_-_2006.pdf",
+     "sha256": "0a165fd21e97055616492f3420c1af8242662a852a1a346d548728badf75eccf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-150-2006",
+   "path": "local/arad/nadlac/2006/150",
+   "short": "HCL Nădlac nr. 150/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 150/2006 privind validarea mandatului de consilier al d-lui Kiszel Duşan",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_150_-_2006.pdf",
+     "sha256": "1d78c247135d3ea7fa26fe1c9396db74a8d1286d17a6270120c97603d157e468"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-151-2006",
+   "path": "local/arad/nadlac/2006/151",
+   "short": "HCL Nădlac nr. 151/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 151/2006 privind reorganizarea comisiilor de specialitate pe principalele domenii de activitate ale Consiliului Local Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_151_-_2006.pdf",
+     "sha256": "eb8f24b6f17df26ee6edf639a6d18c9a6e199fabe14cb40320d564251e3e27f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-152-2006",
+   "path": "local/arad/nadlac/2006/152",
+   "short": "HCL Nădlac nr. 152/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 152/2006 privind numirea comisiei de negociere a contractelor care au ca obiect bunurile în regim duty free",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_152_-_2006.pdf",
+     "sha256": "2b9f0f7b0b02a8e5a45b1e56392e075c996a576fd25f801a708dc559303be4ce"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-153-2006",
    "path": "local/arad/nadlac/2006/153",
    "short": "HCL Nădlac nr. 153/2006",
@@ -74,6 +884,456 @@
      "units": 12,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_153_-_2006.pdf",
      "sha256": "e152c1859edf027dd16afd06a668148bea3334786a349dd6a4f3ec0edec870f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-154-2006",
+   "path": "local/arad/nadlac/2006/154",
+   "short": "HCL Nădlac nr. 154/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 154/2006 privind aprobarea concesionării prin licitaţie publică a terenului în suprafaţă totală de 3432 mp, parcelele nr. topo.852, 853/1, evidenţiate în CF nr.841 Nădlac, parcelele nr. topo. 881/2/1, 82/2/1, evidenţiate în CF nr.8904 Nădlac şi parcele nr. topo. 881/1, 882/1",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_154_-_2006.pdf",
+     "sha256": "7994c9b01ef369bbd062a9b506aec633ba29fa103981eaa1ae0504a3b2f17a92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-155-2006",
+   "path": "local/arad/nadlac/2006/155",
+   "short": "HCL Nădlac nr. 155/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 155/2006 privind revocarea Hotărârii Consiliului Local nr. 83/13.07.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_155_-_2006.pdf",
+     "sha256": "bfab681e6d96251a3b45d57c54b902542cd86efb78903cda9997b1601b51cd67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-156-2006",
+   "path": "local/arad/nadlac/2006/156",
+   "short": "HCL Nădlac nr. 156/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 156/2006 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_156_-_2006.pdf",
+     "sha256": "8f8c76e5e28015e24627ee0f0a25544765ba6a1c0d068e49dce52cc2d00cd19c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-157-2006",
+   "path": "local/arad/nadlac/2006/157",
+   "short": "HCL Nădlac nr. 157/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 157/2006 privind aprobarea acordului provizoriu de prestări servicii referitor la activitatea de salubrizare a oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_157_-_2006.pdf",
+     "sha256": "06ca0ab17b6dfc3b4979f0087aea04f68a5edb378e384d8fe3bf02db4ab1e0bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-158-2006",
+   "path": "local/arad/nadlac/2006/158",
+   "short": "HCL Nădlac nr. 158/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 158/2006 privind aprobarea documentaţiei tehnice pentru întreţinerea DJ 709 J Nădlac- Peregu Mare, tronsonul II",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Decembrie/hot_158_-_2006.pdf",
+     "sha256": "f3e2ee853e85e1cd3cd4b18ab80d7fd025f3e840e0a4ab0d783b450de6e6161d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-16-2006",
+   "path": "local/arad/nadlac/2006/16",
+   "short": "HCL Nădlac nr. 16/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 16/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_16_-_2006.pdf",
+     "sha256": "461da5e4a90658b0c3e6e15fb21e770c2a4f6025992a7accd3266bb7ef705721"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-17-2006",
+   "path": "local/arad/nadlac/2006/17",
+   "short": "HCL Nădlac nr. 17/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 17/2006 privind aprobarea ordinei de zi al sedintei extraordinare a Consiliului local Nadlac din data de 14.02.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-02-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Februarie/hot_17_-_2006.pdf",
+     "sha256": "41c6efed792f9186ee20ecc7b03085f12986c9f65bfbb735e933f100ae4e335a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-18-2006",
+   "path": "local/arad/nadlac/2006/18",
+   "short": "HCL Nădlac nr. 18/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 18/2006 privind aprobarea procesului verbal al sedintei extraordinare al Consiliului local Nadlac din data de 30.01.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-02-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Februarie/hot_18_-_2006.pdf",
+     "sha256": "e420ac706e1d2a86e21e35dbe6650a52e25fc03ed672696f18385cd505ff14b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-2-2006",
+   "path": "local/arad/nadlac/2006/2",
+   "short": "HCL Nădlac nr. 2/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 2/2006 privind aprobarea ordinei de zi al sedintei ordinare a Consiliului local Nadlac din data de 23.01.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_2_-_2006.pdf",
+     "sha256": "558a52a0d328a087e510a8d3ded9b5afdd30c9d7fb7152b4536e2d2c4f5d0c50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-21-2006",
+   "path": "local/arad/nadlac/2006/21",
+   "short": "HCL Nădlac nr. 21/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 21/2006 privind aprobarea vânzarii prin licitatie publica a parcelei cu nr. top.12548/2, evidentiata în CF nr.9328 Nadlac si a parcelei cu nr. top. 12549/2, evidentiata în CF nr.9809 Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-02-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Februarie/hot_21_-_2006.pdf",
+     "sha256": "74b4da04dfe5e758b0f2af2ac913116a9e56c0f683b312de6161f92a1184b89f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-22-2006",
+   "path": "local/arad/nadlac/2006/22",
+   "short": "HCL Nădlac nr. 22/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 22/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-02-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Februarie/hot_22_-_2006.pdf",
+     "sha256": "26da58b5adce85f8cfc67632d59cb4727078819821544002a7e91c9e04e2af96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-23-2006",
+   "path": "local/arad/nadlac/2006/23",
+   "short": "HCL Nădlac nr. 23/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 23/2006 privind parcelarea terenului situat în orasul Nadlac, înscris în CF nr. 4001 Nadlac, nr. top.849/2/1, în suprafata de 377 mp si trecerea în proprietatea privata a orasului Nadlac a parcelei nr. top. 849/2/1/1",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-02-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Februarie/hot_23_-_2006.pdf",
+     "sha256": "2a1326c59f8e6886889df7f2167a40a290119fd0aa42dcc22c628eb7fd0791b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-24-2006",
+   "path": "local/arad/nadlac/2006/24",
+   "short": "HCL Nădlac nr. 24/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 24/2006 privind aprobarea ordinei de zi al sedintei ordinare a Consiliului local Nadlac din data de 28.02.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Februarie/hot_24_-_2006.pdf",
+     "sha256": "1b63ac5ef6441a9b84bf2f4ab73c8e23f900abe88f8d03262902fd112c938ff8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-25-2006",
+   "path": "local/arad/nadlac/2006/25",
+   "short": "HCL Nădlac nr. 25/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 25/2006 privind aprobarea procesului verbal al sedintei extraordinare al Consiliului local Nadlac din data de 14.02.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Februarie/hot_25_-_2006.pdf",
+     "sha256": "8c1c6b1af6bf4a81bf34f47ffb7179e123edac105d320be9ff26eee92a36b6b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-26-2006",
+   "path": "local/arad/nadlac/2006/26",
+   "short": "HCL Nădlac nr. 26/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 26/2006 privind aprobarea modificarii listei de investitii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Februarie/hot_26_-_2006.pdf",
+     "sha256": "7b38066ff6d1c8ef852f225b6d8ce37fff9a02127cb21c13ab9df288f74eae3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-27-2006",
+   "path": "local/arad/nadlac/2006/27",
+   "short": "HCL Nădlac nr. 27/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 27/2006 privind aprobarea Programului de achizitii publice pe anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Februarie/hot_27_-_2006.pdf",
+     "sha256": "132487dc921da0d4167d5aa730e1f74be5d7700dd03988e8a6de7a6ee506447e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-29-2006",
+   "path": "local/arad/nadlac/2006/29",
+   "short": "HCL Nădlac nr. 29/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 29/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Februarie/hot_29_-_2006.pdf",
+     "sha256": "0d5fbe05d133425f55641407ad13ce9bbafafa8fae5565bba7776edf3d3c6de3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-3-2006",
+   "path": "local/arad/nadlac/2006/3",
+   "short": "HCL Nădlac nr. 3/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 3/2006 privind aprobarea procesului verbal al sedintei extraordinare al Consiliului local Nadlac din data de 20.12.2005",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_3_-_2006.pdf",
+     "sha256": "4625051b5bef17a32752e37e8cbf85996bcb55873dbec3a6280ea01e8f451e45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-30-2006",
+   "path": "local/arad/nadlac/2006/30",
+   "short": "HCL Nădlac nr. 30/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 30/2006 privind aprobarea Planului anual de actiune al Serviciului Centrului de zi de îngrijire a copiilor Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Februarie/hot_30_-_2006.pdf",
+     "sha256": "b8ec0f25dfb0dd3b757ba4c4421c442b9369cc268db1003686ac4063569a6643"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-31-2006",
+   "path": "local/arad/nadlac/2006/31",
+   "short": "HCL Nădlac nr. 31/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 31/2006 privind numirea reprezentantului Consiliului Local Nadlac în cadrul consiliului consultativ al Serviciului Centrului de Zi de îngrijire a copiilor Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Februarie/hot_31_-_2006.pdf",
+     "sha256": "5aebc0ce7a1d0db872632aacd4dc1b96c0ce59522204a39b63c3e892c7e515e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-32-2006",
+   "path": "local/arad/nadlac/2006/32",
+   "short": "HCL Nădlac nr. 32/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 32/2006 privind acceptarea de donatie a unei pompe mobile tractate, proprietatea Consiliului Local Jelsava din Slovacia",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-02-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Februarie/hot_32_-_2006.pdf",
+     "sha256": "7bdbeba0ce3e9d003c46692370c525761a9d052eedcf6718d6af63c9c299b0df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-33-2006",
+   "path": "local/arad/nadlac/2006/33",
+   "short": "HCL Nădlac nr. 33/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 33/2006 privind aprobarea ordinei de zi al sedintei ordinare a Consiliului local Nadlac din data de 14.03.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-03-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Martie/hot_33_-_2006.pdf",
+     "sha256": "2fad7838f1c2a79c60bad4dc41abcaac614169d74c47d244f542019400a92a31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-34-2006",
+   "path": "local/arad/nadlac/2006/34",
+   "short": "HCL Nădlac nr. 34/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 34/2006 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 28.02.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-03-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Martie/hot_34_-_2006.pdf",
+     "sha256": "bdd5510186bbfb29ed12739275d4770d48189872cc168336385c1fbfc862b918"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-35-2006",
+   "path": "local/arad/nadlac/2006/35",
+   "short": "HCL Nădlac nr. 35/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 35/2006 privind încetarea de drept a mandatului de consilier a d-lui Kukucska Gerhard",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-03-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Martie/hot_35_-_2006.pdf",
+     "sha256": "b29c09c413cbaaf1a9b1f5ea8c9cd55fde1c58d146664adc1001eaf87503b656"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-36-2006",
+   "path": "local/arad/nadlac/2006/36",
+   "short": "HCL Nădlac nr. 36/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 36/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-03-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Martie/hot_36_-_2006.pdf",
+     "sha256": "2e2d0921e404c6d68767a8f984a65f1b40ec2954d1e4cae1e801578e5dcf4443"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-37-2006",
+   "path": "local/arad/nadlac/2006/37",
+   "short": "HCL Nădlac nr. 37/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 37/2006 privind reorganizarea comisiilor de specialitate pe principalele domenii de activitate ale Consiliului Local Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-03-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Martie/hot_37_-_2006.pdf",
+     "sha256": "548a1e73fb39a400d079640b308f925f7ece5ef38aa4b0ca06f2977b1657f0fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-38-2006",
+   "path": "local/arad/nadlac/2006/38",
+   "short": "HCL Nădlac nr. 38/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 38/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-03-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Martie/hot_38_-_2006.pdf",
+     "sha256": "b4f357902f1d080d0a681eb65ffc51721faebee411d972af6fd6ae4b1f7b84ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-39-2006",
+   "path": "local/arad/nadlac/2006/39",
+   "short": "HCL Nădlac nr. 39/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 39/2006 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 07.04.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-04-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_39_-_2006.pdf",
+     "sha256": "ba87b445b6b4b405392b47ce1bc551dbab51fc213f7e17685eb1e0d2ff83c72f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-4-2006",
+   "path": "local/arad/nadlac/2006/4",
+   "short": "HCL Nădlac nr. 4/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 4/2006 privind rectificarea erorii materiale din Hotarârea Consiliului Local nr. 129/18.11.2005 privind stabilirea criteriilor de acordare a venitului minim garantat pentru anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_4_-_2006.pdf",
+     "sha256": "42a8e2cc8366dfe5c6a838dbca2306b3d1a899c3045855bbac538505f90b78a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-40-2006",
+   "path": "local/arad/nadlac/2006/40",
+   "short": "HCL Nădlac nr. 40/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 40/2006 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 14.03.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-04-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_40_-_2006.pdf",
+     "sha256": "364e1e2ce47ccf340978fefab08a7181012c8c8b709523acae199de97bd8ee1a"
     }
    ]
   },
@@ -93,6 +1353,141 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-42-2006",
+   "path": "local/arad/nadlac/2006/42",
+   "short": "HCL Nădlac nr. 42/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 42/2006 privind repartizarea sumelor de bani din bugetul Consiliului local Nădlac pentru cultele: ortodox român, evanghelic, greco-catolic, ortodox sârb, reformat, romano-catolic",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-04-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_42_-_2006.pdf",
+     "sha256": "cc264ec356302a28b4d43a850f53a0ad6cca4a3ca79fffef82637e494c541c73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-43-2006",
+   "path": "local/arad/nadlac/2006/43",
+   "short": "HCL Nădlac nr. 43/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 43/2006 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-04-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_43_-_2006.pdf",
+     "sha256": "e638af1f79ca84fbdfbc5ca8f0baa462662a5ae864e67307f8acf405ea2bdfc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-44-2006",
+   "path": "local/arad/nadlac/2006/44",
+   "short": "HCL Nădlac nr. 44/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 44/2006 privind respingerea cererii Consiliului Judeţean Arad nr. 2317/2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-04-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_44_-_2006.pdf",
+     "sha256": "2267a97e4b1f1e0e01f5561e1aa784753409b359e718678e142c37e5e75854e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-45-2006",
+   "path": "local/arad/nadlac/2006/45",
+   "short": "HCL Nădlac nr. 45/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 45/2006 privind aprobarea modificării anexelor nr. 5, 6 din Hotărârea Consiliului Local nr. 10/30.01.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-04-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_45_-_2006.pdf",
+     "sha256": "3d4b8676586fb46a3117195a777b5bf4ccf5c2939c947cbf7b4f02c928f35e49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-46-2006",
+   "path": "local/arad/nadlac/2006/46",
+   "short": "HCL Nădlac nr. 46/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 46/2006 privind aprobarea Studiului de fezabilitate la obiectivul „Modernizarea şi extinderea sistemului de iluminat public din oraşul Nădlac „",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-04-07",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_46_-_2006.pdf",
+     "sha256": "19d846d60af083c053d9bb2c7481ac0865318d8695439febd92c1a22b22f4a95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-47-2006",
+   "path": "local/arad/nadlac/2006/47",
+   "short": "HCL Nădlac nr. 47/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 47/2006 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_47_-_2006.pdf",
+     "sha256": "8675145d73c5caa3019a80d41e95e92911af23e1a38a327a97bef6767954bef4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-48-2006",
+   "path": "local/arad/nadlac/2006/48",
+   "short": "HCL Nădlac nr. 48/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 48/2006 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 28.04.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_48_-_2006.pdf",
+     "sha256": "a0bb20be35d49a8df96e6e31b214efb3ef611e21c72fa7bc631476b3fdf1edfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-49-2006",
+   "path": "local/arad/nadlac/2006/49",
+   "short": "HCL Nădlac nr. 49/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 49/2006 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 07.04.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_49_-_2006.pdf",
+     "sha256": "bbb8f01979cc0936a422d7d2c2f74059f6a143ee247e40f6daa217258437ff3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-5-2006",
+   "path": "local/arad/nadlac/2006/5",
+   "short": "HCL Nădlac nr. 5/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 5/2006 privind revocarea alin. 3 din Capitolul II din anexa nr. 1 la Hotarârea Consiliului Local nr. 114/11.10.2005",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_5_-_2006.pdf",
+     "sha256": "14cae77ea520a3af59a410f76fc4389e422bf8feb0a07c9cf3534e7e2181bef7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-50-2006",
    "path": "local/arad/nadlac/2006/50",
    "short": "HCL Nădlac nr. 50/2006",
@@ -104,6 +1499,261 @@
      "units": 6,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_50_-_2006.pdf",
      "sha256": "b9b0d70e20ea657b0cac04636b8063cfff35643751b79293bc7f614569b0be57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-51-2006",
+   "path": "local/arad/nadlac/2006/51",
+   "short": "HCL Nădlac nr. 51/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 51/2006 privind modificarea şi completarea Hotărârii Consiliului Local nr.114/11.10.2005",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_51_-_2006.pdf",
+     "sha256": "0ee0e112c0dc86aca40843414f74e0304b36ff2bea15d19d76b2625a5d7c0bf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-52-2006",
+   "path": "local/arad/nadlac/2006/52",
+   "short": "HCL Nădlac nr. 52/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 52/2006 privind unificarea şi reparcelarea terenului situat în oraşul Nădlac, parcelele înscrise în CF nr.9650 Nădlac şi CF nr.9559 Nădlac şi vânzarea prin licitaţie publică a unei parcele",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_52_-_2006.pdf",
+     "sha256": "f80c3cd89587b4f55f3bfe50081bc8aca161e85f912cefb4a0df7161c6457cc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-53-2006",
+   "path": "local/arad/nadlac/2006/53",
+   "short": "HCL Nădlac nr. 53/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 53/2006 privind aprobarea organizării Festivalului de artă culinară tradiţională Nădlac şi a programului de activităţi culturale, culinare, artistice, care se vor desfăşura cu ocazia sărbătoririi Ediţiei I- 28.05.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_53_-_2006.pdf",
+     "sha256": "47ddb10dbd77f1f3e50d03a3e873995bd2621fb01baeecbc778bc78fe3b99e70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-54-2006",
+   "path": "local/arad/nadlac/2006/54",
+   "short": "HCL Nădlac nr. 54/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 54/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Aprilie/hot_54_-_2006.pdf",
+     "sha256": "95e7aecd06a63c622163be604a2982612f7d598e56d1f3035886578ac536d13b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-55-2006",
+   "path": "local/arad/nadlac/2006/55",
+   "short": "HCL Nădlac nr. 55/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 55/2006 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 12.05.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-05-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Mai/hot_55_-_2006.pdf",
+     "sha256": "7991b12448698682930153d15ffbf2d77c82cbcd2458b1db677ccdd759556efb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-56-2006",
+   "path": "local/arad/nadlac/2006/56",
+   "short": "HCL Nădlac nr. 56/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 56/2006 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 28.04.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-05-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Mai/hot_56_-_2006.pdf",
+     "sha256": "caffc73ad52e386fa46a467eda7566a98342604a49e274e20f612e14d9720bf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-57-2006",
+   "path": "local/arad/nadlac/2006/57",
+   "short": "HCL Nădlac nr. 57/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 57/2006 privind împuternicirea persoanelor care reprezintă Consiliul local în adunările generale, ordinare, extraordinare ale asociaţilor, precum şi în relaţiile cu terţii, a S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-05-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Mai/hot_57_-_2006.pdf",
+     "sha256": "b886a3483805cf259d23f70e3c19e0c093c6a4c8248e70494bba373ada3d53a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-58-2006",
+   "path": "local/arad/nadlac/2006/58",
+   "short": "HCL Nădlac nr. 58/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 58/2006 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 23.05.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Mai/hot_58_-_2006.pdf",
+     "sha256": "2b345d5280b51c4af134990f01a57200e0f55c557fc9397652029f57e4f7e884"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-59-2006",
+   "path": "local/arad/nadlac/2006/59",
+   "short": "HCL Nădlac nr. 59/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 59/2006 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 12.05.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Mai/hot_59_-_2006.pdf",
+     "sha256": "2f53c8e2372cbb7eea3e12431d475e96ca9994040eb15327c1e3735581f8d17f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-6-2006",
+   "path": "local/arad/nadlac/2006/6",
+   "short": "HCL Nădlac nr. 6/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 6/2006 privind aprobarea reorganizarii Serviciului public de pompieri civili al orasului Nadlac în Serviciul public voluntar pentru situatii de urgenta al orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_6_-_2006.pdf",
+     "sha256": "7cf6ae6e145bb4b989540ff5045e607953477f7fa08cfab37db0415d6390d088"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-60-2006",
+   "path": "local/arad/nadlac/2006/60",
+   "short": "HCL Nădlac nr. 60/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 60/2006 privind stabilirea domeniilor serviciilor publice şi locurile în care contravenienţii vor presta activităţi în folosul comunităţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Mai/hot_60_-_2006.pdf",
+     "sha256": "1d7b9b1accd6f6874874705803292258051a3c4fb252e9bbd261a9ab5abf4d13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-61-2006",
+   "path": "local/arad/nadlac/2006/61",
+   "short": "HCL Nădlac nr. 61/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 61/2006 privind încheierea şi aprobarea exerciţiului bugetar pe anul 2005",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Mai/hot_61_-_2006.pdf",
+     "sha256": "284e55a5274aeefff59d7b422809cee1f17289deb1fc11bff806276578ad4791"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-62-2006",
+   "path": "local/arad/nadlac/2006/62",
+   "short": "HCL Nădlac nr. 62/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 62/2006 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Mai/hot_62_-_2006.pdf",
+     "sha256": "d30052506223ae9053a60cc6bcc605c53841dffb06d8935cac4b2cedd22f3bca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-63-2006",
+   "path": "local/arad/nadlac/2006/63",
+   "short": "HCL Nădlac nr. 63/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 63/2006 privind trecerea în proprietatea privată a oraşului Nădlac a terenului în suprafaţă de 719 mp, înscris în CF nr.8707 Nădlac, parcela nr.top. 13691/106/1",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Mai/hot_63_-_2006.pdf",
+     "sha256": "98190a095a4bb739e2bc2831bb7d58fcdb016096263eb21b05b2f8aeb0d719bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-64-2006",
+   "path": "local/arad/nadlac/2006/64",
+   "short": "HCL Nădlac nr. 64/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 64/2006 privind trecerea în proprietatea privată şi publică a oraşului Nădlac a unor parcele şi vânzarea parcelei nr. top. 12345-12350/1/1/13/2, evidenţiată în CF nr.8706 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Mai/hot_64_-_2006.pdf",
+     "sha256": "3efdb10988da7666e71965b621073526d5334777580cd02b54e03751e124847e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-65-2006",
+   "path": "local/arad/nadlac/2006/65",
+   "short": "HCL Nădlac nr. 65/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 65/2006 privind rectificarea erorii materiale din Hotărârea Consiliului Local nr.84/02.09.2003 şi Hotărârea Consiliului local nr.19/30.01.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Mai/hot_65_-_2006.pdf",
+     "sha256": "88c2451e833c5cebb16cbc57a90a429796035109f39c8e3a0b4105b8cf93fc83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-66-2006",
+   "path": "local/arad/nadlac/2006/66",
+   "short": "HCL Nădlac nr. 66/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 66/2006 privind aprobarea modificării și completării contractului de concesiune încheiat în data de 15.07.1992, cu actele adiționale aferente, actualizat, încheiat între Consiliul Local Nădlac și S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Mai/hot_66_-_2006.pdf",
+     "sha256": "f46e7b19f3a72ca20823c502c0b50cf317c54960cc94f2193931d786b27c35b5"
     }
    ]
   },
@@ -123,6 +1773,336 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-7-2006",
+   "path": "local/arad/nadlac/2006/7",
+   "short": "HCL Nădlac nr. 7/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 7/2006 privind modificarea si completarea HCL 132/18.11.2005",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_7_-_2006.pdf",
+     "sha256": "0a8b097c6e106bcefe651819b015115e5b0c8374a23abaf042eabed62b7c2839"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-70-2006",
+   "path": "local/arad/nadlac/2006/70",
+   "short": "HCL Nădlac nr. 70/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 70/2006 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 16.06.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iunie/hot_70_-_2006.pdf",
+     "sha256": "f3e7b26f4432f3e065a2c0c64733ed675c4e80e2bf747646d141c985ed92abbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-71-2006",
+   "path": "local/arad/nadlac/2006/71",
+   "short": "HCL Nădlac nr. 71/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 71/2006 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 23.05.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iunie/hot_71_-_2006.pdf",
+     "sha256": "6a45e5ef18e7c6e12aae665bc5ab9a244c601cc778b69a651a933daad5aa743c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-73-2006",
+   "path": "local/arad/nadlac/2006/73",
+   "short": "HCL Nădlac nr. 73/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 73/2006 privind trecerea în proprietatea privată şi publică a oraşului Nădlac a unor parcele şi vânzarea parcelei nr. top. 12345-12350/1/1/9/2, evidenţiată în CF nr.8706 Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iunie/hot_73_-_2006.pdf",
+     "sha256": "903600689d58d3803d261310ecb113208f0430066dfc982f87ebe78d76b515e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-74-2006",
+   "path": "local/arad/nadlac/2006/74",
+   "short": "HCL Nădlac nr. 74/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 74/2006 privind mandatarea primarului oraşului Nădlac şi consilierului juridic în vederea reprezentării şi/sau semnării contractelor de asistenţă juridică, pentru apărarea şi reprezentarea Consiliului Local Nădlac în faţa instanţei de judecată",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-06-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iunie/hot_74_-_2006.pdf",
+     "sha256": "96a0d08480c4f344ba93a0dc187886b5826cc69f8ed4f0d51d63901e2b4b7799"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-75-2006",
+   "path": "local/arad/nadlac/2006/75",
+   "short": "HCL Nădlac nr. 75/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 75/2006 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 27.06.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-06-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iunie/hot_75_-_2006.pdf",
+     "sha256": "1fd85bf5e924c9a87345ddc6b2a6125685d05052e07febda796faeb6f00d02e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-76-2006",
+   "path": "local/arad/nadlac/2006/76",
+   "short": "HCL Nădlac nr. 76/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 76/2006 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 16.06.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-06-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iunie/hot_76_-_2006.pdf",
+     "sha256": "e7f9e3ba158ad52cdafe968bac8187cbbeadcb47129dc8acfaf905e159cca2ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-77-2006",
+   "path": "local/arad/nadlac/2006/77",
+   "short": "HCL Nădlac nr. 77/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 77/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-06-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iunie/hot_77_-_2006.pdf",
+     "sha256": "8280e0ab82da2d17dc773f76ca8976a4db4026f21efafe6ab7723f566a602fb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-78-2006",
+   "path": "local/arad/nadlac/2006/78",
+   "short": "HCL Nădlac nr. 78/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 78/2006 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-06-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iunie/hot_78_-_2006.pdf",
+     "sha256": "07154be81d234ae2086e3787101c23378ef831d4d00a14f28539677a94c0e468"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-79-2006",
+   "path": "local/arad/nadlac/2006/79",
+   "short": "HCL Nădlac nr. 79/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 79/2006 privind aprobarea Studiului de fezabilitate la obiectivul „Modernizări străzi în Nădlac- str. N. Bălcescu, str. Dorobanţi”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-06-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iunie/hot_79_-_2006.pdf",
+     "sha256": "b8756b3d0e33b880cf0aed48b47b3295ed7ff388a4d9f818524e5440b8ad7464"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-8-2006",
+   "path": "local/arad/nadlac/2006/8",
+   "short": "HCL Nădlac nr. 8/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 8/2006 privind aprobarea ordinei de zi al sedintei extraordinare a Consiliului local Nadlac din data de 30.01.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_8_-_2006.pdf",
+     "sha256": "7c021398c11e8776a59143ae0e38ead9f99382556dc2be0c366379337229a752"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-80-2006",
+   "path": "local/arad/nadlac/2006/80",
+   "short": "HCL Nădlac nr. 80/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 80/2006 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 13.07.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iulie/hot_80_-_2006.pdf",
+     "sha256": "9f07dd5c97dc394a1bf6613887fe71ba9cbda469921033a3ef96f5068be76abb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-81-2006",
+   "path": "local/arad/nadlac/2006/81",
+   "short": "HCL Nădlac nr. 81/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 81/2006 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 27.06.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iulie/hot_81_-_2006.pdf",
+     "sha256": "1ab2b9c2a08f4798cf07166674314de62f38ea9b441dadbb08ebc0da175af784"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-82-2006",
+   "path": "local/arad/nadlac/2006/82",
+   "short": "HCL Nădlac nr. 82/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 82/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iulie/hot_82_-_2006.pdf",
+     "sha256": "186bb580fc7f448e1134bbe5a68c546caa52773fe9032244849aef3e42839571"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-84-2006",
+   "path": "local/arad/nadlac/2006/84",
+   "short": "HCL Nădlac nr. 84/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 84/2006 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iulie/hot_84_-_2006.pdf",
+     "sha256": "eba65982d612e702c86f92afd5a7f60f05216f8a02aab44bf59d6e98c06412be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-85-2006",
+   "path": "local/arad/nadlac/2006/85",
+   "short": "HCL Nădlac nr. 85/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 85/2006 privind aprobarea listei spaţiilor medicale care urmează a fi vândute potrivit legii, precum şi numirea reprezentanţilor consiliului local care vor face parte din comisia pentru vânzarea acestora",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iulie/hot_85_-_2006.pdf",
+     "sha256": "144e9da1317defa89296527cd97ef4f3cc9526d2aa03d90c83b15fbdeb6144f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-86-2006",
+   "path": "local/arad/nadlac/2006/86",
+   "short": "HCL Nădlac nr. 86/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 86/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iulie/hot_86_-_2006.pdf",
+     "sha256": "1ffb825fc78783614d771dd7cef6fb682646247b6c4a3f41c627f940a0935b3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-87-2006",
+   "path": "local/arad/nadlac/2006/87",
+   "short": "HCL Nădlac nr. 87/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 87/2006 privind aprobarea încheierii contractului de prestări servicii recreative, culturale şi sportive cu S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iulie/hot_87_-_2006.pdf",
+     "sha256": "347430bb6024dd1c6cd4bbbdb5dc8f8544086e63f00af89fdfe9b3562639af6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-89-2006",
+   "path": "local/arad/nadlac/2006/89",
+   "short": "HCL Nădlac nr. 89/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 89/2006 privind alegerea preşedintelui de şedinţă",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-07-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iulie/hot_89_-_2006.pdf",
+     "sha256": "112b1c2abb305413465b4953daeb076a02bcb724029418deb3fcce0ad09d08d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-9-2006",
+   "path": "local/arad/nadlac/2006/9",
+   "short": "HCL Nădlac nr. 9/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 9/2006 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 23.01.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Ianuarie/hot_9_-_2006.pdf",
+     "sha256": "d043cabe665286908305763685e2d786a8d8ba7be1048228594fff509e05c0fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-90-2006",
+   "path": "local/arad/nadlac/2006/90",
+   "short": "HCL Nădlac nr. 90/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 90/2006 privind aprobarea ordinei de zi al şedinţei extraordinare a Consiliului local Nădlac din data de 21.07.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-07-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iulie/hot_90_-_2006.pdf",
+     "sha256": "441100f4c1ac9b3f17fce37b69af17715e1391908ea83fdf5e97a3290e4bb3bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-91-2006",
+   "path": "local/arad/nadlac/2006/91",
+   "short": "HCL Nădlac nr. 91/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 91/2006 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 13.07.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-07-21",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iulie/hot_91_-_2006.pdf",
+     "sha256": "e156046f57e20e8279f4fd0802bb355d9b6b4836e0d3448d5fb8a2161f1cf196"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-92-2006",
    "path": "local/arad/nadlac/2006/92",
    "short": "HCL Nădlac nr. 92/2006",
@@ -134,6 +2114,111 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Iulie/hot_92_-_2006.pdf",
      "sha256": "ce8fdfd2dc3fad9e85daed561143619979fe0129c3b59d52ce4f4c0e171558ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-93-2006",
+   "path": "local/arad/nadlac/2006/93",
+   "short": "HCL Nădlac nr. 93/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 93/2006 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 23.08.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-08-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/August/hot_93_-_2006.pdf",
+     "sha256": "f2f1f5f0e84902ecd4f8dd8765f8ccf582a3f6261dc456d39e0c388a54edd0a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-94-2006",
+   "path": "local/arad/nadlac/2006/94",
+   "short": "HCL Nădlac nr. 94/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 94/2006 privind aprobarea procesului verbal al şedinţei extraordinare al Consiliului local Nădlac din data de 21.07.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-08-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/August/hot_94_-_2006.pdf",
+     "sha256": "2c58497bca3070ebfe87c359658f7b2c19e2afd8d811260622ec89a9d0559e5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-95-2006",
+   "path": "local/arad/nadlac/2006/95",
+   "short": "HCL Nădlac nr. 95/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 95/2006 privind aprobarea înfrăţirii oraşului Nădlac – România cu oraşul Krompachy- Republica Slovacia",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-08-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/August/hot_95_-_2006.pdf",
+     "sha256": "f5c2ab586caa08ce9da8c967d2825e9125b9840efdf6cf2dd8904ce5e6fe84dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-96-2006",
+   "path": "local/arad/nadlac/2006/96",
+   "short": "HCL Nădlac nr. 96/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 96/2006 privind aprobarea ordinei de zi al şedinţei ordinare a Consiliului local Nădlac din data de 12.09.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-09-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Septembrie/hot_96_-_2006.pdf",
+     "sha256": "c409540b37cb08444fd9c8f3cf828538a97a60171d8f99d024e9ecf856096b1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-97-2006",
+   "path": "local/arad/nadlac/2006/97",
+   "short": "HCL Nădlac nr. 97/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 97/2006 privind aprobarea procesului verbal al şedinţei ordinare al Consiliului local Nădlac din data de 23.08.2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-09-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Septembrie/hot_97_-_2006.pdf",
+     "sha256": "806f26eded6d9f0f9b036b8e46b4a62c6b603a2f4c578afa5447cc04dd52a457"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-98-2006",
+   "path": "local/arad/nadlac/2006/98",
+   "short": "HCL Nădlac nr. 98/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 98/2006 privind stabilirea veniturilor potenţiale care se pot obţine din valorificarea bunurilor ce depăşesc cantitativ categoriile de bunuri considerate de strictă necesitate pentru nevoile familiale",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-09-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Septembrie/hot_98_-_2006.pdf",
+     "sha256": "d8c9958424905208d69844ce153adf99d65ba4b39d0385f473074aa11f64695d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-99-2006",
+   "path": "local/arad/nadlac/2006/99",
+   "short": "HCL Nădlac nr. 99/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 99/2006 privind rectificarea bugetului de venituri şi cheltuieli al Consiliului local al oraşului Nădlac pe anul 2006",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+   "versions": [
+    {
+     "from": "2006-09-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2006/Septembrie/hot_99_-_2006.pdf",
+     "sha256": "79f2c005aa26a3819b718ea82c897ccd66dddaf09b2d616f465c4ed8990fb7cd"
     }
    ]
   }

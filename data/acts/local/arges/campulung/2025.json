@@ -3,6 +3,28 @@
 "shard": "local/arges/campulung/2025",
 "acts": [
 {
+"slug": "hcl-arges--campulung-1-2025",
+"path": "local/arges/campulung/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 1/2025 privind respingerea plângerii prealabile înregistrată la Primăria Municipiului Câmpulung sub nr. 123/41161 din 23.12.2024 împotriva Hotărârii Consiliului Local nr. 149 din 28.11.2024",
+"short": "HCL Câmpulung nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--campulung-2-2025",
 "path": "local/arges/campulung/2025/2",
 "kind": "local",
@@ -181,6 +203,28 @@
 }
 },
 {
+"slug": "hcl-arges--campulung-10-2025",
+"path": "local/arges/campulung/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 10/2025 privind rectificarea Organigramei și Statului de funcții al Direcției de Asistență Socială Câmpulung aprobate prin Hotărârea Consiliului Local nr. 178 din 19.12.2024",
+"short": "HCL Câmpulung nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--campulung-11-2025",
 "path": "local/arges/campulung/2025/11",
 "kind": "local",
@@ -270,6 +314,28 @@
 }
 },
 {
+"slug": "hcl-arges--campulung-17-2025",
+"path": "local/arges/campulung/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 17/2025 privind abrogarea Hotărârii nr. 190 din 30.12.2024 privind aprobarea indicatorilor de zonare fiscală, a modului de evaluare a acestora și încadrarea în categoriile de impozitare a imobilelor clădiri/terenuri situate în intravilanul Municipiului Câmpulung, județul Argeș",
+"short": "HCL Câmpulung nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-11",
+"latest": "2025-02-11",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--campulung-18-2025",
 "path": "local/arges/campulung/2025/18",
 "kind": "local",
@@ -301,6 +367,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 19/2025 privind aprobarea modificării Statului de funcții al Spitalului de Pneumoftiziologie Câmpulung Hotărâre privind aprobarea modificării Statului de funcții al Spitalului de Pneumoftiziologie Câmpulung",
 "short": "HCL Câmpulung nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-20-2025",
+"path": "local/arges/campulung/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 20/2025 privind aprobarea modificării denumirii obiectivelor de investiție din Hotărârea Consiliului Local nr. 34 din 14.03.2024",
+"short": "HCL Câmpulung nr. 20/2025",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,
@@ -646,6 +734,94 @@
 }
 },
 {
+"slug": "hcl-arges--campulung-37-2025",
+"path": "local/arges/campulung/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 37/2025 cu privire la modificarea Hotărârii Consiliului Local nr. 184 din 19.12.2024 privind modificarea Hotărârii Consiliului Local al Municipiului Câmpulung nr. 164 din 28.11.2024 privind modificarea Hotărârii Consiliului Local al Municipiului Câmpulung nr. 125 din 30.10.2024 pentru desemnarea reprezentanților Consiliului Local al Municipiului Câmpulung în consiliile de administrație ale unităților de învățământ preuniversitar de stat și particular din Municipiul Câmpulung în anul școlar 2024 — 2025",
+"short": "HCL Câmpulung nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-38-2025",
+"path": "local/arges/campulung/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 38/2025 privind modificarea Hotărârii Consiliului Local al Municipiului Câmpulung nr. 185 din 19.12.2024 privind modificarea Hotărârii Consiliului Local al Municipiului Câmpulung nr. 165 din 28.11.2024 privind modificarea Hotărârii Consiliului Local al Municipiului Câmpulung nr. 126 din 30.10.2024 pentru desemnarea reprezentanților Consiliului Local al Municipiului Câmpulung în Comisia pentru evaluarea și asigurarea calității în cadrul unităților de învățământ de pe raza Municipiului Câmpulung în anul școlar 2024 — 2025",
+"short": "HCL Câmpulung nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-39-2025",
+"path": "local/arges/campulung/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 39/2025 privind modificarea Hotărârii nr. 186 din 19.12.2024 privind modificarea Hotărârii Consiliului Local al Municipiului Câmpulung nr. 166 din 28.11.2024 privind modificarea Hotărârii Consiliului Local al Municipiului Câmpulung nr. 127 din 30.10.2024 privind desemnarea reprezentanților Consiliului Local al Municipiului Câmpulung în Comisia pentru prevenirea și combaterea violenței, a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalității în cadrul unităților de învățământ de pe raza Municipiului Câmpulung în anul școlar 2024 - 2025",
+"short": "HCL Câmpulung nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-40-2025",
+"path": "local/arges/campulung/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 40/2025 cu privire la modificarea Hotărârii Consiliului Local nr. 183 din 19.12.2024 privind modificarea Hotărârii nr. 124 din 30.10.2024 privind desemnarea unui reprezentant al Consiliului Local în Consiliul de Administrație al Muzeului Municipai Câmpulung",
+"short": "HCL Câmpulung nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--campulung-41-2025",
 "path": "local/arges/campulung/2025/41",
 "kind": "local",
@@ -865,6 +1041,29 @@
 "council_name": "Consiliul Local al Municipiului Câmpulung",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-51-2025",
+"path": "local/arges/campulung/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 51/2025",
+"short": "HCL Câmpulung nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1640,6 +1839,29 @@
 }
 },
 {
+"slug": "hcl-arges--campulung-88-2025",
+"path": "local/arges/campulung/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 88/2025",
+"short": "HCL Câmpulung nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arges--campulung-89-2025",
 "path": "local/arges/campulung/2025/89",
 "kind": "local",
@@ -2192,6 +2414,28 @@
 }
 },
 {
+"slug": "hcl-arges--campulung-117-2025",
+"path": "local/arges/campulung/2025/117",
+"kind": "local",
+"year": "2025",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 117/2025 privind înlocuirea unui membru din comisia de verificare a situațiilor de lucrări și stadiul fizic al obiectivului de investiții “Bloc de locuințe sociale - 50 apartamente” aprobată prin Hotărârea Consiliului Local nr. 172 din 29.07.2022",
+"short": "HCL Câmpulung nr. 117/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--campulung-118-2025",
 "path": "local/arges/campulung/2025/118",
 "kind": "local",
@@ -2423,6 +2667,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 128/2025 privind modificarea rețelei școlare pentru anul școlar 2025 – 2026 Hotărâre privind modificarea rețelei școlare pentru anul școlar 2025 – 2026",
 "short": "HCL Câmpulung nr. 128/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-19",
+"latest": "2025-09-19",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-129-2025",
+"path": "local/arges/campulung/2025/129",
+"kind": "local",
+"year": "2025",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 129/2025",
+"short": "HCL Câmpulung nr. 129/2025",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,
@@ -3624,6 +3890,28 @@
 "council_name": "Consiliul Local al Municipiului Câmpulung",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arges--campulung-188-2025",
+"path": "local/arges/campulung/2025/188",
+"kind": "local",
+"year": "2025",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 188/2025 privind subvenționarea de la bugetul local a taxei de salubritate pentru persoanele fizice care au beneficiat de scutire în anul 2025 conform Hotărârii Consiliului Local nr. 7 /31.01.2019",
+"short": "HCL Câmpulung nr. 188/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

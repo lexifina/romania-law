@@ -3,6 +3,36 @@
  "shard": "local/arges/balilesti/2019",
  "acts": [
   {
+   "slug": "hcl-arges--balilesti-1-2019",
+   "path": "local/arges/balilesti/2019/1",
+   "short": "HCL Bălilești nr. 1/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Bălilești nr. 1/2019 privind alegerea președintelui de ședință pentru lunile ianuarie, februarie si martie 2019",
+   "url": "https://www.primariabalilesti.ro/ro/Informatii-Consiliul-Local/HOT%C4%82R%C3%82RI-ALE-CONSILIULUI-LOCAL-AL-COMUNEI-B%C4%82LILE%C8%98TI-359",
+   "versions": [
+    {
+     "from": "2019-01-09",
+     "units": 1,
+     "source_url": "http://primariabalilesti.ro/img/LEGISLATIE/2019/hcl_nr.1.pdf",
+     "sha256": "2abd5ef57a7851eb8335cdb36fafd206704dd86b9631c18b9718bf41d08a6bb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--balilesti-3-2019",
+   "path": "local/arges/balilesti/2019/3",
+   "short": "HCL Bălilești nr. 3/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Bălilești nr. 3/2019 privind aprobarea realizării unor proiecte multianuale",
+   "url": "https://www.primariabalilesti.ro/ro/Informatii-Consiliul-Local/HOT%C4%82R%C3%82RI-ALE-CONSILIULUI-LOCAL-AL-COMUNEI-B%C4%82LILE%C8%98TI-359",
+   "versions": [
+    {
+     "from": "2019-01-21",
+     "units": 1,
+     "source_url": "http://primariabalilesti.ro/img/LEGISLATIE/2019/hcl_nr.3.pdf",
+     "sha256": "fbfdfdf14bdfcad0047fd1265b82730de1d5aff143b04b854400f41d36ccb5d1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--balilesti-9-2019",
    "path": "local/arges/balilesti/2019/9",
    "short": "HCL Bălilești nr. 9/2019",

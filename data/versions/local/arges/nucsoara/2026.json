@@ -3,6 +3,21 @@
  "shard": "local/arges/nucsoara/2026",
  "acts": [
   {
+   "slug": "hcl-arges--nucsoara-1-2026",
+   "path": "local/arges/nucsoara/2026/1",
+   "short": "HCL Nucșoara nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 1/2026 privind alegerea PREȘEDINTELUI DE ȘEDINȚĂ",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/245473",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/245473",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--nucsoara-10-2026",
    "path": "local/arges/nucsoara/2026/10",
    "short": "HCL Nucșoara nr. 10/2026",
@@ -13,6 +28,21 @@
      "from": "2026-03-13",
      "units": 1,
      "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/255804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-11-2026",
+   "path": "local/arges/nucsoara/2026/11",
+   "short": "HCL Nucșoara nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 11/2026 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/257925",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/257925",
      "sha256": null
     }
    ]
@@ -63,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--nucsoara-15-2026",
+   "path": "local/arges/nucsoara/2026/15",
+   "short": "HCL Nucșoara nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 15/2026 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/262116",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/262116",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--nucsoara-16-2026",
    "path": "local/arges/nucsoara/2026/16",
    "short": "HCL Nucșoara nr. 16/2026",
@@ -103,6 +148,21 @@
      "from": "2026-04-17",
      "units": 1,
      "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/262119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-19-2026",
+   "path": "local/arges/nucsoara/2026/19",
+   "short": "HCL Nucșoara nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 19/2026 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/263051",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/263051",
      "sha256": null
     }
    ]
@@ -163,6 +223,21 @@
      "from": "2026-04-24",
      "units": 1,
      "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/263054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-23-2026",
+   "path": "local/arges/nucsoara/2026/23",
+   "short": "HCL Nucșoara nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 23/2026 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/264690",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/264690",
      "sha256": null
     }
    ]
@@ -318,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--nucsoara-33-2026",
+   "path": "local/arges/nucsoara/2026/33",
+   "short": "HCL Nucșoara nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 33/2026 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/266007",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/266007",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--nucsoara-34-2026",
    "path": "local/arges/nucsoara/2026/34",
    "short": "HCL Nucșoara nr. 34/2026",
@@ -343,6 +433,21 @@
      "from": "2026-05-05",
      "units": 1,
      "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/266009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-36-2026",
+   "path": "local/arges/nucsoara/2026/36",
+   "short": "HCL Nucșoara nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 36/2026 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/267206",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/267206",
      "sha256": null
     }
    ]
@@ -378,6 +483,36 @@
    ]
   },
   {
+   "slug": "hcl-arges--nucsoara-39-2026",
+   "path": "local/arges/nucsoara/2026/39",
+   "short": "HCL Nucșoara nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 39/2026 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/269518",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/269518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-4-2026",
+   "path": "local/arges/nucsoara/2026/4",
+   "short": "HCL Nucșoara nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 4/2026 privind alegerea PREȘEDINTELUI DE ȘEDINȚĂ",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/252482",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/252482",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--nucsoara-40-2026",
    "path": "local/arges/nucsoara/2026/40",
    "short": "HCL Nucșoara nr. 40/2026",
@@ -403,6 +538,21 @@
      "from": "2026-05-29",
      "units": 1,
      "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/269520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-42-2026",
+   "path": "local/arges/nucsoara/2026/42",
+   "short": "HCL Nucșoara nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 42/2026 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/271750",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/271750",
      "sha256": null
     }
    ]
@@ -483,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--nucsoara-48-2026",
+   "path": "local/arges/nucsoara/2026/48",
+   "short": "HCL Nucșoara nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 48/2026 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/273632",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/273632",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--nucsoara-49-2026",
    "path": "local/arges/nucsoara/2026/49",
    "short": "HCL Nucșoara nr. 49/2026",
@@ -528,6 +693,36 @@
    ]
   },
   {
+   "slug": "hcl-arges--nucsoara-51-2026",
+   "path": "local/arges/nucsoara/2026/51",
+   "short": "HCL Nucșoara nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 51/2026 privind aprobarea unui onorariu suplimentar pentru soluționarea Dosarului nr. 8047/109/2021**",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/273635",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/273635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-52-2026",
+   "path": "local/arges/nucsoara/2026/52",
+   "short": "HCL Nucșoara nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 52/2026 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/275194",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/275194",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--nucsoara-53-2026",
    "path": "local/arges/nucsoara/2026/53",
    "short": "HCL Nucșoara nr. 53/2026",
@@ -543,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--nucsoara-54-2026",
+   "path": "local/arges/nucsoara/2026/54",
+   "short": "HCL Nucșoara nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 54/2026 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/279041",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/279041",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--nucsoara-55-2026",
    "path": "local/arges/nucsoara/2026/55",
    "short": "HCL Nucșoara nr. 55/2026",
@@ -553,6 +763,21 @@
      "from": "2026-07-27",
      "units": 1,
      "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/279042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-56-2026",
+   "path": "local/arges/nucsoara/2026/56",
+   "short": "HCL Nucșoara nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 56/2026 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/280262",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/280262",
      "sha256": null
     }
    ]
@@ -763,6 +988,21 @@
      "from": "2026-10-05",
      "units": 1,
      "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/291852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-7-2026",
+   "path": "local/arges/nucsoara/2026/7",
+   "short": "HCL Nucșoara nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 7/2026 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/255801",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/255801",
      "sha256": null
     }
    ]

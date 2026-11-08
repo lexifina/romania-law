@@ -840,6 +840,29 @@
 }
 },
 {
+"slug": "hcl-arad--santana-117-2009",
+"path": "local/arad/santana/2009/117",
+"kind": "local",
+"year": "2009",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 117/2009",
+"short": "HCL Sântana nr. 117/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-07-21",
+"latest": "2009-07-21",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--santana-118-2009",
 "path": "local/arad/santana/2009/118",
 "kind": "local",
@@ -1579,6 +1602,29 @@
 "versions": 1,
 "from": "2009-11-18",
 "latest": "2009-11-18",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-162-2009",
+"path": "local/arad/santana/2009/162",
+"kind": "local",
+"year": "2009",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 162/2009",
+"short": "HCL Sântana nr. 162/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-06-23",
+"latest": "2009-06-23",
 "portal": null,
 "council": "arad/santana",
 "council_name": "Consiliul Local al Orașului Sântana",

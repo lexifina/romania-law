@@ -3,6 +3,51 @@
  "shard": "local/arges/babana/2018",
  "acts": [
   {
+   "slug": "hcl-arges--babana-2-2018",
+   "path": "local/arges/babana/2018/2",
+   "short": "HCL Băbana nr. 2/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 2/2018 PRIVIND APROBAREA CALENDARULUI CULTURAL-ARTISTIC PE ANUL 20I8 Consiliul Local al comunei Babana, judetul Arges, intrunit in sedinta ordinara din data de 18.01.2018 Avand in vedere : - expunerea de motive si proiectul de hotarare; - in baza referatului nr.129/09.01.2018 intocmit de bibliotecarul comunei,privind aprobarea Calendarului Cultural-Artistic pe anul 201g - avand in vedere necesitatea desf",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2018-01-18",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hotarari/hot%202%2018.pdf",
+     "sha256": "60768b3da69f7a9fbad16ea784bc7e6edea1c5a15c99a396eb167c74821ea7aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-31-2018",
+   "path": "local/arges/babana/2018/31",
+   "short": "HCL Băbana nr. 31/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 31/2018 pentru cuplurile care au implinit 50 si 60 de ani de casatorie",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hootarari18/hot-31-18.pdf",
+     "sha256": "fac19af07e1e93705bcc72177265d91acfc0f9f01d0af0c8552022f8480019da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-32-2018",
+   "path": "local/arges/babana/2018/32",
+   "short": "HCL Băbana nr. 32/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 32/2018 Privind aprobarea Planului de Masuri Multianual de Gestionare a Deseurilor reciclabile provenite de la populatie si agentii economici in Localitatea Babana",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hootarari18/hot-32-18.pdf",
+     "sha256": "b84d39114f00ef93f536827c1596c0b987d48c34ff550f690452307364cc0649"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--babana-33-2018",
    "path": "local/arges/babana/2018/33",
    "short": "HCL Băbana nr. 33/2018",
@@ -14,6 +59,141 @@
      "units": 4,
      "source_url": "https://www.primariababana.ro/images/hootarari18/hot-33-18.pdf",
      "sha256": "e22140314b662df7bdda95ccbaa323c540c61a51a6a52fce4436abeefbc160dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-36-2018",
+   "path": "local/arges/babana/2018/36",
+   "short": "HCL Băbana nr. 36/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 36/2018 pentru folosire statii maxi - taxi",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hootarari18/hot-36-18.pdf",
+     "sha256": "e05d4c5cd0e9bccb6e4f37ac10e72db35041148c83783b07cd725ca0b8c90be7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-42-2018",
+   "path": "local/arges/babana/2018/42",
+   "short": "HCL Băbana nr. 42/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 42/2018 privind necesitatea achizitionarii si montarii unui hiidrant in incinta Scolii Gimnaziale Babana - art.13. alin(f)si lit.(g)din Legea3OT/2006 privind Apararea lmpotriva lncendiilor. - avizele comisiilor de specialitate -in temeiul dispozitiilor art.36 alin.1. din Legea 21.5/2001 privind administratia publica locala republicata, cu modificarile si complectarile ulterioare, cu modificarile si comple",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hootarari18/hot-42-18.pdf",
+     "sha256": "ba8e75a92a77c68c39c48f1b6cdea4dcbc1dead3b061b56f914b75b593457eb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-43-2018",
+   "path": "local/arges/babana/2018/43",
+   "short": "HCL Băbana nr. 43/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 43/2018 pentru autoutilitara IVECO DALLY",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hootarari18/hot-43-18.pdf",
+     "sha256": "69f183419061fd4a74b9cffc76673562a8711156dbb69fd0f346cd552acbe742"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-44-2018",
+   "path": "local/arges/babana/2018/44",
+   "short": "HCL Băbana nr. 44/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 44/2018 privind uorAnAREA NR' 44t20'09'20r8 judetul Arges rectificarea;;;;iffiocal al comunei Babana, Consiliul Local al comunei Babana' jud' Arges intrunit in Eedinta ordinara din data de 20.09.2018 Av6nd in vedere: -referatulnr.3Tt4log.o1.20l8intocmitdecompartimentulContabilitatedincadrul Primariei Babana; --_LeAginevaitze2um?l Jefa;i0vuoxrr6aapbrtri.li3vai6nl dcdio.nfminLisaeiengiieeaal.e-prnpurii.b-ii",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hootarari18/hot-44-18.pdf",
+     "sha256": "72ff51cb28cf18674741a013fabf22d1ea38786e98b74b3348f484518549e8c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-48-2018",
+   "path": "local/arges/babana/2018/48",
+   "short": "HCL Băbana nr. 48/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 48/2018 pentru servicii de colectivare - transport a deseurilor",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hootarari18/hot-48-18.pdf",
+     "sha256": "92bbff997e30bd992524ad27ee5232fc28a9539ca8d6c36ecdd12f368190e3fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-50-2018",
+   "path": "local/arges/babana/2018/50",
+   "short": "HCL Băbana nr. 50/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 50/2018 Privind rectificarea Bugetului Local al comunei Babana,judetul Arges Consiliul Local al comunei Babana, jud",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2018-10-25",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hootarari18/hot-50-18.pdf",
+     "sha256": "00877c1c7d932e48809ffbe0cba012facf589d0a41dc7d53d619adf1294e5832"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-53-2018",
+   "path": "local/arges/babana/2018/53",
+   "short": "HCL Băbana nr. 53/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 53/2018 privind aprobarea consumului lunarde carburanli pentru vehiculele gi utilajele care deservesc",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2018-11-22",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hootarari18/hot-53-18.pdf",
+     "sha256": "d6168ce2f56cf281516e99229de7ab6888c5bf58f65f4cd3cc206d5b1e4a2d5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-63-2018",
+   "path": "local/arges/babana/2018/63",
+   "short": "HCL Băbana nr. 63/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 63/2018 pentru solutionare cereri divort",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2018-12-16",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hootarari18/hot-63-18.pdf",
+     "sha256": "727d858502810a8dd20eaddb915e6b8340635bd25a6f607f705d4f9679f0fe3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-65-2018",
+   "path": "local/arges/babana/2018/65",
+   "short": "HCL Băbana nr. 65/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 65/2018 Privind anularea creantelor fiscale datorate si neachitate de debitori aflate in sold la data de 3L.L2.2OL8 de pana la 40 de lei. consiliul Local al comunei Babana, jud",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2018-12-16",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hootarari18/hot-65-18.pdf",
+     "sha256": "37ae23755c7b0df00cd8bc8ac187310fbfd97a33161ab445071b48ad82b09922"
     }
    ]
   }

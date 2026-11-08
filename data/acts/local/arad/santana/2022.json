@@ -91,6 +91,94 @@
 }
 },
 {
+"slug": "hcl-arad--santana-50-2022",
+"path": "local/arad/santana/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 50/2022",
+"short": "HCL Sântana nr. 50/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-30",
+"latest": "2022-07-30",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=105",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--santana-52-2022",
+"path": "local/arad/santana/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 52/2022",
+"short": "HCL Sântana nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-05",
+"latest": "2022-04-05",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=111",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--santana-56-2022",
+"path": "local/arad/santana/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 56/2022",
+"short": "HCL Sântana nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-26",
+"latest": "2022-04-26",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=110",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--santana-58-2022",
+"path": "local/arad/santana/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 58/2022",
+"short": "HCL Sântana nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-26",
+"latest": "2022-04-26",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=110",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--santana-69-2022",
 "path": "local/arad/santana/2022/69",
 "kind": "local",
@@ -172,6 +260,72 @@
 "from": "2022-12-13",
 "latest": "2022-12-13",
 "portal": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=11",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--santana-85-2022",
+"path": "local/arad/santana/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 85/2022",
+"short": "HCL Sântana nr. 85/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-07",
+"latest": "2022-07-07",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=108",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--santana-86-2022",
+"path": "local/arad/santana/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 86/2022",
+"short": "HCL Sântana nr. 86/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-07",
+"latest": "2022-07-07",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=108",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--santana-87-2022",
+"path": "local/arad/santana/2022/87",
+"kind": "local",
+"year": "2022",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 87/2022",
+"short": "HCL Sântana nr. 87/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-07",
+"latest": "2022-07-07",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=108",
 "council": "arad/santana",
 "council_name": "Consiliul Local al Orașului Sântana",
 "flags": {

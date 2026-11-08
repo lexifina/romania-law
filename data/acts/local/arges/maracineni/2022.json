@@ -3,6 +3,72 @@
 "shard": "local/arges/maracineni/2022",
 "acts": [
 {
+"slug": "hcl-arges--maracineni-1-2022",
+"path": "local/arges/maracineni/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 1/2022 privind alegerea preşedintelui de şedinţă pentru lunile ianuarie,februarie și martie 2022",
+"short": "HCL Mărăcineni nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-19",
+"latest": "2022-01-19",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/52929",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-2-2022",
+"path": "local/arges/maracineni/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 2/2022 privind actualizarea statului de functii si organigramei Primăriei Comunei Maracineni,judetul Argeș",
+"short": "HCL Mărăcineni nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-19",
+"latest": "2022-01-19",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/52930",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-3-2022",
+"path": "local/arges/maracineni/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 3/2022 privind actualizarea Consiliului Comunitar Consultativ din localitatea Mărăcineni, judeţul Argeș",
+"short": "HCL Mărăcineni nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-19",
+"latest": "2022-01-19",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/52931",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-4-2022",
 "path": "local/arges/maracineni/2022/4",
 "kind": "local",
@@ -136,6 +202,50 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-10-2022",
+"path": "local/arges/maracineni/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 10/2022 Privind aprobarea Ştatului de funcţii , Devizului financiar al cheltuielilor de personal , indemnizaţiei de hrana și voucherelor de vacanță,pentru personal, Ştatului de personal ,Devizului financiar de cheltuieli totale și Indemnizaţiei de hrană penru copii, aferente anului 2022, pentru Centrul de copii Albă ca Zăpada si cei 60 de pitici ,din comuna Mărăcineni,județul Argeș,în vederea elaborării și întocmirii bugetului de venituri și cheltuieli al comunei Mărăcineni",
+"short": "HCL Mărăcineni nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-19",
+"latest": "2022-01-19",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/52938",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-11-2022",
+"path": "local/arges/maracineni/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 11/2022 privind desemnarea persoanei responsabile cu completarea si tinerea la zi a Registrului datoriei publice locale a unitatii administrativ teritoriale si a Registrului de evidenta a garantiilor locale a unitatii administrativ teritoriale, comuna Maracineni,judetul Arges,pentru anul 2022",
+"short": "HCL Mărăcineni nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-19",
+"latest": "2022-01-19",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/52939",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-12-2022",
 "path": "local/arges/maracineni/2022/12",
 "kind": "local",
@@ -177,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-14-2022",
+"path": "local/arges/maracineni/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 14/2022 Privind admiterea receptiei la terminarea lucrarilor, aprobarea valorii de inventar si a executiei bugetului proiectului, la obiectivul de investitii „Infiintare canalizare pluvială și menajeră pe strada Zorilor si prelungirea străzii Câmpului, sat Mărăcineni, comuna Mărăcineni, jud. Argeș”",
+"short": "HCL Mărăcineni nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/54190",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -644,6 +776,29 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-36-2022",
+"path": "local/arges/maracineni/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 36/2022",
+"short": "HCL Mărăcineni nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-11",
+"latest": "2022-05-11",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/62382",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arges--maracineni-37-2022",
 "path": "local/arges/maracineni/2022/37",
 "kind": "local",
@@ -710,6 +865,28 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-40-2022",
+"path": "local/arges/maracineni/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 40/2022 Privind aprobarea acordării unui ajutor financiar, tânărului.Tudose Constantin-Radian, pilot competiții sportive de motorsport, în vederea susținerii participării la Campionatul Național de Raliuri –Betano 2022",
+"short": "HCL Mărăcineni nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-11",
+"latest": "2022-05-11",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/62386",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-41-2022",
 "path": "local/arges/maracineni/2022/41",
 "kind": "local",
@@ -751,6 +928,29 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-43-2022",
+"path": "local/arges/maracineni/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 43/2022",
+"short": "HCL Mărăcineni nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-26",
+"latest": "2022-05-26",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/64053",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -993,6 +1193,28 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-55-2022",
+"path": "local/arges/maracineni/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 55/2022 cu privire la acordarea unui ajutor de urgenta d-lui Brebene George-Robert",
+"short": "HCL Mărăcineni nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-27",
+"latest": "2022-06-27",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/66259",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1548,6 +1770,28 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-81-2022",
+"path": "local/arges/maracineni/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 81/2022 privind desemnarea unor reprezentanti in Consiliul de Administratie al Liceului Tehnologic nr.1 Maracineni pentru anul scolar 2022-2023",
+"short": "HCL Mărăcineni nr. 81/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/74405",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-82-2022",
 "path": "local/arges/maracineni/2022/82",
 "kind": "local",
@@ -1656,6 +1900,50 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-87-2022",
+"path": "local/arges/maracineni/2022/87",
+"kind": "local",
+"year": "2022",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 87/2022 Privind aprobarea inchirierii prin licitatie publica a imobilului, spaţiu - sala de clasă nr.9, din incinta Liceului Tehnologic Nr.1 Maracineni, comuna Maracineni, strada Principala, nr. 464, județul Arges, apartinand domeniului public al comunei Maracineni",
+"short": "HCL Mărăcineni nr. 87/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/76519",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-88-2022",
+"path": "local/arges/maracineni/2022/88",
+"kind": "local",
+"year": "2022",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 88/2022 privind desemnarea unui reprezentant al Consiliului Local Mărăcineni, care să facă parte din Comisia de evaluare și asigurare a calității, din cadrul Liceului Tehnologic nr.1 Maracineni, pentru anul scolar 2022-2023",
+"short": "HCL Mărăcineni nr. 88/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/76520",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1791,6 +2079,29 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-95-2022",
+"path": "local/arges/maracineni/2022/95",
+"kind": "local",
+"year": "2022",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 95/2022",
+"short": "HCL Mărăcineni nr. 95/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/78598",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arges--maracineni-96-2022",
 "path": "local/arges/maracineni/2022/96",
 "kind": "local",
@@ -1833,6 +2144,29 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-98-2022",
+"path": "local/arges/maracineni/2022/98",
+"kind": "local",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 98/2022",
+"short": "HCL Mărăcineni nr. 98/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/80035",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

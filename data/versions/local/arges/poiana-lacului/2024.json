@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/arges/poiana-lacului/2024",
+ "acts": [
+  {
+   "slug": "hcl-arges--poiana-lacului-12-2024",
+   "path": "local/arges/poiana-lacului/2024/12",
+   "short": "HCL Poiana Lacului nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 12/2024",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/09/HCL-nr.-12-din-27.03.2024-evaluare-performante-secretar.pdf",
+     "sha256": "6128db57da5b54698bada8e98e1a6b4f6460734cc50cc9e46eff5c4528b573db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-14-2024",
+   "path": "local/arges/poiana-lacului/2024/14",
+   "short": "HCL Poiana Lacului nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 14/2024",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2025/09/HCL-nr.-14-din-27.03.2024-privind-aprobarea-consumului-de-carburantilor.pdf",
+     "sha256": "90cff2d4bc8d542cdc9e7073d35f0f3cb00eeaa6a06807894e39ed64c8bfcf92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-3-2024",
+   "path": "local/arges/poiana-lacului/2024/3",
+   "short": "HCL Poiana Lacului nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 3/2024",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-sedinta-31-01-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2024/09/hcl-nr.-3-din-31.01.2024-1.pdf",
+     "sha256": "84ac3c835b8c9e3b1813f67c77f3a997de2511f7bdd72f8ee7a7f75971290b52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-31-2024",
+   "path": "local/arges/poiana-lacului/2024/31",
+   "short": "HCL Poiana Lacului nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 31/2024",
+   "url": "https://poianalacului.ro/wp-content/uploads/2024/10/HCL-nr.31_11.10.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2024/10/HCL-nr.31_11.10.2024.pdf",
+     "sha256": "834f261d6edfac61bd5adf3445967318f9b0b33c1797075d9083f4e078b5b401"
+    }
+   ]
+  }
+ ]
+}

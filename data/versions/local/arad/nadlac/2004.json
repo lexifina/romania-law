@@ -3,6 +3,411 @@
  "shard": "local/arad/nadlac/2004",
  "acts": [
   {
+   "slug": "hcl-arad--nadlac-1-2004",
+   "path": "local/arad/nadlac/2004/1",
+   "short": "HCL Nădlac nr. 1/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 1/2004 privind constituirea comisiei de validare a mandatelor consilierilor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-06-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iunie/hot_1a_-_2004.pdf",
+     "sha256": "e328c971ba10ef01127320049fe3c2aa85662c9d1a0e3aeee89e5b66536e9a31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-10-2004",
+   "path": "local/arad/nadlac/2004/10",
+   "short": "HCL Nădlac nr. 10/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 10/2004 privind aprobarea bugetului propriu al Consiliului local, al serviciilor si institutiilor din subordine pe anul 2004 a orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-01-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_10_-_2004.pdf",
+     "sha256": "e79925930cfe8f7d138893c94ee8b2f34adbee79ba54021fc7fbcb1b280a861a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-100-2004",
+   "path": "local/arad/nadlac/2004/100",
+   "short": "HCL Nădlac nr. 100/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 100/2004 privind aprobarea ordinei de zi al sedintei ordinare a Consiliului local Nadlac din data de 16.07.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_100_-_2004.pdf",
+     "sha256": "673c7a47e710cf523fe7e2afdcc3f2db1667cf7a012ef3f677899125004d5510"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-101-2004",
+   "path": "local/arad/nadlac/2004/101",
+   "short": "HCL Nădlac nr. 101/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 101/2004 privind aprobarea procesului verbal al sedintei extraordinare a Consiliului local Nadlac din data de 30.06.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_101_-_2004.pdf",
+     "sha256": "1ed06febcf7eb58a1ca3b3d997adfdcd523f1910e86a9924dbf46d44f37c1568"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-102-2004",
+   "path": "local/arad/nadlac/2004/102",
+   "short": "HCL Nădlac nr. 102/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 102/2004 privind stabilirea comisiei de ancheta în vederea verificarii situatiei economico- financiare a S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_102_-_2004.pdf",
+     "sha256": "67fb839031f6b7023bbb2dc4a524aa95bf6c4e5a8ed465384f1d35241aeb9e59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-103-2004",
+   "path": "local/arad/nadlac/2004/103",
+   "short": "HCL Nădlac nr. 103/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 103/2004 privind reorganizarea comisiei locale de aparare împotriva dezastrelor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_103_-_2004.pdf",
+     "sha256": "0d60b2abbda2cc982e29288a00a2c9f037f256eb6db8c3d5cc288f8f34910d7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-104-2004",
+   "path": "local/arad/nadlac/2004/104",
+   "short": "HCL Nădlac nr. 104/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 104/2004 privind emiterea acordului de principiu de cumparare a constructiei ( fundatiei ), detinute de catre asociatia de locatari Bl D3",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_104_-_2004.pdf",
+     "sha256": "cf9fbeabf8ca4e5465e88e7903401d95c270edca227bdae14dab35f06988a133"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-105-2004",
+   "path": "local/arad/nadlac/2004/105",
+   "short": "HCL Nădlac nr. 105/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 105/2004 privind aprobarea vânzarii prin licitatie publica a parcelei cu nr. top. 243/1, evidentiata în CF nr.9683, în suprafata de 2009 mp, situata în orasul Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_105_-_2004.pdf",
+     "sha256": "dadf2932b9c2c56971f8a118f0f271d223c5856a493d27db2406edd551101a59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-106-2004",
+   "path": "local/arad/nadlac/2004/106",
+   "short": "HCL Nădlac nr. 106/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 106/2004 privind declararea imobilului evidentiat în CF nr. 8865, cu nr. top. 2437/2, în suprafata de 392 mp, de interes public local",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_106_-_2004.pdf",
+     "sha256": "64566c92dc83b5d705de280860cd56c93f01504a947adc2323ef090e27e1ea45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-107-2004",
+   "path": "local/arad/nadlac/2004/107",
+   "short": "HCL Nădlac nr. 107/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 107/2004 privind trecerea în proprietatea privata a orasului Nadlac a terenului în suprafata de 748 mp, înscris în CF nr.3244, cu nr. top. 3241, 3242",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_107_-_2004.pdf",
+     "sha256": "351d67a34c88c9ed07db144519d6ab206828f4c5cc42ba30dab4a2a34d9896a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-108-2004",
+   "path": "local/arad/nadlac/2004/108",
+   "short": "HCL Nădlac nr. 108/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 108/2004 privind stabilirea zilelor orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_108_-_2004.pdf",
+     "sha256": "9844b97eecbbce8f4982959dd6fb5506de2dc36c7f5dbd325e490ecf11431a70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-109-2004",
+   "path": "local/arad/nadlac/2004/109",
+   "short": "HCL Nădlac nr. 109/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 109/2004 privind aprobarea ordinei de zi al sedintei extraordinare a Consiliului local Nadlac din data de 23.07.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_109_-_2004.pdf",
+     "sha256": "fa992ffe4fc3703fac70010df230f43efdac592ef3bda1d60112a6a00bb6e372"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-11-2004",
+   "path": "local/arad/nadlac/2004/11",
+   "short": "HCL Nădlac nr. 11/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 11/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-01-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_11_-_2004.pdf",
+     "sha256": "92cbfeaf25604fc995f5e96fc007823da1a4cdc368403c40d4fbc84b3c13c9e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-110-2004",
+   "path": "local/arad/nadlac/2004/110",
+   "short": "HCL Nădlac nr. 110/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 110/2004 privind încetarea mandatului viceprimarului orasului Nadlac privind aprobarea procesului verbal al sedintei ordinare a Consiliului local Nadlac din data de 16.07.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_110_-_2004.pdf",
+     "sha256": "12992923b71c9b35a66eeca9d41f4dd3b4b483fba7357b756ad308e1aeeb73b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-111-2004",
+   "path": "local/arad/nadlac/2004/111",
+   "short": "HCL Nădlac nr. 111/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 111/2004 privind aprobarea înfiintarii Clubului Polisportiv de drept public sub autoritatea Consiliului local Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_111_-_2004.pdf",
+     "sha256": "282d18c9f6239e8b38f549bfd12ee9927528ca0140ad12a1e25e67416de837d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-112-2004",
+   "path": "local/arad/nadlac/2004/112",
+   "short": "HCL Nădlac nr. 112/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 112/2004 privind aprobarea Regulamentului de Organizare si Functionare a Clubului polisportiv de drept public „Victoria” Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_112_-_2004.pdf",
+     "sha256": "76111eb8485d0af9e6306b1a01634d15a1471b70fcb456328ca08e4343e631ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-113-2004",
+   "path": "local/arad/nadlac/2004/113",
+   "short": "HCL Nădlac nr. 113/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 113/2004 privind numirea Consiliului de Administratie la Clubul Sportiv „Victoria” Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_113_-_2004.pdf",
+     "sha256": "622821f4ffe16ffc381fe55fd53a5129617ef41fb913713013400b6499aa0bef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-114-2004",
+   "path": "local/arad/nadlac/2004/114",
+   "short": "HCL Nădlac nr. 114/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 114/2004 privind darea în folosinta gratuita a unor bunuri imobile catre Clubul Sportiv „Victoria” Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_114_-_2004.pdf",
+     "sha256": "ad33bc7fabb3bf936fed301a0f696de3a83a55090bfa111b7c9ddb9582514305"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-115-2004",
+   "path": "local/arad/nadlac/2004/115",
+   "short": "HCL Nădlac nr. 115/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 115/2004 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_115_-_2004.pdf",
+     "sha256": "defec9460fbe3cfd5d8b41517d8025eb37befe4dea3bf118e4014a130c78ceb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-117-2004",
+   "path": "local/arad/nadlac/2004/117",
+   "short": "HCL Nădlac nr. 117/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 117/2004 privind aprobarea ordinei de zi al sedintei extraordinare a Consiliului local Nadlac din data de 27.07.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_117_-_2004.pdf",
+     "sha256": "25758d37686b39726d148ec4b3cda02ccc844736354882bc7c22ce27b69703b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-118-2004",
+   "path": "local/arad/nadlac/2004/118",
+   "short": "HCL Nădlac nr. 118/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 118/2004 privind aprobarea procesului verbal al sedintei extraordinare a Consiliului local Nadlac din data de 23.07.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_118_-_2004.pdf",
+     "sha256": "8d04a7f54ece15140bca70da689193e6bc8630ed3bd9afb77bab30bc2680903e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-119-2004",
+   "path": "local/arad/nadlac/2004/119",
+   "short": "HCL Nădlac nr. 119/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 119/2004 privind suportarea din bugetul local a facturilor cu scadenta în luna curenta aferente consumului de energie electrica, precum si a consumului apei geotermale, conform OUG nr. 37/2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_119_-_2004.pdf",
+     "sha256": "d735642a3e8f38e9db51f8bfe0c02001be2f1e417e08fabbf47aef7e711e3b43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-12-2004",
+   "path": "local/arad/nadlac/2004/12",
+   "short": "HCL Nădlac nr. 12/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 12/2004 privind aprobarea ordinei de zi al sedintei ordinare a Consiliului local Nadlac din data de 30.01.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_12_-_2004.pdf",
+     "sha256": "b00f39a5629fd9327ed00b343ead4a06ec13a04312c6f2979f4b7d0dbe87ccb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-120-2004",
+   "path": "local/arad/nadlac/2004/120",
+   "short": "HCL Nădlac nr. 120/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 120/2004 privind numirea comisiei de cenzori la Clubul Sportiv „Victoria” Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-07-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iulie/hot_120_-_2004.pdf",
+     "sha256": "821a2d2950e38ca654009fe7099a95d97fb754ddb2969683d1ec68e0d8788814"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-121-2004",
+   "path": "local/arad/nadlac/2004/121",
+   "short": "HCL Nădlac nr. 121/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 121/2004 privind aprobarea ordinei de zi al sedintei ordinare a Consiliului local Nadlac din data de 17.08.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-08-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/August/hot_121_-_2004.pdf",
+     "sha256": "1cb4d2e553bcebcb29228c43af0aaf68ad01511f563473f3bf6f8c322c3e839c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-122-2004",
+   "path": "local/arad/nadlac/2004/122",
+   "short": "HCL Nădlac nr. 122/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 122/2004 privind aprobarea procesului verbal al sedintei extraordinare a Consiliului local Nadlac din data de 27.07.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-08-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/August/hot_122_-_2004.pdf",
+     "sha256": "cfd17337456401bd37776bee8e98bfdfbde5ae71339ef009054c7c6eeb633c3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-123-2004",
+   "path": "local/arad/nadlac/2004/123",
+   "short": "HCL Nădlac nr. 123/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 123/2004 cu privire la aprobarea metodologiei si criteriilor de repartizare si închiriere a locuintelor sociale",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-08-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/August/hot_123_-_2004.pdf",
+     "sha256": "8b10999f9c0cf0d2f3e783ac01dcca7163c9270e8be8cbd75a62cd1e9b5d4224"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-124-2004",
    "path": "local/arad/nadlac/2004/124",
    "short": "HCL Nădlac nr. 124/2004",
@@ -14,6 +419,51 @@
      "units": 3,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/August/hot_124_-_2004.pdf",
      "sha256": "d58b8b93f80cd68dc01799f0978f2cea22942b781b1131e0f7e2ff16dff556fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-125-2004",
+   "path": "local/arad/nadlac/2004/125",
+   "short": "HCL Nădlac nr. 125/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 125/2004 privind trecerea în proprietatea privata a orasului Nadlac a terenului în suprafata de 9796 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-08-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/August/hot_125_-_2004.pdf",
+     "sha256": "33d7c3a4ec9cdc60003c56a90bd64976f5611529f717eca27e8d1007d619209a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-126-2004",
+   "path": "local/arad/nadlac/2004/126",
+   "short": "HCL Nădlac nr. 126/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 126/2004 privind aprobarea vânzarii prin licitatie publica a parcelelor cu nr. top. 3241, 3242, evidentiate în CF nr. 3244, în suprafata totala de 748 mp, situate în orasul Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-08-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/August/hot_126_-_2004.pdf",
+     "sha256": "99b6005997091fbf1565948f5512e2a6864660b178a8d8c1d795b531103f9077"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-127-2004",
+   "path": "local/arad/nadlac/2004/127",
+   "short": "HCL Nădlac nr. 127/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 127/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-08-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/August/hot_127_-_2004.pdf",
+     "sha256": "50eddf390bb68e510132db1d44489a9c9afa6dfc30e93d819631d3e84de27446"
     }
    ]
   },
@@ -33,6 +483,201 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-129-2004",
+   "path": "local/arad/nadlac/2004/129",
+   "short": "HCL Nădlac nr. 129/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 129/2004 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-08-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/August/hot_129_-_2004.pdf",
+     "sha256": "1f9738edec8f7cc79a8251732cf54ffdc3b100bb0d3a282693f464641f2fa6f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-13-2004",
+   "path": "local/arad/nadlac/2004/13",
+   "short": "HCL Nădlac nr. 13/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 13/2004 privind aprobarea procesului verbal al sedintei extraordinare al Consiliului local Nadlac din data de 08.01.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_13_-_2004.pdf",
+     "sha256": "0e9c237842a37b88844bd029e059db984a94574a70e69b96f6fae13319bd444a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-131-2004",
+   "path": "local/arad/nadlac/2004/131",
+   "short": "HCL Nădlac nr. 131/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 131/2004 privind aprobarea ordinei de zi al sedintei extraordinare a Consiliului local Nadlac din data de 08.09.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_131_-_2004.pdf",
+     "sha256": "e5db1e7b9201cf339f6d6a69ca9fbb5344af15444ea5f8d2b73e591191939dc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-132-2004",
+   "path": "local/arad/nadlac/2004/132",
+   "short": "HCL Nădlac nr. 132/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 132/2004 privind aprobarea procesului verbal al sedintei ordinare a Consiliului local Nadlac din data de 17.08.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_132_-_2004.pdf",
+     "sha256": "781e8bf4fe72fa84958d3d4684ebd07080dd7407e859edab7899f99ef8e7a29b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-133-2004",
+   "path": "local/arad/nadlac/2004/133",
+   "short": "HCL Nădlac nr. 133/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 133/2004 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_133_-_2004.pdf",
+     "sha256": "66e5318ac67c94b848993c478bc433a9bbe46bf60d333f59164fa988c0a6b762"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-134-2004",
+   "path": "local/arad/nadlac/2004/134",
+   "short": "HCL Nădlac nr. 134/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 134/2004 privind emiterea acordului de principiu în vederea depunerii documentatiei pentru achizitionarea unui autoturism marca Dacia Logan",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_134_-_2004.pdf",
+     "sha256": "15176bfb2a8a9b5928ed33580de3915d9e3ce359b1518e446087977729b5b54c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-135-2004",
+   "path": "local/arad/nadlac/2004/135",
+   "short": "HCL Nădlac nr. 135/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 135/2004 privind emiterea acordului de principiu pentru documentatia privind bugetul local detaliat la veniturile pe capitole si subcapitole si la cheltuieli pe capitole, titluri, articole de cheltuieli si subcapitole pe anul 2005 si estimarile pe anii 2006-2008",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_135_-_2004.pdf",
+     "sha256": "9c7241b054358edddf1c1a6bdfe6aafc73e4ba2a603ba0a35674c10aed4c4819"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-136-2004",
+   "path": "local/arad/nadlac/2004/136",
+   "short": "HCL Nădlac nr. 136/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 136/2004 privind alegerea presedintelui de sedinta",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_136_-_2004.pdf",
+     "sha256": "99280831faf335b22102bdd8bc9f84cea8132e3e54678cafc463ef889cd2c351"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-137-2004",
+   "path": "local/arad/nadlac/2004/137",
+   "short": "HCL Nădlac nr. 137/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 137/2004 privind aprobarea ordinei de zi al sedintei ordinare a Consiliului local Nadlac din data de 30.09.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_137_-_2004.pdf",
+     "sha256": "5bf6a853593d189d8749845edbd15ff77e5331cde9a57c9062ecd57805d22295"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-138-2004",
+   "path": "local/arad/nadlac/2004/138",
+   "short": "HCL Nădlac nr. 138/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 138/2004 privind aprobarea procesului verbal al sedintei extraordinare al Consiliului local Nadlac din data de 08.09.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_138_-_2004.pdf",
+     "sha256": "8facaf0250e490a2fed14d723c150ac5c8c483565bc9dabe3627b3b2246526f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-14-2004",
+   "path": "local/arad/nadlac/2004/14",
+   "short": "HCL Nădlac nr. 14/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 14/2004 privind aprobarea bugetului de venituri si cheltuieli pe anul 2004 al S.C.APOTERM NADLAC S.A",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_14_-_2004.pdf",
+     "sha256": "eb07a49a548976aa7822ea2240ee60ee993db55fa46631eb36142c309f591809"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-140-2004",
+   "path": "local/arad/nadlac/2004/140",
+   "short": "HCL Nădlac nr. 140/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 140/2004 privind aprobarea preluarii de la SC Apoterm Nadlac SA a serviciului apa-canal",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_140_-_2004.pdf",
+     "sha256": "e8d9250a5a4ee336fe2089a45b9c64f5bf223f534b4865f3d6415f2d6b453410"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-141-2004",
+   "path": "local/arad/nadlac/2004/141",
+   "short": "HCL Nădlac nr. 141/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 141/2004 privind aprobarea sustinerii cheltuielilor non eligibile si introducerea acestora în bugetul Consiliului local Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_141_-_2004.pdf",
+     "sha256": "ad3e5dcc474ca8ab44ffb463f147575763a1a68e0484cbb37d6b9d9adc1d24d3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-142-2004",
    "path": "local/arad/nadlac/2004/142",
    "short": "HCL Nădlac nr. 142/2004",
@@ -44,6 +689,171 @@
      "units": 4,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_142_-_2004.pdf",
      "sha256": "fb35860b8b3c996bc024f54c50f0d5ce8a2ba39ad944c022173f24de96269b27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-143-2004",
+   "path": "local/arad/nadlac/2004/143",
+   "short": "HCL Nădlac nr. 143/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 143/2004 privind împuternicirea Asociatiei Alicans Arad în vederea semnarii contractului de concesionare cu Operatorul Regional RAAC Arad",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_143_-_2004.pdf",
+     "sha256": "1f6407a7dbc4e4352addb013fdb0aaf06681b2e1c43ffd96d41b6bd848ca2e07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-144-2004",
+   "path": "local/arad/nadlac/2004/144",
+   "short": "HCL Nădlac nr. 144/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 144/2004 privind aprobarea încredintarii serviciului apa-canal catre RAAC Arad",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_144_-_2004.pdf",
+     "sha256": "a321e00795fa4535828f9d87b87801e3c579eb9a53e90a1ae0449032fa6900ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-146-2004",
+   "path": "local/arad/nadlac/2004/146",
+   "short": "HCL Nădlac nr. 146/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 146/2004 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_146_-_2004.pdf",
+     "sha256": "e0cb87b19db7e0acb79f5996c5356254e806cbf0a66171044969ad247cc9d0df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-148-2004",
+   "path": "local/arad/nadlac/2004/148",
+   "short": "HCL Nădlac nr. 148/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 148/2004 privind vânzarea prin licitatie publica a parcelelor cu nr. top. 3902/1/2, 3902/2/2, 3692/1/1/2, 3693/1/2, 3693/2/2, 3693/3/2, 3694/4/2, evidentiate în CF nr. 9688, în suprafata totala de 5005 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_148_-_2004.pdf",
+     "sha256": "14d198a76d47d35a7f8cd12ef1ee4d21bcc97b6d8f1d808794c2381db7f12e81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-149-2004",
+   "path": "local/arad/nadlac/2004/149",
+   "short": "HCL Nădlac nr. 149/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 149/2004 privind stabilirea pretului de vânzare a terenului în suprafata totala de 4.350 mp, înscris în CF nr. 9559, nr.top.12543/3, 12543/6, 12544-12546/1",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_149_-_2004.pdf",
+     "sha256": "67b89402e138168214fb43e86bf012c6ac036642c824abd4bcb334d65acbff56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-150-2004",
+   "path": "local/arad/nadlac/2004/150",
+   "short": "HCL Nădlac nr. 150/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 150/2004 privind aprobarea vânzarii prin licitatie publica a parcelelor cu nr. top. 12587/1/2, 12584/2, 12581/2, evidentiate în CF nr.9689, în suprafata totala de 9796 mp, situate în orasul Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_150_-_2004.pdf",
+     "sha256": "bf8ceedee8d24419cd4571b9a847d9e27f4fdc4b337390ffdc925c351dbdd29a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-151-2004",
+   "path": "local/arad/nadlac/2004/151",
+   "short": "HCL Nădlac nr. 151/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 151/2004 privind parcelarea terenului situat în orasul Nadlac, înscris în CF nr. 9478, nr. top. 3692/1/1/1, în suprafata de 29.852 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_151_-_2004.pdf",
+     "sha256": "9fc06b056fd22d38ec5604345cfc6dedb75b71b7b04bd56ff68fd4807c93ee39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-152-2004",
+   "path": "local/arad/nadlac/2004/152",
+   "short": "HCL Nădlac nr. 152/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 152/2004 privind parcelarea terenului situat în orasul Nadlac, înscris în CF nr. 9350, nr. top. 13691/134/1/1/3/2, în suprafata de 7.020 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_152_-_2004.pdf",
+     "sha256": "d5eaab58cec8f2738012e8f4ae93a545ba9cd7d6eb918d56273d8d2b34577b8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-153-2004",
+   "path": "local/arad/nadlac/2004/153",
+   "short": "HCL Nădlac nr. 153/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 153/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_153_-_2004.pdf",
+     "sha256": "710973e0d224439e18ed4ca88fd47dc233ca7bbb6dec482f963dfff2260ceac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-154-2004",
+   "path": "local/arad/nadlac/2004/154",
+   "short": "HCL Nădlac nr. 154/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 154/2004 privind împuternicirea persoanelor care vor reprezenta Consiliul local în adunarile generale, ordinare, extraordinare ale asociatilor, precum si în relatiile cu tertii, a S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Septembrie/hot_154_-_2004.pdf",
+     "sha256": "7a70200a192df4e7075c879af4f78bfebca82390490c739d446e2fb3c9ad030f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-156-2004",
+   "path": "local/arad/nadlac/2004/156",
+   "short": "HCL Nădlac nr. 156/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 156/2004 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 30.09.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Octombrie/hot_156_-_2004.pdf",
+     "sha256": "f0dbcb9ffbb996a5798840bc342eb0f79dbb00a2739ba0b3d0f9c31e2f2ed0dd"
     }
    ]
   },
@@ -63,6 +873,291 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-158-2004",
+   "path": "local/arad/nadlac/2004/158",
+   "short": "HCL Nădlac nr. 158/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 158/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Octombrie/hot_158_-_2004.pdf",
+     "sha256": "ae5ae4512f60275469bdbf6ea85a064ff0a6e2ca641e99e0938eb994ab2672d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-159-2004",
+   "path": "local/arad/nadlac/2004/159",
+   "short": "HCL Nădlac nr. 159/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 159/2004 privind emiterea acordului referitor la asigurarea personalului auxiliar la Centrul de Permanenta Nadlac din cadrul Serviciului Public Edilitar Gospodaresc aflat în subordinea Consiliului local Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Octombrie/hot_159_-_2004.pdf",
+     "sha256": "459531542b4f8ea0944cc1818a40be35001f7de7e2b34e966eb76f22eb2f928e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-16-2004",
+   "path": "local/arad/nadlac/2004/16",
+   "short": "HCL Nădlac nr. 16/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 16/2004 privind modificarea Hotarârii Consiliului local nr.8/08.01.2004 privind aprobarea organigramei, a statului de functii, numarului de personal din cadrul aparatului propriu, ale institutiilor si serviciilor publice din subordinea Consiliului local Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_16_-_2004.pdf",
+     "sha256": "97bd7a5a42af0de4c917ce8c4f7b747b03b5b561e8d55de0b26899a0bb08dad3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-160-2004",
+   "path": "local/arad/nadlac/2004/160",
+   "short": "HCL Nădlac nr. 160/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 160/2004 privind aprobarea vânzarii parcelelor cu nr. top. 13691/134/1/1/2/14, 13691/134/1/1/2/20, evidentiate în CF nr. 9300-Nadlac, în suprafata totala de 3014 mp, situate în orasul Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Octombrie/hot_160_-_2004.pdf",
+     "sha256": "edb0b2d2b59db98e812eeb9e68a3882b387f42b1900225fc6df53e6c864f1bae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-161-2004",
+   "path": "local/arad/nadlac/2004/161",
+   "short": "HCL Nădlac nr. 161/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 161/2004 privind aprobarea strategiei de dezvoltare a sistemului centralizat de alimentare cu apa potabila, etape de perspectiva si solicitarile de dezvoltare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Octombrie/hot_161_-_2004.pdf",
+     "sha256": "ab70e915d41cbf7a17e12b19395062dfaffa6445ca2579d43dfd3e49144bbc05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-162-2004",
+   "path": "local/arad/nadlac/2004/162",
+   "short": "HCL Nădlac nr. 162/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 162/2004 privind modificarea anexei nr. 4 din Hotarârea Consiliului local nr. 74/29.11.2002 privind adoptarea Statutului orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Octombrie/hot_162_-_2004.pdf",
+     "sha256": "c8318acec1063f70302b3bfb2a95e550a2a8d1e9db3a18079f2fa79bd6f1ec76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-163-2004",
+   "path": "local/arad/nadlac/2004/163",
+   "short": "HCL Nădlac nr. 163/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 163/2004 privind identificarea imobilelor din raza administrativa a localitatii Nadlac, care pot fi acordate în compensare pentru imobilele notificate ce nu pot fi restituite în natura",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Octombrie/hot_163_-_2004.pdf",
+     "sha256": "8355a7279348692599c3692f3270caad751469540813aa3b90e1977d6da6c46a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-164-2004",
+   "path": "local/arad/nadlac/2004/164",
+   "short": "HCL Nădlac nr. 164/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 164/2004 privind aprobarea modificarii procentului de calcul a cantitatii de canal din consumul de apa rece",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Octombrie/hot_164_-_2004.pdf",
+     "sha256": "9915934952b734c38b292cc3c377eec0a535207920b34b08a6f263526683c3fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-165-2004",
+   "path": "local/arad/nadlac/2004/165",
+   "short": "HCL Nădlac nr. 165/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 165/2004 privind reprezentarea intereselor capitalului orasului Nadlac la agentii economici la care Consiliul Local Nadlac este actionar",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Octombrie/hot_165_-_2004.pdf",
+     "sha256": "2c2f440ebdbefa1d672cc642cf071b098bb6a9ba0cc8872a504b1d098494fad0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-166-2004",
+   "path": "local/arad/nadlac/2004/166",
+   "short": "HCL Nădlac nr. 166/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 166/2004 privind aprobarea contractului-cadru pentru reprezentantii Consiliului Local mandatati sa reprezinte interesele capitalului orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Octombrie/hot_166_-_2004.pdf",
+     "sha256": "173b80a14d3e307a91a21d4258fbce0ccefb522ffd98e3479692c69899ca880a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-168-2004",
+   "path": "local/arad/nadlac/2004/168",
+   "short": "HCL Nădlac nr. 168/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 168/2004 privind modificarea anexei nr. 2 din Hotarârea Consiliului local nr. 133/08.09.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Octombrie/hot_168_-_2004.pdf",
+     "sha256": "cd9f681194c5320bfea5f02c13f23fbce845de8c366accd716fd4b523e0e0e4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-169-2004",
+   "path": "local/arad/nadlac/2004/169",
+   "short": "HCL Nădlac nr. 169/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 169/2004 privind desemnarea primarului orasului Nadlac ca reprezentant legal în Asociatia Alicans Arad",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Octombrie/hot_169_-_2004.pdf",
+     "sha256": "ab76ec513bde17099f6055011763ab412a3265c3c8a22e436738aeccc404229d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-17-2004",
+   "path": "local/arad/nadlac/2004/17",
+   "short": "HCL Nădlac nr. 17/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 17/2004 privind vânzarea terenului în suprafata de 846 mp, situat în orasul Nadlac, str. Dorobanti, nr.44, înscris în CF nr.9396, nr.top.13691/112/2 si CF nr.9555, nr.top.13691/112/1",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_17_-_2004.pdf",
+     "sha256": "c86797f2530623eac4767fb0bf48442f79b4be5ba064f1005b567fcde8cb895d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-170-2004",
+   "path": "local/arad/nadlac/2004/170",
+   "short": "HCL Nădlac nr. 170/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 170/2004 privind vânzarea spatiilor comerciale reglementate de Legea nr. 550/2002",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Octombrie/hot_170_-_2004.pdf",
+     "sha256": "40a01899490009c7e2a5bd185d63694c5abc572148a137ffdccef0c0bdef621b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-171-2004",
+   "path": "local/arad/nadlac/2004/171",
+   "short": "HCL Nădlac nr. 171/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 171/2004 privind aprobarea amplasamentului salii de sport",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-10-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Octombrie/hot_171_-_2004.pdf",
+     "sha256": "a1655f3c91f01f3888f1107850989b912b7228bf636d613aead07732b1950e90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-172-2004",
+   "path": "local/arad/nadlac/2004/172",
+   "short": "HCL Nădlac nr. 172/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 172/2004 privind aprobarea ordinei de zi al sedintei ordinare a Consiliului local Nadlac din data de 16.11.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-11-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Noiembrie/hot_172_-_2004.pdf",
+     "sha256": "7969a71f48fe97076f766cc65ed6a70558a97c848b00b9aa45ce97cc554e0ce3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-173-2004",
+   "path": "local/arad/nadlac/2004/173",
+   "short": "HCL Nădlac nr. 173/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 173/2004 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 26.10.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-11-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Noiembrie/hot_173_-_2004.pdf",
+     "sha256": "8f7863bbd176fd06c4dc093e1bdd97dc351b9491b911b6d344579cc4f5418001"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-174-2004",
+   "path": "local/arad/nadlac/2004/174",
+   "short": "HCL Nădlac nr. 174/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 174/2004 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-11-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Noiembrie/hot_174_-_2004.pdf",
+     "sha256": "cc327e2e3a44c3c2cd26d14aaf06aa7bfd1bf9ed6792d04b46939c87e872d62c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-175-2004",
+   "path": "local/arad/nadlac/2004/175",
+   "short": "HCL Nădlac nr. 175/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 175/2004 privind obligatiile si raspunderile care revin institutiilor publice, agentilor economici si cetatenilor pentru buna gospodarire a localitatii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-11-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Noiembrie/hot_175_-_2004.pdf",
+     "sha256": "6946efffe75efe7893d47a03b7303960717ab598fa5a63beddd092a58cd5468d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-176-2004",
    "path": "local/arad/nadlac/2004/176",
    "short": "HCL Nădlac nr. 176/2004",
@@ -74,6 +1169,276 @@
      "units": 4,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Noiembrie/hot_176_-_2004.pdf",
      "sha256": "6646f4cbbc6883d0596123056eb736c44fb4168b34ae5cb21a3a7a4902985281"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-177-2004",
+   "path": "local/arad/nadlac/2004/177",
+   "short": "HCL Nădlac nr. 177/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 177/2004 privind aprobarea trecerii în proprietatea privata a orasului Nadlac a parcelelor cu nr. top. 191/1, 190/1, evidentiate în CF nr. 767- Nadlac, în suprafata totala de 992 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-11-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Noiembrie/hot_177_-_2004.pdf",
+     "sha256": "23aa38eb12543d12f7a91d6713777d54a31a02f2918ef7cfffdd4b579eeb4d50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-178-2004",
+   "path": "local/arad/nadlac/2004/178",
+   "short": "HCL Nădlac nr. 178/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 178/2004 privind aprobarea aderarii orasului Nadlac la Asociatia Oraselor din România (AOR) si plata cotizatiei catre AOR",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-11-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Noiembrie/hot_178_-_2004.pdf",
+     "sha256": "f46a52a882872cb63b977116714e7cd54f661fb426e40ad0222163abea7ec4be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-179-2004",
+   "path": "local/arad/nadlac/2004/179",
+   "short": "HCL Nădlac nr. 179/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 179/2004 privind aprobarea ordinei de zi al sedintei extraordinare a Consiliului local Nadlac din data de 30.11.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Noiembrie/hot_179_-_2004.pdf",
+     "sha256": "545a2171dc1fdd018e2e04006ac59bd277c11589b5ead27983b6fe2da418fc02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-180-2004",
+   "path": "local/arad/nadlac/2004/180",
+   "short": "HCL Nădlac nr. 180/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 180/2004 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 16.11.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Noiembrie/hot_180_-_2004.pdf",
+     "sha256": "dec7205a3cc43819b496d221137b2ecf9e4c10eeb02d88bfdbd7ac91c1dffe4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-181-2004",
+   "path": "local/arad/nadlac/2004/181",
+   "short": "HCL Nădlac nr. 181/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 181/2004 privind stabilirea indemnizatiei de sedinta care se acorda membrilor Consiliului Local Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Noiembrie/hot_181_-_2004.pdf",
+     "sha256": "5a251396cb9790edc9360da0207858d893a7f5a93adc134a99ec4ed8dfdfccf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-183-2004",
+   "path": "local/arad/nadlac/2004/183",
+   "short": "HCL Nădlac nr. 183/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 183/2004 privind aprobarea procesului verbal al sedintei extraordinare al Consiliului local Nadlac din data de 30.11.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_183_-_2004.pdf",
+     "sha256": "cba9c29fe4091fd73a5da6a3fa48aab2fd2869ba2d6fa4060bc333d0984c1947"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-184-2004",
+   "path": "local/arad/nadlac/2004/184",
+   "short": "HCL Nădlac nr. 184/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 184/2004 privind aprobarea vânzarii prin licitatie publica deschisa a unor bunuri care nu mai sunt necesare institutiei",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_184_-_2004.pdf",
+     "sha256": "6a4939d992ee5b68807a5340a6a3b66f6b51a536af456d388b22625a6be1e4fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-185-2004",
+   "path": "local/arad/nadlac/2004/185",
+   "short": "HCL Nădlac nr. 185/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 185/2004 privind completarea Hotarârii Consiliului Local al orasului Nadlac nr. 123/25.09.2001",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_185_-_2004.pdf",
+     "sha256": "7ae7cda63ec91edb15430ef1c2c522a782640e02d1b4d084a26c5fbcbb20ca62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-186-2004",
+   "path": "local/arad/nadlac/2004/186",
+   "short": "HCL Nădlac nr. 186/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 186/2004 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_186_-_2004.pdf",
+     "sha256": "c25ff1cb3c5fb43790d670af2e77aa798aa77e5a5e7bc6f05b27563c68568cca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-187-2004",
+   "path": "local/arad/nadlac/2004/187",
+   "short": "HCL Nădlac nr. 187/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 187/2004 privind aprobarea ordinei de zi al sedintei extraordinare a Consiliului local Nadlac din data de 23.12.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_187_-_2004.pdf",
+     "sha256": "0803a9d507f98683613a79f1ea748fb7d1ceadc2a2a2528052918bf13a687d89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-188-2004",
+   "path": "local/arad/nadlac/2004/188",
+   "short": "HCL Nădlac nr. 188/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 188/2004 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 14.12.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_188_-_2004.pdf",
+     "sha256": "2b9e9ba6724b585adfab5c70fbef3a548e03ba092c58df5b5c44ed41bbd54ea1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-189-2004",
+   "path": "local/arad/nadlac/2004/189",
+   "short": "HCL Nădlac nr. 189/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 189/2004 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_189_-_2004.pdf",
+     "sha256": "9bb0b02255534abe5ed1937df778df830a7bd024e8f5ba788c555599a7908393"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-19-2004",
+   "path": "local/arad/nadlac/2004/19",
+   "short": "HCL Nădlac nr. 19/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 19/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_19_-_2004.pdf",
+     "sha256": "c21bbb6e88e2e608b7083da9be4e0f94e87eb02c9a238047ef74f707c29e2b95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-190-2004",
+   "path": "local/arad/nadlac/2004/190",
+   "short": "HCL Nădlac nr. 190/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 190/2004 privind „Conditiile de refacere a sistemului rutier si pietonal de pe teritoriul orasului Nadlac”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_190_-_2004.pdf",
+     "sha256": "2815ed3481a50ea262eb439c54a11a50cebae6aaa9e5d7eb7737aa67fd1cebe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-191-2004",
+   "path": "local/arad/nadlac/2004/191",
+   "short": "HCL Nădlac nr. 191/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 191/2004 privind desemnarea primarului orasului Nadlac pentru evaluarea performantelor profesionale ale secretarului",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_191_-_2004.pdf",
+     "sha256": "9162af079f3937ac0532d662954cd4638861bd5f53d7771e2ff14049c0086fce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-192-2004",
+   "path": "local/arad/nadlac/2004/192",
+   "short": "HCL Nădlac nr. 192/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 192/2004 privind stabilirea destinatiei masei lemnoase rezultate în urma exploatarii arborilor uscati din Parcul public al orasului",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_192_-_2004.pdf",
+     "sha256": "d7096e9c661af0d9a60a7bf3ac64d9badd1b3fcc1dfc839dbe46f155149e84b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-193-2004",
+   "path": "local/arad/nadlac/2004/193",
+   "short": "HCL Nădlac nr. 193/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 193/2004 privind aprobarea ordinei de zi al sedintei extraordinare a Consiliului local Nadlac din data de 30.12.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_193_-_2004.pdf",
+     "sha256": "4cb2541f3cbb027c82888367f08ba08df7e34c3a0d68dc764f6cbbb2f10f133b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-194-2004",
+   "path": "local/arad/nadlac/2004/194",
+   "short": "HCL Nădlac nr. 194/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 194/2004 privind aprobarea procesului verbal al sedintei extraordinare al Consiliului local Nadlac din data de 23.12.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_194_-_2004.pdf",
+     "sha256": "585359eb626537d69301aae87d76e15e1e366485e36b7da23da4e37b7aaae023"
     }
    ]
   },
@@ -93,6 +1458,216 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-196-2004",
+   "path": "local/arad/nadlac/2004/196",
+   "short": "HCL Nădlac nr. 196/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 196/2004 privind preluarea si înfiintarea Centrului de zi de îngrijire a copiilor minori în subordinea Consiliului local Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_196_-_2004.pdf",
+     "sha256": "30974e0077a3510e0a337357b3e5e22bc04575edade9d4b84769371265e5eb36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-197-2004",
+   "path": "local/arad/nadlac/2004/197",
+   "short": "HCL Nădlac nr. 197/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 197/2004 privind aprobarea organigramei, a statului de functii, numarului de personal din cadrul aparatului propriu, ale institutiilor si serviciilor publice din subordinea Consiliului local Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_197_-_2004.pdf",
+     "sha256": "6bbce99c576a60d86432d9d87a4211daa319d54a246410db96692b721e13a584"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-198-2004",
+   "path": "local/arad/nadlac/2004/198",
+   "short": "HCL Nădlac nr. 198/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 198/2004 privind organizarea si functionarea compartimentului public comunitar de evidenta a persoanelor al orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Decembrie/hot_198_-_2004.pdf",
+     "sha256": "cb6a4f09346aeb9725778d4e49bc5ab0b024a700283f4f730b2977e83ca48a68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-2-2004",
+   "path": "local/arad/nadlac/2004/2",
+   "short": "HCL Nădlac nr. 2/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 2/2004 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 17.12.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-01-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_2_-_2004.pdf",
+     "sha256": "388747d7c33ed0cce931215aa91d2ccbf28cc73a3e9eab25e48d6b1cdc033cd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-20-2004",
+   "path": "local/arad/nadlac/2004/20",
+   "short": "HCL Nădlac nr. 20/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 20/2004 privind emiterea acordului pentru subtraversarea drumului comunal Nadlac- Frontiera cu conducta de transport gaze naturale",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_20_-_2004.pdf",
+     "sha256": "41928c0ec451ecf8dd68f9c9a43e05c55cc7f1805ffc4086d250110e35a32e57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-21-2004",
+   "path": "local/arad/nadlac/2004/21",
+   "short": "HCL Nădlac nr. 21/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 21/2004 privind darea în folosinta gratuita a doua birouri, a unei magazii si a unei cabine din imobilul înscris în CF nr.8661- Nadlac, cu nr. topo. 2.478/2/1 Postului de jandarmi Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_21_-_2004.pdf",
+     "sha256": "22f3ecd7a2ad3e4148c36c3bdba28b9d4e9b565f0662ff3ae296d2cd633df197"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-22-2004",
+   "path": "local/arad/nadlac/2004/22",
+   "short": "HCL Nădlac nr. 22/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 22/2004 privind aprobarea ordinei de zi al sedintei extraordinare a Consiliului local Nadlac din data de 17.02.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_22_-_2004.pdf",
+     "sha256": "e02ba075c55aac37c94156ac020e8ee33386ebc6a62ac8ad6f1b19be8e2a873f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-23-2004",
+   "path": "local/arad/nadlac/2004/23",
+   "short": "HCL Nădlac nr. 23/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 23/2004 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 30.01.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_23_-_2004.pdf",
+     "sha256": "634d3bcd0d29d588adf3a23c72e58a3cddea135852be6e9c7486d50cadc0152e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-24-2004",
+   "path": "local/arad/nadlac/2004/24",
+   "short": "HCL Nădlac nr. 24/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 24/2004 privind modificarea Hotarârii Consiliului local nr.6/08.01.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_24_-_2004.pdf",
+     "sha256": "b949008b82bd11a1538b78bfc7124db5912c82207bee2f0d8b1c75a8a1cfe72d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-25-2004",
+   "path": "local/arad/nadlac/2004/25",
+   "short": "HCL Nădlac nr. 25/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 25/2004 privind aprobarea deplasarii si a cheltuielilor aferente pentru reprezentantii Primariei orasului Nadlac si a Consiliului local Nadlac cu ocazia vizitei Guvernamentale în Slovacia",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_25_-_2004.pdf",
+     "sha256": "47aef35fbd4e321faa5b0b1d36fc6dd92d8105584d6f1b9b8226e5d7ddbd567b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-26-2004",
+   "path": "local/arad/nadlac/2004/26",
+   "short": "HCL Nădlac nr. 26/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 26/2004 privind transformarea postului de consilier juridic debutant în postul de consilier juridic gradul IV din cadrul aparatului permanent al Consiliului local Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_26_-_2004.pdf",
+     "sha256": "7bb229117b04b0859d7fc2be6d278734d901b5a28f97781e40320563457b5334"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-27-2004",
+   "path": "local/arad/nadlac/2004/27",
+   "short": "HCL Nădlac nr. 27/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 27/2004 privind alegerea presedintelui de sedinta",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_27_-_2004.pdf",
+     "sha256": "2d325adb5a6320f1f8120e8b691753fda913f0cda4c7072bad8cff2464dd2696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-28-2004",
+   "path": "local/arad/nadlac/2004/28",
+   "short": "HCL Nădlac nr. 28/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 28/2004 privind aprobarea ordinei de zi al sedintei ordinare a Consiliului local Nadlac din data de 27.02.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_28_-_2004.pdf",
+     "sha256": "25b50ee420079009b5ef0328c77bbc0173552104b92aa93452f1a2635b19a6f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-29-2004",
+   "path": "local/arad/nadlac/2004/29",
+   "short": "HCL Nădlac nr. 29/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 29/2004 privind aprobarea procesului verbal al sedintei extraordinare al Consiliului local Nadlac din data de 17.02.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_29_-_2004.pdf",
+     "sha256": "9bc4dfd40767bd2b2469ac24699fc217faf33f2e04077a511266d6e583ffcb43"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-3-2004",
    "path": "local/arad/nadlac/2004/3",
    "short": "HCL Nădlac nr. 3/2004",
@@ -104,6 +1679,141 @@
      "units": 6,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_3_-_2004.pdf",
      "sha256": "1f7ab4c1db7a25a1b245e6ce4659bdba51c17f1523e6dc990b752222dcf47b9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-31-2004",
+   "path": "local/arad/nadlac/2004/31",
+   "short": "HCL Nădlac nr. 31/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 31/2004 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_31_-_2004.pdf",
+     "sha256": "7ad94b201f115fbb89fad1cb578954c94556b5ddc5b26d0538d94692959e74ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-32-2004",
+   "path": "local/arad/nadlac/2004/32",
+   "short": "HCL Nădlac nr. 32/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 32/2004 privind participarea Consiliului local Nadlac la finantarea activitatii de protectie a copilului aflat în dificultate, a celui cu handicap, precum si a persoanei majore care beneficiaza de protectie",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_32_-_2004.pdf",
+     "sha256": "0e86c91812894a157805a403a15da967107a2c91c5ef4b8e61882dd52997dae9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-33-2004",
+   "path": "local/arad/nadlac/2004/33",
+   "short": "HCL Nădlac nr. 33/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 33/2004 privind aprobarea Programului anual al achizitiilor publice",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_33_-_2004.pdf",
+     "sha256": "ee71e6e3f9782e87b5a9721f1940f933462f63c7df96333e20b96994878be2b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-34-2004",
+   "path": "local/arad/nadlac/2004/34",
+   "short": "HCL Nădlac nr. 34/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 34/2004 privind modificarea Hotarârii Consiliului Local Nadlac nr. 76/26.08.2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_34_-_2004.pdf",
+     "sha256": "3bb070b3361beebfb1332c8b324e9e1c3b5141a260c3fafbd9d510a28da58271"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-35-2004",
+   "path": "local/arad/nadlac/2004/35",
+   "short": "HCL Nădlac nr. 35/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 35/2004 privind concesionarea terenului în suprafata totala de 6753 mp, înscris în CF nr.9289, nr.top. 12278/1/1/1/2, 12308/1/2/3, 12296/2 catre S.A",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_35_-_2004.pdf",
+     "sha256": "8a7eb91ef6dc87545cd9a46cb8ab09f523777f92d9fe4f6e904ebee94a65d910"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-36-2004",
+   "path": "local/arad/nadlac/2004/36",
+   "short": "HCL Nădlac nr. 36/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 36/2004 privind abrogarea prevederilor Hotarârii Consiliului Local Nadlac nr. 17/30.01.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_36_-_2004.pdf",
+     "sha256": "e8aa7a5ac3fc5a4896423cee38c605de01ebf3d72cccec4f8d29efbc4832dd2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-37-2004",
+   "path": "local/arad/nadlac/2004/37",
+   "short": "HCL Nădlac nr. 37/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 37/2004 privind aprobarea închirierii prin licitatie publica a serei si a terenului aferent în suprafata de 700 mp, înscris în CF nr.2201- Nadlac, parcela nr. top. 13691/134/1/1/4",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-02-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Februarie/hot_37_-_2004.pdf",
+     "sha256": "747ce11456f063ba271c38588d2d4ba0692a555f4dff5cf7248cbb778440363f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-38-2004",
+   "path": "local/arad/nadlac/2004/38",
+   "short": "HCL Nădlac nr. 38/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 38/2004 privind aprobarea ordinei de zi al sedintei extraordinare a Consiliului local Nadlac din data de 12.03.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_38_-_2004.pdf",
+     "sha256": "339e100d84e4b47e48c4080a150baf4edaa1c77f03ec7ea07c8d9e9661b39112"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-39-2004",
+   "path": "local/arad/nadlac/2004/39",
+   "short": "HCL Nădlac nr. 39/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 39/2004 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 27.02.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_39_-_2004.pdf",
+     "sha256": "52b202f3e07d81583b9fe533ed874f49f73cd6cb0baf44441d28a15b75633866"
     }
    ]
   },
@@ -123,6 +1833,156 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-40-2004",
+   "path": "local/arad/nadlac/2004/40",
+   "short": "HCL Nădlac nr. 40/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 40/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_40_-_2004.pdf",
+     "sha256": "d156d82f4c3e35cf7fe9cb8b54f1a71abb41bf8ba6bf24620d314e993e8a1dbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-41-2004",
+   "path": "local/arad/nadlac/2004/41",
+   "short": "HCL Nădlac nr. 41/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 41/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_41_-_2004.pdf",
+     "sha256": "abf2488e57692c9a186be978f223e8328ec892afe125da6d96f353b3502b0f45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-42-2004",
+   "path": "local/arad/nadlac/2004/42",
+   "short": "HCL Nădlac nr. 42/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 42/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_42_-_2004.pdf",
+     "sha256": "fdf46ed5914d7a3ba7e172e7c21c5b259de13780d4e2e8f8ed44b97de294149d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-43-2004",
+   "path": "local/arad/nadlac/2004/43",
+   "short": "HCL Nădlac nr. 43/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 43/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_43_-_2004.pdf",
+     "sha256": "8f5787ed3b67060e2a31f58b053169850a816a78af10c6a87f58b9347e35cb1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-44-2004",
+   "path": "local/arad/nadlac/2004/44",
+   "short": "HCL Nădlac nr. 44/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 44/2004 privind aprobarea caietului de sarcini si a instructiunilor privind concesionarea prin licitatie publica a întretinerii si exploatarii strandului orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_44_-_2004.pdf",
+     "sha256": "3ea6dbd333dd74596c20957b26d86e424c01a034b3ff119edbc0014db1fde2e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-45-2004",
+   "path": "local/arad/nadlac/2004/45",
+   "short": "HCL Nădlac nr. 45/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 45/2004 privind desfiintarea contractului de concesiune nr. 2185/19.07.1999 încheiat cu S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-03-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_45_-_2004.pdf",
+     "sha256": "0d5f869fc79bdb7dc2bb82302e9eab50b005266ad531c68a1266f7e8d15be333"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-46-2004",
+   "path": "local/arad/nadlac/2004/46",
+   "short": "HCL Nădlac nr. 46/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 46/2004 privind aprobarea ordinei de zi al sedintei ordinare a Consiliului local Nadlac din data de 30.03.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_46_-_2004.pdf",
+     "sha256": "b7a07274dcea0aed672b87075c654f620005388db210630425dbb1207413592b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-47-2004",
+   "path": "local/arad/nadlac/2004/47",
+   "short": "HCL Nădlac nr. 47/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 47/2004 privind aprobarea procesului verbal al sedintei extraordinare al Consiliului local Nadlac din data de 12.03.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_47_-_2004.pdf",
+     "sha256": "bc0ce15186451a6b1ecf562a4fbf24284271a313162225462e29bca94e009693"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-48-2004",
+   "path": "local/arad/nadlac/2004/48",
+   "short": "HCL Nădlac nr. 48/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 48/2004 privind încheierea si aprobarea exercitiului bugetar pe anul 2003",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_48_-_2004.pdf",
+     "sha256": "585500116480b0bc135c9da00e2a511396c86c9e55dab03a2b9124891c4734a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-49-2004",
+   "path": "local/arad/nadlac/2004/49",
+   "short": "HCL Nădlac nr. 49/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 49/2004 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe trimestrul I – 2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_49_-_2004.pdf",
+     "sha256": "3ad9083c0383f3600d785c63f729add2bcafd2d5383394ecc098ba24067af2d2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-5-2004",
    "path": "local/arad/nadlac/2004/5",
    "short": "HCL Nădlac nr. 5/2004",
@@ -138,6 +1998,381 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-51-2004",
+   "path": "local/arad/nadlac/2004/51",
+   "short": "HCL Nădlac nr. 51/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 51/2004 privind închirierea prin licitatie publica a parcelelor cu nr. top. 12345-12350/7/1, 12345-12350/7/2, 12345-12350/7/3, 12345-12350/10/1, evidentiate în CF nr.8743, în suprafata totala de 1954 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_51_-_2004.pdf",
+     "sha256": "c655fd79926d04a5b54c9bf85d6f267ed4c36e290771cc0f4aa5ec790e0688f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-52-2004",
+   "path": "local/arad/nadlac/2004/52",
+   "short": "HCL Nădlac nr. 52/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 52/2004 privind închirierea prin licitatie publica a parcelei cu nr. top. 12.308/1/2/2, evidentiata în CF nr. 9290, în suprafata de 9.527 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_52_-_2004.pdf",
+     "sha256": "1d26b98f80b875c713e739c98563e425902c21766628381ae3939fa047451b87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-53-2004",
+   "path": "local/arad/nadlac/2004/53",
+   "short": "HCL Nădlac nr. 53/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 53/2004 privind închirierea prin licitatie publica a parcelelor cu nr.top.3902/1/2, 3902/2/2, 3692/1/1/2, 3693/1/2, 3693/2/2, 3693/3/2, 3694/4/2, evidentiate în CF nr. 9688, în suprafata totala de 5005 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_53_-_2004.pdf",
+     "sha256": "77b162a5bf9c4c89816e063098f86c9312dda51d2c109ec9546dcc1b3f986578"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-54-2004",
+   "path": "local/arad/nadlac/2004/54",
+   "short": "HCL Nădlac nr. 54/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 54/2004 privind aprobarea Programului activitatilor edilitar gospodaresti pentru lunile martie mai anul 2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_54_-_2004.pdf",
+     "sha256": "1f72002b948e92ab6e0ac32d9c1508e13a5913f5e7778a0d606051c72eced86d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-55-2004",
+   "path": "local/arad/nadlac/2004/55",
+   "short": "HCL Nădlac nr. 55/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 55/2004 privind aprobarea contractului de concesionare cadru în vederea întretinerii si exploatarii strandului orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_55_-_2004.pdf",
+     "sha256": "01207b6f22c8608f11b936c6f3beb237ea4d64eb280a008b18093e43bbf7eb3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-57-2004",
+   "path": "local/arad/nadlac/2004/57",
+   "short": "HCL Nădlac nr. 57/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 57/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Martie/hot_57_-_2004.pdf",
+     "sha256": "a21f7d3675a4a112f36c9da6a25a1201eb15344b5c4f69e4434cbe0dc81b0d5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-6-2004",
+   "path": "local/arad/nadlac/2004/6",
+   "short": "HCL Nădlac nr. 6/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 6/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-01-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_6_-_2004.pdf",
+     "sha256": "9d82247f397ed9cb467b89c05f8dd6d430a1c00c817b0f2863806c5209b3f5ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-60-2004",
+   "path": "local/arad/nadlac/2004/60",
+   "short": "HCL Nădlac nr. 60/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 60/2004 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 30.03.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Aprilie/hot_60_-_2004.pdf",
+     "sha256": "ef7ed70daa70693c849e97e5f3ebd20fc445460a83fe1b4649a82c8ea8537723"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-61-2004",
+   "path": "local/arad/nadlac/2004/61",
+   "short": "HCL Nădlac nr. 61/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 61/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Aprilie/hot_61_-_2004.pdf",
+     "sha256": "f52921be73c7aafb494cf4fb1bc8aae73da2884e6a5aadcba559f657fc28a434"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-62-2004",
+   "path": "local/arad/nadlac/2004/62",
+   "short": "HCL Nădlac nr. 62/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 62/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Aprilie/hot_62_-_2004.pdf",
+     "sha256": "a7cfd62196d789d8df9c21a822de2ecadb62998a4b7d695f9281b4aa9efd745f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-63-2004",
+   "path": "local/arad/nadlac/2004/63",
+   "short": "HCL Nădlac nr. 63/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 63/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Aprilie/hot_63_-_2004.pdf",
+     "sha256": "7cfc191fb3ab64d35b5534368d24d1410214e10bf49338dc869d3d495b3f9834"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-64-2004",
+   "path": "local/arad/nadlac/2004/64",
+   "short": "HCL Nădlac nr. 64/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 64/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Aprilie/hot_64_-_2004.pdf",
+     "sha256": "7f8dd6452f5ff7f11725b0feae4ae1aab7e622fd2fa76b966e9aee6f0b9f91df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-65-2004",
+   "path": "local/arad/nadlac/2004/65",
+   "short": "HCL Nădlac nr. 65/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 65/2004 privind aprobarea vânzarii prin licitatie publica a parcelei cu nr. top.13691/112/2, evidentiata în CF nr. 9396, în suprafata de 548 mp, situata în orasul Nadlac, str. Dorobanti, nr. 44",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Aprilie/hot_65_-_2004.pdf",
+     "sha256": "c22498cbad962603abf04e361280a788408c23034cddfe5bf45d6d45961fe586"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-66-2004",
+   "path": "local/arad/nadlac/2004/66",
+   "short": "HCL Nădlac nr. 66/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 66/2004 privind stabilirea indemnizatiilor cuvenite membrilor Comisiei pentru vânzarea spatiilor comerciale si de prestari servicii, conform Legii nr. 550/2002",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Aprilie/hot_66_-_2004.pdf",
+     "sha256": "610708a19ad9cf5b9e41516cd28ccd4020a5a872c3bcefd32bbb58c6ae1590c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-67-2004",
+   "path": "local/arad/nadlac/2004/67",
+   "short": "HCL Nădlac nr. 67/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 67/2004 privind trecerea în proprietatea privata a orasului Nadlac a terenului în suprafata de 2009 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Aprilie/hot_67_-_2004.pdf",
+     "sha256": "d825e72ce15e974d8a6570f6829b37bba218ed9344490612e2abdf8cc108d711"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-68-2004",
+   "path": "local/arad/nadlac/2004/68",
+   "short": "HCL Nădlac nr. 68/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 68/2004 privind emiterea cererii nr. 4560/2004 catre Directia Regionala de Drumuri si Poduri- Sectia Drumuri Nationale, Inspectoratului Judetean al Politiei de Frontiera Arad si Inspectoratul Judetean de Politie Arad",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Aprilie/hot_68_-_2004.pdf",
+     "sha256": "aea9f3a81921d9c13ffbd71e2b50bf39021a7cd754431c10cd941037afd64a42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-69-2004",
+   "path": "local/arad/nadlac/2004/69",
+   "short": "HCL Nădlac nr. 69/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 69/2004 privind modificarea art.1 din Hotarârea Consiliului local nr.53/2004 privind închirierea prin licitatie publica a parcelelor cu nr. top. 3902/1/2, 3902/2/2, 3692/1/1/2, 3693/1/2, 3693/2/2, 3693/3/2, 3694/4/2, evidentiate în CF nr. 9688, în suprafata totala de 5005 mp",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Aprilie/hot_69_-_2004.pdf",
+     "sha256": "e8d939dddf549ebcbff4b11665744a27b032e5e76d620d0391029dec03990165"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-7-2004",
+   "path": "local/arad/nadlac/2004/7",
+   "short": "HCL Nădlac nr. 7/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 7/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-01-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_7_-_2004.pdf",
+     "sha256": "b7807f05a9675435ed29ec54afa9046d82530a5f3c4f51f55dba96b80765e8e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-70-2004",
+   "path": "local/arad/nadlac/2004/70",
+   "short": "HCL Nădlac nr. 70/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 70/2004 privind alegerea presedintelui de sedinta",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-05-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Mai/hot_70_-_2004.pdf",
+     "sha256": "120f7c1317f0313580cb756cdec4da5eec92bc64c5d80521a576c2c421d1c715"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-71-2004",
+   "path": "local/arad/nadlac/2004/71",
+   "short": "HCL Nădlac nr. 71/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 71/2004 privind aprobarea ordinei de zi al sedintei extraordinare a Consiliului local Nadlac din data de 14.05.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-05-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Mai/hot_71_-_2004.pdf",
+     "sha256": "f8af723ed2f3d5c10f4949690c69d2a1f7db6e1e40c00e0df6ba52df52a8a2b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-72-2004",
+   "path": "local/arad/nadlac/2004/72",
+   "short": "HCL Nădlac nr. 72/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 72/2004 privind aprobarea procesului verbal al sedintei ordinare al Consiliului local Nadlac din data de 27.04.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-05-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Mai/hot_72_-_2004.pdf",
+     "sha256": "05595290ca80b4699c38aa9e6e5c97b826d387fb1c45ffb6a808d32725a0e5ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-73-2004",
+   "path": "local/arad/nadlac/2004/73",
+   "short": "HCL Nădlac nr. 73/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 73/2004 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-05-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Mai/hot_73_-_2004.pdf",
+     "sha256": "06812059405ac79bbe1f9c52a3b994b99b665008d51bfe89c78731d29e23a916"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-75-2004",
+   "path": "local/arad/nadlac/2004/75",
+   "short": "HCL Nădlac nr. 75/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 75/2004 privind aprobarea vânzarii dreptului de proprietate asupra partilor sociale detinute de Primaria orasului Nadlac la S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-05-14",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Mai/hot_75_-_2004.pdf",
+     "sha256": "3a3e6b49a962d8ce1c306d7af7921885ee62b69dd07f5fc9448dd904582dc948"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-76-2004",
+   "path": "local/arad/nadlac/2004/76",
+   "short": "HCL Nădlac nr. 76/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 76/2004 privind aprobarea ordinei de zi al sedintei ordinare a Consiliului local Nadlac din data de 25.05.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-05-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Mai/hot_76_-_2004.pdf",
+     "sha256": "ac86ebf7314f0905d2fea06241cc936cee47a2c7913bdab08e592956db58a5e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-77-2004",
+   "path": "local/arad/nadlac/2004/77",
+   "short": "HCL Nădlac nr. 77/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 77/2004 privind aprobarea procesului verbal al sedintei extraordinare al Consiliului local Nadlac din data de 14.05.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-05-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Mai/hot_77_-_2004.pdf",
+     "sha256": "7495723dbe04e318fd25afe3f9b2210c18bb535418d720d02cced117c717f8b7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-78-2004",
    "path": "local/arad/nadlac/2004/78",
    "short": "HCL Nădlac nr. 78/2004",
@@ -149,6 +2384,21 @@
      "units": 7,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Mai/hot_78_-_2004.pdf",
      "sha256": "c9a25fb0d04187da2969661922ffd4437032c3076be78ee1cb4961d4ad614b94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-8-2004",
+   "path": "local/arad/nadlac/2004/8",
+   "short": "HCL Nădlac nr. 8/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 8/2004 privind aprobarea organigramei, a statului de functii, numarului de personal din cadrul aparatului propriu, ale institutiilor si serviciilor publice din subordinea Consiliului local Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-01-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_8_-_2004.pdf",
+     "sha256": "f638e858fa8bdb75f024a3efe52354a05e2b83813612a55648d39172ce0f4a08"
     }
    ]
   },
@@ -183,6 +2433,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-83-2004",
+   "path": "local/arad/nadlac/2004/83",
+   "short": "HCL Nădlac nr. 83/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 83/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-05-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Mai/hot_83_-_2004.pdf",
+     "sha256": "7e9bf901814d3f5d5c89482ff531f0260c9f5c574e08fd053eb767b533326271"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-84-2004",
    "path": "local/arad/nadlac/2004/84",
    "short": "HCL Nădlac nr. 84/2004",
@@ -194,6 +2459,246 @@
      "units": 1,
      "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Mai/hot_84_-_2004.pdf",
      "sha256": "4001bb013f707628905175d65df323592b4e5fbddf98749e7caec384efdb18b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-85-2004",
+   "path": "local/arad/nadlac/2004/85",
+   "short": "HCL Nădlac nr. 85/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 85/2004 privind modificarea anexei nr. 1 din Hotarârea Consiliului local nr. 73/14.05.2004 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-05-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Mai/hot_85_-_2004.pdf",
+     "sha256": "a1fbb3b219099ae04353327aefe4ff5131312e52eead9a994dd25c5ae35774ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-86-2004",
+   "path": "local/arad/nadlac/2004/86",
+   "short": "HCL Nădlac nr. 86/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 86/2004 privind trecerea în proprietatea privata a orasului Nadlac a terenului în suprafata de 1563 mp, evidentiat în CF nr. 9451, nr. top. 12345-12350/29/1/1, 12345-12350/30/1",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-05-25",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Mai/hot_86_-_2004.pdf",
+     "sha256": "5597184e701d4673ae14d335f2426723c3cab0e9bb277ff0c2f4ed23bd13ae84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-87-2004",
+   "path": "local/arad/nadlac/2004/87",
+   "short": "HCL Nădlac nr. 87/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 87/2004 privind aprobarea ordinei de zi al sedintei ordinare a Consiliului local Nadlac din data de 24.06.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-06-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iunie/hot_87_-_2004.pdf",
+     "sha256": "6ca055241f5da1be421911cf6cfce2cd09df05a51a0fbc9b132bc83d949b2cab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-88-2004",
+   "path": "local/arad/nadlac/2004/88",
+   "short": "HCL Nădlac nr. 88/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 88/2004 privind aprobarea procesului verbal al sedintei de constituire a Consiliului local Nadlac din data de 17.06.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-06-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iunie/hot_88_-_2004.pdf",
+     "sha256": "a485606445094b58b7c954b9547fc94f1223710ab86bc71b6e58d15cb81e2f31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-89-2004",
+   "path": "local/arad/nadlac/2004/89",
+   "short": "HCL Nădlac nr. 89/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 89/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-06-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iunie/hot_89_-_2004.pdf",
+     "sha256": "e0553f493d9698e04acac480dbbc7e01731a61002dfbfda089da4d8c6d75367d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-9-2004",
+   "path": "local/arad/nadlac/2004/9",
+   "short": "HCL Nădlac nr. 9/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 9/2004 privind aprobarea Programului de lucrari edilitar gospodaresti, reparatii si dotari pe anul 2004, finantate din bugetul local",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-01-08",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Ianuarie/hot_9_-_2004.pdf",
+     "sha256": "22b74ded1fefcef9fdb0c3860170a5ada64fcab6008833682ffd7ac2a7508b3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-90-2004",
+   "path": "local/arad/nadlac/2004/90",
+   "short": "HCL Nădlac nr. 90/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 90/2004 privind validarea mandatului de consilier al d-lui Kukucska Gerhard, consilier P.D",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-06-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iunie/hot_90_-_2004.pdf",
+     "sha256": "f04a56c5a35e285655ecba08d1101484d90393c9ab370659371156044af763e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-91-2004",
+   "path": "local/arad/nadlac/2004/91",
+   "short": "HCL Nădlac nr. 91/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 91/2004 privind încetarea mandatului viceprimarului orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-06-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iunie/hot_91_-_2004.pdf",
+     "sha256": "26daa36f7b5b6698fdcc81b4970e81f0f722fc7afbaec655e430657c25f913f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-92-2004",
+   "path": "local/arad/nadlac/2004/92",
+   "short": "HCL Nădlac nr. 92/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 92/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-06-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iunie/hot_92_-_2004.pdf",
+     "sha256": "5acd282a1d1712d8853dd2b5d78a6469040f38be64293111206956a02368178d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-93-2004",
+   "path": "local/arad/nadlac/2004/93",
+   "short": "HCL Nădlac nr. 93/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 93/2004 privind aprobarea ordinei de zi al sedintei extraordinare a Consiliului local Nadlac din data de 30.06.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iunie/hot_93_-_2004.pdf",
+     "sha256": "8647078551c0085fd29ee00432ee63f262d443599fdb008255907ce41b87cb31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-94-2004",
+   "path": "local/arad/nadlac/2004/94",
+   "short": "HCL Nădlac nr. 94/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 94/2004 privind aprobarea procesului verbal al sedintei ordinare a Consiliului local Nadlac din data de 24.06.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iunie/hot_94_-_2004.pdf",
+     "sha256": "90fefacdeb10971a6fb386de5250e5c00c0db636f461844d980cb6fb66c2bb49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-95-2004",
+   "path": "local/arad/nadlac/2004/95",
+   "short": "HCL Nădlac nr. 95/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 95/2004 privind rectificarea bugetului propriu al Consiliului local al orasului Nadlac pe anul 2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iunie/hot_95_-_2004.pdf",
+     "sha256": "f6026e58c2443539c9b903fa154a711f2b61749bc3843374594c2165cfcd1145"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-96-2004",
+   "path": "local/arad/nadlac/2004/96",
+   "short": "HCL Nădlac nr. 96/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 96/2004 privind stabilirea unor functii publice si modificarea anexei nr. 3 la Hotararea consiliului local nr. 16 din 30.01.2004",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iunie/hot_96_-_2004.pdf",
+     "sha256": "7b007f1d9663e9b1e78269533a3e05ac53c0a301dd7f480afd061b761d4bbb20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-97-2004",
+   "path": "local/arad/nadlac/2004/97",
+   "short": "HCL Nădlac nr. 97/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 97/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iunie/hot_97_-_2004.pdf",
+     "sha256": "e3e90958dd0dda272bdc70779cd3a7c53d594386fe1baffc984570fb393d8562"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-98-2004",
+   "path": "local/arad/nadlac/2004/98",
+   "short": "HCL Nădlac nr. 98/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 98/2004 privind desemnarea reprezentantilor Consiliului local care vor face parte din Comisia pentru vânzarea spatiilor comerciale sau de prestari servicii, proprietatea privata a statului",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iunie/hot_98_-_2004.pdf",
+     "sha256": "8acad0821d8c400d6570ad3a140609c268f7a68e0dc2f4cf8e7946b4c24e6fa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-99-2004",
+   "path": "local/arad/nadlac/2004/99",
+   "short": "HCL Nădlac nr. 99/2004",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 99/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-06-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2004/Iunie/hot_99_-_2004.pdf",
+     "sha256": "623b4e791e33a7feb7218562a37870e048c12a4d9061931b3e083e5bf3f6aa9d"
     }
    ]
   }

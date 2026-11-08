@@ -3,6 +3,28 @@
 "shard": "local/arges/boteni/2023",
 "acts": [
 {
+"slug": "hcl-arges--boteni-1-2023",
+"path": "local/arges/boteni/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Boteni nr. 1/2023",
+"short": "HCL Boteni nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-04",
+"latest": "2023-01-04",
+"portal": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.1-4-IANUARIE-2023.pdf",
+"council": "arges/boteni",
+"council_name": "Consiliul Local al Comunei Boteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--boteni-6-2023",
 "path": "local/arges/boteni/2023/6",
 "kind": "local",
@@ -47,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-arges--boteni-11-2023",
+"path": "local/arges/boteni/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Boteni nr. 11/2023",
+"short": "HCL Boteni nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-14",
+"latest": "2023-04-14",
+"portal": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.11-14-APRILIE-2023.pdf",
+"council": "arges/boteni",
+"council_name": "Consiliul Local al Comunei Boteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--boteni-16-2023",
 "path": "local/arges/boteni/2023/16",
 "kind": "local",
@@ -84,6 +128,28 @@
 "from": "2023-07-24",
 "latest": "2023-07-24",
 "portal": "https://comunaboteni.ro/monitorul-oficial-local/hotararile-consiliului-local/",
+"council": "arges/boteni",
+"council_name": "Consiliul Local al Comunei Boteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--boteni-20-2023",
+"path": "local/arges/boteni/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Boteni nr. 20/2023",
+"short": "HCL Boteni nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-22",
+"latest": "2023-08-22",
+"portal": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.20-22-AUGUST-2023.pdf",
 "council": "arges/boteni",
 "council_name": "Consiliul Local al Comunei Boteni",
 "flags": {
