@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-galati--beresti-meria-4-2026",
+"path": "local/galati/beresti-meria/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 4/2026",
+"short": "HCL Berești-Meria nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/248951",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--beresti-meria-5-2026",
 "path": "local/galati/beresti-meria/2026/5",
 "kind": "local",
@@ -466,6 +489,28 @@
 }
 },
 {
+"slug": "hcl-galati--beresti-meria-23-2026",
+"path": "local/galati/beresti-meria/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 23/2026 privind aprobarea închirierii prin licitație publică a două loturi de terenuri intravilane, în suprafața de 6,2759 ha și de 5,4722 ha, aparținând domeniului privat al comunei Berești-Meria, judetul Galați",
+"short": "HCL Berești-Meria nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/265313",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--beresti-meria-24-2026",
 "path": "local/galati/beresti-meria/2026/24",
 "kind": "local",
@@ -595,6 +640,72 @@
 "council_name": "Consiliul Local al Comunei Berești-Meria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-30-2026",
+"path": "local/galati/beresti-meria/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 30/2026 privind aprobarea Documentului de poziție privind modul de implementare a proiectului „Sistem de management integrat al deșeurilor în județul Galați”",
+"short": "HCL Berești-Meria nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/270660",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-31-2026",
+"path": "local/galati/beresti-meria/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 31/2026 privind aprobarea Studiului de fundamentare și oportunitate, delegarea gestiunii serviciului de salubrizare pentru activitățile de transfer și tratare mecano-biologică cu digestie anaerobă, documentației de atribuire pentru contractul Proiectare – execuție-operare „Stație de tratare mecano-biologică cu digestie anaerobă și recuperare de energie și stație de transfer Galați”, precum și acordarea unui mandat special pentru reprezentantul UAT Berești-Meria, județul Galați, în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECOSERV Galați",
+"short": "HCL Berești-Meria nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/270661",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-32-2026",
+"path": "local/galati/beresti-meria/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 32/2026 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență al comunei Berești-Meria, județul Galați",
+"short": "HCL Berești-Meria nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-25",
+"latest": "2026-06-25",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/275438",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

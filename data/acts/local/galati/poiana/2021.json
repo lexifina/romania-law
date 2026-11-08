@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-galati--poiana-4-2021",
+"path": "local/galati/poiana/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 4/2021 privind alegerea unui preşedinte de şedinţă",
+"short": "HCL Poiana nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/18832",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--poiana-5-2021",
 "path": "local/galati/poiana/2021/5",
 "kind": "local",
@@ -132,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Poiana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--poiana-8-2021",
+"path": "local/galati/poiana/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 8/2021 privind stabilirea salariilor de bază ale functionarilor publici, ale personalului contractual din aparatul de specialitate al Primarului comunei Poiana, Județul Galati si a indemnizatiei lunara a consilierilor locali",
+"short": "HCL Poiana nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/18852",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

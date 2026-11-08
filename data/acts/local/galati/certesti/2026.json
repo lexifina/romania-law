@@ -3,6 +3,29 @@
 "shard": "local/galati/certesti/2026",
 "acts": [
 {
+"slug": "hcl-galati--certesti-1-2026",
+"path": "local/galati/certesti/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 1/2026",
+"short": "HCL Cerțești nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/256746",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--certesti-2-2026",
 "path": "local/galati/certesti/2026/2",
 "kind": "local",
@@ -157,6 +180,29 @@
 "council_name": "Consiliul Local al Comunei Cerțești",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-9-2026",
+"path": "local/galati/certesti/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 9/2026",
+"short": "HCL Cerțești nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/256766",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -534,6 +580,98 @@
 "council_name": "Consiliul Local al Comunei Cerțești",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-27-2026",
+"path": "local/galati/certesti/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 27/2026",
+"short": "HCL Cerțești nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/272599",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-28-2026",
+"path": "local/galati/certesti/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 28/2026",
+"short": "HCL Cerțești nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/272600",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-29-2026",
+"path": "local/galati/certesti/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 29/2026",
+"short": "HCL Cerțești nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/272601",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-30-2026",
+"path": "local/galati/certesti/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 30/2026",
+"short": "HCL Cerțești nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/272602",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

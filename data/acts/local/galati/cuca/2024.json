@@ -3,6 +3,96 @@
 "shard": "local/galati/cuca/2024",
 "acts": [
 {
+"slug": "hcl-galati--cuca-2-2024",
+"path": "local/galati/cuca/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 2/2024 privind : alegerea președintelui de ședință pentru o perioadă de trei luni de zile . _________________________________________________________________________ Consiliul local al comunei Cuca , județul Galați , constituit prin Ordinul Prefectului – județul Galați nr.721/25.10.2024, întrunit în ședință ordinară, legal constituită ; Având în vedere dispozițiilor art.123 alin. (1) din Ordonanța de urg",
+"short": "HCL Cuca nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2024/12/HCL-presedinte-.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--cuca-3-2024",
+"path": "local/galati/cuca/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 3/2024",
+"short": "HCL Cuca nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": null,
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-5-2024",
+"path": "local/galati/cuca/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 5/2024",
+"short": "HCL Cuca nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": null,
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-6-2024",
+"path": "local/galati/cuca/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 6/2024 privind aprobarea participării COMUNEI CUCA in cadrul Programului privind creșterea eficientei energetice a infrastructurii de iluminat public, precum si aprobarea documentației tehnico-economice si a indicatorilor tehnico-economici pentru proiectul Modernizarea sistemului de iluminat public stradal in comuna Cuca, Județul Galați , etapa III",
+"short": "HCL Cuca nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2024/12/HCL-Cuca.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--cuca-11-2024",
 "path": "local/galati/cuca/2024/11",
 "kind": "local",
@@ -23,6 +113,119 @@
 "flags": {
 "text_pending": "review",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-12-2024",
+"path": "local/galati/cuca/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 12/2024",
+"short": "HCL Cuca nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": null,
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-21-2024",
+"path": "local/galati/cuca/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 21/2024 privind finanțele publice, cu modificările și completările ulterioare; Având în vedere Hotărârea Consiliului local al comunei Cuca nr.49 din 26.11.2013 privind aderarea unității administrativ teritoriale comuna Cuca , județul Galați la Societatea Națională de Cruce Roșie din România , Filiala Județului Galați",
+"short": "HCL Cuca nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2024/12/HCL-cotizatie-Crucea-Rosie.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--cuca-54-2024",
+"path": "local/galati/cuca/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 54/2024",
+"short": "HCL Cuca nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": null,
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-55-2024",
+"path": "local/galati/cuca/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 55/2024",
+"short": "HCL Cuca nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2024/12/HCL-Raport.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-56-2024",
+"path": "local/galati/cuca/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 56/2024 privind însușirea valorilor de inventar ale unor obiective din domeniul privat al comunei , potrivit rapoartelor de evaluare",
+"short": "HCL Cuca nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2024/12/HCL-inchiriere-teren-arabil.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

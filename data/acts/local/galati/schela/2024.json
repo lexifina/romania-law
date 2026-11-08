@@ -158,6 +158,28 @@
 }
 },
 {
+"slug": "hcl-galati--schela-8-2024",
+"path": "local/galati/schela/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 8/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Schela pentru o perioadă de trei luni, respectiv, februarie 2024 – aprilie 2024",
+"short": "HCL Schela nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-16",
+"latest": "2024-04-16",
+"portal": "https://emol.ro/schela-gl/registru-hcl/152817",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--schela-9-2024",
 "path": "local/galati/schela/2024/9",
 "kind": "local",
@@ -444,6 +466,29 @@
 }
 },
 {
+"slug": "hcl-galati--schela-22-2024",
+"path": "local/galati/schela/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 22/2024",
+"short": "HCL Schela nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-16",
+"latest": "2024-04-16",
+"portal": "https://emol.ro/schela-gl/registru-hcl/152850",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--schela-23-2024",
 "path": "local/galati/schela/2024/23",
 "kind": "local",
@@ -555,6 +600,29 @@
 }
 },
 {
+"slug": "hcl-galati--schela-28-2024",
+"path": "local/galati/schela/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 28/2024",
+"short": "HCL Schela nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-09",
+"latest": "2025-03-09",
+"portal": "https://emol.ro/schela-gl/registru-hcl/164501",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--schela-29-2024",
 "path": "local/galati/schela/2024/29",
 "kind": "local",
@@ -574,6 +642,28 @@
 "council_name": "Consiliul Local al Comunei Schela",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--schela-30-2024",
+"path": "local/galati/schela/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 30/2024 Privind alegerea preşedintelui de şedinţă al Consiliului Local Schela pentru o perioadă de trei luni, respectiv, mai 2024 – iulie 2024",
+"short": "HCL Schela nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/schela-gl/registru-hcl/164512",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -640,6 +730,50 @@
 "council_name": "Consiliul Local al Comunei Schela",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--schela-34-2024",
+"path": "local/galati/schela/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 34/2024 Privind concesionarea unui teren extravilan în suprafață 10.000 mp, având nr. Cadastral 112427, situat în Tarlaua 57/7, Parcela 475/45, lotul 2, comuna Schela, județul Galați, proprietate privată a comunei Schela",
+"short": "HCL Schela nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/schela-gl/registru-hcl/164516",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--schela-35-2024",
+"path": "local/galati/schela/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 35/2024 Privind concesionarea unui teren extravilan în suprafață 14.240 mp, având nr. Cadastral 112428, situat în Tarlaua 57/7, Parcela 477/45, lotul 3, comuna Schela, județul Galați, proprietate privată a comunei Schela",
+"short": "HCL Schela nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/schela-gl/registru-hcl/164517",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -754,6 +888,28 @@
 }
 },
 {
+"slug": "hcl-galati--schela-41-2024",
+"path": "local/galati/schela/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 41/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Schela pentru o perioadă de trei luni, respectiv, august 2024 – octombrie 2024",
+"short": "HCL Schela nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/schela-gl/registru-hcl/181159",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--schela-42-2024",
 "path": "local/galati/schela/2024/42",
 "kind": "local",
@@ -773,6 +929,28 @@
 "council_name": "Consiliul Local al Comunei Schela",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--schela-43-2024",
+"path": "local/galati/schela/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 43/2024 privind concesionarea prin licitație publică a terenului proprietate privată a comunei Schela, în suprafață de 8025 mp, situat în Tarlaua 57/11, Parcela 477/1/2, CF nr. 101923 UAT Comuna Schela",
+"short": "HCL Schela nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/schela-gl/registru-hcl/181161",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

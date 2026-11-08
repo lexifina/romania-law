@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-galati--beresti-meria-4-2025",
+"path": "local/galati/beresti-meria/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 4/2025",
+"short": "HCL Berești-Meria nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/189104",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--beresti-meria-5-2025",
 "path": "local/galati/beresti-meria/2025/5",
 "kind": "local",
@@ -180,6 +203,28 @@
 }
 },
 {
+"slug": "hcl-galati--beresti-meria-10-2025",
+"path": "local/galati/beresti-meria/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 10/2025 privind desemnarea reprezentantului Consiliului Local al comunei Berești - Meria ca membru în Consiliul de Administrație al Școlii Gimnaziale nr.1 sat Slivna",
+"short": "HCL Berești-Meria nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/193841",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--beresti-meria-11-2025",
 "path": "local/galati/beresti-meria/2025/11",
 "kind": "local",
@@ -266,6 +311,29 @@
 "council_name": "Consiliul Local al Comunei Berești-Meria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-15-2025",
+"path": "local/galati/beresti-meria/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 15/2025",
+"short": "HCL Berești-Meria nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-20",
+"latest": "2025-03-20",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/197475",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -951,6 +1019,28 @@
 "council_name": "Consiliul Local al Comunei Berești-Meria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-47-2025",
+"path": "local/galati/beresti-meria/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 47/2025 privind desemnarea reprezentantului Consiliului Local al comunei Berești-Meria în Consiliul de Administrație al Școlii Gimnaziale nr.1 sat Slivna, pentru anul școlar 2025-2026",
+"short": "HCL Berești-Meria nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-02",
+"latest": "2025-10-02",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/226159",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

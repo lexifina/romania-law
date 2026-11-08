@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--balabanesti-105-2021",
+   "path": "local/galati/balabanesti/2021/105",
+   "short": "HCL Bălăbănești nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 105/2021",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/53647",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/53647",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--balabanesti-106-2021",
    "path": "local/galati/balabanesti/2021/106",
    "short": "HCL Bălăbănești nr. 106/2021",
@@ -498,6 +513,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--balabanesti-13-2021",
+   "path": "local/galati/balabanesti/2021/13",
+   "short": "HCL Bălăbănești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 13/2021 privind alegerea președintelui de ședință al consiliului local al comunei Bălăbănești",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/24269",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/24269",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--balabanesti-130-2021",
    "path": "local/galati/balabanesti/2021/130",
    "short": "HCL Bălăbănești nr. 130/2021",
@@ -583,6 +613,21 @@
      "from": "2021-03-26",
      "units": 1,
      "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/24694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-16-2021",
+   "path": "local/galati/balabanesti/2021/16",
+   "short": "HCL Bălăbănești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 16/2021 privind închirierea prin atribuire directă a pajiștii aflată în proprietatea privată a comunei Bălăbănești",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/24695",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/24695",
      "sha256": null
     }
    ]
@@ -723,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--balabanesti-25-2021",
+   "path": "local/galati/balabanesti/2021/25",
+   "short": "HCL Bălăbănești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 25/2021 privind numirea noului reprezentant legal al UAT Bălăbănești județul Galați în Adunarea Generală a Acționarilor din cadrul Operatorului Regional Societatea Apă Canal SA Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/34830",
+   "versions": [
+    {
+     "from": "2021-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/34830",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--balabanesti-26-2021",
    "path": "local/galati/balabanesti/2021/26",
    "short": "HCL Bălăbănești nr. 26/2021",
@@ -753,6 +813,36 @@
    ]
   },
   {
+   "slug": "hcl-galati--balabanesti-28-2021",
+   "path": "local/galati/balabanesti/2021/28",
+   "short": "HCL Bălăbănești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 28/2021 privind aprobarea decontării transportului pe luna martie a anului 2021 a cadrelor didactice care își desfășoara activitatea la școlile de pe raza comunei Bălăbănești și care nu dispun de locuință în localitatea unde au postul",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/34833",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/34833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-29-2021",
+   "path": "local/galati/balabanesti/2021/29",
+   "short": "HCL Bălăbănești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 29/2021 privind alegerea președintelui de ședință al Consiliului Local al comunei Bălăbănești",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/34834",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/34834",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--balabanesti-3-2021",
    "path": "local/galati/balabanesti/2021/3",
    "short": "HCL Bălăbănești nr. 3/2021",
@@ -763,6 +853,21 @@
      "from": "2021-01-07",
      "units": 1,
      "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-30-2021",
+   "path": "local/galati/balabanesti/2021/30",
+   "short": "HCL Bălăbănești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 30/2021",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/34835",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/34835",
      "sha256": null
     }
    ]
@@ -948,6 +1053,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--balabanesti-42-2021",
+   "path": "local/galati/balabanesti/2021/42",
+   "short": "HCL Bălăbănești nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 42/2021 privind decontarea transportului pe luna aprilie 2021 a cadrelor didactice care își desfășoară activitatea la școlile de pe raza comunei Bălăbănești și care nu dispun de locuință în localitatea unde au postul",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/34847",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/34847",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--balabanesti-43-2021",
    "path": "local/galati/balabanesti/2021/43",
    "short": "HCL Bălăbănești nr. 43/2021",
@@ -1048,6 +1168,21 @@
      "from": "2021-06-25",
      "units": 1,
      "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/34854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-5-2021",
+   "path": "local/galati/balabanesti/2021/5",
+   "short": "HCL Bălăbănești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 5/2021 privind stabilirea salariilor pe anul 2021 pentru functionarii publici, personalul contractual din aparatul de specialitate al primarului comunei Balabanesti",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/18733",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18733",
      "sha256": null
     }
    ]
@@ -1413,6 +1548,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--balabanesti-72-2021",
+   "path": "local/galati/balabanesti/2021/72",
+   "short": "HCL Bălăbănești nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 72/2021 privind : alegerea președintelui de ședință al Consiliului Local al comunei Bălăbănești",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/35079",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/35079",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--balabanesti-73-2021",
    "path": "local/galati/balabanesti/2021/73",
    "short": "HCL Bălăbănești nr. 73/2021",
@@ -1423,6 +1573,36 @@
      "from": "2021-08-27",
      "units": 1,
      "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/35080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-74-2021",
+   "path": "local/galati/balabanesti/2021/74",
+   "short": "HCL Bălăbănești nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 74/2021 privind : concesionarea prin licitație publică a terenului proprietate privată a comunei Bălăbănești, în suprafață de 2596 mp din acte și de 2531 mp din măsurători, situată în cvartal 22, parcela 8, în intravilanul satului Bursucani, comuna Bălăbănești, jud. Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/35081",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/35081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-75-2021",
+   "path": "local/galati/balabanesti/2021/75",
+   "short": "HCL Bălăbănești nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 75/2021 privind : aprobarea încheierii unui contract de prestări servicii cu un evaluator autorizat pentru evaluarea spațiului comercial în suprafață de 22,00 mp din apartamentul cu numărul 1 ce aparține comunei Bălăbănești în vederea închirierii",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/35082",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/35082",
      "sha256": null
     }
    ]
@@ -1488,6 +1668,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--balabanesti-8-2021",
+   "path": "local/galati/balabanesti/2021/8",
+   "short": "HCL Bălăbănești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 8/2021",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/18736",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18736",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--balabanesti-80-2021",
    "path": "local/galati/balabanesti/2021/80",
    "short": "HCL Bălăbănești nr. 80/2021",
@@ -1513,6 +1708,21 @@
      "from": "2021-09-27",
      "units": 1,
      "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/53599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-82-2021",
+   "path": "local/galati/balabanesti/2021/82",
+   "short": "HCL Bălăbănești nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 82/2021",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/53600",
+   "versions": [
+    {
+     "from": "2021-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/53600",
      "sha256": null
     }
    ]
@@ -1573,6 +1783,21 @@
      "from": "2021-09-30",
      "units": 1,
      "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/53617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-87-2021",
+   "path": "local/galati/balabanesti/2021/87",
+   "short": "HCL Bălăbănești nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 87/2021 privind inchirierea prin licitatie publica a spatiului comercial in suprafata de 22 mp – din incinta apartamentului cu nr. 1 apartinand domeniului public al comunei Balabanesti , situat in Blocul cu 12 apartamente din satul Balabanesti, in vederea desfasurarii activitatii de famacie umana",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/53618",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/53618",
      "sha256": null
     }
    ]
@@ -1698,6 +1923,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--balabanesti-95-2021",
+   "path": "local/galati/balabanesti/2021/95",
+   "short": "HCL Bălăbănești nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 95/2021 privind aprobarea decontarii transportului pe lunile spetembrie si octombrie a anului 2021 a cadrelor didactice care isi desfasoara activitatea la scolile de pe raza comunei Balabanesti si care nu dispun de locuinta in localitatea unde au postul",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/53626",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/53626",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--balabanesti-96-2021",
    "path": "local/galati/balabanesti/2021/96",
    "short": "HCL Bălăbănești nr. 96/2021",
@@ -1738,6 +1978,21 @@
      "from": "2021-10-29",
      "units": 1,
      "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/53629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-99-2021",
+   "path": "local/galati/balabanesti/2021/99",
+   "short": "HCL Bălăbănești nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 99/2021 privind alegerea presedintelui de sedinta al Consiliului local al comunei Balabanesti",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/53630",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/53630",
      "sha256": null
     }
    ]

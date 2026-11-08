@@ -90,19 +90,19 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 481787,
+  "acts": 487787,
   "by_status": {
-   "current": 410565,
+   "current": 416563,
    "pending-change": 29438,
    "stale": 4595,
-   "unverified": 37189,
+   "unverified": 37191,
    "source-unavailable": 0
   },
-  "verified_7d": 423977,
-  "verified_30d": 424020,
-  "pct_verified_7d": 88.0,
-  "pct_verified_30d": 88.0,
-  "pct_current": 85.2,
+  "verified_7d": 429975,
+  "verified_30d": 430018,
+  "pct_verified_7d": 88.1,
+  "pct_verified_30d": 88.2,
+  "pct_current": 85.4,
   "newest_verified": "2026-11-08",
   "oldest_verified": "2018-07-23"
  },
@@ -142,19 +142,19 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 324166,
+   "acts": 330166,
    "by_status": {
-    "current": 318075,
+    "current": 324073,
     "pending-change": 0,
     "stale": 2556,
-    "unverified": 3535,
+    "unverified": 3537,
     "source-unavailable": 0
    },
-   "verified_7d": 318033,
-   "verified_30d": 318075,
+   "verified_7d": 324031,
+   "verified_30d": 324073,
    "pct_verified_7d": 98.1,
-   "pct_verified_30d": 98.1,
-   "pct_current": 98.1,
+   "pct_verified_30d": 98.2,
+   "pct_current": 98.2,
    "newest_verified": "2026-11-08",
    "oldest_verified": "2023-03-20"
   },
@@ -569,19 +569,19 @@
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 324166,
+   "acts": 330166,
    "by_status": {
-    "current": 318075,
+    "current": 324073,
     "pending-change": 0,
     "stale": 2556,
-    "unverified": 3535,
+    "unverified": 3537,
     "source-unavailable": 0
    },
-   "verified_7d": 318033,
-   "verified_30d": 318075,
+   "verified_7d": 324031,
+   "verified_30d": 324073,
    "pct_verified_7d": 98.1,
-   "pct_verified_30d": 98.1,
-   "pct_current": 98.1,
+   "pct_verified_30d": 98.2,
+   "pct_current": 98.2,
    "newest_verified": "2026-11-08",
    "oldest_verified": "2023-03-20"
   },
@@ -904,10 +904,10 @@
    "kinds": [
     "local"
    ],
-   "acts": 322190,
+   "acts": 328190,
    "last_successful_check": "2026-11-08",
    "unavailable_since": null,
-   "sites": 674,
+   "sites": 683,
    "sites_unavailable": 7,
    "pct_verified_7d": 98.7,
    "pct_verified_30d": 98.7
@@ -927,5 +927,5 @@
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 6772
+ "shards": 6819
 }

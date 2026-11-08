@@ -198,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--beresti-meria-21-2023",
+   "path": "local/galati/beresti-meria/2023/21",
+   "short": "HCL Berești-Meria nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 21/2023 privind aprobarea propunerii de vanzare prin licitatie publica a unor terenuri situate in satul Balintesti, comuna Beresti Meria",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/104616",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/104616",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--beresti-meria-22-2023",
    "path": "local/galati/beresti-meria/2023/22",
    "short": "HCL Berești-Meria nr. 22/2023",
@@ -613,6 +628,36 @@
      "from": "2023-08-31",
      "units": 1,
      "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/123046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-48-2023",
+   "path": "local/galati/beresti-meria/2023/48",
+   "short": "HCL Berești-Meria nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 48/2023 privind desemnarea reprezentantilor Consiliului Local al comunei Beresti Meria ca membri in Consiliul de administratie al Scolii Gimnaziale nr.1 sat Slivna, pentru anul scolar 2023-2024",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/126483",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/126483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-49-2023",
+   "path": "local/galati/beresti-meria/2023/49",
+   "short": "HCL Berești-Meria nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 49/2023 privind vanzarea directa a terenului proprietate privata a Comunei Beresti-Meria, inscris in cartea funciara nr. 100259",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/126484",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/126484",
      "sha256": null
     }
    ]

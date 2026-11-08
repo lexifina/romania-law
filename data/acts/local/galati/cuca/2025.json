@@ -3,6 +3,96 @@
 "shard": "local/galati/cuca/2025",
 "acts": [
 {
+"slug": "hcl-galati--cuca-1-2025",
+"path": "local/galati/cuca/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 1/2025",
+"short": "HCL Cuca nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/02/HCL-nr.1-din-29.01.2025.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-3-2025",
+"path": "local/galati/cuca/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 3/2025 privind aprobarea proiectului și a cheltuielilor aferente proiectului, pentru obiectivul de investiții “Creșterea eficienței energetice a gestionării inteligente și a utilizării energiei din surse regenerabile la Grădinița din sat Cuca, comuna Cuca, județul Galați” propus spre finanțare prin Planul Național de Redresare și Reziliență – Componenta C10 – Fondu Local",
+"short": "HCL Cuca nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/02/HCL-Gradinita.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--cuca-4-2025",
+"path": "local/galati/cuca/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 4/2025",
+"short": "HCL Cuca nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/02/HCL-Raport.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-6-2025",
+"path": "local/galati/cuca/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 6/2025 pentru achiziționarea de pubele și alte materiale necesare colectării deșeurilor selective; Potrivit prevederilor cuprinse în Legea nr.101/25.04.2006 privind serviciul de salubrizare a localităților; Având în vedere Legea nr.51/08.03.2006 privind serviciile comunitare de utilități publice; Având în vedere Hotărârea Guvernului nr.856/2002 privind evidența gestiunii deșeurilor și pentru aprobarea li",
+"short": "HCL Cuca nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/02/HCL.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--cuca-7-2025",
 "path": "local/galati/cuca/2025/7",
 "kind": "local",
@@ -22,6 +112,229 @@
 "council_name": "Consiliul Local al Comunei Cuca",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-galati--cuca-8-2025",
+"path": "local/galati/cuca/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 8/2025",
+"short": "HCL Cuca nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/03/HCL.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-15-2025",
+"path": "local/galati/cuca/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 15/2025 privind adoptarea bugetului local pe anul 2025",
+"short": "HCL Cuca nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/03/HCL-nr.15-privind-adoptarea-bugetului-local-pe-anul-2025.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--cuca-16-2025",
+"path": "local/galati/cuca/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 16/2025 privind condițiile și situațiile de necesitate ce se au în vedere la acordarea ajutoarelor de urgență . ___________________________________________________________________________ Inițiator – primarul comunei Cuca , județul Galați; Nr. și data înregistrării proiectului de hotărâre:1128 din 18.03.2025; _________________________________________________________________________ Consiliul local al comu",
+"short": "HCL Cuca nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/03/HCL-nr.16.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--cuca-17-2025",
+"path": "local/galati/cuca/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 17/2025 privind gospodărirea comunei Cuca , județul Galați;",
+"short": "HCL Cuca nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/03/HCL-nr.17.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--cuca-18-2025",
+"path": "local/galati/cuca/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 18/2025 privind gospodărirea comunei Cuca , județul Galați;",
+"short": "HCL Cuca nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/03/HCL-nr.18-1.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--cuca-19-2025",
+"path": "local/galati/cuca/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 19/2025 pentru participarea în procesul de selecție derulat de către Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale, în parteneriat cu Ministerul Educației și Cercetării, Ministerul Sănătății și Agenția Națională pentru Plăti și Inspecție Socială, pentru implementarea proiectului „Furnizare de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la s",
+"short": "HCL Cuca nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/03/HCL-nr.19.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--cuca-20-2025",
+"path": "local/galati/cuca/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 20/2025",
+"short": "HCL Cuca nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/03/HCL-nr.20.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-21-2025",
+"path": "local/galati/cuca/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 21/2025 privind repartizarea pe unități/subdiviziuni administrativ-teritoriale și pe unități de învățământ a sumei prevăzută în bugetul de stat pe anul 2025 nr.9 /2025, pentru finanțarea Programului Național \"Masă sănătoasă\" , unde la poziția nr.46 la județul Galați, figurează Școala Gimnazială ”Sf. Gheorghe” comuna Cuca , județul Galați, pentru care s-a alocat suma de 320 mii lei ; Potrivit art.3 lit.b)",
+"short": "HCL Cuca nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/04/HCL-nr.21.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--cuca-22-2025",
+"path": "local/galati/cuca/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 22/2025",
+"short": "HCL Cuca nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/04/HCL-nr.22.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-23-2025",
+"path": "local/galati/cuca/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 23/2025 privind repartizarea pe unități administrative-teritoriale a cotei de 6% din impozitul pe venit estimate a se încasa la bugetul de stat în anul 2025 prin care ne-a fost alocată suma de 490 mii lei",
+"short": "HCL Cuca nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/04/HCL.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +360,51 @@
 }
 },
 {
+"slug": "hcl-galati--cuca-29-2025",
+"path": "local/galati/cuca/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 29/2025",
+"short": "HCL Cuca nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/06/HCL-.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-36-2025",
+"path": "local/galati/cuca/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 36/2025 cu privire la obiectivul de investitii ,, Cresterea eficientei energetice ,a gestionarii inteligente a energiei si a utilizarii energiei din surse regenerabile la Gradinita de copii din comuna Cuca judetul Galati ,, finantat prin PNRR; Având în vedere Contractul de Finantare nr.1102 din 27.02.2024 cu privire la obiectivul de investitii,, Extindere retea de canalizare in comuna Cuca ,judetul Galati",
+"short": "HCL Cuca nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/07/HCL-rectificare.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--cuca-37-2025",
 "path": "local/galati/cuca/2025/37",
 "kind": "local",
@@ -66,6 +424,210 @@
 "council_name": "Consiliul Local al Comunei Cuca",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-galati--cuca-38-2025",
+"path": "local/galati/cuca/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 38/2025 pentru persoanele vârstnice din comuna Cuca, județul Galați",
+"short": "HCL Cuca nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/07/HCL.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--cuca-45-2025",
+"path": "local/galati/cuca/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 45/2025 pentru anul 2025 și ale Hotărârii Consiliului local Cuca nr.15 din 25.03.2025 privind adoptarea bugetului local pe anul 2025 ; Ținând cont de prevederile art. 19 alin (1) lit.a) din Legea nr 273/2006,republicată , privind finanțele publice locale, cu modificările si completările ulterioare; Luând act de prevederile art.3 alin.(1) lit.c) din Legea nr. 24/2000 privind normele de tehnică legislativă",
+"short": "HCL Cuca nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/08/HCL-rectificare.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--cuca-46-2025",
+"path": "local/galati/cuca/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 46/2025",
+"short": "HCL Cuca nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": null,
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-47-2025",
+"path": "local/galati/cuca/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 47/2025",
+"short": "HCL Cuca nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": null,
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-48-2025",
+"path": "local/galati/cuca/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 48/2025",
+"short": "HCL Cuca nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": null,
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-50-2025",
+"path": "local/galati/cuca/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 50/2025 privind : alocarea sumei de 30.000 lei Bisericii „Sfinții Împărați” Slobozia Ventura din comuna Cuca, sumă ce a fost cuprinsă în bugetul local pe anul 2025",
+"short": "HCL Cuca nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-27",
+"latest": "2025-08-27",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/10/HCL-.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--cuca-55-2025",
+"path": "local/galati/cuca/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 55/2025",
+"short": "HCL Cuca nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/10/HCL-nr.55.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-56-2025",
+"path": "local/galati/cuca/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 56/2025",
+"short": "HCL Cuca nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/10/HCL-nr.56-1.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-57-2025",
+"path": "local/galati/cuca/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 57/2025",
+"short": "HCL Cuca nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/10/HCL-nr.57.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -110,6 +672,95 @@
 "council_name": "Consiliul Local al Comunei Cuca",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-galati--cuca-60-2025",
+"path": "local/galati/cuca/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 60/2025 Privind : instituirea dreptului de uz și a servituții subterane (superficie) cu titlu gratuit în favoarea SC Ansthall Green Energy, de îngropare cablu LES 33KV pe drumuri de exploatare aparținând UAT comuna Cuca , județul Galați, și aducerea acestora la starea inițială, pentru realizarea investiției și pentru toată durata funcționării , pe drumul De 192-NC 104147 și accesul temporar până la finali",
+"short": "HCL Cuca nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/10/HCL-nr.60.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--cuca-61-2025",
+"path": "local/galati/cuca/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 61/2025",
+"short": "HCL Cuca nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/10/HCL-nr.61.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--cuca-62-2025",
+"path": "local/galati/cuca/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 62/2025 privind aprobarea proiectului și a cheltuielilor aferente proiectului, pentru obiectivul de investiții “Creșterea eficienței energetice a gestionării inteligente și a utilizării energiei din surse regenerabile la Grădinița din sat Cuca, comuna Cuca, județul Galați” propus spre finanțare prin Planul Național de Redresare și Reziliență – Componenta C10 – Fondu Local",
+"short": "HCL Cuca nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/12/HCL.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--cuca-72-2025",
+"path": "local/galati/cuca/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 72/2025 pentru anul școlar 2026-2027 , Școala Gimnazială „Sf",
+"short": "HCL Cuca nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/12/HCL-retea-scolara.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

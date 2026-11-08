@@ -48,6 +48,51 @@
 }
 },
 {
+"slug": "hcl-galati--brahasesti-3-2024",
+"path": "local/galati/brahasesti/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 3/2024 privind alegerea președintelui de ședință al Consiliului Local Brăhășești pe o perioadă de cel mult 3 luni",
+"short": "HCL Brăhășești nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148363",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-4-2024",
+"path": "local/galati/brahasesti/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 4/2024",
+"short": "HCL Brăhășești nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148641",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--brahasesti-5-2024",
 "path": "local/galati/brahasesti/2024/5",
 "kind": "local",
@@ -67,6 +112,28 @@
 "council_name": "Consiliul Local al Comunei Brăhășești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-6-2024",
+"path": "local/galati/brahasesti/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 6/2024 privind aprobarea bugetului local de venituri si cheltuieli al comunei Brahasesti , judetul Galati , pe anul 2024",
+"short": "HCL Brăhășești nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148647",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -92,6 +159,94 @@
 }
 },
 {
+"slug": "hcl-galati--brahasesti-8-2024",
+"path": "local/galati/brahasesti/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 8/2024 privind aprobarea bugetului de venituri si cheltuieli al societatii S.C ECOPREST BRAHA 2015 SRL , judetul Galati , pe anul 2024",
+"short": "HCL Brăhășești nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148649",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-9-2024",
+"path": "local/galati/brahasesti/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 9/2024 privind aprobarea salariilor de bază pentru personalul din cadrul societății S.C ECOPREST BRAHA 2015 SRL pentru anul 2024",
+"short": "HCL Brăhășești nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148650",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-10-2024",
+"path": "local/galati/brahasesti/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 10/2024 privind aprobarea organigramei si a statului de functii al societatii S.C ECOPREST BRAHA 2015 SRL",
+"short": "HCL Brăhășești nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148651",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-11-2024",
+"path": "local/galati/brahasesti/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 11/2024 privind aprobarea unor documente privind buna desfasurare a activitatii societății S.C ECOPREST BRAHA 2015 SRL",
+"short": "HCL Brăhășești nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148652",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--brahasesti-12-2024",
 "path": "local/galati/brahasesti/2024/12",
 "kind": "local",
@@ -114,6 +269,28 @@
 }
 },
 {
+"slug": "hcl-galati--brahasesti-13-2024",
+"path": "local/galati/brahasesti/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 13/2024 privind aprobarea Regulamentului Serviciului Județean de Salubrizare Galați",
+"short": "HCL Brăhășești nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148654",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--brahasesti-14-2024",
 "path": "local/galati/brahasesti/2024/14",
 "kind": "local",
@@ -133,6 +310,50 @@
 "council_name": "Consiliul Local al Comunei Brăhășești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-15-2024",
+"path": "local/galati/brahasesti/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 15/2024 privind aprobarea Regulamentului privind organizarea activității operatorilor economici pe teritoriul UAT Comuna Brahasesti , județul Galați",
+"short": "HCL Brăhășești nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148656",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-16-2024",
+"path": "local/galati/brahasesti/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 16/2024 privind modificarea Anexei nr.1 la HCL nr.106/05.12.2023 privind aprobarea impozitelor și taxelor locale la nivelul UAT Comuna Brăhășești pentru anul 2024",
+"short": "HCL Brăhășești nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148657",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -177,6 +398,94 @@
 "council_name": "Consiliul Local al Comunei Brăhășești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-19-2024",
+"path": "local/galati/brahasesti/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 19/2024 privind darea în folosință gratuită a autoturismului GL-77-PCB , către Serviciul de Alimentare cu Apă Brăhășești CIF: 36370721 organizat în subordinea Consiliului Local Brӑhӑșești , județul Galați",
+"short": "HCL Brăhășești nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148660",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-20-2024",
+"path": "local/galati/brahasesti/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 20/2024 privind modificarea organigramei și a statului de funcții al Serviciului de alimentare cu apă Brăhășești , CIF: 36370721 organizat în subordinea Consiliului Local Brӑhӑșești , județul Galați",
+"short": "HCL Brăhășești nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148661",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-21-2024",
+"path": "local/galati/brahasesti/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 21/2024 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahasesti , judetul Galati pe trimestrul I al anului 2024",
+"short": "HCL Brăhășești nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148679",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-22-2024",
+"path": "local/galati/brahasesti/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 22/2024 privind aprobarea modelului cadru al Acordului de cooperare privind organizarea și exercitarea serviciilor de utilități publice și alte servicii",
+"short": "HCL Brăhășești nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148680",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -265,6 +574,51 @@
 "council_name": "Consiliul Local al Comunei Brăhășești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-27-2024",
+"path": "local/galati/brahasesti/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 27/2024 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahasesti , judetul Galati pe trimestrul I al anului 2024",
+"short": "HCL Brăhășești nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148940",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-28-2024",
+"path": "local/galati/brahasesti/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 28/2024",
+"short": "HCL Brăhășești nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/148941",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -555,6 +909,50 @@
 }
 },
 {
+"slug": "hcl-galati--brahasesti-42-2024",
+"path": "local/galati/brahasesti/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 42/2024 privind desemnarea membrilor comitetului director a Clubului Sportiv Brăhășești și numirea interimară a presedintelui Clubului Sportiv Brăhășești",
+"short": "HCL Brăhășești nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-09",
+"latest": "2024-07-09",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/162033",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-43-2024",
+"path": "local/galati/brahasesti/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 43/2024 privind alegerea președintelui de ședință al Consiliului Local Brăhășești pe o perioadă de cel mult 3 luni",
+"short": "HCL Brăhășești nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-09",
+"latest": "2024-07-09",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/162034",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--brahasesti-44-2024",
 "path": "local/galati/brahasesti/2024/44",
 "kind": "local",
@@ -599,6 +997,29 @@
 }
 },
 {
+"slug": "hcl-galati--brahasesti-46-2024",
+"path": "local/galati/brahasesti/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 46/2024",
+"short": "HCL Brăhășești nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-09",
+"latest": "2024-07-09",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/162037",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--brahasesti-47-2024",
 "path": "local/galati/brahasesti/2024/47",
 "kind": "local",
@@ -640,6 +1061,28 @@
 "council_name": "Consiliul Local al Comunei Brăhășești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-49-2024",
+"path": "local/galati/brahasesti/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 49/2024 privind completarea comisiei de specialitate nr. 3- pentru administrație publică locală , juridică de disciplină și de validitate , apărarea ordinei publice , a drepturilor cetățenilor",
+"short": "HCL Brăhășești nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-15",
+"latest": "2024-07-15",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/162042",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -864,6 +1307,28 @@
 }
 },
 {
+"slug": "hcl-galati--brahasesti-60-2024",
+"path": "local/galati/brahasesti/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 60/2024 privind alegerea președintelui de ședință al Consiliului Local Brăhășești pe o perioadă de cel mult 3 luni",
+"short": "HCL Brăhășești nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/176263",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--brahasesti-61-2024",
 "path": "local/galati/brahasesti/2024/61",
 "kind": "local",
@@ -1018,6 +1483,28 @@
 }
 },
 {
+"slug": "hcl-galati--brahasesti-68-2024",
+"path": "local/galati/brahasesti/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 68/2024 privind desemnarea reprezentanților Consiliului Local Brăhășești , în Consiliul de Administrație al Școlii Gimnaziale nr.1 Brăhășești și a Consiliului de Administrație al Școlii Gimnaziale nr.1 Toflea pentru anul școlar 2024-2025",
+"short": "HCL Brăhășești nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/176281",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--brahasesti-69-2024",
 "path": "local/galati/brahasesti/2024/69",
 "kind": "local",
@@ -1148,6 +1635,28 @@
 "council_name": "Consiliul Local al Comunei Brăhășești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-75-2024",
+"path": "local/galati/brahasesti/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 75/2024 privind alegerea președintelui de ședință al Consiliului Local Brăhășești pe o perioadă de cel mult 3 luni",
+"short": "HCL Brăhășești nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/185944",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

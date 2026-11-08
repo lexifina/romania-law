@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-galati--scanteiesti-3-2026",
+"path": "local/galati/scanteiesti/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 3/2026 privind alegerea presedintelui de ședință pentru lunile februarie-aprilie 2026",
+"short": "HCL Scânteiești nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/291818",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--scanteiesti-4-2026",
 "path": "local/galati/scanteiesti/2026/4",
 "kind": "local",
@@ -223,6 +245,50 @@
 }
 },
 {
+"slug": "hcl-galati--scanteiesti-12-2026",
+"path": "local/galati/scanteiesti/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 12/2026 privind aprobarea închirierii prin atribuire directă a suprafeței disponibile de pajiște, aparținând domeniului privat al Comunei Scânteiești, jud. Galați",
+"short": "HCL Scânteiești nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/291827",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-13-2026",
+"path": "local/galati/scanteiesti/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 13/2026 privind aprobarea închirierii prin atribuire directă a terenului arabil, liber la sarcini în suprafață de 19,23 hectare, aflat în proprietatea privată a Comunei Scânteiești",
+"short": "HCL Scânteiești nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/291828",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--scanteiesti-14-2026",
 "path": "local/galati/scanteiesti/2026/14",
 "kind": "local",
@@ -242,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-15-2026",
+"path": "local/galati/scanteiesti/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 15/2026 privind modificarea HCL nr. 67 din 30.12.2025 privind stabilirea impozitelor și taxelor locale, precum și a texelor speciale, pentru anul fiscal 2026",
+"short": "HCL Scânteiești nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/291830",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-galati--scanteiesti-17-2026",
+"path": "local/galati/scanteiesti/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 17/2026 privind desemnarea consilierilor locali din cadrul Consiliului local al comunei Scânteiești pentru a face parte din Comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al comunei Scânteiești",
+"short": "HCL Scânteiești nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/291832",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--scanteiesti-18-2026",
 "path": "local/galati/scanteiesti/2026/18",
 "kind": "local",
@@ -286,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-19-2026",
+"path": "local/galati/scanteiesti/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 19/2026 privind alegerea președintelui de ședință pentru lunile mai-iulie 2026",
+"short": "HCL Scânteiești nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/291834",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

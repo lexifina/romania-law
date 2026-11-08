@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--scaesti-12-2025",
+   "path": "local/dolj/scaesti/2025/12",
+   "short": "HCL Scăești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 12/2025",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/200559",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/200559",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--scaesti-13-2025",
    "path": "local/dolj/scaesti/2025/13",
    "short": "HCL Scăești nr. 13/2025",
@@ -213,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--scaesti-23-2025",
+   "path": "local/dolj/scaesti/2025/23",
+   "short": "HCL Scăești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 23/2025",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/213809",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/213809",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--scaesti-24-2025",
    "path": "local/dolj/scaesti/2025/24",
    "short": "HCL Scăești nr. 24/2025",
@@ -298,6 +328,21 @@
      "from": "2025-09-05",
      "units": 1,
      "source_url": "https://emol.ro/scaesti-dj/registru-hcl/222638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-3-2025",
+   "path": "local/dolj/scaesti/2025/3",
+   "short": "HCL Scăești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 3/2025 privind aprobarea contractării unui împrumut în valoare de 550.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 133/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, precum si pentru modificarea si completarea unor acte normative aferente reprezentarii statului in litigiile arbitrale si judiciare internationale si concesionarii proprietatii publice a statului si pentru modificarea si completarea unor acte normative",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/185862",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/185862",
      "sha256": null
     }
    ]

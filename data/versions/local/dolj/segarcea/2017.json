@@ -1,0 +1,1461 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/segarcea/2017",
+ "acts": [
+  {
+   "slug": "hcl-dolj--segarcea-1-2017",
+   "path": "local/dolj/segarcea/2017/1",
+   "short": "HCL Segarcea nr. 1/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 1/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-01-17",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H1.pdf",
+     "sha256": "829c95bfaaf39a1d6fd52cc2b14bc64129452b16b48f5fdece64efaa566ad840"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-10-2017",
+   "path": "local/dolj/segarcea/2017/10",
+   "short": "HCL Segarcea nr. 10/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 10/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H10.pdf",
+     "sha256": "99d01c93f12e4beb15fc9bf03ba707655b3d8ef73f848c4e918e2aab19b682b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-100-2017",
+   "path": "local/dolj/segarcea/2017/100",
+   "short": "HCL Segarcea nr. 100/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 100/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H100.pdf",
+     "sha256": "9ceeded5fb06d826944bba78ef2371e99235fef5c09a99856aec8ff11b4e37f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-101-2017",
+   "path": "local/dolj/segarcea/2017/101",
+   "short": "HCL Segarcea nr. 101/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 101/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H101.pdf",
+     "sha256": "728b30a3fc5bce3ed8cafff6202931a2385f38c6a7a45bff95882ffebeb70159"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-102-2017",
+   "path": "local/dolj/segarcea/2017/102",
+   "short": "HCL Segarcea nr. 102/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 102/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H102.pdf",
+     "sha256": "6b682d908c5695fb420924b638805d9b88391fbc49de5528ccb96d962ab1ce58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-11-2017",
+   "path": "local/dolj/segarcea/2017/11",
+   "short": "HCL Segarcea nr. 11/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 11/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H11.pdf",
+     "sha256": "13ce2a504ae5a0abdf119ab7e8549aaeb469d50fe0974ad64a9e0565495eaf96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-12-2017",
+   "path": "local/dolj/segarcea/2017/12",
+   "short": "HCL Segarcea nr. 12/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 12/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H12.pdf",
+     "sha256": "f65162751b9ca066d5c7e9e9603e7a817be51a7dfcb141f68fdac03f4700230a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-13-2017",
+   "path": "local/dolj/segarcea/2017/13",
+   "short": "HCL Segarcea nr. 13/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 13/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H13.pdf",
+     "sha256": "882b030fb79e1b4dcc7821bc7460090b840933dd98c310a794dcea298a2e9e1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-14-2017",
+   "path": "local/dolj/segarcea/2017/14",
+   "short": "HCL Segarcea nr. 14/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 14/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H14.pdf",
+     "sha256": "bbf203e89fe5b339f0b58c4d7cff097e412a786ab4ca98f89fb6d5411d9dd369"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-15-2017",
+   "path": "local/dolj/segarcea/2017/15",
+   "short": "HCL Segarcea nr. 15/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 15/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H15.pdf",
+     "sha256": "cd1d5603de60929626a7100cc8a18e905553faee8438864cf87013efc5f41ba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-16-2017",
+   "path": "local/dolj/segarcea/2017/16",
+   "short": "HCL Segarcea nr. 16/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 16/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H16.pdf",
+     "sha256": "eb080705a27f88017c67e20125a2dfb91bd9768c613e0ea7355cdaf02be4ae2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-17-2017",
+   "path": "local/dolj/segarcea/2017/17",
+   "short": "HCL Segarcea nr. 17/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 17/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H17.pdf",
+     "sha256": "5c58236206686a2e10f23692c51a9607b0bca6296500bf293dac3ec86a82542f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-18-2017",
+   "path": "local/dolj/segarcea/2017/18",
+   "short": "HCL Segarcea nr. 18/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 18/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H18.pdf",
+     "sha256": "632964ccdf3f223157d69b71884d5c4d3c0f039a315be7edd0ea1d9f42b19752"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-19-2017",
+   "path": "local/dolj/segarcea/2017/19",
+   "short": "HCL Segarcea nr. 19/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 19/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H19.pdf",
+     "sha256": "ed66cb3b68b27a5ab19f18ee80b609db61db42403f80b6c88c46ab777d526d6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-2-2017",
+   "path": "local/dolj/segarcea/2017/2",
+   "short": "HCL Segarcea nr. 2/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 2/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H2.pdf",
+     "sha256": "3b4e07453de286739acc4b4514ada0c36a8909472ef877192542a299b113f3ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-20-2017",
+   "path": "local/dolj/segarcea/2017/20",
+   "short": "HCL Segarcea nr. 20/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 20/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H20.pdf",
+     "sha256": "8a9a933e425fa04e23bf63872eabad19af254f04186df5fcf3019d06bf3289de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-21-2017",
+   "path": "local/dolj/segarcea/2017/21",
+   "short": "HCL Segarcea nr. 21/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 21/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H21.pdf",
+     "sha256": "c1b183a87abf3dc853d66161810abb4a7d86fe4176464b10dc48c7e90344da5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-22-2017",
+   "path": "local/dolj/segarcea/2017/22",
+   "short": "HCL Segarcea nr. 22/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 22/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H22.pdf",
+     "sha256": "e8714b3b4ee87ad9859a9c39be6756ba2e8834d9826ed98419b8c853045bfb34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-23-2017",
+   "path": "local/dolj/segarcea/2017/23",
+   "short": "HCL Segarcea nr. 23/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 23/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H23.pdf",
+     "sha256": "ea3e56b4853d160779149e1d1eb0b50abe2539319a97fa09ca831744fdbf1821"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-24-2017",
+   "path": "local/dolj/segarcea/2017/24",
+   "short": "HCL Segarcea nr. 24/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 24/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H24.pdf",
+     "sha256": "3e9423a821e3905cfb558f290d0a698eea17e12587328cde9ac29957c5dc1d7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-25-2017",
+   "path": "local/dolj/segarcea/2017/25",
+   "short": "HCL Segarcea nr. 25/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 25/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H25.pdf",
+     "sha256": "9f5e0e02a1fe417171caaccf57f91e544c8ab56da72b8ca5fd8a0791260e3ced"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-26-2017",
+   "path": "local/dolj/segarcea/2017/26",
+   "short": "HCL Segarcea nr. 26/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 26/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H26.pdf",
+     "sha256": "28f1b1a18abd8f66a126f821658aa388eda29e05fb509f0cea8cd652dcfcb8ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-27-2017",
+   "path": "local/dolj/segarcea/2017/27",
+   "short": "HCL Segarcea nr. 27/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 27/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-03-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H27.pdf",
+     "sha256": "ac9521e4095d1d0d8209bdc093c5387da5d0d4cc3467dd36afa30ff8c0e141e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-28-2017",
+   "path": "local/dolj/segarcea/2017/28",
+   "short": "HCL Segarcea nr. 28/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 28/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-03-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H28.pdf",
+     "sha256": "19aee9a75e315eb79b47a337a301fb0fd9ed1b9e4032272b5720b88586aaa8cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-29-2017",
+   "path": "local/dolj/segarcea/2017/29",
+   "short": "HCL Segarcea nr. 29/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 29/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-03-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H29.pdf",
+     "sha256": "9f9ebc0fd84676d49d95f951148fc105cee16995dd14d54fa45b5b87046ad75f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-3-2017",
+   "path": "local/dolj/segarcea/2017/3",
+   "short": "HCL Segarcea nr. 3/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 3/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H3.pdf",
+     "sha256": "859e771987d840554d6bef8d3a4b4c35273b7435054e9d6bfa3691ebdff08dd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-30-2017",
+   "path": "local/dolj/segarcea/2017/30",
+   "short": "HCL Segarcea nr. 30/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 30/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-03-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H30.pdf",
+     "sha256": "2e6a0fd6770e5408895f6c22c3551518c57cab361e8e019a76922c1e99eea5fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-31-2017",
+   "path": "local/dolj/segarcea/2017/31",
+   "short": "HCL Segarcea nr. 31/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 31/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-03-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H31.pdf",
+     "sha256": "5ebcf146415fc9084957eb1d54396cde70dbbdf2f930efb6e098eda8a4fff8af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-32-2017",
+   "path": "local/dolj/segarcea/2017/32",
+   "short": "HCL Segarcea nr. 32/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 32/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-03-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H32.pdf",
+     "sha256": "e0f9c2bc46149d4b204035b0699cecf1022ec8db655e5476c2536e5b642eba79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-33-2017",
+   "path": "local/dolj/segarcea/2017/33",
+   "short": "HCL Segarcea nr. 33/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 33/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-03-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H33.pdf",
+     "sha256": "0779289bd24850f4c1b67c6420b68ca647d24d737d7780071468d449dba90249"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-34-2017",
+   "path": "local/dolj/segarcea/2017/34",
+   "short": "HCL Segarcea nr. 34/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 34/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-03-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H34.pdf",
+     "sha256": "ac4fdc1d1917274c6d3b89c4327b11ba0ad17ecad8f648e221ded456c0b6bf78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-35-2017",
+   "path": "local/dolj/segarcea/2017/35",
+   "short": "HCL Segarcea nr. 35/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 35/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-03-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H35.pdf",
+     "sha256": "69eb929178374409ac81431988c153e2238b2a63298a731351eba02d16f4b29a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-36-2017",
+   "path": "local/dolj/segarcea/2017/36",
+   "short": "HCL Segarcea nr. 36/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 36/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-03-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H36.pdf",
+     "sha256": "c2cb580f494743d40041db516f3062b8f533ea7d46c7589c9f25cf9ea3ddb200"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-37-2017",
+   "path": "local/dolj/segarcea/2017/37",
+   "short": "HCL Segarcea nr. 37/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 37/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-03-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H37.pdf",
+     "sha256": "4ac977d7b1080f17c1df84e84f2fd1a2be2ffc4c4ee86fc21108089c126ddbf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-38-2017",
+   "path": "local/dolj/segarcea/2017/38",
+   "short": "HCL Segarcea nr. 38/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 38/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-03-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H38.pdf",
+     "sha256": "73ae9050fe144b17da76b20d088cbaa5ce94b28562e282a05f4185935f49700f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-39-2017",
+   "path": "local/dolj/segarcea/2017/39",
+   "short": "HCL Segarcea nr. 39/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 39/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H39.pdf",
+     "sha256": "772c5a5d64709d9fe26e0306fdb6e6bd3a08be90df3ac9782e0608709fb57299"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-4-2017",
+   "path": "local/dolj/segarcea/2017/4",
+   "short": "HCL Segarcea nr. 4/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 4/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H4.pdf",
+     "sha256": "cd8b338872f339148cd580e3bbba5938a246140aecac25ebc467dc5b023a67bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-40-2017",
+   "path": "local/dolj/segarcea/2017/40",
+   "short": "HCL Segarcea nr. 40/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 40/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H40.pdf",
+     "sha256": "abb6bb93c16dfe338062e164984a18134dc6071d0d35ae9e14073549567bcddb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-41-2017",
+   "path": "local/dolj/segarcea/2017/41",
+   "short": "HCL Segarcea nr. 41/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 41/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H41.pdf",
+     "sha256": "1882f60f6f334a07a28111d3d3bf396ed9f3c6160ffb11e4982d76834da23ee9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-42-2017",
+   "path": "local/dolj/segarcea/2017/42",
+   "short": "HCL Segarcea nr. 42/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 42/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H42.pdf",
+     "sha256": "9c1006403051acf465bfbc0eecdc91e317d4ed9bd1d8ad08153fa1ba477704fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-43-2017",
+   "path": "local/dolj/segarcea/2017/43",
+   "short": "HCL Segarcea nr. 43/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 43/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H43.pdf",
+     "sha256": "6385241ba53a5724b2a88258df526ec1e9141d3b5eca0110aa6ae44ee608ae73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-44-2017",
+   "path": "local/dolj/segarcea/2017/44",
+   "short": "HCL Segarcea nr. 44/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 44/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H44.pdf",
+     "sha256": "dbfb3a173a0779e668fb4b0c6af786ee76673c461809f2055c25d8e74b010931"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-45-2017",
+   "path": "local/dolj/segarcea/2017/45",
+   "short": "HCL Segarcea nr. 45/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 45/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H45.pdf",
+     "sha256": "d5560b05d4ada42cb0ac021eb5fd9bb5cd4a7aba1691a03d494962c8fe34922c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-46-2017",
+   "path": "local/dolj/segarcea/2017/46",
+   "short": "HCL Segarcea nr. 46/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 46/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H46.pdf",
+     "sha256": "d7d0c9a6c120f7db54b8af6dfdf3306a2a284f0d9a42823ac819f6bb1a4ed842"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-47-2017",
+   "path": "local/dolj/segarcea/2017/47",
+   "short": "HCL Segarcea nr. 47/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 47/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H47.pdf",
+     "sha256": "234a230bdbbd7045735d7b184a294b638f1d9d7af845d1e14b7d080923d0ee7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-48-2017",
+   "path": "local/dolj/segarcea/2017/48",
+   "short": "HCL Segarcea nr. 48/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 48/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H48.pdf",
+     "sha256": "aa1637dae7ddd508c45d3ce42fe0c37a43fa568c5c0ac953c682ce4b71e4767d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-49-2017",
+   "path": "local/dolj/segarcea/2017/49",
+   "short": "HCL Segarcea nr. 49/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 49/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H49.pdf",
+     "sha256": "da46ec07960326e05d571bd4082d5b490d9dc7c3600499ac70219d6235ff60e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-5-2017",
+   "path": "local/dolj/segarcea/2017/5",
+   "short": "HCL Segarcea nr. 5/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 5/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H5.pdf",
+     "sha256": "63d6d959dda3f48b8fa15ac4755d8e5886f70788368063ff47f287e94a449e38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-52-2017",
+   "path": "local/dolj/segarcea/2017/52",
+   "short": "HCL Segarcea nr. 52/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 52/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H52.pdf",
+     "sha256": "eeb0d97158cf8905eef2108e776560fa4bcc41f6c3dfd340c74184baf173931b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-53-2017",
+   "path": "local/dolj/segarcea/2017/53",
+   "short": "HCL Segarcea nr. 53/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 53/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H53.pdf",
+     "sha256": "623b2a0c4e4f13e97f460d17b9e80eae1417d896864d14cc5f32545681b5cbbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-54-2017",
+   "path": "local/dolj/segarcea/2017/54",
+   "short": "HCL Segarcea nr. 54/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 54/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H54.pdf",
+     "sha256": "55697558d1443c96a3f14cad46711873bf4489810ad4687daae86f7ae6dd4ba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-55-2017",
+   "path": "local/dolj/segarcea/2017/55",
+   "short": "HCL Segarcea nr. 55/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 55/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H55.pdf",
+     "sha256": "a17e870b8c20fa2cc8ad9d1014ad9ad2d74cd625391a6689cc5b004d4f0ce9d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-56-2017",
+   "path": "local/dolj/segarcea/2017/56",
+   "short": "HCL Segarcea nr. 56/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 56/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H56.pdf",
+     "sha256": "4b4584cd47cf27143c98a581e89392d329dec75675b6bf5cfc08ef1d48bc3ae2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-57-2017",
+   "path": "local/dolj/segarcea/2017/57",
+   "short": "HCL Segarcea nr. 57/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 57/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H57.pdf",
+     "sha256": "c8974e12aa5a78d5be96c5a1265b62604079e7019b647934c0a5c9fab992f0ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-58-2017",
+   "path": "local/dolj/segarcea/2017/58",
+   "short": "HCL Segarcea nr. 58/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 58/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H58.pdf",
+     "sha256": "580e6f79b88f2f420816dbbaf85ec2d39a7b28291d0d5db66e68c6d942796ecd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-59-2017",
+   "path": "local/dolj/segarcea/2017/59",
+   "short": "HCL Segarcea nr. 59/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 59/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H59.pdf",
+     "sha256": "fbdd3bd94ad6143a7dde2dd3e0420b14dd526608992ea7f49d508cc4040ba81a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-6-2017",
+   "path": "local/dolj/segarcea/2017/6",
+   "short": "HCL Segarcea nr. 6/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 6/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H6.pdf",
+     "sha256": "a6cca4e194ecdb2f8c61b68a761c8ec34674cefef3cda6cb515b236f4bb51500"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-60-2017",
+   "path": "local/dolj/segarcea/2017/60",
+   "short": "HCL Segarcea nr. 60/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 60/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H60.pdf",
+     "sha256": "3e802d767b02736f57f9f371b0939c86c8389f8592f59427f0778643edc34f87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-61-2017",
+   "path": "local/dolj/segarcea/2017/61",
+   "short": "HCL Segarcea nr. 61/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 61/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H61.pdf",
+     "sha256": "d8a2a3ceba09746bef66fb47864520d2c2580882388c302e7f6828c1a5354c29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-63-2017",
+   "path": "local/dolj/segarcea/2017/63",
+   "short": "HCL Segarcea nr. 63/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 63/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H63.pdf",
+     "sha256": "be57a9c40905def6a707f12059ad6a9ec8af786f43727e250eb0293b52560be5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-64-2017",
+   "path": "local/dolj/segarcea/2017/64",
+   "short": "HCL Segarcea nr. 64/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 64/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H64.pdf",
+     "sha256": "073874fbaa66bec752fc5712de147a73cc505d8c21c0f8b980b3a25c48007408"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-65-2017",
+   "path": "local/dolj/segarcea/2017/65",
+   "short": "HCL Segarcea nr. 65/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 65/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H65.pdf",
+     "sha256": "5d2984a3214183b0a0da2a6fc598d73a73b662dfd25a34dacdea533ad09b4c94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-66-2017",
+   "path": "local/dolj/segarcea/2017/66",
+   "short": "HCL Segarcea nr. 66/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 66/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H66.pdf",
+     "sha256": "952a79cab8fbede939715e0ebcfc5807daa6fb8fb44ab7ea862a94ed0231b390"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-67-2017",
+   "path": "local/dolj/segarcea/2017/67",
+   "short": "HCL Segarcea nr. 67/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 67/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H67.pdf",
+     "sha256": "a3ddc73435045d212cd5f934a2cc36422fce66227336adc621ce3b60d7035438"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-68-2017",
+   "path": "local/dolj/segarcea/2017/68",
+   "short": "HCL Segarcea nr. 68/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 68/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H68.pdf",
+     "sha256": "d5286d4c2c56462eb1c840b70168bb794015941d980c72bfe7a22c75a7a71768"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-7-2017",
+   "path": "local/dolj/segarcea/2017/7",
+   "short": "HCL Segarcea nr. 7/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 7/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H7.pdf",
+     "sha256": "53d45304cb2dc7c5a99c59c4c95014b416ad1c5af5024e2b95960559a4709eab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-70-2017",
+   "path": "local/dolj/segarcea/2017/70",
+   "short": "HCL Segarcea nr. 70/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 70/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-09-20",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H70.pdf",
+     "sha256": "2bb96e5907a18b545827e6e45019ab5d809af07d381068233853b512fd4ca7d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-71-2017",
+   "path": "local/dolj/segarcea/2017/71",
+   "short": "HCL Segarcea nr. 71/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 71/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-09-20",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H71.pdf",
+     "sha256": "19e978f489bafd9a008653abed953c7322254aa266d5d2f99aab25556296c34b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-72-2017",
+   "path": "local/dolj/segarcea/2017/72",
+   "short": "HCL Segarcea nr. 72/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 72/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-09-20",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H72.pdf",
+     "sha256": "d2b10c77911830fe2402548ffcc9f076acb9e33d1b70b7b3d2f26662aa3e0b73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-73-2017",
+   "path": "local/dolj/segarcea/2017/73",
+   "short": "HCL Segarcea nr. 73/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 73/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H73.pdf",
+     "sha256": "e6916c8ca43076086d85fdf2cec91fd59b1520000a39f12051e7d16b674f33f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-74-2017",
+   "path": "local/dolj/segarcea/2017/74",
+   "short": "HCL Segarcea nr. 74/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 74/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H74.pdf",
+     "sha256": "601ee6023b62076dc0237e95711d260aa8210b1cf42d965bebfe3ff0f1c946e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-75-2017",
+   "path": "local/dolj/segarcea/2017/75",
+   "short": "HCL Segarcea nr. 75/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 75/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H75.pdf",
+     "sha256": "aa9a421f48abff13c0bb851b4127adb0bebe62179360fd5aaeb75897caf1fdc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-76-2017",
+   "path": "local/dolj/segarcea/2017/76",
+   "short": "HCL Segarcea nr. 76/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 76/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H76.pdf",
+     "sha256": "8a3f0a5883fe267da41f56cf8310ddf6231afc89b785f12608b080a57b6cbed9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-77-2017",
+   "path": "local/dolj/segarcea/2017/77",
+   "short": "HCL Segarcea nr. 77/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 77/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H77.pdf",
+     "sha256": "cd6c72c833bdd468aa4d04eae8a6e11df645265dbfca0cab343f0fe33f1aa982"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-78-2017",
+   "path": "local/dolj/segarcea/2017/78",
+   "short": "HCL Segarcea nr. 78/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 78/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H78.pdf",
+     "sha256": "4c13c1e4b26249c9d85bd44f62b8e7e9fc7260db9db3d904874d7946f0aeb0b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-79-2017",
+   "path": "local/dolj/segarcea/2017/79",
+   "short": "HCL Segarcea nr. 79/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 79/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H79.pdf",
+     "sha256": "bf11bd698c9f48b59cc415ac475a6a50e784822e189c9ca65fb8f7075b161f30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-8-2017",
+   "path": "local/dolj/segarcea/2017/8",
+   "short": "HCL Segarcea nr. 8/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 8/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H8.pdf",
+     "sha256": "eaa860a99e9d5d4ec7d54c0d3a0b46f0fa741d4fd7970faffde5b26a4d55d70b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-80-2017",
+   "path": "local/dolj/segarcea/2017/80",
+   "short": "HCL Segarcea nr. 80/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 80/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-10-23",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H80.pdf",
+     "sha256": "22d22d833872d8c72947342048d912de6888ad0def5d3f39eb0bb71b3336342d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-81-2017",
+   "path": "local/dolj/segarcea/2017/81",
+   "short": "HCL Segarcea nr. 81/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 81/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-10-23",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H81.pdf",
+     "sha256": "10f70939605f6eeca78ae187f953ffb56d9947f7bc5179b6c9d06ca4062a8564"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-82-2017",
+   "path": "local/dolj/segarcea/2017/82",
+   "short": "HCL Segarcea nr. 82/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 82/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H82.pdf",
+     "sha256": "7fa024eed6b4a99221faf6ffa3474c98fa7622e638f5dbb2f6c488d0abe37164"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-83-2017",
+   "path": "local/dolj/segarcea/2017/83",
+   "short": "HCL Segarcea nr. 83/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 83/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H83.pdf",
+     "sha256": "c14c8b02ec8dd27ce8dbb112d2b5c402f1a1693c350686bd75a0c162a4816b90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-84-2017",
+   "path": "local/dolj/segarcea/2017/84",
+   "short": "HCL Segarcea nr. 84/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 84/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H84.pdf",
+     "sha256": "5b8baaa9bb6faf82c02349562d1cad38bc8db93283eec88e36b869df4390e065"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-85-2017",
+   "path": "local/dolj/segarcea/2017/85",
+   "short": "HCL Segarcea nr. 85/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 85/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H85.pdf",
+     "sha256": "1e0ef7d187d7f214787f4b2ad6a1369b497d40bb03fd6f758bee46c1aff48a40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-86-2017",
+   "path": "local/dolj/segarcea/2017/86",
+   "short": "HCL Segarcea nr. 86/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 86/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H86.pdf",
+     "sha256": "f8829e2c5a82cde78be551ef9480d67afb024577537a1a56ecb117fa69626f96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-87-2017",
+   "path": "local/dolj/segarcea/2017/87",
+   "short": "HCL Segarcea nr. 87/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 87/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H87.pdf",
+     "sha256": "942a757c2ee171fb3df00d2e2ff653d624ba461119eb13df688e80314f5abfad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-88-2017",
+   "path": "local/dolj/segarcea/2017/88",
+   "short": "HCL Segarcea nr. 88/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 88/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H88.pdf",
+     "sha256": "058e7905517ecf9481e1dfc0bde0024af5b87e261c613377ba7a7894e541f5e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-89-2017",
+   "path": "local/dolj/segarcea/2017/89",
+   "short": "HCL Segarcea nr. 89/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 89/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H89.pdf",
+     "sha256": "7f225b9b05cf0886b6bb33c66dfc07bb7cd186b8f83a2359eb08feffcfbdb8fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-9-2017",
+   "path": "local/dolj/segarcea/2017/9",
+   "short": "HCL Segarcea nr. 9/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 9/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H9.pdf",
+     "sha256": "8808acf7814a9885c2eaa4c01f9571c7f204d3ca15d7ebf437a425a7e50415e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-90-2017",
+   "path": "local/dolj/segarcea/2017/90",
+   "short": "HCL Segarcea nr. 90/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 90/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H90.pdf",
+     "sha256": "95b1f9d8f7522bb96f77c45e24c66113e9f88290bf188f384eaa777dc31bf02d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-91-2017",
+   "path": "local/dolj/segarcea/2017/91",
+   "short": "HCL Segarcea nr. 91/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 91/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-11-20",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H91.pdf",
+     "sha256": "baf82949d98d3daed60f52409b94294af27b30560b8b8308cfcc52c57d0d4ae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-92-2017",
+   "path": "local/dolj/segarcea/2017/92",
+   "short": "HCL Segarcea nr. 92/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 92/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H92.pdf",
+     "sha256": "10168c7738a0691471ba913dc610fdeb475b0ad200317cae9d24ad5fda2458aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-93-2017",
+   "path": "local/dolj/segarcea/2017/93",
+   "short": "HCL Segarcea nr. 93/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 93/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H93.pdf",
+     "sha256": "2688372c19147eeaef6d5f19b2332caa1d0e19c6b2c179a5fa8efc3f1b4f2234"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-94-2017",
+   "path": "local/dolj/segarcea/2017/94",
+   "short": "HCL Segarcea nr. 94/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 94/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H94.pdf",
+     "sha256": "3f2228f0b21c12e384d453fbcc5c47e1201e0098df7c0789b39498fa90162370"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-95-2017",
+   "path": "local/dolj/segarcea/2017/95",
+   "short": "HCL Segarcea nr. 95/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 95/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H95.pdf",
+     "sha256": "adc596d31a7bb46729c9fbbb6c3990e0515b45be03a3c6f75dbac44d22906e9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-97-2017",
+   "path": "local/dolj/segarcea/2017/97",
+   "short": "HCL Segarcea nr. 97/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 97/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H97.pdf",
+     "sha256": "1abf988b276e75d37585c749b02d12a9d6bf828498e3c6c9efae01f277f33b8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-98-2017",
+   "path": "local/dolj/segarcea/2017/98",
+   "short": "HCL Segarcea nr. 98/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 98/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H98.pdf",
+     "sha256": "18839a908ece90baf37cefc28c1a4047d82e835e9622f579f2c0fb5ab3305580"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-99-2017",
+   "path": "local/dolj/segarcea/2017/99",
+   "short": "HCL Segarcea nr. 99/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 99/2017",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2017/hotarari/H99.pdf",
+     "sha256": "5ba5ba31525755f0a5942b3fecaaaa91a58fcf23310e28d8b8718f183587ecf7"
+    }
+   ]
+  }
+ ]
+}

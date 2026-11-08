@@ -91,6 +91,72 @@
 }
 },
 {
+"slug": "hcl-galati--negrilesti-5-2023",
+"path": "local/galati/negrilesti/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 5/2023 privind aprobarea bugetului local de venituri si cheltuieli pentru anul 2023",
+"short": "HCL Negrilești nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/129998",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-6-2023",
+"path": "local/galati/negrilesti/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 6/2023 privind aprobarea menținerii Comunei Negrilesti, Județul Galați la parteneriatul ”Asociația Grupul de Actiune Locala Tecuci Sud Est”",
+"short": "HCL Negrilești nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/129999",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-7-2023",
+"path": "local/galati/negrilesti/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 7/2023 privind aprobarea protocolului de colaborare si declaratiei pe proprie raspundere in care se implementeaza proiectul ”HUB de servicii MMSS – SII MMSS” cod SMIS 2014+ 130963",
+"short": "HCL Negrilești nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/130000",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--negrilesti-8-2023",
 "path": "local/galati/negrilesti/2023/8",
 "kind": "local",
@@ -110,6 +176,50 @@
 "council_name": "Consiliul Local al Comunei Negrilești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-9-2023",
+"path": "local/galati/negrilesti/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 9/2023 privind aprobarea programului de activitati cultural artistice,sociale si educative propuse a se desfasura in comuna Negrilesti, judetul Galati in anul 2023",
+"short": "HCL Negrilești nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/130002",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-10-2023",
+"path": "local/galati/negrilesti/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 10/2023 privind aprobare Act aditional la contractul de inchiriere pentru suprafete pasuni aflate in domeniul privat al comunei Negrilesti, judetul Galati",
+"short": "HCL Negrilești nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/130003",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +245,50 @@
 }
 },
 {
+"slug": "hcl-galati--negrilesti-12-2023",
+"path": "local/galati/negrilesti/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 12/2023 privind rectificarea bugetului local de venituri și cheltuieli al comunei Negrilești, jud.Galați, pe trim.I-2023",
+"short": "HCL Negrilești nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/130005",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-13-2023",
+"path": "local/galati/negrilesti/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 13/2023 privind rectificarea bugetului local de venituri și cheltuieli al comunei Negrilești, jud. Galați,pe trim.I-2023",
+"short": "HCL Negrilești nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/130011",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--negrilesti-14-2023",
 "path": "local/galati/negrilesti/2023/14",
 "kind": "local",
@@ -157,6 +311,50 @@
 }
 },
 {
+"slug": "hcl-galati--negrilesti-15-2023",
+"path": "local/galati/negrilesti/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 15/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Înfiintare rețea de canalizare și statie de epurare în comuna Negrilești, județul Galați’’ , aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Negrilești nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-23",
+"latest": "2023-11-23",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/130013",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-16-2023",
+"path": "local/galati/negrilesti/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 16/2023 privind alegerea președintelui de sedinta pentru trimestrul II anul 2023",
+"short": "HCL Negrilești nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/130179",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--negrilesti-17-2023",
 "path": "local/galati/negrilesti/2023/17",
 "kind": "local",
@@ -176,6 +374,138 @@
 "council_name": "Consiliul Local al Comunei Negrilești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-18-2023",
+"path": "local/galati/negrilesti/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 18/2023 privind aprobarea organigramei si a statului de functii din aparatul de specialitate al Primarului comunei Negrilesti, judetul Galati",
+"short": "HCL Negrilești nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/130181",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-19-2023",
+"path": "local/galati/negrilesti/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 19/2023 privind aprobarea Cererii de Finantare și a Devizului general estimative pentru obiectivul de investiții ”Extindere rețea de alimentare cu apa în comuna Negrilești, județul Galați” finantat prin Programul National de Investitii “Anghel Saligny",
+"short": "HCL Negrilești nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/130190",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-20-2023",
+"path": "local/galati/negrilesti/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 20/2023 privind rectificarea bugetului local de venituri și cheltuieli al comunei Negrilești, jud. Galați, pe trim.II-2023",
+"short": "HCL Negrilești nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/130191",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-21-2023",
+"path": "local/galati/negrilesti/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 21/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Negrilești și a serviciilor publice din subordinea Consiliului Local al Comunei",
+"short": "HCL Negrilești nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/130192",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-22-2023",
+"path": "local/galati/negrilesti/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 22/2023 privind aprobarea achizitiei directe de servicii si atribuirea contractului de delegare a gestiunii activităților de colectare separate, transport separate și depozitare al deseurilor municipal și deseurilor similar provenind din activitatile comerciale din industrie si institutii în comuna Negrilești, judetul Galați",
+"short": "HCL Negrilești nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/130193",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-23-2023",
+"path": "local/galati/negrilesti/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 23/2023 privind aprobarea participării UAT Comuna Negrilesti la Programul privind casarea autovehiculelor uzate “Rabla Local”, derulate în cofinațare cu Administratia Fondului de Mediu",
+"short": "HCL Negrilești nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-24",
+"latest": "2023-11-24",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/130194",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

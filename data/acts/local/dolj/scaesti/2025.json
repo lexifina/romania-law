@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-dolj--scaesti-3-2025",
+"path": "local/dolj/scaesti/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scăești nr. 3/2025 privind aprobarea contractării unui împrumut în valoare de 550.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 133/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, precum si pentru modificarea si completarea unor acte normative aferente reprezentarii statului in litigiile arbitrale si judiciare internationale si concesionarii proprietatii publice a statului si pentru modificarea si completarea unor acte normative",
+"short": "HCL Scăești nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/scaesti-dj/registru-hcl/185862",
+"council": "dolj/scaesti",
+"council_name": "Consiliul Local al Comunei Scăești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--scaesti-4-2025",
 "path": "local/dolj/scaesti/2025/4",
 "kind": "local",
@@ -220,6 +242,29 @@
 "council_name": "Consiliul Local al Comunei Scăești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--scaesti-12-2025",
+"path": "local/dolj/scaesti/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scăești nr. 12/2025",
+"short": "HCL Scăești nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-28",
+"latest": "2025-03-28",
+"portal": "https://emol.ro/scaesti-dj/registru-hcl/200559",
+"council": "dolj/scaesti",
+"council_name": "Consiliul Local al Comunei Scăești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -440,6 +485,29 @@
 "council_name": "Consiliul Local al Comunei Scăești",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--scaesti-23-2025",
+"path": "local/dolj/scaesti/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scăești nr. 23/2025",
+"short": "HCL Scăești nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "https://emol.ro/scaesti-dj/registru-hcl/213809",
+"council": "dolj/scaesti",
+"council_name": "Consiliul Local al Comunei Scăești",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

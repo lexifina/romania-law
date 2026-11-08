@@ -135,6 +135,51 @@
 }
 },
 {
+"slug": "hcl-dolj--sadova-7-2023",
+"path": "local/dolj/sadova/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 7/2023 privind alegerea presedintelui de sedinta pentru sedintele Consiliului Local Sadova in perioada februarie-aprilie 2023",
+"short": "HCL Sadova nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-13",
+"latest": "2023-02-13",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/90086",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--sadova-8-2023",
+"path": "local/dolj/sadova/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 8/2023",
+"short": "HCL Sadova nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-13",
+"latest": "2023-02-13",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/90087",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--sadova-9-2023",
 "path": "local/dolj/sadova/2023/9",
 "kind": "local",

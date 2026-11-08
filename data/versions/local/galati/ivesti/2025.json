@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--ivesti-12-2025",
+   "path": "local/galati/ivesti/2025/12",
+   "short": "HCL Ivești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 12/2025",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/213231",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/213231",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--ivesti-13-2025",
    "path": "local/galati/ivesti/2025/13",
    "short": "HCL Ivești nr. 13/2025",
@@ -73,6 +88,21 @@
      "from": "2026-01-26",
      "units": 1,
      "source_url": "https://emol.ro/ivesti-gl/registru-hcl/213233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-15-2025",
+   "path": "local/galati/ivesti/2025/15",
+   "short": "HCL Ivești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 15/2025 privind proiectul de hotărâre privind închirierea suprafetelor de teren agricol din domeniul privat al comunei Ivești, județul Galați, în anul 2025",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/213234",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/213234",
      "sha256": null
     }
    ]
@@ -148,6 +178,21 @@
      "from": "2026-01-26",
      "units": 1,
      "source_url": "https://emol.ro/ivesti-gl/registru-hcl/212680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-20-2025",
+   "path": "local/galati/ivesti/2025/20",
+   "short": "HCL Ivești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 20/2025 privind desemnarea reprezentanților Consiliului local al comunei Iveşti, judeţul Galaţi în comisiile de vânzare prin licitație publică a bunurilor imobile (terenuri și/sau clădiri) aflate în domeniul privat al comunei Ivești, judeţul Galați",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/213286",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/213286",
      "sha256": null
     }
    ]
@@ -388,6 +433,21 @@
      "from": "2026-01-26",
      "units": 1,
      "source_url": "https://emol.ro/ivesti-gl/registru-hcl/246131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-36-2025",
+   "path": "local/galati/ivesti/2025/36",
+   "short": "HCL Ivești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 36/2025 privind aprobarea vânzării prin licitație publică a imobilului constituit din apartament cu 2 camere, situat în comuna Ivești, str. General Eremia Grigorescu, nr. 340, Bloc 33, sc. 1, ap. 2, județul Galați",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/246132",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/246132",
      "sha256": null
     }
    ]
@@ -808,6 +868,36 @@
      "from": "2026-01-26",
      "units": 1,
      "source_url": "https://emol.ro/ivesti-gl/registru-hcl/246477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-62-2025",
+   "path": "local/galati/ivesti/2025/62",
+   "short": "HCL Ivești nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 62/2025 privind desemnarea reprezentanţilor Consiliului local al comunei Iveşti, judeţul Galaţi în consiliile de administraţie ale unităţilor de învăţământ de pe raza comunei Iveşti, judeţul Galați",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/246478",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/246478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-63-2025",
+   "path": "local/galati/ivesti/2025/63",
+   "short": "HCL Ivești nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 63/2025 privind desemnarea reprezentanților Consiliului local al comunei Ivești, județul Galați, în Comisiile pentru asigurarea şi evaluarea calităţii din cadrul instituțiilor de invățământ din comuna Iveşti, județul Galaţi",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/246479",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/246479",
      "sha256": null
     }
    ]

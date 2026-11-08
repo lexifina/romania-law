@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dolj/salcuta/2024",
+"acts": [
+{
+"slug": "hcl-dolj--salcuta-27-2024",
+"path": "local/dolj/salcuta/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sălcuța nr. 27/2024 privind rectificarea bugetului local al comunei Silcufa ,pe an;rll2014 Consiliul Local al GOMUNEI SALCUTA , intrunit in gedinla ordinard din data de23.07.2024 ; Av6nd in vedere: pgei parinnuRclrae2aIrfne0peo2rscare4ottuupnllrfodnopetr.u2m-na4epi0tra2ore1tbe1catr7iefc.i0cua7al.pr2per0reai2mv4beaudargueellrutiuclieloucmioLLmpeoagucrntiaiiemlnieaSrln.ictlc4uou2lmuf1iau/2nc0oe2ni 3tSadpblicrliuitualat",
+"short": "HCL Sălcuța nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-23",
+"latest": "2024-07-23",
+"portal": "http://primaria-salcuta.ro/wp/consiliul-local/hotarari-c-l",
+"council": "dolj/salcuta",
+"council_name": "Consiliul Local al Comunei Sălcuța",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -179,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-galati--beresti-meria-9-2024",
+"path": "local/galati/beresti-meria/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 9/2024 privind aprobarea închirierii terenului în suprafață de 4952 mp, identificat în CV 53, P 294/6, sat Slivna, domeniul privat al comunei Berești-Meria, județul Galați",
+"short": "HCL Berești-Meria nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/143604",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--beresti-meria-10-2024",
 "path": "local/galati/beresti-meria/2024/10",
 "kind": "local",
@@ -551,6 +573,28 @@
 "council_name": "Consiliul Local al Comunei Berești-Meria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-27-2024",
+"path": "local/galati/beresti-meria/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 27/2024 privind aprobarea alocării sumei de 10000lei din bugetul local ca sprijin financiar Parohiei Pleșa, comuna Berești-Meria, județul Galați",
+"short": "HCL Berești-Meria nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/156841",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1058,6 +1102,28 @@
 "council_name": "Consiliul Local al Comunei Berești-Meria",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--beresti-meria-51-2024",
+"path": "local/galati/beresti-meria/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 51/2024 pentru aprobarea dezmembrării a doua terenuri din comuna Berești-Meria, județul Galați",
+"short": "HCL Berești-Meria nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/beresti-meria-gl/registru-hcl/168565",
+"council": "galati/beresti-meria",
+"council_name": "Consiliul Local al Comunei Berești-Meria",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/galati/cudalbi/2002",
+ "acts": [
+  {
+   "slug": "hcl-galati--cudalbi-20-2002",
+   "path": "local/galati/cudalbi/2002/20",
+   "short": "HCL Cudalbi nr. 20/2002",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 20/2002 privind rectificare buget 2023",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2023/04/HCL-NR.-20-DIN-27.03.023-privind-rectificare-buget-2023.pdf",
+   "versions": [
+    {
+     "from": "2002-03-27",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2023/04/HCL-NR.-20-DIN-27.03.023-privind-rectificare-buget-2023.pdf",
+     "sha256": "2f937629d889298c26d4112634c8efab5f0037c7854d65388707ca84d7a788a6"
+    }
+   ]
+  }
+ ]
+}

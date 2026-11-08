@@ -136,6 +136,50 @@
 }
 },
 {
+"slug": "hcl-galati--corni-7-2025",
+"path": "local/galati/corni/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 7/2025 Privind acordarea unui mandat special pentru desfășurarea procedurii de selecție a membrilor Consiliului de Administrație al Operatorului Regional Societatea Apă Canal S.A",
+"short": "HCL Corni nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/corni-gl/registru-hcl/208951",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--corni-8-2025",
+"path": "local/galati/corni/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 8/2025 Privind : alegerea presedintelui de sedinta ,pe o perioada de 3 luni ,care va conduce sedintele consiliului si va semna hotararile adoptate de acesta",
+"short": "HCL Corni nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/corni-gl/registru-hcl/208955",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--corni-9-2025",
 "path": "local/galati/corni/2025/9",
 "kind": "local",
@@ -155,6 +199,50 @@
 "council_name": "Consiliul Local al Comunei Corni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-10-2025",
+"path": "local/galati/corni/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 10/2025 privind aprobarea Nomenclaturii stradale organizată pe fiecare localitate componentă comunei Corni care reprezintă evidenţa primară unitară și serveşte la atribuirea denumirii străzii şi a numărului administrativ pentru toate imobilele din intravilan",
+"short": "HCL Corni nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/corni-gl/registru-hcl/208957",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--corni-11-2025",
+"path": "local/galati/corni/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 11/2025 pentru modificarea și completarea Hotărârii Consiliului Local nr.26 din 09.03.2023 privind închirierea unor bunuri imobile –terenuri agricole –aflate în proprietatea privată a comunei Corni,judetul Galați",
+"short": "HCL Corni nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/corni-gl/registru-hcl/208958",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -397,6 +485,28 @@
 "council_name": "Consiliul Local al Comunei Corni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-23-2025",
+"path": "local/galati/corni/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 23/2025 Privind alegerea viceprimarului comunei Corni ,Județul Galați",
+"short": "HCL Corni nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/corni-gl/registru-hcl/209006",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -688,6 +798,96 @@
 }
 },
 {
+"slug": "hcl-galati--corni-37-2025",
+"path": "local/galati/corni/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 37/2025 privind atribuirea în folosință gratuită a unor suprafețe de teren în vederea construirii de locuințe proprietate personală, conform Legii nr.15/2003, în localitatea Corni, d/nei Turturică Marinela-Aurora",
+"short": "HCL Corni nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/corni-gl/registru-hcl/245949",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--corni-38-2025",
+"path": "local/galati/corni/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 38/2025",
+"short": "HCL Corni nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/corni-gl/registru-hcl/245950",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--corni-39-2025",
+"path": "local/galati/corni/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 39/2025 privind atribuirea în folosință gratuită a unor suprafețe de teren în vederea construirii de locuințe proprietate personală, conform Legii nr.15/2003, în localitatea Corni, d/lui Caval George-Valentin",
+"short": "HCL Corni nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/corni-gl/registru-hcl/245951",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--corni-40-2025",
+"path": "local/galati/corni/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 40/2025",
+"short": "HCL Corni nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/corni-gl/registru-hcl/245952",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--corni-41-2025",
 "path": "local/galati/corni/2025/41",
 "kind": "local",
@@ -751,6 +951,28 @@
 "council_name": "Consiliul Local al Comunei Corni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-44-2025",
+"path": "local/galati/corni/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 44/2025 Privind : alegerea presedintelui de sedinta ,pe o perioada de 3 luni ,care va conduce sedintele consiliului si va semna hotararile adoptate de acesta",
+"short": "HCL Corni nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/corni-gl/registru-hcl/245956",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1216,6 +1438,28 @@
 }
 },
 {
+"slug": "hcl-galati--corni-66-2025",
+"path": "local/galati/corni/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 66/2025 privind alegerea presedintelui de sedinta, pe o perioada de 3 luni, care va conduce sedintele consiliului si va semna hotararile adoptate de acesta",
+"short": "HCL Corni nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-14",
+"latest": "2026-01-14",
+"portal": "https://emol.ro/corni-gl/registru-hcl/246711",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--corni-67-2025",
 "path": "local/galati/corni/2025/67",
 "kind": "local",
@@ -1326,6 +1570,28 @@
 }
 },
 {
+"slug": "hcl-galati--corni-72-2025",
+"path": "local/galati/corni/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 72/2025 privind desemnarea unui reprezentant al Consiliului Local al comunei Corni și un reprezentant al primarului comunei Corni, județul Galați, în Consiliul de Administrație al Scolii Gimnaziale nr. 1 sat Măcișeni, comuna Corni, pentru anul școlar 2025-2026",
+"short": "HCL Corni nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-14",
+"latest": "2026-01-14",
+"portal": "https://emol.ro/corni-gl/registru-hcl/246717",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--corni-73-2025",
 "path": "local/galati/corni/2025/73",
 "kind": "local",
@@ -1389,6 +1655,28 @@
 "council_name": "Consiliul Local al Comunei Corni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-76-2025",
+"path": "local/galati/corni/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 76/2025 privind aprobarea alocării de la bugetul local al unor fonduri pentru unităţile de cult din comuna Corni pe anul 2025 în cadrul programului anual privind acordarea unor forme de sprijin financiar pentru unităţile de cult aparţinând cultelor religioase recunoscute din România",
+"short": "HCL Corni nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-14",
+"latest": "2026-01-14",
+"portal": "https://emol.ro/corni-gl/registru-hcl/246721",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

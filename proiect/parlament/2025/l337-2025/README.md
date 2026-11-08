@@ -1,0 +1,60 @@
+**Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.**
+
+# Propunere legislativă privind modificarea și completarea Legii nr.51/1995 pentru organizarea și exercitarea profesiei de avocat
+
+**Became:** [Legea nr. 118/2026](../../../../lege/2026/118/) (`legea-118-2026`): that act is the law, from its own in-force day; read it with `python tools/on.py <day> legea-118-2026`.
+
+Propunere legislativă L337/2025 · initiator: Membri ai Parlamentului · 9 published stages, 2025-09-03 to 2026-07-03 · <https://www.senat.ro/legis/lista.aspx?nr_cls=L337&an_cls=2025>
+
+- Senate number: L337/2025
+- Type: Propunere legislativă
+- Character: Ordinară
+- Urgent procedure: Da
+- First chamber: Senat
+- Legislative Council opinion: 659/23.09.2025
+- Stage in the bill file: A devenit Legea nr.118/03.07.2026 publicatã în M.O. nr.550/03.07.2026
+- Initiators: 1 member(s) of Parliament, named in the bill file at the source link (credited here as a body)
+
+## Stages
+
+Each stage is one commit (`Kind: draft`, no `In-force:` trailer), dated on the day it was published. Tag `proiect-parlament-2025-l337-2025/<day>` is the draft as it stood after that stage.
+
+| Day | Stage |
+| --- | --- |
+| 2025-09-03 | registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive |
+| 2025-09-09 | documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social |
+| 2025-10-08 | documents published: Raport comisie sesizată pe fond |
+| 2025-10-13 | adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților |
+| 2025-10-20 | registered at the Chamber of Deputies |
+| 2026-06-10 | adopted by the Chamber of Deputies |
+| 2026-06-15 | documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare |
+| 2026-06-22 | sent for promulgation |
+| 2026-07-03 | promulgated, becomes Legea nr. 118/2026; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată |
+
+## Files
+
+| File | What |
+| --- | --- |
+| [ad-895d7fa1.md](ad-895d7fa1.md) | Adresă de înaintare a inițiativei (AD), as published |
+| [ag1-ce25bfb9.md](ag1-ce25bfb9.md) | Document (AG1), as published |
+| [am-ebb8c61a.md](am-ebb8c61a.md) | Adresă către Camera Deputaților (AM), as published |
+| [axs-bec61a6e.md](axs-bec61a6e.md) | Adresă privind sesizarea CCR (AXS), as published |
+| [cr-2a96680d.md](cr-2a96680d.md) | Raport comisie sesizată pe fond (CR), as published |
+| [dp-7c7826a6.md](dp-7c7826a6.md) | Decret de promulgare (DP), as published |
+| [em-7d1f098c.md](em-7d1f098c.md) | Expunere de motive (EM), as published |
+| [es-b7a90102.md](es-b7a90102.md) | Aviz Consiliul Economic și Social (ES), as published |
+| [fg-d7d9aa92.md](fg-d7d9aa92.md) | Forma inițiatorului (FG), as published |
+| [fp-51e93596.md](fp-51e93596.md) | Forma promulgată (FP), as published |
+| [fs-e0070dc5.md](fs-e0070dc5.md) | Forma adoptată de Senat (FS), as published |
+| [lg-8d9f66c6.md](lg-8d9f66c6.md) | Aviz Consiliul Legislativ (LG), as published |
+| [lp-7b38e082.md](lp-7b38e082.md) | Forma trimisă la promulgare (LP), as published |
+| [procedura.md](procedura.md) | Procedura: stages and documents so far |
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Draft id: `proiect-parlament-2025-l337-2025`. `tools/on.py` never returns a draft: it reads only commits with an `In-force:` trailer.
+
+## Decisions made by hand
+
+- Propunere legislativă L337/2025: added by Lexifina's drafts source lane from the official bill file of the Senate (senat.ro). A draft is not law: its commits carry Kind: draft and no In-force trailer, dated on the day each stage was published, and credited to the initiator.
+- Propunere legislativă L337/2025: comments by private persons are not collected or published; initiators are credited as a body.

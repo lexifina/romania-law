@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--ivesti-10-2023",
+   "path": "local/galati/ivesti/2023/10",
+   "short": "HCL Ivești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 10/2023",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/91501",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/91501",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--ivesti-100-2023",
    "path": "local/galati/ivesti/2023/100",
    "short": "HCL Ivești nr. 100/2023",
@@ -73,6 +88,21 @@
      "from": "2024-02-13",
      "units": 1,
      "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-11-2023",
+   "path": "local/galati/ivesti/2023/11",
+   "short": "HCL Ivești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 11/2023 Privind: închirierea suprafețelor de teren agricol din domeniul privat al comunei Ivești, județul Galați, în anul 2023",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/103143",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/103143",
      "sha256": null
     }
    ]
@@ -303,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--ivesti-26-2023",
+   "path": "local/galati/ivesti/2023/26",
+   "short": "HCL Ivești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 26/2023 privind stabilirea salariilor de bază pentru functiile publice si functiile contractuale din cadrul aparatului de specialitate al Primarului Comunei Ivești,județul Galați precum si stabilirea indemnizatiei consilierilor locali din cadrul Consiliului Local Ivești, judetul Galați, conform Legii 153/2017 privind salarizarea personalului plătit din fonduri publice si OUG nr. 57/2019 privind Codul administrativ, actualizata, cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/116317",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/116317",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--ivesti-27-2023",
    "path": "local/galati/ivesti/2023/27",
    "short": "HCL Ivești nr. 27/2023",
@@ -358,6 +403,21 @@
      "from": "2023-02-23",
      "units": 1,
      "source_url": "https://emol.ro/ivesti-gl/registru-hcl/91494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-30-2023",
+   "path": "local/galati/ivesti/2023/30",
+   "short": "HCL Ivești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 30/2023 privind prelungirea contractelor de închiriere a suprafețelor de teren agricol a căror din domeniul privat al comunei Ivești, județul Galați",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/116321",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/116321",
      "sha256": null
     }
    ]
@@ -828,6 +888,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--ivesti-6-2023",
+   "path": "local/galati/ivesti/2023/6",
+   "short": "HCL Ivești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 6/2023 privind aprobarea vanzarii prin negociere directa a terenului pasune in suprafata de 2.593 mp., apartinand domeniului privat al comunei Ivesti, judetul Galati, situat in intravilan, T76/2, P2, lot 1",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/91497",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/91497",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--ivesti-60-2023",
    "path": "local/galati/ivesti/2023/60",
    "short": "HCL Ivești nr. 60/2023",
@@ -1008,6 +1083,51 @@
    ]
   },
   {
+   "slug": "hcl-galati--ivesti-71-2023",
+   "path": "local/galati/ivesti/2023/71",
+   "short": "HCL Ivești nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 71/2023 privind aprobarea vânzării prin negociere directă a terenului pășune în suprafață de 6.300 mp., aparținând domeniului privat al comunei Ivești, județul Galați, situat în intravilan, T 76/2, P 2, lot 2",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/129650",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/129650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-72-2023",
+   "path": "local/galati/ivesti/2023/72",
+   "short": "HCL Ivești nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 72/2023 privind desemnarea reprezentanţilor Consiliului local al comunei Iveşti, judeţul Galaţi in consiliile de administraţie ale unităţilor de învăţământ de pe raza comunei Iveşti, judeţul Galati",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142496",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-73-2023",
+   "path": "local/galati/ivesti/2023/73",
+   "short": "HCL Ivești nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 73/2023 privind desemnarea reprezentanților Consiliului local al comunei Ivești, județul Galați, în Comisiile pentru asigurarea şi evaluarea calităţii din cadrul instituțiilor de invățământ din comuna Iveşti, județul Galaţi",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142497",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142497",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--ivesti-74-2023",
    "path": "local/galati/ivesti/2023/74",
    "short": "HCL Ivești nr. 74/2023",
@@ -1063,6 +1183,21 @@
      "from": "2024-02-13",
      "units": 1,
      "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-78-2023",
+   "path": "local/galati/ivesti/2023/78",
+   "short": "HCL Ivești nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 78/2023",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142645",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142645",
      "sha256": null
     }
    ]
@@ -1243,6 +1378,21 @@
      "from": "2024-02-13",
      "units": 1,
      "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-9-2023",
+   "path": "local/galati/ivesti/2023/9",
+   "short": "HCL Ivești nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 9/2023",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/91500",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/91500",
      "sha256": null
     }
    ]

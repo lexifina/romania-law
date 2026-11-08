@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/galati/buciumeni/2025",
+ "acts": [
+  {
+   "slug": "hcl-galati--buciumeni-22-2025",
+   "path": "local/galati/buciumeni/2025/22",
+   "short": "HCL Buciumeni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 22/2025 privind acordarea cu titlu gratuit a drepturilor de uz si servitute asupra unor terenuri apartinand UAT Buciumeni",
+   "url": "http://www.primariabuciumeni.ro/wp-content/uploads/2025/07/Hotararea-NR.-22-din-30.05.2025-privind-acordarea-cu-titlu-gratuit-a-drepturilor-de-uz-si-servitute-asupra-unor-terenuri-apartinand-UAT-Buciumeni.pdf",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "http://www.primariabuciumeni.ro/wp-content/uploads/2025/07/Hotararea-NR.-22-din-30.05.2025-privind-acordarea-cu-titlu-gratuit-a-drepturilor-de-uz-si-servitute-asupra-unor-terenuri-apartinand-UAT-Buciumeni.pdf",
+     "sha256": "86a5f1abf25d8891e74aabe33c46e658a7f1d04c3224114d5ee71a13faa31d8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--buciumeni-28-2025",
+   "path": "local/galati/buciumeni/2025/28",
+   "short": "HCL Buciumeni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 28/2025 privind aprobarea completarii Regulamentului de organizare si functionare a SPAAB",
+   "url": "http://www.primariabuciumeni.ro/wp-content/uploads/2025/06/Hotararea-NR.-28-din-20.06.2025-privind-aprobarea-completarii-Regulamentului-de-organizare-si-functionare-a-SPAAB.pdf",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "http://www.primariabuciumeni.ro/wp-content/uploads/2025/06/Hotararea-NR.-28-din-20.06.2025-privind-aprobarea-completarii-Regulamentului-de-organizare-si-functionare-a-SPAAB.pdf",
+     "sha256": "1e5a8c9d55374964dfb6b35b56017b5578d197a8eb24df54618df1a82e4e31ec"
+    }
+   ]
+  }
+ ]
+}

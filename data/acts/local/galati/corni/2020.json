@@ -91,6 +91,50 @@
 }
 },
 {
+"slug": "hcl-galati--corni-5-2020",
+"path": "local/galati/corni/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 5/2020 privind stabilirea indemnizaţiei lunare pentru funcţiile de demnitate publică , salariul de bază pentru funcţionarii publici precum şi a personalului contractual din cadrul familiei ocupaţionale \"Administraţie\" din aparatul propriu al Primarului comunei Cornii, judeţul Galaţi",
+"short": "HCL Corni nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://emol.ro/corni-gl/registru-hcl/9427",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--corni-6-2020",
+"path": "local/galati/corni/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 6/2020 privind alegerea presedintelui de sedinta ,pe o perioada de 3 luni ,care va conduce sedintele consiliului si va semna hotararile adoptate de acesta",
+"short": "HCL Corni nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/corni-gl/registru-hcl/9444",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--corni-7-2020",
 "path": "local/galati/corni/2020/7",
 "kind": "local",
@@ -176,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Corni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-11-2020",
+"path": "local/galati/corni/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 11/2020 privind închirierea unor suprafețe de 206,0854 ha pajiști, aflate în proprietatea privată a comunei Corni, judeţul Galați",
+"short": "HCL Corni nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/corni-gl/registru-hcl/9449",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

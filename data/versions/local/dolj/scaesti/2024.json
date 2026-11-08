@@ -3,6 +3,21 @@
  "shard": "local/dolj/scaesti/2024",
  "acts": [
   {
+   "slug": "hcl-dolj--scaesti-1-2024",
+   "path": "local/dolj/scaesti/2024/1",
+   "short": "HCL Scăești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 1/2024 privind acoperirea definitiva din excedentul bugetului local a deficitului sectiunii de dezvoltare( sursa A)",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/137245",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/137245",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--scaesti-10-2024",
    "path": "local/dolj/scaesti/2024/10",
    "short": "HCL Scăești nr. 10/2024",
@@ -138,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--scaesti-19-2024",
+   "path": "local/dolj/scaesti/2024/19",
+   "short": "HCL Scăești nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 19/2024 privind aprobarea impozitelor si taxelor locale pe anul 2025",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/159323",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/159323",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--scaesti-2-2024",
    "path": "local/dolj/scaesti/2024/2",
    "short": "HCL Scăești nr. 2/2024",
@@ -148,6 +178,21 @@
      "from": "2024-01-18",
      "units": 1,
      "source_url": "https://emol.ro/scaesti-dj/registru-hcl/138022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-20-2024",
+   "path": "local/dolj/scaesti/2024/20",
+   "short": "HCL Scăești nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 20/2024",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/160161",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/160161",
      "sha256": null
     }
    ]
@@ -168,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--scaesti-22-2024",
+   "path": "local/dolj/scaesti/2024/22",
+   "short": "HCL Scăești nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 22/2024",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/160163",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/160163",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--scaesti-23-2024",
    "path": "local/dolj/scaesti/2024/23",
    "short": "HCL Scăești nr. 23/2024",
@@ -178,6 +238,21 @@
      "from": "2024-09-02",
      "units": 1,
      "source_url": "https://emol.ro/scaesti-dj/registru-hcl/160164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-24-2024",
+   "path": "local/dolj/scaesti/2024/24",
+   "short": "HCL Scăești nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 24/2024 privind acordarea unui ajutor financiar pentru Biserica Ortodoxă Valea lui Pătru",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/162417",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/162417",
      "sha256": null
     }
    ]
@@ -583,6 +658,36 @@
      "from": "2024-02-05",
      "units": 1,
      "source_url": "https://emol.ro/scaesti-dj/registru-hcl/141777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-7-2024",
+   "path": "local/dolj/scaesti/2024/7",
+   "short": "HCL Scăești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 7/2024 privind bugetul local de venituri si cheltuieli pentru anul 2024",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/141778",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/141778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-8-2024",
+   "path": "local/dolj/scaesti/2024/8",
+   "short": "HCL Scăești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 8/2024 privind bugetul local de venituri si cheltuieli pentru anul 2024 pentru Serviciul de Utilitati Publice Scaesti",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/141779",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/141779",
      "sha256": null
     }
    ]

@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--scanteiesti-16-2020",
+   "path": "local/galati/scanteiesti/2020/16",
+   "short": "HCL Scânteiești nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 16/2020 privind alegerea preşedintelui de şedinţă pentru lunile aprilie-iunie 2020",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/1016",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/1016",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-17-2020",
    "path": "local/galati/scanteiesti/2020/17",
    "short": "HCL Scânteiești nr. 17/2020",
@@ -133,6 +148,21 @@
      "from": "2020-04-28",
      "units": 1,
      "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/1018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-19-2020",
+   "path": "local/galati/scanteiesti/2020/19",
+   "short": "HCL Scânteiești nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 19/2020 privind închirierea pajiştilor prin atribuire directă, aflate în proprietatea privată a Comunei Scânteieşti, Judeţul Galaţi, rămase disponibile în urma rezilierii unor contracte",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/1019",
+   "versions": [
+    {
+     "from": "2020-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/1019",
      "sha256": null
     }
    ]
@@ -288,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--scanteiesti-29-2020",
+   "path": "local/galati/scanteiesti/2020/29",
+   "short": "HCL Scânteiești nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 29/2020",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/16039",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/16039",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-3-2020",
    "path": "local/galati/scanteiesti/2020/3",
    "short": "HCL Scânteiești nr. 3/2020",
@@ -393,6 +438,51 @@
    ]
   },
   {
+   "slug": "hcl-galati--scanteiesti-36-2020",
+   "path": "local/galati/scanteiesti/2020/36",
+   "short": "HCL Scânteiești nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 36/2020 privind aprobarea vânzării prin licitaţie publică deschisă cu strigare a materialelor reziduale rezultate din acţiunea de demolare a Scolii cu clasele I-VIII din localitatea Fântânele, comuna Scânteieşti, judeţul Galaţi",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/16046",
+   "versions": [
+    {
+     "from": "2020-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/16046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-37-2020",
+   "path": "local/galati/scanteiesti/2020/37",
+   "short": "HCL Scânteiești nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 37/2020 privind scoaterea la licitaţie publică, în vederea închirierii, a spaţiului de 33,56 mp, parte dintr-un apartament din blocul de locuinţe din satul Fîntînele, cu destinaţia farmacie",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/16047",
+   "versions": [
+    {
+     "from": "2020-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/16047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-38-2020",
+   "path": "local/galati/scanteiesti/2020/38",
+   "short": "HCL Scânteiești nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 38/2020 privind scoaterea la licitaţie publică, în vederea închirierii, a spaţiului de 21,99 mp situat în Dispensarul uman Scînteieşti, cu destinaţia farmacie",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/16048",
+   "versions": [
+    {
+     "from": "2020-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/16048",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-39-2020",
    "path": "local/galati/scanteiesti/2020/39",
    "short": "HCL Scânteiești nr. 39/2020",
@@ -468,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--scanteiesti-43-2020",
+   "path": "local/galati/scanteiesti/2020/43",
+   "short": "HCL Scânteiești nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 43/2020 privind alegerea preşedintelui de şedinţă pentru sedința din data de 19.10.2020",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/16061",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/16061",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-44-2020",
    "path": "local/galati/scanteiesti/2020/44",
    "short": "HCL Scânteiești nr. 44/2020",
@@ -478,6 +583,21 @@
      "from": "2020-10-19",
      "units": 1,
      "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/16062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-45-2020",
+   "path": "local/galati/scanteiesti/2020/45",
+   "short": "HCL Scânteiești nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 45/2020 privind alegerea preşedintelui de şedinţă pentru sedinta din data de 23.10.2020",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/16063",
+   "versions": [
+    {
+     "from": "2020-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/16063",
      "sha256": null
     }
    ]
@@ -823,6 +943,21 @@
      "from": "2020-01-21",
      "units": 1,
      "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/1007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-8-2020",
+   "path": "local/galati/scanteiesti/2020/8",
+   "short": "HCL Scânteiești nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 8/2020",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/1008",
+   "versions": [
+    {
+     "from": "2020-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/1008",
      "sha256": null
     }
    ]

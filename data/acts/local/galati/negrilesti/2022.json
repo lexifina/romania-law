@@ -3,6 +3,28 @@
 "shard": "local/galati/negrilesti/2022",
 "acts": [
 {
+"slug": "hcl-galati--negrilesti-1-2022",
+"path": "local/galati/negrilesti/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 1/2022 privind aprobarea presedintelui de sedinta pentru trim I anul 2022",
+"short": "HCL Negrilești nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/50910",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--negrilesti-2-2022",
 "path": "local/galati/negrilesti/2022/2",
 "kind": "local",
@@ -265,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Negrilești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-14-2022",
+"path": "local/galati/negrilesti/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 14/2022 privind majorarea indemnizatiei consilierilor locali",
+"short": "HCL Negrilești nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-05",
+"latest": "2022-08-05",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/67985",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -597,6 +641,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-30-2022",
+"path": "local/galati/negrilesti/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 30/2022 privind alegerea președintelui de sedinta pentru trimestrul IV anul 2022",
+"short": "HCL Negrilești nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-16",
+"latest": "2023-02-16",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/90490",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

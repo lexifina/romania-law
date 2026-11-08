@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-galati--ivesti-3-2021",
+"path": "local/galati/ivesti/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 3/2021 privind însuşirea unei documentaţii cadastrale de dezlipire pentru imobilul situat în Comuna Ivești, Cv 27, Parcela 5/6, Lot 2 - intravilan, identificat cu numărul cadastral 102274",
+"short": "HCL Ivești nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-21",
+"latest": "2021-01-21",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45137",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--ivesti-4-2021",
+"path": "local/galati/ivesti/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 4/2021 privind însuşirea unei documentaţii cadastrale de dezlipire pentru imobilul situat în Comuna Ivești, T.70, Parcela 382/1 - intravilan, identificat cu numărul cadastral 102324",
+"short": "HCL Ivești nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-21",
+"latest": "2021-01-21",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45138",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--ivesti-5-2021",
 "path": "local/galati/ivesti/2021/5",
 "kind": "local",
@@ -246,6 +290,29 @@
 }
 },
 {
+"slug": "hcl-galati--ivesti-14-2021",
+"path": "local/galati/ivesti/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 14/2021",
+"short": "HCL Ivești nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45148",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--ivesti-15-2021",
 "path": "local/galati/ivesti/2021/15",
 "kind": "local",
@@ -290,6 +357,28 @@
 }
 },
 {
+"slug": "hcl-galati--ivesti-17-2021",
+"path": "local/galati/ivesti/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 17/2021 privind însuşirea unei documentaţii cadastrale de dezlipire pentru imobilul situat în Comuna Ivești, Tarlaua 69, Parcela 377/4 - intravilan, identificat cu numărul cadastral 108544",
+"short": "HCL Ivești nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45151",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--ivesti-18-2021",
 "path": "local/galati/ivesti/2021/18",
 "kind": "local",
@@ -331,6 +420,72 @@
 "council_name": "Consiliul Local al Comunei Ivești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--ivesti-20-2021",
+"path": "local/galati/ivesti/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 20/2021 privind închirierea suprafețelor de teren agricol în anul 2021",
+"short": "HCL Ivești nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45174",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--ivesti-21-2021",
+"path": "local/galati/ivesti/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 21/2021 privind însuşirea unei documentaţii cadastrale de dezlipire pentru imobilul situat în Comuna Ivești, Tarla 76/2, Parcela 1, - intravilan, identificat cu numărul cadastral 101275",
+"short": "HCL Ivești nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45175",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--ivesti-22-2021",
+"path": "local/galati/ivesti/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 22/2021 privind aprobarea alipirii unor terenuri situate în intravilanul comunei Ivești, județul Galați",
+"short": "HCL Ivești nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45176",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -464,6 +619,51 @@
 "council_name": "Consiliul Local al Comunei Ivești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--ivesti-29-2021",
+"path": "local/galati/ivesti/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 29/2021",
+"short": "HCL Ivești nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-19",
+"latest": "2021-04-19",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45183",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--ivesti-30-2021",
+"path": "local/galati/ivesti/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 30/2021 privind desemnarea reprezentanților Consiliului local al comunei Iveşti, judeţul Galaţi în comisiile de închiriere a terenurilor agricole proprietate publică/privată a comunei Ivești, judeţul Galați",
+"short": "HCL Ivești nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-19",
+"latest": "2021-04-19",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45184",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -818,6 +1018,29 @@
 "council_name": "Consiliul Local al Comunei Ivești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--ivesti-47-2021",
+"path": "local/galati/ivesti/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 47/2021",
+"short": "HCL Ivești nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-14",
+"latest": "2021-06-14",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45211",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1376,6 +1599,51 @@
 }
 },
 {
+"slug": "hcl-galati--ivesti-73-2021",
+"path": "local/galati/ivesti/2021/73",
+"kind": "local",
+"year": "2021",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 73/2021",
+"short": "HCL Ivești nr. 73/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-06",
+"latest": "2021-09-06",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45241",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--ivesti-74-2021",
+"path": "local/galati/ivesti/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 74/2021 privind însuşirea unei documentaţii cadastrale de dezlipire pentru imobilul situat în Comuna Ivești, Cv.67, P.38/1+38/2, Total, - intravilan, identificat cu numărul cadastral 102824",
+"short": "HCL Ivești nr. 74/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-06",
+"latest": "2021-09-06",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45242",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--ivesti-75-2021",
 "path": "local/galati/ivesti/2021/75",
 "kind": "local",
@@ -1486,6 +1754,28 @@
 }
 },
 {
+"slug": "hcl-galati--ivesti-80-2021",
+"path": "local/galati/ivesti/2021/80",
+"kind": "local",
+"year": "2021",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 80/2021 privind desemnarea reprezentanţilor Consiliului local al comunei Iveşti, judeţul Galaţi in consiliile de administraţie ale unităţilor de învăţământ de pe raza comunei Iveşti, judeţul Galati",
+"short": "HCL Ivești nr. 80/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45248",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--ivesti-81-2021",
 "path": "local/galati/ivesti/2021/81",
 "kind": "local",
@@ -1571,6 +1861,29 @@
 "council_name": "Consiliul Local al Comunei Ivești",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--ivesti-85-2021",
+"path": "local/galati/ivesti/2021/85",
+"kind": "local",
+"year": "2021",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 85/2021",
+"short": "HCL Ivești nr. 85/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/45253",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

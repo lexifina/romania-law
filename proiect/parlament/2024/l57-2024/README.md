@@ -1,0 +1,49 @@
+**Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.**
+
+# Propunere legislativă pentru completarea art.5 alin.(1) din Legea 544/2001 privind liberul acces la informaţiile de interes public
+
+**Became:** no adopted act is recorded for this draft.
+
+Propunere legislativă L57/2024 · initiator: Membri ai Parlamentului · 7 published stages, 2023-11-29 to 2025-04-07 · <https://www.senat.ro/legis/lista.aspx?nr_cls=L57&an_cls=2024>
+
+- Senate number: L57/2024
+- Type: Propunere legislativă
+- Character: Ordinară
+- Urgent procedure: Nu
+- First chamber: Senat
+- Legislative Council opinion: 1211/20.12.2023
+- Stage in the bill file: Trimis la Cameră pentru dezbatere
+- Initiators: 1 member(s) of Parliament, named in the bill file at the source link (credited here as a body)
+
+## Stages
+
+Each stage is one commit (`Kind: draft`, no `In-force:` trailer), dated on the day it was published. Tag `proiect-parlament-2024-l57-2024/<day>` is the draft as it stood after that stage.
+
+| Day | Stage |
+| --- | --- |
+| 2023-11-29 | registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive |
+| 2023-12-05 | documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social |
+| 2024-02-20 | documents published: Aviz comisie |
+| 2024-02-26 | documents published: Raport comisie sesizată pe fond |
+| 2024-03-05 | rejected by the Senate; documents published: Adresă către Camera Deputaților |
+| 2024-03-11 | registered at the Chamber of Deputies |
+| 2025-04-07 | documents published: Document (day not given by the bill file) |
+
+## Files
+
+| File | What |
+| --- | --- |
+| [ad-c6354aa5.md](ad-c6354aa5.md) | Adresă de înaintare a inițiativei (AD), as published |
+| [co-84fe4254.md](co-84fe4254.md) | Document (CO), as published |
+| [es-6017e2f9.md](es-6017e2f9.md) | Aviz Consiliul Economic și Social (ES), as published |
+| [lg-113ea0a5.md](lg-113ea0a5.md) | Aviz Consiliul Legislativ (LG), as published |
+| [procedura.md](procedura.md) | Procedura: stages and documents so far |
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Draft id: `proiect-parlament-2024-l57-2024`. `tools/on.py` never returns a draft: it reads only commits with an `In-force:` trailer.
+
+## Decisions made by hand
+
+- Propunere legislativă L57/2024: added by Lexifina's drafts source lane from the official bill file of the Senate (senat.ro). A draft is not law: its commits carry Kind: draft and no In-force trailer, dated on the day each stage was published, and credited to the initiator.
+- Propunere legislativă L57/2024: comments by private persons are not collected or published; initiators are credited as a body.

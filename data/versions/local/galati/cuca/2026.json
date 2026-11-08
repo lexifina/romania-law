@@ -3,6 +3,21 @@
  "shard": "local/galati/cuca/2026",
  "acts": [
   {
+   "slug": "hcl-galati--cuca-14-2026",
+   "path": "local/galati/cuca/2026/14",
+   "short": "HCL Cuca nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 14/2026",
+   "url": "http://www.comunacuca.ro/wp-content/uploads/2026/04/HCL.pdf",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/04/HCL.pdf",
+     "sha256": "947b898e4bdba599f81e58c8f4826cbb85ea5da891b63ee11dabf571e72e6eda"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--cuca-17-2026",
    "path": "local/galati/cuca/2026/17",
    "short": "HCL Cuca nr. 17/2026",
@@ -44,6 +59,21 @@
      "units": 1,
      "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.19.pdf",
      "sha256": "9c0e3a60f6386eb6956dc6afbee4ba15c3cd8753eb3b48301757baf9a6e2e60b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-2-2026",
+   "path": "local/galati/cuca/2026/2",
+   "short": "HCL Cuca nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 2/2026 privind finanțele publice locale , cu modificările și completările ulterioare ; Având în vedere temeiurile juridice, respectiv prevederile: a) art. 120 și art. 121 alin. (1) și (2) din Constituția României, republicată; b) art. 8 și art. 9 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985, ratificată prin Legea nr. 199/1997; c) art. 7 alin. (2) și art. 1166 și ur",
+   "url": "http://www.comunacuca.ro/wp-content/uploads/2026/02/HCL-nr.2.pdf",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/02/HCL-nr.2.pdf",
+     "sha256": "66055e5a9384a2e357b9151f9514b4f14790719b0e39a90019cf43c79fe81637"
     }
    ]
   },
@@ -198,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--cuca-3-2026",
+   "path": "local/galati/cuca/2026/3",
+   "short": "HCL Cuca nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 3/2026",
+   "url": "http://www.comunacuca.ro/wp-content/uploads/2026/02/HCL-nr.3.pdf",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/02/HCL-nr.3.pdf",
+     "sha256": "b83aea8a41de440dddc70c2480cf5a219d6cc1c6f84f5a15c1214b00ab55c3a0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--cuca-30-2026",
    "path": "local/galati/cuca/2026/30",
    "short": "HCL Cuca nr. 30/2026",
@@ -348,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--cuca-4-2026",
+   "path": "local/galati/cuca/2026/4",
+   "short": "HCL Cuca nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 4/2026",
+   "url": "http://www.comunacuca.ro/wp-content/uploads/2026/02/HCL-nr.4.pdf",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/02/HCL-nr.4.pdf",
+     "sha256": "8139f01dfeff52554988782c6b702da83241785eadd440b5d80a847abe6e4fd0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--cuca-40-2026",
    "path": "local/galati/cuca/2026/40",
    "short": "HCL Cuca nr. 40/2026",
@@ -374,6 +434,51 @@
      "units": 1,
      "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/09/HCL-nr.41.pdf",
      "sha256": "0fd9d44f0b4d08c33a93dcc2dfcb32e5accc31e979d134f207201890c909fa63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-5-2026",
+   "path": "local/galati/cuca/2026/5",
+   "short": "HCL Cuca nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 5/2026",
+   "url": "http://www.comunacuca.ro/wp-content/uploads/2026/02/HCL-nr.5.pdf",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/02/HCL-nr.5.pdf",
+     "sha256": "1f857c3a6d83414238b38a126c18df50396396d5d8ba90d48863d24b19f754ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-6-2026",
+   "path": "local/galati/cuca/2026/6",
+   "short": "HCL Cuca nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 6/2026 privind achizițiile publice , cu modificările și completările ulterioare ; Având în vedere art. 129 alin.(2) lit.d) și alin.(7) lit.m) din Ordonanța de urgență a Guvernului nr.57/20129 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul art.139 alin.(1) și (3) lit.a) art.196 alin.(1) lit.a) din Ordonanța de urgență a Guvernului nr.57/2019 privind Codul administrativ",
+   "url": "http://www.comunacuca.ro/wp-content/uploads/2026/02/HCL-nr.6.pdf",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/02/HCL-nr.6.pdf",
+     "sha256": "211672f85290006778aac896ba5c72ea75bf3983829b3aa394a4708b854b3e48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cuca-7-2026",
+   "path": "local/galati/cuca/2026/7",
+   "short": "HCL Cuca nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 7/2026",
+   "url": "http://www.comunacuca.ro/wp-content/uploads/2026/02/HCL-nr.7.pdf",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/02/HCL-nr.7.pdf",
+     "sha256": "bae1b906a1c081d1f6c1dd579a6a57033f413ca4b4c939261b97dc54db381fe8"
     }
    ]
   },

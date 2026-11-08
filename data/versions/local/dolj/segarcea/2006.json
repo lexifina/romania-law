@@ -1,0 +1,996 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/segarcea/2006",
+ "acts": [
+  {
+   "slug": "hcl-dolj--segarcea-1-2006",
+   "path": "local/dolj/segarcea/2006/1",
+   "short": "HCL Segarcea nr. 1/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 1/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-001.pdf",
+     "sha256": "7182aa97ef54af3e9a1495f8bcbdcb2d0a50290c0789c1a5fd9cb0d973f4f106"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-10-2006",
+   "path": "local/dolj/segarcea/2006/10",
+   "short": "HCL Segarcea nr. 10/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 10/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-02-08",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-010.pdf",
+     "sha256": "aab43f39f22a9daf58af35edddc84bd9e9504e74d5b660fcb39f9330049ab58d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-11-2006",
+   "path": "local/dolj/segarcea/2006/11",
+   "short": "HCL Segarcea nr. 11/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 11/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-02-08",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-011.pdf",
+     "sha256": "facf429871b94ca4e682b4f59fa0ebc61fbd7b6a55d9e05d689e5b797b71f6c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-12-2006",
+   "path": "local/dolj/segarcea/2006/12",
+   "short": "HCL Segarcea nr. 12/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 12/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-02-08",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-012.pdf",
+     "sha256": "74b133a861e9d49f86eb8b0b591ca2a2558af28b591d64481df824e5ed0400ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-13-2006",
+   "path": "local/dolj/segarcea/2006/13",
+   "short": "HCL Segarcea nr. 13/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 13/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-02-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-013.pdf",
+     "sha256": "cbf10dc8a7ac274172ff7c0b97d49dd2a3f43eeb611e3dcf34c0e7629cd8e821"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-14-2006",
+   "path": "local/dolj/segarcea/2006/14",
+   "short": "HCL Segarcea nr. 14/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 14/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-02-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-014.pdf",
+     "sha256": "2ac0b7cd250a1cd4a58dbf37db6252ba9a6a1f32fb399db6efada5ba01d14e30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-15-2006",
+   "path": "local/dolj/segarcea/2006/15",
+   "short": "HCL Segarcea nr. 15/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 15/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-02-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-015.pdf",
+     "sha256": "56ea59c6bc26404df371cb4bf3ebdeb34ff5afa3bd4d8009d45014ad27a1bf7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-16-2006",
+   "path": "local/dolj/segarcea/2006/16",
+   "short": "HCL Segarcea nr. 16/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 16/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-02-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-016.pdf",
+     "sha256": "12698596d265214095a504f5be64215e402dd055d4137226144090d128e5ca8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-17-2006",
+   "path": "local/dolj/segarcea/2006/17",
+   "short": "HCL Segarcea nr. 17/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 17/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-03-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-017.pdf",
+     "sha256": "2ec7b00eba4cc446a2906cbfd62139ee09c4cbd78d34c4d57b19a7bed56f25de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-18-2006",
+   "path": "local/dolj/segarcea/2006/18",
+   "short": "HCL Segarcea nr. 18/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 18/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-03-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-018.pdf",
+     "sha256": "c0b8895ee5b25926cae2e83dfb1a8ff1e4eb8b9dc5855e92a99fc347e323dbc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-19-2006",
+   "path": "local/dolj/segarcea/2006/19",
+   "short": "HCL Segarcea nr. 19/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 19/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-03-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-019.pdf",
+     "sha256": "b0b9362b220730fd8303ce6cf7253cad95d8723e5c40f9912d6f5c84eaf85500"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-2-2006",
+   "path": "local/dolj/segarcea/2006/2",
+   "short": "HCL Segarcea nr. 2/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 2/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-002.pdf",
+     "sha256": "653b3edfdde3aa189e1e135f359439c920bc60dae5900d07d5b61ad2de020e7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-20-2006",
+   "path": "local/dolj/segarcea/2006/20",
+   "short": "HCL Segarcea nr. 20/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 20/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-03-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-020.pdf",
+     "sha256": "9e527fdeaa8dfa96c658edc161882ba9d209d7759c6f86424145b88a2b7cb7ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-21-2006",
+   "path": "local/dolj/segarcea/2006/21",
+   "short": "HCL Segarcea nr. 21/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 21/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-03-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-021.pdf",
+     "sha256": "874669f340cc3804af589c7689969ffe9d7844af1eb2427ba0470c2dfdac251b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-22-2006",
+   "path": "local/dolj/segarcea/2006/22",
+   "short": "HCL Segarcea nr. 22/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 22/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-022.pdf",
+     "sha256": "030f04ee717628173889925d71de7823eef4c11c8ce2d7842ac48e5ca68a9291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-23-2006",
+   "path": "local/dolj/segarcea/2006/23",
+   "short": "HCL Segarcea nr. 23/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 23/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-023.pdf",
+     "sha256": "5cee12f3d1fe2a130eabc13c711e3c3b7a22c1651ebe3db1b00c669f59b01ae0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-24-2006",
+   "path": "local/dolj/segarcea/2006/24",
+   "short": "HCL Segarcea nr. 24/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 24/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-024.pdf",
+     "sha256": "8b5ebe7a9de92868bc50934b4ca3c91031e4948cd520e049c021284f2681848e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-25-2006",
+   "path": "local/dolj/segarcea/2006/25",
+   "short": "HCL Segarcea nr. 25/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 25/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-05-19",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-025.pdf",
+     "sha256": "bfe1a0318b80338828e5c0cb7ec719a7c44ad2c2d79c7f6906afe5e0b9a54f9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-26-2006",
+   "path": "local/dolj/segarcea/2006/26",
+   "short": "HCL Segarcea nr. 26/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 26/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-026.pdf",
+     "sha256": "dc8a71747959c9027037828e571414708c455988e1c161f468fdaa7007f50891"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-27-2006",
+   "path": "local/dolj/segarcea/2006/27",
+   "short": "HCL Segarcea nr. 27/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 27/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-027.pdf",
+     "sha256": "20a84f8aec754b1ab0250c297a09e12f22118661ff90e70cbb9418c0880f32f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-28-2006",
+   "path": "local/dolj/segarcea/2006/28",
+   "short": "HCL Segarcea nr. 28/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 28/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-028.pdf",
+     "sha256": "85ff1b654e4908a3fc05106d78841eb85f81812a6c1041f496101c72f62ed85c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-29-2006",
+   "path": "local/dolj/segarcea/2006/29",
+   "short": "HCL Segarcea nr. 29/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 29/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-029.pdf",
+     "sha256": "eff156ca6107ba41e1b9d30588eb157551058e2c667c218a1fe6a9c4e18f3fca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-3-2006",
+   "path": "local/dolj/segarcea/2006/3",
+   "short": "HCL Segarcea nr. 3/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 3/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-003.pdf",
+     "sha256": "36ec190166178cab4eb46c61f552ac4d9657354bfb129398bf1e5686384291da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-30-2006",
+   "path": "local/dolj/segarcea/2006/30",
+   "short": "HCL Segarcea nr. 30/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 30/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-030.pdf",
+     "sha256": "1622b454b2c9f5605e38e1c128e7911d63eb628e46c0a9cfd87973e7bc20391b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-31-2006",
+   "path": "local/dolj/segarcea/2006/31",
+   "short": "HCL Segarcea nr. 31/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 31/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-031.pdf",
+     "sha256": "60160044584d2edf0bf6ba02f8eea5abe771b3a62047cca8ba0af3beec191efc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-32-2006",
+   "path": "local/dolj/segarcea/2006/32",
+   "short": "HCL Segarcea nr. 32/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 32/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-032.pdf",
+     "sha256": "91865d78d288fa347365d9593d14c3ca5ecd2372af3b4339701ee96d2c5a0d6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-33-2006",
+   "path": "local/dolj/segarcea/2006/33",
+   "short": "HCL Segarcea nr. 33/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 33/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-033.pdf",
+     "sha256": "c08b8ccc2e2612e9157da2de079156c2bb64f6b047717c53a6ce50ff3fa1cd22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-34-2006",
+   "path": "local/dolj/segarcea/2006/34",
+   "short": "HCL Segarcea nr. 34/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 34/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-05-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-034.pdf",
+     "sha256": "aeda73d2e87fb150e4f9271699936fe786b4af012e85f7d21b14457ac75fd91d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-35-2006",
+   "path": "local/dolj/segarcea/2006/35",
+   "short": "HCL Segarcea nr. 35/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 35/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-035.pdf",
+     "sha256": "a1d3d26b4dad8014b364f82b1b83adaaa45fc64b079ed03673c9eaf93b5b5e68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-36-2006",
+   "path": "local/dolj/segarcea/2006/36",
+   "short": "HCL Segarcea nr. 36/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 36/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-19",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-036.pdf",
+     "sha256": "bdf82d6e92a49def74bfd58c694847dbfbb2921627c8f88df3bf02ccc19e63a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-37-2006",
+   "path": "local/dolj/segarcea/2006/37",
+   "short": "HCL Segarcea nr. 37/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 37/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-19",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-037.pdf",
+     "sha256": "1497f4178e0930dd71948479c209370b1051b6fe994368236aebcf0b892e82bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-38-2006",
+   "path": "local/dolj/segarcea/2006/38",
+   "short": "HCL Segarcea nr. 38/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 38/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-19",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-038.pdf",
+     "sha256": "9a4f36f6beaf48812fbe05075944918780d5853d1f7338b608135b6d4605c563"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-39-2006",
+   "path": "local/dolj/segarcea/2006/39",
+   "short": "HCL Segarcea nr. 39/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 39/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-19",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-039.pdf",
+     "sha256": "fa4d23b29c110fd1fa81de756a7ef9fb740bca0fafcf9288d792b64c0cdef53b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-4-2006",
+   "path": "local/dolj/segarcea/2006/4",
+   "short": "HCL Segarcea nr. 4/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 4/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-01-30",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-004.pdf",
+     "sha256": "2cd9a71bb965acde393ac800bf6775c527dbd08c5b03493c38ab2d5c63f7ded7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-40-2006",
+   "path": "local/dolj/segarcea/2006/40",
+   "short": "HCL Segarcea nr. 40/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 40/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-040.pdf",
+     "sha256": "578a43ab91b3c964cb2e82a475d7e4f1b5ae3e2632b5dde6b464321f498c869a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-41-2006",
+   "path": "local/dolj/segarcea/2006/41",
+   "short": "HCL Segarcea nr. 41/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 41/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-041.pdf",
+     "sha256": "f9b87926020189411fec48a9595efa098959f5277e3268e7b9bee0f9a73254de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-42-2006",
+   "path": "local/dolj/segarcea/2006/42",
+   "short": "HCL Segarcea nr. 42/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 42/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-042.pdf",
+     "sha256": "aec9ee0f36c5cc6c745d2707bd17a6dce45ab584b881b0b1e01dea6545ffe297"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-43-2006",
+   "path": "local/dolj/segarcea/2006/43",
+   "short": "HCL Segarcea nr. 43/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 43/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-043.pdf",
+     "sha256": "1f5ed52dee7a6d0ac1b2abffc7517bd4689c56a738253043942fe19fe223b4b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-44-2006",
+   "path": "local/dolj/segarcea/2006/44",
+   "short": "HCL Segarcea nr. 44/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 44/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-044.pdf",
+     "sha256": "3a57398be35be29c7bce88ceb846abd645f1aa733fb378fcde09f6e7ebf5fc0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-45-2006",
+   "path": "local/dolj/segarcea/2006/45",
+   "short": "HCL Segarcea nr. 45/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 45/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-045.pdf",
+     "sha256": "520b6d3056177e9be68bdc09e01ab3bfaaf63c0811b173e06549c74eff89dbdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-46-2006",
+   "path": "local/dolj/segarcea/2006/46",
+   "short": "HCL Segarcea nr. 46/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 46/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-046.pdf",
+     "sha256": "a1da135dd707b0bb5890597606c924fef68a52d7329b51a7296623b67703fec6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-47-2006",
+   "path": "local/dolj/segarcea/2006/47",
+   "short": "HCL Segarcea nr. 47/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 47/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-047.pdf",
+     "sha256": "45b49fd69af19a373141c8e969ba3e4418d2d4f19a5e7706d62db81c9e2471ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-48-2006",
+   "path": "local/dolj/segarcea/2006/48",
+   "short": "HCL Segarcea nr. 48/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 48/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-048.pdf",
+     "sha256": "a1521b34592428c4038cba828a4e29e6c8fbef42294eecaf1c0617a05b9a4548"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-49-2006",
+   "path": "local/dolj/segarcea/2006/49",
+   "short": "HCL Segarcea nr. 49/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 49/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-049.pdf",
+     "sha256": "37d98333718f93662ce6cd92d0e59ee341c78912577e1276593b4ae6b887c70b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-5-2006",
+   "path": "local/dolj/segarcea/2006/5",
+   "short": "HCL Segarcea nr. 5/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 5/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-01-30",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-005.pdf",
+     "sha256": "91ef929118fe1dd3965ddaaed880e454f7df0053824e282b82eb44a7674d89a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-50-2006",
+   "path": "local/dolj/segarcea/2006/50",
+   "short": "HCL Segarcea nr. 50/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 50/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-050.pdf",
+     "sha256": "89b12f10ee5a49dfbcc4b06f9edfb1dc961cd7f7e355cb32eb4d0c18f80126c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-51-2006",
+   "path": "local/dolj/segarcea/2006/51",
+   "short": "HCL Segarcea nr. 51/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 51/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-051.pdf",
+     "sha256": "d9a8e69ee477fb6ff1f256e16151b337a99f19cc17e855cf4764456beaeaf712"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-52-2006",
+   "path": "local/dolj/segarcea/2006/52",
+   "short": "HCL Segarcea nr. 52/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 52/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-08-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-052.pdf",
+     "sha256": "024db47a85e7cbf187342af4f9e9434911d112fbc8f51eeaa35559b1cc11ddf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-53-2006",
+   "path": "local/dolj/segarcea/2006/53",
+   "short": "HCL Segarcea nr. 53/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 53/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-08-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-053.pdf",
+     "sha256": "05f4bbe5a17d53ab6ad0cfae2cecae60d3f700bbdfadc626614d34066d281356"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-54-2006",
+   "path": "local/dolj/segarcea/2006/54",
+   "short": "HCL Segarcea nr. 54/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 54/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-08-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-054.pdf",
+     "sha256": "ffac84fcff8fc4eabfb32fb08d7dd1e6fc89b35989922b701c08634533cc5485"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-56-2006",
+   "path": "local/dolj/segarcea/2006/56",
+   "short": "HCL Segarcea nr. 56/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 56/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-09-15",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-056.pdf",
+     "sha256": "d8dd394a6457f976a246580ad11c7b7e8e1249bfd7ab0266ff299fe706365357"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-57-2006",
+   "path": "local/dolj/segarcea/2006/57",
+   "short": "HCL Segarcea nr. 57/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 57/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-09-15",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-057.pdf",
+     "sha256": "69ec7b0950cac746f69550c6b0864a8b8eadb300bca8d90ef4bf3485d83deb3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-58-2006",
+   "path": "local/dolj/segarcea/2006/58",
+   "short": "HCL Segarcea nr. 58/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 58/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-09-15",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-058.pdf",
+     "sha256": "f69221cd3f28a31e3cceb44f0198b63077d125036db03adb92bd75867146424e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-59-2006",
+   "path": "local/dolj/segarcea/2006/59",
+   "short": "HCL Segarcea nr. 59/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 59/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-09-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-059.pdf",
+     "sha256": "5e8496e14317ca23b87339f5f2bf3e9f222877f6f1b59adb7014e3b839e12797"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-6-2006",
+   "path": "local/dolj/segarcea/2006/6",
+   "short": "HCL Segarcea nr. 6/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 6/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-01-30",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-006.pdf",
+     "sha256": "4573a4821c5caf2bf90b36341eb1616a1b74ff6de4fa277ad8818895b936479f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-60-2006",
+   "path": "local/dolj/segarcea/2006/60",
+   "short": "HCL Segarcea nr. 60/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 60/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-09-27",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-060.pdf",
+     "sha256": "17bc160a565bc6113ffeb2c8b1b00a04036471e6d19bfe71700d4c3aa25d9d43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-61-2006",
+   "path": "local/dolj/segarcea/2006/61",
+   "short": "HCL Segarcea nr. 61/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 61/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-061.pdf",
+     "sha256": "6b084d2107b7b39d1966b7c13f15f7ede8f70ec25d19dad17179c0d11ea70d2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-62-2006",
+   "path": "local/dolj/segarcea/2006/62",
+   "short": "HCL Segarcea nr. 62/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 62/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-062.pdf",
+     "sha256": "42e081490e61ee52d7f56966ab6d4ad4dd7366c8b046bc35bc481d36ee41dfa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-63-2006",
+   "path": "local/dolj/segarcea/2006/63",
+   "short": "HCL Segarcea nr. 63/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 63/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-063.pdf",
+     "sha256": "59daa26fcc933910d060698aaef0e591adb0ba5c428945f9e3b40d7ed8a67bfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-64-2006",
+   "path": "local/dolj/segarcea/2006/64",
+   "short": "HCL Segarcea nr. 64/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 64/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-064.pdf",
+     "sha256": "7982a64c7c2250abdeb107d6d3445ace2b22af6c36b4f737c4c75f5782a7970f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-65-2006",
+   "path": "local/dolj/segarcea/2006/65",
+   "short": "HCL Segarcea nr. 65/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 65/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-065.pdf",
+     "sha256": "3e9e4257d64c71604fdc3c6a3a70ddb80348106bd96b3ba7dc4bf9e3c06ed248"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-66-2006",
+   "path": "local/dolj/segarcea/2006/66",
+   "short": "HCL Segarcea nr. 66/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 66/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-066.pdf",
+     "sha256": "40f5b5a4b4d93a542904ede90b4466ae6d3c9e9f5681d4aad4029c1fc351306c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-67-2006",
+   "path": "local/dolj/segarcea/2006/67",
+   "short": "HCL Segarcea nr. 67/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 67/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-067.pdf",
+     "sha256": "5b31cb98a0033dff0cbf039149168bf7623feaf3ef57cf6c4a8ddf3ff3d5b5c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-68-2006",
+   "path": "local/dolj/segarcea/2006/68",
+   "short": "HCL Segarcea nr. 68/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 68/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-10-31",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-068.pdf",
+     "sha256": "bf5f4fac294a1a715cdb40a1e61462da19ebad42f40deac79b6390bd4a0fe780"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-69-2006",
+   "path": "local/dolj/segarcea/2006/69",
+   "short": "HCL Segarcea nr. 69/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 69/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-11-20",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-069.pdf",
+     "sha256": "ae72c1c46fa5222e5c4ae516f640387ff625e8f0e2cc7f392102605ca1d1c632"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-7-2006",
+   "path": "local/dolj/segarcea/2006/7",
+   "short": "HCL Segarcea nr. 7/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 7/2006",
+   "url": "https://primariasegarcea.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2006-01-30",
+     "units": 1,
+     "source_url": "http://primariasegarcea.ro/wp-content/uploads/2006/hotarari/hotararea-007.pdf",
+     "sha256": "b752dc9d2222d3bc44b88a612fcbfcfa8e15d6e6c47760fbd815d31c4936546a"
+    }
+   ]
+  }
+ ]
+}

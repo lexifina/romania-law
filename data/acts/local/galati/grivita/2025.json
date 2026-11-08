@@ -25,6 +25,362 @@
 }
 },
 {
+"slug": "hcl-galati--grivita-2-2025",
+"path": "local/galati/grivita/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 2/2025 privind acordarea unui mandat special necesar pentru desfasurarea procedurii de selectie a membrilor Consiliului de Administratie al Operatorului Regional Societatea Apa Canal S.A.Galati.Galati,,",
+"short": "HCL Grivița nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/187654",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-3-2025",
+"path": "local/galati/grivita/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 3/2025 privind aprobarea utilizării excedentului bugetului local al comunei Grivița, județul Galați ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare și a acoperirii temporare a golurilor de casa provenite din decalajele intre veniturile și cheltuielile secțiunii de dezvoltare și a acoperirii temporare a golurilor de casa provenite din decalajele între veniturile și cheltuielile secțiunii de funcționare în anul 2025",
+"short": "HCL Grivița nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-04",
+"latest": "2025-03-04",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/195289",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-4-2025",
+"path": "local/galati/grivita/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 4/2025",
+"short": "HCL Grivița nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-04",
+"latest": "2025-03-04",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/195290",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--grivita-5-2025",
+"path": "local/galati/grivita/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 5/2025 privind aprobarea înființării unui centru fix pentru colectarea deșeurilor textile și a achiziționării serviciilor de salubrizare pentru anul 2025 la comanda Grivița, județul Galați",
+"short": "HCL Grivița nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-04",
+"latest": "2025-03-04",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/195291",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-6-2025",
+"path": "local/galati/grivita/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 6/2025",
+"short": "HCL Grivița nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-04",
+"latest": "2025-03-04",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/195292",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--grivita-7-2025",
+"path": "local/galati/grivita/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 7/2025",
+"short": "HCL Grivița nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-04",
+"latest": "2025-03-04",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/195293",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--grivita-8-2025",
+"path": "local/galati/grivita/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 8/2025 privind aprobarea dezmembrării suprafeței de teren indentificată în T 28, comuna Grivița, județul Galați în 13 loturi și întocmirea documentației cadastrale necesare înscrierii dreptului de proprietatea privată a noilor loturi în cartea funciară",
+"short": "HCL Grivița nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-04",
+"latest": "2025-03-04",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/195294",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-9-2025",
+"path": "local/galati/grivita/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 9/2025 privind analiza stadiului de înscriere a datelor în Registrul Agricol, în cursul anului 2024 și stabilirea măsurilor, pentru eficientizarea acestei activități pentru anul 2025",
+"short": "HCL Grivița nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-04",
+"latest": "2025-03-04",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/195295",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-10-2025",
+"path": "local/galati/grivita/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 10/2025 privind actualizarea și completarea inventarului bunurilor imobile aparținând domeniului privat al comunei Grivița, județul Galați",
+"short": "HCL Grivița nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-04",
+"latest": "2025-03-04",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/195296",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-11-2025",
+"path": "local/galati/grivita/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 11/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Grivița, județul Galați, pentru perioada februarie-aprilie 2025",
+"short": "HCL Grivița nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-04",
+"latest": "2025-03-04",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/195297",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-12-2025",
+"path": "local/galati/grivita/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 12/2025 privind actualizarea indicatorilor tehnico-economici, pentru obiectivul de investitie ,,Actualizare Plan Urbanistic General, Comuna Grivita, judetul Galati,, indicatori aprobati initial prin H.C.L.8/25.01.2024 si a cofinantarii de la bugetul local",
+"short": "HCL Grivița nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/201030",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-13-2025",
+"path": "local/galati/grivita/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 13/2025 privind aprobarea bugetului local al comunei Grivita, judetul Galati, pentru anul 2025 și estimările pentru anii 2026-2028",
+"short": "HCL Grivița nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/201053",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-14-2025",
+"path": "local/galati/grivita/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 14/2025",
+"short": "HCL Grivița nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/201054",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--grivita-15-2025",
+"path": "local/galati/grivita/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 15/2025 privind aprobarea colaborarii interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Grivița nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/201055",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-16-2025",
+"path": "local/galati/grivita/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 16/2025 privind aprobarea aderării comunei Grivita județul Galați, la sistemul de cooperare pentru exercitarea funcției de audit public intern, prin intermediul entității organizatoare Filiala Județeană Galați a Asociației Comunelor din România",
+"short": "HCL Grivița nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/201056",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-17-2025",
+"path": "local/galati/grivita/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 17/2025 privind rectificarea bugetului local al comunei Grivita , judetul Galati, pentru anul 2025 și estimările pentru anii 2026-2028",
+"short": "HCL Grivița nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-25",
+"latest": "2025-04-25",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/204343",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--grivita-18-2025",
 "path": "local/galati/grivita/2025/18",
 "kind": "local",
@@ -48,6 +404,28 @@
 }
 },
 {
+"slug": "hcl-galati--grivita-19-2025",
+"path": "local/galati/grivita/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 19/2025 privind aprobarea prelungirii contractelor de inchiriere a suprafetelor de teren- pasune, prin act aditional incheiat cu acordul partilor ,conform prevederilor legale in vigoare",
+"short": "HCL Grivița nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-25",
+"latest": "2025-04-25",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/204345",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--grivita-20-2025",
 "path": "local/galati/grivita/2025/20",
 "kind": "local",
@@ -67,6 +445,50 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--grivita-21-2025",
+"path": "local/galati/grivita/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 21/2025 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Grivita, judetul Galati, pentru perioada MAI-IULIE 2025",
+"short": "HCL Grivița nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/210535",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-22-2025",
+"path": "local/galati/grivita/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 22/2025 privind aprobarea suportului alimentar acordat prescolarilor si elevilor in cadrul Programului national,,Masa sanatoasa,,in anul 2025",
+"short": "HCL Grivița nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/210536",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -224,6 +646,118 @@
 }
 },
 {
+"slug": "hcl-galati--grivita-30-2025",
+"path": "local/galati/grivita/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 30/2025 privind aprobarea indicatorilor tehnico-economici ai proiectului și a devizului general pentru obiectivul de investiții “Înființare sistem de canalizare și stație de epurare apă uzată în comuna Grivița, județul Galați”, aprobat pentru finanțare prin Programul național de investiții “Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Grivița nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-06",
+"latest": "2025-08-06",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/220221",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-31-2025",
+"path": "local/galati/grivita/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 31/2025 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Grivita, judetul Galati, pentru perioada august-octombrie 2025",
+"short": "HCL Grivița nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-12",
+"latest": "2025-09-12",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/224810",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-32-2025",
+"path": "local/galati/grivita/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 32/2025",
+"short": "HCL Grivița nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-12",
+"latest": "2025-09-12",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/224811",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--grivita-33-2025",
+"path": "local/galati/grivita/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 33/2025 privind aprobarea dezmembrarii suprafetelor de teren inscrise in C.F.Nr. 106953 si C.F.Nr. 107045 , Comuna Grivita, judetul Galati si intocmirea documentatiei cadastrale necesare inscrierii dreptului de proprietatea privata a noilor loturi in cartile funciare aferente",
+"short": "HCL Grivița nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-12",
+"latest": "2025-09-12",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/224812",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-34-2025",
+"path": "local/galati/grivita/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 34/2025",
+"short": "HCL Grivița nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-03",
+"latest": "2025-10-03",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/228593",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--grivita-35-2025",
 "path": "local/galati/grivita/2025/35",
 "kind": "local",
@@ -243,6 +777,28 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--grivita-36-2025",
+"path": "local/galati/grivita/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 36/2025 privind aprobarea Organigramei si a Statului de Functii, nominal al functionarilor publici si al personalului contractual din aparatul de specialitate al primarului comunei Grivita,judetul Galati",
+"short": "HCL Grivița nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-03",
+"latest": "2025-10-03",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/228595",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

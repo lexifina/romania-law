@@ -3,6 +3,295 @@
 "shard": "local/galati/certesti/2025",
 "acts": [
 {
+"slug": "hcl-galati--certesti-1-2025",
+"path": "local/galati/certesti/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 1/2025 privind includerea în domeniul public al comunei Cerțești a unor bunuri imobile în vederea intabulării/înscierii cu caracter definitiv a drepturilor de proprietate în evidențele de cadastru și carte funciară",
+"short": "HCL Cerțești nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218419",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-2-2025",
+"path": "local/galati/certesti/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 2/2025 privind alegerea președintelui de ședință pentru lunile februarie, martie și aprilie 2025",
+"short": "HCL Cerțești nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218420",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-3-2025",
+"path": "local/galati/certesti/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 3/2025",
+"short": "HCL Cerțești nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218421",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-4-2025",
+"path": "local/galati/certesti/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 4/2025 privind aprobarea constituirii Consiliului Comunitar Consultativ și aprobarea Regulamentului de organizare și funcționare a acestuia la nevelul comunei Cerțești, județul Galați",
+"short": "HCL Cerțești nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218427",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-5-2025",
+"path": "local/galati/certesti/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 5/2025",
+"short": "HCL Cerțești nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218428",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-6-2025",
+"path": "local/galati/certesti/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 6/2025 privind aprobarea încetării înainte de termen a contractelor de închiriere nr.1856/12.04.2018, nr. 1857/12.04.2018 și 1860/12.04.2018 încheiat între între Comuna Cerțești în calitate locator și Asociația Crescătorilor de Bovine Cerțești în calitate de locatar având ca obiect închirierea pășunii aflată în domeniul public al comunei Cerțești",
+"short": "HCL Cerțești nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218434",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-7-2025",
+"path": "local/galati/certesti/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 7/2025 privind însușirea Actului adițional nr. 2 la Contractul de închiriere nr. 185812.04.2018 încheiat cu Asociașia Crescătorilor de Bovine Cerțești",
+"short": "HCL Cerțești nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218435",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-8-2025",
+"path": "local/galati/certesti/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 8/2025 privind însușirea actului adițional nr. la Contractul de închiriere nr. 1859/12.04.2018 încheiat cu Asociația Crescătorilor de Bovine Cerțești",
+"short": "HCL Cerțești nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218436",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-9-2025",
+"path": "local/galati/certesti/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 9/2025 privind însușirea actului adițional nr. 2 din 10.02.2025 la Contractul de închiriere nr. 1855/12.04.2018 încheiat cu Asociația Crescătorilor de Bovine Cerțești",
+"short": "HCL Cerțești nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218437",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-10-2025",
+"path": "local/galati/certesti/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 10/2025 privind aprobarea Strategiei locale de dezvoltare a serviciilor sociale în comuna Cerțești pentru perioada 2025-2030",
+"short": "HCL Cerțești nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218438",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-11-2025",
+"path": "local/galati/certesti/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 11/2025 privind aprobarea dezmembrării unui imobil aflat în domeniul public al Comunei Cerțești, situat în Cvartal 29, Parcela 82/83, CF 100975, în vederea înscrierii în cartea funciară",
+"short": "HCL Cerțești nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218439",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-12-2025",
+"path": "local/galati/certesti/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 12/2025 privind aprobarea dezmembrării unui imobil aflat în domeniul public al Comunei Cerțești situat în Cvartal 47, Parcela 8+9, CF 105583 în vederea înscrierii în cartea funciară",
+"short": "HCL Cerțești nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218440",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-13-2025",
+"path": "local/galati/certesti/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 13/2025",
+"short": "HCL Cerțești nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218441",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--certesti-14-2025",
 "path": "local/galati/certesti/2025/14",
 "kind": "local",
@@ -44,6 +333,142 @@
 "council_name": "Consiliul Local al Comunei Cerțești",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-16-2025",
+"path": "local/galati/certesti/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 16/2025 privind aprobarea utilizării excedentului anual al bugetului local pe anul 2024 pentru finanțarea secțiunii de dezvoltare a bugetului local la nivelul comunei Cerțești, județul Galați",
+"short": "HCL Cerțești nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218469",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-17-2025",
+"path": "local/galati/certesti/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 17/2025 privind aprobarea bugetului local pe anul 2025 și estimările pentru anii 2026-2028 la nivelul comunei Cerțești, județul Galați",
+"short": "HCL Cerțești nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218470",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-18-2025",
+"path": "local/galati/certesti/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 18/2025",
+"short": "HCL Cerțești nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218471",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-19-2025",
+"path": "local/galati/certesti/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 19/2025",
+"short": "HCL Cerțești nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218472",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-20-2025",
+"path": "local/galati/certesti/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 20/2025",
+"short": "HCL Cerțești nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218543",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-21-2025",
+"path": "local/galati/certesti/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 21/2025",
+"short": "HCL Cerțești nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218544",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -93,6 +518,28 @@
 }
 },
 {
+"slug": "hcl-galati--certesti-24-2025",
+"path": "local/galati/certesti/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 24/2025 privind aprobarea modificării și actualizării organigramei și a ștatului de funcții pentru personalul din cadrul aparatului de specialitate al primarului comunei Cerțești, județul Galați",
+"short": "HCL Cerțești nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218554",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--certesti-25-2025",
 "path": "local/galati/certesti/2025/25",
 "kind": "local",
@@ -115,6 +562,95 @@
 }
 },
 {
+"slug": "hcl-galati--certesti-26-2025",
+"path": "local/galati/certesti/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 26/2025 privind aprobarea rectificării bugetului local pe anul 2025 la comuna Cerțești, județul Galați",
+"short": "HCL Cerțești nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218598",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-27-2025",
+"path": "local/galati/certesti/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 27/2025 privind aprobarea aderării unității administrativ teritoriale Comuna Cerțești la sistemul de cooperare pentru exercitarea activității de audit intern, prin intermediul entității organizatoare Filiala Județeană Galați a Asociației Comunelor din România",
+"short": "HCL Cerțești nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218599",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-28-2025",
+"path": "local/galati/certesti/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 28/2025 privind alegerea președintelui de ședință pentru ședință extraordinară din 2 aprilie 2025",
+"short": "HCL Cerțești nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218611",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-29-2025",
+"path": "local/galati/certesti/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 29/2025",
+"short": "HCL Cerțești nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218613",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--certesti-30-2025",
 "path": "local/galati/certesti/2025/30",
 "kind": "local",
@@ -134,6 +670,119 @@
 "council_name": "Consiliul Local al Comunei Cerțești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--certesti-31-2025",
+"path": "local/galati/certesti/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 31/2025",
+"short": "HCL Cerțești nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218685",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-32-2025",
+"path": "local/galati/certesti/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 32/2025",
+"short": "HCL Cerțești nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218686",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-33-2025",
+"path": "local/galati/certesti/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 33/2025",
+"short": "HCL Cerțești nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218687",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-34-2025",
+"path": "local/galati/certesti/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 34/2025 privind aprobarea închiriereii prin licitație publică a pășunilor aflate în proprietatea publică a comunei Cerțești",
+"short": "HCL Cerțești nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/218689",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-35-2025",
+"path": "local/galati/certesti/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 35/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale-facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Cerțești nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/224252",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -181,6 +830,73 @@
 }
 },
 {
+"slug": "hcl-galati--certesti-38-2025",
+"path": "local/galati/certesti/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 38/2025",
+"short": "HCL Cerțești nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/224256",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-39-2025",
+"path": "local/galati/certesti/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 39/2025 privind alegerea președintelui de ședință pentru lunile mai, iunie și iulie 2025",
+"short": "HCL Cerțești nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/224257",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-40-2025",
+"path": "local/galati/certesti/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 40/2025 privind aprobarea modificării și actualizării organigramei și statului de funcții pentru personalul din cadrul Serviciuui Public de Alimentare cu Apă și Canalizare Cerțești, județul Galați",
+"short": "HCL Cerțești nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/224258",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--certesti-41-2025",
 "path": "local/galati/certesti/2025/41",
 "kind": "local",
@@ -223,6 +939,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-43-2025",
+"path": "local/galati/certesti/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 43/2025 privind aprobarea Regulamentului Serviciului Județean de Salubrizare Galați",
+"short": "HCL Cerțești nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/224262",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -428,6 +1166,28 @@
 }
 },
 {
+"slug": "hcl-galati--certesti-53-2025",
+"path": "local/galati/certesti/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 53/2025 privind aprobarea rectificării bugetului local pe anul 2025 la comuna Cerțești, județul Galați",
+"short": "HCL Cerțești nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/224277",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--certesti-54-2025",
 "path": "local/galati/certesti/2025/54",
 "kind": "local",
@@ -472,6 +1232,72 @@
 }
 },
 {
+"slug": "hcl-galati--certesti-56-2025",
+"path": "local/galati/certesti/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 56/2025 privind vânzarea prin licitație publică a imobilului-teren și construcții, aflat în domeniul privat al Comunei Cerțești, identificat cu număr cadastral 100377, situat în intravilanul comunei Cerțești, sat Cirlomanesti, cvartal 17, parcela 122, județul Galați",
+"short": "HCL Cerțești nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/228843",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-57-2025",
+"path": "local/galati/certesti/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 57/2025 privind aprobarea propunerii de schimbare a destinației imobilului aparținând domeniului public al comunei Cerțești înscris în Cartea Funciară nr.105593 din imobile cu destinația unitate de învățământ în imobile cu altă destinație, în vederea închirierii",
+"short": "HCL Cerțești nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/228853",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--certesti-58-2025",
+"path": "local/galati/certesti/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 58/2025 privind alegerea președintelui de ședință pentru lunile august, septembrie și octombrie 2025",
+"short": "HCL Cerțești nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/228854",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--certesti-59-2025",
 "path": "local/galati/certesti/2025/59",
 "kind": "local",
@@ -491,6 +1317,28 @@
 "council_name": "Consiliul Local al Comunei Cerțești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--certesti-60-2025",
+"path": "local/galati/certesti/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 60/2025 privind aprobarea modificării și actualizării organigramei și statului de funcții pentru personalul din cadrul aparatului de specialitate al primarului comunei Cerțești, județul Galați",
+"short": "HCL Cerțești nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/228860",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -514,6 +1362,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-62-2025",
+"path": "local/galati/certesti/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 62/2025 privind aprobarea rectificării bugetului local pe anul 2025 la comuna Cerțești, județul Galați",
+"short": "HCL Cerțești nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/235416",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -627,6 +1497,29 @@
 }
 },
 {
+"slug": "hcl-galati--certesti-68-2025",
+"path": "local/galati/certesti/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 68/2025",
+"short": "HCL Cerțești nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/235352",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--certesti-69-2025",
 "path": "local/galati/certesti/2025/69",
 "kind": "local",
@@ -647,6 +1540,51 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-70-2025",
+"path": "local/galati/certesti/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 70/2025",
+"short": "HCL Cerțești nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/235354",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--certesti-71-2025",
+"path": "local/galati/certesti/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 71/2025 privind aprobarea dării în folosință gratuită a unui spațiu în suprafață de 36,71 mp cu destinația cabinet medical- medicină de familie din clădirea Dispensarului medical situat în sat Cotoroaia aparținând domeniului privat al comunei Cerțești",
+"short": "HCL Cerțești nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/235355",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

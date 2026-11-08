@@ -245,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-galati--negrilesti-12-2021",
+"path": "local/galati/negrilesti/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 12/2021 privind alegerea presedintelui de sedinta pentru trimestrul II anul 2021",
+"short": "HCL Negrilești nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/39117",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--negrilesti-13-2021",
 "path": "local/galati/negrilesti/2021/13",
 "kind": "local",
@@ -352,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Negrilești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-18-2021",
+"path": "local/galati/negrilesti/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 18/2021 privind aprobare Act aditional la contractul nr 1138 , de inchiriere pentru suprafetele de pajisti aflate in domeniul privat al comunei Negrilesti",
+"short": "HCL Negrilești nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/39483",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -213,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--scanteiesti-22-2021",
+   "path": "local/galati/scanteiesti/2021/22",
+   "short": "HCL Scânteiești nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 22/2021 privind alegerea preşedintelui de şedinţă pentru lunile mai-iulie 2021",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/38130",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/38130",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-23-2021",
    "path": "local/galati/scanteiesti/2021/23",
    "short": "HCL Scânteiești nr. 23/2021",
@@ -573,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--scanteiesti-5-2021",
+   "path": "local/galati/scanteiesti/2021/5",
+   "short": "HCL Scânteiești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 5/2021",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/21518",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21518",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-6-2021",
    "path": "local/galati/scanteiesti/2021/6",
    "short": "HCL Scânteiești nr. 6/2021",
@@ -588,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--scanteiesti-7-2021",
+   "path": "local/galati/scanteiesti/2021/7",
+   "short": "HCL Scânteiești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 7/2021 privind alegerea preşedintelui de şedinţă pentru lunile februarie-aprilie 2021",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/21520",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21520",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-8-2021",
    "path": "local/galati/scanteiesti/2021/8",
    "short": "HCL Scânteiești nr. 8/2021",
@@ -598,6 +643,21 @@
      "from": "2021-02-26",
      "units": 1,
      "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-9-2021",
+   "path": "local/galati/scanteiesti/2021/9",
+   "short": "HCL Scânteiești nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 9/2021 privind desemnarea reprezentantului Consiliului Local Scânteiesti în Consiliul de Administraţie al Şcolii Gimnaziale Nr. 1 Sat Fântânele, Comuna Scânteieşti, judeţul Galaţi, pentru anul şcolar 2020-2021",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/21522",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21522",
      "sha256": null
     }
    ]

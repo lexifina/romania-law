@@ -3,6 +3,21 @@
  "shard": "local/galati/valea-marului/2026",
  "acts": [
   {
+   "slug": "hcl-galati--valea-marului-57-2026",
+   "path": "local/galati/valea-marului/2026/57",
+   "short": "HCL Valea Mărului nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 57/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-57-din-29.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-57-din-29.06.2026.pdf",
+     "sha256": "dfd867a3a96cd00339cf3520519ce960af0ed3e9e3799d35d462d76319f4df6f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--valea-marului-58-2026",
    "path": "local/galati/valea-marului/2026/58",
    "short": "HCL Valea Mărului nr. 58/2026",
@@ -18,6 +33,96 @@
    ]
   },
   {
+   "slug": "hcl-galati--valea-marului-59-2026",
+   "path": "local/galati/valea-marului/2026/59",
+   "short": "HCL Valea Mărului nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 59/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-59-din-16.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-59-din-16.07.2026.pdf",
+     "sha256": "155254943ec5f5e294cce31eed970a097e0e44870cf5ed8eecc3e706d37cc867"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-60-2026",
+   "path": "local/galati/valea-marului/2026/60",
+   "short": "HCL Valea Mărului nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 60/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-60-din-16.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-60-din-16.07.2026.pdf",
+     "sha256": "f32c1f42867cdcc60e01bebe1424ca716753b69f7525fc103594fe7dbae1a283"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-61-2026",
+   "path": "local/galati/valea-marului/2026/61",
+   "short": "HCL Valea Mărului nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 61/2026 pentru atribuire teren–loc de casă conform Legii nr. 15/2003, în satul Valea Mărului, com",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-61-din-23.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-61-din-23.07.2026.pdf",
+     "sha256": "6ea36d42984ffd7ee6ba38f0b3854f5c546276f1702ba4e48ea679ff2ea1b919"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-62-2026",
+   "path": "local/galati/valea-marului/2026/62",
+   "short": "HCL Valea Mărului nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 62/2026 pentru atribuire teren–loc de casă conform Legii nr. 15/2003, în satul Valea Mărului, com",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-62-din-23.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-62-din-23.07.2026.pdf",
+     "sha256": "d0bf9e80e6c5b5f427aab672288a897d6a5e9996f650532cb2aeffbf418269d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-63-2026",
+   "path": "local/galati/valea-marului/2026/63",
+   "short": "HCL Valea Mărului nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 63/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-63-din-23.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-63-din-23.07.2026.pdf",
+     "sha256": "547ad2e30634ecd3d69dd7e485daca5082cea047250bf2e037953099ff28d402"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-64-2026",
+   "path": "local/galati/valea-marului/2026/64",
+   "short": "HCL Valea Mărului nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 64/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-64-din-23.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-64-din-23.07.2026.pdf",
+     "sha256": "9f8ab04bd3ce65945fa623295cadf5f2b0a3e5b67b0726e6306eb79a5bf58ca9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--valea-marului-65-2026",
    "path": "local/galati/valea-marului/2026/65",
    "short": "HCL Valea Mărului nr. 65/2026",
@@ -29,6 +134,171 @@
      "units": 1,
      "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-65-din-23.07.2026.pdf",
      "sha256": "0d5d1226e8f2275aef655b702cf379ce37c995078f1e56c962534b920977b2b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-66-2026",
+   "path": "local/galati/valea-marului/2026/66",
+   "short": "HCL Valea Mărului nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 66/2026 privind finanțele publice locale, nr.273/2006; - Legea bugetului de stat pe anul 2026, nr.43; - referatul de aprobare nr. 2086/15.07.2026al inițiatorului; - raportul de specialitate întocmit de șef serviciul financiar contabil, înregistrat sub nr. 2087/15.07.2026; - rapoartele de avizare ale comisiilor de specialitate nr.1-3; În temeiul dispozițiilor art. 129, alin. 2, lit. „c” și alin. 6, lit „c”",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-66-din-23.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-66-din-23.07.2026.pdf",
+     "sha256": "0869602018a3c12b7f2151284f989e784ac38580fcd436c796d3aa6c3dab0ee6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-67-2026",
+   "path": "local/galati/valea-marului/2026/67",
+   "short": "HCL Valea Mărului nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 67/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-67-din-23.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-67-din-23.07.2026.pdf",
+     "sha256": "4965a36f54d5eb98d33fa0c01f6f456bb70acfd0646da5b367e6f2a4bc2c24ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-68-2026",
+   "path": "local/galati/valea-marului/2026/68",
+   "short": "HCL Valea Mărului nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 68/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-68-din-23.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-68-din-23.07.2026.pdf",
+     "sha256": "1add0c1d26a9c4216c15f56c9b6d9218de8bf27a7f515a80e4dba7a1271e5ce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-69-2026",
+   "path": "local/galati/valea-marului/2026/69",
+   "short": "HCL Valea Mărului nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 69/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-69-din-31.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-69-din-31.07.2026.pdf",
+     "sha256": "07eaf58f449acfed1bc2024f622ccd3f528d551fc784b0ae5ab003343d3e460c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-70-2026",
+   "path": "local/galati/valea-marului/2026/70",
+   "short": "HCL Valea Mărului nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 70/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-70-din-31.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-70-din-31.07.2026.pdf",
+     "sha256": "cd28b5a55d204a2af8facc5b47541016562712ed3690754b2438e7cd748e7444"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-71-2026",
+   "path": "local/galati/valea-marului/2026/71",
+   "short": "HCL Valea Mărului nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 71/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-71-din-31.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-71-din-31.07.2026.pdf",
+     "sha256": "c3ebc31cfdb0ec9515592a9f107eec00a39c55dcd65cc8f9979670b2d365c8d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-72-2026",
+   "path": "local/galati/valea-marului/2026/72",
+   "short": "HCL Valea Mărului nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 72/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-72-din-11.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-72-din-11.08.2026.pdf",
+     "sha256": "044ec210f84b034f42a6bcd6a2c5303a0028fde755120aa02be0e1eb57556a87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-73-2026",
+   "path": "local/galati/valea-marului/2026/73",
+   "short": "HCL Valea Mărului nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 73/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-73-din-11.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-73-din-11.08.2026.pdf",
+     "sha256": "c0a431cb7d1e1f3b6e556dac1901b2a6d5ef6a2aed08e630e1c4ad4b3d32c5c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-74-2026",
+   "path": "local/galati/valea-marului/2026/74",
+   "short": "HCL Valea Mărului nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 74/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-74-din-11.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-74-din-11.08.2026.pdf",
+     "sha256": "c4a61e5dacc93b6e4e8b07b0348d7bdf8560a08d1dbe2b242d23e987c1eaa6f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-75-2026",
+   "path": "local/galati/valea-marului/2026/75",
+   "short": "HCL Valea Mărului nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 75/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-75-din-11.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-75-din-11.08.2026.pdf",
+     "sha256": "1df55e4b2ed759e5b45eb179de13467f8219467979cb1edab0b5708cb8540666"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--valea-marului-76-2026",
+   "path": "local/galati/valea-marului/2026/76",
+   "short": "HCL Valea Mărului nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 76/2026",
+   "url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-76-din-11.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-76-din-11.08.2026.pdf",
+     "sha256": "821a7fc0dab8060626eceb05c2df401e383ae0456ad70423b23560700d98f7fa"
     }
    ]
   }

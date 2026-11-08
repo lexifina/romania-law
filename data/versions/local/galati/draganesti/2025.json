@@ -3,6 +3,681 @@
  "shard": "local/galati/draganesti/2025",
  "acts": [
   {
+   "slug": "hcl-galati--draganesti-1-2025",
+   "path": "local/galati/draganesti/2025/1",
+   "short": "HCL Drăgănești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 1/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.1-din-10.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.1-din-10.01.2025.pdf",
+     "sha256": "8ffc62a7ed77de03c4f9d62d56853b3ac8961ad036b8d4b16123f097e8f5fef6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-10-2025",
+   "path": "local/galati/draganesti/2025/10",
+   "short": "HCL Drăgănești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 10/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.10-din-24.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.10-din-24.02.2025.pdf",
+     "sha256": "c9155d807e188e2325dcd6dede70ac69cc61a4fb20a1cdfa4471d3de56407ec3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-11-2025",
+   "path": "local/galati/draganesti/2025/11",
+   "short": "HCL Drăgănești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 11/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.11-din-24.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.11-din-24.02.2025.pdf",
+     "sha256": "efa9e67416418a6a903486506962c3f83a8426acd1e03fc59fd9b50ec6e4de40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-12-2025",
+   "path": "local/galati/draganesti/2025/12",
+   "short": "HCL Drăgănești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 12/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.12-din-24.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.12-din-24.02.2025.pdf",
+     "sha256": "3075c712cb1a433333a6e241cb5e1bfec98a779bff6f128f1d11f56f4c2ca86c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-13-2025",
+   "path": "local/galati/draganesti/2025/13",
+   "short": "HCL Drăgănești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 13/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.13-din-10.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.13-din-10.03.2025.pdf",
+     "sha256": "8761a00c55df11058a713e13e34d0d0b4fb91c195c122b1810f2c028faf875d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-14-2025",
+   "path": "local/galati/draganesti/2025/14",
+   "short": "HCL Drăgănești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 14/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.14-din-10.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.14-din-10.03.2025.pdf",
+     "sha256": "b42c8bc0c1dd9733dea9f882a58d79cc01b8e605ad0b92a326acd4ca6068f806"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-15-2025",
+   "path": "local/galati/draganesti/2025/15",
+   "short": "HCL Drăgănești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 15/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.15-din-25.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.15-din-25.03.2025.pdf",
+     "sha256": "696d69a30510699c74587d9f6406327a221bf6533afab9f46cedc22c1c90f217"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-16-2025",
+   "path": "local/galati/draganesti/2025/16",
+   "short": "HCL Drăgănești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 16/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.16-din-25.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.16-din-25.03.2025.pdf",
+     "sha256": "2ee96a37cc6ef7339fa20de77a758a091f15479784b7e90734722b49e3c3786b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-17-2025",
+   "path": "local/galati/draganesti/2025/17",
+   "short": "HCL Drăgănești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 17/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.17-din-25.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.17-din-25.03.2025.pdf",
+     "sha256": "728716add4d0dd758c370c6be4cb6f66b8a6dd3babcf0ada9429104838736e83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-18-2025",
+   "path": "local/galati/draganesti/2025/18",
+   "short": "HCL Drăgănești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 18/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.18-din-25.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.18-din-25.03.2025.pdf",
+     "sha256": "12cc8652e1aaa2d3de40cba02ef2ddc86974d1561fe97196bee1360b91589ad3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-19-2025",
+   "path": "local/galati/draganesti/2025/19",
+   "short": "HCL Drăgănești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 19/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.19-din-25.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.19-din-25.03.2025.pdf",
+     "sha256": "5361da59a951cca5fc6566b1f98e5d8ecce4f9027d02d87bc4e7642b8f4d690d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-2-2025",
+   "path": "local/galati/draganesti/2025/2",
+   "short": "HCL Drăgănești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 2/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.2-din-10.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.2-din-10.01.2025.pdf",
+     "sha256": "ef2f5be366c626e2c095444ae60bebe393edcad7c2b6ed508ac2590f37735077"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-20-2025",
+   "path": "local/galati/draganesti/2025/20",
+   "short": "HCL Drăgănești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 20/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.20-din-10.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.20-din-10.04.2025.pdf",
+     "sha256": "d12049043365a922b9c44c9cfd638552309ad103b2e30d7d4e75d8c8a608f936"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-21-2025",
+   "path": "local/galati/draganesti/2025/21",
+   "short": "HCL Drăgănești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 21/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.21din-10.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.21din-10.04.2025.pdf",
+     "sha256": "bba6ccc3f4e4c8ffb780b2cc1b50bb5ab1e12306fbcb8ecb837b92f52fa1fdf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-22-2025",
+   "path": "local/galati/draganesti/2025/22",
+   "short": "HCL Drăgănești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 22/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.22-din-10.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.22-din-10.04.2025.pdf",
+     "sha256": "50d53ccfaf6bc54aa4b736febb4a8c9d34ab79f5fa9c54ce636c829e723aff92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-23-2025",
+   "path": "local/galati/draganesti/2025/23",
+   "short": "HCL Drăgănești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 23/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.23-din-10.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/04/HCL-nr.23-din-10.04.2025.pdf",
+     "sha256": "6d0466ad491d43c219098c2d87f9805f8a82cb6efed0a95289fb8cc8d02eba66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-24-2025",
+   "path": "local/galati/draganesti/2025/24",
+   "short": "HCL Drăgănești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 24/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/05/HCL-nr.24-din-22.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/05/HCL-nr.24-din-22.04.2025.pdf",
+     "sha256": "9a675c34e15b11c933873ec617c8d5dde49073ec0d613048ef5e8ec462d69f64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-25-2025",
+   "path": "local/galati/draganesti/2025/25",
+   "short": "HCL Drăgănești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 25/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/05/HCL-nr.25-din-22.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/05/HCL-nr.25-din-22.04.2025.pdf",
+     "sha256": "f7cb9a49457812e7887123e67774ee96dd727c2a9ff07c862f59feaf7df92223"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-26-2025",
+   "path": "local/galati/draganesti/2025/26",
+   "short": "HCL Drăgănești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 26/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/05/HCL-nr.26-din-22.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/05/HCL-nr.26-din-22.04.2025.pdf",
+     "sha256": "ee83ccd55216f2791422fa256f1129f21fdc92b7920280f73ea2caeefae9c070"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-27-2025",
+   "path": "local/galati/draganesti/2025/27",
+   "short": "HCL Drăgănești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 27/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.27-din-15.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.27-din-15.05.2025.pdf",
+     "sha256": "2a405f81d0ee40af8a1e53aa1f44b2e15c9ccfef8339b4d05f8e2aecb48fb546"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-28-2025",
+   "path": "local/galati/draganesti/2025/28",
+   "short": "HCL Drăgănești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 28/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.28-din-15.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.28-din-15.05.2025.pdf",
+     "sha256": "f56fa80fb74ed36963cc038b1efe1b363f3e1c4b52dce6d896a3d1a007a32902"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-3-2025",
+   "path": "local/galati/draganesti/2025/3",
+   "short": "HCL Drăgănești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 3/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.3-din-27.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.3-din-27.01.2025.pdf",
+     "sha256": "db196d1da7af1a95895069caf95321661ad0629838ef43aaa33dc0ec0daace24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-30-2025",
+   "path": "local/galati/draganesti/2025/30",
+   "short": "HCL Drăgănești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 30/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.30-din-15.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.30-din-15.05.2025.pdf",
+     "sha256": "db307628de3fe0831449518db15f0b67a360820d6923d1cf6ece6bf2c2933074"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-31-2025",
+   "path": "local/galati/draganesti/2025/31",
+   "short": "HCL Drăgănești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 31/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.31-din-15.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.31-din-15.05.2025.pdf",
+     "sha256": "a2a47ee49738c21a996110e2448c6f7040994db8c4ae2b90b844f48d44fdf26b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-32-2025",
+   "path": "local/galati/draganesti/2025/32",
+   "short": "HCL Drăgănești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 32/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.32-din-27.06.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.32-din-27.06.2025.pdf",
+     "sha256": "316d08fd0de6f380658784789bad6f53e263e16a998a364af7a5cba0810158ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-33-2025",
+   "path": "local/galati/draganesti/2025/33",
+   "short": "HCL Drăgănești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 33/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.33-din-27.06.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.33-din-27.06.2025.pdf",
+     "sha256": "1974a22c4ad468a8cac640681411eef1ecff6fe676ce6d5d735bccc16d396deb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-34-2025",
+   "path": "local/galati/draganesti/2025/34",
+   "short": "HCL Drăgănești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 34/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.34-din-27.06.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.34-din-27.06.2025.pdf",
+     "sha256": "46aa0754a011838119888de815387efcc84d9d425f42f8ba68a367195d323d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-35-2025",
+   "path": "local/galati/draganesti/2025/35",
+   "short": "HCL Drăgănești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 35/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.35-din-27.06.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.35-din-27.06.2025.pdf",
+     "sha256": "5490382217283255965b7a1436fa191b97539efb38240af897a8dbfde5408a69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-36-2025",
+   "path": "local/galati/draganesti/2025/36",
+   "short": "HCL Drăgănești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 36/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.36-din-27.06.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/07/HCL-nr.36-din-27.06.2025.pdf",
+     "sha256": "85a5a9f91973ba384072fe37d36a1b1c252eeeab9cb0f86436d9e2f8787827d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-39-2025",
+   "path": "local/galati/draganesti/2025/39",
+   "short": "HCL Drăgănești nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 39/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/09/HCL-nr.39-din-18.07.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/09/HCL-nr.39-din-18.07.2025.pdf",
+     "sha256": "a1ab9559e75c447f8ff6fe16bd8de61231d9d7ad001b1f62d8afa979489cb010"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-4-2025",
+   "path": "local/galati/draganesti/2025/4",
+   "short": "HCL Drăgănești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 4/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.4-din-27.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.4-din-27.01.2025.pdf",
+     "sha256": "f4fd9d8ae8902b96e3553fdcbf17f09d0aabff12de35e191fc5fe1825de87429"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-40-2025",
+   "path": "local/galati/draganesti/2025/40",
+   "short": "HCL Drăgănești nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 40/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/09/HCL-nr.40-din-18.07.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/09/HCL-nr.40-din-18.07.2025.pdf",
+     "sha256": "074b14cd837a00524da38dc1e11b3b1172c32b56c56cfa0d9e73d4fba024b857"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-41-2025",
+   "path": "local/galati/draganesti/2025/41",
+   "short": "HCL Drăgănești nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 41/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/09/HCL-nr.41-din-14.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/09/HCL-nr.41-din-14.08.2025.pdf",
+     "sha256": "aabda283a59661482140529faa8b35ba33dd35d18d2c406fcb83d6af05330ef1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-42-2025",
+   "path": "local/galati/draganesti/2025/42",
+   "short": "HCL Drăgănești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 42/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/09/HCL-nr.42-din-14.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/09/HCL-nr.42-din-14.08.2025.pdf",
+     "sha256": "0f1dfdd0faf9e108857dc3463a4f7dc749500bfee9262a54b002189fb465c516"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-43-2025",
+   "path": "local/galati/draganesti/2025/43",
+   "short": "HCL Drăgănești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 43/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/09/HCL-nr.43-din-14.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/09/HCL-nr.43-din-14.08.2025.pdf",
+     "sha256": "b805da0f441b10406f58289c7faa71e9fb6310d9dd739a06302381c575895c34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-44-2025",
+   "path": "local/galati/draganesti/2025/44",
+   "short": "HCL Drăgănești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 44/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/09/HCL-nr.44-din-14.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/09/HCL-nr.44-din-14.08.2025.pdf",
+     "sha256": "7bb535245b3adc5df6a8cf8ad177708b4dfa06276d5c43168512b4b3c7a23074"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-45-2025",
+   "path": "local/galati/draganesti/2025/45",
+   "short": "HCL Drăgănești nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 45/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/09/HCL-nr.45-din-14.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/09/HCL-nr.45-din-14.08.2025.pdf",
+     "sha256": "0b9034387ce53674eb964509c5d15d73a049852bc4f767b0df7278662c8e67bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-46-2025",
+   "path": "local/galati/draganesti/2025/46",
+   "short": "HCL Drăgănești nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 46/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/10/HCL-nr.46-din-27.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/10/HCL-nr.46-din-27.08.2025.pdf",
+     "sha256": "258ead431dc99f8e76b0ea118b23aa576a6ca00e3b70f346b4c8123ea97c865f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-47-2025",
+   "path": "local/galati/draganesti/2025/47",
+   "short": "HCL Drăgănești nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 47/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/10/HCL-nr.47-din-27.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/10/HCL-nr.47-din-27.08.2025.pdf",
+     "sha256": "bd7194281045a23e146a2224f98c235365e42a26c058dcc5673a9722e5425a72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-48-2025",
+   "path": "local/galati/draganesti/2025/48",
+   "short": "HCL Drăgănești nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 48/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/10/HCL-nr.48-din-27.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/10/HCL-nr.48-din-27.08.2025.pdf",
+     "sha256": "f484564fdcb5dd792171787dd9759d22ff79b8784c8ead55e56806eefd7a82c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-49-2025",
+   "path": "local/galati/draganesti/2025/49",
+   "short": "HCL Drăgănești nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 49/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/10/HCL-nr.49-din-27.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/10/HCL-nr.49-din-27.08.2025.pdf",
+     "sha256": "fa40987dfd6191c9343ed3c68e7504f629daff69d61517dc67872c20d55d559d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-5-2025",
+   "path": "local/galati/draganesti/2025/5",
+   "short": "HCL Drăgănești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 5/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.5-din-24.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.5-din-24.02.2025.pdf",
+     "sha256": "68dcca7d888c54825979f74ae307f7fea818ccee4c6d8d97d52bb8f731ea7eff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-50-2025",
+   "path": "local/galati/draganesti/2025/50",
+   "short": "HCL Drăgănești nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 50/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/10/HCL-nr.50-din-02.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/10/HCL-nr.50-din-02.09.2025.pdf",
+     "sha256": "8db61a99d6582f0ca56be6fe2a88225907e0dabd56f15f73e89d7549af93568e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-51-2025",
+   "path": "local/galati/draganesti/2025/51",
+   "short": "HCL Drăgănești nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 51/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/10/HCL-nr.51-din-02.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/10/HCL-nr.51-din-02.09.2025.pdf",
+     "sha256": "eb45da6ca0472c1bb040e8a4fd7cf01862d19ebd1e5c97addde83e50d319c847"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-52-2025",
+   "path": "local/galati/draganesti/2025/52",
+   "short": "HCL Drăgănești nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 52/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/10/HCL-nr.52-din-17.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/10/HCL-nr.52-din-17.09.2025.pdf",
+     "sha256": "6282f41c09a825a83a32378c28119b1d573baf97f6a62eea21fd64af31734378"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--draganesti-58-2025",
    "path": "local/galati/draganesti/2025/58",
    "short": "HCL Drăgănești nr. 58/2025",
@@ -33,6 +708,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--draganesti-6-2025",
+   "path": "local/galati/draganesti/2025/6",
+   "short": "HCL Drăgănești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 6/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.6-din-24.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.6-din-24.02.2025.pdf",
+     "sha256": "b579caf4082e92d0d87b6cf7c898958f018031bc0f5d0d4ca2d457f24337dfa1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--draganesti-67-2025",
    "path": "local/galati/draganesti/2025/67",
    "short": "HCL Drăgănești nr. 67/2025",
@@ -59,6 +749,21 @@
      "units": 1,
      "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2026/01/HCL-nr.68-din-25.11.2025.pdf",
      "sha256": "8f89bde7343fb2b7a668a558c155022cc68080124c9556ea9db9921358a125b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-7-2025",
+   "path": "local/galati/draganesti/2025/7",
+   "short": "HCL Drăgănești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 7/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.7-din-24.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.7-din-24.02.2025.pdf",
+     "sha256": "ef8b81e1b8528617d700c7d3a770f717016d1b3fac781b648dd43287a2e1c777"
     }
    ]
   },
@@ -179,6 +884,36 @@
      "units": 1,
      "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2026/01/HCL-nr.79-din-30.12.2025.pdf",
      "sha256": "f00dfb26629a229a660aa243a8245cc8daceca1d72fef108b020d02ecec18feb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-8-2025",
+   "path": "local/galati/draganesti/2025/8",
+   "short": "HCL Drăgănești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 8/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.8-din-24.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.8-din-24.02.2025.pdf",
+     "sha256": "7f94bf02f4101ed563b855ec82697b822703100f189044fec09061894dd4079b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--draganesti-9-2025",
+   "path": "local/galati/draganesti/2025/9",
+   "short": "HCL Drăgănești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgănești nr. 9/2025",
+   "url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.9-din-24.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://primaria-draganesti.ro/wp-content/uploads/2025/03/HCL-nr.9-din-24.02.2025.pdf",
+     "sha256": "c1f4a0973861406c53d26110f0c9e1812f089da140aca9ef006e200806cd008d"
     }
    ]
   }

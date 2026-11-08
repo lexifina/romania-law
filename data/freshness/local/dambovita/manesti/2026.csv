@@ -1,6 +1,8 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 hcl-dambovita--manesti-1-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/252341
 hcl-dambovita--manesti-10-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/257903
+hcl-dambovita--manesti-11-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/257904
+hcl-dambovita--manesti-12-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/257905
 hcl-dambovita--manesti-13-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/266435
 hcl-dambovita--manesti-14-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/266436
 hcl-dambovita--manesti-15-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/266437
@@ -12,6 +14,7 @@ hcl-dambovita--manesti-2-2026,current,2026-11-08,2026-12-08,register-read,,,,htt
 hcl-dambovita--manesti-20-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/266511
 hcl-dambovita--manesti-21-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/266512
 hcl-dambovita--manesti-22-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/266628
+hcl-dambovita--manesti-23-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/266629
 hcl-dambovita--manesti-24-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/266630
 hcl-dambovita--manesti-25-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/266645
 hcl-dambovita--manesti-26-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/266764
@@ -40,3 +43,4 @@ hcl-dambovita--manesti-5-2026,current,2026-11-08,2026-12-08,register-read,,,,htt
 hcl-dambovita--manesti-6-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/252346
 hcl-dambovita--manesti-7-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/252347
 hcl-dambovita--manesti-8-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/252348
+hcl-dambovita--manesti-9-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/manesti-db/registru-hcl/252349

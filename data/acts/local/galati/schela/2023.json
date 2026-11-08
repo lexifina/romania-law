@@ -600,6 +600,28 @@
 }
 },
 {
+"slug": "hcl-galati--schela-28-2023",
+"path": "local/galati/schela/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 28/2023 Privind alegerea preşedintelui de şedinţă al Consiliului Local Schela pentru o perioadă de trei luni, respectiv mai 2023 – iulie 2023",
+"short": "HCL Schela nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-04",
+"latest": "2023-05-04",
+"portal": "https://emol.ro/schela-gl/registru-hcl/137103",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--schela-29-2023",
 "path": "local/galati/schela/2023/29",
 "kind": "local",
@@ -773,6 +795,29 @@
 "council_name": "Consiliul Local al Comunei Schela",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--schela-37-2023",
+"path": "local/galati/schela/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 37/2023",
+"short": "HCL Schela nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://emol.ro/schela-gl/registru-hcl/137113",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1043,6 +1088,50 @@
 }
 },
 {
+"slug": "hcl-galati--schela-50-2023",
+"path": "local/galati/schela/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 50/2023 Privind concesionarea unui teren extravilan în suprafață de 13.100 mp, având numărul cadastral nr.112336, situat în tarlaua 21/2, parcela 172/5, lot 2, comuna Schela, sat Schela, județul Galați, proprietate publică a comunei Schela",
+"short": "HCL Schela nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://emol.ro/schela-gl/registru-hcl/137126",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--schela-51-2023",
+"path": "local/galati/schela/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 51/2023 Privind alegerea preşedintelui de şedinţă al Consiliului Local Schela pentru o perioadă de trei luni, respectiv august 2023 – octombrie 2023",
+"short": "HCL Schela nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-02",
+"latest": "2023-08-02",
+"portal": "https://emol.ro/schela-gl/registru-hcl/137127",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--schela-52-2023",
 "path": "local/galati/schela/2023/52",
 "kind": "local",
@@ -1131,6 +1220,29 @@
 }
 },
 {
+"slug": "hcl-galati--schela-56-2023",
+"path": "local/galati/schela/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 56/2023",
+"short": "HCL Schela nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/schela-gl/registru-hcl/137253",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--schela-57-2023",
 "path": "local/galati/schela/2023/57",
 "kind": "local",
@@ -1194,6 +1306,28 @@
 "council_name": "Consiliul Local al Comunei Schela",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--schela-60-2023",
+"path": "local/galati/schela/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Schela nr. 60/2023 Privind numirea de către Consiliul Local al comunei Schela a doi reprezentanti care să facă parte din Consiliul de Administraţie al Școlii Gimnaziale ”Lascăr Catargiu” din comuna Schela, pentru anul școlar 2023-2024",
+"short": "HCL Schela nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://emol.ro/schela-gl/registru-hcl/137257",
+"council": "galati/schela",
+"council_name": "Consiliul Local al Comunei Schela",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

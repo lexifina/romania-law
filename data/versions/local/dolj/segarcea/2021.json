@@ -16,6 +16,21 @@
      "sha256": "bfcf5b00437487419e2e2bcea8eaf1b98f4bab65da9e8c2431475fa2158eb2aa"
     }
    ]
+  },
+  {
+   "slug": "hcl-dolj--segarcea-21-2021",
+   "path": "local/dolj/segarcea/2021/21",
+   "short": "HCL Segarcea nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Segarcea nr. 21/2021 Privind modificarea contractului de concesiune nr. 4400/31.05.2018",
+   "url": "https://primariasegarcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registru-hotarari/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primariasegarcea.ro/wp-content/uploads/2021/hotarari/H21.pdf",
+     "sha256": "6f3d3922dc583e82f49083cbb347a5e569bd91425d0a4cdedcd8ad191289140c"
+    }
+   ]
   }
  ]
 }

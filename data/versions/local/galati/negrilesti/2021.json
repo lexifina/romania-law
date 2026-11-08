@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--negrilesti-12-2021",
+   "path": "local/galati/negrilesti/2021/12",
+   "short": "HCL Negrilești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 12/2021 privind alegerea presedintelui de sedinta pentru trimestrul II anul 2021",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/39117",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/39117",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--negrilesti-13-2021",
    "path": "local/galati/negrilesti/2021/13",
    "short": "HCL Negrilești nr. 13/2021",
@@ -118,6 +133,21 @@
      "from": "2021-05-28",
      "units": 1,
      "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/39124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-18-2021",
+   "path": "local/galati/negrilesti/2021/18",
+   "short": "HCL Negrilești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 18/2021 privind aprobare Act aditional la contractul nr 1138 , de inchiriere pentru suprafetele de pajisti aflate in domeniul privat al comunei Negrilesti",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/39483",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/39483",
      "sha256": null
     }
    ]

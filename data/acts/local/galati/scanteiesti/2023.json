@@ -422,6 +422,50 @@
 }
 },
 {
+"slug": "hcl-galati--scanteiesti-20-2023",
+"path": "local/galati/scanteiesti/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 20/2023 privind desemnarea consilierilor locali din cadrul Consiliului local al comunei Scânteiești pentru a face parte din Comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al comunei Scânteiești pentru anul 2022",
+"short": "HCL Scânteiești nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/131786",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-21-2023",
+"path": "local/galati/scanteiesti/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 21/2023 privind alegerea președintelui de ședință din data de 24.03.2023",
+"short": "HCL Scânteiești nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/131787",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--scanteiesti-22-2023",
 "path": "local/galati/scanteiesti/2023/22",
 "kind": "local",
@@ -464,6 +508,28 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-24-2023",
+"path": "local/galati/scanteiesti/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 24/2023 privind utilizarea excedentului bugetului local pentru finanțarea secțiunii de dezvoltare pe anul 2023",
+"short": "HCL Scânteiești nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/131790",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -533,6 +599,28 @@
 }
 },
 {
+"slug": "hcl-galati--scanteiesti-28-2023",
+"path": "local/galati/scanteiesti/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 28/2023 privind alegerea președintelui de ședință pentru ședința din data de 24.04.2023",
+"short": "HCL Scânteiești nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/131794",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--scanteiesti-29-2023",
 "path": "local/galati/scanteiesti/2023/29",
 "kind": "local",
@@ -552,6 +640,28 @@
 "council_name": "Consiliul Local al Comunei Scânteiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--scanteiesti-30-2023",
+"path": "local/galati/scanteiesti/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 30/2023 privind alegerea președintelui de ședință pentru lunile mai-iulie 2023",
+"short": "HCL Scânteiești nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-05",
+"latest": "2023-12-05",
+"portal": "https://emol.ro/scanteiesti-gl/registru-hcl/131796",
+"council": "galati/scanteiesti",
+"council_name": "Consiliul Local al Comunei Scânteiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,50 @@
+**Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.**
+
+# Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.49/2024 privind reglementarea cadrului general de preluare de către Autoritatea pentru Administrarea Activelor Statului a unor creanţe bugetare restante aflate în administrarea Agenţiei Naţionale de Administrare Fiscală asupra unor societăţi cu capital majoritar sau integral de stat
+
+**Became:** [Legea nr. 66/2025](../../../../lege/2025/66/) (`legea-66-2025`): that act is the law, from its own in-force day; read it with `python tools/on.py <day> legea-66-2025`.
+
+Proiect de lege L287/2024 · initiator: Guvernul României · 9 published stages, 2024-05-16 to 2025-05-14 · <https://www.senat.ro/legis/lista.aspx?nr_cls=L287&an_cls=2024>
+
+- Senate number: L287/2024
+- Type: Proiect de lege
+- Character: Ordinară
+- Urgent procedure: Da
+- First chamber: Senat
+- Legislative Council opinion: 486/15.05.2024
+- Stage in the bill file: A devenit Legea nr.66/14.05.2025 publicatã în M.O. nr.447/14.05.2025
+
+## Stages
+
+Each stage is one commit (`Kind: draft`, no `In-force:` trailer), dated on the day it was published. Tag `proiect-parlament-2024-l287-2024/<day>` is the draft as it stood after that stage.
+
+| Day | Stage |
+| --- | --- |
+| 2024-05-16 | registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document |
+| 2024-05-28 | documents published: Raport comisie sesizată pe fond |
+| 2024-06-03 | adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților |
+| 2024-06-11 | registered at the Chamber of Deputies |
+| 2025-04-15 | adopted by the Chamber of Deputies |
+| 2025-04-23 | documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare |
+| 2025-04-25 | sent for promulgation |
+| 2025-05-13 | promulgated, becomes Legea nr. 66/2025; documents published: Decret de promulgare, Forma promulgată |
+| 2025-05-14 | published in the Monitorul Oficial |
+
+## Files
+
+| File | What |
+| --- | --- |
+| [axs-3c551462.md](axs-3c551462.md) | Adresă privind sesizarea CCR (AXS), as published |
+| [dp-39ae3a29.md](dp-39ae3a29.md) | Decret de promulgare (DP), as published |
+| [fp-b5518f07.md](fp-b5518f07.md) | Forma promulgată (FP), as published |
+| [lp-f5be0056.md](lp-f5be0056.md) | Forma trimisă la promulgare (LP), as published |
+| [procedura.md](procedura.md) | Procedura: stages and documents so far |
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Draft id: `proiect-parlament-2024-l287-2024`. `tools/on.py` never returns a draft: it reads only commits with an `In-force:` trailer.
+
+## Decisions made by hand
+
+- Proiect de lege L287/2024: added by Lexifina's drafts source lane from the official bill file of the Senate (senat.ro). A draft is not law: its commits carry Kind: draft and no In-force trailer, dated on the day each stage was published, and credited to the initiator.
+- Proiect de lege L287/2024: comments by private persons are not collected or published; initiators are credited as a body.

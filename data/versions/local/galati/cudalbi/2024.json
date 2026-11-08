@@ -3,6 +3,336 @@
  "shard": "local/galati/cudalbi/2024",
  "acts": [
   {
+   "slug": "hcl-galati--cudalbi-1-2024",
+   "path": "local/galati/cudalbi/2024/1",
+   "short": "HCL Cudalbi nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 1/2024",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2025/01/HCL-gol-de-casa.pdf",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2025/01/HCL-gol-de-casa.pdf",
+     "sha256": "6c4db0113e7ca915a6e35421346c0a1065935516576ff79d8fce630daf34b028"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-10-2024",
+   "path": "local/galati/cudalbi/2024/10",
+   "short": "HCL Cudalbi nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 10/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7022e08023b7e5d698d013aae741d0eccd4f950261bd514f0329439e8407abf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-11-2024",
+   "path": "local/galati/cudalbi/2024/11",
+   "short": "HCL Cudalbi nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 11/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0223223d68578ee78531e4877bb895dc466fafebe78b1ba43d749a602b54657a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-12-2024",
+   "path": "local/galati/cudalbi/2024/12",
+   "short": "HCL Cudalbi nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 12/2024",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-12-DIN-23.02.2024-de-aprobare-a-indicatorilor.pdf",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-12-DIN-23.02.2024-de-aprobare-a-indicatorilor.pdf",
+     "sha256": "e3651d7caaa0591e39bc8bbcad04bf567cc75663543bf2ccf9a56ced59bf1af5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-13-2024",
+   "path": "local/galati/cudalbi/2024/13",
+   "short": "HCL Cudalbi nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 13/2024 privind modificare buldo",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-13-DIN-01.03.2024-privind-modificare-buldo.pdf",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-13-DIN-01.03.2024-privind-modificare-buldo.pdf",
+     "sha256": "8767c6736095ebea0f251446fdc332ff15394f95e9df1df812c334718924a954"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-15-2024",
+   "path": "local/galati/cudalbi/2024/15",
+   "short": "HCL Cudalbi nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 15/2024",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-15-DIN-06.03.2024-aprobare-indicatori-SF.pdf",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-15-DIN-06.03.2024-aprobare-indicatori-SF.pdf",
+     "sha256": "09954c0345ebf47667a09fbbe5f36f0368c94b28243aaf7c4b31eef0b838728b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-17-2024",
+   "path": "local/galati/cudalbi/2024/17",
+   "short": "HCL Cudalbi nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 17/2024 Privind aprobarea rectificarii bugetului local al Comunei Cudalbi, jud",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-17-DIN-14.03.2024-RECTIFICARE-BUGET.pdf",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-17-DIN-14.03.2024-RECTIFICARE-BUGET.pdf",
+     "sha256": "4ff59910c6a3499f23e315dd8357e80d29b9621cd2221a14d457fe9c95fd2785"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-18-2024",
+   "path": "local/galati/cudalbi/2024/18",
+   "short": "HCL Cudalbi nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 18/2024",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-18-DIN-14.03.2024-indicatori-canalizare.pdf",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-18-DIN-14.03.2024-indicatori-canalizare.pdf",
+     "sha256": "b36d024528faf9329e3816a34691394eac6f221818bdebd1b38ca2c0627175e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-19-2024",
+   "path": "local/galati/cudalbi/2024/19",
+   "short": "HCL Cudalbi nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 19/2024 privind actualizare deviz_indicatori_Asfaltare Anghel Saligny",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/05/HCL-nr.-19-din-29.03.2024-privind-actualizare-deviz_indicatori_Asfaltare-Anghel-Saligny.pdf",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/05/HCL-nr.-19-din-29.03.2024-privind-actualizare-deviz_indicatori_Asfaltare-Anghel-Saligny.pdf",
+     "sha256": "4bc6de579702ec4b7764b6b10c7286bc5af3f61dae4fd50b96cca0dadb55df2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-2-2024",
+   "path": "local/galati/cudalbi/2024/2",
+   "short": "HCL Cudalbi nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 2/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a4192da4414a208eff123fc6fe8410c1bfa2c26e17abf23374e23cb7e8730acd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-20-2024",
+   "path": "local/galati/cudalbi/2024/20",
+   "short": "HCL Cudalbi nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 20/2024 privind inchiriere GRAJDURI",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/05/HCL-nr.-20-din-29.03.2024-privind-inchiriere-GRAJDURI.pdf",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/05/HCL-nr.-20-din-29.03.2024-privind-inchiriere-GRAJDURI.pdf",
+     "sha256": "f4f7e1c6129431fa62450215591047a7a259fa7953f1440c8b7fbe8172c7b3a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-21-2024",
+   "path": "local/galati/cudalbi/2024/21",
+   "short": "HCL Cudalbi nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 21/2024 privind inchiriere 10.000 mp",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/05/HCL-nr.-21-din-29.03.2024-privind-inchiriere-10.000-mp.pdf",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/05/HCL-nr.-21-din-29.03.2024-privind-inchiriere-10.000-mp.pdf",
+     "sha256": "4524a71042fe6883634e667af8fe8ae5f71140ae398f5343cb3dfbe043011a59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-22-2024",
+   "path": "local/galati/cudalbi/2024/22",
+   "short": "HCL Cudalbi nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 22/2024 privind Aprobare deviz Gradinita",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/05/HCL-nr.-22-din-29.03.2024-privind-Aprobare-deviz-Gradinita.pdf",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/05/HCL-nr.-22-din-29.03.2024-privind-Aprobare-deviz-Gradinita.pdf",
+     "sha256": "2d237992d392badf82793ffe9ce4e7ffd97f96eafd525fff54cd141b2ee25205"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-23-2024",
+   "path": "local/galati/cudalbi/2024/23",
+   "short": "HCL Cudalbi nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 23/2024 privind Aprobare deviz Scoala",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/05/HCL-nr.-23-din-29.03.2024-privind-Aprobare-deviz-Scoala.pdf",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/05/HCL-nr.-23-din-29.03.2024-privind-Aprobare-deviz-Scoala.pdf",
+     "sha256": "19485d6a4eb92f241609757ae0e636ec0b6f2e410c4cdb043da3d2af20fc5593"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-24-2024",
+   "path": "local/galati/cudalbi/2024/24",
+   "short": "HCL Cudalbi nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 24/2024",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/07/HCL-NR.-24-DIN-26.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/07/HCL-NR.-24-DIN-26.04.2024.pdf",
+     "sha256": "8f98fa6eaf4c8cd0f255a170ddd6ea16896cc188a85a20708028f1e5a6e74724"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-25-2024",
+   "path": "local/galati/cudalbi/2024/25",
+   "short": "HCL Cudalbi nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 25/2024",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/07/HCL-NR.-25-DIN-26.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/07/HCL-NR.-25-DIN-26.04.2024.pdf",
+     "sha256": "44e1f714596c0336cdd0a5fe48fc21a95a2aa4f6963891e81dfe07d5ddd7419c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-26-2024",
+   "path": "local/galati/cudalbi/2024/26",
+   "short": "HCL Cudalbi nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 26/2024",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/07/HCL-NR.-26-DIN-26.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/07/HCL-NR.-26-DIN-26.04.2024.pdf",
+     "sha256": "516a9608143de3bc48518ec9b68b308c9aa0e18ce12d5a9fdf9c30b06589a7a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-27-2024",
+   "path": "local/galati/cudalbi/2024/27",
+   "short": "HCL Cudalbi nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 27/2024",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/07/HCL-NR.-27-DIN-26.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/07/HCL-NR.-27-DIN-26.04.2024.pdf",
+     "sha256": "e4f5fdebf601ca91db5eaa0be44ab6fd7a1368ba6636a88eda835fac59b62248"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-28-2024",
+   "path": "local/galati/cudalbi/2024/28",
+   "short": "HCL Cudalbi nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 28/2024",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/07/HCL-NR.-28-DIN-26.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/07/HCL-NR.-28-DIN-26.04.2024.pdf",
+     "sha256": "9ccf5e0657f2673ee4c1ab5b8478a0efa01ca116384372e9e8756dbe53a5052f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-29-2024",
+   "path": "local/galati/cudalbi/2024/29",
+   "short": "HCL Cudalbi nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 29/2024",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/07/HCL-NR.-29-DIN-26.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/07/HCL-NR.-29-DIN-26.04.2024.pdf",
+     "sha256": "fcbd3a0711f72434e35cf2d616c208720dd83eee3b331025530e855347e905d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-3-2024",
+   "path": "local/galati/cudalbi/2024/3",
+   "short": "HCL Cudalbi nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 3/2024 pentru delegarea gestiunii activităților de sortare a deșeurilor de hârtie, carton, metal, plastic și sticlă colectate separat din deșeurile municipale în stația de sortare Valea Mărului, inclusiv transportul reziduurilor rezultate din sortare la depozitul de deșeuri sau la instalația de tratare mecano-biologică respectiv eliminarea, prin depozitare, a deșeurilor reziduale, a deșeurilor stradale",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-3-DIN-25.01.2024-STUDIU-DE-OPORTUNITATE-DESEURI.pdf",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-3-DIN-25.01.2024-STUDIU-DE-OPORTUNITATE-DESEURI.pdf",
+     "sha256": "2722993d65253501b3e56f8b63589fbf39ecfd720079a15b762059e946188fb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-4-2024",
+   "path": "local/galati/cudalbi/2024/4",
+   "short": "HCL Cudalbi nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 4/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8b0581a6eed2864826a4db9a2afc7f4f68fb26d9f2c2fc6ca9aa831f3e4c97eb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--cudalbi-5-2024",
    "path": "local/galati/cudalbi/2024/5",
    "short": "HCL Cudalbi nr. 5/2024",
@@ -14,6 +344,66 @@
      "units": 13,
      "source_url": null,
      "sha256": "e06d279ab8c91faa4f307901c607c37874f71ae879c2381fa1078c61da4b1f62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-6-2024",
+   "path": "local/galati/cudalbi/2024/6",
+   "short": "HCL Cudalbi nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 6/2024",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-6-DIN-25.01.2024-dezmembrare-parcare.pdf",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-6-DIN-25.01.2024-dezmembrare-parcare.pdf",
+     "sha256": "5ec2a24cb67173541277aab454b15a0b6f5abac289ed08b972c5b526cdd6cf19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-7-2024",
+   "path": "local/galati/cudalbi/2024/7",
+   "short": "HCL Cudalbi nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 7/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3b8b63349b5f43d52dfdcc0a86ea4f4d2bfa7d243ec50d2d154cf298e2140380"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-8-2024",
+   "path": "local/galati/cudalbi/2024/8",
+   "short": "HCL Cudalbi nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 8/2024",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-8-din-10.02.2024-majorare-salarii-5.pdf",
+   "versions": [
+    {
+     "from": "2024-02-10",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-8-din-10.02.2024-majorare-salarii-5.pdf",
+     "sha256": "d366a5cc52f31d6a8614d8c69bd6376601a4d346f50c1590d1a5400dfdb78a9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-9-2024",
+   "path": "local/galati/cudalbi/2024/9",
+   "short": "HCL Cudalbi nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 9/2024 Privind adoptarea bugetului local al Comunei Cudalbi, jud",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-9-DIN-10.02.2024-ADOPTARE-BUGET.pdf",
+   "versions": [
+    {
+     "from": "2024-02-10",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/04/HCL-NR.-9-DIN-10.02.2024-ADOPTARE-BUGET.pdf",
+     "sha256": "a2f3a37f0f1bb153656b45d78dabbd16b9e3df5a32f380b08769bcdb02c3ec10"
     }
    ]
   }

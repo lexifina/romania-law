@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-galati--grivita-11-2021",
+   "path": "local/galati/grivita/2021/11",
+   "short": "HCL Grivița nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 11/2021 privind: aprobarea vanzarii bunurilor imobile din domeniul privat al UAT Grivita , situate in CV. 32,P1,lot 2/7 ; CV. 32,P1,lot 2/10; CV. 32,P1,lot 2/21; CV 32, P 1-lotul 2, LOTUL 4; CV. 32,P1,lot 2/9; CV. 32,P1,lot 2/35 –U1, CV. 32,P1,lot 2/35-U2",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/21916",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/21916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-12-2021",
+   "path": "local/galati/grivita/2021/12",
+   "short": "HCL Grivița nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 12/2021 privind: aprobarea concesionării unor suprafețe de teren intravilan , proprietatea privata a UAT. Grivita, situate în T 23.P.15, T.28,P.198/4 și T.34,P.556/1",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/21917",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/21917",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--grivita-13-2021",
    "path": "local/galati/grivita/2021/13",
    "short": "HCL Grivița nr. 13/2021",
@@ -118,6 +148,21 @@
      "from": "2021-04-14",
      "units": 1,
      "source_url": "https://emol.ro/grivita-gl/registru-hcl/22963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-19-2021",
+   "path": "local/galati/grivita/2021/19",
+   "short": "HCL Grivița nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 19/2021",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/22964",
+   "versions": [
+    {
+     "from": "2021-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/22964",
      "sha256": null
     }
    ]
@@ -273,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--grivita-29-2021",
+   "path": "local/galati/grivita/2021/29",
+   "short": "HCL Grivița nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 29/2021",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/33535",
+   "versions": [
+    {
+     "from": "2021-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/33535",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--grivita-3-2021",
    "path": "local/galati/grivita/2021/3",
    "short": "HCL Grivița nr. 3/2021",
@@ -283,6 +343,51 @@
      "from": "2021-01-29",
      "units": 1,
      "source_url": "https://emol.ro/grivita-gl/registru-hcl/18607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-30-2021",
+   "path": "local/galati/grivita/2021/30",
+   "short": "HCL Grivița nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 30/2021",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/33536",
+   "versions": [
+    {
+     "from": "2021-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/33536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-31-2021",
+   "path": "local/galati/grivita/2021/31",
+   "short": "HCL Grivița nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 31/2021",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/33537",
+   "versions": [
+    {
+     "from": "2021-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/33537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-32-2021",
+   "path": "local/galati/grivita/2021/32",
+   "short": "HCL Grivița nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 32/2021 privind: aprobarea vanzarii bunurilor mobile evaluate",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/33538",
+   "versions": [
+    {
+     "from": "2021-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/33538",
      "sha256": null
     }
    ]

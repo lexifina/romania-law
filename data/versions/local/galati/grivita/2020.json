@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--grivita-10-2020",
+   "path": "local/galati/grivita/2020/10",
+   "short": "HCL Grivița nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 10/2020",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/999",
+   "versions": [
+    {
+     "from": "2020-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/999",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--grivita-11-2020",
    "path": "local/galati/grivita/2020/11",
    "short": "HCL Grivița nr. 11/2020",
@@ -63,6 +78,96 @@
    ]
   },
   {
+   "slug": "hcl-galati--grivita-14-2020",
+   "path": "local/galati/grivita/2020/14",
+   "short": "HCL Grivița nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 14/2020 privind: insusirea Raportului de evaluare in vederea vanzarii imobilului din extravilan in suprafata de 303 mp, amplasat in comuna Grivita, jud. Galati, T.30, P.1431/1, numar cadastral 105153",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/5815",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/5815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-15-2020",
+   "path": "local/galati/grivita/2020/15",
+   "short": "HCL Grivița nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 15/2020",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/5816",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/5816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-16-2020",
+   "path": "local/galati/grivita/2020/16",
+   "short": "HCL Grivița nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 16/2020 privind: insusirea Raportului de evaluare in vederea vanzarii terenului intravilan in suprafata de 106 mp, amplasat in comuna Grivita, jud. Galati, Cv.32, P.1 lot.2, numar cadastral 105127",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/5817",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/5817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-17-2020",
+   "path": "local/galati/grivita/2020/17",
+   "short": "HCL Grivița nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 17/2020 privind insusirea Raportului de evaluare in vederea vanzarii terenului intravilan in suprafata de 658 mp, amplasat in comuna Grivita, jud. Galati, Cv.32, P.1 lot.2, numar cadastral 105125",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/5818",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/5818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-18-2020",
+   "path": "local/galati/grivita/2020/18",
+   "short": "HCL Grivița nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 18/2020 privind: insusirea Raportului de evaluare in vederea vanzarii terenului intravilan in suprafata de 1.021 mp, amplasat in comuna Grivita, jud. Galati, Cv.16, P.26, numar cadastral 101570",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/5819",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/5819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-19-2020",
+   "path": "local/galati/grivita/2020/19",
+   "short": "HCL Grivița nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 19/2020",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/5820",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/5820",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--grivita-2-2020",
    "path": "local/galati/grivita/2020/2",
    "short": "HCL Grivița nr. 2/2020",
@@ -73,6 +178,66 @@
      "from": "2020-01-23",
      "units": 1,
      "source_url": "https://emol.ro/grivita-gl/registru-hcl/989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-20-2020",
+   "path": "local/galati/grivita/2020/20",
+   "short": "HCL Grivița nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 20/2020 privind insusirea Raportului de evaluare in vederea vanzarii terenului extravilan in suprafata de 10.900 mp, amplasat in comuna Grivita, jud. Galati, , T.48/1, P.794/53, numar cadastral 103645",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/5821",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/5821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-21-2020",
+   "path": "local/galati/grivita/2020/21",
+   "short": "HCL Grivița nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 21/2020",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/5822",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/5822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-22-2020",
+   "path": "local/galati/grivita/2020/22",
+   "short": "HCL Grivița nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 22/2020",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/5823",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/5823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-23-2020",
+   "path": "local/galati/grivita/2020/23",
+   "short": "HCL Grivița nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 23/2020",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/5824",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/5824",
      "sha256": null
     }
    ]
@@ -493,6 +658,21 @@
      "from": "2020-03-09",
      "units": 1,
      "source_url": "https://emol.ro/grivita-gl/registru-hcl/997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-9-2020",
+   "path": "local/galati/grivita/2020/9",
+   "short": "HCL Grivița nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 9/2020",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/998",
+   "versions": [
+    {
+     "from": "2020-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/998",
      "sha256": null
     }
    ]

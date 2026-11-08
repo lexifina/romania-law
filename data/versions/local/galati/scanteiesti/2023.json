@@ -183,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-galati--scanteiesti-20-2023",
+   "path": "local/galati/scanteiesti/2023/20",
+   "short": "HCL Scânteiești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 20/2023 privind desemnarea consilierilor locali din cadrul Consiliului local al comunei Scânteiești pentru a face parte din Comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al comunei Scânteiești pentru anul 2022",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131786",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-21-2023",
+   "path": "local/galati/scanteiesti/2023/21",
+   "short": "HCL Scânteiești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 21/2023 privind alegerea președintelui de ședință din data de 24.03.2023",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131787",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131787",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-22-2023",
    "path": "local/galati/scanteiesti/2023/22",
    "short": "HCL Scânteiești nr. 22/2023",
@@ -208,6 +238,21 @@
      "from": "2023-12-05",
      "units": 1,
      "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-24-2023",
+   "path": "local/galati/scanteiesti/2023/24",
+   "short": "HCL Scânteiești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 24/2023 privind utilizarea excedentului bugetului local pentru finanțarea secțiunii de dezvoltare pe anul 2023",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131790",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131790",
      "sha256": null
     }
    ]
@@ -258,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--scanteiesti-28-2023",
+   "path": "local/galati/scanteiesti/2023/28",
+   "short": "HCL Scânteiești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 28/2023 privind alegerea președintelui de ședință pentru ședința din data de 24.04.2023",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131794",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131794",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-29-2023",
    "path": "local/galati/scanteiesti/2023/29",
    "short": "HCL Scânteiești nr. 29/2023",
@@ -283,6 +343,21 @@
      "from": "2023-12-05",
      "units": 1,
      "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-30-2023",
+   "path": "local/galati/scanteiesti/2023/30",
+   "short": "HCL Scânteiești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 30/2023 privind alegerea președintelui de ședință pentru lunile mai-iulie 2023",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131796",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131796",
      "sha256": null
     }
    ]

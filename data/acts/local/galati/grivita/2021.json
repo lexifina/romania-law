@@ -224,6 +224,50 @@
 }
 },
 {
+"slug": "hcl-galati--grivita-11-2021",
+"path": "local/galati/grivita/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 11/2021 privind: aprobarea vanzarii bunurilor imobile din domeniul privat al UAT Grivita , situate in CV. 32,P1,lot 2/7 ; CV. 32,P1,lot 2/10; CV. 32,P1,lot 2/21; CV 32, P 1-lotul 2, LOTUL 4; CV. 32,P1,lot 2/9; CV. 32,P1,lot 2/35 –U1, CV. 32,P1,lot 2/35-U2",
+"short": "HCL Grivița nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/21916",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--grivita-12-2021",
+"path": "local/galati/grivita/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 12/2021 privind: aprobarea concesionării unor suprafețe de teren intravilan , proprietatea privata a UAT. Grivita, situate în T 23.P.15, T.28,P.198/4 și T.34,P.556/1",
+"short": "HCL Grivița nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/21917",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--grivita-13-2021",
 "path": "local/galati/grivita/2021/13",
 "kind": "local",
@@ -354,6 +398,29 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--grivita-19-2021",
+"path": "local/galati/grivita/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 19/2021",
+"short": "HCL Grivița nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-14",
+"latest": "2021-04-14",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/22964",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -553,6 +620,97 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--grivita-29-2021",
+"path": "local/galati/grivita/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 29/2021",
+"short": "HCL Grivița nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-16",
+"latest": "2021-08-16",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/33535",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--grivita-30-2021",
+"path": "local/galati/grivita/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 30/2021",
+"short": "HCL Grivița nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-16",
+"latest": "2021-08-16",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/33536",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--grivita-31-2021",
+"path": "local/galati/grivita/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 31/2021",
+"short": "HCL Grivița nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-16",
+"latest": "2021-08-16",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/33537",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--grivita-32-2021",
+"path": "local/galati/grivita/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 32/2021 privind: aprobarea vanzarii bunurilor mobile evaluate",
+"short": "HCL Grivița nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-16",
+"latest": "2021-08-16",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/33538",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

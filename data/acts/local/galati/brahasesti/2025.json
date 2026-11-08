@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-galati--brahasesti-8-2025",
+"path": "local/galati/brahasesti/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 8/2025 privind alegerea președintelui de ședință al Consiliului Local Brăhășești pe o perioadă de cel mult 3 luni",
+"short": "HCL Brăhășești nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-26",
+"latest": "2025-08-26",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/195820",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--brahasesti-9-2025",
 "path": "local/galati/brahasesti/2025/9",
 "kind": "local",
@@ -465,6 +487,29 @@
 }
 },
 {
+"slug": "hcl-galati--brahasesti-23-2025",
+"path": "local/galati/brahasesti/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 23/2025",
+"short": "HCL Brăhășești nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-26",
+"latest": "2025-08-26",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/202138",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--brahasesti-24-2025",
 "path": "local/galati/brahasesti/2025/24",
 "kind": "local",
@@ -484,6 +529,29 @@
 "council_name": "Consiliul Local al Comunei Brăhășești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-25-2025",
+"path": "local/galati/brahasesti/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 25/2025",
+"short": "HCL Brăhășești nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-26",
+"latest": "2025-08-26",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/202140",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -528,6 +596,28 @@
 "council_name": "Consiliul Local al Comunei Brăhășești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-28-2025",
+"path": "local/galati/brahasesti/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 28/2025 privind aprobarea închirierii prin licitație publică a unui imobil în suprafata de 45 mp , apartinand domeniului public al UAT Comuna Brahasesti,CF:100337-C1 , situat în Cv. 12 ,P 177 , sat Brăhășești,comuna Brăhășești , județul Galați",
+"short": "HCL Brăhășești nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-26",
+"latest": "2025-08-26",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/202143",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -752,6 +842,28 @@
 }
 },
 {
+"slug": "hcl-galati--brahasesti-39-2025",
+"path": "local/galati/brahasesti/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 39/2025 privind alegerea președintelui de ședință al Consiliului Local Brăhășești pe o perioadă de cel mult 3 luni",
+"short": "HCL Brăhășești nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-26",
+"latest": "2025-08-26",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/211029",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--brahasesti-40-2025",
 "path": "local/galati/brahasesti/2025/40",
 "kind": "local",
@@ -816,6 +928,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-43-2025",
+"path": "local/galati/brahasesti/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 43/2025 privind aprobarea închirierii prin licitație publică a unui teren în suprafata de 625 mp, apartinand domeniului privat al UAT Comuna Brahasesti,CF:101826,situat în Cv. 32 ,P 446 , sat Brăhășești,comuna Brăhășești , județul Galați",
+"short": "HCL Brăhășești nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-26",
+"latest": "2025-08-26",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/211033",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1039,6 +1173,28 @@
 }
 },
 {
+"slug": "hcl-galati--brahasesti-54-2025",
+"path": "local/galati/brahasesti/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 54/2025 privind aprobarea asigurării continuității actului de administrare al societății SC Ecoprest Braha 2015 SRL",
+"short": "HCL Brăhășești nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-26",
+"latest": "2025-08-26",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/221870",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--brahasesti-55-2025",
 "path": "local/galati/brahasesti/2025/55",
 "kind": "local",
@@ -1213,6 +1369,28 @@
 "council_name": "Consiliul Local al Comunei Brăhășești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-63-2025",
+"path": "local/galati/brahasesti/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 63/2025 privind modificarea Actului Constitutiv al Societății S.C Ecoprest Braha 2015 SRL , în conformitate cu dispozițiile OUG nr.109/2011 privind guvernanța corporativă a întreprinderilor publice,privind desemnarea unor administrator provizorii la Societatea S.C Ecoprest Braha 2015 SRL , respectiv modificarea organigramei , a statului de funcții și a grilei de salarizare",
+"short": "HCL Brăhășești nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-26",
+"latest": "2025-08-26",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/221879",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1610,6 +1788,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-82-2025",
+"path": "local/galati/brahasesti/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 82/2025 privind desemnarea reprezentanților Consiliului Local Brăhășești , în Consiliul de Administrație al Școlii Gimnaziale nr.1 Brăhășești pentru anul școlar 2025-2026",
+"short": "HCL Brăhășești nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-14",
+"latest": "2026-01-14",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/232878",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-83-2025",
+"path": "local/galati/brahasesti/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 83/2025 privind aprobarea concesionării prin atribuire directă a unui spațiu în suprafața de 11,2 mp , nr.cadastral 101989-C1-U1 , CF:101989-C1-U1 , Cv.13 , P 189 , comuna Brăhășești , județul Galați , în vederea desfășurării activității de servicii poștale",
+"short": "HCL Brăhășești nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-14",
+"latest": "2026-01-14",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/232879",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

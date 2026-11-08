@@ -3,6 +3,21 @@
  "shard": "local/galati/movileni/2026",
  "acts": [
   {
+   "slug": "hcl-galati--movileni-10-2026",
+   "path": "local/galati/movileni/2026/10",
+   "short": "HCL Movileni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 10/2026",
+   "url": "https://primaria-movileni.ro/wp-content/uploads/2026/04/HCL-nr.10-din-23.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://primaria-movileni.ro/wp-content/uploads/2026/04/HCL-nr.10-din-23.03.2026.pdf",
+     "sha256": "8520551978f379759e83aaffbb4ba7a8457fc69f75909738cd09af816e04d320"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--movileni-18-2026",
    "path": "local/galati/movileni/2026/18",
    "short": "HCL Movileni nr. 18/2026",
@@ -179,6 +194,21 @@
      "units": 1,
      "source_url": "https://primaria-movileni.ro/wp-content/uploads/2026/08/HCL-nr.37-din-03.08.2026.pdf",
      "sha256": "f93249f43224e01c1b5a65797da1e7a21b86beda9a94d53e2b80c911fbac961b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--movileni-4-2026",
+   "path": "local/galati/movileni/2026/4",
+   "short": "HCL Movileni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 4/2026",
+   "url": "https://primaria-movileni.ro/wp-content/uploads/2026/02/HCL-nr.4-din-15.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://primaria-movileni.ro/wp-content/uploads/2026/02/HCL-nr.4-din-15.01.2026.pdf",
+     "sha256": "967c6be8807f430d4e3df76223ce25ed5528b79de46fae0e5a90befe39b3f729"
     }
    ]
   },

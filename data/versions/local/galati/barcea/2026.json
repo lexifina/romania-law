@@ -3,6 +3,216 @@
  "shard": "local/galati/barcea/2026",
  "acts": [
   {
+   "slug": "hcl-galati--barcea-1-2026",
+   "path": "local/galati/barcea/2026/1",
+   "short": "HCL Barcea nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 1/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-1-DIN-12.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-1-DIN-12.01.2026.pdf",
+     "sha256": "0f8eb992b16e3e9cbe2838c24566ae819d8148676769f87352cf97bcd332a02f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-10-2026",
+   "path": "local/galati/barcea/2026/10",
+   "short": "HCL Barcea nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 10/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-10-DIN-31.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-10-DIN-31.03.2026.pdf",
+     "sha256": "f94da52a7f7fae8346c012d45ce5b64c3a83b908f2b8c0e6d0598f4857a9f1cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-11-2026",
+   "path": "local/galati/barcea/2026/11",
+   "short": "HCL Barcea nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 11/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-11-DIN-14.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-11-DIN-14.04.2026.pdf",
+     "sha256": "2d1698445d6273117f8c881a90d80603f4ea4551cd8a56e65ed72d0d16887462"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-12-2026",
+   "path": "local/galati/barcea/2026/12",
+   "short": "HCL Barcea nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 12/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-12-DIN-14.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-12-DIN-14.04.2026.pdf",
+     "sha256": "97808bdc902aaefe293deda715e976b158229d23d0e884fa105f26b62bfd06d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-13-2026",
+   "path": "local/galati/barcea/2026/13",
+   "short": "HCL Barcea nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 13/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-13-DIN-08.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-13-DIN-08.05.2026.pdf",
+     "sha256": "8f6b8d560de33970c6ee626b4181b90b46a72700b87179498d4a29c94a039dba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-14-2026",
+   "path": "local/galati/barcea/2026/14",
+   "short": "HCL Barcea nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 14/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-14-DIN-11.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-14-DIN-11.05.2026.pdf",
+     "sha256": "9343227de801d0447982d9803f6acdd34d71b8730f93fba39667ddcca41118d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-15-2026",
+   "path": "local/galati/barcea/2026/15",
+   "short": "HCL Barcea nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 15/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-15-DIN-11.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-15-DIN-11.05.2026.pdf",
+     "sha256": "a01fe71ac72920c01880f0eff8b6ddb6e0ceef34cff5df1dc188b608515b8286"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-16-2026",
+   "path": "local/galati/barcea/2026/16",
+   "short": "HCL Barcea nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 16/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-16-DIN-11.05.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-16-DIN-11.05.2026-1.pdf",
+     "sha256": "90555692df5f509cd5e001a8cffdbae792e40e344777f3c6f74cdbd3ee12ffd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-17-2026",
+   "path": "local/galati/barcea/2026/17",
+   "short": "HCL Barcea nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 17/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-17-DIN-18.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-17-DIN-18.05.2026.pdf",
+     "sha256": "0ec131db4a2e972843a81f7fe0bf8c6a9580e9b8addf43dbe53f2e8c581611fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-18-2026",
+   "path": "local/galati/barcea/2026/18",
+   "short": "HCL Barcea nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 18/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-18-DIN-28.05.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-18-DIN-28.05.2026-1.pdf",
+     "sha256": "0df063f5ca33e9bea583216bfa4a28d4f22064e7661fe3a09347212a6734e30a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-19-2026",
+   "path": "local/galati/barcea/2026/19",
+   "short": "HCL Barcea nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 19/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-19-DIN-28.05.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-19-DIN-28.05.2026-1.pdf",
+     "sha256": "3781f6213af5787ee38f8678c5593a392a97e25da71dad99b17e7ad9e2fe4112"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-2-2026",
+   "path": "local/galati/barcea/2026/2",
+   "short": "HCL Barcea nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 2/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-2-DIN-12.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-2-DIN-12.01.2026.pdf",
+     "sha256": "3fabdc9fa4a880c8dbcc61cca8307c27c7845cd0f603a0328b022f1ff0e880d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-20-2026",
+   "path": "local/galati/barcea/2026/20",
+   "short": "HCL Barcea nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 20/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-20-DIN-28.05.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-20-DIN-28.05.2026-1.pdf",
+     "sha256": "188da68a92bcd1a1a6dfbcdc376c1bd1a1647948a845dcd6f44063d0f9c861be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-21-2026",
+   "path": "local/galati/barcea/2026/21",
+   "short": "HCL Barcea nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 21/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-21-DIN-28.05.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-21-DIN-28.05.2026-1.pdf",
+     "sha256": "e8bf603f9abdd417fa631962a2a03c8bc2ddea5655a0e6f80888b957053d6e8b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--barcea-22-2026",
    "path": "local/galati/barcea/2026/22",
    "short": "HCL Barcea nr. 22/2026",
@@ -119,6 +329,21 @@
      "units": 1,
      "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-29-DIN-16.06.2026-1.pdf",
      "sha256": "e2ffa07440144ae412372fafd78204e6fe847901bea9b49eccb22e3682013a08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-3-2026",
+   "path": "local/galati/barcea/2026/3",
+   "short": "HCL Barcea nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 3/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-3-DIN-20.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-3-DIN-20.01.2026.pdf",
+     "sha256": "0a9741931d122b1a341c7764864fb85711fbccde2ab6c917160a1b97cdcd2de1"
     }
    ]
   },
@@ -273,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--barcea-4-2026",
+   "path": "local/galati/barcea/2026/4",
+   "short": "HCL Barcea nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 4/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-4-DIN-30.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-4-DIN-30.01.2026.pdf",
+     "sha256": "171bb21e3e1228f6bba58ef5e4e1817cb83d1b692b09a987c922c91d0ebdea45"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--barcea-40-2026",
    "path": "local/galati/barcea/2026/40",
    "short": "HCL Barcea nr. 40/2026",
@@ -374,6 +614,81 @@
      "units": 1,
      "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-46_000012.pdf",
      "sha256": "f8a59e3428082f0c297fdc09b1bf7a311664722735dc8412a74b57fe61aceb25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-5-2026",
+   "path": "local/galati/barcea/2026/5",
+   "short": "HCL Barcea nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 5/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-5-DIN-30.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-5-DIN-30.01.2026.pdf",
+     "sha256": "123d1f51147e94dde4bbd985b6e32c066a0fd8918e4cdb3ded5228ce22f75b86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-6-2026",
+   "path": "local/galati/barcea/2026/6",
+   "short": "HCL Barcea nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 6/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-6-DIN-30.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-6-DIN-30.01.2026.pdf",
+     "sha256": "0e3c2e63e03bec3c8c0068e18cf0e0e47a0cd9ff9cf6f0389199442329816b2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-7-2026",
+   "path": "local/galati/barcea/2026/7",
+   "short": "HCL Barcea nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 7/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-7-DIN-27.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-7-DIN-27.02.2026.pdf",
+     "sha256": "fc660b2aa24bee79e2071bea190c97d3e7a344fc5a8c1984b97580baa3571ecc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-8-2026",
+   "path": "local/galati/barcea/2026/8",
+   "short": "HCL Barcea nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 8/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-8-DIN-20.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-8-DIN-20.03.2026.pdf",
+     "sha256": "84b6112b887305ba8f130001a9b6c0a053266e3bb9b280627e5e42e032edb49d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--barcea-9-2026",
+   "path": "local/galati/barcea/2026/9",
+   "short": "HCL Barcea nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Barcea nr. 9/2026",
+   "url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-9-DIN-20.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://primaria-barcea.ro/wp-content/uploads/2020/01/HOTARAREA-NR.-9-DIN-20.03.2026.pdf",
+     "sha256": "5f09be94e9d4229dd184e7850d94e44d127efd7ec9543f0f0da76a76990c8afe"
     }
    ]
   }

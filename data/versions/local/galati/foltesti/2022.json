@@ -3,6 +3,201 @@
  "shard": "local/galati/foltesti/2022",
  "acts": [
   {
+   "slug": "hcl-galati--foltesti-10-2022",
+   "path": "local/galati/foltesti/2022/10",
+   "short": "HCL Foltești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 10/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-10.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-10.2022.pdf",
+     "sha256": "bc4605ed19932e6abef6372e5295c765c5c83dd9bb968ddf4d06946ee200221b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-11-2022",
+   "path": "local/galati/foltesti/2022/11",
+   "short": "HCL Foltești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 11/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-11.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-11.2022.pdf",
+     "sha256": "930ae10c9ba9bdec9ef87c54860d488cb2e4e496c0a0a0672c4eeca728ba4ce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-12-2022",
+   "path": "local/galati/foltesti/2022/12",
+   "short": "HCL Foltești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 12/2022 privind : aprobarea trecerii din domeniul public in domeniul privat al UAT Comuna Foltesti, judetul Galati, a terenului arabil intravilan in suprafata de 12214 mp, situat in T 1, P 8/1, nr. cadastral 105649 din sat Stoicani, comuna Foltesti, judetul Galati",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-12.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-12.2022.pdf",
+     "sha256": "cc9511395d93046981183109d6dae8a0a9c90516099392bbc730edff443fb275"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-13-2022",
+   "path": "local/galati/foltesti/2022/13",
+   "short": "HCL Foltești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 13/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/04/HCL-13.2023.pdf",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/04/HCL-13.2023.pdf",
+     "sha256": "92071fc66b977f46e6d7695db97c0566164216e5b204e6c9992071b64eb03830"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-14-2022",
+   "path": "local/galati/foltesti/2022/14",
+   "short": "HCL Foltești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 14/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-14.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-14.2022.pdf",
+     "sha256": "8e1d30e96f842f02ddb336ce77bb7c893cd42438d66a6c20ed02c16b460409c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-15-2022",
+   "path": "local/galati/foltesti/2022/15",
+   "short": "HCL Foltești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 15/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-15.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-15.2022.pdf",
+     "sha256": "8c89ceb2d82fbc206695a671bd48664df68af49e7d71e59424560e691e920df4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-16-2022",
+   "path": "local/galati/foltesti/2022/16",
+   "short": "HCL Foltești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 16/2022 privind : desemnarea consilierilor locali in comisia de evaluare a performanțelor profesionale individuale ale secretarului general al U.A.T",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-16.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-16.2022.pdf",
+     "sha256": "7bd2bca043a55367ec1d982f4cde912850839137ad8a1cab0126f16568802df4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-17-2022",
+   "path": "local/galati/foltesti/2022/17",
+   "short": "HCL Foltești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 17/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-17.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-17.2022.pdf",
+     "sha256": "550c4525073caa32dca311e436d71068756a3330d36a06ce2a78014ad5161aec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-18-2022",
+   "path": "local/galati/foltesti/2022/18",
+   "short": "HCL Foltești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 18/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-18.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-18.2022.pdf",
+     "sha256": "1e40d454fca9fa3946dc413a03dc666b7aa02d74c8c59f55ede1fb1db2678dc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-19-2022",
+   "path": "local/galati/foltesti/2022/19",
+   "short": "HCL Foltești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 19/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-19.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-19.2022.pdf",
+     "sha256": "eaef32b0a3c84a49553eead0f874bef357e0a329aa38c61a9351e100953ca13a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-20-2022",
+   "path": "local/galati/foltesti/2022/20",
+   "short": "HCL Foltești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 20/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-20.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-20.2022.pdf",
+     "sha256": "880d70f8439d8ead8098a11544aba3e03124abc89fd1602ebdaa97774d8b0c52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-21-2022",
+   "path": "local/galati/foltesti/2022/21",
+   "short": "HCL Foltești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 21/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-21.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-21.2022.pdf",
+     "sha256": "9c159f9f623e491c21d031bf58862639b695d27fea31c3e88a4bc0e799761800"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-22-2022",
+   "path": "local/galati/foltesti/2022/22",
+   "short": "HCL Foltești nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 22/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-22.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-22.2022.pdf",
+     "sha256": "d59bca7494290f1fc6861f9b0dabdbba54a93869ae14707af9cc9bb76266b6e4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--foltesti-23-2022",
    "path": "local/galati/foltesti/2022/23",
    "short": "HCL Foltești nr. 23/2022",
@@ -14,6 +209,66 @@
      "units": 1,
      "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-23.2022.pdf",
      "sha256": "65a51e504f5b3e987d05ff55d6edea11e9ca57221dbc94b42a5d0ad4457da235"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-24-2022",
+   "path": "local/galati/foltesti/2022/24",
+   "short": "HCL Foltești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 24/2022 privind : completarea inventarului bunurilor care apartin domeniului privat al comunei Foltesti, judetul Galati",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-24.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-24.2022.pdf",
+     "sha256": "f3ffe1b1208a347bde78abb23b7639a05e90a86563aa3df3ac7bf62d81afda2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-25-2022",
+   "path": "local/galati/foltesti/2022/25",
+   "short": "HCL Foltești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 25/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-25.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-25.2022.pdf",
+     "sha256": "78ab4a00d6a305f69b1d95dbd02f318499c1da2c12f8773b65c01fb8ea5c5f14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-26-2022",
+   "path": "local/galati/foltesti/2022/26",
+   "short": "HCL Foltești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 26/2022 privind : dezmembrarea unor suprafete de teren situate in comuna Foltesti, judetul Galati, in vederea inscrierii in Cartea Funciara . INITIATOR : Moraru laurentiu Gigi – primarul comunei Foltesti, judetul Galati",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-26.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-26.2022.pdf",
+     "sha256": "c5cee9654cea395f24cd9491080e009bc84e57159dd98beb66f4d9fec67cac15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-27-2022",
+   "path": "local/galati/foltesti/2022/27",
+   "short": "HCL Foltești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 27/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-27.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-27.2022.pdf",
+     "sha256": "c3b86909b4f27eecc4d6283e1dc9912fd6698fa261825b7795ea694b9d8e4eba"
     }
    ]
   },
@@ -33,6 +288,186 @@
    ]
   },
   {
+   "slug": "hcl-galati--foltesti-29-2022",
+   "path": "local/galati/foltesti/2022/29",
+   "short": "HCL Foltești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 29/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-29.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-29.2022.pdf",
+     "sha256": "b28e649688f0c8bb5ede1dc8e1f30bf4b4b93581c2f51d56b13d5b857b2e535f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-30-2022",
+   "path": "local/galati/foltesti/2022/30",
+   "short": "HCL Foltești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 30/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-30.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-30.2022.pdf",
+     "sha256": "2733ae2789b9556277e0a58de52be9af9d4e1dd8584eafdb07081b82cacc3129"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-31-2022",
+   "path": "local/galati/foltesti/2022/31",
+   "short": "HCL Foltești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 31/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-31.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-31.2022.pdf",
+     "sha256": "b8ccab6c439cedd2be20fb76a7bc551839dceae6c51871b313805880bcbe804b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-32-2022",
+   "path": "local/galati/foltesti/2022/32",
+   "short": "HCL Foltești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 32/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-32.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-32.2022.pdf",
+     "sha256": "13fc216617a1f921d0b78da8a4c026f8c099154afa3c584f8befa71985a61c24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-33-2022",
+   "path": "local/galati/foltesti/2022/33",
+   "short": "HCL Foltești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 33/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-33.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-33.2022.pdf",
+     "sha256": "3a0663a385527f3fc5e2a35c20f805febf4346033e3158aebfc32458ef6d0c67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-34-2022",
+   "path": "local/galati/foltesti/2022/34",
+   "short": "HCL Foltești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 34/2022 privind : atribuirea unui drept de uz si servitute in baza Legii nr. 123/2012 pentru suprafata de 39,6 mp de teren catre Distributie Energie Electrica Romania S.A",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-34.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-34.2022.pdf",
+     "sha256": "10b150f2534e89325d38f8cc8168d3933ea2e7577bd9aaaf0383a7b89784facd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-35-2022",
+   "path": "local/galati/foltesti/2022/35",
+   "short": "HCL Foltești nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 35/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-35.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-35.2022.pdf",
+     "sha256": "75e305cd9287be62ba3fd3b61cc9f35b67a01e0e6a5ad198424022eb41f380c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-36-2022",
+   "path": "local/galati/foltesti/2022/36",
+   "short": "HCL Foltești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 36/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-36.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-36.2022.pdf",
+     "sha256": "bff16b040752fff433043bbd2bf8f68dbc63ecb4d3afd1f3ba2e6039d10a7052"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-37-2022",
+   "path": "local/galati/foltesti/2022/37",
+   "short": "HCL Foltești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 37/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-37.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-37.2022.pdf",
+     "sha256": "47da277865f4d1b8d8dbeaec703ad3984fd96f9c0969668fc96c8ce0817fee59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-38-2022",
+   "path": "local/galati/foltesti/2022/38",
+   "short": "HCL Foltești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 38/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-38.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-38.2022.pdf",
+     "sha256": "338b77eb29ca9a9787e32abd9d5e3d7d850d40eb8ad87ece6b814a8909ac8291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-39-2022",
+   "path": "local/galati/foltesti/2022/39",
+   "short": "HCL Foltești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 39/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-39.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-39.2022.pdf",
+     "sha256": "d7de6843237bff2ff1937338131e4972d59c168592f5720180f4b86525b693ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-4-2022",
+   "path": "local/galati/foltesti/2022/4",
+   "short": "HCL Foltești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 4/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-4.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-4.2022.pdf",
+     "sha256": "81af630f0a37f83ba72614b7e21d1e291eb32f59f7bab9b4f41d045ef6f004e6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--foltesti-41-2022",
    "path": "local/galati/foltesti/2022/41",
    "short": "HCL Foltești nr. 41/2022",
@@ -48,6 +483,261 @@
    ]
   },
   {
+   "slug": "hcl-galati--foltesti-42-2022",
+   "path": "local/galati/foltesti/2022/42",
+   "short": "HCL Foltești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 42/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-42.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-42.2022.pdf",
+     "sha256": "b4ee1d3f94a25abdaaddddedbb98d038458794fe216cc26e094bece9612312be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-43-2022",
+   "path": "local/galati/foltesti/2022/43",
+   "short": "HCL Foltești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 43/2022 pentru delegarea gestiunii activitatii de operare a Centrului de Management Integrat al Deseurilor si Statiei de Sortare Valea Marului din judetul Galati, delegarea serviciilor de operare, documentației de atribuire precum și acordarea unui mandat special pentru reprezentantul UAT Comuna Foltesti în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECOSERV Galați. ______________________",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-43.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-43.2022.pdf",
+     "sha256": "96737f94b21aac615a5e896a5d1106ba8836db450efd1b4779e3636ab48be170"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-44-2022",
+   "path": "local/galati/foltesti/2022/44",
+   "short": "HCL Foltești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 44/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-44.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-44.2022.pdf",
+     "sha256": "e466d6544d794ae85677e9ac83d7175744b06a02f53ff2e0aa54964d6b5fab65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-45-2022",
+   "path": "local/galati/foltesti/2022/45",
+   "short": "HCL Foltești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 45/2022 privind : atribuirea unui drept de uz si servitute in baza Legii nr. 123/2012 pentru suprafata de 7,5 mp de teren catre Distributie Energie Electrica Romania S.A",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-45.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-45.2022.pdf",
+     "sha256": "3fa9d24074eaf811f0ffe7288ed240f4f5d92299c3336d003cff844f0e599531"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-46-2022",
+   "path": "local/galati/foltesti/2022/46",
+   "short": "HCL Foltești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 46/2022 pentru aprobarea Actului constitutiv-cadru și a Statutului-cadru ale asociațiilor de dezvoltare intercomunitară cu obiect de activitate serviciile de utilități publice; Având în vedere prevederile Legii nr. 51/2006 a serviciilor comunitare de utilități publice, republicata cu modificările și completările ulterioare; Având în vedere prevederile Legii nr. 241/2006 privind serviciul de alimentare cu",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-46.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-09-28",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-46.2022.pdf",
+     "sha256": "de6ab4986de8bda6c0744c50286794423456957feccaaff017d9ca4cc1552c62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-47-2022",
+   "path": "local/galati/foltesti/2022/47",
+   "short": "HCL Foltești nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 47/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-47.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-09-28",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-47.2022.pdf",
+     "sha256": "50017021a9b366de02ff1315c3727fb67d8fab306cb735abdc221ed5927b2291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-48-2022",
+   "path": "local/galati/foltesti/2022/48",
+   "short": "HCL Foltești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 48/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-48.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-09-28",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-48.2022.pdf",
+     "sha256": "9366c22eb2fb0ea7e9968ea67d535f446f30df0b160805ec1b478bf466e71a8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-49-2022",
+   "path": "local/galati/foltesti/2022/49",
+   "short": "HCL Foltești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 49/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-49.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-49.2022.pdf",
+     "sha256": "e1a9d04a713b2a2297c0d13679a300152688bc0b5aaa6eccfd5ca106e904c44c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-5-2022",
+   "path": "local/galati/foltesti/2022/5",
+   "short": "HCL Foltești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 5/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-5.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-5.2022.pdf",
+     "sha256": "c9f249601b353def265e697e6e284003300ef8e8a97971c4ab26031437c3d4e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-50-2022",
+   "path": "local/galati/foltesti/2022/50",
+   "short": "HCL Foltești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 50/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-50.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-50.2022.pdf",
+     "sha256": "b250c4bc09a303bac6b4fc36d1596aaa0cb6d5aa3e095e353feeae872e948cc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-51-2022",
+   "path": "local/galati/foltesti/2022/51",
+   "short": "HCL Foltești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 51/2022 privind : aprobarea participarii U.A.T",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-51.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-51.2022.pdf",
+     "sha256": "25fe2ee90d4802c30be5ed0bf494ac8e01f192a9bf0e29238315a1e919deed4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-52-2022",
+   "path": "local/galati/foltesti/2022/52",
+   "short": "HCL Foltești nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 52/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-52.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-52.2022.pdf",
+     "sha256": "2f7b0e49c63b69d4606aa47957b01fda24d7b2ff1b6048de4e7a1edd9351ce2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-53-2022",
+   "path": "local/galati/foltesti/2022/53",
+   "short": "HCL Foltești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 53/2022 privind : atribuirea unui drept de uz si servitute in baza Legii nr. 123/2012 pentru suprafata de 7,5 mp de teren catre Distributie Energie Electrica Romania S.A",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-53.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-53.2022.pdf",
+     "sha256": "62fb246f59efdeecf72daca6cdb686adccae27e07b3e8557aeaae6effb53aa60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-54-2022",
+   "path": "local/galati/foltesti/2022/54",
+   "short": "HCL Foltești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 54/2022 privind : aprobarea Strategiei de dezvoltare locala a comunei Foltesti, judetul Galati 2022 – 2027 . ___________________________________________________________________________ INITIATOR : Moraru laurentiu Gigi – primarul comunei Foltesti, judetul Galati",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-54.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-54.2022.pdf",
+     "sha256": "33bdd5c784ebba3440f1b2bc6f84e9f5e924ca80bab37de3e1220793894ebc3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-55-2022",
+   "path": "local/galati/foltesti/2022/55",
+   "short": "HCL Foltești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 55/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-55.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-55.2022.pdf",
+     "sha256": "9431e64e20683072d27ddfb9f02c043b909efb75554017728d2a6e7e79c74380"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-56-2022",
+   "path": "local/galati/foltesti/2022/56",
+   "short": "HCL Foltești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 56/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-56.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-56.2022.pdf",
+     "sha256": "512733a10c3c3ff7ccd0482a65e34aeac90cc431061479a5f1bba4e431d1c198"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-57-2022",
+   "path": "local/galati/foltesti/2022/57",
+   "short": "HCL Foltești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 57/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-57.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-57.2022.pdf",
+     "sha256": "49b19c9376cf06808025e5493a76dd4fa630fe7a7612bc87c3f5678050fa47fe"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--foltesti-58-2022",
    "path": "local/galati/foltesti/2022/58",
    "short": "HCL Foltești nr. 58/2022",
@@ -59,6 +749,156 @@
      "units": 1,
      "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-58.2022.pdf",
      "sha256": "6f878c6c4f70384799309cf08bbdde3715e98bd664b7b013e3c583d0038cb8d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-59-2022",
+   "path": "local/galati/foltesti/2022/59",
+   "short": "HCL Foltești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 59/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-59.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-59.2022.pdf",
+     "sha256": "15ba7d7b111b6bdcd4ed7347e3f00bc7b0d732a022c0e1786c194c8b821b666a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-6-2022",
+   "path": "local/galati/foltesti/2022/6",
+   "short": "HCL Foltești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 6/2022 privind : aprobarea bugetului local pe anul 2022, repartizarea veniturilor si cheltuielilor bugetului local pe capitole si subcapitole, aprobarea veniturilor si cheltuielilor din activitati finanțate integral din venituri proprii pe anul 2022 INITIATOR : MORARU LAURENTIU-GIGI-primarul comunei Foltesti, judetul Galați",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-6.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-6.2022.pdf",
+     "sha256": "fc015b8360ba555c19cd059ccd0749a27b0e727a9f94f922759c7f4d2a033952"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-60-2022",
+   "path": "local/galati/foltesti/2022/60",
+   "short": "HCL Foltești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 60/2022 privind : atribuirea unui drept de uz si servitute in baza Legii nr. 123/2012 pentru suprafata de 3,5 mp de teren catre Distributie Energie Electrica Romania S.A",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-60.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-60.2022.pdf",
+     "sha256": "607a6dadc5c1d7e5ef6f8276cca50ecbf471eed5c21774ce9644c790be8d6688"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-61-2022",
+   "path": "local/galati/foltesti/2022/61",
+   "short": "HCL Foltești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 61/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-61.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-61.2022.pdf",
+     "sha256": "d948c2b3bd6eadeefa93688d600792a481fa80a622e9b1319338e370f4292c20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-62-2022",
+   "path": "local/galati/foltesti/2022/62",
+   "short": "HCL Foltești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 62/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-62.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-62.2022.pdf",
+     "sha256": "37502944325152792867e9030994689b9a517fda2e8059d8172ed021a3b00677"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-63-2022",
+   "path": "local/galati/foltesti/2022/63",
+   "short": "HCL Foltești nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 63/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-63.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-63.2022.pdf",
+     "sha256": "ffd3bad3ccc3d79c1c8a20ab2c50c5fa9a1d60219ed411d0f50647d00cffe688"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-64-2022",
+   "path": "local/galati/foltesti/2022/64",
+   "short": "HCL Foltești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 64/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-64.2022-1.pdf",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2023/01/HCL-64.2022-1.pdf",
+     "sha256": "24ea38eb430f33b860a9a7381bd93ab7f26309b2cc5c6488d144410a605b3c5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-7-2022",
+   "path": "local/galati/foltesti/2022/7",
+   "short": "HCL Foltești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 7/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-7.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-7.2022.pdf",
+     "sha256": "b9272d47729ca31d815ee94a2e2d780584da98d0bfbc6fc139ad1ccd2ab21e22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-8-2022",
+   "path": "local/galati/foltesti/2022/8",
+   "short": "HCL Foltești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 8/2022",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-8.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-8.2022.pdf",
+     "sha256": "626bc30e80f8631b2d238d1dadc1cd2d584c7b5e77271ce383c9506b439687f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-9-2022",
+   "path": "local/galati/foltesti/2022/9",
+   "short": "HCL Foltești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 9/2022 pentru realizarea în comun a obiectivului „Reabilitarea și modernizarea infrastructurii de transport regional între localitățile Vîrlezi – Tg",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-9.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2022/05/HCL-9.2022.pdf",
+     "sha256": "e9a6f4ef4fd106591bd3789fe2781d822e3bd067b1c333b4e231de53cc1baf70"
     }
    ]
   }

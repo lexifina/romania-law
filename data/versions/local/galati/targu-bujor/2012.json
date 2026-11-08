@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/galati/targu-bujor/2012",
+ "acts": [
+  {
+   "slug": "hcl-galati--targu-bujor-14-2012",
+   "path": "local/galati/targu-bujor/2012/14",
+   "short": "HCL Târgu Bujor nr. 14/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Bujor nr. 14/2012",
+   "url": "https://www.primariatgbujor.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "http://primariatgbujor.ro/hclvechi/hcl14_2012.pdf",
+     "sha256": "6e581d6cb16db77e2a3d5cb7f3ed063ce6fed4a4fdcb3f77cfe5b246ce7f98ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--targu-bujor-15-2012",
+   "path": "local/galati/targu-bujor/2012/15",
+   "short": "HCL Târgu Bujor nr. 15/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Bujor nr. 15/2012",
+   "url": "https://www.primariatgbujor.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "http://primariatgbujor.ro/hclvechi/hcl15_2012.pdf",
+     "sha256": "3d3262d77b655d93f6513b3d8590cd557e16e82282fde64329b62b949ecfcd08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--targu-bujor-7-2012",
+   "path": "local/galati/targu-bujor/2012/7",
+   "short": "HCL Târgu Bujor nr. 7/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Bujor nr. 7/2012",
+   "url": "https://www.primariatgbujor.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2012-06-28",
+     "units": 1,
+     "source_url": "http://primariatgbujor.ro/hclvechi/hcl07_2012.doc",
+     "sha256": "cc714b511cd430bafd72931d8bb693a838191cf2e70148d61b3741f1b21f9a09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--targu-bujor-8-2012",
+   "path": "local/galati/targu-bujor/2012/8",
+   "short": "HCL Târgu Bujor nr. 8/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Bujor nr. 8/2012",
+   "url": "https://www.primariatgbujor.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2012-06-28",
+     "units": 1,
+     "source_url": "http://primariatgbujor.ro/hclvechi/hcl08_2012.doc",
+     "sha256": "97fe2d612b6fd28d7bdeec12f4cae24376be0be12cfe4c39e401e787e8e30aab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--targu-bujor-9-2012",
+   "path": "local/galati/targu-bujor/2012/9",
+   "short": "HCL Târgu Bujor nr. 9/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Bujor nr. 9/2012",
+   "url": "https://www.primariatgbujor.ro/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2012-06-28",
+     "units": 1,
+     "source_url": "http://primariatgbujor.ro/hclvechi/hcl09_2012.doc",
+     "sha256": "26f408b26962a494912065218de7e639c99e83d77aaaa16b319a29ce5619c5ce"
+    }
+   ]
+  }
+ ]
+}

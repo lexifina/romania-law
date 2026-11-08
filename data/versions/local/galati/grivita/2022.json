@@ -3,6 +3,51 @@
  "shard": "local/galati/grivita/2022",
  "acts": [
   {
+   "slug": "hcl-galati--grivita-1-2022",
+   "path": "local/galati/grivita/2022/1",
+   "short": "HCL Grivița nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 1/2022 privind aprobarea indicatorilor tehnico- economici si a Devizului General, privind investitia “Modernizare drumuri/strazi in comuna Grivita, judetul Galati”",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/51904",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/51904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-10-2022",
+   "path": "local/galati/grivita/2022/10",
+   "short": "HCL Grivița nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 10/2022 privind: aprobarea Planului anual de acțiune pentru anul 2022 privind serviciile sociale administrate si finantate din bugetul Consiliului Local al comunei Grivita (UAT a comunei Grivita)",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/51922",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/51922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-11-2022",
+   "path": "local/galati/grivita/2022/11",
+   "short": "HCL Grivița nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 11/2022",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/58489",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/58489",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--grivita-12-2022",
    "path": "local/galati/grivita/2022/12",
    "short": "HCL Grivița nr. 12/2022",
@@ -13,6 +58,21 @@
      "from": "2022-04-27",
      "units": 1,
      "source_url": "https://emol.ro/grivita-gl/registru-hcl/58490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-13-2022",
+   "path": "local/galati/grivita/2022/13",
+   "short": "HCL Grivița nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 13/2022 privind: darea in administrare a unor bunuri apartinand domeniului public si privat al Comunei Grivita, catre Scoala Gimnaziala nr 1 Grivita",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/58491",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/58491",
      "sha256": null
     }
    ]
@@ -78,6 +138,81 @@
    ]
   },
   {
+   "slug": "hcl-galati--grivita-18-2022",
+   "path": "local/galati/grivita/2022/18",
+   "short": "HCL Grivița nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 18/2022 privind: aprobarea valorii finale a investitiei “Modernizare gradinita cu program normal Grivita, comuna Grivita, judetul Galati”",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/58500",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/58500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-19-2022",
+   "path": "local/galati/grivita/2022/19",
+   "short": "HCL Grivița nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 19/2022 privind alocarea unor sume de bani pentru sustinerea financiara a unor manifestari culturale, artistice si educative organizate de Consiliul local, in anul 2022",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/66125",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/66125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-2-2022",
+   "path": "local/galati/grivita/2022/2",
+   "short": "HCL Grivița nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 2/2022 privind aprobarea indicatorilor tehnico-economici si a Devizului General, privind investitia “Pietruire drum exploatare agricola DE 198 in comuna Grivita, judetul Galati”",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/51905",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/51905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-20-2022",
+   "path": "local/galati/grivita/2022/20",
+   "short": "HCL Grivița nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 20/2022 privind aprobarea consumului mediu de carburanti si normativele de consum de carburanti, pentru autoturismele si utilajele aflate in patrimonial comunei Grivita ,jud.Galati pentru anul 2022",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/66126",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/66126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-21-2022",
+   "path": "local/galati/grivita/2022/21",
+   "short": "HCL Grivița nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 21/2022 privind actualizarea indicatorilor tehnico- economici si a Devizului General, ca urmare a finalizarii achizitiei la investitia “Reparatii capitale iaz Calmatui”",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/66565",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/66565",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--grivita-22-2022",
    "path": "local/galati/grivita/2022/22",
    "short": "HCL Grivița nr. 22/2022",
@@ -88,6 +223,21 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/grivita-gl/registru-hcl/66566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-23-2022",
+   "path": "local/galati/grivita/2022/23",
+   "short": "HCL Grivița nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 23/2022 privind aprobarea încheierii Protocolului de Colaborare între Comuna Grivita si Administrația Bazinală de apă PRUT-BARLAD prin Sistemul de Gospodărire a Apelor Galati si a Devizului general privind lucrările de “Mărirea capacităţii de transport a albiei minore a cursului de apă Călmațui, pe o lungime de 1,7 km, intravilan localitatea Calmatui, com. Grivita, judeţul Galați”",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/66567",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/66567",
      "sha256": null
     }
    ]
@@ -138,6 +288,36 @@
    ]
   },
   {
+   "slug": "hcl-galati--grivita-27-2022",
+   "path": "local/galati/grivita/2022/27",
+   "short": "HCL Grivița nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 27/2022",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/69823",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/69823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-28-2022",
+   "path": "local/galati/grivita/2022/28",
+   "short": "HCL Grivița nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 28/2022 Privind: modificarea și completarea HCL Nr. 16 din 12.03.2007 privind premierea, la nivelul Comunei Grivița, Județul Galați, cuplurilor care au împlinit 50 de ani de căsătorie",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/69824",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/69824",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--grivita-29-2022",
    "path": "local/galati/grivita/2022/29",
    "short": "HCL Grivița nr. 29/2022",
@@ -163,6 +343,21 @@
      "from": "2022-01-20",
      "units": 1,
      "source_url": "https://emol.ro/grivita-gl/registru-hcl/51906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-30-2022",
+   "path": "local/galati/grivita/2022/30",
+   "short": "HCL Grivița nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 30/2022 privind modificarea și completarea HCL Nr.34 / 29.10.2007 privind aprobarea unor măsuri de revigorare a activității culturale și de stimulare a competițiilor școlare, la nivelul Comunei Grivița, Județul Galați",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/69826",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/69826",
      "sha256": null
     }
    ]
@@ -298,6 +493,21 @@
      "from": "2022-11-08",
      "units": 1,
      "source_url": "https://emol.ro/grivita-gl/registru-hcl/78665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-4-2022",
+   "path": "local/galati/grivita/2022/4",
+   "short": "HCL Grivița nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 4/2022 privind achiziţionarea serviciilor juridice pentru reprezentare in instanta, pentru anul 2022, la comuna Grivita, jud. Galati",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/51907",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/51907",
      "sha256": null
     }
    ]
@@ -453,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--grivita-5-2022",
+   "path": "local/galati/grivita/2022/5",
+   "short": "HCL Grivița nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 5/2022 privind aprobarea reţelei şcolare a unităţilor de învăţământ pre-universitar de stat din raza teritorială a comunei Grivita, judetul Galati, pentru anul şcolar 2022-2023",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/51908",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/51908",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--grivita-50-2022",
    "path": "local/galati/grivita/2022/50",
    "short": "HCL Grivița nr. 50/2022",
@@ -478,6 +703,51 @@
      "from": "2022-02-10",
      "units": 1,
      "source_url": "https://emol.ro/grivita-gl/registru-hcl/51918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-7-2022",
+   "path": "local/galati/grivita/2022/7",
+   "short": "HCL Grivița nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 7/2022 privind: aprobarea bugetului Local pentru anul 2022 si estimari pe anii 2023-2025",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/51919",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/51919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-8-2022",
+   "path": "local/galati/grivita/2022/8",
+   "short": "HCL Grivița nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 8/2022",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/51920",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/51920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-9-2022",
+   "path": "local/galati/grivita/2022/9",
+   "short": "HCL Grivița nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 9/2022 privind: aprobarea Planului de actiuni si lucrari de interes local pe anul 2022, ce vor fi executate de către beneficiarii de ajutor social din Comuna Grivita, judetul Galati, conform Legii nr.416/2001",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/51921",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/51921",
      "sha256": null
     }
    ]

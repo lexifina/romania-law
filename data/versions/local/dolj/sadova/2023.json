@@ -993,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--sadova-7-2023",
+   "path": "local/dolj/sadova/2023/7",
+   "short": "HCL Sadova nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 7/2023 privind alegerea presedintelui de sedinta pentru sedintele Consiliului Local Sadova in perioada februarie-aprilie 2023",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/90086",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/90086",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--sadova-70-2023",
    "path": "local/dolj/sadova/2023/70",
    "short": "HCL Sadova nr. 70/2023",
@@ -1138,6 +1153,21 @@
      "from": "2024-02-19",
      "units": 1,
      "source_url": "https://emol.ro/sadova-dj/registru-hcl/135277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-8-2023",
+   "path": "local/dolj/sadova/2023/8",
+   "short": "HCL Sadova nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 8/2023",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/90087",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/90087",
      "sha256": null
     }
    ]

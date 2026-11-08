@@ -288,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--beresti-meria-27-2024",
+   "path": "local/galati/beresti-meria/2024/27",
+   "short": "HCL Berești-Meria nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 27/2024 privind aprobarea alocării sumei de 10000lei din bugetul local ca sprijin financiar Parohiei Pleșa, comuna Berești-Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/156841",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/156841",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--beresti-meria-28-2024",
    "path": "local/galati/beresti-meria/2024/28",
    "short": "HCL Berești-Meria nr. 28/2024",
@@ -673,6 +688,21 @@
      "from": "2025-01-09",
      "units": 1,
      "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/168564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-51-2024",
+   "path": "local/galati/beresti-meria/2024/51",
+   "short": "HCL Berești-Meria nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 51/2024 pentru aprobarea dezmembrării a doua terenuri din comuna Berești-Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/168565",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/168565",
      "sha256": null
     }
    ]
@@ -1138,6 +1168,21 @@
      "from": "2024-05-21",
      "units": 1,
      "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/143603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-9-2024",
+   "path": "local/galati/beresti-meria/2024/9",
+   "short": "HCL Berești-Meria nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 9/2024 privind aprobarea închirierii terenului în suprafață de 4952 mp, identificat în CV 53, P 294/6, sat Slivna, domeniul privat al comunei Berești-Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/143604",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/143604",
      "sha256": null
     }
    ]

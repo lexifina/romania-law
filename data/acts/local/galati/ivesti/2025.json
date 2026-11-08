@@ -247,6 +247,29 @@
 }
 },
 {
+"slug": "hcl-galati--ivesti-12-2025",
+"path": "local/galati/ivesti/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 12/2025",
+"short": "HCL Ivești nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/213231",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-galati--ivesti-13-2025",
 "path": "local/galati/ivesti/2025/13",
 "kind": "local",
@@ -288,6 +311,28 @@
 "council_name": "Consiliul Local al Comunei Ivești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--ivesti-15-2025",
+"path": "local/galati/ivesti/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 15/2025 privind proiectul de hotărâre privind închirierea suprafetelor de teren agricol din domeniul privat al comunei Ivești, județul Galați, în anul 2025",
+"short": "HCL Ivești nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/213234",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -377,6 +422,28 @@
 "council_name": "Consiliul Local al Comunei Ivești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--ivesti-20-2025",
+"path": "local/galati/ivesti/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 20/2025 privind desemnarea reprezentanților Consiliului local al comunei Iveşti, judeţul Galaţi în comisiile de vânzare prin licitație publică a bunurilor imobile (terenuri și/sau clădiri) aflate în domeniul privat al comunei Ivești, judeţul Galați",
+"short": "HCL Ivești nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/213286",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -709,6 +776,28 @@
 "council_name": "Consiliul Local al Comunei Ivești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--ivesti-36-2025",
+"path": "local/galati/ivesti/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 36/2025 privind aprobarea vânzării prin licitație publică a imobilului constituit din apartament cu 2 camere, situat în comuna Ivești, str. General Eremia Grigorescu, nr. 340, Bloc 33, sc. 1, ap. 2, județul Galați",
+"short": "HCL Ivești nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/246132",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1262,6 +1351,50 @@
 "council_name": "Consiliul Local al Comunei Ivești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--ivesti-62-2025",
+"path": "local/galati/ivesti/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 62/2025 privind desemnarea reprezentanţilor Consiliului local al comunei Iveşti, judeţul Galaţi în consiliile de administraţie ale unităţilor de învăţământ de pe raza comunei Iveşti, judeţul Galați",
+"short": "HCL Ivești nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/246478",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--ivesti-63-2025",
+"path": "local/galati/ivesti/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ivești nr. 63/2025 privind desemnarea reprezentanților Consiliului local al comunei Ivești, județul Galați, în Comisiile pentru asigurarea şi evaluarea calităţii din cadrul instituțiilor de invățământ din comuna Iveşti, județul Galaţi",
+"short": "HCL Ivești nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://emol.ro/ivesti-gl/registru-hcl/246479",
+"council": "galati/ivesti",
+"council_name": "Consiliul Local al Comunei Ivești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

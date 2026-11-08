@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--corni-11-2020",
+   "path": "local/galati/corni/2020/11",
+   "short": "HCL Corni nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 11/2020 privind închirierea unor suprafețe de 206,0854 ha pajiști, aflate în proprietatea privată a comunei Corni, judeţul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/9449",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/9449",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--corni-12-2020",
    "path": "local/galati/corni/2020/12",
    "short": "HCL Corni nr. 12/2020",
@@ -373,6 +388,36 @@
      "from": "2020-01-23",
      "units": 1,
      "source_url": "https://emol.ro/corni-gl/registru-hcl/9426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-5-2020",
+   "path": "local/galati/corni/2020/5",
+   "short": "HCL Corni nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 5/2020 privind stabilirea indemnizaţiei lunare pentru funcţiile de demnitate publică , salariul de bază pentru funcţionarii publici precum şi a personalului contractual din cadrul familiei ocupaţionale \"Administraţie\" din aparatul propriu al Primarului comunei Cornii, judeţul Galaţi",
+   "url": "https://emol.ro/corni-gl/registru-hcl/9427",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/9427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-6-2020",
+   "path": "local/galati/corni/2020/6",
+   "short": "HCL Corni nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 6/2020 privind alegerea presedintelui de sedinta ,pe o perioada de 3 luni ,care va conduce sedintele consiliului si va semna hotararile adoptate de acesta",
+   "url": "https://emol.ro/corni-gl/registru-hcl/9444",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/9444",
      "sha256": null
     }
    ]

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--corni-10-2026",
+   "path": "local/galati/corni/2026/10",
+   "short": "HCL Corni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 10/2026 privind reorganizarea Statului de funcții si a organigramei aparatului de specialitate al primarului, al serviciilor publice de interes local al comunei Corni, județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/264499",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/264499",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--corni-11-2026",
    "path": "local/galati/corni/2026/11",
    "short": "HCL Corni nr. 11/2026",
@@ -28,6 +43,21 @@
      "from": "2026-08-03",
      "units": 1,
      "source_url": "https://emol.ro/corni-gl/registru-hcl/277734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-12-2026",
+   "path": "local/galati/corni/2026/12",
+   "short": "HCL Corni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 12/2026 privind alegerea presedintelui de sedinta, pe o perioada de 3 luni, care va conduce sedintele consiliului si va semna hotararile adoptate de acesta",
+   "url": "https://emol.ro/corni-gl/registru-hcl/277735",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/277735",
      "sha256": null
     }
    ]
@@ -58,6 +88,36 @@
      "from": "2026-08-03",
      "units": 1,
      "source_url": "https://emol.ro/corni-gl/registru-hcl/277737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-15-2026",
+   "path": "local/galati/corni/2026/15",
+   "short": "HCL Corni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 15/2026 privind aprobarea Programului anual al achizițiilor publice, pentru anul 2026, a Comunei Corni, județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/277738",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/277738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-16-2026",
+   "path": "local/galati/corni/2026/16",
+   "short": "HCL Corni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 16/2026 privind aprobarea Raportului privind rezultatele etichetării cheltuielilor bugetare, detaliat pe capitole si surse de finantare, la nivelul bugetului local al comunei Corni, judetul Galati pe anul 2026",
+   "url": "https://emol.ro/corni-gl/registru-hcl/277739",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/277739",
      "sha256": null
     }
    ]
@@ -138,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--corni-21-2026",
+   "path": "local/galati/corni/2026/21",
+   "short": "HCL Corni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 21/2026 privind modificarea și completarea Hotărârii Consiliului Local al comunei Corni nr. 10 din 08.04.2026 privind reorganizarea Statului de funcții si a organigramei aparatului de specialitate al primarului, al serviciilor publice de interes local al comunei Corni, județul Galați, precum și aprobarea organigramei și a statului de funcții pentru organizarea executării în concret a prevederilor Legii nr. 296/2023, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/corni-gl/registru-hcl/281672",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/281672",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--corni-22-2026",
    "path": "local/galati/corni/2026/22",
    "short": "HCL Corni nr. 22/2026",
@@ -148,6 +223,21 @@
      "from": "2026-08-03",
      "units": 1,
      "source_url": "https://emol.ro/corni-gl/registru-hcl/281673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-23-2026",
+   "path": "local/galati/corni/2026/23",
+   "short": "HCL Corni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 23/2026 privind modificarea și completarea HCL nr. 14 din 11.05.2026 privind aprobarea Programului de Investitii Publice al comunei Corni, Județul Galați, pe anul 2026",
+   "url": "https://emol.ro/corni-gl/registru-hcl/281674",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/281674",
      "sha256": null
     }
    ]
@@ -408,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--corni-4-2026",
+   "path": "local/galati/corni/2026/4",
+   "short": "HCL Corni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 4/2026 privind aprobarea organizarii reţelei şcolare a unităţilor de învăţământ preuniversitar de stat de la nivelul comunei Corni, judetul Galati, pentru anul şcolar 2026-2027",
+   "url": "https://emol.ro/corni-gl/registru-hcl/255187",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/255187",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--corni-40-2026",
    "path": "local/galati/corni/2026/40",
    "short": "HCL Corni nr. 40/2026",
@@ -468,6 +573,51 @@
    ]
   },
   {
+   "slug": "hcl-galati--corni-5-2026",
+   "path": "local/galati/corni/2026/5",
+   "short": "HCL Corni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 5/2026 privind modificarea și completarea Hotărârii Consiliului Local nr. 89 din 14.11.2025 pentru modificarea și completarea Hotărârii Consiliului Local al comunei Corni nr.37 din 27.07.2024 privind reorganizarea aparatului de specialitate al primarului comunei Corni, precum și aprobarea organigramei și a statului de funcții pentru organizarea executării în concret a prevederilor Legii nr. 296/2023, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/corni-gl/registru-hcl/255886",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/255886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-6-2026",
+   "path": "local/galati/corni/2026/6",
+   "short": "HCL Corni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 6/2026 privind alegerea presedintelui de sedinta, pe o perioada de 3 luni, care va conduce sedintele consiliului si va semna hotararile adoptate de acesta",
+   "url": "https://emol.ro/corni-gl/registru-hcl/255887",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/255887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-7-2026",
+   "path": "local/galati/corni/2026/7",
+   "short": "HCL Corni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 7/2026 privind înființarea a 3 posturi in afara organigramei Primăriei Comunei Corni, pe perioada implementării proiectului „Dotarea cu mobilier, materiale didactice si echipamente digitale a unităților de învățământ din comuna Corni”, in baza contractului de finanțare nerambursabila nr. 1373DOT/.08.2023 - PNRR",
+   "url": "https://emol.ro/corni-gl/registru-hcl/264496",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/264496",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--corni-8-2026",
    "path": "local/galati/corni/2026/8",
    "short": "HCL Corni nr. 8/2026",
@@ -478,6 +628,21 @@
      "from": "2026-04-24",
      "units": 1,
      "source_url": "https://emol.ro/corni-gl/registru-hcl/264497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-9-2026",
+   "path": "local/galati/corni/2026/9",
+   "short": "HCL Corni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 9/2026 privind închirierea, prin atribuirea directă sau prin licitatie publica, a unei suprafețe de 166,9052 ha pajiști, aflate în proprietatea privată a comunei Corni, județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/264498",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/264498",
      "sha256": null
     }
    ]

@@ -63,6 +63,66 @@
    ]
   },
   {
+   "slug": "hcl-galati--gohor-13-2026",
+   "path": "local/galati/gohor/2026/13",
+   "short": "HCL Gohor nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 13/2026 privind reorganizarea comisiilor de specialitate ale Consiliului Local al comunei Gohor",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/261328",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/261328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--gohor-14-2026",
+   "path": "local/galati/gohor/2026/14",
+   "short": "HCL Gohor nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 14/2026 privind modificarea Regulamentului de organizare şi funcţionare al al aparatului de specialitate al Primarului comunei Gohor, județul Galați",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/261329",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/261329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--gohor-15-2026",
+   "path": "local/galati/gohor/2026/15",
+   "short": "HCL Gohor nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 15/2026 privind reorganizarea aparatului de specialitate al primarului comunei Gohor, județul Galați, aprobarea Organigramei și a Statului de funcții",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/262919",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/262919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--gohor-16-2026",
+   "path": "local/galati/gohor/2026/16",
+   "short": "HCL Gohor nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 16/2026 privind: alegerea președintelui de ședință a Consiliului Local al comunei Gohor pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/265195",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/265195",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--gohor-17-2026",
    "path": "local/galati/gohor/2026/17",
    "short": "HCL Gohor nr. 17/2026",
@@ -88,6 +148,21 @@
      "from": "2026-05-29",
      "units": 1,
      "source_url": "https://emol.ro/gohor-gl/registru-hcl/269671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--gohor-19-2026",
+   "path": "local/galati/gohor/2026/19",
+   "short": "HCL Gohor nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 19/2026 privind aprobarea Documentului de poziție privind modul de implementare a proiectului ’’Sistem de management integrat al deșeurilor în județul Galaţi”",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/272608",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/272608",
      "sha256": null
     }
    ]
@@ -423,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--gohor-4-2026",
+   "path": "local/galati/gohor/2026/4",
+   "short": "HCL Gohor nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 4/2026 privind: alegerea președintelui de ședință a Consiliului Local al comunei Gohor pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/249898",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/249898",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--gohor-5-2026",
    "path": "local/galati/gohor/2026/5",
    "short": "HCL Gohor nr. 5/2026",
@@ -478,6 +568,21 @@
      "from": "2026-02-02",
      "units": 1,
      "source_url": "https://emol.ro/gohor-gl/registru-hcl/249902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--gohor-9-2026",
+   "path": "local/galati/gohor/2026/9",
+   "short": "HCL Gohor nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gohor nr. 9/2026",
+   "url": "https://emol.ro/gohor-gl/registru-hcl/256424",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/gohor-gl/registru-hcl/256424",
      "sha256": null
     }
    ]

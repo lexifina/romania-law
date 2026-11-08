@@ -3,6 +3,50 @@
 "shard": "local/galati/oancea/2026",
 "acts": [
 {
+"slug": "hcl-galati--oancea-1-2026",
+"path": "local/galati/oancea/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 1/2026 privind alegerea președintelui de ședințe și semnarea hotărârilor consiliului local Oancea pentru perioada februarie - aprilie 2026",
+"short": "HCL Oancea nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288273",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--oancea-2-2026",
+"path": "local/galati/oancea/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 2/2026 privind aprobarea Statutului comunei Oancea (actualizare)",
+"short": "HCL Oancea nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288271",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--oancea-3-2026",
 "path": "local/galati/oancea/2026/3",
 "kind": "local",
@@ -22,6 +66,72 @@
 "council_name": "Consiliul Local al Comunei Oancea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--oancea-4-2026",
+"path": "local/galati/oancea/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 4/2026 privind aprobare indicatori tehnico economici ai obiectivului de investiții ”consolid.moderniz. și eficietiz. Energetică, șc.gimn.”V.Ș.”, inclus in Progr.Naț.Școli sigure și Sănătoase”",
+"short": "HCL Oancea nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288274",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--oancea-5-2026",
+"path": "local/galati/oancea/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 5/2026 privind revocarea HCL nr.63/2025",
+"short": "HCL Oancea nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288275",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--oancea-6-2026",
+"path": "local/galati/oancea/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 6/2026 privind aprobarea Acordului de parteneriat nr. 677/19.03.2026 între UAT Comuna Oancea și Asociația de Management al Destinației Turistice Covurlui, pentru proiectul „Realizare scenă în aer liber”",
+"short": "HCL Oancea nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288283",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +157,94 @@
 }
 },
 {
+"slug": "hcl-galati--oancea-8-2026",
+"path": "local/galati/oancea/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 8/2026 privind revocarea HCL nr.42/2022",
+"short": "HCL Oancea nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288276",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--oancea-9-2026",
+"path": "local/galati/oancea/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 9/2026 privind activitatea Comp.As.Socială pe semestrul I 2025",
+"short": "HCL Oancea nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288277",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--oancea-10-2026",
+"path": "local/galati/oancea/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 10/2026 privind raportul de activitate compart.registrul agricol anul 2025",
+"short": "HCL Oancea nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288278",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--oancea-11-2026",
+"path": "local/galati/oancea/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 11/2026 privind activitatea Comp.As.Socială pentru 2025",
+"short": "HCL Oancea nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288279",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--oancea-12-2026",
 "path": "local/galati/oancea/2026/12",
 "kind": "local",
@@ -66,6 +264,72 @@
 "council_name": "Consiliul Local al Comunei Oancea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--oancea-13-2026",
+"path": "local/galati/oancea/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 13/2026 privind aprobarea noului stat de funcții al aparatului de specialitate al Primarului com.Oancea",
+"short": "HCL Oancea nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288281",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--oancea-15-2026",
+"path": "local/galati/oancea/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 15/2026 privind alegerea președintelui de ședințe și semnarea hotărârilor consiliului local Oancea pentru perioada februarie - aprilie 2026",
+"short": "HCL Oancea nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288286",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--oancea-16-2026",
+"path": "local/galati/oancea/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 16/2026 privind aprobarea strategiei de achiziții publice UAT com.Oancea pentru a.2026",
+"short": "HCL Oancea nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288285",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +531,28 @@
 }
 },
 {
+"slug": "hcl-galati--oancea-26-2026",
+"path": "local/galati/oancea/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 26/2026 privind achiziționarea serviciilor juridice de consultanță și reprezentare juridică prin angajarea unui avocat în dosarul nr.2963/2024",
+"short": "HCL Oancea nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288296",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--oancea-27-2026",
 "path": "local/galati/oancea/2026/27",
 "kind": "local",
@@ -286,6 +572,50 @@
 "council_name": "Consiliul Local al Comunei Oancea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--oancea-28-2026",
+"path": "local/galati/oancea/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 28/2026 privind aprobarea vânzării prin licitație publică cu strigare a terenului intravilan situat în Cvartal 73, Parcela 7/1, în suprafață de 165 mp, nr. cadastral 104559",
+"short": "HCL Oancea nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288298",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-galati--oancea-29-2026",
+"path": "local/galati/oancea/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 29/2026 privind aprobarea vânzării prin licitație publică cu strigare a terenului intravilan situat în Tarla 53, Parcela 4/1, în suprafață de 174 mp, nr. cadastral 101836",
+"short": "HCL Oancea nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288299",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -355,6 +685,28 @@
 }
 },
 {
+"slug": "hcl-galati--oancea-33-2026",
+"path": "local/galati/oancea/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 33/2026 privind alegerea președintelui de ședințe și semnarea HCL Oancea pentru perioada iulie – august - septembrie 2026",
+"short": "HCL Oancea nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288303",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--oancea-34-2026",
 "path": "local/galati/oancea/2026/34",
 "kind": "local",
@@ -374,6 +726,51 @@
 "council_name": "Consiliul Local al Comunei Oancea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--oancea-35-2026",
+"path": "local/galati/oancea/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 35/2026",
+"short": "HCL Oancea nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288305",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--oancea-36-2026",
+"path": "local/galati/oancea/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oancea nr. 36/2026 privind rectificarea bugetului local de venituri şi cheltuieli pe anul 2026",
+"short": "HCL Oancea nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/oancea-gl/registru-hcl/288306",
+"council": "galati/oancea",
+"council_name": "Consiliul Local al Comunei Oancea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

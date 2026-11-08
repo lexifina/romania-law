@@ -179,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-galati--jorasti-9-2022",
+"path": "local/galati/jorasti/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 9/2022 privind rezilierea unui număr de 4 contracte de închiriere a terenului arabil și a pășunii comunale aflate în domeniul privat al Comunei Jorăști, ca urmare a nerespectării clauzelor contractuale",
+"short": "HCL Jorăști nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-21",
+"latest": "2022-09-21",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/72184",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--jorasti-10-2022",
 "path": "local/galati/jorasti/2022/10",
 "kind": "local",

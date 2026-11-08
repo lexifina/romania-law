@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-galati--jorasti-11-2023",
+   "path": "local/galati/jorasti/2023/11",
+   "short": "HCL Jorăști nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 11/2023 privind aprobarea Planului anual de evoluție a tarifelor la apă și canalizare în perioada 2023-2027",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125085",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-12-2023",
+   "path": "local/galati/jorasti/2023/12",
+   "short": "HCL Jorăști nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 12/2023",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125086",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125086",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--jorasti-13-2023",
    "path": "local/galati/jorasti/2023/13",
    "short": "HCL Jorăști nr. 13/2023",
@@ -48,6 +78,171 @@
    ]
   },
   {
+   "slug": "hcl-galati--jorasti-14-2023",
+   "path": "local/galati/jorasti/2023/14",
+   "short": "HCL Jorăști nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 14/2023 privind aprobarea Protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și Unitatea Administrativ Teritorială Comuna Jorăști, județul Galați, având ca obiect asigurarea colaborării interinstituțională în cadrul proiectului ''HUB de Servicii MMSS-SII MMSS, cod MySmis 130963''",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125099",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-15-2023",
+   "path": "local/galati/jorasti/2023/15",
+   "short": "HCL Jorăști nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 15/2023 privind modificarea unor imobile din intravilanul Comunei Jorăști, satele Lunca, Jorăști și Zărnești în vederea înscrierii în evidențele de cadastru și carte funciară, conform măsurătorilor efectuate",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125100",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-16-2023",
+   "path": "local/galati/jorasti/2023/16",
+   "short": "HCL Jorăști nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 16/2023",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125101",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-17-2023",
+   "path": "local/galati/jorasti/2023/17",
+   "short": "HCL Jorăști nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 17/2023 privind implementarea proiectului ''Îmbunătățirea și dotarea serviciului public de gospodărie comunală a Comunei Jorăști prin achiziția unei autoutilitare''",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125102",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-18-2023",
+   "path": "local/galati/jorasti/2023/18",
+   "short": "HCL Jorăști nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 18/2023 privind aprobarea memoriului justificativ și a indicatorilor tehnico-economici proiectului ''Îmbunătățirea și dotarea serviciului public de gospodărie comunală a Comunei Jorăști prin achiziția unei autoutilitare''",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125103",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-19-2023",
+   "path": "local/galati/jorasti/2023/19",
+   "short": "HCL Jorăști nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 19/2023 privind utilizarea excedentului reportat din anii precedenți pentru finanțarea secțiunii de dezvoltare a bugetului pe anul 2023",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125104",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-2-2023",
+   "path": "local/galati/jorasti/2023/2",
+   "short": "HCL Jorăști nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 2/2023 privind aprobarea acoperirii temporare a golurilor de casă din excedentul anilor precedenți",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125067",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-20-2023",
+   "path": "local/galati/jorasti/2023/20",
+   "short": "HCL Jorăști nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 20/2023 privind aprobarea programului anual al achizițiilor publice și a Strategiei anuale de achiziții publice pentru anul 2023",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125105",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-21-2023",
+   "path": "local/galati/jorasti/2023/21",
+   "short": "HCL Jorăști nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 21/2023 privind rezilierea Contractului de închiriere pajiști aflate în domeniul privat al UAT Jorăști, nr. 1795/12.05.2022 ca urmare a nerespectării clauzelor contractuale",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125106",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-22-2023",
+   "path": "local/galati/jorasti/2023/22",
+   "short": "HCL Jorăști nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 22/2023 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care își desfășoară activitatea la Școala Gimnazială nr. 1 Jorăști din Comuna Jorăști pentru luna ianuarie 2023",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125107",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-23-2023",
+   "path": "local/galati/jorasti/2023/23",
+   "short": "HCL Jorăști nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 23/2023 privind actualizarea organigramei și statul de funcții ale aparatului de specialitate al primarului Comunei Jorăști, județul Galați",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125108",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125108",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--jorasti-24-2023",
    "path": "local/galati/jorasti/2023/24",
    "short": "HCL Jorăști nr. 24/2023",
@@ -58,6 +253,21 @@
      "from": "2023-10-18",
      "units": 1,
      "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-25-2023",
+   "path": "local/galati/jorasti/2023/25",
+   "short": "HCL Jorăști nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 25/2023 privind încetarea activității Serviciului Public de Alimentare cu Apă al Comunei Jorăști, județul Galați, înființat în subordinea Consiliului Local Jorăști",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125110",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125110",
      "sha256": null
     }
    ]
@@ -118,6 +328,21 @@
      "from": "2023-10-18",
      "units": 1,
      "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-3-2023",
+   "path": "local/galati/jorasti/2023/3",
+   "short": "HCL Jorăști nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 3/2023 privind stabilirea salariilor de bază lunare pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primăriei comunei Jorăști, județul Galați, începând cu 01.01.2023",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125077",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125077",
      "sha256": null
     }
    ]
@@ -388,6 +613,81 @@
      "from": "2023-10-18",
      "units": 1,
      "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-5-2023",
+   "path": "local/galati/jorasti/2023/5",
+   "short": "HCL Jorăști nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 5/2023 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care își desfășoară activitatea la Școala Gimnazială nr. 1 Jorăști din Comuna Jorăști pentru luna decembrie 2022",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125079",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-6-2023",
+   "path": "local/galati/jorasti/2023/6",
+   "short": "HCL Jorăști nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 6/2023 privind aprobarea organigramei și statului de funcții din cadrul aparatului de specialitate al Primarului Comunei Jorăști, județul Galați",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125080",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-7-2023",
+   "path": "local/galati/jorasti/2023/7",
+   "short": "HCL Jorăști nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 7/2023 privind alegerea președintelui de ședință a Consiliului local al comunei Jorăști, județul Galați",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125081",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-8-2023",
+   "path": "local/galati/jorasti/2023/8",
+   "short": "HCL Jorăști nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 8/2023 privind aprobarea Planului anual de acțiune privind serviciile sociale acordate la nivelul Comunei Jorăști, județul Galați pentru anul 2023",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125082",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-9-2023",
+   "path": "local/galati/jorasti/2023/9",
+   "short": "HCL Jorăști nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 9/2023 privind aprobarea planului anual de acțiuni și lucrări de interes local pe anul 2023, a listei cuprinzând beneficiarii de ajutor social precum și persoanele care urmează să efectueze acțiuni și lucrări de interes local conform Legii nr. 416/2001",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125083",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125083",
      "sha256": null
     }
    ]

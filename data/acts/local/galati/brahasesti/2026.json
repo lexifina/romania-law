@@ -180,6 +180,28 @@
 }
 },
 {
+"slug": "hcl-galati--brahasesti-9-2026",
+"path": "local/galati/brahasesti/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 9/2026 privind alegerea președintelui de ședință al Consiliului Local Brăhășești pe o perioadă de cel mult 3 luni",
+"short": "HCL Brăhășești nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/253847",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--brahasesti-10-2026",
 "path": "local/galati/brahasesti/2026/10",
 "kind": "local",
@@ -265,6 +287,29 @@
 "council_name": "Consiliul Local al Comunei Brăhășești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-14-2026",
+"path": "local/galati/brahasesti/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 14/2026",
+"short": "HCL Brăhășești nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/264236",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -467,6 +512,28 @@
 }
 },
 {
+"slug": "hcl-galati--brahasesti-24-2026",
+"path": "local/galati/brahasesti/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 24/2026 privind alegerea președintelui de ședință al Consiliului Local Brăhășești pe o perioadă de cel mult 3 luni",
+"short": "HCL Brăhășești nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/268349",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-galati--brahasesti-25-2026",
 "path": "local/galati/brahasesti/2026/25",
 "kind": "local",
@@ -618,6 +685,28 @@
 "council_name": "Consiliul Local al Comunei Brăhășești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--brahasesti-32-2026",
+"path": "local/galati/brahasesti/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 32/2026 privind constituirea Comisiei Locale de Ordine Publică a UAT Comuna Brăhășești , județul Galați",
+"short": "HCL Brăhășești nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/275206",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

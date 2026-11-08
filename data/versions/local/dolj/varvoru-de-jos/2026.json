@@ -3,6 +3,276 @@
  "shard": "local/dolj/varvoru-de-jos/2026",
  "acts": [
   {
+   "slug": "hcl-dolj--varvoru-de-jos-18-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/18",
+   "short": "HCL Vârvoru de Jos nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 18/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/05/HCL-nr-18-din-08.05.2026.pdf",
+     "sha256": "51ed36457c96fdeeb23c088b210e0958e3440d7b43d7f75eb9d0b57ac83921f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-19-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/19",
+   "short": "HCL Vârvoru de Jos nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 19/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/05/HCL-nr.-19-din-08.05.2026.pdf",
+     "sha256": "cbcf2491b9375dc0bab5d12d075585fd7ab97e549b5dcc0233716d96d582b8f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-20-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/20",
+   "short": "HCL Vârvoru de Jos nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 20/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/05/HCL-Nr.20-din-14.05.2026.pdf",
+     "sha256": "f0f01f4303a32c8e930d87cdf5eed78af36feedec36d2a7d95b97fb680b4b16a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-21-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/21",
+   "short": "HCL Vârvoru de Jos nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 21/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/06/HCL-Nr.21-din-26.05.26.pdf",
+     "sha256": "e4172ce0be404dba2c0044b078fff8399ef152d25a4d012f9d761add1fe2bc23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-22-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/22",
+   "short": "HCL Vârvoru de Jos nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 22/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/06/HCL-Nr.22-din-04.06.2026.pdf",
+     "sha256": "3d1113bd1a746b7be8ddec505359391ce33f403dc8c0b4359ba1c90942533d43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-23-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/23",
+   "short": "HCL Vârvoru de Jos nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 23/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/06/HCL-Nr.23-din-04.06.2026.pdf",
+     "sha256": "ac162b6fa6befd67a71be3b0f6eb3ffaec5a7d424586a459629ed6bf1141acd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-24-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/24",
+   "short": "HCL Vârvoru de Jos nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 24/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/06/HCL-Nr.24-din-04.06.2026.pdf",
+     "sha256": "7a865ec31af5dfa1f7d29e2837d97a7d2c264659b0fd9922b813bc4ba6b6bf7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-25-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/25",
+   "short": "HCL Vârvoru de Jos nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 25/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/06/HCL-Nr.25-din-25.06.2026.pdf",
+     "sha256": "ae9400374393610521c6ba2da92d8ae7b4c4788bbfd2c3ea79da2602619db2bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-26-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/26",
+   "short": "HCL Vârvoru de Jos nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 26/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/06/HCL-Nr.-26-din-25.06.2026.pdf",
+     "sha256": "0bd40a6680dee89560533c4cfecafc59a97e0deac3c8df9604d2c1661c3cf3a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-27-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/27",
+   "short": "HCL Vârvoru de Jos nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 27/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/06/HCL-Nr.27-din-25.06.2026.pdf",
+     "sha256": "b5adcdd55fa70b25c4e82bde00c53f5ecf1b5a54bc6cd5e0c1066116da61a7bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-28-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/28",
+   "short": "HCL Vârvoru de Jos nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 28/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/07/HCL-Nr.28-din-30.07.2026.pdf",
+     "sha256": "78c8edb78b3508819558879f539123f7a57468378704046b8ab8f315df8c313d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-29-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/29",
+   "short": "HCL Vârvoru de Jos nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 29/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/07/HCL-Nr.29-din-30.07.2026.pdf",
+     "sha256": "5c9827675da981934c1acbbe80a089ec1818a59c58334cdbf2ca6ea40416b023"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-30-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/30",
+   "short": "HCL Vârvoru de Jos nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 30/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/07/HCL-Nr.30-din-30.07.2026.pdf",
+     "sha256": "f64f6faa398b4e09644b9306094870bb824efbf9a7f687a941440a09452b386f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-31-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/31",
+   "short": "HCL Vârvoru de Jos nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 31/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/07/HCL-Nr.31-din-30.07.2026.pdf",
+     "sha256": "66063a6459e357102de43fc39dbe9dce60d55e9b152204ffa578e11f7f0dde27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-32-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/32",
+   "short": "HCL Vârvoru de Jos nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 32/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/08/HCL-Nr.32-din-14.08.2026.pdf",
+     "sha256": "aa12aed38c442bab43f7ae1695614140cb73c353b164f732b93f8afc02bd8d05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-33-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/33",
+   "short": "HCL Vârvoru de Jos nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 33/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/08/HCL-Nr.33-din-14.08.2026.pdf",
+     "sha256": "0d55c65e437eca2a6668f7d177a0f9202b66cadc06a1a1006f9052417fa23cb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-34-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/34",
+   "short": "HCL Vârvoru de Jos nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 34/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/08/HCL-Nr.34-din-14.08.2026.pdf",
+     "sha256": "7932d0ab20c624293283cbaca72531a62b81a737ba4f90d7ab918a61f1f2609b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--varvoru-de-jos-35-2026",
+   "path": "local/dolj/varvoru-de-jos/2026/35",
+   "short": "HCL Vârvoru de Jos nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârvoru de Jos nr. 35/2026",
+   "url": "http://varvorudejos.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://www.varvorudejos.ro/wp-content/uploads/2026/08/HCL-Nr.35-din-14.08.2026.pdf",
+     "sha256": "77fc945580cdc190c07a0ad5f4db30bf04bf7a547d5e7daf2a0fa39c7567e75b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--varvoru-de-jos-37-2026",
    "path": "local/dolj/varvoru-de-jos/2026/37",
    "short": "HCL Vârvoru de Jos nr. 37/2026",

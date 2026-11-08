@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--scaesti-17-2023",
+   "path": "local/dolj/scaesti/2023/17",
+   "short": "HCL Scăești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 17/2023 privind acordare de sprijin financiar pentru bisericile din localitate",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/98898",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/98898",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--scaesti-18-2023",
    "path": "local/dolj/scaesti/2023/18",
    "short": "HCL Scăești nr. 18/2023",
@@ -168,6 +183,66 @@
    ]
   },
   {
+   "slug": "hcl-dolj--scaesti-24-2023",
+   "path": "local/dolj/scaesti/2023/24",
+   "short": "HCL Scăești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 24/2023 privind trecerea Căminului Cultural Scaesti din domeniul public al comunei Scaesti în domeniul privat al comunei scaesti",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/104779",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/104779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-25-2023",
+   "path": "local/dolj/scaesti/2023/25",
+   "short": "HCL Scăești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 25/2023 privind aprobarea participării comunei Scaesti,judeţul Dolj la Parteneriatul LEADER cu denumirea,,COLINELE OLTENIEI,,",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/105890",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/105890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-26-2023",
+   "path": "local/dolj/scaesti/2023/26",
+   "short": "HCL Scăești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 26/2023 privind aprobare dare de seamă aferentă trimestrului l al anului 2023",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/107705",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/107705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-27-2023",
+   "path": "local/dolj/scaesti/2023/27",
+   "short": "HCL Scăești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 27/2023 privind alegerea preşedintelui de şedinţă al Consiliului Local Scaesti pentru şedinţele Consiliului Local Scaesti în perioada iunie 2023-august 2023",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/112040",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/112040",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--scaesti-28-2023",
    "path": "local/dolj/scaesti/2023/28",
    "short": "HCL Scăești nr. 28/2023",
@@ -178,6 +253,111 @@
      "from": "2023-07-18",
      "units": 1,
      "source_url": "https://emol.ro/scaesti-dj/registru-hcl/112041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-29-2023",
+   "path": "local/dolj/scaesti/2023/29",
+   "short": "HCL Scăești nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 29/2023 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2023",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/114809",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/114809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-30-2023",
+   "path": "local/dolj/scaesti/2023/30",
+   "short": "HCL Scăești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 30/2023 privind aprobarea semnări contractului de finanţare aferent proiectului,,Dotarea cu mobilier,materiale didactice şi echipamente digitale a unităţilor de învăţămînt din comuna Scaesti,judeţul Dolj,,",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/114810",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/114810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-31-2023",
+   "path": "local/dolj/scaesti/2023/31",
+   "short": "HCL Scăești nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 31/2023 privind .aprobarea încheieri protocolului de colaborare cu SC,,Salubritate Craiova,,SRL şi aprobarea tarifelor aferente serviciului de gestionare câini fără stăpîn",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/114811",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/114811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-32-2023",
+   "path": "local/dolj/scaesti/2023/32",
+   "short": "HCL Scăești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 32/2023 privind Actul Adițional nr. 7 la Contractul nr. 370/22.05.2018 ”Delegarea prin concesionare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea și transportul deșeurilor municipale și a altor fluxuri de deșeuri în judetul Dolj și operarea stației de sortare și transfer Goicea” și Actul Adițional nr. 1 la Contractul nr. 1818/30.06.2022 ”Delegarea prin concesionare a operării instalațiilor de gestionare a deșeurilor municipale realizate în cadrul proiectului Sistem de Management Integrat al Deșeurilor în Județul Dolj”",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/114812",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/114812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-33-2023",
+   "path": "local/dolj/scaesti/2023/33",
+   "short": "HCL Scăești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 33/2023 privind aprobare dare de seama aferentă trimestrului ll al anului 2023",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/118868",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/118868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-34-2023",
+   "path": "local/dolj/scaesti/2023/34",
+   "short": "HCL Scăești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 34/2023 privind aprobare situaţie financiară la 31.12.2022 pentru Serviciul de Utilităţi Publice Scaesti",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/118869",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/118869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-35-2023",
+   "path": "local/dolj/scaesti/2023/35",
+   "short": "HCL Scăești nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 35/2023 privind transformarea unei funcţi publice de execuţie şi modificarea ştatului de funcţii pentru aparatul de specialitate al primarului comunei Scaesti,judeţul Dolj",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/118870",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/118870",
      "sha256": null
     }
    ]
@@ -198,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--scaesti-37-2023",
+   "path": "local/dolj/scaesti/2023/37",
+   "short": "HCL Scăești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 37/2023 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2023",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/121727",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/121727",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--scaesti-38-2023",
    "path": "local/dolj/scaesti/2023/38",
    "short": "HCL Scăești nr. 38/2023",
@@ -208,6 +403,21 @@
      "from": "2023-10-31",
      "units": 1,
      "source_url": "https://emol.ro/scaesti-dj/registru-hcl/125023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-39-2023",
+   "path": "local/dolj/scaesti/2023/39",
+   "short": "HCL Scăești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 39/2023 privind acordarea unui ajutor financiar pentru Biserica Ortodoxă Valea lui Pătru",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/125024",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/125024",
      "sha256": null
     }
    ]

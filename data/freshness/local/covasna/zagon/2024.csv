@@ -1,5 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 hcl-covasna--zagon-1-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/206970
+hcl-covasna--zagon-10-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/206987
 hcl-covasna--zagon-11-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/206988
 hcl-covasna--zagon-12-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/206990
 hcl-covasna--zagon-13-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/206991
@@ -8,6 +9,7 @@ hcl-covasna--zagon-15-2024,current,2026-11-08,2026-12-08,register-read,,,,https:
 hcl-covasna--zagon-16-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207006
 hcl-covasna--zagon-17-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207023
 hcl-covasna--zagon-18-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207025
+hcl-covasna--zagon-19-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207068
 hcl-covasna--zagon-2-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/206974
 hcl-covasna--zagon-20-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207069
 hcl-covasna--zagon-21-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207070
@@ -15,7 +17,11 @@ hcl-covasna--zagon-22-2024,current,2026-11-08,2026-12-08,register-read,,,,https:
 hcl-covasna--zagon-23-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207072
 hcl-covasna--zagon-24-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207073
 hcl-covasna--zagon-25-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207075
+hcl-covasna--zagon-26-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207078
 hcl-covasna--zagon-27-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207080
+hcl-covasna--zagon-28-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207085
+hcl-covasna--zagon-29-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207088
+hcl-covasna--zagon-3-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/206975
 hcl-covasna--zagon-30-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207108
 hcl-covasna--zagon-31-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207109
 hcl-covasna--zagon-32-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207110
@@ -36,6 +42,7 @@ hcl-covasna--zagon-45-2024,current,2026-11-08,2026-12-08,register-read,,,,https:
 hcl-covasna--zagon-47-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207297
 hcl-covasna--zagon-48-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207299
 hcl-covasna--zagon-5-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/206981
+hcl-covasna--zagon-50-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207303
 hcl-covasna--zagon-51-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207304
 hcl-covasna--zagon-53-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207307
 hcl-covasna--zagon-54-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207309
@@ -43,7 +50,9 @@ hcl-covasna--zagon-55-2024,current,2026-11-08,2026-12-08,register-read,,,,https:
 hcl-covasna--zagon-57-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207319
 hcl-covasna--zagon-58-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207320
 hcl-covasna--zagon-59-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207321
+hcl-covasna--zagon-6-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/206983
 hcl-covasna--zagon-60-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207322
+hcl-covasna--zagon-61-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207323
 hcl-covasna--zagon-62-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207324
 hcl-covasna--zagon-63-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207327
 hcl-covasna--zagon-64-2024,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/zagon-cv/registru-hcl/207328
