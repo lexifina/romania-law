@@ -3,6 +3,366 @@
  "shard": "local/vrancea/urechesti/2023",
  "acts": [
   {
+   "slug": "hcl-vrancea--urechesti-1-2023",
+   "path": "local/vrancea/urechesti/2023/1",
+   "short": "HCL Urechești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 1/2023 Rețeaua școlară din comuna Urechești, județul Vrancea, pentru anul scolar 2023 – 2024",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#35307",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#35307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-10-2023",
+   "path": "local/vrancea/urechesti/2023/10",
+   "short": "HCL Urechești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 10/2023 stabilirea tarifelor pentru activitățile de colectare separată și transport separat al deșeurilor municipale și deșeurilor similare",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#40176",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#40176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-11-2023",
+   "path": "local/vrancea/urechesti/2023/11",
+   "short": "HCL Urechești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 11/2023 modificarea si completarea Statutului si Actului Constitutiv ale Asociatiei de Dezvoltare Intercomunitară „VRANCEAQUA\"",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#40177",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#40177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-12-2023",
+   "path": "local/vrancea/urechesti/2023/12",
+   "short": "HCL Urechești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 12/2023 aprobarea implementării proiectului „HUB de servicii MMSS-SII MMSS”, cod MySmis 130963 și a Protocolului de colaborare încheiat intre Ministerul Muncii si Solidaritatii Sociale si UAT Comuna Urechești, județul Vrancea",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#41754",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#41754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-13-2023",
+   "path": "local/vrancea/urechesti/2023/13",
+   "short": "HCL Urechești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 13/2023 modificarea și completarea Hotărârii Consiliului Local Urechești nr. 20/2020, privind mandatarea Asociației de Dezvoltare Intercomunitară pentru serviciul de salubrizare a localităților Focșani și Golesti, județul Vrancea, de a delega gestiunea serviciului de salubrizare de pe raza administrativă a comunei Urechești precum și exercitarea atribuțiilor, drepturilor și obligațiilor Consiliului Local al comunei Urechești în acest sens",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#42835",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#42835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-14-2023",
+   "path": "local/vrancea/urechesti/2023/14",
+   "short": "HCL Urechești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 14/2023 Rectificarea bugetului local al comunei pe anul 2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#43499",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#43499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-15-2023",
+   "path": "local/vrancea/urechesti/2023/15",
+   "short": "HCL Urechești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 15/2023 aprobarea proiectului ,,Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe, Comuna Urechești, Judetul Vrancea'', a cheltuielilor legate de proiect si depunerea acestuia in cadrul apelului de proiecte din Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C15 – Educație, Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#44898",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#44898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-16-2023",
+   "path": "local/vrancea/urechesti/2023/16",
+   "short": "HCL Urechești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 16/2023 aprobarea Planului de analiză şi acoperire a riscurilor al comunei Urechesti, judetul Vrancea, actualizat pentru anul 2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#44505",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#44505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-17-2023",
+   "path": "local/vrancea/urechesti/2023/17",
+   "short": "HCL Urechești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 17/2023 aprobarea conturilor anuale de executie a bugetului comunei Urechești pentru anul financiar 2022",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#44524",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#44524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-18-2023",
+   "path": "local/vrancea/urechesti/2023/18",
+   "short": "HCL Urechești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 18/2023 transformarea unei funcții publice de executie vacante într-o funcție publică de executie vacante de nivel superior",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#44896",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#44896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-19-2023",
+   "path": "local/vrancea/urechesti/2023/19",
+   "short": "HCL Urechești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 19/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-2-2023",
+   "path": "local/vrancea/urechesti/2023/2",
+   "short": "HCL Urechești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 2/2023 rectificarea bugetului local al comunei Urechești pe anul 2022 prin validarea dispoziției primarului comunei Urechești nr. 104/21.12.2022 privind recificarea bugetului local al comunei pe anul 2022",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#38511",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#38511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-20-2023",
+   "path": "local/vrancea/urechesti/2023/20",
+   "short": "HCL Urechești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 20/2023 aprobarea demararii procedurii de concesionare a serviciului de utilitate publică de distribuţie a gazelor naturale din comunele Urechesti, Gugești și Popești, judetul Vrancea de către Asociația de Dezvoltare Intercomunitară Urechești-Popești-Gugești, judetul Vrancea",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#47034",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#47034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-21-2023",
+   "path": "local/vrancea/urechesti/2023/21",
+   "short": "HCL Urechești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 21/2023 Stabilirea nivelurilor pentru valorile impozabile, impozitelor şi taxelor locale şi alte taxe asimilate acestora, precum şi amenzilor aplicabile în anul fiscal 2024, la nivelul comunei Urechesti, judetul Vrancea",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#45234",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#45234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-22-2023",
+   "path": "local/vrancea/urechesti/2023/22",
+   "short": "HCL Urechești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 22/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-23-2023",
+   "path": "local/vrancea/urechesti/2023/23",
+   "short": "HCL Urechești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 23/2023 Alegera presedintelui de sedinta perioada mai, iunie si iulie 2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#47035",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#47035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-24-2023",
+   "path": "local/vrancea/urechesti/2023/24",
+   "short": "HCL Urechești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 24/2023 aprobarea executiei bugetului local al comunei si a executiei bugetului institutiilor publice si activitatilor finantate integral sau partial din venituri proprii pe trimestrul I al anului 2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#47284",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#47284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-25-2023",
+   "path": "local/vrancea/urechesti/2023/25",
+   "short": "HCL Urechești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 25/2023 inlocuirea anexei 1 la Hotararea Consiliului Local al comunei Urechesti nr. 30/26.07.2017 privind aprobarea salariilor de bază aferente funcțiilor din cadrul familiei ocupaționale ”Administrație”, utilizate în aparatul de specialitate al Primarului comunei Urechesti, Județul Vrancea",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#47285",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#47285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-26-2023",
+   "path": "local/vrancea/urechesti/2023/26",
+   "short": "HCL Urechești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 26/2023 aprobarea participării comunei Urechesti, judetul Vrancea la Programul privind casarea autovehiculelor uzate, program finanţat din Fondul pentru mediu",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#48182",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#48182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-27-2023",
+   "path": "local/vrancea/urechesti/2023/27",
+   "short": "HCL Urechești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 27/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-28-2023",
+   "path": "local/vrancea/urechesti/2023/28",
+   "short": "HCL Urechești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 28/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-29-2023",
+   "path": "local/vrancea/urechesti/2023/29",
+   "short": "HCL Urechești nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 29/2023 modificarea şi completarea Statutului Asociaţiei de Dezvoltare Intercomunitară pentru Serviciul de salubrizare a localităţilor Focşani şi Goleşti, judeţul Vrancea",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#49531",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#49531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-3-2023",
+   "path": "local/vrancea/urechesti/2023/3",
+   "short": "HCL Urechești nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 3/2023 Revocarea Hotararii Consiliului Local nr. 36 din 20.09.2022 privind modificarea și completarea Hotărârii Consiliului Local Urechesti nr. 19 din 28.04.2022 privind stabilirea nivelurilor pentru valorile impozabile, impozitelor şi taxelor locale şi alte taxe asimilate acestora, precum şi amenzilor aplicabile în anul fiscal 2023, la nivelul comunei Urechesti",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#38512",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#38512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-30-2023",
+   "path": "local/vrancea/urechesti/2023/30",
+   "short": "HCL Urechești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 30/2023 Aprobarea aderarii Comunei Urechesti, Județul Vrancea la Noul Parteneriat de tip LEADER/DLRC al Asociației ”Grupul de Acţiune Locală (GAL) Ținutul Viei și Vinului Vrancea”, care va implementa viitoarea Strategie de Dezvoltare Locala 2023-2027 finanțată în cadrul Planului Strategic PS 2023-2027",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#49533",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#49533",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--urechesti-31-2023",
    "path": "local/vrancea/urechesti/2023/31",
    "short": "HCL Urechești nr. 31/2023",
@@ -28,6 +388,201 @@
      "from": "2023-06-27",
      "units": 1,
      "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#52948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-33-2023",
+   "path": "local/vrancea/urechesti/2023/33",
+   "short": "HCL Urechești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 33/2023 rectificarea bugetului local al comunei Urechesti, judetul Vrancea pentru anul 2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#53305",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#53305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-34-2023",
+   "path": "local/vrancea/urechesti/2023/34",
+   "short": "HCL Urechești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 34/2023 aprobarea Studiului de fundamentare a deciziei de concesionare, aprobarea demararii procedurii de concesionare a serviciului de utilitate publică de distribuţie a gazelor naturale din comunele Urechesti, Gugești și Popești, judetul Vrancea si aprobarea unor drepturi pentru viitorul concesionar, de către Asociația de Dezvoltare Intercomunitară Urechești-Popești-Gugești, judetul Vrancea",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#53550",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#53550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-36-2023",
+   "path": "local/vrancea/urechesti/2023/36",
+   "short": "HCL Urechești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 36/2023 vizarea documentației de atribuire pentru delegarea gestiunii activității de eliminare prin depozitare a deșeurilor reziduale, a deșeurilor stradale, a deșeurilor de pământ și pietre provenite de pe căile publice, a rezidurilor rezultate de la instalațiile de tratare a deșeurilor municipale, precum și a deșeurilor care nu pot fi valorificate, provenite din activități de reamenajare și reabilitare interioară și/sau exterioară a locuințelor, la depozitele de deșeuri nepericuloase în comuna Muchea, județul Brăila și acordarea mandatului special Primarului Comunei Urechesti să aprobe întreaga documentație de atribuire în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară pentru Serviciul de salubrizare a localităților Focșani și Golești, județul Vrancea",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#53301",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#53301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-37-2023",
+   "path": "local/vrancea/urechesti/2023/37",
+   "short": "HCL Urechești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 37/2023 modificarea tarifelor distincte pentru serviciile publice de salubrizare –colectare separat si transportul separat al deșeurilor reziduale si al deseurilor reciclabile din deseuri municipale în Comuna Urechesti si stabilirea tarifului de sortare a deseurilor de hartie, metal, plastic si sticla colectate separat, în Comuna Urechesti, judetul Vrancea",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#53302",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#53302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-38-2023",
+   "path": "local/vrancea/urechesti/2023/38",
+   "short": "HCL Urechești nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 38/2023 completarea Hotărârii Consiliului Local al Comunei Urechesti nr. 20/2020 privind mandatarea Asociației de Dezvoltare Intercomunitară pentru serviciul de salubrizare a localităților Focșani și Golesti, județul Vrancea, de a delega gestiunea serviciului de salubrizare de pe raza administrativă a comunei Urechesti precum și exercitarea atribuțiilor, drepturilor și obligațiilor Consiliului Local al comunei Urechesti, județul Vrancea în acest sens",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#53303",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#53303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-39-2023",
+   "path": "local/vrancea/urechesti/2023/39",
+   "short": "HCL Urechești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 39/2023 aprobarea executiei bugetului local al comunei si a executiei bugetului institutiilor publice si activitatilor finantate integral sau partial din venituri proprii pe trimestrul II al anului 2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#53304",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#53304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-4-2023",
+   "path": "local/vrancea/urechesti/2023/4",
+   "short": "HCL Urechești nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 4/2023 aprobarea bugetului local al comunei pentru anul 2023 si estimarile pentru anii 2024-2026",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#38874",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#38874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-43-2023",
+   "path": "local/vrancea/urechesti/2023/43",
+   "short": "HCL Urechești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 43/2023 rectificarea bugetului local al comunei pentru anul 2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#56152",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#56152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-44-2023",
+   "path": "local/vrancea/urechesti/2023/44",
+   "short": "HCL Urechești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 44/2023 neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor–cadru pentru achiziția produselor și a contractelor/acordurilor–cadru de prestare a serviciilor pentru derularea măsurilor educative aferente programului de către Consiliul Local Urechesti, județul Vrancea pentru perioada 2023 – 2029",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#56153",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#56153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-45-2023",
+   "path": "local/vrancea/urechesti/2023/45",
+   "short": "HCL Urechești nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 45/2023 aprobarea Regulamentului privind eliberarea avizului program şi a autorizaţiei de funcţionare pentu desfăşurarea activităţilor comerciale în comuna Urechesti, judetul Vrancea",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#58062",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#58062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-46-2023",
+   "path": "local/vrancea/urechesti/2023/46",
+   "short": "HCL Urechești nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 46/2023 aprobarea „Planului de măsuri necesare pentru interzicerea abandonării, aruncării necontrolate a deșeurilor sau gestionării neconforme a deșeurilor pe raza comunei Urechesti, județul Vrancea”",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#58063",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#58063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-47-2023",
+   "path": "local/vrancea/urechesti/2023/47",
+   "short": "HCL Urechești nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 47/2023 aprobarea Caietului de sarcini si a modelului cadru de contract intocmite in vederea atribuirii contractului avand ca obiect „ Realizarea unui sistem informatic geografic privind imobilele inscrise in Cartea Funciara din intravilanul comunei Urechesti, judetul Vrancea” finantat de catre Ministerul Dezvoltarii, lucrarilor publice si administratiei in cadrul Proiectului nr. C10-I4-90",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#58064",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#58064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-48-2023",
+   "path": "local/vrancea/urechesti/2023/48",
+   "short": "HCL Urechești nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 48/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]
@@ -63,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--urechesti-50-2023",
+   "path": "local/vrancea/urechesti/2023/50",
+   "short": "HCL Urechești nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 50/2023 stabilirea impozitelor și taxelor locale pe anul 2024 la vehiculele de 12 tone sau peste 12 prevăzute la art. 470 alin. (5) și (6) din Legea 227/2015 privind Codul Fiscal, prin indexarea anuală în funcție de rata de schimb a monedei euro în vigoare în prima zi lucrătoare a lunii octombrie a fiecărui an și publicată în Jurnalul Uniunii Europene și de nivelurile minime prevăzute în Directiva 1999/62/CE de aplicare la vehiculele grele de marfă pentru utilizarea anumitor infrastructuri",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#59687",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#59687",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--urechesti-51-2023",
    "path": "local/vrancea/urechesti/2023/51",
    "short": "HCL Urechești nr. 51/2023",
@@ -88,6 +658,261 @@
      "from": "2023-10-25",
      "units": 1,
      "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#59736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-53-2023",
+   "path": "local/vrancea/urechesti/2023/53",
+   "short": "HCL Urechești nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 53/2023 rectificarea bugetului local al comunei pentru anul 2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#59932",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#59932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-54-2023",
+   "path": "local/vrancea/urechesti/2023/54",
+   "short": "HCL Urechești nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 54/2023 aprobarea executiei bugetului local al comunei si a executiei bugetului institutiilor publice si activitatilor finantate integral sau partial din venituri proprii pe trimestrul III al anului 2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#59933",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#59933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-55-2023",
+   "path": "local/vrancea/urechesti/2023/55",
+   "short": "HCL Urechești nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 55/2023 aprobarea prelungirii termenului de valabilitate a Planului Urbanistic General și a Regulamentului Local de Urbanism pentru comuna Urechești, județul Vrancea până la data finalizării și aprobării noului PUG și RLU al Comunei Urechești",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#60838",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#60838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-56-2023",
+   "path": "local/vrancea/urechesti/2023/56",
+   "short": "HCL Urechești nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 56/2023 aprobarea documentației tehnico-economice, fază PTH, si a indicatorilor tehnico-economici pentru obiectivul de investiții ,,CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN SEDIUL PRIMĂRIEI ȘI CĂMINUL CULTURAL COMUNA URECHEȘTI, JUDEȚUL VRANCEA’’, finanțat prin Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C10 – Fondul Local, contract de finantare 9005/24.01.2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#61608",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#61608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-57-2023",
+   "path": "local/vrancea/urechesti/2023/57",
+   "short": "HCL Urechești nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 57/2023 aprobarea documentației tehnico-economice, fază PTH, si a indicatorilor tehnico-economici pentru obiectivul de investiții „CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN DISPENSARUL UMAN URECHEȘTI, JUDEȚUL VRANCEA”, finanțat prin Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C10 – Fondul Local, contract de finantare 9498/25.01.2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#61609",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#61609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-58-2023",
+   "path": "local/vrancea/urechesti/2023/58",
+   "short": "HCL Urechești nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 58/2023 modificarea tarifelor distincte pentru serviciile publice de salubrizare –colectare separat si transportul separat al deșeurilor reziduale si al deseurilor reciclabile din deseuri municipale în Comuna Urechești si stabilirea tarifului de sortare a deseurilor de hartie, metal, plastic si sticla colectate separat, în Comuna Urechești",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#61333",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#61333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-59-2023",
+   "path": "local/vrancea/urechesti/2023/59",
+   "short": "HCL Urechești nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 59/2023 aprobarea numărului de posturi pentru asistenţii personali ai persoanei cu handicap la comuna Urechești, județul Vrancea pentru anul 2024",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#63715",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#63715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-6-2023",
+   "path": "local/vrancea/urechesti/2023/6",
+   "short": "HCL Urechești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 6/2023 aprobarea numărului de posturi pentru asistenţii personali ai persoanei cu handicap la comuna URECHEȘTI, județul Vrancea pentru anul 2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#39540",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#39540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-60-2023",
+   "path": "local/vrancea/urechesti/2023/60",
+   "short": "HCL Urechești nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 60/2023 aprobarea organigramei, statului de funcţii si numărului de personal pentru aparatul de specialitate al primarului comunei Urechești, pentru instituţiile publice si pentru serviciile publice de interes local",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#63716",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#63716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-61-2023",
+   "path": "local/vrancea/urechesti/2023/61",
+   "short": "HCL Urechești nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 61/2023 rectificarea bugetului local al comunei Urechești pe anul 2023, prin validarea dispoziției primarului comunei Urechești nr. 197/14.11.2023 privind recificarea bugetului local al comunei pe anul 2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#63717",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#63717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-62-2023",
+   "path": "local/vrancea/urechesti/2023/62",
+   "short": "HCL Urechești nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 62/2023 aprobarea mandatării cu mandat special a Asociatiei de Dezvoltare Intercomunitara ,,Vrancea Curata’’, să exercite, în numele şi pe seama Unitatii Aadministrativ - Teritoriale comuna Urechești, delegarea gestiunii serviciului privind colectarea deseurilor municipale si transportul acestora la punctele/statiile de transfer la nivelul Zonei 3, judetul Vrancea pentru proiectul ,, Sistem de Management Integrat al Deseurilor Solide in judetul Vrancea’’",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#63718",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#63718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-63-2023",
+   "path": "local/vrancea/urechesti/2023/63",
+   "short": "HCL Urechești nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 63/2023 aprobarea indicatorilor tehnico-economici și a devizului general, actualizati, pentru obiectivul de investiţii „Modernizare infrastructură rutieră în comuna Urechești, județul Vrancea” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#65872",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#65872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-64-2023",
+   "path": "local/vrancea/urechesti/2023/64",
+   "short": "HCL Urechești nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 64/2023 aprobarea executiei bugetului local al comunei si a executiei bugetului institutiilor publice si activitatilor finantate integral sau partial din venituri proprii pe trimestrul IV al anului 2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#65873",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#65873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-65-2023",
+   "path": "local/vrancea/urechesti/2023/65",
+   "short": "HCL Urechești nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 65/2023 rectificarea bugetului local al comunei Urechești pe anul 2023, inclusiv prin validarea dispoziției primarului comunei Urechești nr. 219/8.12.2023 privind rectificarea bugetului local al comunei pe anul 2023 si dispoziției primarului comunei Urechești nr. 220/13.12.2023 privind rectificarea bugetului local al comunei pe anul 2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#65874",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#65874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-7-2023",
+   "path": "local/vrancea/urechesti/2023/7",
+   "short": "HCL Urechești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 7/2023 completarea inventarului bunurilor imobile care alcătuiesc domeniul privat al comunei Urechești, județul Vrancea, aprobat prin Hotărârea Consiliului Local Urechești nr. 6 din 28.03.2013",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#41787",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#41787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-8-2023",
+   "path": "local/vrancea/urechesti/2023/8",
+   "short": "HCL Urechești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 8/2023 aprobarea Documentației de Avizare a Lucrărilor de Intervenție, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiţii „Modernizare infrastructură rutieră în comuna Urechești, județul Vrancea” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#41869",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#41869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--urechesti-9-2023",
+   "path": "local/vrancea/urechesti/2023/9",
+   "short": "HCL Urechești nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Urechești nr. 9/2023 aprobarea Planului anual de acțiune privind serviciile sociale administrate şi finanţate din bugetul Comunei Urechesti pentru anul 2023",
+   "url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#39541",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#39541",
      "sha256": null
     }
    ]

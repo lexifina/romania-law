@@ -1,0 +1,227 @@
+{
+"country": "RO",
+"shard": "local/vrancea/tulnici/2024",
+"acts": [
+{
+"slug": "hcl-vrancea--tulnici-4-2024",
+"path": "local/vrancea/tulnici/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 4/2024 privind aprobarea indicatorilor tehnico-economici la faza Studiu de fezabilitate, pentru obiectivul de investiţie „Construire pod peste pârâul Coza, sat Coza, punct fundul Cozei, comuna Tulnici, judeţul Vrancea”, finanţat prin Programul Național de Investiții “Anghel Saligny”",
+"short": "HCL Tulnici nr. 4/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-08",
+"latest": "2024-05-08",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/155096",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-15-2024",
+"path": "local/vrancea/tulnici/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 15/2024 privind aprobarea indicatorilor tehnico-economici la faza Studiu de Fezabilitate, pentru obiectivul de investiţie „Amplasare puncte de reîncărcare vehicule electrice în comuna Tulnici, județul Vrancea”",
+"short": "HCL Tulnici nr. 15/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-08",
+"latest": "2024-05-08",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/155124",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-26-2024",
+"path": "local/vrancea/tulnici/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 26/2024 privind revocarea Hotărârii Consiliului Local al comunei Tulnici nr. 4 din 18 ianuarie 2024 privind aprobarea indicatorilor tehnico-economici la faza Studiu de fezabilitate, pentru obiectivul de investiţie „Construire pod peste pârâul Coza, sat Coza, punct fundul Cozei, comuna Tulnici, judeţul Vrancea”, finanţat prin Programul Național de Investiții „Anghel Saligny”",
+"short": "HCL Tulnici nr. 26/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-08",
+"latest": "2024-05-08",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/155423",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-32-2024",
+"path": "local/vrancea/tulnici/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 32/2024 privind aprobarea Planului de Analiza si Acoperire a Riscurilor pentru comuna Tulnici, judetul Vrancea, anul 2024",
+"short": "HCL Tulnici nr. 32/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-08",
+"latest": "2024-05-08",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/155466",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-41-2024",
+"path": "local/vrancea/tulnici/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 41/2024 privind aprobarea indicatorilor tehnico-economici la faza Proiect Tehnic și detalii execuție, pentru obiectivul de investiţie „Amplasare puncte de reîncărcare vehicule electrice în comuna Tulnici, județul Vrancea”",
+"short": "HCL Tulnici nr. 41/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-23",
+"latest": "2024-05-23",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/156646",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-52-2024",
+"path": "local/vrancea/tulnici/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 52/2024 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general/devizului general actualizat pentru obiectivul de investiții „Construire pod peste pârâul Coza, sat Coza, punct fundul Cozei, comuna Tulnici, judeţul Vrancea”, propus pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Tulnici nr. 52/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-06",
+"latest": "2024-08-06",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/165141",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-53-2024",
+"path": "local/vrancea/tulnici/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 53/2024 privind înfiinţarea Serviciului pentru gestionarea câinilor fără stăpân din comuna Tulnici",
+"short": "HCL Tulnici nr. 53/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-06",
+"latest": "2024-08-06",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/165142",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-56-2024",
+"path": "local/vrancea/tulnici/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 56/2024",
+"short": "HCL Tulnici nr. 56/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-06",
+"latest": "2024-08-06",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/165145",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-72-2024",
+"path": "local/vrancea/tulnici/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 72/2024 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat după finalizarea execuției lucrărilor, pentru obiectivul de investiţie „Amplasare puncte de reîncărcare vehicule electrice în comuna Tulnici, județul Vrancea”",
+"short": "HCL Tulnici nr. 72/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/177056",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-73-2024",
+"path": "local/vrancea/tulnici/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 73/2024 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţie „Cresterea eficienței energetice a infrastructurii de iluminat public în comuna TULNICI”",
+"short": "HCL Tulnici nr. 73/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/177057",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

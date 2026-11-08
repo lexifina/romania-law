@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/vulturu/2022",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--vulturu-53-2022",
+   "path": "local/vrancea/vulturu/2022/53",
+   "short": "HCL Vulturu nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 53/2022 privind aprobarea participării la Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public, derulat de Administratia Fondului pentru Mediu și aprobarea devizului general pentru proiectul „MODERNIZAREA SISTEMULUI DE ILUMINAT PUBLIC STRADAL IN COMUNA VULTURU , JUDETUL VRANCEA - ETAPA II”",
+   "url": "https://emol.ro/vulturu-vn/registru-hcl/94587",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturu-vn/registru-hcl/94587",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

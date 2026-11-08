@@ -1,0 +1,741 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/jitia/2022",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--jitia-1-2022",
+   "path": "local/vrancea/jitia/2022/1",
+   "short": "HCL Jitia nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 1/2022 privind aprobarea acoperirii definitive la buget, secțiunea de funcționare , din excedentul Bugetului Local al anului 2021 – sursa E , cu suma de 55.002,92 lei",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/47078",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/47078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-11-2022",
+   "path": "local/vrancea/jitia/2022/11",
+   "short": "HCL Jitia nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 11/2022 privind aprobarea Regulamentului de Organizare și Funcționare a Serviciului Public de Asistență Socială al comunei Jitia , județul Vrancea",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/56890",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/56890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-12-2022",
+   "path": "local/vrancea/jitia/2022/12",
+   "short": "HCL Jitia nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 12/2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/56891",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/56891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-13-2022",
+   "path": "local/vrancea/jitia/2022/13",
+   "short": "HCL Jitia nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 13/2022 privind modificarea și completarea HCL nr. 6 din 31 ianuarie 2022, privind aprobarea bugetului local al comunei Jitia, judetul Vrancea, precum si bugetul activitatilor autofinantate, pentru anul 2022, cu sume defalcate din TVA pentru asigurarea finanțării de bază a unităților de învățământ preuniversitar de stat",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/56892",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/56892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-14-2022",
+   "path": "local/vrancea/jitia/2022/14",
+   "short": "HCL Jitia nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 14/2022 privind aprobarea nivelul maxim al tarifelor pentru prestările de servicii de exploatări forestiere, în scopul exploatării masei lemnoase în regie proprie cu operatori economici atestaţi pe baza fundamentării întocmite de ocolul silvic pentru fiecare APV precum și aprobarea valorificării masei lemnoase ce se exploatează din pădurea a proprietatea comunei Jitia în anul de producție 2022, prin vânzare directă și stabilirea prețului de vânzare a masei lemnoase",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/56893",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/56893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-16-2022",
+   "path": "local/vrancea/jitia/2022/16",
+   "short": "HCL Jitia nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 16/2022 privind modificarea și completarea HCL nr. 2 din 6 ianuarie 2022 privind predarea către Ministerul Dezvoltării, Lucrărilor Publice și Administrației prin Compania Națională de Investiții ”C.N.I SA ” a amplasamentului și asigurarea condițiilor în vederea executării obiectivului de investiție ” Construire Dispensar medical, comuna Jitia , județul Vrancea”",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/56895",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/56895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-17-2022",
+   "path": "local/vrancea/jitia/2022/17",
+   "short": "HCL Jitia nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 17/2022 privind modificarea si completarea HCL nr.54/ 21.12.2021 de stabilire a impozitelor si taxelor locale la nivelul comunei Jitia, judetul Vrancea, pentru anul fiscal 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/56902",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/56902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-18-2022",
+   "path": "local/vrancea/jitia/2022/18",
+   "short": "HCL Jitia nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 18/2022 privind acordarea burselor sociale , burse de studiu , burse de merit si performanță pentru elevii din unităţile de învăţământ preuniversitar de stat (primar şi gimnazial) din comuna Jitia , județul Vrancea",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/56903",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/56903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-19-2022",
+   "path": "local/vrancea/jitia/2022/19",
+   "short": "HCL Jitia nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 19/2022 privind aprobarea Planului anual de acţiune privind serviciile sociale acordate la nivelul comunei Jitia , judeţul Vrancea , pe anul 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/56904",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/56904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-2-2022",
+   "path": "local/vrancea/jitia/2022/2",
+   "short": "HCL Jitia nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 2/2022 privind predarea către Ministerul Lucrărilor Publice și Administrației prin Compania Națională de Investiții ”C.N.I SA ” a amplasamentului și asigurarea condițiilor în vederea executării obiectivului de investiție ” Construire dispensar medical, comuna Jitia , județul Vrancea”",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/47079",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/47079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-20-2022",
+   "path": "local/vrancea/jitia/2022/20",
+   "short": "HCL Jitia nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 20/2022 privind aprobarea depunerii proiectului ”Eficientizare energetică și extindere pentru grupuri sanitare sediul administrației publice locale a Comunei Jitia",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/56905",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/56905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-22-2022",
+   "path": "local/vrancea/jitia/2022/22",
+   "short": "HCL Jitia nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 22/2022 privind aprobarea indicatorilor tehnico-economici, pentru obiectivul «Demolare construcție cu funcția de dispensar uman »",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/63551",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/63551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-23-2022",
+   "path": "local/vrancea/jitia/2022/23",
+   "short": "HCL Jitia nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 23/2022 privind aprobarea executiei bugetului local al comunei Jitia , judetul Vrancea, pentru secțiunea de funcționare și secțiunea de dezvoltare, pe trimestrul I al anului 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/63552",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/63552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-24-2022",
+   "path": "local/vrancea/jitia/2022/24",
+   "short": "HCL Jitia nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 24/2022 privind însuşirea analizei stadiului de înscriere a datelor în registrul agricol pe trimestrul I al anului 2022 şi aprobarea programului de măsuri pentru eficientizarea înscrierii datelor în registrul agricol la nivelul UAT comuna Jitia , judeţul Vrancea",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/63553",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/63553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-25-2022",
+   "path": "local/vrancea/jitia/2022/25",
+   "short": "HCL Jitia nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 25/2022 privind aprobarea rectificării bugetului local al comunei Jitia, judeţul Vrancea , pe anul 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/63554",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/63554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-26-2022",
+   "path": "local/vrancea/jitia/2022/26",
+   "short": "HCL Jitia nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 26/2022 privind stabilirea si aprobarea taxelor de pășunat pentru bovinele, proprietatea crescătorilor, a taxei de pășunat pentru cabaline si a taxelor de gloaba pentru animalele domestice lăsate nesupravegheate si care produc pagube spatiilor verzi si la culturile instituțiilor sau gospodăriilor populației ori nu sunt învoite la pășunat, in anul 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/63555",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/63555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-27-2022",
+   "path": "local/vrancea/jitia/2022/27",
+   "short": "HCL Jitia nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 27/2022 privind modificarea și completarea HCL nr. 20 din 29 martie 2022 privind aprobarea depunerii proiectului ”Eficientizare energetică și extindere pentru grupuri sanitare sediul administrației publice locale a Comunei Jitia ”",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/63556",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/63556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-28-2022",
+   "path": "local/vrancea/jitia/2022/28",
+   "short": "HCL Jitia nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 28/2022 privindaprobarea rectificarii bugetului local al comunei Jitia, judeţul Vrancea , pe anul 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/63581",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/63581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-29-2022",
+   "path": "local/vrancea/jitia/2022/29",
+   "short": "HCL Jitia nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 29/2022 privind actualizarea indicatori tehnico- economici și a devizului general pentru obiectivul ”Amenajare centru civic, Comuna Jitia , județul Vrancea ”",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/65513",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/65513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-3-2022",
+   "path": "local/vrancea/jitia/2022/3",
+   "short": "HCL Jitia nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 3/2022 privind aprobarea bugetului local al comunei Jitia, judetul Vrancea, precum si bugetul activitatilor autofinantate, pentru anul 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/54744",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/54744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-30-2022",
+   "path": "local/vrancea/jitia/2022/30",
+   "short": "HCL Jitia nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 30/2022 privind actualizarea indicatori tehnico- economici și a devizului general pentru obiectivul ”REABILITARE , MODERNIZARE ȘI DOTARE CĂMIN CULTURAL , COMUNA JITIA , JUDEȚUL VRANCEA „",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/65514",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/65514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-31-2022",
+   "path": "local/vrancea/jitia/2022/31",
+   "short": "HCL Jitia nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 31/2022 privind aderarea UAT Comuna Jitia prin Consiliul Local al Comunei Jitia la Asociaţia de Dezvoltare Intercomunitară „VRANCEAQUA”",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/65515",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/65515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-32-2022",
+   "path": "local/vrancea/jitia/2022/32",
+   "short": "HCL Jitia nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 32/2022 privind aprobarea rectificarii bugetului local al comunei Jitia , judeţul Vrancea",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/65516",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/65516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-34-2022",
+   "path": "local/vrancea/jitia/2022/34",
+   "short": "HCL Jitia nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 34/2022 privind însuşirea documentației cadastrale în vederea actualizării Cărții Funciare nr.50309, teren înscris în domeniul public al comunei Jitia , judeţul Vrancea",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/71285",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/71285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-35-2022",
+   "path": "local/vrancea/jitia/2022/35",
+   "short": "HCL Jitia nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 35/2022 privind aprobarea rectificarii bugetului local al comunei Jitia , judeţul Vrancea",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/71287",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/71287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-36-2022",
+   "path": "local/vrancea/jitia/2022/36",
+   "short": "HCL Jitia nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 36/2022 privind aprobarea executiei bugetului local al comunei Jitia , judetul Vrancea, pentru secțiunea de funcționare și secțiunea de dezvoltare, pe trimestrul al II -lea al anului 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/71289",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/71289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-37-2022",
+   "path": "local/vrancea/jitia/2022/37",
+   "short": "HCL Jitia nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 37/2022 privind aprobarea nivelul maxim al tarifelor pentru prestările de servicii de exploatări forestiere, în scopul exploatării masei lemnoase în regie proprie cu operatori economici atestaţi pe baza fundamentării întocmite de ocolul silvic pentru fiecare APV precum și aprobarea valorificării masei lemnoase ce se exploatează din pădurea a proprietatea comunei Jitia în anul de producție 2022, prin vânzare directă și stabilirea prețului de vânzare a masei lemnoase",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/71324",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/71324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-39-2022",
+   "path": "local/vrancea/jitia/2022/39",
+   "short": "HCL Jitia nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 39/2022 privind aprobarea rectificarii bugetului local al comunei Jitia, judeţul Vrancea , pe anul 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/71326",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/71326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-4-2022",
+   "path": "local/vrancea/jitia/2022/4",
+   "short": "HCL Jitia nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 4/2022 privind aprobarea retelei scolare pentru anul școlar 2022 – 2023 la nivelul comunei Jitia, judetul Vrancea",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/54745",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/54745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-43-2022",
+   "path": "local/vrancea/jitia/2022/43",
+   "short": "HCL Jitia nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 43/2022 privind aprobarea rectificarii bugetului local al comunei Jitia, judeţul Vrancea , pe anul 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/74714",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/74714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-45-2022",
+   "path": "local/vrancea/jitia/2022/45",
+   "short": "HCL Jitia nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 45/2022 privind modificarea si completarea HCL nr.14 din 23 februarie 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/74716",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/74716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-46-2022",
+   "path": "local/vrancea/jitia/2022/46",
+   "short": "HCL Jitia nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 46/2022 privind transmiterea, fara plata, din patrimoniul UAT Comuna Jitia in patrimoniul Scolii Gimnaziale Jitia a unui microbuz marca FIAT DUCATO",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/74717",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/74717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-47-2022",
+   "path": "local/vrancea/jitia/2022/47",
+   "short": "HCL Jitia nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 47/2022 privind modificarea art. 2 din HCL nr. 27 din 16 mai 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/81930",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/81930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-48-2022",
+   "path": "local/vrancea/jitia/2022/48",
+   "short": "HCL Jitia nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 48/2022 aprobarea rectificarii bugetului local al comunei Jitia, judeţul Vrancea , pe anul 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/81936",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/81936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-49-2022",
+   "path": "local/vrancea/jitia/2022/49",
+   "short": "HCL Jitia nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 49/2022 privind aprobarea executiei bugetului local al comunei Jitia , judetul Vrancea, pentru secțiunea de funcționare și secțiunea de dezvoltare, pe trimestrul al III -lea al anului 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/81937",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/81937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-50-2022",
+   "path": "local/vrancea/jitia/2022/50",
+   "short": "HCL Jitia nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 50/2022 privind alocarea sumei de 3900 lei din bugetul local al comunei Jitia ,judetul Vrancea , pentru procurarea cadourilor de Crăciun, preşcolarilor şi şcolarilor din instituţiile de învăţământ de pe raza comunei Jitia , judetul Vrancea",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/82050",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/82050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-51-2022",
+   "path": "local/vrancea/jitia/2022/51",
+   "short": "HCL Jitia nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 51/2022 privind declararea de interes public local și includerea în inventarul domeniului public al comunei Jitia a unor terenuri cu destinația drumuri de interes local și curți construcții (parcare)",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/82051",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/82051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-52-2022",
+   "path": "local/vrancea/jitia/2022/52",
+   "short": "HCL Jitia nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 52/2022 privind Privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați si a devizului general actualizat pentru obiectivul de investiții ”MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA JITIA, JUDETUL VRANCEA”, aprobat pentru finanțare prin Programul national de investiții Anghel Saligny, precum si a sumei reprezentănd categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/82052",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/82052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-53-2022",
+   "path": "local/vrancea/jitia/2022/53",
+   "short": "HCL Jitia nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 53/2022 privind aprobarea rectificarii bugetului local al comunei Jitia, judeţul Vrancea , pe anul 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/82053",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/82053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-54-2022",
+   "path": "local/vrancea/jitia/2022/54",
+   "short": "HCL Jitia nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 54/2022 privind participarea Comunei Jitia la implementarea proiectului pentru înființarea traseului cicloturistic ”Velo Valahia” în cadrul PNRR, componenta 11 – Turism și Cultură, Investiția I.4",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/82054",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/82054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-55-2022",
+   "path": "local/vrancea/jitia/2022/55",
+   "short": "HCL Jitia nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 55/2022 privind aprobarea volumului de masă lemnoasă care se poate recolta în cursul anului 2023 din pădurea comunei Jitia și a preţurilor de referinţă a masei lemnoase pe picior;",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/84608",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/84608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-56-2022",
+   "path": "local/vrancea/jitia/2022/56",
+   "short": "HCL Jitia nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 56/2022 privind stabilirea impozitelor si taxelor locale la nivelul comunei Jitia, judetul Vrancea, pentru anul fiscal 2023",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/84609",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/84609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-57-2022",
+   "path": "local/vrancea/jitia/2022/57",
+   "short": "HCL Jitia nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 57/2022 privind aprobarea Regulamentului de acordare a ,,Diplomei de fidelitate ” şi a câte unui premiu financiar în valoare netă de 500 de lei, pentru cuplurile din Comuna Jitia care au împlinit minim 50 de ani de căsătorie neîntreruptă",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/84610",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/84610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-58-2022",
+   "path": "local/vrancea/jitia/2022/58",
+   "short": "HCL Jitia nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 58/2022 privind aprobarea execuției bugetului local al comunei Jitia , județul Vrancea, pentru secțiunea de funcționare și secțiunea de dezvoltare, pe trimestrul al IV -lea al anului 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/84611",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/84611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-6-2022",
+   "path": "local/vrancea/jitia/2022/6",
+   "short": "HCL Jitia nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 6/2022 privind stabilirea domeniilor serviciilor publice și locurile în care contravenienții de la nivelul comunei Jitia, judeţul Vrancea, vor presta activități în folosul comunității în anul 2022",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/54747",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/54747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-60-2022",
+   "path": "local/vrancea/jitia/2022/60",
+   "short": "HCL Jitia nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 60/2022 privind aprobarea rectificarii bugetului local al comunei Jitia, judeţul Vrancea , pe anul 2022 Consiliul local al comunei Jitia , judetul Vrancea",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/84613",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/84613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-7-2022",
+   "path": "local/vrancea/jitia/2022/7",
+   "short": "HCL Jitia nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 7/2022 privind trecerea din domeniul public în domeniul privat al Comunei Jitia a unui imobil – construcţie situat în localitatea Jitia CF 50476",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/54748",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/54748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-8-2022",
+   "path": "local/vrancea/jitia/2022/8",
+   "short": "HCL Jitia nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 8/2022 privind modificarea și completarea HCL nr. 45 din 14 octombrie 2021 privind aprobarea cererii de finanțare și a devizului general pentru obiectivul de investiţii” Modernizare drumuri de interes local în Comuna Jitia , județul Vrancea” încadrul Programului Național de Investiții ”Anghel Saligny”",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/56816",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/56816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jitia-9-2022",
+   "path": "local/vrancea/jitia/2022/9",
+   "short": "HCL Jitia nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jitia nr. 9/2022 privind actualizarea Planului de Analiză și Acoperire a Riscurilor la nivelul comunei Jitia, judeţul Vrancea",
+   "url": "https://emol.ro/jitia-vn/registru-hcl/56888",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/jitia-vn/registru-hcl/56888",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

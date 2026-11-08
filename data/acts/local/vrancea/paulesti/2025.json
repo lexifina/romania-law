@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/vrancea/paulesti/2025",
+"acts": [
+{
+"slug": "hcl-vrancea--paulesti-17-2025",
+"path": "local/vrancea/paulesti/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 17/2025 privind rectificarea bugetului de venituri si cheltuieli pentru anul 2025 al Comunei Păulești, Județul Vrancea",
+"short": "HCL Păulești nr. 17/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/paulesti-vn/registru-hcl/209522",
+"council": "vrancea/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--paulesti-21-2025",
+"path": "local/vrancea/paulesti/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 21/2025 privind rectificarea bugetului de venituri si cheltuieli pentru anul 2025 al Comunei Păulești, Județul Vrancea",
+"short": "HCL Păulești nr. 21/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-24",
+"latest": "2025-07-24",
+"portal": "https://emol.ro/paulesti-vn/registru-hcl/215707",
+"council": "vrancea/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--paulesti-27-2025",
+"path": "local/vrancea/paulesti/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 27/2025 privind rectificarea bugetului de venituri si cheltuieli pentru anul 2025 al Comunei Păulești, Județul Vrancea",
+"short": "HCL Păulești nr. 27/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/paulesti-vn/registru-hcl/235073",
+"council": "vrancea/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--paulesti-28-2025",
+"path": "local/vrancea/paulesti/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 28/2025 privind rectificarea bugetului de venituri si cheltuieli pentru anul 2025 al Comunei Păulești, Județul Vrancea",
+"short": "HCL Păulești nr. 28/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/paulesti-vn/registru-hcl/238473",
+"council": "vrancea/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--paulesti-31-2025",
+"path": "local/vrancea/paulesti/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 31/2025 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat, cu personalitate juridică care vor funcționa la nivelul comunei Păulești, județul Vrancea pentru anul școlar 2026 – 2027",
+"short": "HCL Păulești nr. 31/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/paulesti-vn/registru-hcl/242092",
+"council": "vrancea/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

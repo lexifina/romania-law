@@ -3,6 +3,138 @@
 "shard": "local/vrancea/vintileasca/2025",
 "acts": [
 {
+"slug": "hcl-vrancea--vintileasca-1-2025",
+"path": "local/vrancea/vintileasca/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 1/2025 Aprobarea utilizării excedentului bugetar din anii precedenți pentru acoperirea golului temporar de casă al secțiunii de funcționare în anul 2025",
+"short": "HCL Vintileasca nr. 1/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#94298",
+"council": "vrancea/vintileasca",
+"council_name": "Consiliul Local al Comunei Vintileasca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vintileasca-2-2025",
+"path": "local/vrancea/vintileasca/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 2/2025 Aprobarea documentatiei tehnico-economice si a devizului general (faza PTh) pentru obiectivul de investitii “Construire Centru Civic Comunitar Integrat in comuna Vintileasca,judetul Vrancea”",
+"short": "HCL Vintileasca nr. 2/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#95077",
+"council": "vrancea/vintileasca",
+"council_name": "Consiliul Local al Comunei Vintileasca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vintileasca-3-2025",
+"path": "local/vrancea/vintileasca/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 3/2025 Necesitatea si oportunitatea initierii obiectivului de investitii “Amenajare Centru Civic,comuna Vintileasca,judetul Vrancea.”",
+"short": "HCL Vintileasca nr. 3/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#95078",
+"council": "vrancea/vintileasca",
+"council_name": "Consiliul Local al Comunei Vintileasca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vintileasca-4-2025",
+"path": "local/vrancea/vintileasca/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 4/2025 Aprobarea planului anual de actiune privind serviciile sociale administrate si/sau finantate din bugetul local al comunei Vintileasca ,judetul Vrancea,pentru anul 2025",
+"short": "HCL Vintileasca nr. 4/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#95081",
+"council": "vrancea/vintileasca",
+"council_name": "Consiliul Local al Comunei Vintileasca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vintileasca-5-2025",
+"path": "local/vrancea/vintileasca/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 5/2025 Necesitatea si oportunitatea intocmirii reevaluarii/evaluarii bunurilor ce alcatuiesc domeniul public si privat al comunei Vintileasca,judetul Vrancea",
+"short": "HCL Vintileasca nr. 5/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#95084",
+"council": "vrancea/vintileasca",
+"council_name": "Consiliul Local al Comunei Vintileasca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vintileasca-6-2025",
+"path": "local/vrancea/vintileasca/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 6/2025 Aprobarea indicatorilor si a devizului privind cheltuielile pentru ”Elaborarea Plan Urbanistic General si Regulament Local de Urbanism,comuna Vintileasca,judetul Vrancea”",
+"short": "HCL Vintileasca nr. 6/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#95088",
+"council": "vrancea/vintileasca",
+"council_name": "Consiliul Local al Comunei Vintileasca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--vintileasca-7-2025",
 "path": "local/vrancea/vintileasca/2025/7",
 "kind": "local",

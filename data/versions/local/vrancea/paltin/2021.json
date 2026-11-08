@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/paltin/2021",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--paltin-10-2021",
+   "path": "local/vrancea/paltin/2021/10",
+   "short": "HCL Paltin nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Paltin nr. 10/2021 privind stabilirea situaţiilor deosebite pentru acordarea unor ajutoare de urgenţă, la nivelul comunei Paltin, judeţul Vrancea",
+   "url": "https://emol.ro/paltin-vn/registru-hcl/47345",
+   "versions": [
+    {
+     "from": "2021-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/paltin-vn/registru-hcl/47345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paltin-12-2021",
+   "path": "local/vrancea/paltin/2021/12",
+   "short": "HCL Paltin nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Paltin nr. 12/2021 privind aprobarea Programului anual al achizițiilor publice, pentru anul 2021, la nivelul comunei Paltin, județul Vrancea",
+   "url": "https://emol.ro/paltin-vn/registru-hcl/47347",
+   "versions": [
+    {
+     "from": "2021-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/paltin-vn/registru-hcl/47347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paltin-15-2021",
+   "path": "local/vrancea/paltin/2021/15",
+   "short": "HCL Paltin nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Paltin nr. 15/2021 privind detalierea obligaţiilor şi responsabilităţilor concrete care revin instituţiilor publice, agenţilor economici, celorlalte persoane juridice, precum şi cetăţenilor din comuna Paltin, judeţul Vrancea, cu privire la gospodărirea şi înfrumuseţarea comunei şi a satelor componente",
+   "url": "https://emol.ro/paltin-vn/registru-hcl/47350",
+   "versions": [
+    {
+     "from": "2021-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/paltin-vn/registru-hcl/47350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paltin-16-2021",
+   "path": "local/vrancea/paltin/2021/16",
+   "short": "HCL Paltin nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Paltin nr. 16/2021 privind aprobarea studiului de oportunitate în vederea externalizării Serviciului de iluminat public, Caietului de sarcini, Regulamentului, Indicatorilor de performanță și a modelului Contractului de delegare a gestiunii Serviciului de iluminat public din comuna Paltin, județul Vrancea",
+   "url": "https://emol.ro/paltin-vn/registru-hcl/47378",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/paltin-vn/registru-hcl/47378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paltin-20-2021",
+   "path": "local/vrancea/paltin/2021/20",
+   "short": "HCL Paltin nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Paltin nr. 20/2021 privind modificarea și completarea Hotărârii nr. 4 / 21.01.2021, privind completarea Anexei nr. 3 – Impozite și taxe speciale, la Hotărârea Consiliului local al comunei Paltin, județul Vrancea nr. 46 / 13.12.2020, privind stabilirea impozitelor și taxelor locale, la nivelul comunei Paltin, județul Vrancea, pentru anul 2021",
+   "url": "https://emol.ro/paltin-vn/registru-hcl/47382",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/paltin-vn/registru-hcl/47382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paltin-24-2021",
+   "path": "local/vrancea/paltin/2021/24",
+   "short": "HCL Paltin nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Paltin nr. 24/2021 privind aprobarea execuţiei bugetului local al comunei Paltin, judeţul Vrancea, pe secţiunea de funcţionare şi pe secţiunea de dezvoltare, pe trim. I, al anului 2021",
+   "url": "https://emol.ro/paltin-vn/registru-hcl/47739",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/paltin-vn/registru-hcl/47739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paltin-25-2021",
+   "path": "local/vrancea/paltin/2021/25",
+   "short": "HCL Paltin nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Paltin nr. 25/2021 privind aprobarea bugetului local de venituri şi cheltuieli, a Bugetului de credite interne şi a Listei de investiţii, pentru anul 2021, la nivelul comunei Paltin, judeţul Vrancea",
+   "url": "https://emol.ro/paltin-vn/registru-hcl/47740",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/paltin-vn/registru-hcl/47740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paltin-26-2021",
+   "path": "local/vrancea/paltin/2021/26",
+   "short": "HCL Paltin nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Paltin nr. 26/2021 privind aprobarea numărului şi a cuantumului burselor şcolare aferente semestrului al II-lea, al anului școlar 2020 – 2021, pentru elevii din învățământul preuniversitar de stat, la nivelul comunei Paltin, județul Vrancea",
+   "url": "https://emol.ro/paltin-vn/registru-hcl/47741",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/paltin-vn/registru-hcl/47741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paltin-28-2021",
+   "path": "local/vrancea/paltin/2021/28",
+   "short": "HCL Paltin nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Paltin nr. 28/2021 privind aprobarea PLANULUI DE ANALIZĂ ŞI ACOPERIRE A RISCURILOR al comunei PALTIN, judeţul VRANCEA",
+   "url": "https://emol.ro/paltin-vn/registru-hcl/47743",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/paltin-vn/registru-hcl/47743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paltin-30-2021",
+   "path": "local/vrancea/paltin/2021/30",
+   "short": "HCL Paltin nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Paltin nr. 30/2021",
+   "url": "https://emol.ro/paltin-vn/registru-hcl/47755",
+   "versions": [
+    {
+     "from": "2021-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/paltin-vn/registru-hcl/47755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paltin-33-2021",
+   "path": "local/vrancea/paltin/2021/33",
+   "short": "HCL Paltin nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Paltin nr. 33/2021 privind reorganizarea aparatului de specialitate al Primarului comunei Paltin, județul Vrancea, aprobarea Organigramei și a Statului de funcții, ca urmare a reorganizării",
+   "url": "https://emol.ro/paltin-vn/registru-hcl/56982",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paltin-vn/registru-hcl/56982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paltin-34-2021",
+   "path": "local/vrancea/paltin/2021/34",
+   "short": "HCL Paltin nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Paltin nr. 34/2021 privind aprobarea solicitării de transmitere fără plată, din patrimoniul privat al Județului Vrancea în patrimoniul privat al comunei Paltin, a bunurilor achiziţionate prin proiectul „Implementarea de soluţii informatice integrate –Registrul Agricol - la nivelul Judeţului Vrancea - zona Nord-Vest”",
+   "url": "https://emol.ro/paltin-vn/registru-hcl/56983",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/paltin-vn/registru-hcl/56983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paltin-4-2021",
+   "path": "local/vrancea/paltin/2021/4",
+   "short": "HCL Paltin nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Paltin nr. 4/2021 privind completarea Anexei nr. 3 – Impozite și taxe speciale, la Hotărârea Consiliului local al comunei Paltin, județul Vrancea nr. 46 / 13.12.2020, privind stabilirea impozitelor și taxelor locale, la nivelul comunei Paltin, județul Vrancea, pentru anul 2021",
+   "url": "https://emol.ro/paltin-vn/registru-hcl/47336",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/paltin-vn/registru-hcl/47336",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,366 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/paunesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--paunesti-11-2023",
+   "path": "local/vrancea/paunesti/2023/11",
+   "short": "HCL Păunești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 11/2023 privind solicitarea transmiterii temporare a dreptului de administrare a drumului județean DJ 205H de la km11+478 (stație de pompare de apă Șoimu) până la km 12+519 (capăt rețea de distribuție) în vederea realizării lucrărilor de investiții ,,EXTINDEREA REȚELEI DE DISTRIBUȚIE A ENERGIEI ELECTRICE, LÂNGĂ DJ 205H ÎN INTRAVILANUL COMUNEI PĂUNEȘTI, JUDEȚUL VRANCEA.,",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/94909",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/94909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-12-2023",
+   "path": "local/vrancea/paunesti/2023/12",
+   "short": "HCL Păunești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 12/2023 privind aprobarea Devizului general, cu indicatorii tehnico - economici, pentru obiectivul de investiții ,, REPARAȚII CAPITALE (RK) RIGOLE STRADALE, COM. PĂUNEȘTI, JUDEȚUL VRANCEA,,",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/94910",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/94910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-22-2023",
+   "path": "local/vrancea/paunesti/2023/22",
+   "short": "HCL Păunești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 22/2023 privind aprobarea contului de execuție bugetară al comunei Păunești, județul Vrancea, pentru anul 2022",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/107803",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/107803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-23-2023",
+   "path": "local/vrancea/paunesti/2023/23",
+   "short": "HCL Păunești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 23/2023 privind aprobarea documentaţiei tehnico-economice şi a indicatorilor tehnico-economici – faza DALI, pentru proiectul de investiții \"MODERNIZARE SI EFICIENTIZARE ILUMINAT PUBLIC STRAZI SECUNDARE DIN COMUNA PAUNESTI , JUDETUL VRANCEA\"",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/107804",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/107804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-24-2023",
+   "path": "local/vrancea/paunesti/2023/24",
+   "short": "HCL Păunești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 24/2023 privind aprobarea a documentaţiei tehnico-economice (faza DALI) si a indicatorilor tehnico-economici pentru obiectivul de investitii „Reabilitarea Casei Specialistului, Comuna Păunești, Județul Vrancea”",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/107805",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/107805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-25-2023",
+   "path": "local/vrancea/paunesti/2023/25",
+   "short": "HCL Păunești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 25/2023 privind aprobarea contului de execuţie bugetară al comunei Păuneşti, judeţul Vrancea pentru trimestrul I al anului 2023",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/107806",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/107806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-41-2023",
+   "path": "local/vrancea/paunesti/2023/41",
+   "short": "HCL Păunești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 41/2023 privind ajustarea prețului pentru apa potabilă furnizată de către Serviciul de Alimentare cu Apă în comuna Păunești , județul Vrancea",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/127352",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/127352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-44-2023",
+   "path": "local/vrancea/paunesti/2023/44",
+   "short": "HCL Păunești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 44/2023 privind aprobarea achiziționării, din bugetul local, a unei electropompe de presiune de suprafață cu tablou de comandă si protectie motor 30 kw cu pornire stea-triunghi",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/127355",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/127355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-49-2023",
+   "path": "local/vrancea/paunesti/2023/49",
+   "short": "HCL Păunești nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 49/2023 privind aprobarea documentaţiei tehnico-economice (faza DALI) și a indicatorilor tehnico-economici, actualizați, pentru obiectivul de investiții „Implementarea unui sistem de supraveghere video stradală în Comuna Păunești, judetul Vrancea,, aprobat pentru finanțare prin PNRR/2022/C10 – Componenta c10 – fondul local",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/127729",
+   "versions": [
+    {
+     "from": "2023-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/127729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-53-2023",
+   "path": "local/vrancea/paunesti/2023/53",
+   "short": "HCL Păunești nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 53/2023 privind darea în folosință gratuită a unor instalații/capacități energetice de distribuție energie electrică în scopul realizarii obiectivului de investiții ,,EXTINDEREA REȚELEI DE DISTRIBUȚIE A ENERGIEI ELECTRICE, LÂNGĂ DJ 205H ÎN INTRAVILANUL COMUNEI PĂUNEȘTI, JUDEȚUL VRANCEA,,",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/127733",
+   "versions": [
+    {
+     "from": "2023-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/127733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-57-2023",
+   "path": "local/vrancea/paunesti/2023/57",
+   "short": "HCL Păunești nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 57/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor – cadru pentru achiziția produselor și a contractelor /acordurilor – cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente programului, pentru perioada august 2023 – iulie 2029 in cadrul Programului pentru școli al României",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/127737",
+   "versions": [
+    {
+     "from": "2023-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/127737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-68-2023",
+   "path": "local/vrancea/paunesti/2023/68",
+   "short": "HCL Păunești nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 68/2023 privind aprobarea Devizului General cu indicatorii tehnico-economici, actualizați, pentru obiectivul de investiții „EXTINDERE SISTEM DE CANALIZARE SI SUPLIMENTARE CAPACITATE STAȚIE DE EPURARE, COMUNA PĂUNEȘTI, JUDEȚUL VRANCEA”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/127748",
+   "versions": [
+    {
+     "from": "2023-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/127748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-69-2023",
+   "path": "local/vrancea/paunesti/2023/69",
+   "short": "HCL Păunești nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 69/2023 privind rectificarea Bugetului local al comunei Păuneşti, județul Vrancea, pentru anul 2023 Primarul comunei Păuneşti,județul Vrancea;",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/137199",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/137199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-70-2023",
+   "path": "local/vrancea/paunesti/2023/70",
+   "short": "HCL Păunești nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 70/2023 privind aprobarea Devizului General cu indicatorii tehnico-economici, actualizați, pentru obiectivul de investiții „EXTINDERE SISTEM DE CANALIZARE SI SUPLIMENTARE CAPACITATE STAȚIE DE EPURARE, COMUNA PĂUNEȘTI, JUDEȚUL VRANCEA”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/137200",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/137200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-71-2023",
+   "path": "local/vrancea/paunesti/2023/71",
+   "short": "HCL Păunești nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 71/2023 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Păunești începând cu 01 noiembrie 2023 precum si aprobarea statului de functii si a organigramei în conformitate cu Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilităţii financiare a României pe termen lung",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/137201",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/137201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-72-2023",
+   "path": "local/vrancea/paunesti/2023/72",
+   "short": "HCL Păunești nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 72/2023 privind încheierea unui act aditional la contractul de lucrări nr.9895/05.08.2021, pentru realizarea obiectivului de investiții ,,REPARAȚII CAPITALE, RIGOLE STRADALE, COMUNA PĂUNEȘTI, JUDEȚUL VRANCEA",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/137202",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/137202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-73-2023",
+   "path": "local/vrancea/paunesti/2023/73",
+   "short": "HCL Păunești nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 73/2023 privind modificarea Listei de Investiții la nivelul al comunei Pãuneşti, judeţul Vrancea pe anul 2023",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/137203",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/137203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-74-2023",
+   "path": "local/vrancea/paunesti/2023/74",
+   "short": "HCL Păunești nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 74/2023 privind rectificarea Bugetului local al comunei Păuneşti, județul Vrancea, pentru anul 2023 Primarul comunei Păuneşti,județul Vrancea;",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/137204",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/137204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-75-2023",
+   "path": "local/vrancea/paunesti/2023/75",
+   "short": "HCL Păunești nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 75/2023 privind aprobarea participarii Comunei PĂUNEȘTI in cadrul Programului privind cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice, precum si aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici pentru proiectul „CREȘTEREA EFICIENȚEI ENERGETICE ȘCOALĂ NOVĂCEȘTI, COMUNA PĂUNEȘTI, JUDEȚUL VRANCEA”",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/137211",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/137211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-76-2023",
+   "path": "local/vrancea/paunesti/2023/76",
+   "short": "HCL Păunești nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 76/2023 privind stabilirea impozitelor şi taxelor locale pe anul 2024 pe raza comunei Păunești, județul Vrancea",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/137216",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/137216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-77-2023",
+   "path": "local/vrancea/paunesti/2023/77",
+   "short": "HCL Păunești nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 77/2023 privind aprobarea mandatării cu mandat special a Asociatiei de Dezvoltare Intercomunitara ,,Vrancea Curata’’, să exercite, în numele şi pe seama Unitatii Administrativ - Teritoriale comuna Păunești delegarea gestiunii serviciului privind colectarea deseurilor municipale si transportul acestora la punctele/statiile de transfer la nivelul Zonei 1, judetul Vrancea pentru proiectul ,, Sistem de Management Integrat al Deseurilor Solide in judetul Vrancea’’",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/137217",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/137217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-78-2023",
+   "path": "local/vrancea/paunesti/2023/78",
+   "short": "HCL Păunești nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 78/2023 privind aprobarea contului de execuţie bugetară al comunei Păuneşti, judeţul Vrancea pentru trimestrul IV al anului 2023",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/137218",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/137218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-79-2023",
+   "path": "local/vrancea/paunesti/2023/79",
+   "short": "HCL Păunești nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 79/2023 privind alegerea președintelui de ședință pentru lunile ianuarie, februarie, martie 2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/137219",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/137219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-80-2023",
+   "path": "local/vrancea/paunesti/2023/80",
+   "short": "HCL Păunești nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 80/2023 privind rectificarea Bugetului local al comunei Păuneşti, județul Vrancea, pentru anul 2023",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/137220",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/137220",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

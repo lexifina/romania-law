@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/tulnici/2022",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--tulnici-19-2022",
+   "path": "local/vrancea/tulnici/2022/19",
+   "short": "HCL Tulnici nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 19/2022",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/77784",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/77784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-22-2022",
+   "path": "local/vrancea/tulnici/2022/22",
+   "short": "HCL Tulnici nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 22/2022 privind aprobarea Planului de Analiză şi Acoperire a Riscurilor pentru comuna Tulnici, judeţul Vrancea, în anul 2022",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/77787",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/77787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-64-2022",
+   "path": "local/vrancea/tulnici/2022/64",
+   "short": "HCL Tulnici nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 64/2022 privind aprobarea încheierii actului adițional, la contractul de lucrări nr. nr. 3298 din 15 iunie 2021 pentru obiectivul de investiţie “Reabilitare şi extindere sistem alimentare cu apă în comuna Tulnici, judeţul Vrancea, etapa a II-a”, conform dispoziției de șantier nr. 2",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/81743",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/81743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-65-2022",
+   "path": "local/vrancea/tulnici/2022/65",
+   "short": "HCL Tulnici nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 65/2022 privind aprobarea solicitării prelungirii scrisorii de garanției din partea Fondului Național de Garantare a Creditelor pentru Întreprinderi Mici și Mijlocii-SA pentru proiectul integrat finanțat prin Măsura/Submăsura 7.2 – Investiții în crearea și modernizarea infrastructurii de baza la scară mică, al comunei Tulnici",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/81744",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/81744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-84-2022",
+   "path": "local/vrancea/tulnici/2022/84",
+   "short": "HCL Tulnici nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 84/2022 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat, cu personalitate juridică care vor funcționa la nivelul comunei Tulnici, judetul Vrancea pentru anul şcolar 2023 – 2024",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/104408",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/104408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-85-2022",
+   "path": "local/vrancea/tulnici/2022/85",
+   "short": "HCL Tulnici nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 85/2022 privind aprobarea taxelor şi impozitelor locale pentru anul fiscal 2023, la nivelul comunei Tulnici, judeţul Vrancea",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/104409",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/104409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-86-2022",
+   "path": "local/vrancea/tulnici/2022/86",
+   "short": "HCL Tulnici nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 86/2022 privind aprobarea anulării creanţelor fiscale restante, mai mici de 40 lei, care se vor afla în sold, la data de 31 decembrie 2022",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/104410",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/104410",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

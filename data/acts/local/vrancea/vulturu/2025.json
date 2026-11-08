@@ -1,0 +1,204 @@
+{
+"country": "RO",
+"shard": "local/vrancea/vulturu/2025",
+"acts": [
+{
+"slug": "hcl-vrancea--vulturu-1-2025",
+"path": "local/vrancea/vulturu/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 1/2025 privind aprobarea acoperiririi definitive a deficitului secțiunii de dezvoltare a bugetului local al comunei Vulturu,județul Vrancea , pe anul 2024,din excedentul bugetului local",
+"short": "HCL Vulturu nr. 1/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-11",
+"latest": "2025-02-11",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/191702",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-3-2025",
+"path": "local/vrancea/vulturu/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 3/2025 privind: aprobarea planului de actiuni / lucrari de interes local pe anul 2025 ce vor fi executate de către persoanele apte de muncă beneficiare de ajutor de incluziune, conform Legii 196/2016",
+"short": "HCL Vulturu nr. 3/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/192141",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-16-2025",
+"path": "local/vrancea/vulturu/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 16/2025 privind: aprobarea bugetului local al comunei Vulturu, judeţul Vrancea pentru anul 2025",
+"short": "HCL Vulturu nr. 16/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-04",
+"latest": "2025-04-04",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/199513",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-35-2025",
+"path": "local/vrancea/vulturu/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 35/2025 privind aprobarea actualizării Regulamentului serviciului de salubrizare a localităţilor",
+"short": "HCL Vulturu nr. 35/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/210241",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-59-2025",
+"path": "local/vrancea/vulturu/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 59/2025 privind stabilirea taxei speciale de salubrizare pentru utilizatorii casnici și non-casnici, fără contract de prestări servicii incheiat cu operatorul de salubritate din comuna Vulturu",
+"short": "HCL Vulturu nr. 59/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/224147",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-67-2025",
+"path": "local/vrancea/vulturu/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 67/2025 privind : actualizarea Planului de Analiză și Acoperire a Riscurilor al comunei Vulturu, județul Vrancea",
+"short": "HCL Vulturu nr. 67/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/227662",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-95-2025",
+"path": "local/vrancea/vulturu/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 95/2025 privind aprobarea organizării reţelei şcolare a unităţilor de învătământ de stat preuniversitar din comuna Vulturu, judeţul Vrancea, pentru anul 2026-2027",
+"short": "HCL Vulturu nr. 95/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/245226",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-98-2025",
+"path": "local/vrancea/vulturu/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 98/2025 privind aprobarea Strategiei anuale de achiziții publice a comunei Vulturu, județul Vrancea pentru anul 2026",
+"short": "HCL Vulturu nr. 98/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/245229",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-104-2025",
+"path": "local/vrancea/vulturu/2025/104",
+"kind": "local",
+"year": "2025",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 104/2025 privind: stabilirea nivelurilor pentru valorile impozabile, impozitelor şi taxelor locale şi alte taxe asimilate acestora, precum şi amenzilor aplicabile în anul fiscal 2026, la nivelul comunei Vulturu, județul Vrancea",
+"short": "HCL Vulturu nr. 104/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/245235",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

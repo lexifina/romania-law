@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/suraia/2020",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--suraia-10-2020",
+   "path": "local/vrancea/suraia/2020/10",
+   "short": "HCL Suraia nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Suraia nr. 10/2020 privind aprobarea Regulamentului privind implementarea si eliberarea formatului unic al modelului card-legitimatie de parcare pentru persoanele cu handicap",
+   "url": "https://emol.ro/suraia-vn/registru-hcl/5972",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/suraia-vn/registru-hcl/5972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--suraia-23-2020",
+   "path": "local/vrancea/suraia/2020/23",
+   "short": "HCL Suraia nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Suraia nr. 23/2020 privind aprobarea Notei conceptuale si a Temei de proiectare pentru obiectivul de investitii “ Modernizare drumuri comunale”comuna Suraia, judetul Vrancea",
+   "url": "https://emol.ro/suraia-vn/registru-hcl/5986",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/suraia-vn/registru-hcl/5986",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

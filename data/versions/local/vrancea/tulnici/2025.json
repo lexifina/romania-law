@@ -1,0 +1,621 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/tulnici/2025",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--tulnici-14-2025",
+   "path": "local/vrancea/tulnici/2025/14",
+   "short": "HCL Tulnici nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 14/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/192510",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/192510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-20-2025",
+   "path": "local/vrancea/tulnici/2025/20",
+   "short": "HCL Tulnici nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 20/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/199088",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/199088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-24-2025",
+   "path": "local/vrancea/tulnici/2025/24",
+   "short": "HCL Tulnici nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 24/2025 privind aprobarea depunerii cererii de finanţare prin Programul multiannual de construcții locuințe sociale/locuințe de necesitate derulat conform Legii NR. 114/1996, pentru obiectivul de investiții „Construire locuințe sociale și de necesitate, 24 UL în comuna Tulnici, judeţul Vrancea”,",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/199096",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/199096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-26-2025",
+   "path": "local/vrancea/tulnici/2025/26",
+   "short": "HCL Tulnici nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 26/2025 privind delegarea de gestiune prin concesiune a Serviciului pentru gestionarea câinilor fără stăpân din comuna Tulnici, județul Vrancea",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/202819",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/202819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-27-2025",
+   "path": "local/vrancea/tulnici/2025/27",
+   "short": "HCL Tulnici nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 27/2025 privind participarea comunei Tulnici, județul Vrancea la Programul-pilot ,,Rabla pentru Sobe”",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/202820",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/202820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-28-2025",
+   "path": "local/vrancea/tulnici/2025/28",
+   "short": "HCL Tulnici nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 28/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/202821",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/202821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-30-2025",
+   "path": "local/vrancea/tulnici/2025/30",
+   "short": "HCL Tulnici nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 30/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/205801",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/205801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-34-2025",
+   "path": "local/vrancea/tulnici/2025/34",
+   "short": "HCL Tulnici nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 34/2025 privind aprobarea Planului pentru asigurarea resurselor financiare, materiale şi umane destinate prevenirii şi gestionării situaţiilor de urgenţă pe anul 2025, la nivelul comunei Tulnici, judeţul Vrancea",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/205805",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/205805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-36-2025",
+   "path": "local/vrancea/tulnici/2025/36",
+   "short": "HCL Tulnici nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 36/2025 privind aprobarea Planului de Analiza si Acoperire a Riscurilor pentru comuna Tulnici, judetul Vrancea, anul 2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/205807",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/205807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-38-2025",
+   "path": "local/vrancea/tulnici/2025/38",
+   "short": "HCL Tulnici nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 38/2025 privind aprobarea indicatorilor tehnico-economici la faza Proiect Tehnic și Detalii de Execuție, pentru obiectivul de investiție „Înființare Centrală Fotovoltaică, comuna Tulnici, județul Vrancea”",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/211530",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/211530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-39-2025",
+   "path": "local/vrancea/tulnici/2025/39",
+   "short": "HCL Tulnici nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 39/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/212475",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/212475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-40-2025",
+   "path": "local/vrancea/tulnici/2025/40",
+   "short": "HCL Tulnici nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 40/2025 privind trecerea din domeniul public în domeniul privat al comunei Tulnici, judeţul Vrancea, a suprafeţei de 800 mp, având categoria de folosinţă – curți, cât și a construcției administrative și social culturale – Remiza PSI în suprafață de 88 mp, bunuri situate în intravilan sat Tulnici, comuna Tulnici, judeţul Vrancea, T. 69, P. 2056, nr. cadastral 52559",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/212476",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/212476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-41-2025",
+   "path": "local/vrancea/tulnici/2025/41",
+   "short": "HCL Tulnici nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 41/2025 privind trecerea din domeniul public în domeniul privat al comunei Tulnici, judeţul Vrancea, a suprafeţei de 1.000 mp teren, având categoria de folosinţă – pășune, situat în extravilan sat Tulnici, comuna Tulnici, judeţul Vrancea, T. 148, P. 8730, nr. cadastral 56298",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/212477",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/212477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-44-2025",
+   "path": "local/vrancea/tulnici/2025/44",
+   "short": "HCL Tulnici nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 44/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/212480",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/212480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-45-2025",
+   "path": "local/vrancea/tulnici/2025/45",
+   "short": "HCL Tulnici nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 45/2025 privind instituirea unui drept de uz și servitute cu titlu gratuit către Distribuție Energie Electrică România Sucursala Focșani, asupra terenului în suprafață de 12 mp (din totalul de 131 mp), aparținând domeniului public al comunei Tulnici, județul Vrancea, conform CF nr. 56477, pentru amplasare post de transformare în anvelopă din beton, amplasat pe fundație de beton pietruit",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/212481",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/212481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-46-2025",
+   "path": "local/vrancea/tulnici/2025/46",
+   "short": "HCL Tulnici nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 46/2025 privind aprobarea Regulamentului de eliberare a acordului prealabil și a autorizației de amplasare și de acces în zona drumului public, pentru lucrările aferente rețelelor tehnico-edilitare, realizare pe proprietatea domeniului public al comunei Tulnici, județul Vrancea, care afectează structura căilor de comunicații rutiere, străzilor, trotuarelor, aleilor și spațiilor verzi",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/212482",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/212482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-47-2025",
+   "path": "local/vrancea/tulnici/2025/47",
+   "short": "HCL Tulnici nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 47/2025 privind avizarea documentației de atribuire a Contractului de delegare a gestiunii activității de colectare și transport a deșeurilor municipale din Lotul 2 (zonele 2-5 – Vidra, Gugești, CMID Haret și Adjud), județul Vrancea și aprobarea mandatării cu mandat special a Asociației de Dezvoltare Intercomunitară ,,Vrancea Curată” să exercite, în numele și pe seama Unității Administrativ-Teritoriale comuna Tulnici, delegarea gestiunii serviciului privind colectarea deșeurilor municipale și transportul acestora la punctele/stațiile de transfer la nivelul Lotului 2 (zonele 2-5 – Vidra, Gugești, CMID Haret și Adjud), județul Vrancea, pentru proiectul ,,Sistem de Management Integrat al Deșeurilor în județul Vrancea”",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/212483",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/212483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-49-2025",
+   "path": "local/vrancea/tulnici/2025/49",
+   "short": "HCL Tulnici nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 49/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/213676",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/213676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-50-2025",
+   "path": "local/vrancea/tulnici/2025/50",
+   "short": "HCL Tulnici nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 50/2025 privind aprobarea noilor indicatori tehnico-economici și a Devizului General la faza Studiu de Fezabilitate pentru obiectivul de investiții „Construire locuințe sociale și de necesitate, 24 UL în comuna Tulnici, judeţul Vrancea”,",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/214226",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/214226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-57-2025",
+   "path": "local/vrancea/tulnici/2025/57",
+   "short": "HCL Tulnici nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 57/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/219905",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/219905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-59-2025",
+   "path": "local/vrancea/tulnici/2025/59",
+   "short": "HCL Tulnici nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 59/2025 privind aprobarea utilizării sumei de 1.825 mii lei din excedentul constituit în anii precedenți pentru acoperirea unor goluri temporare de casă ce au intervenit la secţiunea de dezvoltare",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/227277",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/227277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-64-2025",
+   "path": "local/vrancea/tulnici/2025/64",
+   "short": "HCL Tulnici nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 64/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/227311",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/227311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-67-2025",
+   "path": "local/vrancea/tulnici/2025/67",
+   "short": "HCL Tulnici nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 67/2025 privind trecerea din domeniul public în domeniul privat al comunei Tulnici, judeţul Vrancea, a suprafeţei de 210 mp teren, având categoria de folosinţă – pășune, situat în extravilan sat Tulnici, comuna Tulnici, judeţul Vrancea, T. 148, P. 8728, nr. cadastral 56629",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/227314",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/227314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-68-2025",
+   "path": "local/vrancea/tulnici/2025/68",
+   "short": "HCL Tulnici nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 68/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/227315",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/227315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-70-2025",
+   "path": "local/vrancea/tulnici/2025/70",
+   "short": "HCL Tulnici nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 70/2025 privind aprobarea „Strategiei de dezvoltare integrată a Microregiunii Țara Vrancei” - livrabil final în cadrul sub-activității SA2.2 „Elaborarea, validarea și aprobarea Strategiei de dezvoltare integrată pentru Microregiunea Țara Vrancei” din proiectul „Țara Vrancei, țara noastră, țara ta” (cod SMIS 329683) finanțat prin Programul de Asistență Tehnică 2021-2027 – beneficiar Asociația pentru Dezvoltare Teritorială Integrată Țara Vrancei",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/231843",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/231843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-72-2025",
+   "path": "local/vrancea/tulnici/2025/72",
+   "short": "HCL Tulnici nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 72/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/231880",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/231880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-73-2025",
+   "path": "local/vrancea/tulnici/2025/73",
+   "short": "HCL Tulnici nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 73/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/231881",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/231881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-74-2025",
+   "path": "local/vrancea/tulnici/2025/74",
+   "short": "HCL Tulnici nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 74/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/231882",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/231882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-80-2025",
+   "path": "local/vrancea/tulnici/2025/80",
+   "short": "HCL Tulnici nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 80/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/239761",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/239761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-81-2025",
+   "path": "local/vrancea/tulnici/2025/81",
+   "short": "HCL Tulnici nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 81/2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/239762",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/239762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-85-2025",
+   "path": "local/vrancea/tulnici/2025/85",
+   "short": "HCL Tulnici nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 85/2025 privind aprobarea indicatorilor tehnico-economici finali, pentru obiectivul de investiții „Construire pod peste pârâul Coza, sat Coza, punct fundul Cozei, comuna Tulnici, judeţul Vrancea”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/245997",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/245997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-86-2025",
+   "path": "local/vrancea/tulnici/2025/86",
+   "short": "HCL Tulnici nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 86/2025 privind implementarea proiectului „Digitalizarea turismului local al Comunei Tulnici, județul Vrancea” în cadrul PNRR/2025/C11 în cadrul PNRR/2025/C11/REFORMA 1",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/245998",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/245998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-88-2025",
+   "path": "local/vrancea/tulnici/2025/88",
+   "short": "HCL Tulnici nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 88/2025 privind aprobarea anulării creanţelor fiscale restante, mai mici de 40 lei, care se vor afla în sold, la data de 31 decembrie 2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/246000",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/246000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-89-2025",
+   "path": "local/vrancea/tulnici/2025/89",
+   "short": "HCL Tulnici nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 89/2025 privind externalizarea și achiziţionarea serviciilor de contabilitate din cadrul Compartimentului financiar contabil, impozite și taxe locale al aparatului de specialitate al comunei Tulnici, judeţul Vrancea, până la ocuparea prin concurs a funcției publice de execuție vacante, respectiv: inspector, clasa I, grad profesional superior",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/246001",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/246001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-90-2025",
+   "path": "local/vrancea/tulnici/2025/90",
+   "short": "HCL Tulnici nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 90/2025 privind rectificarea bugetului local al comunei Tulnici, judeţul Vrancea pe anul 2025",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/246642",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/246642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-92-2025",
+   "path": "local/vrancea/tulnici/2025/92",
+   "short": "HCL Tulnici nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 92/2025 privind stabilirea valorilor impozabile, impozitelor și taxelor locale precum și alte taxe asimilate acestora, precum și amenzile aplicabile la nivelul comunei Tulnici, Judeţul Vrancea, pentru anul fiscal 2026",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/282263",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/282263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-93-2025",
+   "path": "local/vrancea/tulnici/2025/93",
+   "short": "HCL Tulnici nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 93/2025 privind aprobarea taxei speciale de ecarisaj la nivelul Unității Administrativ-Teritoriale Comuna Tulnici, județul Vrancea",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/282264",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/282264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-94-2025",
+   "path": "local/vrancea/tulnici/2025/94",
+   "short": "HCL Tulnici nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 94/2025 privind aprobarea taxei speciale de iluminat public la nivelul Unității Administrativ-Teritoriale Comuna Tulnici, județul Vrancea",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/282265",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/282265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-95-2025",
+   "path": "local/vrancea/tulnici/2025/95",
+   "short": "HCL Tulnici nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 95/2025 privind aprobarea participării Unității Administrativ-Teritoriale Comuna Tulnici, județul Vrancea la proiectul „Furnizare servicii integrate în comunitățile rurale – facilitatea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/282266",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/282266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-96-2025",
+   "path": "local/vrancea/tulnici/2025/96",
+   "short": "HCL Tulnici nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 96/2025 privind aprobarea contului de execuţie al bugetului local consolidat al comunei Tulnici, judeţul Vrancea, la finele trimestrului IV, pe anul 2025, pe secţiunea de funcţionare şi secţiunea de dezvoltare:",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/282267",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/282267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-97-2025",
+   "path": "local/vrancea/tulnici/2025/97",
+   "short": "HCL Tulnici nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 97/2025 privind alocarea sumei de 20.000 din bugetul local al comunei Tulnici, județul Vrancea în vederea acordării cadourilor de Crăciun către copiii care frecventează cursurile școlare în cadrul unităților de învățământ aflate pe raza Unității Administrativ-Teritoriale Tulnici",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/282268",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/282268",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

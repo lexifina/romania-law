@@ -3,6 +3,28 @@
 "shard": "local/alba/alba-iulia/2023",
 "acts": [
 {
+"slug": "hcl-alba--alba-iulia-300-2023",
+"path": "local/alba/alba-iulia/2023/300",
+"kind": "local",
+"year": "2023",
+"number": "300",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 300/2023",
+"short": "HCL Alba Iulia nr. 300/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/134652",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-alba--alba-iulia-406-2023",
 "path": "local/alba/alba-iulia/2023/406",
 "kind": "local",

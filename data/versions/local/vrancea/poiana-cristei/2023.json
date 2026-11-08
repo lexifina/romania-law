@@ -3,6 +3,21 @@
  "shard": "local/vrancea/poiana-cristei/2023",
  "acts": [
   {
+   "slug": "hcl-vrancea--poiana-cristei-1-2023",
+   "path": "local/vrancea/poiana-cristei/2023/1",
+   "short": "HCL Poiana Cristei nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 1/2023 privind aprobarea unor masuri in domeniul Legii Nr.416/2001 privind venitul minim garantat",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50055",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50055",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--poiana-cristei-10-2023",
    "path": "local/vrancea/poiana-cristei/2023/10",
    "short": "HCL Poiana Cristei nr. 10/2023",
@@ -13,6 +28,21 @@
      "from": "2023-02-03",
      "units": 1,
      "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-11-2023",
+   "path": "local/vrancea/poiana-cristei/2023/11",
+   "short": "HCL Poiana Cristei nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 11/2023 privind aprobarea incheierii unui contract de furnizare de servicii de asistenta medicala scolara",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50097",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50097",
      "sha256": null
     }
    ]
@@ -33,6 +63,156 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--poiana-cristei-13-2023",
+   "path": "local/vrancea/poiana-cristei/2023/13",
+   "short": "HCL Poiana Cristei nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 13/2023 privind aprobarea devizului general actualizat pentru obiectivul de investitii \"Modernizare drumuri de interes local sat Podu-Lacului\"",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50099",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-14-2023",
+   "path": "local/vrancea/poiana-cristei/2023/14",
+   "short": "HCL Poiana Cristei nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 14/2023 privind aprobarea incheierii unui contract de prestari servicii cu o societate de consultanta pentru obiectivul \"Dotare cu mobilier ,materiale didactice si echipamente digitale a unitatilor de invatamant preuniversitar si a unitatilor conexe, Comuna Poiana Cristei judetul Vrancea\"",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50100",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-15-2023",
+   "path": "local/vrancea/poiana-cristei/2023/15",
+   "short": "HCL Poiana Cristei nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 15/2023 privind participarea comunei Poiana Cristei la constituirea parteneriatului privind elaborarea SDL 2023-2027",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50101",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-16-2023",
+   "path": "local/vrancea/poiana-cristei/2023/16",
+   "short": "HCL Poiana Cristei nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 16/2023 privind reorganizarea aparatului de specialitate al primarului Comunei Poiana Cristei si aprobarea organigramei si statului de functii",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50102",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-17-2023",
+   "path": "local/vrancea/poiana-cristei/2023/17",
+   "short": "HCL Poiana Cristei nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 17/2023 privind aprobarea proiectului \"Dotare cu mobilier,materiale didactice si echipamente digitale a unitatilor de invatamant preuniversitar si a unitatilor conexe, comuna Poiana Cristei,judetul Vrancea\"",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50103",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-18-2023",
+   "path": "local/vrancea/poiana-cristei/2023/18",
+   "short": "HCL Poiana Cristei nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 18/2023 privind aprobarea depunerii cererii de finantare proiect \"Infiintare retea de alimentare cu apa satele Mahriu, Petreanu si Taratu comuna Poiana Cristei, judetul Vrancea\"",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50104",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-19-2023",
+   "path": "local/vrancea/poiana-cristei/2023/19",
+   "short": "HCL Poiana Cristei nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 19/2023 privind aprobarea participarii comunei Poiana Cristei la programul \"rabla local\" derulat in cofinantare cu AFM",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50143",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-2-2023",
+   "path": "local/vrancea/poiana-cristei/2023/2",
+   "short": "HCL Poiana Cristei nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 2/2023 privind activitatea asistentilor personali ai persoanelor cu handicap grav",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50056",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-20-2023",
+   "path": "local/vrancea/poiana-cristei/2023/20",
+   "short": "HCL Poiana Cristei nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 20/2023 privind aprobarea contului trimestrial de executie a bugetului local a comunei Poiana Cristei pentru trimestrul I anul 2023",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50147",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-21-2023",
+   "path": "local/vrancea/poiana-cristei/2023/21",
+   "short": "HCL Poiana Cristei nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 21/2023 privind aprobarea salariilor de baza aferente functiilor din aparatul de specialitate al primarului comunei Poiana Cristei judetul Vrancea",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50150",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50150",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--poiana-cristei-23-2023",
    "path": "local/vrancea/poiana-cristei/2023/23",
    "short": "HCL Poiana Cristei nr. 23/2023",
@@ -43,6 +223,21 @@
      "from": "2023-04-28",
      "units": 1,
      "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-24-2023",
+   "path": "local/vrancea/poiana-cristei/2023/24",
+   "short": "HCL Poiana Cristei nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 24/2023 privind stabilirea nivelurilor pentru valorile impozabile, impozitelor si taxelor locale",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50153",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50153",
      "sha256": null
     }
    ]
@@ -73,6 +268,81 @@
      "from": "2023-04-28",
      "units": 1,
      "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-28-2023",
+   "path": "local/vrancea/poiana-cristei/2023/28",
+   "short": "HCL Poiana Cristei nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 28/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-29-2023",
+   "path": "local/vrancea/poiana-cristei/2023/29",
+   "short": "HCL Poiana Cristei nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 29/2023 privind aprobarea documentatiei tehnico-economice ,faza DALI si a indicatorilor tehnico-economici pentru obiectivul \"Lucrari de crestere a eficientei energetice Internat Scolar, comuna Poiana Cristei judetul Vrancea\"",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50164",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-3-2023",
+   "path": "local/vrancea/poiana-cristei/2023/3",
+   "short": "HCL Poiana Cristei nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 3/2023 privind actualizarea Planului de Analiza si Acoperire a Riscurilor pentru comuna Poiana Cristei",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50057",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-30-2023",
+   "path": "local/vrancea/poiana-cristei/2023/30",
+   "short": "HCL Poiana Cristei nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 30/2023 privind participarea comunei Poiana Cristei in cadrul Programului \"Educatia si constientizarea publicului privind protectia mediului\" finantat de AFM",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50166",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-31-2023",
+   "path": "local/vrancea/poiana-cristei/2023/31",
+   "short": "HCL Poiana Cristei nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 31/2023 privind aprobarea realizarii de reparatii si intretinere drum de interes local \"Dinica Florea-Deal Marioara-Odobasca\"",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50169",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50169",
      "sha256": null
     }
    ]
@@ -348,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--poiana-cristei-5-2023",
+   "path": "local/vrancea/poiana-cristei/2023/5",
+   "short": "HCL Poiana Cristei nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 5/2023 privind aprobarea de achizitie directa de servicii si atribuirea contractului de delegare a activitatii de colectare separata si transportul separat al deseurilor menajere",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50064",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50064",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--poiana-cristei-50-2023",
    "path": "local/vrancea/poiana-cristei/2023/50",
    "short": "HCL Poiana Cristei nr. 50/2023",
@@ -493,6 +778,21 @@
      "from": "2023-10-31",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-6-2023",
+   "path": "local/vrancea/poiana-cristei/2023/6",
+   "short": "HCL Poiana Cristei nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 6/2023 privind aprobarea protocolului de colaborare dintre UAT Comuna Poiana Cristei judetul Vrancea si Ministerul Muncii si Solidaritatii Sociale proiect HUB de Servicii MMSS",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50070",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50070",
      "sha256": null
     }
    ]
@@ -648,6 +948,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--poiana-cristei-7-2023",
+   "path": "local/vrancea/poiana-cristei/2023/7",
+   "short": "HCL Poiana Cristei nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 7/2023 privind aprobarea devizului general actualizat pentru obiectivul de investitii \"Modernizare drumuri de interes local sat Podu-Lacului\"",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50093",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50093",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--poiana-cristei-70-2023",
    "path": "local/vrancea/poiana-cristei/2023/70",
    "short": "HCL Poiana Cristei nr. 70/2023",
@@ -793,6 +1108,36 @@
      "from": "2023-12-22",
      "units": 1,
      "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#66779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-8-2023",
+   "path": "local/vrancea/poiana-cristei/2023/8",
+   "short": "HCL Poiana Cristei nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 8/2023 privind aprobarea intocmirii studiului de fezabilitate pentru obiectivul \"Realizare teren sport\"",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50094",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-9-2023",
+   "path": "local/vrancea/poiana-cristei/2023/9",
+   "short": "HCL Poiana Cristei nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 9/2023 privind aprobarea intocmirii studiului de fezabilitate pentru obiectivul \"Realizare santuri betonate in comuna Poiana Cristei\"",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50095",
+   "versions": [
+    {
+     "from": "2023-02-03",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#50095",
      "sha256": null
     }
    ]

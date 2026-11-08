@@ -1,0 +1,161 @@
+{
+"country": "RO",
+"shard": "local/vrancea/tulnici/2022",
+"acts": [
+{
+"slug": "hcl-vrancea--tulnici-19-2022",
+"path": "local/vrancea/tulnici/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 19/2022",
+"short": "HCL Tulnici nr. 19/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-22",
+"latest": "2022-03-22",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/77784",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-22-2022",
+"path": "local/vrancea/tulnici/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 22/2022 privind aprobarea Planului de Analiză şi Acoperire a Riscurilor pentru comuna Tulnici, judeţul Vrancea, în anul 2022",
+"short": "HCL Tulnici nr. 22/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/77787",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-64-2022",
+"path": "local/vrancea/tulnici/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 64/2022 privind aprobarea încheierii actului adițional, la contractul de lucrări nr. nr. 3298 din 15 iunie 2021 pentru obiectivul de investiţie “Reabilitare şi extindere sistem alimentare cu apă în comuna Tulnici, judeţul Vrancea, etapa a II-a”, conform dispoziției de șantier nr. 2",
+"short": "HCL Tulnici nr. 64/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-12",
+"latest": "2023-05-12",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/81743",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-65-2022",
+"path": "local/vrancea/tulnici/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 65/2022 privind aprobarea solicitării prelungirii scrisorii de garanției din partea Fondului Național de Garantare a Creditelor pentru Întreprinderi Mici și Mijlocii-SA pentru proiectul integrat finanțat prin Măsura/Submăsura 7.2 – Investiții în crearea și modernizarea infrastructurii de baza la scară mică, al comunei Tulnici",
+"short": "HCL Tulnici nr. 65/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-12",
+"latest": "2023-05-12",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/81744",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-84-2022",
+"path": "local/vrancea/tulnici/2022/84",
+"kind": "local",
+"year": "2022",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 84/2022 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat, cu personalitate juridică care vor funcționa la nivelul comunei Tulnici, judetul Vrancea pentru anul şcolar 2023 – 2024",
+"short": "HCL Tulnici nr. 84/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-12",
+"latest": "2023-05-12",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/104408",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-85-2022",
+"path": "local/vrancea/tulnici/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 85/2022 privind aprobarea taxelor şi impozitelor locale pentru anul fiscal 2023, la nivelul comunei Tulnici, judeţul Vrancea",
+"short": "HCL Tulnici nr. 85/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-12",
+"latest": "2023-05-12",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/104409",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--tulnici-86-2022",
+"path": "local/vrancea/tulnici/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 86/2022 privind aprobarea anulării creanţelor fiscale restante, mai mici de 40 lei, care se vor afla în sold, la data de 31 decembrie 2022",
+"short": "HCL Tulnici nr. 86/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-12",
+"latest": "2023-05-12",
+"portal": "https://emol.ro/tulnici-vn/registru-hcl/104410",
+"council": "vrancea/tulnici",
+"council_name": "Consiliul Local al Comunei Tulnici",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

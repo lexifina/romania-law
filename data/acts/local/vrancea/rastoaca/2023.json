@@ -1,0 +1,227 @@
+{
+"country": "RO",
+"shard": "local/vrancea/rastoaca/2023",
+"acts": [
+{
+"slug": "hcl-vrancea--rastoaca-3-2023",
+"path": "local/vrancea/rastoaca/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răstoaca nr. 3/2023 privind utilizarea definitivă a excedentului bugetului local al comunei Răstoaca, județul Vrancea, în cursul anului 2023",
+"short": "HCL Răstoaca nr. 3/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://emol.ro/rastoaca-vn/registru-hcl/117264",
+"council": "vrancea/rastoaca",
+"council_name": "Consiliul Local al Comunei Răstoaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--rastoaca-5-2023",
+"path": "local/vrancea/rastoaca/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răstoaca nr. 5/2023 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici inițiali și actualizați și a devizului general al obiectivului de investiții ''Modernizare drumuri de interes local, comuna Răstoaca, județul Vrancea''",
+"short": "HCL Răstoaca nr. 5/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://emol.ro/rastoaca-vn/registru-hcl/117266",
+"council": "vrancea/rastoaca",
+"council_name": "Consiliul Local al Comunei Răstoaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--rastoaca-8-2023",
+"path": "local/vrancea/rastoaca/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răstoaca nr. 8/2023 privind aprobarea bugetului local al comunei Răstoaca, județul Vrancea, pentru anul 2023",
+"short": "HCL Răstoaca nr. 8/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://emol.ro/rastoaca-vn/registru-hcl/117269",
+"council": "vrancea/rastoaca",
+"council_name": "Consiliul Local al Comunei Răstoaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--rastoaca-9-2023",
+"path": "local/vrancea/rastoaca/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răstoaca nr. 9/2023",
+"short": "HCL Răstoaca nr. 9/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://emol.ro/rastoaca-vn/registru-hcl/117272",
+"council": "vrancea/rastoaca",
+"council_name": "Consiliul Local al Comunei Răstoaca",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--rastoaca-11-2023",
+"path": "local/vrancea/rastoaca/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răstoaca nr. 11/2023 privind aprobarea notei conceptuale și a temei de proiectare pentru obiectivul de investiție ''ASFALTARE DRUMURI COMUNALE (REST DE ASFALTARE), COMUNA RĂSTOACA, JUDEȚUL VRANCEA''",
+"short": "HCL Răstoaca nr. 11/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://emol.ro/rastoaca-vn/registru-hcl/117274",
+"council": "vrancea/rastoaca",
+"council_name": "Consiliul Local al Comunei Răstoaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--rastoaca-12-2023",
+"path": "local/vrancea/rastoaca/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răstoaca nr. 12/2023 privind aprobarea notei conceptuale și a temei de proiectare pentru obicetivul de investiție ''BALASTRARE DRUMURI COMUNALE, COMUNA RĂSTOACA, JUDEȚUL VRANCEA''",
+"short": "HCL Răstoaca nr. 12/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://emol.ro/rastoaca-vn/registru-hcl/117275",
+"council": "vrancea/rastoaca",
+"council_name": "Consiliul Local al Comunei Răstoaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--rastoaca-15-2023",
+"path": "local/vrancea/rastoaca/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răstoaca nr. 15/2023 privind acordarea Diplomei de fidelitate și a unui premiu în valoare de 500 de lei, din bugetul local al comunei Răstoaca, județul Vrancea, cuplurilor răstocene care împlinesc 50 de ani de căsătorie neîntreruptă",
+"short": "HCL Răstoaca nr. 15/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://emol.ro/rastoaca-vn/registru-hcl/117285",
+"council": "vrancea/rastoaca",
+"council_name": "Consiliul Local al Comunei Răstoaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--rastoaca-18-2023",
+"path": "local/vrancea/rastoaca/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răstoaca nr. 18/2023 privind acrodarea scutirilor prevăzute la art. 8 alin. (1) și alin. (3) din Decretul-Lege nr. 118 din 30 martie 1990 (republicat) privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum și celor deportate în străinătate ori constituite în prizonieri",
+"short": "HCL Răstoaca nr. 18/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://emol.ro/rastoaca-vn/registru-hcl/117288",
+"council": "vrancea/rastoaca",
+"council_name": "Consiliul Local al Comunei Răstoaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--rastoaca-19-2023",
+"path": "local/vrancea/rastoaca/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răstoaca nr. 19/2023 privind rectificarea bugetului local al comunei Răstoaca pentru anul 2023",
+"short": "HCL Răstoaca nr. 19/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://emol.ro/rastoaca-vn/registru-hcl/117289",
+"council": "vrancea/rastoaca",
+"council_name": "Consiliul Local al Comunei Răstoaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--rastoaca-20-2023",
+"path": "local/vrancea/rastoaca/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răstoaca nr. 20/2023 privind aprobarea proiectului ''Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe, Comuna Răstoaca, județul Vrancea'', a cheltuielilor legate de proiect și depunerea acestuia în cadrul apelului de proiecte din Planul Național de Redresare și Reziliență (PNRR), Componenta C15 - Educație, Dotarea cu mobilier, Materiale didactice și Echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe",
+"short": "HCL Răstoaca nr. 20/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://emol.ro/rastoaca-vn/registru-hcl/117290",
+"council": "vrancea/rastoaca",
+"council_name": "Consiliul Local al Comunei Răstoaca",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

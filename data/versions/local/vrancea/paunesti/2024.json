@@ -1,0 +1,486 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/paunesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--paunesti-1-2024",
+   "path": "local/vrancea/paunesti/2024/1",
+   "short": "HCL Păunești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 1/2024 privind aprobarea acoperirii definitive a deficitului bugetar la sursa A – secțiunea dezvoltare în sumă de 850.625,24 lei din excedentul anilor precedenți",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156750",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-12-2024",
+   "path": "local/vrancea/paunesti/2024/12",
+   "short": "HCL Păunești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 12/2024 privind aprobarea numărului total de asistenți personali ai persoanelor cu handicap grav pentru anul 2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156763",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-13-2024",
+   "path": "local/vrancea/paunesti/2024/13",
+   "short": "HCL Păunești nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 13/2024 privind aprobarea Regulamentul pentru decontarea cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Păunești, județul Vrancea",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156764",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-15-2024",
+   "path": "local/vrancea/paunesti/2024/15",
+   "short": "HCL Păunești nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 15/2024 privind completarea Bugetului local al comunei Pãuneşti, judetul Vrancea, pentru anul 2024, cu sumele repartizate pentru asigurarea finanțării de baza a unității de învătământ preuniversitar de stat pentru categoriile de cheltuieli prevăzute la art.139, alin.2, lit.b) și c) din Legea învătământului preuniversitar nr.198/2023",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156766",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-17-2024",
+   "path": "local/vrancea/paunesti/2024/17",
+   "short": "HCL Păunești nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 17/2024 privind rectificarea Bugetului local al comunei Păuneşti, județul Vrancea, pentru anul 2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156778",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-18-2024",
+   "path": "local/vrancea/paunesti/2024/18",
+   "short": "HCL Păunești nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 18/2024 privind aprobarea Regulamentului de acordare a ajutoarelor de urgenţă și a ajutoarelor comunitare prevăzute de Legea nr. 196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156804",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-19-2024",
+   "path": "local/vrancea/paunesti/2024/19",
+   "short": "HCL Păunești nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 19/2024 privind aprobarea Regulamentului de stabilire a măsurilor pentru gospodărirea comunei Păunești, județul Vrancea",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156805",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-2-2024",
+   "path": "local/vrancea/paunesti/2024/2",
+   "short": "HCL Păunești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 2/2024 privind aprobarea utilizării excedentului bugetar din anii precedenți de la sursa E (activități autofinanțate) în sumă de 32.715,80 lei, pentru acoperirea unor goluri temporare de casă la cheltuielile secțiunii de funcționare",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156751",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-21-2024",
+   "path": "local/vrancea/paunesti/2024/21",
+   "short": "HCL Păunești nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 21/2024 privind rectificarea Bugetului local al comunei Păuneşti, județul Vrancea, pentru anul 2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156807",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-22-2024",
+   "path": "local/vrancea/paunesti/2024/22",
+   "short": "HCL Păunești nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 22/2024 privind aprobarea contului de execuție bugetară al comunei Păunești, județul Vrancea, pentru anul 2023",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156808",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-24-2024",
+   "path": "local/vrancea/paunesti/2024/24",
+   "short": "HCL Păunești nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 24/2024 privind aprobarea suportului alimentar acordat preșcolarilor și elevilor Școlii Gimnaziale Păunești, județul Vrancea în cadrul Programului Național ,,Masă Sănătoasă,,",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156810",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-25-2024",
+   "path": "local/vrancea/paunesti/2024/25",
+   "short": "HCL Păunești nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 25/2024 privind aprobarea Planului pentru asigurarea resurselor umane, materiale și financiare destinate prevenirii și gestionării situațiilor de urgență pe anul 2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156823",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-26-2024",
+   "path": "local/vrancea/paunesti/2024/26",
+   "short": "HCL Păunești nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 26/2024 privind aprobarea contului de execuţie bugetară al comunei Păuneşti, judeţul Vrancea pentru trimestrul I al anului 2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156824",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-3-2024",
+   "path": "local/vrancea/paunesti/2024/3",
+   "short": "HCL Păunești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 3/2024 privind aprobarea acoperirii golurilor temporare de casa, la sectiunea functionare a bugetului activitatilor autofinantate – sursa G – Serviciul de Alimentare cu Apă Păunești – din excedentul anului precedent, în valoare de 82.759,45 lei",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156753",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-31-2024",
+   "path": "local/vrancea/paunesti/2024/31",
+   "short": "HCL Păunești nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 31/2024 privind rectificarea Bugetului local al comunei Păuneşti, județul Vrancea, pentru anul 2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156829",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-32-2024",
+   "path": "local/vrancea/paunesti/2024/32",
+   "short": "HCL Păunești nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 32/2024 privind analiza stadiului de înscriere a datelor în Registrul agricol al comunei Păuneşti, județul Vrancea pe trimestrul IV al anului 2023 şi stabilirea Măsurilor pentru eficientizarea acestei activități în anul 2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156830",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-34-2024",
+   "path": "local/vrancea/paunesti/2024/34",
+   "short": "HCL Păunești nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 34/2024 privind aprobarea Devizului general, cu indicatorii tehnico - economici, pentru obiectivul de investiții ,,MONTARE BAZIN VIDANJABIL AFERENT SĂLII DE SPORT, ȘCOALA GIMNAZIALĂ NR.1, COMUNA PĂUNEȘTI, JUDEȚUL VRANCEA,,",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/161369",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/161369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-35-2024",
+   "path": "local/vrancea/paunesti/2024/35",
+   "short": "HCL Păunești nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 35/2024 privind modificarea Listei de Investiții la nivelul al comunei Pãuneşti, judeţul Vrancea pe anul 2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/161370",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/161370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-38-2024",
+   "path": "local/vrancea/paunesti/2024/38",
+   "short": "HCL Păunești nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 38/2024 privind aprobarea majorarii cu 10% față de nivelul acordat pentru luna decembrie 2023 a veniturilor salariale ale angajaților din cadrul aparatului de specialitate al Primarului Comunei Păunești și a celorlalte structuri şi servicii publice subordonate Consiliului Local al comunei Păunești, începând cu luna iunie 2024, în vederea punerii în aplicare a prevederilor articolului II din Ordonanța de Urgență a Guvernului nr. 53/2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/161374",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/161374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-4-2024",
+   "path": "local/vrancea/paunesti/2024/4",
+   "short": "HCL Păunești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 4/2024 privind aprobarea rețelei școlare a unităților de învățământ din comuna Păunești, județul Vrancea, pentru anul școlar 2024 – 2025",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156752",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-47-2024",
+   "path": "local/vrancea/paunesti/2024/47",
+   "short": "HCL Păunești nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 47/2024 privind aprobarea Devizului general, pentru obiectivul de investiții ,,REȚEA DE DATE, CU MANAGEMENT INTEGRAT, PLATFORMĂ OMADA DE LA TPLink,,",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/174150",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/174150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-48-2024",
+   "path": "local/vrancea/paunesti/2024/48",
+   "short": "HCL Păunești nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 48/2024 privind completarea Listei de Investiții la nivelul al comunei Pãuneşti, judeţul Vrancea pe anul 2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/174151",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/174151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-5-2024",
+   "path": "local/vrancea/paunesti/2024/5",
+   "short": "HCL Păunești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 5/2024 privind aprobarea implementării contractului de finanțare a obiectivului de investiție: ,,DOTAREA CU MOBILIER ȘI ECHIPAMENTE DIGITALE A ȘCOLII GIMNAZIALE PĂUNEȘTI, DIN LOCALITATEA PĂUNEȘTI , JUDEȚUL VRANCEA,, în cadrul finanțării din fondurile europene nerambursabile aferente Planului Național de Redresare și Reziliență/Componenta C15",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156754",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-51-2024",
+   "path": "local/vrancea/paunesti/2024/51",
+   "short": "HCL Păunești nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 51/2024 privind reglementarea unor masuri fiscal- bugetare, la nivelul UAT Păunești în conformitate cu prevederile Ordonanței de Urgență a Guvernului nr. 107/2024 pentru reglementarea unor măsuri fiscal – bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/174154",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/174154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-56-2024",
+   "path": "local/vrancea/paunesti/2024/56",
+   "short": "HCL Păunești nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 56/2024 privind aprobarea rețelei școlare a unităților de învățământ din comuna Păunești, județul Vrancea, pentru anul școlar 2025 – 2026",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/179871",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/179871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-6-2024",
+   "path": "local/vrancea/paunesti/2024/6",
+   "short": "HCL Păunești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 6/2024 privind aprobarea Devizului general, cu indicatorii tehnico - economici, pentru obiectivul de investiții ,, REPARAȚII CAPITALE (RK) - RIGOLE STRADALE, COMUNA PĂUNEȘTI, JUDEȚUL VRANCEA,,",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156757",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-64-2024",
+   "path": "local/vrancea/paunesti/2024/64",
+   "short": "HCL Păunești nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 64/2024 privind stabilirea impozitelor şi taxelor locale pe anul 2025 pe raza comunei Păunești, județul Vrancea",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/184163",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/184163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-67-2024",
+   "path": "local/vrancea/paunesti/2024/67",
+   "short": "HCL Păunești nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 67/2024 privind aprobarea încheierii protocolului de colaborare între Autoritatea Pentru Digitalizarea României și Comuna Păunești, pentru asigurarea cadrului interinstituțional necesar înrolării în aplicația ROeID",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/184166",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/184166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-68-2024",
+   "path": "local/vrancea/paunesti/2024/68",
+   "short": "HCL Păunești nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 68/2024 privind aprobarea contului de execuţie bugetară al comunei Păuneşti, judeţul Vrancea pentru trimestrul IV al anului 2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/184167",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/184167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-69-2024",
+   "path": "local/vrancea/paunesti/2024/69",
+   "short": "HCL Păunești nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 69/2024 privind rectificarea Bugetului local al comunei Păuneşti, județul Vrancea, pentru anul 2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/184168",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/184168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-7-2024",
+   "path": "local/vrancea/paunesti/2024/7",
+   "short": "HCL Păunești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 7/2024 privind aprobarea Bugetului local al comunei Pãuneşti, judetul Vrancea, pentru anul 2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156758",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--paunesti-9-2024",
+   "path": "local/vrancea/paunesti/2024/9",
+   "short": "HCL Păunești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păunești nr. 9/2024 privind stabilirea salariilor de bază aferente funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al Primarului comunei Păunești și din serviciile publice din subordinea Consiliului Local Păunești, Județul Vrancea, începând cu data de 1 ianuarie 2024",
+   "url": "https://emol.ro/paunesti-vn/registru-hcl/156760",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/paunesti-vn/registru-hcl/156760",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

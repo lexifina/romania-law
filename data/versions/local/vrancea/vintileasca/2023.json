@@ -3,6 +3,126 @@
  "shard": "local/vrancea/vintileasca/2023",
  "acts": [
   {
+   "slug": "hcl-vrancea--vintileasca-1-2023",
+   "path": "local/vrancea/vintileasca/2023/1",
+   "short": "HCL Vintileasca nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 1/2023 Aprobarea retelei scolare pentru anul scolar 2023-2024 la comuna Vintileasca,judetul Vrancea",
+   "url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45766",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vintileasca-10-2023",
+   "path": "local/vrancea/vintileasca/2023/10",
+   "short": "HCL Vintileasca nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 10/2023 Alegerea preşedintelui de şedinţă pe o perioada de 3 luni",
+   "url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45980",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vintileasca-11-2023",
+   "path": "local/vrancea/vintileasca/2023/11",
+   "short": "HCL Vintileasca nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 11/2023 Aprobarea planului anual de actiune privind serviciile sociale administrate si/sau finantate din bugetul local al comunei Vintileasca ,judetul Vrancea,pentru anul 2023",
+   "url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45981",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vintileasca-12-2023",
+   "path": "local/vrancea/vintileasca/2023/12",
+   "short": "HCL Vintileasca nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 12/2023 Aprobarea Protocolului de colaborare dintre UAT Comuna Vintileasca, judeţul Vrancea şi Ministerul Muncii și Solidarității Sociale necesar derulării proiectului „ HUB de Servicii MMSS – SII MMSS” Cod MySmis 130963",
+   "url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45982",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vintileasca-13-2023",
+   "path": "local/vrancea/vintileasca/2023/13",
+   "short": "HCL Vintileasca nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 13/2023 Participarea Comunei Vintileasca, județul Vrancea, la constituirea parteneriatului privind elaborarea, depunerea spre selecție și implementarea Strategiei de Dezvoltare Locală (SDL) 2023 – 2027 a Grupului de Acțiune Locală Valea Ramnicului, finanțată prin Planul National Strategic 2023-2027",
+   "url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45983",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vintileasca-14-2023",
+   "path": "local/vrancea/vintileasca/2023/14",
+   "short": "HCL Vintileasca nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 14/2023 Aprobarea actualizarii indicatorilor tehnico-economici si a devizului general pentru obiectivul de investitii « Reabilitare Scoala gimnaziala « Regina Maria » corp A si B,sat Vintileasca,com.Vintileasca,judetul Vrancea»",
+   "url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45986",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vintileasca-15-2023",
+   "path": "local/vrancea/vintileasca/2023/15",
+   "short": "HCL Vintileasca nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 15/2023 Depunerea proiectului „Dotarea cu mobilier, materiale didactice si echipamente a SCOLII GIMNAZIALE „REGINA MARIA” VINTILEASCA”",
+   "url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#46002",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#46002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vintileasca-2-2023",
+   "path": "local/vrancea/vintileasca/2023/2",
+   "short": "HCL Vintileasca nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 2/2023 Modificarea art 1 din Hotararea Consiliului Local Vintileasca nr. 54/29.11.2018 privind aprobarea reactualizării Planului Urbanistic General al comunei Vintileasca, județul Vrancea",
+   "url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45791",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45791",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--vintileasca-3-2023",
    "path": "local/vrancea/vintileasca/2023/3",
    "short": "HCL Vintileasca nr. 3/2023",
@@ -28,6 +148,81 @@
      "from": "2023-01-30",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vintileasca-5-2023",
+   "path": "local/vrancea/vintileasca/2023/5",
+   "short": "HCL Vintileasca nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 5/2023 Aprobarea Planului anual de actiuni si interes local pentru repartizarea orelor de munca catre beneficiarii de ajutor social,conform Legii nr.416/2001 privind venitul minim garantat ,cu modificarile si completarile ulterioare ,pe anul 2023",
+   "url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45975",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vintileasca-6-2023",
+   "path": "local/vrancea/vintileasca/2023/6",
+   "short": "HCL Vintileasca nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 6/2023 Aprobarea modificarii organigramei si statului de functii al aparatului de specialitate al primarului comunei Vintileasca,judetul Vrancea",
+   "url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45976",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vintileasca-7-2023",
+   "path": "local/vrancea/vintileasca/2023/7",
+   "short": "HCL Vintileasca nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 7/2023 Necesitatea si oportunitatea initierii obiectivului de investitii “Construire platforma betonata,acces Baza sportiva Tip II , sat Vintileasca, comuna Vintileasca, judetul Vrancea.”",
+   "url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45977",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vintileasca-8-2023",
+   "path": "local/vrancea/vintileasca/2023/8",
+   "short": "HCL Vintileasca nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 8/2023 Aprobarea si însușirea Devizului general pentru obiectivul de investiții ”Amenajare centru civic-platforma betonata-comuna Vintileasca, judetul Vrancea”",
+   "url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45978",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vintileasca-9-2023",
+   "path": "local/vrancea/vintileasca/2023/9",
+   "short": "HCL Vintileasca nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 9/2023 Aprobarea bugetului local, bugetului cu activitati autofinantate, precum si aprobarea Listelor obiectivelor de investitii,la nivelul comunei Vintileasca, judetul Vrancea, pe anul 2023",
+   "url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45979",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#45979",
      "sha256": null
     }
    ]

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/tulnici/2023",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--tulnici-102-2023",
+   "path": "local/vrancea/tulnici/2023/102",
+   "short": "HCL Tulnici nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 102/2023",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/154367",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/154367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-25-2023",
+   "path": "local/vrancea/tulnici/2023/25",
+   "short": "HCL Tulnici nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 25/2023 privind atribuirea denumirii a două străzi din sat Tulnici, comuna Tulnici, județul Vrancea",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/105806",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/105806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-71-2023",
+   "path": "local/vrancea/tulnici/2023/71",
+   "short": "HCL Tulnici nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 71/2023 privind aprobarea indicatorilor tehnico-economici finali și a devizului general final după recepția la terminarea lucrărulor, pentru obiectivul de investiție „Modernizare drumuri de interes local, în comuna Tulnici, judeţul Vrancea”",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/127648",
+   "versions": [
+    {
+     "from": "2023-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/127648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--tulnici-97-2023",
+   "path": "local/vrancea/tulnici/2023/97",
+   "short": "HCL Tulnici nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tulnici nr. 97/2023 privind aprobarea indicatorilor tehnico-economici finali, pentru obiectivul de investiţie „Refacere podeț din beton, punct Streiu, sat Lepșa, comuna Tulnici, județul Vrancea”",
+   "url": "https://emol.ro/tulnici-vn/registru-hcl/154362",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tulnici-vn/registru-hcl/154362",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

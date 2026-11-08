@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/nistoresti/2020",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--nistoresti-33-2020",
+   "path": "local/vrancea/nistoresti/2020/33",
+   "short": "HCL Nistorești nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Nistorești nr. 33/2020 privind aprobarea utilizării sumei de 200.000 lei din excedentul bugetar pe anul 2019 pentru efectuarea unei plăți parțiale la obiectivul de investiții „Reconstruire pod din beton armat peste râul Năruja, legătura DJ 205M - Drum de interes local, comuna Nistoreşti, judeţul Vrancea”",
+   "url": "https://emol.ro/nistoresti-vn/registru-hcl/12581",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nistoresti-vn/registru-hcl/12581",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

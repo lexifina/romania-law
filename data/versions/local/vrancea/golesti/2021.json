@@ -1,0 +1,1026 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/golesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--golesti-1-2021",
+   "path": "local/vrancea/golesti/2021/1",
+   "short": "HCL Golești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 1/2021 privind aprobarea actualizării tarifelor distincte pentru activitatea de salubrizare menajeră pe raza comunei Goleşti pentru utilizatorii din comuna Golești care au încheiat contract de prestări servicii de salubritate",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32406",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-12-2021",
+   "path": "local/vrancea/golesti/2021/12",
+   "short": "HCL Golești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 12/2021 privind alocarea unei sume din bugetul local al comunei Golești pentru organizarea acțiunilor ocazionate de ziua de „8 Martie\" -ziua Internațională a femeii",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32417",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-13-2021",
+   "path": "local/vrancea/golesti/2021/13",
+   "short": "HCL Golești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 13/2021 privind aprobarea întocmirii Strategiei de dezvoltare locală a comunei Golești pentru perioada 2021 - 2027",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32418",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-14-2021",
+   "path": "local/vrancea/golesti/2021/14",
+   "short": "HCL Golești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 14/2021 privind aprobarea actualizării site-ului primăriei comunei Golești, respectiv comunagolesti-vrancea.ro",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32419",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-15-2021",
+   "path": "local/vrancea/golesti/2021/15",
+   "short": "HCL Golești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 15/2021 privind aprobarea Notei conceptuale şi a Temei de proiectare pentru obiectivul de investiţii ”Realizare sistem video de supraveghere și sistem de alarmare antiefracție la sediul Primăriei comunei Golești,județul Vrancea ”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32420",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-16-2021",
+   "path": "local/vrancea/golesti/2021/16",
+   "short": "HCL Golești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 16/2021 privind aprobarea Notei conceptuale şi a Temei de proiectare pentru obiectivul de investiţii ”Realizare sistem video de supraveghere și sistem de alarmare antiefracție la Grădinița cu program prelungit,comuna Golești,județul Vrancea ”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32421",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-17-2021",
+   "path": "local/vrancea/golesti/2021/17",
+   "short": "HCL Golești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 17/2021 privind aprobarea Planului anual de acţiune în domeniul serviciilor sociale la nivelul Comunei Golesti",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32422",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-18-2021",
+   "path": "local/vrancea/golesti/2021/18",
+   "short": "HCL Golești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 18/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții „Lucrări de construire pentru înființare cimitir, sat Golești,comuna Golești, județul Vrancea”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32423",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-19-2021",
+   "path": "local/vrancea/golesti/2021/19",
+   "short": "HCL Golești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 19/2021 privind trecerea din domeniul public în domeniul privat al comunei Golești a imobilului C1- construcții administrative și social culturale în suprafață de 247 mp.,a imobilului C2- construcție anexă în suprafață de 136 mp., a imobilului C3- construcție anexă în suprafață de 6 mp.,a imobilului C4- construcție anexă în suprafață de 23 mp., a imobilului C5- construcție anexă în suprafață de 19 mp., în vederea demolării",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32424",
+   "versions": [
+    {
+     "from": "2021-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-2-2021",
+   "path": "local/vrancea/golesti/2021/2",
+   "short": "HCL Golești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 2/2021 privind aprobarea tarifelor pentru activitatea de deszăpezire și activitatea de salubritate stradală în comuna Golești, județul Vrancea",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32407",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-20-2021",
+   "path": "local/vrancea/golesti/2021/20",
+   "short": "HCL Golești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 20/2021 privind aprobarea execuției bugetare anuale a bugetului local consolidat pentru anul 2020",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32425",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-21-2021",
+   "path": "local/vrancea/golesti/2021/21",
+   "short": "HCL Golești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 21/2021 privind obligaţiile şi răspunderile instituţiilor publice, ale agenţilor economici,ale altor persoane juridice precum şi ale cetăţenilor privind gospodărirea comunei Golești ,judetul Vrancea",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32426",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-24-2021",
+   "path": "local/vrancea/golesti/2021/24",
+   "short": "HCL Golești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 24/2021 privind aprobarea Notei conceptuale și a Temei de proiectare pentru obiectivul de investiții ''Reparații curente, modernizare, racord la apă și canalizare, imobil situat în Golești, str. Șoseaua Națională, nr. 31, județul Vrancea''",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32429",
+   "versions": [
+    {
+     "from": "2021-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-25-2021",
+   "path": "local/vrancea/golesti/2021/25",
+   "short": "HCL Golești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 25/2021 privind aprobarea Notei conceptuale și a Temei de proiectare pentru obiectivul de investiții 'țInfrastructură pietonală și pistă de biciclete strada Gârlei, comuna Golești, județul Vrancea''",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32430",
+   "versions": [
+    {
+     "from": "2021-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-26-2021",
+   "path": "local/vrancea/golesti/2021/26",
+   "short": "HCL Golești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 26/2021 privind modificarea indicatorilor tehnico-economici pentru obiectivul de investiții „Extindere RED pentru alimentarea cu energie electrică, ansamblul de locuințe cartier Ceardac, comuna Golesti, județul Vrancea”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32431",
+   "versions": [
+    {
+     "from": "2021-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-28-2021",
+   "path": "local/vrancea/golesti/2021/28",
+   "short": "HCL Golești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 28/2021 privind avizarea documentației de atribuire pentru delegarea gestiunii serviciului de Iluminat Public a localităților membre ale Asociației de Dezvoltare Intercomunitară pentru serviciul de salubrizare a localităților Focșani și Golești, județul Vrancea și acordarea mandatului special Primarului comunei Golești să aprobe întreaga documentație de atribuire în cadrul adunării generale a asociației",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32433",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-3-2021",
+   "path": "local/vrancea/golesti/2021/3",
+   "short": "HCL Golești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 3/2021 privind aprobarea reorganizării rețelei școlare a unităților de învățământ preuniveristar de la nivelul comunei Golești, județul Vrancea pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32408",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-30-2021",
+   "path": "local/vrancea/golesti/2021/30",
+   "short": "HCL Golești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 30/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții „Infrastructură pietonală și pistă de biciclete strada Gârlei, comuna Golești, județul Vrancea”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32435",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-31-2021",
+   "path": "local/vrancea/golesti/2021/31",
+   "short": "HCL Golești nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 31/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Realizare sistem video de supraveghere și sistem de alarmare antiefracție la Grădinița cu program prelungit,comuna Golești,județul Vrancea ”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32436",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-32-2021",
+   "path": "local/vrancea/golesti/2021/32",
+   "short": "HCL Golești nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 32/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Realizare sistem video de supraveghere și sistem de alarmare antiefracție la sediul Primăriei comunei Golești,județul Vrancea ”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32437",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-33-2021",
+   "path": "local/vrancea/golesti/2021/33",
+   "short": "HCL Golești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 33/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Amenajare spații interioare sediu primăriei comunei Golești,str. Cotești, nr. 2 comuna Golești, județul Vrancea”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32438",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-34-2021",
+   "path": "local/vrancea/golesti/2021/34",
+   "short": "HCL Golești nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 34/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Refacere și modernizare drumuri de interes local în comuna Golești,județul Vrancea ”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32439",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-35-2021",
+   "path": "local/vrancea/golesti/2021/35",
+   "short": "HCL Golești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 35/2021 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, în trimestrul I anul 2021",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32440",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-36-2021",
+   "path": "local/vrancea/golesti/2021/36",
+   "short": "HCL Golești nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 36/2021 privind aprobarea bugetului local consolidat al comunei Golești pentru anul 2021",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32441",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-37-2021",
+   "path": "local/vrancea/golesti/2021/37",
+   "short": "HCL Golești nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 37/2021 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizarea infrastructurii rutiere pe strada Victoriei, comuna Golesti, județul Vrancea”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32442",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-39-2021",
+   "path": "local/vrancea/golesti/2021/39",
+   "short": "HCL Golești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 39/2021 privind aprobarea modificării Nomenclatorului stradal al Unității Administrativ Teritoriale comuna Golești, județul Vrancea",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32444",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-40-2021",
+   "path": "local/vrancea/golesti/2021/40",
+   "short": "HCL Golești nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 40/2021 privind aprobarea valorii finale a obiectivul de investiții ”Reabilitare străzi, comuna Golești, judetul Vrancea”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32445",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-41-2021",
+   "path": "local/vrancea/golesti/2021/41",
+   "short": "HCL Golești nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 41/2021 privind aprobarea valorii finale a obiectivul de investiții ”Modernizare străzi, comuna Golești, judetul Vrancea”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32446",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-42-2021",
+   "path": "local/vrancea/golesti/2021/42",
+   "short": "HCL Golești nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 42/2021 privind modificarea HCL nr. 47 din 06.06.2019 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 2.190.000,00 lei",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32447",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-46-2021",
+   "path": "local/vrancea/golesti/2021/46",
+   "short": "HCL Golești nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 46/2021 privind aprobarea alocării sumei de 15.000 lei din bugetul local pentru organizarea zilei de 1 iunie și Ziua Eroilor",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32451",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-47-2021",
+   "path": "local/vrancea/golesti/2021/47",
+   "short": "HCL Golești nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 47/2021 privind actualizarea Planului de analiză şi acoperire a riscurilor in comuna Golești",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32452",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-48-2021",
+   "path": "local/vrancea/golesti/2021/48",
+   "short": "HCL Golești nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 48/2021 privind aprobarea Planului pentru asigurarea cu resurse umane, materiale și financiare necesare gestionării situațiilor de urgență pe anul 2021 al comunei Golești",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32453",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-49-2021",
+   "path": "local/vrancea/golesti/2021/49",
+   "short": "HCL Golești nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 49/2021 privind aprobarea numărului de burse pentru elevii de la cursurile cu frecvenţă din Scoala Gimnaziala Golești, în anul școlar 2020-2021",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32454",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-5-2021",
+   "path": "local/vrancea/golesti/2021/5",
+   "short": "HCL Golești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 5/2021 privind aprobarea Planului de lucrări de interes local care se vor realiza pe raza comunei Goleşti de către beneficiarii Legii 416/2001,prin prestarea orelor de muncă în anul 2021",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32410",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-50-2021",
+   "path": "local/vrancea/golesti/2021/50",
+   "short": "HCL Golești nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 50/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32455",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-54-2021",
+   "path": "local/vrancea/golesti/2021/54",
+   "short": "HCL Golești nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 54/2021 privind aprobarea modalității de plată a serviciilor de salubrizare către operatorul căruia îi va fi delegate serviciul de colectare și transport a deșeurilor efectuat pe raza comunei Golești,județul Vrancea",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32461",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-55-2021",
+   "path": "local/vrancea/golesti/2021/55",
+   "short": "HCL Golești nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 55/2021 privind acordarea unui mandat special primarului comunei Golești, pentru Adunarea Generala a Asociației de Dezvoltare Intercomunitară ”Vranceaqua”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32462",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-58-2021",
+   "path": "local/vrancea/golesti/2021/58",
+   "short": "HCL Golești nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 58/2021 privind modificarea și completarea Hotărârii Consiliului Local nr. 65 din 23.10.2020 pentru aprobarea implementarii si a indicatorilor tehnico-economici din cadrul proiectului \"Dotarea unităților de învățământ gimnazial de stat cu echipamente de protecție medicală de tip măști de protecție medicală, dezinfectanți, precum și alte echipamente de acest tip, necesare pentru a preveni răspândirea coronavirusului SARS-Cov-2 in Comuna Golesti, județul Vrancea\"",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32466",
+   "versions": [
+    {
+     "from": "2021-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-59-2021",
+   "path": "local/vrancea/golesti/2021/59",
+   "short": "HCL Golești nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 59/2021 privind aprobarea prelungirii scrisorii de garantie din partea fondului de garantare pentru obiectivul de investiții ,, Refacere si modernizare drumuri de interes local in comuna Golesti, judetul Vrancea \"",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/33666",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/33666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-6-2021",
+   "path": "local/vrancea/golesti/2021/6",
+   "short": "HCL Golești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 6/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Sistematizare pe verticală,spațiu aferent sediului primăriei din str.Cotești,nr.2 ,comuna Golești,judetul Vrancea”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32411",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-61-2021",
+   "path": "local/vrancea/golesti/2021/61",
+   "short": "HCL Golești nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 61/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/33668",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/33668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-62-2021",
+   "path": "local/vrancea/golesti/2021/62",
+   "short": "HCL Golești nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 62/2021 privind aprobarea indicatorilor tehnico-economici ai investiției „Construire bloc de locuințe sociale P+1E+M ,centrală termică și împrejmuire ,în comuna Golești, județul Vrancea”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/33669",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/33669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-63-2021",
+   "path": "local/vrancea/golesti/2021/63",
+   "short": "HCL Golești nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 63/2021 privind aprobarea indicatorilor tehnico-economici ai investiției „Reparații capitale magazie Școala Gimnazială ,comuna Golești, județul Vrancea”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/33670",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/33670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-64-2021",
+   "path": "local/vrancea/golesti/2021/64",
+   "short": "HCL Golești nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 64/2021 privind aprobarea indicatorilor tehnico-economici ai investiției „Amenajare teren curte prin așternere covor asfaltic nou, Școala Gimnazială ,comuna Golești, județul Vrancea”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/34346",
+   "versions": [
+    {
+     "from": "2021-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/34346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-66-2021",
+   "path": "local/vrancea/golesti/2021/66",
+   "short": "HCL Golești nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 66/2021 privind actualizarea indicatorilor tehnico-economici ai investiției „Reparații capitale magazie Școala Gimnazială ,comuna Golești, județul Vrancea”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/35837",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/35837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-67-2021",
+   "path": "local/vrancea/golesti/2021/67",
+   "short": "HCL Golești nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 67/2021 privind actualizarea indicatorilor tehnico-economici ai investiției „Sistematizare pe verticală, spațiu aferent sediului primăriei din str. Cotești,nr.2 ,comuna Golești, județul Vrancea”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/35838",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/35838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-68-2021",
+   "path": "local/vrancea/golesti/2021/68",
+   "short": "HCL Golești nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 68/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/35839",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/35839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-69-2021",
+   "path": "local/vrancea/golesti/2021/69",
+   "short": "HCL Golești nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 69/2021 privind aprobarea actualizării tarifelor distincte pentru activitatea de salubrizare menajera pe raza comunei Golești ,pentru utilizatorii din comuna Golești care au încheiat contract de prestări servicii salubritate",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/35840",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/35840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-70-2021",
+   "path": "local/vrancea/golesti/2021/70",
+   "short": "HCL Golești nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 70/2021 privind aprobarea cererii de finanţare și a devizului general pentru obiectivul de investiţii \"Reabilitare străzi, comuna Golești, judeţul Vrancea\" în cadrul Programului Naţional de Investiţii \"Anghel Saligny\"",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/38418",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/38418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-71-2021",
+   "path": "local/vrancea/golesti/2021/71",
+   "short": "HCL Golești nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 71/2021 privind modificarea şi completarea Anexei nr. 1 - Contractul de Asociere şi Anexei nr. 3-Statutul Asociației de Dezvoltare Intercomunitară „Vrancea Curată\" la Hotărârea Consiliului Local al Comunei Golești nr.36 din 29.08.2008 privind asocierea comunei Golești, cu județul Vrancea și unitățile administrativ-teritoriale din acest județ în vederea constituirii Asociației de dezvoltare intercomunitară ”Vrancea Curată” pentru dezvoltarea sistemului de management integrat al deșeurilor și extinderea infrastructurii în județul Vrancea",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/38721",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/38721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-73-2021",
+   "path": "local/vrancea/golesti/2021/73",
+   "short": "HCL Golești nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 73/2021 privind aprobarea actualizării tarifelor pentru serviciile publice de salubrizare stradală a comunei Golești și a tarifelor pentru activitatea de deszăpezire în comuna Golești pentru anul 2021",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/38723",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/38723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-74-2021",
+   "path": "local/vrancea/golesti/2021/74",
+   "short": "HCL Golești nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 74/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/38724",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/38724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-75-2021",
+   "path": "local/vrancea/golesti/2021/75",
+   "short": "HCL Golești nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 75/2021 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, în trimestrul III anul 2021",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/38725",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/38725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-77-2021",
+   "path": "local/vrancea/golesti/2021/77",
+   "short": "HCL Golești nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 77/2021 privind aprobarea achiziționării unui sistem videoconferință în vederea ținerii ședințelor de consiliul local cu prezență fizică și online",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/38727",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/38727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-78-2021",
+   "path": "local/vrancea/golesti/2021/78",
+   "short": "HCL Golești nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 78/2021 privind aprobarea achiziționării pachetului de aplicații informatice pentru serviciile de asistență socială",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/38728",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/38728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-79-2021",
+   "path": "local/vrancea/golesti/2021/79",
+   "short": "HCL Golești nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 79/2021 privind aprobarea achiziționării unui generator de mare putere",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/38729",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/38729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-81-2021",
+   "path": "local/vrancea/golesti/2021/81",
+   "short": "HCL Golești nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 81/2021 privind stabilirea impozitelor și taxelor locale, precum și altor taxe speciale care se fac venit al bugetului local al comunei Golești, județul Vrancea, pentru anul fiscal 2022",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/42152",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/42152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-82-2021",
+   "path": "local/vrancea/golesti/2021/82",
+   "short": "HCL Golești nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 82/2021 privind stabilirea plafonului pentru anularea creantelor fiscale restante la 31 decembrie 2021,la maxim 10 lei inclusiv pentru fiecare sursă de venit",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/42153",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/42153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-85-2021",
+   "path": "local/vrancea/golesti/2021/85",
+   "short": "HCL Golești nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 85/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/42156",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/42156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-86-2021",
+   "path": "local/vrancea/golesti/2021/86",
+   "short": "HCL Golești nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 86/2021 privind aprobarea planului de măsuri pentru perioada sezonului rece 2021 – 2022",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/42157",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/42157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-87-2021",
+   "path": "local/vrancea/golesti/2021/87",
+   "short": "HCL Golești nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 87/2021 privind darea în folosință gratuită către Parohia II Golești , a terenului în suprafaţă de 9 mp aflat în domeniul privat al comunei Golești,situat pe str. Victoriei,în vederea construirii unei troițe",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/42158",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/42158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-88-2021",
+   "path": "local/vrancea/golesti/2021/88",
+   "short": "HCL Golești nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 88/2021 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Refacere și modernizare drumuri de interes local în comuna Golești,județul Vrancea ”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/42159",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/42159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-89-2021",
+   "path": "local/vrancea/golesti/2021/89",
+   "short": "HCL Golești nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 89/2021 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, în trimestrul IV anul 2021",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/44498",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/44498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-9-2021",
+   "path": "local/vrancea/golesti/2021/9",
+   "short": "HCL Golești nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 9/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Demolare sediu primărie și anexe ,comuna Golești, județul Vrancea”",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/32414",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/32414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-90-2021",
+   "path": "local/vrancea/golesti/2021/90",
+   "short": "HCL Golești nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 90/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/44499",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/44499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-91-2021",
+   "path": "local/vrancea/golesti/2021/91",
+   "short": "HCL Golești nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 91/2021 privind realizarea documentaţiei urbanistice „Actualizare Plan Urbanistic General şi Regulament Local de Urbanism\" pentru Comuna Golești",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/44500",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/44500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-92-2021",
+   "path": "local/vrancea/golesti/2021/92",
+   "short": "HCL Golești nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 92/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/45850",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/45850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--golesti-93-2021",
+   "path": "local/vrancea/golesti/2021/93",
+   "short": "HCL Golești nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Golești nr. 93/2021 privind revocarea Hotărârii Consiliului Local nr. 84 din 23.11.2021 privind stabilirea începând cu luna ianuarie 2022 a salariilor de bază aferente funcțiilor din cadrul familiei ocupaționale ”Administrație”, utilizate în aparatul de specialitate al Primarului comunei Golești, Județul Vrancea",
+   "url": "https://emol.ro/golesti-vn/registru-hcl/45851",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/golesti-vn/registru-hcl/45851",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

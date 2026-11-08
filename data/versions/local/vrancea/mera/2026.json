@@ -1,0 +1,516 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/mera/2026",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--mera-1-2026",
+   "path": "local/vrancea/mera/2026/1",
+   "short": "HCL Mera nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 1/2026 privind aprobarea utilizarii excedentului anual al bugetului local rezultat la incheierea exercitiului bugetar al anului 2025",
+   "url": "https://emol.ro/mera-vn/registru-hcl/250750",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/250750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-11-2026",
+   "path": "local/vrancea/mera/2026/11",
+   "short": "HCL Mera nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 11/2026 privind aprobarea Planului de analiză și acoperire a riscurilor din Comuna Mera, județul Vrancea, pentrul anul 2026",
+   "url": "https://emol.ro/mera-vn/registru-hcl/257613",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/257613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-12-2026",
+   "path": "local/vrancea/mera/2026/12",
+   "short": "HCL Mera nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 12/2026 privind aprobarea aderării UAT Comuna Mera, județul Vrancea, ca membru asociat la Organizația de Management al Destinației „Vin în Vrancea”",
+   "url": "https://emol.ro/mera-vn/registru-hcl/257614",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/257614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-13-2026",
+   "path": "local/vrancea/mera/2026/13",
+   "short": "HCL Mera nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 13/2026 privind aprobarea încheierii Acordului de parteneriat între UAT Comuna MERA și Organizația de Management al Destinației ”Vin în Vrancea” în vederea implementării proiectului „ Realizare trasee turistice și amenajare zonă agrement in zona Mănăstirii Mera”, finanțat prin PNRR – Componenta C11, Reforma R1",
+   "url": "https://emol.ro/mera-vn/registru-hcl/257615",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/257615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-2-2026",
+   "path": "local/vrancea/mera/2026/2",
+   "short": "HCL Mera nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 2/2026 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei Mera, judetul Vrancea pe anul 2025",
+   "url": "https://emol.ro/mera-vn/registru-hcl/250751",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/250751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-21-2026",
+   "path": "local/vrancea/mera/2026/21",
+   "short": "HCL Mera nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 21/2026 privind aprobarea Regulamentului privind stabilirea domeniilor de activitate și condițiile în care se pot institui taxele speciale",
+   "url": "https://emol.ro/mera-vn/registru-hcl/259532",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/259532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-22-2026",
+   "path": "local/vrancea/mera/2026/22",
+   "short": "HCL Mera nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 22/2026",
+   "url": "https://emol.ro/mera-vn/registru-hcl/259533",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/259533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-23-2026",
+   "path": "local/vrancea/mera/2026/23",
+   "short": "HCL Mera nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 23/2026 privind instituirea taxei locale pentru utilizarea spațiilor publice pentru amplasarea de echipamente specifice",
+   "url": "https://emol.ro/mera-vn/registru-hcl/259534",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/259534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-29-2026",
+   "path": "local/vrancea/mera/2026/29",
+   "short": "HCL Mera nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 29/2026 privind aprobarea bugetului local și a listei de investiții al comunei Mera pentru anul 2026",
+   "url": "https://emol.ro/mera-vn/registru-hcl/267927",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/267927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-3-2026",
+   "path": "local/vrancea/mera/2026/3",
+   "short": "HCL Mera nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 3/2026 privind aprobarea indicatorilor tehnico-economici privind proiectul tehnic al obiectivului de investitii ,, Înființare sistem centralizat de alimentare cu apa potabilă și canalizare a apelor uzate în comuna Mera, județul Vrancea,,",
+   "url": "https://emol.ro/mera-vn/registru-hcl/250752",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/250752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-31-2026",
+   "path": "local/vrancea/mera/2026/31",
+   "short": "HCL Mera nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 31/2026 privind completarea Hotărârii Consiliului Local nr. 3 din 30.01.2026 privind aprobarea indicatorilor tehnico-economici privind proiectul tehnic al obiectivului de investiții „Înființare sistem centralizat de alimentare cu apa potabilă și canalizare a apelor uzate în comuna Mera, județul Vrancea”",
+   "url": "https://emol.ro/mera-vn/registru-hcl/267929",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/267929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-42-2026",
+   "path": "local/vrancea/mera/2026/42",
+   "short": "HCL Mera nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 42/2026 privind oportunitatea și legalitatea înființării unui drum de exploatare agricolă pe teritoriul administrativ al comunei, precum și declararea de interes local şi includerea în domeniul public al comunei Mera, judeţul Vrancea",
+   "url": "https://emol.ro/mera-vn/registru-hcl/276108",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/276108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-44-2026",
+   "path": "local/vrancea/mera/2026/44",
+   "short": "HCL Mera nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 44/2026 privind modificarea și completarea Hotărârii Consiliului Local al Comunei Mera nr. 89 din 30.10.2025 privind aprobarea implementării proiectului „Achiziție utilaj pentru întreținerea domeniului public al comunei Mera, județul Vrancea”",
+   "url": "https://emol.ro/mera-vn/registru-hcl/278040",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/278040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-45-2026",
+   "path": "local/vrancea/mera/2026/45",
+   "short": "HCL Mera nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 45/2026",
+   "url": "https://emol.ro/mera-vn/registru-hcl/278041",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/278041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-47-2026",
+   "path": "local/vrancea/mera/2026/47",
+   "short": "HCL Mera nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 47/2026 privind achiziționarea a două containere destinate colectării separate a hainelor uzate",
+   "url": "https://emol.ro/mera-vn/registru-hcl/280957",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/280957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-48-2026",
+   "path": "local/vrancea/mera/2026/48",
+   "short": "HCL Mera nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 48/2026 privind rectificarea bugetului local al comunei Mera, județul Vrancea pentru anul 2026",
+   "url": "https://emol.ro/mera-vn/registru-hcl/280958",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/280958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-49-2026",
+   "path": "local/vrancea/mera/2026/49",
+   "short": "HCL Mera nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 49/2026 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei Mera, judetul Vrancea pe semestru I al anului 2026",
+   "url": "https://emol.ro/mera-vn/registru-hcl/280959",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/280959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-51-2026",
+   "path": "local/vrancea/mera/2026/51",
+   "short": "HCL Mera nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 51/2026 privind privind modificarea temei de proiectare aprobate prin Hotărârea Consiliului Local al Comunei Mera nr. 10/2024, precum și aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Refacere și modernizare infrastructură rutieră în comuna Mera, județul Vrancea”",
+   "url": "https://emol.ro/mera-vn/registru-hcl/280961",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/280961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-52-2026",
+   "path": "local/vrancea/mera/2026/52",
+   "short": "HCL Mera nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 52/2026 privind aprobarea Regulamentului propriu privind măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de hotărâri care se înaintează spre adoptare, Consiliului Local Mera",
+   "url": "https://emol.ro/mera-vn/registru-hcl/280962",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/280962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-54-2026",
+   "path": "local/vrancea/mera/2026/54",
+   "short": "HCL Mera nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 54/2026 privind aprobarea înscrierii în cartea funciară a construcției rezultate din investiția „Reabilitare și extindere Școala Gimnazială nr. 1 Vulcăneasa, sat Vulcăneasa, comuna Mera, județul Vrancea\" în domeniul public al comunei Mera și actualizarea inventarului bunurilor care aparțin domeniului public al comunei Mera",
+   "url": "https://emol.ro/mera-vn/registru-hcl/284380",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/284380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-55-2026",
+   "path": "local/vrancea/mera/2026/55",
+   "short": "HCL Mera nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 55/2026 privind aprobarea documentației tehnico-economice, faza documentație de avizare a lucrărilor de intervenții, și a indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizare drumuri locale (străzi) în comuna Mera, județul Vrancea\"",
+   "url": "https://emol.ro/mera-vn/registru-hcl/284381",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/284381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-56-2026",
+   "path": "local/vrancea/mera/2026/56",
+   "short": "HCL Mera nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 56/2026 privind rectificarea bugetului local al comunei Mera, județul Vrancea pentru anul 2026",
+   "url": "https://emol.ro/mera-vn/registru-hcl/284382",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/284382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-59-2026",
+   "path": "local/vrancea/mera/2026/59",
+   "short": "HCL Mera nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 59/2026 privind modificarea Hotărârii Consiliului Local al Comunei Mera nr. 51/2026 privind modificarea temei de proiectare aprobate prin Hotărârea Consiliului Local al Comunei Mera nr. 10/2024, precum și aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Refacere și modernizare infrastructură rutieră în comuna Mera, județul Vrancea”",
+   "url": "https://emol.ro/mera-vn/registru-hcl/287978",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/287978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-6-2026",
+   "path": "local/vrancea/mera/2026/6",
+   "short": "HCL Mera nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 6/2026 privind aprobarea revizuirii Regulamentului de Organizare si Functionare a Consiliului Local al Comunei Mera, judetul Vrancea",
+   "url": "https://emol.ro/mera-vn/registru-hcl/250755",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/250755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-60-2026",
+   "path": "local/vrancea/mera/2026/60",
+   "short": "HCL Mera nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 60/2026 privind modificarea Hotărârii Consiliului Local al Comunei Mera nr. 55/2026 privind aprobarea documentației tehnico-economice, faza documentație de avizare a lucrărilor de intervenții, și a indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizare drumuri locale (străzi) în comuna Mera, județul Vrancea\"",
+   "url": "https://emol.ro/mera-vn/registru-hcl/287979",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/287979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-64-2026",
+   "path": "local/vrancea/mera/2026/64",
+   "short": "HCL Mera nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 64/2026 privind aprobarea documentației tehnice și a indicatorilor tehnico-economici actualizați aferenți restului de executat la obiectivul de investiții „Construire Grădinița cu program normal sat Livada, comuna Mera, județul Vrancea\"",
+   "url": "https://emol.ro/mera-vn/registru-hcl/289388",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/289388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-65-2026",
+   "path": "local/vrancea/mera/2026/65",
+   "short": "HCL Mera nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 65/2026 privind aprobarea documentației tehnice și a indicatorilor tehnico-economici actualizați aferenți restului de executat la obiectivul de investiții „Construire Grădinița nr. 2 Vulcăneasa, sat Vulcăneasa, comuna Mera, județul Vrancea\"",
+   "url": "https://emol.ro/mera-vn/registru-hcl/289389",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/289389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-66-2026",
+   "path": "local/vrancea/mera/2026/66",
+   "short": "HCL Mera nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 66/2026 privind aprobarea documentației tehnice și a indicatorilor tehnico-economici actualizați aferenți restului de executat la obiectivul de investiții „Construire Școala nr. 2 Vulcăneasa, sat Vulcăneasa, comuna Mera, județul Vrancea\"",
+   "url": "https://emol.ro/mera-vn/registru-hcl/289390",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/289390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-67-2026",
+   "path": "local/vrancea/mera/2026/67",
+   "short": "HCL Mera nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 67/2026 privind aprobarea documentației tehnice și a indicatorilor tehnico-economici actualizați aferenți restului de executat la obiectivul de investiții „Construire Școala primară Livada, sat Livada, comuna Mera, județul Vrancea\"",
+   "url": "https://emol.ro/mera-vn/registru-hcl/289391",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/289391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-68-2026",
+   "path": "local/vrancea/mera/2026/68",
+   "short": "HCL Mera nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 68/2026 privind rectificarea bugetului local al comunei Mera, județul Vrancea pentru anul 2026",
+   "url": "https://emol.ro/mera-vn/registru-hcl/289392",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/289392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-69-2026",
+   "path": "local/vrancea/mera/2026/69",
+   "short": "HCL Mera nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 69/2026 privind aprobarea documentației tehnice - faza proiect tehnic de execuție pentru obiectivul de investiții „Eficientizarea sistemului de iluminat public în comuna Mera, județul Vrancea”",
+   "url": "https://emol.ro/mera-vn/registru-hcl/289393",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/289393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-7-2026",
+   "path": "local/vrancea/mera/2026/7",
+   "short": "HCL Mera nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 7/2026 privind aprobarea strategiei anuale si a planului anual de achizitii publice a Comunei Mera, pe anul 2026",
+   "url": "https://emol.ro/mera-vn/registru-hcl/250756",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/250756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-70-2026",
+   "path": "local/vrancea/mera/2026/70",
+   "short": "HCL Mera nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 70/2026 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „INSTALATIE FOTOVOLTAICĂ CU STOCARE - MERA”",
+   "url": "https://emol.ro/mera-vn/registru-hcl/289394",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/289394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--mera-71-2026",
+   "path": "local/vrancea/mera/2026/71",
+   "short": "HCL Mera nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mera nr. 71/2026 privind aprobarea depunerii și implementării proiectului „INSTALATIE FOTOVOLTAICĂ CU STOCARE - MERA” și a cheltuielilor aferente acestuia",
+   "url": "https://emol.ro/mera-vn/registru-hcl/289395",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mera-vn/registru-hcl/289395",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

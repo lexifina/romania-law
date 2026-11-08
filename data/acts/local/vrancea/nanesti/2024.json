@@ -1,0 +1,248 @@
+{
+"country": "RO",
+"shard": "local/vrancea/nanesti/2024",
+"acts": [
+{
+"slug": "hcl-vrancea--nanesti-3-2024",
+"path": "local/vrancea/nanesti/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nănești nr. 3/2024 privind aprobarea actualizării Regulamentului de organizare și funcționare a Serviciului de salubritate în subordinea Consiliului Local Nănești, județul Vrancea",
+"short": "HCL Nănești nr. 3/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/nanesti-vn/registru-hcl/143068",
+"council": "vrancea/nanesti",
+"council_name": "Consiliul Local al Comunei Nănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--nanesti-20-2024",
+"path": "local/vrancea/nanesti/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nănești nr. 20/2024 privind aprobarea Planului de analiză și acoperire a riscurilor în domeniul situațiilor de urgență, la nivelul comunei Nănești, județul Vrancea, pe anul 2024",
+"short": "HCL Nănești nr. 20/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/nanesti-vn/registru-hcl/158462",
+"council": "vrancea/nanesti",
+"council_name": "Consiliul Local al Comunei Nănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--nanesti-21-2024",
+"path": "local/vrancea/nanesti/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nănești nr. 21/2024 privind aprobarea execuției bugetului local de venituri proprii și subvenții al comunei Nănești, pe trimestrul I anul 2024 pe cele două secțiuni: secțiunea de funcționare și secțiunea de dezvoltare",
+"short": "HCL Nănești nr. 21/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/nanesti-vn/registru-hcl/158463",
+"council": "vrancea/nanesti",
+"council_name": "Consiliul Local al Comunei Nănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--nanesti-23-2024",
+"path": "local/vrancea/nanesti/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nănești nr. 23/2024 privind aprobarea delegării gestiunii prin concesiune a Serviciului pentru gestionarea câinilor fără stăpân din comuna Nănești, județul Vrancea",
+"short": "HCL Nănești nr. 23/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/nanesti-vn/registru-hcl/166438",
+"council": "vrancea/nanesti",
+"council_name": "Consiliul Local al Comunei Nănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--nanesti-24-2024",
+"path": "local/vrancea/nanesti/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nănești nr. 24/2024 privind aprobarea modificării organigramei și a statului de funcții al aparatului de specialitate al primarului comunei Nănești, județul Vrancea",
+"short": "HCL Nănești nr. 24/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/nanesti-vn/registru-hcl/166439",
+"council": "vrancea/nanesti",
+"council_name": "Consiliul Local al Comunei Nănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--nanesti-28-2024",
+"path": "local/vrancea/nanesti/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nănești nr. 28/2024 privind aprobarea actualizării indicatorilor tehnico-economici tehnico-economici ai obiectivului de investiții ''Construire capacitate de producție energie electrică din surse regenerabile pentru consumul propriu în Comuna Nănești, județul Vrancea''",
+"short": "HCL Nănești nr. 28/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/nanesti-vn/registru-hcl/166443",
+"council": "vrancea/nanesti",
+"council_name": "Consiliul Local al Comunei Nănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--nanesti-32-2024",
+"path": "local/vrancea/nanesti/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nănești nr. 32/2024 privind aprobarea execuției bugetului local și al bugetului de venituri proprii și subvenții al comunei Nănești, pe trimestrul II anul 2024 pe cele două secțiuni: secțiunea de funcționare și secțiunea de dezvoltare",
+"short": "HCL Nănești nr. 32/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/nanesti-vn/registru-hcl/166523",
+"council": "vrancea/nanesti",
+"council_name": "Consiliul Local al Comunei Nănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--nanesti-34-2024",
+"path": "local/vrancea/nanesti/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nănești nr. 34/2024 privind aprobarea rectificării bugetului local al comunei Nănești și a listei de investiții, pe anul 2024",
+"short": "HCL Nănești nr. 34/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/nanesti-vn/registru-hcl/166525",
+"council": "vrancea/nanesti",
+"council_name": "Consiliul Local al Comunei Nănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--nanesti-35-2024",
+"path": "local/vrancea/nanesti/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nănești nr. 35/2024 privind aprobarea acordării unei subvenții din bugetul local în vederea achitării prestațiilor efectuate de operatorul serviciilor de salubrizare în beneficiul comunității și pentru persoanele scutite de taxa specială de salubritate în anul 2024",
+"short": "HCL Nănești nr. 35/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://emol.ro/nanesti-vn/registru-hcl/173445",
+"council": "vrancea/nanesti",
+"council_name": "Consiliul Local al Comunei Nănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--nanesti-38-2024",
+"path": "local/vrancea/nanesti/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nănești nr. 38/2024 privind instituirea unor măsuri fiscal-bugetare în domeniul gestionării creanțelor bugetare și aprobarea procedurii de anulare a dobânzilor, penalităților și toate accesoriile aferente obligațiilor bugetare principale restante la data de 31august 2024 inclusiv",
+"short": "HCL Nănești nr. 38/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://emol.ro/nanesti-vn/registru-hcl/173477",
+"council": "vrancea/nanesti",
+"council_name": "Consiliul Local al Comunei Nănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--nanesti-41-2024",
+"path": "local/vrancea/nanesti/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nănești nr. 41/2024 privind aprobarea actualizării indicatorilor tehnico-economici ai obiectivului de investiții ''Construire capacitate de producție energie electrică din surse regenerabile pentru consumul propriu în comuna Nănești, județul Vrancea''",
+"short": "HCL Nănești nr. 41/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://emol.ro/nanesti-vn/registru-hcl/173480",
+"council": "vrancea/nanesti",
+"council_name": "Consiliul Local al Comunei Nănești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

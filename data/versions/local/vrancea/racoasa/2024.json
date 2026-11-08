@@ -1,0 +1,501 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/racoasa/2024",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--racoasa-1-2024",
+   "path": "local/vrancea/racoasa/2024/1",
+   "short": "HCL Răcoasa nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 1/2024 privind aprobarea reţelei şcolare în comuna Răcoasa, judeţul Vrancea pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/151422",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/151422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-11-2024",
+   "path": "local/vrancea/racoasa/2024/11",
+   "short": "HCL Răcoasa nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 11/2024 privind aprobarea bugetului local de venituri si cheltuieli al comunei Racoasa, judetul Vrancea pe anul 2024, precum si a listei de investii",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/151432",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/151432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-12-2024",
+   "path": "local/vrancea/racoasa/2024/12",
+   "short": "HCL Răcoasa nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 12/2024 privind aprobarea obiectivului de investiției, ” RACORDAREA LA PUȚURI FORATE CU REȚEAUA DE DISTRIBUȚIE COMUNA RĂCOASA, JUDEȚUL VRANCEA “ și a indicatorilor economici",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/151440",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/151440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-13-2024",
+   "path": "local/vrancea/racoasa/2024/13",
+   "short": "HCL Răcoasa nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 13/2024 privind aprobarea planului pentru asigurarea resurselor umane,materiale si financiare necesare gestionarii situatilor de urgenta pe anul 2024",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/151441",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/151441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-14-2024",
+   "path": "local/vrancea/racoasa/2024/14",
+   "short": "HCL Răcoasa nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 14/2024 privind aprobarea regulamentului privind decontarea cheltuielilor de transport pentru funcționarii publici și personalul contractual din aparatul de specialitate al primarului comunei Răcoasa, județul Vrancea",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/151442",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/151442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-15-2024",
+   "path": "local/vrancea/racoasa/2024/15",
+   "short": "HCL Răcoasa nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 15/2024 privind aprobarea executiei bugetului local al comunei Racoasa,judetul Vrancea la partea de venituri si partea de cheltuieli pe trimestrul I/2024",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183060",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-16-2024",
+   "path": "local/vrancea/racoasa/2024/16",
+   "short": "HCL Răcoasa nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 16/2024 privind aprobarea indexării impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2025",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183061",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-17-2024",
+   "path": "local/vrancea/racoasa/2024/17",
+   "short": "HCL Răcoasa nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 17/2024 privind aprobarea devizului general, caracteristicile principale si indicatorii tehnico-economici, faza proiect tehnic, pentru obiectivul de investiție, ” MODERNIZARE DRUMURI COMUNALE, ÎN COMUNA RĂCOASA, JUDEȚUL VRANCEA “ propus si aprobat în cadrul Programului Naţional de Investiţii Anghel Saligny",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183062",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-19-2024",
+   "path": "local/vrancea/racoasa/2024/19",
+   "short": "HCL Răcoasa nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 19/2024 privind aprobarea dezmembrării unui teren din domeniul public al comunei Răcoasa, județul Vrancea, situat în extravilan, în două loturi distincte",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183064",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-2-2024",
+   "path": "local/vrancea/racoasa/2024/2",
+   "short": "HCL Răcoasa nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 2/2024 privind aprobarea modificărilor bugetare stabilite prin Dispozitia primarului nr.238/21.12.2023 privind rectificarea bugetului local al comunei Răcoasa, județul Vrancea pe anul 2023",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/151423",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/151423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-20-2024",
+   "path": "local/vrancea/racoasa/2024/20",
+   "short": "HCL Răcoasa nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 20/2024 privind aprobarea obiectivului de investiții, “ CONSTRUIRE SEDIU ADMNISTRATIV PRIMĂRIE ÎN COMUNA RĂCOASA, JUDEȚUL VRANCEA ” și a indicatorilor economici",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183065",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-23-2024",
+   "path": "local/vrancea/racoasa/2024/23",
+   "short": "HCL Răcoasa nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 23/2024 privind aprobarea executiei bugetului local al comunei Racoasa, judetul Vrancea la partea de venituri si partea de cheltuieli pe trimestrul II/2024",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183146",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-24-2024",
+   "path": "local/vrancea/racoasa/2024/24",
+   "short": "HCL Răcoasa nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 24/2024 privind aprobarea virării de credite bugetare de la un capitol la alt capitol al clasificaţiei bugetare",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183147",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-27-2024",
+   "path": "local/vrancea/racoasa/2024/27",
+   "short": "HCL Răcoasa nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 27/2024 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Răcoasa, județul Vrancea aprobarea organigramei aprobarea și a statului de functii în conformitate cu Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilităţii financiare a României pe termen lung",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183150",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-28-2024",
+   "path": "local/vrancea/racoasa/2024/28",
+   "short": "HCL Răcoasa nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 28/2024 privind aprobarea proiectului tehnic (P.Th.), devizului general conform anexa 2.1, indicatorilor tehnico-economici conform anexa nr.3(2.2.c) si a cofinantarii pentru obiectivul de investiție, ”MODERNIZARE DRUMURI COMUNALE, ÎN COMUNA RĂCOASA, JUDEȚUL VRANCEA “ propus si aprobat în cadrul Programului Naţional de Investiţii Anghel Saligny",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183151",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-29-2024",
+   "path": "local/vrancea/racoasa/2024/29",
+   "short": "HCL Răcoasa nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 29/2024 privind înființarea Organizației de Management al Destinației „Ținutului Vrancei” în vederea accesării de fonduri europene nerambursabile",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183152",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-3-2024",
+   "path": "local/vrancea/racoasa/2024/3",
+   "short": "HCL Răcoasa nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 3/2024 privind aprobarea modificărilor bugetare stabilite prin Dispozitia primarului nr.1/2024- acoperirea definitivă a deficitului sectiunii de dezvoltare (sursa A) a bugetului local al comunei Răcoasa,județul Vrancea, pe anul 2023, din excedentul anilor anteriori",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/151424",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/151424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-30-2024",
+   "path": "local/vrancea/racoasa/2024/30",
+   "short": "HCL Răcoasa nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 30/2024 privind aprobarea schimbării destinaţiei imobilului, ”CENTRU DE INGRIJIRE DE ZI PENTRU COPIII AFLATI IN SITUATII DE RISC” din comuna Răcoasa, satul Răcoasa, județul Vrancea în ”CENTRU DE ASITENȚĂ MEDICALĂ”",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183173",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-31-2024",
+   "path": "local/vrancea/racoasa/2024/31",
+   "short": "HCL Răcoasa nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 31/2024 privind anularea accesoriilor aferente obligaţiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183174",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-35-2024",
+   "path": "local/vrancea/racoasa/2024/35",
+   "short": "HCL Răcoasa nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 35/2024 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, pentru anul 2025",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183408",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-36-2024",
+   "path": "local/vrancea/racoasa/2024/36",
+   "short": "HCL Răcoasa nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 36/2024 privind aprobarea executiei bugetului local al comunei Racoasa, judetul Vrancea la partea de venituri si partea de cheltuieli pe trimestrul III/2024",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183409",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-4-2024",
+   "path": "local/vrancea/racoasa/2024/4",
+   "short": "HCL Răcoasa nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 4/2024 privind aprobarea utilizarii sumelor din excedentul bugetului local din anii precedenți, pentru sectiunea de dezvoltare, sursa A, a bugetului local al comunei Răcoasa, județul Vrancea, pe anul 2024",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/151425",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/151425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-41-2024",
+   "path": "local/vrancea/racoasa/2024/41",
+   "short": "HCL Răcoasa nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 41/2024 privind aprobarea reţelei şcolare în comuna Răcoasa, judeţul Vrancea pentru anul şcolar 2025-2026",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183414",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-42-2024",
+   "path": "local/vrancea/racoasa/2024/42",
+   "short": "HCL Răcoasa nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 42/2024 privind rectificarea bugetului local al comunei Răcoasa, judetul Vrancea pe anul 2024 și aprobarea modificărilor bugetare stabilite prin Dispozitia primarului nr. 112/2024 și 120/2024 privind rectificarea bugetului local al comunei Răcoasa, judetul Vrancea pe anul 2024",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/183415",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/183415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-43-2024",
+   "path": "local/vrancea/racoasa/2024/43",
+   "short": "HCL Răcoasa nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 43/2024 privind aprobarea executiei bugetului local al comunei Racoasa, judetul Vrancea la partea de venituri si partea de cheltuieli pe trimestrul IV/2024",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/186011",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/186011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-44-2024",
+   "path": "local/vrancea/racoasa/2024/44",
+   "short": "HCL Răcoasa nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 44/2024 privind rectificarea bugetului local al comunei Răcoasa, judetul Vrancea pe anul 2024",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/186012",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/186012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-45-2024",
+   "path": "local/vrancea/racoasa/2024/45",
+   "short": "HCL Răcoasa nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 45/2024 privind aprobarea achiziției imobilului (teren arabil în suprafata de 1352 mp din tarlaua nr. 28, parcela nr. 668, 689, teren curți construcții în suprafață de 600 mp din tarlaua nr. 28, parcela nr. 687, constructie C1-casă de locuit în suprafață de 84 mp și constructie C2 - anexă în suprafață de 63 mp ) din intravilanul satului Răcoasa, comuna Răcoasa, înscris în Cartea funciară la nr. 52709",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/186013",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/186013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-46-2024",
+   "path": "local/vrancea/racoasa/2024/46",
+   "short": "HCL Răcoasa nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 46/2024 privind aprobarea planului de actiuni/lucrari de interes local pe anul 2025 ce vor fi executate de către persoanele apte de muncă beneficiare de ajutor de incluziune, conform Legii 196/2016",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/186014",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/186014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-47-2024",
+   "path": "local/vrancea/racoasa/2024/47",
+   "short": "HCL Răcoasa nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 47/2024 privind alocarea sumei de 20.000 lei necesară organizarii “Serbării pomului de Crăciun”",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/186015",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/186015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-5-2024",
+   "path": "local/vrancea/racoasa/2024/5",
+   "short": "HCL Răcoasa nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 5/2024 privind aprobarea utilizării sumelor din excedentul bugetului Serviciului public de alimentare cu apa din anii precedenți, pentru secțiunea de funcționare, sursa G, a bugetului Serviciului public de alimentare cu apa pe anul 2024",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/151426",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/151426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-6-2024",
+   "path": "local/vrancea/racoasa/2024/6",
+   "short": "HCL Răcoasa nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 6/2024 privind aprobarea contului de încheiere a exercițiului bugetar al bugetului local pe anul 2023 la comuna Răcoasa, județul Vrancea",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/151427",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/151427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-7-2024",
+   "path": "local/vrancea/racoasa/2024/7",
+   "short": "HCL Răcoasa nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 7/2024 privind aprobarea participării UAT Răcoasa, județul Vrancea, ca membru fondator al organizației non-guvernamentale ”ASOCIAȚIA PENTRU DEZVOLTARE TERITORIALĂ INTEGRATĂ ȚARA VRANCEI” alături de alte unități administrativ-teritoriale, instituții și organizații neguvernamentale",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/151428",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/151428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--racoasa-8-2024",
+   "path": "local/vrancea/racoasa/2024/8",
+   "short": "HCL Răcoasa nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răcoasa nr. 8/2024 privind aprobarea bugetului de venituri si cheltuieli al “Serviciul Public de Alimentare cu Apă”, cu personalitate juridică, înființat și organizat în subordinea Consiliului Local al comunei Racoasa, judetul Vrancea, pe anul 2024",
+   "url": "https://emol.ro/racoasa-vn/registru-hcl/151429",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/racoasa-vn/registru-hcl/151429",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

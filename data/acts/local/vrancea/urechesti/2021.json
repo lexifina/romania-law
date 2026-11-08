@@ -337,6 +337,50 @@
 }
 },
 {
+"slug": "hcl-vrancea--urechesti-43-2021",
+"path": "local/vrancea/urechesti/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 43/2021 aprobarea executiei bugetului local al comunei si a executiei bugetului institutiilor publice si activitatilor finantate integral sau partial din venituri proprii pe trimestrul III al anului 2021",
+"short": "HCL Urechești nr. 43/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#6326",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-44-2021",
+"path": "local/vrancea/urechesti/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 44/2021 Rectificarea bugetului local al comunei pe anul 2021",
+"short": "HCL Urechești nr. 44/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#6327",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--urechesti-45-2021",
 "path": "local/vrancea/urechesti/2021/45",
 "kind": "local",
@@ -356,6 +400,116 @@
 "council_name": "Consiliul Local al Comunei Urechești",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-46-2021",
+"path": "local/vrancea/urechesti/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 46/2021 aprobarea planului de actiuni si de lucrari de interes local pentru repartizarea orelor de munca pe care trebuie sa le presteze in anul 2022 beneficiarii de ajutor social conform Legii nr. 416/2001 privind venitul minim garantat",
+"short": "HCL Urechești nr. 46/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#6330",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-47-2021",
+"path": "local/vrancea/urechesti/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 47/2021 stabilirea impozitelor și taxelor locale pe anul 2022 la vehiculele de 12 tone sau peste 12 prevăzute la art. 470 alin. (5) și (6) din Legea 227/2015 privind Codul Fiscal, prin indexarea anuală în funcție de rata de schimb a monedei euro în vigoare în prima zi lucrătoare a lunii octombrie a fiecărui an și publicată în Jurnalul Uniunii Europene și de nivelurile minime prevăzute în Directiva 1999/62/CE de aplicare la vehiculele grele de marfă pentru utilizarea anumitor infrastructuri",
+"short": "HCL Urechești nr. 47/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#6329",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-48-2021",
+"path": "local/vrancea/urechesti/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 48/2021 aprobarea Notei conceptuale şi a Temei de proiectare pentru obiectivul de investiţii ,,Modernizare infrastructura rutiera în comuna Urechești, Județul Vrancea’’",
+"short": "HCL Urechești nr. 48/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-03",
+"latest": "2021-11-03",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#7610",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-49-2021",
+"path": "local/vrancea/urechesti/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 49/2021 aprobarea devizului general și a cererii de finanțare pentru obiectivul de investiţii ”Modernizare infrastructură rutieră în comuna Urechești județul Vrancea” în cadrul Programului Național de Investiții ”Anghel Saligny”",
+"short": "HCL Urechești nr. 49/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-03",
+"latest": "2021-11-03",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#7613",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-50-2021",
+"path": "local/vrancea/urechesti/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 50/2021 inlocuirea anexei 1 la Hotararea Consiliului Local al comunei Urechesti nr. 30/26.07.2017 privind aprobarea salariilor de bază aferente funcțiilor din cadrul familiei ocupaționale ”Administrație”, utilizate în aparatul de specialitate al Primarului comunei Urechesti, Județul Vrancea",
+"short": "HCL Urechești nr. 50/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#8169",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"text_pending": "source"
 }
 },
 {

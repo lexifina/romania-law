@@ -1,0 +1,516 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/jaristea/2026",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--jaristea-1-2026",
+   "path": "local/vrancea/jaristea/2026/1",
+   "short": "HCL Jariștea nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 1/2026 privind utilizarea excedentului bugetar al anilor precedenți, pentru acoperirea temporară a golurilor de casă provenite din decalajele între veniturile și cheltuielile secțiunii de funcționare în anul 2026",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/249659",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/249659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-13-2026",
+   "path": "local/vrancea/jaristea/2026/13",
+   "short": "HCL Jariștea nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 13/2026 privind aprobarea actualizării Planului de Analiză și Acoperire a Riscurilor în domeniul situațiilor de urgență, la nivelul comunei Jariștea, județul Vrancea",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/256650",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/256650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-15-2026",
+   "path": "local/vrancea/jaristea/2026/15",
+   "short": "HCL Jariștea nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 15/2026 privind aprobarea Strategiei de Dezvoltare Locală a Comunei Jariștea, județul Vrancea, pentru perioada 2025-2030",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/256652",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/256652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-2-2026",
+   "path": "local/vrancea/jaristea/2026/2",
+   "short": "HCL Jariștea nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 2/2026 privind însuşirea analizei stadiului de înscriere a datelor în registrul agricol pe trimestrul IV al anului 2025 şi aprobarea programului de măsuri pentru eficientizarea înscrierii datelor în registrul agricol la nivelul UAT comuna Jariștea, judeţul Vrancea",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/249660",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/249660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-24-2026",
+   "path": "local/vrancea/jaristea/2026/24",
+   "short": "HCL Jariștea nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 24/2026 privind aprobarea acordului de principiu pentru realizarea obiectivului de investiții „Achiziția și instalarea de sisteme de stocare a energiei” și demararea procedurilor de contractare a serviciilor aferente, în cadrul Programului-cheie 1: Surse regenerabile de energie și stocarea energiei – Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru entități publice",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/259056",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/259056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-25-2026",
+   "path": "local/vrancea/jaristea/2026/25",
+   "short": "HCL Jariștea nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 25/2026 privind utilizarea excedentului bugetar al anilor precedenți, pentru pentru finanțarea cheltuielilor secțiunii de dezvoltare",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/259057",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/259057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-26-2026",
+   "path": "local/vrancea/jaristea/2026/26",
+   "short": "HCL Jariștea nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 26/2026 privind declararea de uz și interes public local și includerea în inventarul public al comunei Jariștea, județul Vrancea, a unor bunuri imobile",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/259058",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/259058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-30-2026",
+   "path": "local/vrancea/jaristea/2026/30",
+   "short": "HCL Jariștea nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 30/2026 privind însuşirea analizei stadiului de înscriere a datelor în registrul agricol pe trimestrul I al anului 2026 şi aprobarea programului de măsuri pentru eficientizarea înscrierii datelor în registrul agricol la nivelul UAT comuna Jariștea, judeţul Vrancea",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/265276",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/265276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-31-2026",
+   "path": "local/vrancea/jaristea/2026/31",
+   "short": "HCL Jariștea nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 31/2026 privind aprobarea execuţiei bugetului local al comunei comunei Jariştea, judeţul Vrancea pentru anul 2026 – secţiunea de funcţionare şi dezvoltare, pentru Trimestrul I al anului 2026",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/265277",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/265277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-32-2026",
+   "path": "local/vrancea/jaristea/2026/32",
+   "short": "HCL Jariștea nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 32/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local al comunei Jariștea, județul Vrancea pentru anul 2026",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/265278",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/265278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-36-2026",
+   "path": "local/vrancea/jaristea/2026/36",
+   "short": "HCL Jariștea nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 36/2026 privind aprobarea acordului de principiu privind participarea la inițiativa Investiții Teritoriale Integrate (ITI) Buzău-Vrancea, precum și susținerea constituirii și participării la viitoarea Asociație de Dezvoltare Intercomunitară (ADI)",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/265282",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/265282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-37-2026",
+   "path": "local/vrancea/jaristea/2026/37",
+   "short": "HCL Jariștea nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 37/2026 privind aprobarea bugetului local al comunei Jariştea, judeţul Vrancea – secţiunea de funcţionare şi secţiunea de dezvoltare, pentru anul 2026",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/266913",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/266913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-38-2026",
+   "path": "local/vrancea/jaristea/2026/38",
+   "short": "HCL Jariștea nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 38/2026 privind aprobarea utilizării fondului de rezervă bugetară constituit în cadrul bugetului local al comunei Jariştea, judeţul Vrancea pentru anul 2026",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/266914",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/266914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-39-2026",
+   "path": "local/vrancea/jaristea/2026/39",
+   "short": "HCL Jariștea nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 39/2026 privind aprobarea utilizării excedentului bugetar al anilor precedenți, pentru finanțarea cheltuielilor secțiunii de dezvoltare",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/266915",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/266915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-4-2026",
+   "path": "local/vrancea/jaristea/2026/4",
+   "short": "HCL Jariștea nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 4/2026 privind aprobarea programului de acțiuni comunitare pentru anul 2026",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/249662",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/249662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-40-2026",
+   "path": "local/vrancea/jaristea/2026/40",
+   "short": "HCL Jariștea nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 40/2026 privind aprobarea actualizării indicatorilor tehnico-economici și Devizului general după încheierea Contractului de execuție pentru obiectivul de investiții ,,Modernizare străzi în satele componente ale comunei Jariștea, județul Vrancea” în cadrul Programului Național de Investiții \"Anghel Saligny\"",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/266916",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/266916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-42-2026",
+   "path": "local/vrancea/jaristea/2026/42",
+   "short": "HCL Jariștea nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 42/2026 privind aprobarea Planului anual de acțiune privind asistența medicală comunitară pe anul 2026",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/269381",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/269381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-46-2026",
+   "path": "local/vrancea/jaristea/2026/46",
+   "short": "HCL Jariștea nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 46/2026 privind aprobarea alocării din bugetul local al comunei Jariştea, judeţul Vrancea, pentru anul 2026, a sumei de 20.000 lei în vederea desfășurării în bune condiții a activităților preşcolarilor şi elevilor înscrişi la grădiniţele şi şcolile din comuna Jariştea, judeţul Vrancea, cu ocazia Zilei copilului - 1 iunie 2026 și a Înălțării Domnului - Ziua Eroilor - 21 mai 2026",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/269385",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/269385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-57-2026",
+   "path": "local/vrancea/jaristea/2026/57",
+   "short": "HCL Jariștea nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 57/2026 privind aprobarea transformării unei funcții publice din Organigrama și Statul de funcții al aparatului de specialitate al primarului comunei Jariștea, județul Vrancea",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/274631",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/274631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-61-2026",
+   "path": "local/vrancea/jaristea/2026/61",
+   "short": "HCL Jariștea nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 61/2026 privind aprobarea execuţiei bugetului local al comunei comunei Jariştea, judeţul Vrancea pentru anul 2026 – secţiunea de funcţionare şi dezvoltare, pentru Trimestrul II al anului 2026",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/278824",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/278824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-62-2026",
+   "path": "local/vrancea/jaristea/2026/62",
+   "short": "HCL Jariștea nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 62/2026 privind aprobarea utilizării excedentului bugetar al anilor precedenți, pentru finanțarea cheltuielilor secțiunii de dezvoltare",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/278825",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/278825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-63-2026",
+   "path": "local/vrancea/jaristea/2026/63",
+   "short": "HCL Jariștea nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 63/2026 privind rectificarea bugetului local al comunei Jariștea, județul Vrancea pe anul 2026",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/278826",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/278826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-66-2026",
+   "path": "local/vrancea/jaristea/2026/66",
+   "short": "HCL Jariștea nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 66/2026 privind însuşirea analizei stadiului de înscriere a datelor în registrul agricol pe trimestrul II al anului 2026 şi aprobarea programului de măsuri pentru eficientizarea înscrierii datelor în registrul agricol la nivelul UAT comuna Jariștea, judeţul Vrancea",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/278829",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/278829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-7-2026",
+   "path": "local/vrancea/jaristea/2026/7",
+   "short": "HCL Jariștea nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 7/2026 privind aprobarea trecerii din domeniul public în domeniul privat al comunei Jariștea, județul Vrancea a imobilului curți-construcții în suprafaţă de 645 mp, situat în comuna Jariștea, județul Vrancea, T. 151/1, P. 891/1, număr cadastral 58832",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/249665",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/249665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-70-2026",
+   "path": "local/vrancea/jaristea/2026/70",
+   "short": "HCL Jariștea nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 70/2026 privind rectificarea bugetului local al comunei Jariștea, județul Vrancea pe anul 2026",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/284837",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/284837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-73-2026",
+   "path": "local/vrancea/jaristea/2026/73",
+   "short": "HCL Jariștea nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 73/2026 privind aprobarea utilizării în anul 2026 a excedentului anual al bugetului local al comunei Jariştea, judeţul Vrancea rezultat la încheierea exerciţiului bugetar al anului 2025",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/286204",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/286204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-74-2026",
+   "path": "local/vrancea/jaristea/2026/74",
+   "short": "HCL Jariștea nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 74/2026 privind rectificarea bugetului local al comunei Jariștea, județul Vrancea pe anul 2026",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/286205",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/286205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-76-2026",
+   "path": "local/vrancea/jaristea/2026/76",
+   "short": "HCL Jariștea nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 76/2026 privind aprobarea documentației de dezmembrare a unui imobil aflat în domeniul public al comunei Jariștea, județul Vrancea, înscris în Cartea Funciară nr. 55687 Jariștea",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/289774",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/289774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-79-2026",
+   "path": "local/vrancea/jaristea/2026/79",
+   "short": "HCL Jariștea nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 79/2026 privind însușirea documentației cadastrale aferente imobilului situat în Tarlaua 13, Parcela 217 din sat Scînteia, comuna Jariștea, județul Vrancea",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/289777",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/289777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-8-2026",
+   "path": "local/vrancea/jaristea/2026/8",
+   "short": "HCL Jariștea nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 8/2026 privind declararea unor bunuri ca aparținând domeniului privat al comunei Jariștea, județul Vrancea",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/249666",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/249666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-87-2026",
+   "path": "local/vrancea/jaristea/2026/87",
+   "short": "HCL Jariștea nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 87/2026 privind aprobarea Regulamentului de Organizare și Funcționare al Compartimentului de Asistență Socială al comunei Jariștea, județul Vrancea",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/291365",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/291365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-88-2026",
+   "path": "local/vrancea/jaristea/2026/88",
+   "short": "HCL Jariștea nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 88/2026 privind validarea Dispoziției primarului comunei Jariștea, județul Vrancea nr. 195/21.09.2026 privind rectificarea bugetului local al comunei Jariștea, județul Vrancea pe anul 2026, prin virare de credite de la un articol la altul în cadrul aceluiași capitol",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/291366",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/291366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-91-2026",
+   "path": "local/vrancea/jaristea/2026/91",
+   "short": "HCL Jariștea nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 91/2026 privind rectificarea bugetului local al comunei Jariștea, județul Vrancea pe anul 2026",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/294211",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/294211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--jaristea-92-2026",
+   "path": "local/vrancea/jaristea/2026/92",
+   "short": "HCL Jariștea nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Jariștea nr. 92/2026 privind aprobarea execuţiei bugetului local al comunei comunei Jariştea, judeţul Vrancea pentru anul 2026 – secţiunea de funcţionare şi dezvoltare, pentru Trimestrul III al anului 2026",
+   "url": "https://emol.ro/jaristea-vn/registru-hcl/294212",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/jaristea-vn/registru-hcl/294212",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

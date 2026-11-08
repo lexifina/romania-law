@@ -1,0 +1,248 @@
+{
+"country": "RO",
+"shard": "local/vrancea/vulturu/2024",
+"acts": [
+{
+"slug": "hcl-vrancea--vulturu-1-2024",
+"path": "local/vrancea/vulturu/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 1/2024 privind aprobarea organizării reţelei şcolare a unităţilor de învătământ de stat preuniversitar din comuna Vulturu, judeţul Vrancea, pentru anul 2024-2025",
+"short": "HCL Vulturu nr. 1/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-18",
+"latest": "2024-01-18",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/137496",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-2-2024",
+"path": "local/vrancea/vulturu/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 2/2024 privind aprobarea acoperiririi definitive a deficitului secțiunii de dezvoltare a bugetului local al comunei Vulturu,județul Vrancea , pe anul 2023,din excedentul bugetului local",
+"short": "HCL Vulturu nr. 2/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-18",
+"latest": "2024-01-18",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/137497",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-3-2024",
+"path": "local/vrancea/vulturu/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 3/2024 privind: aprobarea bugetului local al comunei Vulturu, judeţul Vrancea pentru anul 2024",
+"short": "HCL Vulturu nr. 3/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-21",
+"latest": "2024-02-21",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/143091",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-13-2024",
+"path": "local/vrancea/vulturu/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 13/2024 privind: aprobarea planului de actiuni / lucrari de interes local pe anul 2024 ce vor fi executate de către persoanele apte de muncă beneficiare de ajutor de incluziune, conform Legii 196/2016",
+"short": "HCL Vulturu nr. 13/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-21",
+"latest": "2024-02-21",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/143101",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-18-2024",
+"path": "local/vrancea/vulturu/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 18/2024 privind: completarea bugetului local al comunei Vulturu, judeţul Vrancea pentru anul 2024 cu cheltuielile prevăzute la art.139 alin.2 lit.b)-c) din Legea învățământului preuniversitar nr.198/2023, cu modificările și completările ulterioare",
+"short": "HCL Vulturu nr. 18/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/144091",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-19-2024",
+"path": "local/vrancea/vulturu/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 19/2024 privind aprobarea și actualizarea Planului de Analiză și Acoperire a Riscurilor al comunei Vulturu, județul Vrancea",
+"short": "HCL Vulturu nr. 19/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-19",
+"latest": "2024-03-19",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/145755",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-94-2024",
+"path": "local/vrancea/vulturu/2024/94",
+"kind": "local",
+"year": "2024",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 94/2024 privind aprobarea Regulamentului de organizare şi funcţionare a Consiliului Local al comunei Vulturu, județul Vrancea",
+"short": "HCL Vulturu nr. 94/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/175313",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-103-2024",
+"path": "local/vrancea/vulturu/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 103/2024 privind aprobarea organizării reţelei şcolare a unităţilor de învătământ de stat preuniversitar din comuna Vulturu, judeţul Vrancea, pentru anul 2025-2026",
+"short": "HCL Vulturu nr. 103/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/179387",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-106-2024",
+"path": "local/vrancea/vulturu/2024/106",
+"kind": "local",
+"year": "2024",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 106/2024 privind acordarea unor facilități fiscale aferente obligațiilor bugetare datorate bugetului local al Comunei Vulturu, județul Vrancea",
+"short": "HCL Vulturu nr. 106/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/179390",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-107-2024",
+"path": "local/vrancea/vulturu/2024/107",
+"kind": "local",
+"year": "2024",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 107/2024 privind: stabilirea impozitelor si taxelor locale pentru anul fiscal 2025",
+"short": "HCL Vulturu nr. 107/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/179391",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vulturu-124-2024",
+"path": "local/vrancea/vulturu/2024/124",
+"kind": "local",
+"year": "2024",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturu nr. 124/2024 privind aprobarea Strategiei anuale de achiziții publice a comunei Vulturu, județul Vrancea pentru anul 2025",
+"short": "HCL Vulturu nr. 124/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/vulturu-vn/registru-hcl/185380",
+"council": "vrancea/vulturu",
+"council_name": "Consiliul Local al Comunei Vulturu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

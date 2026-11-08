@@ -1,0 +1,726 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/ruginesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--ruginesti-1-2025",
+   "path": "local/vrancea/ruginesti/2025/1",
+   "short": "HCL Ruginești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 1/2025 privind acoperirea definitivă, din excedentul bugetului local, a deficitului secțiunii de dezvoltare, rezultat la finele anului 2024, în valoare de 2.486.470,70 lei",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/185775",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/185775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-10-2025",
+   "path": "local/vrancea/ruginesti/2025/10",
+   "short": "HCL Ruginești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 10/2025 privind aprobarea utilizării sumei de 5.744.000,00 lei din excedentul rezultat la încheierea exercițiului bugetar al anului 2024, pentru realizarea unor obiective de investiții",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/198214",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/198214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-11-2025",
+   "path": "local/vrancea/ruginesti/2025/11",
+   "short": "HCL Ruginești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 11/2025 privind aprobarea bugetului local de venituri şi cheltuieli al comunei Ruginești, judeţul Vrancea, precum și a listei de investiţii pentru anul 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/198215",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/198215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-12-2025",
+   "path": "local/vrancea/ruginesti/2025/12",
+   "short": "HCL Ruginești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 12/2025 privind aprobarea suportului alimentar acordat preșcolarilor și elevilor în cadrul Programului Național ,,Masă Sănătoasă,, în anul 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/198216",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/198216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-13-2025",
+   "path": "local/vrancea/ruginesti/2025/13",
+   "short": "HCL Ruginești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 13/2025 privind aprobarea documentației Plan Urbanistic Zonal (P.U.Z) pentru ,, Construire dispensar uman, piață agroalimentară, teren de sport, sala de sport, parcare și refuncționalizare în sat Ruginești,, comuna Ruginești, județul Vrancea",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/198217",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/198217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-15-2025",
+   "path": "local/vrancea/ruginesti/2025/15",
+   "short": "HCL Ruginești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 15/2025 privind completarea bugetului local al comunei Ruginești, județul Vrancea, pentru anul 2025, cu sumele repartizate pentru asigurarea finanțării de baza a unității de învățământ pentru categoriile de cheltuieli prevăzute la art. 139, alin. 2, lit. b) și c) din Legea învățământului preuniversitar nr. 198/2023",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/199353",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/199353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-16-2025",
+   "path": "local/vrancea/ruginesti/2025/16",
+   "short": "HCL Ruginești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 16/2025 privind aprobarea indexării impozitelor, taxelor locale precum și a contractelor de închiriere cu rata inflației",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/205566",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/205566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-17-2025",
+   "path": "local/vrancea/ruginesti/2025/17",
+   "short": "HCL Ruginești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 17/2025 privind aprobarea contului de execuție bugetară al comunei Rugineşti, judeţul Vrancea pentru anul 2024",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/205567",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/205567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-19-2025",
+   "path": "local/vrancea/ruginesti/2025/19",
+   "short": "HCL Ruginești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 19/2025 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al comunei Ruginești, județul Vrancea",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/205569",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/205569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-2-2025",
+   "path": "local/vrancea/ruginesti/2025/2",
+   "short": "HCL Ruginești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 2/2025 privind aprobarea planului anual de acțiuni și lucrări de interes local la nivelul comunei Ruginești, județul Vrancea, pentru beneficiarii Legii nr. 196/2016 privind venitul minim de incluziune, pentru anul 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/189618",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/189618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-20-2025",
+   "path": "local/vrancea/ruginesti/2025/20",
+   "short": "HCL Ruginești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 20/2025 privind aprobarea contului de execuţie bugetară al comunei Ruginești, judeţul Vrancea, pentru trimestrul I, aferent anului 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/205570",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/205570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-21-2025",
+   "path": "local/vrancea/ruginesti/2025/21",
+   "short": "HCL Ruginești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 21/2025 aprobarea proiectului tehnic și a devizului general pentru obiectivul de investiții „Creșterea eficienței energetice a infrastructurii de iluminat public din comuna Ruginești”, finanțat prin Programul AFM",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/205572",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/205572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-22-2025",
+   "path": "local/vrancea/ruginesti/2025/22",
+   "short": "HCL Ruginești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 22/2025 privind aprobarea planului anual de acțiune a serviciilor sociale administrate și finanțate din bugetul Consiliului Local Ruginești pentru anul 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/205571",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/205571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-23-2025",
+   "path": "local/vrancea/ruginesti/2025/23",
+   "short": "HCL Ruginești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 23/2025 privind aprobarea propunerii de schimbare de destinație a imobilului , înscrisă în Cartea Funciară nr. 52432 – C1 UAT Ruginești, fără modificări structurale",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/209042",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/209042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-24-2025",
+   "path": "local/vrancea/ruginesti/2025/24",
+   "short": "HCL Ruginești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 24/2025 privind avizarea documentației de atribuire a Contractului de delegare a gestiunii activității de colectare și transport a deșeurilor municipale din Lotul 2 (zonele 2-5 – Vidra, Gugești, CMID Haret și Adjud), județul Vrancea și aprobarea mandatării cu mandat special a Asociației de Dezvoltare Intercomunitară ,,Vrancea Curată” să exercite, în numele și pe seama Unității Administrativ-Teritoriale comuna Ruginești, delegarea gestiunii serviciului privind colectarea deșeurilor municipale și transportul acestora la punctele/stațiile de transfer la nivelul Lotului 2 (zonele 2-5 – Vidra, Gugești, CMID Haret și Adjud), județul Vrancea, pentru proiectul ,,Sistem de Management Integrat al Deșeurilor în județul Vrancea”",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/209043",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/209043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-25-2025",
+   "path": "local/vrancea/ruginesti/2025/25",
+   "short": "HCL Ruginești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 25/2025 privind aprobarea inițierii demersurilor de actualizare a Planului Urbanistic General și a Regulamentului Local de Urbanism aferent Comunei Ruginești, județul Vrancea",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/213854",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/213854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-3-2025",
+   "path": "local/vrancea/ruginesti/2025/3",
+   "short": "HCL Ruginești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 3/2025 privind aprobarea modelului legitimației pentru aleșii locali și a modelului semnului distinctiv al calității acestora",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/193509",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/193509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-30-2025",
+   "path": "local/vrancea/ruginesti/2025/30",
+   "short": "HCL Ruginești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 30/2025 privind aprobarea contului de execuţie bugetară al comunei Ruginești, judeţul Vrancea, pentru trimestrul II, aferent anului 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/219652",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/219652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-31-2025",
+   "path": "local/vrancea/ruginesti/2025/31",
+   "short": "HCL Ruginești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 31/2025 privind rectificarea bugetului local al comunei Ruginești, județul Vrancea pentru anul 2025, modificarea și actualizarea listei de investiții aprobată pentru anul 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/219653",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/219653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-32-2025",
+   "path": "local/vrancea/ruginesti/2025/32",
+   "short": "HCL Ruginești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 32/2025 privind implementarea proiectului “ AMENAJARE PARCURI ȘI LOCURI DE JOACĂ PRIN ÎNFIINȚAREA DE PARCURI ȘI LOCURI DE JOACĂ ÎN SATELE ANGHELEȘTI ȘI COPĂCEȘTI ȘI PRIN MODERNIZARE ȘI EXTINDERE LOC DE JOACĂ ÎN SAT RUGINEȘTI, COMUNA RUGINEȘTI”",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/219654",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/219654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-33-2025",
+   "path": "local/vrancea/ruginesti/2025/33",
+   "short": "HCL Ruginești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 33/2025 aprobarea documentațiilor întocmite în etapa I ,, Nota conceptuală,, și ,,Tema de proiectare,, pentru obiectivul de investiții ,,Împrejmuire teren în satul Ruginești, comuna Ruginești, județul Vrancea,, finanțat din bugetul local al comunei Ruginești",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/219655",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/219655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-35-2025",
+   "path": "local/vrancea/ruginesti/2025/35",
+   "short": "HCL Ruginești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 35/2025 privind implementarea proiectului “ EFICIENTIZARE ENERGETICĂ CONSTRUCȚIE C1 - spații administrative edilitare la parter și locuințe la etaj, SAT RUGINEȘTI, COMUNA RUGINEȘTI, JUDEȚUL VRANCEA ”",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/219657",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/219657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-36-2025",
+   "path": "local/vrancea/ruginesti/2025/36",
+   "short": "HCL Ruginești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 36/2025 privind aprobarea utilizării, în anul 2025, a unei sume din excedentul anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2024",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/222373",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/222373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-37-2025",
+   "path": "local/vrancea/ruginesti/2025/37",
+   "short": "HCL Ruginești nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 37/2025 privind rectificarea bugetului local al comunei Ruginești, județul Vrancea pentru anul 2025 și actualizarea listei de investiții aprobată pentru anul 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/222374",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/222374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-38-2025",
+   "path": "local/vrancea/ruginesti/2025/38",
+   "short": "HCL Ruginești nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 38/2025 privind aprobarea actualizării devizului general pentru obiectivul de investiție ,, AMENAJARE PARCURI ȘI LOCURI DE JOACĂ PRIN ÎNFIINȚAREA DE PARCURI ȘI LOCURI DE JOACĂ ÎN SATELE ANGHELEȘTI ȘI COPĂCEȘTI ȘI PRIN MODERNIZARE ȘI EXTINDERE LOC DE JOACĂ ÎN SAT RUGINEȘTI, COMUNA RUGINEȘTI,, ca urmare a modificării cotei standard, conform art. II, pct. 42 din Legea nr. 141/2025 privind unele măsuri fiscal - bugetare",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/222375",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/222375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-39-2025",
+   "path": "local/vrancea/ruginesti/2025/39",
+   "short": "HCL Ruginești nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 39/2025 privind aprobarea actualizării devizului general pentru obiectivul de investiție “ EFICIENTIZARE ENERGETICĂ CONSTRUCȚIE C1 - spații administrative edilitare la parter și locuințe la etaj, SAT RUGINEȘTI, COMUNA RUGINEȘTI, JUDEȚUL VRANCEA ” ca urmare a modificării cotei standard, conform art. II, pct. 42 din Legea nr. 141/2025 privind unele măsuri fiscal - bugetare",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/222376",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/222376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-4-2025",
+   "path": "local/vrancea/ruginesti/2025/4",
+   "short": "HCL Ruginești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 4/2025 privind aprobarea propunerii de schimbare de destinație a construcție C1, înscrisă în Cartea Funciară nr. 52445 – C1 UAT Ruginești, fără modificări structurale",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/193510",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/193510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-42-2025",
+   "path": "local/vrancea/ruginesti/2025/42",
+   "short": "HCL Ruginești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 42/2025 privind rectificarea bugetului local al comunei Ruginești, județul Vrancea pentru anul 2025 și actualizarea listei de investiții aprobată pentru anul 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/226147",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/226147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-44-2025",
+   "path": "local/vrancea/ruginesti/2025/44",
+   "short": "HCL Ruginești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 44/2025 privind rectificarea bugetului local al comunei Ruginești, județul Vrancea și actualizarea listei de investiții aprobată pentru anul 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/232067",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/232067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-45-2025",
+   "path": "local/vrancea/ruginesti/2025/45",
+   "short": "HCL Ruginești nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 45/2025 privind aprobarea contului de execuţie bugetară al comunei Ruginești, judeţul Vrancea, pentru trimestrul III, aferent anului 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/232068",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/232068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-46-2025",
+   "path": "local/vrancea/ruginesti/2025/46",
+   "short": "HCL Ruginești nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 46/2025 privind validarea Dispozitiei nr. 170/09.10.2025 privind rectificarea bugetului local al comunei Ruginești, județul Vrancea pentru anul 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/232069",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/232069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-47-2025",
+   "path": "local/vrancea/ruginesti/2025/47",
+   "short": "HCL Ruginești nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 47/2025 aprobarea documentațiilor întocmite în etapa I ,, Nota conceptuală,, și ,,Tema de proiectare,, pentru obiectivul de investiții ,, Reabilitare străzi în sat Ruginești, comuna Ruginești, județul Vrancea,, finanțat din bugetul local al comunei Ruginești",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/232070",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/232070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-48-2025",
+   "path": "local/vrancea/ruginesti/2025/48",
+   "short": "HCL Ruginești nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 48/2025 privind aprobarea utilizării, în anul 2025, a unei sume din excedentul anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2024",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/232071",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/232071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-49-2025",
+   "path": "local/vrancea/ruginesti/2025/49",
+   "short": "HCL Ruginești nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 49/2025 privind aprobarea analizei stadiului de înscriere a datelor în Registrul agricol al comunei Ruginești, județul Vrancea pentru trimestrele I - III, anul 2025 şi stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/237400",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/237400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-5-2025",
+   "path": "local/vrancea/ruginesti/2025/5",
+   "short": "HCL Ruginești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 5/2025 privind încheierea Acordului de cooperare privind organizarea și exercitarea activității Departamentului Servicii economice pentru: Compartiment activități financiar contabile, Compartiment servicii asistenta sociala, cadastru, agricultura, registrul agricol și fond funciar, Compartiment alte servicii economice, cu Filiala județeană Vrancea a Asociației Comunelor din România",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/193511",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/193511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-50-2025",
+   "path": "local/vrancea/ruginesti/2025/50",
+   "short": "HCL Ruginești nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 50/2025 privind aprobarea propunerii schimbării destinației unor imobile folosite de unitatea școlară de învățământ, aflate în domeniul public al comunei Ruginești, județul Vrancea",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/237401",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/237401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-51-2025",
+   "path": "local/vrancea/ruginesti/2025/51",
+   "short": "HCL Ruginești nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 51/2025 privind aprobarea transferului, cu titlu gratuit, a unor bunuri achiziționate în cadrul proiectului \"DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE A ȘCOLII GIMNAZIALE RUGINEȘTI, COM. RUGINEȘTI, JUD. VRANCEA\", cod F-PNRR-Dotari-2023-6012, finanțat în cadrul Programului Planul Național de Redresare și Reziliență(PNRR), Componenta 15 - Educație, către Școala Gimnazială Ruginești",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/237402",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/237402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-52-2025",
+   "path": "local/vrancea/ruginesti/2025/52",
+   "short": "HCL Ruginești nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 52/2025 privind rectificarea bugetului local al comunei Ruginești, județul Vrancea aferent anului 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/237403",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/237403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-53-2025",
+   "path": "local/vrancea/ruginesti/2025/53",
+   "short": "HCL Ruginești nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 53/2025 privind aprobarea actualizării devizului general pentru obiectivul de investiție “ DEZVOLTAREA INFRASTRUCTURII TIC PRIN MONTAREA UNUI SISTEM DE SUPRAVEGHERE VIDEO STRADAL ÎN COMUNA RUGINESTI, JUDETUL VRANCEA\", actualizat conform contractului de lucrări",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/237404",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/237404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-54-2025",
+   "path": "local/vrancea/ruginesti/2025/54",
+   "short": "HCL Ruginești nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 54/2025 privind aprobarea rețelei școlare a unităților de învățământ din comuna Ruginești, județul Vrancea, pentru anul școlar 2026 – 2027",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/241457",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/241457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-56-2025",
+   "path": "local/vrancea/ruginesti/2025/56",
+   "short": "HCL Ruginești nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 56/2025 privind aprobarea contului de execuţie bugetară al comunei Ruginești, judeţul Vrancea, pentru trimestrul IV, aferent anului 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/241459",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/241459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-58-2025",
+   "path": "local/vrancea/ruginesti/2025/58",
+   "short": "HCL Ruginești nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 58/2025 privind rectificarea bugetului local al comunei Ruginești, județul Vrancea aferent anului 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/241461",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/241461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-59-2025",
+   "path": "local/vrancea/ruginesti/2025/59",
+   "short": "HCL Ruginești nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 59/2025 privind stabilirea nivelurilor impozitelor şi taxelor locale, pentru anul 2026",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/242963",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/242963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-6-2025",
+   "path": "local/vrancea/ruginesti/2025/6",
+   "short": "HCL Ruginești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 6/2025 privind aprobarea participării comunei Ruginești, județul Vrancea în cadrul Programului multianual 2025 - 2028 privind finanțarea ,,Elaborării și/sau actualizării planurilor urbanistice generale ale localităților și a regulamentelor locale de urbanism,, derulat de MDLPA, a indicatorilor economici conform devizului general și a cofinanțării de la bugetul local",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/194058",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/194058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-60-2025",
+   "path": "local/vrancea/ruginesti/2025/60",
+   "short": "HCL Ruginești nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 60/2025 privind aprobarea participării UAT Comuna Ruginești în calitate de partener în cadrul proiectului ,, Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacitate de stocare integrate, pentru autoconsum - UAT JUDEȚUL VRANCEA,, în cadrul Programului Cheie nr. 1, finanțat prin Fondul de modernizare",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/242964",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/242964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-7-2025",
+   "path": "local/vrancea/ruginesti/2025/7",
+   "short": "HCL Ruginești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 7/2025 privind aprobarea numărului de posturi pentru asistenţii personali ai persoanelor cu handicap grav, aferent anului 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/198211",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/198211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-8-2025",
+   "path": "local/vrancea/ruginesti/2025/8",
+   "short": "HCL Ruginești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 8/2025 privind stabilirea normativelor proprii pentru consumul mediu lunar de carburanți pentru autovehicule, utilaje și motounelte aflate în dotarea proprie a Primăriei Comunei Ruginești, județul Vrancea, pentru anul 2025",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/198212",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/198212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ruginesti-9-2025",
+   "path": "local/vrancea/ruginesti/2025/9",
+   "short": "HCL Ruginești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginești nr. 9/2025 privind aprobarea documentațiilor întocmite în etapa I ,, Nota conceptuală,, și ,,Tema de proiectare,, pentru obiectivul de investiții ,,Amenajare curți interioare și căi de acces unități de învățământ, comuna Ruginești, județul Vrancea,, finanțat din bugetul local al comunei Ruginești",
+   "url": "https://emol.ro/ruginesti-vn/registru-hcl/198213",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginesti-vn/registru-hcl/198213",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/vrancea/jitia/2026",
+"acts": [
+{
+"slug": "hcl-vrancea--jitia-27-2026",
+"path": "local/vrancea/jitia/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jitia nr. 27/2026 privind avizarea documentației de atribuire a Contractului de delegare a gestiunii activității de colectare și transport a deșeurilor municipale din Zona 2 (loturile 2-5 – Vidra, Gugești, CMID Haret și Adjud), județul Vrancea și aprobarea mandatării cu mandat special a Asociației de Dezvoltare Intercomunitară ,,Vrancea Curată” să exercite, în numele și pe seama Unității Administrativ-Teritoriale comuna Jitia , delegarea gestiunii serviciului privind colectarea deșeurilor municipale și transportul acestora la punctele/stațiile de transfer la nivelul Zonei 2 (loturile 2-5 – Vidra, Gugești, CMID Haret și Adjud), județul Vrancea, pentru proiectul ,,Sistem de Management Integrat al Deșeurilor în județul Vrancea”",
+"short": "HCL Jitia nr. 27/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-09",
+"latest": "2026-06-09",
+"portal": "https://emol.ro/jitia-vn/registru-hcl/270834",
+"council": "vrancea/jitia",
+"council_name": "Consiliul Local al Comunei Jitia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--jitia-29-2026",
+"path": "local/vrancea/jitia/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jitia nr. 29/2026",
+"short": "HCL Jitia nr. 29/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-15",
+"latest": "2026-07-15",
+"portal": "https://emol.ro/jitia-vn/registru-hcl/276251",
+"council": "vrancea/jitia",
+"council_name": "Consiliul Local al Comunei Jitia",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--jitia-32-2026",
+"path": "local/vrancea/jitia/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jitia nr. 32/2026 privind însuşirea analizei stadiului de înscriere a datelor în registrul agricol pe trimestrul II al anului 2026 şi aprobarea programului de măsuri pentru eficientizarea înscrierii datelor în registrul agricol la nivelul UAT comuna Jitia , judeţul Vrancea",
+"short": "HCL Jitia nr. 32/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-20",
+"latest": "2026-08-20",
+"portal": "https://emol.ro/jitia-vn/registru-hcl/282767",
+"council": "vrancea/jitia",
+"council_name": "Consiliul Local al Comunei Jitia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--jitia-40-2026",
+"path": "local/vrancea/jitia/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jitia nr. 40/2026 privind modificarea Contractului de Asociere - anexă la Hotărârea Consiliului Local nr.14/ 30.08.2008 privind asocierea Unității Administrativ-Teritoriale Comuna Jitia cu unitățile administrativ – teritoriale din județul Vrancea în vederea constituirii Asociației de Dezvoltare Intercomunitară ,,Vrancea Curată’’ pentru dezvoltarea sistemului de management integrat al deșeurilor și extinderea infrastructurii în județul Vrancea",
+"short": "HCL Jitia nr. 40/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-14",
+"latest": "2026-10-14",
+"portal": "https://emol.ro/jitia-vn/registru-hcl/292160",
+"council": "vrancea/jitia",
+"council_name": "Consiliul Local al Comunei Jitia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

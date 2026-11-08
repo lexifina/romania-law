@@ -3,6 +3,261 @@
  "shard": "local/alba/cugir/2022",
  "acts": [
   {
+   "slug": "hcl-alba--cugir-1-2022",
+   "path": "local/alba/cugir/2022/1",
+   "short": "HCL Cugir nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 1/2022 Privind alegerea președintelui de ședință pentru a conduce ședințele care vor fi convocate în lunile ianuarie-februarie 2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară”, desfășurată la distanță, cu convocare de îndată, din data 7 ianuarie 2022; Luând act de: -Încheierea Civilă nr.3515/CC/2020 pronunțată de Judecătoria Alba- Iulia în dos nr.5808/176/",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P260",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.1_-_Alegere_presedinte_de_sedinta_ianuarie-februarie22_.doc",
+     "sha256": "77e677af1247519ab5910358ad874318cb55750f144ada9c82530ee0d23e5b80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-100-2022",
+   "path": "local/alba/cugir/2022/100",
+   "short": "HCL Cugir nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 100/2022 Privind alegerea președintelui de ședință pentru a conduce ședința extraordinară convocată de îndată pentru data de 17 mai 2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară”, desfășurată în sistem hibrid, cu convocare de îndată pentru data 17 mai 2022; Luând act de: -Încheierea Civilă nr.3515/CC/2020 pronunțată de Judecătoria Alba- Iulia în dos nr.580",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P160",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.100_-_Alegere_presedinte_de_sedinta_17_mai_.doc",
+     "sha256": "4fb0e83cb2f15740530303f75a78e9af2842b152db64785e3c7450cc45ba0fbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-103-2022",
+   "path": "local/alba/cugir/2022/103",
+   "short": "HCL Cugir nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 103/2022 Privind alegerea președintelui de ședință pentru a conduce ședința extraordinară din data de 20 mai 2022, ședința ordinară din data de 26 mai 2022 și ședințele care vor fi convocate în luna iunie 2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară”, desfășurată la distanță din data 20 mai 2022; Luând act de: -Încheierea Civilă nr.3515/CC/2020 pronunțată",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P160",
+   "versions": [
+    {
+     "from": "2022-05-20",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.103_-_Alegere_presedinte_de_sedinta_mai-iunie_.doc",
+     "sha256": "28a7cd1ce777e55017db27cca1247013cb507aa6c4c6ebd6224b72bd89e50cc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-11-2022",
+   "path": "local/alba/cugir/2022/11",
+   "short": "HCL Cugir nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 11/2022 privind aprobarea utilizării unor sume din excedentul bugetului local al Orașului Cugir rezultat la 31 decembrie 2021 pentru finanțarea cheltuielilor secțiunii de dezvoltare în anul 2022 Consiliul local al orașului Cugir, județul Alba; Întrunit în ședință publică ordinară, desfășurată la distanță, din data de 27 ianuarie 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea utilizării",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P260",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.11_-_Aprobare_utilizare_excedent_Oras_Cugir_2022_.docx",
+     "sha256": "bcf4bdc5ed78958bc062c428a86f6811c780d37d6787c08b3001ccdd340f8d39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-110-2022",
+   "path": "local/alba/cugir/2022/110",
+   "short": "HCL Cugir nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 110/2022 Privind aprobarea Scrisorii de așteptări și a Planului de selecție – Componenta integrală (Profilul și Matricea Consiliului de Administratie, Profilul candidatului), pentru 4 membri în Consiliul de Administratie al Regiei Autonome OCOLUL SILVIC SAPCEA CUGIR Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară” din data de 20 mai 2022; Luând în dezbatere: -Pro",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P160",
+   "versions": [
+    {
+     "from": "2022-05-20",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.110,_Aprobare_profil_si_matrice_CASapcea_.doc",
+     "sha256": "af868189a1c808a8a98fc910e5f61f51fb91a43485693beb55334cfd79ddb469"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-111-2022",
+   "path": "local/alba/cugir/2022/111",
+   "short": "HCL Cugir nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 111/2022 Privind prelungirea duratei contractelor de mandat încheiate cu administratorii provizorii (reprezentantul autorității tutelare și cele trei persoane cu experiență) din cadrul Consiliului de Administrație al Ocolului Silvic Sâpcea Cugir RA Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară” din data de 20 mai 2022; Luând în dezbatere: -Proiectul de hotărâre",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P160",
+   "versions": [
+    {
+     "from": "2022-05-20",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.111_-_Prelungire_mandat_adm_.provizorii_CA_.Sapcea_.doc",
+     "sha256": "ecf0e51e58639b64248f7a845c173d4040732b1b966435cc0656effd5b1645ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-115-2022",
+   "path": "local/alba/cugir/2022/115",
+   "short": "HCL Cugir nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 115/2022 privind aprobarea conturilor de execuție a bugetelor Orașului Cugir la 31.03.2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 26 mai 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea conturilor de execuție a bugetelor Orașului Cugir la 31.03.2022; -Referatul de aprobare nr. 11684/18.05.2022 al primarului orașului Cugir, în ca",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P160",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.115,_Aprobare_cont_de_executie_bugete_oras_Cugir_la_31_.03.2022.doc",
+     "sha256": "24212c6d055b24b4dba7467e727794f94571037d85b0f046015bb22ef4c4f22a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-116-2022",
+   "path": "local/alba/cugir/2022/116",
+   "short": "HCL Cugir nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 116/2022 privind aprobarea cuantumului și numărului de burse care se acordă elevilor din învățământul preuniversitar de stat de pe raza orașului Cugir, începând cu semestrului II al anului școlar 2021-2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 26 mai 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea cuantumului și numărului de b",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P160",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.116_-_Aprobare_burse_scolare_sem_.II_2021-2022_.doc",
+     "sha256": "edb293e3805107d4f83cb6ca80251fc61301fc3c7cb4277882a53577530cdcae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-117-2022",
+   "path": "local/alba/cugir/2022/117",
+   "short": "HCL Cugir nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 117/2022 Privind aprobarea contului de execuție bugetară pe anul 2021 și a vărsămintelor din profitul net realizat în anul 2021 la Ocolul Silvic Sâpcea Cugir R.A",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P160",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.117_-_Aprobare_cont_de_executie_si_varsaminte_2021_Ocol_Sapcea_.doc",
+     "sha256": "2afcf1b6b92e8a5a778733f8649a79c95ce62ed6f14fc661a9b2e97bb9cc8bdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-118-2022",
+   "path": "local/alba/cugir/2022/118",
+   "short": "HCL Cugir nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 118/2022 privind aprobarea admiterii cererilor eligibile și atribuirea terenurilor în baza Legii nr. 15/2003, republicată, privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală în orașul Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 26 mai 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea admit",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P160",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.118_-_Aprobare_cereri_teren_tineri_Legea_nr_.15_din_2003_.doc",
+     "sha256": "306c33faa4d1b8695af458739198d550de207181b831757197d29410a82d107e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-119-2022",
+   "path": "local/alba/cugir/2022/119",
+   "short": "HCL Cugir nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 119/2022 privind dezlipirea în două loturi noi a imobilului-construcție și teren aferent situat administrativ în orașul Cugir în suprafață de 1500 mp Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 26 mai 2022; Luând în dezbatere: -Proiectul de hotărâre privind dezlipirea în două loturi noi a imobilului-construcție și teren aferent situat administrativ în",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P160",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.119_-_Dezlipire_teren_ANL_str_.Victoriei_.doc",
+     "sha256": "fcbde18288987ff6388ec97d0bcec8c005da203513fca3f55f7d0bedceb0f490"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-12-2022",
+   "path": "local/alba/cugir/2022/12",
+   "short": "HCL Cugir nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 12/2022 privind aprobarea utilizării excedentului bugetului instituțiilor publice din subordinea Consiliului Local Cugir finanțate din venituri proprii și subvenții, pentru efectuarea de cheltuieli în anul 2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ordinară, desfășurată la distanță, din data de 27 ianuarie 2022; Luând în dezbatere: -Proiectul de hotărâre privind apro",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P260",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.12_-_Aprobare_utilizare_excedent_institutii_subordonate_.docx",
+     "sha256": "b1172b21cdc116a7591bdd139aebebe1a358ffada8f919701ed3ef682996f5b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-120-2022",
+   "path": "local/alba/cugir/2022/120",
+   "short": "HCL Cugir nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 120/2022 privind aprobarea Calendarului evenimentelor culturale organizate de către Centrul Cultural Cugir pentru anul 2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 26 mai 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea Calendarului evenimentelor culturale organizate de către Centrul Cultural Cugir pentru anul 2022; -Referatul de",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.120_-_Aprobare_Calendar_cultural_2022_.doc",
+     "sha256": "3b3f7e1df6a2aaa50322f05b99c3efe9984e707dfa621bb62283f0c4e8b17ef4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-121-2022",
+   "path": "local/alba/cugir/2022/121",
+   "short": "HCL Cugir nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 121/2022 privind prelungirea unui număr de 2 Contracte de închiriere pentru locuințele aparținând domeniul privat al Orașului Cugir situate pe str",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.121_-_Prelungire_2_contacte_inchiriere_Fond_Locativ_.doc",
+     "sha256": "c39a83d552d3bad4cb8ee7118ba4d7443862912e2353f449fa17a61524ef24b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-122-2022",
+   "path": "local/alba/cugir/2022/122",
+   "short": "HCL Cugir nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 122/2022",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.122_-_Modificare_reprezentanti_CA_scoli_.doc",
+     "sha256": "9e1e44a57ddac582026f11a2d733204e0cb629b880248a8644b04811be27cfc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-123-2022",
+   "path": "local/alba/cugir/2022/123",
+   "short": "HCL Cugir nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 123/2022 privind modificarea HCL nr.170/2021 prin care s-au desemnat reprezentanții Consiliului Local al Orașului Cugir în Comisiile pentru evaluarea și asigurarea calității din cadrul unităților de învățământ preuniversitar de pe raza administrativ-teritorială a Orașului Cugir, pentru anul școlar 2021- 2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.123_-_Modificare_reprezentanti_Comisii_asig_.calitatii_invatamant_.doc",
+     "sha256": "aea567852905c4c4fb307ecaf908f6db5bc530590980010581c69776fb68b723"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-124-2022",
+   "path": "local/alba/cugir/2022/124",
+   "short": "HCL Cugir nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 124/2022 privind modificarea componenței Comisiei de evaluare a activității managerului Spitalului Orășenesc Cugir și a Comisie de soluționare a contestațiilor asupra rezultatelor activității managerului Spitalului Orășenesc Cugir, desemnată prin HCL nr.100/2017 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 26 mai 2022; Luând în dezbatere: -Proiectul de",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.124_-_Modificare_componenta_Comisie_de_evaluare_activit_.manager_Spital_si_Comisie_contestatii_.doc",
+     "sha256": "963709a4a81d4f2a8b130b5102252943e92464021896aa12ed69086abf89dc8b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--cugir-125-2022",
    "path": "local/alba/cugir/2022/125",
    "short": "HCL Cugir nr. 125/2022",
@@ -14,6 +269,306 @@
      "units": 1,
      "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.125_-_Modificare_componenta_Comisie_ordine_publica_.doc",
      "sha256": "436c510eb79cdcb3e64b5eb8d9c4bd03646b3e46645baaaf4e8e51cc4cebe6f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-126-2022",
+   "path": "local/alba/cugir/2022/126",
+   "short": "HCL Cugir nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 126/2022 privind aprobarea Planului de perfectionare profesională a functionarilor publici din cadrul aparatului de specialitate al primarului orasului Cugir și serviciile subordoante, pe anul 2022; -Referatul de aprobare nr. 11015/10.05.2022 al primarului orașului Cugir, în calitatea sa de inițiator al proiectului de hotărâre prin care se propune și se fundamentează aprobarea Planului de perfectionare pro",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.126_-_Aprobare_Plan_perfec%C8%9Bionare_2022_.docx",
+     "sha256": "3c043e6580666e258cec6d5e0570fc289fab42107b278cc3b8f47fb91624a583"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-127-2022",
+   "path": "local/alba/cugir/2022/127",
+   "short": "HCL Cugir nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 127/2022 privind rectificarea bugetului local al Orașului Cugir și a bugetului instituțiilor publice finanțate din venituri proprii și subvenții pe anul 2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 26 mai 2022; Luând în dezbatere: -Proiectul de hotărâre privind rectificarea bugetului local al Orașului Cugir și a bugetului instituțiilor publice fin",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.127_-_Rectificare_2_buget_local_2022_.doc",
+     "sha256": "2fc2e623050a41dbcca56bcbd2ced15e25ff1c85f51dc8df09cd95f2bf70c91a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-132-2022",
+   "path": "local/alba/cugir/2022/132",
+   "short": "HCL Cugir nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 132/2022 Privind modificarea și completarea Inventarului bunurilor care alcătuiesc domeniul privat al Orașului Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 23 iunie 2022; Luând în dezbatere: -Proiectul de hotărâre privind modificarea și completarea inventarului bunurilor care alcătuiesc domeniul privat al Orașului Cugir; -Referatul de aprobare nr",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.132_-_Modificare_si_completare_domeniul_privat_.doc",
+     "sha256": "5ca6d299d49ac9dc98337c3e7bed9fa329fcbd09d4855fb6f2f7a0a2b4cac961"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-133-2022",
+   "path": "local/alba/cugir/2022/133",
+   "short": "HCL Cugir nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 133/2022",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+     "sha256": "f2cf9d33d351c1c1331364c487234974cc40b7c4d49822ef4065ba58322023bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-134-2022",
+   "path": "local/alba/cugir/2022/134",
+   "short": "HCL Cugir nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 134/2022 privind însușirea Raportului de evaluare și înstrăinarea prin vânzare, a imobilului - apartament, situat administrativ în orașul Cugir, str. G.Coșbuc, nr.11, sc.A, ap.12, jud",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.134_-_Aprobare_vanzare_locuinta_Cosbuc_nr_.11A,_ap_.12.doc",
+     "sha256": "64ee2a4cba0e7a99e20cc9ada9ebdffa8d0d6045a350e1bb22c6d0c0c3fdfa9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-135-2022",
+   "path": "local/alba/cugir/2022/135",
+   "short": "HCL Cugir nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 135/2022 privind însușirea Raportului de evaluare și înstrăinarea prin vânzare, a imobilului - garsonieră, situat administrativ în orașul Cugir, str. Rozelor,nr.1, et.4, ap.72, jud",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.135_-_Aprobare_vanzare_locuinta_Rozelor_nr_.1,_ap_.72.doc",
+     "sha256": "8becab310db7173ba17827a3f83f192cea6a1d75b27331646c6ebf716d0bddf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-136-2022",
+   "path": "local/alba/cugir/2022/136",
+   "short": "HCL Cugir nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 136/2022 privind atribuirea în proprietate de către Instituția Prefectului - Județul Alba către Lup Marin-Ludovic a cotei de teren aferentă construcției - apartament situat administrativ în orașul Cugir, str. Viitorului, nr. 8, ap. 2, jud",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+     "sha256": "540caa7c88ea65f8737a6ac354c1a32641357fe4a0345f2b7ae8b59e817bcc61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-137-2022",
+   "path": "local/alba/cugir/2022/137",
+   "short": "HCL Cugir nr. 137/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 137/2022",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+     "sha256": "b03efa365a4c510e281260570b470cb49007a515c6dab873190359f835dd98d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-139-2022",
+   "path": "local/alba/cugir/2022/139",
+   "short": "HCL Cugir nr. 139/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 139/2022 Privind alegerea președintelui de ședință pentru a conduce lucrările ședințelor care vor fi convocate în lunile iulie-august 2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară”, desfășurată la distanță în data de 01 iulie 2022; Luând act de: -Încheierea Civilă nr.3515/CC/2020 pronunțată de Judecătoria Alba- Iulia în dos nr.5808/176/2020 prin care s-au",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.139_-_Alegere_presedinte_de_sedinta_17_mai_.doc",
+     "sha256": "503f99ed86ea829a4cf3e256dbeb53db3f893fc7af93530844b0b8aeeaf86548"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-14-2022",
+   "path": "local/alba/cugir/2022/14",
+   "short": "HCL Cugir nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 14/2022 privind darea în administrare a unor mijloce fixe către Clubul Sportiv Metalurgistul Cugir și completarea Contractului de dare în administrare nr. 19328/127/04.12.2008 cu aceste bunuri Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ordinară, desfășurată la distanță, din data de 27 ianuarie 2022; Luând în dezbatere: -Proiectul de hotărâre privind darea în administrare",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P260",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.14_-_Dare_in_administrare_imobil_catre_Clubul_Sportiv_Metalurgistul_.doc",
+     "sha256": "d201c8a6d12d4311686a91e96ae9dc5ce0b09b0fc6d1b4647255c91c2f02c85b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-141-2022",
+   "path": "local/alba/cugir/2022/141",
+   "short": "HCL Cugir nr. 141/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 141/2022 Privind îndreptarea erorii materiale strecurate la redactarea Anexei 4 la HCL nr.110/2022 prin care s-a aprobat Scrisoarea de așteptări și Planul de selecție – Componenta integrală (Profilul și Matricea Consiliului de Administratie, Profilul candidatului), pentru 4 membri în Consiliul de Administratie al Regiei Autonome OCOLUL SILVIC SAPCEA CUGIR Consiliul Local al orașului Cugir, județul Alba; În",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P120",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.141_-_%C3%8Endreptare_eroare_materiala_Ax_.4_HCL_nr_.110_selectie_CA_Sapcea_.doc",
+     "sha256": "7ad7462b9485d6be6db1c719e2b71720c0b316646c6849e88e63f8da810fde82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-142-2022",
+   "path": "local/alba/cugir/2022/142",
+   "short": "HCL Cugir nr. 142/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 142/2022 privind adoptarea sub formă de propuneri a CRITERIILOR-CADRU pentru stabilirea ordinii de prioritate în soluționarea cererilor de locuințe și în repartizarea locuințelor pentru tineri, destinate închirierii, în localitatea Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară” din data de 01 iulie 2022; Luând în dezbatere: -Proiectul de hotărâre privind",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P120",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.142_-_Aprobare_Propuneri_Criterii-cadru_ordine_de_prioritate_ANL_.doc",
+     "sha256": "a1be5d1535c2567a91a03b6f646fc1bcdc4e1e4bdb0c99c696bae0d8b9589461"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-143-2022",
+   "path": "local/alba/cugir/2022/143",
+   "short": "HCL Cugir nr. 143/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 143/2022 Privind aprobarea Studiului de oportunitate actualizat pentru proiectul \"Modernizare ambulatoriu Cugir prin achiziție de dotări\", cod SMIS 126736 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară” din data de 01 iulie 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea Studiului de oportunitate actualizat pentru proiectul \"Modernizare ambula",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P120",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.143_-_Aprobare_Studiu_oportunitate_actualizat_dotari_ambulatoriu_.doc",
+     "sha256": "6df5d22ebfe2c04129236d79191a4acce26d333f573d9ba8becd9b613a5fe5e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-144-2022",
+   "path": "local/alba/cugir/2022/144",
+   "short": "HCL Cugir nr. 144/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 144/2022 privind rectificarea bugetului local al Orașului Cugir și a bugetului instituțiilor publice finanțate din venituri proprii și subvenții pe anul 2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară” din data de 01 iulie 2022; Luând în dezbatere: -Proiectul de hotărâre privind rectificarea bugetului local al Orașului Cugir și a bugetului instituțiilor publ",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P120",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.144_-_Rectificare_3_buget_local_.doc",
+     "sha256": "7fd0c11511660a5070bded7d035412594896617fdd1c64904abbd0dcb85e9475"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-146-2022",
+   "path": "local/alba/cugir/2022/146",
+   "short": "HCL Cugir nr. 146/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 146/2022 privind înscrierea în Cartea Funciară a dreptului de proprietate al orașului Cugir - domeniul public, în cotă definitivă pentru 2 imobile din orașul Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică „extraordinară” din data de 18 iulie 2022; Luând în dezbatere: -Proiectul de hotărâre privind înscrierea în Cartea Funciară a dreptului de proprietate al orașului Cugir",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P120",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.146_-_%C3%8Enscriere_%C3%AEn_CF_teren_Cetatea_Dacica_.doc",
+     "sha256": "f5c799fa4c629348e6f06bd1508a171d7203cfa1551851bd87c5fa5ff7cdac51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-147-2022",
+   "path": "local/alba/cugir/2022/147",
+   "short": "HCL Cugir nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 147/2022 privind aprobarea cumpărării de către Orașul Cugir a dreptului de proprietate asupra imobilului - teren extravilan, înscris în CF Cugir nr. 73312, nr. cadastral 747, având suprafața de 12.800 mp, situat administrativ în extravilanul orașului Cugir, zona Cetate Consiliul Local al Orașului Cugir, județul Alba; Întrunit în ședință publică „ extraordinară” din data de 18 iulie 2022; Luând în dezbatere",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P120",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.147_-_Cumparare_teren_zona_Cetate_.doc",
+     "sha256": "580f8d4fd1de99b84e62dfa144ee901855bf59f928b6e5cbc1e4f9b2d30f968c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-15-2022",
+   "path": "local/alba/cugir/2022/15",
+   "short": "HCL Cugir nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 15/2022",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P260",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P260",
+     "sha256": "e16dec2976882d4a36654e5b5642641131f086e39cd433b4b9f357bc8d195093"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-153-2022",
+   "path": "local/alba/cugir/2022/153",
+   "short": "HCL Cugir nr. 153/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 153/2022",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P120",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P120",
+     "sha256": "47a717e1eb3eda9220904d0c8ada843ade5ddacf6be2d5b8ca2191ad2f17a815"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-155-2022",
+   "path": "local/alba/cugir/2022/155",
+   "short": "HCL Cugir nr. 155/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 155/2022 privind înstrăinarea prin vânzare, a imobilului - apartament, situat administrativ în orașul Cugir, str. G.Coșbuc, nr.10, sc.D, ap.1, jud. Alba, în baza Raportului de evaluare însușit prin HCL nr. 132/2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 28 iulie 2022; Luând în dezbatere: -Proiectul de hotărâre privind înstrăinarea prin vânzare, a",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P120",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.155_-_Vanzare_locuinta_Cosbuc_10_D,ap_.1.doc",
+     "sha256": "83c73c1c6173cbab42d4efb3eddcf6f01d8cd1151b121db310c8c2ffbd90206f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-158-2022",
+   "path": "local/alba/cugir/2022/158",
+   "short": "HCL Cugir nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 158/2022 Privind constituirea Consiliului Comunitar Consultativ pentru perioada 2022 – 2024 și aprobarea Regulamentului de organizare și funcționare al acestuia Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 28 iulie 2022; Luând în dezbatere: -Proiectul de hotărâre privind constituirea Consiliului Comunitar Consultativ pentru perioada 2022 – 2024 și apro",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P120",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.158_-_Constituire_Consiliul_Comunitar_Consultativ_2022_.doc",
+     "sha256": "f8712129887ef825aa4b016ac59647fe0a75dad89c097a250926dbfd9305932e"
     }
    ]
   },
@@ -33,6 +588,486 @@
    ]
   },
   {
+   "slug": "hcl-alba--cugir-160-2022",
+   "path": "local/alba/cugir/2022/160",
+   "short": "HCL Cugir nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 160/2022 privind aprobarea Raportului întreprinderilor publice aflate în subordinea Consiliului Local Cugir pentru anul 2021, conform art. 58 din OUG nr. 109/2011 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 28 iulie 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea Raportului întreprinderilor publice aflate în subordinea Consiliului L",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P100",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.160_-_Aprobare_raport_intreprinderi_publice_an_2021_.doc",
+     "sha256": "22e9a7eda7418055aaed843f816703d5519eced9141c6cbfca7c366e458e0c2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-161-2022",
+   "path": "local/alba/cugir/2022/161",
+   "short": "HCL Cugir nr. 161/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 161/2022",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P100",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.161_-_Evaluarea_obiectivelor_%C8%99i_performan%C5%A3elor_administratorilor_Oc_.S%C3%A2pcea_Cugir_R_.A-2021_.docx",
+     "sha256": "3da845785c3843aab5fe572c235958c61709fb5138e80a32be9341942fec47d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-162-2022",
+   "path": "local/alba/cugir/2022/162",
+   "short": "HCL Cugir nr. 162/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 162/2022 privind atestarea inventarului bunurilor care aparțin domeniului public al orașului Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 28 iulie 2022; Luând în dezbatere: -Proiectul de hotărâre privind atestarea inventarului bunurilor care aparțin domeniului public al orașului Cugir; -Referatul de aprobare nr. 15318/25.07.2022 al primarului ora",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P100",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.162,_Atestare_Inventar_Domeniul_Public_.doc",
+     "sha256": "9ffd09506c8853b0835d1e2c434cea612f75b80ee8c9066f0b4642792744a52f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-169-2022",
+   "path": "local/alba/cugir/2022/169",
+   "short": "HCL Cugir nr. 169/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 169/2022 privind rectificarea bugetului local al Orașului Cugir și a bugetului instituțiilor publice finanțate din venituri proprii și subvenții pe anul 2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 25 august 2022; Luând în dezbatere: -Proiectul de hotărâre privind rectificarea bugetului local al Orașului Cugir și a bugetului instituțiilor publice",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P100",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.169_-_Rectificare_4_buget_local_2022_.doc",
+     "sha256": "cf94b2edbe08f1169aa09f0b45ed5ccbfa9e3baa64715fcd4441acc289d009f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-17-2022",
+   "path": "local/alba/cugir/2022/17",
+   "short": "HCL Cugir nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 17/2022 privind Planul de acțiuni care pot fi realizate în anul 2022 de persoanele beneficiare ale venitului minim garantat (VMG) și de persoanele obligate să presteze muncă în folosul comunității Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ordinară, desfășurată la distanță, din data de 27 ianuarie 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea Planului",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P260",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.17_-_Aprobare_Plan_de_actiuni_VMG_2022_.doc",
+     "sha256": "2feafaeb6506e9fd43581d23dfc1cf1b9d4b6b9bb016d8d559d1cdb13a755b2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-170-2022",
+   "path": "local/alba/cugir/2022/170",
+   "short": "HCL Cugir nr. 170/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 170/2022 privind aprobarea conturilor de execuție a bugetelor Orașului Cugir la 30.06.2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 25 august 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea conturilor de execuție a bugetelor Orașului Cugir la 30.06.2022; -Referatul de aprobare nr. 16452/17.08.2022 al primarului orașului Cugir, în",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P100",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.170_-_Aprobare_cont_de_executie_la_30_.06.2022.doc",
+     "sha256": "23656404f44238131984370815071b33a29242e1a5bc136206046f715b65543b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-171-2022",
+   "path": "local/alba/cugir/2022/171",
+   "short": "HCL Cugir nr. 171/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 171/2022 pentru CA Sapcea",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P100",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.171_-_Aprobare_obiective_si_criterii_pe_2022_pentru_CA_Sapcea_.doc",
+     "sha256": "5e1a93bda0128657c2f11182664a79b764b56c3f100050914b595a152851e40b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-173-2022",
+   "path": "local/alba/cugir/2022/173",
+   "short": "HCL Cugir nr. 173/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 173/2022 privind aprobarea Strategiei Integrate de Dezvoltare Urbană a orașului Cugir (SIDU) pentru perioada 2021-2030 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 25 august 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea Strategiei Integrate de Dezvoltare Urbană a orașului Cugir pentru perioada 2021-2030; -Referatul de aprobare nr",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P100",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.173_-_Aprobare_SIDU_CUGIR_2021-2030_.doc",
+     "sha256": "b5699dab170d7e35447e1628003ec985f8578537b9a6694d45a9b4476387d955"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-175-2022",
+   "path": "local/alba/cugir/2022/175",
+   "short": "HCL Cugir nr. 175/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 175/2022 privind aprobarea “Programului de îmbunătățire a eficienței energetice aferent Orașului Cugir - 2022” Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 25 august 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea “Programului de îmbunătățire a eficienței energetice aferent Orașului Cugir” numit și “Plan de Acțiune pentru Energie Dur",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P100",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.175_-_Aprobare_PAED_Cugir_2022_.doc",
+     "sha256": "6d32a83695923a0e38a7da82a30d692f952bf499660241a39bb08a48fbcb06ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-179-2022",
+   "path": "local/alba/cugir/2022/179",
+   "short": "HCL Cugir nr. 179/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 179/2022 privind prelungirea contractelor de închiriere pentru locuințele ANL situate în Cugir str",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P100",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.179_-_Prelungire_Contracte_ANL_.doc",
+     "sha256": "5987dfa7f72a20f079c1923e0819f1c10cce95d1037bafd1c1544d53e2cf6b0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-18-2022",
+   "path": "local/alba/cugir/2022/18",
+   "short": "HCL Cugir nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 18/2022 Privind repartiția unui imobil aparținând domeniului privat al Orașului Cugir, situat pe str",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P260",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.18_-_Repartitie_imobil_str_.G_.Cosbuc,_nr_.14.doc",
+     "sha256": "2d88ce2bc57fa1a480ab508bb3393eb476b82da2e4a2544ebd97cb7db72d706f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-180-2022",
+   "path": "local/alba/cugir/2022/180",
+   "short": "HCL Cugir nr. 180/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 180/2022",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+     "sha256": "813ce842adfcebe1c351f9a1a9f38da7913fbdc5d96c2b47c0ee214e8e35ffb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-181-2022",
+   "path": "local/alba/cugir/2022/181",
+   "short": "HCL Cugir nr. 181/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 181/2022 Privind repartiția unui număr de două imobile aparținând domeniului privat al Orașului Cugir, situate pe str",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.181_-_Repartitie_2_imobile_fond_locativ_.doc",
+     "sha256": "b95cb203a7b731028f040986b8057358c494343fe8b5541e4fb00baa3de6ddf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-182-2022",
+   "path": "local/alba/cugir/2022/182",
+   "short": "HCL Cugir nr. 182/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 182/2022",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+     "sha256": "a3ca08bdd012558602db96d9377bde4d7142b41408140937fa34f5e7df28a94c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-183-2022",
+   "path": "local/alba/cugir/2022/183",
+   "short": "HCL Cugir nr. 183/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 183/2022",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+     "sha256": "3cedee88495d172ba596004aba3f35811c53debc5764e5a2207ecd08750c837f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-184-2022",
+   "path": "local/alba/cugir/2022/184",
+   "short": "HCL Cugir nr. 184/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 184/2022",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+     "sha256": "6eac0e07d3e227d47a9b7a6e1250fd396002a6825212bd953dc395308b1b9a29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-185-2022",
+   "path": "local/alba/cugir/2022/185",
+   "short": "HCL Cugir nr. 185/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 185/2022 Privind alegerea președintelui de ședință pentru a conduce lucrările ședințelor care vor fi convocate în lunile septembrie-octombrie 2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară” cu convocare de îndată, desfășurată la distanță, în data de 09 septembrie 2022; Luând act de: -Încheierea Civilă nr.3515/CC/2020 pronunțată de Judecătoria Alba- Iulia în",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.185_-_Alegere_presedinte_de_sedinta_septembrie-octombrie_.doc",
+     "sha256": "5d8d24c44dc9dababb885b60fb458b837f2ea12af6dac37e06f2d6f7730cdae1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-19-2022",
+   "path": "local/alba/cugir/2022/19",
+   "short": "HCL Cugir nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 19/2022 privind prelungirea Contractului de închiriere având ca obiect locuința ce aparține domeniului privat al Orașului Cugir situată pe str",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P260",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P260",
+     "sha256": "c069f6954906b29bc961d00f96003142a8700c44cad43e77e61c6740fed04a9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-195-2022",
+   "path": "local/alba/cugir/2022/195",
+   "short": "HCL Cugir nr. 195/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 195/2022",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+     "sha256": "c037c02574afc049ae55b01dd68f4083011d1515d9cda3f1631fa3c8aaa79aca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-196-2022",
+   "path": "local/alba/cugir/2022/196",
+   "short": "HCL Cugir nr. 196/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 196/2022 privind aprobarea sprijinului financiar pentru unitățile de cult aparținând cultelor religioase recunoscute din România pentru anul 2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 30 septembrie 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea sprijinului financiar pentru unitățile de cult aparținând cultelor religioase recu",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.196_-_Aprobare_sprijin_financiar_culte_2022_sesiunea_a_doua_.doc",
+     "sha256": "5cbe42fee0f79c85497f1b418536137afbf273284ecde23bdd775f53d7bef7f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-197-2022",
+   "path": "local/alba/cugir/2022/197",
+   "short": "HCL Cugir nr. 197/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 197/2022 privind aprobarea rezultatelor inventarierii patrimoniului Orașului Cugir pentru anul 2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică „ordinară” din data de 30 septembrie 2022; Luând în dezbatere : -Proiectul de hotărâre privind aprobarea rezultatelor inventarierii patrimoniului Orașului Cugir pentru anul 2022; -Referatul de aprobare nr. 18.408/21.09.2022 al prima",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.197_-_Aprobare_rezultate_inventariere_2022_.doc",
+     "sha256": "c21146e8d7017d5981c038b3b61e67e60eaa190381d604b5212e015b911f16ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-198-2022",
+   "path": "local/alba/cugir/2022/198",
+   "short": "HCL Cugir nr. 198/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 198/2022 pentru Schitul Calene",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P80",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.198_-_Atribuire_cu_titlu_gratuit_lemn_de_foc_pentru_Schitul_Calene_.doc",
+     "sha256": "f089a04508f585b8c39d57d5f312ca34ec526ea2db7ae06a6435cb2036330fc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-20-2022",
+   "path": "local/alba/cugir/2022/20",
+   "short": "HCL Cugir nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 20/2022 privind aprobarea actualizării devizului general pentru obiectivul de investiție ”Reabilitare, modernizare, echipare infrastructură educațională pentru învățământul preșcolar la Școala Gimnazială Singidava Cugir\", jud",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P240",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.20_-_Actualizare_deviz_Scoala_Singidava_(Gradinita_Voinicel)_.doc",
+     "sha256": "e60efecefb72ba699cb0dede6a19d66a5468882fa5dd7700b19f445a049233f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-200-2022",
+   "path": "local/alba/cugir/2022/200",
+   "short": "HCL Cugir nr. 200/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 200/2022 privind desemnarea reprezentanților Consiliului Local al Orașului Cugir în Comisiile pentru evaluarea și asigurarea calității din cadrul unităților de învățământ preuniversitar de pe raza administrativ-teritorială a Orașului Cugir, pentru anul școlar 2022-2023 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 30 septembrie 2022; Luând în dezbatere:",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P60",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.200_-_Desemnare_reprezentanti_in_Comisii_asig_.calitatii_invatamant_.doc",
+     "sha256": "fb56e8bb24e88ad42a3cf89e11ccea12fac39244b0a622ef73071a0cfa6e6299"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-203-2022",
+   "path": "local/alba/cugir/2022/203",
+   "short": "HCL Cugir nr. 203/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 203/2022",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P60",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P60",
+     "sha256": "ef68a186a2dce3d5e8e44252dfdde3e2d66aaa61c668b83cd1016db42f85d19f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-204-2022",
+   "path": "local/alba/cugir/2022/204",
+   "short": "HCL Cugir nr. 204/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 204/2022 privind repartiția unui imobil aparținând domeniului privat al Orașului Cugir, situat administrativ în Orașul Cugir, str",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P60",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.204_-_Repartitie_imobil_apartinand_domeniului_privat_al_Ors_._Cugir_.doc",
+     "sha256": "6035baad91fe95fc7cd7ea237ace8333f6f43d8930094a7332ea8b3c7051dae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-205-2022",
+   "path": "local/alba/cugir/2022/205",
+   "short": "HCL Cugir nr. 205/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 205/2022 privind încheierea unui Acord de parteneriat în scopul furnizării de servicii sociale specializate pentru victimele violenței în familie din unitatea administrativ teritorială Blaj Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ordinară din data de 30 septembrie 2022; Luând în dezbatere : -Proiectul de hotărâre privind încheierea unui Acord de parteneriat în scopul fu",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P60",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.205_-_Aprobare_parteneriat_Blaj_.doc",
+     "sha256": "e7f4684ddf8136196d1c553e72affe7adc330a6bb20e267b486d217632c0680c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-206-2022",
+   "path": "local/alba/cugir/2022/206",
+   "short": "HCL Cugir nr. 206/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 206/2022 privind aprobarea participării Consiliului Local al Orașului Cugir, prin Serviciul Public de Asistență Socială Cugir, la implementarea proiectului “Prin educație spre vocație” în parteneriat cu Asociația Filantropia Ortodoxă Alba Iulia și Școala Gimnazială ”Singidava” Cugir Consiliul Local al Orașului Cugir, județul Alba; Întrunit în ședință publică “ordinară” din data de 30 septembrie 2022; Luând",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P60",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.206_-_Aprobare_incheiere_Parteneriat_Filantropia-SPAS_Cugir-Scoala_Singidava_.doc",
+     "sha256": "357b08bc3872118f0dfc6424c3f3326963964d2b7dc431b20b0526cd92ba04d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-209-2022",
+   "path": "local/alba/cugir/2022/209",
+   "short": "HCL Cugir nr. 209/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 209/2022",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P60",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P60",
+     "sha256": "787c69186c5523907bf1b204cc29e91dabf7b75c022e2843cba3ab87f25f52b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-212-2022",
+   "path": "local/alba/cugir/2022/212",
+   "short": "HCL Cugir nr. 212/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 212/2022 privind rectificarea bugetului local al Orașului Cugir și a bugetului instituțiilor publice finanțate din venituri proprii și subvenții pe anul 2022 Consiliul local al orașului Cugir, județul Alba; Întrunit în ședință publică extraordinară cu convocare de îndată din data de 12 octombrie 2022; Luând în dezbatere: -Proiectul de hotărâre privind rectificarea bugetului local al Orașului Cugir și a bug",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P60",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.212_-_Rectificare_6_buget_local_2022_.doc",
+     "sha256": "2e0fabba2a97543f4663f657027e6124b7c9be2572cad06e2f249d6838757ff1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-213-2022",
+   "path": "local/alba/cugir/2022/213",
+   "short": "HCL Cugir nr. 213/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 213/2022 privind alipirea a două imobile-terenuri aparținând domeniului public al orașului Cugir Consiliul Local al Orașului Cugir, județul Alba; Întrunit în ședință publică “extraordinară” cu convocare de îndată din data de 12 octombrie 2022; Văzând Referatul de admitere a cererii de alipire a două imobile- terenuri aparținând domeniului public al orașului Cugir, eliberat de către Oficiul de Cadastru și P",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P60",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.213_-_Alipire_cladiri_Primarie_si_Taxe_si_impozite_str_.I_.L_._Caragiale_.doc",
+     "sha256": "f97588552fa2d002e2ec0a9dee275f1925bb6b36b791ce69c69483407d9fa57a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-216-2022",
+   "path": "local/alba/cugir/2022/216",
+   "short": "HCL Cugir nr. 216/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 216/2022 privind aprobarea cuantumului și numărului de burse care se acordă elevilor din învățământul preuniversitar de stat de pe raza orașului Cugir, în anul școlar 2022-2023 Consiliul local al orașului Cugir, județul Alba; Întrunit în ședință publică extraordinară cu convocare de îndată din data de 14 octombrie 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea cuantumului și numărului d",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P60",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.216_-_Aprobare_burse_scolare_2022-2023_.doc",
+     "sha256": "d2c13bd2ee61a54200acfa3731f01aa8b806192765343416319fc9b15bd5fcbf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--cugir-22-2022",
    "path": "local/alba/cugir/2022/22",
    "short": "HCL Cugir nr. 22/2022",
@@ -48,6 +1083,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--cugir-224-2022",
+   "path": "local/alba/cugir/2022/224",
+   "short": "HCL Cugir nr. 224/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 224/2022 privind rectificarea bugetului de venituri și cheltuieli aprobat pe anul 2022 pentru Ocolul Silvic „Sâpcea” Cugir R.A",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P40",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.224_-_Rectificare_1_BVC_Sapcea_2022_.doc",
+     "sha256": "72d693599ea317e384b3f4f295be08277c74a85d0fe46dcbd4f9c5f199c7d2b3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--cugir-225-2022",
    "path": "local/alba/cugir/2022/225",
    "short": "HCL Cugir nr. 225/2022",
@@ -59,6 +1109,66 @@
      "units": 1,
      "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.225_-_Stabilire_preturi_de_referinta_masa_lemnoasa_2023_.docx",
      "sha256": "a26f2578b7c014f05aa0b773312babe6a448c984c2a5b2208192349c0ec2f69a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-226-2022",
+   "path": "local/alba/cugir/2022/226",
+   "short": "HCL Cugir nr. 226/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 226/2022 privind alipirea a două imobile-terenuri aparținând domeniului privat al orașului Cugir situate administrativ în extravilanul orașului Cugir, locul numit Zăvoi Consiliul Local al Orașului Cugir, județul Alba; Întrunit în ședință publică “ordinară” din data de 31 octombrie 2022; Văzând Referatul de admitere a cererii de alipire a două imobile- terenuri aparținând domeniului privat al orașului Cugir",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P40",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.226_-_Alipire_terenuri_Zavoi_.doc",
+     "sha256": "206ee912dec8d680e9f61a916e42616054d1c2e694e7a7fc3a3678cb87958319"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-229-2022",
+   "path": "local/alba/cugir/2022/229",
+   "short": "HCL Cugir nr. 229/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 229/2022 privind prelungirea Contractelor de închiriere pentru locuințele ANL situate în Cugir str",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P40",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.229_-_Prelungire_Contracte_inchiriere_ANL_.doc",
+     "sha256": "47b0bb3c4cc1f8bbaf483c4901feb639227cb4c0990f355ace03d3b9aa60c4e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-23-2022",
+   "path": "local/alba/cugir/2022/23",
+   "short": "HCL Cugir nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 23/2022 Privind alegerea președintelui de ședință pentru a conduce ședința extraordinară din data de 10 februarie 2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară”, desfășurată la distanță, din data 10 ianuarie 2022; Luând act de: -Încheierea Civilă nr.3515/CC/2020 pronunțată de Judecătoria Alba- Iulia în dos nr.5808/176/2020 prin care s-au validat mandatele",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P240",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.23_-_Alegere_presedinte_de_sedinta_10_februarie_.doc",
+     "sha256": "736907cf1381af4b1f101db13efd3c679d55dde972e96935dc3286c622521158"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-230-2022",
+   "path": "local/alba/cugir/2022/230",
+   "short": "HCL Cugir nr. 230/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 230/2022 privind completarea cap. IV din Contractul de dare în administrare nr. 16938/05.11.2018 încheiat între Orașul Cugir și Centrul Cultural Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 31 octombrie 2022; Luând în dezbatere: -Proiectul de hotărâre privind completarea Contractului de dare în administrare nr.16938/05.11.2018 cu răspunderile ce",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P40",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.230_-_Completare_Contract_dare_in_administrare_Centrul_Cultural_Cugir_.doc",
+     "sha256": "e5230e35a1bef148f6726c721f0d97b9d1cfbdfcb700082e0a788626760ede95"
     }
    ]
   },

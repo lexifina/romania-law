@@ -25,6 +25,73 @@
 }
 },
 {
+"slug": "hcl-vrancea--vintileasca-2-2021",
+"path": "local/vrancea/vintileasca/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 2/2021 Aprobarea proiectului „Achiziţia de echipamente IT mobile tip tabletă pentru uz şcolar si alte echipamente/dispozitive electronice necesare desfăşurării activităţii didactice în mediul online pentru Şcoala Gimnazială „Regina Maria”, localitatea Vintileasca, judetul Vrancea”",
+"short": "HCL Vintileasca nr. 2/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#7803",
+"council": "vrancea/vintileasca",
+"council_name": "Consiliul Local al Comunei Vintileasca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vintileasca-3-2021",
+"path": "local/vrancea/vintileasca/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 3/2021 APROBARE NOMENCLATOR STRADAL AL COMUNEI VINTILEASCA,JUDETUL VRANCEA",
+"short": "HCL Vintileasca nr. 3/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#7811",
+"council": "vrancea/vintileasca",
+"council_name": "Consiliul Local al Comunei Vintileasca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vintileasca-4-2021",
+"path": "local/vrancea/vintileasca/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 4/2021",
+"short": "HCL Vintileasca nr. 4/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": null,
+"council": "vrancea/vintileasca",
+"council_name": "Consiliul Local al Comunei Vintileasca",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-vrancea--vintileasca-5-2021",
 "path": "local/vrancea/vintileasca/2021/5",
 "kind": "local",
@@ -62,6 +129,50 @@
 "from": "2021-01-28",
 "latest": "2021-01-28",
 "portal": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#7939",
+"council": "vrancea/vintileasca",
+"council_name": "Consiliul Local al Comunei Vintileasca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vintileasca-7-2021",
+"path": "local/vrancea/vintileasca/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 7/2021 Alegerea presedintelui de sedinta pentru urmatoarele trei luni",
+"short": "HCL Vintileasca nr. 7/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#7947",
+"council": "vrancea/vintileasca",
+"council_name": "Consiliul Local al Comunei Vintileasca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--vintileasca-8-2021",
+"path": "local/vrancea/vintileasca/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vintileasca nr. 8/2021 Alegerea viceprimarului comunei Vintileasca,judetul Vrancea",
+"short": "HCL Vintileasca nr. 8/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://vintileasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6583#7948",
 "council": "vrancea/vintileasca",
 "council_name": "Consiliul Local al Comunei Vintileasca",
 "flags": {

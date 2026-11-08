@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/ploscuteni/2026",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--ploscuteni-11-2026",
+   "path": "local/vrancea/ploscuteni/2026/11",
+   "short": "HCL Ploscuțeni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscuțeni nr. 11/2026 privind aprobarea bugetului de venituri și cheltuieli al unitatii administrativ teritoriale comuna Ploscuteni, a listei de investitii cu finantare de la bugetul local si cu finantare integrala sau partiala din venituri proprii si subventii pe anul 2026, utilizarea excedentului financiar al bugetului local de la sfarsitul anului 2025 in suma de 1050,00 mii lei pentru finantarea cheltuielilor sectiunii de dezvoltare, pe anul 2026, precum si validarea dispozitiei nr. 1/08.01.2026 privind acoperirea definitiva din excedentul anilor precedenti a bugetului local, a deficitului aferent anului 2025 -sursa A- \"Sectiunea dezvoltare\" in suma de 1.094.908,15 lei",
+   "url": "https://emol.ro/ploscuteni-vn/registru-hcl/272900",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscuteni-vn/registru-hcl/272900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ploscuteni-14-2026",
+   "path": "local/vrancea/ploscuteni/2026/14",
+   "short": "HCL Ploscuțeni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscuțeni nr. 14/2026 privind alegerea presedintelui de sedinta pentru conducerea şedintelor Consiliului Local al comunei Ploscuteni si semnarea hotărârilor pentru perioada iunie 2026 – august 2026",
+   "url": "https://emol.ro/ploscuteni-vn/registru-hcl/272903",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscuteni-vn/registru-hcl/272903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ploscuteni-2-2026",
+   "path": "local/vrancea/ploscuteni/2026/2",
+   "short": "HCL Ploscuțeni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscuțeni nr. 2/2026 privind alegerea presedintelui de sedinta pentru conducerea şedintelor Consiliului Local al comunei Ploscuteni si semnarea hotărârilor pentru perioada martie 2026 – mai 2026",
+   "url": "https://emol.ro/ploscuteni-vn/registru-hcl/259372",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscuteni-vn/registru-hcl/259372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ploscuteni-23-2026",
+   "path": "local/vrancea/ploscuteni/2026/23",
+   "short": "HCL Ploscuțeni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscuțeni nr. 23/2026 privind alegerea presedintelui de sedinta pentru conducerea şedintelor Consiliului Local al comunei Ploscuteni si semnarea hotărârilor pentru perioada octombrie - decembrie 2026",
+   "url": "https://emol.ro/ploscuteni-vn/registru-hcl/292888",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscuteni-vn/registru-hcl/292888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--ploscuteni-9-2026",
+   "path": "local/vrancea/ploscuteni/2026/9",
+   "short": "HCL Ploscuțeni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscuțeni nr. 9/2026 privind aprobarea utilizarii sumei de 50.000 lei din excedentul bugetar anual, inregistrat la data de 31.12.2025, pentru finanțarea cheltuielilor sectiunii de dezvoltare in anul 2026, pentru obiectivul de investiții Înființare rețea de gaze naturale",
+   "url": "https://emol.ro/ploscuteni-vn/registru-hcl/259379",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscuteni-vn/registru-hcl/259379",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

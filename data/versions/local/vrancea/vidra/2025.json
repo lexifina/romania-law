@@ -1,0 +1,756 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/vidra/2025",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--vidra-10-2025",
+   "path": "local/vrancea/vidra/2025/10",
+   "short": "HCL Vidra nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 10/2025 privind aprobarea „Planului de analiză şi acoperire a riscurilor al UAT Comuna Vidra„",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/199496",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/199496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-11-2025",
+   "path": "local/vrancea/vidra/2025/11",
+   "short": "HCL Vidra nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 11/2025 privind aprobarea acordului de participare a comunei Vidra, judeţul Vrancea în cadrul Programului privind acordarea de sprijin în vederea achiziţionării de aparate pentru încălzirea locuinţelor, pentru localităţile din zona montană",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/199497",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/199497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-12-2025",
+   "path": "local/vrancea/vidra/2025/12",
+   "short": "HCL Vidra nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 12/2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/199498",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/199498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-13-2025",
+   "path": "local/vrancea/vidra/2025/13",
+   "short": "HCL Vidra nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 13/2025 privind modificarea Hotărârii Consiliului Local Vidra, județul Vrancea nr. 45 din 22 august 2024",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/199499",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/199499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-15-2025",
+   "path": "local/vrancea/vidra/2025/15",
+   "short": "HCL Vidra nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 15/2025 privind aprobarea bugetului local consolidat al comunei Vidra, Județul Vrancea, pe anul 2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/200720",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/200720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-16-2025",
+   "path": "local/vrancea/vidra/2025/16",
+   "short": "HCL Vidra nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 16/2025 privind aprobarea investiției, a devizului general și a indicatorilor tehnico-economici pentru obiectivul de utilitate și interes public „Construire locuințe sociale și de necesitate, 16 UL în comuna Vidra, județul Vrancea”",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/200721",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/200721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-17-2025",
+   "path": "local/vrancea/vidra/2025/17",
+   "short": "HCL Vidra nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 17/2025 privind aprobarea documentaţiei de dezmembrare imobil – teren, domeniul public al UAT Comuna Vidra",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/205754",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/205754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-18-2025",
+   "path": "local/vrancea/vidra/2025/18",
+   "short": "HCL Vidra nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 18/2025 privind aprobarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții „Consolidare si reabilitare pentru eficientizare energetica cladire internat Liceul Simion Mehedinti Vidra, comuna Vidra, judetul Vrancea”, pentru finanțare prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile de interes și utilitate publică",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/205755",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/205755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-19-2025",
+   "path": "local/vrancea/vidra/2025/19",
+   "short": "HCL Vidra nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 19/2025 privind aprobarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții „Consolidare si reabilitare pentru eficientizare energetica cantina Liceului Simion Mehedinti Vidra, comuna Vidra, judetul Vrancea”, pentru finanțare prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile de interes și utilitate publică",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/205756",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/205756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-2-2025",
+   "path": "local/vrancea/vidra/2025/2",
+   "short": "HCL Vidra nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 2/2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/188754",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/188754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-20-2025",
+   "path": "local/vrancea/vidra/2025/20",
+   "short": "HCL Vidra nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 20/2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/205757",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/205757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-21-2025",
+   "path": "local/vrancea/vidra/2025/21",
+   "short": "HCL Vidra nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 21/2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/205758",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/205758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-22-2025",
+   "path": "local/vrancea/vidra/2025/22",
+   "short": "HCL Vidra nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 22/2025 privind avizarea documentației de atribuire a Contractului de delegare a gestiunii activității de colectare și transport a deșeurilor municipale din Lotul 2 (zonele 2-5 – Vidra, Gugești, CMID Haret și Adjud), județul Vrancea și aprobarea mandatării cu mandat special a Asociației de Dezvoltare Intercomunitară ,,Vrancea Curată” să exercite, în numele și pe seama Unității Administrativ-Teritoriale comuna VIDRA, delegarea gestiunii serviciului privind colectarea deșeurilor municipale și transportul acestora la punctele/stațiile de transfer la nivelul Lotului 2 (zonele 2-5 – Vidra, Gugești, CMID Haret și Adjud), județul Vrancea, pentru proiectul ,,Sistem de Management Integrat al Deșeurilor în județul Vrancea”",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/209032",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/209032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-23-2025",
+   "path": "local/vrancea/vidra/2025/23",
+   "short": "HCL Vidra nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 23/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/209033",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/209033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-25-2025",
+   "path": "local/vrancea/vidra/2025/25",
+   "short": "HCL Vidra nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 25/2025 privind aprobarea constituirii a dreptului de uz şi de servitute, cu titlu gratuit, asupra unui teren proprietate publică a UAT Comuna Vidra, situat în sat Vidra, str. Valeriu D Cotea, comuna Vidra, județul Vrancea, în favoarea Distribuţie Energie Electrică România-Sucursala Focşani",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/209035",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/209035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-26-2025",
+   "path": "local/vrancea/vidra/2025/26",
+   "short": "HCL Vidra nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 26/2025 privind modificarea si completarea Contractului de Asociere - la Hotărârea Consiliului Local al UAT Comuna Vidra nr. 23 din 22.08. 2008 privind asocierea UAT Vidra cu unitatile administrativ-teritoriale din județ in vederea constituirii Asociației de Dezvoltare Intercomunitară „Vrancea Curata” pentru dezvoltarea sistemului de management integrat al deseurilor si extinderea infrastructurii in judetul Vrancea",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/213278",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/213278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-27-2025",
+   "path": "local/vrancea/vidra/2025/27",
+   "short": "HCL Vidra nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 27/2025 privind modificarea Hotărârii Consiliului Local Vidra, județul Vrancea nr. 44 din 09 august 2024",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/213279",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/213279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-29-2025",
+   "path": "local/vrancea/vidra/2025/29",
+   "short": "HCL Vidra nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 29/2025 privind însușirea documentației cadastrale în vederea întabulării în Cartea Funciară și includerii imobilului în inventarul bunurilor care alcătuiesc domeniul privat al Unităţii Administrativ Teritoriale Comuna Vidra, judeţul Vrancea",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/219183",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/219183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-30-2025",
+   "path": "local/vrancea/vidra/2025/30",
+   "short": "HCL Vidra nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 30/2025 privind actualizarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții ,,Construire Centru de zi destinat copiilor cu risc de abandon ,,Sf. Maria”, sat Tichiris, comuna Vidra, județul Vrancea”",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/219184",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/219184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-34-2025",
+   "path": "local/vrancea/vidra/2025/34",
+   "short": "HCL Vidra nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 34/2025 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „Reabilitare și modernizare gradinița cu program normal, sat Vidra, comuna Vidra, județul Vrancea”, pentru finanțare prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile de interes și utilitate publică",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/221393",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/221393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-35-2025",
+   "path": "local/vrancea/vidra/2025/35",
+   "short": "HCL Vidra nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 35/2025 privind rectificarea bugetului local al comunei Vidra, județul Vrancea, pe anul 2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/221394",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/221394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-37-2025",
+   "path": "local/vrancea/vidra/2025/37",
+   "short": "HCL Vidra nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 37/2025 actualizarea valorii de inventar și a elementelor de identificare a unor bunuri imobile , aparținând inventarului bunurilor care alcătuiesc domeniul public al Unităţii Administrativ Teritoriale Comuna Vidra, judeţul Vrancea",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/221984",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/221984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-39-2025",
+   "path": "local/vrancea/vidra/2025/39",
+   "short": "HCL Vidra nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 39/2025 privind revocarea Hotărârii Consiliului Local Vidra, județul Vrancea nr. 9 din 26 martie 2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/227793",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/227793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-4-2025",
+   "path": "local/vrancea/vidra/2025/4",
+   "short": "HCL Vidra nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 4/2025 privind aprobarea Calendarului principalelor manifestări culturale,organizate la nivelul UAT Comuna Vidra în anul 2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/194529",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/194529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-42-2025",
+   "path": "local/vrancea/vidra/2025/42",
+   "short": "HCL Vidra nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 42/2025 aprobarea documentației tehnice la faza Studiu de Fezabilitate ( SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții de interes public și local “ Înființare sistem de canalizare în satul Burca, comuna Vidra, județul Vrancea “",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/227796",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/227796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-43-2025",
+   "path": "local/vrancea/vidra/2025/43",
+   "short": "HCL Vidra nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 43/2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/227797",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/227797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-46-2025",
+   "path": "local/vrancea/vidra/2025/46",
+   "short": "HCL Vidra nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 46/2025 privind aprobarea constituirii cu titlu gratuit a dreptului de uz şi servitute asupra unui teren în suprafaţă de 25 mp în favoarea Distribuţie Energie Electrică România (D.E.E.R.) - Sucursala Focșani",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/230524",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/230524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-47-2025",
+   "path": "local/vrancea/vidra/2025/47",
+   "short": "HCL Vidra nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 47/2025 privind aprobarea ”Strategiei de dezvoltare integrată a Microregiunii Țara Vrancei” - livrabil final în cadrul sub-activității SA2.2 ”Elaborarea, validarea și aprobarea Strategiei de dezvoltare integrată pentru Microregiunea Țara Vrancei” din proiectul ”Țara Vrancei, țara noastră, țara ta” (cod SMIS 329683) finanțat prin Programul de Asistență Tehnică 2021-2027 – beneficiar Asociația pentru Dezvoltare Teritorială Integrată Țara Vrancei",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/230525",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/230525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-48-2025",
+   "path": "local/vrancea/vidra/2025/48",
+   "short": "HCL Vidra nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 48/2025 privind aprobarea rectificării bugetului local al comunei Vidra, județul Vrancea, pe anul 2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/230526",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/230526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-49-2025",
+   "path": "local/vrancea/vidra/2025/49",
+   "short": "HCL Vidra nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 49/2025 privind preluarea în proprietate a bunului mobil – activ fix – 1 microbuz electric școlar achiziționat prin proiectul „Verde la educație – microbuze electrice pentru elevi”, finanțat prin Planul Național de Redresare și Reziliență - Componenta 15 – Educație",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/233429",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/233429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-5-2025",
+   "path": "local/vrancea/vidra/2025/5",
+   "short": "HCL Vidra nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 5/2025 privind actualizarea Planului de măsuri necesare pentru interzicerea abandonării, aruncării necontrolate şi a gestionării neconforme a deşeurilor, pe raza UAT Comuna Vidra, judeţul Vrancea",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/194530",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/194530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-50-2025",
+   "path": "local/vrancea/vidra/2025/50",
+   "short": "HCL Vidra nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 50/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale la nivelul UAT Comuna Vidra, judeţul Vrancea, perioada 2025-2030",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/238401",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/238401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-52-2025",
+   "path": "local/vrancea/vidra/2025/52",
+   "short": "HCL Vidra nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 52/2025 privind funcționarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat pentru anul şcolar 2026 -2027 din comuna Vidra, judeţul Vrancea",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/240121",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/240121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-54-2025",
+   "path": "local/vrancea/vidra/2025/54",
+   "short": "HCL Vidra nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 54/2025 privind implementarea proiectului „Digitalizarea turismului local al Comunei VIDRA, județul Vrancea” în cadrul PNRR/2025/C11/REFORMA 1",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/240123",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/240123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-55-2025",
+   "path": "local/vrancea/vidra/2025/55",
+   "short": "HCL Vidra nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 55/2025 privind revocarea Hotărârii Consiliului Local Vidra, județul Vrancea nr. 41 din 30 septembrie 2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/240124",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/240124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-56-2025",
+   "path": "local/vrancea/vidra/2025/56",
+   "short": "HCL Vidra nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 56/2025 privind rectificarea bugetului local al comunei Vidra, județul Vrancea, pe anul 2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/240125",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/240125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-57-2025",
+   "path": "local/vrancea/vidra/2025/57",
+   "short": "HCL Vidra nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 57/2025 privind aprobarea contractării unui împrumut în valoare de 10.955.668 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/243302",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/243302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-58-2025",
+   "path": "local/vrancea/vidra/2025/58",
+   "short": "HCL Vidra nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 58/2025 privind modificarea/abrogarea unor hotărâri ale consiliului local al comunei VIDRA, judeţul VRANCEA",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/244670",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/244670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-59-2025",
+   "path": "local/vrancea/vidra/2025/59",
+   "short": "HCL Vidra nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 59/2025 privind înfiinţarea, organizarea şi funcţionarea serviciului de utilităţi publice - serviciul public de alimentare cu apă şi de canalizare - al comunei VIDRA, judeţul VRANCEA",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/244671",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/244671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-60-2025",
+   "path": "local/vrancea/vidra/2025/60",
+   "short": "HCL Vidra nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 60/2025 privind aprobarea cotei corepunzătoare pierderilor de apă din sistemul de alimentare cu apă al comunei VIDRA, Judeţul VRANCEA",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/244672",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/244672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-61-2025",
+   "path": "local/vrancea/vidra/2025/61",
+   "short": "HCL Vidra nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 61/2025 privind cantitatea de apã uzatã evacuatã de utilizatorii serviciului public de alimentare cu apă şi de canalizare în comuna VIDRA, Judeţul VRANCEA",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/244673",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/244673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-62-2025",
+   "path": "local/vrancea/vidra/2025/62",
+   "short": "HCL Vidra nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 62/2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/244674",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/244674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-63-2025",
+   "path": "local/vrancea/vidra/2025/63",
+   "short": "HCL Vidra nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 63/2025 privind acordul autorităţii administraţiei publice locale privind avizarea nivelului preţurilor/tarifelor solicitate de operator pentru serviciul de alimentare cu apă şi de canalizare pentru comuna VIDRA, judeţul VRANCEA",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/244675",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/244675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-64-2025",
+   "path": "local/vrancea/vidra/2025/64",
+   "short": "HCL Vidra nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 64/2025 privind privind aprobarea tarifelor pentru prestarea unor servicii conexe serviciului public de alimentare cu apă şi de canalizare al comunei VIDRA, judeţul VRANCEA, de către operatorul serviciului public \" SERVICIUL APĂ CANAL – COMUNA VIDRA”",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/244676",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/244676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-65-2025",
+   "path": "local/vrancea/vidra/2025/65",
+   "short": "HCL Vidra nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 65/2025 privind modificarea HCL VIDRA nr. 46 din 08 septembrie 2016 privind reorganizarea “Serviciului Public de Alimentare cu Apă şi Canalizare” fără personalitate juridică, din structura aparatului de specialitate al primarului comunei VIDRA, judeţul Vrancea, înfiinţat prin HCL nr.41/20.12.2011, în “Serviciu Public de Alimentare cu Apă şi Canalizare” – cu personalitate juridică, organizat în subordinea Consiliului Local al comunei Vidra, în conformitate cu dispoziţiile art.II din Legea serviciului public de alimentare cu apă şi canalizare nr. 241/2006, modificată şi completată prin Legea nr. 224/30.07.2015",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/244677",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/244677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-66-2025",
+   "path": "local/vrancea/vidra/2025/66",
+   "short": "HCL Vidra nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 66/2025 privind stabilirea nivelurilor pentru valorile impozabile ale impozitelor şi taxelor locale, ale altor taxe asimilate acestora, precum şi amenzilor aplicabile în anul fiscal 2026, la nivelul UAT Comuna Vidra",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/245471",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/245471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-67-2025",
+   "path": "local/vrancea/vidra/2025/67",
+   "short": "HCL Vidra nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 67/2025 privind rectificarea bugetului local al comunei Vidra, județul Vrancea, pe anul 2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/245472",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/245472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-7-2025",
+   "path": "local/vrancea/vidra/2025/7",
+   "short": "HCL Vidra nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 7/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local al comunei Vidra, județul Vrancea pentru anul 2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/196933",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/196933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-8-2025",
+   "path": "local/vrancea/vidra/2025/8",
+   "short": "HCL Vidra nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 8/2025 privind modificarea Hotărârii Consiliului Local Vidra nr. 21 din 27.02.2024 privind aprobarea proiectului și a cheltuielilor legate de proiect pentru obiectivul de investiții ,,Reabilitare și eficientizare energetică corp C1 – Liceul ”Simion Mehedinți”, extindere grupuri sanitare și construire corp tehnic, sat Vidra județul Vrancea”",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/196934",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/196934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vidra-9-2025",
+   "path": "local/vrancea/vidra/2025/9",
+   "short": "HCL Vidra nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vidra nr. 9/2025 privind completarea Hotărârii Consiliului Local Vidra, județul Vrancea nr. 5 din 17 februarie 2025",
+   "url": "https://emol.ro/vidra-vn/registru-hcl/199495",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vidra-vn/registru-hcl/199495",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}
