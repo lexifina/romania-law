@@ -23,6 +23,7 @@ The tables, files and sources behind this repository. The [README](README.md) ha
 | `data/treaty-links.csv` | treaties and the acts that ratify them |
 | `data/rectifications.csv` | rectifications in the Monitorul Oficial and the acts they correct |
 | `data/mo-issues.csv` | an index of Monitorul Oficial issues |
+| `data/mo-pdfs.csv` | Monitorul Oficial issues linked to scanned copies on Wikimedia Commons (1877–2011), not official |
 | `data/local-taxes.csv` | local councils' decisions on local taxes, by locality and year |
 
 ## Court decisions
