@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/arad/santana/2011",
+ "acts": [
+  {
+   "slug": "hcl-arad--santana-100-2011",
+   "path": "local/arad/santana/2011/100",
+   "short": "HCL Sântana nr. 100/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 100/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0100_2011_06_23.pdf",
+     "sha256": "c1a00e72ea71bf955f4ba597bd533b5b4793db5d94811b7778adaad8573dc233"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-159-2011",
+   "path": "local/arad/santana/2011/159",
+   "short": "HCL Sântana nr. 159/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 159/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0159_2011_06_23.pdf",
+     "sha256": "9e9f61ca75199a0915c8d133c8af3cb4a5b14d2bce3e4700396f45f950bb747a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-16-2011",
+   "path": "local/arad/santana/2011/16",
+   "short": "HCL Sântana nr. 16/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 16/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0016_2011_02_21.pdf",
+     "sha256": "ea2113d9bc6bf12a45f3fd52febec5c3005ef7d95949d6d3a58196ab0faff81c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-190-2011",
+   "path": "local/arad/santana/2011/190",
+   "short": "HCL Sântana nr. 190/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 190/2011 PRIVIND APROBAREA CERERILOR DEPUSE IN BAZA LEGII NR. 15/2003 CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Referat Comisia Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala - Prevederile art. 4 si 5 Legii nr. 15/2003 si a Normelor metodologice de aplicare a legii - Prevederile art. 36, alin. (2), lit. c.) din Legea 215/2001 priv",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=320",
+   "versions": [
+    {
+     "from": "2011-08-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0190_2011_08_16.pdf",
+     "sha256": "733d9141e6ffa3e7579d68581cac90df3d2c3f47e8d64e143c0e6369df04acb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-193-2011",
+   "path": "local/arad/santana/2011/193",
+   "short": "HCL Sântana nr. 193/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 193/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-08-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0193_2011_08_16.pdf",
+     "sha256": "4fa75a360104a8b27bab095b0508c557d27d5a076852f2552c0dca2513132a28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-248-2011",
+   "path": "local/arad/santana/2011/248",
+   "short": "HCL Sântana nr. 248/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 248/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0248_2011_12_06.pdf",
+     "sha256": "d154a50b99d2c192cd543429e370202c8b94bbfd32fe6e35cb7d83b96dcb426f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-250-2011",
+   "path": "local/arad/santana/2011/250",
+   "short": "HCL Sântana nr. 250/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 250/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0250_2011_12_06.pdf",
+     "sha256": "93559036f5c44fa06380e560781433a2022e3fbd3e6a3acb8b7b67a810c0f986"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-27-2011",
+   "path": "local/arad/santana/2011/27",
+   "short": "HCL Sântana nr. 27/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 27/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0027_2011_02_21.pdf",
+     "sha256": "b367c0b63bf5b65ea31659e43ef8cc6fbdc779d6c41be42aba83f9c8cc871df1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-28-2011",
+   "path": "local/arad/santana/2011/28",
+   "short": "HCL Sântana nr. 28/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 28/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0028_2011_02_21.pdf",
+     "sha256": "a91eb13b9d973faba1c519f447faa7795666701733fcc7d559711c8f65d4d9bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-38-2011",
+   "path": "local/arad/santana/2011/38",
+   "short": "HCL Sântana nr. 38/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 38/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0038_2011_03_22.pdf",
+     "sha256": "13dfd8eafe97fccac0f220f85084eb2accfef36782375cf0b094e593c9e6ef06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-45-2011",
+   "path": "local/arad/santana/2011/45",
+   "short": "HCL Sântana nr. 45/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 45/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0045_2011_03_22.pdf",
+     "sha256": "64d0026f0e962424b7b7aea70647f21f34ebe4dfb9ce706114319c61b6d97fbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-61-2011",
+   "path": "local/arad/santana/2011/61",
+   "short": "HCL Sântana nr. 61/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 61/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0061_2011_04_28.pdf",
+     "sha256": "1103c0209c6bc7292e00ea375f55d881c8d9a46a4bc771cc5fd0359f65df04a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-75-2011",
+   "path": "local/arad/santana/2011/75",
+   "short": "HCL Sântana nr. 75/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 75/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0075_2011_05_17.pdf",
+     "sha256": "d7050ab5eb768e6ada3000d8762c850f995b89045a910356a8e3b1f60cd8f62e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-87-2011",
+   "path": "local/arad/santana/2011/87",
+   "short": "HCL Sântana nr. 87/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 87/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-31",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0087_2011_05_31.pdf",
+     "sha256": "ebc80d2a066c5921d9e77974e3e5b7de96622c95591543d913b2bcf130766ad7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-9-2011",
+   "path": "local/arad/santana/2011/9",
+   "short": "HCL Sântana nr. 9/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 9/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0009_2011_01_18.pdf",
+     "sha256": "4aa8a27961247fa26707e49b0d9d9f6be66065c8f10a0e1ae8b8744a0d9a3dca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-99-2011",
+   "path": "local/arad/santana/2011/99",
+   "short": "HCL Sântana nr. 99/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 99/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0099_2011_06_23.pdf",
+     "sha256": "02b5dc2a88524f16d09056680056462a89750482ca3de41c4fbb4e97285a2900"
+    }
+   ]
+  }
+ ]
+}

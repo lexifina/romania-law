@@ -45,6 +45,29 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-vaslui--vaslui-135-2020",
+"path": "local/vaslui/vaslui/2020/135",
+"kind": "local",
+"year": "2020",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vaslui nr. 135/2020 privind aprobarea reactualizarii zonarii municipiului Vaslui și a localitatilor componente in vederea stabilirii taxelor și impozitelor in anul 2021 CONSILIUL LOCAL AL MUNICIPIULUI VASLUI, Având în vedere: - referatul cu nr. 83745/20.11.2020 al Primarului Municipiului Vaslui; - raportul de specialitate al arhitectului șef cu nr. 83746/20.11.2020 din cadrul Direcției de Amenjare a Teritoriului și U",
+"short": "HCL Vaslui nr. 135/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://primariavaslui.ro/wp-content/uploads/2026/10/135.-HCL-nr.-135.pdf",
+"council": "vaslui/vaslui",
+"council_name": "Consiliul Local al Municipiului Vaslui",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
 }
 ]
 }

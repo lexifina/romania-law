@@ -3,6 +3,21 @@
  "shard": "local/calarasi/calarasi/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--calarasi-1-2025",
+   "path": "local/calarasi/calarasi/2025/1",
+   "short": "HCL Călărași nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Călărași nr. 1/2025 privind stabilirea impozitelor, taxelor și tarifelor locale pentru anul 2026",
+   "url": "https://primariacalarasi.ro/monitorul-oficial-local/documente-si-informatii-financiare/taxe-si-impozite-locale/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 8,
+     "source_url": "https://primariacalarasi.ro/storage/2020/12/HCL-241-2.pdf",
+     "sha256": "aacd93fea68a09b7dc674d8bbfa4ef1035d31c8ffb7a05672ff1f82250ba327d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--calarasi-161-2025",
    "path": "local/calarasi/calarasi/2025/161",
    "short": "HCL Călărași nr. 161/2025",

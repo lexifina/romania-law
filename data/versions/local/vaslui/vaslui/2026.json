@@ -3,6 +3,51 @@
  "shard": "local/vaslui/vaslui/2026",
  "acts": [
   {
+   "slug": "hcl-vaslui--vaslui-257-2026",
+   "path": "local/vaslui/vaslui/2026/257",
+   "short": "HCL Vaslui nr. 257/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Vaslui nr. 257/2026 privind aprobarea procedurii de acceptare/respingere a donațiilor imobiliare de către Municipiul Vaslui",
+   "url": "https://primariavaslui.ro/wp-content/uploads/2026/10/HCL-257-din-27.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 6,
+     "source_url": "https://primariavaslui.ro/wp-content/uploads/2026/10/HCL-257-din-27.08.2026.pdf",
+     "sha256": "1971733de2c9becb7e6b1b77eb674a41f07e9b5b9c7abb50ce51d2551465685f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--vaslui-310-2026",
+   "path": "local/vaslui/vaslui/2026/310",
+   "short": "HCL Vaslui nr. 310/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Vaslui nr. 310/2026 privind acordarea unui mandat special reprezentantului UAT în ADIV pentru a vota proiectul de hotărâre privind aprobarea cuantumului taxei speciale de salubrizare pentru anul 2027 în Județul Vaslui",
+   "url": "https://primariavaslui.ro/wp-content/uploads/2026/11/HCL-310-29.10.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 4,
+     "source_url": "https://primariavaslui.ro/wp-content/uploads/2026/11/HCL-310-29.10.2026.pdf",
+     "sha256": "50ca1ffece556be632c85c94e2d17100d04cf882a498720ef4bf548f4f029bac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--vaslui-311-2026",
+   "path": "local/vaslui/vaslui/2026/311",
+   "short": "HCL Vaslui nr. 311/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Vaslui nr. 311/2026 privind acordarea unui mandat special reprezentantului UAT Vaslui în ADIV pentru a vota proiectul de hotărâre privind ajustarea tarifelor aferente contractului nr.16452/19.12.2017 privind serviciul public de salubrizare pentru activitățile de depozitare a deșeurilor reziduale (Td reziduale), transfer a deșeurilor municipale(Tt reciclabile și Tt reziduale) și sortarea deșeurilor municipale reciclabile (T sortare)",
+   "url": "https://primariavaslui.ro/wp-content/uploads/2026/11/HCL-311-29.10.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 4,
+     "source_url": "https://primariavaslui.ro/wp-content/uploads/2026/11/HCL-311-29.10.2026.pdf",
+     "sha256": "a9e8139785b4c883f087446cc1a158ef317ea48f7411875deccbde8e158c1b7b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--vaslui-328-2026",
    "path": "local/vaslui/vaslui/2026/328",
    "short": "HCL Vaslui nr. 328/2026",

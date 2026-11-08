@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/vulcan/2024",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--vulcan-296-2024",
+   "path": "local/hunedoara/vulcan/2024/296",
+   "short": "HCL Vulcan nr. 296/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 296/2024 privind stabilirea taxei speciale de salubrizare aferentă persoanelor fizice și juridice pentru anul 2025",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcluri-impozite-si-taxe-locale-2025-000130e2?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 7,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/1BF454008F08360BC2258BFC00448262/$FILE/HCL%20NR.%20296%20DIN%202024%20PRIVIND%20TAXA%20DE%20SALUBRIZARE%20PT%20ANUL%20%202025.pdf",
+     "sha256": "2715469a0b69b6f66ccb1de39b872843988c5acd3c0705e849a3de227c92d684"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/giurgiu/2020",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--giurgiu-249-2020",
+   "path": "local/giurgiu/giurgiu/2020/249",
+   "short": "HCL Giurgiu nr. 249/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 249/2020 privind rectificarea Anexei la Hotărârea nr.15/23.01.2018 a Consiliului Local al Municipiului Giurgiu privind aprobarea Regulamentului de vânzare a locuințelor construite pentru tineri prin Agenția Națională pentru Locuințe întrunit în ședință extraordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-07-21",
+     "units": 3,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/249.pdf",
+     "sha256": "c6a8dce50174883d846fac7cda3e1b4aa221607a190a20958859aab67b4405a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-373-2020",
+   "path": "local/giurgiu/giurgiu/2020/373",
+   "short": "HCL Giurgiu nr. 373/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 373/2020 privind aprobarea completării Hotărârii Consiliului Local nr.262/30.07.2020 privind aprobarea procedurii de decontare a cheltuielilor de transport al elevilor înmatriculați în unitățile de învățământ din Municipiul Giurgiu întrunit în ședință extraordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/149/373.pdf",
+     "sha256": "1799072d1adf4db63064dd6e190b25a08393126e01fadfe43476b51652a8ae0a"
+    }
+   ]
+  }
+ ]
+}

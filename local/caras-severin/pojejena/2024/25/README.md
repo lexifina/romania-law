@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Pojejena nr. 25/2024 privind aprobarea premierii câștigătorilor primelor 3 locuri pentru cea mai frumoasa cununa împletită și împodobită la festivalul „Kumacanje” (înfrățire) și premierea primelor 3 locuri pentru cea mai frumoasa poezie la evenimentul „Zapisano u secanju” (Inscris în amintiri)
+
+HCL Pojejena nr. 25/2024 · 1 versions, from 2024-06-27 (latest in force: 2024-06-27) · <https://emol.ro/pojejena-cs/registru-hcl/160320>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-caras-severin--pojejena-25-2024` (tags `hcl-caras-severin--pojejena-25-2024/<day>`; `python tools/on.py <day> hcl-caras-severin--pojejena-25-2024`).
+
+## Decisions made by hand
+
+- HCL Pojejena nr. 25/2024: listed from Consiliul Local al Comunei Pojejena (emol.ro); metadata only for now: no document of it is held.
+- HCL Pojejena nr. 25/2024: dated from 27 June 2024, the day the council's register gives it as published (adopted 14 May 2024).
+- HCL Pojejena nr. 25/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

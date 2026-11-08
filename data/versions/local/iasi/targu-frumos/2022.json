@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--targu-frumos-12-2022",
+   "path": "local/iasi/targu-frumos/2022/12",
+   "short": "HCL Târgu Frumos nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 12/2022 privind aprobarea materiei impozabile pentru anul fiscal 2022 la nivelul orașului Târgu Frumos, județul Iași",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#15683",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24AvAQUJYriKNh.p985MJk4eWrR2UlZaqtjojE3ZlHmGw6XTpcZX2Lq/4605",
+     "sha256": "8bfd1439e52e4f4f50d9aa3016336d2793f41ba327509bff617c363d85796146"
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--targu-frumos-121-2022",
    "path": "local/iasi/targu-frumos/2022/121",
    "short": "HCL Târgu Frumos nr. 121/2022",
@@ -119,6 +134,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "b87f81755248d8a0c05b0446339ab7fcf45d069c8a36d9dd89e09912c2b9dd16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-13-2022",
+   "path": "local/iasi/targu-frumos/2022/13",
+   "short": "HCL Târgu Frumos nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 13/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "83319d3c9fa568bae9d4d1d693919791afdc74f419595be078b55297ba438380"
     }
    ]
   },
@@ -284,6 +314,36 @@
      "units": 1,
      "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%248UJkQ2iYzKQ2GJbLYMO8fOLU0dEt7LhZ26yRv/29GZ/KrhnLMWGju/4605",
      "sha256": "a126383ea8ad5ac96cdc9a014dba0374547cf29e2608704646156200ae703b33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-21-2022",
+   "path": "local/iasi/targu-frumos/2022/21",
+   "short": "HCL Târgu Frumos nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 21/2022 privind privind aprobarea contribuției anuale în vederea constituirii veniturilor Asociației de Dezvoltare Intercomunitară – Dezvoltare Sustenabilă și Integrată în Țara de Sus” și a cotizației anuale a Orașului Târgu Frumos, prin Consiliul local al orașului Târgu Frumos",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#18086",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24.Zm7B8TQR1kd1J6DLVBBrOioHvANn3/fvLb9S8QFaVi2mO1mSPAU6/4605",
+     "sha256": "58f5549c364a87bbdf748c1fff5462301628ec7179f32ceccda022b0650f3834"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-26-2022",
+   "path": "local/iasi/targu-frumos/2022/26",
+   "short": "HCL Târgu Frumos nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 26/2022 privind stabilirea sancțiunilor la nivelul orașului Târgu Frumos - în cazul în care beneficiarul serviciului de salubritate nu separă în mod corespunzător cele două fluxuri de deșeuri",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#18091",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24H3JeQXFwGHgsbwlJryU6tuYRR1I9ouSKvp5fM/zQa6GZbOQi5C3qq/4605",
+     "sha256": "f4174121e80fb7ccaa59898a21bf9dacfb20ed3bf16bda2cf8d51143fdee6949"
     }
    ]
   },

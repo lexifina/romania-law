@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/moreni/2026",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--moreni-134-2026",
+   "path": "local/dambovita/moreni/2026/134",
+   "short": "HCL Moreni nr. 134/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 134/2026 nr.134 din 03.09.2026 privind aprobarea tarifelor/abonamentelor în vederea utilizării spațiilor aferente imobilului Stadion \"Flacăra Moreni” din Municipiul Moreni, Județul Dâmbovița",
+   "url": "https://primariamoreni.ro/stiri/anunt-colectiv-23/",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 3,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2026/09/Hotararea-privind-aprobarea-tarifelor-in-vederea-utilizarii-spatiilor-aferente-imobillului-Stadion.pdf",
+     "sha256": "73afe0b93b1e552d0c87b85c871ec2ebdbec5517e23e9c66f2cbae44b48337b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-54-2026",
+   "path": "local/dambovita/moreni/2026/54",
+   "short": "HCL Moreni nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 54/2026 privind modificarea articolului 1 punctul 2 din Hotărârea Consiliului Local Moreni nr.292/16.12.2025, privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici, în cuantumul stabilit pentru anul 2025 Analizând temeiurile juridice, respectiv: a) art.129 alin (2) lit b și alin.(4) lit.c din Ordonanță de Urgență nr.57/2019 privind Codul administrativ, cu modificările și complet",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2026/04/HCL-nr.-54-din-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2026/04/HCL-nr.-54-din-2026.pdf",
+     "sha256": "7e2968ca5232c6e02e6b22647cf709000a33aa5ec055758f09a791ef49e299f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-56-2026",
+   "path": "local/dambovita/moreni/2026/56",
+   "short": "HCL Moreni nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 56/2026",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2026/04/HCL-nr.-56-din-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2026/04/HCL-nr.-56-din-2026.pdf",
+     "sha256": "4e4a4a422d5230457d55e2cdd9103336482c96a3e0ab7375151fd4bb85f89621"
+    }
+   ]
+  }
+ ]
+}

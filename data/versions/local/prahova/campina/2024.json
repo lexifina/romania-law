@@ -3,6 +3,21 @@
  "shard": "local/prahova/campina/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-101-2024",
+   "path": "local/prahova/campina/2024/101",
+   "short": "HCL Câmpina nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 101/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c88adb506d9835c63f5fa1e6c1c19476a85a3c20313949074b8a2baacf7a69b8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-105-2024",
    "path": "local/prahova/campina/2024/105",
    "short": "HCL Câmpina nr. 105/2024",
@@ -93,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-12-2024",
+   "path": "local/prahova/campina/2024/12",
+   "short": "HCL Câmpina nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 12/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0ed09d57d9decd06c15157984649b4ea4a1be61acfdb5573d957323662d50f2a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-125-2024",
    "path": "local/prahova/campina/2024/125",
    "short": "HCL Câmpina nr. 125/2024",
@@ -104,6 +134,21 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/10/Hotararea-nr125-rectificare-buget-local-01-oct-2024.pdf",
      "sha256": "a016e630e36e68a580e0aede76a6dccec00e3541e7635f1b68fb1eeb5baedfb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-130-2024",
+   "path": "local/prahova/campina/2024/130",
+   "short": "HCL Câmpina nr. 130/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 130/2024 pentru reglementarea procesului de scoatere din funcțiune, casare și valorificare a activelor corporale care alcătuiesc domeniul public al statului și al unităților administrativ — teritoriale; - Legii nr.24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative, republicată, cu modificările și completările ulterioare; - art.129, alin.(1), alin.(2), lit\"c” și art.361, alin",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/11/Hotararea-nr130-trecere-imobil-din-dom-public-in-dom-privat-Spital-Voila.pdf",
+     "sha256": "d4cc561766293990e3c5f576639bccae2c865659cc631d0fb9fdcb2549e2aa9e"
     }
    ]
   },
@@ -168,6 +213,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-48-2024",
+   "path": "local/prahova/campina/2024/48",
+   "short": "HCL Câmpina nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 48/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e965f5f607a6d7de568a93c39d0682e46652450f779fd99a1f133c1c50baa34b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-66-2024",
+   "path": "local/prahova/campina/2024/66",
+   "short": "HCL Câmpina nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 66/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 3,
+     "source_url": null,
+     "sha256": "d282348f0da8b3e60b758cc1cfe234c79a11555c43167fd621cda1145e520180"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-73-2024",
+   "path": "local/prahova/campina/2024/73",
+   "short": "HCL Câmpina nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 73/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "29dc447771e9ed70762b963c49229340ab999bf2fdff0c7a3c58b630d965a468"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-75-2024",
    "path": "local/prahova/campina/2024/75",
    "short": "HCL Câmpina nr. 75/2024",
@@ -179,6 +269,21 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/07/Hotararea-nr75-aprob-modif-HCL-24_19-feb-2024-manif-culturale.pdf",
      "sha256": "aeb2e283b6c464ceffb9111b12213f1130cfd5af6e1d4e120cab6f393e759d65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-9-2024",
+   "path": "local/prahova/campina/2024/9",
+   "short": "HCL Câmpina nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 9/2024 privind aprobarea unor reglementări pentru punerea în apk Normelor tehnice privind modul de completare a registrului agrică perioada 2020-2024, aprobate prin Ordinul nr.25/2020",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 3,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/02/Hotararea-nr9-reglem-invitare-pers-fizice_juridice-pt-inscriere-date-in-reg-agricol.pdf",
+     "sha256": "aa620efa14439fd85060dc6bcb10fa057b2f709158868361485d9e65596771f7"
     }
    ]
   },

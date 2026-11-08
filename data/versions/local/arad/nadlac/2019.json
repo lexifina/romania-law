@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/arad/nadlac/2019",
+ "acts": [
+  {
+   "slug": "hcl-arad--nadlac-10-2019",
+   "path": "local/arad/nadlac/2019/10",
+   "short": "HCL Nădlac nr. 10/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 10/2019 privind introducerea contribuției pentru economia circulară în tariful încasat de către operatorul de salubrizare care desfășoară activitățile de colectare și transport a deșeurilor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2019-2/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2019/h10.pdf",
+     "sha256": "09b4330e867caf588a5eb6c77282acfcf2e657f17f9bca24729b1a2c05dee559"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-11-2019",
+   "path": "local/arad/nadlac/2019/11",
+   "short": "HCL Nădlac nr. 11/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 11/2019 privind aprobarea taxei speciale de salubrizare datorată de persoanele fizice şi juridice",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2019-2/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2019/h11.pdf",
+     "sha256": "9c5247c98702b8646237a3f401c912e3e2782f10693e02326da49dfa1c3958fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-117-2019",
+   "path": "local/arad/nadlac/2019/117",
+   "short": "HCL Nădlac nr. 117/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 117/2019 privind aprobarea de principiu a preţului pentru producerea energiei termice (exclusiv prețul energiei termice produsă în cogenerare ) și a tarifelor pentru activitățile de transport și distribuție a energiei termice, practicate de către S.C",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2019-2/",
+   "versions": [
+    {
+     "from": "2019-09-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2019/h117.pdf",
+     "sha256": "a3df19d7ff6e533d71a062e748c5fa6d58efe0246bdeffe76587b7bf0df8125a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-141-2019",
+   "path": "local/arad/nadlac/2019/141",
+   "short": "HCL Nădlac nr. 141/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 141/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2019/h141.pdf",
+     "sha256": "089b438ec278770201f3c7713f668da4c1987af7bb0c35378a90ac055b882150"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-149-2019",
+   "path": "local/arad/nadlac/2019/149",
+   "short": "HCL Nădlac nr. 149/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 149/2019 privind aprobarea nivelurilor valorilor impozabile, a impozitelor și taxelor locale și a altor taxe asimilate, a taxelor pentru ocuparea temporară a domeniului public/privat al orașului Nădlac, precum și a amenzilor aplicabile pentru anul fiscal 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2019-2/",
+   "versions": [
+    {
+     "from": "2019-12-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2019/h149.pdf",
+     "sha256": "7e0996dea15a4f720b487e86beabea0489db50cb6a1c1d2312b12b0dd5e19313"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-150-2019",
+   "path": "local/arad/nadlac/2019/150",
+   "short": "HCL Nădlac nr. 150/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 150/2019 privind aprobarea taxelor speciale aplicabile în anul fiscal 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2019-2/",
+   "versions": [
+    {
+     "from": "2019-12-17",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2019/h150.pdf",
+     "sha256": "c9a8a64391ce050d3769dacba0c62cb4779db903f0f004fc993e815b5f8c9f56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-161-2019",
+   "path": "local/arad/nadlac/2019/161",
+   "short": "HCL Nădlac nr. 161/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 161/2019 privind aprobarea nivelurilor valorilor impozabile, a impozitelor și taxelor locale și a altor taxe asimilate, a taxelor pentru ocuparea temporară a domeniului public/privat al orașului Nădlac, precum și a amenzilor aplicabile pentru anul fiscal 2020",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2019-2/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2019/h161.pdf",
+     "sha256": "99598d44f517c0f256e954d6f7ad65c4827522c4affa0e3f40da7814054e96b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-20-2019",
+   "path": "local/arad/nadlac/2019/20",
+   "short": "HCL Nădlac nr. 20/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 20/2019 privind introducerea contribuției pentru economia circulară în tariful încasat de către operatorul de salubrizare care desfășoară activitățile de colectare și transport a deșeurilor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2019-2/",
+   "versions": [
+    {
+     "from": "2019-02-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2019/h20.pdf",
+     "sha256": "6548a1c0463958aa724cca349cf5eccdb5b3e9f30bf4647e1ebd6cb4a623c76c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-21-2019",
+   "path": "local/arad/nadlac/2019/21",
+   "short": "HCL Nădlac nr. 21/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 21/2019 privind aprobarea Regulamentului de utilizare al microbuzelor școlare pentru transport elevi în Orașul Nădlac, județul Arad",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2019-2/",
+   "versions": [
+    {
+     "from": "2019-02-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2019/h21.pdf",
+     "sha256": "5efbce203aedf73c8315da501096ebf8a11848453491da8d501ec5ea762b72c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-37-2019",
+   "path": "local/arad/nadlac/2019/37",
+   "short": "HCL Nădlac nr. 37/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 37/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2019/h37.pdf",
+     "sha256": "726fb7d1f7c0c8fd7d0c0c5ac97b7f14eed00516f16e3fdaaaf5397b6fc14ae8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-38-2019",
+   "path": "local/arad/nadlac/2019/38",
+   "short": "HCL Nădlac nr. 38/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 38/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2019/h38.pdf",
+     "sha256": "1c7017acfb35211503f4c3fbe6aeb4d039e9366ff33fcaa8f7b1c13ee9a0ce64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-59-2019",
+   "path": "local/arad/nadlac/2019/59",
+   "short": "HCL Nădlac nr. 59/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 59/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2019/h59.pdf",
+     "sha256": "8b7e715085264e812b5332efc10fa17c1c7512668c1ede28f41ff4e11681f482"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-71-2019",
+   "path": "local/arad/nadlac/2019/71",
+   "short": "HCL Nădlac nr. 71/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 71/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2019/h71.pdf",
+     "sha256": "a385c44f677ffc2ee9a6ec625b0c6950a1171715b7d492ae09b2ec1e105407f6"
+    }
+   ]
+  }
+ ]
+}

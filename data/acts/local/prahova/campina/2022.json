@@ -836,6 +836,52 @@
 }
 },
 {
+"slug": "hcl-prahova--campina-137-2022",
+"path": "local/prahova/campina/2022/137",
+"kind": "local",
+"year": "2022",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 137/2022",
+"short": "HCL Câmpina nr. 137/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-143-2022",
+"path": "local/prahova/campina/2022/143",
+"kind": "local",
+"year": "2022",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 143/2022",
+"short": "HCL Câmpina nr. 143/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--campina-152-2022",
 "path": "local/prahova/campina/2022/152",
 "kind": "local",

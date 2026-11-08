@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ilfov/bragadiru/2017",
+"acts": [
+{
+"slug": "hcl-ilfov--bragadiru-145-2017",
+"path": "local/ilfov/bragadiru/2017/145",
+"kind": "local",
+"year": "2017",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bragadiru nr. 145/2017 privind indreptarea erorilor materiale si modificarii taxei pentru inchirierea terenurilor de sport din cadrul Bazei sportive Bragadiru cuprinse in Anexa nr.1 la HCL nr.145 din 19.12.2017",
+"short": "HCL Bragadiru nr. 145/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-12-19",
+"latest": "2017-12-19",
+"portal": "https://www.primariaorasbragadiru.ro/index.php/consiliul-local/2017-03-22-17-22-13/hot-2018",
+"council": "ilfov/bragadiru",
+"council_name": "Consiliul Local al Orașului Bragadiru",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -3,6 +3,94 @@
 "shard": "local/cluj/cojocna/2022",
 "acts": [
 {
+"slug": "hcl-cluj--cojocna-74-2022",
+"path": "local/cluj/cojocna/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 74/2022 privind inițierea demersurilor în vederea atribuirii unor terenuri persoanelor beneficiare în condițiile Legii nr.341/2004, persoanelor beneficiare în condițiile Legii nr.15/2003, concesionarea unor suprafețe de teren în vederea construirii de case, precum și aprobarea demarării procedurii de achiziție publică pentru realizare P.U.Z",
+"short": "HCL Cojocna nr. 74/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-06",
+"latest": "2022-10-06",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/74279",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-75-2022",
+"path": "local/cluj/cojocna/2022/75",
+"kind": "local",
+"year": "2022",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 75/2022 privind constituirea Consiliului Comunitar Consultativ la nivelul UAT Comuna Cojocna",
+"short": "HCL Cojocna nr. 75/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-06",
+"latest": "2022-10-06",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/74280",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-78-2022",
+"path": "local/cluj/cojocna/2022/78",
+"kind": "local",
+"year": "2022",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 78/2022 privind aprobarea execuției bugetare pe cele două secțiuni (funcționare și dezvoltare) trimestrul III an 2022",
+"short": "HCL Cojocna nr. 78/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/76501",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-79-2022",
+"path": "local/cluj/cojocna/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 79/2022 privind aprobarea Strategiei de dezvoltare a serviciilor sociale acordate la nivelul Comunei Cojocna , județul Cluj, pentru perioada 2023-2028",
+"short": "HCL Cojocna nr. 79/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/76502",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-cluj--cojocna-81-2022",
 "path": "local/cluj/cojocna/2022/81",
 "kind": "local",

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/maramures/tautii-magheraus/2021",
+"acts": [
+{
+"slug": "hcl-maramures--tautii-magheraus-106-2021",
+"path": "local/maramures/tautii-magheraus/2021/106",
+"kind": "local",
+"year": "2021",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 106/2021 privind stabilirea tarifelor care vor fi percepute de către SC PRIMA TAUTI SRL, pentru prestarea de servicii, care vor fi realizate cu un tocător profesional de vegetație",
+"short": "HCL Tăuții-Măgherăuș nr. 106/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-07-23",
+"latest": "2021-07-23",
+"portal": "https://tautiimagheraus.ro/hotarari/",
+"council": "maramures/tautii-magheraus",
+"council_name": "Consiliul Local al Orașului Tăuții-Măgherăuș",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-maramures--tautii-magheraus-132-2021",
+"path": "local/maramures/tautii-magheraus/2021/132",
+"kind": "local",
+"year": "2021",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 132/2021 Nr. 132 din 29.09.2021 privind aprobarea criteriilor de evaluare pentru acordarea spațiilor cu destinație de locuință socială.",
+"short": "HCL Tăuții-Măgherăuș nr. 132/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://tautiimagheraus.ro/hotarari/",
+"council": "maramures/tautii-magheraus",
+"council_name": "Consiliul Local al Orașului Tăuții-Măgherăuș",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-maramures--tautii-magheraus-170-2021",
+"path": "local/maramures/tautii-magheraus/2021/170",
+"kind": "local",
+"year": "2021",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 170/2021 Nr. 170 din 17.12.2021 Privind stabilirea impozitelor si taxelor locale pentru anul 2022",
+"short": "HCL Tăuții-Măgherăuș nr. 170/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-17",
+"latest": "2021-12-17",
+"portal": "https://tautiimagheraus.ro/hotarari/",
+"council": "maramures/tautii-magheraus",
+"council_name": "Consiliul Local al Orașului Tăuții-Măgherăuș",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

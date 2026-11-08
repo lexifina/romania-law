@@ -3,6 +3,50 @@
 "shard": "local/cluj/ploscos/2021",
 "acts": [
 {
+"slug": "hcl-cluj--ploscos-10-2021",
+"path": "local/cluj/ploscos/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 10/2021 privind aprobarea contului de execuție al bugetului local la 31.12.2020",
+"short": "HCL Ploscoș nr. 10/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-19",
+"latest": "2021-03-19",
+"portal": "https://emol.ro/ploscos-cj/registru-hcl/21126",
+"council": "cluj/ploscos",
+"council_name": "Consiliul Local al Comunei Ploscoș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--ploscos-11-2021",
+"path": "local/cluj/ploscos/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 11/2021 privind aprobarea listei de investiții pe anul 2021",
+"short": "HCL Ploscoș nr. 11/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-19",
+"latest": "2021-03-19",
+"portal": "https://emol.ro/ploscos-cj/registru-hcl/21127",
+"council": "cluj/ploscos",
+"council_name": "Consiliul Local al Comunei Ploscoș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-cluj--ploscos-31-2021",
 "path": "local/cluj/ploscos/2021/31",
 "kind": "local",

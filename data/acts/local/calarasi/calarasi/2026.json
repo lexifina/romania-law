@@ -70,6 +70,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--calarasi-38-2026",
+"path": "local/calarasi/calarasi/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Călărași nr. 38/2026 privind modificarea și completarea Hotărârii Consiliului Local al municipiului Călărași nr. 241/22.12.2025 privind stabilirea impozitelor, taxelor și tarifelor locale pentru anul 2026",
+"short": "HCL Călărași nr. 38/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-16",
+"latest": "2026-03-16",
+"portal": "https://primariacalarasi.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "calarasi/calarasi",
+"council_name": "Consiliul Local al Municipiului Călărași",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-calarasi--calarasi-98-2026",
 "path": "local/calarasi/calarasi/2026/98",
 "kind": "local",

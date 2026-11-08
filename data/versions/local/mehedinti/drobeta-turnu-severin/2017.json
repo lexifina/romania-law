@@ -3,6 +3,96 @@
  "shard": "local/mehedinti/drobeta-turnu-severin/2017",
  "acts": [
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-11-2017",
+   "path": "local/mehedinti/drobeta-turnu-severin/2017/11",
+   "short": "HCL Drobeta-Turnu Severin nr. 11/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 11/2017 privind aprobarea Regulamentului privind activitatea de ridicare, transport și depozitare a vehiculelor staționate neregulamentar în municipiul Drobeta Turnu Severin",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2017/",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 5,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/97/HCL-NR.-11-din-2017.pdf",
+     "sha256": "a66fce72c8ecd1002ed71ea2652e67d1cde9dcc81c3fbb249604ed88e83ec8d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-119-2017",
+   "path": "local/mehedinti/drobeta-turnu-severin/2017/119",
+   "short": "HCL Drobeta-Turnu Severin nr. 119/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 119/2017 privind aprobarea regulamentului privind organizarea, funcționarea și administrarea cimitirelor aflate în proprietatea publică a Municipiului DROBETA TURNU SEVERIN Consiliul Local al municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere: - Referatul nr. 1187/19 Aprilie 2017 al Direcției de Administrare a Domeniului Public Privat privind emiterea unei hotărâri a consiliului local p",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2017/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/97/HCL-NR.-119-din-2017.pdf",
+     "sha256": "5d08464b3d060ae5d6759145f420bc7c585df0293d2404d6562a7c6cc649695c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-226-2017",
+   "path": "local/mehedinti/drobeta-turnu-severin/2017/226",
+   "short": "HCL Drobeta-Turnu Severin nr. 226/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 226/2017 privind aprobarea cuantumului tarifelor aferente prestării unor servicii conexe activității desfășurată de către Serviciul Public de Alimentare cu Energie Termică",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2017/",
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 3,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/97/HCL-NR.-226-din-2017.pdf",
+     "sha256": "ec1fbe231a1cf1b9db359e9922baa6c378475e7d10d4ec71fe287de3aff49663"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-30-2017",
+   "path": "local/mehedinti/drobeta-turnu-severin/2017/30",
+   "short": "HCL Drobeta-Turnu Severin nr. 30/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 30/2017 privind modificarea tarifelor pentru serviciul de transport public local în municipiul Drobeta Turnu Severin",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2017/",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/97/HCL-NR.-30-din-2017.pdf",
+     "sha256": "5875f05eda63a3c60ceae99ad616cdd355a8d76790d5c5808f1357835e7591e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-309-2017",
+   "path": "local/mehedinti/drobeta-turnu-severin/2017/309",
+   "short": "HCL Drobeta-Turnu Severin nr. 309/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 309/2017 privind aprobarea încheierii unui protocol de colaborare între municipiul Drobeta Turnu Severin și comuna Șimian referitor la gestionarea câinilor fără stăpân",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2017/",
+   "versions": [
+    {
+     "from": "2017-10-30",
+     "units": 3,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/97/HCL-NR.-309-din-2017.pdf",
+     "sha256": "1d5a5201dd6dcaae00de0106dbc248601875b55e22b46231a143affe5ca494ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-56-2017",
+   "path": "local/mehedinti/drobeta-turnu-severin/2017/56",
+   "short": "HCL Drobeta-Turnu Severin nr. 56/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 56/2017 privind aprobarea tarifelor la bilete pentru transportul public local efectuat pe traseele nou înființate (Traseul nr.2 și Traseul nr.6) din municipiul Drobeta Turnu Severin",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 4,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/97/HCL-NR.-56-din-2017.pdf",
+     "sha256": "5641ad022df2d7e1241d01dbbb6429df89968e54332852b8fe3f99069556490d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-89-2017",
    "path": "local/mehedinti/drobeta-turnu-severin/2017/89",
    "short": "HCL Drobeta-Turnu Severin nr. 89/2017",

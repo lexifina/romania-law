@@ -1803,6 +1803,21 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-224-2011",
+   "path": "local/vaslui/husi/2011/224",
+   "short": "HCL Huși nr. 224/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 224/2011 privind aprobarea cuantumului taxei concesionare loc de inhumare si a taxelor ce se vor utiliza pentru serviciile funerare practicate in cimitirele aflate in administrarea Consiliului Local Husi incepand cu data de",
+   "url": "https://www.primariahusi.ro/hotarari-27-octombrie-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea224_2011.pdf",
+     "sha256": "7e2599ca4463248a873818be118a0027c656695125de5e3bcca0afd9f1b31617"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-225-2011",
    "path": "local/vaslui/husi/2011/225",
    "short": "HCL Huși nr. 225/2011",

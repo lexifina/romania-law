@@ -3,6 +3,231 @@
  "shard": "local/caras-severin/pojejena/2026",
  "acts": [
   {
+   "slug": "hcl-caras-severin--pojejena-1-2026",
+   "path": "local/caras-severin/pojejena/2026/1",
+   "short": "HCL Pojejena nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 1/2026 privind aprobarea utilizarii excedentului anual al bugetului local al comunei Pojejena pe anul 2025",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/257280",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/257280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-10-2026",
+   "path": "local/caras-severin/pojejena/2026/10",
+   "short": "HCL Pojejena nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 10/2026",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/257297",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/257297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-11-2026",
+   "path": "local/caras-severin/pojejena/2026/11",
+   "short": "HCL Pojejena nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 11/2026",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/257298",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/257298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-12-2026",
+   "path": "local/caras-severin/pojejena/2026/12",
+   "short": "HCL Pojejena nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 12/2026 privind aprobarea planului anual de acțiune privind serviciile sociale acordate în 2026",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/257299",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/257299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-13-2026",
+   "path": "local/caras-severin/pojejena/2026/13",
+   "short": "HCL Pojejena nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 13/2026 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/271419",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/271419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-14-2026",
+   "path": "local/caras-severin/pojejena/2026/14",
+   "short": "HCL Pojejena nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 14/2026",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/271420",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/271420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-15-2026",
+   "path": "local/caras-severin/pojejena/2026/15",
+   "short": "HCL Pojejena nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 15/2026 privind reorganizarea aparatului de specialitate al primarului comunei Pojejena pentru anul 2026",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/271421",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/271421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-16-2026",
+   "path": "local/caras-severin/pojejena/2026/16",
+   "short": "HCL Pojejena nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 16/2026 privind alegerea președintelui de ședință al Consiliului Local Pojejena pe perioada de 3 luni ( MAI. 2026 – IUL. 2026)",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/271422",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/271422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-17-2026",
+   "path": "local/caras-severin/pojejena/2026/17",
+   "short": "HCL Pojejena nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 17/2026 privind aprobarea bugetului general al comunei Pojejena pe anul 2026",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/271423",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/271423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-18-2026",
+   "path": "local/caras-severin/pojejena/2026/18",
+   "short": "HCL Pojejena nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 18/2026 privind aprobarea contractării serviciilor de consultanță, proiectare, verificare proiect, audit și a altor servicii necesare implementării proiectului ,,PARC INTELIGENT în localitatea Pojejena” finanțat prin A.F.I.R",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/271424",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/271424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-19-2026",
+   "path": "local/caras-severin/pojejena/2026/19",
+   "short": "HCL Pojejena nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 19/2026 privind aprobarea contractării serviciilor de consultanta, proiectare, verificare proiect, audit și a altor servicii necesare implementării proiectului ,,Parc cu loc de joaca în localitatea Radimna”",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/271425",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/271425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-2-2026",
+   "path": "local/caras-severin/pojejena/2026/2",
+   "short": "HCL Pojejena nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 2/2026 privind aprobarea premierii castigatorilor primelor 3 locuri la festivalul vinului -Belobresca editia V comuna Pojejena",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/257281",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/257281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-20-2026",
+   "path": "local/caras-severin/pojejena/2026/20",
+   "short": "HCL Pojejena nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 20/2026 privind analiza stadiului de înscriere a datelor in registrul agricol pentru trimestrul I anul 2026 si stabilirea masurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/271426",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/271426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-21-2026",
+   "path": "local/caras-severin/pojejena/2026/21",
+   "short": "HCL Pojejena nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 21/2026 privind aprobarea efectuării lucrărilor edilo-gospodărești pe raza UAT Pojejena pentru anul 2026",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/271427",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/271427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-22-2026",
+   "path": "local/caras-severin/pojejena/2026/22",
+   "short": "HCL Pojejena nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 22/2026 privind aprobarea sumei de 20.000 lei pentru servicii muzicale în localități ale comunei Pojejena cu ocazia sărbătorii de nedee",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/271428",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/271428",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--pojejena-23-2026",
    "path": "local/caras-severin/pojejena/2026/23",
    "short": "HCL Pojejena nr. 23/2026",
@@ -298,6 +523,66 @@
      "from": "2026-08-26",
      "units": 1,
      "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-6-2026",
+   "path": "local/caras-severin/pojejena/2026/6",
+   "short": "HCL Pojejena nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 6/2026 privind analiza stadiului de inscriere a datelor in registrul agricol pentru trimestrul IV anul 2025 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/257286",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/257286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-7-2026",
+   "path": "local/caras-severin/pojejena/2026/7",
+   "short": "HCL Pojejena nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 7/2026 privind aprobarea Raportului de activitate desfasurata de catre asistentii personali ai persoanelor cu handicap grav din com Pojejena in semestrul II al anului 2025",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/257287",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/257287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-8-2026",
+   "path": "local/caras-severin/pojejena/2026/8",
+   "short": "HCL Pojejena nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 8/2026",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/257289",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/257289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-9-2026",
+   "path": "local/caras-severin/pojejena/2026/9",
+   "short": "HCL Pojejena nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 9/2026",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/257295",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/257295",
      "sha256": null
     }
    ]

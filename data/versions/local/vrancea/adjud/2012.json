@@ -3,6 +3,36 @@
  "shard": "local/vrancea/adjud/2012",
  "acts": [
   {
+   "slug": "hcl-vrancea--adjud-116-2012",
+   "path": "local/vrancea/adjud/2012/116",
+   "short": "HCL Adjud nr. 116/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 116/2012 privind aprobarea unor măsuri pentru menținerea unor tarife pentru activitățile de salubrizare prestate de SC Utilități Publice Municipale Adjud SRL și pentru regl",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-10-08",
+     "units": 5,
+     "source_url": "https://www.adjud.ro/assets/media/2024/02/HCL-116_Redacted-1.pdf",
+     "sha256": "d1da3775a8676ece8b7326a7cfc3307d190080efd4f9a313c63a2441b2a76210"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-117-2012",
+   "path": "local/vrancea/adjud/2012/117",
+   "short": "HCL Adjud nr. 117/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 117/2012 privind aprobarea tarifelor pentru activitatea de deszăpezire a căile publice prestată de operatorul serviciului public de salubrizare - SC Utilități Publice Munic",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-10-08",
+     "units": 4,
+     "source_url": "https://www.adjud.ro/assets/media/2024/02/HCL-117_Redacted-1.pdf",
+     "sha256": "6f142f6de169427182b0e90903c922e7191e6e141f7c20b2145c037ed1aee1cd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--adjud-14-2012",
    "path": "local/vrancea/adjud/2012/14",
    "short": "HCL Adjud nr. 14/2012",

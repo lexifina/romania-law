@@ -3,6 +3,186 @@
  "shard": "local/caras-severin/pojejena/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--pojejena-11-2025",
+   "path": "local/caras-severin/pojejena/2025/11",
+   "short": "HCL Pojejena nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 11/2025 privind aprobarea efectuarii lucrarilor edilo-gospodaresti pe raza UAT Pojejena pentru anul 2025",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/204171",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/204171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-13-2025",
+   "path": "local/caras-severin/pojejena/2025/13",
+   "short": "HCL Pojejena nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 13/2025 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE DC111 BELOBREȘCA-ZLATIȚA, COMUNA POJEJENA, JUDEȚULCARAȘ - SEVERIN”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/204173",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/204173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-16-2025",
+   "path": "local/caras-severin/pojejena/2025/16",
+   "short": "HCL Pojejena nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 16/2025",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/204176",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/204176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-20-2025",
+   "path": "local/caras-severin/pojejena/2025/20",
+   "short": "HCL Pojejena nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 20/2025 privind aprobarea acordului de participare a comunei Pojejena în cadrul Programului privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/204183",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/204183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-28-2025",
+   "path": "local/caras-severin/pojejena/2025/28",
+   "short": "HCL Pojejena nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 28/2025 privind analiza stadiului de inscriere a datelor in registrul agricol pentru trimestrul I anul 2025 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/212529",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/212529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-4-2025",
+   "path": "local/caras-severin/pojejena/2025/4",
+   "short": "HCL Pojejena nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 4/2025 privind analiza stadiului de inscriere a datelor in registrul agricol pentru trimestrul IV anul 2024 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/204161",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/204161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-40-2025",
+   "path": "local/caras-severin/pojejena/2025/40",
+   "short": "HCL Pojejena nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 40/2025 privind aprobarea Regulamentului privind modul de utilizare a microbuzului de transport scolar inmatriculat ca proprietate a comunei Pojejena",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/212559",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/212559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-41-2025",
+   "path": "local/caras-severin/pojejena/2025/41",
+   "short": "HCL Pojejena nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 41/2025 privind reglementarea acordarii ajutoarelor de urgenta si ajutoarelor de inmormantare",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/212560",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/212560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-42-2025",
+   "path": "local/caras-severin/pojejena/2025/42",
+   "short": "HCL Pojejena nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 42/2025 privind aprobarea documentației tehnico - economice faza DALI și a indicatorilor tehnico – economici pentru proiectul ,, COMPLEX SPORTIV RADIMNA – RELUARE CONSTRUCTIE SI DOTARE COMUNA POJEJENA,JUD. CARAS-SEVERIN ”",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/212568",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/212568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-50-2025",
+   "path": "local/caras-severin/pojejena/2025/50",
+   "short": "HCL Pojejena nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 50/2025 privind analiza stadiului de inscriere a datelor in registrul agricol pentru trimestrul II anul 2025 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/221676",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/221676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-56-2025",
+   "path": "local/caras-severin/pojejena/2025/56",
+   "short": "HCL Pojejena nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 56/2025 privind aderarea Unității Administrativ -Teritoriale Pojejena Județul Caras-Severin prin Consiliul Local la PARTENERIATUL GAL PENTRU ACVACULTURĂ ȘI PESCUIT ”LACUL DE ACUMULARE PORȚILE DE FIER”, pentru Acțiunea: 3.1.2 Selectarea strategiilor de dezvoltare locală a zonelor de pescuit și acvacultură, în cadrul Grupului de Acțiune Locală „Clisura Dunării”",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/229446",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/229446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-57-2025",
+   "path": "local/caras-severin/pojejena/2025/57",
+   "short": "HCL Pojejena nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 57/2025 privind aprobarea rectificarii bugetului general al comunei Pojejena pe anul 2025",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/229447",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/229447",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--pojejena-60-2025",
    "path": "local/caras-severin/pojejena/2025/60",
    "short": "HCL Pojejena nr. 60/2025",
@@ -298,6 +478,21 @@
      "from": "2026-01-16",
      "units": 1,
      "source_url": "https://emol.ro/pojejena-cs/registru-hcl/246986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-9-2025",
+   "path": "local/caras-severin/pojejena/2025/9",
+   "short": "HCL Pojejena nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 9/2025 privind aprobarea premierii castigatorilor primelor 3 locuri la festivalul vinului -Belobresca editia IV comuna Pojejena",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/204166",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/204166",
      "sha256": null
     }
    ]

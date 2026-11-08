@@ -3,6 +3,116 @@
 "shard": "local/cluj/sacuieu/2023",
 "acts": [
 {
+"slug": "hcl-cluj--sacuieu-14-2023",
+"path": "local/cluj/sacuieu/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 14/2023 privind aprobarea regulamentului de instituire și administrare a taxei de salubrizare pentru utilizatorii serviciului de salubrizare care beneficiază individual de prestarea serviciului de salubrizare fără contract încheiat cu operatorul de salubrizare și pentru instituirea și aprobarea taxei de salubrizare pentru utilizatorii care beneficiază individual de prestarea serviciului de salubrizare fără contract încheiat cu operatorul de salubritate",
+"short": "HCL Săcuieu nr. 14/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/100123",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-22-2023",
+"path": "local/cluj/sacuieu/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 22/2023 privind aprobarea Programului anual de măsuri pentru buna gospodărire, întreținere, curățenie și înfrumusețare a comunei Săcuieu în anul 2023",
+"short": "HCL Săcuieu nr. 22/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/125616",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-58-2023",
+"path": "local/cluj/sacuieu/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 58/2023 privind aprobarea Consiliul Local al Comunei Săcuieu de a emite Acordul comunei pentru obiectivul „Realizare pistă de biciclete în Comuna Săcuieu, Județul Cluj”",
+"short": "HCL Săcuieu nr. 58/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/125722",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-59-2023",
+"path": "local/cluj/sacuieu/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 59/2023 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici aferent proiectului: REALIZARE PISTĂ DE BICICLETE ÎN COMUNA SĂCUIEU, JUDEȚUL CLUJ”",
+"short": "HCL Săcuieu nr. 59/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/125723",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-60-2023",
+"path": "local/cluj/sacuieu/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 60/2023 privind aprobarea planului de acțiuni pentru gestionarea câinilor fără stăpân în comuna Săcuieu, județul Cluj",
+"short": "HCL Săcuieu nr. 60/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/125724",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-73-2023",
 "path": "local/cluj/sacuieu/2023/73",
 "kind": "local",

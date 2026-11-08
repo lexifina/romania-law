@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/valea-lui-mihai/2018",
+ "acts": [
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-24-2018",
+   "path": "local/bihor/valea-lui-mihai/2018/24",
+   "short": "HCL Valea lui Mihai nr. 24/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 24/2018 privind aprobarea Regulamentului de organizare şi funcționare a sistemului de parcare cu plată în Orașul Valea lui Mihai ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2018-03-13",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.24-din-13.03.2018.pdf",
+     "sha256": "b81826458126d4d82e509c88cd8e1c96207572a7bc4897ca0e19a930aad4767e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-54-2018",
+   "path": "local/bihor/valea-lui-mihai/2018/54",
+   "short": "HCL Valea lui Mihai nr. 54/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 54/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-54-din-27.07.2018.pdf",
+     "sha256": "e2f1de175f268a702bac0b6c765482c53127c81f84549348b50f6312e8faf687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-72-2018",
+   "path": "local/bihor/valea-lui-mihai/2018/72",
+   "short": "HCL Valea lui Mihai nr. 72/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 72/2018 privind prelungirea termenului de valabilitate a Planului Urbanistic General al oraşului Valea lui Mihai şi a Regulamentului Local de Urbanism ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2018-09-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-72-din-28.09.2018.pdf",
+     "sha256": "090cd79a83974962ae6d23bdd156b1b5fcf10c292658e204f775119808f38018"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-82-2018",
+   "path": "local/bihor/valea-lui-mihai/2018/82",
+   "short": "HCL Valea lui Mihai nr. 82/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 82/2018 privind actualizarea Planului de Mobilitate Urbană Durabilă al Oraşului Valea lui Mihai, judeţul Bihor ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-82-din-31.10.2018.pdf",
+     "sha256": "bced3f6fe536deef9ed20d2fc8cc5bd9ae113cdb4cd5a225171e9e7a16a3efcd"
+    }
+   ]
+  }
+ ]
+}

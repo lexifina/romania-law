@@ -749,7 +749,7 @@ hg-735-1997,hg-986-1990,repeals,,2024-03-01,2022-01-24,Abrogă,13019,1019,source
 hg-42-1997,hg-986-1996,repeals,,2019-08-24,2019-08-24,Abrogă,12353,10420,source sheet,1
 hg-42-1997,hg-987-1996,repeals,,2019-08-24,2019-08-24,Abrogă,12353,10421,source sheet,1
 hg-735-1997,hg-99-1990,repeals,,2024-03-01,2022-01-24,Abrogă,13019,640,source sheet,2
-legea-65-1997,legea-1-1991,amends,"modifică art.24 alin.(1) lit.d, art.24 alin.(2) partea introductivă şi lit.a, art.24 alin.(3); introduce lit.d la art.24 alin.(2)",2022-12-02,2021-06-12,Modificată,11369,1273,target sheet; title,3
+legea-65-1997,legea-1-1991,amends,"modifică art.24 alin.(1) lit.d, art.24 alin.(2) partea introductivă şi lit.a, art.24 alin.(3); introduce lit.d la art.24 alin.(2)",2022-12-02,2021-06-12,Modificată,11369,1273,bill file; target sheet; title,3
 oug-35-1997,legea-1-1991,amends,introduce lit.g şi h la art.24 alin.(1),2022-12-02,2021-06-12,Modificată,13330,1273,target sheet,3
 oug-47-1997,legea-1-1991,amends,"modifică art.4 alin.(1) şi alin.(2), art.6 alin.(1) lit.b şi lit.d, art.12 alin.(2), art.13 alin.(1), art.24 alin.(1) lit.a; introduce alin.(1^1) la art.4",2022-12-02,2021-06-12,Modificată,13342,1273,target sheet,3
 oug-9-1997,legea-1-1991,amends,introduce lit.e şi f la art.24 alin.(1),2022-12-02,2021-04-23,Modificată; Modifică,13305,1273,source sheet; target sheet,4
@@ -1233,6 +1233,7 @@ legea-61-1997,og-1-1997,approves,,2007-07-18,,Proiect de Lege pentru aprobarea O
 legea-37-1997,og-5-1997,approves,,2007-05-31,,Proiect de Lege pentru aprobarea O.G. nr. 5/1997,,,bill file; title,1
 legea-204-1997,og-25-1997,approves,,2007-08-25,,Proiect de Lege pentru aprobarea O.G. nr. 25/1997,,,bill file; title,1
 legea-210-1997,og-15-1997,approves,,2022-11-27,,Proiect de Lege pentru aprobarea O.G. nr. 15/1997,,,bill file; title,1
+legea-52-1997,og-2-1997,approves,,2007-09-07,,Proiect de Lege pentru aprobarea O.G. nr. 2/1997,,,bill file; title,1
 legea-74-1997,og-3-1997,approves,,2007-08-28,,Proiect de Lege pentru aprobarea O.G. nr. 3/1997,,,bill file; title,1
 legea-87-1997,oug-5-1997,approves,,2007-07-09,,Proiect de Lege pentru aprobarea O.U.G. nr. 5/1997,,,bill file; title,1
 legea-159-1997,oug-8-1997,approves,,2007-02-22,,Proiect de Lege pentru aprobarea O.U.G. nr. 8/1997,,,bill file; title,1
@@ -1249,7 +1250,6 @@ legea-42-1997,og-21-1996,approves,,,,ordonantei guvernului nr. 21/1996,,,title,0
 legea-43-1997,og-20-1996,approves,,,,ordonantei guvernului nr. 20/1996,,,title,0
 legea-47-1997,oug-5-1996,approves,,,,ordonantei de urgenta a guvernului nr. 5/1996,,,title,0
 legea-48-1997,oug-11-1996,approves,,,,ordonantei de urgenta a guvernului nr. 11/1996,,,title,0
-legea-52-1997,og-2-1997,approves,,,,ordonantei guvernului nr. 2/1997,,,title,0
 legea-68-1997,legea-35-1991,amends,,,,legii nr. 35/1991,,,title,0
 legea-75-1997,oug-9-1996,approves,,,,ordonantei de urgenta a guvernului nr. 9/1996,,,title,0
 legea-76-1997,og-43-1996,approves,,,,ordonantei guvernului nr. 43/1996,,,title,0
@@ -1388,6 +1388,7 @@ ordin-finante-1169-1997,ordin-2487-1996,amends,,,,"normelor metodologice aprobat
 ordin-finante-1419-1997,og-23-1995,implements,,,,normelor de modificare si de completare a normelor metodologice de aplicare a ordonantei guvernului nr. 23/1995,,,title,0
 ordin-finante-1572-1997,norma-8904-1994,amends,,,,normelor metodologice nr. 8.904/1994,,,title,0
 ordin-finante-1572-1997,legea-91-1993,amends,,,,legii nr. 91/1993,,,title,0
+ordin-finante-1682-1997,ordin-1743-1995,amends,,,,"normelor aprobate prin ordinul ministrului de stat, ministrul finantelor, nr. 1.743/1995",,,title,0
 ordin-finante-2045-1997,og-23-1995,implements,,,,normelor de modificare si de completare a normelor metodologice de aplicare a ordonantei guvernului nr. 23/1995,,,title,0
 ordin-finante-2051-1997,og-11-1996,implements,,,,normelor metodologice pentru aplicarea prevederilor din ordonanta guvernului nr. 11/1996,,,title,0
 ordin-finante-2143-1997,og-23-1995,implements,,,,normelor de completare a normelor metodologice de aplicare a ordonantei guvernului nr. 23/1995,,,title,0

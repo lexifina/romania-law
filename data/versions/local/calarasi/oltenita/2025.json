@@ -3,6 +3,21 @@
  "shard": "local/calarasi/oltenita/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--oltenita-100-2025",
+   "path": "local/calarasi/oltenita/2025/100",
+   "short": "HCL Oltenița nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 100/2025 pentru aprobarea Regulamentului de organizare si functionare al Serviciului Public ..Directia pentru Cultura, Tineret si Sport Oltenita” Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/17/HOTARAREA-100.pdf",
+     "sha256": "593516969374e39ebdf7da2a12c44c05cd944b75c3b5a9fe72a513b27f9c2a7d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--oltenita-157-2025",
    "path": "local/calarasi/oltenita/2025/157",
    "short": "HCL Oltenița nr. 157/2025",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://primariaoltenita.ro/storage/formidable/17/HOTARAREA-NR.-157.pdf",
      "sha256": "6e659417518e5b233143af05898533332ff76bca12bb271061916a27a6a17808"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-42-2025",
+   "path": "local/calarasi/oltenita/2025/42",
+   "short": "HCL Oltenița nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 42/2025 pentru modificarea și completarea Hotărârii nr. 150/19.12.2024 a Consiliului local al municipiului Oltenița, pentru stabilirea impozitelor, taxelor speciale și a taxelor locale aplicabile în municipiul Oltenița, în anul fiscal 2025",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/17/42.pdf",
+     "sha256": "0bbec85c8a7f60b82f741eea9734e9b512f366088c5b774a7b5ded383f68eb15"
     }
    ]
   },
@@ -33,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--oltenita-89-2025",
+   "path": "local/calarasi/oltenita/2025/89",
+   "short": "HCL Oltenița nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 89/2025 privind privind aprobarea tarifelor care se vor practica de catre SC Ecosal Servicii Oltenita SRL pentru serviciile aferente activitatilor de amenajare si intretinere spatii verzi Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/17/HOTARAREA-89.pdf",
+     "sha256": "4f8d0d52e977c7bbbfa5b40a8f9a78823feda8aedd2c9f6289581ed71343481f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--oltenita-9-2025",
    "path": "local/calarasi/oltenita/2025/9",
    "short": "HCL Oltenița nr. 9/2025",
@@ -44,6 +89,21 @@
      "units": 1,
      "source_url": "https://primariaoltenita.ro/storage/formidable/17/HOTARAREA-NR.-9-2025.pdf",
      "sha256": "0698a33270925ab95aa21efaca80b1b9555d02e82f0684bcb45abfb9407bcce7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-92-2025",
+   "path": "local/calarasi/oltenita/2025/92",
+   "short": "HCL Oltenița nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 92/2025 pentru modificarea articolului 1 al Hotararii nr. 72/25.05.2023 a Consiliului local al municipiului Oltenita privind prelungirea valabi1itatii documentatiei de urbanism „Plan Urbanistic General si a Regulamentului Urbanistic aferent, pentru municipiul Oltenita, judetul Calarasi” Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/17/HOTARAREA-92.pdf",
+     "sha256": "6dc7e63429859436cb45635c26dfd1341e94cc4ba47f12232f3f1639bac4d638"
     }
    ]
   }

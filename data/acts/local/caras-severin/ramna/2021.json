@@ -3,6 +3,138 @@
 "shard": "local/caras-severin/ramna/2021",
 "acts": [
 {
+"slug": "hcl-caras-severin--ramna-5-2021",
+"path": "local/caras-severin/ramna/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 5/2021 privind aprobarea principalilor indicatori tehnico-economici ai investitiei ,,INFIINTARE ALIMENTARE CU APA IN COMUNA RAMNA, JUD.CARAS-SEVERIN”",
+"short": "HCL Ramna nr. 5/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/37623",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-6-2021",
+"path": "local/caras-severin/ramna/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 6/2021 privind aprobarea procedurii de închiriere a unor suprafețe de pajiști apartinând comunei Ramna, pentru anul 2021",
+"short": "HCL Ramna nr. 6/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/37679",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-7-2021",
+"path": "local/caras-severin/ramna/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 7/2021 privind aprobarea Regulamentului de transformare a amenzilor contravenţionale în muncă în folosul comunităţii",
+"short": "HCL Ramna nr. 7/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/37680",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-8-2021",
+"path": "local/caras-severin/ramna/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 8/2021 privind aprobarea Planului de acțiuni sau de lucrări de interes local pe anul 2021",
+"short": "HCL Ramna nr. 8/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/37681",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-9-2021",
+"path": "local/caras-severin/ramna/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 9/2021 privind modificarea HCL nr.6/25.02.2021 privind aprobarea procedurii de închiriere a unor suprafețe de pajiști apartinând comunei Ramna, pentru anul 2021",
+"short": "HCL Ramna nr. 9/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-21",
+"latest": "2021-03-21",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/37682",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-11-2021",
+"path": "local/caras-severin/ramna/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 11/2021 privind aprobarea dezlipirii Cărții funciare nr. 918 a terenului extravilan aparținând domeniului public al comunei Ramna a suprafetei de 2380 mp",
+"short": "HCL Ramna nr. 11/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/37684",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-caras-severin--ramna-12-2021",
 "path": "local/caras-severin/ramna/2021/12",
 "kind": "local",

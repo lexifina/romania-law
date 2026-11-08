@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/mures/iernut/2022",
+"acts": [
+{
+"slug": "hcl-mures--iernut-279-2022",
+"path": "local/mures/iernut/2022/279",
+"kind": "local",
+"year": "2022",
+"number": "279",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Iernut nr. 279/2022 privind aprobarea nivelului taxei de salubrizare pentru anul 2023 în orașul Iernut Consiliul Local al orașului Iernut, întrunit în ședință extraordinară de lucru în data de 29.12.2022; Având în vedere Referatul de aprobare nr. 25360/22.12.2022 al Primarului orașului Iernut, prin care se propune spre aprobare nivelul taxei de salubrizare pentru anul 2023 în orașul Iernut, Ținând cont de Raportul de",
+"short": "HCL Iernut nr. 279/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+"council": "mures/iernut",
+"council_name": "Consiliul Local al Orașului Iernut",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--iernut-280-2022",
+"path": "local/mures/iernut/2022/280",
+"kind": "local",
+"year": "2022",
+"number": "280",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Iernut nr. 280/2022 privind aprobarea modificării Regulamentului de instituire și administrare a taxei de salubrizare pentru utilizatorii serviciului de salubrizare în județul Mureș, cu aplicabilitate din 01.01.2023 Consiliul Local al orașului Iernut, întrunit în ședință extraordinară de lucru în data de 29.12.2022; Având în vedere Referatul de aprobare nr. 25368/22.12.2022 al Primarului orașului Iernut, prin care se",
+"short": "HCL Iernut nr. 280/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+"council": "mures/iernut",
+"council_name": "Consiliul Local al Orașului Iernut",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

@@ -90,6 +90,50 @@
 "flags": {
 "text_source": "pdf_text_layer"
 }
+},
+{
+"slug": "hcl-mures--iernut-128-2023",
+"path": "local/mures/iernut/2023/128",
+"kind": "local",
+"year": "2023",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Iernut nr. 128/2023 privind aprobarea Regulamentului pentru implementarea formatului unic al cardului – legitimație de parcare gratuită pentru persoanele cu handicap Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 28.08. 2023",
+"short": "HCL Iernut nr. 128/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+"council": "mures/iernut",
+"council_name": "Consiliul Local al Orașului Iernut",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--iernut-155-2023",
+"path": "local/mures/iernut/2023/155",
+"kind": "local",
+"year": "2023",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Iernut nr. 155/2023 privind aprobare taxei de închiriere și a Regulamentului de închiriere a utilajului buldoexcavator, cu personal deservent, aflat în patrimoniul Orașul Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 30.10. 2023",
+"short": "HCL Iernut nr. 155/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+"council": "mures/iernut",
+"council_name": "Consiliul Local al Orașului Iernut",
+"flags": {
+"text_withheld": "personal_data"
+}
 }
 ]
 }

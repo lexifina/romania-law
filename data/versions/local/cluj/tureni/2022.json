@@ -3,6 +3,216 @@
  "shard": "local/cluj/tureni/2022",
  "acts": [
   {
+   "slug": "hcl-cluj--tureni-1-2022",
+   "path": "local/cluj/tureni/2022/1",
+   "short": "HCL Tureni nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 1/2022 privind acoperirea definitvă din excedentul bugetului local, sursa A, al comunei Tureni, pentru anul 2021, a deficitului secțiunii de dezvoltare",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/52109",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/52109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-3-2022",
+   "path": "local/cluj/tureni/2022/3",
+   "short": "HCL Tureni nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 3/2022 privind aprobarea contului de execuție al bugetului local al comunei Tureni la 31 decembrie 2021",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/52112",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/52112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-4-2022",
+   "path": "local/cluj/tureni/2022/4",
+   "short": "HCL Tureni nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 4/2022 privind aprobarea rețelei școlare a unităților de învățământ preuniveristar de pe raza comunei Tureni, județul Cluj, pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/52113",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/52113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-58-2022",
+   "path": "local/cluj/tureni/2022/58",
+   "short": "HCL Tureni nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 58/2022 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Tureni pentru anul 2022",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/100829",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/100829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-59-2022",
+   "path": "local/cluj/tureni/2022/59",
+   "short": "HCL Tureni nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 59/2022 privind aprobarea Listei de Investiții a comunei Tureni pentru anul 2022",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/100830",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/100830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-60-2022",
+   "path": "local/cluj/tureni/2022/60",
+   "short": "HCL Tureni nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 60/2022 privind alocarea sumei de 50 de mii de lei pentru organizarea evenimentuluui ,,Zilele Comunei Tureni,, în data de 11 septembrie 2022",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/100831",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/100831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-61-2022",
+   "path": "local/cluj/tureni/2022/61",
+   "short": "HCL Tureni nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 61/2022 privind aprobarea Planului Urbanistic Zonal (PUZ) - introducere teren în intravilan - loc.Mărtinești, nr. 7B, comuna Tureni, jud. Cluj",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/100989",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/100989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-62-2022",
+   "path": "local/cluj/tureni/2022/62",
+   "short": "HCL Tureni nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 62/2022 privind actualizarea indicatorilor tehnico-economici pe obiectivul de investiții Modernizare drumuri și străzi în comuna Tureni, jud. Cluj",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/100990",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/100990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-63-2022",
+   "path": "local/cluj/tureni/2022/63",
+   "short": "HCL Tureni nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 63/2022 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Tureni pentru anul 2022",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/100995",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/100995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-64-2022",
+   "path": "local/cluj/tureni/2022/64",
+   "short": "HCL Tureni nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 64/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții Reabilitare și modernizare clădire sediu primărie, comuna Tureni, jud.Cluj",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/100996",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/100996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-65-2022",
+   "path": "local/cluj/tureni/2022/65",
+   "short": "HCL Tureni nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 65/2022 privind aprobarea Acordului de parteneriat între UAT Turda, UAT Călărași, UAT Moldovenești și UAT Tureni, precum și a notei de fundamentare pentru depunerea proiectului Achiziția de mijloace de transport public-autobuze electrice în cadrul parteneriatului Turda-Călărași-Moldovenești-Tureni",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/100997",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/100997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-66-2022",
+   "path": "local/cluj/tureni/2022/66",
+   "short": "HCL Tureni nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 66/2022 privind executarea lucrărilor de branșamente electrice subterane permanente a stațiilor de pompare din loc. Ceanu Mic, Comșești, Mărtinești și Tureni, comuna Tureni, jud. Cluj în conformitate cu avizele tehnice de racordare pentru consumatori non casnici",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/100998",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/100998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-68-2022",
+   "path": "local/cluj/tureni/2022/68",
+   "short": "HCL Tureni nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 68/2022 privind achiziționarea de servicii juridice, pentru apărarea intereselor comunei Tureni și ale autorităților administrației publice locale din comuna Tureni în dosarul nr.3856/117/2022 aflat pe rolul Tribunalului Cluj",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/101080",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/101080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-69-2022",
+   "path": "local/cluj/tureni/2022/69",
+   "short": "HCL Tureni nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 69/2022 privind aprobarea sumei de 5000 de lei pentru organizarea zilei Strugurilor Toamnei în dat de 22 octombrie 2022",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/101081",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/101081",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--tureni-70-2022",
    "path": "local/cluj/tureni/2022/70",
    "short": "HCL Tureni nr. 70/2022",

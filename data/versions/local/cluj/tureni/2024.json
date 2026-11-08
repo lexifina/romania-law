@@ -123,6 +123,51 @@
    ]
   },
   {
+   "slug": "hcl-cluj--tureni-75-2024",
+   "path": "local/cluj/tureni/2024/75",
+   "short": "HCL Tureni nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 75/2024 privind alegerea președintelui de ședință, pentru sedința Consiliului Local Tureni din data de 22.08.2024",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/192880",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/192880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-76-2024",
+   "path": "local/cluj/tureni/2024/76",
+   "short": "HCL Tureni nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 76/2024 privind aprobarea planului tarifar actualizat pe aria de operare a Companiei de Apă Arieș SA, pentru perioada 2021-2028",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/192881",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/192881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--tureni-77-2024",
+   "path": "local/cluj/tureni/2024/77",
+   "short": "HCL Tureni nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tureni nr. 77/2024 privind alegerea presedintelui de sedință, pentru sedința Consiliului Local Tureni din data de 26.09.2024",
+   "url": "https://emol.ro/tureni-cj/registru-hcl/192883",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tureni-cj/registru-hcl/192883",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--tureni-88-2024",
    "path": "local/cluj/tureni/2024/88",
    "short": "HCL Tureni nr. 88/2024",

@@ -3,6 +3,21 @@
  "shard": "local/salaj/simleu-silvaniei/2011",
  "acts": [
   {
+   "slug": "hcl-salaj--simleu-silvaniei-61-2011",
+   "path": "local/salaj/simleu-silvaniei/2011/61",
+   "short": "HCL Șimleu Silvaniei nr. 61/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 61/2011 privind stabilirea unor fapte care constituie contravenții în domeniul publicitar Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 29 iulie 2011; Având în vedere Expunerea de motive nr.8003/2011 a Primarului orașului, Raportul de specialitate nr.8004/2011 al Secretarului orașului și Avizul Comisiei pentru amenajarea teritoriului și urbanism, admin",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2011/page/5/",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 9,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_061_29072011.pdf",
+     "sha256": "c9d9d958f861cf05b6e93c0a0727bfd916af4439c9f91488859ad569f4b0f419"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-79-2011",
    "path": "local/salaj/simleu-silvaniei/2011/79",
    "short": "HCL Șimleu Silvaniei nr. 79/2011",

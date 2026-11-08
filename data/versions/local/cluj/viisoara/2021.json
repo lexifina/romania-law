@@ -3,6 +3,441 @@
  "shard": "local/cluj/viisoara/2021",
  "acts": [
   {
+   "slug": "hcl-cluj--viisoara-1-2021",
+   "path": "local/cluj/viisoara/2021/1",
+   "short": "HCL Viișoara nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 1/2021 privind aprobarea acoperirii definitive a deficitului bugetar al secțiunii de dezvoltare din excedentul bugetului local al anului 2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23366",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-10-2021",
+   "path": "local/cluj/viisoara/2021/10",
+   "short": "HCL Viișoara nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 10/2021 privind aprobarea Planului de Analiză și Acoperire a Riscurilor la nivelul comunei Viișoara, județul Cluj, pentru anul 2021",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41901",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-11-2021",
+   "path": "local/cluj/viisoara/2021/11",
+   "short": "HCL Viișoara nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 11/2021 privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli al comunei Viișoara la 31.12.2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41902",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-12-2021",
+   "path": "local/cluj/viisoara/2021/12",
+   "short": "HCL Viișoara nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 12/2021 privind aprobarea lucrărilor care se execută pe domeniul public al comunei Viișoara, pentru lucrarea ” Rețea fixă de telecomunicații FTTH Orange” în localitatea Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41903",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-13-2021",
+   "path": "local/cluj/viisoara/2021/13",
+   "short": "HCL Viișoara nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 13/2021 Privind aprobarea achiziționării de servicii juridice de consultanță, de asistență și de reprezentare în dosarul civ. Nr. 4143/328/2019",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41904",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-14-2021",
+   "path": "local/cluj/viisoara/2021/14",
+   "short": "HCL Viișoara nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 14/2021 Privind aprobarea achiziționării de servicii juridice de consultanță, de asistență și de reprezentare în dosarul civ. Nr. 2945/328/2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41905",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-15-2021",
+   "path": "local/cluj/viisoara/2021/15",
+   "short": "HCL Viișoara nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 15/2021 Privind aprobarea achiziționării de servicii juridice de consultanță, de asistență și de reprezentare în dosarul civ. Nr. 2355/328/2017",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41906",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-16-2021",
+   "path": "local/cluj/viisoara/2021/16",
+   "short": "HCL Viișoara nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 16/2021 Privind aprobarea achiziționării de servicii juridice de consultanță, de asistență și de reprezentare în dosarul civ. Nr. 2847/328/2018",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41907",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-17-2021",
+   "path": "local/cluj/viisoara/2021/17",
+   "short": "HCL Viișoara nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 17/2021 Privind aprobarea achiziționării de servicii juridice de consultanță, de asistență și de reprezentare în dosarul civ. Nr. 1898/328/2014",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41908",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-18-2021",
+   "path": "local/cluj/viisoara/2021/18",
+   "short": "HCL Viișoara nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 18/2021 Privind aprobarea achiziționării de servicii juridice de consultanță, de asistență și de reprezentare în dosarul civ. Nr. 2838/328/2014",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41909",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-19-2021",
+   "path": "local/cluj/viisoara/2021/19",
+   "short": "HCL Viișoara nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 19/2021 Privind aprobarea bugetului local de venituri și cheltuieli, lista de investiții pentru 2021",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41910",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-2-2021",
+   "path": "local/cluj/viisoara/2021/2",
+   "short": "HCL Viișoara nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 2/2021 privind aprobarea utilizării excedentului bugetar de la finele anului 2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23367",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-20-2021",
+   "path": "local/cluj/viisoara/2021/20",
+   "short": "HCL Viișoara nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 20/2021 Privind stabilirea cuantumului bursei școlare pentru semestrul II al anului școlar 2020/2021",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41911",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-21-2021",
+   "path": "local/cluj/viisoara/2021/21",
+   "short": "HCL Viișoara nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 21/2021 Privind stabilirea impozitelor și taxelor locale pentru anul 2022 la nivelul comunei",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41912",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-22-2021",
+   "path": "local/cluj/viisoara/2021/22",
+   "short": "HCL Viișoara nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 22/2021 Privind aprobarea programului de măsuri pentru îmbunătățirea activității de gospodărire a comunei",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41913",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-23-2021",
+   "path": "local/cluj/viisoara/2021/23",
+   "short": "HCL Viișoara nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 23/2021 Privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli al comunei Viișoara la 31.03.2021",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41914",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-24-2021",
+   "path": "local/cluj/viisoara/2021/24",
+   "short": "HCL Viișoara nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 24/2021 Privind aprobarea regulamentului de organizare și funcționare al aparatului de specialitate al Primarului Comunei Viișoara și al Consiliului Local",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42399",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-25-2021",
+   "path": "local/cluj/viisoara/2021/25",
+   "short": "HCL Viișoara nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 25/2021 Privind aprobarea asocierii comunei Viișoara în vederea constituirii Regiei Autonome -Ocolul Silvic Șoimul Arieș",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42400",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-26-2021",
+   "path": "local/cluj/viisoara/2021/26",
+   "short": "HCL Viișoara nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 26/2021 Privind aprobarea transferului contractului de concesiune încheiat între Primăria Viișoara și Quant Medica Life",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42401",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-28-2021",
+   "path": "local/cluj/viisoara/2021/28",
+   "short": "HCL Viișoara nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 28/2021 Privind aprobarea execuției bugetare a bugetului local",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42407",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-29-2021",
+   "path": "local/cluj/viisoara/2021/29",
+   "short": "HCL Viișoara nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 29/2021 Privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții 2021",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42408",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-3-2021",
+   "path": "local/cluj/viisoara/2021/3",
+   "short": "HCL Viișoara nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 3/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23368",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-30-2021",
+   "path": "local/cluj/viisoara/2021/30",
+   "short": "HCL Viișoara nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 30/2021 Privind acordarea sumei de 7.500 de lei din bugetul local asociației AMKHKE",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42409",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-32-2021",
+   "path": "local/cluj/viisoara/2021/32",
+   "short": "HCL Viișoara nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 32/2021 Privind aprobarea achiziționării de servicii juridice de consultanță în dosarul civ. nr. 4490/328/2017",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42411",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-34-2021",
+   "path": "local/cluj/viisoara/2021/34",
+   "short": "HCL Viișoara nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 34/2021 Privind aprobarea planului de analiză de risc la siguranța fizică",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42413",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-36-2021",
+   "path": "local/cluj/viisoara/2021/36",
+   "short": "HCL Viișoara nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 36/2021 Privind aprobarea actualizării indicatorilor tehnico- economici pentru obiectivul de investiții - Modernizare infrastructură rutieră în comuna Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42415",
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-37-2021",
+   "path": "local/cluj/viisoara/2021/37",
+   "short": "HCL Viișoara nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 37/2021 Privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2021",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42416",
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-38-2021",
+   "path": "local/cluj/viisoara/2021/38",
+   "short": "HCL Viișoara nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 38/2021",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/42417",
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/42417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-39-2021",
+   "path": "local/cluj/viisoara/2021/39",
+   "short": "HCL Viișoara nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 39/2021 pentru aprobarea modificării și completării contractului de delegare prin concesiune a gestiunii activităților de colectare și transport a deșeurilor în județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/44517",
+   "versions": [
+    {
+     "from": "2021-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/44517",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-40-2021",
    "path": "local/cluj/viisoara/2021/40",
    "short": "HCL Viișoara nr. 40/2021",
@@ -298,6 +733,21 @@
      "from": "2021-12-27",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/47654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-9-2021",
+   "path": "local/cluj/viisoara/2021/9",
+   "short": "HCL Viișoara nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 9/2021 privind aprobarea Planului de evacuare în situații de urgență la nivelul comunei Viișoara, județul Cluj, pentru anul 2021",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/41900",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/41900",
      "sha256": null
     }
    ]

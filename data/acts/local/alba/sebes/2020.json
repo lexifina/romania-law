@@ -25,6 +25,95 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-40-2020",
+"path": "local/alba/sebes/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 40/2020 Privind aprobarea Regulamentului Concursului Național de Creație Literară și Artă Plastică „Laudă semințelor, celor de față și-n veci tuturor”, din cadrul celei de-a XL-a ediții a Festivalului Internațional „Lucian Blaga” Sebeș (8-10 mai 2020)",
+"short": "HCL Sebeș nr. 40/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-45-2020",
+"path": "local/alba/sebes/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 45/2020 cu privire la modificarea și completarea H.C.L. 24/2009 privind aprobarea Regulamentului de transport taxi și Regulamentul de organizare a Activități de dispecerat la transport în regim de taxi pe raza administrativ teritorială a Municipiului Sebeș, cu modificările și completările ulterioare",
+"short": "HCL Sebeș nr. 45/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-91-2020",
+"path": "local/alba/sebes/2020/91",
+"kind": "local",
+"year": "2020",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 91/2020 privind modificarea și completarea Regulamentului Concursului Național de Creație Literară și Artă Plastică ,,Laudă semințelor, celor de față și-n veci tuturor,, din cadrul celei de-a XL-a ediții a festivalului Internațional ,,Lucian Bl",
+"short": "HCL Sebeș nr. 91/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-03-30",
+"latest": "2020-03-30",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--sebes-103-2020",
+"path": "local/alba/sebes/2020/103",
+"kind": "local",
+"year": "2020",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 103/2020 privind aprobarea Regulamentului privind funcționarea și exploatarea sistemului de supraveghere video pe raza Municipiului Sebeș",
+"short": "HCL Sebeș nr. 103/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-alba--sebes-104-2020",
 "path": "local/alba/sebes/2020/104",
 "kind": "local",
@@ -91,6 +180,50 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-123-2020",
+"path": "local/alba/sebes/2020/123",
+"kind": "local",
+"year": "2020",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 123/2020 privind aprobarea Metodologiei privind acordarea unui ajutor financiar familiilor pentru plata serviciilor oferite de bonă",
+"short": "HCL Sebeș nr. 123/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--sebes-148-2020",
+"path": "local/alba/sebes/2020/148",
+"kind": "local",
+"year": "2020",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 148/2020 privind aprobarea declanșării procedurii de atribuire a unui număr de 13 (treisprezece) autorizații taxi",
+"short": "HCL Sebeș nr. 148/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-alba--sebes-178-2020",
 "path": "local/alba/sebes/2020/178",
 "kind": "local",
@@ -113,6 +246,29 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-188-2020",
+"path": "local/alba/sebes/2020/188",
+"kind": "local",
+"year": "2020",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 188/2020 privind micșorarea prețurilor de referință (Anexele 1-5) a masei lemnoase “pe picior” producția anului 2020 pentru masa lemnoasă ce se valorifică prin licitație sau negociere din fondul forestier proprietate publică a Municipiului Sebeș",
+"short": "HCL Sebeș nr. 188/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-alba--sebes-189-2020",
 "path": "local/alba/sebes/2020/189",
 "kind": "local",
@@ -132,6 +288,50 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-209-2020",
+"path": "local/alba/sebes/2020/209",
+"kind": "local",
+"year": "2020",
+"number": "209",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 209/2020 privind asigurarea gratuității pentru elevii din Municipiul Sebeș la transportul public local de persoane precum și aprobarea regulamentului de acordare a acestor facilități",
+"short": "HCL Sebeș nr. 209/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-15",
+"latest": "2020-09-15",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-236-2020",
+"path": "local/alba/sebes/2020/236",
+"kind": "local",
+"year": "2020",
+"number": "236",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 236/2020 privind aprobarea prețurilor de referință ale masei lemnoase “pe picior” producția anului 2021 pentru masă lemnoasă ce se valorifică prin licitație sau negociere din fondul forestier proprietate publică a Municipiului Sebeș",
+"short": "HCL Sebeș nr. 236/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-10-26",
+"latest": "2020-10-26",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "ocr"
 }
 },
 {

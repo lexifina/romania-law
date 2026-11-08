@@ -3,6 +3,336 @@
  "shard": "local/constanta/adamclisi/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--adamclisi-1-2023",
+   "path": "local/constanta/adamclisi/2023/1",
+   "short": "HCL Adamclisi nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 1/2023 privind acoperirea definitiva a deficitului sectiunii de dezvoltare pe anul 2022 din excedentul bugetar al anilor precedenti",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/85435",
+   "versions": [
+    {
+     "from": "2023-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/85435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-10-2023",
+   "path": "local/constanta/adamclisi/2023/10",
+   "short": "HCL Adamclisi nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 10/2023 privind aprobarea utilizarii sumei de 1.070.000 lei din excedentul bugetului local al UAT-Comunei Adamclisi, rezultat la incheierea exercitiului bugetar al anului 2022 si includerea in bugetul de venituri si cheltuieli pe anul 2023",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/88493",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/88493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-11-2023",
+   "path": "local/constanta/adamclisi/2023/11",
+   "short": "HCL Adamclisi nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 11/2023 privind aprobarea bugetului de venituri si cheltuieli al Comunei Adamclisi pe anul 2023 si a estimarilor pentru anii 2024-2026",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/88494",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/88494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-12-2023",
+   "path": "local/constanta/adamclisi/2023/12",
+   "short": "HCL Adamclisi nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 12/2023 privind aprobarea Documentatiei de avizare a lucrarilor de interventii, a indicatorilor tehnico-economici si a devizului general pentru obiectivul de investitie \"MODERNIZARE STRAZI IN INTERIORUL LOCALITATII URLUIA, COMUNA ADAMCLISI, ETAPA I\"",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/88495",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/88495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-13-2023",
+   "path": "local/constanta/adamclisi/2023/13",
+   "short": "HCL Adamclisi nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 13/2023 privind aprobarea Documentatiei de avizare a lucrarilor de interventii, a indicatorilor tehnico-economici si a devizului general pentru obiectivul de investitie \"MODERNIZARE STRAZI IN INTERIORUL LOCALITATII URLUIA, COMUNA ADAMCLISI, ETAPA II\" , aprobat pentru finantare prin Programul national de investitii “Anghel Saligny”, precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/88496",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/88496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-14-2023",
+   "path": "local/constanta/adamclisi/2023/14",
+   "short": "HCL Adamclisi nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 14/2023 privind acordul UAT Adamclisi pentru trecerea din domeniul public al UAT Adamclisi in domeniul public al statului , a unui imobil-teren situat pe raza administrativ-teritorială a comunei Adamclisi, judetul Constanta",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/88497",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/88497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-17-2023",
+   "path": "local/constanta/adamclisi/2023/17",
+   "short": "HCL Adamclisi nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 17/2023 privind aprobarea protocolului de colaborare realizat in parteneriat intre organizatia non-profit, neguvernamentala Viitorplus- Asociatia pentru dezvoltare durabila si UAT Adamclisi, judetul Constanta",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/88500",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/88500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-18-2023",
+   "path": "local/constanta/adamclisi/2023/18",
+   "short": "HCL Adamclisi nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 18/2023",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/88501",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/88501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-19-2023",
+   "path": "local/constanta/adamclisi/2023/19",
+   "short": "HCL Adamclisi nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 19/2023 privind aprobarea prelungirii pana la data de 02.10.2023 a Scrisorii de garantie de la FNGCIMM SA IFN nr. 720/07.11.2018 in suma de 330.000,00 lei pentru implementarea proiectului“Renovare, modernizare si dotare Camin Cultural localitatea Zorile”",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/88502",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/88502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-2-2023",
+   "path": "local/constanta/adamclisi/2023/2",
+   "short": "HCL Adamclisi nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 2/2023 privind aprobarea schimbarii denumirii unitatii de învatamânt , din Liceul Tehnologic ,, Jean Dinu `` Adamclisi in SCOALA PROFESIONALA ,, JEAN DINU `` ADAMCLISI, Judetul Constanta",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/88485",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/88485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-20-2023",
+   "path": "local/constanta/adamclisi/2023/20",
+   "short": "HCL Adamclisi nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 20/2023 privind aprobarea Studiului de fezabilitate si a indicatorilor tehnico-economici pentru obiectivul de investitie ,, Infiintare sistem de canalizare si statie de epurare, comuna Adamclisi, judetul Constanta",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/88503",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/88503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-21-2023",
+   "path": "local/constanta/adamclisi/2023/21",
+   "short": "HCL Adamclisi nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 21/2023 privind revocarea HCL nr. 97 din 19.12.2022 privind aprobarea Programului anual al achizitiilor publice al comunei Adamclisi pe anul 2022",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/91982",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/91982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-22-2023",
+   "path": "local/constanta/adamclisi/2023/22",
+   "short": "HCL Adamclisi nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 22/2023 privind aprobarea organigramei, statului de functii si a statului de personal al aparatului de specialitate al primarului comunei Adamclisi, judetul Constanta pe anul 2023",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/91983",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/91983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-23-2023",
+   "path": "local/constanta/adamclisi/2023/23",
+   "short": "HCL Adamclisi nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 23/2023 privind stabilirea salariilor de bază pentru persoanele care detin functii de demnitate publica, funcţionarilor publici şi personalului contractual din cadrul aparatului de specialitate al primarului Comunei Adamclisi ,incepand cu luna februarie 2023",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/91984",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/91984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-24-2023",
+   "path": "local/constanta/adamclisi/2023/24",
+   "short": "HCL Adamclisi nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 24/2023",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/91985",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/91985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-28-2023",
+   "path": "local/constanta/adamclisi/2023/28",
+   "short": "HCL Adamclisi nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 28/2023 privind rectificarea bugetului de venituri si cheltuieli al comunei Adamclisi pe anul 2023 din data de 23.02.2023",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/91989",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/91989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-29-2023",
+   "path": "local/constanta/adamclisi/2023/29",
+   "short": "HCL Adamclisi nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 29/2023 PRIVIND APROBAREA PLANULUI DE ACTIUNI SI LUCRARI DE INTERES LOCAL CARE VOR FI EEFCTUATE CU PERSOANELE MAJORE APTE DE MUNCA DIN FAMILIILE BENEFICIARE DE VENIT MINIM GARANTAT CONFORM LEGII NR. 416 / 2001 PENTRU ANUL 2023",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/96919",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/96919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-30-2023",
+   "path": "local/constanta/adamclisi/2023/30",
+   "short": "HCL Adamclisi nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 30/2023 privind aprobarea retelei scolare a unitatilor de invatamant preuniversitar de stat de la nivelul comunei Adamclisi, judetul Constanta pentru anul scolar 2023-2024 in vederea emiterii avizului conform de catre Inspectoratul Scolar Judetean Constanta",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/96920",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/96920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-32-2023",
+   "path": "local/constanta/adamclisi/2023/32",
+   "short": "HCL Adamclisi nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 32/2023 privind aprobarea situatiilor financiare, contului de executie al bugetului local al Comunei Adamclisi la data de 31.12.2022",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/96922",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/96922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-33-2023",
+   "path": "local/constanta/adamclisi/2023/33",
+   "short": "HCL Adamclisi nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 33/2023 privind rectificarea bugetului de venituri si cheltuieli al comunei Adamclisi pe anul 2023 din data de 23.03.2023",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/96923",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/96923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-35-2023",
+   "path": "local/constanta/adamclisi/2023/35",
+   "short": "HCL Adamclisi nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 35/2023 privind aprobarea depunerii proiectului ”Dotarea cu mobilier, materiale didactice și echipamente digitale a unității de învățământ preuniversitar la nivelul comunei Adamclisi, județ Constanta- Liceul Tehnologic „Jean Dinu” din comuna Adamclisi” în cadrul apelului de proiecte PNRR-Pilonul VI, Reforma 5-Investiția 9 și Reforma 6-Investiția 11",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/100097",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/100097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-36-2023",
+   "path": "local/constanta/adamclisi/2023/36",
+   "short": "HCL Adamclisi nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 36/2023 privind aprobarea Documentatiei de avizare a lucrarilor de interventii, a indicatorilor tehnico-economici si a devizului general pentru obiectivul de investitie \"Consolidare si reabilitare termica moderata Liceul Tehnologic Jean Dinu, comuna Adamclisi, judet Constanta\"",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/100098",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/100098",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--adamclisi-69-2023",
    "path": "local/constanta/adamclisi/2023/69",
    "short": "HCL Adamclisi nr. 69/2023",

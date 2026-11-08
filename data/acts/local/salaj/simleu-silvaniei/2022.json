@@ -24,6 +24,28 @@
 "text_withheld": "personal_data",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-salaj--simleu-silvaniei-120-2022",
+"path": "local/salaj/simleu-silvaniei/2022/120",
+"kind": "local",
+"year": "2022",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 120/2022 privind stabilirea valorilor impozabile, a impozitelor și taxelor locale, altor taxe asimilate acestora, taxelor speciale, precum și a tarifelor și chiriilor pentru administrarea bunurilor ce aparțin domeniului public și privat al orașului Șimleu Silvaniei pentru anul fiscal 2023 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: -Referatul d",
+"short": "HCL Șimleu Silvaniei nr. 120/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2022/page/20/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_source": "pdf_text_layer"
+}
 }
 ]
 }

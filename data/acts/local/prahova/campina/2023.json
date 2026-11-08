@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-prahova--campina-38-2023",
+"path": "local/prahova/campina/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 38/2023",
+"short": "HCL Câmpina nr. 38/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-02-27",
+"latest": "2023-02-27",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"title_withheld": "personal_data",
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-prahova--campina-46-2023",
 "path": "local/prahova/campina/2023/46",
 "kind": "local",
@@ -465,6 +488,29 @@
 }
 },
 {
+"slug": "hcl-prahova--campina-179-2023",
+"path": "local/prahova/campina/2023/179",
+"kind": "local",
+"year": "2023",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 179/2023",
+"short": "HCL Câmpina nr. 179/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"title_withheld": "personal_data",
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-prahova--campina-186-2023",
 "path": "local/prahova/campina/2023/186",
 "kind": "local",
@@ -484,6 +530,28 @@
 "council_name": "Consiliul Local al Municipiului Câmpina",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--campina-187-2023",
+"path": "local/prahova/campina/2023/187",
+"kind": "local",
+"year": "2023",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 187/2023 pentru reglementarea procesului de scoatere din funcțiune, casare și valorificare a activelor corporale care alcătuiesc domeniul public al statului și al unităților administrativ-teritoriale; - art.6, alin.(3) și ale art.30, alin.(1), lit.”c” din Legea nr.24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative, republicată, cu modificările și completările ulterioare; - a",
+"short": "HCL Câmpina nr. 187/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {
@@ -528,6 +596,51 @@
 "council_name": "Consiliul Local al Municipiului Câmpina",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--campina-198-2023",
+"path": "local/prahova/campina/2023/198",
+"kind": "local",
+"year": "2023",
+"number": "198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 198/2023 pentru anulare PUZ 2023",
+"short": "HCL Câmpina nr. 198/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-199-2023",
+"path": "local/prahova/campina/2023/199",
+"kind": "local",
+"year": "2023",
+"number": "199",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 199/2023",
+"short": "HCL Câmpina nr. 199/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
 }
 },
 {

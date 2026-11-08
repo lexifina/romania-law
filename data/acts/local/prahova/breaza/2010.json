@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/prahova/breaza/2010",
+"acts": [
+{
+"slug": "hcl-prahova--breaza-79-2010",
+"path": "local/prahova/breaza/2010/79",
+"kind": "local",
+"year": "2010",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Breaza nr. 79/2010",
+"short": "HCL Breaza nr. 79/2010",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2010-08-26",
+"latest": "2010-08-26",
+"portal": "https://primariabreaza.ro/hotarari-2/",
+"council": "prahova/breaza",
+"council_name": "Consiliul Local al Orașului Breaza",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

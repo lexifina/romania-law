@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/maramures/seini/2013",
+"acts": [
+{
+"slug": "hcl-maramures--seini-61-2013",
+"path": "local/maramures/seini/2013/61",
+"kind": "local",
+"year": "2013",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 61/2013 Pentru aprobarea Planului anual de evoluŃie a tarifelor unice, perioada 2015-2016 în aria de operare a SC VITAL SA - oras Seini Consiliul Local al orasului Seini intrunit in sedinta ordinara la data de 25.11.2013; Având în vedere: - Adresa AsociaŃiei de Dezvoltare Intercomunitare pentru serviciul de apă și apă uzată ADI-Maramureș, nr. 496/18.11.2013, privind solicitarea de aprobare a strategiei de",
+"short": "HCL Seini nr. 61/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-11-25",
+"latest": "2013-11-25",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2013/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

@@ -3,6 +3,28 @@
 "shard": "local/cluj/viisoara/2022",
 "acts": [
 {
+"slug": "hcl-cluj--viisoara-13-2022",
+"path": "local/cluj/viisoara/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 13/2022 privind aprobarea Strategiei locale pentru accelerarea dezvoltării serviciilor comunitare de utilități publice și a planului de implementare de utilități publice",
+"short": "HCL Viișoara nr. 13/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/73804",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-cluj--viisoara-15-2022",
 "path": "local/cluj/viisoara/2022/15",
 "kind": "local",

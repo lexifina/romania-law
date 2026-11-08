@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--orsova-17-2026",
+   "path": "local/mehedinti/orsova/2026/17",
+   "short": "HCL Orșova nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 17/2026 privind reconstituirea comisiei locale de ordine publica la nivelul municipiului Orsova si aprobarea Regulamentului de organizare si functionare a comisiei locale de ordine publica Vizualizare",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/HCL-17.pdf",
+     "sha256": "642e2232b9ece1632608074c92e97f139429bafe4d6ed92b2ba77191f605b6ee"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--orsova-24-2026",
    "path": "local/mehedinti/orsova/2026/24",
    "short": "HCL Orșova nr. 24/2026",
@@ -44,6 +59,36 @@
      "units": 1,
      "source_url": "https://primariaorsova.ro/storage/formidable/9/HCL-nr.24-adoptata-la-data-de-31.03.2026.pdf",
      "sha256": "c391b27604d0f27195346494ffa3cde32fa788cccafcb1bf587c9b0e31df0e84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--orsova-38-2026",
+   "path": "local/mehedinti/orsova/2026/38",
+   "short": "HCL Orșova nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 38/2026 privind aprobarea tarifelor pentru serviciile prestate de Societatea Servicii Publice Orșova S.R.L.",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7382ee787b81a827ffa8783c0c84f637dc20ee18ab55354644a08d966aafd177"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--orsova-44-2026",
+   "path": "local/mehedinti/orsova/2026/44",
+   "short": "HCL Orșova nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 44/2026 privind aprobarea documentației de urbanism „Actualizare Plan Urbanistic General al Municipiului Orșova — PUG și a Regulamentului Local de Urbanism - RLU - Orșova”, județul Mehedinți",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 6,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/HCL-44-1.pdf",
+     "sha256": "14b4eb301a0bfa0c48065bda8db72a8011378a68637e4f95be2610e5394344f4"
     }
    ]
   },

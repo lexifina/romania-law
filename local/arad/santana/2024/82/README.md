@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Orașului Sântana nr. 82/2024 PRIVIND ACORDAREA UNUI MANDAT SPECIAL REPREZENTANTULUI CONSILIULUI LOCAL AL ORAȘULUI SÂNTANA ÎN ADUNAREA GENERALĂ A ASOCIAȚILOR ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ DE TRANSPORT PUBLIC ARAD ÎN VEDEREA APROBĂRII MODIFICĂRII METODOLOGIEI PRIVIND APLICAREA MĂSURILOR DE PROTECȚIE SOCIALĂ LA TRANSPORTUL PUBLIC LOCAL PE RAZA TERITORIALĂ A UNITĂȚILOR ADMINISTRATIV- TERITORIALE MEMBRE ALE ASOCIAȚIEI D
+
+HCL Sântana nr. 82/2024 · 1 versions, from 2024-04-25 (latest in force: 2024-04-25) · <http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=47>
+
+**Status:** Text not yet included: its text is from a antiword document, not a PDF: it waits for review. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-arad--santana-82-2024` (tags `hcl-arad--santana-82-2024/<day>`; `python tools/on.py <day> hcl-arad--santana-82-2024`).
+
+## Decisions made by hand
+
+- HCL Sântana nr. 82/2024: listed from Consiliul Local al Orașului Sântana (www.primariasantana.ro); metadata only for now: its text is from a antiword document, not a PDF: it waits for review.
+- HCL Sântana nr. 82/2024: dated from 25 April 2024, the day it was adopted (the register gives no later day of publication).
+- HCL Sântana nr. 82/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

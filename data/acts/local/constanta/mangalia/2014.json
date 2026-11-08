@@ -245,6 +245,29 @@
 }
 },
 {
+"slug": "hcl-constanta--mangalia-168-2014",
+"path": "local/constanta/mangalia/2014/168",
+"kind": "local",
+"year": "2014",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 168/2014 privind aprobarea \"Regulamentului privind reglementarea activității agenților economici de pe teritoriul administrativ al municipiului Mangalia”",
+"short": "HCL Mangalia nr. 168/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-05-16",
+"latest": "2014-05-16",
+"portal": "https://mangalia.ro/2014/07/hcl-16820-05-2014/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-constanta--mangalia-179-2014",
 "path": "local/constanta/mangalia/2014/179",
 "kind": "local",

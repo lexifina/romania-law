@@ -3,6 +3,126 @@
  "shard": "local/cluj/viisoara/2020",
  "acts": [
   {
+   "slug": "hcl-cluj--viisoara-1-2020",
+   "path": "local/cluj/viisoara/2020/1",
+   "short": "HCL Viișoara nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 1/2020 privind probarea utilizării excedentului bugetar de la finele anului 2019",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/4474",
+   "versions": [
+    {
+     "from": "2020-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/4474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-10-2020",
+   "path": "local/cluj/viisoara/2020/10",
+   "short": "HCL Viișoara nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 10/2020 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/7642",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/7642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-11-2020",
+   "path": "local/cluj/viisoara/2020/11",
+   "short": "HCL Viișoara nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 11/2020 privind procedura pentru înregistrare, evidența și radierea vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ - teritorială a comunei Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/7643",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/7643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-12-2020",
+   "path": "local/cluj/viisoara/2020/12",
+   "short": "HCL Viișoara nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 12/2020 privind aprobarea programului de măsuri pentru Îmbunătățirea activității de gospodărire a comunei Viișoara, județul Cluj, pentru anul 2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/7644",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/7644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-13-2020",
+   "path": "local/cluj/viisoara/2020/13",
+   "short": "HCL Viișoara nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 13/2020 privind aprobarea nomenclatorului stradal al comunei Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/7645",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/7645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-14-2020",
+   "path": "local/cluj/viisoara/2020/14",
+   "short": "HCL Viișoara nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 14/2020 privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli al comunei Viișoara la 31.03.2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/7646",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/7646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-15-2020",
+   "path": "local/cluj/viisoara/2020/15",
+   "short": "HCL Viișoara nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 15/2020 privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli al comunei Viișoara la 31.12.2019",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/7647",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/7647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-16-2020",
+   "path": "local/cluj/viisoara/2020/16",
+   "short": "HCL Viișoara nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 16/2020 privind acordarea de finanțare nerambursabilă, de la bugetul local al comunei Viișoara, pentru programele, proiectele și acțiunile organizate în domeniul cultural",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/7648",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/7648",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-18-2020",
    "path": "local/cluj/viisoara/2020/18",
    "short": "HCL Viișoara nr. 18/2020",
@@ -28,6 +148,21 @@
      "from": "2020-06-26",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/21362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-2-2020",
+   "path": "local/cluj/viisoara/2020/2",
+   "short": "HCL Viișoara nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 2/2020 privind aprobarea bugetului local de venituri și cheltuieli, lista de investiții pentru 2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/4475",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/4475",
      "sha256": null
     }
    ]
@@ -183,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--viisoara-3-2020",
+   "path": "local/cluj/viisoara/2020/3",
+   "short": "HCL Viișoara nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 3/2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/4478",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/4478",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-30-2020",
    "path": "local/cluj/viisoara/2020/30",
    "short": "HCL Viișoara nr. 30/2020",
@@ -298,6 +448,66 @@
      "from": "2020-12-11",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-4-2020",
+   "path": "local/cluj/viisoara/2020/4",
+   "short": "HCL Viișoara nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 4/2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/4479",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/4479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-6-2020",
+   "path": "local/cluj/viisoara/2020/6",
+   "short": "HCL Viișoara nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 6/2020 privind aprobarea finanțării Asociației Aranyosegerbegy Magyar Kozossegi Haz Kulturalis Egyesulet Viișoara, comuna Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/4477",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/4477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-8-2020",
+   "path": "local/cluj/viisoara/2020/8",
+   "short": "HCL Viișoara nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 8/2020 privind stabilirea impozitelor și taxelor locale pe anul 2021 la nivelul comunei Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/7640",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/7640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-9-2020",
+   "path": "local/cluj/viisoara/2020/9",
+   "short": "HCL Viișoara nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 9/2020 privind aprobarea Statutului comunei Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/7641",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/7641",
      "sha256": null
     }
    ]

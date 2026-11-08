@@ -588,6 +588,36 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-138-2016",
+   "path": "local/vaslui/husi/2016/138",
+   "short": "HCL Huși nr. 138/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 138/2016 privind aprobarea tarifelor de baza lunare pe metru patrat ce se vor utiliza incepand cu data de 01.01.2017 pentru inchirierea terenurilor și spațiilor din domeniul public și privat al Municipiului Husi aflate in administrarea Centrului Public de Desfacere și in patrimoniul Casei de Cultura Husi",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_138_2016-II.pdf",
+     "sha256": "03015837de076780568dcbf956400df8b9ca782fe0099bbed12dcd149f75a606"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-139-2016",
+   "path": "local/vaslui/husi/2016/139",
+   "short": "HCL Huși nr. 139/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 139/2016 privind aprobarea cuantumului taxei concesionare loc de inhumare și a taxelor ce se vor utiliza pentru serviciile funerare practicate in cimitirele aflate in administrarea Consiliului Local Husi incepand cu data de 01.01.2017",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_139_2016-II.pdf",
+     "sha256": "910a77388f37b3c5f7bd5f008ae2dabb05729aca9e651dfc5abb8aaf1a0657cf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-14-2016",
    "path": "local/vaslui/husi/2016/14",
    "short": "HCL Huși nr. 14/2016",

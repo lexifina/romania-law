@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--targu-frumos-20-2024",
+   "path": "local/iasi/targu-frumos/2024/20",
+   "short": "HCL Târgu Frumos nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 20/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f51a898dfe928186f158ce0bad25328b31f4a2bcb4867e9cc985a80207ae9a4e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--targu-frumos-40-2024",
    "path": "local/iasi/targu-frumos/2024/40",
    "short": "HCL Târgu Frumos nr. 40/2024",

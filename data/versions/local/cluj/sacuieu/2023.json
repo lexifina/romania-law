@@ -3,6 +3,81 @@
  "shard": "local/cluj/sacuieu/2023",
  "acts": [
   {
+   "slug": "hcl-cluj--sacuieu-14-2023",
+   "path": "local/cluj/sacuieu/2023/14",
+   "short": "HCL Săcuieu nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 14/2023 privind aprobarea regulamentului de instituire și administrare a taxei de salubrizare pentru utilizatorii serviciului de salubrizare care beneficiază individual de prestarea serviciului de salubrizare fără contract încheiat cu operatorul de salubrizare și pentru instituirea și aprobarea taxei de salubrizare pentru utilizatorii care beneficiază individual de prestarea serviciului de salubrizare fără contract încheiat cu operatorul de salubritate",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/100123",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/100123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-22-2023",
+   "path": "local/cluj/sacuieu/2023/22",
+   "short": "HCL Săcuieu nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 22/2023 privind aprobarea Programului anual de măsuri pentru buna gospodărire, întreținere, curățenie și înfrumusețare a comunei Săcuieu în anul 2023",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/125616",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/125616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-58-2023",
+   "path": "local/cluj/sacuieu/2023/58",
+   "short": "HCL Săcuieu nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 58/2023 privind aprobarea Consiliul Local al Comunei Săcuieu de a emite Acordul comunei pentru obiectivul „Realizare pistă de biciclete în Comuna Săcuieu, Județul Cluj”",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/125722",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/125722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-59-2023",
+   "path": "local/cluj/sacuieu/2023/59",
+   "short": "HCL Săcuieu nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 59/2023 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici aferent proiectului: REALIZARE PISTĂ DE BICICLETE ÎN COMUNA SĂCUIEU, JUDEȚUL CLUJ”",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/125723",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/125723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-60-2023",
+   "path": "local/cluj/sacuieu/2023/60",
+   "short": "HCL Săcuieu nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 60/2023 privind aprobarea planului de acțiuni pentru gestionarea câinilor fără stăpân în comuna Săcuieu, județul Cluj",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/125724",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/125724",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--sacuieu-73-2023",
    "path": "local/cluj/sacuieu/2023/73",
    "short": "HCL Săcuieu nr. 73/2023",

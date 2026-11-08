@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/iara/2024",
+"acts": [
+{
+"slug": "hcl-cluj--iara-84-2024",
+"path": "local/cluj/iara/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Iara nr. 84/2024 privind modificarea prevederilor Planul Urbanistic General al Comunei Iara și Regulamentul Local de Urbanism aferent, aprobat prin HCL nr. 54/25.07.2024 Consiliul Local al Comunei Iara din județul Cluj, întrunit în ședință ordinară din data de 08.11.2024; Luând în dezbatere proiectul de hotărâre Nr. 85/01.11.2024 privind modificarea Planul Urbanistic General al Comunei Iara și Regulamentul Local d",
+"short": "HCL Iara nr. 84/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-08",
+"latest": "2024-11-08",
+"portal": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-84-modificare-PUG-Iara-si-regulament-local-de-urbanism_v.pdf",
+"council": "cluj/iara",
+"council_name": "Consiliul Local al Comunei Iara",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

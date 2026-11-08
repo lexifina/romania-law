@@ -3,6 +3,141 @@
  "shard": "local/caras-severin/ramna/2020",
  "acts": [
   {
+   "slug": "hcl-caras-severin--ramna-1-2020",
+   "path": "local/caras-severin/ramna/2020/1",
+   "short": "HCL Ramna nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 1/2020 privind aprobarea organizarii retelei scolare a unitatilor de invatamant preuniversitar de pe raza comunei Ramna pentru anul scolar 2020-2021",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14819",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-10-2020",
+   "path": "local/caras-severin/ramna/2020/10",
+   "short": "HCL Ramna nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 10/2020 privind aprobarea efectuarii lucrarilor de capital/investitii ce se vor executa in anul 2020 din fondul de excedent al anilor precedenti",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14828",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-11-2020",
+   "path": "local/caras-severin/ramna/2020/11",
+   "short": "HCL Ramna nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 11/2020 privind modificarea si completarea Regulamentului de organizare si functionare a Consiliului Local Ramna, judetul Caras-Severin",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14829",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-12-2020",
+   "path": "local/caras-severin/ramna/2020/12",
+   "short": "HCL Ramna nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 12/2020 privind alegere presedinte sedinta",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14830",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-13-2020",
+   "path": "local/caras-severin/ramna/2020/13",
+   "short": "HCL Ramna nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 13/2020",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14831",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-14-2020",
+   "path": "local/caras-severin/ramna/2020/14",
+   "short": "HCL Ramna nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 14/2020 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii:” Refacere și modernizare drum comunal calamitat DC 87 Valeapai-Hotar Vermeș, comuna Ramna, județul Caraș-Severin”",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14832",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-15-2020",
+   "path": "local/caras-severin/ramna/2020/15",
+   "short": "HCL Ramna nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 15/2020 privind aprobarea execuției bugetelor, secțiunea de funcționare și secțiunea de dezvoltare pe trimestrul I, anul 2020",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14839",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-16-2020",
+   "path": "local/caras-severin/ramna/2020/16",
+   "short": "HCL Ramna nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 16/2020 privind însusirea și aprobarea documentației cadastrale de dezmembrare a imobilului identificat prin număr cadastral 33854 Ramna, situat în comuna Ramna, aparținând domeniului public al comunei Ramna, jud.Caras-Severin",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14840",
+   "versions": [
+    {
+     "from": "2020-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-17-2020",
+   "path": "local/caras-severin/ramna/2020/17",
+   "short": "HCL Ramna nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 17/2020 privind aprobarea Regulamentului de salubrizare al Județului Caraș – Severin",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14845",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14845",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ramna-18-2020",
    "path": "local/caras-severin/ramna/2020/18",
    "short": "HCL Ramna nr. 18/2020",
@@ -28,6 +163,21 @@
      "from": "2020-07-24",
      "units": 1,
      "source_url": "https://emol.ro/ramna-cs/registru-hcl/14851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-2-2020",
+   "path": "local/caras-severin/ramna/2020/2",
+   "short": "HCL Ramna nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 2/2020 privind aprobarea planului de actiuni sau lucrari de interes local",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14820",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14820",
      "sha256": null
     }
    ]
@@ -183,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ramna-3-2020",
+   "path": "local/caras-severin/ramna/2020/3",
+   "short": "HCL Ramna nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 3/2020 privind probarea planului de actiuni sau lucrari de interes local",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14821",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14821",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ramna-30-2020",
    "path": "local/caras-severin/ramna/2020/30",
    "short": "HCL Ramna nr. 30/2020",
@@ -298,6 +463,96 @@
      "from": "2020-12-29",
      "units": 1,
      "source_url": "https://emol.ro/ramna-cs/registru-hcl/37594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-4-2020",
+   "path": "local/caras-severin/ramna/2020/4",
+   "short": "HCL Ramna nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 4/2020 privind îndreptarea unei erori materiale si completarea HCL 40/2019",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14822",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-5-2020",
+   "path": "local/caras-severin/ramna/2020/5",
+   "short": "HCL Ramna nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 5/2020 privind aprobarea executiei bugetelor sectiunea functionare si dezvoltare pe trim. IV anul 2019",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14823",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-6-2020",
+   "path": "local/caras-severin/ramna/2020/6",
+   "short": "HCL Ramna nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 6/2020 privind neasumarea de către Consiliul Local a derulării Programului pentru școli al României 2017-2023 la nivelul comunei Ramna",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14824",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-7-2020",
+   "path": "local/caras-severin/ramna/2020/7",
+   "short": "HCL Ramna nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 7/2020 privind aprobarea bugetului local al comunei Ramna pe anul 2020",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14825",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-8-2020",
+   "path": "local/caras-severin/ramna/2020/8",
+   "short": "HCL Ramna nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 8/2020 privind aprobarea numarului de asistenti personali ai persoanelor cu handicap",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14826",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ramna-9-2020",
+   "path": "local/caras-severin/ramna/2020/9",
+   "short": "HCL Ramna nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ramna nr. 9/2020 privind modificarea si subventionarea tarifului pentru prestarea serviciului de salubritate",
+   "url": "https://emol.ro/ramna-cs/registru-hcl/14827",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ramna-cs/registru-hcl/14827",
      "sha256": null
     }
    ]

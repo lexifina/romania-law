@@ -3,6 +3,50 @@
 "shard": "local/alba/sebes/2025",
 "acts": [
 {
+"slug": "hcl-alba--sebes-3-2025",
+"path": "local/alba/sebes/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 3/2025 privind aprobarea Regulamentului Concursului Local de Lectură pentru clasele I-IV - „Laudă semințelor, celor de față și-n veci tuturor!”, din cadrul Festivalului Internațional „Lucian Blaga” Sebeș, 2025",
+"short": "HCL Sebeș nr. 3/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-4-2025",
+"path": "local/alba/sebes/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 4/2025 privind aprobarea Regulamentului Concursului Național de Creație Literară, Artă Plastică, Traducere și Recitare de Poczie „Laudă semințelor, celor de față și-n veci tuturor!”, din cadrul celei de-a XLV-a ediții a Festivalului Internațional „Lucian Blaga” Sebeș (mai 2025)",
+"short": "HCL Sebeș nr. 4/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-alba--sebes-31-2025",
 "path": "local/alba/sebes/2025/31",
 "kind": "local",
@@ -22,6 +66,117 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-57-2025",
+"path": "local/alba/sebes/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 57/2025 Privind aprobarea REGULAMENTULUI PRIVIND COMERCIALIZAREA PRODUSELOR ȘI SERVICIILOR DE PIAȚĂ PE RAZA MUNICIPIULUI SEBEȘ",
+"short": "HCL Sebeș nr. 57/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-26",
+"latest": "2025-02-26",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-67-2025",
+"path": "local/alba/sebes/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 67/2025 privind reducerea impozitului pe clădiri rezidențiale și a impozitului pe teren aferent anului 2026 pentru persoanele fizice care fac dovada a cel puțin trei donări de sânge în cursul anului 2025",
+"short": "HCL Sebeș nr. 67/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-68-2025",
+"path": "local/alba/sebes/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 68/2025 privind modificarea și completarea HCL nr.378/2023 privind aprobarea Regulamentului privind organizarea și executarea serviciului public de transport în regim de taxi și activității de dispecerat de pe raza administrativ-teritorială a Mu",
+"short": "HCL Sebeș nr. 68/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--sebes-79-2025",
+"path": "local/alba/sebes/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 79/2025 privind aprobarea indexării valorilor impozabile, impozitelor și taxelor locale și alte taxe asimilate acestora precum și amenzilor aplicabile în anul fiscal 2026, cu rata inflației pentru anul 2024, de 5,6%.",
+"short": "HCL Sebeș nr. 79/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-111-2025",
+"path": "local/alba/sebes/2025/111",
+"kind": "local",
+"year": "2025",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 111/2025 pentru aprobarea Regulamentului privind procedura de înregistrare, evidență și radierea vehiculelor de pe raza administrativ-teritorială a Municipiului Sebeș, care nu se supun înmatriculării",
+"short": "HCL Sebeș nr. 111/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
 }
 },
 {
@@ -135,6 +290,29 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-250-2025",
+"path": "local/alba/sebes/2025/250",
+"kind": "local",
+"year": "2025",
+"number": "250",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 250/2025 privind aprobarea Regulamentului privind acordarea facilităților de transport pentru elevii școlarizați pe raza administrativ-teritorială a Municipiului Sebeș la transportul public local și metropolitan pentru anul școlar 2025-2026",
+"short": "HCL Sebeș nr. 250/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-alba--sebes-263-2025",
 "path": "local/alba/sebes/2025/263",
 "kind": "local",
@@ -201,6 +379,51 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-355-2025",
+"path": "local/alba/sebes/2025/355",
+"kind": "local",
+"year": "2025",
+"number": "355",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 355/2025 privind modificarea Capitolului VI din Anexa la HCL nr. 111/2025 pentru aprobarea Regulamentului privind procedura de înregistrare, evidență și radierea vehiculelor de pe raza administrativ-teritorială a Municipiului Sebeș, care nu se s",
+"short": "HCL Sebeș nr. 355/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--sebes-382-2025",
+"path": "local/alba/sebes/2025/382",
+"kind": "local",
+"year": "2025",
+"number": "382",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 382/2025 privind aprobarea prețurilor de referință ale masei lemnoase “pe picior” producția anului 2026 pentru masa lemnoasă ce se valorifică prin licitație sau negociere din fondul forestier proprietate publică a MUNICIPIULUI SEBEȘ",
+"short": "HCL Sebeș nr. 382/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-alba--sebes-415-2025",
 "path": "local/alba/sebes/2025/415",
 "kind": "local",
@@ -220,6 +443,29 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-418-2025",
+"path": "local/alba/sebes/2025/418",
+"kind": "local",
+"year": "2025",
+"number": "418",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 418/2025 privind modificarea și completarea HCL 413/2025 privind nivelurile pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și amenzile aplicabile în anul fiscal 2026",
+"short": "HCL Sebeș nr. 418/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
 }
 }
 ]

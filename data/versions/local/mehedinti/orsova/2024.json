@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/orsova/2024",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--orsova-7-2024",
+   "path": "local/mehedinti/orsova/2024/7",
+   "short": "HCL Orșova nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 7/2024 privind aprobarea ajustării tarifelor pentru Serviciul public de salubrizare din municipiul Orsova",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 5,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/HCL-nr.-7-privind-aprobarea-ajustarii-tarifelor-pentru-Serviciul-public-de-salubrizare-din-munic.pdf",
+     "sha256": "b7b2fef31263c41d5a68649b8b60e4e74625ddd13c9bdc3a2e276a2ccbc17f66"
+    }
+   ]
+  }
+ ]
+}

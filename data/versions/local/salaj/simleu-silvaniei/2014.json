@@ -3,6 +3,21 @@
  "shard": "local/salaj/simleu-silvaniei/2014",
  "acts": [
   {
+   "slug": "hcl-salaj--simleu-silvaniei-13-2014",
+   "path": "local/salaj/simleu-silvaniei/2014/13",
+   "short": "HCL Șimleu Silvaniei nr. 13/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 13/2014 pentru aprobarea Regulamentului privind aprobarea condițiilor în care se realizează accesul pe proprietatea publică sau privată a orașului Șimleu Silvaniei în vederea instalării, întreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură necesare susținerii acestora, modul de utilizare partajată a elementelor de infrastructură, precum și măsurile",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2014/page/8/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 5,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/03/HCL-nr.13-din-27.02.2014.pdf",
+     "sha256": "3ab56cdea41ecfb1493498bbabc0f1898a725315f4bfb5fec6b8819f41269c78"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-8-2014",
    "path": "local/salaj/simleu-silvaniei/2014/8",
    "short": "HCL Șimleu Silvaniei nr. 8/2014",

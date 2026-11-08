@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/tandarei/2013",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--tandarei-10-2013",
+   "path": "local/ialomita/tandarei/2013/10",
+   "short": "HCL Țăndărei nr. 10/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 10/2013 privind stabilirea taxelor de concesiune si inchiriere pentru anul fiscal 2013",
+   "url": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-07022013",
+   "versions": [
+    {
+     "from": "2013-02-07",
+     "units": 1,
+     "source_url": "http://www.primaria-tandarei.ro/images/uploaded/file/fisiere%20site/consiliul%20local/actualizari%2007.02.2013%20HCL/HCL%20nr.%2010%20privind%20stabilirea%20taxelor%20de%20concesiune%20si%20inchiriere%20pentru%20anul%20fiscal%202013.pdf",
+     "sha256": "1efa517156372c77a0f625ea3e59db988921810a4c33487df9e4070ef530689e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--tandarei-26-2013",
+   "path": "local/ialomita/tandarei/2013/26",
+   "short": "HCL Țăndărei nr. 26/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 26/2013 privind stabilirea tarifelor, taxelor si a unor preturi practicate de Serviciul de Administrare a Domeniului Public Tandarei",
+   "url": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+   "versions": [
+    {
+     "from": "2013-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-tandarei.ro/images/uploaded/file/fisiere%20site/consiliul%20local/29.03.2013%20HCL/HCL%2026.pdf",
+     "sha256": "7c7780437589c2467c346a39bf3d98bc6acdb3783c4a129542f1377e8863efb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--tandarei-29-2013",
+   "path": "local/ialomita/tandarei/2013/29",
+   "short": "HCL Țăndărei nr. 29/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 29/2013 privind aprobarea Regulamentului de taiere/toaletare a arborilor si arbustilor aflati pe domeniul public si privat al orasului Tandarei",
+   "url": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+   "versions": [
+    {
+     "from": "2013-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-tandarei.ro/images/uploaded/file/fisiere%20site/consiliul%20local/29.03.2013%20HCL/HCL%2029.pdf",
+     "sha256": "4115ec6e751cb5e73f8cd53fa2996c3a11d54e50d2160cbdfe97dc8006e0dfbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--tandarei-30-2013",
+   "path": "local/ialomita/tandarei/2013/30",
+   "short": "HCL Țăndărei nr. 30/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 30/2013 privind aprobarea Regulamentului intern al Serviciului de Administrare a Domeniului Public Tandarei",
+   "url": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+   "versions": [
+    {
+     "from": "2013-03-29",
+     "units": 1,
+     "source_url": "http://www.primaria-tandarei.ro/images/uploaded/file/fisiere%20site/consiliul%20local/29.03.2013%20HCL/HCL%2030.pdf",
+     "sha256": "ab1eda3d74020b2310405011f2281e32468091b35b88438dbc7c2f280371d25b"
+    }
+   ]
+  }
+ ]
+}

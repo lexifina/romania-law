@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/maramures/tautii-magheraus/2020",
+"acts": [
+{
+"slug": "hcl-maramures--tautii-magheraus-214-2020",
+"path": "local/maramures/tautii-magheraus/2020/214",
+"kind": "local",
+"year": "2020",
+"number": "214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 214/2020 Nr. 214 din 21.12.2020 Privind stabilirea impozitelor si taxelor locale pentru anul 2021",
+"short": "HCL Tăuții-Măgherăuș nr. 214/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://tautiimagheraus.ro/hotarari/",
+"council": "maramures/tautii-magheraus",
+"council_name": "Consiliul Local al Orașului Tăuții-Măgherăuș",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-maramures--tautii-magheraus-216-2020",
+"path": "local/maramures/tautii-magheraus/2020/216",
+"kind": "local",
+"year": "2020",
+"number": "216",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 216/2020 NR.216 din 21.12.2020 privind inregistrarea Orasului Tautii Magheraus in Sistemul National Electronic de Plata on-line a taxelor si impozitelor, utilizand cardul bancar (SNEP) si modul de suportare a comisionului bancar la tranzactia on-line",
+"short": "HCL Tăuții-Măgherăuș nr. 216/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://tautiimagheraus.ro/hotarari/",
+"council": "maramures/tautii-magheraus",
+"council_name": "Consiliul Local al Orașului Tăuții-Măgherăuș",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-maramures--tautii-magheraus-235-2020",
+"path": "local/maramures/tautii-magheraus/2020/235",
+"kind": "local",
+"year": "2020",
+"number": "235",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 235/2020 Nr. 235 din 21.12.2020 Cu privire la aprobarea planului de lucrari de interes local ce vor fi prestate de beneficiarii ajutorului social conform Legii nr. 416/2001 și a criteriilor pentru acordarea ajutoarelor de urgenta pentru anul 2021 la nivelul Orasului Tautii-Magheraus",
+"short": "HCL Tăuții-Măgherăuș nr. 235/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://tautiimagheraus.ro/hotarari/",
+"council": "maramures/tautii-magheraus",
+"council_name": "Consiliul Local al Orașului Tăuții-Măgherăuș",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

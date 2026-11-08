@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ialomita/tandarei/2012",
+"acts": [
+{
+"slug": "hcl-ialomita--tandarei-51-2012",
+"path": "local/ialomita/tandarei/2012/51",
+"kind": "local",
+"year": "2012",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 51/2012 privind modificarea HCL Tandarei nr. 51 / 20.12.2012 pentru stabilirea impozitelor si taxelot locale pentru anul 2013",
+"short": "HCL Țăndărei nr. 51/2012",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2012-12-20",
+"latest": "2012-12-20",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-07022013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

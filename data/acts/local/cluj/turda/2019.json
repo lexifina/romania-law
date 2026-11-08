@@ -92,6 +92,50 @@
 }
 },
 {
+"slug": "hcl-cluj--turda-287-2019",
+"path": "local/cluj/turda/2019/287",
+"kind": "local",
+"year": "2019",
+"number": "287",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 287/2019 privind aprobarea darii in administrare a bunului imobil “patinoar artificial in suprafața de 600 metri patrati” și stabilirea tarifelor de acces patinoar pentru sezonul 2019-2020 Consiliul Local al municipiului Turda întrunit în ședința ordinară din data de 20.12.2019",
+"short": "HCL Turda nr. 287/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-12-20",
+"latest": "2019-12-20",
+"portal": "https://primariaturda.ro/hotararea-nr-287-privind-aprobarea-darii-in-administrare-a-bunului-imobil-patinoar-artificial-in-suprafata-de-600-metri-patrati-si-stabilirea-tarifelor-de-acces-patinoar-pentru-sezon/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-295-2019",
+"path": "local/cluj/turda/2019/295",
+"kind": "local",
+"year": "2019",
+"number": "295",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 295/2019 privind stabilirea chiriei pentru spațiile și terenurile cu altă destinație decât locuință, precum și aprobarea diferitelor tarife pentru anul 2020 Consiliul Local al Municipiului Turda, întrunit în ședința ordinară din data de 20.12.2019; Luand în dezbatere proiectul de hotărâre privind stabilirea chiriei pentru spațiile și terenurile cu altă destinație decât locuință, precum și aprobarea diferit",
+"short": "HCL Turda nr. 295/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-12-20",
+"latest": "2019-12-20",
+"portal": "https://primariaturda.ro/hotararea-nr-295-privind-stabilirea-chiriei-pentru-spatiile-si-terenurile-cu-alta-destinatie-decat-locuinta-precum-si-aprobarea-diferitelor-tarife-pentru-anul-2020/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--turda-300-2019",
 "path": "local/cluj/turda/2019/300",
 "kind": "local",

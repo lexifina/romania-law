@@ -70,6 +70,28 @@
 }
 },
 {
+"slug": "hcl-cluj--turda-225-2022",
+"path": "local/cluj/turda/2022/225",
+"kind": "local",
+"year": "2022",
+"number": "225",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 225/2022 privind aprobarea solicitării referitoare la elaborarea PUZ/RLU „PUZ Nucleu III Turism Urban Turda”, UAT Turda, județul Cluj, ca și documentație de urbanism de interes public general Consiliul Local al municipiului Turda, întrunit în ședința ordinară din data de 31.10.2022; Luând în dezbatere proiectul de hotărâre privind aprobarea solicitării referitoare la elaborarea PUZ/RLU „PUZ Nucleu III Turi",
+"short": "HCL Turda nr. 225/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://primariaturda.ro/hotararea-nr-225-privind-aprobarea-solicitarii-referitoare-la-elaborarea-puz-rlu-puz-nucleu-iii-turism-urban-turda-uat-turda-judetul-cluj-ca-si-documentatie-de-urbanism-de-intere/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--turda-243-2022",
 "path": "local/cluj/turda/2022/243",
 "kind": "local",
@@ -111,6 +133,72 @@
 "council_name": "Consiliul Local al Municipiului Turda",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-249-2022",
+"path": "local/cluj/turda/2022/249",
+"kind": "local",
+"year": "2022",
+"number": "249",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 249/2022 privind aprobare P.U.Z/R.L.U.- PUZ/RLU — extindere hală producție, str",
+"short": "HCL Turda nr. 249/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://primariaturda.ro/hotararea-nr-249-privind-aprobare-p-u-z-r-l-u-puz-rlu-extindere-hala-productie-str-clujului-nr-71-construire-hala-productie-si-spatii-administrative-str-cotita-nr-7-9-municipiul-tu/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-256-2022",
+"path": "local/cluj/turda/2022/256",
+"kind": "local",
+"year": "2022",
+"number": "256",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 256/2022 privind menținerea cuantumului chiriilor pentru spațiile și terenurile cu altă destinație decât locuință și a diferitelor tarife pentru anul 2023, la nivelul anului 2022, aprobate prin Hotărârea Consiliului Local nr. 190/25.11.2021 Consiliul Local al Municipiului Turda, întrunit în ședință ordinară din data de 24.11.2022; Luând în dezbatere proiectul de hotărâre privind menținerea cuantumului chir",
+"short": "HCL Turda nr. 256/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://primariaturda.ro/hotararea-nr-256-privind-mentinerea-cuantumului-chiriilor-pentru-spatiile-si-terenurile-cu-alta-destinatie-decat-locuinta-si-a-diferitelor-tarife-pentru-anul-2023-la-nivelul-anului-2022-aprobate-pr/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-266-2022",
+"path": "local/cluj/turda/2022/266",
+"kind": "local",
+"year": "2022",
+"number": "266",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 266/2022 privind aprobarea PUZ/RLU — Construire locuințe sociale (30 apartamente), în municipiul Turda, str",
+"short": "HCL Turda nr. 266/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://primariaturda.ro/hotararea-nr-266-privind-aprobarea-puz-rlu-construire-locuinte-sociale-30-apartamente-in-municipiul-turda-str-panait-cerna-fn-judetul-cluj/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {

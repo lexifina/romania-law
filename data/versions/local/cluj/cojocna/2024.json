@@ -3,6 +3,126 @@
  "shard": "local/cluj/cojocna/2024",
  "acts": [
   {
+   "slug": "hcl-cluj--cojocna-13-2024",
+   "path": "local/cluj/cojocna/2024/13",
+   "short": "HCL Cojocna nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 13/2024",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/147972",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/147972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-15-2024",
+   "path": "local/cluj/cojocna/2024/15",
+   "short": "HCL Cojocna nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 15/2024",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/149371",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/149371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-23-2024",
+   "path": "local/cluj/cojocna/2024/23",
+   "short": "HCL Cojocna nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 23/2024 privind aprobarea variantei electronice revizuite a intravilanului aferent Planului Urbanistic General al Comunei COJOCNA",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/157821",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/157821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-31-2024",
+   "path": "local/cluj/cojocna/2024/31",
+   "short": "HCL Cojocna nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 31/2024 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență familiilor și persoanelor singure care se află în situații de necesitate cauzate de calamități naturale, incendii, accidente precum și pentru alte situații deosebite",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/159332",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/159332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-5-2024",
+   "path": "local/cluj/cojocna/2024/5",
+   "short": "HCL Cojocna nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 5/2024 privind aprobarea Planului de acțiuni și lucrări de interes local, pentru anul 2024, în vederea repartizării persoanelor care trebuie să efectueze muncă în folosul comunității",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/139671",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/139671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-6-2024",
+   "path": "local/cluj/cojocna/2024/6",
+   "short": "HCL Cojocna nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 6/2024 privind aprobarea propunerii rețelei școlare ce va funcționa în comuna Cojocna în anul școlar 2024-2025",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/139672",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/139672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-60-2024",
+   "path": "local/cluj/cojocna/2024/60",
+   "short": "HCL Cojocna nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 60/2024 privind aprobarea actualizării taxelor locale speciale aplicabile în comuna Cojocna, începând cu anul 2025",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/176134",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/176134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-61-2024",
+   "path": "local/cluj/cojocna/2024/61",
+   "short": "HCL Cojocna nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 61/2024 privind stabilirea impozitelor și taxelor locale, indexate cu rata de schimb a monedei euro în vigoare la 1 octombrie 2024, potrivit Directivei 1999/CE de aplicare la mijloacele de transport, cu masa totală autorizată mai mare de 12 tone, începând cu anul 2025",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/176135",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/176135",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--cojocna-62-2024",
    "path": "local/cluj/cojocna/2024/62",
    "short": "HCL Cojocna nr. 62/2024",

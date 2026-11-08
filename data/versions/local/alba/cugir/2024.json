@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--cugir-195-2024",
+   "path": "local/alba/cugir/2024/195",
+   "short": "HCL Cugir nr. 195/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 195/2024 privind aprobarea taxei pentru parcarea de reședință, actualizată cu rata inflației de 10,4 %, aplicabilă pentru anul fiscal 2025 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară” cu convocare de îndată din data de 4 octombrie 2024; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea taxei pentru parcarea de reședință, cuprinsă în Anexa nr. 4 la",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C36/P80",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.195,_aprobare_taxa_parcari_de_resedinta_cu_rata_inflatiei_.doc",
+     "sha256": "99d5400b6d8d2901b40005574e366fc9d19ed760bc4eb9b7d180db1ccdcb070c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--cugir-2-2024",
    "path": "local/alba/cugir/2024/2",
    "short": "HCL Cugir nr. 2/2024",
@@ -74,6 +89,36 @@
      "units": 1,
      "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.2,_Aprobare_PV_sedinta_extr_.de_indata_22_.12.2023.doc",
      "sha256": "9b8d5fa6f8b89967c7d7f6efcf80b783307337ccdd592b7d943f52c43da85577"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-211-2024",
+   "path": "local/alba/cugir/2024/211",
+   "short": "HCL Cugir nr. 211/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 211/2024 privind stabilirea cantităților de masă lemnoasă ce se va recolta în anul 2025 în baza amenajamentului silvic și al prețurilor de referință pe anul 2025 pentru masa lemnoasă care se va recolta din fondul forestier proprietate publică a orașului Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 21 octombrie 2024; Luând în dezbatere: -Proiectul",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C36/P80",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.211,_stabilire_cantitati_si_preturi_de_referinta_masa_lemnoasa_2025_.docx",
+     "sha256": "17e40c80be31258b0e13c2f9a4012876320297d7cda90405d71d5238e93fc123"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-223-2024",
+   "path": "local/alba/cugir/2024/223",
+   "short": "HCL Cugir nr. 223/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 223/2024 privind aprobarea Regulamentului pentru serviciul de utilizare biciclete în regim self-service din orașul Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară” din data de 8 noiembrie 2024; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea Regulamentului pentru serviciul de utilizare biciclete în regim self-service din orașul Cugir; -Referatu",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C36/P60",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.223,_aprobare_Regulament_biciclete_.doc",
+     "sha256": "ee47ef3c3a4bd1058340336363a27c2766172d4d0ef858b0109d65f9bea36049"
     }
    ]
   },
@@ -644,6 +689,21 @@
      "units": 1,
      "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.3,_Aprobare_imprumut_gol_de_casa_2024_.doc",
      "sha256": "2d0f6f7b86506e46e94ec99b22d352fd4dbfffdd1756c8a662466d23e06aca48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-48-2024",
+   "path": "local/alba/cugir/2024/48",
+   "short": "HCL Cugir nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 48/2024 privind aprobarea tarifelor pentru activitățile de salubrizare prestate de Serviciul Public de Gospodărire Locală Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 28 martie 2024; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea tarifelor pentru activitățile de salubrizare prestate de Serviciul Public de Gospodărire Locală Cugir",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C36/P240",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.48,_Aprobare_tarife_activ_.salubrizare_.doc",
+     "sha256": "41354f4f0b6ee72bf8361f0575f493d82654bb24d7096afbe95005cb85125f7a"
     }
    ]
   },

@@ -4143,6 +4143,21 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-517-2023",
+   "path": "local/vaslui/husi/2023/517",
+   "short": "HCL Huși nr. 517/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 517/2023 privind aprobarea cuantumului taxelor speciale ce se vor utiliza pe raza munici- piului Husi incepand cu data de 01.01.2024",
+   "url": "https://www.primariahusi.ro/hotarari-21-decembrie-2023/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 14,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2023/hotarari_2023/hotararea_517_2023.pdf?_t=1771832162",
+     "sha256": "0b01239ddbaa4c68d916cc60bad08dc3672417b5916fb2e2530a6d51b61ad432"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-518-2023",
    "path": "local/vaslui/husi/2023/518",
    "short": "HCL Huși nr. 518/2023",

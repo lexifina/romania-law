@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/dorohoi/2019",
+ "acts": [
+  {
+   "slug": "hcl-botosani--dorohoi-37-2019",
+   "path": "local/botosani/dorohoi/2019/37",
+   "short": "HCL Dorohoi nr. 37/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 37/2019 privind proiectul de stabilire a tarifelor pentru utilaje noi intrate în patrimoniul S.C, Servicii Publice Locale S.R.L, Dorohoi",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2019-07-09",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/27.sedint%2024112022/HCL/HCL_293_24112022.pdf",
+     "sha256": "2e8c8d71be7b1fda46382046851d0af0a35ff3f3b928e821352a75210173f624"
+    }
+   ]
+  }
+ ]
+}

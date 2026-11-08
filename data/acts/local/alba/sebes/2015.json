@@ -1,0 +1,162 @@
+{
+"country": "RO",
+"shard": "local/alba/sebes/2015",
+"acts": [
+{
+"slug": "hcl-alba--sebes-33-2015",
+"path": "local/alba/sebes/2015/33",
+"kind": "local",
+"year": "2015",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 33/2015 privind aprobarea declanșării procedurii de atribuire a unui număr de 10 autorizații taxi",
+"short": "HCL Sebeș nr. 33/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-02-26",
+"latest": "2015-02-26",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-34-2015",
+"path": "local/alba/sebes/2015/34",
+"kind": "local",
+"year": "2015",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 34/2015 privind aprobarea declanșării procedurii de atribuire a unui număr de 9 copii conforme ale autorizației de transport persoane în regim de închiriere pe raza Municipiului Sebeș",
+"short": "HCL Sebeș nr. 34/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-02-26",
+"latest": "2015-02-26",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-42-2015",
+"path": "local/alba/sebes/2015/42",
+"kind": "local",
+"year": "2015",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 42/2015",
+"short": "HCL Sebeș nr. 42/2015",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2015-02-26",
+"latest": "2015-02-26",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--sebes-55-2015",
+"path": "local/alba/sebes/2015/55",
+"kind": "local",
+"year": "2015",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 55/2015",
+"short": "HCL Sebeș nr. 55/2015",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2015-03-24",
+"latest": "2015-03-24",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--sebes-60-2015",
+"path": "local/alba/sebes/2015/60",
+"kind": "local",
+"year": "2015",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 60/2015 Privind instituirea taxei speciale pentru utilizatorii beneficiari de serviciile de salubritate care nu încheiat contract cu operatorul de salubritate pe raza Municipiului Sebeș și a localităților aparținătoare .",
+"short": "HCL Sebeș nr. 60/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-03-24",
+"latest": "2015-03-24",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-66-2015",
+"path": "local/alba/sebes/2015/66",
+"kind": "local",
+"year": "2015",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 66/2015 privind instituirea taxelor privind eliberarea atestatelor de producător și a carnetelor de producător",
+"short": "HCL Sebeș nr. 66/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-03-24",
+"latest": "2015-03-24",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-307-2015",
+"path": "local/alba/sebes/2015/307",
+"kind": "local",
+"year": "2015",
+"number": "307",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 307/2015 Privind aprobarea prelungirii valabilității P.U.G, Municipiul Sebeș,aprobat prin H.C.L. 127/2000, modificată prin H.C.L. nr. 283/21.11.2011 și H.C.L.nr.19/2013 BENEFICIAR: Municipiului Sebeș",
+"short": "HCL Sebeș nr. 307/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-12-17",
+"latest": "2015-12-17",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-arhiva-2015/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+}
+]
+}

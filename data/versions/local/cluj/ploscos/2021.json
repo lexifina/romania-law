@@ -3,6 +3,36 @@
  "shard": "local/cluj/ploscos/2021",
  "acts": [
   {
+   "slug": "hcl-cluj--ploscos-10-2021",
+   "path": "local/cluj/ploscos/2021/10",
+   "short": "HCL Ploscoș nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 10/2021 privind aprobarea contului de execuție al bugetului local la 31.12.2020",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/21126",
+   "versions": [
+    {
+     "from": "2021-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/21126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-11-2021",
+   "path": "local/cluj/ploscos/2021/11",
+   "short": "HCL Ploscoș nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 11/2021 privind aprobarea listei de investiții pe anul 2021",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/21127",
+   "versions": [
+    {
+     "from": "2021-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/21127",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--ploscos-31-2021",
    "path": "local/cluj/ploscos/2021/31",
    "short": "HCL Ploscoș nr. 31/2021",

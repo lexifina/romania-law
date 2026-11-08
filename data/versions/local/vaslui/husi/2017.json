@@ -1113,6 +1113,21 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-251-2017",
+   "path": "local/vaslui/husi/2017/251",
+   "short": "HCL Huși nr. 251/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 251/2017 Privind aprobarea Planului de Mobilitate Urbana Durabila al Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_251_2017.pdf",
+     "sha256": "de14fba0217fd36e2d95351df56f0c2452a2c622895ce62af7b55a6755d53020"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-26-2017",
    "path": "local/vaslui/husi/2017/26",
    "short": "HCL Huși nr. 26/2017",
@@ -1158,6 +1173,36 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-278-2017",
+   "path": "local/vaslui/husi/2017/278",
+   "short": "HCL Huși nr. 278/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 278/2017 privind stabilirea impozitelor și taxelor locale pentru anul 2018",
+   "url": "https://www.primariahusi.ro/hotarari-28-noiembrie-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_278_2017.pdf",
+     "sha256": "d4f44a159af65036eed4b07bde4082ff273ca2f904282cdfb604476ef4ef4b6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-279-2017",
+   "path": "local/vaslui/husi/2017/279",
+   "short": "HCL Huși nr. 279/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 279/2017 privind aprobarea cuantumului taxei concesionare loc de inhumare și a taxelor ce se vor utiliza pentru serviciile funerare practicate in cimitirele aflate in administrarea Consiliului Local Husi incepand cu data de 01.01.2018",
+   "url": "https://www.primariahusi.ro/hotarari-28-noiembrie-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_279_2017.pdf",
+     "sha256": "61c8eface34139064d44325e8b50881a41cbfff1875ad23bd52e60d4807ee4a4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-28-2017",
    "path": "local/vaslui/husi/2017/28",
    "short": "HCL Huși nr. 28/2017",
@@ -1169,6 +1214,96 @@
      "units": 1,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_28_2017.pdf",
      "sha256": "4cd25fce4e7732b994c4f8a4330906ff1aa29c63175db657b7971ea248052f55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-280-2017",
+   "path": "local/vaslui/husi/2017/280",
+   "short": "HCL Huși nr. 280/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 280/2017 privind aprobarea cuantumului taxei speciale de salubrizare ce se va utiliza pe raza municipiului Husi incepand cu data de 01.01.2018",
+   "url": "https://www.primariahusi.ro/hotarari-28-noiembrie-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 9,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_280_2017.pdf",
+     "sha256": "3911bfc2271cb2b951ccd17489e3273f84c9c0438a98720c69f2f0edc824cbea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-281-2017",
+   "path": "local/vaslui/husi/2017/281",
+   "short": "HCL Huși nr. 281/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 281/2017 privind aprobarea cuantumului taxelor speciale ce se vor utiliza pe raza municipiului Husi incepand cu data de 01.01.2018",
+   "url": "https://www.primariahusi.ro/hotarari-28-noiembrie-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 14,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_281_2017.pdf",
+     "sha256": "cf435b63135596864cdd46471320517bbe84715e9472e5febdc1f87f4f0a02b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-282-2017",
+   "path": "local/vaslui/husi/2017/282",
+   "short": "HCL Huși nr. 282/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 282/2017 privind aprobarea tarifelor de baza lunare pe metru patrat ce se vor utiliza incepand cu data de 01.01.2018 pentru inchirierea terenurilor și spațiilor din domeniul public și privat al Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-28-noiembrie-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_282_2017.pdf",
+     "sha256": "c6694638e52b93107a1eaa4cad807dedbb8dde05ecbd62e269ef28e14dde0859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-283-2017",
+   "path": "local/vaslui/husi/2017/283",
+   "short": "HCL Huși nr. 283/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 283/2017 privind aprobarea nivelului taxei de concesionare ce se va utiliza in anul fiscal 2018 pentru concesionarea terenurilor pentru care pana la data de 31.12.2003 s-a datorat taxa teren",
+   "url": "https://www.primariahusi.ro/hotarari-28-noiembrie-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 6,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_283_2017.pdf",
+     "sha256": "48043e1a600a84b2aed7b016b0fadc9eeb7bbd3695221b4fdb4fce5afb9a3e78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-284-2017",
+   "path": "local/vaslui/husi/2017/284",
+   "short": "HCL Huși nr. 284/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 284/2017 privind aprobarea cuantumurilor taxelor de radioficare ce vor fi utilizate la Centrul de Radioficare Husi incepand cu data de 01.01.2018",
+   "url": "https://www.primariahusi.ro/hotarari-28-noiembrie-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 5,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_284_2017.pdf",
+     "sha256": "77fea2585e8292b7db2a1a067d8773c5468556dafe11a08151533bb86ea628cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-295-2017",
+   "path": "local/vaslui/husi/2017/295",
+   "short": "HCL Huși nr. 295/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 295/2017 privind aprobarea cuantumurilor taxelor și tarifelor ce se vor utiliza la Centrul Public de Desfacere Husi incepand cu data de 01.01.2018",
+   "url": "https://www.primariahusi.ro/hotarari-08-decembrie-2017/",
+   "versions": [
+    {
+     "from": "2017-12-08",
+     "units": 7,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_295_2017.pdf",
+     "sha256": "e1db422cb7f08c9da859ccd2de13f51796d0de043c87cdfc2f6cfa7d747ac1d7"
     }
    ]
   },
@@ -1229,6 +1364,21 @@
      "units": 1,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_32_2017.pdf",
      "sha256": "c0ca56bb70d54de8f38f2bbf3b587887480b47ddb5d593dc6606aa36534446ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-39-2017",
+   "path": "local/vaslui/husi/2017/39",
+   "short": "HCL Huși nr. 39/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 39/2017",
+   "url": "https://www.primariahusi.ro/hotarari-28-februarie-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_39_2017.pdf",
+     "sha256": "a70c04a6a9ac54fe691d68681e6a25a1f8b6bb9b6eb3f2afebeb3430da6dcc92"
     }
    ]
   },

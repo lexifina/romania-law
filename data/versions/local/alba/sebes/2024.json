@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-14-2024",
+   "path": "local/alba/sebes/2024/14",
+   "short": "HCL Sebeș nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 14/2024 privind aprobarea Regulamentului Concursului Național de Creație Literară, Artă Plastică, Traducere și Recitare de Poezie „Laudă semințelor, celor de față și-n veci tuturor”, din cadrul celei de-a XLIV-a ediții a Festivalului Internațional „Lucian Blaga” Sebeș (mai 2024)",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 4,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/01/hcl-14.pdf",
+     "sha256": "41e0fef8e5c75bac6affc89820c002045594511b348645641b364ed459013e53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-147-2024",
+   "path": "local/alba/sebes/2024/147",
+   "short": "HCL Sebeș nr. 147/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 147/2024 privind aprobarea Regulamentului privind repartizarea și închirierea locuințelor din domeniul privat, precum și al locuințelor sociale din Municipiul Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/06/hcl-147.pdf",
+     "sha256": "2e46fcf9f9e4a864d887b3095c85e48f4dfe9f4aa617da6f9c00832ccd851a9d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-160-2024",
    "path": "local/alba/sebes/2024/160",
    "short": "HCL Sebeș nr. 160/2024",
@@ -63,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-18-2024",
+   "path": "local/alba/sebes/2024/18",
+   "short": "HCL Sebeș nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 18/2024 privind aprobarea prețurilor de referință ale masei lemnoase “pe picior” producția anului 2024, pentru masa lemnoasa ce se valorifica prin licitație sau negociere din fondul forestier proprietate publică a Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 4,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/01/hcl-18.pdf",
+     "sha256": "27870364f3a5b629e32bd700642c49c60b961b8d36517a3333d07d1f054590e0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-189-2024",
    "path": "local/alba/sebes/2024/189",
    "short": "HCL Sebeș nr. 189/2024",
@@ -74,6 +119,36 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/07/hcl-189-1.pdf",
      "sha256": "63eb1b2c5bed811f056cdfc1827440bd158b203489de9f3cc45ff741a140ded9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-194-2024",
+   "path": "local/alba/sebes/2024/194",
+   "short": "HCL Sebeș nr. 194/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 194/2024 pentru aprobarea Regulamentului privind activitățile comerciale desfășurate cu ocazia manifestărilor „Sărbătoarea Orașului",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/08/hcl-194.pdf",
+     "sha256": "330cd10eaaa59d91d3c3e2c92f7da4de489ad44eb2e0225757805071bb482284"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-262-2024",
+   "path": "local/alba/sebes/2024/262",
+   "short": "HCL Sebeș nr. 262/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 262/2024 privind aprobarea Regulamentului privind acordarea facilităților de transport pentru elevii școlarizați pe raza administrativ-teritorială a Municipiului Scbeș la transportul public local și metropolitan pentru anul școlar 2024-2025",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-04",
+     "units": 3,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/09/hcl-262.pdf",
+     "sha256": "f5490498239b58820e0b95c2d6ef70acf2d3f6736d5ca05351c49311e9cdbb61"
     }
    ]
   },
@@ -104,6 +179,51 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/10/HCL-292.pdf",
      "sha256": "65685e9ee2ed6eaed8fba1dfeefcf5955bc9781bcc937478f65302a1bb504438"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-298-2024",
+   "path": "local/alba/sebes/2024/298",
+   "short": "HCL Sebeș nr. 298/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 298/2024 privind aprobarea modificării alin. (1) al Art. 13 din Contractul de atribuire în gestiune delegată a serviciului de transport public local de persoane prin curse regulate în Municipiul Sebeș, nr. 65/35630/14.09.2015 – ”Tarife de transp",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/12/hcl-298.pdf",
+     "sha256": "a8afedf68d4aa530c7a12cabe8a5320bfec44e8ac7af0d114f50db256e0bfe07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-3-2024",
+   "path": "local/alba/sebes/2024/3",
+   "short": "HCL Sebeș nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 3/2024 privind aprobarea Regulamentului Concursului de Lectură pentru clasele I-IV - „Laudă semințelor, celor de față și-n veci tuturor!”, din cadrul Festivalului Internațional „Lucian Blaga” Sebeș, 2024",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 4,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/01/hcl-3.pdf",
+     "sha256": "7432c58cdad0fd313e5631a7f8ac9536d2d66a99e9827b65da54b38ecc874ed8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-34-2024",
+   "path": "local/alba/sebes/2024/34",
+   "short": "HCL Sebeș nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 34/2024 privind aprobarea “Tarifelor percepute de către Serviciul Public de Administrarea Patrimoniului Sebeș ”,",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 3,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/01/hcl-34.pdf",
+     "sha256": "52b016fb2345ac02d2f3e65e5a7ac9868eccdb09f5140079e66684892ac8f81c"
     }
    ]
   },
@@ -153,6 +273,51 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-38-2024",
+   "path": "local/alba/sebes/2024/38",
+   "short": "HCL Sebeș nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 38/2024 privind modificarea și completarea HCL nr.378/2023 privind aprobarea Regulamentului privind organizarea și executarea serviciului public de transport în regim de taxi și activității de dispecerat de pe raza administrativ- teritorială a M",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/02/hcl-38.pdf",
+     "sha256": "26813045f570fb126e9dc6035104dfad204c34fb5418ea0ef3d94e74cd45fb0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-387-2024",
+   "path": "local/alba/sebes/2024/387",
+   "short": "HCL Sebeș nr. 387/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 387/2024 privind aprobarea prețurilor de referinta ale masei lemnoase “pe picior” producția anului 2025 pentru masa lemnoasă ce se valorifica prin licitație sau negociere din fondul forestier proprietate publica a MUNICIPIULUI SEBES",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 5,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/12/hcl-387-site.pdf",
+     "sha256": "ff76286b9acb18cb3f297106ba8a54181103b8eb6f9b1b82da24c6d0f625d12c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-395-2024",
+   "path": "local/alba/sebes/2024/395",
+   "short": "HCL Sebeș nr. 395/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 395/2024 pentru aprobarea modificării HCL nr.378/2023 privind aprobarea Regulamentului privind organizarea și executarea serviciului public de transport în regim de taxi și activității de dispecerat de pe raza administrativ-teritorială a Municip",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/12/hcl-395.pdf",
+     "sha256": "ed166ef9e1179f992d45afe3e340f6fe5adeba406f4fceec3b47ab6eb9d83097"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-424-2024",
    "path": "local/alba/sebes/2024/424",
    "short": "HCL Sebeș nr. 424/2024",
@@ -179,6 +344,21 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/01/hcl-8.pdf",
      "sha256": "0751f665aa0d1ae2bbed46288da891750e1e02cb11a065dfe106b6aba3fc673e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-9-2024",
+   "path": "local/alba/sebes/2024/9",
+   "short": "HCL Sebeș nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 9/2024 privind privind aprobarea declanșării procedurii de atribuire a unui număr de 25 (douăzecișicinci) autorizații taxi, privind organizarea și executarea serviciului public de transport în regim de taxi și activității de dispecerat de pe raz",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2024/01/hcl-9.pdf",
+     "sha256": "53222c130c031c4a55a92984493ffdaba172dbaa8357d9ea523093708fefb00e"
     }
    ]
   }

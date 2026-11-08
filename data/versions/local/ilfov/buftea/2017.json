@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/buftea/2017",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--buftea-7-2017",
+   "path": "local/ilfov/buftea/2017/7",
+   "short": "HCL Buftea nr. 7/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 7/2017 privind aprobarea nivelului tarifului pentru colectarea taxelor de catre S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2017/7.pdf",
+     "sha256": "ca5d8f575513c02f0239e5db511907f8f6e42af849a7c6eb34f9cac7bf44ef00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-8-2017",
+   "path": "local/ilfov/buftea/2017/8",
+   "short": "HCL Buftea nr. 8/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 8/2017 privind modificarea tarifelor aferente activitatilor specifice serviciului de salubrizare, prestate in baza contractului nr. 6/26.02.2013 de delegare a gestiunii prin concesiune a serviciului de salubritate in orasul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2017/8.pdf",
+     "sha256": "c0e06bda827774b6ccca455749004a8570fd406b25534635f416a9eee76b4db2"
+    }
+   ]
+  }
+ ]
+}

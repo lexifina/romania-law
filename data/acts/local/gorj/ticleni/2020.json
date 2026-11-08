@@ -3,6 +3,72 @@
 "shard": "local/gorj/ticleni/2020",
 "acts": [
 {
+"slug": "hcl-gorj--ticleni-5-2020",
+"path": "local/gorj/ticleni/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 5/2020 privind aprobarea tarifului practicat de SC SALUBRIS GILORT SRL pentru activitățiile specifice serviciului de salubrizare pe raza orașului Țicleni și regulamentul de instituire și administrare a taxei speciale de salubrizare în orașul Țicleni",
+"short": "HCL Țicleni nr. 5/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-01-13",
+"latest": "2020-01-13",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-17-2020",
+"path": "local/gorj/ticleni/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 17/2020 pentru modificarea HCL numărul 62 din 29.08.2014 privind aprobarea regulamentului și Caietului de Sarcini ale Serviciului de Iluminat Public al căilor de circulație în orasul Țicleni",
+"short": "HCL Țicleni nr. 17/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-02-04",
+"latest": "2020-02-04",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-30-2020",
+"path": "local/gorj/ticleni/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 30/2020 privind stabilirea impozitelor și taxelor locale pentru anul 2021",
+"short": "HCL Țicleni nr. 30/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-gorj--ticleni-41-2020",
 "path": "local/gorj/ticleni/2020/41",
 "kind": "local",

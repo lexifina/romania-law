@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/breaza/2011",
+ "acts": [
+  {
+   "slug": "hcl-prahova--breaza-1-2011",
+   "path": "local/prahova/breaza/2011/1",
+   "short": "HCL Breaza nr. 1/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 1/2011 PRIVIND ACORDAREA UNEI SCUTIRI DE LA PLATA IMPOZITULUI",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304318558hot1.pdf",
+     "sha256": "a9e010f1887dc420fc17d9e5908487967645d000ed83dd542ff782dc8e7a15ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-100-2011",
+   "path": "local/prahova/breaza/2011/100",
+   "short": "HCL Breaza nr. 100/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 100/2011 PRIVIND APROBAREA ORGANIZARII TARGULUI DE TOAMNA SI A TAXELOR SPECIALE PERCEPUTE IN CADRUL FUNCTIONARII ACESTUIA, PENTRU ANUL 2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327649496hot100.pdf",
+     "sha256": "d413995edca69565518808e48f3dd62303174d82d720fb0f5d58393c17661785"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-103-2011",
+   "path": "local/prahova/breaza/2011/103",
+   "short": "HCL Breaza nr. 103/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 103/2011 PRIVIND APROBAREA SCUTIRII DE LA PLATA TAXEI LOCALE STABILITE PENTRU ELIBERAREA CERTIFICATULUI DE NOMENCLATURA STRADALA, IN CONDITII SPECIALE, REGLEMENTATE DE LEGE",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327649589hot103.pdf",
+     "sha256": "0d55b0802e39bdd6a47576277ee3eb85c7bf565ce1f3b03c1aa221cb4e8a8bbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-125-2011",
+   "path": "local/prahova/breaza/2011/125",
+   "short": "HCL Breaza nr. 125/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 125/2011 PRIVIND ACORDAREA UNEI SCUTIRI DE LA PLATA IMPOZITULUI",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327651912hot125.pdf",
+     "sha256": "e8ae65c030bc15a33d4fbf98e05f8b8309902c0057da4f2933eb2eeeb8935687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-131-2011",
+   "path": "local/prahova/breaza/2011/131",
+   "short": "HCL Breaza nr. 131/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 131/2011 PENTRU APROBARE PUZ – RIDICARE RESTRICTIE DE CONSTRUIRE SI SCHIMBARE ZONA FUNCTIONALA DIN ZONA MIXTA INSTITUTII SI SERVICII SI ZONA SPATII PLANTATE, AGREMENT SI SPORT IN ZONA INSTITUTII SI SERVICII PENTRU AMPLASARE SUPERMAGAZIN (S=2307 MP), JUDETUL PRAHOVA, ORAS BREAZA, STR. REPUBLICII, TARLA 28, PA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327652113hot131.pdf",
+     "sha256": "6ad6dcfe3d9c798b780d9bf5a225210cf1695137cf490d9808ef3891a1e2bb78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-61-2011",
+   "path": "local/prahova/breaza/2011/61",
+   "short": "HCL Breaza nr. 61/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 61/2011 PRIVIND APROBAREA REGULAMENTULUI LOCAL DE IMPLICARE A CETATENILOR îN ELABORAREA SI REVIZUIREA PLANURILOR DE URBANISM SI AMENAJAREA TERITORIULUI",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327488885hot61.pdf",
+     "sha256": "1b309c328a73748175ebb0005b062115c149a3f04c9fd7b983baba66d5f78753"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-72-2011",
+   "path": "local/prahova/breaza/2011/72",
+   "short": "HCL Breaza nr. 72/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 72/2011 PRIVIND APROBAREA REGULAMENTULUI DE CONFERIRE A TITLULUI DE CETATEAN DE ONOARE AL ORASULUI BREAZA”",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327576227hot72.pdf",
+     "sha256": "119a2f63c24e7d8c82c439721f784263fff6e48010b73bb251dfc9280785d947"
+    }
+   ]
+  }
+ ]
+}

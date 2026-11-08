@@ -3,6 +3,21 @@
  "shard": "local/cluj/manastireni/2023",
  "acts": [
   {
+   "slug": "hcl-cluj--manastireni-19-2023",
+   "path": "local/cluj/manastireni/2023/19",
+   "short": "HCL Mănăstireni nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 19/2023 privind indexarea impozitelor și taxelor locale pentru anul 2024 cu rata inflației de 13,8%",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/107453",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/107453",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--manastireni-54-2023",
    "path": "local/cluj/manastireni/2023/54",
    "short": "HCL Mănăstireni nr. 54/2023",

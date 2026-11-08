@@ -31,6 +31,21 @@
      "sha256": "f71d3e38c1cd1b4e0987e3cc3b5e22f077d317c4c99d61ea62b8dc69a29ad978"
     }
    ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-42-2021",
+   "path": "local/giurgiu/giurgiu/2021/42",
+   "short": "HCL Giurgiu nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 42/2021 privind modificarea Anexei la Hotărârea Consiliului local al Municipiului Giurgiu nr.180/30.05.2017 privind aprobarea Regulamentului de eliberare a acordului de executare a unor căi de acces a autoturismelor pe domeniul public al Municipiului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2021-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 3,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/147/hcl-42-fs.pdf",
+     "sha256": "c877a10b0aa34a29fc3deaf657435f71fa9f01045ecf28467d746c1f46f10cc3"
+    }
+   ]
   }
  ]
 }

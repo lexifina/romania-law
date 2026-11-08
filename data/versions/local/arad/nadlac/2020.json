@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/arad/nadlac/2020",
+ "acts": [
+  {
+   "slug": "hcl-arad--nadlac-108-2020",
+   "path": "local/arad/nadlac/2020/108",
+   "short": "HCL Nădlac nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 108/2020 privind aprobarea reducerii cu 50% a impozitului pe clădiri și scutirea de la plata a taxei lunare pe clădiri",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 7,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h108.pdf",
+     "sha256": "99140eec0af96ffaf5155a81cc51231093550e8d016a7cd90d111f539c47508a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-109-2020",
+   "path": "local/arad/nadlac/2020/109",
+   "short": "HCL Nădlac nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 109/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h109.pdf",
+     "sha256": "0600662218c67d0ddd123f763f28ad93324db61fded2766186f2555acc9c2d5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-127-2020",
+   "path": "local/arad/nadlac/2020/127",
+   "short": "HCL Nădlac nr. 127/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 127/2020 privind aprobarea nivelurilor valorilor impozabile, a impozitelor şi taxelor locale şi a altor taxe asimilate, a taxelor pentru ocuparea temporară a domeniului public/privat al orașului Nădlac, precum şi a amenzilor aplicabile pentru anul fiscal 2021",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h127.pdf",
+     "sha256": "48abf1ba2d1c107686d8008582ec00759a1fa4aa37f313380f151133429a34ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-128-2020",
+   "path": "local/arad/nadlac/2020/128",
+   "short": "HCL Nădlac nr. 128/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 128/2020 privind aprobarea taxelor speciale aplicabile în anul fiscal 2021",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 12,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h128.pdf",
+     "sha256": "8cfe3743a8ea04ebe6de94df7868892ef2d08d4cd0d566259bee40a0cf7ed9c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-37-2020",
+   "path": "local/arad/nadlac/2020/37",
+   "short": "HCL Nădlac nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 37/2020 privind aprobarea Regulamentului propriu de organizare și funcţionare– prezentat strict pentru activitățile de colectare și transport al serviciului public de salubrizare al „Asociaţiei de Dezvoltare intercomunitara Sistem Integrat de Gestionare a Deşeurilor judeţul A",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h37.pdf",
+     "sha256": "07169380af92392c28dd633ad99d45c9626d7b11a2d5a7deec518d053d484307"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-45-2020",
+   "path": "local/arad/nadlac/2020/45",
+   "short": "HCL Nădlac nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 45/2020 privind aprobarea PUZ și RLU pentru „Zonă servicii, activități turistice și agrement”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h45.pdf",
+     "sha256": "2f46de8c98782d489ae1ea9fe0cb850863781f4c54ace39e9676d451eb43343f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-78-2020",
+   "path": "local/arad/nadlac/2020/78",
+   "short": "HCL Nădlac nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 78/2020 privind modificarea tarifelor de colectare deșeuri, aplicabile tuturor UAT-urilor componente Zonei 1",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h78.pdf",
+     "sha256": "ce7780dd3c646135da03dec2c0aca506a9bf293deb52fa241e0a575f47e2afa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-9-2020",
+   "path": "local/arad/nadlac/2020/9",
+   "short": "HCL Nădlac nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 9/2020 privind aprobarea măsurilor pentru remedierea deficiențelor la normele de apărare împotriva incendiilor și pentru realizarea capacității de apărare împotriva incendiilor la nivelul orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2020/h9.pdf",
+     "sha256": "b69934266aa249e30138286e120d17a0327f5589d9a784abce50fc2889a6dfcf"
+    }
+   ]
+  }
+ ]
+}

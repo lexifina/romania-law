@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-190-2023",
+   "path": "local/alba/sebes/2023/190",
+   "short": "HCL Sebeș nr. 190/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 190/2023",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2023/07/hcl-190.pdf",
+     "sha256": "59acd8e8d316fddeddecf9b9371b7a1841a2c28e1c8aa88c4ee5b8cca15df71f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-284-2023",
    "path": "local/alba/sebes/2023/284",
    "short": "HCL Sebeș nr. 284/2023",
@@ -198,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-42-2023",
+   "path": "local/alba/sebes/2023/42",
+   "short": "HCL Sebeș nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 42/2023 privind aprobarea Regulamentului Concursului Național de Creație Literară, Artă Plastică, Traducere și Recitare de Poezie „Laudă semințelor, celor de față și-n veci tuturor”, din cadrul celei de-a XLIII-a ediții a Festivalului Internațional „Lucian Blaga” Sebeș (mai 2023)",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 4,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2023/03/hcl-42.pdf",
+     "sha256": "e966e7c57e27556ffc86b6f41d3ca25438eab58af65c79130f86f3e37a5a90a4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-53-2023",
    "path": "local/alba/sebes/2023/53",
    "short": "HCL Sebeș nr. 53/2023",
@@ -209,6 +239,36 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2023/03/hcl-53.pdf",
      "sha256": "cfd0b8c7e9ac95d5cb3898bd01d34fee837cfd9cec672d992a28834713bb937f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-65-2023",
+   "path": "local/alba/sebes/2023/65",
+   "short": "HCL Sebeș nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 65/2023 Privind stabilirea locurilor unde se interzice organizarea și desfășurarea adunărilor publice pe raza administrativ teritorială a Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2023/04/hcl-65.pdf",
+     "sha256": "0f16ce0d088e3c449465552757a633003c75ccc110e62fb89baad33dd7b5f5ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-66-2023",
+   "path": "local/alba/sebes/2023/66",
+   "short": "HCL Sebeș nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 66/2023 privind aprobarea declanșării procedurii de atribuire a unui număr de 28( douăzecișiopt) autorizații taxi, privind activitatea de transport în regim de taxi de pe raza administrativ-teritorială a municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2023/04/hcl-66.pdf",
+     "sha256": "63cfad4e0844ba4b6173f6e0ce5e0d851934c4320220bdae79160ca602f445c8"
     }
    ]
   },

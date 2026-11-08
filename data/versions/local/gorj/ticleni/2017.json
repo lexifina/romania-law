@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/ticleni/2017",
+ "acts": [
+  {
+   "slug": "hcl-gorj--ticleni-47-2017",
+   "path": "local/gorj/ticleni/2017/47",
+   "short": "HCL Țicleni nr. 47/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 47/2017 Privind aprobarea comercializării de produse și de servicii, precum și a taxei pentru ocuparea temporară a locurilor publice în perimetrul de organizare și desfășurare a Zilelor Orașului Țicleni – Stadionul Orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2017",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2017/08/HCL-47.pdf",
+     "sha256": "36edef4b0b5c25588f0a83d16c596fe711b54992a59c8ed7b56e64987776b9c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-53-2017",
+   "path": "local/gorj/ticleni/2017/53",
+   "short": "HCL Țicleni nr. 53/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 53/2017 Privind aprobarea REGULAMENTULUI DE ORGANIZARE ȘI FUNCȚIONARE și CODUL ETIC al aparatului de specialitate al primarului Orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2017",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2017/08/HCL-53.pdf",
+     "sha256": "265af0bda1c91ee14b218e6afad8024e18bcf051c03a426517bf058b6fb0a337"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-54-2017",
+   "path": "local/gorj/ticleni/2017/54",
+   "short": "HCL Țicleni nr. 54/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 54/2017 Privind aprobarea REGULAMENTULUI INTERN al aparatului de specialitate al primarului Orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2017",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2017/08/HCL-54.pdf",
+     "sha256": "587a4f346d2faba8d7494aeddde65cd23b55e45c452e003f826528e2bdd01c46"
+    }
+   ]
+  }
+ ]
+}

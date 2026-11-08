@@ -63,6 +63,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--nadlac-152-2021",
+   "path": "local/arad/nadlac/2021/152",
+   "short": "HCL Nădlac nr. 152/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 152/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2021/h152.pdf",
+     "sha256": "bf8943d228745b1bc682ee49fe4e6b4d71e18e4453f6f4af6a60f458a6cae13e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-187-2021",
+   "path": "local/arad/nadlac/2021/187",
+   "short": "HCL Nădlac nr. 187/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 187/2021 privind aprobarea nivelurilor valorilor impozabile, a impozitelor şi taxelor locale şi a altor taxe asimilate, a taxelor pentru ocuparea temporară a domeniului public/privat al orașului Nădlac, precum şi a amenzilor aplicabile pentru anul fiscal 2022",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-3/",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2021/h187.pdf",
+     "sha256": "9fd160a218ca7988c79e66fa4a0fdf5a1d46cb6861913ce7b4976e96a483c40c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-188-2021",
+   "path": "local/arad/nadlac/2021/188",
+   "short": "HCL Nădlac nr. 188/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 188/2021 privind aprobarea taxelor speciale aplicabile în anul fiscal 2022",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2021-3/",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 9,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2021/h188.pdf",
+     "sha256": "c2a35a88d5c53eb730ffa69a51dd77a28f675549c7b27a94ada757e4cf14b518"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--nadlac-2-2021",
    "path": "local/arad/nadlac/2021/2",
    "short": "HCL Nădlac nr. 2/2021",

@@ -33,6 +33,81 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--sulina-110-2020",
+   "path": "local/tulcea/sulina/2020/110",
+   "short": "HCL Sulina nr. 110/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 110/2020",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare110din2020.pdf",
+     "sha256": "c3d26630da1780247057a0cd21de96386acb98427a0fd9fa2024735aba8877c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-112-2020",
+   "path": "local/tulcea/sulina/2020/112",
+   "short": "HCL Sulina nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 112/2020 privind aprobarea documentației de urbanism Plan Urbanistic Zonal „Pensiune cu specific tradițional pescăresc în localitatea Sulina, județul Tulcea“, orașul Sulina, județul Tulcea",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare112din2020.pdf",
+     "sha256": "898c07b9c8e37bea40de361d24c5627216219f7068254a6203dfb51b80405fcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-120-2020",
+   "path": "local/tulcea/sulina/2020/120",
+   "short": "HCL Sulina nr. 120/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 120/2020",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare120din2020.pdf",
+     "sha256": "ae0ddc7b20170dde060c0b14b5b79879273ee6cc5722b6b92a14b075de55d374"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-125-2020",
+   "path": "local/tulcea/sulina/2020/125",
+   "short": "HCL Sulina nr. 125/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 125/2020 privind stabilirea taxelor pentru activitatea autofinanțată „Piață“, pentru anul 2021",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare125din2020.pdf",
+     "sha256": "419cb790601baf48e48903f6f982f694184573eda265f5d77ca1726914a4f5af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-127-2020",
+   "path": "local/tulcea/sulina/2020/127",
+   "short": "HCL Sulina nr. 127/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 127/2020",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare127din2020.pdf",
+     "sha256": "4eb2e8e11b9b22ec78a5b3e3850a25834a58bc00ed09559f5be00b12b5eb9974"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--sulina-17-2020",
    "path": "local/tulcea/sulina/2020/17",
    "short": "HCL Sulina nr. 17/2020",
@@ -59,6 +134,186 @@
      "units": 1,
      "source_url": "https://primaria-sulina.ro/files/hotarare18din2020.pdf",
      "sha256": "6abf7418144c365411c71d171679a4bb15d3165f49c7d203d868a8446ad17a29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-28-2020",
+   "path": "local/tulcea/sulina/2020/28",
+   "short": "HCL Sulina nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 28/2020",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare28din2020.pdf",
+     "sha256": "edf59876d467ba01ee71c31c2414d2b111b193b7e00aaa30f7918af0682b0dc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-35-2020",
+   "path": "local/tulcea/sulina/2020/35",
+   "short": "HCL Sulina nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 35/2020 privind completarea regulamentului aprobat prin Hotărârea Consiliului Local nr.1 din 16.01.2020 privind instituirea taxei speciale pentru serviciul public de salubrizare în orașul Sulina și aprobarea regulamentului privind instituirea taxei pentru serviciul public",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare35din2020.pdf",
+     "sha256": "43edd5dfc8edc31e4d9f2e3caf58c63a4a9908f8615a05e4311eb785298e2aa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-36-2020",
+   "path": "local/tulcea/sulina/2020/36",
+   "short": "HCL Sulina nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 36/2020 privind înregistrarea în Sistemul național electronic de plată online a taxelor și impozitelor utilizând cardul bancar (SNEP) și plata comisionului aferent plăților electronice ale impozite",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare36din2020.pdf",
+     "sha256": "32eb3a4d41c528500eb82a0fe3a99ee0d13a7906dcd9bbd836d39e07822a1d7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-41-2020",
+   "path": "local/tulcea/sulina/2020/41",
+   "short": "HCL Sulina nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 41/2020 privind aprobarea documentației de urbanism Plan Urbanistic Zonal „Dezvoltarea economică a zonei prin utilizarea terenurilor aflate în domeniul public al județului Tulcea și în administrarea R.A",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare41din2020.pdf",
+     "sha256": "0986e1bcbc8dca5e4c412cdc8b85d056666d74ad99c52c4c0448343a1dc3b370"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-42-2020",
+   "path": "local/tulcea/sulina/2020/42",
+   "short": "HCL Sulina nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 42/2020",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare42din2020.pdf",
+     "sha256": "6c024547069f1a6583b12354f7845cdfd08a31738fe2de6f50a887e37c195cf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-58-2020",
+   "path": "local/tulcea/sulina/2020/58",
+   "short": "HCL Sulina nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 58/2020",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare58din2020.pdf",
+     "sha256": "2a40c2e3574a982ef0f05db68752d85bcf8b235b51b01a7882afd2d9200f5fdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-65-2020",
+   "path": "local/tulcea/sulina/2020/65",
+   "short": "HCL Sulina nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 65/2020 privind aprobarea tarifului de prestări servicii închiriere autoutilitară Renault Master-Koffer",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare65din2020.pdf",
+     "sha256": "cb1817ac9e3835818d298d657f025e9579823d4473ab9c726da18d9fd471169a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-71-2020",
+   "path": "local/tulcea/sulina/2020/71",
+   "short": "HCL Sulina nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 71/2020",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare71din2020.pdf",
+     "sha256": "51dbd95b69c0e1b6c2669fc0e74bed80baa8431555e0937eed7d640ab954f4a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-80-2020",
+   "path": "local/tulcea/sulina/2020/80",
+   "short": "HCL Sulina nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 80/2020",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare80din2020.pdf",
+     "sha256": "f681ffda0e0fac904f446cbf794e03e2c05f4b64a4401e993902dc8da4d10540"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-90-2020",
+   "path": "local/tulcea/sulina/2020/90",
+   "short": "HCL Sulina nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 90/2020 privind aprobarea documentației de urbanism „Plan Urbanistic Zonal - Construire pensiune turistică“, orașul Sulina, județul Tulcea",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare90din2020a.pdf",
+     "sha256": "11cb3d7965050cf0f29a861890433f3bcdba9909104a81b9486b67f86c503324"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-96-2020",
+   "path": "local/tulcea/sulina/2020/96",
+   "short": "HCL Sulina nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 96/2020 pentru actualizarea „Regulamentului privind organizarea și executarea serviciului de transport în regim de taxi pe raza orașului Sulina“, conținut de Anexa nr.1 la H.C.L",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare96din2020a.pdf",
+     "sha256": "8a2d61e01fdf68676de483995f6a287346d28be0e900fca492059f483d9bac75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-97-2020",
+   "path": "local/tulcea/sulina/2020/97",
+   "short": "HCL Sulina nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 97/2020",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare97din2020a.pdf",
+     "sha256": "2b0c0cbe99b63ff15dfbb90bbf218cb79e59ee08451489f608fd6270678fb8a1"
     }
    ]
   }

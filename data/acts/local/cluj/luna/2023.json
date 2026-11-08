@@ -3,6 +3,50 @@
 "shard": "local/cluj/luna/2023",
 "acts": [
 {
+"slug": "hcl-cluj--luna-18-2023",
+"path": "local/cluj/luna/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 18/2023 privind aprobarea Nomenclatorului stradal al Comunei Luna, Județul Cluj",
+"short": "HCL Luna nr. 18/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-02",
+"latest": "2023-05-02",
+"portal": "https://emol.ro/luna-cj/registru-hcl/102743",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--luna-19-2023",
+"path": "local/cluj/luna/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 19/2023 privind indexarea impozitelor si taxelor locale pentru anul fiscal 2024",
+"short": "HCL Luna nr. 19/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-02",
+"latest": "2023-05-02",
+"portal": "https://emol.ro/luna-cj/registru-hcl/102744",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-cluj--luna-43-2023",
 "path": "local/cluj/luna/2023/43",
 "kind": "local",

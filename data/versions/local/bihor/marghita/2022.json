@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--marghita-235-2022",
+   "path": "local/bihor/marghita/2022/235",
+   "short": "HCL Marghita nr. 235/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Marghita nr. 235/2022 privind aprobarea Planului Urbanistic Zonal (PUZ) pentru obiectivul de in vestiții ÎNFIINȚARE PARC INDUSTRIAL PRIN INTRODUCERE ÎN INTRAVILANUL MUNICIPIULUI MARGHITA, A SUPRAFEȚEI DE TEREN DE 114.900 MP, TEREN PROPRIETATE PUBLICA A MUNICIPIULUI MARGHITA CU NR CADASTRAL 105778, CF 105778 MARGHITA” Analizând temeiurile juridice, respectiv: - Ghidul privind metodologia de elaborare și conținutul cadru",
+   "url": "https://marghita.ro/wp-content/uploads/2024/03/HCL-PUZ-MARGHITA.pdf",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://marghita.ro/wp-content/uploads/2024/03/HCL-PUZ-MARGHITA.pdf",
+     "sha256": "2e74e517e1e4addc2ef8e2c0e98d06656c7f4ca207f480645796aef67eb4b68d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--marghita-58-2022",
    "path": "local/bihor/marghita/2022/58",
    "short": "HCL Marghita nr. 58/2022",

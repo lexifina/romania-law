@@ -1008,6 +1008,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-163-2022",
+   "path": "local/arges/campulung/2022/163",
+   "short": "HCL Câmpulung nr. 163/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 163/2022 privind modificarea HCL nr. 158 din 07.10.2021 cu privire la aprobarea Regulamentului de acordare a titlului de \"Cetățean de onoare al Municipiului Câmpulung\", respectiv a “Certificatului de Fiu/Fiică al/a Municipiului Câmpulung”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 5,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20163%20din%2013.07.2022.pdf",
+     "sha256": "9877d01450765eee01bab47c954adcac77835374360eaec08b4634860c501630"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-164-2022",
    "path": "local/arges/campulung/2022/164",
    "short": "HCL Câmpulung nr. 164/2022",
@@ -3089,6 +3104,21 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20310%20din%2028.12.2022.pdf",
      "sha256": "f152dadec90964fdbf98a1a43087f39f8692f7c005f86c3ebeb976ab8a9b4085"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-311-2022",
+   "path": "local/arges/campulung/2022/311",
+   "short": "HCL Câmpulung nr. 311/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 311/2022 cu privire la stabilirea, începând cu 01.01.2023, a nivelului taxei speciale de colectare, transport și depozitare deșeuri municipale, instituit prin Hotărârea Consiliului Local nr. 98 din 28.12.2016",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20311%20din%2029.12.2022.pdf",
+     "sha256": "986d3d22026e40c5ff216100ed20dcecefb69a761f2489691ab671698454b4a7"
     }
    ]
   },

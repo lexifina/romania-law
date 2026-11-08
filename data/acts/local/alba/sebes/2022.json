@@ -3,6 +3,28 @@
 "shard": "local/alba/sebes/2022",
 "acts": [
 {
+"slug": "hcl-alba--sebes-11-2022",
+"path": "local/alba/sebes/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 11/2022 privind modificarea nomenclatorului stradal reactualizat al Municipiului Sebeș, cu localitățile componente Petrești, Lancrăm, Răhău și regulamentul privind zonarea străzilor de pe raza administrativ-teritorială a Municipiului Sebeș, aprobat pr",
+"short": "HCL Sebeș nr. 11/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-alba--sebes-61-2022",
 "path": "local/alba/sebes/2022/61",
 "kind": "local",
@@ -22,6 +44,50 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-67-2022",
+"path": "local/alba/sebes/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 67/2022 privind asigurarea gratuității pentru elevii din Municipiul Sebeș la transportul public local de persoane precum și aprobarea regulamentului de acordare a acestor facilități",
+"short": "HCL Sebeș nr. 67/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-15",
+"latest": "2022-03-15",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-71-2022",
+"path": "local/alba/sebes/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 71/2022 Privind aprobarea Regulamentului Concursului Național de Creație Literară, Artă Plastică, Traducere și Recitare de Poezie „Laudă semințelor, celor de față și-n veci tuturor”, din cadrul celei de-a XLII-a ediții a Festivalului Internațional „Lucian Blaga” Sebeș (mai 2022)",
+"short": "HCL Sebeș nr. 71/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-15",
+"latest": "2022-03-15",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
 }
 },
 {
@@ -91,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-155-2022",
+"path": "local/alba/sebes/2022/155",
+"kind": "local",
+"year": "2022",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 155/2022 privind aprobarea modificării nivelului tarifelor de distanță maximale și stabilirea tarifului minimal în cazul transportului de persoane în regim de taxi de pe raza administrativ-teritorială a Municipiului Sebeș",
+"short": "HCL Sebeș nr. 155/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-alba--sebes-173-2022",
 "path": "local/alba/sebes/2022/173",
 "kind": "local",
@@ -132,6 +220,51 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-214-2022",
+"path": "local/alba/sebes/2022/214",
+"kind": "local",
+"year": "2022",
+"number": "214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 214/2022 Privind completarea anexelor nr.5 și nr.8 ale Hotărârii Consiliului Local Sebeș nr.360/2021 privind nivelurile pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și amenzile aplicabile în anul fiscal 2022",
+"short": "HCL Sebeș nr. 214/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-16",
+"latest": "2022-08-16",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-235-2022",
+"path": "local/alba/sebes/2022/235",
+"kind": "local",
+"year": "2022",
+"number": "235",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 235/2022 privind aprobarea modificării Regulamentului de Organizare și Funcționare al Serviciului Public de Administrarea Patrimoniului aprobat prin HCL nr.127/2017",
+"short": "HCL Sebeș nr. 235/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "review"
 }
 },
 {
@@ -179,6 +312,50 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-259-2022",
+"path": "local/alba/sebes/2022/259",
+"kind": "local",
+"year": "2022",
+"number": "259",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 259/2022 privind aprobarea REGULAMENTULUI PRIVIND COMERCIALIZAREA PRODUSELOR ȘI SERVICIILOR DE PIAȚĂ PE",
+"short": "HCL Sebeș nr. 259/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-21",
+"latest": "2022-09-21",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-262-2022",
+"path": "local/alba/sebes/2022/262",
+"kind": "local",
+"year": "2022",
+"number": "262",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 262/2022 Privind aprobarea Regulamentul de vânzare a locuințelor tip ANL, situate pe raza Municipiului Sebeș",
+"short": "HCL Sebeș nr. 262/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-alba--sebes-299-2022",
 "path": "local/alba/sebes/2022/299",
 "kind": "local",
@@ -223,6 +400,28 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-310-2022",
+"path": "local/alba/sebes/2022/310",
+"kind": "local",
+"year": "2022",
+"number": "310",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 310/2022 privind aprobarea prețurilor de referință ale masei lemnoase ,,pe picior”producția anului 2023 pentru masa lemnoasă ce se va valorifica prin licitație sau negociere din fondul forestier proprietate publică a Municipiului Sebeș",
+"short": "HCL Sebeș nr. 310/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-alba--sebes-355-2022",
 "path": "local/alba/sebes/2022/355",
 "kind": "local",
@@ -242,6 +441,28 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-378-2022",
+"path": "local/alba/sebes/2022/378",
+"kind": "local",
+"year": "2022",
+"number": "378",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 378/2022 privind asigurarea gratuității pentru elevii din învățământul preuniversitar acreditat/autorizat de pe raza administrativ-teritorială a Municipiului Sebeș la transportul public local de persoane precum și aprobarea regulamentului de acordare a facilităților la transportul public local rutier pentru elevii din învățământul preuniversitar acreditat/autorizat de pe raza administrativ-teritorială a Municipiului Sebeș pentru anul",
+"short": "HCL Sebeș nr. 378/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2022/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
 }
 },
 {

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/breaza/2009",
+ "acts": [
+  {
+   "slug": "hcl-prahova--breaza-140-2009",
+   "path": "local/prahova/breaza/2009/140",
+   "short": "HCL Breaza nr. 140/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 140/2009 privind aprobarea cuantumului taxelor de pasunat si de faneata",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-12-23",
+     "units": 5,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1263555244hot140.pdf",
+     "sha256": "b62fca2419129ce8285d0db5fe8e89cb5b3c41027fc991bc4c7bf3878a055048"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,138 @@
 "shard": "local/cluj/savadisla/2025",
 "acts": [
 {
+"slug": "hcl-cluj--savadisla-11-2025",
+"path": "local/cluj/savadisla/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 11/2025 privind reorganizarea aparatului de specialitate al Primarului comunei Săvădisla,județul Cluj,aprobarea organigramei și a statului de funcții",
+"short": "HCL Săvădisla nr. 11/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-07",
+"latest": "2025-02-07",
+"portal": "https://emol.ro/savadisla-cj/registru-hcl/191391",
+"council": "cluj/savadisla",
+"council_name": "Consiliul Local al Comunei Săvădisla",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--savadisla-19-2025",
+"path": "local/cluj/savadisla/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 19/2025 aprobarea bugetului local al comunei Savadisla pentru anul 2025",
+"short": "HCL Săvădisla nr. 19/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-09",
+"latest": "2025-04-09",
+"portal": "https://emol.ro/savadisla-cj/registru-hcl/201007",
+"council": "cluj/savadisla",
+"council_name": "Consiliul Local al Comunei Săvădisla",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--savadisla-54-2025",
+"path": "local/cluj/savadisla/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 54/2025 privind actualizarea Organigramei și a Statului de funcții pentru aparatul de specialitate al Primarului comunei Săvădisla",
+"short": "HCL Săvădisla nr. 54/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/savadisla-cj/registru-hcl/214618",
+"council": "cluj/savadisla",
+"council_name": "Consiliul Local al Comunei Săvădisla",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--savadisla-55-2025",
+"path": "local/cluj/savadisla/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 55/2025 privind actualizarea Regulamentului de Organizare și Funcționare a aparatului de specialitate al Primarului comunei Săvădisla,județul Cluj",
+"short": "HCL Săvădisla nr. 55/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/savadisla-cj/registru-hcl/214619",
+"council": "cluj/savadisla",
+"council_name": "Consiliul Local al Comunei Săvădisla",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--savadisla-77-2025",
+"path": "local/cluj/savadisla/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 77/2025 privind modificarea și completarea art. 1 la HCL nr. 113 din 19.12.2023 privind faptele săvârșite de instituțiile publice , agenții economici, alte persoane juridice, precum și de cetățeni, care constituie contravenții în domeniul bunei gospodăriri al localităților comunei Săvădisla",
+"short": "HCL Săvădisla nr. 77/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/savadisla-cj/registru-hcl/222522",
+"council": "cluj/savadisla",
+"council_name": "Consiliul Local al Comunei Săvădisla",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--savadisla-78-2025",
+"path": "local/cluj/savadisla/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 78/2025 privind aprobarea Statutului comunei SĂVĂDISLA , județul Cluj",
+"short": "HCL Săvădisla nr. 78/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/savadisla-cj/registru-hcl/222523",
+"council": "cluj/savadisla",
+"council_name": "Consiliul Local al Comunei Săvădisla",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-cluj--savadisla-92-2025",
 "path": "local/cluj/savadisla/2025/92",
 "kind": "local",

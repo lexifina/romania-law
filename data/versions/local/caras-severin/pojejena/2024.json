@@ -3,6 +3,276 @@
  "shard": "local/caras-severin/pojejena/2024",
  "acts": [
   {
+   "slug": "hcl-caras-severin--pojejena-18-2024",
+   "path": "local/caras-severin/pojejena/2024/18",
+   "short": "HCL Pojejena nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 18/2024 privind aprobarea reorganizarii structurii retelei scolare a unitatilor de invatamant preuniversitar de stat de pe raza com. Pojejena pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/156888",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/156888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-22-2024",
+   "path": "local/caras-severin/pojejena/2024/22",
+   "short": "HCL Pojejena nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 22/2024 privind aprobarea participării Comunei Pojejena în cadrul „Programului vizând sisteme de alimentare cu apă, canalizare şi epurare a apelor uzate”, acordul privind asigurarea și susţinerea, din surse proprii, a cheltuielilor care nu sunt acoperite prin finanţarea acordată de AFM şi a cheltuielilor neeligibile și depunerea proiectului „Extinderea rețelei de canalizare,localitatea Divici comuna Pojejena” în aplicația Administraţiei Fondului pentru Mediu (AFM)",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/156892",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/156892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-24-2024",
+   "path": "local/caras-severin/pojejena/2024/24",
+   "short": "HCL Pojejena nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 24/2024 privind analiza stadiului de inscriere a datelor in registrul agricol pentru trimestrul I anul 2024 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/160279",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/160279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-25-2024",
+   "path": "local/caras-severin/pojejena/2024/25",
+   "short": "HCL Pojejena nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 25/2024 privind aprobarea premierii câștigătorilor primelor 3 locuri pentru cea mai frumoasa cununa împletită și împodobită la festivalul „Kumacanje” (înfrățire) și premierea primelor 3 locuri pentru cea mai frumoasa poezie la evenimentul „Zapisano u secanju” (Inscris în amintiri)",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/160320",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/160320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-27-2024",
+   "path": "local/caras-severin/pojejena/2024/27",
+   "short": "HCL Pojejena nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 27/2024 privind aprobarea neaplicarii la nivelul Primariei comunei Pojejena a masurilor prevazute la art.XXIX alin. (1) din Legea nr. 296 / 2023 privind unele masuri fiscal-bugetare pentru asigurarea sustenabilitatii financiare a Romaniei pe termen lung",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/165229",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/165229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-28-2024",
+   "path": "local/caras-severin/pojejena/2024/28",
+   "short": "HCL Pojejena nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 28/2024",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/165233",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/165233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-29-2024",
+   "path": "local/caras-severin/pojejena/2024/29",
+   "short": "HCL Pojejena nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 29/2024 privind reorganizarea aparatului de specialitate al primarului comunei Pojejena şi serviciilor publice de interes local",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/165236",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/165236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-30-2024",
+   "path": "local/caras-severin/pojejena/2024/30",
+   "short": "HCL Pojejena nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 30/2024 privind aprobarea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Pojejena și a serviciilor publice din cadrul Primăriei comunei Pojejena, pentru anul 2024",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/165237",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/165237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-31-2024",
+   "path": "local/caras-severin/pojejena/2024/31",
+   "short": "HCL Pojejena nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 31/2024 privind aprobarea completarii inventarului bunurilor care alcatuiesc domeniul privat GR. I al comunei Pojejena,judetul Caras-Severin",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/165238",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/165238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-34-2024",
+   "path": "local/caras-severin/pojejena/2024/34",
+   "short": "HCL Pojejena nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 34/2024 privind aprobarea anexelor cuprinzand lista bunurilor proprietate privata (mijloace fixe) transmisa spre folosinta operatorului AQUACARAS S.A",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/165241",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/165241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-35-2024",
+   "path": "local/caras-severin/pojejena/2024/35",
+   "short": "HCL Pojejena nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 35/2024 privind aprobarea incheierii Protocolului de finatare intre Consiliul Judetean Caras-Severin si UAT Pojejena pentru imlementarea Programului multiannual privind finantarea elaborarii si/sau actualizarii planurilor urbanistice generale ale localitatilor si a regulamentelor locale de urbanism pentru perioada 2024-2027 conform Hotararii Guvernului nr.1137/2023",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/165253",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/165253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-36-2024",
+   "path": "local/caras-severin/pojejena/2024/36",
+   "short": "HCL Pojejena nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 36/2024 privind aprobarea anexelor cuprinzand lista bunurilor proprietate privata (mijloace fixe) transmisa spre folosinta operatorului AQUACARAS S.A",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/165254",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/165254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-38-2024",
+   "path": "local/caras-severin/pojejena/2024/38",
+   "short": "HCL Pojejena nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 38/2024 privind analiza stadiului de inscriere a datelor in registrul agricol pentru trimestrul II anul 2024 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/196105",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/196105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-40-2024",
+   "path": "local/caras-severin/pojejena/2024/40",
+   "short": "HCL Pojejena nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 40/2024 privind aprobarea indicatorilor si cofinanțării, al devizelor generale și contractării serviciilor de proiectare,cadastrale și a altor servicii în vederea obținerii avizelor si acordurilor necesare actualizarii Planului Urbanistc General al Comunei Pojejena",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/196107",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/196107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-41-2024",
+   "path": "local/caras-severin/pojejena/2024/41",
+   "short": "HCL Pojejena nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 41/2024 privind aprobarea rectificarii bugetului general al comunei Pojejena pe anul 2024",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/196108",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/196108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-42-2024",
+   "path": "local/caras-severin/pojejena/2024/42",
+   "short": "HCL Pojejena nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 42/2024 privind aprobarea accesarii Schemei de ajutor de stat ,,Silvo-mediu si clima “, sesiunea 1/2024 , aferenta Interventiei DR-07 din cadrul Planului Strategic PS PAC 2023-2027 , instrumentarea dosarului tehnic si depunerea cat si a cererilor de plata aferente anilor de angajament 1-5 , pentru terenurile cu vegetatie forestiera eligibile aflate in proprietatea publica a comunei Pojejena , judetul Caras-Severin",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/196109",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/196109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-43-2024",
+   "path": "local/caras-severin/pojejena/2024/43",
+   "short": "HCL Pojejena nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 43/2024 privind desființarea Serviciului Public de canalizare la nivelul Comunei Pojejena, Judetul Caras Severin",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/196110",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/196110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-44-2024",
+   "path": "local/caras-severin/pojejena/2024/44",
+   "short": "HCL Pojejena nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 44/2024 privind aprobarea rectificarii bugetului general al comunei Pojejena pe anul 2024",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/196111",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/196111",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--pojejena-45-2024",
    "path": "local/caras-severin/pojejena/2024/45",
    "short": "HCL Pojejena nr. 45/2024",

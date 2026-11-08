@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/rupea/2018",
+ "acts": [
+  {
+   "slug": "hcl-brasov--rupea-13-2018",
+   "path": "local/brasov/rupea/2018/13",
+   "short": "HCL Rupea nr. 13/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 13/2018 privind ajustarea prețurilor/tarifelor pentru serviciile publice de salubrizare prestate de SC SERVICIUL PUBLIC RUPEA SRL",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/hotararea-13-28-02-2018.pdf",
+     "sha256": "aea80bda97beb5a74071667bf2e985d9ce79738628320635f5f726da2dea1477"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-23-2018",
+   "path": "local/brasov/rupea/2018/23",
+   "short": "HCL Rupea nr. 23/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 23/2018 privind aprobarea Regulamentului privind procedura pentru înregistrarea, evidența și radierea vehiculelor care nu se supun înmatriculării, de pe raza administrativ teritorială a orașului Rupea, jud. Brașov",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/hotararea-23-26-03-2018.pdf",
+     "sha256": "c1feb219bc87d66f70cdd46d9210cd003a0240a8bc0fb3fd7c30ea75ff9e6a27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-9-2018",
+   "path": "local/brasov/rupea/2018/9",
+   "short": "HCL Rupea nr. 9/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 9/2018 privind modificarea art. 3 si Cap. III din Anexa I din HCL nr. 28/27.06.2017 privind aprobarea impozitelor si taxelor locale pentru anul 2018",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/HCL-NR-9-2018.pdf",
+     "sha256": "d13b81872be589afa4086c7871cc5f4542f049e2cb2c16fcdf3121462bb70bf7"
+    }
+   ]
+  }
+ ]
+}

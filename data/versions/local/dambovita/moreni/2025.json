@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--moreni-140-2025",
+   "path": "local/dambovita/moreni/2025/140",
+   "short": "HCL Moreni nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 140/2025 nr.140 din 06.06.2025 privind aprobarea procentului de indexare a impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2025/06/HCL-privind-aprobarea-procentului-de-indexare-a-impozitelor-si-taxelior-locale-pentru-anul-fiscal-2026.pdf",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 7,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2025/06/HCL-privind-aprobarea-procentului-de-indexare-a-impozitelor-si-taxelior-locale-pentru-anul-fiscal-2026.pdf",
+     "sha256": "df22204d78c0a1b28d749a518c662b56aa3660402bfcf321b069b6506e67fe32"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--moreni-173-2025",
    "path": "local/dambovita/moreni/2025/173",
    "short": "HCL Moreni nr. 173/2025",
@@ -89,6 +104,21 @@
      "units": 1,
      "source_url": "https://primariamoreni.ro/wp-content/uploads/2026/01/Hotararea-nr.-265-din-03.12.2025.pdf",
      "sha256": "b08b78f78161d7c0e16f42294b37876f1c6ab374071e0f08df1eaba55e2b5ca8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-288-2025",
+   "path": "local/dambovita/moreni/2025/288",
+   "short": "HCL Moreni nr. 288/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 288/2025 nr.288 din 16.12.2025 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2025/12/HCL-288-aprobare-impozite-si-taxe-locale-2026.pdf",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2025/12/HCL-288-aprobare-impozite-si-taxe-locale-2026.pdf",
+     "sha256": "e77595d8d92bff000aa502cd88d45c4c3da6792ff33b057c28e8108ab5fb3722"
     }
    ]
   },

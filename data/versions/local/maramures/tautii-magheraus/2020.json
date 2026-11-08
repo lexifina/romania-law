@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/tautii-magheraus/2020",
+ "acts": [
+  {
+   "slug": "hcl-maramures--tautii-magheraus-214-2020",
+   "path": "local/maramures/tautii-magheraus/2020/214",
+   "short": "HCL Tăuții-Măgherăuș nr. 214/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 214/2020 Nr. 214 din 21.12.2020 Privind stabilirea impozitelor si taxelor locale pentru anul 2021",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 13,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl214.pdf",
+     "sha256": "0c1097f889377edc852657fed13aff579abaf5b313145e3e9e0b2f126181de68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-216-2020",
+   "path": "local/maramures/tautii-magheraus/2020/216",
+   "short": "HCL Tăuții-Măgherăuș nr. 216/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 216/2020 NR.216 din 21.12.2020 privind inregistrarea Orasului Tautii Magheraus in Sistemul National Electronic de Plata on-line a taxelor si impozitelor, utilizand cardul bancar (SNEP) si modul de suportare a comisionului bancar la tranzactia on-line",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 6,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl216.pdf",
+     "sha256": "2f632e0d7574876b22a12c298b6a44fff2f0455a4c623c07d2d827e9e9e69d5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-235-2020",
+   "path": "local/maramures/tautii-magheraus/2020/235",
+   "short": "HCL Tăuții-Măgherăuș nr. 235/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 235/2020 Nr. 235 din 21.12.2020 Cu privire la aprobarea planului de lucrari de interes local ce vor fi prestate de beneficiarii ajutorului social conform Legii nr. 416/2001 și a criteriilor pentru acordarea ajutoarelor de urgenta pentru anul 2021 la nivelul Orasului Tautii-Magheraus",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl235.pdf",
+     "sha256": "2bc5cb5dee122c269cc09ddf3ece0abb3af426447f9899036492a75183c8a745"
+    }
+   ]
+  }
+ ]
+}

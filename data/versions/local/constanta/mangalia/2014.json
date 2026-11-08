@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mangalia-168-2014",
+   "path": "local/constanta/mangalia/2014/168",
+   "short": "HCL Mangalia nr. 168/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 168/2014 privind aprobarea \"Regulamentului privind reglementarea activității agenților economici de pe teritoriul administrativ al municipiului Mangalia”",
+   "url": "https://mangalia.ro/2014/07/hcl-16820-05-2014/",
+   "versions": [
+    {
+     "from": "2014-05-16",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2014/07/168.pdf",
+     "sha256": "312eabad1c8ef084b8e51d36c171e7fe8711c641ee874e1ad07f9587b54f0eca"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-179-2014",
    "path": "local/constanta/mangalia/2014/179",
    "short": "HCL Mangalia nr. 179/2014",

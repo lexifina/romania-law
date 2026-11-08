@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/vulcan/2021",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--vulcan-192-2021",
+   "path": "local/hunedoara/vulcan/2021/192",
+   "short": "HCL Vulcan nr. 192/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 192/2021 privind stabilirea taxei speciale de salubrizare pentru anul 2022.pdf",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcluri-impozite-si-taxe-locale-2022-0000d8f6?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/A3B5593E257041EEC22587B5002CB880/$FILE/HCL%20192%20Salubrizare%202022.pdf",
+     "sha256": "bc6d0536ee592f80b0172ca37e32a19aeca1ec59d5b1fdc8600d172b42ef58c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-2-2021",
+   "path": "local/hunedoara/vulcan/2021/2",
+   "short": "HCL Vulcan nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 2/2021 Privind stabilirea taxei speciale de salubrizare pentru anul 2021",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcluri-impozite-si-taxe-locale-2021-0000b90a?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 3,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/8E9F3066AD9F9450C225868B00422516/$FILE/hotararea%20nr%202-%202021.pdf",
+     "sha256": "834052214c2e6ac0ee340ad82b15ce05604089ea3aed687b6936551e88c67711"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-47-2021",
+   "path": "local/hunedoara/vulcan/2021/47",
+   "short": "HCL Vulcan nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 47/2021 privind indexarea cu rata inflatiei a impozitelor si taxelor locale, incepand cu data de 01.01.2022.pdf",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcluri-impozite-si-taxe-locale-2022-0000d8f6?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/2F0B88E945B4D961C22587820041CE99/$FILE/20211103_133814.pdf",
+     "sha256": "b1110d67b478bd6528ac32a2b818430b16e21c3e968d21390bcdd2e5e8a571b9"
+    }
+   ]
+  }
+ ]
+}

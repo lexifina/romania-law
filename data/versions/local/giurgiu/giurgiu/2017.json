@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-341-2017",
+   "path": "local/giurgiu/giurgiu/2017/341",
+   "short": "HCL Giurgiu nr. 341/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 341/2017 cu privire la aprobarea modificării Hotărârii Consiliului Local nr.167 din data de 05 mai 2017 privind tarifele practicate de societatea Giurgiu Servicii Publice S.A. pentru activitatea de iluminat public",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 3,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/155/341-mod-hot-167.pdf",
+     "sha256": "38d5e4684a1ad4d62599bf7b1df8aebd506aacf73663edf9eea8d0599bca3c9f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-38-2017",
    "path": "local/giurgiu/giurgiu/2017/38",
    "short": "HCL Giurgiu nr. 38/2017",

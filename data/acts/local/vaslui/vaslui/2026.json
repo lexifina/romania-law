@@ -3,6 +3,72 @@
 "shard": "local/vaslui/vaslui/2026",
 "acts": [
 {
+"slug": "hcl-vaslui--vaslui-257-2026",
+"path": "local/vaslui/vaslui/2026/257",
+"kind": "local",
+"year": "2026",
+"number": "257",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vaslui nr. 257/2026 privind aprobarea procedurii de acceptare/respingere a donațiilor imobiliare de către Municipiul Vaslui",
+"short": "HCL Vaslui nr. 257/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-08-27",
+"latest": "2026-08-27",
+"portal": "https://primariavaslui.ro/wp-content/uploads/2026/10/HCL-257-din-27.08.2026.pdf",
+"council": "vaslui/vaslui",
+"council_name": "Consiliul Local al Municipiului Vaslui",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-vaslui--vaslui-310-2026",
+"path": "local/vaslui/vaslui/2026/310",
+"kind": "local",
+"year": "2026",
+"number": "310",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vaslui nr. 310/2026 privind acordarea unui mandat special reprezentantului UAT în ADIV pentru a vota proiectul de hotărâre privind aprobarea cuantumului taxei speciale de salubrizare pentru anul 2027 în Județul Vaslui",
+"short": "HCL Vaslui nr. 310/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://primariavaslui.ro/wp-content/uploads/2026/11/HCL-310-29.10.2026.pdf",
+"council": "vaslui/vaslui",
+"council_name": "Consiliul Local al Municipiului Vaslui",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-vaslui--vaslui-311-2026",
+"path": "local/vaslui/vaslui/2026/311",
+"kind": "local",
+"year": "2026",
+"number": "311",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vaslui nr. 311/2026 privind acordarea unui mandat special reprezentantului UAT Vaslui în ADIV pentru a vota proiectul de hotărâre privind ajustarea tarifelor aferente contractului nr.16452/19.12.2017 privind serviciul public de salubrizare pentru activitățile de depozitare a deșeurilor reziduale (Td reziduale), transfer a deșeurilor municipale(Tt reciclabile și Tt reziduale) și sortarea deșeurilor municipale reciclabile (T sortare)",
+"short": "HCL Vaslui nr. 311/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://primariavaslui.ro/wp-content/uploads/2026/11/HCL-311-29.10.2026.pdf",
+"council": "vaslui/vaslui",
+"council_name": "Consiliul Local al Municipiului Vaslui",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-vaslui--vaslui-328-2026",
 "path": "local/vaslui/vaslui/2026/328",
 "kind": "local",

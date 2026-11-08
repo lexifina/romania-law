@@ -63,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-287-2019",
+   "path": "local/cluj/turda/2019/287",
+   "short": "HCL Turda nr. 287/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 287/2019 privind aprobarea darii in administrare a bunului imobil “patinoar artificial in suprafața de 600 metri patrati” și stabilirea tarifelor de acces patinoar pentru sezonul 2019-2020 Consiliul Local al municipiului Turda întrunit în ședința ordinară din data de 20.12.2019",
+   "url": "https://primariaturda.ro/hotararea-nr-287-privind-aprobarea-darii-in-administrare-a-bunului-imobil-patinoar-artificial-in-suprafata-de-600-metri-patrati-si-stabilirea-tarifelor-de-acces-patinoar-pentru-sezon/",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2019/287%20din%2020.12.2019.pdf",
+     "sha256": "453d408a5b3e1c35d105f4c8a148eaceba9e8f14497a5634875b104d5a070449"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-295-2019",
+   "path": "local/cluj/turda/2019/295",
+   "short": "HCL Turda nr. 295/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 295/2019 privind stabilirea chiriei pentru spațiile și terenurile cu altă destinație decât locuință, precum și aprobarea diferitelor tarife pentru anul 2020 Consiliul Local al Municipiului Turda, întrunit în ședința ordinară din data de 20.12.2019; Luand în dezbatere proiectul de hotărâre privind stabilirea chiriei pentru spațiile și terenurile cu altă destinație decât locuință, precum și aprobarea diferit",
+   "url": "https://primariaturda.ro/hotararea-nr-295-privind-stabilirea-chiriei-pentru-spatiile-si-terenurile-cu-alta-destinatie-decat-locuinta-precum-si-aprobarea-diferitelor-tarife-pentru-anul-2020/",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2019/295%20din%2020.12.2019.pdf",
+     "sha256": "656847e76f4f95ddfc481d914f337872db9cc570e1451c086377249ff17f146f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-300-2019",
    "path": "local/cluj/turda/2019/300",
    "short": "HCL Turda nr. 300/2019",

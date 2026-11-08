@@ -1,0 +1,119 @@
+{
+"country": "RO",
+"shard": "local/arad/santana/2024",
+"acts": [
+{
+"slug": "hcl-arad--santana-82-2024",
+"path": "local/arad/santana/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 82/2024 PRIVIND ACORDAREA UNUI MANDAT SPECIAL REPREZENTANTULUI CONSILIULUI LOCAL AL ORAȘULUI SÂNTANA ÎN ADUNAREA GENERALĂ A ASOCIAȚILOR ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ DE TRANSPORT PUBLIC ARAD ÎN VEDEREA APROBĂRII MODIFICĂRII METODOLOGIEI PRIVIND APLICAREA MĂSURILOR DE PROTECȚIE SOCIALĂ LA TRANSPORTUL PUBLIC LOCAL PE RAZA TERITORIALĂ A UNITĂȚILOR ADMINISTRATIV- TERITORIALE MEMBRE ALE ASOCIAȚIEI D",
+"short": "HCL Sântana nr. 82/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=47",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-arad--santana-84-2024",
+"path": "local/arad/santana/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 84/2024",
+"short": "HCL Sântana nr. 84/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-94-2024",
+"path": "local/arad/santana/2024/94",
+"kind": "local",
+"year": "2024",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 94/2024",
+"short": "HCL Sântana nr. 94/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-122-2024",
+"path": "local/arad/santana/2024/122",
+"kind": "local",
+"year": "2024",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 122/2024 privind unele măsuri fiscal- bugetare pentru asigurarea sustenabilității financiare a României pe termen lung; - art. LXIX , Cap. II din OUG nr. 115 din 14.12.2023 privind unele măsuri fiscal-bugetare în domeniul cheltuielilor publice, pentru consolidare fiscală, combaterea evaziunii fiscale, pentru modificarea și completarea unor acte normative, precum și pentru prorogarea unor termene - art.518",
+"short": "HCL Sântana nr. 122/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=43",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-arad--santana-161-2024",
+"path": "local/arad/santana/2024/161",
+"kind": "local",
+"year": "2024",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 161/2024",
+"short": "HCL Sântana nr. 161/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+}
+]
+}

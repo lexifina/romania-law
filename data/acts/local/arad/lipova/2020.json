@@ -3,6 +3,94 @@
 "shard": "local/arad/lipova/2020",
 "acts": [
 {
+"slug": "hcl-arad--lipova-8-2020",
+"path": "local/arad/lipova/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 8/2020 privind aprobarea Regulamentului propriu de organizare și funcționare prezent strict pentru activitățile de colectare și transport al serviciului public de salubrizare al \"Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor județu",
+"short": "HCL Lipova nr. 8/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--lipova-34-2020",
+"path": "local/arad/lipova/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 34/2020 privind aprobarea Regulamentului propriu al serviciului de salubrizare al Orașului Lipova și localităților aparținătoare Lipova, Radna, și Șoimoș",
+"short": "HCL Lipova nr. 34/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--lipova-57-2020",
+"path": "local/arad/lipova/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 57/2020 privind stabilirea prețurilor de referință și de pornire a licitației pentru masa lemnoasă fasonată",
+"short": "HCL Lipova nr. 57/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--lipova-80-2020",
+"path": "local/arad/lipova/2020/80",
+"kind": "local",
+"year": "2020",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 80/2020 pentru aprobarea metodologiei privind acordarea unui ajutor financiar familiilor pentru plata serviciilor oferite de bonă",
+"short": "HCL Lipova nr. 80/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-09-18",
+"latest": "2020-09-18",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-arad--lipova-89-2020",
 "path": "local/arad/lipova/2020/89",
 "kind": "local",

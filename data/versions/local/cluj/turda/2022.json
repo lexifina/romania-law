@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-225-2022",
+   "path": "local/cluj/turda/2022/225",
+   "short": "HCL Turda nr. 225/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 225/2022 privind aprobarea solicitării referitoare la elaborarea PUZ/RLU „PUZ Nucleu III Turism Urban Turda”, UAT Turda, județul Cluj, ca și documentație de urbanism de interes public general Consiliul Local al municipiului Turda, întrunit în ședința ordinară din data de 31.10.2022; Luând în dezbatere proiectul de hotărâre privind aprobarea solicitării referitoare la elaborarea PUZ/RLU „PUZ Nucleu III Turi",
+   "url": "https://primariaturda.ro/hotararea-nr-225-privind-aprobarea-solicitarii-referitoare-la-elaborarea-puz-rlu-puz-nucleu-iii-turism-urban-turda-uat-turda-judetul-cluj-ca-si-documentatie-de-urbanism-de-intere/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/225%20din%2031.10.2022.pdf",
+     "sha256": "8079437578ba60695fc36a51916e7a74057cbcc2cf201563b4d1444b77e57aa3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-243-2022",
    "path": "local/cluj/turda/2022/243",
    "short": "HCL Turda nr. 243/2022",
@@ -44,6 +59,51 @@
      "units": 1,
      "source_url": "https://primariaturda.ro/uploads/hcl/2022/246%20din%2016.11.2022.pdf",
      "sha256": "722ad203b5a5af4b9a1e51cd9940e8e28dfab023d9a5331a2774a177035783b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-249-2022",
+   "path": "local/cluj/turda/2022/249",
+   "short": "HCL Turda nr. 249/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 249/2022 privind aprobare P.U.Z/R.L.U.- PUZ/RLU — extindere hală producție, str",
+   "url": "https://primariaturda.ro/hotararea-nr-249-privind-aprobare-p-u-z-r-l-u-puz-rlu-extindere-hala-productie-str-clujului-nr-71-construire-hala-productie-si-spatii-administrative-str-cotita-nr-7-9-municipiul-tu/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/249%20din%2024.11.2022.pdf",
+     "sha256": "276f33065db204c53b6961256564bf0565fc0a021439e9d8cf851a4bc24ba580"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-256-2022",
+   "path": "local/cluj/turda/2022/256",
+   "short": "HCL Turda nr. 256/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 256/2022 privind menținerea cuantumului chiriilor pentru spațiile și terenurile cu altă destinație decât locuință și a diferitelor tarife pentru anul 2023, la nivelul anului 2022, aprobate prin Hotărârea Consiliului Local nr. 190/25.11.2021 Consiliul Local al Municipiului Turda, întrunit în ședință ordinară din data de 24.11.2022; Luând în dezbatere proiectul de hotărâre privind menținerea cuantumului chir",
+   "url": "https://primariaturda.ro/hotararea-nr-256-privind-mentinerea-cuantumului-chiriilor-pentru-spatiile-si-terenurile-cu-alta-destinatie-decat-locuinta-si-a-diferitelor-tarife-pentru-anul-2023-la-nivelul-anului-2022-aprobate-pr/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/256%20din%2024.11.2022.pdf",
+     "sha256": "98a2b5b268e17d25a834b783e8b22257058483795f3eba3a8dc13263abe8ad72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-266-2022",
+   "path": "local/cluj/turda/2022/266",
+   "short": "HCL Turda nr. 266/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 266/2022 privind aprobarea PUZ/RLU — Construire locuințe sociale (30 apartamente), în municipiul Turda, str",
+   "url": "https://primariaturda.ro/hotararea-nr-266-privind-aprobarea-puz-rlu-construire-locuinte-sociale-30-apartamente-in-municipiul-turda-str-panait-cerna-fn-judetul-cluj/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2022/266%20din%2022.12.2022.pdf",
+     "sha256": "a4bced89d72705abdd2f84658873a2f5f9d42521a1c3a128c3a2966cb03d04df"
     }
    ]
   },

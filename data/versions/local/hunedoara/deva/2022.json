@@ -588,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--deva-394-2022",
+   "path": "local/hunedoara/deva/2022/394",
+   "short": "HCL Deva nr. 394/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 394/2022 privind aprobarea Regulamentului de organizare şi desfășurare a activităţii de voluntariat în cadrul Primăriei municipiului Deva și a instituțiilor publice din subordinea Consiliului local Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P180",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/394.pdf",
+     "sha256": "80e64e00c5191746660c1429b41b46a1171060ce5200e9a3992ac397c6b1347d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--deva-40-2022",
    "path": "local/hunedoara/deva/2022/40",
    "short": "HCL Deva nr. 40/2022",
@@ -828,6 +843,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--deva-523-2022",
+   "path": "local/hunedoara/deva/2022/523",
+   "short": "HCL Deva nr. 523/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 523/2022 privind modificarea Hotărârii Consiliului local al municipiului Deva nr.474/2018, privind aprobarea Regulamentului intern de funcționare al Complexului Aqualand Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P60",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/523.pdf",
+     "sha256": "507d16c549fbaa4907fe164d7a5221785b9bd7a95476c91a83392b1d222d29b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-524-2022",
+   "path": "local/hunedoara/deva/2022/524",
+   "short": "HCL Deva nr. 524/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 524/2022 privind modificarea Hotărârii Consiliului local al municipiului Deva nr.321/2018, privind menținerea tarifelor de intrare la Complexul Aqualand Deva și Ștrandul municipal Deva, cu modificările și completările ulterioare",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P60",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/524.pdf",
+     "sha256": "190a9e1fb939a317c880c6af8a4be371182e79301854af9f1bd3dc0d398d5aeb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--deva-53-2022",
    "path": "local/hunedoara/deva/2022/53",
    "short": "HCL Deva nr. 53/2022",
@@ -854,6 +899,21 @@
      "units": 1,
      "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/54_1.pdf",
      "sha256": "913cd7b30827d25a18abde4dd4283569a830be56039f44faabcc98e48d78d47d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-549-2022",
+   "path": "local/hunedoara/deva/2022/549",
+   "short": "HCL Deva nr. 549/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 549/2022 privind aprob. Document. PUZ “Loc. Fam.,foișor,anexă-magazie, împrejmuire,racorduri la utilități și organiz. de șantier” generat de imob. Sit. în extrav. Mun. Deva, str. Zăvoi79",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P40",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/549.pdf",
+     "sha256": "9906c3420d2ee440e644ef04d0573113b55977e7db922e25fe2de7a3b8cc1d96"
     }
    ]
   },
@@ -933,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--deva-579-2022",
+   "path": "local/hunedoara/deva/2022/579",
+   "short": "HCL Deva nr. 579/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 579/2022 privind modificarea Hotărârii Consiliului local nr.340/2022 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2023 în Mun.Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/579.pdf",
+     "sha256": "be058ead1bebad6739be2d75ecec0d3801207c1b2d235023ceaf7ea155e98450"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--deva-58-2022",
    "path": "local/hunedoara/deva/2022/58",
    "short": "HCL Deva nr. 58/2022",
@@ -944,6 +1019,36 @@
      "units": 1,
      "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_58_din_25_februarie_2022.pdf",
      "sha256": "c281b022b2340101c0d89cc0c8539411b6ad24114dfc85209f06d84cf25049b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-580-2022",
+   "path": "local/hunedoara/deva/2022/580",
+   "short": "HCL Deva nr. 580/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 580/2022 privind maj. cu 200% a impozitului pe clădiri, începând cu anul 2023, pt. imobilul clădire situat în Mun.Deva, str.A. Șaguna, nr.2, nr. topo. 862/2/2/1/1/1/1 și nr. topo. 862/2/2/1/2",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/580_split.pdf",
+     "sha256": "d3ec9ac10915907e4d5c847f8bc95634c94beccc01e73259ed2fb41ccb616900"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-587-2022",
+   "path": "local/hunedoara/deva/2022/587",
+   "short": "HCL Deva nr. 587/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 587/2022 privind maj. cu 200% a impozitului pe clădiri, începând cu anul 2023, pt. imobilul clădire situat în Mun.Deva, B-dul 1Decembrie 1918, nr.5, bl. B, parter- cinematograful „Patria”",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/587_split.pdf",
+     "sha256": "57fb1a3096958fa63cf97a15cff43afce47f8b0bdf58bb70a1a38e79c14202f1"
     }
    ]
   },
@@ -1304,6 +1409,36 @@
      "units": 1,
      "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/86.pdf",
      "sha256": "0c27483b4cb4f75aad8fc4d6abd1d339431b9c114fa884c889eecd3e4bc85860"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-94-2022",
+   "path": "local/hunedoara/deva/2022/94",
+   "short": "HCL Deva nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 94/2022 pentru modificarea Hotărârii Consiliului local nr.13/2014 privind constituirea Comisiei tehnice de amenajare a teritoriului şi urbanism și aprobarea Regulamentului de funcționare al acesteia, cu modificările și completările ulterioare",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P480",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/94.pdf",
+     "sha256": "9d12b29b7ebae3dd6feed0df4a6fd642eb65e4ea443854d05534ec49259da2fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-95-2022",
+   "path": "local/hunedoara/deva/2022/95",
+   "short": "HCL Deva nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 95/2022 privind aprobarea Regulamentului local privind infrastructura aferentă zonelor de dezvoltare urbană din cadrul municipiului Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P480",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/95.pdf",
+     "sha256": "b9b8e74bfcc0bef8b036c49e2ff8bff7486953fa433266486fea16e6e4ab0c35"
     }
    ]
   }

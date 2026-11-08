@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/adjud/2013",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--adjud-151-2013",
+   "path": "local/vrancea/adjud/2013/151",
+   "short": "HCL Adjud nr. 151/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 151/2013 privind aprobarea Regulamentului privind amplasarea mijloacelor de publicitate în Municipiul Adjud",
+   "url": "https://www.adjud.ro/monitorul-oficial-local/regulamente-proceduri-administrative/",
+   "versions": [
+    {
+     "from": "2013-11-02",
+     "units": 3,
+     "source_url": "https://www.adjud.ro/assets/media/2024/01/151_Redacted.pdf",
+     "sha256": "bf475b001e96a51ed6047f25c78870b12058ef9834cd4bdb91d4b37d5e944c4d"
+    }
+   ]
+  }
+ ]
+}

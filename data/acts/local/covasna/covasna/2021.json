@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/covasna/covasna/2021",
+"acts": [
+{
+"slug": "hcl-covasna--covasna-8-2021",
+"path": "local/covasna/covasna/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 8/2021 cu privire la aprobare PUZ – CASĂ DE LOCUIT, beneficiari Szabó Zsuzsa şi Pethő Alpár",
+"short": "HCL Covasna nr. 8/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--covasna-106-2021",
+"path": "local/covasna/covasna/2021/106",
+"kind": "local",
+"year": "2021",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 106/2021 privind aprobarea Regulamentului pentru gestionarea câinilor cu stăpân din oraşul Covasna, judeţul Covasna",
+"short": "HCL Covasna nr. 106/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--covasna-152-2021",
+"path": "local/covasna/covasna/2021/152",
+"kind": "local",
+"year": "2021",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 152/2021 cu privire la aprobarea unor tarife pentru închirierea unor echipamente sportive la Pârtia de schi \"Lőrincz Zsigmond\" pentru sezonul de iarnă 2021-2022",
+"short": "HCL Covasna nr. 152/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--covasna-162-2021",
+"path": "local/covasna/covasna/2021/162",
+"kind": "local",
+"year": "2021",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 162/2021 cu privire la modificarea tarifelor la serviciul public de salubritate",
+"short": "HCL Covasna nr. 162/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-covasna--covasna-164-2021",
+"path": "local/covasna/covasna/2021/164",
+"kind": "local",
+"year": "2021",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 164/2021 Cu privire la stabilirea tarifului pentru colectarea selectivă a deșeurilor pe raza orașului Covasna",
+"short": "HCL Covasna nr. 164/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

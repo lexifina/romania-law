@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/arad/nadlac/2018",
+ "acts": [
+  {
+   "slug": "hcl-arad--nadlac-112-2018",
+   "path": "local/arad/nadlac/2018/112",
+   "short": "HCL Nădlac nr. 112/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 112/2018 privind aprobarea măsurilor pentru remedierea deficienţelor la normele de apărare împotriva incendiilor constatate la nivelul oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2018-2/",
+   "versions": [
+    {
+     "from": "2018-07-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2018/h112.pdf",
+     "sha256": "391e4974f1147e3d637c0d02c9c0968b506630624dfc718e16cfd43624ef5912"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-113-2018",
+   "path": "local/arad/nadlac/2018/113",
+   "short": "HCL Nădlac nr. 113/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 113/2018 privind actualizarea Regulamentului serviciului public de alimentare cu apă și canalizare din aria de competenţă a unităţilor administrativ-teritoriale membre ale “Asociaţiei de Dezvoltare Intercomunitară Apă – Canalizare judeţul Arad”",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2018-2/",
+   "versions": [
+    {
+     "from": "2018-07-12",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2018/h113.pdf",
+     "sha256": "21fcddbf31b6cbd8a691f1c3e420724c7962cfb919925bcbd0ad4cdb85bc7fc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-132-2018",
+   "path": "local/arad/nadlac/2018/132",
+   "short": "HCL Nădlac nr. 132/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 132/2018 privind aprobarea măsurilor pentru remedierea deficiențelor la normele de apărare împotriva incendiilor constatate la nivelul orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2018-2/",
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2018/h132.pdf",
+     "sha256": "d1141313bf6b9a2d0b59fb13ae6e818285565712a7c13d25256672bd4ea93042"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-139-2018",
+   "path": "local/arad/nadlac/2018/139",
+   "short": "HCL Nădlac nr. 139/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 139/2018 privind aprobarea regulamentului de vânzare a locuințelor pentru tineri destinate închirierii, situate în orașul Nădlac, str.G. Coșbuc, nr.54, jud. Arad, construite prin Agenția Națională pentru Locuințe",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2018-2/",
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2018/h139.pdf",
+     "sha256": "f0bb3f520f06e267ab27dbbbd2f536f59dd6753d76c1e4204030cc34d2ae85ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-143-2018",
+   "path": "local/arad/nadlac/2018/143",
+   "short": "HCL Nădlac nr. 143/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 143/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2018/h143.pdf",
+     "sha256": "052a3a65fa29a4935fe207eb9385c4a88f14f4f132960a08d5a70cd6163fe1bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-160-2018",
+   "path": "local/arad/nadlac/2018/160",
+   "short": "HCL Nădlac nr. 160/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 160/2018 privind aprobarea nivelurilor valorilor impozabile, a impozitelor și taxelor locale și a altor taxe asimilate, a taxelor pentru ocuparea temporară a domeniului public/privat al orașului Nădlac, precum și a amenzilor aplicabile pentru anul fiscal 2019",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2018-2/",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2018/h160.pdf",
+     "sha256": "6e0bdcc71a1f4a81a6a0d4500911656ddc07a18b2d533b3f08657c378fc5ae05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-161-2018",
+   "path": "local/arad/nadlac/2018/161",
+   "short": "HCL Nădlac nr. 161/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 161/2018 privind aprobarea taxelor speciale aplicabile în anul fiscal 2019",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2018-2/",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2018/h161.pdf",
+     "sha256": "5749a299a8849feee6019ef88f393ac0c48fb027b929361a961b613c2af04ab1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-20-2018",
+   "path": "local/arad/nadlac/2018/20",
+   "short": "HCL Nădlac nr. 20/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 20/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2018/h20.pdf",
+     "sha256": "350634b443defb5b3bb80dbd3bfcd55ed0d2654a83b3a154c8c37eeca4477dcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-45-2018",
+   "path": "local/arad/nadlac/2018/45",
+   "short": "HCL Nădlac nr. 45/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 45/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-03-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2018/h45.pdf",
+     "sha256": "18de09d6bc88163441b86404b4e9953d202883e13d4b9b70626cd6c5e1e84b17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-48-2018",
+   "path": "local/arad/nadlac/2018/48",
+   "short": "HCL Nădlac nr. 48/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 48/2018 privind aprobarea PUZ și RLU pentru Construire supermarket P+1 și acces carosabil din str. Independenței",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2018-2/",
+   "versions": [
+    {
+     "from": "2018-03-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2018/h48.pdf",
+     "sha256": "50be52b473bb1a312db28e200f5e8c37de705a51b4279af900a489b154ad847b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-6-2018",
+   "path": "local/arad/nadlac/2018/6",
+   "short": "HCL Nădlac nr. 6/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 6/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-01-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2018/h6.pdf",
+     "sha256": "943ee44314ba881a79b6ebab29ab90903bdc0f5477e1ab9d17c9e0251a31902b"
+    }
+   ]
+  }
+ ]
+}

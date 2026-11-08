@@ -3,6 +3,231 @@
  "shard": "local/gorj/rovinari/2022",
  "acts": [
   {
+   "slug": "hcl-gorj--rovinari-11-2022",
+   "path": "local/gorj/rovinari/2022/11",
+   "short": "HCL Rovinari nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 11/2022 privind aprobarea Regulamentului de acordare a unor drepturi financiare sportivilor de performanță legitimați la Clubul Sportiv ,JIUL Rovinari 2016″ pentru anul 2022 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.11_din_27.01.2022.pdf",
+     "sha256": "d42c097c415b7704c3b8b704552fcf6be92836f3a4dac762196b7cae40d6c137"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-115-2022",
+   "path": "local/gorj/rovinari/2022/115",
+   "short": "HCL Rovinari nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 115/2022 privind aprobarea Regulamentului privind criteriile de repartizare a locuințelor sociale din blocul B2 din orașul Rovinari, județul Gorj și constituirea comisiei de analiză a solicitărilor de locuințe sociale Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.115_din_22.06.2022.pdf",
+     "sha256": "4db2912989b325633b949a3049f2d56a7fda8e576422bf41091e144497e090e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-122-2022",
+   "path": "local/gorj/rovinari/2022/122",
+   "short": "HCL Rovinari nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 122/2022 privind îndreptarea erorii materiale din Anexa 1, art.465- Calculul impozitului/taxei pe teren, alin.2, coloana 9, din Hotărârea Consiliului Local nr.205/2021 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.122_din_29.06.2022.pdf",
+     "sha256": "586f9701dfe1f0eb3b1aea1e8b4bc26c9bdd9ed70265c228575b1ddf276e490a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-148-2022",
+   "path": "local/gorj/rovinari/2022/148",
+   "short": "HCL Rovinari nr. 148/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 148/2022 privind completarea și modificarea Hotărârii Consiliului Local Rovinari nr.95/23.05.2022 privind aprobarea depunerii cererii de finanțare și a valorii totale a proiectului pentru obiectivul de investiții „Elaborarea în format GIS a Planului de Mobilitate Urbană Durabilă a orașului Rovinari” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.148_din_29.08.2022.pdf",
+     "sha256": "666e72e9d6978cfe5cb22c726fc4955b58630b18e283a437383554fdadf22300"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-154-2022",
+   "path": "local/gorj/rovinari/2022/154",
+   "short": "HCL Rovinari nr. 154/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 154/2022 privind completarea anexei nr.1363/14.01.2021 a Hotararii Consiliului Local Rovinari nr.8/27.01.2021 privind stabilirea și sancționarea faptelor ce constituie contravenții pe raza orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.154_din_30.08.2022.pdf",
+     "sha256": "214862ccf5219b82fb90ece7372876752fce71dfccd7396d3f95038fb07fbf04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-165-2022",
+   "path": "local/gorj/rovinari/2022/165",
+   "short": "HCL Rovinari nr. 165/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 165/2022 privind aprobarea Regulamentului privind instituirea și administrarea taxei speciale de salubrizare pentru utilizatori casnici și pentru utilizatori non-casnici pe raza orașului Rovinari Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.165_din_30.08.2022.pdf",
+     "sha256": "5d9efbc3c34a2a9c936b88ea448f180dcf1701801ff00a5aaec05043d5b19c21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-177-2022",
+   "path": "local/gorj/rovinari/2022/177",
+   "short": "HCL Rovinari nr. 177/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 177/2022 privind aprobarea Planului Urbanistic Zonal pentru „Construirea unui Parc Fotovoltaic cu o putere instalată de cca 110 MW- Halda interioară Rovinari-Est Cariera Rovinari, incinta 2_6 oraș Rovinari, județul Gorj”, beneficiar Societatea Complexul Energetic Oltenia S.A Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.177_din_14.09.2022.pdf",
+     "sha256": "668e5383b5ed711ca5ae65faa64b32f7cc6e3908fdb196b2eaf8bf017d92e097"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-205-2022",
+   "path": "local/gorj/rovinari/2022/205",
+   "short": "HCL Rovinari nr. 205/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 205/2022 privind stabilirca cotelor procentuale de calcul a impozitului pe clădirile rezidențiale și nerezidențiale pentru anul 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-09-28",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.205_din_28.09.2022.pdf",
+     "sha256": "b438867486630d7fa09e36776d90a661e6fa08bc9ed5e11c9e236494468b938d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-226-2022",
+   "path": "local/gorj/rovinari/2022/226",
+   "short": "HCL Rovinari nr. 226/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 226/2022 privind modificarea Regulamentului de acordare a unor drepturi financiare sportivilor de performanță legitimați la Clubul Sportiv „JIUL Rovinari 2016” pentru anul 2022 și a anexei nr.2 la regulament, aprobate prin Hotărârea Consiliului local Rovinari nr.11/27.01.2022 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.226_din_25.10.2022.pdf",
+     "sha256": "38b299a9f2473baca857c3a255f59c76a47e1c574b0bcdb64ac741c05c50e1e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-242-2022",
+   "path": "local/gorj/rovinari/2022/242",
+   "short": "HCL Rovinari nr. 242/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 242/2022 privind aprobarea Planului Urbanistic Zonal pentru „Construirea unui parc Fotovoltaic cu o putere instalată de cca 75 MW pe depozitul de zgură și cenușa Cicani Vest și Beterega 1+11 din cadrul Sucursalei Electrocentrale Rovinari, jud.Gorj”, beneficiar Societatea Complexul Energetic Oltenia S.A Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.242_din_24.11.2022.pdf",
+     "sha256": "c51232e1befd82f939e24e908f31fca80adce90e4f4e8020cef83e8965125268"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-248-2022",
+   "path": "local/gorj/rovinari/2022/248",
+   "short": "HCL Rovinari nr. 248/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 248/2022 privind stabilirea nivelurilor pentru valorile impozabile, prevăzute pentru autovehiculele de transport de marfă cu masa totală autorizată egală sau mai mare de 12 tone, impozitul pe mijloacele de transport, precum și în cazul unei combinații de autovehicule, un autovehicul articulat sau tren rutier, de transport de marfă cu masa totală maximă autorizată egală sau mai mare de 12 tone, pentru anul",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.248_din_24.11.2022.pdf",
+     "sha256": "d7c0ed336937121d2c34ebffee9967e29007abe33681cf258409a79090884014"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-259-2022",
+   "path": "local/gorj/rovinari/2022/259",
+   "short": "HCL Rovinari nr. 259/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 259/2022 privind stabilirea nivelurilor pentru valorile impozabile, impozite și taxe locale pentru anul 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.259_din_21.12.2022.pdf",
+     "sha256": "073f95c30bb3c8dc7dde68896423e671ccb897f19b92f417b49669802a9041e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-261-2022",
+   "path": "local/gorj/rovinari/2022/261",
+   "short": "HCL Rovinari nr. 261/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 261/2022 privind scutirea la plata impozitului pentru clădirile și terenurile utilizate de către organizațiile nonprofit folosite exclusiv pentru activitățile fără scop lucrativ Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.261_din_21.12.2022.pdf",
+     "sha256": "5f8902fa8940ae7f8d8a4bccea6de3b57357743b73ac4a6e7723d811dbec02af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-39-2022",
+   "path": "local/gorj/rovinari/2022/39",
+   "short": "HCL Rovinari nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 39/2022 privind prelungirea termenului de valabilitate al Planului Urbanistic General Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.39_din_23.02.2022.pdf",
+     "sha256": "580e07fb2511e803eb99978fa81c355d919f13448356231f3f5723f6d423dd33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-40-2022",
+   "path": "local/gorj/rovinari/2022/40",
+   "short": "HCL Rovinari nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 40/2022 privind aprobarea inițierii procedurii de reactualizare a Planului Urbanistic General al Orașului Rovinari și a caietului de sarcini pentru reactualizarea acestuia Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.40_din_23.02.2022.pdf",
+     "sha256": "8ee079bfca11ddb2db7362c7a9a2e393788545888a671ebeea67bf112ac1120b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-7-2022",
    "path": "local/gorj/rovinari/2022/7",
    "short": "HCL Rovinari nr. 7/2022",
@@ -14,6 +239,36 @@
      "units": 1,
      "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.7_din_27.01.2022.pdf",
      "sha256": "431095d6605bd4266383ef0b903f165973be0c16037b0e3a0dbf6228bad445cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-76-2022",
+   "path": "local/gorj/rovinari/2022/76",
+   "short": "HCL Rovinari nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 76/2022 privind indexarea impozitelor și taxelor locale pentru anul 2023 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.76_din_19.04.2022.pdf",
+     "sha256": "b14a23fa620b049de5d548128c713a2d8caa7d6d996f1265b6a5aad49c7d60ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-95-2022",
+   "path": "local/gorj/rovinari/2022/95",
+   "short": "HCL Rovinari nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 95/2022 privind aprobarea depunerii cererii de finanțare și a valorii totale a proiectului pentru obiectivul de investiții „Elaborarea în format GIS a Planului de Mobilitate Urbană Durabilă a orașului Rovinari „ Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.95_din_23.05.2022.pdf",
+     "sha256": "084b76bb7d54290d97f442eea5a7cd83ccdfdacfa86331b40c1dbdad5ec13254"
     }
    ]
   }

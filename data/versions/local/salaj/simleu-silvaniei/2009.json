@@ -3,6 +3,36 @@
  "shard": "local/salaj/simleu-silvaniei/2009",
  "acts": [
   {
+   "slug": "hcl-salaj--simleu-silvaniei-21-2009",
+   "path": "local/salaj/simleu-silvaniei/2009/21",
+   "short": "HCL Șimleu Silvaniei nr. 21/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 21/2009 privind aprobarea Regulamentului de autorizare a activităților de comercializare a produselor și serviciilor de piață pe raza orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 24.03.2009; Având în vedere procesul-verbal nr.2249/06.03.2009 de afișare la afișierul Primăriei și de publicare pe pagina web a orașului a proiectu",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2009/page/9/",
+   "versions": [
+    {
+     "from": "2009-03-24",
+     "units": 3,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_021_24032009.pdf",
+     "sha256": "483bd4a63ab5c3214bf01e88a7d5e32bd3898e51cede03d79fcaae5a2dcb06e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-22-2009",
+   "path": "local/salaj/simleu-silvaniei/2009/22",
+   "short": "HCL Șimleu Silvaniei nr. 22/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 22/2009 privind aprobarea Regulamentului de eliberare a autorizațiilor în vederea desfășurării activității de alimentație publică pe raza orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 24.03.2009; Având în vedere procesul-verbal nr.2250/06.03.2009 de afișare la afișierul primăriei și de publicare pe pagina web a orașului a proi",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2009/page/9/",
+   "versions": [
+    {
+     "from": "2009-03-24",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_022_24032009.pdf",
+     "sha256": "d7a631089a7f5c6ff24cb53c1ab6d4d125856781b2c552ab9ba93671695f6838"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-82-2009",
    "path": "local/salaj/simleu-silvaniei/2009/82",
    "short": "HCL Șimleu Silvaniei nr. 82/2009",

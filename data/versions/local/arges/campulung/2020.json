@@ -573,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-14-2020",
+   "path": "local/arges/campulung/2020/14",
+   "short": "HCL Câmpulung nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 14/2020 cu privire la modificarea articolului 19 alin. (1) din Regulamentul pentru parcarea vehiculelor, amenajarea, întreținerea și exploatarea locurilor de parcare cu plată situate în zona centrală a [lunicipiului Câmpulung, aprobat prin HCL nr. 23 din 28.03.2019 și modificat prin HCL 143 din 23.12.2019",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%2014%20din%2027.02.2020.pdf",
+     "sha256": "6b7999af6ad0e1b5eb11799dbba946e6ddac3c27e15a8010f8702d0001af8df8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-140-2020",
    "path": "local/arges/campulung/2020/140",
    "short": "HCL Câmpulung nr. 140/2020",
@@ -1184,6 +1199,21 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%2030%20din%2031.03.2020.pdf",
      "sha256": "cf8c65e29177c087adb863e37e9922d082da3c64008306434a99c20dd97a40d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-31-2020",
+   "path": "local/arges/campulung/2020/31",
+   "short": "HCL Câmpulung nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 31/2020 cu privire la menținerea bonificatiei de 10% aprobată prin HCL nr. 46 / 30.05.2019 pentru plata cu anticipație a impozitelor pe clădiri, terenuri și mijloace de transport prevăzute de art. 462, alin. (2), art. 467, alin. (2), respectiv art. 472, alin. (2) din Legea nr. 227 /2015 privind Codul fiscal, până la data de 30 iunie 2020",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2020/HCL%20nr.%2031%20din%2031.03.2020.pdf",
+     "sha256": "f4b1eab54f7118315e19648e0c15db0dc46fdc96aa7e242823aa2cb10f2576e5"
     }
    ]
   },

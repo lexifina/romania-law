@@ -3,6 +3,36 @@
  "shard": "local/salaj/simleu-silvaniei/2010",
  "acts": [
   {
+   "slug": "hcl-salaj--simleu-silvaniei-11-2010",
+   "path": "local/salaj/simleu-silvaniei/2010/11",
+   "short": "HCL Șimleu Silvaniei nr. 11/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 11/2010 pentru aprobarea Regulamentului privind regimul tranzitării, staționării și parcării autovehiculelor cu masa totală maximă autorizată de peste 3,5 tone pe raza orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședința publică ordinară în data de 24 februarie 2010 ; Având în vedere Adresa nr.90710/2010 a Poliției orașului Șimleu Silvaniei prin care s",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2010/page/10/",
+   "versions": [
+    {
+     "from": "2010-02-24",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_011_24022010.pdf",
+     "sha256": "880d8eeecbeed6f2fd28a5ed49ed554f4e87708a05cda85b1b5bde6c61ee5971"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-20-2010",
+   "path": "local/salaj/simleu-silvaniei/2010/20",
+   "short": "HCL Șimleu Silvaniei nr. 20/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 20/2010 PENTRU CONTENCIOS EDILITAR, GOSPODĂRESC, INTERN SITUATII PRESTAȚII SOCIALE ADMINISTRATIV EVIDENȚA TERITORIULUI, EVIDENTA SI ADMINISTRAREA TAXE LOCALE, CONTABILITATE, COMERCIAL, AUTORITATE ȘI URMĂRIREA INVESTIȚII, TAXE SPECIALE SALARIZARE, PRIVATIZARE DE URGENTA TUTELARĂ DOCUMENTELOR GESTIONAREA PIEȚEI CONTROL ACHIZITII PUBLICE, PATRIMONIULUI, FINANCIAR MANAGEMENTUL",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2010/page/9/",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_020_31032010_A_1.pdf",
+     "sha256": "064ff2cf5b2379bd5815c8af3737835831227d84811e17f0fa68157dd753b5fc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-68-2010",
    "path": "local/salaj/simleu-silvaniei/2010/68",
    "short": "HCL Șimleu Silvaniei nr. 68/2010",

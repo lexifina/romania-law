@@ -3,6 +3,96 @@
  "shard": "local/cluj/viisoara/2025",
  "acts": [
   {
+   "slug": "hcl-cluj--viisoara-14-2025",
+   "path": "local/cluj/viisoara/2025/14",
+   "short": "HCL Viișoara nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 14/2025 privind aprobarea planului de aparare și acoperire a riscurilor al comunei Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/207685",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/207685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-16-2025",
+   "path": "local/cluj/viisoara/2025/16",
+   "short": "HCL Viișoara nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 16/2025 privind aprobarea Acordului de colaborare încheiat pentru realizarea Proiectului „Microbuze electrice pentru elevii din județul Cluj”",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/207693",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/207693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-17-2025",
+   "path": "local/cluj/viisoara/2025/17",
+   "short": "HCL Viișoara nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 17/2025 privind aprobarea programului de măsuri pentru îmbunătățirea activității de gospodărire a comunei Viișoara, județul Cluj pentru anul 2025",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/225010",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/225010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-27-2025",
+   "path": "local/cluj/viisoara/2025/27",
+   "short": "HCL Viișoara nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 27/2025 privind aprobarea deplasării formației de dansuri populare din satul Urca, comuna Viișoara, județul Cluj, în localitatea Saint-Calais, Franța, în perioada 3-8 septembrie 2025",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/225024",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/225024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-28-2025",
+   "path": "local/cluj/viisoara/2025/28",
+   "short": "HCL Viișoara nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 28/2025 privind organizarea evenimentului „Viișoara, un veac de la naștere” împlinirea a 100 de ani de la adoptarea numelui localității „Viișoara”",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/225029",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/225029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-32-2025",
+   "path": "local/cluj/viisoara/2025/32",
+   "short": "HCL Viișoara nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 32/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN LOCALITĂȚILE VIIȘOARA ȘI URCA, COMUNA VIIȘOARA, JUDEȚUL CLUJ”, aprobat pentru finanțare prin Programul național de invesstiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/225046",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/225046",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-36-2025",
    "path": "local/cluj/viisoara/2025/36",
    "short": "HCL Viișoara nr. 36/2025",

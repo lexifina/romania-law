@@ -3,6 +3,138 @@
 "shard": "local/cluj/tureni/2025",
 "acts": [
 {
+"slug": "hcl-cluj--tureni-46-2025",
+"path": "local/cluj/tureni/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 46/2025 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Tureni pentru anul 2025",
+"short": "HCL Tureni nr. 46/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/258150",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--tureni-47-2025",
+"path": "local/cluj/tureni/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 47/2025 privind aprobarea rectificării Listei de Investiții a comunei Tureni pentru anul 2025",
+"short": "HCL Tureni nr. 47/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/258156",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--tureni-48-2025",
+"path": "local/cluj/tureni/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 48/2025 privind aprobarea contului de execuție al bugetului local al comunei Tureni la 30 iunie 2025",
+"short": "HCL Tureni nr. 48/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/258157",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--tureni-50-2025",
+"path": "local/cluj/tureni/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 50/2025 privind modificarea statutului societății Transport Urban Public SRL, precum și numirea membrilor provizorii în Consiliul de administrație al societății",
+"short": "HCL Tureni nr. 50/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/258160",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--tureni-51-2025",
+"path": "local/cluj/tureni/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 51/2025 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Tureni pentru anul 2025",
+"short": "HCL Tureni nr. 51/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/258161",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--tureni-52-2025",
+"path": "local/cluj/tureni/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 52/2025 privind aprobarea rectificării Listei de Investiții a comunei Tureni pentru anul 2025",
+"short": "HCL Tureni nr. 52/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/258162",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-cluj--tureni-54-2025",
 "path": "local/cluj/tureni/2025/54",
 "kind": "local",

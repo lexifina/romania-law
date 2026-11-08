@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/giurgiu/2020",
+"acts": [
+{
+"slug": "hcl-giurgiu--giurgiu-249-2020",
+"path": "local/giurgiu/giurgiu/2020/249",
+"kind": "local",
+"year": "2020",
+"number": "249",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 249/2020 privind rectificarea Anexei la Hotărârea nr.15/23.01.2018 a Consiliului Local al Municipiului Giurgiu privind aprobarea Regulamentului de vânzare a locuințelor construite pentru tineri prin Agenția Națională pentru Locuințe întrunit în ședință extraordinară,",
+"short": "HCL Giurgiu nr. 249/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-07-21",
+"latest": "2020-07-21",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-373-2020",
+"path": "local/giurgiu/giurgiu/2020/373",
+"kind": "local",
+"year": "2020",
+"number": "373",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 373/2020 privind aprobarea completării Hotărârii Consiliului Local nr.262/30.07.2020 privind aprobarea procedurii de decontare a cheltuielilor de transport al elevilor înmatriculați în unitățile de învățământ din Municipiul Giurgiu întrunit în ședință extraordinară,",
+"short": "HCL Giurgiu nr. 373/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2020-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_source": "ocr"
+}
+}
+]
+}

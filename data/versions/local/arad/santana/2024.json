@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/arad/santana/2024",
+ "acts": [
+  {
+   "slug": "hcl-arad--santana-122-2024",
+   "path": "local/arad/santana/2024/122",
+   "short": "HCL Sântana nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 122/2024 privind unele măsuri fiscal- bugetare pentru asigurarea sustenabilității financiare a României pe termen lung; - art. LXIX , Cap. II din OUG nr. 115 din 14.12.2023 privind unele măsuri fiscal-bugetare în domeniul cheltuielilor publice, pentru consolidare fiscală, combaterea evaziunii fiscale, pentru modificarea și completarea unor acte normative, precum și pentru prorogarea unor termene - art.518",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=43",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_122.doc",
+     "sha256": "5a40095ec857ebd54511a5d7f26fe3ca3939e8877574bd6f1f5556596797dc69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-161-2024",
+   "path": "local/arad/santana/2024/161",
+   "short": "HCL Sântana nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 161/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_161.doc",
+     "sha256": "28090d5be8cc63771b7199d40eaf6fc8743a64fb1e9ff48dfe28d5d37e9af55c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-82-2024",
+   "path": "local/arad/santana/2024/82",
+   "short": "HCL Sântana nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 82/2024 PRIVIND ACORDAREA UNUI MANDAT SPECIAL REPREZENTANTULUI CONSILIULUI LOCAL AL ORAȘULUI SÂNTANA ÎN ADUNAREA GENERALĂ A ASOCIAȚILOR ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ DE TRANSPORT PUBLIC ARAD ÎN VEDEREA APROBĂRII MODIFICĂRII METODOLOGIEI PRIVIND APLICAREA MĂSURILOR DE PROTECȚIE SOCIALĂ LA TRANSPORTUL PUBLIC LOCAL PE RAZA TERITORIALĂ A UNITĂȚILOR ADMINISTRATIV- TERITORIALE MEMBRE ALE ASOCIAȚIEI D",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=47",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_82.doc",
+     "sha256": "efea77cbd93747a24406741edd8b580f400b5925aeae5a53619009e35b05d0f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-84-2024",
+   "path": "local/arad/santana/2024/84",
+   "short": "HCL Sântana nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 84/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_84.doc",
+     "sha256": "de252a603cff2fade9a9fc7bb2c127a5a725a1fbf0379833f44e50310491be6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-94-2024",
+   "path": "local/arad/santana/2024/94",
+   "short": "HCL Sântana nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 94/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_94.doc",
+     "sha256": "18a77d16ef84ac48d3d640f37b10ff537b84228b74c6b616abbac4903b941d49"
+    }
+   ]
+  }
+ ]
+}

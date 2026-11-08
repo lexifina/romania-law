@@ -69,6 +69,50 @@
 }
 },
 {
+"slug": "hcl-alba--cugir-174-2025",
+"path": "local/alba/cugir/2025/174",
+"kind": "local",
+"year": "2025",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 174/2025 privind aprobarea Regulamentului pentru transportul public local rutier gratuit al elevilor din învățământul preuniversitar acreditat/autorizat de pe raza administrativ-teritorială a Orașului Cugir în cursul anului școlar 2025-2026 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 26 septembrie 2025; Luând în dezbatere: -Proiectul de hotărâre privi",
+"short": "HCL Cugir nr. 174/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C37/P80",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--cugir-190-2025",
+"path": "local/alba/cugir/2025/190",
+"kind": "local",
+"year": "2025",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 190/2025 privind stabilirea cantităților de masă lemnoasă ce se va recolta în anul 2026 în baza amenajamentului silvic și al prețurilor de referință pe anul 2026 pentru masa lemnoasă care se va recolta din fondul forestier proprietate publică a Orașului Cugir Consiliul Local al orașului Cugir, județul Alba, Întrunit în ședință publică ”ordinară” din data de 23 octombrie 2025; Luând în dezbatere: -Proiectul",
+"short": "HCL Cugir nr. 190/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C37/P60",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-alba--cugir-206-2025",
 "path": "local/alba/cugir/2025/206",
 "kind": "local",

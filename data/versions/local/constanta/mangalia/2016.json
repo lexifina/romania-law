@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mangalia-52-2016",
+   "path": "local/constanta/mangalia/2016/52",
+   "short": "HCL Mangalia nr. 52/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 52/2016",
+   "url": "https://mangalia.ro/2016/10/hcl-nr-5222-09-2016/",
+   "versions": [
+    {
+     "from": "2016-09-22",
+     "units": 1,
+     "source_url": "http://www.mangalia.ro/wp-content/uploads/2016/10/52.pdf",
+     "sha256": "8932b337c953f0fd4734185d7b0cd5f6453056da88278f94732db69a674de262"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-53-2016",
    "path": "local/constanta/mangalia/2016/53",
    "short": "HCL Mangalia nr. 53/2016",

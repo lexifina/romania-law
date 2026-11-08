@@ -3,6 +3,111 @@
  "shard": "local/cluj/mintiu-gherlii/2024",
  "acts": [
   {
+   "slug": "hcl-cluj--mintiu-gherlii-1-2024",
+   "path": "local/cluj/mintiu-gherlii/2024/1",
+   "short": "HCL Mintiu Gherlii nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 1/2024 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare din excedentul bugetului local al anilor precednți și utilizarea unei sume din excedentul bugetului local pe anul 2023 pentru acoperirea temporară a golurilor de casă",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163020",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-13-2024",
+   "path": "local/cluj/mintiu-gherlii/2024/13",
+   "short": "HCL Mintiu Gherlii nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 13/2024 privind aprobarea acordului de parteneriat între comuna Mintiu Gherlii și Biblioteca Județeană ''Octavian Goga'' Cluj în vederea depunerii proiectului ''ClujDigitalHub@BibliotecaTa'' finanțat prin PNRR, în cadrul apelului de proiecte ''Finanțarea bibliotecilor pentru a deveni hub-uri de dezvoltare a competențelor digitale'', Apelul nr. 2",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163041",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-14-2024",
+   "path": "local/cluj/mintiu-gherlii/2024/14",
+   "short": "HCL Mintiu Gherlii nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 14/2024 privind aprobarea devizului general reactualizat și a indicatorilor tehnico-economici, urmare a atribuirii Contractului de lucrări pentru obiectivul de investiții ''Modernizare străzi lot 2 în comuna Mintiu Gherlii, județul Cluj''",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163042",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-16-2024",
+   "path": "local/cluj/mintiu-gherlii/2024/16",
+   "short": "HCL Mintiu Gherlii nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 16/2024 privind indexarea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163046",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-21-2024",
+   "path": "local/cluj/mintiu-gherlii/2024/21",
+   "short": "HCL Mintiu Gherlii nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 21/2024 privind aprobarea variantei electronice revizuite a intravilanului aferent Planului Urbanistic General al Comunei Mintiu Gherlii",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163051",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-22-2024",
+   "path": "local/cluj/mintiu-gherlii/2024/22",
+   "short": "HCL Mintiu Gherlii nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 22/2024 privind buna gospodărire a comunei Mintiu Gherlii",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163052",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-3-2024",
+   "path": "local/cluj/mintiu-gherlii/2024/3",
+   "short": "HCL Mintiu Gherlii nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 3/2024 privind aprobarea rețelei unităților de învățământ care vor funcționa în anul școlar 2024-2025 de pe raza comunei Mintiu Gherlii",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163022",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163022",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--mintiu-gherlii-33-2024",
    "path": "local/cluj/mintiu-gherlii/2024/33",
    "short": "HCL Mintiu Gherlii nr. 33/2024",
@@ -103,6 +208,21 @@
      "from": "2024-12-04",
      "units": 1,
      "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/177391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-4-2024",
+   "path": "local/cluj/mintiu-gherlii/2024/4",
+   "short": "HCL Mintiu Gherlii nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 4/2024 privind aprobarea acordării normei de hrană pentru personalul Poliției Locale Mintiu Gherlii în anul 2024",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163023",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163023",
      "sha256": null
     }
    ]
@@ -298,6 +418,21 @@
      "from": "2025-01-09",
      "units": 1,
      "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/183733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-8-2024",
+   "path": "local/cluj/mintiu-gherlii/2024/8",
+   "short": "HCL Mintiu Gherlii nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 8/2024 privind aprobarea decontării cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale ''Administrație'' din aparatul de specialitate al primarului comunei Mintiu Gherlii și al instituțiilor și serviciilor publice de interes local, înființate în subordinea. coordonarea sau sub autoritatea Consiliului Local al comunei Mintiu Gherlii",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163027",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/163027",
      "sha256": null
     }
    ]

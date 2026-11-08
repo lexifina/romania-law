@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/valea-lui-mihai/2015",
+ "acts": [
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-14-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/14",
+   "short": "HCL Valea lui Mihai nr. 14/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 14/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.014-din-27.02.2015.pdf",
+     "sha256": "a38fb4676013153714d721cc617a3603761b2619ad27c20392ded99896e21d2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-19-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/19",
+   "short": "HCL Valea lui Mihai nr. 19/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 19/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.019-din-27.02.2015.pdf",
+     "sha256": "3eaac8188e7d75c258a4ee53702e082cd587034331a07b965d6922d8b662cb5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-33-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/33",
+   "short": "HCL Valea lui Mihai nr. 33/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 33/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.033-din-29.04.2015.pdf",
+     "sha256": "3f4077516b874a3d74c51957a47f4ff4b1af500e89635bb678f0556d9726782c"
+    }
+   ]
+  }
+ ]
+}

@@ -289,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-340-2016",
+"path": "local/giurgiu/giurgiu/2016/340",
+"kind": "local",
+"year": "2016",
+"number": "340",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 340/2016 privind aprobarea Planului de Mobilitate Urbană Durabilă a Municipiului Giurgiu întrunit în ședință ordinară, - expunerea de motive a Primarului municipiului Giurgiu, înregistrată la nr.36.553/22.09.2016; - raportul de specialitate al Direcției Programe Europene, înregistrat la nr.36.557/22.09.2016; - raportul comisiei pentru administrație publică, juridic și de disciplină; - prevederile Legii nr.52/2003, republicată, privind transparența decizională în administrația publică, cu modificările și completările ulterioare.",
+"short": "HCL Giurgiu nr. 340/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-29",
+"latest": "2016-09-29",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-369-2016",
 "path": "local/giurgiu/giurgiu/2016/369",
 "kind": "local",

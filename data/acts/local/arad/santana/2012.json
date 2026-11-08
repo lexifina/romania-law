@@ -1,0 +1,189 @@
+{
+"country": "RO",
+"shard": "local/arad/santana/2012",
+"acts": [
+{
+"slug": "hcl-arad--santana-10-2012",
+"path": "local/arad/santana/2012/10",
+"kind": "local",
+"year": "2012",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 10/2012",
+"short": "HCL Sântana nr. 10/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-01-17",
+"latest": "2012-01-17",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-23-2012",
+"path": "local/arad/santana/2012/23",
+"kind": "local",
+"year": "2012",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 23/2012",
+"short": "HCL Sântana nr. 23/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-02-21",
+"latest": "2012-02-21",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-24-2012",
+"path": "local/arad/santana/2012/24",
+"kind": "local",
+"year": "2012",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 24/2012 PRIVIND APROBAREA DEPUNERII DECLARATIILOR NOTARIALE FINALE IN VEDEREA REZOLVARII CERERILOR DEPUSE IN BAZA LEGII NR. 15/2003 ETAPA A III A CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Referat Comisia Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala - Prevederile art. 3 si 4 Legii nr. 15/2003 si a Normelor metodologice de aplica",
+"short": "HCL Sântana nr. 24/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-02-21",
+"latest": "2012-02-21",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=311",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-27-2012",
+"path": "local/arad/santana/2012/27",
+"kind": "local",
+"year": "2012",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 27/2012",
+"short": "HCL Sântana nr. 27/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-02-21",
+"latest": "2012-02-21",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-31-2012",
+"path": "local/arad/santana/2012/31",
+"kind": "local",
+"year": "2012",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 31/2012",
+"short": "HCL Sântana nr. 31/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-02-21",
+"latest": "2012-02-21",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-44-2012",
+"path": "local/arad/santana/2012/44",
+"kind": "local",
+"year": "2012",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 44/2012",
+"short": "HCL Sântana nr. 44/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-03-20",
+"latest": "2012-03-20",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-79-2012",
+"path": "local/arad/santana/2012/79",
+"kind": "local",
+"year": "2012",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 79/2012",
+"short": "HCL Sântana nr. 79/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-05-29",
+"latest": "2012-05-29",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-82-2012",
+"path": "local/arad/santana/2012/82",
+"kind": "local",
+"year": "2012",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 82/2012",
+"short": "HCL Sântana nr. 82/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-05-29",
+"latest": "2012-05-29",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

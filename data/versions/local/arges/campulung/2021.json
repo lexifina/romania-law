@@ -2793,6 +2793,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-7-2021",
+   "path": "local/arges/campulung/2021/7",
+   "short": "HCL Câmpulung nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 7/2021 cu privire la modificarea și completarea Hotărârii Consiliului Local nr. 44 din 29.03.2018 și a Hotărârii Consiliului Local nr. 37 din 25.04.2019 privind Regulamentul de atribuire a locurilor de parcare, pentru folosință în parcările de domiciliu aflate pe raza Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2021/HCL%20nr.%207%20din%2028.01.2021.pdf",
+     "sha256": "1b1846ae316477793f7391e7dad388e6702944228b0617c71e61da3079173651"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-71-2021",
    "path": "local/arges/campulung/2021/71",
    "short": "HCL Câmpulung nr. 71/2021",

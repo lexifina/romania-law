@@ -273,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lupeni-166-2018",
+   "path": "local/hunedoara/lupeni/2018/166",
+   "short": "HCL Lupeni nr. 166/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 166/2018 privind aprobarea tarifelor pentru exploatarea Domeniului Schiabil Lupeni",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2018-00003bd6?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-12-13",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/E34B56A096D2DE34C225872C00388BC3/$FILE/HCL-166_13-DECEMBRIE-2018-privind-aprobarea-tarifelor-pentru-exploatarea-Domeniului-Schiabil-Lupeni.pdf",
+     "sha256": "9736e8c1c6e5ab4e85b2da6abc06bbc9402fef67b16da8162fd943b5671e367a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lupeni-167-2018",
    "path": "local/hunedoara/lupeni/2018/167",
    "short": "HCL Lupeni nr. 167/2018",
@@ -284,6 +299,21 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/3B7FDD4904055013C225872C00388DCD/$FILE/HCL-167_13-DECEMBRIE-2018-privind-aprobarea-num%C4%83rului-%C8%99i-cuantumul-burselor-%C8%99colare-care-se-vor-acorda-%C3%AEn-anul-%C8%99colar-2018-2019-%C3%AEn-unit%C4%83%C8%9Biile-de-%C3%AEnv%C4%83%C8%9B%C4%83m%C3%A2nt-din-Municipiul-Lupeni.pdf",
      "sha256": "f40a714ce1600b173d69f9c4b0fac425b2f2baf5a574b039f896b40e67df2c0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-169-2018",
+   "path": "local/hunedoara/lupeni/2018/169",
+   "short": "HCL Lupeni nr. 169/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 169/2018 privind aprobarea documentului POLITICA DE PARCARE A MUNICIPIULUI LUPENI",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2018-00003bd6?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-12-13",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/D44780EE63E89D18C225872C0038A994/$FILE/HCL-169_13-DECEMBRIE-2018-privind-aprobarea-documentului-POLITICA-DE-PARCARE-A-MUNICIPIULUI-LUPENI.pdf",
+     "sha256": "0d8bfe589d4ded5dccbf16e106dc552ba1885976816abb666ad87906e7a20ab4"
     }
    ]
   },
@@ -419,6 +449,21 @@
      "units": 1,
      "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/114C857B482D9654C225872C0038CAA1/$FILE/HCL-179_19-DECEMBRIE-2018-privind-modificarea-HCL-nr.100-2018.pdf",
      "sha256": "ee34410b472edcb93a9578b62e306cbdacaf152cf9dcc0c7a1e804a38ac15929"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lupeni-18-2018",
+   "path": "local/hunedoara/lupeni/2018/18",
+   "short": "HCL Lupeni nr. 18/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 18/2018 privind aprobarea Regulamentului referitor la constituirea dreptului de superficie cu titlu oneros asupra unor terenuri",
+   "url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2018-00003bd6?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-02-27",
+     "units": 1,
+     "source_url": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/36B0D6248DBD1082C225872C00379E06/$FILE/HCL-18_27-FEBRUARIE-2018-privind-aprobarea-Regulamentului-referitor-la-constituirea-dreptului-de-superficie-cu-titlu-oneros-asupra-unor-terenuri.pdf",
+     "sha256": "ad17d46cfb03f2c4c250e528114f797a62feb01794f8e5f996008830014593a3"
     }
    ]
   },

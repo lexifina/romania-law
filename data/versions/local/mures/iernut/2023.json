@@ -3,6 +3,36 @@
  "shard": "local/mures/iernut/2023",
  "acts": [
   {
+   "slug": "hcl-mures--iernut-128-2023",
+   "path": "local/mures/iernut/2023/128",
+   "short": "HCL Iernut nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 128/2023 privind aprobarea Regulamentului pentru implementarea formatului unic al cardului – legitimație de parcare gratuită pentru persoanele cu handicap Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 28.08. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.128-28.08.2023-privind-aprobarea-Regulamentului-pentru-implementarea-formatului-unic-al-cardului-legitimatie-de-parcare-gratuita-pentru-persoanele-cu-handicap.pdf",
+     "sha256": "58ae1e1281615ea04e824a6b439499f89776c140016492969b11283f7d26036a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-155-2023",
+   "path": "local/mures/iernut/2023/155",
+   "short": "HCL Iernut nr. 155/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 155/2023 privind aprobare taxei de închiriere și a Regulamentului de închiriere a utilajului buldoexcavator, cu personal deservent, aflat în patrimoniul Orașul Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 30.10. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.155-30.10.2023-privind-aprobarea-taxei-de-inchiriere-si-a-Regulamentului-de-inchiriere-a-utilajului-buldoexcavator-cu-personal-deservent-aflat-in-patrimoniul-Orasului-Iernut.pdf",
+     "sha256": "fba1f0698b189b58f47089bce07a26ffe0395952d9a89a93ff17a79e8f0f4b25"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--iernut-35-2023",
    "path": "local/mures/iernut/2023/35",
    "short": "HCL Iernut nr. 35/2023",

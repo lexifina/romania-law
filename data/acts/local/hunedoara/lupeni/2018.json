@@ -359,6 +359,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--lupeni-18-2018",
+"path": "local/hunedoara/lupeni/2018/18",
+"kind": "local",
+"year": "2018",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 18/2018 privind aprobarea Regulamentului referitor la constituirea dreptului de superficie cu titlu oneros asupra unor terenuri",
+"short": "HCL Lupeni nr. 18/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-02-27",
+"latest": "2018-02-27",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2018-00003bd6?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--lupeni-20-2018",
 "path": "local/hunedoara/lupeni/2018/20",
 "kind": "local",
@@ -1834,6 +1856,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--lupeni-166-2018",
+"path": "local/hunedoara/lupeni/2018/166",
+"kind": "local",
+"year": "2018",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 166/2018 privind aprobarea tarifelor pentru exploatarea Domeniului Schiabil Lupeni",
+"short": "HCL Lupeni nr. 166/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-12-13",
+"latest": "2018-12-13",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2018-00003bd6?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--lupeni-167-2018",
 "path": "local/hunedoara/lupeni/2018/167",
 "kind": "local",
@@ -1853,6 +1897,28 @@
 "council_name": "Consiliul Local al Municipiului Lupeni",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lupeni-169-2018",
+"path": "local/hunedoara/lupeni/2018/169",
+"kind": "local",
+"year": "2018",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Lupeni nr. 169/2018 privind aprobarea documentului POLITICA DE PARCARE A MUNICIPIULUI LUPENI",
+"short": "HCL Lupeni nr. 169/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-12-13",
+"latest": "2018-12-13",
+"portal": "https://www.municipiullupeni.ro/dm_lupeni/portal.nsf/AllByUNID/hotararile-cl-2018-00003bd6?OpenDocument",
+"council": "hunedoara/lupeni",
+"council_name": "Consiliul Local al Municipiului Lupeni",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {

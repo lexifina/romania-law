@@ -18,6 +18,96 @@
    ]
   },
   {
+   "slug": "hcl-cluj--cojocna-12-2026",
+   "path": "local/cluj/cojocna/2026/12",
+   "short": "HCL Cojocna nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 12/2026 privind organizarea, administrarea și exploatarea pajiștilor permanente pe anul 2026",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/260012",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/260012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-25-2026",
+   "path": "local/cluj/cojocna/2026/25",
+   "short": "HCL Cojocna nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 25/2026 privind modificarea și actualizarea Hotărârii de Consiliu Local Cojocna nr.85/23.12.2025 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/260025",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/260025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-34-2026",
+   "path": "local/cluj/cojocna/2026/34",
+   "short": "HCL Cojocna nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 34/2026 privind aprobarea bugetului local și a programului de investiții pentru anul 2026",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/266552",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/266552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-6-2026",
+   "path": "local/cluj/cojocna/2026/6",
+   "short": "HCL Cojocna nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 6/2026 privind aprobarea Planului de acțiuni și lucrări de interes local, pentru anul 2026, în vederea repartizării persoanelor care trebuie să efectueze muncă în folosul comunității",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/254934",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/254934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-7-2026",
+   "path": "local/cluj/cojocna/2026/7",
+   "short": "HCL Cojocna nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 7/2026 privind aprobarea Programului de măsuri ce vizează îmbunătățirea activității de gospodărire și înfrumusețare a Comunei Cojocna pe anul 2026",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/254935",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/254935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-75-2026",
+   "path": "local/cluj/cojocna/2026/75",
+   "short": "HCL Cojocna nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 75/2026 privind aprobare PLAN URBANISTIC ZONAL pentru obiectivul ”Construire HUB AGROINDUSTRIAL, ÎMPREJMUIRE, AMENAJARE ACCCES, RACORDURI ȘI BRANȘAMENTE UTILITĂȚI”",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/283203",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/283203",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--cojocna-81-2026",
    "path": "local/cluj/cojocna/2026/81",
    "short": "HCL Cojocna nr. 81/2026",

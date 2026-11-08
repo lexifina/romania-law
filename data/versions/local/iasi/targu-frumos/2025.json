@@ -3,6 +3,66 @@
  "shard": "local/iasi/targu-frumos/2025",
  "acts": [
   {
+   "slug": "hcl-iasi--targu-frumos-17-2025",
+   "path": "local/iasi/targu-frumos/2025/17",
+   "short": "HCL Târgu Frumos nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 17/2025 , privind aprobarea necesitatii si oportunitatii pentru aplicarea in cadrul programului de finantare P2: Nord-Est - o regiune mai digitalizată ,OS 1.2 Valorificarea avantajelor digitalizării, în beneficiul cetățenilor, al companiilor, al organizațiilor de cercetare și al autorităților publice, precum si aprobarea contractarii de servicii specializate de consultanță în management",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#92900",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24YvFUlKXV.1rb4V57dzA10.RwhA5ADndO6l0Z11q965/PB.OYreVgK/4605",
+     "sha256": "8b3c65a4499ce623ee740885c13ca64a77ddd062bbb7b2e9b0e9da6bf01d0b4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-22-2025",
+   "path": "local/iasi/targu-frumos/2025/22",
+   "short": "HCL Târgu Frumos nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 22/2025 , privind aprobarea necesitatii si oportunitatii intocmirii documentatiei DALI, precum si contractarea serviciilor specializate de elaborare a documentației tehnico-economice pentru finantarea obiectivului “Modernizare strazi in orasul Targu Frumos \"",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#92905",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24CHAnUDu0/1jYr..FIZzHruLNys4pNDG6jaknL/6BEJXkD2ns4dZJe/4605",
+     "sha256": "392c5dab4404e149727f3b62d761c749d8cb4233b1aaa6d58cffc17c094e9772"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-23-2025",
+   "path": "local/iasi/targu-frumos/2025/23",
+   "short": "HCL Târgu Frumos nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 23/2025 ĂRTÂRE NR. 23 din 10.02.2025, privind aprobarea necesitatii si oportunitatii pentru aplicarea in cadrul programului de finantare Prioritatea 4 – O regiune cu o mobilitate urbană mai durabilă pentru Apelul PR/NE/2025/4/RSO2.8/1/Mobilitate urbană ORAȘE , precum si contractarea serviciilor specializate de consultanță în management și de elaborare a documentației tehnico- economice pentru finantarea obiectivului „Imbunatatirea mobilitatii urbane prin dezvoltarea transportului public si alternativ in orasul Targu Frumos,judetul Iasi”",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#93374",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24iZdi8unJxk6vj7LqHsTaPeB.4ohfOWfwaESbhFqcXLXrCtRrxK91m/4605",
+     "sha256": "439719cbf9bd694464c0111435ca2820e45981668d91660f7a657df9a0fe5c23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-24-2025",
+   "path": "local/iasi/targu-frumos/2025/24",
+   "short": "HCL Târgu Frumos nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 24/2025 , privind aprobarea necesitatii si oportunitatii pentru aplicarea in cadrul programului de finantare Prioritatea 3 „O regiune durabilă, mai prietenoasă cu mediul” pentru apelul PR/NE/2024/3/RSO2.7/1/Spatii verzi Orașe dedicat Orașelor , precum si contractarea serviciilor specializate de consultanță în management și de elaborare a documentației tehnico- economice pentru finantarea obiectivului „Recreere si natura-Infiintarea de zone verzi pentru o comunitate sanatoasa in orasul Targu Frumos”",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#93375",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24iiWv0LKkgqbkccCYWPIQhelkJPcZP76bZwCx8cqg4iMiLkZTzv/Nm/4605",
+     "sha256": "c8c3c144953238090a756bcf9c12fc19729adf9c61331e3230169c2407b3260e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--targu-frumos-29-2025",
    "path": "local/iasi/targu-frumos/2025/29",
    "short": "HCL Târgu Frumos nr. 29/2025",
@@ -93,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--targu-frumos-7-2025",
+   "path": "local/iasi/targu-frumos/2025/7",
+   "short": "HCL Târgu Frumos nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 7/2025 , privind aprobarea Inventarului materiei impozabile pentru anul fiscal 2025 la nivelul orașului Târgu Frumos , Județul Iași",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#92889",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24Qa3potBFDwPfWJUPQaFjsePZGCGSFTYinEVAltbIhS6IG3k3KGP42/4605",
+     "sha256": "f77cc40659542e05a37eaca4324537cae3ae1b6cf4e4a1e7476413a693b0327c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--targu-frumos-81-2025",
    "path": "local/iasi/targu-frumos/2025/81",
    "short": "HCL Târgu Frumos nr. 81/2025",
@@ -104,6 +179,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "9d2e92c2efa4d292c88d2e1fc2b664b7cdbdc5a4496bcfa939c792379f09861c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-9-2025",
+   "path": "local/iasi/targu-frumos/2025/9",
+   "short": "HCL Târgu Frumos nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 9/2025 , privind acordarea normei de hrană în anul 2025 pentru personalul Biroului Poliției Locale din cadrul aparatului de specialitate al Primarului orașului Târgu Frumos, județul Iași",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#92891",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24tuxnZXNGSEh3I4Z2JHyiKekzHl8iHqnqdd3BJi4nPVOIF3samX7iC/4605",
+     "sha256": "3c29ddc9fbbb091a7e467b056428d1d6a221c8abac614864a5780f78c40878fa"
     }
    ]
   }

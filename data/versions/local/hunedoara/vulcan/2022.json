@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/vulcan/2022",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--vulcan-302-2022",
+   "path": "local/hunedoara/vulcan/2022/302",
+   "short": "HCL Vulcan nr. 302/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 302/2022 privind stabilirea taxei speciale de salubrizare pt. anul 2023.pdf",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcluri-impozite-si-taxe-locale-2023-0000fae2?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/87D50647979600E4C225892C0044605B/$FILE/HCL%20302%20DIN%202022-%20privind%20stabilirea%20taxei%20speciale%20de%20%20salubrizare%20pt.%20anul%202023.pdf",
+     "sha256": "aec055cf54b715b04caf636f8e54afd3fb5a32937baee099af815719a54512cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-37-2022",
+   "path": "local/hunedoara/vulcan/2022/37",
+   "short": "HCL Vulcan nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 37/2022 pentru modificarea Hotărârii Consiliului Local nr. 191 /2021 privind stabilirea impozitelor și taxelor locale pe anul 2022",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcluri-impozite-si-taxe-locale-2022-0000d8f6?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 9,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/E26C957416E55893C22587E50031113D/$FILE/HCL%2037%20modificare%20191.pdf",
+     "sha256": "60c6baa9a7451a8abb36fd92c4d41ad6f2ea46b75f623f1706c9b7fc0d0e2c82"
+    }
+   ]
+  }
+ ]
+}

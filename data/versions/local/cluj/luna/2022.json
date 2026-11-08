@@ -3,6 +3,126 @@
  "shard": "local/cluj/luna/2022",
  "acts": [
   {
+   "slug": "hcl-cluj--luna-10-2022",
+   "path": "local/cluj/luna/2022/10",
+   "short": "HCL Luna nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 10/2022 privind rectificarea bugetului de venituri și cheltuieli al Comunei Luna pe anul 2022",
+   "url": "https://emol.ro/luna-cj/registru-hcl/58955",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/58955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-11-2022",
+   "path": "local/cluj/luna/2022/11",
+   "short": "HCL Luna nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 11/2022 privind aprobarea execuției bugetului de venituri și cheltuieli al Comunei Luna pe trimestrul IV al anului 2021",
+   "url": "https://emol.ro/luna-cj/registru-hcl/58956",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/58956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-12-2022",
+   "path": "local/cluj/luna/2022/12",
+   "short": "HCL Luna nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 12/2022 privind indexarea impozitelor si taxelor locale pentru anul fiscal 2023",
+   "url": "https://emol.ro/luna-cj/registru-hcl/58957",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/58957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-2-2022",
+   "path": "local/cluj/luna/2022/2",
+   "short": "HCL Luna nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 2/2022 privind aprobarea bugetului de venituri și cheltuieli al Comunei Luna pentru anul 2022",
+   "url": "https://emol.ro/luna-cj/registru-hcl/50133",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/50133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-21-2022",
+   "path": "local/cluj/luna/2022/21",
+   "short": "HCL Luna nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 21/2022 privind rectificarea bugetului de venituri și cheltuieli al Comunei Luna pe anul 2022",
+   "url": "https://emol.ro/luna-cj/registru-hcl/66426",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/66426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-26-2022",
+   "path": "local/cluj/luna/2022/26",
+   "short": "HCL Luna nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 26/2022 privind aprobarea execuției bugetului de venituri și cheltuieli al Comunei Luna la trimestrul II al anului 2022",
+   "url": "https://emol.ro/luna-cj/registru-hcl/69695",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/69695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-29-2022",
+   "path": "local/cluj/luna/2022/29",
+   "short": "HCL Luna nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 29/2022 privind abrogarea Hotărârii Consiliului Local al Comunei Luna nr. 61/27.09.2019 privind majorarea capitalului social al Societății Tetarom SA prin aport în natură, precum și a Hotărârii Consiliului Local al Comunei Luna nr. 74/13.12.2019 privind majorarea capitalului social al Societății Tetarom SA",
+   "url": "https://emol.ro/luna-cj/registru-hcl/69698",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/69698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-30-2022",
+   "path": "local/cluj/luna/2022/30",
+   "short": "HCL Luna nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 30/2022 privind rectificarea bugetului de venituri și cheltuieli al Comunei Luna pe anul 2022",
+   "url": "https://emol.ro/luna-cj/registru-hcl/71106",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/71106",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--luna-32-2022",
    "path": "local/cluj/luna/2022/32",
    "short": "HCL Luna nr. 32/2022",

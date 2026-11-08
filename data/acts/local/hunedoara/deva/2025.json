@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--deva-8-2025",
+"path": "local/hunedoara/deva/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 8/2025 nr.8 din 20.01.2025 privind aprobarea metodologiei și a listei de proiecte prioritare din Strategia Integrată de Dezvoltare Urbană a Municipiului Deva pentru perioada 2021-2027 finanțabile în cadrul Intervenției Regionale 3.1A Eficiență energetică în clădiri rezidențiale a Programului Regional Vest 2021-2027",
+"short": "HCL Deva nr. 8/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-01-20",
+"latest": "2025-01-20",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P540",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--deva-14-2025",
 "path": "local/hunedoara/deva/2025/14",
 "kind": "local",
@@ -3085,6 +3107,28 @@
 "council_name": "Consiliul Local al Municipiului Deva",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-205-2025",
+"path": "local/hunedoara/deva/2025/205",
+"kind": "local",
+"year": "2025",
+"number": "205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 205/2025 privind aprobarea Regulamentului privind măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri ale autorității deliberative Analizând temeiurile juridice, respectiv: Art.25 alin.2 din Anexa nr.2 la Ordinul nr.25/2021 pentru aprobarea modelului orientativ al statutului unității administrativ-teritoriale, precum și a modelului orientativ al regulamentului de organiza",
+"short": "HCL Deva nr. 205/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/deva-hd/regulament-hcl/",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-150-2015",
+   "path": "local/giurgiu/giurgiu/2015/150",
+   "short": "HCL Giurgiu nr. 150/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 150/2015 privind aprobarea Regulamentului de stabilire și încadrare în categoria imobilelor degradate, neîngrijite și neîntreținute, adoptat în baza Hotărârii Consiliului Local nr.446 din data de 18 decembrie 2014 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-04-22",
+     "units": 5,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/150-imobile-degradate-1.pdf",
+     "sha256": "643851006352b708a01754aacd8ae20ee13e56ed41c8f77459eb18c4821e5e83"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-167-2015",
    "path": "local/giurgiu/giurgiu/2015/167",
    "short": "HCL Giurgiu nr. 167/2015",
@@ -44,6 +59,21 @@
      "units": 1,
      "source_url": "https://primariagiurgiu.ro/storage/formidable/193/184-modific-169-1.pdf",
      "sha256": "4092b23924b5827ae48fac685f5852ae4ae76ee152c84b199171e8ad97f2a017"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-174-2015",
+   "path": "local/giurgiu/giurgiu/2015/174",
+   "short": "HCL Giurgiu nr. 174/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 174/2015 privind modificarea Hotărârii Consiliului Local nr.446 din data de 18 decembrie 2014 privind stabilirea impozitelor și taxelor locale începând cu anul fiscal 2015 și aprobarea taxei pentru eliberarea carnetului de comercializare a produselor din sectorul agricol întrunit în ședință extraordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 4,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/174-impozite-si-taxe-noi-2015-carnet-agricol-1.pdf",
+     "sha256": "e1e06c885c9a2a300c3a1f30f462064d6c15d14fc6ea5585da5c887d1b64d6b0"
     }
    ]
   },

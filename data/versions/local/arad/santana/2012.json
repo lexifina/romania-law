@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/arad/santana/2012",
+ "acts": [
+  {
+   "slug": "hcl-arad--santana-10-2012",
+   "path": "local/arad/santana/2012/10",
+   "short": "HCL Sântana nr. 10/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 10/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0010_2012_01_17.pdf",
+     "sha256": "8cb9243d9dfce17373f9f1e683e75c442a4a82aafb7484684b52526f72219268"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-23-2012",
+   "path": "local/arad/santana/2012/23",
+   "short": "HCL Sântana nr. 23/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 23/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0023_2012_02_21.pdf",
+     "sha256": "213bd326dad1bcfd52cf2e47885bd1d4147b2c574cc941a2d00f4e73fcbbe3e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-24-2012",
+   "path": "local/arad/santana/2012/24",
+   "short": "HCL Sântana nr. 24/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 24/2012 PRIVIND APROBAREA DEPUNERII DECLARATIILOR NOTARIALE FINALE IN VEDEREA REZOLVARII CERERILOR DEPUSE IN BAZA LEGII NR. 15/2003 ETAPA A III A CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Referat Comisia Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala - Prevederile art. 3 si 4 Legii nr. 15/2003 si a Normelor metodologice de aplica",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=311",
+   "versions": [
+    {
+     "from": "2012-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0024_2012_02_21.pdf",
+     "sha256": "9b6a58e63a529cedcaf59e9bd4d2d25ece69b81dc9bf298034ede0c8d1c44807"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-27-2012",
+   "path": "local/arad/santana/2012/27",
+   "short": "HCL Sântana nr. 27/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 27/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0027_2012_02_21.pdf",
+     "sha256": "1bd4bcb7d028594b5b7e3e7076cbd060f2913ea23a0e7082df476aebd0403933"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-31-2012",
+   "path": "local/arad/santana/2012/31",
+   "short": "HCL Sântana nr. 31/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 31/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0031_2012_02_21.pdf",
+     "sha256": "1c987c7fdcbb12caf2b09ef2b11e1bffda53062dccfc2dee706ed099d47fd10f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-44-2012",
+   "path": "local/arad/santana/2012/44",
+   "short": "HCL Sântana nr. 44/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 44/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0044_2012_03_20.pdf",
+     "sha256": "70efa25693d6c1d8a12b5b7221ca84723bcdc57ad3a2e6a4fc7eecf234550200"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-79-2012",
+   "path": "local/arad/santana/2012/79",
+   "short": "HCL Sântana nr. 79/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 79/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0079_2012_05_29.pdf",
+     "sha256": "743ec01e56b579d5b1b8b224fb735facc5a882f2fdaf9a6766bc119013f68bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-82-2012",
+   "path": "local/arad/santana/2012/82",
+   "short": "HCL Sântana nr. 82/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 82/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0082_2012_05_29.pdf",
+     "sha256": "f73a98fa50e246af3232e3285e04bc08f2b3fd58942efa8d38eb7c3b585f8482"
+    }
+   ]
+  }
+ ]
+}

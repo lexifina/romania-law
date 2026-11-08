@@ -3,6 +3,28 @@
 "shard": "local/alba/sebes/2024",
 "acts": [
 {
+"slug": "hcl-alba--sebes-3-2024",
+"path": "local/alba/sebes/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 3/2024 privind aprobarea Regulamentului Concursului de Lectură pentru clasele I-IV - „Laudă semințelor, celor de față și-n veci tuturor!”, din cadrul Festivalului Internațional „Lucian Blaga” Sebeș, 2024",
+"short": "HCL Sebeș nr. 3/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-04",
+"latest": "2024-01-04",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-alba--sebes-8-2024",
 "path": "local/alba/sebes/2024/8",
 "kind": "local",
@@ -22,6 +44,117 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-9-2024",
+"path": "local/alba/sebes/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 9/2024 privind privind aprobarea declanșării procedurii de atribuire a unui număr de 25 (douăzecișicinci) autorizații taxi, privind organizarea și executarea serviciului public de transport în regim de taxi și activității de dispecerat de pe raz",
+"short": "HCL Sebeș nr. 9/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--sebes-14-2024",
+"path": "local/alba/sebes/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 14/2024 privind aprobarea Regulamentului Concursului Național de Creație Literară, Artă Plastică, Traducere și Recitare de Poezie „Laudă semințelor, celor de față și-n veci tuturor”, din cadrul celei de-a XLIV-a ediții a Festivalului Internațional „Lucian Blaga” Sebeș (mai 2024)",
+"short": "HCL Sebeș nr. 14/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-18-2024",
+"path": "local/alba/sebes/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 18/2024 privind aprobarea prețurilor de referință ale masei lemnoase “pe picior” producția anului 2024, pentru masa lemnoasa ce se valorifica prin licitație sau negociere din fondul forestier proprietate publică a Municipiului Sebeș",
+"short": "HCL Sebeș nr. 18/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-34-2024",
+"path": "local/alba/sebes/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 34/2024 privind aprobarea “Tarifelor percepute de către Serviciul Public de Administrarea Patrimoniului Sebeș ”,",
+"short": "HCL Sebeș nr. 34/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-38-2024",
+"path": "local/alba/sebes/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 38/2024 privind modificarea și completarea HCL nr.378/2023 privind aprobarea Regulamentului privind organizarea și executarea serviciului public de transport în regim de taxi și activității de dispecerat de pe raza administrativ- teritorială a M",
+"short": "HCL Sebeș nr. 38/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {
@@ -66,6 +199,28 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-147-2024",
+"path": "local/alba/sebes/2024/147",
+"kind": "local",
+"year": "2024",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 147/2024 privind aprobarea Regulamentului privind repartizarea și închirierea locuințelor din domeniul privat, precum și al locuințelor sociale din Municipiul Sebeș",
+"short": "HCL Sebeș nr. 147/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {
@@ -135,6 +290,50 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-194-2024",
+"path": "local/alba/sebes/2024/194",
+"kind": "local",
+"year": "2024",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 194/2024 pentru aprobarea Regulamentului privind activitățile comerciale desfășurate cu ocazia manifestărilor „Sărbătoarea Orașului",
+"short": "HCL Sebeș nr. 194/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--sebes-262-2024",
+"path": "local/alba/sebes/2024/262",
+"kind": "local",
+"year": "2024",
+"number": "262",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 262/2024 privind aprobarea Regulamentului privind acordarea facilităților de transport pentru elevii școlarizați pe raza administrativ-teritorială a Municipiului Scbeș la transportul public local și metropolitan pentru anul școlar 2024-2025",
+"short": "HCL Sebeș nr. 262/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-alba--sebes-286-2024",
 "path": "local/alba/sebes/2024/286",
 "kind": "local",
@@ -176,6 +375,28 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-298-2024",
+"path": "local/alba/sebes/2024/298",
+"kind": "local",
+"year": "2024",
+"number": "298",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 298/2024 privind aprobarea modificării alin. (1) al Art. 13 din Contractul de atribuire în gestiune delegată a serviciului de transport public local de persoane prin curse regulate în Municipiul Sebeș, nr. 65/35630/14.09.2015 – ”Tarife de transp",
+"short": "HCL Sebeș nr. 298/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-17",
+"latest": "2024-10-17",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "review"
 }
 },
 {
@@ -242,6 +463,51 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-387-2024",
+"path": "local/alba/sebes/2024/387",
+"kind": "local",
+"year": "2024",
+"number": "387",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 387/2024 privind aprobarea prețurilor de referinta ale masei lemnoase “pe picior” producția anului 2025 pentru masa lemnoasă ce se valorifica prin licitație sau negociere din fondul forestier proprietate publica a MUNICIPIULUI SEBES",
+"short": "HCL Sebeș nr. 387/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-395-2024",
+"path": "local/alba/sebes/2024/395",
+"kind": "local",
+"year": "2024",
+"number": "395",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 395/2024 pentru aprobarea modificării HCL nr.378/2023 privind aprobarea Regulamentului privind organizarea și executarea serviciului public de transport în regim de taxi și activității de dispecerat de pe raza administrativ-teritorială a Municip",
+"short": "HCL Sebeș nr. 395/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2024/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "review"
 }
 },
 {

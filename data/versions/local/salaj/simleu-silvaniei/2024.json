@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/simleu-silvaniei/2024",
+ "acts": [
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-20-2024",
+   "path": "local/salaj/simleu-silvaniei/2024/20",
+   "short": "HCL Șimleu Silvaniei nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 20/2024 pentru amenajarea teritoriului și urbanism, administrarea domeniului public și privat al orașului, realizarea lucrărilor publice, protecția mediului, turism, conservarea monumentelor istorice și arhitectură; -Avizul Comisiei juridice și de disciplină, administrație publică locală, apărarea ordinii și liniștii publice, respectarea drepturilor omului, culte și problemele minorităților; În baza preve",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/62/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 7,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2024/02/HCL-nr.-20-din-12.02.2024-dezlipire-cad-55975-teren-Cresa-Balcescu.pdf",
+     "sha256": "188b586f56711d318f005700f860f633fd077fc5f8913c95c2b9f0709a59dcef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-21-2024",
+   "path": "local/salaj/simleu-silvaniei/2024/21",
+   "short": "HCL Șimleu Silvaniei nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 21/2024 pentru amenajarea teritoriului și urbanism, administrarea domeniului public și privat al orașului, realizarea lucrărilor publice, protecția mediului, turism, conservarea monumentelor istorice și arhitectură; -Avizul Comisiei juridice și de disciplină, administrație publică locală, apărarea ordinii și liniștii publice, respectarea drepturilor omului, culte și problemele minorităților; În baza preve",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/62/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 8,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2024/02/HCL-nr.-21-din-12.02.2024-dezlipire-cad-55974-teren-Bl-ANL-Balcescu.pdf",
+     "sha256": "dc5aa2a6e24607da6bddbe8da4c7d76bb7aaa59b199bab3ec1660f2267475eca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-24-2024",
+   "path": "local/salaj/simleu-silvaniei/2024/24",
+   "short": "HCL Șimleu Silvaniei nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 24/2024 privind aprobarea criteriilor pentru acordarea unor ajutoare de urgență precum și a prestațiilor sociale excepționale Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 3087/16.02.2024 a Primarului orașului Șimleu Silvaniei, - Raportul de specialitate nr.3088/16.02.2024 al Direcției de asistență socială, -Avizul Co",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/61/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 8,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2024/03/HCL-nr.-24-din-29.02.2024-aprobare-REGULAMENT-PT-AJUTOR-DE-URGENta-2024.pdf",
+     "sha256": "7cea2d04f93ca4583a5bafdc58adc1dd4a246717e0c0c1b466d5255081cffefe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-27-2024",
+   "path": "local/salaj/simleu-silvaniei/2024/27",
+   "short": "HCL Șimleu Silvaniei nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 27/2024 privind modificarea și actualizarea Regulamentului de Organizare și Funcționare al Aparatului de specialitate al Primarului orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 3358/20.02.2024 al Primarului orașului Șimleu Silvaniei; - Raportul de specialitate nr.3359/20.02.2024 întocmit de",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/61/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 6,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2024/03/HCL-nr.-27-din-29.02.2024-ROF-aparat-primar-2024.pdf",
+     "sha256": "9ace3d47717c976061181cc24dad276fef4c983ae550bbf4fe06109b7964bff6"
+    }
+   ]
+  }
+ ]
+}

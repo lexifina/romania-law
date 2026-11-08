@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-constanta--navodari-58-2021",
+"path": "local/constanta/navodari/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 58/2021 privind constituirea Comisiei Locale de Ordine Publica a Orasului Navodari",
+"short": "HCL Năvodari nr. 58/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-constanta--navodari-63-2021",
 "path": "local/constanta/navodari/2021/63",
 "kind": "local",

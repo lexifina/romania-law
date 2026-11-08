@@ -420,6 +420,73 @@
 "flags": {
 "text_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-arad--nadlac-152-2021",
+"path": "local/arad/nadlac/2021/152",
+"kind": "local",
+"year": "2021",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 152/2021",
+"short": "HCL Nădlac nr. 152/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"title_withheld": "personal_data",
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-187-2021",
+"path": "local/arad/nadlac/2021/187",
+"kind": "local",
+"year": "2021",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 187/2021 privind aprobarea nivelurilor valorilor impozabile, a impozitelor şi taxelor locale şi a altor taxe asimilate, a taxelor pentru ocuparea temporară a domeniului public/privat al orașului Nădlac, precum şi a amenzilor aplicabile pentru anul fiscal 2022",
+"short": "HCL Nădlac nr. 187/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-3/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-188-2021",
+"path": "local/arad/nadlac/2021/188",
+"kind": "local",
+"year": "2021",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 188/2021 privind aprobarea taxelor speciale aplicabile în anul fiscal 2022",
+"short": "HCL Nădlac nr. 188/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-3/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
 }
 ]
 }

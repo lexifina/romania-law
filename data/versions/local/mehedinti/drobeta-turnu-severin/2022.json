@@ -1023,6 +1023,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-207-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/207",
+   "short": "HCL Drobeta-Turnu Severin nr. 207/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 207/2022 nr. 207 din 28.07.2022 privind adiționarea contractului, nr. 17824/2019 de delegare prin concesiune a serviciului public specializat pentru gestionarea câinilor fără stăpân și ecarisaj in Municipiul Drobeta Turnu Severin",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2022",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 4,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/20/hcl-nr-207-privind-aditionarea-contractului-nr.-178242019-de-delegare-prin-concesiune-a-serviciului-public-specializat-pentru-gestionarea-cainilor-fara-stapan-1.pdf",
+     "sha256": "69289a0a006d590873679f9a1581d07b1369a6933e8ca8f652113e6a55d4973e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-215-2022",
    "path": "local/mehedinti/drobeta-turnu-severin/2022/215",
    "short": "HCL Drobeta-Turnu Severin nr. 215/2022",
@@ -1109,6 +1124,21 @@
      "units": 1,
      "source_url": "https://primariadrobeta.ro/storage/formidable/30/hcl-nr-227-din-26-august-2022-sursa-A.pdf",
      "sha256": "4388b5bc613e63ac4d2ec1ee613104885d2cd89b5823b365ea0343f756cd9394"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-231-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/231",
+   "short": "HCL Drobeta-Turnu Severin nr. 231/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 231/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/20/hcl-nr-231-1.pdf",
+     "sha256": "8198121c7f36f4db912ddd6c2a6bbaf454a331c907e9eda98fd7e35ce1286d7b"
     }
    ]
   },

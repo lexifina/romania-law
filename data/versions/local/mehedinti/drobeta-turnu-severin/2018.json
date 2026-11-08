@@ -16,6 +16,21 @@
      "sha256": "8a04277cdf588cbb1ca7eb37ad1fdfd51ab550fecf2f187fcf83de00e1b67a30"
     }
    ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-301-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/301",
+   "short": "HCL Drobeta-Turnu Severin nr. 301/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 301/2018 privind modificarea Hotărârii Consiliului Local nr. 98 /2018 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pe anul 2019",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 7,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-301.pdf",
+     "sha256": "d4d67762c515bacb9a8b9a5ff64e72e69731811a0e1af2d35626af813b590f93"
+    }
+   ]
   }
  ]
 }

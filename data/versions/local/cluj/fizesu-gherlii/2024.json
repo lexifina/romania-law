@@ -3,6 +3,36 @@
  "shard": "local/cluj/fizesu-gherlii/2024",
  "acts": [
   {
+   "slug": "hcl-cluj--fizesu-gherlii-1-2024",
+   "path": "local/cluj/fizesu-gherlii/2024/1",
+   "short": "HCL Fizeșu Gherlii nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 1/2024 privind aprobarea acoperirii definitive a deficitului bugetar al anului 2023, secțiunea de dezvoltare din excedentul bugetar al anului precednt",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/141741",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/141741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--fizesu-gherlii-2-2024",
+   "path": "local/cluj/fizesu-gherlii/2024/2",
+   "short": "HCL Fizeșu Gherlii nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 2/2024 privind aprobarea Rețelei Școlare pentru anul 2024-2025, ce va funcționa pe raza comunei Fizeșu Gherlii, județul Cluj, în baza avizului Inspectoratului Școlar Județean Cluj nr. 13285/21.12.2023",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/141742",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/141742",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--fizesu-gherlii-25-2024",
    "path": "local/cluj/fizesu-gherlii/2024/25",
    "short": "HCL Fizeșu Gherlii nr. 25/2024",
@@ -73,6 +103,21 @@
      "from": "2024-09-10",
      "units": 1,
      "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/168173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--fizesu-gherlii-3-2024",
+   "path": "local/cluj/fizesu-gherlii/2024/3",
+   "short": "HCL Fizeșu Gherlii nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 3/2024 privind aprobarea documentației tehnico-economice - Documentația de avizare a lucrărilor de intervenții (DALI) pentru proiectul ''MODERNIZARE INFRASTRUCTURA RTUTIERA ÎN COMUNA FIZESU GHERLII, JUDEȚUL CLUJ''",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/141743",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/141743",
      "sha256": null
     }
    ]
@@ -228,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--fizesu-gherlii-4-2024",
+   "path": "local/cluj/fizesu-gherlii/2024/4",
+   "short": "HCL Fizeșu Gherlii nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 4/2024 privind implementarea proiectului '' MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN COMUNA FIZEȘU GHERLII, JUDEȚUL CLUJ''",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/141744",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/141744",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--fizesu-gherlii-40-2024",
    "path": "local/cluj/fizesu-gherlii/2024/40",
    "short": "HCL Fizeșu Gherlii nr. 40/2024",
@@ -298,6 +358,66 @@
      "from": "2025-01-08",
      "units": 1,
      "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/181678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--fizesu-gherlii-6-2024",
+   "path": "local/cluj/fizesu-gherlii/2024/6",
+   "short": "HCL Fizeșu Gherlii nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 6/2024 privind însușirea Acordului de cooperare privind organizarea și funcționarea Serviciului Public Audit Intern",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/142419",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/142419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--fizesu-gherlii-7-2024",
+   "path": "local/cluj/fizesu-gherlii/2024/7",
+   "short": "HCL Fizeșu Gherlii nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 7/2024 privind aprobarea punerii la dispoziție cu titlu gratuit a suprafeței de 2.400 mp teren identificat prin nr. Cadastral 51576 Fizesu-Gherlii, aflat în domeniul privat al comunei Fizesu-Gherlii, către Ministerul Agriculturii și Dezvoltării Rurale, prin Autoritatea Administrarea Sistemului Național Antigrindină și de Creștere a Precipitațiilor, în vederea amplasării unui Punct de Lansare a rachetelor antigrindină",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/142420",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/142420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--fizesu-gherlii-8-2024",
+   "path": "local/cluj/fizesu-gherlii/2024/8",
+   "short": "HCL Fizeșu Gherlii nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 8/2024 privind aprobarea Planului de actiuni si lucrari de interes local ,pe anul 2024,ce vor fi efectuate de beneficiarii de venit minim de incluziune ,conform Legiinr.196/2016,cu modificarile ulterioare si de catre persoanele care au de prestat munca in folosul comunitatii ,conform Legii nr.253/2013 , cu modificarile si completarile ulterioare ;",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/142421",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/142421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--fizesu-gherlii-9-2024",
+   "path": "local/cluj/fizesu-gherlii/2024/9",
+   "short": "HCL Fizeșu Gherlii nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 9/2024 privind aprobarea bugetului local de venituri si cheltuieli al comunei Fizesu Gherlii ,pe anul 2024",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/142422",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/142422",
      "sha256": null
     }
    ]

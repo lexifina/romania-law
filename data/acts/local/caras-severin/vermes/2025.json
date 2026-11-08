@@ -3,6 +3,28 @@
 "shard": "local/caras-severin/vermes/2025",
 "acts": [
 {
+"slug": "hcl-caras-severin--vermes-6-2025",
+"path": "local/caras-severin/vermes/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 6/2025 privind aprobarea Programului activităților culturale și educative pe anul 2025, organizate la nivelul comunei Vermeș",
+"short": "HCL Vermeș nr. 6/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/207222",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-caras-severin--vermes-12-2025",
 "path": "local/caras-severin/vermes/2025/12",
 "kind": "local",

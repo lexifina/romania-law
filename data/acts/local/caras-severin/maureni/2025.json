@@ -3,6 +3,28 @@
 "shard": "local/caras-severin/maureni/2025",
 "acts": [
 {
+"slug": "hcl-caras-severin--maureni-20-2025",
+"path": "local/caras-severin/maureni/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măureni nr. 20/2025 privind aprobarea bugetului local al comunei Măureni pentru anul 2025",
+"short": "HCL Măureni nr. 20/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/maureni-cs/registru-hcl/200928",
+"council": "caras-severin/maureni",
+"council_name": "Consiliul Local al Comunei Măureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-caras-severin--maureni-99-2025",
 "path": "local/caras-severin/maureni/2025/99",
 "kind": "local",

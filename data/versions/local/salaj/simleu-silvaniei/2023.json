@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/simleu-silvaniei/2023",
+ "acts": [
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-15-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/15",
+   "short": "HCL Șimleu Silvaniei nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 15/2023 privind aprobarea Regulamentului privind organizarea și desfășurarea activităților comerciale și a serviciilor de piață în orașul Șimleu Silvaniei, județul Sălaj Consiliul Local Șimleu Silvaniei, întrunit în ședință ordinară, Având în vedere: -Referatul de aprobare nr.21478/2022 al Primarul orașului Șimleu Silvaniei -Raportul de specialitate nr.21479/2022 al Compartimentului autorizare activități",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/3/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 6,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/02/HCL-nr.-15-din-31.01.2023-Regulament-autorizare-desfasurare-activ-comerciale.pdf",
+     "sha256": "868557ef33dd54610469003944e0972780e7b99f62003134c598bbc1f1a42fad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-19-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/19",
+   "short": "HCL Șimleu Silvaniei nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 19/2023 privind constituirea la nivelul orașului Șimleu Silvaniei a Comisiei Locale de Ordine Publică și aprobarea Regulamentului de organizare și funcționare al acesteia Consiliul Local Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr.1297/2023 al Primarul orașului Șimleu Silvaniei privind necesitatea constituirii la nivelul orașului Șimleu Silvanie",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/3/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/02/HCL-nr.-19-din-31.01.2023-constiture-Comisie-locala-de-ordine-publica.pdf",
+     "sha256": "375a85b5ec0aa92edbe0ad813117c40475925a40ae273155ddcf3f4c2717ae4d"
+    }
+   ]
+  }
+ ]
+}

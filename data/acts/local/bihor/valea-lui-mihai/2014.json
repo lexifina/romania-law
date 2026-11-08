@@ -1,0 +1,144 @@
+{
+"country": "RO",
+"shard": "local/bihor/valea-lui-mihai/2014",
+"acts": [
+{
+"slug": "hcl-bihor--valea-lui-mihai-16-2014",
+"path": "local/bihor/valea-lui-mihai/2014/16",
+"kind": "local",
+"year": "2014",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 16/2014",
+"short": "HCL Valea lui Mihai nr. 16/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-02-26",
+"latest": "2014-02-26",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-23-2014",
+"path": "local/bihor/valea-lui-mihai/2014/23",
+"kind": "local",
+"year": "2014",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 23/2014",
+"short": "HCL Valea lui Mihai nr. 23/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-03-28",
+"latest": "2014-03-28",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-68-2014",
+"path": "local/bihor/valea-lui-mihai/2014/68",
+"kind": "local",
+"year": "2014",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 68/2014",
+"short": "HCL Valea lui Mihai nr. 68/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-08-29",
+"latest": "2014-08-29",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-98-2014",
+"path": "local/bihor/valea-lui-mihai/2014/98",
+"kind": "local",
+"year": "2014",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 98/2014",
+"short": "HCL Valea lui Mihai nr. 98/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-11-28",
+"latest": "2014-11-28",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-105-2014",
+"path": "local/bihor/valea-lui-mihai/2014/105",
+"kind": "local",
+"year": "2014",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 105/2014",
+"short": "HCL Valea lui Mihai nr. 105/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-11-28",
+"latest": "2014-11-28",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-111-2014",
+"path": "local/bihor/valea-lui-mihai/2014/111",
+"kind": "local",
+"year": "2014",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 111/2014",
+"short": "HCL Valea lui Mihai nr. 111/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-12-30",
+"latest": "2014-12-30",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

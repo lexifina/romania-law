@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/calarasi/2020",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--calarasi-177-2020",
+   "path": "local/calarasi/calarasi/2020/177",
+   "short": "HCL Călărași nr. 177/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Călărași nr. 177/2020 privind indexarea, la nivelul municipiului Călărași, a impozitelor și taxelor locale pentru anul fiscal 2021, cu rata inflației de 3,8%",
+   "url": "https://primariacalarasi.ro/monitorul-oficial-local/documente-si-informatii-financiare/taxe-si-impozite-locale/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://primariacalarasi.ro/storage/2020/12/hcl-177-an-2021.pdf",
+     "sha256": "f5fcdea1f5dcb37161e3a8a4a5cf917e6013f7be75194c213e808b450135ccdf"
+    }
+   ]
+  }
+ ]
+}

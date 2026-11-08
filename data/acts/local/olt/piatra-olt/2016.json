@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/olt/piatra-olt/2016",
+"acts": [
+{
+"slug": "hcl-olt--piatra-olt-35-2016",
+"path": "local/olt/piatra-olt/2016/35",
+"kind": "local",
+"year": "2016",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 35/2016 Cu privire la : stabilirea impozitelor si torelor locale pentru anul2017",
+"short": "HCL Piatra-Olt nr. 35/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-29",
+"latest": "2016-09-29",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

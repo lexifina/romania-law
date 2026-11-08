@@ -3,6 +3,36 @@
  "shard": "local/caras-severin/vermes/2024",
  "acts": [
   {
+   "slug": "hcl-caras-severin--vermes-15-2024",
+   "path": "local/caras-severin/vermes/2024/15",
+   "short": "HCL Vermeș nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 15/2024 privind rectificarea bugetului comunei Vermeș pe anul 2024",
+   "url": "https://emol.ro/vermes-cs/registru-hcl/168490",
+   "versions": [
+    {
+     "from": "2024-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vermes-cs/registru-hcl/168490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--vermes-16-2024",
+   "path": "local/caras-severin/vermes/2024/16",
+   "short": "HCL Vermeș nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 16/2024 privind aprobarea contului de încheiere a exerciţiului bugetar al comunei Vermeş, pe anul 2023",
+   "url": "https://emol.ro/vermes-cs/registru-hcl/168491",
+   "versions": [
+    {
+     "from": "2024-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vermes-cs/registru-hcl/168491",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--vermes-19-2024",
    "path": "local/caras-severin/vermes/2024/19",
    "short": "HCL Vermeș nr. 19/2024",
@@ -13,6 +43,21 @@
      "from": "2024-09-04",
      "units": 1,
      "source_url": "https://emol.ro/vermes-cs/registru-hcl/168494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--vermes-2-2024",
+   "path": "local/caras-severin/vermes/2024/2",
+   "short": "HCL Vermeș nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 2/2024 privind aprobarea utilizării excedentului bugetar pe anul 2023",
+   "url": "https://emol.ro/vermes-cs/registru-hcl/168477",
+   "versions": [
+    {
+     "from": "2024-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vermes-cs/registru-hcl/168477",
      "sha256": null
     }
    ]
@@ -163,6 +208,21 @@
      "from": "2025-02-05",
      "units": 1,
      "source_url": "https://emol.ro/vermes-cs/registru-hcl/190942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--vermes-3-2024",
+   "path": "local/caras-severin/vermes/2024/3",
+   "short": "HCL Vermeș nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 3/2024 privind aprobarea bugetului comunei Vermeș pe anul 2024",
+   "url": "https://emol.ro/vermes-cs/registru-hcl/168478",
+   "versions": [
+    {
+     "from": "2024-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vermes-cs/registru-hcl/168478",
      "sha256": null
     }
    ]

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/gorj/ticleni/2017",
+"acts": [
+{
+"slug": "hcl-gorj--ticleni-47-2017",
+"path": "local/gorj/ticleni/2017/47",
+"kind": "local",
+"year": "2017",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 47/2017 Privind aprobarea comercializării de produse și de servicii, precum și a taxei pentru ocuparea temporară a locurilor publice în perimetrul de organizare și desfășurare a Zilelor Orașului Țicleni – Stadionul Orașului Țicleni",
+"short": "HCL Țicleni nr. 47/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-05-12",
+"latest": "2017-05-12",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2017",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-53-2017",
+"path": "local/gorj/ticleni/2017/53",
+"kind": "local",
+"year": "2017",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 53/2017 Privind aprobarea REGULAMENTULUI DE ORGANIZARE ȘI FUNCȚIONARE și CODUL ETIC al aparatului de specialitate al primarului Orașului Țicleni",
+"short": "HCL Țicleni nr. 53/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-06-29",
+"latest": "2017-06-29",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2017",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-54-2017",
+"path": "local/gorj/ticleni/2017/54",
+"kind": "local",
+"year": "2017",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 54/2017 Privind aprobarea REGULAMENTULUI INTERN al aparatului de specialitate al primarului Orașului Țicleni",
+"short": "HCL Țicleni nr. 54/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-06-29",
+"latest": "2017-06-29",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2017",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

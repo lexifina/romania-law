@@ -3,6 +3,118 @@
 "shard": "local/alba/sebes/2019",
 "acts": [
 {
+"slug": "hcl-alba--sebes-30-2019",
+"path": "local/alba/sebes/2019/30",
+"kind": "local",
+"year": "2019",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 30/2019 privind aprobarea declanșării procedurii de atribuire a unui număr de 6 autorizații taxi",
+"short": "HCL Sebeș nr. 30/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-01-31",
+"latest": "2019-01-31",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-32-2019",
+"path": "local/alba/sebes/2019/32",
+"kind": "local",
+"year": "2019",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 32/2019 privind aprobarea prețurilor de referinta revizuite ale masei lemnoase “pe picior” producția anului 2019 pentru masa lemnoasa ce se valorifica prin licitație sau negociere din fondul forestier proprietate publica a Municipiului Sebes precum și a listei de licitație, a tipului de valorificare și de licitație, a prețurilor de pornire și a pasului de licitare pentru licitația principala din producția anului 2019",
+"short": "HCL Sebeș nr. 32/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-01-31",
+"latest": "2019-01-31",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-59-2019",
+"path": "local/alba/sebes/2019/59",
+"kind": "local",
+"year": "2019",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 59/2019 privind îndreptarea erorii materiale din H.C.L nr.362/2003 privind modificarea Regulamentului de funcționare a cimitirului aprobat prin H.C.L nr.86/1999",
+"short": "HCL Sebeș nr. 59/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-03-11",
+"latest": "2019-03-11",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--sebes-60-2019",
+"path": "local/alba/sebes/2019/60",
+"kind": "local",
+"year": "2019",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 60/2019 privind modificarea Art. 3 și Anexa 23 din Regulamentul privind activitatea de transport în regim de taxi pe raza Municipiului Sebeș aprobat prin H.C.L. nr. 24/2009",
+"short": "HCL Sebeș nr. 60/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-03-28",
+"latest": "2019-03-28",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-83-2019",
+"path": "local/alba/sebes/2019/83",
+"kind": "local",
+"year": "2019",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 83/2019",
+"short": "HCL Sebeș nr. 83/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-04-19",
+"latest": "2019-04-19",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-alba--sebes-91-2019",
 "path": "local/alba/sebes/2019/91",
 "kind": "local",
@@ -22,6 +134,72 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-100-2019",
+"path": "local/alba/sebes/2019/100",
+"kind": "local",
+"year": "2019",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 100/2019 privind aprobarea Regulamentului de Organizarea și Funcționare al Compartimentului asistență medicală comunitară din cadrul Direcției de Asistență Socială Sebeș",
+"short": "HCL Sebeș nr. 100/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-101-2019",
+"path": "local/alba/sebes/2019/101",
+"kind": "local",
+"year": "2019",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 101/2019 privind aprobarea Regulamentului de Organizarea și Funcționare al Compartimentului asistență medicală școlară din cadrul Direcției de Asistență Socială Sebeș",
+"short": "HCL Sebeș nr. 101/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-102-2019",
+"path": "local/alba/sebes/2019/102",
+"kind": "local",
+"year": "2019",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 102/2019 privind aprobarea Regulamentului de Organizarea și Funcționare al Compartimentului medicină dentară din cadrul Direcției de Asistență Socială Sebeș",
+"short": "HCL Sebeș nr. 102/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
 }
 },
 {
@@ -47,6 +225,29 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-138-2019",
+"path": "local/alba/sebes/2019/138",
+"kind": "local",
+"year": "2019",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 138/2019 privind instituirea unor taxe speciale pentru anul 2019 ce vor fi precepute de catre Centrul Cultural Lucian Blaga Sebes",
+"short": "HCL Sebeș nr. 138/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-06-27",
+"latest": "2019-06-27",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-alba--sebes-139-2019",
 "path": "local/alba/sebes/2019/139",
 "kind": "local",
@@ -66,6 +267,28 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-141-2019",
+"path": "local/alba/sebes/2019/141",
+"kind": "local",
+"year": "2019",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 141/2019 privind aprobarea REGULAMENTULUI privind refacerea infrastructurii domeniului public și privat al Municipiului Sebeș",
+"short": "HCL Sebeș nr. 141/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-06-27",
+"latest": "2019-06-27",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
 }
 },
 {
@@ -180,6 +403,28 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-223-2019",
+"path": "local/alba/sebes/2019/223",
+"kind": "local",
+"year": "2019",
+"number": "223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 223/2019 privind aprobarea declanşării procedurii de atribuire a unui număr de 2 (două) autorizaţii taxi",
+"short": "HCL Sebeș nr. 223/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-08-27",
+"latest": "2019-08-27",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-alba--sebes-228-2019",
 "path": "local/alba/sebes/2019/228",
 "kind": "local",
@@ -268,6 +513,28 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-259-2019",
+"path": "local/alba/sebes/2019/259",
+"kind": "local",
+"year": "2019",
+"number": "259",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 259/2019 privind aprobarea modificării alin. (1) al Art. 13 din Contractul de atribuire în gestiune delegată a serviciului de transport public local de persoane prin curse regulate în Municipiul Sebeș, nr. 65/2015 - ” Tarife de transport ” - conform Anexei 1 la prezenta hotărâre",
+"short": "HCL Sebeș nr. 259/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-10-31",
+"latest": "2019-10-31",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-alba--sebes-278-2019",
 "path": "local/alba/sebes/2019/278",
 "kind": "local",
@@ -309,6 +576,29 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-314-2019",
+"path": "local/alba/sebes/2019/314",
+"kind": "local",
+"year": "2019",
+"number": "314",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 314/2019 privind aprobarea prețurilor de referință ale masei lemnoase “pe picior” producția anului 2020 pentru masă lemnoasă ce se valorifică prin licitație sau negociere din fondul forestier proprietate publică a Municipiului Sebeș",
+"short": "HCL Sebeș nr. 314/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-11-28",
+"latest": "2019-11-28",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2019/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
 }
 },
 {

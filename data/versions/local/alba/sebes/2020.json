@@ -3,6 +3,21 @@
  "shard": "local/alba/sebes/2020",
  "acts": [
   {
+   "slug": "hcl-alba--sebes-103-2020",
+   "path": "local/alba/sebes/2020/103",
+   "short": "HCL Sebeș nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 103/2020 privind aprobarea Regulamentului privind funcționarea și exploatarea sistemului de supraveghere video pe raza Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 5,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2020/05/HCL-103.pdf",
+     "sha256": "5f06e2f68ed15b98bbc056766909e49b3fc46861cee674e92e86cbb1101fef64"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-104-2020",
    "path": "local/alba/sebes/2020/104",
    "short": "HCL Sebeș nr. 104/2020",
@@ -48,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-123-2020",
+   "path": "local/alba/sebes/2020/123",
+   "short": "HCL Sebeș nr. 123/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 123/2020 privind aprobarea Metodologiei privind acordarea unui ajutor financiar familiilor pentru plata serviciilor oferite de bonă",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2020/06/HCL-123-buna.pdf",
+     "sha256": "552b05cde775fc62c7b024b739813889660ce3069a39581604bba96dc22fb18a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-148-2020",
+   "path": "local/alba/sebes/2020/148",
+   "short": "HCL Sebeș nr. 148/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 148/2020 privind aprobarea declanșării procedurii de atribuire a unui număr de 13 (treisprezece) autorizații taxi",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2020/06/HCL-148.pdf",
+     "sha256": "bdc68f1d05cd5adb191c388b53642ae0711942b266845b12d8468f837b84e52a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-178-2020",
    "path": "local/alba/sebes/2020/178",
    "short": "HCL Sebeș nr. 178/2020",
@@ -63,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-188-2020",
+   "path": "local/alba/sebes/2020/188",
+   "short": "HCL Sebeș nr. 188/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 188/2020 privind micșorarea prețurilor de referință (Anexele 1-5) a masei lemnoase “pe picior” producția anului 2020 pentru masa lemnoasă ce se valorifică prin licitație sau negociere din fondul forestier proprietate publică a Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2020/08/HCL-188.pdf",
+     "sha256": "f778518e016ad2e9b5b5e16409477364af3528a470a3089f23498ba3a85263cc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-189-2020",
    "path": "local/alba/sebes/2020/189",
    "short": "HCL Sebeș nr. 189/2020",
@@ -74,6 +134,36 @@
      "units": 1,
      "source_url": "http://www.primariasebes.ro/wp-content/uploads/2020/08/HCL-189.pdf",
      "sha256": "98581692376cf827416804c2f2e4066f0d145b1f35e1ef4ffa3651a603a71fe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-209-2020",
+   "path": "local/alba/sebes/2020/209",
+   "short": "HCL Sebeș nr. 209/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 209/2020 privind asigurarea gratuității pentru elevii din Municipiul Sebeș la transportul public local de persoane precum și aprobarea regulamentului de acordare a acestor facilități",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 8,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2020/09/HCL-209.pdf",
+     "sha256": "337a13b50dd28825e5d9527bb827b4aedb8d68f454f7ef82455219a1d629bada"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-236-2020",
+   "path": "local/alba/sebes/2020/236",
+   "short": "HCL Sebeș nr. 236/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 236/2020 privind aprobarea prețurilor de referință ale masei lemnoase “pe picior” producția anului 2021 pentru masă lemnoasă ce se valorifică prin licitație sau negociere din fondul forestier proprietate publică a Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2020/10/HCL-236.pdf",
+     "sha256": "f2e5e4a98d25dc52f53c57284c446448ddc343980fad13329988321856c1ae04"
     }
    ]
   },
@@ -164,6 +254,51 @@
      "units": 1,
      "source_url": "http://www.primariasebes.ro/wp-content/uploads/2020/12/hcl-331.pdf",
      "sha256": "27029ecb15678abb575fea1a937e9e02d5e8214538995f738982bbd8aa30aeef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-40-2020",
+   "path": "local/alba/sebes/2020/40",
+   "short": "HCL Sebeș nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 40/2020 Privind aprobarea Regulamentului Concursului Național de Creație Literară și Artă Plastică „Laudă semințelor, celor de față și-n veci tuturor”, din cadrul celei de-a XL-a ediții a Festivalului Internațional „Lucian Blaga” Sebeș (8-10 mai 2020)",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 4,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2020/02/HCL-40.pdf",
+     "sha256": "a8d1830b710ccec03fba9aa545c1817c80db69216af8350bb1376fdebde86e71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-45-2020",
+   "path": "local/alba/sebes/2020/45",
+   "short": "HCL Sebeș nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 45/2020 cu privire la modificarea și completarea H.C.L. 24/2009 privind aprobarea Regulamentului de transport taxi și Regulamentul de organizare a Activități de dispecerat la transport în regim de taxi pe raza administrativ teritorială a Municipiului Sebeș, cu modificările și completările ulterioare",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 2,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2020/03/hcl-45.pdf",
+     "sha256": "aa9c7d714e88400909e31751ff59fa103b9a4bcdfd393f0f4ec62f5a0046d617"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-91-2020",
+   "path": "local/alba/sebes/2020/91",
+   "short": "HCL Sebeș nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 91/2020 privind modificarea și completarea Regulamentului Concursului Național de Creație Literară și Artă Plastică ,,Laudă semințelor, celor de față și-n veci tuturor,, din cadrul celei de-a XL-a ediții a festivalului Internațional ,,Lucian Bl",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2020/04/HCL-91.pdf",
+     "sha256": "db462f2b4b60a7baf65406a6ef7fc2a3bb1e5f7eb2fdac8f76b072718e2cffe7"
     }
    ]
   }

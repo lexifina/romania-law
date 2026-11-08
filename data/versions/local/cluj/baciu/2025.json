@@ -3,6 +3,21 @@
  "shard": "local/cluj/baciu/2025",
  "acts": [
   {
+   "slug": "hcl-cluj--baciu-104-2025",
+   "path": "local/cluj/baciu/2025/104",
+   "short": "HCL Baciu nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 104/2025 privind aprobarea Amenajamentului Pastoral pentru Comuna Baciu",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/232774",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/232774",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--baciu-108-2025",
    "path": "local/cluj/baciu/2025/108",
    "short": "HCL Baciu nr. 108/2025",
@@ -28,6 +43,21 @@
      "from": "2025-12-02",
      "units": 1,
      "source_url": "https://emol.ro/baciu-cj/registru-hcl/237964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-11-2025",
+   "path": "local/cluj/baciu/2025/11",
+   "short": "HCL Baciu nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 11/2025 privind aprobarea regulamentului pentru utilizarea capelelor mortuare de pe raza Comunei Baciu, stabilirea cuantumului garanției și a penalității pentru predarea cu întârziere a imobilului dat cu titlu gratuit",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216563",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216563",
      "sha256": null
     }
    ]
@@ -298,6 +328,441 @@
      "from": "2025-12-24",
      "units": 1,
      "source_url": "https://emol.ro/baciu-cj/registru-hcl/243950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-13-2025",
+   "path": "local/cluj/baciu/2025/13",
+   "short": "HCL Baciu nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 13/2025 privind însușirea actualizării/revizuirii indicatorilor tehnico-economici pentru obiectivul de investiții „DRUM TRANSREGIO FELEAC TR35-Etapa I Centura Metropolitană TR35 și Drumuri de legătură”, aprobați și eșalonați în Faza I și Faza II prin Hotărârea de Guvern nr.1315/2022 astfel cum au fost actualizați prin Ordinul de Ministru MTI nr.1442/27.07.2023 și Ordinul de Ministru MTI nr.918/09.04.2024",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216569",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-14-2025",
+   "path": "local/cluj/baciu/2025/14",
+   "short": "HCL Baciu nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 14/2025",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216601",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-17-2025",
+   "path": "local/cluj/baciu/2025/17",
+   "short": "HCL Baciu nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 17/2025",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216604",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-22-2025",
+   "path": "local/cluj/baciu/2025/22",
+   "short": "HCL Baciu nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 22/2025 privind aprobarea devizului general actualizat, pentru obiectivul de investiții ”Extindere rețea de canalizare în localitatea Baciu, Comuna Baciu Jud. Cluj”",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216609",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-24-2025",
+   "path": "local/cluj/baciu/2025/24",
+   "short": "HCL Baciu nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 24/2025 privind aprobarea bugetului de venituri si cheltuieli al Comunei Baciu pe anul 2025",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216627",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-25-2025",
+   "path": "local/cluj/baciu/2025/25",
+   "short": "HCL Baciu nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 25/2025",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216628",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-26-2025",
+   "path": "local/cluj/baciu/2025/26",
+   "short": "HCL Baciu nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 26/2025 privind aprobarea planului de analiză și acoperire a riscurilor în Comuna Baciu Jud. Cluj",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216629",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-27-2025",
+   "path": "local/cluj/baciu/2025/27",
+   "short": "HCL Baciu nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 27/2025 privind aprobarea tarifelor pentru anul 2025 la transportul public de călători realizat de Compania de Transport Public Cluj Napoca pentru cetățenii de pe raza Comunei Baciu",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216630",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-31-2025",
+   "path": "local/cluj/baciu/2025/31",
+   "short": "HCL Baciu nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 31/2025 privind aprobarea Regulamentului privind organizarea și desfășurarea licitațiilor publice pentru închirierea domeniului public și privat, terenuri și construcții, aflat în administrarea Consiliului Local al Comunei Baciu,județul Cluj",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216634",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-38-2025",
+   "path": "local/cluj/baciu/2025/38",
+   "short": "HCL Baciu nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 38/2025 privind aprobarea participării Comunei Baciu în cadrul Programului privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216641",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-40-2025",
+   "path": "local/cluj/baciu/2025/40",
+   "short": "HCL Baciu nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 40/2025 privind includerea în domeniul public al comunei Baciu a conductelor, branșamentelor de apă și a racordurilor la canalizare executate pe raza comunei până la data de 31.12.2024",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216677",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-41-2025",
+   "path": "local/cluj/baciu/2025/41",
+   "short": "HCL Baciu nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 41/2025 privind modificarea Regulamentului privind procedura pentru înregistrarea, evidența și radierea vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ-teritorială a Comunei Baciu",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216678",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-42-2025",
+   "path": "local/cluj/baciu/2025/42",
+   "short": "HCL Baciu nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 42/2025 privind aprobarea Regulamentului pentru eliberarea avizului de comerț stradal pe raza Comunei Baciu Jud. Cluj",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216679",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-44-2025",
+   "path": "local/cluj/baciu/2025/44",
+   "short": "HCL Baciu nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 44/2025 privind indexarea impozitelor şi taxelor locale, respectiv actualizarea limitelor amenzilor prevăzute la alin. (3) și (4) ale art.493 din Legea nr.227/2015 privind Codul fiscal, pentru anul 2026, cu rata inflației",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216681",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-45-2025",
+   "path": "local/cluj/baciu/2025/45",
+   "short": "HCL Baciu nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 45/2025 privind aprobarea indicatorilor tehnico-economici și a devizului general al obiectivului de investiții ”Stații de încărcare mașini electrice în cadrul proiectului “Elaborare PUG si PUZ pentru comuna Baciu” , obiectiv finanțat prin contractul de finanțare Nr. 131665 din 21.11.2022 Elaborare PUG și PUZ pentru comuna Baciu",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216682",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-47-2025",
+   "path": "local/cluj/baciu/2025/47",
+   "short": "HCL Baciu nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 47/2025 privind aprobarea documentatiei tehnice aferente lucrării ”Decolmatare Valea Mera în Comuna Baciu , Jud. Cluj",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216684",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-48-2025",
+   "path": "local/cluj/baciu/2025/48",
+   "short": "HCL Baciu nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 48/2025 privind aprobarea indicatorilor tehnico-economici și a devizului general al obiectivului de investiții ” Stații de încărcare mașini electrice în cadrul proiectului “Piste pentru biciclete între Dealu Viilor și Poiana Sântioana, în comuna Baciu, județul Cluj” , obiectiv finanțat prin contractul de finanțare Nr. 141552 din 14.12.2022 ”Piste pentru biciclete intre Dealu Viilor si Poiana Sântioana, în Comuna Baciu, județul Cluj”",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216685",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-49-2025",
+   "path": "local/cluj/baciu/2025/49",
+   "short": "HCL Baciu nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 49/2025 privind acordul de principiu în legătură cu posibilitatea de a participa la cofinanțarea obiectivelor sistemului de distribuție în vederea implementării proiectului cu denumirea \" Dezvoltare sistem de distribuție gaze naturale în localitățile Suceagu, Mera și Rădaia, com. Baciu, județul Cluj\"",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216686",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-50-2025",
+   "path": "local/cluj/baciu/2025/50",
+   "short": "HCL Baciu nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 50/2025 privind încheierea unui contract de dare în folosință gratuită (comodat) între Județul Cluj și UAT Comuna Baciu",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216687",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-53-2025",
+   "path": "local/cluj/baciu/2025/53",
+   "short": "HCL Baciu nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 53/2025 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții \"Extindere rețea de distribuție gaze naturale în localitățile Suceagu, Rădaia și Mera, comuna Baciu, jud. Cluj\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216703",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-54-2025",
+   "path": "local/cluj/baciu/2025/54",
+   "short": "HCL Baciu nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 54/2025 privind aprobarea devizului estimativ și a indicatorilor economici actualizați în vederea delegării gestiunii prin concesiune a Serviciului de iluminat public al Comunei Baciu, Județul Cluj",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216704",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-55-2025",
+   "path": "local/cluj/baciu/2025/55",
+   "short": "HCL Baciu nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 55/2025 privind modificarea contractului de delegare a gestiunii nr.42/29.12.2018, dintre Asociatia Metropolitana de Transport Public Cluj, (AMTPC) si Compania de Transport Public Cluj- Napoca SA, potrivit HCL Floresti nr.43/25.04.2025",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216705",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-58-2025",
+   "path": "local/cluj/baciu/2025/58",
+   "short": "HCL Baciu nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 58/2025 privind aprobarea indicatorilor tehnico-economici și a devizului general al obiectivului de investiții ”Creșterea Eficienței energetice a Infrastructurii de iluminat public în COMUNA BACIU, județul Cluj ( Etapa 2)” , obiectiv finanțat prin contractul de finanțare Nr. 1383/F/GES din 18/12/2023 ”Creșterea Eficienței energetice a Infrastructurii de iluminat public în COMUNA BACIU, județul Cluj ( Etapa 2)”",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216713",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-6-2025",
+   "path": "local/cluj/baciu/2025/6",
+   "short": "HCL Baciu nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 6/2025",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216558",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-67-2025",
+   "path": "local/cluj/baciu/2025/67",
+   "short": "HCL Baciu nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 67/2025 privind aprobarea bugetului de venituri si cheltuieli, rectificat, pe trim. III al anului 2025",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/217261",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/217261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-7-2025",
+   "path": "local/cluj/baciu/2025/7",
+   "short": "HCL Baciu nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 7/2025 privind aprobarea înființării Serviciului de iluminat public stradal fără personalitate juridică și a delegării gestiunii prin concesiune a Serviciului de iluminat public al Comunei Baciu, Județul Cluj, a Studiului de fundamentare a deciziei de delegare a Serviciului Public de Iluminat al Comunei Baciu, Județul Cluj, a Regulamentului de Organizare și funcționare al serviciului de iluminat public, a Caietului de Sarcini, a documentației de atribuire prin procedura simplificată",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/216559",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/216559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-77-2025",
+   "path": "local/cluj/baciu/2025/77",
+   "short": "HCL Baciu nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 77/2025 privind stabilirea taxei de transport pentru autovehiculele cu greutatea maximă autorizată de peste 7,5 tone pe raza Comunei Baciu",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/220564",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/220564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-98-2025",
+   "path": "local/cluj/baciu/2025/98",
+   "short": "HCL Baciu nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 98/2025 privind adoptarea «Regulamentului de organizare și funcționare a terenurilor de sport aflate pe raza Comunei Baciu, județul Cluj» și stabilirea modalităților de punere în aplicare (inclusiv aprobarea tarifelor de utilizare ca serviciu public)",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/232768",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/232768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-99-2025",
+   "path": "local/cluj/baciu/2025/99",
+   "short": "HCL Baciu nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 99/2025 privind aprobarea Regulamentului și stabilirea taxei de închiriere a terenului pentru parcări, garaje sau copertine aflate pe domeniul public sau privat al Comunei Baciu",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/232769",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/232769",
      "sha256": null
     }
    ]

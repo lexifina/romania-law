@@ -498,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-154-2010",
+   "path": "local/arad/santana/2010/154",
+   "short": "HCL Sântana nr. 154/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 154/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0154_2010_12_23.pdf",
+     "sha256": "db62ddbc965cee9aa4d69aa12af7411276f71e71cd1b39269c509853b5348311"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-16-2010",
    "path": "local/arad/santana/2010/16",
    "short": "HCL Sântana nr. 16/2010",

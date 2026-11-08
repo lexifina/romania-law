@@ -3,6 +3,28 @@
 "shard": "local/cluj/turda/2021",
 "acts": [
 {
+"slug": "hcl-cluj--turda-27-2021",
+"path": "local/cluj/turda/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 27/2021 privind aprobarea PUZ/RLU — Înființare parc industrial/logistic NERVIA, amenajare acces, cu scoaterea din circuitul agricol a terenului suport acestor incinte și introducerea în teritoriu intravilan în tarlalele 85-86 municipiul Turda cu acces din str.Câmpiei Consiliul Local al Municipiului Turda întrunit în ședința ordinară din data 28.01.2021; Luând în dezbatere proiectul de hotărâre privind apr",
+"short": "HCL Turda nr. 27/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://primariaturda.ro/hotararea-nr-27-privind-aprobarea-puz-rlu-infiintare-parc-industrial-logistic-nervia-amenajare-acces-cu-scoaterea-din-circuitul-agricol-a-terenului-suport-acestor-incinte-si-introducerea/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--turda-29-2021",
 "path": "local/cluj/turda/2021/29",
 "kind": "local",
@@ -22,6 +44,28 @@
 "council_name": "Consiliul Local al Municipiului Turda",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-35-2021",
+"path": "local/cluj/turda/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 35/2021 pentru aprobarea Procedurii privind cesiunea creanțelor bugetare datorate de debitorii aflați în procedura insolvenței în temeiul art. 2641 din Legea 207/2015 privind Codul de Procedură Fiscală, cu modificările și completările ulterioare Consiliul Local al municipiului Turda întrunit în ședința ordinară din data de 25.02.2021; Luând în dezbatere proiectul de hotărâre pentru aprobarea Procedurii pr",
+"short": "HCL Turda nr. 35/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://primariaturda.ro/hotararea-nr-35-pentru-aprobarea-procedurii-privind-cesiunea-creantelor-bugetare-datorate-de-debitorii-aflati-in-procedura-insolventei-in-temeiul-art-2641-din-legea-207-2015-privind-codul-de-proced/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {
@@ -47,6 +91,29 @@
 }
 },
 {
+"slug": "hcl-cluj--turda-59-2021",
+"path": "local/cluj/turda/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 59/2021",
+"short": "HCL Turda nr. 59/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": null,
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--turda-143-2021",
 "path": "local/cluj/turda/2021/143",
 "kind": "local",
@@ -69,6 +136,72 @@
 }
 },
 {
+"slug": "hcl-cluj--turda-157-2021",
+"path": "local/cluj/turda/2021/157",
+"kind": "local",
+"year": "2021",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 157/2021 privind aprobarea solicitării referitoare la elaborarea PUZ/RLU Reglementare urbanistică ca zonă rezidențială a zonei prelungirea str",
+"short": "HCL Turda nr. 157/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://primariaturda.ro/hotararea-nr-157-privind-aprobarea-solicitarii-referitoare-la-elaborarea-puz-rlu-reglementare-urbanistica-ca-zona-rezidentiala-a-zonei-prelungirea-str-mihai-viteazu-cu-introducere-terenuri-in-intra/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-158-2021",
+"path": "local/cluj/turda/2021/158",
+"kind": "local",
+"year": "2021",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 158/2021 privind aprobarea solicitării referitoare la elaborarea PUZ/RLU Reglementare urbanistică ca zonă rezidențială a zonei prelungirea str. Agârbiceanu, cu introducere terenuri în intravilan, UAT Turda, județul Cluj, ca și documentație de urbanism de interes public general Consiliul Local al Municipiului Turda întrunit în ședința ordinară din data 30.09.2021; Luând în dezbatere proiectul de hotărâre pr",
+"short": "HCL Turda nr. 158/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://primariaturda.ro/hotararea-nr-158-privind-aprobarea-solicitarii-referitoare-la-elaborarea-puz-rlu-reglementare-urbanistica-ca-zona-rezidentiala-a-zonei-prelungirea-str-agarbiceanu-cu-introducere-terenuri-in-intrav/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-171-2021",
+"path": "local/cluj/turda/2021/171",
+"kind": "local",
+"year": "2021",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 171/2021 privind aprobarea tarifului de sortare, operare TMB RADP Cluj-Napoca, transfer și depozitare a deșeurilor la C.M.LD",
+"short": "HCL Turda nr. 171/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-10-13",
+"latest": "2021-10-13",
+"portal": "https://primariaturda.ro/hotararea-nr-171-privind-aprobarea-tarifului-de-sortare-operare-tmb-radp-cluj-napoca-transfer-si-depozitare-a-deseurilor-la-c-m-i-d-cluj/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--turda-176-2021",
 "path": "local/cluj/turda/2021/176",
 "kind": "local",
@@ -88,6 +221,50 @@
 "council_name": "Consiliul Local al Municipiului Turda",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--turda-188-2021",
+"path": "local/cluj/turda/2021/188",
+"kind": "local",
+"year": "2021",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 188/2021 privind aprobarea modificării capitolul VII (Prețuri și tarife privind transportul în regim de taxi), art. 60, alin. (1), din Regulamentul privind organizarea și executarea serviciului public de transport persoane sau bunuri în regim de taxi în municipiul Turda Consiliul Local al municipiului Turda, întrunit în ședința ordinară din data de 25.11.2021, Luând în dezbatere proiectul de hotărâre cu pr",
+"short": "HCL Turda nr. 188/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": null,
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-219-2021",
+"path": "local/cluj/turda/2021/219",
+"kind": "local",
+"year": "2021",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 219/2021 privind aprobarea \"Metodologiei de acordare a granturilor pentru premierea unităților de învățământ preuniversitar cu rezultate deosebite în domeniul performanțelor școlare, respectiv rezultate deosebite obținute la următoarele concursuri: olimpiade școlare (faza internațională), examenul de evaluare națională și examenul de bacalaureat, precum și a sportivilor și a colectivelor tehnice care au ob",
+"short": "HCL Turda nr. 219/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-27",
+"latest": "2021-12-27",
+"portal": "https://primariaturda.ro/hotararea-nr-219-privind-aprobarea-metodologiei-de-acordare-a-granturilor-pentru-premierea-unitatilor-de-invatamant-preuniversitar-cu-rezultate-deosebite-in-domeniul-performantelor-scolare-respect/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
 }
 }
 ]

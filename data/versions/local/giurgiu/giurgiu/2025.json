@@ -3,6 +3,21 @@
  "shard": "local/giurgiu/giurgiu/2025",
  "acts": [
   {
+   "slug": "hcl-giurgiu--giurgiu-193-2025",
+   "path": "local/giurgiu/giurgiu/2025/193",
+   "short": "HCL Giurgiu nr. 193/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 193/2025 privind modificarea Metodologiei privind acordarea/restituirea cardurilor de călătorie pentru elevii înmatriculați în unitățile de învățământ din Municipiul Giurgiu, aprobată prin Hotărârea Consiliului Local nr.214/30.06.2021 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2025-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 3,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/312/HCL-193-din-14.08.2025.pdf",
+     "sha256": "d10c1484069eaa434c8cf54fb6f5f40b38fd42315162bb28aad883264aeba4f6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-460-2025",
    "path": "local/giurgiu/giurgiu/2025/460",
    "short": "HCL Giurgiu nr. 460/2025",

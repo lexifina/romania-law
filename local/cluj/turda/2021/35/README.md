@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Turda nr. 35/2021 pentru aprobarea Procedurii privind cesiunea creanțelor bugetare datorate de debitorii aflați în procedura insolvenței în temeiul art. 2641 din Legea 207/2015 privind Codul de Procedură Fiscală, cu modificările și completările ulterioare Consiliul Local al municipiului Turda întrunit în ședința ordinară din data de 25.02.2021; Luând în dezbatere proiectul de hotărâre pentru aprobarea Procedurii pr
+
+HCL Turda nr. 35/2021 · 1 versions, from 2021-02-25 (latest in force: 2021-02-25) · <https://primariaturda.ro/hotararea-nr-35-pentru-aprobarea-procedurii-privind-cesiunea-creantelor-bugetare-datorate-de-debitorii-aflati-in-procedura-insolventei-in-temeiul-art-2641-din-legea-207-2015-privind-codul-de-proced/>
+
+**Status:** Text withheld: its text names a natural person (honorific), and is not anonymised, so only its metadata is published here; the official text is at the council's record.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-cluj--turda-35-2021` (tags `hcl-cluj--turda-35-2021/<day>`; `python tools/on.py <day> hcl-cluj--turda-35-2021`).
+
+## Decisions made by hand
+
+- HCL Turda nr. 35/2021: listed from Consiliul Local al Municipiului Turda (primariaturda.ro); metadata only for now: its text names a natural person (honorific).
+- HCL Turda nr. 35/2021: dated from 25 February 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Turda nr. 35/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

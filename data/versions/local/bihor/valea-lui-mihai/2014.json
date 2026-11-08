@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/valea-lui-mihai/2014",
+ "acts": [
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-105-2014",
+   "path": "local/bihor/valea-lui-mihai/2014/105",
+   "short": "HCL Valea lui Mihai nr. 105/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 105/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/09/hot.105-din-28.11.2014.pdf",
+     "sha256": "3ea2783dce80ed0c7dea9e41a66a9e45156994f443a8bd47853c6768f519f44d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-111-2014",
+   "path": "local/bihor/valea-lui-mihai/2014/111",
+   "short": "HCL Valea lui Mihai nr. 111/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 111/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/09/hot.111-din-30.12.2014.pdf",
+     "sha256": "73333719ea761e53ede20488c5d3dbfc0f762c1cdce7e353d88e78e7a9bb0707"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-16-2014",
+   "path": "local/bihor/valea-lui-mihai/2014/16",
+   "short": "HCL Valea lui Mihai nr. 16/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 16/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-26",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/09/hot.16-din-26.02.2014.pdf",
+     "sha256": "511ab8b1b934b92c32a5487d6b6ae113129dcfc09e13e98027f170adf3061c52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-23-2014",
+   "path": "local/bihor/valea-lui-mihai/2014/23",
+   "short": "HCL Valea lui Mihai nr. 23/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 23/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-03-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/09/hot.23-din-28.03.2014.pdf",
+     "sha256": "f444521949d15499f7f503ec32f5a34b8f6c59b1d562ec6e211f6480bdd6bad0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-68-2014",
+   "path": "local/bihor/valea-lui-mihai/2014/68",
+   "short": "HCL Valea lui Mihai nr. 68/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 68/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-08-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/09/hot.68-din-29.08.2014.pdf",
+     "sha256": "23198a30d09f5096dbc240b7b521d51af412dd10c4249f259dd7c8a572b3538f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-98-2014",
+   "path": "local/bihor/valea-lui-mihai/2014/98",
+   "short": "HCL Valea lui Mihai nr. 98/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 98/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/09/hot.098-din-28.11.2014.pdf",
+     "sha256": "82381e0c9e35e4419edb60c8852567af4f437ef6c093ecfbd06e09fe76f2251b"
+    }
+   ]
+  }
+ ]
+}

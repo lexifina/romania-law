@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-184-2016",
+   "path": "local/alba/ocna-mures/2016/184",
+   "short": "HCL Ocna Mureș nr. 184/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 184/2016 privind prelungirea, până la data de 01.11.2016 zile a termenului de valabilitate a contractului nr 17960/23.11.2015 încheiat între orașul Ocna Mureș și Universitatea „1 Decembrie 1918” din Alba Iulia, având ca obiect: Servicii de elaborare studiu de coexistență pentru avizare PUG Ocna Mureș, cod CPV 79311108-8-Servicii de elaborare de studii | 10.01.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2016/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2016/hcl-184.pdf",
+     "sha256": "c275687ec7f2b833b90ba2f21c94f789eb3a9b3cc326c94f5e45f6f9e31713fe"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-19-2016",
    "path": "local/alba/ocna-mures/2016/19",
    "short": "HCL Ocna Mureș nr. 19/2016",
@@ -194,6 +209,21 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2016/hcl-019.pdf",
      "sha256": "ae3849ccdc47b319cce9509803fd63d554c364772f574b1e37d6c32d84309b44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-191-2016",
+   "path": "local/alba/ocna-mures/2016/191",
+   "short": "HCL Ocna Mureș nr. 191/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 191/2016 privind aprobarea criteriilor în baza cărora se repartizeaza locuințe convenabile cu chirie din fondul locativ al UAT orașul Ocna Mureș | 10.01.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2016/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2016/hcl-191.pdf",
+     "sha256": "1641b2ce7fc989168e2c5f4f92ba450619bb72477c92d9fae0a526bb5abeed74"
     }
    ]
   },
@@ -303,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-263-2016",
+   "path": "local/alba/ocna-mures/2016/263",
+   "short": "HCL Ocna Mureș nr. 263/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 263/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2016/hcl-263.pdf",
+     "sha256": "3ab96d04adb081cb980bb12eb19155d1deda4f43b98b2e3434e1e9156e323d7a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-27-2016",
    "path": "local/alba/ocna-mures/2016/27",
    "short": "HCL Ocna Mureș nr. 27/2016",
@@ -314,6 +359,21 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2016/hcl-027.pdf",
      "sha256": "048dc917e49713290ac39cdcc8f2ab427d99d49c6fbd6c72949a27428ab2641f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-271-2016",
+   "path": "local/alba/ocna-mures/2016/271",
+   "short": "HCL Ocna Mureș nr. 271/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 271/2016 privind modificarea și completarea Regulamentului de acordare a sporului pentru condiţii periculoase sau vătămătoare personalului din cadrul UAT – ORAŞ OCNA MUREŞ aprobat prin HCLOM nr.275/2015 | 10.01.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2016/",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2016/hcl-271.pdf",
+     "sha256": "e5ca05d3f0593d84734a1065ebe56a79fbcde5555d406d7d24a30cab7ef1ebc7"
     }
    ]
   },

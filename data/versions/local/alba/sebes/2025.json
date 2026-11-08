@@ -3,6 +3,21 @@
  "shard": "local/alba/sebes/2025",
  "acts": [
   {
+   "slug": "hcl-alba--sebes-111-2025",
+   "path": "local/alba/sebes/2025/111",
+   "short": "HCL Sebeș nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 111/2025 pentru aprobarea Regulamentului privind procedura de înregistrare, evidență și radierea vehiculelor de pe raza administrativ-teritorială a Municipiului Sebeș, care nu se supun înmatriculării",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 3,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2025/05/HCL-111-site.pdf",
+     "sha256": "69f4f22ed5ac4370174aa7dff11a3cf55417b3473b805ae5e5841b6b1d22aaca"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-125-2025",
    "path": "local/alba/sebes/2025/125",
    "short": "HCL Sebeș nr. 125/2025",
@@ -78,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-250-2025",
+   "path": "local/alba/sebes/2025/250",
+   "short": "HCL Sebeș nr. 250/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 250/2025 privind aprobarea Regulamentului privind acordarea facilităților de transport pentru elevii școlarizați pe raza administrativ-teritorială a Municipiului Sebeș la transportul public local și metropolitan pentru anul școlar 2025-2026",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 6,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2025/09/hcl-250-site.pdf",
+     "sha256": "84af97c3755f6f4d909b97b08c573e4017cdcbe6b402f743acb90dc729b17aae"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-263-2025",
    "path": "local/alba/sebes/2025/263",
    "short": "HCL Sebeș nr. 263/2025",
@@ -89,6 +119,21 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2025/10/hcl-263-site.pdf",
      "sha256": "9d7c5b991924c9f548c41ed76e946d24d0ed861e6de75d8de8faa612b5d61390"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-3-2025",
+   "path": "local/alba/sebes/2025/3",
+   "short": "HCL Sebeș nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 3/2025 privind aprobarea Regulamentului Concursului Local de Lectură pentru clasele I-IV - „Laudă semințelor, celor de față și-n veci tuturor!”, din cadrul Festivalului Internațional „Lucian Blaga” Sebeș, 2025",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 4,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2025/01/hcl-3-site.pdf",
+     "sha256": "648108ff459d2771e6eb290cdcba7a27a13482056163699895af92307eca3848"
     }
    ]
   },
@@ -138,6 +183,51 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-355-2025",
+   "path": "local/alba/sebes/2025/355",
+   "short": "HCL Sebeș nr. 355/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 355/2025 privind modificarea Capitolului VI din Anexa la HCL nr. 111/2025 pentru aprobarea Regulamentului privind procedura de înregistrare, evidență și radierea vehiculelor de pe raza administrativ-teritorială a Municipiului Sebeș, care nu se s",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2025/12/hcl-355-site.pdf",
+     "sha256": "6cc5a692cda1e75e91f4e84e410fa2c9bfa5c0bfcb63e84564049b3b4ec4b61b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-382-2025",
+   "path": "local/alba/sebes/2025/382",
+   "short": "HCL Sebeș nr. 382/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 382/2025 privind aprobarea prețurilor de referință ale masei lemnoase “pe picior” producția anului 2026 pentru masa lemnoasă ce se valorifică prin licitație sau negociere din fondul forestier proprietate publică a MUNICIPIULUI SEBEȘ",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 4,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2025/12/hcl-382-site.pdf",
+     "sha256": "532636ec79de0d34e2759eb6858e6c49d50151fc83fbf7fcb93f99e9196b7190"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-4-2025",
+   "path": "local/alba/sebes/2025/4",
+   "short": "HCL Sebeș nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 4/2025 privind aprobarea Regulamentului Concursului Național de Creație Literară, Artă Plastică, Traducere și Recitare de Poczie „Laudă semințelor, celor de față și-n veci tuturor!”, din cadrul celei de-a XLV-a ediții a Festivalului Internațional „Lucian Blaga” Sebeș (mai 2025)",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 4,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2025/01/hcl-4-site.pdf",
+     "sha256": "5721a4a8bd5669f392195435ef8317e245b10b44358f9d53be97fee4e4224527"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-415-2025",
    "path": "local/alba/sebes/2025/415",
    "short": "HCL Sebeș nr. 415/2025",
@@ -149,6 +239,81 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2025/12/hcl-415-site.pdf",
      "sha256": "0132e8702b89a1ec8b8eaff26e191791ac2c38eb721d4d0d45cd92be2f1650c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-418-2025",
+   "path": "local/alba/sebes/2025/418",
+   "short": "HCL Sebeș nr. 418/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 418/2025 privind modificarea și completarea HCL 413/2025 privind nivelurile pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și amenzile aplicabile în anul fiscal 2026",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 2,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2026/01/hcl-418-site-2.pdf",
+     "sha256": "f776ecd0e1424bdbb51c432bbceb39d1140fb4d68a0c766b864318fae65a96a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-57-2025",
+   "path": "local/alba/sebes/2025/57",
+   "short": "HCL Sebeș nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 57/2025 Privind aprobarea REGULAMENTULUI PRIVIND COMERCIALIZAREA PRODUSELOR ȘI SERVICIILOR DE PIAȚĂ PE RAZA MUNICIPIULUI SEBEȘ",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 5,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2025/03/HCL-57-site.pdf",
+     "sha256": "8570e01e72e7d5dadebbe2e1b434eb702d776a6572af02fd5b3318d25b041b29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-67-2025",
+   "path": "local/alba/sebes/2025/67",
+   "short": "HCL Sebeș nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 67/2025 privind reducerea impozitului pe clădiri rezidențiale și a impozitului pe teren aferent anului 2026 pentru persoanele fizice care fac dovada a cel puțin trei donări de sânge în cursul anului 2025",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 12,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2025/04/hcl-67.pdf",
+     "sha256": "ac1a140df24ea9e6d8339e629cb44c11cf089d71cda3548f1e99ffef322d1b76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-68-2025",
+   "path": "local/alba/sebes/2025/68",
+   "short": "HCL Sebeș nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 68/2025 privind modificarea și completarea HCL nr.378/2023 privind aprobarea Regulamentului privind organizarea și executarea serviciului public de transport în regim de taxi și activității de dispecerat de pe raza administrativ-teritorială a Mu",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2025/04/hcl-68.pdf",
+     "sha256": "0681c5c1d951c605896f7dabaac8ad5b3005ace2b9a6171bfc4b74d7d2f4acb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-79-2025",
+   "path": "local/alba/sebes/2025/79",
+   "short": "HCL Sebeș nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 79/2025 privind aprobarea indexării valorilor impozabile, impozitelor și taxelor locale și alte taxe asimilate acestora precum și amenzilor aplicabile în anul fiscal 2026, cu rata inflației pentru anul 2024, de 5,6%.",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2025/04/hcl-79.pdf",
+     "sha256": "20f8329a3f4cb8ececd40663fc8a810daa17b2b80e9b6c6a7e775deec0cf3776"
     }
    ]
   }

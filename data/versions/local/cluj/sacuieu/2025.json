@@ -3,6 +3,441 @@
  "shard": "local/cluj/sacuieu/2025",
  "acts": [
   {
+   "slug": "hcl-cluj--sacuieu-10-2025",
+   "path": "local/cluj/sacuieu/2025/10",
+   "short": "HCL Săcuieu nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 10/2025 privind aprobarea Acordului de colaborare pentru asigurarea sustenabilității proiectului „Microbuze electrice pentru elevii din județul Cluj”",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211427",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-11-2025",
+   "path": "local/cluj/sacuieu/2025/11",
+   "short": "HCL Săcuieu nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 11/2025 privind aprobarea participării UAT Comuna Săcuieu la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru incălzirea locuințelor pentru localitățile din zona montană, cu proiectul: Sprijin în vederea achiziționării de aparate pentru incălzirea locuințelor în comuna Săcuieu, județul Cluj",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211428",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-13-2025",
+   "path": "local/cluj/sacuieu/2025/13",
+   "short": "HCL Săcuieu nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 13/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale-facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211430",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-14-2025",
+   "path": "local/cluj/sacuieu/2025/14",
+   "short": "HCL Săcuieu nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 14/2025",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211431",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-15-2025",
+   "path": "local/cluj/sacuieu/2025/15",
+   "short": "HCL Săcuieu nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 15/2025 privind actualizare preț pentru partizile 2896, 2901 și 2092",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211432",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-16-2025",
+   "path": "local/cluj/sacuieu/2025/16",
+   "short": "HCL Săcuieu nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 16/2025 privind aprobarea dezmembrării imobilului cu numărul cadastral 53231 în vederea realizării unui drum de acces",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211433",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-18-2025",
+   "path": "local/cluj/sacuieu/2025/18",
+   "short": "HCL Săcuieu nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 18/2025 privind aprobarea devizului general actualizat pentru obiectivul de investiții „REALIZARE CAPACITATE DE PRODUCERE A ENERGIEI ELECTRICE DIN SURSE REGENERABILE PENTRU AUTOCONSUMUL COMUNEI SĂCUIEU, JUDEȚUL CLUJ” aprobat pentru finanțare din Fondul pentru modernizare",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211435",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-19-2025",
+   "path": "local/cluj/sacuieu/2025/19",
+   "short": "HCL Săcuieu nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 19/2025 privind implementarea proiectului „Sprijin pentru refacerea potențialului forestier afectat de incendii, de fenomene meteorologice nefavorabile care pot fi asimilate unei calamități naturale, de infestări ale plantelor cu organisme dăunătoare, de evenimente catastrofale”, investiția „Campania națională de împădurire și reîmpădurire, inclusiv păduri urbane”, schema de ajutor de stat, componenta C2: Păduri și protecția biodiversetății",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211436",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-20-2025",
+   "path": "local/cluj/sacuieu/2025/20",
+   "short": "HCL Săcuieu nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 20/2025 privind actualizarea Statutului comunei Săcuieu, județul Cluj",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211437",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-22-2025",
+   "path": "local/cluj/sacuieu/2025/22",
+   "short": "HCL Săcuieu nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 22/2025 privind declararea investițiilor: -Modernizare drum de acces la arborele Sequoia -Modernizare drum în satele Rogojel și Visagu -Realizare pista de biciclete de utilitate publica",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211444",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-26-2025",
+   "path": "local/cluj/sacuieu/2025/26",
+   "short": "HCL Săcuieu nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 26/2025 privind reaprobarea indicatorilor tehnico-economici pentru obiectivul de investiții „SISTEM COMUNAL INTEGRAT PENTRU COLECTAREA ȘI VALORIFICAREA GUNOIULUI DE GRAJD ÎN COMUNA SĂCUIEU, JUDEȚUL CLUJ”",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211465",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-27-2025",
+   "path": "local/cluj/sacuieu/2025/27",
+   "short": "HCL Săcuieu nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 27/2025 privind aprobarea Programului anual de măsuri pentru buna gospodărire, întreținere, curățenie și înfrumusețare a comunei Săcuieu în anul 2025",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211477",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-28-2025",
+   "path": "local/cluj/sacuieu/2025/28",
+   "short": "HCL Săcuieu nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 28/2025 privind aprobarea situațiilor financiare la 31.03.2025",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211508",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-29-2025",
+   "path": "local/cluj/sacuieu/2025/29",
+   "short": "HCL Săcuieu nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 29/2025 privind indexarea impozitelor și taxelor locale precum și a taxelor speciale pentru anul 2026 cu rata inflației de 5,6%",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211509",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-3-2025",
+   "path": "local/cluj/sacuieu/2025/3",
+   "short": "HCL Săcuieu nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 3/2025 privind aprobarea documentației tehnico-economice faza PT și a principalilor indicatori tehnico-economici actualizați pentru proiectul „Alimentare cu apă și colectarea apelor uzate în comuna Săcuieu, județul Cluj”",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211420",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-33-2025",
+   "path": "local/cluj/sacuieu/2025/33",
+   "short": "HCL Săcuieu nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 33/2025 privind reaprobarea a indicatorilor tehnico-economici pentru obiectivul de investiții „CONSTRUIRE CENTRU DE ZI PENTRU COPIII AFLAȚI ÎN SITUAȚIE DE RISC DE SEPARARE DE PĂRINȚI ÎN COMUNA SĂCUIEU, JUDEȚUL CLUJ”- după finalizare",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/283406",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/283406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-34-2025",
+   "path": "local/cluj/sacuieu/2025/34",
+   "short": "HCL Săcuieu nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 34/2025 privind reaprobarea a indicatorilor tehnico-economici pentru obiectivul de investiții „ÎNFIINȚAREA UNUI CENTRU DE COLECTARE PRIN APORT VOLUNTAR ÎN COMUNA SĂCUIEU, JUDEȚUL CLUJ”-în urma finalizării achiziților",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/283407",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/283407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-38-2025",
+   "path": "local/cluj/sacuieu/2025/38",
+   "short": "HCL Săcuieu nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 38/2025 privind acordul comunei pentru realizare acces și executare de lucrări pe domeniul public în vederea realizării unui parc eolian de mare capacitate în comuna Săcuieu, județul Cluj",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/283441",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/283441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-39-2025",
+   "path": "local/cluj/sacuieu/2025/39",
+   "short": "HCL Săcuieu nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 39/2025 privind acordul de scoatere temporară din fondul forestier a suprafeței de 9,383 mp din U.A.-41C",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/283443",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/283443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-40-2025",
+   "path": "local/cluj/sacuieu/2025/40",
+   "short": "HCL Săcuieu nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 40/2025 privind aprobare preț material lemnos pentru partizele 2961 și 2956",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/283445",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/283445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-41-2025",
+   "path": "local/cluj/sacuieu/2025/41",
+   "short": "HCL Săcuieu nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 41/2025 privind rectificarea Bugetului Local nr.1 pe anul 2025",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/283451",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/283451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-42-2025",
+   "path": "local/cluj/sacuieu/2025/42",
+   "short": "HCL Săcuieu nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 42/2025 privind acordul comunei realizare lucrări pe domeniul public pentru proiectul - Sistem comunal integrat pentru colectarea și valorificarea gunoiului de grajd, în comuna Săcuieu, județul Cluj",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/283460",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/283460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-43-2025",
+   "path": "local/cluj/sacuieu/2025/43",
+   "short": "HCL Săcuieu nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 43/2025 privind aprobare preț materia lemnos pentru partida 2968 Rachitis",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/283461",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/283461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-5-2025",
+   "path": "local/cluj/sacuieu/2025/5",
+   "short": "HCL Săcuieu nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 5/2025 privind aprobarea situațiilor finaciare la 31.12.2024",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211422",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-50-2025",
+   "path": "local/cluj/sacuieu/2025/50",
+   "short": "HCL Săcuieu nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 50/2025 privind aprobare preț pornire licitație material lemnos",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/283488",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/283488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-55-2025",
+   "path": "local/cluj/sacuieu/2025/55",
+   "short": "HCL Săcuieu nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 55/2025",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/283505",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/283505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-56-2025",
+   "path": "local/cluj/sacuieu/2025/56",
+   "short": "HCL Săcuieu nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 56/2025 privind aprobarea proiectului și a cheltuielilor legate de proiect „AMENAJARE PARC DE AVENTURĂ CARE INCLUDE SANIE DE VARĂ, TIROLIENE, TURN DE ESCALADĂ, PÂRTIE DE SCHI ȘI TUBING SINTETICĂ, CLĂDIRE MULTIFUNCȚIONALĂ ȘI PARCARE ÎN COMUNA SĂCUIEU, JUDEȚUL CLUJ”",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/283506",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/283506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-6-2025",
+   "path": "local/cluj/sacuieu/2025/6",
+   "short": "HCL Săcuieu nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 6/2025 privind aprobarea a indicatorilor tehnico-economici pentru obiectivul de investiții „CONSTRUIRE CENTRU DE ZI PENTRU COPIII AFLAȚI ÎN SITUAȚIE DE RISC DE SEPARARE DE PĂRINȚI ÎN COMUNA SĂCUIEU, JUDEȚUL CLUJ”- FAZA P.T",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211423",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-64-2025",
+   "path": "local/cluj/sacuieu/2025/64",
+   "short": "HCL Săcuieu nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 64/2025 privind aprobarea situațiilor financiare la 30.09.2025",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/283524",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/283524",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--sacuieu-65-2025",
    "path": "local/cluj/sacuieu/2025/65",
    "short": "HCL Săcuieu nr. 65/2025",
@@ -223,6 +658,21 @@
      "from": "2026-08-18",
      "units": 1,
      "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/283619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sacuieu-8-2025",
+   "path": "local/cluj/sacuieu/2025/8",
+   "short": "HCL Săcuieu nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 8/2025 privind utilizarea fondului de rulment (excedent) în anul 2025",
+   "url": "https://emol.ro/sacuieu-cj/registru-hcl/211425",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacuieu-cj/registru-hcl/211425",
      "sha256": null
     }
    ]

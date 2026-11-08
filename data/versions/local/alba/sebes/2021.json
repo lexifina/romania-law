@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-146-2021",
+   "path": "local/alba/sebes/2021/146",
+   "short": "HCL Sebeș nr. 146/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 146/2021 privind aprobarea ,,Tarifelor percepute de către Serviciului Public de Administrarea Patrimoniului Sebeș”",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/06/hcl-146.pdf",
+     "sha256": "3fd7598e0b1fd6166b6aced89c30c1fd3884c56552931c2eba61bf7bb7824f6d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-147-2021",
    "path": "local/alba/sebes/2021/147",
    "short": "HCL Sebeș nr. 147/2021",
@@ -633,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-378-2021",
+   "path": "local/alba/sebes/2021/378",
+   "short": "HCL Sebeș nr. 378/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 378/2021 privind aprobarea prețurilor de referință ale masei lemnoase ,,pe picior” producția anului 2022 pentru masa lemnoasă ce se valorifică prin licitație sau negociere din fondul forestier proprietate publică a Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/12/hcl-378.pdf",
+     "sha256": "5b69c8d0c1b4057aef67ec25a1b77e21f2e24f34a9a25a07c28e3d0300eb8cd3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-383-2021",
    "path": "local/alba/sebes/2021/383",
    "short": "HCL Sebeș nr. 383/2021",
@@ -644,6 +674,51 @@
      "units": 1,
      "source_url": "https://www.primariasebes.ro/wp-content/uploads/2021/12/hcl-383.pdf",
      "sha256": "a118efcba763076080486dd152b3abfbe22801b771466e6627b65d6f811a9f7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-389-2021",
+   "path": "local/alba/sebes/2021/389",
+   "short": "HCL Sebeș nr. 389/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 389/2021 privind aprobarea modificării alin. (1) al Art. 13 din Contractul de atribuire în gestiune delegată a serviciului de transport public local de persoane prin curse regulate în Municipiul Sebeș, nr. 65/2015 - ” Tarife de transport ” - conform Anexei 1 la prezenta hotărâre",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 4,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/01/hcl-389.pdf",
+     "sha256": "6f702ba93dbd44aaabbeb3a38e2e325770c73424005878c9dc13e78353302472"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-393-2021",
+   "path": "local/alba/sebes/2021/393",
+   "short": "HCL Sebeș nr. 393/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 393/2021 privind aprobarea nomenclatorului stradal reactualizat al Municipiului Sebeș, cu localitățile componente Petrești, Lancrăm, Răhău și regulamentul privind zonarea străzilor de pe raza administrativ –teritorială a Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2022/01/hcl-393.pdf",
+     "sha256": "2ee48eb1f81dfdcab800fef00d2c3baa0588bc7a74cf6474b63a29fcf46a8f18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-40-2021",
+   "path": "local/alba/sebes/2021/40",
+   "short": "HCL Sebeș nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 40/2021 Privind aprobarea Regulamentului privind procedura de vânzare a bunurilor imobile (terenuri și construcții) aflate în domeniul privat al Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-40.pdf",
+     "sha256": "3ad222f316a55cdc8d6d7bd052aa1830774320a83c10fb94b622473fc7c8a606"
     }
    ]
   },
@@ -663,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-55-2021",
+   "path": "local/alba/sebes/2021/55",
+   "short": "HCL Sebeș nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 55/2021 privind încetarea aplicabilității HCL nr. 209/2028 privind asigurarea gratuității pentru elevii din Municipiul Sebeș la transportul public local de persoane precum și aprobarea regulamentului de acordare a acestor facilități",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 4,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/02/hcl-55.pdf",
+     "sha256": "b018e91622a74bd56d2961a9eac1564c5530b1c1856624698c6d74dbe7e9ef09"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-65-2021",
    "path": "local/alba/sebes/2021/65",
    "short": "HCL Sebeș nr. 65/2021",
@@ -678,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--sebes-66-2021",
+   "path": "local/alba/sebes/2021/66",
+   "short": "HCL Sebeș nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 66/2021 privind modificarea și completarea HCL nr.325/2020 privind nivelurile pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora precum și amenzile aplicabile în anul fiscal 2021",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-05",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/03/hcl-66.pdf",
+     "sha256": "7536a5a8eda8bd9dc9659626b79f75b8941a8ba440b7b7dce5a4ddfa172fa82d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--sebes-69-2021",
    "path": "local/alba/sebes/2021/69",
    "short": "HCL Sebeș nr. 69/2021",
@@ -689,6 +794,21 @@
      "units": 1,
      "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-69.pdf",
      "sha256": "fd4c548e228816e06a36e10473288dbb61706fc1b5b9c09dfff0c93e7c785f65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-78-2021",
+   "path": "local/alba/sebes/2021/78",
+   "short": "HCL Sebeș nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 78/2021 privind aprobarea completării și modificării Regulamentului de Organizare și Funcționare al Serviciului Public de Administrarea Patrimoniului aprobat prin HCL nr.127/2017",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2021/04/hcl-78.pdf",
+     "sha256": "f7ff8448c5cded60b1c7900ed0a89ab594e7d8bfb6e34e87efe85a88e85e6990"
     }
    ]
   },

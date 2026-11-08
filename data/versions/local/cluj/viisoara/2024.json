@@ -3,6 +3,96 @@
  "shard": "local/cluj/viisoara/2024",
  "acts": [
   {
+   "slug": "hcl-cluj--viisoara-1-2024",
+   "path": "local/cluj/viisoara/2024/1",
+   "short": "HCL Viișoara nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 1/2024 privind aprobarea DOCUMENTAȚIEI DE AVIZARE A LUCRĂRILOR DE INTERVENȚII aferentă proiectului „ MODERNIZARE STRĂZI ÎN COMUNA VIIȘOARA, JUDEȚUL CLUJ”",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/145380",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/145380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-15-2024",
+   "path": "local/cluj/viisoara/2024/15",
+   "short": "HCL Viișoara nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 15/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN LOCALITĂȚILE VIIȘOARA ȘI URCA, COMUNA VIIȘOARA, JUDEȚUL CLUJ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezetând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/156480",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/156480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-18-2024",
+   "path": "local/cluj/viisoara/2024/18",
+   "short": "HCL Viișoara nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 18/2024 privind acordarea dreptului de folosință și acces pe proprietatea publică a comunei Viișoara în vederea amplasării unui Container pentru servicii de comunicații electronice în satul Viișoara, str. Nouă, nr.f.n., comuna Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/156483",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/156483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-2-2024",
+   "path": "local/cluj/viisoara/2024/2",
+   "short": "HCL Viișoara nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 2/2024 privind implementarea proiectului „Modernizare străzi în comuna Viișoara, județul Cluj”",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/145381",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/145381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-37-2024",
+   "path": "local/cluj/viisoara/2024/37",
+   "short": "HCL Viișoara nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 37/2024 privind modificarea datelor tehnice și indicatorilor tehnico-economici pentru proiectul „DOTAREA CU ECHIPAMENTE DE ÎNTREȚINERE SPAȚII VERZI A SERVICIULUI PUBLIC LOCAL DE GOSPODĂRIRE COMUNALĂ VIIȘOARA”",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/173488",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/173488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-41-2024",
+   "path": "local/cluj/viisoara/2024/41",
+   "short": "HCL Viișoara nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 41/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a de vizului general actualizat pentru obiectivul de investiții „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN LOCALITĂȚILE VIIȘOARA ȘI URCA, COMUNA VIIȘOARA, JUDEȚUL CLUJ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/173492",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/173492",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--viisoara-47-2024",
    "path": "local/cluj/viisoara/2024/47",
    "short": "HCL Viișoara nr. 47/2024",
@@ -298,6 +388,21 @@
      "from": "2025-02-03",
      "units": 1,
      "source_url": "https://emol.ro/viisoara-cj/registru-hcl/190197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-8-2024",
+   "path": "local/cluj/viisoara/2024/8",
+   "short": "HCL Viișoara nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 8/2024 privind aprobarea participării UAT VIIȘOARA la înființarea ASOCIAȚIEI PENTRU PROMOVAREA GASTRONOMIEI, CULTURII ȘI TRADIȚIILOR TRANSILVANE",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/145392",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/145392",
      "sha256": null
     }
    ]

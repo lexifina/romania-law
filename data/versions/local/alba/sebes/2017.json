@@ -1,0 +1,336 @@
+{
+ "country": "RO",
+ "shard": "local/alba/sebes/2017",
+ "acts": [
+  {
+   "slug": "hcl-alba--sebes-144-2017",
+   "path": "local/alba/sebes/2017/144",
+   "short": "HCL Sebeș nr. 144/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 144/2017",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/07/hcl.144.pdf",
+     "sha256": "d2e5faf6294d430d6ce56b26c69f176cd0c442e3328359de87f3f1e54859f5fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-145-2017",
+   "path": "local/alba/sebes/2017/145",
+   "short": "HCL Sebeș nr. 145/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 145/2017",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/07/hcl.145.pdf",
+     "sha256": "2c8755788ac3a8a3b3714439dde365b03d91bf6bbe63cee78818f4c47f40aa1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-181-2017",
+   "path": "local/alba/sebes/2017/181",
+   "short": "HCL Sebeș nr. 181/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 181/2017 privind aprobarea Regulamentului de organizare a manifestărilor „Zilele Sebeșului”? - Sebeș 17-20 august 2017",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-07-26",
+     "units": 4,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/08/HCL-181.pdf",
+     "sha256": "3b93da6223648b2d81c322f0525d37890d9fd61a23e1780ecb926131635e26ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-200-2017",
+   "path": "local/alba/sebes/2017/200",
+   "short": "HCL Sebeș nr. 200/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 200/2017 Privind nivelul tarifelor la serviciile medicale, investigații paraclinice solicitate la cererea pacienților (pentru cei care solicita: servicii medicale, investigații paraclinice la cerere - scoala de soferi, port arma, referate medicale, adeverințe medicale etc), cei care se prezinta fara bilet de trimitere de la medic de familie, medic specialist sau cei care sunt neasigurați C.A.S.8",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/09/hcl-200.pdf",
+     "sha256": "869bb9cf2858814816d200523447692afecff776b3f6ad635b1ef4644b5d5e6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-207-2017",
+   "path": "local/alba/sebes/2017/207",
+   "short": "HCL Sebeș nr. 207/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 207/2017 Privind aprobarea Criteriilor pentru selecția utilizatorilor (gospodăriilor) care primesc unități de compostare individuală",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/09/hcl-207.pdf",
+     "sha256": "7354b666c7c194de30f27c35b5903326423369159f4ef70f2b11624ab09507cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-213-2017",
+   "path": "local/alba/sebes/2017/213",
+   "short": "HCL Sebeș nr. 213/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 213/2017 Privind aprobarea Regulamentului privind organizarea și funcționarea Regiei publice locale de interes silvic - Ocolul Silvic Sebeș R.A",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/09/hcl-213.pdf",
+     "sha256": "2b7db9b16a075a1eefb9df539597302fa0f32c6c43a647ec4d4c60671f836e00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-225-2017",
+   "path": "local/alba/sebes/2017/225",
+   "short": "HCL Sebeș nr. 225/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 225/2017 privind aprobarea Documentatiei PUZ si a RLU proiect nr. 11/2017 ”PLAN URBANISTIC ZONAL „CONSTRUIRE LOCUINŢE CUPLATE, ÎNŞIRUITE ŞI COLECTIVE ÎN MUNICIPIUL SEBEŞ „, Sebeş,- Extravilan ,Topic”Câmpul Răhăului nr. FN,jud.Alba „",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/10/HCL-225.pdf",
+     "sha256": "9bb9943ef1bdb813f072a895bfa9c022ea0119fed040913036266617c4cd7cb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-244-2017",
+   "path": "local/alba/sebes/2017/244",
+   "short": "HCL Sebeș nr. 244/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 244/2017 privind modificarea HCL nr. 211/2016 privind aprobarea Regulamentului de premiere a elevilor din invatamantul preuniversitar din Municipiul Sebes care au obtinut premii si mentiuni la concursurile scolare si campionatele sportive",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/10/HCL-244.pdf",
+     "sha256": "05133adec0afb413ea04c94966c3ab3749cba8dced8efb28849d051df8455799"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-248-2017",
+   "path": "local/alba/sebes/2017/248",
+   "short": "HCL Sebeș nr. 248/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 248/2017 privind inregistrarea Municipiului Sebes in SNEP si stabilirea modului in care este suportat comisionul bancar pentru plata online a taxelor si impozitelor locale prevazute in bugetul Municipiului Sebes,prin utilizarea cardului bancar in sistemul national electronic,conform Hotararii Guvernului Romaniei nr.1235/06.12.2010,cu modificarile si completarile ulterioare",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/10/HCL-248.pdf",
+     "sha256": "06308700525a472e7421f7007e6f4a6958c597e90109ab6830554f940a041ba1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-25-2017",
+   "path": "local/alba/sebes/2017/25",
+   "short": "HCL Sebeș nr. 25/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 25/2017 Privind modificarea HCL nr, 320/2016 de aprobare a Regulamentului de acordare a sporului pentru condiții vătămătoare de muncă , în conformitate cu prevederile Legii nr.284/2010 privind salarizarea unitară a personalului plătit din fonduri publice Consiliul Local al Municipiului Sebeș; Întrunit în ședința publică, ordinară , din data de 28.02.2017, ora 14,00; Luând în dezbatere proiectul de hotărâr",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2017/03/07/HOTARARI-SCANATE-28.02.2017/hcl-25.pdf",
+     "sha256": "8a89d7bc29d5e2beb96d2ea71ad363c272b402f043548dddb5bf311fe6a0c2b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-280-2017",
+   "path": "local/alba/sebes/2017/280",
+   "short": "HCL Sebeș nr. 280/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 280/2017",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-10-26",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/11/hcl-280.pdf",
+     "sha256": "172e09aaa0cc0bc0b288be1fe9e09e146eaf4613965c7be3a398878d4a8d8de1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-281-2017",
+   "path": "local/alba/sebes/2017/281",
+   "short": "HCL Sebeș nr. 281/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 281/2017",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-10-26",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/11/hcl-281.pdf",
+     "sha256": "3aa1a09699997480ce51573fdcb57627e1aab6b590eddf711e342508dd1c3cb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-282-2017",
+   "path": "local/alba/sebes/2017/282",
+   "short": "HCL Sebeș nr. 282/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 282/2017 Privind aprobarea documentației P.U.Z. și a R.L.U. proiect nr. 1357/2017 „Construire drum interior ”, Mun. Sebeș , - str. Industriilor, nr.FN, jud. Alba, beneficiari: S.C. Star Transmission S.R.L și S.C. Star Assembly S.R.L.",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-10-26",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/11/hcl-282.pdf",
+     "sha256": "743fc4da4746959cab26f738f3c3da9a85bfa525c26dffb2107428f21dd92f39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-304-2017",
+   "path": "local/alba/sebes/2017/304",
+   "short": "HCL Sebeș nr. 304/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 304/2017 Privind completarea și modificarea Regulamentului de Organizare și Funcționare a Serviciului Public de Administrare a Patrimoniului Sebes, aprobat prin HCL 127/2017",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 4,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/12/hcl-304.pdf",
+     "sha256": "bed2fb989f33e1201123e6546f38032d87800198fc695385c83d221849b2fdf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-319-2017",
+   "path": "local/alba/sebes/2017/319",
+   "short": "HCL Sebeș nr. 319/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 319/2017 privind aprobarea preţurilor de referinţă a masei lemnoase ,,pe picior,, producţia anului 2018, pentru masa lemnoasă ce se valorifică prin licitaţie sau negociere din fondul forestier proprietate publică a Municipiului Sebeş",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-11-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/12/hcl-319.pdf",
+     "sha256": "7fbc44c503c2704fc73cf1cd650a1d29fab741eeaddd0da7d240f9cd3bb4a224"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-331-2017",
+   "path": "local/alba/sebes/2017/331",
+   "short": "HCL Sebeș nr. 331/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 331/2017 privind aprobarea Regulamentului de stabilire a procedurii de adoptare a taxelor speciale și domeniile în care acestea se pot institui",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 6,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2018/01/hcl-331.pdf",
+     "sha256": "ca1e07c124c7330b546d26e92ddcbfbfec7e41632aabe83e92710b922a258943"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-333-2017",
+   "path": "local/alba/sebes/2017/333",
+   "short": "HCL Sebeș nr. 333/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 333/2017 privind aprobarea Regulamentului de organizare şi utilizare a spaţiilor de joacă din Municipiul Sebeş",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2018/01/hcl-333.pdf",
+     "sha256": "c0aafa70e73b7f5120d679bb76fb87f5263e7820ca737c5c1b3be9c44d48a5ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-64-2017",
+   "path": "local/alba/sebes/2017/64",
+   "short": "HCL Sebeș nr. 64/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 64/2017 Privind aprobarea Regulamentului pentru desfășurarea activităților de curățenie, întreținere, păstrarea liniștii și ordinii publice a Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-04-04",
+     "units": 5,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2017/04/04/hotarari/hcl-64.pdf",
+     "sha256": "5b4f99709665ba4c2f842ed9ee32114e7661fab69d69068fcbeb30529d3e4748"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-75-2017",
+   "path": "local/alba/sebes/2017/75",
+   "short": "HCL Sebeș nr. 75/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 75/2017 privind aprobarea Strategiei de dezvoltare locală durabilă a Municipiului Sebeș și a Planului de mobilitate urbană durabilă a Municipiului Sebeș",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-04-26",
+     "units": 5,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/05/hcl-75.pdf",
+     "sha256": "8d688998588907b45524dbe2ebf56249919170829bd586f28002139e4f000261"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-9-2017",
+   "path": "local/alba/sebes/2017/9",
+   "short": "HCL Sebeș nr. 9/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 9/2017 privind desfintarea integrala a Pieței de Flori — Parcul Tineretului, Municipiul Sebes",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 6,
+     "source_url": "https://www.primariasebes.ro/wp-content/uploads/2017/02/08/HOTARARI-SCANATE-31.01.2017-SED.ORDINARA/hcl-9.pdf",
+     "sha256": "77a2d38b19a58f175c124bbe426ef6e0afdbfc477dd6c2dc36ce676d4a801e6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-90-2017",
+   "path": "local/alba/sebes/2017/90",
+   "short": "HCL Sebeș nr. 90/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 90/2017 privind aprobarea Regulamentului referitor la condițiile în care se realizează accesul pe proprietatea publică sau privată a Municipiului Sebeș în vederea instalării, întreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură necesare susținerii acestora, modul de utilizare partajată a elementelor de infrastructură, precum și măsurile privind cons",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/06/hcl-90.pdf",
+     "sha256": "6d157aa69edcb454006f5ffc1adfc3bc43d79c4a0616449e0bc687d972b4c111"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--sebes-91-2017",
+   "path": "local/alba/sebes/2017/91",
+   "short": "HCL Sebeș nr. 91/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 91/2017 cu privire la modificarea anexei 23 a H.C.L. 24/2009 privind Aprobarea Regulamentului de transport taxi și Regulamentul de organizare a Activității de dispecerat la transport în regim de taxi pe raza administrativ teritorială a Municipiului Sebeș, modificată prin HCL nr. 228/2013 și HCLnr. 73/2017, în sensul introducerii punctajelor pentru autovehiculele hibride și electrice",
+   "url": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 2,
+     "source_url": "http://www.primariasebes.ro/wp-content/uploads/2017/06/hcl-91.pdf",
+     "sha256": "a327e8f2d33d68f36516f093a5365256ae5f89ea40100de743b3069c2f7fee6e"
+    }
+   ]
+  }
+ ]
+}

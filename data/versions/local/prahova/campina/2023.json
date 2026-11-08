@@ -213,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-179-2023",
+   "path": "local/prahova/campina/2023/179",
+   "short": "HCL Câmpina nr. 179/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 179/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f92e8ddc51f9fcb9aea28b4633f4da0a1764afee1760e8be54ed658814274a02"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-186-2023",
    "path": "local/prahova/campina/2023/186",
    "short": "HCL Câmpina nr. 186/2023",
@@ -224,6 +239,21 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/11/Hotararea-nr186-mod-Anexa-HCL-nr25_22-feb-2023-repartizare-fonduri-banesti-unitati-cult.pdf",
      "sha256": "1a28607dd8c79d15e51406f476fa2dee03f50ab1ca2b86158bd6cb5641414139"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-187-2023",
+   "path": "local/prahova/campina/2023/187",
+   "short": "HCL Câmpina nr. 187/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 187/2023 pentru reglementarea procesului de scoatere din funcțiune, casare și valorificare a activelor corporale care alcătuiesc domeniul public al statului și al unităților administrativ-teritoriale; - art.6, alin.(3) și ale art.30, alin.(1), lit.”c” din Legea nr.24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative, republicată, cu modificările și completările ulterioare; - a",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/11/Hotararea-nr187-trecere-dom-public-in-dom-privat-casare_valorificare-imobile.pdf",
+     "sha256": "aeec8dc5566cb2873c46ba76ec447fd9e1329b35c8cb189e24d375c71576ab1c"
     }
    ]
   },
@@ -269,6 +299,36 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/12/Hotararea-nr193-rectificare-buget-local-27-noiembrie-2023.doc",
      "sha256": "60fe5165e5685b9a641bc31a7aa1e03351609d6f6723cc5e14bd6e5311adf78b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-198-2023",
+   "path": "local/prahova/campina/2023/198",
+   "short": "HCL Câmpina nr. 198/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 198/2023 pentru anulare PUZ 2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/01/Hotararea-nr198-angajare-avocat-pentru-anulare-PUZ-2023.pdf",
+     "sha256": "f4e4874043b03704a619ff2f0f3a7366c383690b6589ab31fced37e8ee24896c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-199-2023",
+   "path": "local/prahova/campina/2023/199",
+   "short": "HCL Câmpina nr. 199/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 199/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "61e614ca7b97fb450d023208205f8b32e0dfadfab0ef3a4dda525372e95fb55e"
     }
    ]
   },
@@ -329,6 +389,21 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/01/Hotararea-nr-224-rectificare-buget-local-20-dec-2023.pdf",
      "sha256": "b516a0d4fed26474e8bcd54c36f0bae8f10e59b397e04494ae44d367b333160b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-38-2023",
+   "path": "local/prahova/campina/2023/38",
+   "short": "HCL Câmpina nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 38/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 4,
+     "source_url": null,
+     "sha256": "7344a255957bf1113f549fac8557375dd55928ec25905a055b11deba4390dd27"
     }
    ]
   },

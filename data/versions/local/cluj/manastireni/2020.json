@@ -3,6 +3,36 @@
  "shard": "local/cluj/manastireni/2020",
  "acts": [
   {
+   "slug": "hcl-cluj--manastireni-2-2020",
+   "path": "local/cluj/manastireni/2020/2",
+   "short": "HCL Mănăstireni nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 2/2020 privind stabilirea coeficienților care stau la baza stabilirii salariilor de bază",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/2498",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/2498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-3-2020",
+   "path": "local/cluj/manastireni/2020/3",
+   "short": "HCL Mănăstireni nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 3/2020 privind însușirea inventarului domeniului privat",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/2502",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/2502",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--manastireni-46-2020",
    "path": "local/cluj/manastireni/2020/46",
    "short": "HCL Mănăstireni nr. 46/2020",

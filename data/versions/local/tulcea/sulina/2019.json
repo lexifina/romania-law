@@ -3,6 +3,51 @@
  "shard": "local/tulcea/sulina/2019",
  "acts": [
   {
+   "slug": "hcl-tulcea--sulina-109-2019",
+   "path": "local/tulcea/sulina/2019/109",
+   "short": "HCL Sulina nr. 109/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 109/2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare109din2019.pdf",
+     "sha256": "c2836f92ed729512f10d9ba5256e0b911f11b7e29b6c88af958fd34cdc54e6e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-131-2019",
+   "path": "local/tulcea/sulina/2019/131",
+   "short": "HCL Sulina nr. 131/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 131/2019 privind aprobarea Regulamentului de Organizare și Funcționare al Serviciului Public Comunitar Local de Evidență a Persoanelor Sulina",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare131din2019.pdf",
+     "sha256": "d371d6853543a09bbf00ad049bd5857dbe183c8d7ff4f24553bba53798a26420"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-132-2019",
+   "path": "local/tulcea/sulina/2019/132",
+   "short": "HCL Sulina nr. 132/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 132/2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare132din2019.pdf",
+     "sha256": "a7c7b7b64bbfdad39be6e2f9e4094003d72a593b810f690fc3a4d2a729d23348"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--sulina-14-2019",
    "path": "local/tulcea/sulina/2019/14",
    "short": "HCL Sulina nr. 14/2019",
@@ -18,6 +63,51 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--sulina-144-2019",
+   "path": "local/tulcea/sulina/2019/144",
+   "short": "HCL Sulina nr. 144/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 144/2019 privind aprobarea documentației de urbanism Plan Urbanistic Zonal, „Construirea unei pensiuni“, orașul Sulina, județul Tulcea",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarere144din2019.pdf",
+     "sha256": "f450e59817ef8645c6ae08f6d68eae5ac062d9cac57c3a077a540eaa2782963a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-148-2019",
+   "path": "local/tulcea/sulina/2019/148",
+   "short": "HCL Sulina nr. 148/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 148/2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarere148din2019.pdf",
+     "sha256": "73c92f8de80945272e7c9002d63cf58ab6e2d532674290ecf3a5686eba90f6e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-159-2019",
+   "path": "local/tulcea/sulina/2019/159",
+   "short": "HCL Sulina nr. 159/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 159/2019 privind aprobarea stabilirii impozitelor și taxelor locale pentru anul 2020",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare159din2019.pdf",
+     "sha256": "9b3b035bda4d3a25fc4cee23df6c802e9dbebd506efa7b36a1f9868d06ca2a6d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--sulina-16-2019",
    "path": "local/tulcea/sulina/2019/16",
    "short": "HCL Sulina nr. 16/2019",
@@ -29,6 +119,66 @@
      "units": 1,
      "source_url": "https://primaria-sulina.ro/files/hotarare16din2019.pdf",
      "sha256": "ab9f1e1c73bffb8c69c9c24724a682a78a5c42adb30d56fb39cb227bd2e27922"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-160-2019",
+   "path": "local/tulcea/sulina/2019/160",
+   "short": "HCL Sulina nr. 160/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 160/2019 privind stabilirea taxelor pentru activitatea autofinanțată „Piață“ pentru anul 2020",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare160din2019.pdf",
+     "sha256": "76809b7913b9221b04f7eca442536076bac3161588c8588922df9e42f3d07ada"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-161-2019",
+   "path": "local/tulcea/sulina/2019/161",
+   "short": "HCL Sulina nr. 161/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 161/2019 privind stabilirea taxelor de autorizare pentru organizarea și desfășurarea unor activități economice, de turism și agrement pe teritoriul Rezervației Biosferei „Delta Dunării“, pe raza de competență a orașului Sulina pentru anul 2020",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare161din2019.pdf",
+     "sha256": "73627082a99f7d1c4acd5b2bfbdaa545d68b3b702182c9325eb1c6d729d688dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-165-2019",
+   "path": "local/tulcea/sulina/2019/165",
+   "short": "HCL Sulina nr. 165/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 165/2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare165din2019.pdf",
+     "sha256": "e02d2c3731cf2c263094339c469564765fbfdd56fd3303449672ba0a05df13de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-166-2019",
+   "path": "local/tulcea/sulina/2019/166",
+   "short": "HCL Sulina nr. 166/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 166/2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare166din2019.pdf",
+     "sha256": "eb22a2e4a55799194b5e633df4d0bc993fb25568f1314ca8026b5d78ab50b80b"
     }
    ]
   },
@@ -153,6 +303,66 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--sulina-69-2019",
+   "path": "local/tulcea/sulina/2019/69",
+   "short": "HCL Sulina nr. 69/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 69/2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare69din2019.pdf",
+     "sha256": "148fb897f720b72c71d6d5902161e295c1e97fc0ba072ff607d082cc9116b3e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-70-2019",
+   "path": "local/tulcea/sulina/2019/70",
+   "short": "HCL Sulina nr. 70/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 70/2019 privind aprobarea Strategiei spațiale pentru implementarea Planului Urbanistic General al orașului Sulina și a Regulamentului Local de Urbanism aferent",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare70din2019.pdf",
+     "sha256": "fcaf0b25500852f252f3b61bcb42aaf6b8694ffdfbce608a37ec3f81ef490201"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-76-2019",
+   "path": "local/tulcea/sulina/2019/76",
+   "short": "HCL Sulina nr. 76/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 76/2019 privind aprobarea documentației de urbanism Plan Urbanistic Zonal „Construire Centru Cultural al Comunității Rușilor Lipoveni din România, orașul Sulina, județul Tulcea“",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-07-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare76din2019.pdf",
+     "sha256": "c504b830a4f73581bb6ac1101cc435e03052883d51a1a21ec66664c12e16af12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-77-2019",
+   "path": "local/tulcea/sulina/2019/77",
+   "short": "HCL Sulina nr. 77/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 77/2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-07-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare77din2019.pdf",
+     "sha256": "7df973c1317ef75cba5ed5fd0828ad7293cf7937d84c927a63510d922527d063"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--sulina-8-2019",
    "path": "local/tulcea/sulina/2019/8",
    "short": "HCL Sulina nr. 8/2019",
@@ -164,6 +374,51 @@
      "units": 1,
      "source_url": "https://primaria-sulina.ro/files/hotarare8din2019.pdf",
      "sha256": "07d8dd82fed2a4ed0fb87bad006fa77f0de011bccdebc535493d0e6d00362f98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-80-2019",
+   "path": "local/tulcea/sulina/2019/80",
+   "short": "HCL Sulina nr. 80/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 80/2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare80din2019.pdf",
+     "sha256": "0b88c791b90c0fd2f6ad23a2baffe7ece694067c8643671372d331cfa7b16f6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-94-2019",
+   "path": "local/tulcea/sulina/2019/94",
+   "short": "HCL Sulina nr. 94/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 94/2019 privind aprobarea listelor cu persoanele care au domiciliul în orașul Sulina și care beneficiază de subvenție la tariful pentru serviciul public de salubrizare",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare94din2019.pdf",
+     "sha256": "ad4a1c2929fcb0ca81be3189a48281b5b34c7aeb7cc2c0be947465e000b7c650"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-95-2019",
+   "path": "local/tulcea/sulina/2019/95",
+   "short": "HCL Sulina nr. 95/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 95/2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare95din2019.pdf",
+     "sha256": "de1a849fae5e0a3767abdea55d7ad6312eb6ebba03ef449329c71c89f913b57a"
     }
    ]
   }

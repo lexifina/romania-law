@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/tautii-magheraus/2021",
+ "acts": [
+  {
+   "slug": "hcl-maramures--tautii-magheraus-106-2021",
+   "path": "local/maramures/tautii-magheraus/2021/106",
+   "short": "HCL Tăuții-Măgherăuș nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 106/2021 privind stabilirea tarifelor care vor fi percepute de către SC PRIMA TAUTI SRL, pentru prestarea de servicii, care vor fi realizate cu un tocător profesional de vegetație",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2021-07-23",
+     "units": 4,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2021/07/HCL-nr.106-tarife-tocator-PRIMA.pdf",
+     "sha256": "2ca4e7de6ffd220642a7c3abfd08a2e77f097dacc0a38a9e865fae9e4deae374"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-132-2021",
+   "path": "local/maramures/tautii-magheraus/2021/132",
+   "short": "HCL Tăuții-Măgherăuș nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 132/2021 Nr. 132 din 29.09.2021 privind aprobarea criteriilor de evaluare pentru acordarea spațiilor cu destinație de locuință socială.",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 5,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2021/10/HCL-132-criterii-repartizare-locuinta-sociala.pdf",
+     "sha256": "9580265d86c0f13a027ee6feb48b8842528ea69c44abd9ee145312dc39fd9d47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-170-2021",
+   "path": "local/maramures/tautii-magheraus/2021/170",
+   "short": "HCL Tăuții-Măgherăuș nr. 170/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 170/2021 Nr. 170 din 17.12.2021 Privind stabilirea impozitelor si taxelor locale pentru anul 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 13,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2021/12/HCL-170-taxe-si-impozite-locale-2022.pdf",
+     "sha256": "d0db1a78df93312d2052111eeaf2913ec1e9c842adc4be7f6552fa0ae14318c9"
+    }
+   ]
+  }
+ ]
+}

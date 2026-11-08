@@ -1278,6 +1278,29 @@
 }
 },
 {
+"slug": "hcl-neamt--roman-73-2020",
+"path": "local/neamt/roman/2020/73",
+"kind": "local",
+"year": "2020",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 73/2020",
+"short": "HCL Roman nr. 73/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": null,
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--roman-74-2020",
 "path": "local/neamt/roman/2020/74",
 "kind": "local",

@@ -3,6 +3,36 @@
  "shard": "local/gorj/ticleni/2020",
  "acts": [
   {
+   "slug": "hcl-gorj--ticleni-17-2020",
+   "path": "local/gorj/ticleni/2020/17",
+   "short": "HCL Țicleni nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 17/2020 pentru modificarea HCL numărul 62 din 29.08.2014 privind aprobarea regulamentului și Caietului de Sarcini ale Serviciului de Iluminat Public al căilor de circulație în orasul Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-17-DIN-04.02.2020-pentru-modificarea-HCL62-din-29.08.2014-.pdf",
+     "sha256": "76bbcedc0fe3baaf8e8ab9798cb3c0131a1835b088e974743ebcf8bf17a2d754"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-30-2020",
+   "path": "local/gorj/ticleni/2020/30",
+   "short": "HCL Țicleni nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 30/2020 privind stabilirea impozitelor și taxelor locale pentru anul 2021",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-30-DIN-30.04.2020-PRIVIND-STABILIREA-IMPOZITELOR-SI-TAXELOR-LOCALE-PT-2021.pdf",
+     "sha256": "5f68b5f9de842d84ded2f3b42c523d78bee62adc51d017e9e1e3f30a5528b497"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-41-2020",
    "path": "local/gorj/ticleni/2020/41",
    "short": "HCL Țicleni nr. 41/2020",
@@ -14,6 +44,21 @@
      "units": 1,
      "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/consiliul-local-ticleni-declaratii-de-avere/",
      "sha256": "340615baf57d9e0079f5fd0aa50fe86af29e9ba42537736672fe60b02dcc2901"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-5-2020",
+   "path": "local/gorj/ticleni/2020/5",
+   "short": "HCL Țicleni nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 5/2020 privind aprobarea tarifului practicat de SC SALUBRIS GILORT SRL pentru activitățiile specifice serviciului de salubrizare pe raza orașului Țicleni și regulamentul de instituire și administrare a taxei speciale de salubrizare în orașul Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-5-DIN-13-IAN-2020-privind-aprobare-tarifului-practicat-de-SC-SALUBRIS-GILORT-SRL.pdf",
+     "sha256": "5c47c9dc981a0ea7271eb1849bb7ded0c4de6a2a3370a7533121b6eddbe904fc"
     }
    ]
   }

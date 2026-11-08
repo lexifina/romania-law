@@ -3,6 +3,126 @@
  "shard": "local/cluj/sandulesti/2026",
  "acts": [
   {
+   "slug": "hcl-cluj--sandulesti-19-2026",
+   "path": "local/cluj/sandulesti/2026/19",
+   "short": "HCL Săndulești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 19/2026 privind aprobarea documentației de dezmembrare a imobilului înscris in CF nr. 52623 săndulești, în trei noi imobile",
+   "url": "https://emol.ro/sandulesti-cj/registru-hcl/275566",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sandulesti-cj/registru-hcl/275566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sandulesti-20-2026",
+   "path": "local/cluj/sandulesti/2026/20",
+   "short": "HCL Săndulești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 20/2026 privind aprobarea trecerii imobilului înscris în CF nr. 52658 Săndulești, cu număr cadastral 52658 în suprafață de 6082 mp, a imobilului înscris în CF nr. 52660 Săndulești, cu număr cadastral 52660 în suprafață de 7418 mp și a imobilului înscris în CF nr. 52659 Săndulești cu număr cadastral 52659 în suprafață de 2473 mp, din domeniul public în domeniul privat al comunei Săndulești",
+   "url": "https://emol.ro/sandulesti-cj/registru-hcl/275567",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sandulesti-cj/registru-hcl/275567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sandulesti-21-2026",
+   "path": "local/cluj/sandulesti/2026/21",
+   "short": "HCL Săndulești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 21/2026 privind aprobarea documentației de alipire a două imobile cu numărul cadastral 52039 Copăceni, nr. 178 A și 52559 Copăceni, nr. 178 A",
+   "url": "https://emol.ro/sandulesti-cj/registru-hcl/275568",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sandulesti-cj/registru-hcl/275568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sandulesti-22-2026",
+   "path": "local/cluj/sandulesti/2026/22",
+   "short": "HCL Săndulești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 22/2026 privind emiterea acordului administratorului domeniului public pentru obiectivul de investiții „INTERNET ZONE ALBE-JUD. SATU MARE, MARAMUREȘ, CLUJ ȘI BISTRIȚA-NĂSĂUD-ZONA 5”",
+   "url": "https://emol.ro/sandulesti-cj/registru-hcl/275569",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sandulesti-cj/registru-hcl/275569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sandulesti-25-2026",
+   "path": "local/cluj/sandulesti/2026/25",
+   "short": "HCL Săndulești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 25/2026 privind aprobarea bugetului de venituri si cheltuieli pentru anul 2026 și estimarile pentru anii 2027-2029",
+   "url": "https://emol.ro/sandulesti-cj/registru-hcl/275577",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sandulesti-cj/registru-hcl/275577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sandulesti-26-2026",
+   "path": "local/cluj/sandulesti/2026/26",
+   "short": "HCL Săndulești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 26/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general, faza Proiectului Tehnic de execuție, pentru obiectivul de investiții „Stații de reîncărcare pentru vehicule electrice în comuna Săndulești, județul Cluj”, în cadrul Planului Național de Redresare și Reziliență Componenta C10 - Fondul Local I.1.3 - Asigurarea infrastructurii pentru transportul verde - puncte de reîncărcare vehicule elctrice",
+   "url": "https://emol.ro/sandulesti-cj/registru-hcl/275589",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sandulesti-cj/registru-hcl/275589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sandulesti-30-2026",
+   "path": "local/cluj/sandulesti/2026/30",
+   "short": "HCL Săndulești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 30/2026 privind aprobarea situațiilor financiare și repartizarea profitului net la data de 31.12.2025, aprobarea raportului de activitate al administratorilor, aprobarea raportului auditorului financiar independent la data de 31.12.2025, la societatea Transport Urban Public S.R.L",
+   "url": "https://emol.ro/sandulesti-cj/registru-hcl/275627",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sandulesti-cj/registru-hcl/275627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--sandulesti-37-2026",
+   "path": "local/cluj/sandulesti/2026/37",
+   "short": "HCL Săndulești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 37/2026 privind reglementarea utilizarii statiilor de reincarcare autovehicule electrice si plug-in hibrid amplasate pe domeniul public al comunei Sandulesti",
+   "url": "https://emol.ro/sandulesti-cj/registru-hcl/295569",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sandulesti-cj/registru-hcl/295569",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--sandulesti-39-2026",
    "path": "local/cluj/sandulesti/2026/39",
    "short": "HCL Săndulești nr. 39/2026",

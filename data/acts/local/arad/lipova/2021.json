@@ -3,6 +3,50 @@
 "shard": "local/arad/lipova/2021",
 "acts": [
 {
+"slug": "hcl-arad--lipova-16-2021",
+"path": "local/arad/lipova/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 16/2021 privind aprobarea regulamentului de gospodărire urbană al orașului Lipova",
+"short": "HCL Lipova nr. 16/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--lipova-27-2021",
+"path": "local/arad/lipova/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 27/2021 pentru completarea Hotărârii nr.16 din 28.01.2021 privind aprobarea regulamentului de gospodărire urbană al Orașului Lipova, adoptată de consiliul Local Lipova",
+"short": "HCL Lipova nr. 27/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-arad--lipova-98-2021",
 "path": "local/arad/lipova/2021/98",
 "kind": "local",
@@ -22,6 +66,72 @@
 "council_name": "Consiliul Local al Orașului Lipova",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--lipova-106-2021",
+"path": "local/arad/lipova/2021/106",
+"kind": "local",
+"year": "2021",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 106/2021 pentru modificarea Regulamentului de organizare, desfășurare și autorizare a activității de transport în regim de taxi, pe raza Orașului Lipova, aprobat prin Hotărârea nr.88/25.07.2008 adoptată de Consiliul Local al Orașului Lipova",
+"short": "HCL Lipova nr. 106/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--lipova-150-2021",
+"path": "local/arad/lipova/2021/150",
+"kind": "local",
+"year": "2021",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 150/2021 privind stabilirea prețurilor de referință și de pornire a licitației pentru masa lemnoasă fasonată",
+"short": "HCL Lipova nr. 150/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--lipova-154-2021",
+"path": "local/arad/lipova/2021/154",
+"kind": "local",
+"year": "2021",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 154/2021 privind stabilirea impozitelor și taxelor locale pentru anul 2022",
+"short": "HCL Lipova nr. 154/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-30",
+"latest": "2021-12-30",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
 }
 }
 ]

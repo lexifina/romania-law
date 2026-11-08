@@ -3,6 +3,21 @@
  "shard": "local/salaj/simleu-silvaniei/2013",
  "acts": [
   {
+   "slug": "hcl-salaj--simleu-silvaniei-11-2013",
+   "path": "local/salaj/simleu-silvaniei/2013/11",
+   "short": "HCL Șimleu Silvaniei nr. 11/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 11/2013 privind aprobarea prelungirii termenului de valabilitate al Planului Urbanistic General al orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință ordinară în data de 24 ianuarie 2013; Având în vedere Expunerea de motive nr.842/2013 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.843/2013 al Serviciului Urbanism și Avizul Comis",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2013/page/9/",
+   "versions": [
+    {
+     "from": "2013-01-24",
+     "units": 5,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_011_24012013.pdf",
+     "sha256": "39182a283d0dc2cf0b4de73e9b2fffd6b83a78629943fc6933d6dc39ce6430b0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-3-2013",
    "path": "local/salaj/simleu-silvaniei/2013/3",
    "short": "HCL Șimleu Silvaniei nr. 3/2013",

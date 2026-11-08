@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/olt/piatra-olt/2012",
+ "acts": [
+  {
+   "slug": "hcl-olt--piatra-olt-43-2012",
+   "path": "local/olt/piatra-olt/2012/43",
+   "short": "HCL Piatra-Olt nr. 43/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 43/2012 cu privire la : aprobarea Regulamentului de Organizare 9i func[ionare a Serviciului Public Comunitar Local de Evidenld a Persoanelor Piatra Olt",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/43-2-2012.pdf",
+     "sha256": "19e582a78a21f1501638520408a5cc82763acbe5459f007278756b13d2b42ef5"
+    }
+   ]
+  }
+ ]
+}

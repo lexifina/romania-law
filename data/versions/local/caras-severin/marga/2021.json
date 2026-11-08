@@ -3,6 +3,906 @@
  "shard": "local/caras-severin/marga/2021",
  "acts": [
   {
+   "slug": "hcl-caras-severin--marga-1-2021",
+   "path": "local/caras-severin/marga/2021/1",
+   "short": "HCL Marga nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 1/2021 privind acoperirea definitivă a deficitului secțiunii de dezvoltare, în sumă de 224 130 lei, la sfârșitul exercițiului bugetar al anului 2020",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34583",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-10-2021",
+   "path": "local/caras-severin/marga/2021/10",
+   "short": "HCL Marga nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 10/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34592",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-11-2021",
+   "path": "local/caras-severin/marga/2021/11",
+   "short": "HCL Marga nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 11/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34593",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-12-2021",
+   "path": "local/caras-severin/marga/2021/12",
+   "short": "HCL Marga nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 12/2021 privind aprobarea lucrării ”Extindere sistem de supraveghere video în comuna Marga”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34594",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-13-2021",
+   "path": "local/caras-severin/marga/2021/13",
+   "short": "HCL Marga nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 13/2021 privind achiziționarea lucrării ”Strategia de dezvoltare a comunei Marga pentru perioada 2021-2027”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34595",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-14-2021",
+   "path": "local/caras-severin/marga/2021/14",
+   "short": "HCL Marga nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 14/2021 privind aprobarea rezilierii unui contract",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34596",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-15-2021",
+   "path": "local/caras-severin/marga/2021/15",
+   "short": "HCL Marga nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 15/2021 privind aprobarea demolării clădirii administrative ”Sediu Primărie comuna Marga” și a emiterii autorizației de desființare pentru aceasta",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34597",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-16-2021",
+   "path": "local/caras-severin/marga/2021/16",
+   "short": "HCL Marga nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 16/2021 privind aprobarea disponibilizării și transmiterii fără plată a mijlocului fix ”MICROBUZ ȘCOLAR” din dotarea Primăriei comunei Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34598",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-17-2021",
+   "path": "local/caras-severin/marga/2021/17",
+   "short": "HCL Marga nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 17/2021 privind aprobarea sumei de 17547,26 lei pentru lucrările la instalația electrică și repunerea în funcțiune a P.T.S Marga ”Colonie”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34599",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-18-2021",
+   "path": "local/caras-severin/marga/2021/18",
+   "short": "HCL Marga nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 18/2021 privind aprobarea Nomenclatorului arhivistic",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34600",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-19-2021",
+   "path": "local/caras-severin/marga/2021/19",
+   "short": "HCL Marga nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 19/2021 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții: ”Refacere și modernizare străzi calamitate în comuna Marga, județul Caraș-Severin”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34601",
+   "versions": [
+    {
+     "from": "2021-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-2-2021",
+   "path": "local/caras-severin/marga/2021/2",
+   "short": "HCL Marga nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 2/2021 privind aprobarea cheltuielilor aferente predării obiectivului investițional ”Sediu Primarie comuna Marga, județul Caraș-Severin” către Compania Națională de Invesții",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34584",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-20-2021",
+   "path": "local/caras-severin/marga/2021/20",
+   "short": "HCL Marga nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 20/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34602",
+   "versions": [
+    {
+     "from": "2021-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-21-2021",
+   "path": "local/caras-severin/marga/2021/21",
+   "short": "HCL Marga nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 21/2021 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al comunei Marga, județul Caraș-Severin",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34603",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-22-2021",
+   "path": "local/caras-severin/marga/2021/22",
+   "short": "HCL Marga nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 22/2021 privind aprobarea Statutului comunei Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34604",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-23-2021",
+   "path": "local/caras-severin/marga/2021/23",
+   "short": "HCL Marga nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 23/2021 privind aprobarea Bugetului local de Venituri și Cheltuieli al comunei Marga, pe anul 2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34605",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-24-2021",
+   "path": "local/caras-severin/marga/2021/24",
+   "short": "HCL Marga nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 24/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34606",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-25-2021",
+   "path": "local/caras-severin/marga/2021/25",
+   "short": "HCL Marga nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 25/2021 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34607",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-26-2021",
+   "path": "local/caras-severin/marga/2021/26",
+   "short": "HCL Marga nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 26/2021 privind aprobarea sumei de 8500 lei pentru organizarea ”Taberei din inima satului”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34608",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-27-2021",
+   "path": "local/caras-severin/marga/2021/27",
+   "short": "HCL Marga nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 27/2021 privind aprobarea investiției ”Planului Urbanistic General al comunei Marga”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34609",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-3-2021",
+   "path": "local/caras-severin/marga/2021/3",
+   "short": "HCL Marga nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 3/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34585",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-30-2021",
+   "path": "local/caras-severin/marga/2021/30",
+   "short": "HCL Marga nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 30/2021 privind aprobarea deplasării unei delegații a Consiliului Local în județul Iași",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34612",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-31-2021",
+   "path": "local/caras-severin/marga/2021/31",
+   "short": "HCL Marga nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 31/2021 privind aprobarea Protocolului de colaborare pentru buna funcționare a Centrului Medical de Permanență Vama Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34613",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-32-2021",
+   "path": "local/caras-severin/marga/2021/32",
+   "short": "HCL Marga nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 32/2021 privind aprobarea Regulamentului privind măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri ale autorității deliberative",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34617",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-33-2021",
+   "path": "local/caras-severin/marga/2021/33",
+   "short": "HCL Marga nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 33/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34618",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-34-2021",
+   "path": "local/caras-severin/marga/2021/34",
+   "short": "HCL Marga nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 34/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34619",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-35-2021",
+   "path": "local/caras-severin/marga/2021/35",
+   "short": "HCL Marga nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 35/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34620",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-36-2021",
+   "path": "local/caras-severin/marga/2021/36",
+   "short": "HCL Marga nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 36/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34621",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-37-2021",
+   "path": "local/caras-severin/marga/2021/37",
+   "short": "HCL Marga nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 37/2021 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență Marga, ca serviciu de tip V1",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34622",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-38-2021",
+   "path": "local/caras-severin/marga/2021/38",
+   "short": "HCL Marga nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 38/2021 privind aprobarea participării Comunei Marga, județul Caraș-Severin la realizarea proiectului Via Transilvanica",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34623",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-39-2021",
+   "path": "local/caras-severin/marga/2021/39",
+   "short": "HCL Marga nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 39/2021 privind aprobarea rezultatului inventarierii patrimoniului comunei Marga pentru anul 2020",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34624",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-4-2021",
+   "path": "local/caras-severin/marga/2021/4",
+   "short": "HCL Marga nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 4/2021 privind aprobarea Strategiei anuale de achiziții publice și a Planului de achiziții pentru anul 2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34586",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-40-2021",
+   "path": "local/caras-severin/marga/2021/40",
+   "short": "HCL Marga nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 40/2021 privind aprobarea sumei de 7000 lei pentru dotare Serviciul Voluntar pentru Situații de Urgență",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34625",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-43-2021",
+   "path": "local/caras-severin/marga/2021/43",
+   "short": "HCL Marga nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 43/2021 privind acordarea sumei de 40 mii lei pentru organizarea Nedeilor din satele Vama Marga și Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34628",
+   "versions": [
+    {
+     "from": "2021-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-44-2021",
+   "path": "local/caras-severin/marga/2021/44",
+   "short": "HCL Marga nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 44/2021 privind aprobarea Regulamentului de Ordine Interioară al aparatului de specialitate al primarului comunei Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34629",
+   "versions": [
+    {
+     "from": "2021-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-47-2021",
+   "path": "local/caras-severin/marga/2021/47",
+   "short": "HCL Marga nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 47/2021 privind rectificarea bugetului local al comunei Marga pe trim. II 2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34637",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-48-2021",
+   "path": "local/caras-severin/marga/2021/48",
+   "short": "HCL Marga nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 48/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34638",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-49-2021",
+   "path": "local/caras-severin/marga/2021/49",
+   "short": "HCL Marga nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 49/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34639",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-50-2021",
+   "path": "local/caras-severin/marga/2021/50",
+   "short": "HCL Marga nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 50/2021 privind aprobarea sumei de 16206 lei pentru reabilitarea accesului în Bloc 100 Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34640",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-51-2021",
+   "path": "local/caras-severin/marga/2021/51",
+   "short": "HCL Marga nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 51/2021 privind aprobarea finanțării unor lucrări de amenajare a traseului Via Transilvanica pe teritoriul administrativ al comunei",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34641",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-52-2021",
+   "path": "local/caras-severin/marga/2021/52",
+   "short": "HCL Marga nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 52/2021 privind aprobarea revocării Hotărârii nr. 32/28.05.2021 referitoare la aprobarea Regulamentului privind măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri ale autorității deliberative",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34761",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-53-2021",
+   "path": "local/caras-severin/marga/2021/53",
+   "short": "HCL Marga nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 53/2021 privind stabilirea modalității de gestiune a serviciului de iluminat public în comuna Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34762",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-55-2021",
+   "path": "local/caras-severin/marga/2021/55",
+   "short": "HCL Marga nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 55/2021 privind aprobarea Dispoziției nr. 32/15.07.2021 a primarului comunei Marga referitoare la Planul pentru stabilirea lucrărilor de interes local, în conformitate cu L 416/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34764",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-56-2021",
+   "path": "local/caras-severin/marga/2021/56",
+   "short": "HCL Marga nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 56/2021 privind aprobarea investiției ”Modernizare sistem de iluminat public în comuna Marga, județul Caraș-Severin”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34765",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-57-2021",
+   "path": "local/caras-severin/marga/2021/57",
+   "short": "HCL Marga nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 57/2021 privind aprobarea sumei de 15023 lei pentru dotarea cu instalații electrice a iluminatului public și execuția lucrărilor electrice în Marga și Vama Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34766",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-58-2021",
+   "path": "local/caras-severin/marga/2021/58",
+   "short": "HCL Marga nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 58/2021 privind rectificarea bugetului local al comunei Marga pe trim. III 2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/35489",
+   "versions": [
+    {
+     "from": "2021-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/35489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-59-2021",
+   "path": "local/caras-severin/marga/2021/59",
+   "short": "HCL Marga nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 59/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/35490",
+   "versions": [
+    {
+     "from": "2021-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/35490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-6-2021",
+   "path": "local/caras-severin/marga/2021/6",
+   "short": "HCL Marga nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 6/2021 privind aprobarea sumei de 19584,607 lei pentru dotare cu instalații electrice a iluminatului public în zona sportivă a comunei și a instalațiilor defecte",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34588",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-60-2021",
+   "path": "local/caras-severin/marga/2021/60",
+   "short": "HCL Marga nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 60/2021 privind achiziționarea unui autoturism care să deservească Consiliul Local Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/35491",
+   "versions": [
+    {
+     "from": "2021-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/35491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-61-2021",
+   "path": "local/caras-severin/marga/2021/61",
+   "short": "HCL Marga nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 61/2021 privind stabilirea unei suprafețe de teren în vederea depozitării temporare a deșeurilor provenite din activitățile de construcții și demolări de pe raza comunei Marga, județul Caraș-Severin",
+   "url": "https://emol.ro/marga-cs/registru-hcl/35492",
+   "versions": [
+    {
+     "from": "2021-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/35492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-62-2021",
+   "path": "local/caras-severin/marga/2021/62",
+   "short": "HCL Marga nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 62/2021 privind aprobarea cheltueililor pentru dotarea cu mobilier nou a Casei Culturale ”Dumbrăvița” Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/35493",
+   "versions": [
+    {
+     "from": "2021-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/35493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-63-2021",
+   "path": "local/caras-severin/marga/2021/63",
+   "short": "HCL Marga nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 63/2021 privind acordarea sumei de 35.000 lei pentru organizarea Sărbătorilor de iarnă 2021-2022",
+   "url": "https://emol.ro/marga-cs/registru-hcl/35494",
+   "versions": [
+    {
+     "from": "2021-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/35494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-64-2021",
+   "path": "local/caras-severin/marga/2021/64",
+   "short": "HCL Marga nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 64/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/35495",
+   "versions": [
+    {
+     "from": "2021-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/35495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-65-2021",
+   "path": "local/caras-severin/marga/2021/65",
+   "short": "HCL Marga nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 65/2021 privind aprobarea documentației tehnice de dezmembrare a terenului în suprafață de 250 m.p. înscris în CF 1302 continuare 1495 Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/35496",
+   "versions": [
+    {
+     "from": "2021-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/35496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-66-2021",
+   "path": "local/caras-severin/marga/2021/66",
+   "short": "HCL Marga nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 66/2021 privind aprobarea documentației tehnice de dezmembare a terenului în suprafață de 250 m.p. înscris în CF 1302 continuare 1495 Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/35497",
+   "versions": [
+    {
+     "from": "2021-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/35497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-67-2021",
+   "path": "local/caras-severin/marga/2021/67",
+   "short": "HCL Marga nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 67/2021 privind aprobarea documentației tehnice de dezmembrare a terenului în suprafață de 250 m.p. înscris în CF 1302 continuare 1495 Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/35498",
+   "versions": [
+    {
+     "from": "2021-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/35498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-69-2021",
+   "path": "local/caras-severin/marga/2021/69",
+   "short": "HCL Marga nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 69/2021 privind modificarea și completarea H.C.L nr. 9/28.02.2017 privind aprobarea indicatorilor tehnico-economici și a studiului de fezabilitate, aferente obiectivului de investiții ”REABILITARE ȘI EXTINDERE ALIMENTARE CU APĂ MARGA ȘI VAMA MARGA, JUDEȚUL CARAȘ-SEVERIN”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/36234",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/36234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-70-2021",
+   "path": "local/caras-severin/marga/2021/70",
+   "short": "HCL Marga nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 70/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/36235",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/36235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-71-2021",
+   "path": "local/caras-severin/marga/2021/71",
+   "short": "HCL Marga nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 71/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/36236",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/36236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-72-2021",
+   "path": "local/caras-severin/marga/2021/72",
+   "short": "HCL Marga nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 72/2021 privind rectificarea bugetului local al comunei Marga pe trim. III 2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/36237",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/36237",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--marga-73-2021",
    "path": "local/caras-severin/marga/2021/73",
    "short": "HCL Marga nr. 73/2021",
@@ -103,6 +1003,21 @@
      "from": "2021-10-30",
      "units": 1,
      "source_url": "https://emol.ro/marga-cs/registru-hcl/43650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-8-2021",
+   "path": "local/caras-severin/marga/2021/8",
+   "short": "HCL Marga nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 8/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34590",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34590",
      "sha256": null
     }
    ]
@@ -253,6 +1168,21 @@
      "from": "2021-11-12",
      "units": 1,
      "source_url": "https://emol.ro/marga-cs/registru-hcl/43660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-9-2021",
+   "path": "local/caras-severin/marga/2021/9",
+   "short": "HCL Marga nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 9/2021",
+   "url": "https://emol.ro/marga-cs/registru-hcl/34591",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/34591",
      "sha256": null
     }
    ]

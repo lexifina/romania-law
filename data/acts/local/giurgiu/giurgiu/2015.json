@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-150-2015",
+"path": "local/giurgiu/giurgiu/2015/150",
+"kind": "local",
+"year": "2015",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 150/2015 privind aprobarea Regulamentului de stabilire și încadrare în categoria imobilelor degradate, neîngrijite și neîntreținute, adoptat în baza Hotărârii Consiliului Local nr.446 din data de 18 decembrie 2014 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 150/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-04-22",
+"latest": "2015-04-22",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-167-2015",
 "path": "local/giurgiu/giurgiu/2015/167",
 "kind": "local",
@@ -132,6 +154,28 @@
 "council_name": "Consiliul Local al Municipiului Giurgiu",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-174-2015",
+"path": "local/giurgiu/giurgiu/2015/174",
+"kind": "local",
+"year": "2015",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 174/2015 privind modificarea Hotărârii Consiliului Local nr.446 din data de 18 decembrie 2014 privind stabilirea impozitelor și taxelor locale începând cu anul fiscal 2015 și aprobarea taxei pentru eliberarea carnetului de comercializare a produselor din sectorul agricol întrunit în ședință extraordinară,",
+"short": "HCL Giurgiu nr. 174/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-04-29",
+"latest": "2015-04-29",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_source": "ocr"
 }
 },
 {

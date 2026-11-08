@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/brasov/rupea/2018",
+"acts": [
+{
+"slug": "hcl-brasov--rupea-9-2018",
+"path": "local/brasov/rupea/2018/9",
+"kind": "local",
+"year": "2018",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 9/2018 privind modificarea art. 3 si Cap. III din Anexa I din HCL nr. 28/27.06.2017 privind aprobarea impozitelor si taxelor locale pentru anul 2018",
+"short": "HCL Rupea nr. 9/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-01-26",
+"latest": "2018-01-26",
+"portal": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-brasov--rupea-13-2018",
+"path": "local/brasov/rupea/2018/13",
+"kind": "local",
+"year": "2018",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 13/2018 privind ajustarea prețurilor/tarifelor pentru serviciile publice de salubrizare prestate de SC SERVICIUL PUBLIC RUPEA SRL",
+"short": "HCL Rupea nr. 13/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-02-28",
+"latest": "2018-02-28",
+"portal": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-brasov--rupea-23-2018",
+"path": "local/brasov/rupea/2018/23",
+"kind": "local",
+"year": "2018",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 23/2018 privind aprobarea Regulamentului privind procedura pentru înregistrarea, evidența și radierea vehiculelor care nu se supun înmatriculării, de pe raza administrativ teritorială a orașului Rupea, jud. Brașov",
+"short": "HCL Rupea nr. 23/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-03-26",
+"latest": "2018-03-26",
+"portal": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

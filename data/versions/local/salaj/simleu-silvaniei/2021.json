@@ -3,6 +3,36 @@
  "shard": "local/salaj/simleu-silvaniei/2021",
  "acts": [
   {
+   "slug": "hcl-salaj--simleu-silvaniei-27-2021",
+   "path": "local/salaj/simleu-silvaniei/2021/27",
+   "short": "HCL Șimleu Silvaniei nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 27/2021 privind aprobarea regulamentului pentru finanțarea programelor sportive organizate în condițiile Legii nr. 69/2000 de către cluburile sportive de drept privat înființate pe raza unității administrativ teritoriale a orașului Șimleu Silvaniei, constituite ca persoane juridice fără scop patrimonial, deținătoare ale certificatului de identitate sportivă Consiliul Local al orașului Șimleu Silvaniei, ju",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2021/page/3/",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2021/04/HCL-27-din-21.04.2021.pdf",
+     "sha256": "1a316fe2c56d9ea22f7fcbf57fcd728225b5639cb36968da87106e59f42f35a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-33-2021",
+   "path": "local/salaj/simleu-silvaniei/2021/33",
+   "short": "HCL Șimleu Silvaniei nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 33/2021 privind aprobarea documentației de urbanism PUZ „Schimbare de destinație din zonă industrială în zonă pentru locuințe colective max. P+3 și schimbare destinație clădire existentă din sediul social P+3 în clădire pentru locuințe, în localitatea Șimleu Silvaniei” Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în data de 27 mai 2021; Având în vedere: - Referatul de specialitate",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2021/page/4/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2021/06/HCL-nr.-33-din-27.05.2021.pdf",
+     "sha256": "2c4352a050d20bd84323a6f0c74c0902f9ad8df6037bda53f6957a51974019e9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-6-2021",
    "path": "local/salaj/simleu-silvaniei/2021/6",
    "short": "HCL Șimleu Silvaniei nr. 6/2021",
@@ -14,6 +44,21 @@
      "units": 8,
      "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2021/04/HCL-nr.-6-din-28.01.2021.pdf",
      "sha256": "5af2ffc3741acfd4ed0d2d638c0bd98be2b66ef5a5611a96c1eebda641e9a8b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-90-2021",
+   "path": "local/salaj/simleu-silvaniei/2021/90",
+   "short": "HCL Șimleu Silvaniei nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 90/2021 privind stabilirea nivelului tarifului de distanță maximal pentru serviciul de transport în regim de taxi desfășurat pe raza orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr.19102/2021 a Primarului orașului Șimleu Silvaniei; -Raportul de specialitate nr.19103/2021 al Compartimentului comer",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2021/page/10/",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 7,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2021/12/HCL-nr.-90-stabilire-nivel-tarif-taxi.pdf",
+     "sha256": "54fffa8685e84307daa8d31c2bd2131d63113a440c1861cdfa5238145e8f13f3"
     }
    ]
   }

@@ -3,6 +3,74 @@
 "shard": "local/mehedinti/drobeta-turnu-severin/2017",
 "acts": [
 {
+"slug": "hcl-mehedinti--drobeta-turnu-severin-11-2017",
+"path": "local/mehedinti/drobeta-turnu-severin/2017/11",
+"kind": "local",
+"year": "2017",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 11/2017 privind aprobarea Regulamentului privind activitatea de ridicare, transport și depozitare a vehiculelor staționate neregulamentar în municipiul Drobeta Turnu Severin",
+"short": "HCL Drobeta-Turnu Severin nr. 11/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-01-30",
+"latest": "2017-01-30",
+"portal": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2017/",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-30-2017",
+"path": "local/mehedinti/drobeta-turnu-severin/2017/30",
+"kind": "local",
+"year": "2017",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 30/2017 privind modificarea tarifelor pentru serviciul de transport public local în municipiul Drobeta Turnu Severin",
+"short": "HCL Drobeta-Turnu Severin nr. 30/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-01-30",
+"latest": "2017-01-30",
+"portal": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2017/",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-56-2017",
+"path": "local/mehedinti/drobeta-turnu-severin/2017/56",
+"kind": "local",
+"year": "2017",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 56/2017 privind aprobarea tarifelor la bilete pentru transportul public local efectuat pe traseele nou înființate (Traseul nr.2 și Traseul nr.6) din municipiul Drobeta Turnu Severin",
+"short": "HCL Drobeta-Turnu Severin nr. 56/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-02-28",
+"latest": "2017-02-28",
+"portal": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2017/",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-mehedinti--drobeta-turnu-severin-89-2017",
 "path": "local/mehedinti/drobeta-turnu-severin/2017/89",
 "kind": "local",
@@ -23,6 +91,73 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-119-2017",
+"path": "local/mehedinti/drobeta-turnu-severin/2017/119",
+"kind": "local",
+"year": "2017",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 119/2017 privind aprobarea regulamentului privind organizarea, funcționarea și administrarea cimitirelor aflate în proprietatea publică a Municipiului DROBETA TURNU SEVERIN Consiliul Local al municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere: - Referatul nr. 1187/19 Aprilie 2017 al Direcției de Administrare a Domeniului Public Privat privind emiterea unei hotărâri a consiliului local p",
+"short": "HCL Drobeta-Turnu Severin nr. 119/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-04-27",
+"latest": "2017-04-27",
+"portal": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2017/",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-226-2017",
+"path": "local/mehedinti/drobeta-turnu-severin/2017/226",
+"kind": "local",
+"year": "2017",
+"number": "226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 226/2017 privind aprobarea cuantumului tarifelor aferente prestării unor servicii conexe activității desfășurată de către Serviciul Public de Alimentare cu Energie Termică",
+"short": "HCL Drobeta-Turnu Severin nr. 226/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-07-28",
+"latest": "2017-07-28",
+"portal": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2017/",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-309-2017",
+"path": "local/mehedinti/drobeta-turnu-severin/2017/309",
+"kind": "local",
+"year": "2017",
+"number": "309",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 309/2017 privind aprobarea încheierii unui protocol de colaborare între municipiul Drobeta Turnu Severin și comuna Șimian referitor la gestionarea câinilor fără stăpân",
+"short": "HCL Drobeta-Turnu Severin nr. 309/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-10-30",
+"latest": "2017-10-30",
+"portal": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2017/",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
 }
 }
 ]

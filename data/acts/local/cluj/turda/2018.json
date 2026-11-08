@@ -111,6 +111,73 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-cluj--turda-335-2018",
+"path": "local/cluj/turda/2018/335",
+"kind": "local",
+"year": "2018",
+"number": "335",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 335/2018",
+"short": "HCL Turda nr. 335/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-10-31",
+"latest": "2018-10-31",
+"portal": null,
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-351-2018",
+"path": "local/cluj/turda/2018/351",
+"kind": "local",
+"year": "2018",
+"number": "351",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 351/2018 privind aprobarea darii in administrare a bunului imobil “patinoar artificial in suprafața de 600 metri patrati” și stabilirea tarifelor de acces patinoar pentru sezonul 2018-2019 Consiliul Local al municipiului Turda întrunit în ședința ordinară din data de 28.11.2018",
+"short": "HCL Turda nr. 351/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-11-28",
+"latest": "2018-11-28",
+"portal": "https://primariaturda.ro/hotararea-nr-351-privind-aprobarea-darii-in-administrare-a-bunului-imobil-patinoar-artificial-in-suprafata-de-600-metri-patrati-si-stabilirea-tarifelor-de-acces-patinoar-pentru-sezo/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--turda-374-2018",
+"path": "local/cluj/turda/2018/374",
+"kind": "local",
+"year": "2018",
+"number": "374",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 374/2018 privind aprobarea PLANULUI URBANISTIC ZONAL - NUCLEU II TURISM URBAN - Parcul Tineretului, fosta Casă de Cultură, P-ța 1 Decembrie 1918, Municipiul Turda Consiliul Local al Municipiului Turda întrunit în ședința ordinară din data de 20.12.2018; Luând în dezbatere proiectul de hotărâre privind aprobarea PLANULUI URBANISTIC ZONAL - NUCLEU II TURISM URBAN - Parcul Tineretului, fosta Casă de Cultură",
+"short": "HCL Turda nr. 374/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-12-20",
+"latest": "2018-12-20",
+"portal": "https://primariaturda.ro/hotararea-nr-374-privind-aprobarea-planului-urbanistic-zonal-nucleu-ii-turism-urban-parcul-tineretului-fosta-casa-de-cultura-p-ta-1-decembrie-1918-municipiul-turda/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"text_withheld": "personal_data"
+}
 }
 ]
 }

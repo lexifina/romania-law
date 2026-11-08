@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/valea-lui-mihai/2017",
+ "acts": [
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-5-2017",
+   "path": "local/bihor/valea-lui-mihai/2017/5",
+   "short": "HCL Valea lui Mihai nr. 5/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 5/2017 privind aprobarea Regulamentului de salubrizare al Oraşului Valea lui Mihai, judeţul Bihor ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/07/hot._05_din_27_ian_.2017_.pdf",
+     "sha256": "fe17c80ca42829f7182fb391d5d516ec3bd879d786f09e2c33f765382e483422"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-81-2017",
+   "path": "local/bihor/valea-lui-mihai/2017/81",
+   "short": "HCL Valea lui Mihai nr. 81/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 81/2017 privind respingerea cererii de scutire de la plata impozitelor şi taxelor locale ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/07/hot._81_din_31_.10_.2017_.pdf",
+     "sha256": "b6ce3f6fefd68ac1e3326e19c26e7991f5c1a679878516749310664fb8bce300"
+    }
+   ]
+  }
+ ]
+}

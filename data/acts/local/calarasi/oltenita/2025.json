@@ -47,6 +47,94 @@
 }
 },
 {
+"slug": "hcl-calarasi--oltenita-42-2025",
+"path": "local/calarasi/oltenita/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 42/2025 pentru modificarea și completarea Hotărârii nr. 150/19.12.2024 a Consiliului local al municipiului Oltenița, pentru stabilirea impozitelor, taxelor speciale și a taxelor locale aplicabile în municipiul Oltenița, în anul fiscal 2025",
+"short": "HCL Oltenița nr. 42/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-calarasi--oltenita-89-2025",
+"path": "local/calarasi/oltenita/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 89/2025 privind privind aprobarea tarifelor care se vor practica de catre SC Ecosal Servicii Oltenita SRL pentru serviciile aferente activitatilor de amenajare si intretinere spatii verzi Vizualizare",
+"short": "HCL Oltenița nr. 89/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--oltenita-92-2025",
+"path": "local/calarasi/oltenita/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 92/2025 pentru modificarea articolului 1 al Hotararii nr. 72/25.05.2023 a Consiliului local al municipiului Oltenita privind prelungirea valabi1itatii documentatiei de urbanism „Plan Urbanistic General si a Regulamentului Urbanistic aferent, pentru municipiul Oltenita, judetul Calarasi” Vizualizare",
+"short": "HCL Oltenița nr. 92/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-calarasi--oltenita-100-2025",
+"path": "local/calarasi/oltenita/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 100/2025 pentru aprobarea Regulamentului de organizare si functionare al Serviciului Public ..Directia pentru Cultura, Tineret si Sport Oltenita” Vizualizare",
+"short": "HCL Oltenița nr. 100/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-calarasi--oltenita-157-2025",
 "path": "local/calarasi/oltenita/2025/157",
 "kind": "local",

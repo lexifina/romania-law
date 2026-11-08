@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--moreni-124-2024",
+   "path": "local/dambovita/moreni/2024/124",
+   "short": "HCL Moreni nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 124/2024 nr.124 din 07.10.2024 privind aprobarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al Primarului Municipiului Moreni",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2024/10/HCL-ROF-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2024/10/HCL-ROF-2024.pdf",
+     "sha256": "6b7567c8ba25d14ce13ce1f0ed7a190185910b05a92b09aeaae92d6271655abf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--moreni-2-2024",
    "path": "local/dambovita/moreni/2024/2",
    "short": "HCL Moreni nr. 2/2024",
@@ -29,6 +44,21 @@
      "units": 1,
      "source_url": "https://primariamoreni.ro/wp-content/uploads/2024/04/Hotarare-nr.-2H-din-23.04.2024-1.pdf",
      "sha256": "0e1d512ccf7efa3a2a7ef8dc7fcb7bcf327c6ec8a1caca8a6b7576556b745190"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-201-2024",
+   "path": "local/dambovita/moreni/2024/201",
+   "short": "HCL Moreni nr. 201/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 201/2024 nr.201 din 19.12.2024 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2025",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2024/12/HCL-201-din-19.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2024/12/HCL-201-din-19.12.2024.pdf",
+     "sha256": "4f3106479ab9a2ace2fc359a535ee5d2593b182d70b931adda26effe4c24dc5f"
     }
    ]
   },

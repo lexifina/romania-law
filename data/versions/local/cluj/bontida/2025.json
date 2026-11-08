@@ -3,6 +3,336 @@
  "shard": "local/cluj/bontida/2025",
  "acts": [
   {
+   "slug": "hcl-cluj--bontida-1-2025",
+   "path": "local/cluj/bontida/2025/1",
+   "short": "HCL Bonțida nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 1/2025 privind aprobarea acoperirii deficitului la secțiunea de dezvoltare",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267015",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-100-2025",
+   "path": "local/cluj/bontida/2025/100",
+   "short": "HCL Bonțida nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 100/2025 privind aprobarea achiziționării de servicii și bunuri necesare pentru deșfășurarea evenimentului ''Fiii comunei Bonțida''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267749",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-101-2025",
+   "path": "local/cluj/bontida/2025/101",
+   "short": "HCL Bonțida nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 101/2025 privind aprobarea externalizării unor servicii de contabilitate din cadrul aparatului de specialitate al primarului comunei Bonțida",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267752",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-102-2025",
+   "path": "local/cluj/bontida/2025/102",
+   "short": "HCL Bonțida nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 102/2025 privind aprobarea achiziționării serviciului de consultanță, asistență și reprezentare juridică",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267967",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-103-2025",
+   "path": "local/cluj/bontida/2025/103",
+   "short": "HCL Bonțida nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 103/2025 privind rectificarea bugetului consiliului local",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267968",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-104-2025",
+   "path": "local/cluj/bontida/2025/104",
+   "short": "HCL Bonțida nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 104/2025",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267969",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-105-2025",
+   "path": "local/cluj/bontida/2025/105",
+   "short": "HCL Bonțida nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 105/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267974",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-106-2025",
+   "path": "local/cluj/bontida/2025/106",
+   "short": "HCL Bonțida nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 106/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267977",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-107-2025",
+   "path": "local/cluj/bontida/2025/107",
+   "short": "HCL Bonțida nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 107/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267978",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-108-2025",
+   "path": "local/cluj/bontida/2025/108",
+   "short": "HCL Bonțida nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 108/2025 privind aprobarea executării unor lucrări pe domniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267979",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-109-2025",
+   "path": "local/cluj/bontida/2025/109",
+   "short": "HCL Bonțida nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 109/2025 privind aderarea la Societatea de Transport SRL",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267980",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-110-2025",
+   "path": "local/cluj/bontida/2025/110",
+   "short": "HCL Bonțida nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 110/2025 privind alocarea sumei de 10 000 lei/lună pentru funcționarea Societății de Transport SRL",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267981",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-111-2025",
+   "path": "local/cluj/bontida/2025/111",
+   "short": "HCL Bonțida nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 111/2025 privind aprobarea rețelei școlare pe raza comunei Bonțida",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267982",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-113-2025",
+   "path": "local/cluj/bontida/2025/113",
+   "short": "HCL Bonțida nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 113/2025",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267985",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-116-2025",
+   "path": "local/cluj/bontida/2025/116",
+   "short": "HCL Bonțida nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 116/2025 privind aprobarea înființării Serviciului specializat pentru gestionarea câinilor fără stăpân la nivelul Comunei Bonțida, a Regulamentului privind organizarea și funcționarea acestuia, a Studiului de oportunitate și a Caietului de sarcini privind delegarea de gestiune a serviciului, precum și a contractului de delegare prin concesiune a serviciului",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267988",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-117-2025",
+   "path": "local/cluj/bontida/2025/117",
+   "short": "HCL Bonțida nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 117/2025 privind cuprinderea în domeniul public a unor bunuri imobile",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267989",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-118-2025",
+   "path": "local/cluj/bontida/2025/118",
+   "short": "HCL Bonțida nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 118/2025 privind modificarea organigramei, a numărului de personal și a statului de funcții la nivelul Primăriei Comunei Bonțida, județul Cluj pentru anul 2025",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267990",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-119-2025",
+   "path": "local/cluj/bontida/2025/119",
+   "short": "HCL Bonțida nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 119/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267991",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-120-2025",
+   "path": "local/cluj/bontida/2025/120",
+   "short": "HCL Bonțida nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 120/2025 privind aprobarea executării unor lucrări pe doemniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267992",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-121-2025",
+   "path": "local/cluj/bontida/2025/121",
+   "short": "HCL Bonțida nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 121/2025 privind aprobarea executării unor lucrări pe doemniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267993",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-122-2025",
+   "path": "local/cluj/bontida/2025/122",
+   "short": "HCL Bonțida nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 122/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267997",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-123-2025",
+   "path": "local/cluj/bontida/2025/123",
+   "short": "HCL Bonțida nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 123/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267998",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267998",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--bontida-124-2025",
    "path": "local/cluj/bontida/2025/124",
    "short": "HCL Bonțida nr. 124/2025",
@@ -73,6 +403,21 @@
      "from": "2026-05-12",
      "units": 1,
      "source_url": "https://emol.ro/bontida-cj/registru-hcl/268003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-13-2025",
+   "path": "local/cluj/bontida/2025/13",
+   "short": "HCL Bonțida nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 13/2025 privind aprobarea scutirii de la plata impozitului pe clădiri și teren",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267071",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267071",
      "sha256": null
     }
    ]
@@ -228,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--bontida-14-2025",
+   "path": "local/cluj/bontida/2025/14",
+   "short": "HCL Bonțida nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 14/2025 privind aprobarea rețelei școlare pe raza comunei Bonțida",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267073",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267073",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--bontida-140-2025",
    "path": "local/cluj/bontida/2025/140",
    "short": "HCL Bonțida nr. 140/2025",
@@ -298,6 +658,1191 @@
      "from": "2026-05-13",
      "units": 1,
      "source_url": "https://emol.ro/bontida-cj/registru-hcl/268046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-15-2025",
+   "path": "local/cluj/bontida/2025/15",
+   "short": "HCL Bonțida nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 15/2025 privind aprobarea bugetului comunei Bonțida",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267074",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-16-2025",
+   "path": "local/cluj/bontida/2025/16",
+   "short": "HCL Bonțida nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 16/2025 privind aprobarea suportului alimentar acordat preșcolarilor și elevilor în cadrul Programului național ''Masă sănătoasă'' în anul 2025",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267075",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-18-2025",
+   "path": "local/cluj/bontida/2025/18",
+   "short": "HCL Bonțida nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 18/2025 privind aprobarea Planului de acțiuni/lucrări de interes local pe anul 2024 prevăzut de legea nr. 196/2016, privind venitul minim de incluziune",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267077",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-2-2025",
+   "path": "local/cluj/bontida/2025/2",
+   "short": "HCL Bonțida nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 2/2025 privind susținerea Programului Național ''Masă sănătoasă'' în cadrul școlilor din comuna Bonțida, jud. Cluj",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267016",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-22-2025",
+   "path": "local/cluj/bontida/2025/22",
+   "short": "HCL Bonțida nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 22/2025 privind aprobarea achiziției serviciilor de întocmire SF+DTAC pentru obiectivele ''Demolare corp vechi Grădinița Bonțida'' și ''Proiectare construire centru multifuncțional''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267092",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-23-2025",
+   "path": "local/cluj/bontida/2025/23",
+   "short": "HCL Bonțida nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 23/2025 privind aprobarea achiziției serviciilor de ''Extindere rețea gaz + proiectare și execuție în 4 zone: Sicului, Beltieni, Meri, Târg Boriște''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267093",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-24-2025",
+   "path": "local/cluj/bontida/2025/24",
+   "short": "HCL Bonțida nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 24/2025 privind aprobarea achiziției serviciilor de ''Elaborare PT design amenajare interioară Școala Bonțida''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267100",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-25-2025",
+   "path": "local/cluj/bontida/2025/25",
+   "short": "HCL Bonțida nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 25/2025 privind aprobarea achiziției serviciilor de ''Întocmire expertiză tehnică pentru identificarea soluției constructive de refacere a planseului de la Școala Profesională Rscruci''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267101",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-26-2025",
+   "path": "local/cluj/bontida/2025/26",
+   "short": "HCL Bonțida nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 26/2025 privind aprobarea achiziției serviciilor de 'Montare pompă de apă ridicare presiune 2 zone''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267102",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-27-2025",
+   "path": "local/cluj/bontida/2025/27",
+   "short": "HCL Bonțida nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 27/2025 privind aprobarea achiziției serviciilor de toaletare a vegetației care afectează traseul cablurilor de alimentare cu energia electrică",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267103",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-28-2025",
+   "path": "local/cluj/bontida/2025/28",
+   "short": "HCL Bonțida nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 28/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267104",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-29-2025",
+   "path": "local/cluj/bontida/2025/29",
+   "short": "HCL Bonțida nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 29/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267105",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-3-2025",
+   "path": "local/cluj/bontida/2025/3",
+   "short": "HCL Bonțida nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 3/2025 privind aprobarea desființării unui punct de colectare selectivă a deșeurilor",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267017",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-30-2025",
+   "path": "local/cluj/bontida/2025/30",
+   "short": "HCL Bonțida nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 30/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267106",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-31-2025",
+   "path": "local/cluj/bontida/2025/31",
+   "short": "HCL Bonțida nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 31/2025 privind aprobarea statului de funcții și a organigramei aparatului propriu al primarului comunei",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267107",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-33-2025",
+   "path": "local/cluj/bontida/2025/33",
+   "short": "HCL Bonțida nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 33/2025 privind deschiderea sesiunii de depunere a proiectelor pentru obținerea finanțării nermaursabila",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267120",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-34-2025",
+   "path": "local/cluj/bontida/2025/34",
+   "short": "HCL Bonțida nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 34/2025 privind aprobarea suportului alimentar acordat preșcolarilor și elevilor în cadrul Programului național ''Masă sănătoasă'' în anul 2025",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267121",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-35-2025",
+   "path": "local/cluj/bontida/2025/35",
+   "short": "HCL Bonțida nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 35/2025 privind aprobarea contului de execuție al bugetului local și al bugetului din venituri proprii al comunei Bonțida la 31.12.2024",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267122",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-36-2025",
+   "path": "local/cluj/bontida/2025/36",
+   "short": "HCL Bonțida nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 36/2025 privind aprobarea contului de execuție al bugetului local și al bugetului din venituri proprii al comunei Bonțida la 31.03.2025",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267123",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-37-2025",
+   "path": "local/cluj/bontida/2025/37",
+   "short": "HCL Bonțida nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 37/2025 privind aprobarea regulamentului de organizare al aparatului de specialitate al Primarului comunei Bonțida",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267124",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-38-2025",
+   "path": "local/cluj/bontida/2025/38",
+   "short": "HCL Bonțida nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 38/2025 privind aprobarea achiziției serviciilor de ecarisaj precum și a serviciilor de sterilizare a câinilor de pe raza comunei",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267125",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-39-2025",
+   "path": "local/cluj/bontida/2025/39",
+   "short": "HCL Bonțida nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 39/2025 privind nominalizarea pe unități de cult aparținând cultelor religioase recunoscute din România, a sumei de la Capitolul nr. 67.02 Religie - Alte culte",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267128",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-4-2025",
+   "path": "local/cluj/bontida/2025/4",
+   "short": "HCL Bonțida nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 4/2025 privind aprobarea scutirii de la plata impozitului pe clădiri și teren",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267018",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-40-2025",
+   "path": "local/cluj/bontida/2025/40",
+   "short": "HCL Bonțida nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 40/2025 privind nominalizarea pe beneficiari, a sumei aprobată prin Hotărârea Consiliului Local Bonțida la Capitolul nr. 67.02 Recreere - Alte Acțiuni de Cultură",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267129",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-42-2025",
+   "path": "local/cluj/bontida/2025/42",
+   "short": "HCL Bonțida nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 42/2025 privind aprobarea achiziției lucrărilor de modificare a instalației electrice a Grădiniței Rascruci",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267136",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-44-2025",
+   "path": "local/cluj/bontida/2025/44",
+   "short": "HCL Bonțida nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 44/2025 privind aprobarea achiziției serviciilor de proiectare pentru obiectivele ''Demolare construcție veche Cămin Cultural Tauseni'' ''Proiectare construire Camin Cultural Nou Tauseni''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267425",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-45-2025",
+   "path": "local/cluj/bontida/2025/45",
+   "short": "HCL Bonțida nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 45/2025 privind aprobarea achiziției lucrărilor necesare realizării obiectivului ''Marcaje străzi laterale, achiziționare și montare limitatoare de viteză''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267431",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-46-2025",
+   "path": "local/cluj/bontida/2025/46",
+   "short": "HCL Bonțida nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 46/2025 privind aprobarea achiziției bunurilor necesare realizării obiectivului ''Achiziționare cosuri stradale și indicatoare rutiere''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267432",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-47-2025",
+   "path": "local/cluj/bontida/2025/47",
+   "short": "HCL Bonțida nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 47/2025 privind aprobarea achiziției lucrărilor necesare realizării obiectivului ''Proiectare și execuție parc de joacă Grădinița Bonțida și amenajare spații verzi''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267452",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-48-2025",
+   "path": "local/cluj/bontida/2025/48",
+   "short": "HCL Bonțida nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 48/2025 privind aprobarea achiziției serviciilor necesare realizării obiectivului ''Servicii de elaborare studii pentru asfaltare și modernizare ulițe și străzi în Bonțida și Răscruci''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267467",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-49-2025",
+   "path": "local/cluj/bontida/2025/49",
+   "short": "HCL Bonțida nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 49/2025 privind aprobarea achiziției lucrărilor necesare realizării obiectivului ''Reabilitare totem intrare în Bonțida''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267468",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-5-2025",
+   "path": "local/cluj/bontida/2025/5",
+   "short": "HCL Bonțida nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 5/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267031",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-50-2025",
+   "path": "local/cluj/bontida/2025/50",
+   "short": "HCL Bonțida nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 50/2025 privind aprobarea achiziției lucrărilor necesare realizării obiectivului ''Amenajare zona agrement Meri''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267470",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-51-2025",
+   "path": "local/cluj/bontida/2025/51",
+   "short": "HCL Bonțida nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 51/2025 privind aprobarea achiziției lucrărilor și serviciilor necesare realizării obiectivului ''Realizare lucrări branșamente stații reîncărcare vehicule electrice AFM''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267471",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-52-2025",
+   "path": "local/cluj/bontida/2025/52",
+   "short": "HCL Bonțida nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 52/2025 privind aprobarea accesării programului ''Rabla plus public''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267476",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-53-2025",
+   "path": "local/cluj/bontida/2025/53",
+   "short": "HCL Bonțida nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 53/2025 privind aprobarea achiziției de servicii de proiectare, lucrări de execuție și realizare branșamente pentru proiectul ''Realizare stații de încărcare autovehicule electrice în comuna Bonțida, Județul Cluj''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267516",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-54-2025",
+   "path": "local/cluj/bontida/2025/54",
+   "short": "HCL Bonțida nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 54/2025 privind aprobarea proiectului tehnic și indicatorilor tehnico-economici, achiziții de lucrări de execuție și realizare branșamente pentru proiectul ''Stații de reîncărcare pentru vehicule electrice în comuna Bonțida, Județul Cluj'', finanțat prin PNRR, C10, Investiția 1.3",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267525",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-55-2025",
+   "path": "local/cluj/bontida/2025/55",
+   "short": "HCL Bonțida nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 55/2025",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267526",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-56-2025",
+   "path": "local/cluj/bontida/2025/56",
+   "short": "HCL Bonțida nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 56/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267527",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-57-2025",
+   "path": "local/cluj/bontida/2025/57",
+   "short": "HCL Bonțida nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 57/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267532",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-58-2025",
+   "path": "local/cluj/bontida/2025/58",
+   "short": "HCL Bonțida nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 58/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267533",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-6-2025",
+   "path": "local/cluj/bontida/2025/6",
+   "short": "HCL Bonțida nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 6/2025 privind aprobarea achiziționării serviciilor de asigurare de viață voluntarilor SVSU",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267037",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-60-2025",
+   "path": "local/cluj/bontida/2025/60",
+   "short": "HCL Bonțida nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 60/2025 privind indexarea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267541",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-61-2025",
+   "path": "local/cluj/bontida/2025/61",
+   "short": "HCL Bonțida nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 61/2025 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2025",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267542",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-63-2025",
+   "path": "local/cluj/bontida/2025/63",
+   "short": "HCL Bonțida nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 63/2025 privind aprobarea achiziției lucrărilor de reparație a stațiilor de autobuz",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267545",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-64-2025",
+   "path": "local/cluj/bontida/2025/64",
+   "short": "HCL Bonțida nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 64/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267579",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-66-2025",
+   "path": "local/cluj/bontida/2025/66",
+   "short": "HCL Bonțida nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 66/2025 privind rectificarea bugetului local",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267581",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-68-2025",
+   "path": "local/cluj/bontida/2025/68",
+   "short": "HCL Bonțida nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 68/2025 privind nominalizarea pe unități de cult aparținând cultelor religioase recunoscute din România, a sumei de la Capitolul nr. 67.02 Religie - Alte culte",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267589",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-69-2025",
+   "path": "local/cluj/bontida/2025/69",
+   "short": "HCL Bonțida nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 69/2025 privind aprobarea achiziției serviciilor de consultanță pentru achiziții publice",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267590",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-70-2025",
+   "path": "local/cluj/bontida/2025/70",
+   "short": "HCL Bonțida nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 70/2025 privind confirmarea aprobării modificării Statutului Asociației de Dezvoltare Intercomunitară Eco-Metropolitan Cluj, mandatarea Președintelui Asociației pentru semnarea Statutului actualizat și mandatarea Directorului Executiv al Asociației pentru înregistrarea Statutului actualizat la Registrul Asociațiilor și Fundațiilor",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267591",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-71-2025",
+   "path": "local/cluj/bontida/2025/71",
+   "short": "HCL Bonțida nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 71/2025 privind alocarea unor fonduri",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267595",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-72-2025",
+   "path": "local/cluj/bontida/2025/72",
+   "short": "HCL Bonțida nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 72/2025 privind aprobarea achiziționării de servicii de promovare privind dezvoltarea economică, socială și culturală și promovarea turistică a comunei Bonțida",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267596",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-73-2025",
+   "path": "local/cluj/bontida/2025/73",
+   "short": "HCL Bonțida nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 73/2025 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ''Modernizare infrastructură rutieră și construire 2 poduri în comuna Bonțida, județul Cluj'', și includere în proiectul finanțat prin PNI Anghel Saligny, aprobat pentru finanțare prin Programul Național ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267600",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-74-2025",
+   "path": "local/cluj/bontida/2025/74",
+   "short": "HCL Bonțida nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 74/2025 privind aprobarea racordării la conducta de distribuție a gazelor naturale din localitatea Bonțida, zona Boriște",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267601",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-75-2025",
+   "path": "local/cluj/bontida/2025/75",
+   "short": "HCL Bonțida nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 75/2025 privind rectificarea bugetului consiliului local",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267604",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-76-2025",
+   "path": "local/cluj/bontida/2025/76",
+   "short": "HCL Bonțida nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 76/2025 privind instituirea unor restricții de circulație",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267606",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-77-2025",
+   "path": "local/cluj/bontida/2025/77",
+   "short": "HCL Bonțida nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 77/2025 privind aprobarea achiziției lucrărilor de reparații drumuri locale din Comuna Bonțida",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267608",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-78-2025",
+   "path": "local/cluj/bontida/2025/78",
+   "short": "HCL Bonțida nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 78/2025 privind aprobarea achiziției serviciilor de ''Elaborare Plan Urbanistic Zonal pentru reparcelare zona Capus și reglementare urbanistică''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267647",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-79-2025",
+   "path": "local/cluj/bontida/2025/79",
+   "short": "HCL Bonțida nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 79/2025 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență al comunei Bonțida, județul Cluj",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267648",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-80-2025",
+   "path": "local/cluj/bontida/2025/80",
+   "short": "HCL Bonțida nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 80/2025 privind aprobarea Contractului de Voluntariat care se va încheia între persoanele din cadrul Serviciului Public Voluntar pentru Situații de Urgență și Consiliul local al Comunei Bonțida, și acordarea unor facilități personalului voluntar",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267654",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-81-2025",
+   "path": "local/cluj/bontida/2025/81",
+   "short": "HCL Bonțida nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 81/2025 privind aprobarea Strategiei Smart Village a Comunei Bonțida",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267655",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-82-2025",
+   "path": "local/cluj/bontida/2025/82",
+   "short": "HCL Bonțida nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 82/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267661",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-83-2025",
+   "path": "local/cluj/bontida/2025/83",
+   "short": "HCL Bonțida nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 83/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267662",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-85-2025",
+   "path": "local/cluj/bontida/2025/85",
+   "short": "HCL Bonțida nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 85/2025 privind aprobarea modificării unui parteneriat",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267664",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-86-2025",
+   "path": "local/cluj/bontida/2025/86",
+   "short": "HCL Bonțida nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 86/2025",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267678",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-87-2025",
+   "path": "local/cluj/bontida/2025/87",
+   "short": "HCL Bonțida nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 87/2025 privind aprobarea achiziției de piatră spartă",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267680",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-88-2025",
+   "path": "local/cluj/bontida/2025/88",
+   "short": "HCL Bonțida nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 88/2025 privind rectificarea bugetului consiliului local",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267685",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-89-2025",
+   "path": "local/cluj/bontida/2025/89",
+   "short": "HCL Bonțida nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 89/2025 privind aprobarea contului de execuție al bugetului local și al bugetului din venituri proprii al comunei Bonțida la 30.06.2025",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267724",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-9-2025",
+   "path": "local/cluj/bontida/2025/9",
+   "short": "HCL Bonțida nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 9/2025 privind aprobarea achiziției de servicii transmisiune video în sistem live stream",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267040",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-90-2025",
+   "path": "local/cluj/bontida/2025/90",
+   "short": "HCL Bonțida nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 90/2025 privind aprobarea Planului de analiză și acoperire a riscurilor și a structurii cadru, pentru gestionarea Situațiilor de Urgență în comuna Bonțida, pe anul 2025",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267725",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-91-2025",
+   "path": "local/cluj/bontida/2025/91",
+   "short": "HCL Bonțida nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 91/2025 privind aprobarea Planului Urbanistic Zonal pentru ''Elaborare PUZ pentru introducere teren în intravilan, reparcelare și construire hale de producție și depozitare, amenajări exterioare''",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267726",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-92-2025",
+   "path": "local/cluj/bontida/2025/92",
+   "short": "HCL Bonțida nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 92/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267727",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-93-2025",
+   "path": "local/cluj/bontida/2025/93",
+   "short": "HCL Bonțida nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 93/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267728",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-94-2025",
+   "path": "local/cluj/bontida/2025/94",
+   "short": "HCL Bonțida nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 94/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267739",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-95-2025",
+   "path": "local/cluj/bontida/2025/95",
+   "short": "HCL Bonțida nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 95/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267740",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-96-2025",
+   "path": "local/cluj/bontida/2025/96",
+   "short": "HCL Bonțida nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 96/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267741",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-97-2025",
+   "path": "local/cluj/bontida/2025/97",
+   "short": "HCL Bonțida nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 97/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267742",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-98-2025",
+   "path": "local/cluj/bontida/2025/98",
+   "short": "HCL Bonțida nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 98/2025 privind aprobarea executării unor lucrări pe domeniul public",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267743",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--bontida-99-2025",
+   "path": "local/cluj/bontida/2025/99",
+   "short": "HCL Bonțida nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bonțida nr. 99/2025 privind rectificarea bugetului consiliului local",
+   "url": "https://emol.ro/bontida-cj/registru-hcl/267744",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bontida-cj/registru-hcl/267744",
      "sha256": null
     }
    ]

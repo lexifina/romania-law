@@ -1263,6 +1263,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-182-2024",
+   "path": "local/arges/campulung/2024/182",
+   "short": "HCL Câmpulung nr. 182/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 182/2024 privind aprobarea unor măsuri pentru aplicarea prevederilor art. XXIX din Legea nr. 296 /2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, cu modificările și completările ulterioare",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2024/HCL%20nr.%20182%20din%2019.12.2024.pdf",
+     "sha256": "2184c2a782812160f89605781dd16f9dc0e57a13088c71202e7b18e5c83406b6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-187-2024",
    "path": "local/arges/campulung/2024/187",
    "short": "HCL Câmpulung nr. 187/2024",

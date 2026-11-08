@@ -408,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-123-2023",
+   "path": "local/arges/campulung/2023/123",
+   "short": "HCL Câmpulung nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 123/2023 cu privire la modificarea Hotărârii nr. 122 din 30.10.2017 privind aprobarea Regulamentului de vânzare a locuințelor construite prin Agenția Națională pentru Locuințe, precum și a locuințelor proprietate privată a Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2023/HCL%20nr.%20123%20din%2008.06.2023.pdf",
+     "sha256": "4a5bb51cc6d9c7ba2b563a27319b0b18474dbf719ad649fb431ebcc513607fcb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-124-2023",
    "path": "local/arges/campulung/2023/124",
    "short": "HCL Câmpulung nr. 124/2023",
@@ -2729,6 +2744,21 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2023/HCL%20nr.%20278%20din%2028.12.2023.pdf",
      "sha256": "997729caaad7d9849ee17a36cc6045e107877877c000e6269fa53431da478281"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-279-2023",
+   "path": "local/arges/campulung/2023/279",
+   "short": "HCL Câmpulung nr. 279/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 279/2023 privind modificarea Anexei la Hotărârea Consiliului Local nr. 26 din 28.02.2018 pentru aprobarea Normelor de îmbunătățire a activităților edilitar — gospodărești, păstrarea liniștii, comerț, transport, conservarea și protecția mediului precum și constatarea faptelor ce constituie contravenții",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 6,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2023/HCL%20nr.%20279%20din%2028.12.2023.pdf",
+     "sha256": "5f43407ccbe0eab57dcce41ce50b5673eba4cc1cc413b49593ae1e0676986a29"
     }
    ]
   },

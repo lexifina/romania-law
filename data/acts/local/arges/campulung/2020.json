@@ -246,6 +246,28 @@
 }
 },
 {
+"slug": "hcl-arges--campulung-14-2020",
+"path": "local/arges/campulung/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 14/2020 cu privire la modificarea articolului 19 alin. (1) din Regulamentul pentru parcarea vehiculelor, amenajarea, întreținerea și exploatarea locurilor de parcare cu plată situate în zona centrală a [lunicipiului Câmpulung, aprobat prin HCL nr. 23 din 28.03.2019 și modificat prin HCL 143 din 23.12.2019",
+"short": "HCL Câmpulung nr. 14/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-arges--campulung-15-2020",
 "path": "local/arges/campulung/2020/15",
 "kind": "local",
@@ -576,6 +598,28 @@
 "council_name": "Consiliul Local al Municipiului Câmpulung",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--campulung-31-2020",
+"path": "local/arges/campulung/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 31/2020 cu privire la menținerea bonificatiei de 10% aprobată prin HCL nr. 46 / 30.05.2019 pentru plata cu anticipație a impozitelor pe clădiri, terenuri și mijloace de transport prevăzute de art. 462, alin. (2), art. 467, alin. (2), respectiv art. 472, alin. (2) din Legea nr. 227 /2015 privind Codul fiscal, până la data de 30 iunie 2020",
+"short": "HCL Câmpulung nr. 31/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+"council": "arges/campulung",
+"council_name": "Consiliul Local al Municipiului Câmpulung",
+"flags": {
+"text_source": "ocr"
 }
 },
 {

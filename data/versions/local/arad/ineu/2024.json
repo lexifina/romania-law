@@ -3,6 +3,21 @@
  "shard": "local/arad/ineu/2024",
  "acts": [
   {
+   "slug": "hcl-arad--ineu-116-2024",
+   "path": "local/arad/ineu/2024/116",
+   "short": "HCL Ineu nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 116/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2024/06/hotararea-nr.116-din-data-de-13.06.2024_fara-planse.pdf",
+     "sha256": "b945ae5134c4ac881842c46c42b27a095ad895a0b03a9b320fe131aafe942c4a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ineu-215-2024",
    "path": "local/arad/ineu/2024/215",
    "short": "HCL Ineu nr. 215/2024",

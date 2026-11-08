@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/valea-lui-mihai/2019",
+ "acts": [
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-15-2019",
+   "path": "local/bihor/valea-lui-mihai/2019/15",
+   "short": "HCL Valea lui Mihai nr. 15/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 15/2019 privind aprobarea Caietului de sarcini actualizat pentru delegarea gestiunii unor activităţi componente ale serviciului de salubrizare al Oraşului Valea lui Mihai, judeţul Bihor ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-15-din-27.02.2019.pdf",
+     "sha256": "37b069c2ccc32ced74de580703d4108feee0ded488f3ba4f6289441a23e32162"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-76-2019",
+   "path": "local/bihor/valea-lui-mihai/2019/76",
+   "short": "HCL Valea lui Mihai nr. 76/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 76/2019 privind aprobarea Planului Urbanistic Zonal pentru Construire staţie de bază pentru servicii de comunicaţii electronice – antene telefonie mobilă 3G în intravilanul loc",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-10-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-76-din-30.10.2019.pdf",
+     "sha256": "8f77ce98260bfc907dde05ca51b4e77ff2b5099943006e851bfe2ecc8963644e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-77-2019",
+   "path": "local/bihor/valea-lui-mihai/2019/77",
+   "short": "HCL Valea lui Mihai nr. 77/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 77/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-10-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-77-din-30.10.2019.pdf",
+     "sha256": "38bd79caf7c7c37c43d6459efb55c371a6a6568bf0917261c47c8227372b1eb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-79-2019",
+   "path": "local/bihor/valea-lui-mihai/2019/79",
+   "short": "HCL Valea lui Mihai nr. 79/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 79/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-10-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-79-din-30.10.2019.pdf",
+     "sha256": "edcbac541a0d24f1a61b3acbc840c98b277e51ea3772497d716f4555ae4a19ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-97-2019",
+   "path": "local/bihor/valea-lui-mihai/2019/97",
+   "short": "HCL Valea lui Mihai nr. 97/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 97/2019 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile alocate de la bugetul local al Oraşului Valea lui Mihai pentru activități nonprofit de interes local ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/05/hot.-097-din-23.12.2019.pdf",
+     "sha256": "f0c5a862fd331403b744b7a9b867a60d0b16eb581ca2837a4d8c76ee624c766c"
+    }
+   ]
+  }
+ ]
+}

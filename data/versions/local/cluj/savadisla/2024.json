@@ -3,6 +3,21 @@
  "shard": "local/cluj/savadisla/2024",
  "acts": [
   {
+   "slug": "hcl-cluj--savadisla-11-2024",
+   "path": "local/cluj/savadisla/2024/11",
+   "short": "HCL Săvădisla nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 11/2024 aprobarea bugetului local al comunei Savadisla pentru anul 2024",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/141638",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/141638",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--savadisla-124-2024",
    "path": "local/cluj/savadisla/2024/124",
    "short": "HCL Săvădisla nr. 124/2024",
@@ -298,6 +313,111 @@
      "from": "2025-01-06",
      "units": 1,
      "source_url": "https://emol.ro/savadisla-cj/registru-hcl/183952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-17-2024",
+   "path": "local/cluj/savadisla/2024/17",
+   "short": "HCL Săvădisla nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 17/2024 privind aprobarea regulamentului privind atribuirea directă a contractelor de închiriere a pășunilor proprietate privată al comunei Săvădisla,județul Cluj",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/146003",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/146003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-18-2024",
+   "path": "local/cluj/savadisla/2024/18",
+   "short": "HCL Săvădisla nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 18/2024 privind aprobarea criteriilor pentru acordarea unor ajutoare de urgență și ajutoare comunitare, ajutoare de înmormăntare",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/146004",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/146004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-19-2024",
+   "path": "local/cluj/savadisla/2024/19",
+   "short": "HCL Săvădisla nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 19/2024 privind aprobarea Regulamentului privind modul de utilizare a microbuzelor de transport scolar pentru elevii din comuna Săvădisla,județul Cluj",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/146005",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/146005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-27-2024",
+   "path": "local/cluj/savadisla/2024/27",
+   "short": "HCL Săvădisla nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 27/2024 privind aprobarea condițiilor în care se realizează accesul furnizorilor de rețele de comunicații electronice pe proprietatea publică sau privată a comunei Săvădisla, județul Cluj, în vederea construirii, instalării, întreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură fizică necesare susținerii acestora",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/151687",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/151687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-63-2024",
+   "path": "local/cluj/savadisla/2024/63",
+   "short": "HCL Săvădisla nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 63/2024 privind aprobarea Normelor Procedurale Interne aplicabile în cazul atribuirii contractelor de achiziții publice/acordurilor cadru având ca obiect servicii sociale și alte servicii specifice, conform Anexa nr. 2 din Legea 98/2016 privind achizițiile publice, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/153896",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/153896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-77-2024",
+   "path": "local/cluj/savadisla/2024/77",
+   "short": "HCL Săvădisla nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 77/2024 privind actualizarea Organigramei și a Statului de funcții pentru aparatul de specialitate al Primarului comunei Săvădisla",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/158200",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/158200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-79-2024",
+   "path": "local/cluj/savadisla/2024/79",
+   "short": "HCL Săvădisla nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 79/2024 privind reglementarea circulației pe drumurile publice Dc41 și De42 din localitatea Stolna, comuna Săvădisla, județul Cluj",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/160833",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/160833",
      "sha256": null
     }
    ]

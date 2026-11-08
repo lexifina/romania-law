@@ -3,6 +3,21 @@
  "shard": "local/cluj/mihai-viteazu/2024",
  "acts": [
   {
+   "slug": "hcl-cluj--mihai-viteazu-1-2024",
+   "path": "local/cluj/mihai-viteazu/2024/1",
+   "short": "HCL Mihai Viteazu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 1/2024 privind aprobarea rețelei școlare pe raza comunei Mihai Viteazu, jud. Cluj, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/138741",
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/138741",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--mihai-viteazu-100-2024",
    "path": "local/cluj/mihai-viteazu/2024/100",
    "short": "HCL Mihai Viteazu nr. 100/2024",
@@ -138,6 +153,471 @@
    ]
   },
   {
+   "slug": "hcl-cluj--mihai-viteazu-11-2024",
+   "path": "local/cluj/mihai-viteazu/2024/11",
+   "short": "HCL Mihai Viteazu nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 11/2024",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/144958",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/144958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-12-2024",
+   "path": "local/cluj/mihai-viteazu/2024/12",
+   "short": "HCL Mihai Viteazu nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 12/2024 privind alegerea președintelui de ședința al Consiliului Local al Comunei Mihai-Viteazu pe o perioadă de 3 luni",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/144959",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/144959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-13-2024",
+   "path": "local/cluj/mihai-viteazu/2024/13",
+   "short": "HCL Mihai Viteazu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 13/2024 Privind modificarea bugetului pe anul 2024, pentru trimestrul I prin virări de credite intre aliniate, în cadrul aceluiași capitol",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/144960",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/144960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-14-2024",
+   "path": "local/cluj/mihai-viteazu/2024/14",
+   "short": "HCL Mihai Viteazu nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 14/2024 PRIVIND ANALIZA STADIULUI DE ÎNSCRIERE A DATELOR ÎN REGISTRUL AGRICOL PENTRU SEMESTRUL II 2023 ŞI STABILIREA MĂSURILOR PENTRU EFICIENTIZARE A ACESTEI ACTIVITĂŢI",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/144961",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/144961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-15-2024",
+   "path": "local/cluj/mihai-viteazu/2024/15",
+   "short": "HCL Mihai Viteazu nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 15/2024 Insusirea documentatiei cadastrale de dezlipire a imobilului inscris in CF 54973 avand suprafata masurata 5912 mp rezultand imobilul cu numar cadastral 58676, avand suprafata masurata 3302 mp și imobilul cu numar cadastral 58675,avand suprafata masurata 2610 mp",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/144962",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/144962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-19-2024",
+   "path": "local/cluj/mihai-viteazu/2024/19",
+   "short": "HCL Mihai Viteazu nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 19/2024 privind aprobarea programului anual de finanțare nerambursabilă, de la bugetul Comunei Mihai Viteazu , în domeniul sport, cultura – tineret și culte religioase pe anul 2024",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/150220",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/150220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-25-2024",
+   "path": "local/cluj/mihai-viteazu/2024/25",
+   "short": "HCL Mihai Viteazu nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 25/2024 privind stabilirea și indexarea impozitelor și taxelor locale pentru anul 2025, la nivelul Comunei Mihai Viteazu, jud. Cluj",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/154717",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/154717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-29-2024",
+   "path": "local/cluj/mihai-viteazu/2024/29",
+   "short": "HCL Mihai Viteazu nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 29/2024 privind aprobarea contului de execuție al bugetului local la 31 martie 2024",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/154721",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/154721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-39-2024",
+   "path": "local/cluj/mihai-viteazu/2024/39",
+   "short": "HCL Mihai Viteazu nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 39/2024 privind aprobarea contului anual de execuție al bugetului local al comunei Mihai Viteazu și al situațiilor financiare la 31.12.2023",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/158256",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/158256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-4-2024",
+   "path": "local/cluj/mihai-viteazu/2024/4",
+   "short": "HCL Mihai Viteazu nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 4/2024 privind aprobarea normei lunare de carburant pentru autovehiculele și utilajele deținute de către Primăria comunei Mihai Viteazu, jud. Cluj, pentru anul 2024",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/138744",
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/138744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-41-2024",
+   "path": "local/cluj/mihai-viteazu/2024/41",
+   "short": "HCL Mihai Viteazu nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 41/2024 privind Actualizarea inventarului bunurilor aparținând domeniului privat al comunei Mihai Viteazu",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/158258",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/158258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-42-2024",
+   "path": "local/cluj/mihai-viteazu/2024/42",
+   "short": "HCL Mihai Viteazu nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 42/2024 privind rectificarea bugetului local pe anul 2024, trimestrul II",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/158259",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/158259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-44-2024",
+   "path": "local/cluj/mihai-viteazu/2024/44",
+   "short": "HCL Mihai Viteazu nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 44/2024 privind alegerea președintelui de ședința al Consiliului Local al Comunei Mihai-Viteazu pe o perioadă de 3 luni",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/160062",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/160062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-5-2024",
+   "path": "local/cluj/mihai-viteazu/2024/5",
+   "short": "HCL Mihai Viteazu nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 5/2024 privind aprobarea Planului de acțiuni si de lucrări de interes local pentru repartizarea orelor de munca pentru persoanele majore din familia beneficiara de ajutor social pentru anul 2024",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/138745",
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/138745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-50-2024",
+   "path": "local/cluj/mihai-viteazu/2024/50",
+   "short": "HCL Mihai Viteazu nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 50/2024 privind rectificarea bugetului local pe anul 2024, trimestrul II",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/160068",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/160068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-51-2024",
+   "path": "local/cluj/mihai-viteazu/2024/51",
+   "short": "HCL Mihai Viteazu nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 51/2024 privind varianta electronică revizuită a intravilanului aferent Planului Urbanistic General al Comunei MIHAI VITEAZU aprobat prin HOTÂRÂREA CONSILIULUI LOCAL AL COMUNEI MIHAI VITEAZU",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/162075",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/162075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-53-2024",
+   "path": "local/cluj/mihai-viteazu/2024/53",
+   "short": "HCL Mihai Viteazu nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 53/2024 Privind aprobarea dării în administrare a serviciului de iluminat public al Comunei Mihai Viteazu și a infrastructurii tehnico-edilitare aferente",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/162077",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/162077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-59-2024",
+   "path": "local/cluj/mihai-viteazu/2024/59",
+   "short": "HCL Mihai Viteazu nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 59/2024 privind aprobarea contului de execuție al bugetului local pe trimestrul II 2024",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/164217",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/164217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-6-2024",
+   "path": "local/cluj/mihai-viteazu/2024/6",
+   "short": "HCL Mihai Viteazu nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 6/2024 privind aprobarea încheierii Contractului de prestări servicii de permanență intervenție imediată pentru prevenirea și combaterea atacurilor exemplarelor de urs brun din intravilanul comunei Mihai Viteazu , județul Cluj",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/138746",
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/138746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-64-2024",
+   "path": "local/cluj/mihai-viteazu/2024/64",
+   "short": "HCL Mihai Viteazu nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 64/2024 privind rectificarea bugetului local pe anul 2024, trimestrul III cu suma de 122.300 lei provenita din taxe și impozite locale și prin virări de credite intre capitole și aliniate",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/164222",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/164222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-65-2024",
+   "path": "local/cluj/mihai-viteazu/2024/65",
+   "short": "HCL Mihai Viteazu nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 65/2024 privind rectificarea bugetului local pe anul 2024 prin modificarea Cotelor din impozitul pe venit",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/165409",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/165409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-68-2024",
+   "path": "local/cluj/mihai-viteazu/2024/68",
+   "short": "HCL Mihai Viteazu nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 68/2024 Privind modificarea și completarea Hotărârii Consiliului Local al Comunei Mihai Viteazu nr. 53/10.07.2024",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/166752",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/166752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-73-2024",
+   "path": "local/cluj/mihai-viteazu/2024/73",
+   "short": "HCL Mihai Viteazu nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 73/2024 privind rectificarea bugetului local pe anul 2024, trimestrul III",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/166757",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/166757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-74-2024",
+   "path": "local/cluj/mihai-viteazu/2024/74",
+   "short": "HCL Mihai Viteazu nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 74/2024 privind aprobarea planului tarifar actualizat pe aria de operare a Companiei de Apă Arieş SA, pentru perioada 2021-2028",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/170240",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/170240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-75-2024",
+   "path": "local/cluj/mihai-viteazu/2024/75",
+   "short": "HCL Mihai Viteazu nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 75/2024 privind alegerea președintelui de ședința al Consiliului Local al Comunei Mihai-Viteazu pe o perioadă de 3 luni",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/173692",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/173692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-76-2024",
+   "path": "local/cluj/mihai-viteazu/2024/76",
+   "short": "HCL Mihai Viteazu nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 76/2024 privind alegerea Comisiei de validare și numărare a voturilor ale Consiliului Local Mihai-Viteazu",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/173693",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/173693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-77-2024",
+   "path": "local/cluj/mihai-viteazu/2024/77",
+   "short": "HCL Mihai Viteazu nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 77/2024 privind stabilirea numărului comisiilor de specialitate ale Consiliului Local al Comunei Mihai Viteazu denumirea acestora precum și componența comisiilor nr. 1,2, 3",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/173694",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/173694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-81-2024",
+   "path": "local/cluj/mihai-viteazu/2024/81",
+   "short": "HCL Mihai Viteazu nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 81/2024 privind rectificarea bugetului local pe anul 2024, trimestrul IV",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/174238",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/174238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-82-2024",
+   "path": "local/cluj/mihai-viteazu/2024/82",
+   "short": "HCL Mihai Viteazu nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 82/2024 privind aprobarea Studiului de Fezabilitate și a indicatorilor tehnico-economici pentru Proiectul regional de dezvoltare a infrastructurii de apa și apa uzata din regiunea Turda-Campia Turzii, în perioada 2014-2020",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/174239",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/174239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-83-2024",
+   "path": "local/cluj/mihai-viteazu/2024/83",
+   "short": "HCL Mihai Viteazu nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 83/2024 privind aprobarea normei lunare de carburant",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/174240",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/174240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-84-2024",
+   "path": "local/cluj/mihai-viteazu/2024/84",
+   "short": "HCL Mihai Viteazu nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 84/2024 privind execuția bugetului de venituri și cheltuieli al Comunei Mihai Viteazu la 30.09.2024",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/174241",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/174241",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--mihai-viteazu-89-2024",
    "path": "local/cluj/mihai-viteazu/2024/89",
    "short": "HCL Mihai Viteazu nr. 89/2024",
@@ -148,6 +628,21 @@
      "from": "2024-11-12",
      "units": 1,
      "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/174246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mihai-viteazu-9-2024",
+   "path": "local/cluj/mihai-viteazu/2024/9",
+   "short": "HCL Mihai Viteazu nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 9/2024 privind aprobarea Bugetului local al comunei Mihai Viteazu Jud.Cluj, pe anul 2024",
+   "url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/141185",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-cj/registru-hcl/141185",
      "sha256": null
     }
    ]

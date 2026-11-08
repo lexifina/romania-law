@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/valea-lui-mihai/2016",
+ "acts": [
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-9-2016",
+   "path": "local/bihor/valea-lui-mihai/2016/9",
+   "short": "HCL Valea lui Mihai nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 9/2016 privind respingerea unor cereri de scutire de plată a impozitelor şi taxelor locale pe anul 2016 ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2016-07-08",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/07/hot._9_din_08_.07_.2016_._.pdf",
+     "sha256": "6d2e886c2f492e3c866db8c041e5c501c8986539f00fb3e02dd5cb6e1e9aa4c9"
+    }
+   ]
+  }
+ ]
+}

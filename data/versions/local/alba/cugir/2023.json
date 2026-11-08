@@ -3,6 +3,51 @@
  "shard": "local/alba/cugir/2023",
  "acts": [
   {
+   "slug": "hcl-alba--cugir-196-2023",
+   "path": "local/alba/cugir/2023/196",
+   "short": "HCL Cugir nr. 196/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 196/2023 privind stabilirea cantităților de masă lemnoasă ce se va recolta în anul 2024 în baza amenajamentului silvic și al prețurilor de referință pe anul 2024 pentru masa lemnoasă care se va recolta din fondul forestier proprietate publică a orașului Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 25 octombrie 2023; Luând în dezbatere: -Proiectul",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P80",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.196,_Stabilire_preturi_de_referinta_masa_lemnoasa_2024_.docx",
+     "sha256": "e4b8c7088ec7722610469db5a679b2c7e1f2fe0fce7a9e8429c2602d394b6836"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-199-2023",
+   "path": "local/alba/cugir/2023/199",
+   "short": "HCL Cugir nr. 199/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 199/2023 privind modificarea HCL nr. 179/2023 privind asigurarea gratuității pentru elevii din învățământul preuniversitar acreditat/autorizat de pe raza administrativ-teritorială a Orașului Cugir la transportul public local de persoane precum și aprobarea Regulamentului pentru transportul public local rutier gratuit al elevilor din învățământul preuniversitar acreditat/autorizat de pe raza administrativ-t",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P80",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.199,_Modificare_Regulament_gratuitate_transport_elevi_.doc",
+     "sha256": "9c34bdfd0b158089f16ff594cc9ee638b63e59009ff0181ef4992dca015b1242"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-217-2023",
+   "path": "local/alba/cugir/2023/217",
+   "short": "HCL Cugir nr. 217/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 217/2023 privind modificarea și completarea Regulamentului de organizare și funcționare al serviciului social CENTRU DE ASISTENȚĂ ȘI RECUPERARE PENTRU PERSOANE VÂRSTNICE - LOTUS (cod serviciu 8810CZ-V-I) din subordinea Serviciului Public de Asistență Socială Cugir, aprobat prin HCL nr.159/2022 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 25 octombrie 2",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P60",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.217,_Completare_ROF_Lotus_HCL_159_din_2022_.docx",
+     "sha256": "93b02278c53718d8357aebc11960a7c9972b02ce4eaa09e9429ff36baaa48cea"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--cugir-235-2023",
    "path": "local/alba/cugir/2023/235",
    "short": "HCL Cugir nr. 235/2023",

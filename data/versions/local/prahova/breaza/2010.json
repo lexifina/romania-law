@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/breaza/2010",
+ "acts": [
+  {
+   "slug": "hcl-prahova--breaza-79-2010",
+   "path": "local/prahova/breaza/2010/79",
+   "short": "HCL Breaza nr. 79/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 79/2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-08-26",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1283842438hot79.pdf",
+     "sha256": "62372e8af9b87a3404e6143af5310e82ab58fd2d62a859a2b8e0b4074b6b6d7e"
+    }
+   ]
+  }
+ ]
+}

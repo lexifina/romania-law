@@ -1506,6 +1506,50 @@
 "metadata_only": "individual",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-hunedoara--vulcan-102-2020",
+"path": "local/hunedoara/vulcan/2020/102",
+"kind": "local",
+"year": "2020",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 102/2020 privind aprobarea Regulamentului de funcționare a pieței agroalimentare Vulcan Consiliul Local al Municipiului Vulcan, întrunit în ședința ordinară din data de 27.08.2020; Analizând Proiectul de hotărâre nr. 94/24/23.07.2020 și Referatul de aprobare al primarului municipiului Vulcan nr. 94/1/25/23.07.2020 din care reiese necesitatea și oportunitatea adoptării unei hotărâri privind aprobarea Regula",
+"short": "HCL Vulcan nr. 102/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl102-0000aa82?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-hunedoara--vulcan-129-2020",
+"path": "local/hunedoara/vulcan/2020/129",
+"kind": "local",
+"year": "2020",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 129/2020 privind constituirea Comisiei locale de ordine publică la nivelul municipiului Vulcan Consiliul Local al Municipiului Vulcan, întrunit în ședința ordinară din data de 30.10.2020, Analizând Proiectul de hotărâre nr. 124/1/24/26.10.2020 și Referatul de aprobare nr. 124/1/25/26.10.2020 întocmit de către Primarul Municipiului Vulcan din care reiese necesitatea și oportunitatea adoptării unei hotărâri",
+"short": "HCL Vulcan nr. 129/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl-129-0000ae9a?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"text_withheld": "personal_data"
+}
 }
 ]
 }

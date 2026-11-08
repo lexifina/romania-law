@@ -1428,6 +1428,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-32-2026",
+   "path": "local/arges/campulung/2026/32",
+   "short": "HCL Câmpulung nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 32/2026",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2026/HCL%20nr.%2032%20din%2026.02.2026.pdf",
+     "sha256": "f9eb1ac5f6df5278131bf18fb882fafb7dfce517de4e5238278f60fa9829cd33"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-36-2026",
    "path": "local/arges/campulung/2026/36",
    "short": "HCL Câmpulung nr. 36/2026",

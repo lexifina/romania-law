@@ -3,6 +3,51 @@
 "shard": "local/salaj/simleu-silvaniei/2016",
 "acts": [
 {
+"slug": "hcl-salaj--simleu-silvaniei-10-2016",
+"path": "local/salaj/simleu-silvaniei/2016/10",
+"kind": "local",
+"year": "2016",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 10/2016 privind actualizarea Nomenclatorului stradal al orașului Șimleu Silvaniei și al localităților componente, precum și modificarea încadrării străzilor din intravilanul orașului Șimleu Silvaniei pe zone în vederea stabilirii impozitului pe clădiri și a impozitului pe teren conform Legii nr.227/2015 privind Codul fiscal Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință p",
+"short": "HCL Șimleu Silvaniei nr. 10/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-02-29",
+"latest": "2016-02-29",
+"portal": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2016/page/13/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-salaj--simleu-silvaniei-82-2016",
+"path": "local/salaj/simleu-silvaniei/2016/82",
+"kind": "local",
+"year": "2016",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 82/2016 privind aprobarea Regulamentului de organizare și func ionare a Consiliului Local al Orașului Șimleu Silvaniei Consiliul Local al Orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință ordinară în data de 29 septembrie 2016; Având în vedere Expunerea de motive nr.13156/2016 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.13157/2016 al Secretarului delegat și Avizul Comis",
+"short": "HCL Șimleu Silvaniei nr. 82/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-09-29",
+"latest": "2016-09-29",
+"portal": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2016/page/5/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcl-salaj--simleu-silvaniei-118-2016",
 "path": "local/salaj/simleu-silvaniei/2016/118",
 "kind": "local",

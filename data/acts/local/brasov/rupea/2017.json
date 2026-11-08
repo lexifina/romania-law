@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/brasov/rupea/2017",
+"acts": [
+{
+"slug": "hcl-brasov--rupea-20-2017",
+"path": "local/brasov/rupea/2017/20",
+"kind": "local",
+"year": "2017",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 20/2017 privind aprobare Regulament organizare şi funcţionare manual de proceduri şi Carta Drepturilor şi Cod etic Cantină Socială",
+"short": "HCL Rupea nr. 20/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-04-12",
+"latest": "2017-04-12",
+"portal": "https://www.primariarupea.ro/hotarari-consiliu-local-2017/",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

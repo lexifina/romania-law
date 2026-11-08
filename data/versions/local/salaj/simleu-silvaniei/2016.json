@@ -3,6 +3,21 @@
  "shard": "local/salaj/simleu-silvaniei/2016",
  "acts": [
   {
+   "slug": "hcl-salaj--simleu-silvaniei-10-2016",
+   "path": "local/salaj/simleu-silvaniei/2016/10",
+   "short": "HCL Șimleu Silvaniei nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 10/2016 privind actualizarea Nomenclatorului stradal al orașului Șimleu Silvaniei și al localităților componente, precum și modificarea încadrării străzilor din intravilanul orașului Șimleu Silvaniei pe zone în vederea stabilirii impozitului pe clădiri și a impozitului pe teren conform Legii nr.227/2015 privind Codul fiscal Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință p",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2016/page/13/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 8,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/03/HCL-nr.10-din-29.02.2016.pdf",
+     "sha256": "52ff3aa8e0f3cc5a9a344d48677f21a0ad5a547dfbc3551ad3feed4f444116db"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-118-2016",
    "path": "local/salaj/simleu-silvaniei/2016/118",
    "short": "HCL Șimleu Silvaniei nr. 118/2016",
@@ -29,6 +44,21 @@
      "units": 7,
      "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/03/HCL-nr.124-din-20.12.2016.pdf",
      "sha256": "b93d549745e5322f882254bbb288dcd513607f72db92b9474267134d8b7fb147"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-82-2016",
+   "path": "local/salaj/simleu-silvaniei/2016/82",
+   "short": "HCL Șimleu Silvaniei nr. 82/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 82/2016 privind aprobarea Regulamentului de organizare și func ionare a Consiliului Local al Orașului Șimleu Silvaniei Consiliul Local al Orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință ordinară în data de 29 septembrie 2016; Având în vedere Expunerea de motive nr.13156/2016 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.13157/2016 al Secretarului delegat și Avizul Comis",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2016/page/5/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 6,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/03/HCL-nr.-82-din-29.09.-2016.pdf",
+     "sha256": "98e130dde3df8450a10d8d6b47a726aff9a97f7923f685cd2b0e1b58d6b85d43"
     }
    ]
   }

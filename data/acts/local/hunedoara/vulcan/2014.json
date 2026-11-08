@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/vulcan/2014",
+"acts": [
+{
+"slug": "hcl-hunedoara--vulcan-71-2014",
+"path": "local/hunedoara/vulcan/2014/71",
+"kind": "local",
+"year": "2014",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 71/2014 pentru aprobarea Regulamentului de funcționare a parcărilor cu plată din Municipiul Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând nota de fundamentare a Primarului Municipiului Vulcan, prin care se propune aprobarea Regulamentului de funcționare a parcărilor cu plată din Municipiul Vulcan; Văzând raportul compartimentului de resort din cadrul aparatului de specialitate al primarului mun",
+"short": "HCL Vulcan nr. 71/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-08-28",
+"latest": "2014-08-28",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2014-000030e6?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

@@ -168,6 +168,81 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-190-2021",
+   "path": "local/ilfov/buftea/2021/190",
+   "short": "HCL Buftea nr. 190/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 190/2021 privind aprobarea documentaţiei de urbanism PLAN URBANISTIC ZONAL “ANSAMBLU IMOBILE LOCUINŢE COLECTIVE P+3E+4R, IMOBIL SERVICII COMERŢ S+P+1E, REABILITARE HALĂ EXISTENTĂ ŞI SCHIMBARE DESTINAŢIE ÎN SALĂ DE ACTIVITĂŢI SPORTIVE P+1E, CLĂDIRE ÎNVĂŢĂMÂNT”, amplasat",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2021/190.pdf",
+     "sha256": "4f3189316c9f6dd3175db2ebb4fa1e97a7c3fb91a5b2478ee4bee76aa6af08ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-191-2021",
+   "path": "local/ilfov/buftea/2021/191",
+   "short": "HCL Buftea nr. 191/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 191/2021 privind aprobarea documentaţiei de urbanism „PLAN URBANISTIC ZONAL, ANSAMBLU REZIDENŢIAL S+P+2E – S+P+2E+M ŞI FUNCŢIUNI CONEXE LOCUIRII COLECTIVE, ÎMPREJMUIRE, RACORDURI/ BRANŞAMENTE LA UTILITĂŢI”, amplasat în oraşul Buftea, judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2021/191.pdf",
+     "sha256": "6adbc7992b8cfdba18f035fa418abf954a438a0aea4dfe889b20abdf38696dd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-193-2021",
+   "path": "local/ilfov/buftea/2021/193",
+   "short": "HCL Buftea nr. 193/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 193/2021 privind aprobarea documentaţiei de urbanism PLAN URBANISTIC ZONAL „CONSTRUIRE ANSAMBLU LOCUINŢE P+2E”, amplasat în oraşul Buftea, judeţul Ilfov, număr cadastral 64222",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2021/193.pdf",
+     "sha256": "9866f9ce9a7fe30ed44d5e2c5146e458ad665ce9953db5aef2425eee0e7b7cc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-194-2021",
+   "path": "local/ilfov/buftea/2021/194",
+   "short": "HCL Buftea nr. 194/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 194/2021 privind aprobarea documentaţiei de urbanism PUZ – ,,LOTIZARE ŞI CONSTRUIRE ANSAMBLU LOCUINŢE P+2f “, amplasat în oraşul Buftea, judeţul Ilfov, număr cadastral 64101",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2021/194.pdf",
+     "sha256": "2beb0fd3c63e3a147e834d84084ee3470b7c1ed531c4527e4aa67eab9e807d35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-195-2021",
+   "path": "local/ilfov/buftea/2021/195",
+   "short": "HCL Buftea nr. 195/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 195/2021 privind aprobarea documentaţiei de urbanism PLAN URBANISTIC ZONAL ,,LOTIZARE ŞI CONSTRUIRE ANSAMBLU DE LOCUINŢE P+2f “, amplasat în oraşul Buftea, judeţul Ilfov, număr cadastral 64098",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2021/195.pdf",
+     "sha256": "f835aed2e1ef3dd4da7c0293ca77c8d0416f7fe4ceb75006f511b18ad930b79a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-30-2021",
    "path": "local/ilfov/buftea/2021/30",
    "short": "HCL Buftea nr. 30/2021",

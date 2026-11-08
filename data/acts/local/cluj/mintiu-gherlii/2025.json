@@ -3,6 +3,72 @@
 "shard": "local/cluj/mintiu-gherlii/2025",
 "acts": [
 {
+"slug": "hcl-cluj--mintiu-gherlii-8-2025",
+"path": "local/cluj/mintiu-gherlii/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 8/2025 privind aprobarea bugetului general de venituri si cheltuieli al COMUNEI MINTIU GHERLII PE ANUL 2025",
+"short": "HCL Mintiu Gherlii nr. 8/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-03",
+"latest": "2025-04-03",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/200008",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-26-2025",
+"path": "local/cluj/mintiu-gherlii/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 26/2025 privind aprobarea Statutului UAT Mintiu Gherlii",
+"short": "HCL Mintiu Gherlii nr. 26/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/222733",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-27-2025",
+"path": "local/cluj/mintiu-gherlii/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 27/2025 privind aprobarea Regulamentului de Organizare si Functionare al Consiliului Local al comunei Mintiu Gherlii",
+"short": "HCL Mintiu Gherlii nr. 27/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/222734",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-cluj--mintiu-gherlii-30-2025",
 "path": "local/cluj/mintiu-gherlii/2025/30",
 "kind": "local",

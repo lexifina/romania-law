@@ -243,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--adjud-45-2011",
+   "path": "local/vrancea/adjud/2011/45",
+   "short": "HCL Adjud nr. 45/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 45/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-19",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-11-43HCL_89.pdf",
+     "sha256": "31cf612cfc31a29830752bd6f7b432870480794c8307da764bff46784b18d741"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--adjud-6-2011",
    "path": "local/vrancea/adjud/2011/6",
    "short": "HCL Adjud nr. 6/2011",

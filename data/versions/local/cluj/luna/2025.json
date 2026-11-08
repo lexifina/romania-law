@@ -3,6 +3,21 @@
  "shard": "local/cluj/luna/2025",
  "acts": [
   {
+   "slug": "hcl-cluj--luna-15-2025",
+   "path": "local/cluj/luna/2025/15",
+   "short": "HCL Luna nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 15/2025 privind indexarea impozitelor si taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/luna-cj/registru-hcl/204427",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/204427",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--luna-27-2025",
    "path": "local/cluj/luna/2025/27",
    "short": "HCL Luna nr. 27/2025",

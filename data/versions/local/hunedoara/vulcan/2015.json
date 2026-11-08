@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/vulcan/2015",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--vulcan-101-2015",
+   "path": "local/hunedoara/vulcan/2015/101",
+   "short": "HCL Vulcan nr. 101/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 101/2015 privind aprobarea distribuirii agentului termic în sistem centralizat și stabilirea tarifului de distribuție a energiei termice pentru anul de termoficare 2015-2016 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN , Analizând Expunerea de motive a Primarului Municipiului Vulcan, dl",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2015-0000270e?OpenDocument",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/BBC9435A678667C6C225811E0040107E/$FILE/HCL%20101.pdf",
+     "sha256": "bb2a11e780ea96bbc6de95921a013c6ce34cafb89e5842a50f30426952cdf86d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-108-2015",
+   "path": "local/hunedoara/vulcan/2015/108",
+   "short": "HCL Vulcan nr. 108/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 108/2015 privind stabilirea impozitelor și taxelor locale pe anul 2016",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2015-0000270e?OpenDocument",
+   "versions": [
+    {
+     "from": "2015-11-09",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/8EDCCB14F2F4FFB2C225811E004011DB/$FILE/HCL%20108.pdf",
+     "sha256": "e0264f57f921c4988054ac2b6c3be509c13de9add88ac56a443e128e0bdd1364"
+    }
+   ]
+  }
+ ]
+}

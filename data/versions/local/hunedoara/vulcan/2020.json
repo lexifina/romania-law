@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--vulcan-102-2020",
+   "path": "local/hunedoara/vulcan/2020/102",
+   "short": "HCL Vulcan nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 102/2020 privind aprobarea Regulamentului de funcționare a pieței agroalimentare Vulcan Consiliul Local al Municipiului Vulcan, întrunit în ședința ordinară din data de 27.08.2020; Analizând Proiectul de hotărâre nr. 94/24/23.07.2020 și Referatul de aprobare al primarului municipiului Vulcan nr. 94/1/25/23.07.2020 din care reiese necesitatea și oportunitatea adoptării unei hotărâri privind aprobarea Regula",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl102-0000aa82?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/595E8633078EAE01C225860000290135/$FILE/HCL%20102.pdf",
+     "sha256": "d617bd983322c53133b65dfe0df8547fcdaea14ab42447f0fcf3f819a443ac3e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vulcan-12-2020",
    "path": "local/hunedoara/vulcan/2020/12",
    "short": "HCL Vulcan nr. 12/2020",
@@ -44,6 +59,21 @@
      "units": 1,
      "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/6329789EDC54E05BC225851B00335CC9/$FILE/Hcl%2012.pdf",
      "sha256": "47301ae25a4297c494e45d54444fe8f04ed840bb8cc5111d4aed8ff3d445d181"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-129-2020",
+   "path": "local/hunedoara/vulcan/2020/129",
+   "short": "HCL Vulcan nr. 129/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 129/2020 privind constituirea Comisiei locale de ordine publică la nivelul municipiului Vulcan Consiliul Local al Municipiului Vulcan, întrunit în ședința ordinară din data de 30.10.2020, Analizând Proiectul de hotărâre nr. 124/1/24/26.10.2020 și Referatul de aprobare nr. 124/1/25/26.10.2020 întocmit de către Primarul Municipiului Vulcan din care reiese necesitatea și oportunitatea adoptării unei hotărâri",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl-129-0000ae9a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/EBBA4907B0DBD5E1C225863A004B77DB/$FILE/HCL%20129.pdf",
+     "sha256": "b1d84d5ce2ca4e0c15530fc2d1593bbbb0336f20c5fc31a8dcb5f1e53694818f"
     }
    ]
   },

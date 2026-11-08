@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/salaj/simleu-silvaniei/2023",
+"acts": [
+{
+"slug": "hcl-salaj--simleu-silvaniei-15-2023",
+"path": "local/salaj/simleu-silvaniei/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 15/2023 privind aprobarea Regulamentului privind organizarea și desfășurarea activităților comerciale și a serviciilor de piață în orașul Șimleu Silvaniei, județul Sălaj Consiliul Local Șimleu Silvaniei, întrunit în ședință ordinară, Având în vedere: -Referatul de aprobare nr.21478/2022 al Primarul orașului Șimleu Silvaniei -Raportul de specialitate nr.21479/2022 al Compartimentului autorizare activități",
+"short": "HCL Șimleu Silvaniei nr. 15/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/3/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-salaj--simleu-silvaniei-19-2023",
+"path": "local/salaj/simleu-silvaniei/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 19/2023 privind constituirea la nivelul orașului Șimleu Silvaniei a Comisiei Locale de Ordine Publică și aprobarea Regulamentului de organizare și funcționare al acesteia Consiliul Local Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr.1297/2023 al Primarul orașului Șimleu Silvaniei privind necesitatea constituirii la nivelul orașului Șimleu Silvanie",
+"short": "HCL Șimleu Silvaniei nr. 19/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/3/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

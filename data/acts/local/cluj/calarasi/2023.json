@@ -3,6 +3,117 @@
 "shard": "local/cluj/calarasi/2023",
 "acts": [
 {
+"slug": "hcl-cluj--calarasi-4-2023",
+"path": "local/cluj/calarasi/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 4/2023 privind aprobarea bugetului local de venituri și cheltuieli an 2023",
+"short": "HCL Călărași nr. 4/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-03",
+"latest": "2023-02-03",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/86467",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-6-2023",
+"path": "local/cluj/calarasi/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 6/2023 privind aprobarea reţelei şcolare de pe raza teritorială a Comunei Călărași, județul Cluj, pentru anul şcolar 2023-2024",
+"short": "HCL Călărași nr. 6/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-03",
+"latest": "2023-02-03",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/86469",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-24-2023",
+"path": "local/cluj/calarasi/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 24/2023 privind indexarea cu rata inflației a taxelor și impozitelor locale pentru anul 2024",
+"short": "HCL Călărași nr. 24/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-04",
+"latest": "2023-05-04",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/101901",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-25-2023",
+"path": "local/cluj/calarasi/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 25/2023 privind stabilire coeficienți de ierarhizare a salarizării pentru funcțiile publice și personalul contractual din aparatul de specialitate al primarului comunei Călărași, județul Cluj",
+"short": "HCL Călărași nr. 25/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-04",
+"latest": "2023-05-04",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/101902",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-38-2023",
+"path": "local/cluj/calarasi/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 38/2023",
+"short": "HCL Călărași nr. 38/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-25",
+"latest": "2023-07-25",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/113229",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--calarasi-41-2023",
 "path": "local/cluj/calarasi/2023/41",
 "kind": "local",

@@ -3,6 +3,28 @@
 "shard": "local/brasov/ghimbav/2023",
 "acts": [
 {
+"slug": "hcl-brasov--ghimbav-16-2023",
+"path": "local/brasov/ghimbav/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 16/2023 pentru Copii Abandonați de la plata impozitului pe clădire și teren aferent anului 2023 Vizualizare",
+"short": "HCL Ghimbav nr. 16/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-brasov--ghimbav-24-2023",
 "path": "local/brasov/ghimbav/2023/24",
 "kind": "local",

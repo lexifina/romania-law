@@ -3,6 +3,636 @@
  "shard": "local/caras-severin/lupac/2021",
  "acts": [
   {
+   "slug": "hcl-caras-severin--lupac-10-2021",
+   "path": "local/caras-severin/lupac/2021/10",
+   "short": "HCL Lupac nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 10/2021 privind reorganizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat acreditate de pe raza comunei Lupac pentru anul şcolar 2021-2022",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/19640",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/19640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-15-2021",
+   "path": "local/caras-severin/lupac/2021/15",
+   "short": "HCL Lupac nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 15/2021 privind efectuării unor plăţi din suma preluată în bugetul anului 2021 din excedentul bugetului local la data de 31.12.2020",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/19645",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/19645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-16-2021",
+   "path": "local/caras-severin/lupac/2021/16",
+   "short": "HCL Lupac nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 16/2021 privind aprobarea procesului-verbal din data de 24 februarie 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/22191",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/22191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-17-2021",
+   "path": "local/caras-severin/lupac/2021/17",
+   "short": "HCL Lupac nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 17/2021 privind stabilirea impozitelor şi taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/22192",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/22192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-18-2021",
+   "path": "local/caras-severin/lupac/2021/18",
+   "short": "HCL Lupac nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 18/2021 privind aprobarea solicitării prelungirii Scrisorii de garantie nr. 279/26.06.2018 de la FNGCIMM SA IFN in valoare de 500.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 500.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – „Modernizare şi dotare cămin cultural Lupac”",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/22193",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/22193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-19-2021",
+   "path": "local/caras-severin/lupac/2021/19",
+   "short": "HCL Lupac nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 19/2021 privindaprobarea solicitării prelungirii Scrisorii de garantie nr. 281/26.06.2018 de la FNGCIMM SA IFN in valoare de 434.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 434.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – „Modernizare şi dotare cămin cultural Rafnic”",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/22194",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/22194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-2-2021",
+   "path": "local/caras-severin/lupac/2021/2",
+   "short": "HCL Lupac nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 2/2021 privind aprobarea procesului-verbal al ședinței ordinare din data de 16 decembrie 2020",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/17714",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/17714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-21-2021",
+   "path": "local/caras-severin/lupac/2021/21",
+   "short": "HCL Lupac nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 21/2021 privind aprobarea procesului-verbal din data de 31 martie 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/24985",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/24985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-24-2021",
+   "path": "local/caras-severin/lupac/2021/24",
+   "short": "HCL Lupac nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 24/2021 privind adoptarea bugetului local al comunei Lupac pe anul 2021 şi estimările pentru 2022-2024",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/24988",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/24988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-25-2021",
+   "path": "local/caras-severin/lupac/2021/25",
+   "short": "HCL Lupac nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 25/2021 privind stabilirea cuantumului burselor de merit și a burselor de ajutor social pentru anul 2021 la nivelul comunei Lupac",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/24989",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/24989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-26-2021",
+   "path": "local/caras-severin/lupac/2021/26",
+   "short": "HCL Lupac nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 26/2021 privind aprobarea contului de execuţie bugetară pe trimestrul I al anului 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/24990",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/24990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-27-2021",
+   "path": "local/caras-severin/lupac/2021/27",
+   "short": "HCL Lupac nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 27/2021 privind efectuării unor plăţi din suma preluată în bugetul anului 2021 din excedentul bugetului local la data de 31.12.2020",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/24991",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/24991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-28-2021",
+   "path": "local/caras-severin/lupac/2021/28",
+   "short": "HCL Lupac nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 28/2021 privind aprobarea procesului-verbal din data de 20 aprilie 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/28718",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/28718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-29-2021",
+   "path": "local/caras-severin/lupac/2021/29",
+   "short": "HCL Lupac nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 29/2021 privind aprobarea înființării Serviciului public de Gospodarie comunala LUPAC , județul CARAS-SEVERIN",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/28719",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/28719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-3-2021",
+   "path": "local/caras-severin/lupac/2021/3",
+   "short": "HCL Lupac nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 3/2021 privind aprobarea planului de lucrări de interes local pentru beneficiarii de ajutor social",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/17715",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/17715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-30-2021",
+   "path": "local/caras-severin/lupac/2021/30",
+   "short": "HCL Lupac nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 30/2021 privind rectificare bugetului de venituri şi cheltuieli pe anul 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/28720",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/28720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-31-2021",
+   "path": "local/caras-severin/lupac/2021/31",
+   "short": "HCL Lupac nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 31/2021 privindaprobarea procesului-verbal din data de 26 mai 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/28815",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/28815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-33-2021",
+   "path": "local/caras-severin/lupac/2021/33",
+   "short": "HCL Lupac nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 33/2021 privind aprobare terecerii din domeniul public în domeniul privat al comunei Lupac a imobilului reprezentând teren identificat în CF nr.32517, nr. cadastral 32517 în suprafața de 719 mp situat în intravilanul localității Rafnic",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/28817",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/28817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-34-2021",
+   "path": "local/caras-severin/lupac/2021/34",
+   "short": "HCL Lupac nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 34/2021 privind aprobarea stutului comunei Lupac, județul Caraș-Severin",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/28818",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/28818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-35-2021",
+   "path": "local/caras-severin/lupac/2021/35",
+   "short": "HCL Lupac nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 35/2021 privind aprobarea suplimentării bugetului proiectului ”Achiziție tractor în comuna Lupac, județul Caraș-Severin” finanțat în baza contractului 1920074X223751102780 din data de 28.12.2018",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/28819",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/28819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-36-2021",
+   "path": "local/caras-severin/lupac/2021/36",
+   "short": "HCL Lupac nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 36/2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/28820",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/28820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-39-2021",
+   "path": "local/caras-severin/lupac/2021/39",
+   "short": "HCL Lupac nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 39/2021 privind aprobarea procesului-verbal din data de 30 iunie 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/35343",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/35343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-4-2021",
+   "path": "local/caras-severin/lupac/2021/4",
+   "short": "HCL Lupac nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 4/2021 privind aprobarea contractării de servicii juridice de consultanţă, de asistenţă şi/sau de reprezentare a comunei Lupac, pentru anul 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/17716",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/17716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-42-2021",
+   "path": "local/caras-severin/lupac/2021/42",
+   "short": "HCL Lupac nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 42/2021 privind rectificare bugetului de venituri şi cheltuieli pe anul 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/35346",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/35346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-43-2021",
+   "path": "local/caras-severin/lupac/2021/43",
+   "short": "HCL Lupac nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 43/2021 privind cu privire la aprobarea procesului-verbal din data de 29 iulie 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/35484",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/35484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-45-2021",
+   "path": "local/caras-severin/lupac/2021/45",
+   "short": "HCL Lupac nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 45/2021 privind aprobarea obligațiilor legale privind colectarea, selectivă a deșeurilor reciclabile, gestionarea deșeurilor de ambalaje",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/35486",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/35486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-46-2021",
+   "path": "local/caras-severin/lupac/2021/46",
+   "short": "HCL Lupac nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 46/2021 privind stabilirea preţurilor minime de concesiune a terenurilor aflate în proprietatea comunei Lupac şi administrarea Consiliului Local",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/35487",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/35487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-47-2021",
+   "path": "local/caras-severin/lupac/2021/47",
+   "short": "HCL Lupac nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 47/2021 privind rectificare bugetului de venituri şi cheltuieli pe anul 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/35488",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/35488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-48-2021",
+   "path": "local/caras-severin/lupac/2021/48",
+   "short": "HCL Lupac nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 48/2021 privind modificarea indicatorilor tehnico-economici aferenti lucrarilor la obiectivul de investitie: “Extindere și reabilitare rețea de distribuție apă, realizare sistem de tratare și înmagazinare apă în localitatea Lupac, Comuna Lupac, județul Caraș-Severin” privind asigurarea finantarii de la bugetul local a categoriilor de cheltuieli care nu se finanteaza de la bugetul de stat prin PNDL",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/38637",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/38637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-49-2021",
+   "path": "local/caras-severin/lupac/2021/49",
+   "short": "HCL Lupac nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 49/2021 privind aprobarea procesului-verbal din data de 31 august 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/38667",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/38667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-50-2021",
+   "path": "local/caras-severin/lupac/2021/50",
+   "short": "HCL Lupac nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 50/2021 privind aprobarea Înfinţare, Regulamentul si Caietul de sarcini, a serviciului public de canalizare al comunei Lupac",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/38668",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/38668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-52-2021",
+   "path": "local/caras-severin/lupac/2021/52",
+   "short": "HCL Lupac nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 52/2021 privind rectificare bugetului de venituri şi cheltuieli pe anul 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/38670",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/38670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-53-2021",
+   "path": "local/caras-severin/lupac/2021/53",
+   "short": "HCL Lupac nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 53/2021 privind modificarea indicatorilor tehnico-economici aferenti lucrarilor la obiectivul de investitie: “Extindere și reabilitare rețea de distribuție apă, realizare sistem de tratare și înmagazinare apă în localitatea Lupac, Comuna Lupac, județul Caraș-Severin” privind asigurarea finantarii de la bugetul local a categoriilor de cheltuieli care nu se finanteaza de la bugetul de stat prin PNDL",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/38671",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/38671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-54-2021",
+   "path": "local/caras-severin/lupac/2021/54",
+   "short": "HCL Lupac nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 54/2021 privind modificarea indicatorilor tehnico-economici aferenti lucrarilor la obiectivul de investitie: “Modernizare strazi rurale in comuna Lupac, județul Caraș-Severin” privind asigurarea finantarii de la bugetul local a categoriilor de cheltuieli care nu se finanteaza de la bugetul de stat prin PNDL",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/38672",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/38672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-56-2021",
+   "path": "local/caras-severin/lupac/2021/56",
+   "short": "HCL Lupac nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 56/2021 privind aprobarea procesului-verbal din data de 28 septembrie 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/43670",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/43670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-57-2021",
+   "path": "local/caras-severin/lupac/2021/57",
+   "short": "HCL Lupac nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 57/2021 privind rectificare bugetului de venituri şi cheltuieli pe anul 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/43671",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/43671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-58-2021",
+   "path": "local/caras-severin/lupac/2021/58",
+   "short": "HCL Lupac nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 58/2021 privind aprobarea contului de execuţie bugetară pe trimestrul III al anului 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/43672",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/43672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-59-2021",
+   "path": "local/caras-severin/lupac/2021/59",
+   "short": "HCL Lupac nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 59/2021 privind alocarea sumei de 25.000 lei pentru lucrarea „Decolmatare pârâu și apărare mal Lupac”",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/43673",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/43673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-60-2021",
+   "path": "local/caras-severin/lupac/2021/60",
+   "short": "HCL Lupac nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 60/2021 privind alocarea sumei de 100.000 lei pentru lucrarea „Reabilitare bază sportivă Lupac”",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/43674",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/43674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-61-2021",
+   "path": "local/caras-severin/lupac/2021/61",
+   "short": "HCL Lupac nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 61/2021 privind alocarea sumei de 42.000 lei pentru lucrarea „Reabilitare punte carosabilă în localitatea Lupac”",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/43675",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/43675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-63-2021",
+   "path": "local/caras-severin/lupac/2021/63",
+   "short": "HCL Lupac nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 63/2021 privind aprobarea procesului-verbal din data de 18 octombrie 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/46320",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/46320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-64-2021",
+   "path": "local/caras-severin/lupac/2021/64",
+   "short": "HCL Lupac nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 64/2021 privind înființarea serviciului de iluminat public, Comuna Lupac",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/46321",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/46321",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-65-2021",
    "path": "local/caras-severin/lupac/2021/65",
    "short": "HCL Lupac nr. 65/2021",
@@ -73,6 +703,21 @@
      "from": "2021-11-25",
      "units": 1,
      "source_url": "https://emol.ro/lupac-cs/registru-hcl/46326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-7-2021",
+   "path": "local/caras-severin/lupac/2021/7",
+   "short": "HCL Lupac nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 7/2021 privind aprobarea contului de execuţie bugetară pe trimestrul IV al anului 2020",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/17719",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/17719",
      "sha256": null
     }
    ]
@@ -228,6 +873,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--lupac-8-2021",
+   "path": "local/caras-severin/lupac/2021/8",
+   "short": "HCL Lupac nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 8/2021 privind aprobarea executării în regie proprie a unor lucrări de montare centrală termică la sediul Primăriei Lupac si achizitionarea materialelor necesare",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/17720",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/17720",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-80-2021",
    "path": "local/caras-severin/lupac/2021/80",
    "short": "HCL Lupac nr. 80/2021",
@@ -298,6 +958,21 @@
      "from": "2021-12-30",
      "units": 1,
      "source_url": "https://emol.ro/lupac-cs/registru-hcl/46673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-9-2021",
+   "path": "local/caras-severin/lupac/2021/9",
+   "short": "HCL Lupac nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 9/2021 privind aprobarea procesului-verbal din data de 27 ianuarie 2021",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/19639",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/19639",
      "sha256": null
     }
    ]

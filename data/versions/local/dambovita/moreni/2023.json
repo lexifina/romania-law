@@ -31,6 +31,36 @@
      "sha256": "74a6cab4f07c8e3455a48608c5890f1a6c634a561bb5a788442dddd3b74db091"
     }
    ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-186-2023",
+   "path": "local/dambovita/moreni/2023/186",
+   "short": "HCL Moreni nr. 186/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 186/2023 nr.186 din 20.12.2023 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2024",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2024/01/HCL-186-AN-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 11,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2024/01/HCL-186-AN-2023.pdf",
+     "sha256": "9fe8fdc37c94d1c5ac3e3b37956926dd437bfacf79e0b5f473aa49c52a5e81ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-90-2023",
+   "path": "local/dambovita/moreni/2023/90",
+   "short": "HCL Moreni nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 90/2023 privind aprobarea Normelor procedurale interne pentru contractarea și/sau garantarea de finanțări rambursabile pentru Unitatea Administrativ - Teritorială Moreni Analizând temeiurile juridice, respectiv: a) art.15 alin.(2), art.120 alin.(1) și art.121 alin.(1) și alin.(2) din Constituția României, republicată; b) art.3, art.4, art.6 paragraf 1 șiart.9 paragraf 8 din Carta europeană a autonomiei lo",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2023/05/HCL-nr-90_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2023/05/HCL-nr-90_2023.pdf",
+     "sha256": "a0796dff475e5f6bad08aa45cd1a13692d151f1675de0cd562d8fa307594d406"
+    }
+   ]
   }
  ]
 }

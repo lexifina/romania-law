@@ -3,6 +3,156 @@
  "shard": "local/caras-severin/paltinis/2024",
  "acts": [
   {
+   "slug": "hcl-caras-severin--paltinis-1-2024",
+   "path": "local/caras-severin/paltinis/2024/1",
+   "short": "HCL Păltiniș nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 1/2024 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului Secțiunii de dezvoltare al anului 2203 al Comunei Păltiniș",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153087",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-10-2024",
+   "path": "local/caras-severin/paltinis/2024/10",
+   "short": "HCL Păltiniș nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 10/2024 privind aprobarea solicitării trecerii imobilului cu nr.top.30344 teren intravilan în loc. Păltiniș, înscris în CF nr.30344 Păltiniș, din domeniul satului român, în domeniul public al UAT Păltiniș",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153098",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-11-2024",
+   "path": "local/caras-severin/paltinis/2024/11",
+   "short": "HCL Păltiniș nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 11/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli, al comunei Păltiniș pentru anul 2024",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153345",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-12-2024",
+   "path": "local/caras-severin/paltinis/2024/12",
+   "short": "HCL Păltiniș nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 12/2024 privind aprobarea de la bugetul local, a plafoanelor de cheltuieli în suma totală de 70.000 lei, pentru avtivitățile și evenimentele culturale ( rugile tradiționale) din localitățile aferente comunei Păltiniș, județul Caraș-Severin, în decursul anului 2024",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153346",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-14-2024",
+   "path": "local/caras-severin/paltinis/2024/14",
+   "short": "HCL Păltiniș nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 14/2024 privind însușirea și aprobarea Documentației Tehnice pentru Dezmembrare teren în două loturi, a imobilului înscris în CF nr.30893 UAT Păltiniș, cu nr. cad.30893 teren intravilan în loc. Păltiniș, în suprafață de 2562 mp",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153348",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-15-2024",
+   "path": "local/caras-severin/paltinis/2024/15",
+   "short": "HCL Păltiniș nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 15/2024 privind aprobarea de la buget local, a plafoanelor de cheltuieli în suma totală de 508,661,78 lei, pentru activitățile de reparații și întreținere drumuri comunale în localitățile Cornuței și Delinești, localități comunei Păltiniș, județul Caraș-Severin",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153349",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-2-2024",
+   "path": "local/caras-severin/paltinis/2024/2",
+   "short": "HCL Păltiniș nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 2/2024 privind aprobarea utilizării sumei de 38,68 mii lei din excedentul bugetar al anului 2023, ca sursă de finanțare a cheltuieliilor secțiunii de dezvoltare în anul 2024",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153088",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-27-2024",
+   "path": "local/caras-severin/paltinis/2024/27",
+   "short": "HCL Păltiniș nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 27/2024 privind aprobarea documentației de avizare a lucrărilor de intervenții a indicatorilor tehnico-economici și a devizului general al obiectivului de investiții ''Modernizare străzi în localitățile Cornuțel și Ohabița, comuna Păltiniș, jud. Caraș-Severin'', aprobat pentru finanțare prin Programul național de investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local, pentru realizarea obiectivului",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/181296",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/181296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-3-2024",
+   "path": "local/caras-severin/paltinis/2024/3",
+   "short": "HCL Păltiniș nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 3/2024 privind aprobarea Programului anual de achiziții publice al comunei Păltiniș pentru anul 2024",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153089",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-30-2024",
+   "path": "local/caras-severin/paltinis/2024/30",
+   "short": "HCL Păltiniș nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 30/2024 privind aprobarea Protocoalelor de colaborare între Ministrul Muncii și Protecției Sociale și Unitatea Administrativ-Teritorială Comuna Păltiniș, județul Caraș-Severin, în vederea implementării proiectului ''HUB de servicii MMPS-SII MMSS'', cod MySMIS 130963",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/181306",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/181306",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--paltinis-31-2024",
    "path": "local/caras-severin/paltinis/2024/31",
    "short": "HCL Păltiniș nr. 31/2024",
@@ -133,6 +283,21 @@
      "from": "2025-05-05",
      "units": 1,
      "source_url": "https://emol.ro/paltinis-cs/registru-hcl/205927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-4-2024",
+   "path": "local/caras-severin/paltinis/2024/4",
+   "short": "HCL Păltiniș nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 4/2024 privind aprobarea bugetului local de venituri și cheltuieli, a utilizării excedentului anului 2023, precum și a listei de investiții a comunei Păltiniș pe anul 2024",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153092",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153092",
      "sha256": null
     }
    ]
@@ -288,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--paltinis-5-2024",
+   "path": "local/caras-severin/paltinis/2024/5",
+   "short": "HCL Păltiniș nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 5/2024 privind aprobarea modificării organigramei și a statului de funcții ale aparatului de specialitate al primarului comunei Păltiniș, precum și a serviciilor publice de interes local",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153093",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153093",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--paltinis-50-2024",
    "path": "local/caras-severin/paltinis/2024/50",
    "short": "HCL Păltiniș nr. 50/2024",
@@ -298,6 +478,36 @@
      "from": "2025-05-05",
      "units": 1,
      "source_url": "https://emol.ro/paltinis-cs/registru-hcl/205956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-8-2024",
+   "path": "local/caras-severin/paltinis/2024/8",
+   "short": "HCL Păltiniș nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 8/2024 privind înșușirea și aprobarea documentației tehnice de delimitare și amplasament al imobilului cu propunerea de alipire a două imobile aflate în domeniul privat al Comunei Păltiniș, satul Păltiniș, județul Caraș-Severin și formarea unui singur imobil în suprafață totală de 1430 mp potrivit Planului de amplasament și delimitare a imobilului, cu propunere de alipire",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153096",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-9-2024",
+   "path": "local/caras-severin/paltinis/2024/9",
+   "short": "HCL Păltiniș nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 9/2024 privind atestarea apartenenței la domeniul privat al comunei Păltiniș, județul Caraș-Severin, a imobilului cu nr. top60/2, fără suprafață măsurată, înscris în CF nr.32669-C1-Păltiniș",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153097",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153097",
      "sha256": null
     }
    ]

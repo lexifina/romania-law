@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/vulcan/2023",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--vulcan-229-2023",
+   "path": "local/hunedoara/vulcan/2023/229",
+   "short": "HCL Vulcan nr. 229/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 229/2023 privind stabilirea taxei speciale de salubrizare pt anul 2024.pdf",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcluri-impozite-si-taxe-locale-2024-0001120a?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/5D6FD2B026D7C996C2258AA20026B219/$FILE/HCL%20NR.%20229%20DIN%202023%20privind%20stabilirea%20taxei%20speciale%20de%20%20salubrizare%20pt%20anul%202024.pdf",
+     "sha256": "8e55550e5a5f149bbbcec77f5e186f22f94762a0b2a78c586222228b9685c248"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-68-2023",
+   "path": "local/hunedoara/vulcan/2023/68",
+   "short": "HCL Vulcan nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 68/2023 privind indexarea cu rata inflației a impozitelor și taxelor locale care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, precum și actualizarea limitelor amenzilor stabilite conform Legii nr. 227/2015 privind Codul Fiscal, cu modificările și completările ulterioare",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcluri-impozite-si-taxe-locale-2024-0001120a?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 2,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/278D99D91A3E4DEAC2258AA2002684B4/$FILE/HCL%20NR%2068%20DIN%202023%20privind%20indexarea%20cu%20rata%20inflatiei%20a%20%20impozitelor%20si%20taxelor%20locale%20pt%20anul%202024.pdf",
+     "sha256": "df2fb32ea957812fffbd64dfc5ae6d403a62b0e3d3ed56ab3717ed87e9a86126"
+    }
+   ]
+  }
+ ]
+}

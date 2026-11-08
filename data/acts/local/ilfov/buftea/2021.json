@@ -288,6 +288,116 @@
 "flags": {
 "text_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-ilfov--buftea-190-2021",
+"path": "local/ilfov/buftea/2021/190",
+"kind": "local",
+"year": "2021",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 190/2021 privind aprobarea documentaţiei de urbanism PLAN URBANISTIC ZONAL “ANSAMBLU IMOBILE LOCUINŢE COLECTIVE P+3E+4R, IMOBIL SERVICII COMERŢ S+P+1E, REABILITARE HALĂ EXISTENTĂ ŞI SCHIMBARE DESTINAŢIE ÎN SALĂ DE ACTIVITĂŢI SPORTIVE P+1E, CLĂDIRE ÎNVĂŢĂMÂNT”, amplasat",
+"short": "HCL Buftea nr. 190/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2021/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--buftea-191-2021",
+"path": "local/ilfov/buftea/2021/191",
+"kind": "local",
+"year": "2021",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 191/2021 privind aprobarea documentaţiei de urbanism „PLAN URBANISTIC ZONAL, ANSAMBLU REZIDENŢIAL S+P+2E – S+P+2E+M ŞI FUNCŢIUNI CONEXE LOCUIRII COLECTIVE, ÎMPREJMUIRE, RACORDURI/ BRANŞAMENTE LA UTILITĂŢI”, amplasat în oraşul Buftea, judeţul Ilfov",
+"short": "HCL Buftea nr. 191/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2021/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--buftea-193-2021",
+"path": "local/ilfov/buftea/2021/193",
+"kind": "local",
+"year": "2021",
+"number": "193",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 193/2021 privind aprobarea documentaţiei de urbanism PLAN URBANISTIC ZONAL „CONSTRUIRE ANSAMBLU LOCUINŢE P+2E”, amplasat în oraşul Buftea, judeţul Ilfov, număr cadastral 64222",
+"short": "HCL Buftea nr. 193/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2021/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--buftea-194-2021",
+"path": "local/ilfov/buftea/2021/194",
+"kind": "local",
+"year": "2021",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 194/2021 privind aprobarea documentaţiei de urbanism PUZ – ,,LOTIZARE ŞI CONSTRUIRE ANSAMBLU LOCUINŢE P+2f “, amplasat în oraşul Buftea, judeţul Ilfov, număr cadastral 64101",
+"short": "HCL Buftea nr. 194/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2021/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--buftea-195-2021",
+"path": "local/ilfov/buftea/2021/195",
+"kind": "local",
+"year": "2021",
+"number": "195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 195/2021 privind aprobarea documentaţiei de urbanism PLAN URBANISTIC ZONAL ,,LOTIZARE ŞI CONSTRUIRE ANSAMBLU DE LOCUINŢE P+2f “, amplasat în oraşul Buftea, judeţul Ilfov, număr cadastral 64098",
+"short": "HCL Buftea nr. 195/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2021/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
 }
 ]
 }

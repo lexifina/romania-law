@@ -6497,6 +6497,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--husi-517-2023",
+"path": "local/vaslui/husi/2023/517",
+"kind": "local",
+"year": "2023",
+"number": "517",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 517/2023 privind aprobarea cuantumului taxelor speciale ce se vor utiliza pe raza munici- piului Husi incepand cu data de 01.01.2024",
+"short": "HCL Huși nr. 517/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.primariahusi.ro/hotarari-21-decembrie-2023/",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcl-vaslui--husi-518-2023",
 "path": "local/vaslui/husi/2023/518",
 "kind": "local",

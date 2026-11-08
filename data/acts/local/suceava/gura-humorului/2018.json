@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/gura-humorului/2018",
+"acts": [
+{
+"slug": "hcl-suceava--gura-humorului-156-2018",
+"path": "local/suceava/gura-humorului/2018/156",
+"kind": "local",
+"year": "2018",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Gura Humorului nr. 156/2018 Privind modificare HCL nr.156 din 21.12.2018 - Regulamentul de circulatie ATV-uri.pdf",
+"short": "HCL Gura Humorului nr. 156/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-12-21",
+"latest": "2018-12-21",
+"portal": "https://primariagurahumorului.ro/administratie/consiliul-local/hotarari-consiliu-local/",
+"council": "suceava/gura-humorului",
+"council_name": "Consiliul Local al Orașului Gura Humorului",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

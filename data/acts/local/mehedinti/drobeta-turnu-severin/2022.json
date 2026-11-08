@@ -3339,6 +3339,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--drobeta-turnu-severin-207-2022",
+"path": "local/mehedinti/drobeta-turnu-severin/2022/207",
+"kind": "local",
+"year": "2022",
+"number": "207",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 207/2022 nr. 207 din 28.07.2022 privind adiționarea contractului, nr. 17824/2019 de delegare prin concesiune a serviciului public specializat pentru gestionarea câinilor fără stăpân și ecarisaj in Municipiul Drobeta Turnu Severin",
+"short": "HCL Drobeta-Turnu Severin nr. 207/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2022",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-mehedinti--drobeta-turnu-severin-215-2022",
 "path": "local/mehedinti/drobeta-turnu-severin/2022/215",
 "kind": "local",
@@ -3468,6 +3491,29 @@
 "council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-231-2022",
+"path": "local/mehedinti/drobeta-turnu-severin/2022/231",
+"kind": "local",
+"year": "2022",
+"number": "231",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 231/2022",
+"short": "HCL Drobeta-Turnu Severin nr. 231/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-08-26",
+"latest": "2022-08-26",
+"portal": null,
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -3,6 +3,138 @@
 "shard": "local/cluj/calarasi/2025",
 "acts": [
 {
+"slug": "hcl-cluj--calarasi-5-2025",
+"path": "local/cluj/calarasi/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 5/2025 privind aprobarea planului de acțiuni comunitare 2025",
+"short": "HCL Călărași nr. 5/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-14",
+"latest": "2025-02-14",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/191228",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-6-2025",
+"path": "local/cluj/calarasi/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 6/2025 privind aprobarea bugetului local de venituri și cheltuieli an 2025",
+"short": "HCL Călărași nr. 6/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-19",
+"latest": "2025-03-19",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/197071",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-7-2025",
+"path": "local/cluj/calarasi/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 7/2025 privind aprobarea planului de achiziții publice an 2025",
+"short": "HCL Călărași nr. 7/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-19",
+"latest": "2025-03-19",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/197072",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-8-2025",
+"path": "local/cluj/calarasi/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 8/2025 privind aprobarea implementării Programului național „Masă sănătoasă” pentru preşcolarii și elevii din cadrul Școlii Gimnaziale Călărași, județul Cluj",
+"short": "HCL Călărași nr. 8/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-19",
+"latest": "2025-03-19",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/197073",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-21-2025",
+"path": "local/cluj/calarasi/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 21/2025 privind indexarea cu rata inflației a taxelor și impozitelor locale pentru anul 2026",
+"short": "HCL Călărași nr. 21/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-22",
+"latest": "2025-05-22",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/208365",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--calarasi-32-2025",
+"path": "local/cluj/calarasi/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 32/2025 privind aprobarea statutului Comunei Călărași, județul Cluj",
+"short": "HCL Călărași nr. 32/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-07",
+"latest": "2025-08-07",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/217878",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-cluj--calarasi-50-2025",
 "path": "local/cluj/calarasi/2025/50",
 "kind": "local",

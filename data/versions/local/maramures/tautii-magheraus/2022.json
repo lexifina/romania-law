@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/tautii-magheraus/2022",
+ "acts": [
+  {
+   "slug": "hcl-maramures--tautii-magheraus-104-2022",
+   "path": "local/maramures/tautii-magheraus/2022/104",
+   "short": "HCL Tăuții-Măgherăuș nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 104/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "1d7ad9764289c0b774fd03e5c73cedbf08223f9cf51e9aed64a06a1c73631007"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-135-2022",
+   "path": "local/maramures/tautii-magheraus/2022/135",
+   "short": "HCL Tăuții-Măgherăuș nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 135/2022 privind acordarea unui mandat special reprezentantului orașului Tăuții Măgherăuș în Adunarea Generală a Asociației de Dezvoltare Intrecomunitară ADI-Maramureș pentru aprobarea Caietului de sarcini al serviciului public de alimentare cu apă și de canalizare, delegat către Operatorul Regional SC VITAL SA Consiliul local al orașului Tăuții-Măgherăuș întrunit în ședință ordinară la data de 21.09.2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/10/HCL-135-mandat-special-caiet-de-sarcini-Vital.pdf",
+     "sha256": "abcf15e78530d82c0f3456cb41b07f50bff96844365e7efc1b1eb7f514ea3704"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-179-2022",
+   "path": "local/maramures/tautii-magheraus/2022/179",
+   "short": "HCL Tăuții-Măgherăuș nr. 179/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 179/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "7874cb6ebdc48a373b2cfcf57c9bcd37bc67b115553bc79e5af7bfc6e3643b8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-184-2022",
+   "path": "local/maramures/tautii-magheraus/2022/184",
+   "short": "HCL Tăuții-Măgherăuș nr. 184/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 184/2022 Nr. 184 din 22.12.2022 Privind stabilirea impozitelor si taxelor locale pentru anul 2023",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 13,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/12/HCL-184-taxe-si-impozite-locale-2023.pdf",
+     "sha256": "9e28a59a1af090b528667a3f326fcb0431f1880bbc62bde78bcac6fffaf8f965"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-53-2022",
+   "path": "local/maramures/tautii-magheraus/2022/53",
+   "short": "HCL Tăuții-Măgherăuș nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 53/2022 Privind aprobarea volumul de masă lemnoasă care se poate exploata în anul 2022, modul de valorificare al acestuia, prețurilor de referință a masei lemnoase pe picior, aprobarea nivelului maxim al tarifelor pentru prestări servicii de exploatare precum și al prețurilor minime de valorificare prin licitație al lemnului fasonat.",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 9,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-53-ocol-silvic-volum-masa-lemnoasa-2022.pdf",
+     "sha256": "7c1fbb390e6a9a23dfd8cea2565b292a64c836083e5c88fb369eb46ada82e0a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-68-2022",
+   "path": "local/maramures/tautii-magheraus/2022/68",
+   "short": "HCL Tăuții-Măgherăuș nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 68/2022 privind aprobarea actualizării taxelor de pescuit la Lacul Nistru",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-68-actualizare-tarife-pescuit.pdf",
+     "sha256": "9b45ed318d6c44f9fff64ace5aff526dbe5664a665f1adfd8056778fa15f931e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-95-2022",
+   "path": "local/maramures/tautii-magheraus/2022/95",
+   "short": "HCL Tăuții-Măgherăuș nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 95/2022 Privind aprobarea Planului Urbanistic Zonal pentru Introducere in Intravilanul Municipiului Baia Mare cu destinația de locuințe colective” si locuinte individuale , generat de imobilul teren situat în Baia Mare, str",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/07/HCL-95-PUZ-str-3-Mihut-Kert.pdf",
+     "sha256": "50b9b4f4b02719144f00956ff1ee1c8e38167e13b2a0253c52bb294d0259bdc0"
+    }
+   ]
+  }
+ ]
+}

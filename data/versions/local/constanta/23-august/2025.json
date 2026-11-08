@@ -3,6 +3,201 @@
  "shard": "local/constanta/23-august/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--23-august-37-2025",
+   "path": "local/constanta/23-august/2025/37",
+   "short": "HCL 23 August nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 37/2025 privind declararea unor imobile ca bunuri de uz și interes public local",
+   "url": "https://emol.ro/23august-ct/registru-hcl/213969",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/213969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-42-2025",
+   "path": "local/constanta/23-august/2025/42",
+   "short": "HCL 23 August nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 42/2025",
+   "url": "https://emol.ro/23august-ct/registru-hcl/216205",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/216205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-43-2025",
+   "path": "local/constanta/23-august/2025/43",
+   "short": "HCL 23 August nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 43/2025 cu privire la ”Declararea unor imobile ca bunuri de uz și interes public local”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/219401",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/219401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-44-2025",
+   "path": "local/constanta/23-august/2025/44",
+   "short": "HCL 23 August nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 44/2025 privind „Aprobarea documentației de alipire a imobilelor cu numerele cadastrale 118484 respectiv 118535 înscrise în Cartea Funciară cu nr. 118484 respectiv 118535”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/219402",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/219402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-46-2025",
+   "path": "local/constanta/23-august/2025/46",
+   "short": "HCL 23 August nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 46/2025 ”Aprobarea Contului de executie al bugetului consolidat al Comunei 23 August la trimestrul II, anul 2025”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/219404",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/219404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-47-2025",
+   "path": "local/constanta/23-august/2025/47",
+   "short": "HCL 23 August nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 47/2025 privind ”Rectificarea bugetului de venituri și cheltuieli al Comunei 23 August pe anul 2025, luna iulie”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/219405",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/219405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-48-2025",
+   "path": "local/constanta/23-august/2025/48",
+   "short": "HCL 23 August nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 48/2025 privind ”Aprobarea criteriilor pentru stabilirea ordinii de prioritate în soluționarea cererilor de locuințe și în repartizarea locuintelor pentru tineri destinate închirierii în Comuna 23 August”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/219406",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/219406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-49-2025",
+   "path": "local/constanta/23-august/2025/49",
+   "short": "HCL 23 August nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 49/2025 pentru ”Aprobarea Regulamentului cadru privind modalitatea şi criteriile de analiză şi soluţionare a cererilor de atribuire a locuinţelor pentru tineri construite prin A.N.L și aprobarea structurii pe specialități a membrilor Comisiei sociale în vederea întocmirii Listei de priorităţi pentru repartizarea locuinţelor A.N.L”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/219407",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/219407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-50-2025",
+   "path": "local/constanta/23-august/2025/50",
+   "short": "HCL 23 August nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 50/2025 privind ”Alegerea președintelui de ședință”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/223577",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/223577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-51-2025",
+   "path": "local/constanta/23-august/2025/51",
+   "short": "HCL 23 August nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 51/2025 privind “Modificarea, completarea și actualizarea inventarului domeniului privat al Comunei 23 August”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/223578",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/223578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-52-2025",
+   "path": "local/constanta/23-august/2025/52",
+   "short": "HCL 23 August nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 52/2025 privind ”Aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Extindere rețea alimentare cu apă și rețea canalizare menejeră localitatea 23 August, județul Constanța”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/223579",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/223579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-53-2025",
+   "path": "local/constanta/23-august/2025/53",
+   "short": "HCL 23 August nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 53/2025",
+   "url": "https://emol.ro/23august-ct/registru-hcl/225375",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/225375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--23-august-54-2025",
+   "path": "local/constanta/23-august/2025/54",
+   "short": "HCL 23 August nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei 23 August nr. 54/2025 privind ”Actualizarea H.CL.nr. 48 din 28.07.2025 cu privire la ”Aprobarea criteriilor pentru stabilirea ordinii de prioritate în soluționarea cererilor de locuințe și în repartizarea locuintelor pentru tineri destinate închirierii în Comuna 23 August”",
+   "url": "https://emol.ro/23august-ct/registru-hcl/225390",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/23august-ct/registru-hcl/225390",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--23-august-57-2025",
    "path": "local/constanta/23-august/2025/57",
    "short": "HCL 23 August nr. 57/2025",

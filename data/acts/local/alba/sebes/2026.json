@@ -3,6 +3,50 @@
 "shard": "local/alba/sebes/2026",
 "acts": [
 {
+"slug": "hcl-alba--sebes-5-2026",
+"path": "local/alba/sebes/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 5/2026 privind aprobarea Regulamentului Concursului Local de Lectură pentru clasele I-IV - „Laudă semințelor, celor de față și-n veci tuturor!”, din cadrul Festivalului Internațional „Lucian Blaga” Sebeș, 2026",
+"short": "HCL Sebeș nr. 5/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-6-2026",
+"path": "local/alba/sebes/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 6/2026 privind aprobarea Regulamentului Concursului Național de Creație Literară, Artă Plastică, Traducere și Recitare de Poezie „Laudă semințelor, celor de față și-n veci tuturor!”, din cadrul celei de-a XLVI-a ediții a Festivalului Internațional „Lucian Blaga” Sebeș (mai 2026)",
+"short": "HCL Sebeș nr. 6/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-alba--sebes-13-2026",
 "path": "local/alba/sebes/2026/13",
 "kind": "local",
@@ -22,6 +66,94 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-22-2026",
+"path": "local/alba/sebes/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 22/2026 privind completarea art. 10 al Anexei nr. 8la HCL 413/2025 privind nivelurile pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și amenzile aplicabile în anul fiscal 2026 , cu modificările și completările ulterioare",
+"short": "HCL Sebeș nr. 22/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-57-2026",
+"path": "local/alba/sebes/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 57/2026 privind modificarea și completarea art.4 din HCL nr. 358/2025 privind aprobarea declanșării procedurii de atribuire a unui număr de 5 (cinci) Autorizații taxi, privind organizarea și executarea serviciului public de transport în regim de",
+"short": "HCL Sebeș nr. 57/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--sebes-77-2026",
+"path": "local/alba/sebes/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 77/2026 privind aprobarea Regulamentului privind acordarea facilităților de transport pentru elevii școlarizați pe raza administrativ-teritorială a Municipiului Sebeș la transportul public local și metropolitan pentru anul școlar 2025-2026",
+"short": "HCL Sebeș nr. 77/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-03-26",
+"latest": "2026-03-26",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-88-2026",
+"path": "local/alba/sebes/2026/88",
+"kind": "local",
+"year": "2026",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 88/2026 privind interzicerea organizării și exploatării jocurilor de noroc pe raza Municipiului Sebeș",
+"short": "HCL Sebeș nr. 88/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
 }
 },
 {
@@ -47,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-94-2026",
+"path": "local/alba/sebes/2026/94",
+"kind": "local",
+"year": "2026",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 94/2026 privind modificarea Art. I al HCL nr. 362/ 2023 pentru aprobarea procedurii interne a Municipiului Sebeș privind participarea solicitanților de finanțare în cadrul Programului privind casarea autovehiculelor uzate",
+"short": "HCL Sebeș nr. 94/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-alba--sebes-112-2026",
 "path": "local/alba/sebes/2026/112",
 "kind": "local",
@@ -69,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-119-2026",
+"path": "local/alba/sebes/2026/119",
+"kind": "local",
+"year": "2026",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 119/2026 privind aprobarea “Tarifelor percepute de către Serviciul Public de Administrarea Patrimoniului Sebeș”",
+"short": "HCL Sebeș nr. 119/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-alba--sebes-193-2026",
 "path": "local/alba/sebes/2026/193",
 "kind": "local",
@@ -88,6 +264,50 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-194-2026",
+"path": "local/alba/sebes/2026/194",
+"kind": "local",
+"year": "2026",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 194/2026 privind aprobarea “Tarifelor percepute de către Serviciul Public de Administrarea Patrimoniului Sebeș ”",
+"short": "HCL Sebeș nr. 194/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-alba--sebes-203-2026",
+"path": "local/alba/sebes/2026/203",
+"kind": "local",
+"year": "2026",
+"number": "203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 203/2026 privind aprobarea Regulamentului privind acordarea stimulentelor financiare sub formă de premii elevilor din unitățile de învățământ preuniversitar din Municipiul Sebeș care au obținut rezultate deosebite la competiții internaționale",
+"short": "HCL Sebeș nr. 203/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"text_source": "ocr"
 }
 },
 {
@@ -157,6 +377,29 @@
 }
 },
 {
+"slug": "hcl-alba--sebes-221-2026",
+"path": "local/alba/sebes/2026/221",
+"kind": "local",
+"year": "2026",
+"number": "221",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 221/2026 privind aprobarea Regulamentului privind acordarea facilităților de transport pentru elevii școlarizați pe raza administrativ-teritorială a Municipiului Sebeș la transportul public local și metropalitan pentru anul școlar 2026-2027",
+"short": "HCL Sebeș nr. 221/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
+}
+},
+{
 "slug": "hcl-alba--sebes-239-2026",
 "path": "local/alba/sebes/2026/239",
 "kind": "local",
@@ -220,6 +463,29 @@
 "council_name": "Consiliul Local al Municipiului Sebeș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--sebes-272-2026",
+"path": "local/alba/sebes/2026/272",
+"kind": "local",
+"year": "2026",
+"number": "272",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Sebeș nr. 272/2026 Privind modificarea HCL126/2011-Regulamentul Local pentru informarea și consultarea publicului la elaborarea sau revizuirea planurilor de amenajare a teritoriului și de urbanism cu modificările ulterioare",
+"short": "HCL Sebeș nr. 272/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2026/",
+"council": "alba/sebes",
+"council_name": "Consiliul Local al Municipiului Sebeș",
+"flags": {
+"annex_missing": true,
+"text_source": "ocr"
 }
 },
 {

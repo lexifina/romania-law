@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/comanesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-bacau--comanesti-134-2021",
+   "path": "local/bacau/comanesti/2021/134",
+   "short": "HCL Comănești nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 134/2021 privind aprobarea PUZ - Construire platformă, amenajare rafturi exterioare acoperite, împrejmuire și desființare împrejmuire existentă, lucrări tehnico-edilitare, str",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3113-anul-2021.html",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2021/hcl-134-22.10.2021.pdf",
+     "sha256": "a0fc90a2264e2d52ca8c36f73b7370e19303b612379eec070908fc107b03e5fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-39-2021",
+   "path": "local/bacau/comanesti/2021/39",
+   "short": "HCL Comănești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 39/2021 privind aprobare PUZ, str. Republicii, DN 12A, - zona gară km 73+850, Comănești, jud. Bacău",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3113-anul-2021.html",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2021/hcl-039-30.03.2021.pdf",
+     "sha256": "312da4e53a27bbecc2279fbefdaf2ca6a186057d78cf2909ba2c80f785dd8055"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-4-2021",
+   "path": "local/bacau/comanesti/2021/4",
+   "short": "HCL Comănești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 4/2021 privind aprobarea tarifelor pentru serviciile de salubritate specifice practicate de Serviciul Local \"Eco Valea Muntelui Comănești\", pentru anul 2021",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3113-anul-2021.html",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2021/hcl-004-21.01.2021.pdf",
+     "sha256": "25652dbff9d46f2c1a11481799c121b252fd66b97b9766f02123adc80ce70318"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-40-2021",
+   "path": "local/bacau/comanesti/2021/40",
+   "short": "HCL Comănești nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 40/2021 privind corelarea unor impozite și taxe locale pentru anul 2021 cu venitul minim garantat - stabilit în conformitate cu prevederile legale",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3113-anul-2021.html",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2021/hcl-040-30.03.2021.pdf",
+     "sha256": "b55bcedea2aaeb43449472bcae858502534ac8ba5a036953a9a4cb55945c9755"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-52-2021",
+   "path": "local/bacau/comanesti/2021/52",
+   "short": "HCL Comănești nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 52/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2021/hcl-052-22.04.2021.pdf",
+     "sha256": "8998820705742589d85be376bdb4afcb80c6146119c6b6c4d0ad02496b7987ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-56-2021",
+   "path": "local/bacau/comanesti/2021/56",
+   "short": "HCL Comănești nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 56/2021 privind modificarea tarifului de transport public local de persoane, efectuat prin curse regulate în orașul Comănești",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3113-anul-2021.html",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2021/hcl-056-22.04.2021.pdf",
+     "sha256": "6c7f17622e45008e7dd6dfa4f5a3e13d4051c5302941433fb4764688227b06e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-61-2021",
+   "path": "local/bacau/comanesti/2021/61",
+   "short": "HCL Comănești nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 61/2021 privind aprobarea unor tarife pentru activitățile de colectare și transport, precum și sortare a deșeurilor reciclabile pentru Serviciul Local \"Eco Valea Muntelui Comănești\"",
+   "url": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3113-anul-2021.html",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2021/hcl-061-27.05.2021.pdf",
+     "sha256": "5baaacc578ba5d79ee0c978e0cfef5c4b8947a16491b995a74e88541d368814a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--comanesti-84-2021",
+   "path": "local/bacau/comanesti/2021/84",
+   "short": "HCL Comănești nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Comănești nr. 84/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "http://www.primariacomanesti.ro/docs/hotarari/2021/hcl-084-25.06.2021.pdf",
+     "sha256": "e0cee3f80f34aa66422e92319e5a2ee372701808863d3157ea2113858ef2ca41"
+    }
+   ]
+  }
+ ]
+}

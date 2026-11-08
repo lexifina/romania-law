@@ -3,6 +3,156 @@
  "shard": "local/caras-severin/paltinis/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--paltinis-1-2025",
+   "path": "local/caras-severin/paltinis/2025/1",
+   "short": "HCL Păltiniș nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 1/2025 privind aprobarea acoperirii definitive a deficitului Secțiunii de dezvoltare SD02, în sumă de 1.763.129.11 lei, din excedentul bugetului local înregistrat la 31.12.2024, al UAT Păltiniș",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/205888",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/205888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-10-2025",
+   "path": "local/caras-severin/paltinis/2025/10",
+   "short": "HCL Păltiniș nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 10/2025 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții ''Extinderea frontului de captare și înființare conductă de aducțiune în localitatea Păltiniș, comuna Păltiniș, jud. Caraș-Severin'', aprobat pentru finanțare prin Programul național de investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/215673",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/215673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-11-2025",
+   "path": "local/caras-severin/paltinis/2025/11",
+   "short": "HCL Păltiniș nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 11/2025 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții ''Modernizare străzi în localitățile Cornuțel și Ohabița, comuna Păltiniș, jud. Caraș-Severin'' aprobat pentru finanțare prin Programul național de investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/215676",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/215676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-12-2025",
+   "path": "local/caras-severin/paltinis/2025/12",
+   "short": "HCL Păltiniș nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 12/2025 privind aprobarea reorganizării aparatului de specialitate al Primarului comunei Păltiniș și al serviciilor publice de interes local fără personalitate juridică precum și aprobarea numărului de personal, a statului de funcții și a organigramei în conformitate cu Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe teremen lung",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/215677",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/215677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-14-2025",
+   "path": "local/caras-severin/paltinis/2025/14",
+   "short": "HCL Păltiniș nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 14/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli, precum și a listei de investiții, al Comunei Păltiniș pe trim. III, anul 2025",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/216887",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/216887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-15-2025",
+   "path": "local/caras-severin/paltinis/2025/15",
+   "short": "HCL Păltiniș nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 15/2025",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/216888",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/216888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-16-2025",
+   "path": "local/caras-severin/paltinis/2025/16",
+   "short": "HCL Păltiniș nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 16/2025 privind aprobarea achiziționării de mobilier pentru grădinițele de pe raza UAT Păltiniș",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/216889",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/216889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-17-2025",
+   "path": "local/caras-severin/paltinis/2025/17",
+   "short": "HCL Păltiniș nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 17/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli, precum și a listei de investiții, al Comunei Păltiniș pe trim. IV, anul 2025",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/248532",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/248532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-19-2025",
+   "path": "local/caras-severin/paltinis/2025/19",
+   "short": "HCL Păltiniș nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 19/2025 privind aprobarea Regulamentului de organizare și funcționare a aparatului de specialitate al primarului comunei Păltiniș, județul Caraș-Severin",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/248534",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/248534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-2-2025",
+   "path": "local/caras-severin/paltinis/2025/2",
+   "short": "HCL Păltiniș nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 2/2025 privind aprobarea utilizării sumei de 1.099,21 mii lei din excedentul bugetar al anului 2024, ca sursa de finanțare a cheltuielilor secțiunii de dezvoltare în anul 2025",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/205889",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/205889",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--paltinis-21-2025",
    "path": "local/caras-severin/paltinis/2025/21",
    "short": "HCL Păltiniș nr. 21/2025",
@@ -133,6 +283,21 @@
      "from": "2026-01-27",
      "units": 1,
      "source_url": "https://emol.ro/paltinis-cs/registru-hcl/248554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-3-2025",
+   "path": "local/caras-severin/paltinis/2025/3",
+   "short": "HCL Păltiniș nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 3/2025 privind aprobarea bugetului local de venituri și cheltuieli, precum și a listei de investiții a comunei Păltiniș pentru anul 2025",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/205890",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/205890",
      "sha256": null
     }
    ]
@@ -298,6 +463,51 @@
      "from": "2026-01-28",
      "units": 1,
      "source_url": "https://emol.ro/paltinis-cs/registru-hcl/248624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-5-2025",
+   "path": "local/caras-severin/paltinis/2025/5",
+   "short": "HCL Păltiniș nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 5/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli și a listei d investiții a comunei Păltiniș pe trimestrele I, II, III și trim. IV, anul 2025",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/205892",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/205892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-6-2025",
+   "path": "local/caras-severin/paltinis/2025/6",
+   "short": "HCL Păltiniș nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 6/2025 privind aprobarea de la bugetul local al Comunei Păltiniș, a plafoanelor de cheltuieli în sumă totală de 75.000 lei, pentru activitățile și evenimentele culturale, respectiv rugile tradiționale din localitățile aferente comunei Păltiniș, județul Caraș-Severin, în decursul anului 2025",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/205893",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/205893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-9-2025",
+   "path": "local/caras-severin/paltinis/2025/9",
+   "short": "HCL Păltiniș nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 9/2025 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții ''Extinderea rețelelor de canalizare în localitatea Păltiniș, echipare rețea canalizare existentă cu racorduri individuale și reabilitarea stației de epurare in localitatea Păltiniș, comuna Păltiniș, jud. Caraș-Severin'', aprobat pentru finanțare prin Programul național de investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/215669",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/215669",
      "sha256": null
     }
    ]

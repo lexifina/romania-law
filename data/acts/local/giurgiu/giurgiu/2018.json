@@ -67,6 +67,72 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-giurgiu--giurgiu-283-2018",
+"path": "local/giurgiu/giurgiu/2018/283",
+"kind": "local",
+"year": "2018",
+"number": "283",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 283/2018 privind modificarea și completarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.11/2017 privind aprobarea Metodologiei privind acordarea cardului de călătorie pentru elevii înmatriculați în unitățile de învățământ din Municipiul Giurgiu, conform Hotărârii Consiliului Local al Municipiului Giurgiu nr.409/24.11.2016 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 283/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-07-26",
+"latest": "2018-07-26",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-365-2018",
+"path": "local/giurgiu/giurgiu/2018/365",
+"kind": "local",
+"year": "2018",
+"number": "365",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 365/2018 privind aprobarea modificării Regulamentului privind regimul concesionării bunurilor imobile aflate în proprietatea privată a Municipiului Giurgiu aprobat prin Hotărârea Consiliului Local nr.93 din data de 09 martie 2016 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 365/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-09-27",
+"latest": "2018-09-27",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-522-2018",
+"path": "local/giurgiu/giurgiu/2018/522",
+"kind": "local",
+"year": "2018",
+"number": "522",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 522/2018 privind menținerea în anul 2019 a tarifelor pentru utilizarea domeniului public și a domeniului privat al Municipiului Giurgiu, aprobate prin Hotărârea Consiliului Local al Municipiului Giurgiu nr.450/2017 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 522/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-12-19",
+"latest": "2018-12-19",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_source": "ocr"
+}
 }
 ]
 }
