@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Grivița nr. 66/2024 privind modificarea HCL nr. 50/20.11.2020 cu privire la constituirea comisiilor de specialitate ale consiliului local al comunei Griviţa
+
+HCL Grivița nr. 66/2024 · 1 versions, from 2024-09-25 (latest in force: 2024-09-25) · <https://emol.ro/grivita-il/registru-hcl/196738>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-ialomita--grivita-66-2024` (tags `hcl-ialomita--grivita-66-2024/<day>`; `python tools/on.py <day> hcl-ialomita--grivita-66-2024`).
+
+## Decisions made by hand
+
+- HCL Grivița nr. 66/2024: listed from Consiliul Local al Comunei Grivița (emol.ro); an individual decision: metadata only.
+- HCL Grivița nr. 66/2024: dated from 25 September 2024, the day it was adopted (the register gives no later day of publication).
+- HCL Grivița nr. 66/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

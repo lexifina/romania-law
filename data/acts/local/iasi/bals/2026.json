@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-2-2026",
+"path": "local/iasi/bals/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 2/2026 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Balș, județul Iași",
+"short": "HCL Balș nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/bals-is/registru-hcl/265132",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-3-2026",
+"path": "local/iasi/bals/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 3/2026 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav în anul 2025 sem. II, angajați ai Primăriei Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/bals-is/registru-hcl/265134",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-4-2026",
 "path": "local/iasi/bals/2026/4",
 "kind": "local",
@@ -110,6 +154,50 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-8-2026",
+"path": "local/iasi/bals/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 8/2026 privind acordarea unui ajutor financiar în cuantum toal de 3000 lei numitului TIHULCĂ Ghiorghi",
+"short": "HCL Balș nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/bals-is/registru-hcl/265153",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-9-2026",
+"path": "local/iasi/bals/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 9/2026 privind oportunitatea acordării unui ajutor financiar în cuantum de 20.000 lei Bisericii ortodoxe de rit Vechi Sf „Mihail și Gavril” cu sediul în satul Balș, comuna Balș, județul Iași Consiliului Local al comunei Balș, județul Iași",
+"short": "HCL Balș nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/bals-is/registru-hcl/265157",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-17-2026",
+"path": "local/iasi/bals/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 17/2026 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Balș, juddețul Iași, din data de 28.01.2026",
+"short": "HCL Balș nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/bals-is/registru-hcl/265386",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-18-2026",
 "path": "local/iasi/bals/2026/18",
 "kind": "local",
@@ -308,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-21-2026",
+"path": "local/iasi/bals/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 21/2026 privind aprobarea oportunității vânzării terenului în suprafață totală de 735 mp cu categoria arabil având identificatori cadastrali T 29 parcela 612/2/1, înscris în Cartea funciară nr. 60766 și număr cadastral 60766 aparținând domeniului privat al comunei Balș, județul Iași",
+"short": "HCL Balș nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/bals-is/registru-hcl/265439",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -375,6 +507,28 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-25-2026",
+"path": "local/iasi/bals/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 25/2026 privind desemnarea reprezentantului din partea comunei Balș, în cadrul Adunării Generale a Acționarilor a SC GAZ NORD-EST S.A Hârlău, județul Iași",
+"short": "HCL Balș nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/bals-is/registru-hcl/265471",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -532,6 +686,50 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-36-2026",
+"path": "local/iasi/bals/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 36/2026 privind aprobarea modificării duratei de închiriere prevăzută în contractul de închiriere nr. 4232 din data de 28.07.2017 încheiat între UAT Comuna Balș în calitate de locator si SC RX DENTIS SRL în calitate de locatar, până la data de 28.07.2030",
+"short": "HCL Balș nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/bals-is/registru-hcl/287440",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-37-2026",
+"path": "local/iasi/bals/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 37/2026 privind aprobarea oportunității vânzării Iotului de teren înscris în cartea funciară nr. 64231, având număr cadastral 64231 aflat în domeniul privat al Comunei Balș, județul Iași și care face obiectul contractului de concesiune nr. 2896 din data de 29.04.2022",
+"short": "HCL Balș nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/bals-is/registru-hcl/287441",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-38-2026",
 "path": "local/iasi/bals/2026/38",
 "kind": "local",
@@ -617,6 +815,28 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-42-2026",
+"path": "local/iasi/bals/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 42/2026 privind aprobarea oportunității închirierii spațiului în suprafață utilă totală de 57,03 mp, situat la mansarda imobilului clădire ” Cabinet Medical” din satul Boureni, comuna Bals, judetul lasi, apartinând domeniului public al Comunei Balș, judetul Iași",
+"short": "HCL Balș nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/bals-is/registru-hcl/287446",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

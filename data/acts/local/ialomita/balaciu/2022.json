@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-ialomita--balaciu-2-2022",
+"path": "local/ialomita/balaciu/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 2/2022",
+"short": "HCL Balaciu nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/49282",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-ialomita--balaciu-3-2022",
 "path": "local/ialomita/balaciu/2022/3",
 "kind": "local",
@@ -224,6 +247,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--balaciu-12-2022",
+"path": "local/ialomita/balaciu/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 12/2022 privind aprobarea unui act adiţional de modificare a contractelor de închiriere a păşunii aflate în proprietatea privată a comunei Balaciu",
+"short": "HCL Balaciu nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-20",
+"latest": "2022-09-20",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/56686",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--balaciu-13-2022",
 "path": "local/ialomita/balaciu/2022/13",
 "kind": "local",
@@ -266,6 +311,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--balaciu-15-2022",
+"path": "local/ialomita/balaciu/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 15/2022 privind desemnarea a doi consilieri locali în comisia de evaluare a performantelor profesionale individuale ale Secretarului general al comunei Balaciu",
+"short": "HCL Balaciu nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-20",
+"latest": "2022-09-20",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/56689",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -400,6 +467,29 @@
 "council_name": "Consiliul Local al Comunei Balaciu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--balaciu-22-2022",
+"path": "local/ialomita/balaciu/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 22/2022",
+"short": "HCL Balaciu nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-20",
+"latest": "2022-09-20",
+"portal": "https://emol.ro/balaciu-il/registru-hcl/63710",
+"council": "ialomita/balaciu",
+"council_name": "Consiliul Local al Comunei Balaciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

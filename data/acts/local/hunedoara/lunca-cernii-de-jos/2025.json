@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-2-2025",
+"path": "local/hunedoara/lunca-cernii-de-jos/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 2/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 al SC GOSPOCERNA LUNCA CERNII SRL",
+"short": "HCL Lunca Cernii de Jos nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/197068",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--lunca-cernii-de-jos-3-2025",
 "path": "local/hunedoara/lunca-cernii-de-jos/2025/3",
 "kind": "local",
@@ -132,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-8-2025",
+"path": "local/hunedoara/lunca-cernii-de-jos/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 8/2025 privind aprobarea volumului de masă lemnoasă estimat pentru recoltare în anul 2025 și prețurile de referință pentru masa lemnoasă provenită din fondul forestier proprietate publică a Comunei Lunca Cernii de Jos",
+"short": "HCL Lunca Cernii de Jos nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-06",
+"latest": "2025-05-06",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/200921",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -291,6 +335,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-16-2025",
+"path": "local/hunedoara/lunca-cernii-de-jos/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 16/2025 Privind aprobarea situațiilor financiare la 31.12.2024 ale SC GOSPOCERNA LUNCA CERNII SRL",
+"short": "HCL Lunca Cernii de Jos nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-06",
+"latest": "2025-05-06",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/206158",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--lunca-cernii-de-jos-17-2025",
 "path": "local/hunedoara/lunca-cernii-de-jos/2025/17",
 "kind": "local",
@@ -442,6 +508,50 @@
 "council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-24-2025",
+"path": "local/hunedoara/lunca-cernii-de-jos/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 24/2025 privind desemnarea reprezentantului Consiliului local Lunca Cernii de Jos in Consiliul de Administratie al Scolii Gimnaziale Lunca Cernii de Jos pentru anul scolar 2025-2026",
+"short": "HCL Lunca Cernii de Jos nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-08",
+"latest": "2025-09-08",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/223969",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-25-2025",
+"path": "local/hunedoara/lunca-cernii-de-jos/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 25/2025 Privind alegerea presedintelui de sedinta al Consiliului Local al Comunei Lunca Cernii de Jos, judetul Hunedoara , pe o perioada de 3 luni, incepand cu luna Octombrie 2025",
+"short": "HCL Lunca Cernii de Jos nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-01",
+"latest": "2025-10-01",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/225968",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

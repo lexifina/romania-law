@@ -289,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--scanteia-14-2024",
+"path": "local/ialomita/scanteia/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 14/2024 privind alegerea presedintelui de sedinta pentru urmatoarele trei luni",
+"short": "HCL Scânteia nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/168513",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--scanteia-15-2024",
 "path": "local/ialomita/scanteia/2024/15",
 "kind": "local",
@@ -352,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Scânteia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-18-2024",
+"path": "local/ialomita/scanteia/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 18/2024 privind aprobarea inchirierii unor suprafete de teren – Pasune prin atribuire directa",
+"short": "HCL Scânteia nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/168517",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -442,6 +486,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-23-2024",
+"path": "local/ialomita/scanteia/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 23/2024 privind aprobarea concesionarii Serviciului de distributie gaze, aprobarea doc. de atribuire a concesionarii",
+"short": "HCL Scânteia nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/168522",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-24-2024",
+"path": "local/ialomita/scanteia/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 24/2024 privind modificarea HCL nr 62/2023 privind asocierea cu alte UAT-uri in vederea constituirii, Asociatiei de Dezvoltare Intercomunitara",
+"short": "HCL Scânteia nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/168523",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -555,6 +643,50 @@
 }
 },
 {
+"slug": "hcl-ialomita--scanteia-49-2024",
+"path": "local/ialomita/scanteia/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 49/2024 privind modificator pentru HCL NR. 94/2023 privind taxele locale",
+"short": "HCL Scânteia nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/203043",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-50-2024",
+"path": "local/ialomita/scanteia/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 50/2024 privind modificator pentru HCL nr. 97/2023 privind stabilirea salariilor personalului din aparatul de specialitate al primarului",
+"short": "HCL Scânteia nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/203044",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--scanteia-51-2024",
 "path": "local/ialomita/scanteia/2024/51",
 "kind": "local",
@@ -574,6 +706,50 @@
 "council_name": "Consiliul Local al Comunei Scânteia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-52-2024",
+"path": "local/ialomita/scanteia/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 52/2024 privind modificarea HCL nr. 23/2024, concesiunea serviciului de gaze",
+"short": "HCL Scânteia nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-11",
+"latest": "2024-09-11",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/203046",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-53-2024",
+"path": "local/ialomita/scanteia/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 53/2024 privind desemnarea reprezentantilor in Consiliul de Administratie al Scolii Gimnaziale Scanteia",
+"short": "HCL Scânteia nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-11",
+"latest": "2024-09-11",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/203048",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

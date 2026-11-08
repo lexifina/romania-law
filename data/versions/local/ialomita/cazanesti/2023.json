@@ -1,0 +1,501 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/cazanesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--cazanesti-18-2023",
+   "path": "local/ialomita/cazanesti/2023/18",
+   "short": "HCL Căzănești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 18/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=44",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.18_din_14.02.2023.PDF",
+     "sha256": "93ef64d49162f9cf4a223db3671fe301296f66e27f5180c955284d5ea4eb48ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-19-2023",
+   "path": "local/ialomita/cazanesti/2023/19",
+   "short": "HCL Căzănești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 19/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=44",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.19_din_28.02.2023.PDF",
+     "sha256": "fb494c64b26e6d96312f3c45be30558a6411fee6560038e4ce0b8e6c88ded328"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-20-2023",
+   "path": "local/ialomita/cazanesti/2023/20",
+   "short": "HCL Căzănești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 20/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=44",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.20_din_28.02.2023.PDF",
+     "sha256": "5b4b86cf36b373fb5bbcf03f6bf84a5797af186ca188cf0d15a374c86bfeafab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-22-2023",
+   "path": "local/ialomita/cazanesti/2023/22",
+   "short": "HCL Căzănești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 22/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=44",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.22_din_28.02.2023.PDF",
+     "sha256": "8024ebc5aee6e4bf18860afc0cb721e65868a704154576346b7e88dac849c2d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-23-2023",
+   "path": "local/ialomita/cazanesti/2023/23",
+   "short": "HCL Căzănești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 23/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=44",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.23_din_28.02.2023.PDF",
+     "sha256": "c3e7015a8ed623f928ea9b17454e1932a87cc9fda78151624d1b98f19fa49e6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-24-2023",
+   "path": "local/ialomita/cazanesti/2023/24",
+   "short": "HCL Căzănești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 24/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=44",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.24_din_28.02.2023.PDF",
+     "sha256": "4c5e0f5cd82df9d6b39a917240c562b53fe629ce5ed45bd15995a2de46753e8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-25-2023",
+   "path": "local/ialomita/cazanesti/2023/25",
+   "short": "HCL Căzănești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 25/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=44",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.25_din_28.02.2023.PDF",
+     "sha256": "8f8ce497a7dd31022c9f2b425357ec61c696d5f48a1ff0c540f6b9974bec21ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-26-2023",
+   "path": "local/ialomita/cazanesti/2023/26",
+   "short": "HCL Căzănești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 26/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=44",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.26_din_28.02.2023.PDF",
+     "sha256": "66a95049e54f45b6b23b9e4d734ce21bcb681afac41d5a32da219e296529b465"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-27-2023",
+   "path": "local/ialomita/cazanesti/2023/27",
+   "short": "HCL Căzănești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 27/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=44",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.27_din_21.03.2023.PDF",
+     "sha256": "15a55e4b09c3bc54ef8e7fa244970801c227db2fff88010400165920fae19436"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-28-2023",
+   "path": "local/ialomita/cazanesti/2023/28",
+   "short": "HCL Căzănești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 28/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=44",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.28_din_21.03.2023.PDF",
+     "sha256": "9ca393e2856f5d9f21d6d6ed1bb2bb4047dee78924282c32160277aee3b42548"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-29-2023",
+   "path": "local/ialomita/cazanesti/2023/29",
+   "short": "HCL Căzănești nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 29/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=22",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.29_din_21.03.2023.PDF",
+     "sha256": "3fcc4cffbea797a76be0de48e1f5483defed618d70a2424bd16220f8e0f50402"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-30-2023",
+   "path": "local/ialomita/cazanesti/2023/30",
+   "short": "HCL Căzănești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 30/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=22",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.30_din_21.03.2023.PDF",
+     "sha256": "6a27cf9bc5723209d95fd0e75811fac626d39e4c89e393fae7dff1fbbd7ae06b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-31-2023",
+   "path": "local/ialomita/cazanesti/2023/31",
+   "short": "HCL Căzănești nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 31/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=22",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.31_din_31.03.2023.PDF",
+     "sha256": "03d5f951a9286af22e63e84c04d1aa0c0164e9165396d92889af5f3d79b3172e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-32-2023",
+   "path": "local/ialomita/cazanesti/2023/32",
+   "short": "HCL Căzănești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 32/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=22",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.32_din_31.03.2023.PDF",
+     "sha256": "5bab225490dd37b5651a6ca1abd94293f0bf293e8bcaef8a878663938e94c519"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-33-2023",
+   "path": "local/ialomita/cazanesti/2023/33",
+   "short": "HCL Căzănești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 33/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=22",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.33_din_31.03.2023.PDF",
+     "sha256": "d1efa01016d676d7c9af8d9418517b703b046d98ae523ca38fd0585f9e5566e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-34-2023",
+   "path": "local/ialomita/cazanesti/2023/34",
+   "short": "HCL Căzănești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 34/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=22",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.34_din_31.03.2023.PDF",
+     "sha256": "9a558d6f3f53bd37530f874b1920f3e604b6af5e7089dbf65d9d0fd3f6d1c036"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-36-2023",
+   "path": "local/ialomita/cazanesti/2023/36",
+   "short": "HCL Căzănești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 36/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=22",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.36_din_21.04.2023.PDF",
+     "sha256": "5a5eb96d04d143a0da85766b6d0027cf21b61dacdc9e33311620bc034278d03e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-37-2023",
+   "path": "local/ialomita/cazanesti/2023/37",
+   "short": "HCL Căzănești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 37/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=22",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.37_din_21.04.2023.PDF",
+     "sha256": "690d23648d4ab01d783dbe66194826e89a35fac65b49817f0413997a1e42b98e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-38-2023",
+   "path": "local/ialomita/cazanesti/2023/38",
+   "short": "HCL Căzănești nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 38/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=22",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.38_din_21.04.2023.PDF",
+     "sha256": "4ed278a0fc4a2e46ba692fa0699e2fc3b84be991d916c5bf5ea49fd4f8f04465"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-39-2023",
+   "path": "local/ialomita/cazanesti/2023/39",
+   "short": "HCL Căzănești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 39/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=22",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.39_din_21.04.2023.PDF",
+     "sha256": "75c667e422bcbf3ebe7f18f0ca4251dec5ac2f91585adf5ed36751bdffb211a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-40-2023",
+   "path": "local/ialomita/cazanesti/2023/40",
+   "short": "HCL Căzănești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 40/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=22",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.40_din_21.04.2023.PDF",
+     "sha256": "eda59e1f398416e5cb82b85bacb50c261e1a1e682aefded7451f760acc5d0d2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-41-2023",
+   "path": "local/ialomita/cazanesti/2023/41",
+   "short": "HCL Căzănești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 41/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=22",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.41_din_21.04.2023.PDF",
+     "sha256": "9ce20e371d0add68aa326f91bd3c028f8c27ee6a58069ba270da3fb265fd5fa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-42-2023",
+   "path": "local/ialomita/cazanesti/2023/42",
+   "short": "HCL Căzănești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 42/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023?start=22",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.42_din_27.04.2023_stabilire_impozite_%C8%99i_taxe_locale.PDF",
+     "sha256": "11c0f0f8ce3a9bbb99a9c00e7399745a43cde3c94c613260bd8e3c9bca081f65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-48-2023",
+   "path": "local/ialomita/cazanesti/2023/48",
+   "short": "HCL Căzănești nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 48/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023/1904-h-c-l-nr-48-din-11-05-2023-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2023",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.48_rectificarea_bugetului_de_venituri_%C8%99i_cheltuieli.pdf",
+     "sha256": "fb196415d2c93f55e7f85799352f0313387305848337f2b9d6b70facbeb61f9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-51-2023",
+   "path": "local/ialomita/cazanesti/2023/51",
+   "short": "HCL Căzănești nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 51/2023",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023/1907-h-c-l-nr-51-din-11-05-2023-privind-atestarea-inventarului-bunurilor-care-alcatuiesc-domeniul-public-al-orasului-cazanesti-judetul-ialomita",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr.51_atestarea_inventarului_bunurilor_care_alc%C4%83tuiesc_domeniul_public.pdf",
+     "sha256": "09c44407b9bc456b1d72c01d2d6e923246090fcd5e167b1d192648836b70d31c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-74-2023",
+   "path": "local/ialomita/cazanesti/2023/74",
+   "short": "HCL Căzănești nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 74/2023 privind atestare aparteneta la domeniul privat și complentare inventar domeniul privat al orasului Cazanesti.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr._74_din_30.10.2023_privind_atestare_aparteneta_la_domeniul_privat_%C8%99i_complentare_inventar_domeniul_privat_al_orasului_Cazanesti.pdf",
+     "sha256": "bf20000b571f225272bf27cf8df71f32e570b979e30c90ddf7c583ab2a594420"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-76-2023",
+   "path": "local/ialomita/cazanesti/2023/76",
+   "short": "HCL Căzănești nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 76/2023 pentru vanzarea de principiu a unui imobil intravilan -teren concesionat in suprafata de 552 mp CF 20004 in favoarea dlui",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023",
+     "sha256": "faedf944f81f5668f2643f36ee493050d32f5af0d462ed144765a9debfc407df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-79-2023",
+   "path": "local/ialomita/cazanesti/2023/79",
+   "short": "HCL Căzănești nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 79/2023 privind rectificarea bugetului local al anului 2023.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr._79_din_30.10.2023_privind_rectificarea_bugetului_local_al_anului_2023.pdf",
+     "sha256": "2b1b045562245e8cdecd51db7fa12f20a98caa382fd5173157caa976997eef26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-80-2023",
+   "path": "local/ialomita/cazanesti/2023/80",
+   "short": "HCL Căzănești nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 80/2023 privind tipul de suport alimentar acordat prescolarilor si scolarilor din cadrul Scolii Gimnaziale Cazanesti.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr._80_din_30.10.2023_privind_tipul_de_suport_alimentar_acordat_prescolarilor_si_scolarilor_din_cadrul_Scolii_Gimnaziale_Cazanesti.pdf",
+     "sha256": "f5d715ce9bd40e78fd21fdb3fc433c3d164564afe98d330e393ddf293f35adab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-83-2023",
+   "path": "local/ialomita/cazanesti/2023/83",
+   "short": "HCL Căzănești nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 83/2023 privind rectificarea bugetului de venituri si cheltuieli al UAT Cazanesti.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr._83_din_27.11.2023_privind_rectificarea_bugetului_de_venituri_si_cheltuieli_al_UAT_Cazanesti.pdf",
+     "sha256": "79975ea311274e4712c230b96f0181dae3e2961b43614cea8337b767ab4778f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-89-2023",
+   "path": "local/ialomita/cazanesti/2023/89",
+   "short": "HCL Căzănești nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 89/2023 privind aprobarea rectificarii bugetului de venituri si cheltuieli al UAT Cazanesti pe 2023.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr._89_din_11.12.2023_privind_aprobarea_rectificarii_bugetului_de_venituri_si_cheltuieli_al_UAT_Cazanesti_pe_2023.pdf",
+     "sha256": "4bc9800a046b750723a15bdd61bbda1995eb96dc9133a3e229526142cbbe8ac3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-94-2023",
+   "path": "local/ialomita/cazanesti/2023/94",
+   "short": "HCL Căzănești nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 94/2023 privind aprobarea rectificarii bugetului de venituri si cheltuieli al orașului Căzănești pe 2023.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr._94_din_21.12.2023_privind_aprobarea_rectificarii_bugetului_de_venituri_si_cheltuieli_al_ora%C8%99ului_C%C4%83z%C4%83ne%C8%99ti_pe_2023.pdf",
+     "sha256": "dd100ee18063efda542b257351451842bc7e68ec8456c3e40a2a65d16ccd5d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-95-2023",
+   "path": "local/ialomita/cazanesti/2023/95",
+   "short": "HCL Căzănești nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 95/2023 privind atestarea la domeniului privat a unui teren și includerea ăn inventarul domeniului privat.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2023",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2023/Hotararile_autoritatii_2023/HCL_nr._95_din_21.12.2023_privind_atestarea_la_domeniului_privat_a_unui_teren_%C8%99i_includerea_%C4%83n_inventarul_domeniului_privat.pdf",
+     "sha256": "a4db96fb3bf7fb6c6dec38d34b0163a7063644c1b5ec2a1684393343493626f1"
+    }
+   ]
+  }
+ ]
+}

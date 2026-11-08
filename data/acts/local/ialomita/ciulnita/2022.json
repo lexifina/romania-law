@@ -180,6 +180,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-9-2022",
+"path": "local/ialomita/ciulnita/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 9/2022 privind alegerea președintelui de ședință",
+"short": "HCL Ciulnița nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-11",
+"latest": "2022-07-11",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/65816",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-10-2022",
 "path": "local/ialomita/ciulnita/2022/10",
 "kind": "local",
@@ -356,6 +378,97 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-18-2022",
+"path": "local/ialomita/ciulnita/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 18/2022",
+"short": "HCL Ciulnița nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-11",
+"latest": "2022-07-11",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/65859",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-19-2022",
+"path": "local/ialomita/ciulnita/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 19/2022",
+"short": "HCL Ciulnița nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-11",
+"latest": "2022-07-11",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/65860",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-20-2022",
+"path": "local/ialomita/ciulnita/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 20/2022 privind aprobarea raportului de evaluare pentru stabilirea redevenței în vederea concesionării prin licitație publică, a bunurilor din domeniul privat al comunei Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-11",
+"latest": "2022-07-11",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/65861",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-21-2022",
+"path": "local/ialomita/ciulnita/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 21/2022",
+"short": "HCL Ciulnița nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-11",
+"latest": "2022-07-11",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/65862",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-22-2022",
 "path": "local/ialomita/ciulnita/2022/22",
 "kind": "local",
@@ -398,6 +511,29 @@
 "council_name": "Consiliul Local al Comunei Ciulnița",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-24-2022",
+"path": "local/ialomita/ciulnita/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 24/2022",
+"short": "HCL Ciulnița nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-11",
+"latest": "2022-07-11",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/65865",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -488,6 +624,95 @@
 "council_name": "Consiliul Local al Comunei Ciulnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-29-2022",
+"path": "local/ialomita/ciulnita/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 29/2022 privind desemnarea reprezentanților Consiliului local al comunei Ciulnița pentru a face parte din comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat din județul Ialomița",
+"short": "HCL Ciulnița nr. 29/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/65927",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-30-2022",
+"path": "local/ialomita/ciulnita/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 30/2022 privind aprobarea documentatiei de atribuire, a caietului de sarcini și a contractului de concesiune, în vederea concesionării bunurilor proprietatea privată a comunei Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/65928",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-31-2022",
+"path": "local/ialomita/ciulnita/2022/31",
+"kind": "local",
+"year": "2022",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 31/2022 privind modificarea HCL nr.87/2021 privind aprobarea deființării contractului de vânzare-cumpărare autentificat sub nr.1584/17.04.2013, încheiat între UAT comuna Ciulnița și Iordache Adrian-Vasile",
+"short": "HCL Ciulnița nr. 31/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/65929",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-32-2022",
+"path": "local/ialomita/ciulnita/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 32/2022",
+"short": "HCL Ciulnița nr. 32/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/65930",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -667,6 +892,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-41-2022",
+"path": "local/ialomita/ciulnita/2022/41",
+"kind": "local",
+"year": "2022",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 41/2022 privind alegerea președintelui de ședință",
+"short": "HCL Ciulnița nr. 41/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/65939",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-42-2022",
 "path": "local/ialomita/ciulnita/2022/42",
 "kind": "local",
@@ -818,6 +1065,29 @@
 "council_name": "Consiliul Local al Comunei Ciulnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-49-2022",
+"path": "local/ialomita/ciulnita/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 49/2022",
+"short": "HCL Ciulnița nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/65952",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -998,6 +1268,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-58-2022",
+"path": "local/ialomita/ciulnita/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 58/2022 privind alegerea președintelui de ședință",
+"short": "HCL Ciulnița nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-12",
+"latest": "2022-08-12",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/68577",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-59-2022",
 "path": "local/ialomita/ciulnita/2022/59",
 "kind": "local",
@@ -1150,6 +1442,28 @@
 "council_name": "Consiliul Local al Comunei Ciulnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-66-2022",
+"path": "local/ialomita/ciulnita/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 66/2022 privind desemnarea reprezentanților Consiliului local al comunei Ciulnița pentru a face parte din comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director la Școala Gimnazială Ciulnița,sesiunea iunie-octombrie 2022",
+"short": "HCL Ciulnița nr. 66/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/79331",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

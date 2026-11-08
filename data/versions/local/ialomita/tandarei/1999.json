@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/tandarei/1999",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--tandarei-42-1999",
+   "path": "local/ialomita/tandarei/1999/42",
+   "short": "HCL Țăndărei nr. 42/1999",
+   "title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 42/1999 privind modificarea Hotărârii Consiliului Local Țăndărei nr.42 din 31.08.1999 hotarare-privind-modificarea-hotararii-consiliului-local-tandarei-nr42-31081999.pdf",
+   "url": "http://www.primaria-tandarei.ro/articole/hotarari-aprobate-in-sedinta-ordinara-09022017",
+   "versions": [
+    {
+     "from": "1999-08-31",
+     "units": 1,
+     "source_url": "https://primaria-tandarei.ro/system/files/articole/2017-02-23/1215/hotarare-privind-modificarea-hotararii-consiliului-local-tandarei-nr42-31081999.pdf",
+     "sha256": "c2ec7b8bb4589c91bab797685bee53dd0925a73c5540e3d658eb6df289505b1b"
+    }
+   ]
+  }
+ ]
+}

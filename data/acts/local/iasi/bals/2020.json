@@ -25,6 +25,72 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-2-2020",
+"path": "local/iasi/bals/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 2/2020 privind aprobarea procesului verbal al ședinței consiliului local, din data de 16.12.2019",
+"short": "HCL Balș nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-09",
+"latest": "2020-01-09",
+"portal": "https://emol.ro/bals-is/registru-hcl/19849",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-3-2020",
+"path": "local/iasi/bals/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 3/2020 privind organizarea rețelei școlare a unităților de învățământ preuniveristar de stat din comuna Balș, județul Iași, pentru anul 2020-2021",
+"short": "HCL Balș nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-09",
+"latest": "2020-01-09",
+"portal": "https://emol.ro/bals-is/registru-hcl/19850",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-4-2020",
+"path": "local/iasi/bals/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 4/2020 privind acoperirea definitivă din excedentul bugetar a deficitului secțiunii de dezvoltare",
+"short": "HCL Balș nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-09",
+"latest": "2020-01-09",
+"portal": "https://emol.ro/bals-is/registru-hcl/19851",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-5-2020",
 "path": "local/iasi/bals/2020/5",
 "kind": "local",
@@ -69,6 +135,227 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-7-2020",
+"path": "local/iasi/bals/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 7/2020 privind Graficul de ședințe a Consiliului local Balș pentru trimestrul I-2020",
+"short": "HCL Balș nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/bals-is/registru-hcl/19854",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-8-2020",
+"path": "local/iasi/bals/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 8/2020 privind aprobare contractare servicii de avocatură în vederea reprezentării intereselor comunei Balș, județul Iași în fața instanțelor judecătărești",
+"short": "HCL Balș nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/bals-is/registru-hcl/19855",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-9-2020",
+"path": "local/iasi/bals/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 9/2020 privind aprobarea numărului asistenților personali și incheierea contractelor individuale de muncă ale acestora în anul 2020",
+"short": "HCL Balș nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/bals-is/registru-hcl/19856",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-10-2020",
+"path": "local/iasi/bals/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 10/2020 privind aprobarea Programului de activități pentru beneficiarii Legii nr. 416/2001",
+"short": "HCL Balș nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/bals-is/registru-hcl/19857",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-11-2020",
+"path": "local/iasi/bals/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 11/2020 privind aprobarea Programului anual de achiziții publice a comunei Balș, județul Iași pentru anul 2020",
+"short": "HCL Balș nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/bals-is/registru-hcl/19858",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-12-2020",
+"path": "local/iasi/bals/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 12/2020 privind aprobarea întocmirii raportului de evaluare și a studiilor de oportunitate pentru spațiul cu destinație cabinet veterinar în satul Balș, comuna Balș, județul Iași",
+"short": "HCL Balș nr. 12/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/bals-is/registru-hcl/19859",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-13-2020",
+"path": "local/iasi/bals/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 13/2020 privind aprobarea ''Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav în anul 2019 sem II angajați ai Primăriei comunei Balș'', județul Iași",
+"short": "HCL Balș nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/bals-is/registru-hcl/19860",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-14-2020",
+"path": "local/iasi/bals/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 14/2020",
+"short": "HCL Balș nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/bals-is/registru-hcl/19861",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-15-2020",
+"path": "local/iasi/bals/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 15/2020 privind transformarea unei funcții contractuale vacante de execuție din cadrul Centrului de zi pentru Copilul aflat în dificultate - Compartimentul de Asistență socială din cadrul aparatului de specialitate al Primarului comunei Balș, județul Iași",
+"short": "HCL Balș nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/bals-is/registru-hcl/19862",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-16-2020",
+"path": "local/iasi/bals/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 16/2020 privind aprobarea ordinii de zi a ședinței consiliului local, din data de 20.02.2020",
+"short": "HCL Balș nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/bals-is/registru-hcl/19874",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-17-2020",
 "path": "local/iasi/bals/2020/17",
 "kind": "local",
@@ -88,6 +375,182 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-18-2020",
+"path": "local/iasi/bals/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 18/2020 privind alegerea președintelui de ședință pentru lunile martie, aprilie și mai 2020",
+"short": "HCL Balș nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/bals-is/registru-hcl/19876",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-19-2020",
+"path": "local/iasi/bals/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 19/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 34",
+"short": "HCL Balș nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/bals-is/registru-hcl/19877",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-20-2020",
+"path": "local/iasi/bals/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 20/2020 privind modificarea Contractului de delgare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 35",
+"short": "HCL Balș nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/bals-is/registru-hcl/19878",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-21-2020",
+"path": "local/iasi/bals/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 21/2020 privind revocarea HCL nr. 93/27.11.2019 cu privirea la trecerea din domeniul public în domeniul privat al comunei Balș, județul Iași a terenului amplasat în T18 Cc 745, A 744 în suprafață de 1065 m.p",
+"short": "HCL Balș nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/bals-is/registru-hcl/19879",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-22-2020",
+"path": "local/iasi/bals/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 22/2020 privind revocarea HCL nr. 93/27.11.2019 cu privire la trecerea din domeniul public în domeniul privat al comunei Balș, județul Iași, a terenului amplasat în T18 Cc 745, A 744, în suprafață de 1065 m.p",
+"short": "HCL Balș nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/bals-is/registru-hcl/19880",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-23-2020",
+"path": "local/iasi/bals/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 23/2020 privind aprobarea utilizării excedentului bugetar din anii precedenți",
+"short": "HCL Balș nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/bals-is/registru-hcl/19881",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-24-2020",
+"path": "local/iasi/bals/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 24/2020 privind aprobarea bugetului general de venitrui și cheltuieli pentru anul 2020",
+"short": "HCL Balș nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/bals-is/registru-hcl/19882",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-25-2020",
+"path": "local/iasi/bals/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 25/2020 privind aprobarea ordinii de zi a ședinței consiliului local al comunei Balș, județul Iași, din data de 26.03.2020",
+"short": "HCL Balș nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/19883",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +576,50 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-27-2020",
+"path": "local/iasi/bals/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 27/2020 privind activitatea economică, socială și de mediu, a unității administrative-teritorială",
+"short": "HCL Balș nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/19885",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-28-2020",
+"path": "local/iasi/bals/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 28/2020 privind ..aprobarea contului de execuție bugetară și a indicatorilor privind execuției bugetului local la data de 31.12.2020",
+"short": "HCL Balș nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/19886",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-29-2020",
 "path": "local/iasi/bals/2020/29",
 "kind": "local",
@@ -132,6 +639,94 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-30-2020",
+"path": "local/iasi/bals/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 30/2020 privind aprobarea încheierii unui contract de prestări servicii auxiliare în domeniul achizițiilor publice privind obiectul de investiții Construire școală gimnazială în localitatea Balș, comuna Balș, județul Iași",
+"short": "HCL Balș nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/19887",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-31-2020",
+"path": "local/iasi/bals/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 31/2020 privind acordarea de mandat special în vederea exprimării votului în AGA ARSACIS referitor la completarea, modificarea și actualizarea Actului Constitutiv și Statutului Asociației Regionale a Serviciilor de Apă Canal Iași-ARSACIS",
+"short": "HCL Balș nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/19888",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-32-2020",
+"path": "local/iasi/bals/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 32/2020 privind aprobarea Programului acțiunilor și activităților edilitar-gospodărești de interes local care se vor desfășura în anul 2020 la nivelul Comunei Balș și măsurile pentru gospodărirea și înfrumusețarea localităților comunei",
+"short": "HCL Balș nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/19889",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-33-2020",
+"path": "local/iasi/bals/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 33/2020 privind aprobarea încheierii unui contract de prestări servicii de proiectarea faza SF după specificul HG 907/2016 ce vizează actualizarea devizului general estimativ pentru obiectivul de investiții Construire școlară gimnazială în localitatea Balș, comuna Balș, județul Iași",
+"short": "HCL Balș nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/19890",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +774,28 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-36-2020",
+"path": "local/iasi/bals/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 36/2020 privind aprobare Deviz General estimativ privind cheltuielile necesare realizării obiectivului de investiții ,,Construire Școală gimnazială în localitatea Balș, comuna Balș, județul Iași",
+"short": "HCL Balș nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-09",
+"latest": "2020-04-09",
+"portal": "https://emol.ro/bals-is/registru-hcl/19907",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-37-2020",
 "path": "local/iasi/bals/2020/37",
 "kind": "local",
@@ -220,6 +837,72 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-39-2020",
+"path": "local/iasi/bals/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 39/2020 privind contul de execuție bugetară și a indicatorilor privind execuție bugetului local la data de 31.03.2020",
+"short": "HCL Balș nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/bals-is/registru-hcl/19910",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-40-2020",
+"path": "local/iasi/bals/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 40/2020 privind actualizarea/modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 36",
+"short": "HCL Balș nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/bals-is/registru-hcl/19911",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-41-2020",
+"path": "local/iasi/bals/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 41/2020 privind aprobarea închirierii pășunilor din proprietatea privată a comunei Balș, județul Iași",
+"short": "HCL Balș nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/bals-is/registru-hcl/19912",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +950,50 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-44-2020",
+"path": "local/iasi/bals/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 44/2020 privind aprobarea prelungirii valabilității Planului Urbanistic General al comunei Balș, județul Iași",
+"short": "HCL Balș nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-14",
+"latest": "2020-05-14",
+"portal": "https://emol.ro/bals-is/registru-hcl/19915",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-45-2020",
+"path": "local/iasi/bals/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 45/2020 privind acordarea mandatului special reprezentantului UAT Balș, în AGA ADIS Iași în vederea aprobării modificării tarifului de colectare și transport a deșeurilor menajere și similare, altele decât reciclabile, în cadrul Proiectului ,,Sistem de Management Integrat al Deșeurilor din județul Iași,, și împuternicirea președintelui ADIS Iași să semneze Actul Adițional nr.3 la Contractul de delegare a gestiunii serviciului de colectare și transport a deșeurilor municipale în județul Iași nr. 357/30.10.2018",
+"short": "HCL Balș nr. 45/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-14",
+"latest": "2020-05-14",
+"portal": "https://emol.ro/bals-is/registru-hcl/19916",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-46-2020",
 "path": "local/iasi/bals/2020/46",
 "kind": "local",
@@ -308,6 +1035,116 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-48-2020",
+"path": "local/iasi/bals/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 48/2020 privind alegerea președintelui de ședință pentru lunile iunie, iulie și august 2020",
+"short": "HCL Balș nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/bals-is/registru-hcl/19919",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-49-2020",
+"path": "local/iasi/bals/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 49/2020 privind actualizarea Programului anual de achiziții publice a comunei Balș, județul Iași pentru anul 2020",
+"short": "HCL Balș nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/bals-is/registru-hcl/19920",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-50-2020",
+"path": "local/iasi/bals/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 50/2020 privind închirierea prin licitație publică a spațiului situat în imobilul Clădire Cabinet Medical din satul Boureni, comuna Balș, aflat în domeniul public al UAT BALȘ, Județul Iași, în vederea înființării unei farmacii pentru uz uman",
+"short": "HCL Balș nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/bals-is/registru-hcl/19921",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-51-2020",
+"path": "local/iasi/bals/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 51/2020 privind aprobarea ordinii de zi a ședinței consiliului local al comunei Balș, județul Iași, din data de 25.06.2020",
+"short": "HCL Balș nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/19922",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-52-2020",
+"path": "local/iasi/bals/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 52/2020 privind aprobarea procesului verbal al ședinței consiliului local din data de 28.05.2020",
+"short": "HCL Balș nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/19923",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -577,6 +1414,28 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-68-2020",
+"path": "local/iasi/bals/2020/68",
+"kind": "local",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 68/2020 privind actualizarea Programului anual de achiziții publice a comunei Balș, județul Iași pentru anul 2020",
+"short": "HCL Balș nr. 68/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/bals-is/registru-hcl/20235",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-69-2020",
 "path": "local/iasi/bals/2020/69",
 "kind": "local",
@@ -618,6 +1477,29 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-71-2020",
+"path": "local/iasi/bals/2020/71",
+"kind": "local",
+"year": "2020",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 71/2020",
+"short": "HCL Balș nr. 71/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-10",
+"latest": "2020-08-10",
+"portal": "https://emol.ro/bals-is/registru-hcl/20240",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

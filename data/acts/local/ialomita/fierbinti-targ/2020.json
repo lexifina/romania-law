@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/ialomita/fierbinti-targ/2020",
+"acts": [
+{
+"slug": "hcl-ialomita--fierbinti-targ-3-2020",
+"path": "local/ialomita/fierbinti-targ/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 3/2020",
+"short": "HCL Fierbinți-Târg nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-03",
+"latest": "2020-03-03",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fierbinti-targ-16-2020",
+"path": "local/ialomita/fierbinti-targ/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 16/2020",
+"short": "HCL Fierbinți-Târg nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-27",
+"latest": "2020-04-27",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fierbinti-targ-22-2020",
+"path": "local/ialomita/fierbinti-targ/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 22/2020",
+"short": "HCL Fierbinți-Târg nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-03",
+"latest": "2020-06-03",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fierbinti-targ-33-2020",
+"path": "local/ialomita/fierbinti-targ/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 33/2020",
+"short": "HCL Fierbinți-Târg nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-20",
+"latest": "2020-11-20",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fierbinti-targ-34-2020",
+"path": "local/ialomita/fierbinti-targ/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 34/2020",
+"short": "HCL Fierbinți-Târg nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-20",
+"latest": "2020-11-20",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fierbinti-targ-35-2020",
+"path": "local/ialomita/fierbinti-targ/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 35/2020",
+"short": "HCL Fierbinți-Târg nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fierbinti-targ-36-2020",
+"path": "local/ialomita/fierbinti-targ/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 36/2020",
+"short": "HCL Fierbinți-Târg nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fierbinti-targ-37-2020",
+"path": "local/ialomita/fierbinti-targ/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 37/2020",
+"short": "HCL Fierbinți-Târg nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fierbinti-targ-38-2020",
+"path": "local/ialomita/fierbinti-targ/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 38/2020",
+"short": "HCL Fierbinți-Târg nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fierbinti-targ-42-2020",
+"path": "local/ialomita/fierbinti-targ/2020/42",
+"kind": "local",
+"year": "2020",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 42/2020",
+"short": "HCL Fierbinți-Târg nr. 42/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-30",
+"latest": "2020-12-30",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

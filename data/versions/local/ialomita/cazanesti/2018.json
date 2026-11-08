@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/cazanesti/2018",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--cazanesti-94-2018",
+   "path": "local/ialomita/cazanesti/2018/94",
+   "short": "HCL Căzănești nr. 94/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 94/2018 pentru modificarea HCL nr.62 din 28.09.2018 privind aprobarea amenajamentului pastoral.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2021/Registrul_agricol/HCL_nr._94_din_21.12.2018_pentru_modificarea_HCL_nr.62_din_28.09.2018_privind_aprobarea_amenajamentului_pastoral.pdf",
+     "sha256": "71eff646c0771cfe6c8daa6b492576feb81d08877f9644407fbd9c755e590db2"
+    }
+   ]
+  }
+ ]
+}

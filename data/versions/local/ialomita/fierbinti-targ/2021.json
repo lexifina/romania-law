@@ -1,0 +1,876 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/fierbinti-targ/2021",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-1-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/1",
+   "short": "HCL Fierbinți-Târg nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 1/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-01-11",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2001%20din%2011.01.2021.pdf",
+     "sha256": "66dba0983a9d9eb18b79301abf65f06271c7c7f9997cdf85132ddb3c580077dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-10-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/10",
+   "short": "HCL Fierbinți-Târg nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 10/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-02-08",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2010%20din%2008.02.2021.pdf",
+     "sha256": "472c0ac799fc480a70e89217df1203f20056929dce3daf5a7c3c223f2337f7b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-11-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/11",
+   "short": "HCL Fierbinți-Târg nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 11/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-02-08",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2011%20din%2008.02.2021.pdf",
+     "sha256": "df9b4702305f0159f9cc07718feb1361f932234e9c3de21f6995e0db65762a65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-12-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/12",
+   "short": "HCL Fierbinți-Târg nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 12/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2012%20din%2026.02.2021.pdf",
+     "sha256": "7026a9c52f7e825405942afd22de12f3fc30a19e714dd2313c01af460a444cdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-13-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/13",
+   "short": "HCL Fierbinți-Târg nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 13/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2013%20din%2026.02.2021.pdf",
+     "sha256": "c084316b23e451b68d4246207da6d0d1e83273194545cc84abc0daeadc7168cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-14-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/14",
+   "short": "HCL Fierbinți-Târg nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 14/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2014%20din%2026.02.2021.pdf",
+     "sha256": "0fb42234996430d02cac7370edfe6d0c67e8fc0d2fc5c8b0154cffb0418dae3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-16-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/16",
+   "short": "HCL Fierbinți-Târg nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 16/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2016%20din%2019.04.2021.pdf",
+     "sha256": "9737acd9d5cb6e75547c924adda9fbc8136a7c4a1b4a65821ff5ca9682c3fbb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-17-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/17",
+   "short": "HCL Fierbinți-Târg nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 17/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2017%20din%2019.04.2021.pdf",
+     "sha256": "82792064e79f5729a3d3f88945b1d46be207051c5bd19732cfd87860498863a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-18-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/18",
+   "short": "HCL Fierbinți-Târg nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 18/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2018%20din%2019.04.2021.pdf",
+     "sha256": "18d76d0b5eda45777091c9f30ca3e17352643a83500811218136424c1b3f376b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-19-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/19",
+   "short": "HCL Fierbinți-Târg nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 19/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2019%20din%2021.04.2021.pdf",
+     "sha256": "f281448c5050e2786c9815751e8c1c08a2bdb6ec08e549178773735b151b8bc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-2-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/2",
+   "short": "HCL Fierbinți-Târg nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 2/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2002%20din%2027.01.2021.pdf",
+     "sha256": "b960a942b2e15d1941e70030ccf20e01445ff928341a3dc20fd2335796dbd6c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-20-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/20",
+   "short": "HCL Fierbinți-Târg nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 20/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2020%20din%2029.04.2021.pdf",
+     "sha256": "1d3e855aa5daf22ae28a0a542d6cc95aec69bfa85be5956ecf188690f2f6e73f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-21-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/21",
+   "short": "HCL Fierbinți-Târg nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 21/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2021%20din%2029.04.2021.pdf",
+     "sha256": "856508f2489622b689d585b3da870d5c45c8536d19c1b43ebfab0ea105ef5caf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-23-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/23",
+   "short": "HCL Fierbinți-Târg nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 23/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2023%20din%2029.04.2021.pdf",
+     "sha256": "e20c8ce7b9297d36746cc2cb5c1ea320c4944a2682ac39dc951a724da23bdf7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-24-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/24",
+   "short": "HCL Fierbinți-Târg nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 24/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2024%20din%2029.04.2021.pdf",
+     "sha256": "beb4703f45e7d8151e7d546eae5228d16bf9a905f5b079037f3f613b315610ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-25-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/25",
+   "short": "HCL Fierbinți-Târg nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 25/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2025%20din%2029.04.2021.pdf",
+     "sha256": "985d81d2cd4aa732381ada10f31d223378eac41a5f68388e7f43528202f093bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-26-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/26",
+   "short": "HCL Fierbinți-Târg nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 26/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2026%20din%2019.08.2021.pdf",
+     "sha256": "65519da0405074c7173e2814e49a957e2025716499e413bc20d30b7d59db457a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-27-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/27",
+   "short": "HCL Fierbinți-Târg nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 27/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2027%20din%2019.08.2021.pdf",
+     "sha256": "fe8200958e6cd2543e5660a347d1df89c9846619296fef5e9c1822425f8b09d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-28-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/28",
+   "short": "HCL Fierbinți-Târg nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 28/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2028%20din%2019.08.2021.pdf",
+     "sha256": "87cfc019da02b421b0bb5ecb75836450a7d2155ce5658978a7a04aebe186acf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-29-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/29",
+   "short": "HCL Fierbinți-Târg nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 29/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2029%20din%2019.08.2021.pdf",
+     "sha256": "5c0988bd1ac69728546f1406092ddef71f01651f36644c0f2d860bcff9d0882d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-3-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/3",
+   "short": "HCL Fierbinți-Târg nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 3/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2003%20din%2027.01.2021.pdf",
+     "sha256": "6aa67cf1b5c3c9aa0a750f51ad1a31eb9933b52d26144573cb0bb9c9a18448b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-30-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/30",
+   "short": "HCL Fierbinți-Târg nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 30/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2030%20din%2019.08.2021.pdf",
+     "sha256": "3de069f2db23ad65de24776c75dfc6adc4c4ea053f1f9f0b3a7a7579d92d859c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-31-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/31",
+   "short": "HCL Fierbinți-Târg nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 31/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2031%20din%2019.08.2021.pdf",
+     "sha256": "4aa30e001b74d5c7f2974dcecc18e4ee4b68a29ec4b6428987d47839c7c5c758"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-34-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/34",
+   "short": "HCL Fierbinți-Târg nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 34/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2034%20din%2020.09.2021.pdf",
+     "sha256": "59d4825146b5ef9201708f6496e37d7624bc0095850d3aa00395ffc706313179"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-35-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/35",
+   "short": "HCL Fierbinți-Târg nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 35/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2035%20din%2020.09.2021.pdf",
+     "sha256": "81f45d7d87ca8eef8c1285c1c3808fc7e7cd03255b40b5f2acd0da183a52629f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-36-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/36",
+   "short": "HCL Fierbinți-Târg nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 36/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2036%20din%2020.09.2021.pdf",
+     "sha256": "f6917216f01d2e999cde29bd4efdccc36ca34bafd9b253e7ab746b03060c6624"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-37-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/37",
+   "short": "HCL Fierbinți-Târg nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 37/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2037%20din%2020.09.2021.pdf",
+     "sha256": "286c66a4344e6d1f2408e10336f4b11f1f7a3737b28e031c889954013a64c05e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-38-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/38",
+   "short": "HCL Fierbinți-Târg nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 38/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2038%20din%2029.09.2021.pdf",
+     "sha256": "0c206185837d6b04dad5aec6e05ce44880f4b82058930975de89e9747c77395f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-39-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/39",
+   "short": "HCL Fierbinți-Târg nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 39/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2039%20din%2029.09.2021.pdf",
+     "sha256": "3fb8f43c1b96a207696cd55b8ecc5c20042f2b3e26c3d0aa6aa193ecf9e7b83f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-4-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/4",
+   "short": "HCL Fierbinți-Târg nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 4/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2004%20din%2027.01.2021.pdf",
+     "sha256": "a798f16b37cdc712f7f1f33ea8458c4139073ea0cbcd32bf9bbc0b0d8d80d0e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-40-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/40",
+   "short": "HCL Fierbinți-Târg nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 40/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2040%20din%2029.09.2021.pdf",
+     "sha256": "9e63877224f3e76ac26ba2030a20ad0b4a585106bbf4174c2d201ff23f0bd762"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-41-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/41",
+   "short": "HCL Fierbinți-Târg nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 41/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2041%20din%2022.10.2021.pdf",
+     "sha256": "1001f8850e3825b2aabb2f4bebe6729619dce21ee9512ff60a06d268507662c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-42-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/42",
+   "short": "HCL Fierbinți-Târg nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 42/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2042%20din%2022.10.2021.pdf",
+     "sha256": "0c381972ffa124eab1b4aaea2823a27a8980ed67ab92903f303fc2bc167599bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-43-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/43",
+   "short": "HCL Fierbinți-Târg nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 43/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2043%20din%2022.10.2021.pdf",
+     "sha256": "48d9baf55ca645b6383f4ce62d11866dd21db99ed8506847af98923cdd430b06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-44-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/44",
+   "short": "HCL Fierbinți-Târg nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 44/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2044%20din%2022.10.2021.pdf",
+     "sha256": "5c1b2a94669d76a83b37e35505f6ba5399f321acc878727dbd91c9c99a6aba2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-45-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/45",
+   "short": "HCL Fierbinți-Târg nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 45/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2045%20din%2022.10.2021.pdf",
+     "sha256": "8535c3bb88738893ba502421bc2695d3c0470931685cb4e8b6be3eff36a16c52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-46-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/46",
+   "short": "HCL Fierbinți-Târg nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 46/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2046%20din%2022.10.2021.pdf",
+     "sha256": "0454bd635af58e166e7baa9569f4251a20d8ebb7e4e747469f7788d14f6e6f82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-47-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/47",
+   "short": "HCL Fierbinți-Târg nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 47/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2047%20din%2003.11.2021.pdf",
+     "sha256": "9e715b56c09dc0a74237294ded04e22bbc5a9340f019da8fe3eabcb48e3b4b9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-48-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/48",
+   "short": "HCL Fierbinți-Târg nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 48/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2048%20din%2003.11.2021.pdf",
+     "sha256": "6859d4fdb42b18c59bdd94952bbaf961861e95418391a5c234f0108203220801"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-49-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/49",
+   "short": "HCL Fierbinți-Târg nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 49/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2049%20din%2003.11.2021.pdf",
+     "sha256": "cbc55e4b55485331bbe1a57e4d3919cca6f32408320bb6ebe7f553730e16988d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-50-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/50",
+   "short": "HCL Fierbinți-Târg nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 50/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2050%20din%2005.11.2021.pdf",
+     "sha256": "74edee4308631fe01aa7918b9e0046fc8825ad85dad58e8fcff15947004d83bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-51-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/51",
+   "short": "HCL Fierbinți-Târg nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 51/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2051%20din%2005.11.2021.pdf",
+     "sha256": "9eed6f416355012e8da281f10ae67221964a1613c003994d14479955ae2a2948"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-52-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/52",
+   "short": "HCL Fierbinți-Târg nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 52/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2052%20din%2026.11.2021.pdf",
+     "sha256": "0b0dee247b1c42ec0557bfe0f5a7848c471e8ba4de2674fca7ac9dd2a9e3f700"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-53-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/53",
+   "short": "HCL Fierbinți-Târg nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 53/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2053%20din%2026.11.2021.pdf",
+     "sha256": "3ed67c46f5bf81e3db61a83a2f8109ac6d098d42c107dfdc79bf1735b721987f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-54-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/54",
+   "short": "HCL Fierbinți-Târg nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 54/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2054%20din%2026.11.2021.pdf",
+     "sha256": "f0e01ad9042cc04f2cfcfb7ff31d13a809ce128df0ef780d2f089bed9eaa8bf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-55-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/55",
+   "short": "HCL Fierbinți-Târg nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 55/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2055%20din%2026.11.2021.pdf",
+     "sha256": "640f46c6a0a3a1680a5a1fb590d2f87ccfebdd117f7a3c589d77d81ee1cc27b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-56-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/56",
+   "short": "HCL Fierbinți-Târg nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 56/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2056%20din%2026.11.2021.pdf",
+     "sha256": "d965b2310be8d19c17b9fc0fc10a7711903aab58f7f2ec7e955d2093fb14c666"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-57-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/57",
+   "short": "HCL Fierbinți-Târg nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 57/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2057%20din%2015.12.2021.pdf",
+     "sha256": "f3259e194e0d448e6d45dd441c1317858e9e0fdd99de34e5810a014d4dfd5d39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-59-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/59",
+   "short": "HCL Fierbinți-Târg nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 59/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2059%20din%2015.12.2021.pdf",
+     "sha256": "8aae3c7d2d324e6d8fce4eab1386230353b23aee55ea673a05840698c0795371"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-60-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/60",
+   "short": "HCL Fierbinți-Târg nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 60/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2060%20din%2015.12.2021.pdf",
+     "sha256": "30ce74926d207d88da18e2221a6a8290ff49dbdb54096cd9731105f52e32ede0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-61-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/61",
+   "short": "HCL Fierbinți-Târg nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 61/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2061%20din%2015.12.2021.pdf",
+     "sha256": "414ae46f116d2df007ed20206a4d281a954adfc5b6570f587d21e176ec8539c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-62-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/62",
+   "short": "HCL Fierbinți-Târg nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 62/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2062%20din%2015.12.2021.pdf",
+     "sha256": "0d0a3ff92c4293f20821c7f39592b20e9bb4acf7aa43c4da39e8a71c33a39bc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-63-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/63",
+   "short": "HCL Fierbinți-Târg nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 63/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2063%20din%2015.12.2021.pdf",
+     "sha256": "1ee96122adecaca9ec8afef216e993ddd45b8f5e69c8e4425a7511d7d6e60157"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-64-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/64",
+   "short": "HCL Fierbinți-Târg nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 64/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2064%20din%2015.12.2021.pdf",
+     "sha256": "9d4a284632b43bb3e780b172f72b449e16a53616c6494f60c59c52f47466cba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-65-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/65",
+   "short": "HCL Fierbinți-Târg nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 65/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2065%20din%2015.12.2021.pdf",
+     "sha256": "75ea72feecb6526274cb06936fb2aa245c4edc77bf4759b2f3644ad18d7a27a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-7-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/7",
+   "short": "HCL Fierbinți-Târg nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 7/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2007%20din%2027.01.2021.pdf",
+     "sha256": "bbb60e44ba3ff943247a702c056df3e7780eaf70722bd5edce240d7e9e34e53c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-8-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/8",
+   "short": "HCL Fierbinți-Târg nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 8/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2008%20din%2027.01.2021.pdf",
+     "sha256": "4baca31083d3522ebbd917aaca9eb7cf43c33a40be17b8d5a76c5e329e61922f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-9-2021",
+   "path": "local/ialomita/fierbinti-targ/2021/9",
+   "short": "HCL Fierbinți-Târg nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 9/2021",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2021/Hotararea%20nr.%2009%20din%2027.01.2021.pdf",
+     "sha256": "c05d72920aaf4a00c82824c2954e7ec8bd642ea183f0cdc7ec77afdfc828091b"
+    }
+   ]
+  }
+ ]
+}

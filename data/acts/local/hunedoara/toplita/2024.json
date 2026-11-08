@@ -3,6 +3,72 @@
 "shard": "local/hunedoara/toplita/2024",
 "acts": [
 {
+"slug": "hcl-hunedoara--toplita-1-2024",
+"path": "local/hunedoara/toplita/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 1/2024 privind acoperirea definitiva adeficitului sectiunii de dezvoltare a bugetului local la finele anului 2023, din excedentul bugetului local pe anul 2022",
+"short": "HCL Toplița nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166569",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-2-2024",
+"path": "local/hunedoara/toplita/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 2/2024 privind aprobarea organizării rețelei școlare pentru învățământul preuniversitar de stat de pe raza comunei Toplița pentru anul școlar 2024-2025",
+"short": "HCL Toplița nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166570",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-3-2024",
+"path": "local/hunedoara/toplita/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 3/2024 privind stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Toplita",
+"short": "HCL Toplița nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166571",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--toplita-4-2024",
 "path": "local/hunedoara/toplita/2024/4",
 "kind": "local",
@@ -47,6 +113,116 @@
 }
 },
 {
+"slug": "hcl-hunedoara--toplita-6-2024",
+"path": "local/hunedoara/toplita/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 6/2024 privind aprobarea utilizarii sumei de 1.102 mii lei din excedentul bugetului local al comunei Toplita existent la 31.12.2023, in suma totala de 1.202,23 mii lei, la Sectiunea de dezvoltare al bugetului local al comunei Topliţa, pe anul 2024",
+"short": "HCL Toplița nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166582",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-7-2024",
+"path": "local/hunedoara/toplita/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 7/2024 privind aprobarea bugetului local al comunei Toplita, judetul Hunedoara, pe anul 2024 si estimarile pentru anii 2025 - 2027",
+"short": "HCL Toplița nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166583",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-8-2024",
+"path": "local/hunedoara/toplita/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 8/2024 privind aprobarea bugetului Scolii Primare Hasdau, comuna Toplita, Judetul Hunedoara, pe anul 2024",
+"short": "HCL Toplița nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166584",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-9-2024",
+"path": "local/hunedoara/toplita/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 9/2024 privind aprobarea trecerii din domeniul public al comunei Toplita în domeniul privat al comunei Toplita, a unor bunuri immobile, terenuri, identificate în anexă",
+"short": "HCL Toplița nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166585",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-10-2024",
+"path": "local/hunedoara/toplita/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 10/2024 privind aprobarea actualizarii programului anual al achiziţiilor publice pe anul 2024, la nivelul autorităţii contractante comuna Toplița, in functie de fondurile aprobate, in conditiile legii",
+"short": "HCL Toplița nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166602",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--toplita-11-2024",
 "path": "local/hunedoara/toplita/2024/11",
 "kind": "local",
@@ -66,6 +242,72 @@
 "council_name": "Consiliul Local al Comunei Toplița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-12-2024",
+"path": "local/hunedoara/toplita/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 12/2024 privind modificarea Hotărârii Consiliului Local al comunei Toplița nr. 31/2019 privind aprobarea contributiei Comunei Topliţa pentru funcţionarea compartimentului de audit intern, înfiinţat în cadrul Filialei Judetene Hunedoara a Asociaţiei Comunelor din România",
+"short": "HCL Toplița nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166604",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-13-2024",
+"path": "local/hunedoara/toplita/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 13/2024 privind numirea reprezentantului Consiliului Local al comunei Toplita în Consiliul de administrație al Regiei Publice Locale Ocolul Silvic ”Ținutul Pădurenilor” R.A",
+"short": "HCL Toplița nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166605",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-14-2024",
+"path": "local/hunedoara/toplita/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 14/2024 privind aprobarea pretului de vanzare directa a masei lemnoase fasonata, inclusiv a lemnului cu diametru mai mare de 24 cm, provenita din fondul forestier proprietate publica a comunei Toplita si a tarifelor pentru prestarii servicii de exploatare forestiera cu operatori economici atestati",
+"short": "HCL Toplița nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166606",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -111,6 +353,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-17-2024",
+"path": "local/hunedoara/toplita/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 17/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Toplita pentru o perioadă de trei luni (aprilie 2024 – iunie 2024)",
+"short": "HCL Toplița nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166609",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -181,6 +445,72 @@
 }
 },
 {
+"slug": "hcl-hunedoara--toplita-21-2024",
+"path": "local/hunedoara/toplita/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 21/2024 privind aprobarea contului de încheiere a exercitiului bugetar pe anul 2023",
+"short": "HCL Toplița nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166763",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-22-2024",
+"path": "local/hunedoara/toplita/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 22/2024 privind suplimentarea, virarea de credite bugetare si modificarea de alocatii bugetare trimestriale",
+"short": "HCL Toplița nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166764",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-23-2024",
+"path": "local/hunedoara/toplita/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 23/2024 privind acordarea unui sprijin financiar in suma de 12000 lei Bisericii Penticostale din localitatea Hasdau, comuna Toplita, judetul Hunedoara, pentru lucrari de consolidare si reparatii la biserica",
+"short": "HCL Toplița nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166765",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--toplita-24-2024",
 "path": "local/hunedoara/toplita/2024/24",
 "kind": "local",
@@ -200,6 +530,249 @@
 "council_name": "Consiliul Local al Comunei Toplița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-25-2024",
+"path": "local/hunedoara/toplita/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 25/2024",
+"short": "HCL Toplița nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166767",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-26-2024",
+"path": "local/hunedoara/toplita/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 26/2024 privind aprobarea aderării Comunei Bătrâna prin Consiliul Local al Comunei Bătrâna la Asociația de Dezvoltare Intercomunitară ”AQUA PREST HUNEDOARA”",
+"short": "HCL Toplița nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166768",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-27-2024",
+"path": "local/hunedoara/toplita/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 27/2024 privind aprobarea modificarii Hotararii Consiliului Local nr. 52/2022 privind implementarea proiectului ,, ACHIZITIE INCARCATOR FRONTAL SI ACCESORII PENTRU COMUNA TOPLITA, JUDETUL HUNEDOARA",
+"short": "HCL Toplița nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166780",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-28-2024",
+"path": "local/hunedoara/toplita/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 28/2024 privind aprobarea utilizarii sumei de 90 mii lei, neutilizata, din excedentul bugetului local al comunei Toplita existent la 31.12.2023, la Sectiunea de dezvoltare al bugetului local al comunei Topliţa, pe anul 2024",
+"short": "HCL Toplița nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166781",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-29-2024",
+"path": "local/hunedoara/toplita/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 29/2024 privind suplimentarea bugetului local al comunei Toplita pe anul 2024",
+"short": "HCL Toplița nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166782",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-30-2024",
+"path": "local/hunedoara/toplita/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 30/2024 privind aprobarea majorării salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Toplita",
+"short": "HCL Toplița nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166783",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-31-2024",
+"path": "local/hunedoara/toplita/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 31/2024 privind suplimentarea si virarea de credite bugetare, in cadrul bugetului local al comunei Toplita pe anul 2024",
+"short": "HCL Toplița nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166784",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-32-2024",
+"path": "local/hunedoara/toplita/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 32/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Toplita pentru o perioadă de trei luni (aprilie 2024 – iunie 2024)",
+"short": "HCL Toplița nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166785",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-33-2024",
+"path": "local/hunedoara/toplita/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 33/2024 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiți „ Modernizare drumuri comunale si vicinale din comuna Toplita, judetul Hunedoara”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului„Modernizare drumuri comunale si vicinale din comuna Toplita, judetul Hunedoara”",
+"short": "HCL Toplița nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166786",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-34-2024",
+"path": "local/hunedoara/toplita/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 34/2024 privind aprobarea utilizarii sumei de 10 mii lei, neutilizata, din excedentul bugetului local al comunei Toplita existent la 31.12.2023, la Sectiunea de dezvoltare al bugetului local al comunei Topliţa, pe anul 2024",
+"short": "HCL Toplița nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166787",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--toplita-35-2024",
+"path": "local/hunedoara/toplita/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Toplița nr. 35/2024 privind modificarea bugetului local al comunei Toplita pe anul 2024",
+"short": "HCL Toplița nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/toplita-hd/registru-hcl/166788",
+"council": "hunedoara/toplita",
+"council_name": "Consiliul Local al Comunei Toplița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,51 @@
  "shard": "local/hunedoara/ilia/2025",
  "acts": [
   {
+   "slug": "hcl-hunedoara--ilia-1-2025",
+   "path": "local/hunedoara/ilia/2025/1",
+   "short": "HCL Ilia nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 1/2025 privind alegerea președintelui de ședință a Consiliului Local al comunei Ilia, județul Hunedoara;",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/190662",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/190662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-10-2025",
+   "path": "local/hunedoara/ilia/2025/10",
+   "short": "HCL Ilia nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 10/2025 privind aprobarea inchirierii prin licitatie publica a unor spatii ce apartin domeniului public al comunei Ilia, respectiv in incinta sediului Primariei Comunei Ilia, judetul Hunedoara",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/193762",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/193762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-11-2025",
+   "path": "local/hunedoara/ilia/2025/11",
+   "short": "HCL Ilia nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 11/2025 cu privire la aprobarea rezilierii contractului de concesiune nr. 1239 din 20.03.2023 incheiat intre UAT Comuna Ilia in calitate de concedent si BMI SOLAR ENERGY SRL - in calitate de concesionar, si radierea acestuia din cartea funciara",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/193763",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/193763",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--ilia-12-2025",
    "path": "local/hunedoara/ilia/2025/12",
    "short": "HCL Ilia nr. 12/2025",
@@ -13,6 +58,21 @@
      "from": "2025-03-21",
      "units": 1,
      "source_url": "https://emol.ro/ilia-hd/registru-hcl/193764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-13-2025",
+   "path": "local/hunedoara/ilia/2025/13",
+   "short": "HCL Ilia nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 13/2025",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/202882",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/202882",
      "sha256": null
     }
    ]
@@ -33,6 +93,81 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--ilia-15-2025",
+   "path": "local/hunedoara/ilia/2025/15",
+   "short": "HCL Ilia nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 15/2025 privind UTILIZAREA EXCEDENTULUI ANUAL AL BUGETULUI PROPRIU AL COMUNEI ILIA REZULTAT LA INCHIDEREA EXERCITIULUI BUGETAR AL ANULUI 2024, CA SURSA DE FINANTARE A CHELTUIELILOR SECTIUNII DE DEZVOLTARE PREVAZUTE IN BUGETUL PROPRIU AL COMUNEI ILIA PE ANUL 2025",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/202884",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/202884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-16-2025",
+   "path": "local/hunedoara/ilia/2025/16",
+   "short": "HCL Ilia nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 16/2025 privind INDREPTARE EROARE MATERIALA LA HOTARAREA CONSILIULUI LOCAL NR. 3/2025 PRIVIND APROBAREA REGULAMENTULUI PENTRU DECONTAREA CHELTUIELILOR CU NAVETA PERSONALULUI DIN APARATUL DE SPECIALITATE AL PRIMARULUI COMUNEI ILIA, JUDETUL HUNEDOARA",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/202885",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/202885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-17-2025",
+   "path": "local/hunedoara/ilia/2025/17",
+   "short": "HCL Ilia nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 17/2025 privind ALEGEREA PRESEDINTELUI DE SEDINTA A CONSILIULUI LOCAL AL COMUNEI ILIA, JUDETUL Hunedoara",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/202886",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/202886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-18-2025",
+   "path": "local/hunedoara/ilia/2025/18",
+   "short": "HCL Ilia nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 18/2025 privind atestarea apartenenței la domeniul public al Comunei Ilia a unor suprafețe de teren din Comuna Ilia, conform înregistrărilor sistematice",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/202887",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/202887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-19-2025",
+   "path": "local/hunedoara/ilia/2025/19",
+   "short": "HCL Ilia nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 19/2025 privind aprobarea închirierii prin atribuire directă a pașunilor disponibile aflate în proprietatea privată a comuna Ilia",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/202888",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/202888",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--ilia-2-2025",
    "path": "local/hunedoara/ilia/2025/2",
    "short": "HCL Ilia nr. 2/2025",
@@ -43,6 +178,351 @@
      "from": "2025-01-31",
      "units": 1,
      "source_url": "https://emol.ro/ilia-hd/registru-hcl/190663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-20-2025",
+   "path": "local/hunedoara/ilia/2025/20",
+   "short": "HCL Ilia nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 20/2025 privind aprobarea acordului de participare a comunei ILIA, județul Hunedoara, în cadrul Programului privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/202889",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/202889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-21-2025",
+   "path": "local/hunedoara/ilia/2025/21",
+   "short": "HCL Ilia nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 21/2025 privind modificarea organigramei și a statului de funcții de la nivelul Primăriei comunei Ilia",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/202890",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/202890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-22-2025",
+   "path": "local/hunedoara/ilia/2025/22",
+   "short": "HCL Ilia nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 22/2025 privind aprobarea studiului de fezabilitate , a indicatorilor tehnico-economici si a devizului general pentru obiectivul de investitii \"EXTINDERE RETEA DE CANALIZARE IN COMUNA ILIA, JUDETUL HUNEDOARA\", aprobat pentru finantare prin Programul National de Investitii \"Anghel Saligny\", precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/202891",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/202891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-23-2025",
+   "path": "local/hunedoara/ilia/2025/23",
+   "short": "HCL Ilia nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 23/2025 privind stabilirea unor măsuri privind salarizarea funcționarilor publici și personalului contractual din aparatul de specialitate al primarului comunei Ilia, în anul 2025",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/202892",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/202892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-24-2025",
+   "path": "local/hunedoara/ilia/2025/24",
+   "short": "HCL Ilia nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 24/2025 Privind Aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al Comunei Ilia",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/206877",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/206877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-25-2025",
+   "path": "local/hunedoara/ilia/2025/25",
+   "short": "HCL Ilia nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 25/2025 privind modificarea organigramei și a statului de funcții de la nivelul Primăriei Comunei Ilia",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/206878",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/206878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-26-2025",
+   "path": "local/hunedoara/ilia/2025/26",
+   "short": "HCL Ilia nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 26/2025 privind privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „ACHIZITIONAREA SI PUNEREA IN FUNCTIUNE A ELEMENTELOR DE MOBILIER URBAN, DOTAREA SI PUNEREA IN FUNCTIUNE A SISTEMULUI DE MONITORIZARE VIDEO, IN COMUNA ILIA, JUDETUL HUNEDOARA”, aprobat pentru finanțare prin Planul Național de Redresare și Reziliență – Componenta C10 – Fondul local",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/206879",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/206879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-27-2025",
+   "path": "local/hunedoara/ilia/2025/27",
+   "short": "HCL Ilia nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 27/2025 PRIVIND ACTUALIZAREA REGULAMENTULUI DE ORGANIZARE ȘI FUNCȚIONARE AL SERVICIULUII PUBLIC COMUNITAR DE EVIDENȚA PERSOANELOR AL COMUNEI ILIA",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/213187",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/213187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-28-2025",
+   "path": "local/hunedoara/ilia/2025/28",
+   "short": "HCL Ilia nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 28/2025 PRIVIND APROBAREA COLABORĂRII INTERINSTITUȚIONALE DIN CADRUL PROIECTULUI - \"FURNIZARE DE SERVICII INTEGRATE ÎN COMUNITĂȚILE RURALE - FACILITAREA ACCESULUI PERSOANELOR VULNERABILE LA SERVICII DE BAZĂ EFICIENTE ȘI DE CALITATE\"",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/213188",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/213188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-29-2025",
+   "path": "local/hunedoara/ilia/2025/29",
+   "short": "HCL Ilia nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 29/2025 PRIVIND CONSTITUIREA ECHIPEI MOBILE PENTRU INTERVENȚIA DE URGENȚĂ ÎN CAZURILE DE VIOLENȚĂ DOMESTICĂ",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/213189",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/213189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-3-2025",
+   "path": "local/hunedoara/ilia/2025/3",
+   "short": "HCL Ilia nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 3/2025 privind aprobarea regulamentului pentru decontarea cheltuielilor cu naveta personalului din aparatul de specialitate al primarului comunei Ilia, judetul Hunedoara",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/190664",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/190664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-30-2025",
+   "path": "local/hunedoara/ilia/2025/30",
+   "short": "HCL Ilia nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 30/2025 PRIVIND APROBAREA EXECUȚIEI BUGETULUI LOCAL AL COMUNEI ILIA PE TRIMESTRUL I - ANUL 2025",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/213190",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/213190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-31-2025",
+   "path": "local/hunedoara/ilia/2025/31",
+   "short": "HCL Ilia nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 31/2025 PRIVIND INDEXAREA CU RATA INFLAȚIEI DE 5,6% A IMPOZITELOR ȘI TAXELOR LOCALE, PRECUM ȘI A LIMITELOR AMENZILOR CARE FAC VENIT LA BUGETUL LOCAL, PENTRU ANUL 2026",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/213191",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/213191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-32-2025",
+   "path": "local/hunedoara/ilia/2025/32",
+   "short": "HCL Ilia nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 32/2025 TRECEREA UNUI TEREN DIN DOMENIUL PUBLIC ÎN DOMENIUL PRIVAT AL COMUNEI ILIA",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/213192",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/213192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-33-2025",
+   "path": "local/hunedoara/ilia/2025/33",
+   "short": "HCL Ilia nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 33/2025 privind privind actualizarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Primarului comunei Ilia, judeţul Hunedoara",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/216368",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/216368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-34-2025",
+   "path": "local/hunedoara/ilia/2025/34",
+   "short": "HCL Ilia nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 34/2025 privind ALEGEREA PRESEDINTELUI DE SEDINTA A CONSILIULUI LOCAL AL COMUNEI ILIA, JUDETUL Hunedoara",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/216369",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/216369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-35-2025",
+   "path": "local/hunedoara/ilia/2025/35",
+   "short": "HCL Ilia nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 35/2025 privind privind aprobarea actualizării indicatorilor tehnico-economici aferenți proiectului de investiții ”ALIMENTARE CU APĂ ÎN COMUNA ILIA, JUDEȚUL HUNEDOARA”, proiect finanțat prin Programul Național de Investiții ”Anghel Saligny”",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/216370",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/216370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-36-2025",
+   "path": "local/hunedoara/ilia/2025/36",
+   "short": "HCL Ilia nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 36/2025 privind rectificarea bugetului local al comunei Ilia pe anul 2025",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/221239",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/221239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-37-2025",
+   "path": "local/hunedoara/ilia/2025/37",
+   "short": "HCL Ilia nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 37/2025 privind modificarea utilizării excedentului anual al bugetului propriu al comunei Ilia rezultat la închiderea exercițiului bugetar al anului 2024, ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare prevăzute în bugetul propriu al comunei Ilia pe anul 2025",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/221240",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/221240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-38-2025",
+   "path": "local/hunedoara/ilia/2025/38",
+   "short": "HCL Ilia nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 38/2025 privind aprobarea vânzării prin licitație publică a terenului situat în localitatea Bacea, comuna Ilia, județul Hunedoara, identificat în CF nr. 64569, aparținând domeniului privat al comunei Ilia, județul Hunedoara",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/221241",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/221241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-39-2025",
+   "path": "local/hunedoara/ilia/2025/39",
+   "short": "HCL Ilia nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 39/2025 privind aprobarea vânzării prin licitație publică a terenului situat în localitatea Bacea, comuna Ilia, județul Hunedoara, identificat în CF nr. 64570, aparținând domeniului privat al comunei Ilia, județul Hunedoara",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/221242",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/221242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-4-2025",
+   "path": "local/hunedoara/ilia/2025/4",
+   "short": "HCL Ilia nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 4/2025 privind aprobarea contributiei aferenta anului 2024 datorata Fondului de Mediu de catre Comuna Ilia, judetul Hunedoara",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/190665",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/190665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-40-2025",
+   "path": "local/hunedoara/ilia/2025/40",
+   "short": "HCL Ilia nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 40/2025 privind rectificarea bugetului local al comunei Ilia pe anul 2025",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/222612",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/222612",
      "sha256": null
     }
    ]
@@ -178,6 +658,21 @@
      "from": "2025-11-26",
      "units": 1,
      "source_url": "https://emol.ro/ilia-hd/registru-hcl/237142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-5-2025",
+   "path": "local/hunedoara/ilia/2025/5",
+   "short": "HCL Ilia nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 5/2025 privind stabilirea si aprobarea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Ilia",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/190666",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/190666",
      "sha256": null
     }
    ]
@@ -333,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--ilia-6-2025",
+   "path": "local/hunedoara/ilia/2025/6",
+   "short": "HCL Ilia nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 6/2025 privind utilizarea din excedentul anual al bugetului propriu al comunei Ilia rezultat la inchiderea exercitiului bugetar al anului 2024, ca sursa de finantare a cheltuielilor sectiunii de dezvoltare prevazute in bugetul prpriu al Comunei Ilia pe anul 2025",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/190667",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/190667",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--ilia-60-2025",
    "path": "local/hunedoara/ilia/2025/60",
    "short": "HCL Ilia nr. 60/2025",
@@ -343,6 +853,36 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/ilia-hd/registru-hcl/245121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-7-2025",
+   "path": "local/hunedoara/ilia/2025/7",
+   "short": "HCL Ilia nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 7/2025 privind aprobarea studiului de fezabilitate , a indicatorilor tehnico-economici si a devizului general pentru obiectivul de investitii \"EXTINDERE RETEA DE CANALIZARE IN COMUNA ILIA, JUDETUL HUNEDOARA\", aprobat pentru finantare prin Programul National de Investitii \"Anghel Saligny\", precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/190668",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/190668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-8-2025",
+   "path": "local/hunedoara/ilia/2025/8",
+   "short": "HCL Ilia nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 8/2025",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/193760",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/193760",
      "sha256": null
     }
    ]

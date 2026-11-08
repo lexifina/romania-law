@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-iasi--baltati-4-2023",
+"path": "local/iasi/baltati/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 4/2023 privind alegerea preşedintelui de şedinţă pentru lunile februarie, martie și aprilie 2023",
+"short": "HCL Bălțați nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://emol.ro/baltati-is/registru-hcl/88233",
+"council": "iasi/baltati",
+"council_name": "Consiliul Local al Comunei Bălțați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--baltati-5-2023",
 "path": "local/iasi/baltati/2023/5",
 "kind": "local",
@@ -510,6 +532,29 @@
 }
 },
 {
+"slug": "hcl-iasi--baltati-25-2023",
+"path": "local/iasi/baltati/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 25/2023",
+"short": "HCL Bălțați nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://emol.ro/baltati-is/registru-hcl/97775",
+"council": "iasi/baltati",
+"council_name": "Consiliul Local al Comunei Bălțați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--baltati-26-2023",
 "path": "local/iasi/baltati/2023/26",
 "kind": "local",
@@ -818,6 +863,28 @@
 }
 },
 {
+"slug": "hcl-iasi--baltati-40-2023",
+"path": "local/iasi/baltati/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 40/2023 privind desemnarea reprezentantului Consiliului Local al comunei Bălțați, județul Iași, în programul „Construim Europa împreună cu autoritățile locale”",
+"short": "HCL Bălțați nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://emol.ro/baltati-is/registru-hcl/103259",
+"council": "iasi/baltati",
+"council_name": "Consiliul Local al Comunei Bălțați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--baltati-41-2023",
 "path": "local/iasi/baltati/2023/41",
 "kind": "local",
@@ -970,6 +1037,29 @@
 "council_name": "Consiliul Local al Comunei Bălțați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--baltati-48-2023",
+"path": "local/iasi/baltati/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 48/2023",
+"short": "HCL Bălțați nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://emol.ro/baltati-is/registru-hcl/107494",
+"council": "iasi/baltati",
+"council_name": "Consiliul Local al Comunei Bălțați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1127,6 +1217,28 @@
 }
 },
 {
+"slug": "hcl-iasi--baltati-56-2023",
+"path": "local/iasi/baltati/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 56/2023 privind constituirea echipei mobile de intervenție în regim de urgență pentru cazurile de violență domestică, la nivelul Comunei Bălțați, județul Iași",
+"short": "HCL Bălțați nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://emol.ro/baltati-is/registru-hcl/111804",
+"council": "iasi/baltati",
+"council_name": "Consiliul Local al Comunei Bălțați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--baltati-57-2023",
 "path": "local/iasi/baltati/2023/57",
 "kind": "local",
@@ -1236,6 +1348,28 @@
 "council_name": "Consiliul Local al Comunei Bălțați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--baltati-62-2023",
+"path": "local/iasi/baltati/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 62/2023 privind acordarea diplomelor de aur familiilor care au împlinit sau împlinesc 50 de ani de căsătorie neîntreruptă, acordarea diplomelor de longevitate, precum și acordarea diplomelor de merit pentru rezultate deosebite la învățătură, de pe raza Comunei Bălțați, Județul Iași",
+"short": "HCL Bălțați nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://emol.ro/baltati-is/registru-hcl/114396",
+"council": "iasi/baltati",
+"council_name": "Consiliul Local al Comunei Bălțați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1391,6 +1525,50 @@
 "council_name": "Consiliul Local al Comunei Bălțați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--baltati-70-2023",
+"path": "local/iasi/baltati/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 70/2023 privind însușirea Raportului numărul 5139 din data de 16 august 2023 întocmit de către Comisia pentru analiza sentințelor judecătorești care au determinat plăți aferente cheltuielilor de judecată și plați aferente obiectului litigiului achitate din bugetul local al Unității Administrativ Teritoriale Comuna Bălțați, județul Iași",
+"short": "HCL Bălțați nr. 70/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://emol.ro/baltati-is/registru-hcl/117587",
+"council": "iasi/baltati",
+"council_name": "Consiliul Local al Comunei Bălțați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--baltati-71-2023",
+"path": "local/iasi/baltati/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 71/2023 privind desemnarea reprezentanților Consiliului Local al Comunei Bălţaţi ca membri ai Consiliului de Administrație și ca membru al Comisiei pentru evaluarea și asigurarea calității în educație, din cadrul Școlii Gimnaziale Bălțați, județul Iași",
+"short": "HCL Bălțați nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/baltati-is/registru-hcl/122755",
+"council": "iasi/baltati",
+"council_name": "Consiliul Local al Comunei Bălțați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

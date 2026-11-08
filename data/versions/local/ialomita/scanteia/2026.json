@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--scanteia-10-2026",
+   "path": "local/ialomita/scanteia/2026/10",
+   "short": "HCL Scânteia nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 10/2026",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/287346",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/287346",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--scanteia-11-2026",
    "path": "local/ialomita/scanteia/2026/11",
    "short": "HCL Scânteia nr. 11/2026",
@@ -343,6 +358,96 @@
      "from": "2026-09-15",
      "units": 1,
      "source_url": "https://emol.ro/scanteia-il/registru-hcl/287420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-4-2026",
+   "path": "local/ialomita/scanteia/2026/4",
+   "short": "HCL Scânteia nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 4/2026 privind alegerea preşedintelui de şedinţă a Consiliului Local Scânteia, judetul Ialomiţa",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/287340",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/287340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-5-2026",
+   "path": "local/ialomita/scanteia/2026/5",
+   "short": "HCL Scânteia nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 5/2026",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/287341",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/287341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-6-2026",
+   "path": "local/ialomita/scanteia/2026/6",
+   "short": "HCL Scânteia nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 6/2026 privind modificarea HCL 66/22.12.2025 privind stabilirea impozitelor și",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/287342",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/287342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-7-2026",
+   "path": "local/ialomita/scanteia/2026/7",
+   "short": "HCL Scânteia nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 7/2026 privind concesionarea prin licitație publică deschisă a unor loturi de teren situate în intravilanul comunei Scânteia, sat Scânteia, aparţinând domeniului privat al comunei Scânteia, judeţul Ialomiţa",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/287343",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/287343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-8-2026",
+   "path": "local/ialomita/scanteia/2026/8",
+   "short": "HCL Scânteia nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 8/2026",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/287344",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/287344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--scanteia-9-2026",
+   "path": "local/ialomita/scanteia/2026/9",
+   "short": "HCL Scânteia nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 9/2026",
+   "url": "https://emol.ro/scanteia-il/registru-hcl/287345",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-il/registru-hcl/287345",
      "sha256": null
     }
    ]

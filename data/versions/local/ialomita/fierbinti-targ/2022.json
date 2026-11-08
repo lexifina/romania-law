@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/fierbinti-targ/2022",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-14-2022",
+   "path": "local/ialomita/fierbinti-targ/2022/14",
+   "short": "HCL Fierbinți-Târg nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 14/2022",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2022/HCL%2014%20din%2010.03.2022.pdf",
+     "sha256": "2929400c747f3539d8d26b6b6c95098cd2ee8572ad1adf1365f087ba41c08359"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-15-2022",
+   "path": "local/ialomita/fierbinti-targ/2022/15",
+   "short": "HCL Fierbinți-Târg nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 15/2022",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2022/HCL%2015%20din%2010.03.2022.pdf",
+     "sha256": "d0c87e697f8147b4467a26be9ddbfd7f0ef5c28ca2277c3273211b4ef86b12a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-16-2022",
+   "path": "local/ialomita/fierbinti-targ/2022/16",
+   "short": "HCL Fierbinți-Târg nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 16/2022",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2022/HCL%2016%20din%2010.03.2022.pdf",
+     "sha256": "04ab5a6db3cfe7c13d2da79189421c5ce15f558418fddc6e4ff1242196b55e76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-17-2022",
+   "path": "local/ialomita/fierbinti-targ/2022/17",
+   "short": "HCL Fierbinți-Târg nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 17/2022",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2022/HCL%2017%20din%2010.03.2022.pdf",
+     "sha256": "f6590489f3048eed28be5ddb00cd192eaec8a99e9293673a100dee1bf6cb3979"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--fierbinti-targ-18-2022",
+   "path": "local/ialomita/fierbinti-targ/2022/18",
+   "short": "HCL Fierbinți-Târg nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 18/2022",
+   "url": "http://primariafierbinti.ro/hotarari_cl.html",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "http://primariafierbinti.ro/z_Consiliul%20Local/Hotarari/2022/HCL%2018%20din%2010.03.2022.pdf",
+     "sha256": "dce05aafad815e831122b20321b4deb7683a8144bbc59e0c44a070f616302094"
+    }
+   ]
+  }
+ ]
+}

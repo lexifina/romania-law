@@ -3,6 +3,28 @@
 "shard": "local/iasi/barnova/2021",
 "acts": [
 {
+"slug": "hcl-iasi--barnova-1-2021",
+"path": "local/iasi/barnova/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 1/2021 privind alegerea președintelui de ședință pentru perioada ianuarie-martie 2021",
+"short": "HCL Bârnova nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/barnova-is/registru-hcl/16653",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--barnova-2-2021",
 "path": "local/iasi/barnova/2021/2",
 "kind": "local",
@@ -47,6 +69,95 @@
 }
 },
 {
+"slug": "hcl-iasi--barnova-4-2021",
+"path": "local/iasi/barnova/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 4/2021",
+"short": "HCL Bârnova nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/barnova-is/registru-hcl/16656",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--barnova-5-2021",
+"path": "local/iasi/barnova/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 5/2021 privind aprobarea modificării art. 10 alin. 4 și 5 din Regulamentul de Organizare și Funcționare a Consiliului Local Bârnova",
+"short": "HCL Bârnova nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/barnova-is/registru-hcl/16657",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-6-2021",
+"path": "local/iasi/barnova/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 6/2021 privind aprobarea de către Consiliul Local al comunei Bârnova a raportului cu privire la asistenții personali și indemnizațiile nete la sfârșitul lunii decembrie 2021",
+"short": "HCL Bârnova nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/barnova-is/registru-hcl/16658",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-7-2021",
+"path": "local/iasi/barnova/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 7/2021 privind aprobarea Planului de acțiuni sau lucrări de interes local pentru anul 2021",
+"short": "HCL Bârnova nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/barnova-is/registru-hcl/16659",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--barnova-8-2021",
 "path": "local/iasi/barnova/2021/8",
 "kind": "local",
@@ -88,6 +199,118 @@
 "council_name": "Consiliul Local al Comunei Bârnova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--barnova-10-2021",
+"path": "local/iasi/barnova/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 10/2021",
+"short": "HCL Bârnova nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/barnova-is/registru-hcl/16662",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--barnova-11-2021",
+"path": "local/iasi/barnova/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 11/2021 privind aprobarea modificării organigramei și statului de funcții al aparatului de specialitate al primarului comunei Bârnova, începând cu data de 01.02.2021",
+"short": "HCL Bârnova nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/barnova-is/registru-hcl/16663",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-12-2021",
+"path": "local/iasi/barnova/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 12/2021 privind aprobarea prelungirii termenului de acordare a unor facilități la plata impozitului anual pe clădiri sau a taxei lunare pe clădiri, facilități la plata taxei și a chiriei datorate pentru ocuparea domeniului public",
+"short": "HCL Bârnova nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/barnova-is/registru-hcl/16664",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-13-2021",
+"path": "local/iasi/barnova/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 13/2021",
+"short": "HCL Bârnova nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/barnova-is/registru-hcl/16665",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--barnova-14-2021",
+"path": "local/iasi/barnova/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 14/2021 privind aprobarea trecerii în domeniul public al comunei Bârnova, județul Iași, a obiectivului de investiții ''Amenajare locuri de joacă și spații de recreere pentru copii și adulți în satele Vișani și Bârnova, județul Iași'' cu dotările aferente în valoare de 361.315, 68 lei",
+"short": "HCL Bârnova nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/barnova-is/registru-hcl/16666",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -180,6 +403,28 @@
 }
 },
 {
+"slug": "hcl-iasi--barnova-19-2021",
+"path": "local/iasi/barnova/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 19/2021 privind aprobarea dezmembrării terenului în suprafață de 2000 mp T 69, P 3709/3 atribuit tinerilor la Legea 15/2003",
+"short": "HCL Bârnova nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-17",
+"latest": "2021-02-17",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27313",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--barnova-20-2021",
 "path": "local/iasi/barnova/2021/20",
 "kind": "local",
@@ -202,6 +447,50 @@
 }
 },
 {
+"slug": "hcl-iasi--barnova-21-2021",
+"path": "local/iasi/barnova/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 21/2021 privind aprobarea revizuirii, modificarii și actualizării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 prin Actul Adițional nr. 41",
+"short": "HCL Bârnova nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-17",
+"latest": "2021-02-17",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27315",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-22-2021",
+"path": "local/iasi/barnova/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 22/2021 privind aprobarea consolidării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 rezultată prin includerea tuturor modificărilor, completărilor și actualizărilor aduse acestuia prin Actele Adiționale nr. 1",
+"short": "HCL Bârnova nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-17",
+"latest": "2021-02-17",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27316",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--barnova-23-2021",
 "path": "local/iasi/barnova/2021/23",
 "kind": "local",
@@ -221,6 +510,52 @@
 "council_name": "Consiliul Local al Comunei Bârnova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--barnova-24-2021",
+"path": "local/iasi/barnova/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 24/2021",
+"short": "HCL Bârnova nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-17",
+"latest": "2021-03-17",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27323",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--barnova-25-2021",
+"path": "local/iasi/barnova/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 25/2021",
+"short": "HCL Bârnova nr. 25/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-17",
+"latest": "2021-03-17",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27324",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -268,6 +603,118 @@
 }
 },
 {
+"slug": "hcl-iasi--barnova-28-2021",
+"path": "local/iasi/barnova/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 28/2021",
+"short": "HCL Bârnova nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27331",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--barnova-29-2021",
+"path": "local/iasi/barnova/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 29/2021 privind acordarea unei suprafeţe de până la 1000 mp teren numitei Cioclu Monica-Iuliana pentru construirea unei locuinţe proprietate personală în temeiul Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, în temeiul Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală",
+"short": "HCL Bârnova nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27332",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-30-2021",
+"path": "local/iasi/barnova/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 30/2021 privind aprobarea scoaterii din evidența fiscală a persoanelor juridice radiate din ONRSC IASI, potrivit Anexei 1",
+"short": "HCL Bârnova nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27333",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-31-2021",
+"path": "local/iasi/barnova/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 31/2021 privind respingerea închirierii prin licitație publică a pajiștilor aflate în domeniul public al comunei Bârnova în suprafață totală de 21.5493 mp cu nr. Cadastral 71714",
+"short": "HCL Bârnova nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27334",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-32-2021",
+"path": "local/iasi/barnova/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 32/2021",
+"short": "HCL Bârnova nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27335",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--barnova-33-2021",
 "path": "local/iasi/barnova/2021/33",
 "kind": "local",
@@ -290,6 +737,52 @@
 }
 },
 {
+"slug": "hcl-iasi--barnova-34-2021",
+"path": "local/iasi/barnova/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 34/2021",
+"short": "HCL Bârnova nr. 34/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27337",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--barnova-35-2021",
+"path": "local/iasi/barnova/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 35/2021",
+"short": "HCL Bârnova nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27340",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--barnova-36-2021",
 "path": "local/iasi/barnova/2021/36",
 "kind": "local",
@@ -309,6 +802,29 @@
 "council_name": "Consiliul Local al Comunei Bârnova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--barnova-37-2021",
+"path": "local/iasi/barnova/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 37/2021",
+"short": "HCL Bârnova nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27342",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -400,6 +916,94 @@
 }
 },
 {
+"slug": "hcl-iasi--barnova-42-2021",
+"path": "local/iasi/barnova/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 42/2021 privind aprobarea aderarării comunei Boghicea, jud. Neamț la Asociația Regională a Serviciilor de Apă Canal Iași-ARSACIS și completarea Actului Constitutiv și Statutului revizuit al Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS prin menționarea comunei Boghicea, jud. Neamț",
+"short": "HCL Bârnova nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27347",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-43-2021",
+"path": "local/iasi/barnova/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 43/2021 privind aprobarea acordării unei suprafeţe de până la 1000 mp teren pentru construirea unei locuinţe în temeiul prevederilor Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală numitului Acatrinei Daniel-Florin",
+"short": "HCL Bârnova nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27348",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-44-2021",
+"path": "local/iasi/barnova/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 44/2021 privind aprobarea trecerii în domeniul privat al comunei Bârnova a următoarelor terenuri: suprafața de 1000 mp amplasată în T 8, parcela 236/4 sat Pietrăria",
+"short": "HCL Bârnova nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27349",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-45-2021",
+"path": "local/iasi/barnova/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 45/2021 privind modificarea art.1 al. 1 din HCL nr. 6 din 09.01.2019",
+"short": "HCL Bârnova nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27350",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--barnova-46-2021",
 "path": "local/iasi/barnova/2021/46",
 "kind": "local",
@@ -422,6 +1026,97 @@
 }
 },
 {
+"slug": "hcl-iasi--barnova-47-2021",
+"path": "local/iasi/barnova/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 47/2021 privind aprobarea acordării sumei de 1000 lei (unamie) din bugetul local de venituri/cheltuieli al comunei Bârnova pe anul 2021 pentru acordare ajutor de urgență familiei aflate în dificultate Ciobanu Florin-Emil",
+"short": "HCL Bârnova nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27362",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-48-2021",
+"path": "local/iasi/barnova/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 48/2021",
+"short": "HCL Bârnova nr. 48/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27363",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--barnova-49-2021",
+"path": "local/iasi/barnova/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 49/2021",
+"short": "HCL Bârnova nr. 49/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27364",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--barnova-50-2021",
+"path": "local/iasi/barnova/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 50/2021",
+"short": "HCL Bârnova nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27365",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--barnova-51-2021",
 "path": "local/iasi/barnova/2021/51",
 "kind": "local",
@@ -441,6 +1136,52 @@
 "council_name": "Consiliul Local al Comunei Bârnova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--barnova-52-2021",
+"path": "local/iasi/barnova/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 52/2021",
+"short": "HCL Bârnova nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27367",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--barnova-53-2021",
+"path": "local/iasi/barnova/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 53/2021",
+"short": "HCL Bârnova nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-24",
+"latest": "2021-05-24",
+"portal": "https://emol.ro/barnova-is/registru-hcl/27368",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -730,6 +1471,73 @@
 }
 },
 {
+"slug": "hcl-iasi--barnova-67-2021",
+"path": "local/iasi/barnova/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 67/2021 privind aprobarea acordării sumei de 1000 lei (unamie) din bugetul local de venituri/cheltuieli al comunei Bârnova pe anul 2021 pentru acordare ajutor de urgență familiei aflate în dificultate Butnaru Lavinia-Ramona",
+"short": "HCL Bârnova nr. 67/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/barnova-is/registru-hcl/31752",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-68-2021",
+"path": "local/iasi/barnova/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 68/2021 privind aprobare acordare ajutor de urgență în cuantum de 2500 lei familiei numitei Nedelcu Profira pentru cheltuielile ocazionate de starea de sănătate precară",
+"short": "HCL Bârnova nr. 68/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/barnova-is/registru-hcl/31753",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-69-2021",
+"path": "local/iasi/barnova/2021/69",
+"kind": "local",
+"year": "2021",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 69/2021",
+"short": "HCL Bârnova nr. 69/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/barnova-is/registru-hcl/31754",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--barnova-70-2021",
 "path": "local/iasi/barnova/2021/70",
 "kind": "local",
@@ -749,6 +1557,97 @@
 "council_name": "Consiliul Local al Comunei Bârnova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--barnova-71-2021",
+"path": "local/iasi/barnova/2021/71",
+"kind": "local",
+"year": "2021",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 71/2021 privind aprobarea de către Consiliul Local al comunei Bârnova a raportului cu privire la asistenții personali și indemnizațiile nete la sfârșitul lunii iunie 2021 (după finalizarea semestrului I al anului 2021",
+"short": "HCL Bârnova nr. 71/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://emol.ro/barnova-is/registru-hcl/35151",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--barnova-72-2021",
+"path": "local/iasi/barnova/2021/72",
+"kind": "local",
+"year": "2021",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 72/2021",
+"short": "HCL Bârnova nr. 72/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://emol.ro/barnova-is/registru-hcl/35152",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--barnova-73-2021",
+"path": "local/iasi/barnova/2021/73",
+"kind": "local",
+"year": "2021",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 73/2021",
+"short": "HCL Bârnova nr. 73/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://emol.ro/barnova-is/registru-hcl/35153",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--barnova-74-2021",
+"path": "local/iasi/barnova/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 74/2021",
+"short": "HCL Bârnova nr. 74/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://emol.ro/barnova-is/registru-hcl/35154",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -950,6 +1849,29 @@
 }
 },
 {
+"slug": "hcl-iasi--barnova-84-2021",
+"path": "local/iasi/barnova/2021/84",
+"kind": "local",
+"year": "2021",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 84/2021",
+"short": "HCL Bârnova nr. 84/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://emol.ro/barnova-is/registru-hcl/37706",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--barnova-85-2021",
 "path": "local/iasi/barnova/2021/85",
 "kind": "local",
@@ -1035,6 +1957,29 @@
 "council_name": "Consiliul Local al Comunei Bârnova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--barnova-89-2021",
+"path": "local/iasi/barnova/2021/89",
+"kind": "local",
+"year": "2021",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 89/2021",
+"short": "HCL Bârnova nr. 89/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-20",
+"latest": "2021-10-20",
+"portal": "https://emol.ro/barnova-is/registru-hcl/38759",
+"council": "iasi/barnova",
+"council_name": "Consiliul Local al Comunei Bârnova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

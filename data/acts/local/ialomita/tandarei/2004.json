@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ialomita/tandarei/2004",
+"acts": [
+{
+"slug": "hcl-ialomita--tandarei-12-2004",
+"path": "local/ialomita/tandarei/2004/12",
+"kind": "local",
+"year": "2004",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 12/2004 privind modificarea Hotărârii Consiliului Local Țăndărei nr.12 din 29.01.2004 hotarare-privind-modificarea-hotararii-consiliului-local-tandarei-nr12-29012004.pdf",
+"short": "HCL Țăndărei nr. 12/2004",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2004-01-29",
+"latest": "2004-01-29",
+"portal": "http://www.primaria-tandarei.ro/articole/hotarari-aprobate-in-sedinta-ordinara-09022017",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

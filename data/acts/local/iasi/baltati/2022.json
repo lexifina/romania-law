@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-iasi--baltati-4-2022",
+"path": "local/iasi/baltati/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 4/2022 privind alegerea preşedintelui de şedinţă pentru lunile februarie, martie și aprilie 2022",
+"short": "HCL Bălțați nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://emol.ro/baltati-is/registru-hcl/48797",
+"council": "iasi/baltati",
+"council_name": "Consiliul Local al Comunei Bălțați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--baltati-5-2022",
 "path": "local/iasi/baltati/2022/5",
 "kind": "local",
@@ -155,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Bălțați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--baltati-9-2022",
+"path": "local/iasi/baltati/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 9/2022 privind modificarea şi completarea organigramei și a statului de funcţii al personalului din cadrul aparatului de specialitate al primarului comunei Bălțați, judeţul Iași",
+"short": "HCL Bălțați nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://emol.ro/baltati-is/registru-hcl/48802",
+"council": "iasi/baltati",
+"council_name": "Consiliul Local al Comunei Bălțați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -597,6 +641,29 @@
 "council_name": "Consiliul Local al Comunei Bălțați",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--baltati-30-2022",
+"path": "local/iasi/baltati/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 30/2022",
+"short": "HCL Bălțați nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-24",
+"latest": "2022-03-24",
+"portal": "https://emol.ro/baltati-is/registru-hcl/55638",
+"council": "iasi/baltati",
+"council_name": "Consiliul Local al Comunei Bălțați",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -1460,6 +1527,73 @@
 "council_name": "Consiliul Local al Comunei Bălțați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--baltati-70-2022",
+"path": "local/iasi/baltati/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 70/2022 privind desemnarea reprezentanților Consiliului Local al Comunei Bălţaţi ca membri ai Consiliului de Administrație și ca membru al Comisiei pentru evaluarea și asigurarea calității în educație, din cadrul Școlii Gimnaziale Bălțați, județul Iași",
+"short": "HCL Bălțați nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://emol.ro/baltati-is/registru-hcl/72714",
+"council": "iasi/baltati",
+"council_name": "Consiliul Local al Comunei Bălțați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--baltati-71-2022",
+"path": "local/iasi/baltati/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 71/2022 privind modificarea şi completarea organigramei și a statului de funcţii al personalului din cadrul aparatului de specialitate al primarului comunei Bălțați, judeţul Iași",
+"short": "HCL Bălțați nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://emol.ro/baltati-is/registru-hcl/72715",
+"council": "iasi/baltati",
+"council_name": "Consiliul Local al Comunei Bălțați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--baltati-72-2022",
+"path": "local/iasi/baltati/2022/72",
+"kind": "local",
+"year": "2022",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălțați nr. 72/2022",
+"short": "HCL Bălțați nr. 72/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://emol.ro/baltati-is/registru-hcl/72716",
+"council": "iasi/baltati",
+"council_name": "Consiliul Local al Comunei Bălțați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

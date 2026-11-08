@@ -179,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-9-2025",
+"path": "local/iasi/bals/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 9/2025 privind aprobarea oportunității închirierii prin licitație publică a unui spațiu cu destinația farmacie în suprafața totală de 37 mp situat la parterul imobilului \"Cabinet Medical\" din satul Balș amplasată pe terenul în suprafață de 712 mă înscris în cartea funciară nr. 60086, cu număr cadastral 60086, aparținând domeniului public al Comunei Balș",
+"short": "HCL Balș nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/bals-is/registru-hcl/230228",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-10-2025",
 "path": "local/iasi/bals/2025/10",
 "kind": "local",
@@ -729,6 +751,28 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-35-2025",
+"path": "local/iasi/bals/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 35/2025 privind desemnarea reprezentantului din partea Comunei Balș, în cadrul Adunării Generale a Acționarilor a SC GAZ NORD-EST S.A Hârlău, județul Iași",
+"short": "HCL Balș nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/bals-is/registru-hcl/230349",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-36-2025",
 "path": "local/iasi/bals/2025/36",
 "kind": "local",
@@ -748,6 +792,50 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-37-2025",
+"path": "local/iasi/bals/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 37/2025 privind aprobarea concesionării prin licitație publică a terenului în suprafață de 5000 mp ( T 20, parcelele 443/10, 441/11) având categoria de folosință curtți construcții, înscris în cartea funciară 64299, cu nr. cadastral 64299, situat în extravilanul comunei Balș, județul Iași, care aparține domeniului public al Comunei Balș, precum și aprobarea documentației de atribuire aferentă",
+"short": "HCL Balș nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/bals-is/registru-hcl/230354",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-38-2025",
+"path": "local/iasi/bals/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 38/2025 privind aprobarea decontării de la bugetul local la cheltuielilor de transport de la domiciliu la serviciu și retur pentru funcționarii publici și personalul contractual care sunt domiciliate pe raza altor localități din afara ariei teritoriale a comunei Balș care iși desfăsoară activitatea profesională la Primăria Comunei Balș, precum și modalitatea de decontare a acestora",
+"short": "HCL Balș nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/bals-is/registru-hcl/230355",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1786,6 +1874,28 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-86-2025",
+"path": "local/iasi/bals/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 86/2025 privind aprobarea oportunității vânzării loturilor de teren aflate în domeniul privat al comunei Balș, județul Iași, care au constituit obiectul contractelor de concesiune în vederea edificării pe acestea de imobile cu destinația de locuințe și care sunt înscrise în Cartea funciară nr. 60802, 60803, 62154, 62155, respectiv 62235",
+"short": "HCL Balș nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/bals-is/registru-hcl/250857",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-87-2025",
 "path": "local/iasi/bals/2025/87",
 "kind": "local",
@@ -2337,6 +2447,28 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-112-2025",
+"path": "local/iasi/bals/2025/112",
+"kind": "local",
+"year": "2025",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 112/2025 privind aprobarea oportunității vânzării a două loturi de teren înscrise în Cartea funciară nr.62241 respectiv 62732 aparținând domeniului privat al comunei Balș, județul Iași",
+"short": "HCL Balș nr. 112/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/bals-is/registru-hcl/254095",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-113-2025",
 "path": "local/iasi/bals/2025/113",
 "kind": "local",
@@ -2532,6 +2664,204 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-122-2025",
+"path": "local/iasi/bals/2025/122",
+"kind": "local",
+"year": "2025",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 122/2025 privind oportunitatea închirierii spațiului situat la mansarda imobilului clădire \" Post Poliție și Cabinet Veterinar\" în suprafață utilă totală de 89,07 mp aparine domeniului public al Comunei Balș",
+"short": "HCL Balș nr. 122/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/bals-is/registru-hcl/264302",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-123-2025",
+"path": "local/iasi/bals/2025/123",
+"kind": "local",
+"year": "2025",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 123/2025 privind aprobarea vânzării, respectiv aprobarea documentației și valorii minime stabilite pentru vânzarea prin licitație publică, a terenului în suprafață totală de 100 mp, pe care se află amplasată două construcții, situate în intravilanul extins conform PUG al satului Boureni, comuna Balș, având indicatorii cadastrali T80 parcela 2098/12/5, identificat cu număr cadastral 60802 și număr de carte funciară 60802 care aparține domeniului privat al Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 123/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/bals-is/registru-hcl/264315",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-124-2025",
+"path": "local/iasi/bals/2025/124",
+"kind": "local",
+"year": "2025",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 124/2025 privind aprobarea vânzării, respectiv aprobarea documentației și valorii minime stabilite pentru vânzarea prin licitație publică, a terenului în suprafață totală de 840 mp , situat în intravilanul extins conform PUG al satului Boureni, comuna Balș, având indicatorii cadastrali T80 parcela 2098/12/37 identificat cu număr cadastral 60803 și număr de cartefunciară 60803 care aparține domeniului privat al Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 124/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/bals-is/registru-hcl/264317",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-125-2025",
+"path": "local/iasi/bals/2025/125",
+"kind": "local",
+"year": "2025",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 125/2025 privind aprobarea vânzării, respectiv aprobarea documentației și valorii minime stabilite pentru vânzarea prin licitație publică, a terenului în suprafață totală de 993 mp , situat în intravilanul extins conform PUZ al satului Boureni, comuna Balș, având indicatorii cadastrali T80parcela 2098/12/20 identificat cu număr cadastral 62149 și număr de cartefunciară 62149 care aparține domeniuluiprivat al Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 125/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/bals-is/registru-hcl/264319",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-126-2025",
+"path": "local/iasi/bals/2025/126",
+"kind": "local",
+"year": "2025",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 126/2025 privind aprobarea vânzării, respectiv aprobarea documentației și valorii minime stabilite pentru vânzarea prin licitatie publică, a terenului în suprafață totală de 994 mp situat în intravilanul extins conform PUZ al satului Boureni, comuna Balș, având indicatorii cadastrali T80parcela 2098/12/17 identificat cu număr cadastral 62153 și număr de cartefunciară 62153 care aparține domeniului privat al Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 126/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/bals-is/registru-hcl/264321",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-127-2025",
+"path": "local/iasi/bals/2025/127",
+"kind": "local",
+"year": "2025",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 127/2025 privind aprobarea vânzării, respectiv aprobarea documentației și valorii minime stabilite pentru vânzarea prin licitație publică, a terenului în suprafață totală de 992 mp situat în intravilanul extins conform PUZ al satului Boureni, comuna Balș, având indicatorii cadastrali T80 parcela 2098/12/27 identificat cu număr cadastral 62154 și număr de cartefunciară 62154 care aparține domeniuluiprivat al Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 127/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/bals-is/registru-hcl/264335",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-128-2025",
+"path": "local/iasi/bals/2025/128",
+"kind": "local",
+"year": "2025",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 128/2025 privind aprobarea vânzării, respectiv aprobarea documentației și valorii minime stabilite pentru vânzarea prin licitație publică, a terenului în suprafață totală de 650 mp situat în intravilanul extins conform PUG al satului Boureni, comuna Balș, având indicatorii cadastrali T80 parcela 2102/10/2/10 identificat cu număr cadastral 62155 și număr de cartefunciară 62155 care aparține domeniului privat al Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 128/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/bals-is/registru-hcl/264336",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-129-2025",
+"path": "local/iasi/bals/2025/129",
+"kind": "local",
+"year": "2025",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 129/2025 privind aprobarea vânzării, respectiv aprobarea documentației și valorii minime stabilite pentru vânzarea prin licitație publică, a terenului în suprafață totală de 1.000 mp din acte ( suprafata reiesitč la măsurători de 1041 mp) situat în intravilanul satului Balș, comuna Balș, având indicatorii cadastrali T40parcelele 806/1 și 809/1 identificat cu număr cadastral 62235 și număr de cartefunciară 62235 care aparține domeniului privat al Comunei Balș, judetul Iași",
+"short": "HCL Balș nr. 129/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/bals-is/registru-hcl/264338",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-131-2025",
+"path": "local/iasi/bals/2025/131",
+"kind": "local",
+"year": "2025",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 131/2025 privind aprobarea vânzării, respectiv aprobarea documentarei și valorii minime stabilite pentru vânzarea prin licitație publici, a terenului în suprafată totală de 1.525 mp situat în extravilanul comunei Balș, având indicatorii cadastrali T82 parcela 2224/19 identificat cu număr cadastral 62732 și număr de carte funciară 62732 care apar(ine domeniului privat al Conłunei Balș, judetul Iași",
+"short": "HCL Balș nr. 131/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/bals-is/registru-hcl/264341",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

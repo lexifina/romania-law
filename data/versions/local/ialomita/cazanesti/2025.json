@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/cazanesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--cazanesti-2326-2025",
+   "path": "local/ialomita/cazanesti/2025/2326",
+   "short": "HCL Căzănești nr. 2326/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2326/2025",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol/oferte-vanzare-teren-extravilan-conform-legii-17-2014?start=50",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/Oferte_vanzare_teren/ofert%C4%83_v%C3%A2nzare_nr.2326_din_30.01.2025.PDF",
+     "sha256": "e049c0653926a5f86641e19b7ffa88f9c58fa7bae1d45ae9e056cc414b520d99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-2331-2025",
+   "path": "local/ialomita/cazanesti/2025/2331",
+   "short": "HCL Căzănești nr. 2331/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2331/2025",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol/oferte-vanzare-teren-extravilan-conform-legii-17-2014?start=50",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/Oferte_vanzare_teren/ofert%C4%83_v%C3%A2nzare_nr.2331_din_31.01.2025.PDF",
+     "sha256": "4a426a8f7cda11b0a60adc6d3a64f4e8e15f2cce276b72ec30fefd129ed08dfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-2375-2025",
+   "path": "local/ialomita/cazanesti/2025/2375",
+   "short": "HCL Căzănești nr. 2375/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2375/2025",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol/oferte-vanzare-teren-extravilan-conform-legii-17-2014?start=50",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/Oferte_vanzare_teren/ofert%C4%83_de_v%C3%A2nzare_nr.2375_din_27.02.2025.PDF",
+     "sha256": "5910e0f243b2b2ecdb4c8947d1f927b40c3caec9d00c2018b88b8ce27bedaabf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-2389-2025",
+   "path": "local/ialomita/cazanesti/2025/2389",
+   "short": "HCL Căzănești nr. 2389/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2389/2025",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol/oferte-vanzare-teren-extravilan-conform-legii-17-2014?start=50",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/Oferte_vanzare_teren/ofert%C4%83_nr.2389_din_14.03.2025.PDF",
+     "sha256": "de5f1f83af6c4512a6b47c2d7199626d68a6cb45b561ab0dfc73905e835ba526"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-2413-2025",
+   "path": "local/ialomita/cazanesti/2025/2413",
+   "short": "HCL Căzănești nr. 2413/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2413/2025",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol/oferte-vanzare-teren-extravilan-conform-legii-17-2014?start=50",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/Oferte_vanzare_teren/OFERT%C4%82_v%C3%A2nzare_nr.2413_din_02.04.2025.PDF",
+     "sha256": "fc379a6b410c13f1975c69c89e51f89bdcbe7109b1947427ad0095f54d76de76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-2425-2025",
+   "path": "local/ialomita/cazanesti/2025/2425",
+   "short": "HCL Căzănești nr. 2425/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2425/2025",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol/comunicari-de-acceptare",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/comunicare_de_acceptare_ofert%C4%83_nr.2425_din_15.04.2025.PDF",
+     "sha256": "93ffc5d6136e658d288e4c8b59c650f62ca860a37ce1037d8402638e0f4e2962"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-2562-2025",
+   "path": "local/ialomita/cazanesti/2025/2562",
+   "short": "HCL Căzănești nr. 2562/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2562/2025",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol/oferte-vanzare-teren-extravilan-conform-legii-17-2014",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/Oferte_vanzare_teren/ofert%C4%83_v%C3%A2nzare_nr.2562_din_22.07.2025.pdf",
+     "sha256": "d96a0e8840fb3ee32a0f477a8b86a61bb0688a077aebd028fd1fbd11a7c2b975"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-2576-2025",
+   "path": "local/ialomita/cazanesti/2025/2576",
+   "short": "HCL Căzănești nr. 2576/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2576/2025",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol/oferte-vanzare-teren-extravilan-conform-legii-17-2014",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/Oferte_vanzare_teren/ofert%C4%83_de_v%C3%A2nzare_dosar_nr._2576_din_11.08.2025.pdf",
+     "sha256": "525952937f4919d18a61012043d44828d083adf8c8b506dc19b13b182d70db80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-2585-2025",
+   "path": "local/ialomita/cazanesti/2025/2585",
+   "short": "HCL Căzănești nr. 2585/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2585/2025",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol/oferte-vanzare-teren-extravilan-conform-legii-17-2014",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/Oferte_vanzare_teren/ofert%C4%83_v%C3%A2nzare_nr.2585_din_25.08.2025.pdf",
+     "sha256": "eaaf757a4e8a1ca3bd71719bd2f32fead9ddefe99891d79780dfaa1e34e5f0d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-2618-2025",
+   "path": "local/ialomita/cazanesti/2025/2618",
+   "short": "HCL Căzănești nr. 2618/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2618/2025",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol/oferte-vanzare-teren-extravilan-conform-legii-17-2014",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/Oferte_vanzare_teren/ofert%C4%83_v%C3%A2nzare_nr.2618_din_30.09.2025.pdf",
+     "sha256": "fcc12014aba4991b15b1440873b4171dbb74fe790f9555787e334b60e6797254"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-2643-2025",
+   "path": "local/ialomita/cazanesti/2025/2643",
+   "short": "HCL Căzănești nr. 2643/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2643/2025",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol/oferte-vanzare-teren-extravilan-conform-legii-17-2014",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/Oferte_vanzare_teren/Ofert%C4%83_v%C3%A2nzare_nr.2643_din_20.10.2025.pdf",
+     "sha256": "c78cc2e714ad4fee0f1b51af937445ecbd04f24b8eeceeda1607ae17c5668d15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-2673-2025",
+   "path": "local/ialomita/cazanesti/2025/2673",
+   "short": "HCL Căzănești nr. 2673/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2673/2025",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol/oferte-vanzare-teren-extravilan-conform-legii-17-2014",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/Oferte_vanzare_teren/ofert%C4%83_v%C3%A2nzare_nr._2673_din_10.12.2025.pdf",
+     "sha256": "6a266b1632247d1716eeea590f258bcf3ed98637232dbe369ad0e2987749b9d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-2679-2025",
+   "path": "local/ialomita/cazanesti/2025/2679",
+   "short": "HCL Căzănești nr. 2679/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2679/2025",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol/oferte-vanzare-teren-extravilan-conform-legii-17-2014",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/Oferte_vanzare_teren/ofert%C4%83_v%C3%A2nzare_nr.2679_din_12.12.2025.pdf",
+     "sha256": "6ba27909b9250632d23b150fb67da534b27f2e8e3dfdf394161cc41df324a0ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-86-2025",
+   "path": "local/ialomita/cazanesti/2025/86",
+   "short": "HCL Căzănești nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 86/2025",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2025",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/Hotarari/7/Hot%C4%83r%C3%A2rea_Consiliului_Local_nr.86_din_23.12.2025.pdf",
+     "sha256": "af4939a09c04ac8faec01eda43eb6d795b8e5b2d69a496f9f4421604f9dc6514"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "local/hunedoara/luncoiu-de-jos/2024",
  "acts": [
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-1-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/1",
+   "short": "HCL Luncoiu de Jos nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 1/2024",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/136291",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/136291",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-10-2024",
    "path": "local/hunedoara/luncoiu-de-jos/2024/10",
    "short": "HCL Luncoiu de Jos nr. 10/2024",
@@ -13,6 +28,21 @@
      "from": "2024-03-18",
      "units": 1,
      "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/140355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-11-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/11",
+   "short": "HCL Luncoiu de Jos nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 11/2024 privind acordarea unui mandat special reprezentantului Comunei Luncoiu de Jos în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,,AQUA PREST HUNEDOARA”",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/140356",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/140356",
      "sha256": null
     }
    ]
@@ -78,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-16-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/16",
+   "short": "HCL Luncoiu de Jos nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 16/2024",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/141935",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/141935",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-17-2024",
    "path": "local/hunedoara/luncoiu-de-jos/2024/17",
    "short": "HCL Luncoiu de Jos nr. 17/2024",
@@ -108,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-19-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/19",
+   "short": "HCL Luncoiu de Jos nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 19/2024 privind aprobarea calendarului principalelor evenimente care vor fi organizate de către Primăria și Consiliul Local al comunei Luncoiu de Jos în anul 2024",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/141938",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/141938",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-2-2024",
    "path": "local/hunedoara/luncoiu-de-jos/2024/2",
    "short": "HCL Luncoiu de Jos nr. 2/2024",
@@ -133,6 +193,21 @@
      "from": "2024-03-18",
      "units": 1,
      "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/141939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-21-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/21",
+   "short": "HCL Luncoiu de Jos nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 21/2024 privind însușirea Actului Adițional nr. 14 la Contractul de Delegare a Gestiunii Serviciilor de Alimentare cu Apă și de Canalizare nr. 5400/223/2009 și mandatarea președintelui Asociației de Dezvoltare Intercomunitară ,,AQUA PREST HUNEDOARA” să semneze acest document",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/146197",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/146197",
      "sha256": null
     }
    ]
@@ -198,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-26-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/26",
+   "short": "HCL Luncoiu de Jos nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 26/2024 privind însușirea Strategiei de contractare și a Documentației pentru atribuirea contractului de achiziție publică având ca obiect: ”Prestarea serviciului de salubrizare în zona de colectare 1 Brad, județul Hunedoara”, mandatarea Asociației de Dezvoltare Intercomunitară ”Sistemul Integrat de Gestionare a Deșeurilor Județul Hunedoara” să organizeze procedura de achiziție până la finalizarea acesteia, precum și a Președintelui Asociației să semneze contractul de achiziție",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/150709",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/150709",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-27-2024",
    "path": "local/hunedoara/luncoiu-de-jos/2024/27",
    "short": "HCL Luncoiu de Jos nr. 27/2024",
@@ -228,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-29-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/29",
+   "short": "HCL Luncoiu de Jos nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 29/2024 privind aprobarea modificării Hotărârii Consiliului Local nr. 45/30.05.2023 privind aprobarea regulamentului de organizare și funcționare al Asociației de Dezvoltare Intercomunitară „Serviciul județean pentru ocrotirea animalelor fără stăpân”, a caietului de sarcini, a contractului de delegare a gestiunii, a cuantumului cotizației Comunei Luncoiu de Jos și a tarifului de capturare practicat de asociație",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/150712",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/150712",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-3-2024",
    "path": "local/hunedoara/luncoiu-de-jos/2024/3",
    "short": "HCL Luncoiu de Jos nr. 3/2024",
@@ -253,6 +358,66 @@
      "from": "2024-09-23",
      "units": 1,
      "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/150713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-31-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/31",
+   "short": "HCL Luncoiu de Jos nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 31/2024 privind aprobarea achitării cotizației pentru anul 2024 datorată de către Comuna Luncoiu de Jos, în calitate de membru, Asociației de Dezvoltare Intercomunitară ,,AQUA PREST HUNEDOARA”",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/150714",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/150714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-32-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/32",
+   "short": "HCL Luncoiu de Jos nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 32/2024 privind aprobarea aderării Comunei Bătrâna prin Consiliul Local al Comunei Bătrâna la Asociația de Dezvoltare Intercomunitară ”AQUA PREST HUNEDOARA”",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/150715",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/150715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-33-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/33",
+   "short": "HCL Luncoiu de Jos nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 33/2024 privind aprobarea asigurării cerințelor minime de securitate și sănătate în muncă referitoare la utilizarea echipamentelor cu ecran de vizualizare pentru salariații Primăriei Comunei Luncoiu de Jos, județul Hunedoara",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/150716",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/150716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-34-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/34",
+   "short": "HCL Luncoiu de Jos nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 34/2024",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/150717",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/150717",
      "sha256": null
     }
    ]
@@ -378,6 +543,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-42-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/42",
+   "short": "HCL Luncoiu de Jos nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 42/2024",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/154518",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/154518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-43-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/43",
+   "short": "HCL Luncoiu de Jos nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 43/2024 privind însușirea Documentelor suport și a Documentației pentru atribuirea contractului de achiziție publică având ca obiect delegarea gestiunii serviciului de salubrizare în zona de colectare 1 Brad + 2 Hațeg + 3 Centru, județul Hunedoara, mandatarea Asociației de Dezvoltare Intercomunitară ”Sistemul Integrat de Gestionare a Deșeurilor Județul Hunedoara” să organizeze procedura de achiziție până la finalizarea acesteia, precum și a Președintelui Asociației să semneze contractul de delegare",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/154519",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/154519",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-44-2024",
    "path": "local/hunedoara/luncoiu-de-jos/2024/44",
    "short": "HCL Luncoiu de Jos nr. 44/2024",
@@ -433,6 +628,21 @@
      "from": "2024-09-23",
      "units": 1,
      "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/156714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-48-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/48",
+   "short": "HCL Luncoiu de Jos nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 48/2024 privind aprobarea cotizației UAT Comuna Luncoiu de Jos pe anul 2024 în calitate de membru al Asociației „SALVITAL” Hunedoara",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/158774",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/158774",
      "sha256": null
     }
    ]
@@ -523,6 +733,36 @@
      "from": "2024-09-23",
      "units": 1,
      "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/162137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-54-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/54",
+   "short": "HCL Luncoiu de Jos nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 54/2024 privind stabilirea salariilor de baza pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Luncoiu de Jos, județul Hunedoara",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/162138",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/162138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-55-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/55",
+   "short": "HCL Luncoiu de Jos nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 55/2024",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/162139",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/162139",
      "sha256": null
     }
    ]
@@ -648,6 +888,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-63-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/63",
+   "short": "HCL Luncoiu de Jos nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 63/2024 privind aprobarea depunerii cererii de finanțare pentru accesarea schemei de ajutor de stat ,,Silvo-mediu și climă” și aprobarea instrumentării dosarului tehnic pentru accesarea schemei de ajutor de stat ,,Silvo-mediu și climă” aferentă intervenției DR-07 ,,Silvo-mediu și climă” din cadrul Planului strategic PAC 2023 – 2027",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/169910",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/169910",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-64-2024",
    "path": "local/hunedoara/luncoiu-de-jos/2024/64",
    "short": "HCL Luncoiu de Jos nr. 64/2024",
@@ -688,6 +943,36 @@
      "from": "2025-01-08",
      "units": 1,
      "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/170565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-67-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/67",
+   "short": "HCL Luncoiu de Jos nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 67/2024 privind desemnarea unui reprezentant al Consiliului Local al Comunei Luncoiu de Jos în Consiliul de Administrație al Școlii Gimnaziale Luncoiu de Jos, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/170566",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/170566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-68-2024",
+   "path": "local/hunedoara/luncoiu-de-jos/2024/68",
+   "short": "HCL Luncoiu de Jos nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 68/2024",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/170567",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/170567",
      "sha256": null
     }
    ]

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ialomita/fierbinti-targ/2013",
+"acts": [
+{
+"slug": "hcl-ialomita--fierbinti-targ-4-2013",
+"path": "local/ialomita/fierbinti-targ/2013/4",
+"kind": "local",
+"year": "2013",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 4/2013 privind aprobarea amplasarii canalelor subterane in zona drumurilor de exploatare prevazute in planului de incadrare in zona anexat, in vederea realizarii retelei de cabluri electrice subterane",
+"short": "HCL Fierbinți-Târg nr. 4/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-01-15",
+"latest": "2013-01-15",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--valea-macrisului-7-2025",
+"path": "local/ialomita/valea-macrisului/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 7/2025 Modificarea contractului de închiriere nr. 87/11.11.2009 încheiat între UAT Valea Măcrișului și SC OMV Petrom SA",
+"short": "HCL Valea Măcrișului nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#94406",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--valea-macrisului-8-2025",
 "path": "local/ialomita/valea-macrisului/2025/8",
 "kind": "local",
@@ -401,6 +423,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--valea-macrisului-20-2025",
+"path": "local/ialomita/valea-macrisului/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 20/2025 Închirierea pajiștei comunale- suprafața disponibilă pentru anul 2025- aflată în domeniul privat al UAT, către crescătorii de animale din comună,stabilirea prețului de închiriere și a contractului de închiriere",
+"short": "HCL Valea Măcrișului nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#96970",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--valea-macrisului-21-2025",
 "path": "local/ialomita/valea-macrisului/2025/21",
 "kind": "local",
@@ -553,6 +597,28 @@
 "council_name": "Consiliul Local al Comunei Valea Măcrișului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-28-2025",
+"path": "local/ialomita/valea-macrisului/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 28/2025 Modificarea HCL nr. 71 din 26.11.2024 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+"short": "HCL Valea Măcrișului nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#98933",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

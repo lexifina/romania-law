@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--toplita-10-2025",
+   "path": "local/hunedoara/toplita/2025/10",
+   "short": "HCL Toplița nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 10/2025 privind aprobarea pretului de vanzare directa a masei lemnoase fasonata, inclusiv a lemnului cu diametru mai mare de 24 cm, provenita din fondul forestier proprietate publica a comunei Toplita si a tarifelor pentru prestarii servicii de exploatare forestiera cu operatori economici atestati",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/202783",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/202783",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--toplita-11-2025",
    "path": "local/hunedoara/toplita/2025/11",
    "short": "HCL Toplița nr. 11/2025",
@@ -153,6 +168,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--toplita-2-2025",
+   "path": "local/hunedoara/toplita/2025/2",
+   "short": "HCL Toplița nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 2/2025",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/197197",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/197197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-20-2025",
+   "path": "local/hunedoara/toplita/2025/20",
+   "short": "HCL Toplița nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 20/2025 privind desemnarea reprezentantului asociatului unic Consiliul Local Toplița în societatea CERNA TOPLIȚA S.R.L",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/206849",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/206849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-21-2025",
+   "path": "local/hunedoara/toplita/2025/21",
+   "short": "HCL Toplița nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 21/2025",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/206850",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/206850",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--toplita-22-2025",
    "path": "local/hunedoara/toplita/2025/22",
    "short": "HCL Toplița nr. 22/2025",
@@ -213,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--toplita-26-2025",
+   "path": "local/hunedoara/toplita/2025/26",
+   "short": "HCL Toplița nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 26/2025 privind acordarea unui sprijin financiar in suma de 18000 lei Bisericii Penticostale din localitatea Hasdau, comuna Toplita, judetul Hunedoara, pentru lucrari de refacere branșament electric și construirea unei terase neacoperite alipită de clădirea bisericii",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/208609",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/208609",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--toplita-27-2025",
    "path": "local/hunedoara/toplita/2025/27",
    "short": "HCL Toplița nr. 27/2025",
@@ -258,6 +333,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--toplita-3-2025",
+   "path": "local/hunedoara/toplita/2025/3",
+   "short": "HCL Toplița nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 3/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Toplita pentru o perioadă de trei luni (februarie 2025 – aprilie 2025)",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/197198",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/197198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-30-2025",
+   "path": "local/hunedoara/toplita/2025/30",
+   "short": "HCL Toplița nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 30/2025",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/213881",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/213881",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--toplita-31-2025",
    "path": "local/hunedoara/toplita/2025/31",
    "short": "HCL Toplița nr. 31/2025",
@@ -298,6 +403,21 @@
      "from": "2025-07-24",
      "units": 1,
      "source_url": "https://emol.ro/toplita-hd/registru-hcl/213884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-34-2025",
+   "path": "local/hunedoara/toplita/2025/34",
+   "short": "HCL Toplița nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 34/2025",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/213885",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/213885",
      "sha256": null
     }
    ]
@@ -378,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--toplita-4-2025",
+   "path": "local/hunedoara/toplita/2025/4",
+   "short": "HCL Toplița nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 4/2025 privind aprobarea Regulamentului de organizare și funcționare a Capelei mortuare din satul Toplița, comuna Toplița, Judetul Hunedoara",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/197199",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/197199",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--toplita-40-2025",
    "path": "local/hunedoara/toplita/2025/40",
    "short": "HCL Toplița nr. 40/2025",
@@ -403,6 +538,21 @@
      "from": "2025-09-11",
      "units": 1,
      "source_url": "https://emol.ro/toplita-hd/registru-hcl/223563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-42-2025",
+   "path": "local/hunedoara/toplita/2025/42",
+   "short": "HCL Toplița nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 42/2025 privind acordarea unui sprijin financiar în sumă de 20.000 lei Parohiei Ortodoxe Hășdău, din satul Hășdău, comuna Toplița, județul Hunedoara, în vederea executării unor lucrări de tâmplărie (schimbărea ușilor) la Biserica Ortodoxă Dăbâca – filie, din satul Dăbâca",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/223564",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/223564",
      "sha256": null
     }
    ]
@@ -508,6 +658,21 @@
      "from": "2025-11-11",
      "units": 1,
      "source_url": "https://emol.ro/toplita-hd/registru-hcl/233861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--toplita-5-2025",
+   "path": "local/hunedoara/toplita/2025/5",
+   "short": "HCL Toplița nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Toplița nr. 5/2025 privind aprobarea Regulamentului de organizare și funcționare a terenului de sport cu gazon sintetic din cadrul Centrului de agrement sportiv din satul Toplița, comuna Toplița, județul Hunedoara",
+   "url": "https://emol.ro/toplita-hd/registru-hcl/197200",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/toplita-hd/registru-hcl/197200",
      "sha256": null
     }
    ]

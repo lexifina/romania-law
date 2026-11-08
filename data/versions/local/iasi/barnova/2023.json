@@ -3,6 +3,21 @@
  "shard": "local/iasi/barnova/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--barnova-1-2023",
+   "path": "local/iasi/barnova/2023/1",
+   "short": "HCL Bârnova nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 1/2023 privind prezentare raport asistenți personali și indemnizații lunare nete semestrul II anul 2022",
+   "url": "https://emol.ro/barnova-is/registru-hcl/88942",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/88942",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-10-2023",
    "path": "local/iasi/barnova/2023/10",
    "short": "HCL Bârnova nr. 10/2023",
@@ -28,6 +43,21 @@
      "from": "2024-02-02",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/128098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-101-2023",
+   "path": "local/iasi/barnova/2023/101",
+   "short": "HCL Bârnova nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 101/2023",
+   "url": "https://emol.ro/barnova-is/registru-hcl/128099",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/128099",
      "sha256": null
     }
    ]
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-11-2023",
+   "path": "local/iasi/barnova/2023/11",
+   "short": "HCL Bârnova nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 11/2023 privind aprobarea introducerii în domeniul privat al Comunei Bârnova a suprafeței de teren de 637 mp amplasată în sat Bârnova și stabilire destinație, atribuire lot Legea 15/2003 și aprobarea introducerii în domeniul privat al Comunei Bârnova a suprafeței de teren de 230 mp amplasată în sat Păun și stabilire destinație, scoatere la vânzare și realizare raport de evaluare",
+   "url": "https://emol.ro/barnova-is/registru-hcl/88952",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/88952",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-110-2023",
    "path": "local/iasi/barnova/2023/110",
    "short": "HCL Bârnova nr. 110/2023",
@@ -193,6 +238,21 @@
      "from": "2024-02-02",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/130131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-113-2023",
+   "path": "local/iasi/barnova/2023/113",
+   "short": "HCL Bârnova nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 113/2023",
+   "url": "https://emol.ro/barnova-is/registru-hcl/130132",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/130132",
      "sha256": null
     }
    ]
@@ -528,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-14-2023",
+   "path": "local/iasi/barnova/2023/14",
+   "short": "HCL Bârnova nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 14/2023 privind aprobarea introducerii în domeniul privat al Comunei Bârnova a suprafeței de teren de 1000 mp amplasată în sat Bârnova, T 69, P 3681/15, PD 3782/10, str. Pr. Gr. Mireuță, nr. 7 și stabilire destinație, scoatere la vânzare și realizare raport de evaluare",
+   "url": "https://emol.ro/barnova-is/registru-hcl/89594",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/89594",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-15-2023",
    "path": "local/iasi/barnova/2023/15",
    "short": "HCL Bârnova nr. 15/2023",
@@ -618,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-20-2023",
+   "path": "local/iasi/barnova/2023/20",
+   "short": "HCL Bârnova nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 20/2023 privind aprobare dezmembrare teren în suprafață de 383200 mp sat Păun, dezmembrare 5 loturi teren, stabilire destinație lot 2000 mp construire padoc și desemnare persoană pentru semnare acte notariale",
+   "url": "https://emol.ro/barnova-is/registru-hcl/90973",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/90973",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-21-2023",
    "path": "local/iasi/barnova/2023/21",
    "short": "HCL Bârnova nr. 21/2023",
@@ -628,6 +718,36 @@
      "from": "2023-09-11",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/90974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-22-2023",
+   "path": "local/iasi/barnova/2023/22",
+   "short": "HCL Bârnova nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 22/2023 privind aprobarea însușirii Hotărârii Școlii Gimnaziale Bârnova nr. 3 din 20.01.2023 legat de cedarea dreptului de proprietate privind suprafața de teren de 3600 mp cu nr. cadastral 74104 înscrisă în Titlul de proprietate cu nr. 202019 din 12.02.2007 eliberat în beneficiul Școlii Primare sat Vișan în favoarea Comunei Bârnova, predarea amplasamentului, în vederea inventarierii în domeniul public al UAT Bârnova, cu condiția păstrării destinației ca spațiu de învățământ, construirii unei școli gimnaziale și desemnare persoană pentru semnare acte notariale",
+   "url": "https://emol.ro/barnova-is/registru-hcl/90975",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/90975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-23-2023",
+   "path": "local/iasi/barnova/2023/23",
+   "short": "HCL Bârnova nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 23/2023 privind aprobarea vânzării directe către d-nul Apetrii Răzvan-Gabriel a terenului în suprafaţă de 250 mp cu nr. cadastral 71137 amplasat în sat Vișan, teren atribuit în temeiul Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, cu modificările ulterioare, prin Hotărârea Consiliului Local Bârnova cu nr. 153 din 30.08.2017 ca urmare finalizării construcţiei prin procesul verbal de recepţie/certificat de atestare a edificării construcției cu nr. 171 din 3.12.2021",
+   "url": "https://emol.ro/barnova-is/registru-hcl/90976",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/90976",
      "sha256": null
     }
    ]
@@ -753,6 +873,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-31-2023",
+   "path": "local/iasi/barnova/2023/31",
+   "short": "HCL Bârnova nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 31/2023",
+   "url": "https://emol.ro/barnova-is/registru-hcl/100328",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/100328",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-32-2023",
    "path": "local/iasi/barnova/2023/32",
    "short": "HCL Bârnova nr. 32/2023",
@@ -793,6 +928,21 @@
      "from": "2023-09-11",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/100331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-35-2023",
+   "path": "local/iasi/barnova/2023/35",
+   "short": "HCL Bârnova nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 35/2023 privind aprobare însușire raport de evaluare pentru vânzare suprafața de 113 mp, constituire comisie pentru licitație scoatere la vânzare, aprobare caiet de sarcini și desemnare persoană pentru semnare acte notariale",
+   "url": "https://emol.ro/barnova-is/registru-hcl/100332",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/100332",
      "sha256": null
     }
    ]
@@ -1233,6 +1383,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-62-2023",
+   "path": "local/iasi/barnova/2023/62",
+   "short": "HCL Bârnova nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 62/2023 privind aprobarea stabilirii salariilor de bază ale funcționarilor publici, personalului angajat al Primăriei comunei Bârnova începînd cu data de 1 mai 2023 și indemnizației demnitarilor începînd cu data de 1 noiembrie 2022 potrivit Legii nr. 103 din 18 aprilie 2023 și Legii Cadru nr. nr. 153/2017, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/barnova-is/registru-hcl/104226",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/104226",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-63-2023",
    "path": "local/iasi/barnova/2023/63",
    "short": "HCL Bârnova nr. 63/2023",
@@ -1413,6 +1578,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-74-2023",
+   "path": "local/iasi/barnova/2023/74",
+   "short": "HCL Bârnova nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 74/2023 privind prezentare raport asistenți personali și indemnizații lunare nete semestrul I anul 2023",
+   "url": "https://emol.ro/barnova-is/registru-hcl/113649",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/113649",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-75-2023",
    "path": "local/iasi/barnova/2023/75",
    "short": "HCL Bârnova nr. 75/2023",
@@ -1578,6 +1758,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-85-2023",
+   "path": "local/iasi/barnova/2023/85",
+   "short": "HCL Bârnova nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 85/2023 privind aprobarea introducerii în domeniul privat al Comunei Bârnova a suprafeței de teren de 250 mp amplasată în sat Bârnova T 45, P L 2683/23 și stabilire destinație-scoatere la vânzare și realizare raport de evaluare, a suprafeței de teren de 500 mp amplasată în sat Bârnova T 45, P 2683/24, a suprafeței de teren de 1000 mp amplasată în sat Todirel T 31, P 891/1, str. Matei Basarab, nr. 12 A și stabilire destinație-atribuire lot Legea 15/2003 și suprafața de 350 mp amplasată în sat Todirel T 31, P 890/1, 891/2 str. Matei Basarab, nr. 12 A",
+   "url": "https://emol.ro/barnova-is/registru-hcl/119371",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/119371",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-86-2023",
    "path": "local/iasi/barnova/2023/86",
    "short": "HCL Bârnova nr. 86/2023",
@@ -1708,6 +1903,21 @@
      "from": "2024-02-02",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/128091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-94-2023",
+   "path": "local/iasi/barnova/2023/94",
+   "short": "HCL Bârnova nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 94/2023",
+   "url": "https://emol.ro/barnova-is/registru-hcl/128092",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/128092",
      "sha256": null
     }
    ]

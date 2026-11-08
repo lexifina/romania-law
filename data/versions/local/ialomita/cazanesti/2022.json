@@ -3,6 +3,516 @@
  "shard": "local/ialomita/cazanesti/2022",
  "acts": [
   {
+   "slug": "hcl-ialomita--cazanesti-100-2022",
+   "path": "local/ialomita/cazanesti/2022/100",
+   "short": "HCL Căzănești nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 100/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.100_din_09.12.2022.PDF",
+     "sha256": "562441c1892897b14629831d57c715fff3a86da2779842e97f48caa0f90885f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-101-2022",
+   "path": "local/ialomita/cazanesti/2022/101",
+   "short": "HCL Căzănești nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 101/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.101_din_09.12.2022.PDF",
+     "sha256": "ac54e575ec432f490d588bf01c1437b2dbbb623e3d80510c2a7a35b7ad2efa77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-104-2022",
+   "path": "local/ialomita/cazanesti/2022/104",
+   "short": "HCL Căzănești nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 104/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.104_din_19.12.2022.PDF",
+     "sha256": "470afb3cd5a11d2101283205bb112fc833962b85f8bc3fc06b18c1c0a8b226c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-105-2022",
+   "path": "local/ialomita/cazanesti/2022/105",
+   "short": "HCL Căzănești nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 105/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.105_din_19.12.2022.PDF",
+     "sha256": "5184c24a44a4c5226d88146dbc6afc0e723f5d47120b6ac7e4422c71845205c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-106-2022",
+   "path": "local/ialomita/cazanesti/2022/106",
+   "short": "HCL Căzănești nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 106/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.106_din_19.12.2022.PDF",
+     "sha256": "9f6f6e51598e2adbbe51c0f187ee1e621a1569d5430ea71da915db4ee39d98ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-107-2022",
+   "path": "local/ialomita/cazanesti/2022/107",
+   "short": "HCL Căzănești nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 107/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.107_din_19.12.2022.PDF",
+     "sha256": "8688a1a756b0ed82142dafdfb1aab72a2165b298c737b345ca5c2e253e60c32b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-108-2022",
+   "path": "local/ialomita/cazanesti/2022/108",
+   "short": "HCL Căzănești nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 108/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.108_din_23.12.2022.PDF",
+     "sha256": "0aff928f0f4fca06f8581d63f02c0fb1868f6375338549da04206564c9888f87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-11-2022",
+   "path": "local/ialomita/cazanesti/2022/11",
+   "short": "HCL Căzănești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 11/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "621a04e065b61c193ef9710da40819e0188e62917dfc4134c85758a3f9d1a08d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-13-2022",
+   "path": "local/ialomita/cazanesti/2022/13",
+   "short": "HCL Căzănești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 13/2022 privind aprobarea bugetului de venituri și cheltuieli al orașului Căzănești pe anul 2022.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=80",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._13_din_07.02.2022_privind_aprobarea_bugetului_de_venituri_%C8%99i_cheltuieli_al_ora%C8%99ului_C%C4%83z%C4%83ne%C8%99ti_pe_anul_2022.pdf",
+     "sha256": "2872e7b50b28022ec682146da202768dd26ab9f0d72d136fdc649a01df84fde3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-14-2022",
+   "path": "local/ialomita/cazanesti/2022/14",
+   "short": "HCL Căzănești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 14/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=80",
+   "versions": [
+    {
+     "from": "2022-02-17",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/Anexa_la_HCL_nr._14_din_17.02.2022.pdf",
+     "sha256": "6c07aa779406032c7101b138c51b2d9f914d06896d91e2ca2df6d85061e296e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-19-2022",
+   "path": "local/ialomita/cazanesti/2022/19",
+   "short": "HCL Căzănești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 19/2022 privind aprobarea numărului și a cuantumului burselor școlare de care pot beneficia elevii din cadrul Școlii Profesionale Căzănești pentru semestrul II al anului școlar 2021-2022.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=80",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._19_din_28.02.2022_privind_aprobarea_num%C4%83rului_%C8%99i_a_cuantumului_burselor_%C8%99colare_de_care_pot_beneficia_elevii_din_cadrul_%C8%98colii_Profesionale_C%C4%83z%C4%83ne%C8%99ti_pentru_semestrul_II_al_anului_%C8%99colar_2021-2022.pdf",
+     "sha256": "5f281784c0d2f5ebf6c6d38f37d9c5299f5495b351e684ff9ab8c5f77e35e967"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-23-2022",
+   "path": "local/ialomita/cazanesti/2022/23",
+   "short": "HCL Căzănești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 23/2022 privind actualizarea principalilor indicatori tehnico-economici și a devizului general la finalizarea obiectivului de investiție „Achiziție buldoexcavator” în orașul Căzănești.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-03-14",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._23_din_14.03.2022_privind_actualizarea_principalilor_indicatori_tehnico-economici_%C8%99i_a_devizului_general_la_finalizarea_obiectivului_de_investi%C8%9Bie_Achizi%C8%9Bie_buldoexcavator_%C3%AEn_ora%C8%99ul_C%C4%83z%C4%83ne%C8%99ti.pdf",
+     "sha256": "719692679453cc9957951768f30e468c442acc670cb879f3a4fc6ce99f3dad59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-24-2022",
+   "path": "local/ialomita/cazanesti/2022/24",
+   "short": "HCL Căzănești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 24/2022 privind transmiterea dreptului de concesiune asupra terenului în suprafață de 1178 mp (din acte) 1171 mp (din măsurători) număr cadastral 23164.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._24_din_31.03.2022_privind_transmiterea_dreptului_de_concesiune_asupra_terenului_%C3%AEn_suprafa%C8%9B%C4%83_de_1178_mp_din_acte_1171_mp_din_m%C4%83sur%C4%83tori_num%C4%83r_cadastral_23164.pdf",
+     "sha256": "2179947f4eb02e5ff7f2c5e07cc2041b2f663b409340c8420d652e9e1c1bdab0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-25-2022",
+   "path": "local/ialomita/cazanesti/2022/25",
+   "short": "HCL Căzănești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 25/2022 privind aprobarea numărului de asistenți personali, pentru anul 2022.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._25_din_31.03.2022_privind_aprobarea_num%C4%83rului_de_asisten%C8%9Bi_personali_pentru_anul_2022.pdf",
+     "sha256": "624cb4031c53e21755f9f0ba78711841b3149f67ec1427d4b23f02d08c709ed6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-26-2022",
+   "path": "local/ialomita/cazanesti/2022/26",
+   "short": "HCL Căzănești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 26/2022 pentru revocarea Hotărârii Consiliului Local nr. 17 din 28.02.2022.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._26_din_31.03.2022_pentru_revocarea_Hot%C4%83r%C3%A2rii_Consiliului_Local_nr._17_din_28.02.2022.pdf",
+     "sha256": "19a2b71cd694211af03bbf773a8d098276ce9ce1e7d1fd4cd85899db5e4eaf72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-27-2022",
+   "path": "local/ialomita/cazanesti/2022/27",
+   "short": "HCL Căzănești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 27/2022 privind achiziționarea unor servicii de asistență și consultanță juridică, pe anul 2022.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._27_din_31.03.2022_privind_achizi%C8%9Bionarea_unor_servicii_de_asisten%C8%9B%C4%83_%C8%99i_consultan%C8%9B%C4%83_juridic%C4%83_pe_anul_2022.pdf",
+     "sha256": "3a1e7f210a2e8126e14fbc1e9417290d0faac34024906e41b8316e17835aac40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-29-2022",
+   "path": "local/ialomita/cazanesti/2022/29",
+   "short": "HCL Căzănești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 29/2022 privind soluționarea cererilor de anulare a majorărilor de întârziere datorate bugetului local al orașului Căzănești la data de 31.03.2020.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._29_din_31.03.2022_privind_solu%C8%9Bionarea_cererilor_de_anulare_a_major%C4%83rilor_de_%C3%AEnt%C3%A2rziere_datorate_bugetului_local_al_ora%C8%99ului_C%C4%83z%C4%83ne%C8%99ti_la_data_de_31.03.2020.pdf",
+     "sha256": "36e076f8c8f465dd291c78e7c0e72ea30d471205c2e694712a51a0121df1cb68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-30-2022",
+   "path": "local/ialomita/cazanesti/2022/30",
+   "short": "HCL Căzănești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 30/2022 privind aprobarea retragerii Orașului Căzănești din Asociația de Dezvoltare Intercomunitară Distribuție Gaz Ialomița Centrală.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._30_din_19.04.2022_privind_aprobarea_retragerii_Ora%C8%99ului_C%C4%83z%C4%83ne%C8%99ti_din_Asocia%C8%9Bia_de_Dezvoltare_Intercomunitar%C4%83_Distribu%C8%9Bie_Gaz_Ialomi%C8%9Ba_Central%C4%83.pdf",
+     "sha256": "6fb28e79059773da50ce52d8a7c94814e9e97bdeb438bbc1b4c61963d82bb6db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-31-2022",
+   "path": "local/ialomita/cazanesti/2022/31",
+   "short": "HCL Căzănești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 31/2022 privind aprobarea rectificării bugetului de venituri şi cheltuieli al orașului Căzănești, pe anul 2022.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._31_din_19.04.2022_privind_aprobarea_rectific%C4%83rii_bugetului_de_venituri_%C5%9Fi_cheltuieli_al_ora%C8%99ului_C%C4%83z%C4%83ne%C8%99ti_pe_anul_2022.pdf",
+     "sha256": "83cd0986d59352e9b7c13ed902fe987a438317db01683d5db4c325035794ac36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-32-2022",
+   "path": "local/ialomita/cazanesti/2022/32",
+   "short": "HCL Căzănești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 32/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "26a35b5b3f303a0402767fbbd0e0923ed52b24a7ef7a6647f01867de6f6bf9b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-33-2022",
+   "path": "local/ialomita/cazanesti/2022/33",
+   "short": "HCL Căzănești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 33/2022 privind aprobarea implementării obiectivului de investiție “Înființare sistem inteligent de distribuție gaze naturale în oraș Căzănești, județ Ialomița.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._33_din_19.04.2022_privind_aprobarea_implement%C4%83rii_obiectivului_de_investi%C8%9Bie_%C3%8Enfiin%C8%9Bare_sistem_inteligent_de_distribu%C8%9Bie_gaze_naturale_%C3%AEn_ora%C8%99_C%C4%83z%C4%83ne%C8%99ti_jude%C8%9B_Ialomi%C8%9Ba.pdf",
+     "sha256": "3624daa812b633fc774861e6563b1145c22b44ea93fec5518c6c5652d92e9d91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-35-2022",
+   "path": "local/ialomita/cazanesti/2022/35",
+   "short": "HCL Căzănești nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 35/2022 privind aprobarea încheierii contului de execuţie a bugetului local si a situatiilor financiare pe 2021.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._35_din_28.04.2022_privind_aprobarea_%C3%AEncheierii_contului_de_execu%C5%A3ie_a_bugetului_local_si_a_situatiilor_financiare_pe_2021.pdf",
+     "sha256": "b8bc62390b9612900f4ad45f2de7088008409c1eadc2bddd77e8c887ff809c7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-36-2022",
+   "path": "local/ialomita/cazanesti/2022/36",
+   "short": "HCL Căzănești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 36/2022 privind aprobarea contului de execuţie a bugetului local al oraşului Căzăneşti pe trimestrul I al anului 2022.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._36_din_28.04.2022_privind_aprobarea_contului_de_execu%C5%A3ie_a_bugetului_local_al_ora%C5%9Fului_C%C4%83z%C4%83ne%C5%9Fti_pe_trimestrul_I_al_anului_2022.pdf",
+     "sha256": "edd14b9e1bbf8805bb04364d76cc926e9a343baa5df3494d018721ee1c2a61c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-37-2022",
+   "path": "local/ialomita/cazanesti/2022/37",
+   "short": "HCL Căzănești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 37/2022 privind atestarea apartenenței la domeniul public al orașului Căzănești a Drumului Stradal DS 412_1.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._37_din_28.04.2022_privind_atestarea_apartenen%C8%9Bei_la_domeniul_public_al_ora%C8%99ului_C%C4%83z%C4%83ne%C8%99ti_a_Drumului_Stradal_DS_412_1.pdf",
+     "sha256": "f97cc85a3fa59eac88907c56d15243ceb70819352623edeeb7629f7af69140a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-38-2022",
+   "path": "local/ialomita/cazanesti/2022/38",
+   "short": "HCL Căzănești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 38/2022 pentru aprobarea DALI şi indicatori privind obiectivul Reabilitare sistem rutier str. Apusului, Muzicanților, Digului, Depozitului, Intr Asociatiei, Intr Fermei, Teiului, Căldărari.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._38_din_28.04.2022_pentru_aprobarea_DALI_%C5%9Fi_indicatori_privind_obiectivul_Reabilitare_sistem_rutier_str._Apusului_Muzican%C8%9Bilor_Digului_Depozitului_Intr_Asociatiei_Intr_Fermei_Teiului_C%C4%83ld%C4%83rari.pdf",
+     "sha256": "6c5730ecb0eb4aa671e1e161696631770454ff4390ed3d877e1a9311afd143a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-39-2022",
+   "path": "local/ialomita/cazanesti/2022/39",
+   "short": "HCL Căzănești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 39/2022 privind soluționarea cererii de anulare a majorărilor de întârziere datorate bugetului local al orașului Căzănești la data de 31.03.2020 de către dl",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+     "sha256": "0a66f5aa7ef7ece7f0d3683268c8029f2bb5d742b85e75dc1f9f6f3502f1a65e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-4-2022",
+   "path": "local/ialomita/cazanesti/2022/4",
+   "short": "HCL Căzănești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 4/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=80",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/Anexa_la_HCL_nr._4_din_27.01.2022.pdf",
+     "sha256": "f3c84f1231e3baa5b83e33d1aee9377b3c2c4f5ffe27f810edb2db4f68bd3383"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-40-2022",
+   "path": "local/ialomita/cazanesti/2022/40",
+   "short": "HCL Căzănești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 40/2022 privind desemnarea a doi consilieri locali în comisia de evaluare a performanțelor profesionale individuale ale secretarului general al unității administrativ-teritoriale.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._40_din_28.04.2022_privind_desemnarea_a_doi_consilieri_locali_%C3%AEn_comisia_de_evaluare_a_performan%C8%9Belor_profesionale_individuale_ale_secretarului_general_al_unit%C4%83%C8%9Bii_administrativ-teritoriale.pdf",
+     "sha256": "865e8ced75948fde2392c07a6ebe712cfba59aec51ca248d05f80e588457e563"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-41-2022",
+   "path": "local/ialomita/cazanesti/2022/41",
+   "short": "HCL Căzănești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 41/2022 privind alegerea președintelui de ședință pentru perioada mai – iulie 2022.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=60",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._41_din_28.04.2022_privind_alegerea_pre%C8%99edintelui_de_%C8%99edin%C8%9B%C4%83_pentru_perioada_mai__iulie_2022.pdf",
+     "sha256": "378df3d4b9672d3e0c8121bc51b150fdee7f3a0fa4e969f1e679ddb819225292"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-42-2022",
+   "path": "local/ialomita/cazanesti/2022/42",
+   "short": "HCL Căzănești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 42/2022 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiție „Reabilitare Sală de Sport”.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._42_din_26.05.2022_privind_actualizarea_indicatorilor_tehnico-economici_%C8%99i_a_devizului_general_pentru_obiectivul_de_investi%C8%9Bie_Reabilitare_Sal%C4%83_de_Sport.pdf",
+     "sha256": "660cd0a3adfcd5c35e311b1129953b41303917dc67d2df854cb96cd044a6713d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-43-2022",
+   "path": "local/ialomita/cazanesti/2022/43",
+   "short": "HCL Căzănești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 43/2022 privind modificarea și completarea contractului de concesiune nr. 643 din 18.02.2005 încheiat cu dna. dr",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+     "sha256": "a8564a994e964a1d11c32cabbbec8d7c73c4c31a21027eb85f2c3680a1c59692"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-44-2022",
+   "path": "local/ialomita/cazanesti/2022/44",
+   "short": "HCL Căzănești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 44/2022 privind modificarea și completarea contractului de concesiune nr. 645 din 18.02.2005 încheiat cu dna. dr",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+     "sha256": "e93262dc6c5c6d5cda36027125fe38d193c9ddb26ea4eb77efbc28e6b0478a5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-45-2022",
+   "path": "local/ialomita/cazanesti/2022/45",
+   "short": "HCL Căzănești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 45/2022 pentru modificarea și completarea anexei nr. 6 din Hotărârea Consiliului Local nr. 45 din 2009.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._45_din_26.05.2022_pentru_modificarea_%C8%99i_completarea_anexei_nr._6_din_Hot%C4%83r%C3%A2rea_Consiliului_Local_nr._45_din_2009.pdf",
+     "sha256": "5b3fcd2d8bc4db52975c6dd1a000f81b09315cc1d5933f023b428098b8c63059"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-46-2022",
+   "path": "local/ialomita/cazanesti/2022/46",
+   "short": "HCL Căzănești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 46/2022 pentru modificarea art. 1 din Hotărârea Consiliului Local nr. 40 din 2016.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._46_din_26.05.2022_pentru_modificarea_art._1_din_Hot%C4%83r%C3%A2rea_Consiliului_Local_nr._40_din_2016.pdf",
+     "sha256": "8fe79d2b6afebed229dd6140e9cf44be4af27fcc9f3c785795c07abb888b9d77"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--cazanesti-47-2022",
    "path": "local/ialomita/cazanesti/2022/47",
    "short": "HCL Căzănești nr. 47/2022",
@@ -14,6 +524,696 @@
      "units": 1,
      "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._47_din_26.05.2022_privind_aprobarea_Regulamentului_intern_referitor_la_acordarea_primei_de_vacan%C8%9B%C4%83_sub_forma_voucherelor_de_vacan%C8%9B%C4%83.pdf",
      "sha256": "8c672e3d7c5400180e199ab0c7f75ba913a3288d99bb216ce03238ae95ba437a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-48-2022",
+   "path": "local/ialomita/cazanesti/2022/48",
+   "short": "HCL Căzănești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 48/2022 privind aprobarea actului adițional nr.1 din 2022 din Contractul de concesiune nr. 3 din 10.05.2012 încheiat cu S.C",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._48_din_26.05.2022_privind_aprobarea_actului_adi%C8%9Bional_nr.1_din_2022_din_Contractul_de_concesiune_nr._3_din_10.05.2012_%C3%AEncheiat_cu_S.C._Miracom_S.R.L_C%C4%83z%C4%83ne%C8%99ti.pdf",
+     "sha256": "03f0078b5f8633342e99bdb981017345d31f43c8c7c630004de5db786e672851"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-49-2022",
+   "path": "local/ialomita/cazanesti/2022/49",
+   "short": "HCL Căzănești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 49/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1286a54e4416c2271910d9ce707f6896c9fe6a76a266c713e2eddebca025c1b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-5-2022",
+   "path": "local/ialomita/cazanesti/2022/5",
+   "short": "HCL Căzănești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 5/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=80",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/Anexa_la_HCL_nr._5_din_27.01.2022.pdf",
+     "sha256": "6d9be33319d4e9bf336c47e5598ae6498b0aaff9334ade5a7cb4f56406b7c459"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-50-2022",
+   "path": "local/ialomita/cazanesti/2022/50",
+   "short": "HCL Căzănești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 50/2022 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul mixt de investiție „Dispensar medical uman”.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._50_din_26.05.2022_privind_actualizarea_indicatorilor_tehnico-economici_%C8%99i_a_devizului_general_pentru_obiectivul_mixt_de_investi%C8%9Bie_Dispensar_medical_uman.pdf",
+     "sha256": "bc41bb9a1ed85801d0c2da4c27e1bb9ade0eb7f2e482f8270d13750a41edf61c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-51-2022",
+   "path": "local/ialomita/cazanesti/2022/51",
+   "short": "HCL Căzănești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 51/2022 privind încetarea prin reziliere a contractelor de prestări servicii de salubrizare încheiate cu S.C",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr._51_din_30.06.2022_privind_%C3%AEncetarea_prin_reziliere_a_contractelor_de_prest%C4%83ri_servicii_de_salubrizare_%C3%AEncheiate_cu_S.C._Selectiv_De%C8%99euri_2010_S.R.L_Grivi%C8%9Ba.pdf",
+     "sha256": "0515a5964313acc4256534aba0664b5801bcf006be4d29a984ab84217b9eabaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-52-2022",
+   "path": "local/ialomita/cazanesti/2022/52",
+   "short": "HCL Căzănești nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 52/2022 privind aprobarea Contractului de delegare, prin atribuire directă a gestiunii Serviciului Public de Salubrizare a deșeurilor municipale în județul Ialomița.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr._52_din_30.06.2022_privind_aprobarea_Contractului_de_delegare_prin_atribuire_direct%C4%83_a_gestiunii_Serviciului_Public_de_Salubrizare_a_de%C8%99eurilor_municipale_%C3%AEn_jude%C8%9Bul_Ialomi%C8%9Ba.pdf",
+     "sha256": "7520a8e29c1248e7278889646465c5ee7b1279157b9f59194a1845848bd9da87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-53-2022",
+   "path": "local/ialomita/cazanesti/2022/53",
+   "short": "HCL Căzănești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 53/2022 privind mandatarea Asociației de Dezvoltare Intercomunitară ”ECOO 2009”, de a exercita dreptul de delegare a gestiunii Serviciului de Salubrizare.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr._53_din_30.06.2022_privind_mandatarea_Asocia%C8%9Biei_de_Dezvoltare_Intercomunitar%C4%83_ECOO_2009_de_a_exercita_dreptul_de_delegare_a_gestiunii_Serviciului_de_Salubrizare.pdf",
+     "sha256": "d16262acaab0f7bf642bf637f44da6e492a5d0a12a33917bb08c61361708f401"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-54-2022",
+   "path": "local/ialomita/cazanesti/2022/54",
+   "short": "HCL Căzănești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 54/2022 privind aprobarea taxelor speciale de salubritate pentru utilizatorii casnici și a tarifelor practicate de către operatorul serviciului de salubrizare teritorială a orașului Căzănești.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr._54_din_30.06.2022_privind_aprobarea_taxelor_speciale_de_salubritate_pentru_utilizatorii_casnici_%C8%99i_a_tarifelor_practicate_de_c%C4%83tre_operatorul_serviciului_de_salubrizare_teritorial%C4%83_a_ora%C8%99ului_C%C4%83z%C4%83ne%C8%99ti.pdf",
+     "sha256": "ded9b497d4da8b4ffaad90e5010240218868ea4e62ecec58740795c107623c26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-55-2022",
+   "path": "local/ialomita/cazanesti/2022/55",
+   "short": "HCL Căzănești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 55/2022 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație”.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr._55_din_30.06.2022_privind_stabilirea_salariilor_de_baz%C4%83_pentru_func%C8%9Bionarii_publici_%C8%99i_personalul_contractual_din_cadrul_familiei_ocupa%C8%9Bionale_Administra%C8%9Bie.pdf",
+     "sha256": "517265232cf9d17aa4527676716ba63ba07685170fd0701a08a52629ade39e9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-56-2022",
+   "path": "local/ialomita/cazanesti/2022/56",
+   "short": "HCL Căzănești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 56/2022 privind reactualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiție „Reabilitare Sală de Sport”.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr._56_din_30.06.2022_privind_reactualizarea_indicatorilor_tehnico-economici_%C8%99i_a_devizului_general_pentru_obiectivul_de_investi%C8%9Bie_Reabilitare_Sal%C4%83_de_Sport.pdf",
+     "sha256": "42313fd02a544d9e77fb5c8fb66d70a5868fa7c72da06541d1cea985fceef6a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-57-2022",
+   "path": "local/ialomita/cazanesti/2022/57",
+   "short": "HCL Căzănești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 57/2022 privind atestarea apartenenţei la domeniul public al oraşului Căzăneşti a Digului local de apărare împotriva inundațiilor – tronson 1.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr._57_din_30.06.2022_privind_atestarea_apartenen%C5%A3ei_la_domeniul_public_al_ora%C5%9Fului_C%C4%83z%C4%83ne%C5%9Fti_a_Digului_local_de_ap%C4%83rare_%C3%AEmpotriva_inunda%C8%9Biilor__tronson_1.pdf",
+     "sha256": "6b8607ef610a16ceadd61828179d8aca1578f1796c4486106c0a2faf125d43ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-58-2022",
+   "path": "local/ialomita/cazanesti/2022/58",
+   "short": "HCL Căzănești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 58/2022 privind soluționarea cererii de anulare a majorărilor de întârziere datorate bugetului local la data de 31.03.2020 de către dl",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+     "sha256": "606621bf8eae8c999d7b99cc8bd616a19cda886f8f5a498973944b909c564a70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-59-2022",
+   "path": "local/ialomita/cazanesti/2022/59",
+   "short": "HCL Căzănești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 59/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0d68279a2c3b07b2a9c638020902c2c55596ba35c21b407f9121226e20f375a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-6-2022",
+   "path": "local/ialomita/cazanesti/2022/6",
+   "short": "HCL Căzănești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 6/2022 privind constituirea comisiei de evaluare a ofertelor în vederea atribuirii contractelor de achiziție publică acord cadru din anul 2022.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=80",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._6_din_27.01.2022_privind_constituirea_comisiei_de_evaluare_a_ofertelor_%C3%AEn_vederea_atribuirii_contractelor_de_achizi%C8%9Bie_public%C4%83_acord_cadru_din_anul_2022.pdf",
+     "sha256": "36540f3bf53a2fb1e82e8020f9ae59e15be02f703566aea052f7da4437eac69e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-60-2022",
+   "path": "local/ialomita/cazanesti/2022/60",
+   "short": "HCL Căzănești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 60/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr.60_din_29.07.2022.PDF",
+     "sha256": "efe3017b13c37c1373b74a1e14d0eeff12840c31617540cea8564ef513d50c53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-61-2022",
+   "path": "local/ialomita/cazanesti/2022/61",
+   "short": "HCL Căzănești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 61/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr.61_din_29.07.2022.PDF",
+     "sha256": "706fe78f36754a7833dcd7cd45e4dd1ef3ae1643ecf27711086f67bbfa9c6c7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-62-2022",
+   "path": "local/ialomita/cazanesti/2022/62",
+   "short": "HCL Căzănești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 62/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=20",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr.62_din_29.07.2022.PDF",
+     "sha256": "dd4bb4b351b7808dea6fe012ab2f861d6aa621a92784d461fa1c66ecaf15d07c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-63-2022",
+   "path": "local/ialomita/cazanesti/2022/63",
+   "short": "HCL Căzănești nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 63/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=20",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr.63_din_29.07.2022.PDF",
+     "sha256": "b563119caff0d91c6347527ee26a67e1bf628df618b364584ae7ff49cab0d0cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-64-2022",
+   "path": "local/ialomita/cazanesti/2022/64",
+   "short": "HCL Căzănești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 64/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=20",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr.64_din_29.07.2022.PDF",
+     "sha256": "c754bc1d7bda01ea5dfec0cf525c6c40ca78f65c29b8ec8973861da7ee81665a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-65-2022",
+   "path": "local/ialomita/cazanesti/2022/65",
+   "short": "HCL Căzănești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 65/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=20",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr.65_din_29.07.2022.PDF",
+     "sha256": "c0adba8830db1d3a77bca74a8254e4f9de9d71244070637b29a4733c732e1aee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-66-2022",
+   "path": "local/ialomita/cazanesti/2022/66",
+   "short": "HCL Căzănești nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 66/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=20",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr.66_din_29.07.2022.PDF",
+     "sha256": "bf7508728e1c49f28bd7d638bdcfbac33118fd396898020595f36d49c85a1b15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-67-2022",
+   "path": "local/ialomita/cazanesti/2022/67",
+   "short": "HCL Căzănești nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 67/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/hotarari-cu-caracter-normativ-2022",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari_cu_caracter_normativ/H.C.L._nr.67_din_25.08.2022.PDF",
+     "sha256": "ce1167e6c937bbc54979294ff86f5881350da17dfbf8e5f6812670ae43607a22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-7-2022",
+   "path": "local/ialomita/cazanesti/2022/7",
+   "short": "HCL Căzănești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 7/2022 privind actualizarea indicatori și deviz general la finalizare obiectiv „Reabilitare sistem rutier Str Școlii Vechi-continuare, Viilor, Prunului, Bentului, Eternității, Pompierilor, Stadion.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=80",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._7_din_27.01.2022_privind_actualizarea_indicatori_%C8%99i_deviz_general_la_finalizare_obiectiv_Reabilitare_sistem_rutier_Str_%C8%98colii_Vechi-continuare_Viilor_Prunului_Bentului_Eternit%C4%83%C8%9Bii_Pompierilor_Stadion.pdf",
+     "sha256": "a08b19b9b0db271c7faa04565cbcbe13a8ad91dc46bff2515ead40241b8ba2c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-73-2022",
+   "path": "local/ialomita/cazanesti/2022/73",
+   "short": "HCL Căzănești nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 73/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=20",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.73_din_29.09.2022.PDF",
+     "sha256": "db5c861fdb57929653e8b8da7ded950c5ea3b8e177f0add285cf71579adbd7a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-74-2022",
+   "path": "local/ialomita/cazanesti/2022/74",
+   "short": "HCL Căzănești nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 74/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=20",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.74_din_29.09.2022.PDF",
+     "sha256": "8482f058297dd194744d844d86db3ec5d5750d2e25dd965090022a5b2cba1b3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-75-2022",
+   "path": "local/ialomita/cazanesti/2022/75",
+   "short": "HCL Căzănești nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 75/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=20",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.75_din_29.09.2022.PDF",
+     "sha256": "579fd849741a0feb3a499188e8d740ee2755bcededc5827d3c7ec97329d311f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-76-2022",
+   "path": "local/ialomita/cazanesti/2022/76",
+   "short": "HCL Căzănești nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 76/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=20",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.76_din_29.09.2022.PDF",
+     "sha256": "ea9de839386c8d824311f2f353431f57ba2394171476bc9b0e1c59deafbf23d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-77-2022",
+   "path": "local/ialomita/cazanesti/2022/77",
+   "short": "HCL Căzănești nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 77/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=20",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.77_din_29.09.2022.PDF",
+     "sha256": "09a842136f3f0e6436b288ea29714c5618696c91c6fbcf55dc8d422a86361a20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-78-2022",
+   "path": "local/ialomita/cazanesti/2022/78",
+   "short": "HCL Căzănești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 78/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=20",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCLnr.78_din_29.09.2022.PDF",
+     "sha256": "8dd19a89f8b814b7e4eee78d23ecc45ce838c34a100dd217478527577a452023"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-79-2022",
+   "path": "local/ialomita/cazanesti/2022/79",
+   "short": "HCL Căzănești nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 79/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022/1660-hcl-nr-79-din-29-09-2022-privind-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-al-orasului-cazanesti-pe-anul-2022",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.79_din_29.09.2022.PDF",
+     "sha256": "657fd4716fd92d6f2f23004dfb00c261b4e604033fe9876807edefd05add7edb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-8-2022",
+   "path": "local/ialomita/cazanesti/2022/8",
+   "short": "HCL Căzănești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 8/2022 privind actualizarea cofinantarii asigurata de la bugetul local la finalizare obiectiv „Reabilitare sistem rutier Str Școlii Vechi-continuare, Viilor, Prunului, Bentului, Eternității, Pompierilor.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=80",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._8_din_27.01.2022_privind_actualizarea_cofinantarii_asigurata_de_la_bugetul_local_la_finalizare_obiectiv_Reabilitare_sistem_rutier_Str_%C8%98colii_Vechi-continuare_Viilor_Prunului_Bentului_Eternit%C4%83%C8%9Bii_Pompierilor.pdf",
+     "sha256": "0544f34431459dfdc017926420dda676d31f013a1ed32ac928cee5b33e71c7b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-80-2022",
+   "path": "local/ialomita/cazanesti/2022/80",
+   "short": "HCL Căzănești nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 80/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=20",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.80_din_29.09.2022.PDF",
+     "sha256": "5200f0613a88be9f746dda0d8802f3c919ef30e56af3cfe568c934303e5d4a9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-81-2022",
+   "path": "local/ialomita/cazanesti/2022/81",
+   "short": "HCL Căzănești nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 81/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=20",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/H.C.L._nr.81_din_27.10.2022.PDF",
+     "sha256": "1287496588fbd02aa2aa8e9104c9ff7d4e085ee2f1d9a077b7fc502649d01c68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-82-2022",
+   "path": "local/ialomita/cazanesti/2022/82",
+   "short": "HCL Căzănești nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 82/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=20",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/H.C.L._nr.82_din_27.10.2022.PDF",
+     "sha256": "d20540a5e5f0a2ca4d62a9f2991a7d26c35fdd0a2bde32a99ce438d39e6181a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-83-2022",
+   "path": "local/ialomita/cazanesti/2022/83",
+   "short": "HCL Căzănești nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 83/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/H.C.L._nr.83_din_27.10.2022.PDF",
+     "sha256": "72627068760118fa88aa5cf34c21b7ecc8394b4a396c800ebbb0eff16f380d39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-85-2022",
+   "path": "local/ialomita/cazanesti/2022/85",
+   "short": "HCL Căzănești nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 85/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.85_din_27.10.2022.PDF",
+     "sha256": "49f915302bbba8af2f883a3420aa0ebef441b7f487abfe618378cc7c9c36843a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-86-2022",
+   "path": "local/ialomita/cazanesti/2022/86",
+   "short": "HCL Căzănești nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 86/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/H.C.L.nr.86_din_27.10.2022.PDF",
+     "sha256": "866ae89ad28369abdf430d637e9121b63a6887e99d3e746af4e4bf0ec9821988"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-87-2022",
+   "path": "local/ialomita/cazanesti/2022/87",
+   "short": "HCL Căzănești nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 87/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/H.C.L._nr.87_din_27.10.2022.PDF",
+     "sha256": "1c2729aa8c7251e225f3d541de45dee58f11a997b913b42490520b9a9b91d4f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-89-2022",
+   "path": "local/ialomita/cazanesti/2022/89",
+   "short": "HCL Căzănești nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 89/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.89_din_09.11.2022.PDF",
+     "sha256": "67febf5fa4f5850937f844840901149f3a47042341e4948a3011089f31ec931b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-92-2022",
+   "path": "local/ialomita/cazanesti/2022/92",
+   "short": "HCL Căzănești nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 92/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.92_din_24.11.2022.PDF",
+     "sha256": "36a508136892f9a76ee40722d349ecb9ed631742d1d2ed17ac5e8778464c1acb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-93-2022",
+   "path": "local/ialomita/cazanesti/2022/93",
+   "short": "HCL Căzănești nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 93/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.93_din_24.11.2022.PDF",
+     "sha256": "06933ce44a3f401b01e51ee3e7a78e44ffc52d01957d373f9bbf95e158f315db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-94-2022",
+   "path": "local/ialomita/cazanesti/2022/94",
+   "short": "HCL Căzănești nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 94/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.94_din_24.11.2022.PDF",
+     "sha256": "b4316e61d27854735daace8098acef6bcc40aaf610d35b657cf31739c4c777d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-95-2022",
+   "path": "local/ialomita/cazanesti/2022/95",
+   "short": "HCL Căzănești nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 95/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL.nr.95_din_24.11.2022.PDF",
+     "sha256": "1b9256dd8cd5d9b873ff8e56a2cea2b013ddd5ae539939dea382d22cacb21a01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-96-2022",
+   "path": "local/ialomita/cazanesti/2022/96",
+   "short": "HCL Căzănești nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 96/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.96_din_24.11.2022.PDF",
+     "sha256": "9cd68d8c1ecd3552948117fef8131eac675e8730a37fee90f5a918896f45fc06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-98-2022",
+   "path": "local/ialomita/cazanesti/2022/98",
+   "short": "HCL Căzănești nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 98/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.98_din_09.12.2022.PDF",
+     "sha256": "6f158e1981ff079dea53207c38b79c0b14511869d4d2e927c63c12de5ce7302b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-99-2022",
+   "path": "local/ialomita/cazanesti/2022/99",
+   "short": "HCL Căzănești nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 99/2022",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/1/HCL_nr.99_din_09.12.2022.PDF",
+     "sha256": "acca6a7bdb609438708c1ef5241d26fc3be044e71a2fec93a06658430a8b811d"
     }
    ]
   }

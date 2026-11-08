@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-16-2025",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2025/16",
+   "short": "HCL Lunca Cernii de Jos nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 16/2025 Privind aprobarea situațiilor financiare la 31.12.2024 ale SC GOSPOCERNA LUNCA CERNII SRL",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/206158",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/206158",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--lunca-cernii-de-jos-17-2025",
    "path": "local/hunedoara/lunca-cernii-de-jos/2025/17",
    "short": "HCL Lunca Cernii de Jos nr. 17/2025",
@@ -148,6 +163,21 @@
      "from": "2025-06-20",
      "units": 1,
      "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/212228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-2-2025",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2025/2",
+   "short": "HCL Lunca Cernii de Jos nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 2/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 al SC GOSPOCERNA LUNCA CERNII SRL",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/197068",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/197068",
      "sha256": null
     }
    ]
@@ -208,6 +238,36 @@
      "from": "2025-08-06",
      "units": 1,
      "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/220252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-24-2025",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2025/24",
+   "short": "HCL Lunca Cernii de Jos nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 24/2025 privind desemnarea reprezentantului Consiliului local Lunca Cernii de Jos in Consiliul de Administratie al Scolii Gimnaziale Lunca Cernii de Jos pentru anul scolar 2025-2026",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/223969",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/223969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-25-2025",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2025/25",
+   "short": "HCL Lunca Cernii de Jos nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 25/2025 Privind alegerea presedintelui de sedinta al Consiliului Local al Comunei Lunca Cernii de Jos, judetul Hunedoara , pe o perioada de 3 luni, incepand cu luna Octombrie 2025",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/225968",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/225968",
      "sha256": null
     }
    ]
@@ -643,6 +703,21 @@
      "from": "2025-05-06",
      "units": 1,
      "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/200920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-8-2025",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2025/8",
+   "short": "HCL Lunca Cernii de Jos nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 8/2025 privind aprobarea volumului de masă lemnoasă estimat pentru recoltare în anul 2025 și prețurile de referință pentru masa lemnoasă provenită din fondul forestier proprietate publică a Comunei Lunca Cernii de Jos",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/200921",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/200921",
      "sha256": null
     }
    ]

@@ -47,6 +47,94 @@
 }
 },
 {
+"slug": "hcl-hunedoara--luncoiu-de-jos-3-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 3/2022 privind alegerea președintelui de ședință",
+"short": "HCL Luncoiu de Jos nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/48687",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-4-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 4/2022 pentru aprobarea Organigramei și a Statului de funcții pentru aparatul de specialitate al Primarului Comunei Luncoiu de Jos",
+"short": "HCL Luncoiu de Jos nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/48688",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-5-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 5/2022 privind desemnarea a doi consilieri locali pentru a face parte din comisia de evaluare a performanțelor profesionale individuale ale Secretarului General al Comunei Luncoiu de Jos",
+"short": "HCL Luncoiu de Jos nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/48689",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-6-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 6/2022 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul IV al anului 2021 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+"short": "HCL Luncoiu de Jos nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/48690",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--luncoiu-de-jos-7-2022",
 "path": "local/hunedoara/luncoiu-de-jos/2022/7",
 "kind": "local",
@@ -66,6 +154,227 @@
 "council_name": "Consiliul Local al Comunei Luncoiu de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-8-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 8/2022 privind prelungirea valabilității scrisorii de garanție de la FNGCIMM SA IFN în vederea garantării obligațiilor de plată a avansului din fonduri nerambursabile",
+"short": "HCL Luncoiu de Jos nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/50253",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-9-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 9/2022",
+"short": "HCL Luncoiu de Jos nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/50254",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-10-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 10/2022 privind aprobarea cotizaţiei Comunei Luncoiu de Jos la Asociația de Dezvoltare Intercomunitară ,,Sistemul Integrat de Gestionare a Deșeurilor Județului Hunedoara” pentru anul 2022",
+"short": "HCL Luncoiu de Jos nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/50255",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-11-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 11/2022 privind aprobarea programului anual de achiziții publice pe anul 2022",
+"short": "HCL Luncoiu de Jos nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/50256",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-12-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 12/2022 privind actualizarea Planului de analiză şi acoperire a riscurilor ( PAAR) în Comuna Luncoiu de Jos pentru anul 2022",
+"short": "HCL Luncoiu de Jos nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-25",
+"latest": "2022-02-25",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/52425",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-13-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 13/2022 privind acordarea unui mandat special reprezentantului Comunei Luncoiu de Jos în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară ,,AQUA PREST HUNEDOARA”",
+"short": "HCL Luncoiu de Jos nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-25",
+"latest": "2022-02-25",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/52426",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-14-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 14/2022 privind aprobarea cotei de carburanți pentru autovehicule și utilaje aflate în dotarea Comunei Luncoiu de Jos",
+"short": "HCL Luncoiu de Jos nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-25",
+"latest": "2022-02-25",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/52427",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-15-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 15/2022 privind aprobarea Regulamentului de ordine interioară al aparatului de specialitate al Primarului comunei Luncoiu de Jos",
+"short": "HCL Luncoiu de Jos nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-25",
+"latest": "2022-02-25",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/52428",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-16-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 16/2022 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului comunei Luncoiu de Jos",
+"short": "HCL Luncoiu de Jos nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-25",
+"latest": "2022-02-25",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/52429",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-17-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 17/2022 privind modificarea titlului, articolului nr. 1 și a anexei la Hotărârea Consiliului Local nr.11/2022",
+"short": "HCL Luncoiu de Jos nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-25",
+"latest": "2022-02-25",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/52430",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -355,6 +664,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--luncoiu-de-jos-31-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/31",
+"kind": "local",
+"year": "2022",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 31/2022 privind aprobarea inchirierii prin licitatie publica a unui spatiu apartinand cladirii Primariei comunei Luncoiu de Jos,situat in sat Luncoiu de Jos, nr. 80 A, comuna Luncoiu de Jos , judetul Hunedorara",
+"short": "HCL Luncoiu de Jos nr. 31/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/62042",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--luncoiu-de-jos-32-2022",
 "path": "local/hunedoara/luncoiu-de-jos/2022/32",
 "kind": "local",
@@ -598,6 +929,29 @@
 }
 },
 {
+"slug": "hcl-hunedoara--luncoiu-de-jos-43-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 43/2022",
+"short": "HCL Luncoiu de Jos nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/68910",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--luncoiu-de-jos-44-2022",
 "path": "local/hunedoara/luncoiu-de-jos/2022/44",
 "kind": "local",
@@ -617,6 +971,28 @@
 "council_name": "Consiliul Local al Comunei Luncoiu de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--luncoiu-de-jos-45-2022",
+"path": "local/hunedoara/luncoiu-de-jos/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 45/2022 privind însușirea Documentației tehnice pentru înscrierea imobilului - teren situat în comuna Luncoiu de Jos, sat Luncoiu de Jos în sistemul integrat de cadastru și carte funciară în proprietatea comunei Luncoiu de Jos - domeniul public",
+"short": "HCL Luncoiu de Jos nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/luncoiudejos-hd/registru-hcl/69904",
+"council": "hunedoara/luncoiu-de-jos",
+"council_name": "Consiliul Local al Comunei Luncoiu de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

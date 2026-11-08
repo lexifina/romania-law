@@ -335,6 +335,29 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-16-2020",
+"path": "local/iasi/aroneanu/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 16/2020",
+"short": "HCL Aroneanu nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-21",
+"latest": "2020-02-21",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/2195",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-17-2020",
 "path": "local/iasi/aroneanu/2020/17",
 "kind": "local",
@@ -398,6 +421,29 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-20-2020",
+"path": "local/iasi/aroneanu/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 20/2020",
+"short": "HCL Aroneanu nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/2199",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -489,6 +535,28 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-25-2020",
+"path": "local/iasi/aroneanu/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 25/2020 privind Aprobarea: ,,alocării unui sprijin financiar Parohiei Sf. Gheorghe Dorobanț din comuna Aroneanu, județul Iași”",
+"short": "HCL Aroneanu nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-16",
+"latest": "2020-03-16",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/2204",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-26-2020",
 "path": "local/iasi/aroneanu/2020/26",
 "kind": "local",
@@ -531,6 +599,28 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-28-2020",
+"path": "local/iasi/aroneanu/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 28/2020 privind ,,alegerea unui preşedinte de şedinţe ale consiliului local al comunei Aroneanu pentru trimestrul II al anului 2020 ”",
+"short": "HCL Aroneanu nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/2207",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -733,6 +823,51 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-38-2020",
+"path": "local/iasi/aroneanu/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 38/2020 privind Aprobarea: ,,achiziţiei unor servicii de consultanță și proiectare în vederea întocmirii și depunerii unui proiect pentru eficiența energetică și a gestionării inteligente a energiei în infrastructura de iluminat public”",
+"short": "HCL Aroneanu nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/2217",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-39-2020",
+"path": "local/iasi/aroneanu/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 39/2020",
+"short": "HCL Aroneanu nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/2218",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-40-2020",
 "path": "local/iasi/aroneanu/2020/40",
 "kind": "local",
@@ -752,6 +887,29 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-41-2020",
+"path": "local/iasi/aroneanu/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 41/2020",
+"short": "HCL Aroneanu nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/2220",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -935,6 +1093,95 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-50-2020",
+"path": "local/iasi/aroneanu/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 50/2020 privind alocarea unui sprijin financiar Parohiei Sf. Gheorghe Dorobanț din comuna Aroneanu, județul Iași",
+"short": "HCL Aroneanu nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-15",
+"latest": "2020-05-15",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/2832",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-51-2020",
+"path": "local/iasi/aroneanu/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 51/2020 privind vânzarea suprafeței de teren de 599 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+"short": "HCL Aroneanu nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-15",
+"latest": "2020-05-15",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/2833",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-52-2020",
+"path": "local/iasi/aroneanu/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 52/2020 privind vânzarea suprafetei de teren de 693 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+"short": "HCL Aroneanu nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-15",
+"latest": "2020-05-15",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/2834",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-53-2020",
+"path": "local/iasi/aroneanu/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 53/2020",
+"short": "HCL Aroneanu nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-15",
+"latest": "2020-05-15",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/2835",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-54-2020",
 "path": "local/iasi/aroneanu/2020/54",
 "kind": "local",
@@ -954,6 +1201,28 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-55-2020",
+"path": "local/iasi/aroneanu/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 55/2020 privind aprobarea desemnării reprezentantului Comunei Aroneanu, județul Iași pentru înregistrarea și raportarea datoriei publice locale",
+"short": "HCL Aroneanu nr. 55/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/3876",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -979,6 +1248,28 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-57-2020",
+"path": "local/iasi/aroneanu/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 57/2020 privind studiului de oportunitate, caietului de sarcini și raportului de evaluare pentru concesionarea suprafeței de teren de 14.333 mp având nr. cadastral 66245 în vederea construirii unei baze de agrement cu unități de cazare și restaurant, înființare fermă de animale și desfășurare de activități educativ-recreative",
+"short": "HCL Aroneanu nr. 57/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/3878",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-58-2020",
 "path": "local/iasi/aroneanu/2020/58",
 "kind": "local",
@@ -998,6 +1289,74 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-59-2020",
+"path": "local/iasi/aroneanu/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 59/2020 privind respingerea cererilor de acordare în folosință gratuită a unor parcele de teren din domeniul privat al comunei Aroneanu în vederea construirii unor locuințe proprietate personală, în temeiul prevederilor Legii nr. 15/2003",
+"short": "HCL Aroneanu nr. 59/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/3880",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-60-2020",
+"path": "local/iasi/aroneanu/2020/60",
+"kind": "local",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 60/2020",
+"short": "HCL Aroneanu nr. 60/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/3881",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-61-2020",
+"path": "local/iasi/aroneanu/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 61/2020",
+"short": "HCL Aroneanu nr. 61/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/3882",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1131,6 +1490,28 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-68-2020",
+"path": "local/iasi/aroneanu/2020/68",
+"kind": "local",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 68/2020 privind alegerea unui preşedinte de şedinţe ale consiliului local al comunei Aroneanu pentru trimestrul III al anului 2020",
+"short": "HCL Aroneanu nr. 68/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/5672",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1420,6 +1801,29 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-82-2020",
+"path": "local/iasi/aroneanu/2020/82",
+"kind": "local",
+"year": "2020",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 82/2020",
+"short": "HCL Aroneanu nr. 82/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-09",
+"latest": "2020-07-09",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/6352",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-83-2020",
 "path": "local/iasi/aroneanu/2020/83",
 "kind": "local",
@@ -1461,6 +1865,117 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-85-2020",
+"path": "local/iasi/aroneanu/2020/85",
+"kind": "local",
+"year": "2020",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 85/2020",
+"short": "HCL Aroneanu nr. 85/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/7651",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-86-2020",
+"path": "local/iasi/aroneanu/2020/86",
+"kind": "local",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 86/2020 privind aprobarea acceptării ofertelor de donație pentru terenul în suprafață de 35 mp. cu destinația cale de acces având nr. cadastral 64760, situat în intravilanul satului Aroneanu, Comuna Aroneanu",
+"short": "HCL Aroneanu nr. 86/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/7652",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-87-2020",
+"path": "local/iasi/aroneanu/2020/87",
+"kind": "local",
+"year": "2020",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 87/2020 privind aprobarea acceptării ofertelor de donație pentru terenul în suprafață de 75 mp. cu destinația cale de acces având nr. cadastral 64741, situat în intravilanul satului Aroneanu, Comuna Aroneanu",
+"short": "HCL Aroneanu nr. 87/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/7653",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-88-2020",
+"path": "local/iasi/aroneanu/2020/88",
+"kind": "local",
+"year": "2020",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 88/2020 privind aprobarea acceptării ofertelor de donație pentru terenul în suprafață de 120 mp. cu destinația cale de acces având nr. cadastral 66407, situat în intravilanul satului Aroneanu, Comuna Aroneanu",
+"short": "HCL Aroneanu nr. 88/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/7654",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-89-2020",
+"path": "local/iasi/aroneanu/2020/89",
+"kind": "local",
+"year": "2020",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 89/2020 privind aprobarea studiului de oportunitate și caietului de sarcini, pentru închirierea modulului de containere pentru desfășurare activități specifice unui cabinet veterinar și funcționare farmacie veterinară",
+"short": "HCL Aroneanu nr. 89/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/7655",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1508,6 +2023,160 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-92-2020",
+"path": "local/iasi/aroneanu/2020/92",
+"kind": "local",
+"year": "2020",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 92/2020 privind aprobarea modificării componenței comisiei de inventariere a terenurilor din intravilanul comunei Aroneanu, care se vor atribui în folosință gratuită tinerilor, în conformitate cu prevederile Legii nr.15/2003",
+"short": "HCL Aroneanu nr. 92/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/7658",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-93-2020",
+"path": "local/iasi/aroneanu/2020/93",
+"kind": "local",
+"year": "2020",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 93/2020 privind aprobarea studiului de oportunitate, caietului de sarcini pentru închirierea suprafeței de 20 mp din incinta Școlii generale Rediu Aldei, în vederea înființării unui punct de lucru pentru desfășurare activități referitoare la sănătatea umană",
+"short": "HCL Aroneanu nr. 93/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/7659",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-94-2020",
+"path": "local/iasi/aroneanu/2020/94",
+"kind": "local",
+"year": "2020",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 94/2020 privind aprobarea studiului de oportunitate, caietului de sarcini pentru închirierea unui container situat în incinta unității administrativ teritoriale Aroneanu pentru funcționare cabinet veterinar și farmacie veterinară",
+"short": "HCL Aroneanu nr. 94/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/7660",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-95-2020",
+"path": "local/iasi/aroneanu/2020/95",
+"kind": "local",
+"year": "2020",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 95/2020 privind aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea suprafețelor de teren de 959 mp. şi 1.197 mp. identificate cadastral cu nr. 65993 şi 66000, în vederea edificării unei construcţii cu destinaţia evenimente private, club, restaurant, sală de conferinţe şi întâlniri",
+"short": "HCL Aroneanu nr. 95/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/9855",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-96-2020",
+"path": "local/iasi/aroneanu/2020/96",
+"kind": "local",
+"year": "2020",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 96/2020 privind aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea suprafețelor de teren de 480 mp. şi 847 mp. identificate cadastral cu nr. 65817 şi 65701, în vederea construirii și funcționării unui centru de agrement",
+"short": "HCL Aroneanu nr. 96/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/9856",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-97-2020",
+"path": "local/iasi/aroneanu/2020/97",
+"kind": "local",
+"year": "2020",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 97/2020 privind aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea suprafeței de teren de 500 mp. identificată cadastral cu nr. 61121 în vederea construirii unei hale metalice",
+"short": "HCL Aroneanu nr. 97/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/9857",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-98-2020",
+"path": "local/iasi/aroneanu/2020/98",
+"kind": "local",
+"year": "2020",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 98/2020 privind aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea suprafeței de teren de 500 mp. identificată cadastral cu nr. 61119 în vederea construirii unei hale pentru depozitare",
+"short": "HCL Aroneanu nr. 98/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/9858",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-99-2020",
 "path": "local/iasi/aroneanu/2020/99",
 "kind": "local",
@@ -1527,6 +2196,28 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-100-2020",
+"path": "local/iasi/aroneanu/2020/100",
+"kind": "local",
+"year": "2020",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 100/2020 privind aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea suprafeței de teren de 3.000 mp. identificată cadastral cu nr. 64556 în vederea amenajării unui siloz pentru cereale, garaj și rampă pentru utilaje agricole, precum și construire anexă gospodărească a exploatației agricole",
+"short": "HCL Aroneanu nr. 100/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/9860",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1841,6 +2532,28 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-115-2020",
+"path": "local/iasi/aroneanu/2020/115",
+"kind": "local",
+"year": "2020",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 115/2020 privind alegerea președintelui de ședință în vederea derulării lucrărilor ședinței extraordinare din data de 3 septembrie 2020",
+"short": "HCL Aroneanu nr. 115/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-03",
+"latest": "2020-09-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/9884",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-116-2020",
 "path": "local/iasi/aroneanu/2020/116",
 "kind": "local",
@@ -1882,6 +2595,29 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-118-2020",
+"path": "local/iasi/aroneanu/2020/118",
+"kind": "local",
+"year": "2020",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 118/2020",
+"short": "HCL Aroneanu nr. 118/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-03",
+"latest": "2020-09-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/9887",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -2017,6 +2753,28 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-125-2020",
+"path": "local/iasi/aroneanu/2020/125",
+"kind": "local",
+"year": "2020",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 125/2020 privind trecerii din domeniul privat al comunei Aroneanu, în domeniul public al comunei Aroneanu, a terenului în suprafață de 1.000 m.p. identificat cadastral cu nr. 65673, pe care va fi amplasat un rezervor de apă",
+"short": "HCL Aroneanu nr. 125/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-24",
+"latest": "2020-09-24",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/10662",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-126-2020",
 "path": "local/iasi/aroneanu/2020/126",
 "kind": "local",
@@ -2083,6 +2841,50 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-129-2020",
+"path": "local/iasi/aroneanu/2020/129",
+"kind": "local",
+"year": "2020",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 129/2020 privind aprobarea alegerii unui preşedinte de şedinţe ale consiliului local al comunei Aroneanu pentru trimestrul IV al anului 2020",
+"short": "HCL Aroneanu nr. 129/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-26",
+"latest": "2020-10-26",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/11510",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-130-2020",
+"path": "local/iasi/aroneanu/2020/130",
+"kind": "local",
+"year": "2020",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 130/2020 privind constituirii comisiilor de specialitate, stabilirea numărului şi a denumirii acestora, stabilirea numărului şi a membrilor fiecărei comisii şi modalitatea de atribuire a locurilor ce îi revin fiecărui grup de consilieri, precum şi componenţa nominală a acestora",
+"short": "HCL Aroneanu nr. 130/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-26",
+"latest": "2020-10-26",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/11511",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-131-2020",
 "path": "local/iasi/aroneanu/2020/131",
 "kind": "local",
@@ -2102,6 +2904,28 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-132-2020",
+"path": "local/iasi/aroneanu/2020/132",
+"kind": "local",
+"year": "2020",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 132/2020 privind alegerii viceprimarului comunei Aroneanu pe perioada egală cu mandatul Consiliului Local al comunei Aroneanu 2020 -2024",
+"short": "HCL Aroneanu nr. 132/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/11572",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2172,6 +2996,28 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-136-2020",
+"path": "local/iasi/aroneanu/2020/136",
+"kind": "local",
+"year": "2020",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 136/2020 privind aprobarea achiziţiei de material antiderapant precum şi închirierea utilajelor pentru activitatea de deszăpezire pe perioada sezonului de iarnă 2020-2021",
+"short": "HCL Aroneanu nr. 136/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/11576",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-137-2020",
 "path": "local/iasi/aroneanu/2020/137",
 "kind": "local",
@@ -2235,6 +3081,28 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-140-2020",
+"path": "local/iasi/aroneanu/2020/140",
+"kind": "local",
+"year": "2020",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 140/2020 privind aprobarea desemnării reprezentantului legal și a persoanei/persoanelor care pot înlocui reprezentantul legal al unității administrative teritoriale Comuna Aroneanu în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate A.D.I.S Iaşi",
+"short": "HCL Aroneanu nr. 140/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/11580",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2304,6 +3172,50 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-144-2020",
+"path": "local/iasi/aroneanu/2020/144",
+"kind": "local",
+"year": "2020",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 144/2020 privind aprobarea vânzării suprafeței de teren de 673 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+"short": "HCL Aroneanu nr. 144/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/14985",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-145-2020",
+"path": "local/iasi/aroneanu/2020/145",
+"kind": "local",
+"year": "2020",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 145/2020 privind aprobarea Acordului de Parteneriat dintre Comuna Aroneanu, Școala Gimnazială ,,Aron – Vodă” și Asociația de Interes Comunitar Aroneanu în vederea implementării proiectului intitulat ”Provocare la reciclare”",
+"short": "HCL Aroneanu nr. 145/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/14986",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-146-2020",
 "path": "local/iasi/aroneanu/2020/146",
 "kind": "local",
@@ -2326,6 +3238,28 @@
 }
 },
 {
+"slug": "hcl-iasi--aroneanu-147-2020",
+"path": "local/iasi/aroneanu/2020/147",
+"kind": "local",
+"year": "2020",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 147/2020 privind aprobarea acachiziției unor servicii de consultanță și de cadastru în vederea exproprierii suprafeței de teren necesare amenajării obiectivului de investiții ,,Construire sediu administrativ”",
+"short": "HCL Aroneanu nr. 147/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/14988",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--aroneanu-148-2020",
 "path": "local/iasi/aroneanu/2020/148",
 "kind": "local",
@@ -2345,6 +3279,28 @@
 "council_name": "Consiliul Local al Comunei Aroneanu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--aroneanu-149-2020",
+"path": "local/iasi/aroneanu/2020/149",
+"kind": "local",
+"year": "2020",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 149/2020 privind aprobarea achiziției unor servicii de consultanță și de cadastru în vederea exproprierii suprafeței de teren necesare amenajării obiectivului de investiții ,,Împădurire teren degradat, în scopul prevenirii alunecărilor de teren în sat Aroneanu”",
+"short": "HCL Aroneanu nr. 149/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/aroneanu-is/registru-hcl/14990",
+"council": "iasi/aroneanu",
+"council_name": "Consiliul Local al Comunei Aroneanu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

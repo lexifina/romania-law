@@ -3,6 +3,21 @@
  "shard": "local/iasi/aroneanu/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--aroneanu-1-2022",
+   "path": "local/iasi/aroneanu/2022/1",
+   "short": "HCL Aroneanu nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 1/2022 privind alegerea președintelui de ședință în vederea derulării lucrărilor ședinței ordinare din data de 27 ianuarie 2021",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/49900",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/49900",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-10-2022",
    "path": "local/iasi/aroneanu/2022/10",
    "short": "HCL Aroneanu nr. 10/2022",
@@ -78,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-104-2022",
+   "path": "local/iasi/aroneanu/2022/104",
+   "short": "HCL Aroneanu nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 104/2022",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/70256",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/70256",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-105-2022",
    "path": "local/iasi/aroneanu/2022/105",
    "short": "HCL Aroneanu nr. 105/2022",
@@ -88,6 +118,21 @@
      "from": "2022-09-02",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/70351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-106-2022",
+   "path": "local/iasi/aroneanu/2022/106",
+   "short": "HCL Aroneanu nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 106/2022 cu privire la aprobarea achiziţiei de material antiderapant precum şi închirierea utilajelor pentru activitatea de deszăpezire pe perioada sezonului de iarnă 2022-2023",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/71341",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/71341",
      "sha256": null
     }
    ]
@@ -313,6 +358,36 @@
      "from": "2022-02-23",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/53482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-120-2022",
+   "path": "local/iasi/aroneanu/2022/120",
+   "short": "HCL Aroneanu nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 120/2022 privind aprobarea vânzării suprafeţei de teren de 694 m.p. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/74545",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/74545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-121-2022",
+   "path": "local/iasi/aroneanu/2022/121",
+   "short": "HCL Aroneanu nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 121/2022 cu privire la alegerea președintelui de ședință în vederea derulării lucrărilor ședinței extraordinare din data de 13 octombrie 2022",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/76176",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/76176",
      "sha256": null
     }
    ]
@@ -573,6 +648,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-138-2022",
+   "path": "local/iasi/aroneanu/2022/138",
+   "short": "HCL Aroneanu nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 138/2022 privind desemnarea unui reprezentant din partea Consiliului Local Aroneanu în Consiliul de Administraţie al Școlii Gimnaziale”Aron-Vodă”, din comuna Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/78160",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/78160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-139-2022",
+   "path": "local/iasi/aroneanu/2022/139",
+   "short": "HCL Aroneanu nr. 139/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 139/2022 privind desemnarea unui reprezentant din partea Consiliului Local Aroneanu în Comisia de Evaluare şi Asigurare a Calităţii Şcolii Gimnaziale „Aron-Vodă”din comuna Aroneanu, judeţul Iaşi",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/78161",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/78161",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-14-2022",
    "path": "local/iasi/aroneanu/2022/14",
    "short": "HCL Aroneanu nr. 14/2022",
@@ -588,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-140-2022",
+   "path": "local/iasi/aroneanu/2022/140",
+   "short": "HCL Aroneanu nr. 140/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 140/2022 privind aprobarea vânzării suprafeţei de teren de 2.500 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/78162",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/78162",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-141-2022",
    "path": "local/iasi/aroneanu/2022/141",
    "short": "HCL Aroneanu nr. 141/2022",
@@ -598,6 +718,21 @@
      "from": "2022-11-02",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/78163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-142-2022",
+   "path": "local/iasi/aroneanu/2022/142",
+   "short": "HCL Aroneanu nr. 142/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 142/2022 privind alegerea președintelui de ședință în vederea derulării lucrărilor ședinței extraordinare din data de 3 noiembrie 2022",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/78640",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/78640",
      "sha256": null
     }
    ]
@@ -643,6 +778,21 @@
      "from": "2022-11-08",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/78643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-146-2022",
+   "path": "local/iasi/aroneanu/2022/146",
+   "short": "HCL Aroneanu nr. 146/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 146/2022 privind cu privire la alegerea președintelui de ședință în vederea derulării lucrărilor ședinței extraordinare din data de 11 noiembrie 2022",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/79420",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/79420",
      "sha256": null
     }
    ]
@@ -823,6 +973,21 @@
      "from": "2022-12-19",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/83178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-158-2022",
+   "path": "local/iasi/aroneanu/2022/158",
+   "short": "HCL Aroneanu nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 158/2022 privind aprobarea achiziţiei serviciilor de consultanţă juridică, cadastru şi evaluare în vederea exproprierii unor suprafeţe de teren de la nivelul satului Şorogari, comuna Aroneanu, judeţul Iaşi, pentru obiectivul de investiţii Extindere reţea electrică în zona Şorogari Est, comuna Aroneanu",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/83179",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/83179",
      "sha256": null
     }
    ]
@@ -1158,6 +1323,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-18-2022",
+   "path": "local/iasi/aroneanu/2022/18",
+   "short": "HCL Aroneanu nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 18/2022",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/53488",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/53488",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-19-2022",
    "path": "local/iasi/aroneanu/2022/19",
    "short": "HCL Aroneanu nr. 19/2022",
@@ -1198,6 +1378,36 @@
      "from": "2022-02-23",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/53490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-21-2022",
+   "path": "local/iasi/aroneanu/2022/21",
+   "short": "HCL Aroneanu nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 21/2022 privind aprobarea vânzării suprafeţei de teren de 572 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/54502",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/54502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-22-2022",
+   "path": "local/iasi/aroneanu/2022/22",
+   "short": "HCL Aroneanu nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 22/2022 privind aprobarea vânzării suprafeţei de teren de 1.182 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/54503",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/54503",
      "sha256": null
     }
    ]
@@ -1278,6 +1488,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-28-2022",
+   "path": "local/iasi/aroneanu/2022/28",
+   "short": "HCL Aroneanu nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 28/2022 privind alegerea unui preşedinte de şedinţe ale consiliului local al comunei Aroneanu pentru trimestrul al II – lea al anului 2022",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/57429",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/57429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-29-2022",
+   "path": "local/iasi/aroneanu/2022/29",
+   "short": "HCL Aroneanu nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 29/2022 privind aprobarea acordării în folosință gratuită a unei parcele de teren din domeniul privat al comunei Aroneanu, domnișoarei Irimija Petronela - Ekatarina pentru construire locuință proprietate personală, în conformitate cu prevederile Legii nr. 15/2003",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/57430",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/57430",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-3-2022",
    "path": "local/iasi/aroneanu/2022/3",
    "short": "HCL Aroneanu nr. 3/2022",
@@ -1288,6 +1528,21 @@
      "from": "2022-01-27",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/49902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-30-2022",
+   "path": "local/iasi/aroneanu/2022/30",
+   "short": "HCL Aroneanu nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 30/2022",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/57431",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/57431",
      "sha256": null
     }
    ]
@@ -1348,6 +1603,21 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/57435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-35-2022",
+   "path": "local/iasi/aroneanu/2022/35",
+   "short": "HCL Aroneanu nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 35/2022 privind alegerea președintelui de ședință în vederea derulării lucrărilor ședinței extraordinare din data de 11 aprilie 2022",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/57436",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/57436",
      "sha256": null
     }
    ]
@@ -1458,6 +1728,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-42-2022",
+   "path": "local/iasi/aroneanu/2022/42",
+   "short": "HCL Aroneanu nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 42/2022 privind aprobarea aprobarea documentației constând în studiu de oportunitate, caiet de sarcini și contract cadru, în vederea închirierii suprafeței totale de 36,38 ha cu destinația pajiște",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/59992",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/59992",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-43-2022",
    "path": "local/iasi/aroneanu/2022/43",
    "short": "HCL Aroneanu nr. 43/2022",
@@ -1468,6 +1753,21 @@
      "from": "2022-05-25",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/59993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-44-2022",
+   "path": "local/iasi/aroneanu/2022/44",
+   "short": "HCL Aroneanu nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 44/2022",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/59994",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/59994",
      "sha256": null
     }
    ]
@@ -1563,6 +1863,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-50-2022",
+   "path": "local/iasi/aroneanu/2022/50",
+   "short": "HCL Aroneanu nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 50/2022 privind alegerea președintelui de ședință în vederea derulării lucrărilor ședinței extraordinare din data de 19 mai 2022",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/61436",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/61436",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-51-2022",
    "path": "local/iasi/aroneanu/2022/51",
    "short": "HCL Aroneanu nr. 51/2022",
@@ -1618,6 +1933,21 @@
      "from": "2022-08-12",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/61440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-55-2022",
+   "path": "local/iasi/aroneanu/2022/55",
+   "short": "HCL Aroneanu nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 55/2022 privind alegerea președintelui de ședință în vederea derulării lucrărilor ședinței ordinare din data de 31 mai 2022",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/62925",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/62925",
      "sha256": null
     }
    ]
@@ -1893,6 +2223,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-72-2022",
+   "path": "local/iasi/aroneanu/2022/72",
+   "short": "HCL Aroneanu nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 72/2022 cu privire la aprobarea documentației de atribuire privind vânzarea prin licitație publică a terenului în suprafață de 300 mp. identificat cadastral cu nr. 67.825 din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/65749",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/65749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-73-2022",
+   "path": "local/iasi/aroneanu/2022/73",
+   "short": "HCL Aroneanu nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 73/2022 cu privire la aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea suprafeței de teren de 300 mp. identificată cadastral cu nr. 63744 şi a suprafeţei de teren de 300 mp. identificată cadastral cu nr. 63745, în vederea construirii unui atelier de creație produse camping",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/65750",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/65750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-74-2022",
+   "path": "local/iasi/aroneanu/2022/74",
+   "short": "HCL Aroneanu nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 74/2022 cu privire la aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea suprafeței de teren de 1.430 mp. identificată cadastral cu nr. 67850, în vederea amenajării unui depozit pentru lemne şi/sau a construirii unui spaţiu pentru comerţ",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/65751",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/65751",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-75-2022",
    "path": "local/iasi/aroneanu/2022/75",
    "short": "HCL Aroneanu nr. 75/2022",
@@ -2058,6 +2433,81 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-85-2022",
+   "path": "local/iasi/aroneanu/2022/85",
+   "short": "HCL Aroneanu nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 85/2022 privind aprobarea studiului de oportunitate, caietului de sarcini şi raportului de evaluare pentru concesionarea suprafeţei de teren de 650 mp, categoria păşune, identificată cadastral cu nr. 65818 şi a suprafeţei de 3695 mp, categoria ape stătătoare, identificată cadastral cu nr. 66260 în vederea construirii unui spaţiu de cazare, restaurant, piscină interioară şi exterioară, grădină de vară, parc pentru copii, zonă de relaxare SPA şi parcare",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/68346",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/68346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-86-2022",
+   "path": "local/iasi/aroneanu/2022/86",
+   "short": "HCL Aroneanu nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 86/2022 privind aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea suprafeţei de teren de 33 mp, categoria păşune, identificată cadastral cu nr. 64765 şi a suprafeţei de 173 mp, categoria ape stătătoare, identificată cadastral cu nr. 64933, în vederea amenajării unei parcări",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/68347",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/68347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-87-2022",
+   "path": "local/iasi/aroneanu/2022/87",
+   "short": "HCL Aroneanu nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 87/2022 privind aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea suprafeţei de teren de 1474 mp, categoria păşune, identificată cadastral cu nr. 67848 şi a suprafeţei de 1304 mp, categoria ape stătătoare, identificată cadastral cu nr. 65858, în vederea amenajării unei zone mixte de agrement cu spaţii de cazare şi parcare",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/68348",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/68348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-88-2022",
+   "path": "local/iasi/aroneanu/2022/88",
+   "short": "HCL Aroneanu nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 88/2022 privind aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea suprafeţei de teren de 910 mp, categoria păşune, identificată cadastral cu nr. 67846 şi a suprafeţei de 1093 mp, categoria ape stătătoare, identificată cadastral cu nr. 67766, în vederea amenajării unui complex recreaţional, sală de întruniri şi activităţi complementare, amenajare miniparc tematic cu biodiversitate acvatică, amenjare exterioară anexe şi parcare",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/68349",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/68349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-89-2022",
+   "path": "local/iasi/aroneanu/2022/89",
+   "short": "HCL Aroneanu nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 89/2022 privind aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea suprafeței de teren de 1129 mp, categoria păşune, identificată cadastral cu nr. 67845 şi a suprafeţei de 868 mp, categoria ape stătătoare, identificată cadastral cu nr. 67765, în vederea amenajării unor spaţii de cazare, restaurant, terasă şi parcare",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/68350",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/68350",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-9-2022",
    "path": "local/iasi/aroneanu/2022/9",
    "short": "HCL Aroneanu nr. 9/2022",
@@ -2118,6 +2568,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-93-2022",
+   "path": "local/iasi/aroneanu/2022/93",
+   "short": "HCL Aroneanu nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 93/2022 privind aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea suprafeței de teren de 7.500 mp. identificată cadastral cu nr. 63755, în vederea construirii unor spații de producție și depozitare suplimente alimentare, producție și depozitare detergenți bio, producție și depozitare produse coloidale",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/68354",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/68354",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-94-2022",
    "path": "local/iasi/aroneanu/2022/94",
    "short": "HCL Aroneanu nr. 94/2022",
@@ -2158,6 +2623,21 @@
      "from": "2022-08-17",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/68917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-97-2022",
+   "path": "local/iasi/aroneanu/2022/97",
+   "short": "HCL Aroneanu nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 97/2022 privind aprobarea achiziției serviciilor topo-cadastrale în vederea exproprierii unor suprafeţe de teren pentru implementarea proiectului ,,Extindere reţea electrică în sat Şorogari, comuna Aroneanu, judeţul Iaşi",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/68918",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/68918",
      "sha256": null
     }
    ]

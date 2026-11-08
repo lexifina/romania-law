@@ -48,6 +48,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-101-2025",
+   "path": "local/iasi/aroneanu/2025/101",
+   "short": "HCL Aroneanu nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 101/2025 privind desemnarea a doi reprezentanți din partea Consiliului Local Aroneanu în Consiliul de Administraţie al Școlii Gimnaziale”Aron-Vodă”, din comuna Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/220782",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/220782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-102-2025",
+   "path": "local/iasi/aroneanu/2025/102",
+   "short": "HCL Aroneanu nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 102/2025 privind desemnarea unui reprezentant din partea Consiliului Local Aroneanu în Comisia de Evaluare şi Asigurare a Calităţii Şcolii Gimnaziale „Aron-Vodă”din comuna Aroneanu, judeţul Iaşi",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/220783",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/220783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-103-2025",
+   "path": "local/iasi/aroneanu/2025/103",
+   "short": "HCL Aroneanu nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 103/2025 privind aprobarea achiziţiei de material antiderapant precum și închirierea utilajelor pentru activitatea de deszăpezire pe perioada sezonului rece 2025-2026",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/220784",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/220784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-104-2025",
+   "path": "local/iasi/aroneanu/2025/104",
+   "short": "HCL Aroneanu nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 104/2025 privind înființarea postului de asistent medical comunitar precum și actualizarea organigramei, a statului de funcții a aparatului de specialitate a primarului Comunei Aroneanu și a instituțiilor și serviciilor publice de interes local",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/220785",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/220785",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-105-2025",
    "path": "local/iasi/aroneanu/2025/105",
    "short": "HCL Aroneanu nr. 105/2025",
@@ -58,6 +118,36 @@
      "from": "2025-08-12",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/220786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-106-2025",
+   "path": "local/iasi/aroneanu/2025/106",
+   "short": "HCL Aroneanu nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 106/2025 privind aprobarea stabilirea salariului de bază pentru postul de asistent medical comunitar înființat în vederea implementării proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/220787",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/220787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-107-2025",
+   "path": "local/iasi/aroneanu/2025/107",
+   "short": "HCL Aroneanu nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 107/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/223532",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/223532",
      "sha256": null
     }
    ]
@@ -168,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-114-2025",
+   "path": "local/iasi/aroneanu/2025/114",
+   "short": "HCL Aroneanu nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 114/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/223879",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/223879",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-115-2025",
    "path": "local/iasi/aroneanu/2025/115",
    "short": "HCL Aroneanu nr. 115/2025",
@@ -183,6 +288,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-116-2025",
+   "path": "local/iasi/aroneanu/2025/116",
+   "short": "HCL Aroneanu nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 116/2025 privind aprobarea unor documente specifice și declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate public și interes local „Accesibilizare rutieră și pietonală în zona Valea lui Borș, prin construirea unui drum și reabilitatea si modernizarea unor drumuri existente” etapa 1 km. 0+385”",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/223881",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/223881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-117-2025",
+   "path": "local/iasi/aroneanu/2025/117",
+   "short": "HCL Aroneanu nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 117/2025 privind aprobarea prelungirii termenului de realizare a tuturor investițiilor din cuprinsul contractelor de concesiune încheiate cu UAT Comuna Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/223882",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/223882",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-118-2025",
    "path": "local/iasi/aroneanu/2025/118",
    "short": "HCL Aroneanu nr. 118/2025",
@@ -193,6 +328,21 @@
      "from": "2025-09-12",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/223883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-119-2025",
+   "path": "local/iasi/aroneanu/2025/119",
+   "short": "HCL Aroneanu nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 119/2025 privind aprobarea dării în folosință gratuită, către Școala Gimnazială Aron Vodă Aroneanu, a bunurilor achiziționate prin proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași”, cod F-PNRR-Dotari-2023-0426, finanțat prin Planul Național de Redresare și Reziliență - Componenta C15 Educație, pentru perioada de implementare a Proiectului, Contract de furnizare nr. 26011/10.07.2024 – Lotul 5 Mobilier săli de clasă/săli grupă/conexe",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/223884",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/223884",
      "sha256": null
     }
    ]
@@ -258,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-123-2025",
+   "path": "local/iasi/aroneanu/2025/123",
+   "short": "HCL Aroneanu nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 123/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/223888",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/223888",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-124-2025",
    "path": "local/iasi/aroneanu/2025/124",
    "short": "HCL Aroneanu nr. 124/2025",
@@ -268,6 +433,21 @@
      "from": "2025-09-12",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/223889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-125-2025",
+   "path": "local/iasi/aroneanu/2025/125",
+   "short": "HCL Aroneanu nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 125/2025 privind aprobarea vânzării suprafeţei de teren de 507 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/223890",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/223890",
      "sha256": null
     }
    ]
@@ -298,6 +478,21 @@
      "from": "2025-09-12",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/223892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-128-2025",
+   "path": "local/iasi/aroneanu/2025/128",
+   "short": "HCL Aroneanu nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 128/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/225623",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/225623",
      "sha256": null
     }
    ]
@@ -378,6 +573,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-133-2025",
+   "path": "local/iasi/aroneanu/2025/133",
+   "short": "HCL Aroneanu nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 133/2025 privind aprobarea indicatorilor tehnico-economici actualizați ca urmare a Dispoziției de șantier nr. 2/11.12.2024 aferente proiectului și a devizului general actualizat pentru obiectivul de investiții \"Modernizare drumuri de interes local in comuna Aroneanu, județul Iași\" aprobat pentru finanțare prin Programul Național de Investiții \"Anghel Saligny\", precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/226649",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/226649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-134-2025",
+   "path": "local/iasi/aroneanu/2025/134",
+   "short": "HCL Aroneanu nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 134/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/229236",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/229236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-135-2025",
+   "path": "local/iasi/aroneanu/2025/135",
+   "short": "HCL Aroneanu nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 135/2025 privind alegerea unui preşedinte de şedinţe ale consiliului local al comunei Aroneanu pentru trimestrul al IV -lea al anului 2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/229237",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/229237",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-136-2025",
    "path": "local/iasi/aroneanu/2025/136",
    "short": "HCL Aroneanu nr. 136/2025",
@@ -423,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-139-2025",
+   "path": "local/iasi/aroneanu/2025/139",
+   "short": "HCL Aroneanu nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 139/2025 privind darea în folosință gratuită, către Școala Gimnazială Aron Vodă Aroneanu, a bunurilor achiziționate prin proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași”, cod F-PNRR-Dotari-2023-0426, finanțat prin Planul Național de Redresare și Reziliență - Componenta C15 Educație, pentru perioada de implementare a Proiectului, Contract de furnizare nr. 31022/21.08.2024 – Mobilier specific pentru cabinetele școlare (inclusiv cabinete consiliere și asistență psihopedagogică de sprijin, logopedice și alte terapii specifice etc) și Contract de furnizare nr. 34450/17.09.2024– Materiale specifice pentru cabinetele școlare (cabinete educație muzicală, săli de sport)- Lotul 2 Material didactic/pedagogic – săli de sport conexe",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/229241",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/229241",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-14-2025",
    "path": "local/iasi/aroneanu/2025/14",
    "short": "HCL Aroneanu nr. 14/2025",
@@ -433,6 +688,36 @@
      "from": "2025-02-14",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/192292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-140-2025",
+   "path": "local/iasi/aroneanu/2025/140",
+   "short": "HCL Aroneanu nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 140/2025 privind aprobarea actualizării componenței echipei mobile și a procedurii pentru intervenția de urgență în cazurile de violență domestică de pe raza comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/229242",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/229242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-141-2025",
+   "path": "local/iasi/aroneanu/2025/141",
+   "short": "HCL Aroneanu nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 141/2025 privind aprobarea actualizării componenţei structurii comunitare consultative care are ca scop identificarea nevoilor comunităţii şi soluţionarea la nivel local a problemelor sociale care privesc copii",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/229243",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/229243",
      "sha256": null
     }
    ]
@@ -483,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-145-2025",
+   "path": "local/iasi/aroneanu/2025/145",
+   "short": "HCL Aroneanu nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 145/2025 privind aprobarea Acordului de Parteneriat dintre Asociația de Interes Comunitar Aroneanu și Comuna Aroneanu în vederea derulării proiectului intitulat ,,AS Aroneanu în Liga 5plus1” ediția a II-a",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/229247",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/229247",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-146-2025",
    "path": "local/iasi/aroneanu/2025/146",
    "short": "HCL Aroneanu nr. 146/2025",
@@ -493,6 +793,21 @@
      "from": "2025-10-15",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/229248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-147-2025",
+   "path": "local/iasi/aroneanu/2025/147",
+   "short": "HCL Aroneanu nr. 147/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 147/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/229249",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/229249",
      "sha256": null
     }
    ]
@@ -528,6 +843,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-15-2025",
+   "path": "local/iasi/aroneanu/2025/15",
+   "short": "HCL Aroneanu nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 15/2025 privind completarea Hotărârii Consiliului Local nr. 143 din 4.11.2024 cu privire la constituirea comisiilor de specialitate, stabilirea numărului şi a denumirii acestora, stabilirea numărului şi a membrilor fiecărei comisii şi modalitatea de atribuire a locurilor ce îi revin fiecărui grup de consilieri , precum şi componenţa nominală a acestora",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/192293",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/192293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-150-2025",
+   "path": "local/iasi/aroneanu/2025/150",
+   "short": "HCL Aroneanu nr. 150/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 150/2025 privind aprobarea vânzării suprafeţei de teren de 5.000 mp. identificat cadastral în T 33, P 693, P 691 cu numărul cadastral 61.717 din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/231655",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/231655",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-151-2025",
    "path": "local/iasi/aroneanu/2025/151",
    "short": "HCL Aroneanu nr. 151/2025",
@@ -538,6 +883,36 @@
      "from": "2025-10-28",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/231656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-152-2025",
+   "path": "local/iasi/aroneanu/2025/152",
+   "short": "HCL Aroneanu nr. 152/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 152/2025 privind alegerea președintelui de ședință în vederea derulării lucrărilor ședinței ordinare din data de 30 octombrie 2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/236965",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/236965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-153-2025",
+   "path": "local/iasi/aroneanu/2025/153",
+   "short": "HCL Aroneanu nr. 153/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 153/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/236966",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/236966",
      "sha256": null
     }
    ]
@@ -568,6 +943,21 @@
      "from": "2025-11-28",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/236968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-156-2025",
+   "path": "local/iasi/aroneanu/2025/156",
+   "short": "HCL Aroneanu nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 156/2025 privind actualizarea organigramei, a statului de funcții a aparatului de specialitate a primarului Comunei Aroneanu și a instituțiilor și serviciilor publice de interes local",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/236969",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/236969",
      "sha256": null
     }
    ]
@@ -618,6 +1008,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-16-2025",
+   "path": "local/iasi/aroneanu/2025/16",
+   "short": "HCL Aroneanu nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 16/2025 privind aprobarea Statutului Comunei Aroneanu",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/196524",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/196524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-160-2025",
+   "path": "local/iasi/aroneanu/2025/160",
+   "short": "HCL Aroneanu nr. 160/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 160/2025 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local Aroneanu",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/236973",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/236973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-161-2025",
+   "path": "local/iasi/aroneanu/2025/161",
+   "short": "HCL Aroneanu nr. 161/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 161/2025 privind aprobarea actualizării Regulamentului de Organizare și Funcționare a serviciului social \"Centrului pentru persoane vârstnice Sf. Pantelimon din comuna Aroneanu\"",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/236974",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/236974",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-162-2025",
    "path": "local/iasi/aroneanu/2025/162",
    "short": "HCL Aroneanu nr. 162/2025",
@@ -663,6 +1098,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-165-2025",
+   "path": "local/iasi/aroneanu/2025/165",
+   "short": "HCL Aroneanu nr. 165/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 165/2025 privind acceptarea ofertei de donație pentru terenul în suprafață de 7.267 mp. identificat cadastral cu nr. 69.217, situat în extravilanul satului Aroneanu, comuna Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/237859",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/237859",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-166-2025",
    "path": "local/iasi/aroneanu/2025/166",
    "short": "HCL Aroneanu nr. 166/2025",
@@ -678,6 +1128,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-167-2025",
+   "path": "local/iasi/aroneanu/2025/167",
+   "short": "HCL Aroneanu nr. 167/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 167/2025 privind aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea fără licitație a terenului în suprafață de 245 mp. având nr. cadastral 69.002 precum și a terenului în suprafață de 1.308 mp. având nr. cadastral 68.996, în vederea extinderii construcției existente",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/240684",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/240684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-168-2025",
+   "path": "local/iasi/aroneanu/2025/168",
+   "short": "HCL Aroneanu nr. 168/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 168/2025 privind aprobarea studiului de oportunitate, caietului de sarcini, raportului de evaluare, pentru concesionarea fără licitație a terenului în suprafață de 935 mp. având nr. cadastral 69.003 precum și a terenului în suprafață de 1.183 mp. având nr. cadastral 68.997, în vederea extinderii construcției existente",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/240685",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/240685",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-169-2025",
    "path": "local/iasi/aroneanu/2025/169",
    "short": "HCL Aroneanu nr. 169/2025",
@@ -688,6 +1168,21 @@
      "from": "2026-01-08",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/240686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-17-2025",
+   "path": "local/iasi/aroneanu/2025/17",
+   "short": "HCL Aroneanu nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 17/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/196525",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/196525",
      "sha256": null
     }
    ]
@@ -843,6 +1338,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-18-2025",
+   "path": "local/iasi/aroneanu/2025/18",
+   "short": "HCL Aroneanu nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 18/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/196526",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/196526",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-180-2025",
    "path": "local/iasi/aroneanu/2025/180",
    "short": "HCL Aroneanu nr. 180/2025",
@@ -993,6 +1503,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-19-2025",
+   "path": "local/iasi/aroneanu/2025/19",
+   "short": "HCL Aroneanu nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 19/2025 privind acceptarea ofertei de donație pentru terenul în suprafață de 3.011 mp cu destinația cale de acces având nr. cadastral 60.333, situat în intravilanul satului Aroneanu, comuna Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/196527",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/196527",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-190-2025",
    "path": "local/iasi/aroneanu/2025/190",
    "short": "HCL Aroneanu nr. 190/2025",
@@ -1053,6 +1578,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-20-2025",
+   "path": "local/iasi/aroneanu/2025/20",
+   "short": "HCL Aroneanu nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 20/2025 privind aprobarea vânzării suprafeţei de teren de 500 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/196528",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/196528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-21-2025",
+   "path": "local/iasi/aroneanu/2025/21",
+   "short": "HCL Aroneanu nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 21/2025 privind aprobarea vânzării suprafeţei de teren de 538 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/196529",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/196529",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-22-2025",
    "path": "local/iasi/aroneanu/2025/22",
    "short": "HCL Aroneanu nr. 22/2025",
@@ -1108,6 +1663,21 @@
      "from": "2025-03-12",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/196533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-26-2025",
+   "path": "local/iasi/aroneanu/2025/26",
+   "short": "HCL Aroneanu nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 26/2025 privind aprobarea înființarea Compartimentului Poliție Locală a Regulamentului – cadru de organizare și funcționare a Compartimentului Poliție Locală precum și actualizarea organigramei, a statului de funcții a aparatului de specialitate a primarului Comunei Aroneanu și a instituțiilor și serviciilor publice de interes local",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/196534",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/196534",
      "sha256": null
     }
    ]
@@ -1203,6 +1773,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-32-2025",
+   "path": "local/iasi/aroneanu/2025/32",
+   "short": "HCL Aroneanu nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 32/2025 privind aprobarea achiziţiei serviciilor de consultanţă juridică, cadastru şi evaluare în vederea exproprierii unor suprafeţe de teren de la nivelul satului Dorobanț, comuna Aroneanu, judeţul Iaşi, pentru obiectivul de investiţii ,,Accesibilizare rutieră și pietonală în zona Valea lui Borș, prin construirea unui drum și reabilitatea și modernizarea unor drumuri existente\"",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/196995",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/196995",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-33-2025",
    "path": "local/iasi/aroneanu/2025/33",
    "short": "HCL Aroneanu nr. 33/2025",
@@ -1218,6 +1803,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-34-2025",
+   "path": "local/iasi/aroneanu/2025/34",
+   "short": "HCL Aroneanu nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 34/2025 privind aprobarea documentației constând în studiu de oportunitate, caiet de sarcini și contract cadru, în vederea închirierii suprafeței totale de 17,41 ha. cu destinația pajiște, pentru pășunatul animalelor",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/196997",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/196997",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-35-2025",
    "path": "local/iasi/aroneanu/2025/35",
    "short": "HCL Aroneanu nr. 35/2025",
@@ -1228,6 +1828,21 @@
      "from": "2025-04-13",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/202718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-36-2025",
+   "path": "local/iasi/aroneanu/2025/36",
+   "short": "HCL Aroneanu nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 36/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Aroneanu pentru anul 2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/202719",
+   "versions": [
+    {
+     "from": "2025-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/202719",
      "sha256": null
     }
    ]
@@ -1293,6 +1908,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-40-2025",
+   "path": "local/iasi/aroneanu/2025/40",
+   "short": "HCL Aroneanu nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 40/2025 privind alegerea unui preşedinte de şedinţe ale consiliului local al comunei Aroneanu pentru trimestrul al II – lea al anului 2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/202723",
+   "versions": [
+    {
+     "from": "2025-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/202723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-41-2025",
+   "path": "local/iasi/aroneanu/2025/41",
+   "short": "HCL Aroneanu nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 41/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/202724",
+   "versions": [
+    {
+     "from": "2025-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/202724",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-42-2025",
    "path": "local/iasi/aroneanu/2025/42",
    "short": "HCL Aroneanu nr. 42/2025",
@@ -1303,6 +1948,51 @@
      "from": "2025-04-13",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/202725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-43-2025",
+   "path": "local/iasi/aroneanu/2025/43",
+   "short": "HCL Aroneanu nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 43/2025 privind aprobarea vânzării suprafeţei de teren de 610 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/202726",
+   "versions": [
+    {
+     "from": "2025-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/202726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-44-2025",
+   "path": "local/iasi/aroneanu/2025/44",
+   "short": "HCL Aroneanu nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 44/2025 privind aprobarea vânzării suprafeţei de teren de 598 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/202727",
+   "versions": [
+    {
+     "from": "2025-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/202727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-45-2025",
+   "path": "local/iasi/aroneanu/2025/45",
+   "short": "HCL Aroneanu nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 45/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/202728",
+   "versions": [
+    {
+     "from": "2025-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/202728",
      "sha256": null
     }
    ]
@@ -1488,6 +2178,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-57-2025",
+   "path": "local/iasi/aroneanu/2025/57",
+   "short": "HCL Aroneanu nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 57/2025 privind aprobarea schimbului de terenuri între Comuna Aroneanu, județul Iași și numiții Cobzaru Elvis-Bogdan și Cobzaru Anca-Roxana",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/208874",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/208874",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-58-2025",
    "path": "local/iasi/aroneanu/2025/58",
    "short": "HCL Aroneanu nr. 58/2025",
@@ -1503,6 +2208,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-59-2025",
+   "path": "local/iasi/aroneanu/2025/59",
+   "short": "HCL Aroneanu nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 59/2025 privind atribuirea în folosință gratuită în baza unui contract de comodat către Filiala Județeană Iași a ”Asociației Comunelor din România” a unui spațiu pentru stabilirea sediului social",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/208876",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/208876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-6-2025",
+   "path": "local/iasi/aroneanu/2025/6",
+   "short": "HCL Aroneanu nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 6/2025 privind aprobarea statelor de funcţii şi a numărului de asistenţi personali de la nivelul comunei Aroneanu, pentru anul 2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/192284",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/192284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-60-2025",
+   "path": "local/iasi/aroneanu/2025/60",
+   "short": "HCL Aroneanu nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 60/2025 privind aprobarea extinderii Acordului de Cooperare încheiat în data 9.10.2012 cu Asociaţia Comunelor din România – Filiala Judeţeană Iaşi cu un post de șofer categoria D",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/208877",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/208877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-61-2025",
+   "path": "local/iasi/aroneanu/2025/61",
+   "short": "HCL Aroneanu nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 61/2025 privind aprobarea Regulamentului intern de decontare a cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/211805",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/211805",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-62-2025",
    "path": "local/iasi/aroneanu/2025/62",
    "short": "HCL Aroneanu nr. 62/2025",
@@ -1513,6 +2278,21 @@
      "from": "2025-06-13",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/211806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-63-2025",
+   "path": "local/iasi/aroneanu/2025/63",
+   "short": "HCL Aroneanu nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 63/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/211807",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/211807",
      "sha256": null
     }
    ]
@@ -1578,6 +2358,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-68-2025",
+   "path": "local/iasi/aroneanu/2025/68",
+   "short": "HCL Aroneanu nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 68/2025 privind aprobarea vânzării suprafeţei de teren de 500 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/211812",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/211812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-69-2025",
+   "path": "local/iasi/aroneanu/2025/69",
+   "short": "HCL Aroneanu nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 69/2025 privind aprobarea vânzării suprafeţei de teren de 512 mp. din domeniul privat al Comunei Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/211813",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/211813",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-7-2025",
    "path": "local/iasi/aroneanu/2025/7",
    "short": "HCL Aroneanu nr. 7/2025",
@@ -1638,6 +2448,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-73-2025",
+   "path": "local/iasi/aroneanu/2025/73",
+   "short": "HCL Aroneanu nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 73/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/212297",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/212297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-74-2025",
+   "path": "local/iasi/aroneanu/2025/74",
+   "short": "HCL Aroneanu nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 74/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/212298",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/212298",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-75-2025",
    "path": "local/iasi/aroneanu/2025/75",
    "short": "HCL Aroneanu nr. 75/2025",
@@ -1653,6 +2493,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-76-2025",
+   "path": "local/iasi/aroneanu/2025/76",
+   "short": "HCL Aroneanu nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 76/2025 privind alegerea președintelui de ședință în vederea derulării lucrărilor ședinței ordinare din data de 24 iunie 2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/215339",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/215339",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-77-2025",
    "path": "local/iasi/aroneanu/2025/77",
    "short": "HCL Aroneanu nr. 77/2025",
@@ -1663,6 +2518,21 @@
      "from": "2025-07-04",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/215340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-78-2025",
+   "path": "local/iasi/aroneanu/2025/78",
+   "short": "HCL Aroneanu nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 78/2025 privind alegerea unui preşedinte de şedinţe ale consiliului local al comunei Aroneanu pentru trimestrul al III – lea al anului 2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/215341",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/215341",
      "sha256": null
     }
    ]
@@ -1773,6 +2643,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--aroneanu-85-2025",
+   "path": "local/iasi/aroneanu/2025/85",
+   "short": "HCL Aroneanu nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 85/2025 privind trecerea din domeniul public în domeniul privat al Comunei Aroneanu a unor imobile și completarea inventarului domeniului privat al Comunei Aroneanu aprobat prin Hotărârea Consiliului Local Aroneanu nr. 137 din 28.09.2023",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/215348",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/215348",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--aroneanu-86-2025",
    "path": "local/iasi/aroneanu/2025/86",
    "short": "HCL Aroneanu nr. 86/2025",
@@ -1783,6 +2668,141 @@
      "from": "2025-07-04",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/215349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-87-2025",
+   "path": "local/iasi/aroneanu/2025/87",
+   "short": "HCL Aroneanu nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 87/2025 privind aprobarea Acordului de Parteneriat dintre Comuna Aroneanu, Asociația de Interes Comunitar Aroneanu și Școala ”Aron Vodă” Aroneanu cu privire la organizarea activităților specifice prilejuite de Zilele comunei Aroneanu pe anul 2025 - Ediția a XVI-a",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/215350",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/215350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-88-2025",
+   "path": "local/iasi/aroneanu/2025/88",
+   "short": "HCL Aroneanu nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 88/2025 privind aprobarea Acordului de Parteneriat dintre Comuna Aroneanu, Asociația de Interes Comunitar Aroneanu, Asociația JoyCamp România și Parohia ,,Sfântul Ierarh Nicolae” Aroneanu, în vederea derulării proiectului educațional: „Tabăra Bucurie și Copilărie în Aroneanu” – ediția a II-a",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/215351",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/215351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-89-2025",
+   "path": "local/iasi/aroneanu/2025/89",
+   "short": "HCL Aroneanu nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 89/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/215352",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/215352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-9-2025",
+   "path": "local/iasi/aroneanu/2025/9",
+   "short": "HCL Aroneanu nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 9/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/192287",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/192287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-90-2025",
+   "path": "local/iasi/aroneanu/2025/90",
+   "short": "HCL Aroneanu nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 90/2025 privind stabilirea începând cu data de 01 iulie 2025 a salariilor de bază pentru aparatul de specialitate al primarului comunei Aroneanu precum și al instituțiilor și serviciilor publice de interes local",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/220222",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/220222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-91-2025",
+   "path": "local/iasi/aroneanu/2025/91",
+   "short": "HCL Aroneanu nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 91/2025",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/220223",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/220223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-92-2025",
+   "path": "local/iasi/aroneanu/2025/92",
+   "short": "HCL Aroneanu nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 92/2025 privind înfiinţarea şi delegarea gestiunii prin concesiune a serviciului pentru gestionarea câinilor fără stăpân din comuna Aroneanu, județul Iași",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/220773",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/220773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-93-2025",
+   "path": "local/iasi/aroneanu/2025/93",
+   "short": "HCL Aroneanu nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 93/2025 privind stabilirea condițiilor de majorare a impozitului pe clădiri și terenuri neîngrijite de pe raza administrativă a Comunei Aroneanu",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/220774",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/220774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-94-2025",
+   "path": "local/iasi/aroneanu/2025/94",
+   "short": "HCL Aroneanu nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 94/2025 privind aprobarea vânzării suprafeţei de teren de 500 mp. din domeniul privat al Comunei Aroneanu, județul Iași”",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/220775",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/220775",
      "sha256": null
     }
    ]
@@ -1813,6 +2833,21 @@
      "from": "2025-08-12",
      "units": 1,
      "source_url": "https://emol.ro/aroneanu-is/registru-hcl/220777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--aroneanu-97-2025",
+   "path": "local/iasi/aroneanu/2025/97",
+   "short": "HCL Aroneanu nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Aroneanu nr. 97/2025 privind aprobarea achiziției unor servicii de consultanță în managementul investiției pentru obiectivul Enhancing disaster risk prevention through cooperation and joint development in Aroneanu Commune and Cubolta Commune (Îmbunătățirea prevenirii riscurilor de dezastre prin cooperare și dezvoltare comună în Comuna Aroneanu și Comuna Cubolta) în vederea obținerii finanțării prin Programul ,,INTERREG VI-A NEXT ROMANIA – REPUBLIC OF MOLDOVA”, Priority 1, Objectiv 1.1 ,,Promoting climate change adaptation and disaster risk prevention and resilience, taking into account eco-system based approaches",
+   "url": "https://emol.ro/aroneanu-is/registru-hcl/220778",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/aroneanu-is/registru-hcl/220778",
      "sha256": null
     }
    ]

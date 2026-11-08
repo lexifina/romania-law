@@ -3,6 +3,50 @@
 "shard": "local/iasi/bals/2021",
 "acts": [
 {
+"slug": "hcl-iasi--bals-1-2021",
+"path": "local/iasi/bals/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 1/2021 privind aprobarea ordinii a ședinței consiliului local al comunei Balș, județul Iași",
+"short": "HCL Balș nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-25",
+"latest": "2021-01-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/27524",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-2-2021",
+"path": "local/iasi/bals/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 2/2021 privind aprobarea procesului verbal al ședinței consiliului local",
+"short": "HCL Balș nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-25",
+"latest": "2021-01-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/27525",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-3-2021",
 "path": "local/iasi/bals/2021/3",
 "kind": "local",
@@ -66,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-6-2021",
+"path": "local/iasi/bals/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 6/2021 privind alegerea președintelui de ședință pentru lunile februarie, martie și aprilie 2021",
+"short": "HCL Balș nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-25",
+"latest": "2021-01-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/27529",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -202,6 +268,72 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-13-2021",
+"path": "local/iasi/bals/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 13/2021 privind modificarea anexei 1 la HCL nr. 107 din 17.11.2018",
+"short": "HCL Balș nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-25",
+"latest": "2021-01-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/27536",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-14-2021",
+"path": "local/iasi/bals/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 14/2021 privind aprobarea inchirierii unui spațiu aparținând domeniului public al comunei Balș, județul Iași, cu destinația Cabinet Veterinar",
+"short": "HCL Balș nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-25",
+"latest": "2021-01-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/27537",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-15-2021",
+"path": "local/iasi/bals/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 15/2021 privind aprobarea oportunității concesionării unor loturi de teren, aflate în domeniul priva al comunei Balș, județul Iași, destinate construcției de locuințe",
+"short": "HCL Balș nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-25",
+"latest": "2021-01-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/27538",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-16-2021",
 "path": "local/iasi/bals/2021/16",
 "kind": "local",
@@ -246,6 +378,72 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-18-2021",
+"path": "local/iasi/bals/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 18/2021 privind nominalizarea reprezentanților Consiliului local Balș în Consiliul de Administrație al Școlii Gimnaziale Balș, județul Iași, Comisia pentru evaluarea și asigurarea calității",
+"short": "HCL Balș nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-25",
+"latest": "2021-01-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/27541",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-19-2021",
+"path": "local/iasi/bals/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 19/2021 privind aprobarea ordinii de zi a ședinței consiliului local",
+"short": "HCL Balș nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/27569",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-20-2021",
+"path": "local/iasi/bals/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 20/2021 privind aprobarea procesului verbal al ședinței consiliului local",
+"short": "HCL Balș nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/27570",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-21-2021",
 "path": "local/iasi/bals/2021/21",
 "kind": "local",
@@ -265,6 +463,28 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-22-2021",
+"path": "local/iasi/bals/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 22/2021 privind aprobarea închirierii pășunilor din proprietatea privată a comunei Balș, județul Iași",
+"short": "HCL Balș nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/27572",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -288,6 +508,72 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-24-2021",
+"path": "local/iasi/bals/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 24/2021 privind aprobarea întocmirii raportului de evaluare și a studiului de oportunitate în vederea închirierii pentru imobilul cu destinația Post Poliție și Cabinet Veterinar situat în satul Balș, comuna Balș, comuna Balș, județul Iași",
+"short": "HCL Balș nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/27574",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-25-2021",
+"path": "local/iasi/bals/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 25/2021 privind aprobarea contractării unei firme de prestări servicii de cadastru și fond funciar",
+"short": "HCL Balș nr. 25/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/27575",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-26-2021",
+"path": "local/iasi/bals/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 26/2021 privind aprobarea ''Raportului privind activitatea desfășurată de asistenții personali ai perdsoanelor cu handicap grav în anul 2020 sem II angajați ai Primăriei Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/27576",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -399,6 +685,95 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-32-2021",
+"path": "local/iasi/bals/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 32/2021 privind aprobarea procedurii de acordare a eșalonărilor la plată a creanțelor bugetare restante datorate bugetului local de către persoanele fizice și persoanele juridice care au calitatea de contribuabili ai bugetului local al Comunei Balș, Județul Iași",
+"short": "HCL Balș nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/27582",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-33-2021",
+"path": "local/iasi/bals/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 33/2021",
+"short": "HCL Balș nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/bals-is/registru-hcl/27583",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-34-2021",
+"path": "local/iasi/bals/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 34/2021 privind aprobarea ordinii de zi a ședinței consiliului local Consiliul local al comunei Balș, județul iași",
+"short": "HCL Balș nr. 34/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/27606",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-35-2021",
+"path": "local/iasi/bals/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 35/2021 privind aprobarea procesului verbal al ședinței consiliului local",
+"short": "HCL Balș nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/27607",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

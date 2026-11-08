@@ -3,6 +3,28 @@
 "shard": "local/ialomita/tandarei/2019",
 "acts": [
 {
+"slug": "hcl-ialomita--tandarei-42-2019",
+"path": "local/ialomita/tandarei/2019/42",
+"kind": "local",
+"year": "2019",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 42/2019 privind revocarea HCL nr. 42 din 15.04.2019 privind aprobare Plan Urbanistic Zonal hcl-nr80-privind-revocarea-hcl-nr-42-15042019-privind-aprobare-plan-urbanistic-zonal.pdf",
+"short": "HCL Țăndărei nr. 42/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-15",
+"latest": "2019-04-15",
+"portal": "http://www.primaria-tandarei.ro/articole/hotarari-sedinta-ordinara-25072019",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--tandarei-57-2019",
 "path": "local/ialomita/tandarei/2019/57",
 "kind": "local",
@@ -22,6 +44,28 @@
 "council_name": "Consiliul Local al Orașului Țăndărei",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-64-2019",
+"path": "local/ialomita/tandarei/2019/64",
+"kind": "local",
+"year": "2019",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 64/2019 privind modificarea si completarea HCL nr. 2027.02.2019 privind aprobarea propunerii de schimbare a destinatiei hotararea-nr-64-privind-modificarea-si-completarea-hcl-nr-2027022019-privind-aprobarea-propunerii.pdf",
+"short": "HCL Țăndărei nr. 64/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-02-27",
+"latest": "2019-02-27",
+"portal": "http://www.primaria-tandarei.ro/articole/hotarari-sedinta-ordinara-30052019",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

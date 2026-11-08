@@ -48,6 +48,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--vulcan-108-2020",
+   "path": "local/hunedoara/vulcan/2020/108",
+   "short": "HCL Vulcan nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 108/2020 Pentru modificarea Hotărârii Consiliului Local Vulcan nr. 41/2020 privind aprobarea contribuției anuale a Municipiului Vulcan către Asociația ”Salvital” Hunedoara Consiliul Local al Municipiului Vulcan, întrunit în ședința ordinară din data de 24.09.2020, Analizând Proiectul de hotărâre nr. 110/1/24/18.09.2020 și Referatul de aprobare nr. 110/1/25/18.09.2020 întocmit de către Primarul Municipiului",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl108-0000aaa2?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/ADF195F05E02FFDEC2258600002948F6/$FILE/HCL%20108.pdf",
+     "sha256": "ac7d730c39612465577b4dcddd490685f820c9a981536355f0fa1ce0330a7c1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-109-2020",
+   "path": "local/hunedoara/vulcan/2020/109",
+   "short": "HCL Vulcan nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 109/2020 privind aprobarea proiectului „Înființarea unei creșe în municipiul Vulcan”, a bugetului proiectului în valoare de 2.679.587,75 lei, inclusiv TVA, din care cheltuieli eligibile 1.900.599,99 lei și aprobarea alocării din bugetul local a cofinanțării, de 2% din valoarea cheltuielilor eligibile, respectiv suma de 38.012,00 lei și a cheltuielilor neeligibile in valoare de 778.987,76 lei Consiliul Loca",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl109110-0000aaaa?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/2188C028E7AA828DC22586000029800D/$FILE/HCL%20109-110.pdf",
+     "sha256": "6b22a758d46b2d48031dab32137667d7577445080ced8c2ba662f1e26af7b0b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-113-2020",
+   "path": "local/hunedoara/vulcan/2020/113",
+   "short": "HCL Vulcan nr. 113/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 113/2020 pentru aprobarea Documentației de Avizare a Lucrărilor de Intervenții și a indicatorilor tehnico- economici pentru investiția: “Amenajarea și modernizarea Parcului Avram Iancu” Consiliul Local al Municipiului Vulcan, întrunit în ședința ordinară din data de 24.09.2020, Analizând Proiectul de hotărâre nr. 109/1/24/18.09.2020 și Referatul de aprobare nr. 109/1/25/18.09.2020 întocmit de către Primaru",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl113114-0000aac2?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/DB2932FD9473E4C5C22586000029C7A6/$FILE/HCL%20113-114.pdf",
+     "sha256": "2112b0962b57fe30e2f7041d66f0ada4f4de14d8471685b7cd9408bdeb102767"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vulcan-12-2020",
    "path": "local/hunedoara/vulcan/2020/12",
    "short": "HCL Vulcan nr. 12/2020",
@@ -59,6 +104,36 @@
      "units": 1,
      "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/6329789EDC54E05BC225851B00335CC9/$FILE/Hcl%2012.pdf",
      "sha256": "47301ae25a4297c494e45d54444fe8f04ed840bb8cc5111d4aed8ff3d445d181"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-124-2020",
+   "path": "local/hunedoara/vulcan/2020/124",
+   "short": "HCL Vulcan nr. 124/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 124/2020 privind aprobarea proiectului „Îmbunătățirea infrastructurii TIC a școlilor din municipiul Vulcan” și a cheltuielilor aferente acestuia Consiliul Local al Municipiului Vulcan, întrunit în ședința extraordinară de îndată din data de 23.10.2020; Analizând Proiectul de hotărâre nr. 122/24/22.10.2020 și Referatul de aprobare al primarului municipiului Vulcan nr. 122/1/25/22.10.2020 din care reiese nec",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl124-0000adda?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-10-23",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/509B6AF6053B7C0CC225861B002C27D2/$FILE/HCL%20124.pdf",
+     "sha256": "c0f549596e35109715909e32f21d0be48a564e0809dd468ee646af41fac2353f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-128-2020",
+   "path": "local/hunedoara/vulcan/2020/128",
+   "short": "HCL Vulcan nr. 128/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 128/2020 privind constituirea comisiei de avizare a cererilor de organizare a adunărilor publice în municipiul Vulcan Consiliul Local al Municipiului Vulcan, întrunit în ședința ordinară din data de 30.10.2020, 5 , : : Analizând Proiectul de hotărâre nr.123/1/24/26.10.2020 și Referatul de aprobare nr. 123/1/25/26.10.2020 întocmit de către Primarul Municipiului Vulcan din care reiese necesitatea și oportuni",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl-128-0000ae92?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/216ADCB5F486EA9FC225863A004B70DC/$FILE/HCL%20128.pdf",
+     "sha256": "04fe3df66a2c8a3608b964e58c00cc1696fdca380da71e06e5bab6d97a6d6585"
     }
    ]
   },
@@ -93,6 +168,81 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--vulcan-131-2020",
+   "path": "local/hunedoara/vulcan/2020/131",
+   "short": "HCL Vulcan nr. 131/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 131/2020 privind desemnarea reprezentanților Consiliului Local Vulcan în Consiliul de administrație la unitățile de învățământ de pe raza municipiului Vulcan pentru anul școlar 2020-2021 Consiliul Local al Municipiului Vulcan, întrunit în ședința ordinară din data de 30.10.2020, Analizând Proiectul de hotărâre nr.127/1/24/26.10.2020 și Referatul de aprobare nr. 127/1/25/26.10.2020 întocmit de către Primaru",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl-131-0000aeaa?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/FE97483E615A7540C225863A004B894F/$FILE/HCL%20131.pdf",
+     "sha256": "56dc2f94aa0476735c257a4c9bf02d12d5bcbbd08ea71592e81d0ffdd55dabf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-133-2020",
+   "path": "local/hunedoara/vulcan/2020/133",
+   "short": "HCL Vulcan nr. 133/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 133/2020 privind constituirea comisiei de repartizare a locuințelor din fondul locativ al Municipiului Vulcan Consiliul Local al Municipiului Vulcan, întrunit în ședința ordinară din data de 30.10.2020, Analizând Proiectul de hotărâre nr. 131/1/24/26.10.2020 și Referatul de aprobare nr. 131/1/25/26.10.2020 întocmit de către Primarul Municipiului Vulcan din care reiese necesitatea și oportunitatea adoptării",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl-133-0000aeba?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/1839B292BEB5927EC225863A004C9B06/$FILE/HCL%20133.pdf",
+     "sha256": "6c1a1d56e25859f75891c935ed3ac9ea3ba5086dc2b5570c2b95ce56498ea43c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-135-2020",
+   "path": "local/hunedoara/vulcan/2020/135",
+   "short": "HCL Vulcan nr. 135/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 135/2020",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl-135-0000aeca?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/39CD98F41F3EB22BC225863A004CE62A/$FILE/HCL%20135.pdf",
+     "sha256": "459ded6bdd7b3f5e82b7fc0ebfa876a5a841002b4bf15a3e724ebeacf81b8641"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-136-2020",
+   "path": "local/hunedoara/vulcan/2020/136",
+   "short": "HCL Vulcan nr. 136/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 136/2020 privind modificarea Anexei nr. 1 la Hotararea Consiliului Local nr. 93/2020 privind aprobarea modalității de gestiune a serviciului public de transport public local în Valea Jiului și a Proiectului de Contract de delegare a gestiunii serviciilor publice de transport persoane în aria teritorială de competență a ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ PENTRU TRANSPORT PUBLIC ZONAL \"GREEN LINE-VALEA",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl-136-0000aeda?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/BE60AA954670C5D3C225863A004CF8AD/$FILE/HCL%20136.pdf",
+     "sha256": "5be4cbc2542e77eaa2a591f2cc1d98b1052f8f178cb824d42d28337582b26273"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-138-2020",
+   "path": "local/hunedoara/vulcan/2020/138",
+   "short": "HCL Vulcan nr. 138/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 138/2020 pentru completarea Hotărârii Consiliului Local nr. 122/2020 privind organizarea comisiilor de specialitate ale Consiliului Local Vulcan Consiliul Local al Municipiului Vulcan, întrunit în ședința ordinară din data de 30.10.2020, Analizând Proiectul de hotărâre nr.128/1/24/26.10.2020 și Referatul de aprobare nr. 128/1/25/26.10.2020 întocmit de către Primarul Municipiului Vulcan din care reiese nece",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl-138-0000aee2?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/F830C2ECEE0A339EC225863A004D0837/$FILE/HCL%20138.pdf",
+     "sha256": "f85b6ba7eaa7e3a9a953514f6e5a8187392415e19edcf54f99546c3f372426af"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vulcan-14-2020",
    "path": "local/hunedoara/vulcan/2020/14",
    "short": "HCL Vulcan nr. 14/2020",
@@ -104,6 +254,36 @@
      "units": 1,
      "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/4F4B0D87ABD28F87C225851B0033795C/$FILE/HCL%2014.pdf",
      "sha256": "a7ad74ef543fb0308e1b06938e36e8954adda45f0754d2c4c4dbec2e45d8b75e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-141-2020",
+   "path": "local/hunedoara/vulcan/2020/141",
+   "short": "HCL Vulcan nr. 141/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 141/2020 privind acordarea de sprijin financiar unităților de cult din municipiul Vulcan în baza prevederilor 0.G. 82/2001 privind stabilirea unor forme de sprijin financiar pentru unitățile de cult aparținând cultelor religioase recunoscute din România Consiliul Local al Municipiului Vulcan, întrunit în ședința extraordinară de îndată din data de 18.11.2020, Analizând Proiectul de hotărâre nr.141/1/24/17",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl-141-0000aefa?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/F56AEB7638B8BB67C225863A004D820B/$FILE/HCL%20141.pdf",
+     "sha256": "5c11e97d7025205f145867709fdd44a5ddd653843ff211ae877b020239035e7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-143-2020",
+   "path": "local/hunedoara/vulcan/2020/143",
+   "short": "HCL Vulcan nr. 143/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 143/2020 privind aprobarea numărului de burse precum și a cuantumului acestora pentru elevii din învățământul preuniversitar de stat pentru anul școlar 2020-2021 Consiliul Local al Municipiului Vulcan, întrunit în ședința ordinară din data de 24.11.2020, Analizând Proiectul de hotărâre nr.143/1/24/18.11.2020 și Referatul de aprobare nr. 143/1/25/18.11.2020 întocmit de către Primarul Municipiului Vulcan din",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl-142144-0000af0e?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/EE4DF423D710DE66C225863E0043003B/$FILE/HCL%20143.pdf",
+     "sha256": "200492dba593c8ffd1fff9bdd0503c147afc378f9320827881560edb28bdadcd"
     }
    ]
   },
@@ -1008,6 +1188,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--vulcan-79-2020",
+   "path": "local/hunedoara/vulcan/2020/79",
+   "short": "HCL Vulcan nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 79/2020 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici pentru investiția „Refuncționalizarea spațiilor publice urbane din zonele urbane marginalizate și transformarea acestora în locuri de joacă pentru copii” Consiliul Local al Municipiului Vulcan, întrunit în ședința ordinară din data de 25.06.2020, Analizând Proiectul de hotărâre nr.77/1/24/17.06.2020 și Referatul de ap",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl79-00009eae?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/A09E922AA2F92C46C22585BC002BF460/$FILE/Hcl%2079.pdf",
+     "sha256": "da6b224c333f555f150f60d9f5c007766a6a28f4ada6d6711f69947b4d2eb6c2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vulcan-8-2020",
    "path": "local/hunedoara/vulcan/2020/8",
    "short": "HCL Vulcan nr. 8/2020",
@@ -1023,6 +1218,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--vulcan-82-2020",
+   "path": "local/hunedoara/vulcan/2020/82",
+   "short": "HCL Vulcan nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 82/2020 privind aprobarea documentației tehnico-economice, faza proiect tehnic și a indicatorilor tehnico- economici actualizați pentru STRATEGIE DE DEZVOLTARE LOCALĂ VULCAN 2017- 2020 - Titlu Proiect Reabilitare infrastructură rutieră zona Crividia, zona de acces auto și pietonal, str. Crividia, str",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl82-00009f02?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/4262152706F8D881C22585C1002774A8/$FILE/Hcl%2082.pdf",
+     "sha256": "c3129fb60762be5c1c7ea37af85a2759eff1d050895619dc8df2139a904e1868"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-83-2020",
+   "path": "local/hunedoara/vulcan/2020/83",
+   "short": "HCL Vulcan nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 83/2020 privind aprobarea actului adițional nr.2 la Contractul accesoriu nr. 38679/ HD —Z4 din 27.12.2018 încheiat între UAT Vulcan prin Consiliul local al Municipiului Vulcan și SC SUPERCOM SA - pentru delegarea gestiunii serviciului de salubrizare în zona de colectare 4 Petroșani — Valea Jiului Consiliul Local al Municipiului Vulcan, întrunit în ședința extraordinară de îndată din data de 10.07.2020, An",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl83-00009f0a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/214CC7AD8BC94BB9C22585C100278232/$FILE/Hcl%2083.pdf",
+     "sha256": "e8e074a7b3cf71755ae0881af8b1fc7980373dba3013c50909c3b4026cf69ea8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-84-2020",
+   "path": "local/hunedoara/vulcan/2020/84",
+   "short": "HCL Vulcan nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 84/2020 privind aprobarea Actului adițional nr. 1/2020 la Acordul de parteneriat nr.22730/11.07.2016 Consiliul Local al Municipiului Vulcan, întrunit în ședința extraordinară de îndată din data de 10.07.2020, Analizând Proiectul de hotărâre nr.84/1/24/10.07.2020 și Referatul de aprobare nr. 84/1/25/10.07.2020 întocmit de către Primarul Municipiului Vulcan din care reiese necesitatea și oportunitatea adopt",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl84-00009f12?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/49BCE60A5510A8B6C22585C100278C4B/$FILE/Hcl%2084.pdf",
+     "sha256": "2ca1a37a2db5a1fb76f9f1dc71883819f7ccc6b37c88b09da395698eefb38df1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vulcan-9-2020",
    "path": "local/hunedoara/vulcan/2020/9",
    "short": "HCL Vulcan nr. 9/2020",
@@ -1034,6 +1274,51 @@
      "units": 1,
      "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/0EA784707FC16C85C225851B00333C9C/$FILE/Hcl%209.pdf",
      "sha256": "88b6b809f9a0f6b07e19d1839b199830ff5becca7d43e980728e4f83b3b1a2a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-93-2020",
+   "path": "local/hunedoara/vulcan/2020/93",
+   "short": "HCL Vulcan nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 93/2020 privind aprobarea modalității de gestiune a serviciului public de transport public local în Valea Jiului și a Proiectului de Contract de delegare a gestiunii serviciilor publice de transport persoane în aria teritorială de competență a ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ PENTRU TRANSPORT PUBLIC ZONAL \"GREEN LINE-VALEA JIULUI”, a Regulamentului pentru efectuarea serviciului de transport public",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl93-0000aa3a?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/D924591E974EB11FC2258600002743E0/$FILE/HCL%2093.pdf",
+     "sha256": "64a79237c43677ea8682fb3044cfab0b097a9dd407fe78e042e484c8f2cd5d5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-97-2020",
+   "path": "local/hunedoara/vulcan/2020/97",
+   "short": "HCL Vulcan nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 97/2020 privind aprobarea proiectului „Modernizarea sistemului de iluminat public în municipiul Vulcan”, a bugetului proiectului în valoare de 13.252.322,25 lei, inclusiv TVA, din care cheltuieli eligibile 10.993.924,58 lei și aprobarea alocării din bugetul local a cofinanțării, de 2% din valoarea cheltuielilor eligibile, respectiv suma de 219.878,50 lei și a cheltuielilor neeligibile in valoare de 2.258",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl97-0000aa56?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-08-03",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/C3A9D910771FD484C22586000028164B/$FILE/HCL%2097.pdf",
+     "sha256": "1b1054b964497e68ad5ae9579c74cbdf2ed29b64f4964484f6d186a4a9ba5176"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vulcan-98-2020",
+   "path": "local/hunedoara/vulcan/2020/98",
+   "short": "HCL Vulcan nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 98/2020 privind modificarea și completarea Hotărârii Consiliului Local nr. 51/2019 privind aprobarea Studiului de fezabilitate cu elemente de Documentație de Aprobare a Lucrarilor de Intervenție și a indicatorilor tehnico-economici pentru investitia \"Modernizarea Sistemului de Iluminat Public in Municipiul Vulcan ” Consiliul Local al Municipiului Vulcan, întrunit în ședința extraordinară de îndată din dat",
+   "url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcl98-0000aa5e?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-08-03",
+     "units": 1,
+     "source_url": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/BD6373605A05F568C225860000283E3C/$FILE/HCL%2098.pdf",
+     "sha256": "273a97194b03a8d367534abc2a9116729db0c1e899e767a597d9faa9a50507f7"
     }
    ]
   },

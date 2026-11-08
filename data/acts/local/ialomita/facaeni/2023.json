@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-6-2023",
+"path": "local/ialomita/facaeni/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 6/2023 privind modificarea HCL nr. 47/2022 - luarea la cunoștință, analizarea, însușirea și aprobarea rapoartelor de evaluare întocmite în vederea vânzării directe a unui imobil cu terenul aferent si a unui teren din domeniul public al localității",
+"short": "HCL Făcăeni nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-06",
+"latest": "2023-02-06",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/88482",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-7-2023",
 "path": "local/ialomita/facaeni/2023/7",
 "kind": "local",
@@ -201,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-11-2023",
+"path": "local/ialomita/facaeni/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 11/2023 privind alegerea presedintelui de ședință",
+"short": "HCL Făcăeni nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/98770",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-12-2023",
 "path": "local/ialomita/facaeni/2023/12",
 "kind": "local",
@@ -220,6 +264,50 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-13-2023",
+"path": "local/ialomita/facaeni/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 13/2023 privind constituirea Consiliului Comunitar Consultativ la nivelul comunei Făcăeni",
+"short": "HCL Făcăeni nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/98772",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-14-2023",
+"path": "local/ialomita/facaeni/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 14/2023 privind trecerea din domeniul public al Comunei Făcăeni în domeniul privat al Comunei Făcăeni a imobilului si terenului situat în Calea Fetești nr. FN,",
+"short": "HCL Făcăeni nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/98773",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -510,6 +598,50 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-28-2023",
+"path": "local/ialomita/facaeni/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 28/2023 privind emiterea acordului de principiu în vederea vânzării directe a unor bunuri din domeniul privat al localității",
+"short": "HCL Făcăeni nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/105368",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-29-2023",
+"path": "local/ialomita/facaeni/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 29/2023 privind luarea la cunoștință, analizarea, însușirea și aprobarea rapoartelor de evaluare întocmite în vederea vânzării directe a unui imobil cu terenul aferent si a unui teren din domeniul public al localității",
+"short": "HCL Făcăeni nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/105409",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-30-2023",
 "path": "local/ialomita/facaeni/2023/30",
 "kind": "local",
@@ -664,6 +796,28 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-37-2023",
+"path": "local/ialomita/facaeni/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 37/2023 privind alegerea presedintelui de ședință",
+"short": "HCL Făcăeni nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-17",
+"latest": "2023-07-17",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/112992",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -844,6 +998,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-46-2023",
+"path": "local/ialomita/facaeni/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 46/2023 privind numirea unui administrator provizoriu al Societății Comerciale UTILITĂȚI ȘI GOSPODĂRIRE COMUNALĂ FĂCĂENI S.R.L cu asociat unic Comuna Făcăeni",
+"short": "HCL Făcăeni nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/121239",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-47-2023",
 "path": "local/ialomita/facaeni/2023/47",
 "kind": "local",
@@ -863,6 +1039,95 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-48-2023",
+"path": "local/ialomita/facaeni/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 48/2023 privind revocarea HCL nr. 28/2023 privind emiterea acordului de principiu în vederea vânzării directe a unor bunuri din domeniul privat al localității",
+"short": "HCL Făcăeni nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/121241",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-49-2023",
+"path": "local/ialomita/facaeni/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 49/2023 privind revocarea HCL nr. 29/2023 privind luarea la cunoștință, analizarea, însușirea și aprobarea rapoartelor de evaluare întocmite în vederea vânzării directe a unui imobil cu terenul aferent și a unui teren din domeniul public al localității",
+"short": "HCL Făcăeni nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/121242",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-50-2023",
+"path": "local/ialomita/facaeni/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 50/2023",
+"short": "HCL Făcăeni nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/122591",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-51-2023",
+"path": "local/ialomita/facaeni/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 51/2023 privind aprobarea concesionării, studiului de oportunitate , caietului de sarcini și a comisiei de evaluare pentru concesionarea prin licitație publică, a unui teren intravilan",
+"short": "HCL Făcăeni nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/122592",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -932,6 +1197,51 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-55-2023",
+"path": "local/ialomita/facaeni/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 55/2023",
+"short": "HCL Făcăeni nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/122596",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-56-2023",
+"path": "local/ialomita/facaeni/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 56/2023 privind aprobarea concesionării, studiului de oportunitate , caietului de sarcini și a comisiei de evaluare pentru concesionarea prin licitație publică, a unui bun imobiliar",
+"short": "HCL Făcăeni nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/122597",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-57-2023",
 "path": "local/ialomita/facaeni/2023/57",
 "kind": "local",
@@ -951,6 +1261,28 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-58-2023",
+"path": "local/ialomita/facaeni/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 58/2023 privind alegerea presedintelui de ședință",
+"short": "HCL Făcăeni nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-20",
+"latest": "2023-10-20",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/124534",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1017,6 +1349,28 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-62-2023",
+"path": "local/ialomita/facaeni/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 62/2023 privind aprobarea vânzării, prin licitaţie publică, a bunului imobil – Casa Agronomului ZEEA, corp (1) B și teren intravilan aferent - ce aparţin domeniului privat al comunei Făcăeni, situat în str. Morii, nr. 1 B",
+"short": "HCL Făcăeni nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-09",
+"latest": "2023-11-09",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/126020",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1172,6 +1526,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-70-2023",
+"path": "local/ialomita/facaeni/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 70/2023 privind numirea unui administrator provizoriu al Societății Comerciale UTILITĂȚI ȘI GOSPODĂRIRE COMUNALĂ FĂCĂENI S.R.L cu asociat unic Comuna Făcăeni",
+"short": "HCL Făcăeni nr. 70/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-09",
+"latest": "2023-11-09",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/127387",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

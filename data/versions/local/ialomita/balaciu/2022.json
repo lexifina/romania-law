@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--balaciu-12-2022",
+   "path": "local/ialomita/balaciu/2022/12",
+   "short": "HCL Balaciu nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 12/2022 privind aprobarea unui act adiţional de modificare a contractelor de închiriere a păşunii aflate în proprietatea privată a comunei Balaciu",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/56686",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/56686",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--balaciu-13-2022",
    "path": "local/ialomita/balaciu/2022/13",
    "short": "HCL Balaciu nr. 13/2022",
@@ -73,6 +88,21 @@
      "from": "2022-09-20",
      "units": 1,
      "source_url": "https://emol.ro/balaciu-il/registru-hcl/56688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-15-2022",
+   "path": "local/ialomita/balaciu/2022/15",
+   "short": "HCL Balaciu nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 15/2022 privind desemnarea a doi consilieri locali în comisia de evaluare a performantelor profesionale individuale ale Secretarului general al comunei Balaciu",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/56689",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/56689",
      "sha256": null
     }
    ]
@@ -138,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--balaciu-2-2022",
+   "path": "local/ialomita/balaciu/2022/2",
+   "short": "HCL Balaciu nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 2/2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/49282",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/49282",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--balaciu-20-2022",
    "path": "local/ialomita/balaciu/2022/20",
    "short": "HCL Balaciu nr. 20/2022",
@@ -163,6 +208,21 @@
      "from": "2022-09-20",
      "units": 1,
      "source_url": "https://emol.ro/balaciu-il/registru-hcl/60866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-22-2022",
+   "path": "local/ialomita/balaciu/2022/22",
+   "short": "HCL Balaciu nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 22/2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/63710",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/63710",
      "sha256": null
     }
    ]

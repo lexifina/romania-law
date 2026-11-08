@@ -3,6 +3,231 @@
  "shard": "local/hunedoara/simeria/2009",
  "acts": [
   {
+   "slug": "hcl-hunedoara--simeria-10-2009",
+   "path": "local/hunedoara/simeria/2009/10",
+   "short": "HCL Simeria nr. 10/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 10/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL10.doc",
+     "sha256": "26b60975df70f79b0805273e4ae898c719e57bb18e45ec401722f016e855fa6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-11-2009",
+   "path": "local/hunedoara/simeria/2009/11",
+   "short": "HCL Simeria nr. 11/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 11/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL11.doc",
+     "sha256": "d6fe610940e16dcb425cb3a8a6b42ee227cb9f3217215d9a93bd17822d3986b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-12-2009",
+   "path": "local/hunedoara/simeria/2009/12",
+   "short": "HCL Simeria nr. 12/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 12/2009 pentru modificarea anexei la HCL nr.61/2004 privind aprobarea componentei Consiliului de Administratie al Clubului Sportiv ,,CFR-Marmosim” Simeria Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL12.doc",
+     "sha256": "214b5ae39534dbe29efbc94846471647a116eaba9799ddfe746eeff0b65fba3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-13-2009",
+   "path": "local/hunedoara/simeria/2009/13",
+   "short": "HCL Simeria nr. 13/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 13/2009 pentru modificarea și completarea anexei la Regulamentul de organizare și funcționare aprobat prin HCL nr. 147/2004 privind aprobarea Regulamentului de organizare și funcționare a Sălii de sport – Școala Generală nr. 2, situată în orașul Simeria, str",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL13.doc",
+     "sha256": "81418f06720676ba94b8af3ea0caa9ed4a840388087606792dffdb2fe970cda9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-14-2009",
+   "path": "local/hunedoara/simeria/2009/14",
+   "short": "HCL Simeria nr. 14/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 14/2009 privind aprobarea bugetului local al orașului Simeria pe anul 2009. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL14.doc",
+     "sha256": "213222f3ecca09a0d65da1bd9ff9324db9eead021d88cd95eb53c52ac92e1465"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-15-2009",
+   "path": "local/hunedoara/simeria/2009/15",
+   "short": "HCL Simeria nr. 15/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 15/2009 privind aprobarea bugetului fondului de rulment și al bugetului fondurilor externe nerambursabile (Phare) al orașului Simeria pentru anul 2007. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL15.doc",
+     "sha256": "909d8417b98cac04fe960784e3b4dba32e71f422797bf738c3d1c4beb640adab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-16-2009",
+   "path": "local/hunedoara/simeria/2009/16",
+   "short": "HCL Simeria nr. 16/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 16/2009 privind solicitarea de trecere a unor clădiri din domeniul public al Județului Hunedoara în domeniul public al orașului Simeria. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL16.doc",
+     "sha256": "c68ec95d25acbed1d0663464097f586d42e8efbe8d83c27aaf5b87340d5fe185"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-17-2009",
+   "path": "local/hunedoara/simeria/2009/17",
+   "short": "HCL Simeria nr. 17/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 17/2009 pentru aprobarea încheierii unei convenții între Orașul Simeria și Asociația “Hans Spalinger” pentru crearea cadrului și a condițiilor de funcționare a Centrului de Respiro “Ioana”. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL17.doc",
+     "sha256": "8371202996b73e320e4ff5d3db06983842fa0797a9ac422f1bd5e6fe5f6008f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-18-2009",
+   "path": "local/hunedoara/simeria/2009/18",
+   "short": "HCL Simeria nr. 18/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 18/2009 privind aprobarea Acordului de Parteneriat între orașul Simeria și Asociația “Hans Spalinger” Simeria, în vederea derulării proiectului “Centrul Social de Urgență al orașului Simeria”. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL18.doc",
+     "sha256": "4589582cdcec62320353de778dd3080459477d7c72c5d87df45e70caf501f087"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-19-2009",
+   "path": "local/hunedoara/simeria/2009/19",
+   "short": "HCL Simeria nr. 19/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 19/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL19.doc",
+     "sha256": "f065c332bf950c78f4842c62b5065e14dc864b86120f4d839eb7da7c0fe88cc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-20-2009",
+   "path": "local/hunedoara/simeria/2009/20",
+   "short": "HCL Simeria nr. 20/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 20/2009 pentru aprobarea încheierii unei convenții între Orașul Simeria și Asociația “Hans Spalinger” pentru crearea cadrului și a condițiilor de funcționare a Centrului de Zi “Maria”. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL20.doc",
+     "sha256": "3832ae7072b383f1a72dd438932c0a217521c4a6c4d58e60015a8d918be422d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-21-2009",
+   "path": "local/hunedoara/simeria/2009/21",
+   "short": "HCL Simeria nr. 21/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 21/2009 privind transmiterea în folosință gratuită a terenului în suprafață de 1247 mp, situat în Simeria, str. 1 Decembrie, către Agenția Națională pentru Locuințe, pe toată durata executării obiectivului de investiții “Construire de locuințe pentru tineret”. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL21.doc",
+     "sha256": "346a6c9aff93181684cb6765b1b0931ba388ecd2b40b46bdd616c04d6169a85a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-22-2009",
+   "path": "local/hunedoara/simeria/2009/22",
+   "short": "HCL Simeria nr. 22/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 22/2009 pentru modificarea art. 3 din HCL nr. 17/2004, privind aprobarea delegării în mod direct a gestiunii Serviciului public de alimentare cu apă potabilă și de canalizare a orașului Simeria către SC APA PROD SA Deva. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL22.doc",
+     "sha256": "b0943dec674ed399bc28484935ce405aa9dd207bdfe93efb025e6725b1e6db62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-23-2009",
+   "path": "local/hunedoara/simeria/2009/23",
+   "short": "HCL Simeria nr. 23/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 23/2009 privind novarea Contractului de Concesiune cu Contractul de Delegare a Serviciului Public de Alimentare cu Apă și de Canalizare. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL23.doc",
+     "sha256": "b7d51cb0297112431835e44e41123a4f8780bf67d263b1094fb694c53aa3b876"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-24-2009",
+   "path": "local/hunedoara/simeria/2009/24",
+   "short": "HCL Simeria nr. 24/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 24/2009 privind aprobarea modalității de gestiune a activității de transport public local al orașului Simeria. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL24.doc",
+     "sha256": "502323cd902f71614e21b524b4537d6e6ab786fb57da47c656bf086c13881689"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--simeria-25-2009",
    "path": "local/hunedoara/simeria/2009/25",
    "short": "HCL Simeria nr. 25/2009",
@@ -14,6 +239,336 @@
      "units": 1,
      "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL25.doc",
      "sha256": "490b1843461eaed16f0419fe649f3cc5117b13f89b2fc30ff20883d30ee228d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-26-2009",
+   "path": "local/hunedoara/simeria/2009/26",
+   "short": "HCL Simeria nr. 26/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 26/2009 privind aprobarea comasării într-o singură parcelă a unor parcele de teren situate pe strada Alexandru Vlahuță, aflate în proprietatea privată a orașului Simeria. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL26.doc",
+     "sha256": "e72746ff844579c9bf7085b5cd73d350684cbeed8980a580225c69aedb561607"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-27-2009",
+   "path": "local/hunedoara/simeria/2009/27",
+   "short": "HCL Simeria nr. 27/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 27/2009 privind aprobarea contului de încheiere a exercițiului bugetar pe anul 2008. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL27.doc",
+     "sha256": "fe1e86ad2b73c7fc5e40c6a60cb8bf58c6be97d19f4d683119ed51695f0a621d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-28-2009",
+   "path": "local/hunedoara/simeria/2009/28",
+   "short": "HCL Simeria nr. 28/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 28/2009 pentru modificarea anexei la HCL nr. 128/2004 privind aprobarea vânzării prin negociere directă către concesionari, a terenurilor aflate în proprietatea privată a orașului Simeria, aferente garajelor și construcțiilor cu destinația de locuință. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL28.doc",
+     "sha256": "de721b4d6f72e4251ec9a3d0e1579d9ff37796a4528c850d1d6603f447868ac4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-29-2009",
+   "path": "local/hunedoara/simeria/2009/29",
+   "short": "HCL Simeria nr. 29/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 29/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL29.doc",
+     "sha256": "fa0564b806ee93db298be193bb8b2d239bbbd6bf7e935deb87beae8167a0db22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-30-2009",
+   "path": "local/hunedoara/simeria/2009/30",
+   "short": "HCL Simeria nr. 30/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 30/2009 privind aprobarea vânzării unei locuințe construite din fondurile statului, în baza Decretului-Lege nr. 61/1990, către titularul contractului de închiriere. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL30.doc",
+     "sha256": "86c04346e9b0312f87e3a3adf24a7c436de7f217a70726e843ec2d4ff108349e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-31-2009",
+   "path": "local/hunedoara/simeria/2009/31",
+   "short": "HCL Simeria nr. 31/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 31/2009 privind aprobarea Studiului de oportunitate în vederea concesionării terenului în suprafață de 6.270 mp, identificat prin CF 1768N- Bircea Mare, nr. cadastral 3064, situat în intravilanul satului Bircea Mare, în vederea realizării obiectivului “Realizare depozit de materiale”. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL31.doc",
+     "sha256": "37ba17a2188a1f32494bb7eb3b5b14de650887c884ac281b0be9090fb66d3e6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-32-2009",
+   "path": "local/hunedoara/simeria/2009/32",
+   "short": "HCL Simeria nr. 32/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 32/2009 privind concesionarea prin licitație publică a serviciului de transport public local pe raza orașului Simeria, forma de atribuire fiind gestiunea delegată. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL32.doc",
+     "sha256": "52d2774bd2944cf6ebd477f81619872e135368c8876739a3ddc49e40e5433ddb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-33-2009",
+   "path": "local/hunedoara/simeria/2009/33",
+   "short": "HCL Simeria nr. 33/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 33/2009 privind rectificarea bugetului local al orașului Simeria pe anul 2009. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-05-20",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL33.doc",
+     "sha256": "731dd53383fc32eaf163d436c7c84c795c8de78d2e2230a9b5a062fa936bc131"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-35-2009",
+   "path": "local/hunedoara/simeria/2009/35",
+   "short": "HCL Simeria nr. 35/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 35/2009 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții “Drum de acces la sistemul ecologic de sortare, reciclare, tratare a deșeurilor menajere și asimilate a orașului Simeria”. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-05-20",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL35.doc",
+     "sha256": "672543d2073e3c40fecfc13ea482c8c851b6b3b8fe110cbabd4f8f0921679308"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-36-2009",
+   "path": "local/hunedoara/simeria/2009/36",
+   "short": "HCL Simeria nr. 36/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 36/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-05-20",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL36.doc",
+     "sha256": "9193cbe73b0f6a034f391c663640713d208b24b5b9fd2b841a62c6a600c01c32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-37-2009",
+   "path": "local/hunedoara/simeria/2009/37",
+   "short": "HCL Simeria nr. 37/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 37/2009 privind aprobarea casării unor mijloace fixe. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-05-20",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL37.doc",
+     "sha256": "bb6e5dd241c3a22c00e481a076ec3296197d442f4cbfca1bc22a746ff678f980"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-38-2009",
+   "path": "local/hunedoara/simeria/2009/38",
+   "short": "HCL Simeria nr. 38/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 38/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-05-20",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL38.doc",
+     "sha256": "2752c7b1e6921b65c5d8c6c738fab0e88604b3ad913e4fd1e92724f256629571"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-39-2009",
+   "path": "local/hunedoara/simeria/2009/39",
+   "short": "HCL Simeria nr. 39/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 39/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-05-20",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL39.doc",
+     "sha256": "e1468742c52b42b421a6b6870d1729b81607f2a9c3ec63e015b755cc936fdb32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-40-2009",
+   "path": "local/hunedoara/simeria/2009/40",
+   "short": "HCL Simeria nr. 40/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 40/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-05-20",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL40.doc",
+     "sha256": "834b7223ffac09b335b829f3f68ed0e2eea5e61edc79d3010ff5a7e0a26b08f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-41-2009",
+   "path": "local/hunedoara/simeria/2009/41",
+   "short": "HCL Simeria nr. 41/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 41/2009 privind trecerea în proprietate privată a unui teren aflat în proprietatea Statului Român. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-05-20",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL41.doc",
+     "sha256": "cdcd29ea82741f0cc41ae5b22ddc8b3da0f9ae0ac854a57bf05a658ab5dfb91a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-42-2009",
+   "path": "local/hunedoara/simeria/2009/42",
+   "short": "HCL Simeria nr. 42/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 42/2009 privind acceptarea donației unui bun imobil – teren în suprafață de 11.993 mp, situat în orașul Simeria, satul Bircea Mare, județul Hunedoara. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-05-20",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL42.doc",
+     "sha256": "5d9d493415ca9fa62ba24d8d19230697d69df3d6d9b4df6840765418712fff86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-43-2009",
+   "path": "local/hunedoara/simeria/2009/43",
+   "short": "HCL Simeria nr. 43/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 43/2009 privind retragerea dreptului de folosință asupra terenurilor atribuite beneficiarilor Legii nr. 15/2003, republicată. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-05-20",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL43.doc",
+     "sha256": "1c37a7c94beb1eb40668277d2fa68fc77286baa765b46a6a32e77d4bb3d1d837"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-44-2009",
+   "path": "local/hunedoara/simeria/2009/44",
+   "short": "HCL Simeria nr. 44/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 44/2009 privind schimbarea destinației imobilului situat în orașul Simeria, str. Closca, din “Piața Agroalimentară a orașului Simeria” în “Complex Comercial Multifuncțional”. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-06-05",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL44.doc",
+     "sha256": "257c63e1290767d168767b7ae32f1e2505a0a3f92e668190711ec578968946a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-46-2009",
+   "path": "local/hunedoara/simeria/2009/46",
+   "short": "HCL Simeria nr. 46/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 46/2009 privind aprobarea Planului Urbanistic de Detaliu pentru obiectivul “Complex Comercial Multifuncțional”, situat în orașul Simeria, str. Closca, județul Hunedoara, beneficiar fiind Primăria orașului Simeria. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-06-05",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL46.doc",
+     "sha256": "9a59edabb11a9773a12662265b1b4e919b1b7b2257bbd26aa277f1318e2650ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-47-2009",
+   "path": "local/hunedoara/simeria/2009/47",
+   "short": "HCL Simeria nr. 47/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 47/2009 privind aprobarea documentației de atribuire pentru realizarea obiectivului “Construcție drum de acces la sistemul ecologic de sortare, reciclare, tratare a deșeurilor menajere și asimilate a orașului Simeria”. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-06-05",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL47.doc",
+     "sha256": "1da56a7f620b9082d69382ef76196017090bffeb0b7b64ca89695983172a035f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-48-2009",
+   "path": "local/hunedoara/simeria/2009/48",
+   "short": "HCL Simeria nr. 48/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 48/2009 privind aprobarea refinanțării unui împrumut intern, contractat în anul 2005, în vederea realizării unor lucrări de investiții privind obiective de interes public. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-06-05",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL48.doc",
+     "sha256": "9b9b467da1502df278203821eef7fca12a6487d029b288313575477afc79d4e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-49-2009",
+   "path": "local/hunedoara/simeria/2009/49",
+   "short": "HCL Simeria nr. 49/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 49/2009 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții “Reabilitarea și modernizarea străzii Biscaria, oraș Simeria, județul Hunedoara”. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-06-05",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL49.doc",
+     "sha256": "64262f9023b3aac4efacc2004fd51819d39e0a3610c87ac7317692b1b35c4722"
     }
    ]
   },
@@ -48,6 +603,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--simeria-52-2009",
+   "path": "local/hunedoara/simeria/2009/52",
+   "short": "HCL Simeria nr. 52/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 52/2009 pentru modificarea anexelor nr. 2 și nr. 3 la HCL nr. 69/2008 privind stabilirea funcțiilor publice și aprobarea organigramei și a statului de funcții pentru Serviciul Public de Asistență Socială subordonat Consiliului local al orașului Simeria. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-06-05",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL52.doc",
+     "sha256": "a6041da4c67d5dd40e994282386ed3301c69a863e198b5e42d4d339066f4d267"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-53-2009",
+   "path": "local/hunedoara/simeria/2009/53",
+   "short": "HCL Simeria nr. 53/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 53/2009 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții “Modernizare și reabilitare DC44: Simeria Veche – Totia, sector km. 1S200-km. 1S810, județul Hunedoara”. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-06-05",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL53.doc",
+     "sha256": "a110c58b970e510304034c929df544bd6f0c86a231c4a18c1ce2aa923901ef62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-54-2009",
+   "path": "local/hunedoara/simeria/2009/54",
+   "short": "HCL Simeria nr. 54/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 54/2009 privind trecerea în proprietate privată a unui teren aflat în proprietatea Statului Român. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-06-05",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL54.doc",
+     "sha256": "cc7ec5adf544a3a3171c3969a81a4fd37e7f50cf9f418e72d1ee2f88f64040e7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--simeria-55-2009",
    "path": "local/hunedoara/simeria/2009/55",
    "short": "HCL Simeria nr. 55/2009",
@@ -63,6 +663,66 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--simeria-56-2009",
+   "path": "local/hunedoara/simeria/2009/56",
+   "short": "HCL Simeria nr. 56/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 56/2009 privind aprobarea asocierii Orașului Simeria, prin Consiliul local al orașului Simeria, cu Județul Hunedoara, prin",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL56.doc",
+     "sha256": "d584fcedb45103dbe5d084a53b034bcc513787ecf275c474313f270d347b6e23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-57-2009",
+   "path": "local/hunedoara/simeria/2009/57",
+   "short": "HCL Simeria nr. 57/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 57/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL57.doc",
+     "sha256": "7bac96fcf5484704cca7861223e3fa6ea3c8561eb293781418f1890d3108ba98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-59-2009",
+   "path": "local/hunedoara/simeria/2009/59",
+   "short": "HCL Simeria nr. 59/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 59/2009 pentru aprobarea documentației privind atribuirea contractului de servicii financiare de acordare credit pentru finanțarea unor investiții publice de interes local din orașul Simeria, județul Hunedoara, în valoare de 1.000.000 lei. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL59.doc",
+     "sha256": "980163110530922c2ba3c4aafdc1ca57c7a21b8fa391f7fb2ca1597dbb64585b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-6-2009",
+   "path": "local/hunedoara/simeria/2009/6",
+   "short": "HCL Simeria nr. 6/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 6/2009 privind concesionarea prin licitatie publica a serviciului public de salubrizare – activitatea de maturat, spalat, stropit, intretinerea cailor publice, curatirea si transportul zapezii de pe caile publice, mentinerea in functiune a acestora pe timp de polei sau de inghet si colectarea cadavrelor animalelor de pe domeniul public si predarea acestora unitatii de ecarisaj de pe teritoriul orasului S",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL6.doc",
+     "sha256": "088983250a169d1bd50e2d821aa376c23bee6cb6d9a95405478e54769d34c535"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--simeria-60-2009",
    "path": "local/hunedoara/simeria/2009/60",
    "short": "HCL Simeria nr. 60/2009",
@@ -74,6 +734,66 @@
      "units": 1,
      "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL60.doc",
      "sha256": "6837d535bf6699306af490ab4c64ae29c8e54265ba0baf7bc62c52e32ec5ac1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-61-2009",
+   "path": "local/hunedoara/simeria/2009/61",
+   "short": "HCL Simeria nr. 61/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 61/2009 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții “Reabilitarea și modernizarea străzii Biscaria, oraș Simeria, județul Hunedoara”. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL61-1.doc",
+     "sha256": "017b62b77162f9410aa0e2a95e9b86a750b6431bcca3394e72f47c336a31b383"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-62-2009",
+   "path": "local/hunedoara/simeria/2009/62",
+   "short": "HCL Simeria nr. 62/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 62/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL62-1.doc",
+     "sha256": "1bed8b4a1385b18c2d5c1fe48c085f519b88fc3f98c4e13adf34a7a873ef1ffd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-8-2009",
+   "path": "local/hunedoara/simeria/2009/8",
+   "short": "HCL Simeria nr. 8/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 8/2009 pentru modificarea anexei la HCL nr. 19/2008 privind aprobarea componentei unității locale de sprijin din cadrul centrului local sanitar-veterinar de combatere a bolilor. Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL8.doc",
+     "sha256": "6a80dd4e1eac7a649e7d240b499f7916f00ce4b429c32e659f9d51e227a53075"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--simeria-9-2009",
+   "path": "local/hunedoara/simeria/2009/9",
+   "short": "HCL Simeria nr. 9/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Simeria nr. 9/2009 privind aprobarea Protocolului de colaborarea incheiat intre Agentia Nationala de Cadastru si Publicitate Imobiliara si Orasul Simeria pentru realizarea cadastrului general Vizualizare",
+   "url": "https://primariasimeria.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliul-local/2009-hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://primariasimeria.ro/storage/formidable/109/fisier_HCL9.doc",
+     "sha256": "b068df06dfdedb374d1fddd96e88cf3116ccd1b6215527f7589b297a1b5393d8"
     }
    ]
   }

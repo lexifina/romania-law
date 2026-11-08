@@ -3,6 +3,21 @@
  "shard": "local/ialomita/tandarei/2019",
  "acts": [
   {
+   "slug": "hcl-ialomita--tandarei-42-2019",
+   "path": "local/ialomita/tandarei/2019/42",
+   "short": "HCL Țăndărei nr. 42/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 42/2019 privind revocarea HCL nr. 42 din 15.04.2019 privind aprobare Plan Urbanistic Zonal hcl-nr80-privind-revocarea-hcl-nr-42-15042019-privind-aprobare-plan-urbanistic-zonal.pdf",
+   "url": "http://www.primaria-tandarei.ro/articole/hotarari-sedinta-ordinara-25072019",
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 1,
+     "source_url": "https://primaria-tandarei.ro/system/files/articole/2019-07-29/2159/hcl-nr80-privind-revocarea-hcl-nr-42-15042019-privind-aprobare-plan-urbanistic-zonal.pdf",
+     "sha256": "cc003c54714112d10a4ebdacac26693ac05e7e163b2a48e15fb45aceb12e4407"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--tandarei-57-2019",
    "path": "local/ialomita/tandarei/2019/57",
    "short": "HCL Țăndărei nr. 57/2019",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://primaria-tandarei.ro/system/files/articole/2019-06-06/2093/hotararea-nr-57-privind-modificarea-anexei-hcl-nr-1927022019-privind-aprobarea-procedurii-acordare-a.pdf",
      "sha256": "0d7fff141ac8085c66ae5cbb3884ae775a3adaf064eb816e8f916ec1c872f7e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--tandarei-64-2019",
+   "path": "local/ialomita/tandarei/2019/64",
+   "short": "HCL Țăndărei nr. 64/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 64/2019 privind modificarea si completarea HCL nr. 2027.02.2019 privind aprobarea propunerii de schimbare a destinatiei hotararea-nr-64-privind-modificarea-si-completarea-hcl-nr-2027022019-privind-aprobarea-propunerii.pdf",
+   "url": "http://www.primaria-tandarei.ro/articole/hotarari-sedinta-ordinara-30052019",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 1,
+     "source_url": "https://primaria-tandarei.ro/system/files/articole/2019-06-06/2093/hotararea-nr-64-privind-modificarea-si-completarea-hcl-nr-2027022019-privind-aprobarea-propunerii.pdf",
+     "sha256": "b4f49c38a39e02ebed50e88ad6bbf31e0fb48ef2fcbe9cf2465627ccf0368293"
     }
    ]
   }

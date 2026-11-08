@@ -3,6 +3,216 @@
  "shard": "local/ialomita/balaciu/2023",
  "acts": [
   {
+   "slug": "hcl-ialomita--balaciu-1-2023",
+   "path": "local/ialomita/balaciu/2023/1",
+   "short": "HCL Balaciu nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 1/2023 privind aprobarea planului de actiuni si lucrari de interes local pe anul 2023, ce vor fi executate de catre beneficiarii de ajutor social, conform Legii nr.416/2001, cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/88053",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/88053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-10-2023",
+   "path": "local/ialomita/balaciu/2023/10",
+   "short": "HCL Balaciu nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 10/2023 privind aprobarea delegării către Unitatea administrativ - teritorială Județul Ialomița a depunerii cererii de finanțare și implementarea proiectului ”Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe, finanțat în cadrul Planului Național de Redresare și Reziliență",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/92730",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/92730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-11-2023",
+   "path": "local/ialomita/balaciu/2023/11",
+   "short": "HCL Balaciu nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 11/2023 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/94974",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/94974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-12-2023",
+   "path": "local/ialomita/balaciu/2023/12",
+   "short": "HCL Balaciu nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 12/2023 cu privire la aprobarea închirierii prin atribuire directă şi / sau prin licitaţie publică cu strigare a suprafetei de pajişte permanentă situată în extravilan, ce aparţine domeniului privat al comunei Balaciu , judetul Ialomita",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/94975",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/94975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-13-2023",
+   "path": "local/ialomita/balaciu/2023/13",
+   "short": "HCL Balaciu nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 13/2023 pentru modificarea Hotărârii Consiliului Local Balaciu nr.3 din 31.01.2023 privind aprobarea bugetului local al comunei Balaciu şi al activităţilor autofinanţate,finanţate integral din venituri proprii pe anul 2023",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/94976",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/94976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-14-2023",
+   "path": "local/ialomita/balaciu/2023/14",
+   "short": "HCL Balaciu nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 14/2023 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/97601",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/97601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-15-2023",
+   "path": "local/ialomita/balaciu/2023/15",
+   "short": "HCL Balaciu nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 15/2023 privind aprobarea propunerii de demolare a imobilului-clădire ,, Scoala Generală I-IV Copuzu ,, ce face parte din domeniul public al comunei Balaciu",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/97602",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/97602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-16-2023",
+   "path": "local/ialomita/balaciu/2023/16",
+   "short": "HCL Balaciu nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 16/2023 privind aprobarea documentatiei tehnico-economice şi a devizului general pentru obiectivul de investiţii:,,Demolare Scoala Generală I-IV Crăsanii de Sus, comuna Balaciu,judeţul Ialomiţa ,,",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/97603",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/97603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-17-2023",
+   "path": "local/ialomita/balaciu/2023/17",
+   "short": "HCL Balaciu nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 17/2023 privind aprobarea documentatiei tehnico-economice şi a devizului general pentru obiectivul de investiţii:,,Demolare Scoala Generală I-IV (Scoală veche) Copuzu, comuna Balaciu,judeţul Ialomiţa ,,",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/97604",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/97604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-18-2023",
+   "path": "local/ialomita/balaciu/2023/18",
+   "short": "HCL Balaciu nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 18/2023 privind aprobarea documentatiei tehnico-economice şi a devizului general pentru obiectivul de investiţii:,,Demolare Scoala Generală I-IV Copuzu, comuna Balaciu,judeţul Ialomiţa ,,",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/97605",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/97605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-19-2023",
+   "path": "local/ialomita/balaciu/2023/19",
+   "short": "HCL Balaciu nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 19/2023 privind aprobarea Protocolului de colaborare între Ministerul Muncii şi Solidarităţii Sociale(MMSS) şi unitatea administrativ-teritorială comuna Balaciu,judetul Ialomiţa",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/97606",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/97606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-2-2023",
+   "path": "local/ialomita/balaciu/2023/2",
+   "short": "HCL Balaciu nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 2/2023 privind aprobarea numarului posturilor de asistent personal al persoanei cu handicap,pentru anul 2023",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/88054",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/88054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-20-2023",
+   "path": "local/ialomita/balaciu/2023/20",
+   "short": "HCL Balaciu nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 20/2023 privind asocierea unităţii administrativ-teritoriale comuna BALACIU cu unitatea administrativ-teritorială Județul Ialomița în vederea realizării în comun a proiectului de interes județean „Transformarea bibliotecilor din județul Ialomița în hub-uri de dezvoltare a competențelor digitale” finanțat în cadrul Planului Național de Redresare și Reziliență",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/100735",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/100735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-21-2023",
+   "path": "local/ialomita/balaciu/2023/21",
+   "short": "HCL Balaciu nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 21/2023 privind stabilirea salariilor de bază pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al Primarului comunei Balaciu, judeţul Ialomiţa",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/101533",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/101533",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--balaciu-22-2023",
    "path": "local/ialomita/balaciu/2023/22",
    "short": "HCL Balaciu nr. 22/2023",
@@ -18,6 +228,261 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--balaciu-23-2023",
+   "path": "local/ialomita/balaciu/2023/23",
+   "short": "HCL Balaciu nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 23/2023 privind probarea achizitionării serviciilor juridice de consultanţă,de asistenţă şi/sau reprezentare pentru anul 2023",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/102746",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/102746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-24-2023",
+   "path": "local/ialomita/balaciu/2023/24",
+   "short": "HCL Balaciu nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 24/2023 privind însuşirea Raportului referitor la stadiul de înscriere a datelor în registrul agricol pe trimestrul I al anului 2023 şi de stabilire a unor măsuri pentru eficientizarea înscrierii datelor şi ţinerea la zi a registrului agricol",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/102747",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/102747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-25-2023",
+   "path": "local/ialomita/balaciu/2023/25",
+   "short": "HCL Balaciu nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 25/2023 privind aprobarea trecerii unor imobile din domeniul public al comunei Balaciu,judetul Ialomiţa în domeniul privat al acesteia, în vederea scoaterii din funcţiune ,casării, demolării şi valorificării materialelor rezultate",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/102748",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/102748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-26-2023",
+   "path": "local/ialomita/balaciu/2023/26",
+   "short": "HCL Balaciu nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 26/2023 privind aprobarea Statutului, actualizat, al Asociației de Dezvoltare Intercomunitară ,,ECOO 2009,,",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/102749",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/102749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-27-2023",
+   "path": "local/ialomita/balaciu/2023/27",
+   "short": "HCL Balaciu nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 27/2023 privind avizarea Studiului de Oportunitate, Strategiei de contractare, Studiului de Fundamentare și a Documentației de Atribuire pentru ”delegarea prin concesiune a gestiunii activităților de transfer, tratare și depozitare a deșeurilor reziduale din Județul Ialomița”, precum și mandatarea primarului comunei Balaciu ca reprezentant al comunei Balaciu în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”ECOO 2009” să voteze pentru aprobarea Studiului de Oportunitate, Strategiei de contractare, Studiului de Fundamentare și a Documentației de Atribuire pentru ” delegarea prin concesiune a gestiunii unor activităților de transfer, tratare și depozitare a deșeurilor reziduale din Județul Ialomița”",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/102750",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/102750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-28-2023",
+   "path": "local/ialomita/balaciu/2023/28",
+   "short": "HCL Balaciu nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 28/2023 pentru modificarea Hotărârii Consiliului Local Balaciu nr.16 din 29.03.2023 privind aprobarea documentatiei tehnico-economice şi a devizului general pentru obiectivul de investiţii: ,,Demolare Scoala Generală I-IV Crăsanii de Sus, comuna Balaciu,judeţul Ialomiţa”",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/102751",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/102751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-29-2023",
+   "path": "local/ialomita/balaciu/2023/29",
+   "short": "HCL Balaciu nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 29/2023 pentru modificarea Hotărârii Consiliului Local Balaciu nr.17 din 29.03.2023 privind aprobarea documentatiei tehnico-economice şi a devizului general pentru obiectivul de investiţii: ,,Demolare Scoala Generală I-IV Copuzu (Scoala veche), comuna Balaciu,judeţul Ialomiţa”",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/102752",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/102752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-3-2023",
+   "path": "local/ialomita/balaciu/2023/3",
+   "short": "HCL Balaciu nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 3/2023 privind aprobarea bugetului local al comunei Balaciu şi al activităţilor autofinanţate,finanţate integral din venituri proprii pe anul 2023",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/88055",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/88055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-30-2023",
+   "path": "local/ialomita/balaciu/2023/30",
+   "short": "HCL Balaciu nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 30/2023 pentru modificarea Hotărârii Consiliului Local Balaciu nr.18 din 29.03.2023 privind aprobarea documentatiei tehnico-economice şi a devizului general pentru obiectivul de investiţii:,,Demolare Scoala Generală I-IV Copuzu, comuna Balaciu,judeţul Ialomiţa ,,",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/102753",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/102753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-31-2023",
+   "path": "local/ialomita/balaciu/2023/31",
+   "short": "HCL Balaciu nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 31/2023 privind aderarea și includerea unităţii administrativ-teritoriale comuna BALACIU la noul Parteneriat, respectiv Teritoriul LEADER constituit prin Asociaţia ”Grupul de Acțiune Locală Ialomiţa Centrală Balaciu - Cănești - Reviga” pentru elaborarea, depunerea și implementarea Strategiei de Dezvoltare Locală aferentă perioadei de programare 2023-2027, inclusiv pentru accesarea sub-măsurii 19.1 PNDR „Sprijin pregătitor pentru elaborarea Strategiilor de Dezvoltare Locală în vederea selecției și autorizării GAL-urilor pentru perioada 2023-2027”",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/104039",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/104039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-32-2023",
+   "path": "local/ialomita/balaciu/2023/32",
+   "short": "HCL Balaciu nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 32/2023 privind aprobarea delegării către Unitatea administrativ - teritorială Județul Ialomița a depunerii cererii de finanțare și implementarea proiectului ”Microbuze electrice pentru elevi – Județul Ialomița”, finanțat în cadrul Planului Național de Redresare și Reziliență",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/104040",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/104040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-33-2023",
+   "path": "local/ialomita/balaciu/2023/33",
+   "short": "HCL Balaciu nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 33/2023 privind aprobarea conturilor de executie bugetară ale bugetului comunei Balaciu şi ale bugetului institutiilor publice finantate din venituri proprii si subventii de la bugetul local la 31.03.2023",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/110918",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/110918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-34-2023",
+   "path": "local/ialomita/balaciu/2023/34",
+   "short": "HCL Balaciu nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 34/2023 pentru modificarea Hotărârii Consiliului Local Balaciu nr.19 din 29.03.2023 privind aprobarea Protocolului de colaborare între Ministerul Muncii şi Solidarităţii Sociale(MMSS) şi unitatea administrativ-teritorială comuna Balaciu,judetul Ialomiţa",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/110919",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/110919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-35-2023",
+   "path": "local/ialomita/balaciu/2023/35",
+   "short": "HCL Balaciu nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 35/2023 privind aprobarea Notei conceptuale şi a Temei de proiectare pentru proiectul de investitii „CONSTRUIRE ÎMPREJMUIRI, PLATFORME, ALEI PIETONALE ŞI CAROSABILE, PRECUM ŞI FOSĂ SEPTICĂ ECOLOGICĂ LA DISPENSARUL MEDICAL, COMUNA BALACIU, JUDETUL IALOMITA”",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/110920",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/110920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-36-2023",
+   "path": "local/ialomita/balaciu/2023/36",
+   "short": "HCL Balaciu nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 36/2023 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/113510",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/113510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-37-2023",
+   "path": "local/ialomita/balaciu/2023/37",
+   "short": "HCL Balaciu nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 37/2023 privind aprobarea implementării, a cererii de finanţare şi a cheltuielilor, legate de proiectul de investiţii: ,,Amenajare loc de joacă în satul Copuzu comuna Balaciu,,",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/113511",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/113511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-38-2023",
+   "path": "local/ialomita/balaciu/2023/38",
+   "short": "HCL Balaciu nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 38/2023 privind însuşirea Raportului referitor la stadiul de înscriere a datelor în registrul agricol pe trimestrul II al anului 2023 şi de stabilire a unor măsuri pentru eficientizarea înscrierii datelor şi ţinerea la zi a registrului agricol",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/114433",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/114433",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--balaciu-39-2023",
    "path": "local/ialomita/balaciu/2023/39",
    "short": "HCL Balaciu nr. 39/2023",
@@ -28,6 +493,126 @@
      "from": "2023-07-31",
      "units": 1,
      "source_url": "https://emol.ro/balaciu-il/registru-hcl/114434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-4-2023",
+   "path": "local/ialomita/balaciu/2023/4",
+   "short": "HCL Balaciu nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 4/2023",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/88056",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/88056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-40-2023",
+   "path": "local/ialomita/balaciu/2023/40",
+   "short": "HCL Balaciu nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 40/2023",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/114435",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/114435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-41-2023",
+   "path": "local/ialomita/balaciu/2023/41",
+   "short": "HCL Balaciu nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 41/2023 privind utilizarea în cursul anului 2023 a excedentului rezultat la închiderea exercitiului bugetar al anului 2022, pentru acoperirea temporară a golurilor de casă provenite din decalajele între veniturile şi cheltuielile secţiunii de funcţionare la sursa ,,E,, - bugetul local de venituri şi subvenţii",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/114436",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/114436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-42-2023",
+   "path": "local/ialomita/balaciu/2023/42",
+   "short": "HCL Balaciu nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 42/2023",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/121752",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/121752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-43-2023",
+   "path": "local/ialomita/balaciu/2023/43",
+   "short": "HCL Balaciu nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 43/2023 privind constituirea echipei mobile pentru intervenţia în regim de urgentă în cazurile de violenţă domestică identificate pe raza unităţii administrativ-teritoriale comuna Balaciu",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/121753",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/121753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-44-2023",
+   "path": "local/ialomita/balaciu/2023/44",
+   "short": "HCL Balaciu nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 44/2023 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor şi a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente programului pentru şcoli al României în perioada 2023-2029,la nivelul unităţii administrativ-teritoriale comuna Balaciu",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/121754",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/121754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-45-2023",
+   "path": "local/ialomita/balaciu/2023/45",
+   "short": "HCL Balaciu nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 45/2023 pentru modificarea Hotărârii Consiliului Local Balaciu nr.3 din 31.01.2023 privind aprobarea bugetului local al comunei Balaciu şi al activităţilor autofinanţate,finanţate integral din venituri proprii pe anul 2023, cu modificările ulterioare",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/121755",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/121755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-46-2023",
+   "path": "local/ialomita/balaciu/2023/46",
+   "short": "HCL Balaciu nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 46/2023 pentru modificarea Hotărârii Consiliului Local Balaciu nr.35 din 28.06.2023 privind aprobarea Notei conceptuale şi a Temei de proiectare pentru proiectul de investitii „CONSTRUIRE ÎMPREJMUIRI, PLATFORME, ALEI PIETONALE ŞI CAROSABILE, PRECUM ŞI FOSĂ SEPTICĂ ECOLOGICĂ LA DISPENSARUL MEDICAL, COMUNA BALACIU, JUDETUL IALOMITA”",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/121756",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/121756",
      "sha256": null
     }
    ]
@@ -243,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-ialomita--balaciu-6-2023",
+   "path": "local/ialomita/balaciu/2023/6",
+   "short": "HCL Balaciu nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 6/2023 privind însuşirea Raportului referitor la stadiul de înscriere a datelor în registrul agricol pe trimestrul IV al anului 2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/92726",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/92726",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--balaciu-60-2023",
    "path": "local/ialomita/balaciu/2023/60",
    "short": "HCL Balaciu nr. 60/2023",
@@ -343,6 +943,51 @@
      "from": "2023-12-27",
      "units": 1,
      "source_url": "https://emol.ro/balaciu-il/registru-hcl/135301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-7-2023",
+   "path": "local/ialomita/balaciu/2023/7",
+   "short": "HCL Balaciu nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 7/2023 privind aprobarea conturilor anuale de executie bugetară ale bugetului comunei Balaciu, a bugetului institutiilor publice finantate din venituri proprii si subventii de la bugetul local, la 31.12.2022",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/92727",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/92727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-8-2023",
+   "path": "local/ialomita/balaciu/2023/8",
+   "short": "HCL Balaciu nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 8/2023",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/92728",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/92728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--balaciu-9-2023",
+   "path": "local/ialomita/balaciu/2023/9",
+   "short": "HCL Balaciu nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balaciu nr. 9/2023 privind avizarea Studiului de Oportunitate, Strategiei de contractare, Studiului de Fundamentare și a Documentației de Atribuire pentru ”delegarea prin concesiune a gestiunii unor activităților de transfer, tratare și depozitare a deșeurilor reziduale din Județul Ialomița”, precum și mandatarea primarului comunei Balaciu ca reprezentant al comunei Balaciu în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”ECO 2009” să voteze pentru aprobarea Studiului de Oportunitate, Strategiei de contractare, Studiului de Fundamentare și a Documentației de Atribuire pentru ” delegarea prin concesiune a gestiunii unor activităților de transfer, tratare și depozitare a deșeurilor reziduale din Județul Ialomița”",
+   "url": "https://emol.ro/balaciu-il/registru-hcl/92729",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balaciu-il/registru-hcl/92729",
      "sha256": null
     }
    ]

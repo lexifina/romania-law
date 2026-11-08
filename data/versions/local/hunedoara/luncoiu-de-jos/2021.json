@@ -183,6 +183,66 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-20-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/20",
+   "short": "HCL Luncoiu de Jos nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 20/2021 privind aprobarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35455",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-21-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/21",
+   "short": "HCL Luncoiu de Jos nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 21/2021 privind programul anual de achiziții publice pe anul 2021",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35456",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-22-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/22",
+   "short": "HCL Luncoiu de Jos nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 22/2021 privind aprobarea indexării impozitelor și taxelor locale cu rata inflației pe anul 2022",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35457",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--luncoiu-de-jos-23-2021",
+   "path": "local/hunedoara/luncoiu-de-jos/2021/23",
+   "short": "HCL Luncoiu de Jos nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luncoiu de Jos nr. 23/2021 privind aprobarea Regulamentul referitor la condițiile în care se realizează accesul pe proprietatea publică și privată a comunei Luncoiu de Jos în vederea instalării și întreținerii rețelelor de comunicații electronice",
+   "url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35458",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/luncoiudejos-hd/registru-hcl/35458",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--luncoiu-de-jos-24-2021",
    "path": "local/hunedoara/luncoiu-de-jos/2021/24",
    "short": "HCL Luncoiu de Jos nr. 24/2021",

@@ -3,6 +3,72 @@
 "shard": "local/ialomita/grivita/2024",
 "acts": [
 {
+"slug": "hcl-ialomita--grivita-1-2024",
+"path": "local/ialomita/grivita/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 1/2024 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Grivița nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162657",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-2-2024",
+"path": "local/ialomita/grivita/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 2/2024 privind aprobarea bugetului local al comunei Griviţa şi bugetul activităţilor autofinanţate pentru anul 2024",
+"short": "HCL Grivița nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162658",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-3-2024",
+"path": "local/ialomita/grivita/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 3/2024 privind utilizarea excedentului rezultat la încheierea exercițiului bugetar 2022",
+"short": "HCL Grivița nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162659",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--grivita-4-2024",
 "path": "local/ialomita/grivita/2024/4",
 "kind": "local",
@@ -22,6 +88,292 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-5-2024",
+"path": "local/ialomita/grivita/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 5/2024 privind aprobarea încetării contractului de comodat nr.5456/28.12.2022, prin acordul părților",
+"short": "HCL Grivița nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162661",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-6-2024",
+"path": "local/ialomita/grivita/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 6/2024 privind aprobarea decontării cheltuielilor cu naveta personalului din aparatul de specialitate al primarului comunei Grivița , județul Ialomița și a regulamentului privind decontarea acestora",
+"short": "HCL Grivița nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162662",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-7-2024",
+"path": "local/ialomita/grivita/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 7/2024 privind acordarea unui stimulent financiar lunar copiilor până la împlinirea vârstei de 3 ani",
+"short": "HCL Grivița nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162663",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-8-2024",
+"path": "local/ialomita/grivita/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 8/2024 privind modificarea art.3 din HCL nr.11/2014 privind aprobarea iniţierii procedurii de închiriere a suprafeţelor de pajişti comunale în suprafaţă de 384,8233 ha, din domeniul privat al Comunei Griviţa",
+"short": "HCL Grivița nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162664",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-9-2024",
+"path": "local/ialomita/grivita/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 9/2024 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual, conform organigramei şi statului de funcţii",
+"short": "HCL Grivița nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162665",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-10-2024",
+"path": "local/ialomita/grivita/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 10/2024 privind alocarea sumei de 25 mii lei Parohiei din satul Smirna",
+"short": "HCL Grivița nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162666",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-11-2024",
+"path": "local/ialomita/grivita/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 11/2024 privind completarea/modificarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Griviţa, judeţul Ialomiţa",
+"short": "HCL Grivița nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162667",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-12-2024",
+"path": "local/ialomita/grivita/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 12/2024 privind modificarea contractului de concesiune prin suplimentarea suprafeței de teren, precum și modificarea redevenței",
+"short": "HCL Grivița nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162668",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-13-2024",
+"path": "local/ialomita/grivita/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 13/2024 privind aprobarea vânzării cu drept de preemțiune a unei suprafețe de teren de 895 mp",
+"short": "HCL Grivița nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162669",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-14-2024",
+"path": "local/ialomita/grivita/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 14/2024 privind aprobarea vânzării prin licitație publică a unei suprafețe de teren de 1031 mp. și a clădirii de 71 mp. aflată pe acest teren",
+"short": "HCL Grivița nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162670",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-15-2024",
+"path": "local/ialomita/grivita/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 15/2024 privind aprobarea vânzării prin licitație publică a unei suprafețe de teren de 1830 mp",
+"short": "HCL Grivița nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162671",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-16-2024",
+"path": "local/ialomita/grivita/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 16/2024 privind aprobarea închirieri prin licitație publică a casei specialistului (cu anexe) și a suprafeței de teren de 3902 mp",
+"short": "HCL Grivița nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162672",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-17-2024",
+"path": "local/ialomita/grivita/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 17/2024 privind modificarea HCL nr.35/2023 privind aprobarea Regulamentului de organizare şi funcţionare a cimitirelor comunale la nivelul comunei Grivița, judeţul Ialomiţa",
+"short": "HCL Grivița nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-17",
+"latest": "2024-07-17",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162673",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +399,248 @@
 }
 },
 {
+"slug": "hcl-ialomita--grivita-19-2024",
+"path": "local/ialomita/grivita/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 19/2024 privind aprobarea documentaţiei PUZ (Plan Urbanistic Zonal) “ZONA SUD-EST”, comuna Grivița, județul Ialomița",
+"short": "HCL Grivița nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162689",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-20-2024",
+"path": "local/ialomita/grivita/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 20/2024 privind alocarea sumei de 30180 lei din bugetul local pentru virarea cotizație anuale către Asociația de Dezvoltare Intercomunitară ECOO 2009",
+"short": "HCL Grivița nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162690",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-21-2024",
+"path": "local/ialomita/grivita/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 21/2024 privind sumei de 9000 lei din bugetul local pentru virarea cotizație anuale către Asociația de Dezvoltare Intercomunitară Ialomița",
+"short": "HCL Grivița nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162691",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-22-2024",
+"path": "local/ialomita/grivita/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 22/2024 privind actualizarea, în vederea înscrierii în cartea funciară, a unor poziţii din inventarul bunurilor care aparţin domeniului public al comunei Grivița, judeţul Ialomiţa",
+"short": "HCL Grivița nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162692",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-23-2024",
+"path": "local/ialomita/grivita/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 23/2024 privind alocarea sumei de 50 mii lei pentru organizarea evenimentului „ Ziua comunei Griviţa”",
+"short": "HCL Grivița nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162693",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-24-2024",
+"path": "local/ialomita/grivita/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 24/2024 privind aprobarea inventarului financiar-contabil al patrimoniului comunei Griviţa pe anul 2023",
+"short": "HCL Grivița nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162694",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-25-2024",
+"path": "local/ialomita/grivita/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 25/2024 privind aprobarea Conturilor de execuţie a bugetelor locale ale comunei Griviţa pentru anul 2023",
+"short": "HCL Grivița nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162695",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-26-2024",
+"path": "local/ialomita/grivita/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 26/2024 privind alocarea sumei de 20 mii lei din bugetul local pentru organizarea evenimentului “Hora Ialomițenă”",
+"short": "HCL Grivița nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162696",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-27-2024",
+"path": "local/ialomita/grivita/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 27/2024 privind modificarea HCL nr.2/2024 privind aprobarea bugetului local al comunei Griviţa şi bugetul activităţilor autofinanţate pentru anul 2024",
+"short": "HCL Grivița nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162697",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-28-2024",
+"path": "local/ialomita/grivita/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 28/2024 privind aprobarea Contului de execuţie a bugetului local al comunei Griviţa pentru trimestrul I al anului 2024",
+"short": "HCL Grivița nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162698",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-29-2024",
+"path": "local/ialomita/grivita/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 29/2024 privind rectificarea bugetului local al comunei Griviţa pe anul 2024",
+"short": "HCL Grivița nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162699",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--grivita-30-2024",
 "path": "local/ialomita/grivita/2024/30",
 "kind": "local",
@@ -66,6 +660,182 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-31-2024",
+"path": "local/ialomita/grivita/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 31/2024 privind alocarea sumei de 25 mii lei Parohiei din satul Smirna",
+"short": "HCL Grivița nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162701",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-32-2024",
+"path": "local/ialomita/grivita/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 32/2024 privind alocarea sumei de 1,50 mii lei pentru proiectul educațional „ Campus Day/Prânz comunitar” și 4,50 mii lei proiectului „ Împreună prindem curaj-Să construim un zid al non-violenței”",
+"short": "HCL Grivița nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162702",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-33-2024",
+"path": "local/ialomita/grivita/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 33/2024 privind alocarea sumei de 9 mii lei pentru premierea etapelor câștigătoare ale echipei de fotbal „ Unirea Grivița”",
+"short": "HCL Grivița nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162703",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-34-2024",
+"path": "local/ialomita/grivita/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 34/2024 privind alocarea sumei de 10 mii lei pentru organizarea evenimentului „ 1 iunie-Ziua copilului”",
+"short": "HCL Grivița nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162704",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-35-2024",
+"path": "local/ialomita/grivita/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 35/2024 privind suplimentarea sumei alocate pentru organizarea evenimentului „ Ziua comunei Griviţa”, cu suma de 10 mii lei",
+"short": "HCL Grivița nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162705",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-36-2024",
+"path": "local/ialomita/grivita/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 36/2024 privind aprobarea comasării terenurilor din „ Zona de sud-est a Satului Grivița”",
+"short": "HCL Grivița nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162706",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-37-2024",
+"path": "local/ialomita/grivita/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 37/2024 privind aprobarea înființării Serviciului de gestionare a câinilor fără de stăpân în cadrul UAT Grivița, județul Ialomița și stabilirea modalității de gestiune",
+"short": "HCL Grivița nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162707",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-38-2024",
+"path": "local/ialomita/grivita/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 38/2024 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Grivița nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162718",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -92,6 +862,227 @@
 }
 },
 {
+"slug": "hcl-ialomita--grivita-40-2024",
+"path": "local/ialomita/grivita/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 40/2024",
+"short": "HCL Grivița nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162720",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-41-2024",
+"path": "local/ialomita/grivita/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 41/2024 privind modificarea HCL nr.55/26.11.2015 privind stabilirea taxei de utilizare a spaţiilor şi dotărilor Căminelor culturale din satul Griviţa şi satul Smirna",
+"short": "HCL Grivița nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162721",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-42-2024",
+"path": "local/ialomita/grivita/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 42/2024 privind revocarea HCL nr.14/22.02.2024 privind aprobarea vânzării prin licitație publică a unei suprafețe de teren de 1031 mp. și a clădirii de 71 mp. aflată pe acest teren",
+"short": "HCL Grivița nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162722",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-43-2024",
+"path": "local/ialomita/grivita/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 43/2024 privind rectificarea bugetului local al comunei Griviţa pe anul 2024",
+"short": "HCL Grivița nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162723",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-44-2024",
+"path": "local/ialomita/grivita/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 44/2024 privind aprobarea statului de funcții și a structurii organizatorice a Primariei Griviţa",
+"short": "HCL Grivița nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/grivita-il/registru-hcl/162724",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-45-2024",
+"path": "local/ialomita/grivita/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 45/2024 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual, conform organigramei şi statului de funcţii",
+"short": "HCL Grivița nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/grivita-il/registru-hcl/164402",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-46-2024",
+"path": "local/ialomita/grivita/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 46/2024 privind aprobarea dării în folosinţă gratuită a spaţiului în care funcţionează Postul de poliţie",
+"short": "HCL Grivița nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/grivita-il/registru-hcl/164403",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-47-2024",
+"path": "local/ialomita/grivita/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 47/2024 privind alocarea sumei de 50 mii lei Parohiei din satul Grivița",
+"short": "HCL Grivița nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/grivita-il/registru-hcl/164404",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-48-2024",
+"path": "local/ialomita/grivita/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 48/2024 privind aprobarea vânzării cu drept de preemțiune a unei suprafețe de teren de 129 mp",
+"short": "HCL Grivița nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/grivita-il/registru-hcl/164405",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-49-2024",
+"path": "local/ialomita/grivita/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 49/2024 privind aprobarea vânzării cu drept de preemțiune a unei suprafețe de teren de 76 mp",
+"short": "HCL Grivița nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/grivita-il/registru-hcl/164406",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--grivita-50-2024",
 "path": "local/ialomita/grivita/2024/50",
 "kind": "local",
@@ -115,6 +1106,317 @@
 }
 },
 {
+"slug": "hcl-ialomita--grivita-51-2024",
+"path": "local/ialomita/grivita/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 51/2024 privind rectificarea bugetului local al comunei Griviţa pe anul 2024",
+"short": "HCL Grivița nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/grivita-il/registru-hcl/164408",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-52-2024",
+"path": "local/ialomita/grivita/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 52/2024 privind rectificarea bugetului local al comunei Grivița pe anul 2024",
+"short": "HCL Grivița nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/grivita-il/registru-hcl/165215",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-53-2024",
+"path": "local/ialomita/grivita/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 53/2024 privind închirierea unei locuințe sociale",
+"short": "HCL Grivița nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/grivita-il/registru-hcl/165216",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-54-2024",
+"path": "local/ialomita/grivita/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 54/2024 privind alegerea președintelui de ședință",
+"short": "HCL Grivița nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/grivita-il/registru-hcl/165217",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-55-2024",
+"path": "local/ialomita/grivita/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 55/2024",
+"short": "HCL Grivița nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/grivita-il/registru-hcl/165218",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-56-2024",
+"path": "local/ialomita/grivita/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 56/2024",
+"short": "HCL Grivița nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/grivita-il/registru-hcl/165219",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-57-2024",
+"path": "local/ialomita/grivita/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 57/2024 privind aprobarea dezmembrării suprafeței de teren de 71481 mp",
+"short": "HCL Grivița nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/grivita-il/registru-hcl/165220",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-58-2024",
+"path": "local/ialomita/grivita/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 58/2024 privind aprobarea Contului de execuţie a bugetului local al comunei Griviţa pentru trimestrul II al anului 2024",
+"short": "HCL Grivița nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/grivita-il/registru-hcl/165221",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-59-2024",
+"path": "local/ialomita/grivita/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 59/2024 privind alocarea sumei de 3 mii lei pentru participarea la Olimpiada Națională „ Meșteșuguri artistice tradiționale”",
+"short": "HCL Grivița nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/grivita-il/registru-hcl/165222",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-60-2024",
+"path": "local/ialomita/grivita/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 60/2024",
+"short": "HCL Grivița nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-22",
+"latest": "2024-08-22",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196710",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-61-2024",
+"path": "local/ialomita/grivita/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 61/2024 privind alocarea sumei de 5 mii lei pentru proiectul educațional „Valorificarea activităților extrașcolare în consolidarea competențelor cheie - ȘCOALA DE VARĂ”",
+"short": "HCL Grivița nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-22",
+"latest": "2024-08-22",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196711",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-62-2024",
+"path": "local/ialomita/grivita/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 62/2024 privind închirierea unei locuinţe sociale",
+"short": "HCL Grivița nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-22",
+"latest": "2024-08-22",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196712",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-63-2024",
+"path": "local/ialomita/grivita/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 63/2024 privind încetarea contractului de închiriere nr.3/03.08.2020",
+"short": "HCL Grivița nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-22",
+"latest": "2024-08-22",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196713",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-64-2024",
+"path": "local/ialomita/grivita/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 64/2024 privind acordarea unui ajutor de urgență unei persoane aflate în dificultate",
+"short": "HCL Grivița nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-22",
+"latest": "2024-08-22",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196714",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--grivita-65-2024",
 "path": "local/ialomita/grivita/2024/65",
 "kind": "local",
@@ -134,6 +1436,50 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-66-2024",
+"path": "local/ialomita/grivita/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 66/2024 privind modificarea HCL nr. 50/20.11.2020 cu privire la constituirea comisiilor de specialitate ale consiliului local al comunei Griviţa",
+"short": "HCL Grivița nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196738",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-67-2024",
+"path": "local/ialomita/grivita/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 67/2024 privind aprobarea taxei speciale de salubrizare și tarifelor practicate de către operatorul serviciului de salubrizare pe raza teritorială a comunei Grivița",
+"short": "HCL Grivița nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196739",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -181,6 +1527,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--grivita-70-2024",
+"path": "local/ialomita/grivita/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 70/2024 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Grivița nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-23",
+"latest": "2024-10-23",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196811",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--grivita-71-2024",
 "path": "local/ialomita/grivita/2024/71",
 "kind": "local",
@@ -200,6 +1568,28 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-72-2024",
+"path": "local/ialomita/grivita/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 72/2024 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual, conform organigramei şi statului de funcţii",
+"short": "HCL Grivița nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-23",
+"latest": "2024-10-23",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196813",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -313,6 +1703,72 @@
 }
 },
 {
+"slug": "hcl-ialomita--grivita-78-2024",
+"path": "local/ialomita/grivita/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 78/2024 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Grivița nr. 78/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196892",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-79-2024",
+"path": "local/ialomita/grivita/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 79/2024 privind constituirea comisiilor de specialitate ale consiliului local al comunei Griviţa",
+"short": "HCL Grivița nr. 79/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196893",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-80-2024",
+"path": "local/ialomita/grivita/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 80/2024 privind alegerea viceprimarului comunei Griviţa, judeţul Ialomiţa",
+"short": "HCL Grivița nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196894",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--grivita-81-2024",
 "path": "local/ialomita/grivita/2024/81",
 "kind": "local",
@@ -336,6 +1792,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--grivita-82-2024",
+"path": "local/ialomita/grivita/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 82/2024 privind menţinerea neschimbată a organizării reţelei şcolare a unităţilor de învăţământ de stat preuniversitar de pe raza comunei Griviţa, judetul Ialomiţa pentru anul şcolar 2025-2026",
+"short": "HCL Grivița nr. 82/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196902",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--grivita-83-2024",
 "path": "local/ialomita/grivita/2024/83",
 "kind": "local",
@@ -355,6 +1833,50 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-84-2024",
+"path": "local/ialomita/grivita/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 84/2024 privind alocarea sumei de 115 mii lei pentru organizarea „Sărbătorilor de iarnă - eveniment ocazionat de sfârşitul de an”",
+"short": "HCL Grivița nr. 84/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196904",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--grivita-85-2024",
+"path": "local/ialomita/grivita/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 85/2024 privind alocarea sumei de 10 mii lei pentru premierea etapelor câștigătoare ale echipei de fotbal „ Unirea Grivița”",
+"short": "HCL Grivița nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/grivita-il/registru-hcl/196905",
+"council": "ialomita/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -90,19 +90,19 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 490787,
+  "acts": 493787,
   "by_status": {
-   "current": 419563,
+   "current": 422563,
    "pending-change": 29438,
    "stale": 4595,
    "unverified": 37191,
    "source-unavailable": 0
   },
-  "verified_7d": 432975,
-  "verified_30d": 433018,
-  "pct_verified_7d": 88.2,
-  "pct_verified_30d": 88.2,
-  "pct_current": 85.5,
+  "verified_7d": 435975,
+  "verified_30d": 436018,
+  "pct_verified_7d": 88.3,
+  "pct_verified_30d": 88.3,
+  "pct_current": 85.6,
   "newest_verified": "2026-11-08",
   "oldest_verified": "2018-07-23"
  },
@@ -142,16 +142,16 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 333166,
+   "acts": 336166,
    "by_status": {
-    "current": 327073,
+    "current": 330073,
     "pending-change": 0,
     "stale": 2556,
     "unverified": 3537,
     "source-unavailable": 0
    },
-   "verified_7d": 327031,
-   "verified_30d": 327073,
+   "verified_7d": 330031,
+   "verified_30d": 330073,
    "pct_verified_7d": 98.2,
    "pct_verified_30d": 98.2,
    "pct_current": 98.2,
@@ -569,16 +569,16 @@
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 333166,
+   "acts": 336166,
    "by_status": {
-    "current": 327073,
+    "current": 330073,
     "pending-change": 0,
     "stale": 2556,
     "unverified": 3537,
     "source-unavailable": 0
    },
-   "verified_7d": 327031,
-   "verified_30d": 327073,
+   "verified_7d": 330031,
+   "verified_30d": 330073,
    "pct_verified_7d": 98.2,
    "pct_verified_30d": 98.2,
    "pct_current": 98.2,
@@ -904,12 +904,12 @@
    "kinds": [
     "local"
    ],
-   "acts": 331190,
+   "acts": 334190,
    "last_successful_check": "2026-11-08",
    "unavailable_since": null,
    "sites": 684,
    "sites_unavailable": 7,
-   "pct_verified_7d": 98.7,
+   "pct_verified_7d": 98.8,
    "pct_verified_30d": 98.8
   },
   {
@@ -927,5 +927,5 @@
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 6842
+ "shards": 6857
 }

@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/ialomita/fierbinti-targ/2022",
+"acts": [
+{
+"slug": "hcl-ialomita--fierbinti-targ-14-2022",
+"path": "local/ialomita/fierbinti-targ/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 14/2022",
+"short": "HCL Fierbinți-Târg nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-10",
+"latest": "2022-03-10",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fierbinti-targ-15-2022",
+"path": "local/ialomita/fierbinti-targ/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 15/2022",
+"short": "HCL Fierbinți-Târg nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-10",
+"latest": "2022-03-10",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fierbinti-targ-16-2022",
+"path": "local/ialomita/fierbinti-targ/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 16/2022",
+"short": "HCL Fierbinți-Târg nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-10",
+"latest": "2022-03-10",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fierbinti-targ-17-2022",
+"path": "local/ialomita/fierbinti-targ/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 17/2022",
+"short": "HCL Fierbinți-Târg nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-10",
+"latest": "2022-03-10",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--fierbinti-targ-18-2022",
+"path": "local/ialomita/fierbinti-targ/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Fierbinți-Târg nr. 18/2022",
+"short": "HCL Fierbinți-Târg nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-10",
+"latest": "2022-03-10",
+"portal": "http://primariafierbinti.ro/hotarari_cl.html",
+"council": "ialomita/fierbinti-targ",
+"council_name": "Consiliul Local al Orașului Fierbinți-Târg",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

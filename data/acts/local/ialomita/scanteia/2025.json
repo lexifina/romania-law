@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--scanteia-4-2025",
+"path": "local/ialomita/scanteia/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 4/2025 privind alegerea presedintelui de sedinta pentru urmatoarele 3 luni",
+"short": "HCL Scânteia nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/203102",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--scanteia-5-2025",
 "path": "local/ialomita/scanteia/2025/5",
 "kind": "local",
@@ -751,6 +773,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--scanteia-47-2025",
+"path": "local/ialomita/scanteia/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 47/2025 privind desemnarea reprezentantilor Consiliului Local al Comunei Scânteia în Consiliul de Administrație al Școlii Gimnaziale Scânteia, și in alte Comisii al Școlii Gimnaziale Scânteia in anul scolar 2025-2026",
+"short": "HCL Scânteia nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/scanteia-il/registru-hcl/245588",
+"council": "ialomita/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

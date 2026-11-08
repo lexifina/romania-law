@@ -3,6 +3,156 @@
  "shard": "local/ialomita/cazanesti/2020",
  "acts": [
   {
+   "slug": "hcl-ialomita--cazanesti-12-2020",
+   "path": "local/ialomita/cazanesti/2020/12",
+   "short": "HCL Căzănești nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 12/2020 privind inchiriere teren domeniu public NC 423 din 424.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020?start=66",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/HCL_nr.12_din_30.01.2020_privind_inchiriere_teren_domeniu_public_NC_423_sin_424.pdf",
+     "sha256": "54819dfed60544b75964e28cc7c70feed41773b15053b40eb9ec715bbc670a84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-2-2020",
+   "path": "local/ialomita/cazanesti/2020/2",
+   "short": "HCL Căzănești nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2/2020 privind utilizarea excedului anului 2019 in 2020 pentru acoperire gol de casa.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020?start=88",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/HCL_nr.02_din_09.01.2020_privind_utilizarea_excedului_anului_2019_in_2020_pentru_acoperire_gol_de_casa.pdf",
+     "sha256": "3e4954dde9d3bb93d1dceff856d84c5affbd0f5edeade102ab466f7af5ee59af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-35-2020",
+   "path": "local/ialomita/cazanesti/2020/35",
+   "short": "HCL Căzănești nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 35/2020",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020?start=44",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/HCL_nr.35_din_29.04.2020.pdf",
+     "sha256": "a88a28f1016662780a6ba4f756def0b70ca60136ed94074aecbcc8e04c5a0357"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-36-2020",
+   "path": "local/ialomita/cazanesti/2020/36",
+   "short": "HCL Căzănești nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 36/2020",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020?start=44",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/HCL_nr.36_din_29.04.2020.pdf",
+     "sha256": "d9cd3713826eafbbe48ffed16b88fc98982cbeff8ab01f601f236e48e00f8d09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-37-2020",
+   "path": "local/ialomita/cazanesti/2020/37",
+   "short": "HCL Căzănești nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 37/2020",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020?start=44",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/HCL_nr.37_din_29.04.2020.pdf",
+     "sha256": "8b3b73407d825c7a6fef3a9b0c0d4f2d2fd020e9e580ca880943fb87902c87e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-38-2020",
+   "path": "local/ialomita/cazanesti/2020/38",
+   "short": "HCL Căzănești nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 38/2020",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020?start=44",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/HCL_nr.38_din_29.04.2020.pdf",
+     "sha256": "aa9d812107ffc443b5147890b94a8433b9ad630d421b7b2fd8a0b71c358108d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-39-2020",
+   "path": "local/ialomita/cazanesti/2020/39",
+   "short": "HCL Căzănești nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 39/2020",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020?start=44",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/HCL_nr.39_din_29.04.2020.pdf",
+     "sha256": "6843c633db9412d9b7b2f41c2ba0c364d3571bfad7feb0e3d1eb27b910f95209"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-40-2020",
+   "path": "local/ialomita/cazanesti/2020/40",
+   "short": "HCL Căzănești nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 40/2020",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020?start=44",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/HCL_nr.40_din_13.05.2020.pdf",
+     "sha256": "96e022daa059077afe5beb7dceed868ed9d7f379c0920f4220986d8bbc07acde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-61-2020",
+   "path": "local/ialomita/cazanesti/2020/61",
+   "short": "HCL Căzănești nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 61/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli al orașului Căzănești, pe anul 2020 Consiliul Local al orașului Căzănești, întrunit în ședința ordinară din data 31 IULIE 2020, Având în vedere referatul de aprobare nr. 4045 din 21.07.2020 a Primarului orașului Căzănești; Examinând: - raportul nr. 4083 din 23.07.2020 al Biroului Contabilitate, Salarizare, Impozite și Taxe Locale",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020?start=22",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/1/HCL_nr.61_din_31.07.2020.pdf",
+     "sha256": "8e9fd40f3a4df82e8596b1d335bb1b28a0c849146b9ab26d7cc0234d51983920"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-63-2020",
+   "path": "local/ialomita/cazanesti/2020/63",
+   "short": "HCL Căzănești nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 63/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli al orașului Căzănești, pe anul 2020 Consiliul Local al orașului Căzănești, întrunit în ședința ordinară din data 28 AUGUST 2020, Având în vedere: - referatul de aprobare nr. 4687 din 18.08.2020 a Primarului orașului Căzănești; - adresa Administrației Județene a Finanțelor Publice Ialomița nr.ILG STZ 8179/21.08.2020 înregistrată la",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020?start=22",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/1/HCL_nr.63_din_28.08.2020.pdf",
+     "sha256": "37c65c0beed2b4422328907bc934286b65fd7f1bf4cfff10b69c36a31a34bf7f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ialomita--cazanesti-64-2020",
    "path": "local/ialomita/cazanesti/2020/64",
    "short": "HCL Căzănești nr. 64/2020",
@@ -14,6 +164,186 @@
      "units": 1,
      "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/1/HCL_nr.64_din_28.08.2020.pdf",
      "sha256": "25fa24c710b0271095e73fac27c25882678001af20dae5c5ccd0fc3f819ae360"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-68-2020",
+   "path": "local/ialomita/cazanesti/2020/68",
+   "short": "HCL Căzănești nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 68/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli al orașului Căzănești, pe anul 2020 Consiliul Local al orașului Căzănești, întrunit în ședința ordinară din data 23 SEPTEMBRIE 2020, Având în vedere: - referatul de aprobare nr. 5304 din 15.09.2020 al Primarului orașului Căzănești; - adresa Administrației Județene a Finanțelor Publice Ialomița nr.ILG STZ 8959/17.09.2020; - preveder",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020?start=22",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/1/HCL_nr.68_din_23.09.2020.pdf",
+     "sha256": "90f40156eef1920680292be49d738aba89d90acd8d95305b2da983778ddace7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-69-2020",
+   "path": "local/ialomita/cazanesti/2020/69",
+   "short": "HCL Căzănești nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 69/2020 pentru aprobarea tipului de suport alimentar acordat preșcolarilor și elevilor din Școala Profesională Căzănești în cadrul Programului-pilot de acordare a unui suport alimentar pentru preșcolarii și elevii din 150 de unități de învățământ preuniversitar de stat Consiliul Local al orașului Căzănești, întrunit în ședință ordinară la data de 23 SEPTEMBRIE 2020, Având în vedere: - referatul de aprobar",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020?start=22",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/1/HCL_nr.69_din_23.09.2020.pdf",
+     "sha256": "0a806f18cfabbde6b921029a7327bc0168e217a3cb63be57d090d78208f65b7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-70-2020",
+   "path": "local/ialomita/cazanesti/2020/70",
+   "short": "HCL Căzănești nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 70/2020 privind constituirea comisiei de evaluare a ofertelor în vederea atribuirii contractului de prestări servicii catering din anul 2020 în cadrul Programului-pilot de acordare a unui suport alimentar pentru preșcolarii și elevii din 150 de unități de învățământ preuniversitar de stat Consiliul Local al orașului Căzănești, județul Ialomița întrunit în ședință ordinară din data de 23 SEPTEMBRIE 2020, A",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020?start=22",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/1/HCL_nr.70_din_23.09.2020.pdf",
+     "sha256": "175dffcf5e1c4ed5f1f8c79757201127d720624149337171e29cfba6b72c53db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-81-2020",
+   "path": "local/ialomita/cazanesti/2020/81",
+   "short": "HCL Căzănești nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 81/2020 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Local al orașului Căzănești pentru mandatul 2020-2024 Consiliul Local al orașului Căzănești, județul Ialomița, întrunit de îndată în ședința extraordinară din data de 27 NOIEMBRIE 2020 Având în vedere referatul de aprobare nr. 6678 din 20.11.2020 al Primarului orașului Căzănești; Examinând: - raportul Compartimentului Jur",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/2/HCL_nr.81_din_27.11.2020.pdf",
+     "sha256": "1a5b0aff04ed0c6a6aeefd638bd7f9fd22cf513fe58723cde9956c052b89fd47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-83-2020",
+   "path": "local/ialomita/cazanesti/2020/83",
+   "short": "HCL Căzănești nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 83/2020 pentru revocarea Hotărârii Consiliului local nr.72/23.09.2020 privind modificarea art.1 din Contractul de concesiune nr.336 din 10.04.1997, cu modificările ulterioare încheiat cu dl",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/2/HCL_nr.83_din_27.11.2020.pdf",
+     "sha256": "1e7187e450b0cb5287c8fc4acbed0fdf4229a20ae887b471bce65f81f9def281"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-84-2020",
+   "path": "local/ialomita/cazanesti/2020/84",
+   "short": "HCL Căzănești nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 84/2020 pentru modificarea art.6 din Hotărârea Consiliului Local nr.49 din 24.06.2020 privind aprobarea proiectului și a cheltuielilor legate de proiectul „Reabilitare, consolidare, extindere și schimbare funcțională - Școala Veche (Școala Generală cu clasele I-IV), cu componenta B – Înființare teren sport Liceu Tehnologic Căzănești, corp A” Consiliul Local al orașului Căzănești, județul Ialomița, întruni",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/2/HCL_nr.84_din_27.11.2020.pdf",
+     "sha256": "5b55f33a2ae6dba7d7c56a17edee7272742be9c9d354a086bd5511e0cc6ea367"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-85-2020",
+   "path": "local/ialomita/cazanesti/2020/85",
+   "short": "HCL Căzănești nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 85/2020 pentru modificarea art.5 din Hotărârea Consiliului Local nr.56 din 26.06.2019 privind implementarea proiectului „Sistem de supraveghere Oraș Căzănești” Consiliul Local al orașului Căzănești, întrunit de îndată în ședința extraordinară din data de 27 NOIEMBRIE 2020, Având în vedere: - referatul de aprobare nr. 6701 din 23.11.2020 al Primarului orașului Căzănești; - prevederile Hotărârii Consiliului",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/2/HCL_nr.85_din_27.11.2020.pdf",
+     "sha256": "dc8541a192591258515621b62906df54e6f1d3252e2abb468b5e3f015ed2c0ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-87-2020",
+   "path": "local/ialomita/cazanesti/2020/87",
+   "short": "HCL Căzănești nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 87/2020 privind alegerea Comisiei de numărare a voturilor și de validare a rezultatului votului secret Consiliul Local al orașului Căzănești, județul Ialomița, întrunit de îndată în ședința extraordinară din data de 27 NOIEMBRIE 2020, Având în vedere: - propunerile făcute de consilierii locali în cadrul comisiilor de specialitate; - referatul de aprobare nr. 6620 din 19.11.2020 al Primarului orașului Căză",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/2/HCL_nr.87_din_27.11.2020.pdf",
+     "sha256": "55c968299f4e2e314fc270d11c7963556945fc55b9f4c09570ff53f3cd2bdf23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-88-2020",
+   "path": "local/ialomita/cazanesti/2020/88",
+   "short": "HCL Căzănești nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 88/2020 privind alegerea viceprimarului orașului Căzănești, județul Ialomița Consiliul Local al orașului Căzănești, întrunit în ședința extraordinară din data de 27 NOIEMBRIE 2020, Având în vedere: - referatul de aprobare nr. 6707 din 23.11.2020 al Primarului orașului Căzănești; - Ordinul Prefectului județului Ialomița nr.603 din 31.10.2020 prin care Consiliul Local al orașului Căzănești a fost legal cons",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/2/HCL_nr.88_din_04.12.2020.pdf",
+     "sha256": "cda8a8bbbd720b3dd64039327b657791672b6dd74af2202bc387cd6243b67b5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-89-2020",
+   "path": "local/ialomita/cazanesti/2020/89",
+   "short": "HCL Căzănești nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 89/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli al orașului Căzănești, pe anul 2020 Consiliul Local al orașului Căzănești, întrunit în ședința ordinară din data 18 DECEMBRIE 2020, Având în vedere: - referatul de aprobare nr. 7064 din 11.12.2020 al Primarului orașului Căzănești; Examinând: - raportul nr. 7065 din 11.12.2020 al Biroului Contabilitate, Salarizare, Impozite și Taxe",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/3/HCL_nr.89_din_18.12.2020.pdf",
+     "sha256": "58de838de447840b766db90e97b4c5aea642672d1024254ce2fa467e5f2bc6c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-90-2020",
+   "path": "local/ialomita/cazanesti/2020/90",
+   "short": "HCL Căzănești nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 90/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/3/HCL_nr.90_din_18.12.2020.pdf",
+     "sha256": "4eaf5236d7e70f8bd49098e3a3d5b53261b62aa3ae1763ee1919207b0a35d160"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-91-2020",
+   "path": "local/ialomita/cazanesti/2020/91",
+   "short": "HCL Căzănești nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 91/2020 privind aprobarea contului de execuție a bugetului local al orașului Căzănești pe trimestrul IV al anului 2020 Consiliul Local al orașului Căzănești, județul Ialomița, întrunit în ședința ordinară din data de 18 DECEMBRIE 2020, Având în vedere referatul de aprobare nr. 7025 din 09.12.2020 al Primarului orașului Căzănești; Examinând: - raportul Biroului Contabilitate, Salarizare, Impozite și Taxe L",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/2020",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2020/Hotarari/3/HCL_nr.91_din_18.12.2020.pdf",
+     "sha256": "e811616a7c37cb33ca5f6c1613f1757266c478257e5b2e1bdc060058a5b46272"
     }
    ]
   }

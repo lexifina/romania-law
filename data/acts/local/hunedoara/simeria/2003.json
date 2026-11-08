@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/simeria/2003",
+"acts": [
+{
+"slug": "hcl-hunedoara--simeria-217-2003",
+"path": "local/hunedoara/simeria/2003/217",
+"kind": "local",
+"year": "2003",
+"number": "217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Simeria nr. 217/2003 pentru prevenirea şi combaterea violenţei domestice",
+"short": "HCL Simeria nr. 217/2003",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2003-05-22",
+"latest": "2003-05-22",
+"portal": "https://primariasimeria.ro/consiliul-local/servicii-publice-subordonate/directia-de-asistenta-sociala/despre-noi/programe-strategii-conventii/program-local-de-informare-si-sensibilizare-publica-pentru-prevenirea-si-combaterea-violentei-domestice-in-orasul-simeria/",
+"council": "hunedoara/simeria",
+"council_name": "Consiliul Local al Orașului Simeria",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

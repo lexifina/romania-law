@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-4-2024",
+"path": "local/ialomita/ciulnita/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 4/2024 privind alegerea președintelui de ședință",
+"short": "HCL Ciulnița nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/143939",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-5-2024",
 "path": "local/ialomita/ciulnita/2024/5",
 "kind": "local",
@@ -154,6 +176,51 @@
 "council_name": "Consiliul Local al Comunei Ciulnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-9-2024",
+"path": "local/ialomita/ciulnita/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 9/2024",
+"short": "HCL Ciulnița nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/143944",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-10-2024",
+"path": "local/ialomita/ciulnita/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 10/2024 privind atribuirea de terenuri în folosinţă gratuită pentru construirea unei locuinţe proprietate personală conform Legii nr. 15/2003",
+"short": "HCL Ciulnița nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/143945",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -355,6 +422,51 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-20-2024",
+"path": "local/ialomita/ciulnita/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 20/2024",
+"short": "HCL Ciulnița nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/144229",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-21-2024",
+"path": "local/ialomita/ciulnita/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 21/2024 privind aprobarea modalității de decontare a cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administratie” din cadrul aparatului de specialitate al primarului comunei Ciulnița. Județul Ialomița",
+"short": "HCL Ciulnița nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/144230",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-22-2024",
 "path": "local/ialomita/ciulnita/2024/22",
 "kind": "local",
@@ -396,6 +508,28 @@
 "council_name": "Consiliul Local al Comunei Ciulnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-24-2024",
+"path": "local/ialomita/ciulnita/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 24/2024 privind alegerea președintelui de ședință",
+"short": "HCL Ciulnița nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/149037",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -620,6 +754,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-35-2024",
+"path": "local/ialomita/ciulnita/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 35/2024 privind atribuirea de terenuri în folosinţă gratuită pentru construirea unei locuinţe proprietate personală conform Legii nr. 15/2003",
+"short": "HCL Ciulnița nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-17",
+"latest": "2024-09-17",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169622",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-36-2024",
 "path": "local/ialomita/ciulnita/2024/36",
 "kind": "local",
@@ -708,6 +864,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-40-2024",
+"path": "local/ialomita/ciulnita/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 40/2024 privind alegerea președintelui de ședință",
+"short": "HCL Ciulnița nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-17",
+"latest": "2024-09-17",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169627",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-41-2024",
 "path": "local/ialomita/ciulnita/2024/41",
 "kind": "local",
@@ -730,6 +908,95 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-42-2024",
+"path": "local/ialomita/ciulnita/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 42/2024",
+"short": "HCL Ciulnița nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-17",
+"latest": "2024-09-17",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169629",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-43-2024",
+"path": "local/ialomita/ciulnita/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 43/2024 privind aprobarea raportului de evaluare pentru stabilirea redevenței în vederea concesionării prin licitație publică, a bunurilor din domeniul privat al comunei Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-17",
+"latest": "2024-09-17",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169630",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-44-2024",
+"path": "local/ialomita/ciulnita/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 44/2024 privind aprobarea documentatiei de atribuire, a caietului de sarcini și a contractului de concesiune, în vederea concesionării bunurilor proprietatea privată a comunei Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-17",
+"latest": "2024-09-17",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169631",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-45-2024",
+"path": "local/ialomita/ciulnita/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 45/2024 privind aprobarea documentatiei de atribuire, a caietului de sarcini și a contractului de concesiune, în vederea concesionării bunurilor proprietatea privată a comunei Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-17",
+"latest": "2024-09-17",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169632",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-46-2024",
 "path": "local/ialomita/ciulnita/2024/46",
 "kind": "local",
@@ -749,6 +1016,28 @@
 "council_name": "Consiliul Local al Comunei Ciulnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-47-2024",
+"path": "local/ialomita/ciulnita/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 47/2024 privind atribuirea de terenuri în folosinţă gratuită pentru construirea unei locuinţe proprietate personală conform Legii nr. 15/2003",
+"short": "HCL Ciulnița nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-23",
+"latest": "2024-09-23",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169848",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -815,6 +1104,28 @@
 "council_name": "Consiliul Local al Comunei Ciulnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-51-2024",
+"path": "local/ialomita/ciulnita/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 51/2024 privind atribuirea de terenuri în folosinţă gratuită pentru construirea unei locuinţe proprietate personală conform Legii nr. 15/2003",
+"short": "HCL Ciulnița nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-23",
+"latest": "2024-09-23",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169883",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1038,6 +1349,117 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-62-2024",
+"path": "local/ialomita/ciulnita/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 62/2024 privind aprobarea raportului de evaluare pentru stabilirea redevenței în vederea concesionării prin licitație publică, a bunurilor din domeniul privat al comunei Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-23",
+"latest": "2024-09-23",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169915",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-63-2024",
+"path": "local/ialomita/ciulnita/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 63/2024 privind aprobarea documentatiei de atribuire, a caietului de sarcini și a contractului de concesiune, în vederea concesionării bunurilor proprietatea privată a comunei Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-23",
+"latest": "2024-09-23",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169916",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-64-2024",
+"path": "local/ialomita/ciulnita/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 64/2024 privind aprobarea concesionării suprafeței de 3981 mp teren neproductiv, situat în tarlaua 1, parcela 5, proprietatea privată a comunei Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-23",
+"latest": "2024-09-23",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169917",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-65-2024",
+"path": "local/ialomita/ciulnita/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 65/2024",
+"short": "HCL Ciulnița nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-23",
+"latest": "2024-09-23",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169918",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-66-2024",
+"path": "local/ialomita/ciulnita/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 66/2024 privind desemnarea comisiei de evaluare a ofertelor pentru concesionarea bunurilor proprietatea privată a comunei Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-23",
+"latest": "2024-09-23",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169919",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-67-2024",
 "path": "local/ialomita/ciulnita/2024/67",
 "kind": "local",
@@ -1079,6 +1501,28 @@
 "council_name": "Consiliul Local al Comunei Ciulnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-69-2024",
+"path": "local/ialomita/ciulnita/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 69/2024 privind retragerea dreptului de folosință a unor terenuri acordate pentru construirea unei locuințe în temeiul Legii nr.15/2003",
+"short": "HCL Ciulnița nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-24",
+"latest": "2024-09-24",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169981",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1149,6 +1593,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-73-2024",
+"path": "local/ialomita/ciulnita/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 73/2024 privind alegerea președintelui de ședință",
+"short": "HCL Ciulnița nr. 73/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-24",
+"latest": "2024-09-24",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/169985",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-74-2024",
 "path": "local/ialomita/ciulnita/2024/74",
 "kind": "local",
@@ -1168,6 +1634,28 @@
 "council_name": "Consiliul Local al Comunei Ciulnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-75-2024",
+"path": "local/ialomita/ciulnita/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 75/2024 privind atribuirea de terenuri în folosinţă gratuită pentru construirea unei locuinţe proprietate personală conform Legii nr. 15/2003",
+"short": "HCL Ciulnița nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-24",
+"latest": "2024-09-24",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/170058",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1259,6 +1747,50 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-80-2024",
+"path": "local/ialomita/ciulnita/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 80/2024 privind revocarea Hotărârii Consiliului local nr.62/2024 privind aprobarea raportului de evaluare pentru stabilirea redevenței în vederea concesionării prin licitație publică, a bunurilor din domeniul privat al comunei Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-24",
+"latest": "2024-09-24",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/170063",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-81-2024",
+"path": "local/ialomita/ciulnita/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 81/2024 privind revocarea Hotărârii Consiliului local nr.63/2024 privind aprobarea documentatiei de atribuire, a caietului de sarcini și a contractului de concesiune, în vederea concesionării bunurilor proprietatea privată a comunei Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-24",
+"latest": "2024-09-24",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/170064",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-82-2024",
 "path": "local/ialomita/ciulnita/2024/82",
 "kind": "local",
@@ -1278,6 +1810,72 @@
 "council_name": "Consiliul Local al Comunei Ciulnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-83-2024",
+"path": "local/ialomita/ciulnita/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 83/2024 privind rectificarea bugetului de venituri şi cheltuieli al comunei Ciulniţa pe anul 2024",
+"short": "HCL Ciulnița nr. 83/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/192988",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-84-2024",
+"path": "local/ialomita/ciulnita/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 84/2024 privind atribuirea de terenuri în folosinţă gratuită pentru construirea unei locuinţe proprietate personală conform Legii nr. 15/2003",
+"short": "HCL Ciulnița nr. 84/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/192989",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-85-2024",
+"path": "local/ialomita/ciulnita/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 85/2024 privind desemnarea unui reprezentant al consiliului local în cadrul Consiliului de administraţie al Şcolii Gimnaziale Ciulniţa, pentru anul școlar 2024-2025",
+"short": "HCL Ciulnița nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/192990",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1303,6 +1901,51 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-87-2024",
+"path": "local/ialomita/ciulnita/2024/87",
+"kind": "local",
+"year": "2024",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 87/2024 privind acordarea unei subvenții din bugetul de venituri și cheltuieli al comunei Ciulnița, pentru finanțarea Serviciului de salubrizare Ciulnița",
+"short": "HCL Ciulnița nr. 87/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/192992",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-88-2024",
+"path": "local/ialomita/ciulnita/2024/88",
+"kind": "local",
+"year": "2024",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 88/2024",
+"short": "HCL Ciulnița nr. 88/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/192993",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-89-2024",
 "path": "local/ialomita/ciulnita/2024/89",
 "kind": "local",
@@ -1322,6 +1965,296 @@
 "council_name": "Consiliul Local al Comunei Ciulnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-90-2024",
+"path": "local/ialomita/ciulnita/2024/90",
+"kind": "local",
+"year": "2024",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 90/2024 privind aprobarea închiderii activității Serviciului de salubrizare Ciulnița",
+"short": "HCL Ciulnița nr. 90/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/192995",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-91-2024",
+"path": "local/ialomita/ciulnita/2024/91",
+"kind": "local",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 91/2024 privind dezmembrarea terenului în suprafata de 1121 mp, din domeniul privat al comunei Ciulnita, situat în sat Ciulnița, com.Ciulnița, înscris în cartea funciara nr. 23375 a comunei Ciulnița, jud.Ialomița",
+"short": "HCL Ciulnița nr. 91/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/192996",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-92-2024",
+"path": "local/ialomita/ciulnita/2024/92",
+"kind": "local",
+"year": "2024",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 92/2024 privind stabilirea salariilor personalului contractual (muncitor necalificat) din cadrul aparatului de specialitate al primarului comunei Ciulnița",
+"short": "HCL Ciulnița nr. 92/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/192997",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-93-2024",
+"path": "local/ialomita/ciulnita/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 93/2024 privind modificarea și completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Ciulnița",
+"short": "HCL Ciulnița nr. 93/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/192998",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-94-2024",
+"path": "local/ialomita/ciulnita/2024/94",
+"kind": "local",
+"year": "2024",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 94/2024 privind rectificarea bugetului de venituri şi cheltuieli al comunei Ciulniţa pe anul 2024",
+"short": "HCL Ciulnița nr. 94/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193080",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-95-2024",
+"path": "local/ialomita/ciulnita/2024/95",
+"kind": "local",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 95/2024 privind modificarea și completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Ciulnița",
+"short": "HCL Ciulnița nr. 95/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193081",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-96-2024",
+"path": "local/ialomita/ciulnita/2024/96",
+"kind": "local",
+"year": "2024",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 96/2024 privind aprobarea rapoartelor de evaluare a terenurilor proprietatea privată a comunei Ciulnița, în vederea concesionării acestora",
+"short": "HCL Ciulnița nr. 96/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193082",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-97-2024",
+"path": "local/ialomita/ciulnita/2024/97",
+"kind": "local",
+"year": "2024",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 97/2024 privind reorganizarea aparatului de specialitate al primarului comunei Ciulnița, aprobarea organigramei și statului de funcții",
+"short": "HCL Ciulnița nr. 97/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193083",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-98-2024",
+"path": "local/ialomita/ciulnita/2024/98",
+"kind": "local",
+"year": "2024",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 98/2024",
+"short": "HCL Ciulnița nr. 98/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193084",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-99-2024",
+"path": "local/ialomita/ciulnita/2024/99",
+"kind": "local",
+"year": "2024",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 99/2024 privind aprobarea concesionării unui teren aparținând domeniului privat al comunei Ciulnița, jud.Ialomița, prin atribuire directă, în favoarea SC COOPERATIVA CONSUMCOOP ZONALA BUCU",
+"short": "HCL Ciulnița nr. 99/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193085",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-100-2024",
+"path": "local/ialomita/ciulnita/2024/100",
+"kind": "local",
+"year": "2024",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 100/2024",
+"short": "HCL Ciulnița nr. 100/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193086",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-101-2024",
+"path": "local/ialomita/ciulnita/2024/101",
+"kind": "local",
+"year": "2024",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 101/2024",
+"short": "HCL Ciulnița nr. 101/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193087",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-102-2024",
+"path": "local/ialomita/ciulnita/2024/102",
+"kind": "local",
+"year": "2024",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 102/2024",
+"short": "HCL Ciulnița nr. 102/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193088",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1347,6 +2280,94 @@
 }
 },
 {
+"slug": "hcl-ialomita--ciulnita-104-2024",
+"path": "local/ialomita/ciulnita/2024/104",
+"kind": "local",
+"year": "2024",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 104/2024 privind aprobarea contului de execuție al bugetului local pentru trimestrul III al anului 2024",
+"short": "HCL Ciulnița nr. 104/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193090",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-105-2024",
+"path": "local/ialomita/ciulnita/2024/105",
+"kind": "local",
+"year": "2024",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 105/2024 privind rectificarea bugetului de venituri şi cheltuieli al comunei Ciulniţa pe anul 2024",
+"short": "HCL Ciulnița nr. 105/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193091",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-106-2024",
+"path": "local/ialomita/ciulnita/2024/106",
+"kind": "local",
+"year": "2024",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 106/2024 privind modificarea și completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Ciulnița",
+"short": "HCL Ciulnița nr. 106/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193092",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-107-2024",
+"path": "local/ialomita/ciulnita/2024/107",
+"kind": "local",
+"year": "2024",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 107/2024 privind aprobarea rapoartelor de evaluare pentru stabilirea redevenței în vederea concesionării prin licitație publică, a bunurilor din domeniul privat al comunei Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 107/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193093",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--ciulnita-108-2024",
 "path": "local/ialomita/ciulnita/2024/108",
 "kind": "local",
@@ -1366,6 +2387,73 @@
 "council_name": "Consiliul Local al Comunei Ciulnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-109-2024",
+"path": "local/ialomita/ciulnita/2024/109",
+"kind": "local",
+"year": "2024",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 109/2024 privind aprobarea documentatiei de atribuire, a caietului de sarcini și a contractului de concesiune, în vederea concesionării unui nr. de 5 terenuri proprietatea privată a comunei Ciulnița, județul Ialomița, pentru construirea de locuințe",
+"short": "HCL Ciulnița nr. 109/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193095",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-110-2024",
+"path": "local/ialomita/ciulnita/2024/110",
+"kind": "local",
+"year": "2024",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 110/2024 privind aprobarea documentatiei de atribuire, a caietului de sarcini și a contractului de concesiune, în vederea concesionării unui nr. de 8 terenuri situate în zona industrială, proprietatea privată a comunei Ciulnița, județul Ialomița",
+"short": "HCL Ciulnița nr. 110/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193096",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--ciulnita-111-2024",
+"path": "local/ialomita/ciulnita/2024/111",
+"kind": "local",
+"year": "2024",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciulnița nr. 111/2024",
+"short": "HCL Ciulnița nr. 111/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/ciulnita-il/registru-hcl/193097",
+"council": "ialomita/ciulnita",
+"council_name": "Consiliul Local al Comunei Ciulnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

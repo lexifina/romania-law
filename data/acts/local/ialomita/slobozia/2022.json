@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/ialomita/slobozia/2022",
+"acts": [
+{
+"slug": "hcl-ialomita--slobozia-65-2022",
+"path": "local/ialomita/slobozia/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Slobozia nr. 65/2022 Privind stabilirea salariilor de bază pentru funcțiile publice și personalul contractual din cadrul Aparatului de specialitate al Primarului Comunei Slobozia Județul Giurgiu, care se aplică începând cu luna octombrie 2022. CONSILIUL LOCAL AL COMUNEI SLOBOZIA Intrunit în ședință ordinară din data de 28 sept. 2022 Având în vedere: - Referatul de aprobare nr. 4160/15.09.2022; - Raportul de specialita",
+"short": "HCL Slobozia nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-28",
+"latest": "2022-09-28",
+"portal": "https://www.primariaslobozia.ro/hotarari-ale-consiliului-local",
+"council": "ialomita/slobozia",
+"council_name": "Consiliul Local al Municipiului Slobozia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--slobozia-69-2022",
+"path": "local/ialomita/slobozia/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Slobozia nr. 69/2022 privind aprobarea rectificarii bugetului local de venituri și cheltuieli al comunei Slobozia Județul Giurgiu pe Trim. IN anul 2022 Consiliul Local al Comunei Slobozia, județul Giurgiu, întrunit in ședința ordinară din data de 28.09.2022, Având in vedere: - adresa A.J.F -P.nr.GRG-STZ-19.851/26.09.2022,emisă în baza adresei Ministerului Finanțelor nr.4667238/23.09.2022 privind repartizarea pe trimes",
+"short": "HCL Slobozia nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-28",
+"latest": "2022-09-28",
+"portal": "https://www.primariaslobozia.ro/hotarari-ale-consiliului-local",
+"council": "ialomita/slobozia",
+"council_name": "Consiliul Local al Municipiului Slobozia",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

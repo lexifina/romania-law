@@ -3,6 +3,28 @@
 "shard": "local/hunedoara/lunca-cernii-de-jos/2023",
 "acts": [
 {
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-1-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 1/2023 privind acoperirea definitivă a deficitului secţiunii de dezvoltare a bugetului local al comunei Lunca Cernii de Jos pe anul 2022",
+"short": "HCL Lunca Cernii de Jos nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124328",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--lunca-cernii-de-jos-2-2023",
 "path": "local/hunedoara/lunca-cernii-de-jos/2023/2",
 "kind": "local",
@@ -22,6 +44,116 @@
 "council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-3-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 3/2023 privind aprobarea reţelei şcolare, a unităţilor de învăţământ a anului şcolar 2023 – 2024 de pe teritoriul comunei Lunca Cernii de Jos",
+"short": "HCL Lunca Cernii de Jos nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124387",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-4-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 4/2023 privind aprobarea bugetului local al comunei Lunca Cernii de Jos pe anul 2023 şi estimările pentru anii 2024 - 2026",
+"short": "HCL Lunca Cernii de Jos nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124388",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-5-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 5/2023 privind aprobarea programului de lucrări de interes local ce se vor executa în anul 2023 de către persoanele beneficiare de ajutor social conform Legii nr.416/2001 cu modificările şi completările ulterioare și de către persoanele care prestează muncă în folosul comunității",
+"short": "HCL Lunca Cernii de Jos nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124389",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-6-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 6/2023 privind alegerea președintelui de ședință",
+"short": "HCL Lunca Cernii de Jos nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124390",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-7-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 7/2023 privind acordarea unui mandat special reprezentantului Comunei Lunca Cernii de Jos în Adunarea Generală a ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ „AQUA PREST HUNEDOARA”",
+"short": "HCL Lunca Cernii de Jos nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-15",
+"latest": "2023-02-15",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124412",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +179,95 @@
 }
 },
 {
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-9-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 9/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare drum comunal și drumuri vicinale în comuna Lunca Cernii de Jos, județul Hunedoara”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezetând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Lunca Cernii de Jos nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-15",
+"latest": "2023-02-15",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124414",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-10-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 10/2023 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al Primarului Comunei Lunca Cernii de Jos",
+"short": "HCL Lunca Cernii de Jos nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-15",
+"latest": "2023-02-15",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124415",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-11-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 11/2023",
+"short": "HCL Lunca Cernii de Jos nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-15",
+"latest": "2023-02-15",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124416",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-12-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 12/2023 privind aprobarea colaborării cu MINISTERUL MUNCII ȘI SOLIDARITĂȚII SOCIALE (MMSS) în cadrul proiectului „HUB de servicii MMSS-SII MMSS” cod SMIS 130963",
+"short": "HCL Lunca Cernii de Jos nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-15",
+"latest": "2023-02-15",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124417",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--lunca-cernii-de-jos-13-2023",
 "path": "local/hunedoara/lunca-cernii-de-jos/2023/13",
 "kind": "local",
@@ -66,6 +287,95 @@
 "council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-14-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 14/2023 privind aprobarea bugetului de venituri și cheltuieli pe anul 2023 al SC GOSPOCERNA LUNCA CERNII SRL",
+"short": "HCL Lunca Cernii de Jos nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-17",
+"latest": "2023-03-17",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124428",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-15-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 15/2023 privind necesitatea încheierii unui act adițional la Documentul de Poziție (DP) privind modul de implementare al proiectului „Sistem de Management Integrat al Deșeurilor în județul Hunedoara”",
+"short": "HCL Lunca Cernii de Jos nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-17",
+"latest": "2023-03-17",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124429",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-16-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 16/2023 privind participarea Comunei Lunca Cernii de Jos, la „Planul Național de Redresare și Reziliență Componenta Pilonul VI Politici pentru noua generație, Componenta C15: Educație „Dotarea cu mobilier, material didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe” și a aprobării cheltuielilor legate de proiectul cu titlul „Dotarea cu mobilier, materiale didactice și echipamente a Școlii Gimnaziale Lunca Cernii de Jos și a Școlii Primare Lunca Cernii de Sus”",
+"short": "HCL Lunca Cernii de Jos nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-17",
+"latest": "2023-03-17",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124430",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-17-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 17/2023",
+"short": "HCL Lunca Cernii de Jos nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124442",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -91,6 +401,29 @@
 }
 },
 {
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-19-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 19/2023",
+"short": "HCL Lunca Cernii de Jos nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124444",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--lunca-cernii-de-jos-20-2023",
 "path": "local/hunedoara/lunca-cernii-de-jos/2023/20",
 "kind": "local",
@@ -110,6 +443,73 @@
 "council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-21-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 21/2023 privind alegerea președintelui de ședință",
+"short": "HCL Lunca Cernii de Jos nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124446",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-22-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 22/2023",
+"short": "HCL Lunca Cernii de Jos nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124447",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-23-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 23/2023 privind aprobarea participării UAT Comuna Lunca Cernii de Jos la parteneriatul LEADER cu denumirea „Asociația Microregiunea Tara Hategului-Tinutul Padurenilor GAL”",
+"short": "HCL Lunca Cernii de Jos nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124448",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +535,248 @@
 }
 },
 {
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-25-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 25/2023 privind rectificarea bugetului local al comunei Lunca Cernii de Jos pe anul 2023",
+"short": "HCL Lunca Cernii de Jos nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124514",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-26-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 26/2023 privind aprobarea Regulamentului cu privire la acordarea unor forme de sprijin financiar de la bugetul local al comunei Lunca Cernii de Jos pentru unitățile de cult aparținând cultelor religioase recunoscute din România și a aprobării acordări unui sprijin financiar de la bugetul local al comunei Lunca Cernii de Jos pentru unitățile de cult aparținând cultelor religioase recunoscute din România",
+"short": "HCL Lunca Cernii de Jos nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124515",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-27-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 27/2023 privind revocarea Hotărârii Consiliului Local nr.38/2022 privind aprobarea Regulamentului de organizare și funcționare a Serviciului public de administrare a domeniului public și privat al comunei Lunca Cernii de Jos",
+"short": "HCL Lunca Cernii de Jos nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124516",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-28-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 28/2023 privind aprobarea tăierii și valorificării masei lemnoase provenită de pe pășunea comunei, ce aparține domeniului privat al unității administrativ-teritoriale Lunca Cernii de Jos, din afara fondului forestier",
+"short": "HCL Lunca Cernii de Jos nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124517",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-29-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 29/2023 privind aprobarea cotizației lunare pentru exercitarea funcției de audit public intern în sistem de cooperare în cadrul Filialei Județene Hunedoara a Asociației Comunelor din România",
+"short": "HCL Lunca Cernii de Jos nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124518",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-30-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 30/2023 privind rectificarea bugetului local al comunei Lunca Cernii de Jos pe anul 2023",
+"short": "HCL Lunca Cernii de Jos nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124533",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-31-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 31/2023 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al Comunei Lunca Cernii de Jos",
+"short": "HCL Lunca Cernii de Jos nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124544",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-32-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 32/2023 privind aprobarea solicitării trecerii cu titlu gratuit a drumului auto forestier DAF Bordu-parțial 8,5 km, a drumului auto forestier Mihu Dobra-integral 3 km, a drumului auto forestier Mihut-Valea de Pește-integral 2 km, a drumului auto forestier Mihut-Dobra-parțial 0,5 km din domeniul public al statului și din administrarea Regiei Naționale a Pădurilor-Romsilva în domeniul public al comunei Lunca Cernii de Jos, Județul Hunedoara",
+"short": "HCL Lunca Cernii de Jos nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124553",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-33-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 33/2023 privind abrogarea Hotărârii Consiliului Local nr. 13/2023 cu privire la instituirea taxei de peisaj pentru utilizarea infrastructurii publice locale de drumuri",
+"short": "HCL Lunca Cernii de Jos nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124554",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-34-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 34/2023 privind alegerea președintelui de ședință al Consiliului Local al comunei Lunca Cernii de Jos pentru perioada 01.08.2023-31.10.2023",
+"short": "HCL Lunca Cernii de Jos nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124555",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-35-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 35/2023 privind rectificarea bugetului local al comunei Lunca Cernii de Jos pe anul 2023",
+"short": "HCL Lunca Cernii de Jos nr. 35/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-25",
+"latest": "2023-08-25",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124576",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--lunca-cernii-de-jos-36-2023",
 "path": "local/hunedoara/lunca-cernii-de-jos/2023/36",
 "kind": "local",
@@ -154,6 +796,138 @@
 "council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-37-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 37/2023 privind aprobarea eșalonării la plată a obligațiilor fiscale a Comunei Lunca Cernii de Jos",
+"short": "HCL Lunca Cernii de Jos nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/124619",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-38-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 38/2023 privind rectificarea bugetului local al comunei Lunca Cernii de Jos pe anul 2023",
+"short": "HCL Lunca Cernii de Jos nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/128330",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-39-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 39/2023 privind aprobarea Strategiei de contractare și a Documentației pentru atribuirea contractului de achiziție publică având ca obiect „Prestarea serviciului de salubrizare în zona de colectare 3 Centru, Județul Hunedoara”, mandatarea Asociației să organizeze procedura de achiziție până la finalizarea acesteia, precum și mandatarea Președintelui să semneze contractul de achiziție",
+"short": "HCL Lunca Cernii de Jos nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/128331",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-40-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 40/2023 privind aprobarea Actului Adițional nr.2 la Contractul de prestare a serviciului de salubrizare în zona de colectare 4 centru, județul Hunedoara, nr. 44/167 din 10.10.2022 precum și mandatarea Președintelui Asociației să semneze Actul Adițional",
+"short": "HCL Lunca Cernii de Jos nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/128332",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-41-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 41/2023 privind numirea primarului și reprezentantul Consiliului local al comunei Lunca Cernii de Jos în Consiliul de administrație al Școlii Gimnaziale Lunca Cernii de Jos",
+"short": "HCL Lunca Cernii de Jos nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/128333",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-42-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 42/2023 privind aprobarea actualizării Statutului Asociației de Dezvoltare Intercomunitară „Sistemul Integrat de gestionare a deșeurilor județul Hunedoara”",
+"short": "HCL Lunca Cernii de Jos nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/128334",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +972,28 @@
 "council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-45-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 45/2023 privind alegerea președintelui de ședință al Consiliului Local al comunei Lunca Cernii de Jos pentru perioada 01.11.2023 – 31.01.2024",
+"short": "HCL Lunca Cernii de Jos nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-26",
+"latest": "2023-10-26",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/128350",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

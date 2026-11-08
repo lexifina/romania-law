@@ -3,6 +3,21 @@
  "shard": "local/iasi/barnova/2026",
  "acts": [
   {
+   "slug": "hcl-iasi--barnova-1-2026",
+   "path": "local/iasi/barnova/2026/1",
+   "short": "HCL Bârnova nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 1/2026 privind aprobarea de către Consiliul Local al comunei Bârnova a raportului cu privire la asistenții personali și indemnizațiile nete la sfârșitul lunii decembrie 2025",
+   "url": "https://emol.ro/barnova-is/registru-hcl/249449",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/249449",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-10-2026",
    "path": "local/iasi/barnova/2026/10",
    "short": "HCL Bârnova nr. 10/2026",
@@ -163,6 +178,21 @@
      "from": "2026-10-14",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/291533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-11-2026",
+   "path": "local/iasi/barnova/2026/11",
+   "short": "HCL Bârnova nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 11/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/249459",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/249459",
      "sha256": null
     }
    ]
@@ -363,6 +393,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-16-2026",
+   "path": "local/iasi/barnova/2026/16",
+   "short": "HCL Bârnova nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 16/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/254738",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/254738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-17-2026",
+   "path": "local/iasi/barnova/2026/17",
+   "short": "HCL Bârnova nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 17/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/254739",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/254739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-18-2026",
+   "path": "local/iasi/barnova/2026/18",
+   "short": "HCL Bârnova nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 18/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/254740",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/254740",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-19-2026",
    "path": "local/iasi/barnova/2026/19",
    "short": "HCL Bârnova nr. 19/2026",
@@ -388,6 +463,36 @@
      "from": "2026-02-13",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/249450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-20-2026",
+   "path": "local/iasi/barnova/2026/20",
+   "short": "HCL Bârnova nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 20/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/254742",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/254742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-21-2026",
+   "path": "local/iasi/barnova/2026/21",
+   "short": "HCL Bârnova nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 21/2026 privind aprobarea stabilirii destinației terenului în suprafață de 580 mp identificată cu nr. Cadastral 77125, inventariată în domeniul privat prin HCL nr. 139 din 27.10.2025, mai exact scoatere la vânzare și realizare raport de evaluare",
+   "url": "https://emol.ro/barnova-is/registru-hcl/254743",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/254743",
      "sha256": null
     }
    ]
@@ -448,6 +553,21 @@
      "from": "2026-03-10",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/254747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-26-2026",
+   "path": "local/iasi/barnova/2026/26",
+   "short": "HCL Bârnova nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 26/2026 privind declararea ca obiectiv de interes public local a proiectului „Ansamblul Memorial Internațional al Eroilor, al Solidarității Europene și Euroatlantice de pe dealul Bârnova, Iași” identificarea și rezervarea terenului necesar realizării acestuia inițierea procedurii legale de diminuare a suprafeței de pajiște închiriată în baza Contractului de închiriere nr. 6494 din 05.04.2019 încheiat cu SC Bostanete Agro SRL",
+   "url": "https://emol.ro/barnova-is/registru-hcl/257371",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/257371",
      "sha256": null
     }
    ]
@@ -588,6 +708,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-35-2026",
+   "path": "local/iasi/barnova/2026/35",
+   "short": "HCL Bârnova nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 35/2026 privind aprobarea vânzării directe către d-nul Acatrinei Daniel-Florin a terenului în suprafaţă de 764 mp cu nr. cadastral 72652 amplasat în sat Pietrăria, str. Sf. Ap. Petru, nr. 192 C, comuna Bârnova, județ Iași teren atribuit în temeiul Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, cu modificările ulterioare, prin Hotărârea Consiliului Local Bârnova cu nr. 43 din 21.04.2021 ca urmare finalizării construcţiei prin procesul verbal de recepţie/certificat de atestare a edificării construcției cu nr. 11650 din 26.06.2024",
+   "url": "https://emol.ro/barnova-is/registru-hcl/258382",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/258382",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-36-2026",
    "path": "local/iasi/barnova/2026/36",
    "short": "HCL Bârnova nr. 36/2026",
@@ -648,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-4-2026",
+   "path": "local/iasi/barnova/2026/4",
+   "short": "HCL Bârnova nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 4/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/249452",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/249452",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-40-2026",
    "path": "local/iasi/barnova/2026/40",
    "short": "HCL Bârnova nr. 40/2026",
@@ -688,6 +838,21 @@
      "from": "2026-04-24",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/263386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-43-2026",
+   "path": "local/iasi/barnova/2026/43",
+   "short": "HCL Bârnova nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 43/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/263387",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/263387",
      "sha256": null
     }
    ]
@@ -753,6 +918,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-48-2026",
+   "path": "local/iasi/barnova/2026/48",
+   "short": "HCL Bârnova nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 48/2026 privind aprobarea introducerii în domeniul privat al Comunei Bârnova a suprafeței de teren de 1600 mp amplasată în tarlaua 47, parcela 2691/2, sat Bârnova, str. Grigore Ghica Vodă al II-lea, nr. 9 și stabilire destinatie scoatere la vânzare",
+   "url": "https://emol.ro/barnova-is/registru-hcl/263392",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/263392",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-49-2026",
    "path": "local/iasi/barnova/2026/49",
    "short": "HCL Bârnova nr. 49/2026",
@@ -763,6 +943,21 @@
      "from": "2026-04-24",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/263393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-5-2026",
+   "path": "local/iasi/barnova/2026/5",
+   "short": "HCL Bârnova nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 5/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/249453",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/249453",
      "sha256": null
     }
    ]
@@ -918,6 +1113,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-6-2026",
+   "path": "local/iasi/barnova/2026/6",
+   "short": "HCL Bârnova nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 6/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/249454",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/249454",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-60-2026",
    "path": "local/iasi/barnova/2026/60",
    "short": "HCL Bârnova nr. 60/2026",
@@ -933,6 +1143,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-61-2026",
+   "path": "local/iasi/barnova/2026/61",
+   "short": "HCL Bârnova nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 61/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/267564",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/267564",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-62-2026",
    "path": "local/iasi/barnova/2026/62",
    "short": "HCL Bârnova nr. 62/2026",
@@ -943,6 +1168,21 @@
      "from": "2026-05-21",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/267565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-63-2026",
+   "path": "local/iasi/barnova/2026/63",
+   "short": "HCL Bârnova nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 63/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/267566",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/267566",
      "sha256": null
     }
    ]
@@ -1038,6 +1278,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-7-2026",
+   "path": "local/iasi/barnova/2026/7",
+   "short": "HCL Bârnova nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 7/2026 privind aprobarea Regulamentului de acordare a ajutoarelor de urgenţă/ajutoare comunitare/ajutoarelor de înmormântare ce vor fi acordate de către primarul comunei Bârnova în anul 2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/249455",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/249455",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-70-2026",
    "path": "local/iasi/barnova/2026/70",
    "short": "HCL Bârnova nr. 70/2026",
@@ -1048,6 +1303,21 @@
      "from": "2026-06-24",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/274047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-71-2026",
+   "path": "local/iasi/barnova/2026/71",
+   "short": "HCL Bârnova nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 71/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/274048",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/274048",
      "sha256": null
     }
    ]
@@ -1143,6 +1413,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--barnova-78-2026",
+   "path": "local/iasi/barnova/2026/78",
+   "short": "HCL Bârnova nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 78/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/274056",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/274056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-79-2026",
+   "path": "local/iasi/barnova/2026/79",
+   "short": "HCL Bârnova nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 79/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/274057",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/274057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-8-2026",
+   "path": "local/iasi/barnova/2026/8",
+   "short": "HCL Bârnova nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 8/2026 privind aprobarea ajutoarelor de urgență/comunitare și plăților efectuate în perioada 2023-2025 în baza hotărârilor Consiliului Local Bârnova și dispozițiilor primarului Comunei Bârnova",
+   "url": "https://emol.ro/barnova-is/registru-hcl/249456",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/249456",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--barnova-80-2026",
    "path": "local/iasi/barnova/2026/80",
    "short": "HCL Bârnova nr. 80/2026",
@@ -1198,6 +1513,21 @@
      "from": "2026-07-30",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/279187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-84-2026",
+   "path": "local/iasi/barnova/2026/84",
+   "short": "HCL Bârnova nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 84/2026 privind aprobarea încheierii unui contract de consultanță, asistență juridică și reprezentare cu un avocat specializat pentru derularea procedurii de expropriere drumuri pentru cauză de utilitate publică",
+   "url": "https://emol.ro/barnova-is/registru-hcl/280519",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/280519",
      "sha256": null
     }
    ]
@@ -1303,6 +1633,36 @@
      "from": "2026-08-14",
      "units": 1,
      "source_url": "https://emol.ro/barnova-is/registru-hcl/280525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-91-2026",
+   "path": "local/iasi/barnova/2026/91",
+   "short": "HCL Bârnova nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 91/2026 privind aprobarea de către Consiliul Local al comunei Bârnova a raportului cu privire la asistenții personali și indemnizațiile nete la sfârșitul lunii iunie 2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/280526",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/280526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--barnova-92-2026",
+   "path": "local/iasi/barnova/2026/92",
+   "short": "HCL Bârnova nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bârnova nr. 92/2026",
+   "url": "https://emol.ro/barnova-is/registru-hcl/280527",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/barnova-is/registru-hcl/280527",
      "sha256": null
     }
    ]

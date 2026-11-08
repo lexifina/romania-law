@@ -3,6 +3,94 @@
 "shard": "local/iasi/bals/2024",
 "acts": [
 {
+"slug": "hcl-iasi--bals-1-2024",
+"path": "local/iasi/bals/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 1/2024 privind aprobarea ordinii de zi a ședinței consiliului local",
+"short": "HCL Balș nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180402",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-2-2024",
+"path": "local/iasi/bals/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 2/2024 privind aprobarea procesului verbal al ședinței consiliului local",
+"short": "HCL Balș nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180403",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-3-2024",
+"path": "local/iasi/bals/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 3/2024 privind alegerea președintelui de ședință al Consiliului Local al Comunei Balș, județul Iași, pentru lunile februarie, martie și aprilie anul 2024",
+"short": "HCL Balș nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180404",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-4-2024",
+"path": "local/iasi/bals/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 4/2024 privind aprobarea modificării și completării Regulamentului de Organizare și Funcționare (ROF) al Consiliului local al Comunei Balș, Județul Iași",
+"short": "HCL Balș nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180405",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-5-2024",
 "path": "local/iasi/bals/2024/5",
 "kind": "local",
@@ -25,6 +113,50 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-6-2024",
+"path": "local/iasi/bals/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 6/2024 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav în anul 2023 sem II angajați ai Primăriei Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180407",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-7-2024",
+"path": "local/iasi/bals/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 7/2024 privind aprobarea Programului de activități pentru beneficiarii Legii nr. 196/2016",
+"short": "HCL Balș nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180411",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-8-2024",
 "path": "local/iasi/bals/2024/8",
 "kind": "local",
@@ -44,6 +176,94 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-9-2024",
+"path": "local/iasi/bals/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 9/2024 privind aprobarea Programului anual de achiziții publice a Comunei Balș, județul Iași, pentru anul 2024",
+"short": "HCL Balș nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180416",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-10-2024",
+"path": "local/iasi/bals/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 10/2024 privind aprobarea achiziționării unor servicii juridice de avocatură în vederea asistenței și reprezentării intereselor pentru apărarea Comunei Balș, județul Iași și ale autorităților publice locale din comuna Balș, județul Iași",
+"short": "HCL Balș nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180417",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-11-2024",
+"path": "local/iasi/bals/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 11/2024 privind aprobarea contractării unei firme de prestări servicii de cadastru și fond funciar",
+"short": "HCL Balș nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180421",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-12-2024",
+"path": "local/iasi/bals/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 12/2024 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021 cu modificările și completările ulterioare, prin Actul Adițional nr. 5",
+"short": "HCL Balș nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180422",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +311,72 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-15-2024",
+"path": "local/iasi/bals/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 15/2024 privind aprobarea decontării de la bugetul local a cheltuielilor de transport de la domiciliu la serviciu și retur pentru funcționarii publici și personalul contractual care sunt domiciliați pe raza altor localități din afara ariei teritoriale a comunei Balș și care își desfășoară activitatea profesională la Primăria Comunei Balș, județul Iași, precum și modalitatea de decontare a acestora",
+"short": "HCL Balș nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180428",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-16-2024",
+"path": "local/iasi/bals/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 16/2024 privind aprobarea reamenajării Parcului de Joacă și Recreere Viitorul Tineretului din satul Boureni, comuna Balș, județul Iași, pe o suprafață de aproximativ 10.000 mp din vechiul amplasament al acestuia",
+"short": "HCL Balș nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180429",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-17-2024",
+"path": "local/iasi/bals/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 17/2024 privind aprobarea oportunității amenajării unui loc de joacă în satul Balș, comuna Balș, județul Iași",
+"short": "HCL Balș nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180431",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-18-2024",
 "path": "local/iasi/bals/2024/18",
 "kind": "local",
@@ -113,6 +399,116 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-19-2024",
+"path": "local/iasi/bals/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 19/2024 privind aprobarea ordinii de zi a ședinței consiliului local",
+"short": "HCL Balș nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180433",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-20-2024",
+"path": "local/iasi/bals/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 20/2024 privind aprobarea procesului-verbal al ședinței consiliului local",
+"short": "HCL Balș nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180434",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-21-2024",
+"path": "local/iasi/bals/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 21/2024 privind validarea Dispoziției Primarului Comunei Balș, nr. 347 din 15.12.2023 privind rectificarea bugetului de venituri și cheltuieli al Comunei Balș, trimestrul IV anul 2023",
+"short": "HCL Balș nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180435",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-22-2024",
+"path": "local/iasi/bals/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 22/2024 privind validarea Dispoziției Primarului Comunei Balș, nr. 350 din 21.12.2023 privind rectificarea bugetului de venituri și cheltuieli al Comunei Balș, trimestrul IV anul 2023",
+"short": "HCL Balș nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180436",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-23-2024",
+"path": "local/iasi/bals/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 23/2024 privind aprobarea bugetului de venituri și cheltuieli al Comunei Balș, pentru anul 2024 și estimările pentru următorii trei ani, respectiv 2025-2026-2027",
+"short": "HCL Balș nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180439",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-24-2024",
 "path": "local/iasi/bals/2024/24",
 "kind": "local",
@@ -132,6 +528,138 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-25-2024",
+"path": "local/iasi/bals/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 25/2024 privind aprobarea ordinii de zi a ședinței consiliului local",
+"short": "HCL Balș nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180440",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-26-2024",
+"path": "local/iasi/bals/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 26/2024 privind aprobarea procesului verbal al ședinței consiliului local",
+"short": "HCL Balș nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180441",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-27-2024",
+"path": "local/iasi/bals/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 27/2024 privind aprobarea Regulamentului privind amplasarea și autorizarea mijloacelor de publicitate pe raza comunei Balș, județul Iași",
+"short": "HCL Balș nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180443",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-28-2024",
+"path": "local/iasi/bals/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 28/2024 privind aprobarea acordării unui ajutor constând în materiale de construcții în valoare de maxim 10.000 lei Comunității Cultului Penticostal - Biserica lui Dumnezeu Boureni, județul Iași",
+"short": "HCL Balș nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180444",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-29-2024",
+"path": "local/iasi/bals/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 29/2024 privind aprobarea oportunității concesionării privind terenul în suprafață de 993 mp care aparține domeniului privat al Comunei Balș, județul Iași, identificat cu număr cadastral 62149 și număr de carte funciară 62149",
+"short": "HCL Balș nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180445",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-30-2024",
+"path": "local/iasi/bals/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 30/2024 privind aprobarea încheierii privind terenul în suprafață totală de 16,9145 ha având categoria de folosință pajiști (pășune) care aparține domeniului privatal Comunei Balș, județul Iași în T29, parcelele 632, 633, 634, 635, 636, 637, 638, 639, identificat cu număr cadastral 61207 și număr de carte funciară 61207",
+"short": "HCL Balș nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180449",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +751,412 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-35-2024",
+"path": "local/iasi/bals/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 35/2024 privind aprobarea contului de execuție bugetară și a indicatorilor privind execuția bugetului local la data de 31.12.2023",
+"short": "HCL Balș nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180454",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-36-2024",
+"path": "local/iasi/bals/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 36/2024 privind aprobarea Actului Adițional pentru completarea și actualizarea Statutului Asociației Regionale a Serviciilor de Apă și Canal Iași - ARSACIS",
+"short": "HCL Balș nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180455",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-37-2024",
+"path": "local/iasi/bals/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 37/2024 privind aprobarea ordinii de zi a ședinței consiliului local",
+"short": "HCL Balș nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180456",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-38-2024",
+"path": "local/iasi/bals/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 38/2024 privind aprobarea procesului verbal al ședinței consiliului local",
+"short": "HCL Balș nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180457",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-39-2024",
+"path": "local/iasi/bals/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 39/2024",
+"short": "HCL Balș nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180510",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-40-2024",
+"path": "local/iasi/bals/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 40/2024",
+"short": "HCL Balș nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180511",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-41-2024",
+"path": "local/iasi/bals/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 41/2024",
+"short": "HCL Balș nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180545",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-42-2024",
+"path": "local/iasi/bals/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 42/2024",
+"short": "HCL Balș nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180546",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-43-2024",
+"path": "local/iasi/bals/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 43/2024",
+"short": "HCL Balș nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180547",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-44-2024",
+"path": "local/iasi/bals/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 44/2024",
+"short": "HCL Balș nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180548",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-45-2024",
+"path": "local/iasi/bals/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 45/2024",
+"short": "HCL Balș nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180555",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-46-2024",
+"path": "local/iasi/bals/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 46/2024",
+"short": "HCL Balș nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180556",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-47-2024",
+"path": "local/iasi/bals/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 47/2024",
+"short": "HCL Balș nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180557",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-48-2024",
+"path": "local/iasi/bals/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 48/2024",
+"short": "HCL Balș nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180575",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-49-2024",
+"path": "local/iasi/bals/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 49/2024 privind aprobarea ordinii de zi a ședinței consiliului local",
+"short": "HCL Balș nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180576",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-50-2024",
+"path": "local/iasi/bals/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 50/2024 privind aprobarea procesului verabl al ședinței consiliului local",
+"short": "HCL Balș nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180577",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-51-2024",
+"path": "local/iasi/bals/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 51/2024 privind aprobarea Actului Adițional pentru completarea și actualizarea Statutului Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS",
+"short": "HCL Balș nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180578",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-52-2024",
+"path": "local/iasi/bals/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 52/2024 privind rectificarea bugetului de venituri și cheltuieli al Comunei Balș pe trimestrul II anul 2024 și modificarea programului de investiți anul 2024",
+"short": "HCL Balș nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180592",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-53-2024",
 "path": "local/iasi/bals/2024/53",
 "kind": "local",
@@ -242,6 +1176,28 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-54-2024",
+"path": "local/iasi/bals/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 54/2024 privind aprobarea închirierii privind terenul în suprafață totală de 22,00 ha având categoria de folosință pajiști (pășune) care apaține domeniului privat al Comunei Balș, județul Iași în T14-P284, T15-P305",
+"short": "HCL Balș nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180594",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -289,6 +1245,94 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-57-2024",
+"path": "local/iasi/bals/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 57/2024 privind aprobarea ordinii de zi a ședinței consiliului local",
+"short": "HCL Balș nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180601",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-58-2024",
+"path": "local/iasi/bals/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 58/2024 privind aprobarea procesului verbal al ședinței consiliului local",
+"short": "HCL Balș nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180602",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-59-2024",
+"path": "local/iasi/bals/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 59/2024 privind alegerea președintelui de ședință al Consiliului Local al Comunei Balș, județul Iași pentru lunile mai, iunie și iulie anul 2024",
+"short": "HCL Balș nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180612",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-60-2024",
+"path": "local/iasi/bals/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 60/2024 privind aprobarea graficului de ședințe al Consiliului local pentru trimestrul II anul 2024",
+"short": "HCL Balș nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/bals-is/registru-hcl/180613",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-61-2024",
 "path": "local/iasi/bals/2024/61",
 "kind": "local",
@@ -311,6 +1355,28 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-62-2024",
+"path": "local/iasi/bals/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 62/2024 privind aprobarea documentației de atribuire și aprobarea concesionării prin licitație publică a terenului în suprafață de 993 mp având categoria de folosință arabil, situat în intravilanul extins conform PUZ al satului Boureni, comuna Balș, județul Iași, identificat prin număr cadastral 62149 și număr de carte funciară 62149, care aparține domeniului privat al Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/bals-is/registru-hcl/180661",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-63-2024",
 "path": "local/iasi/bals/2024/63",
 "kind": "local",
@@ -330,6 +1396,28 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-64-2024",
+"path": "local/iasi/bals/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 64/2024 privind aprobarea dezmembrării în două loturi a imobilului teren în suprafață totală de 6490 mp înscris în cartea funciară nr. 63013 a localității Balș având număr cadastral 63013, situat în extravilanul comunei Balș, aflat la dispoziția Comisiei Locale de Fond Funciar Balș, județul Iași, în vederea atribuirii suprafeței de 1100 mp - lot 1 numitului Jipa Gh. Costache și întocmirii titlului de proprietate pe numele acestuia",
+"short": "HCL Balș nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/bals-is/registru-hcl/180668",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -377,6 +1465,116 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-67-2024",
+"path": "local/iasi/bals/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 67/2024 privind aprobarea ordinii de zi a ședinței consiliului local",
+"short": "HCL Balș nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/bals-is/registru-hcl/180675",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-68-2024",
+"path": "local/iasi/bals/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 68/2024 privind aprobarea procesului verbal al ședinței consiliului local",
+"short": "HCL Balș nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/bals-is/registru-hcl/180676",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-69-2024",
+"path": "local/iasi/bals/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 69/2024 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente Programului pentru școli al României pentru anul școlar 2024-2025 și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/bals-is/registru-hcl/180682",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-70-2024",
+"path": "local/iasi/bals/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 70/2024 privind aprobarea contului de execuție bugetară și a indicatorilor privind execuția bugetului local la data de 31.03.2024",
+"short": "HCL Balș nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/bals-is/registru-hcl/180683",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-71-2024",
+"path": "local/iasi/bals/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 71/2024 privind rectificarea bugetului de venituri și cheltuieli al Comunei Balș pe trimestrul II anul 2024 precum și modificarea programului de investiții anul 2024",
+"short": "HCL Balș nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/bals-is/registru-hcl/180684",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-72-2024",
 "path": "local/iasi/bals/2024/72",
 "kind": "local",
@@ -421,6 +1619,95 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-74-2024",
+"path": "local/iasi/bals/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 74/2024",
+"short": "HCL Balș nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/bals-is/registru-hcl/180692",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-75-2024",
+"path": "local/iasi/bals/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 75/2024 privind aprobarea ordinii de zi a ședinței consiliului local",
+"short": "HCL Balș nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/bals-is/registru-hcl/180693",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-76-2024",
+"path": "local/iasi/bals/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 76/2024 privind aprobarea procesului verbal al ședinței consiliului local",
+"short": "HCL Balș nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/bals-is/registru-hcl/180694",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-77-2024",
+"path": "local/iasi/bals/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 77/2024 privind modificarea și completarea Hotărârii Consiliului Local al Comunei Balș nr. 145 din 25 noiembrie 2022 și a Hotărârii Consiliului Local al Comunei Balș, nr. 104 din 3 august 2023 privind aprobarea implementării proiectului ''Înființare rețea de canalizare în comuna Balș, județul Iași''",
+"short": "HCL Balș nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/bals-is/registru-hcl/180699",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-78-2024",
 "path": "local/iasi/bals/2024/78",
 "kind": "local",
@@ -440,6 +1727,73 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-79-2024",
+"path": "local/iasi/bals/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 79/2024",
+"short": "HCL Balș nr. 79/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/bals-is/registru-hcl/180704",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--bals-80-2024",
+"path": "local/iasi/bals/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 80/2024 privind aprobarea Programului de acțiune comunitară pe 2024 pentru prevenirea și combaterea riscului de sărăcie și excluziune socială în Comuna Balș, județul Iași",
+"short": "HCL Balș nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/bals-is/registru-hcl/180705",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-81-2024",
+"path": "local/iasi/bals/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 81/2024 privind aprobarea completării Programului anual de achiziții publice al Comunei Balș, Județul Iași pentru anul 2024",
+"short": "HCL Balș nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/bals-is/registru-hcl/180706",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -862,6 +2216,160 @@
 }
 },
 {
+"slug": "hcl-iasi--bals-101-2024",
+"path": "local/iasi/bals/2024/101",
+"kind": "local",
+"year": "2024",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 101/2024 privind aprobarea oportunității vânzării terenului în suprafață totală de 980 mp reieșită la măsurători ( din acte 100 mp) situat în intravilanul extins conform PUG al satului Balș, comuna Balș, având indicatorii cadastrali T19 parcela 423/17 identificat cu număr cadastral 64165 și număr de carte funciară 64165 care aparține domeniului privat al Comunei Balș",
+"short": "HCL Balș nr. 101/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/bals-is/registru-hcl/220761",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-102-2024",
+"path": "local/iasi/bals/2024/102",
+"kind": "local",
+"year": "2024",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 102/2024 privind aprobarea oportunității vânzării terenului în suprafață totală de 100 mp, situat în intravilanul extins conform PUG al satului Balș, comuna Balș, având indicatorii cadastrali T19 parcela 423/11, identificat cu număr cadastral 64159 și număr de carte funciară 64159 care aparțin aparțin domeniului privat al Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 102/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/bals-is/registru-hcl/220770",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-103-2024",
+"path": "local/iasi/bals/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 103/2024 privind aprobarea oportunității vânzării terenului în suprafață totală de 1029 mp reieșită la măsurători ( din acte 1000 mp) situat în intravilanul extins conform PUG al satului Balș, comuna Balș, având indicatorii cadastrali T19 parcela 423/14, identificat cu număr cadastral 64162 și număr de carte funciară 64162 care aparțin domeniului privat al Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 103/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/bals-is/registru-hcl/220771",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-104-2024",
+"path": "local/iasi/bals/2024/104",
+"kind": "local",
+"year": "2024",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 104/2024 privind aprobarea oportunității vânzării terenului în suprafață totală de 1205 mp reieșită la măsurători ( din acte 1000 mp ) situat în intravilanul extinsconform PUG al satului Balș, comuna Balș, având indicatorii cadastrali T19 parcela 423/13, identificat cu număr cadastral 64161 și număr de carte funciară 64161 care aparțin domeniului privat al Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 104/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/bals-is/registru-hcl/220772",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-105-2024",
+"path": "local/iasi/bals/2024/105",
+"kind": "local",
+"year": "2024",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 105/2024 privind aprobarea oportunității vânzării terenului în suprafață totală de 1019 mp reiesită la măsurători ( din acte 1000 mp) situat în intravilanul extins conform PUG al satului Balș, comuna Balș, având indicatorii cadastrali T19 parcela 423/12, identificat cu număr cadastral 64160 și număr de carte funciară 64160 care aparțin domeniului privat al Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 105/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/bals-is/registru-hcl/220795",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-106-2024",
+"path": "local/iasi/bals/2024/106",
+"kind": "local",
+"year": "2024",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 106/2024 privind aprobarea oportunității vânzării terenului în suprafață totală de 100 mp, situat în intravilanul extins conform PUG al satului Balș, comuna Balș, având indicatorii cadastrali T19 parcela 423/10, identificat cu număr cadastral 64158 și număr de carte funciară 64158 care parține domeniului privat al Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 106/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/bals-is/registru-hcl/220796",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-107-2024",
+"path": "local/iasi/bals/2024/107",
+"kind": "local",
+"year": "2024",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 107/2024 privind aprobarea oportunității vânzării terenului în suprafață totală de 1106 mp reiesită la măsurători ( din acte 1000 mp) situat în intravilanul extins conform PUG al satului Balș, comuna Balș, având indicatorii cadastrali T19 parcela 423/7, identificat cu număr cadastral 64155 și număr de carte funciară 64155 care aparține domeniului privat al Comunei Balș, județul Iași",
+"short": "HCL Balș nr. 107/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://emol.ro/bals-is/registru-hcl/220797",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--bals-108-2024",
 "path": "local/iasi/bals/2024/108",
 "kind": "local",
@@ -1079,6 +2587,160 @@
 "council_name": "Consiliul Local al Comunei Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--bals-118-2024",
+"path": "local/iasi/bals/2024/118",
+"kind": "local",
+"year": "2024",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 118/2024 privind aprobarea vânzării, a documentației și a valorii minime stabile pentru vânzarea prin licitație publică a terenului în suprafață totală de 980 mp reiesită la măsurători ( din acte 1000 mp) pe care se afllă amplasată o construcție, situată în intravilanul extins conform PUG al satului Balș, comuna Balș, având indicatorii cadastrali T19 parcela 423/17, identificat cu număr cadastral 64165 și număr de carte funciară 64165 care aparține domeniului public",
+"short": "HCL Balș nr. 118/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/220824",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-119-2024",
+"path": "local/iasi/bals/2024/119",
+"kind": "local",
+"year": "2024",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 119/2024 privind aprobarea vânzării a documentației și valorii minime stabilite pentru vânzarea prin licitație a terenului în suprafață totală de 1000 mp, pe care se află amplsată o construcție, situat în intravilanul extins conform PUG al satului Balș, comuna Balș, având indicatorii cadastrali T19 parcela 423/11, identificat cu număr cadastral 64159 și număr de carte funciară 64159 care aparține domeniului privat al Comunei Balș",
+"short": "HCL Balș nr. 119/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/220831",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-120-2024",
+"path": "local/iasi/bals/2024/120",
+"kind": "local",
+"year": "2024",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 120/2024 privind aprobarea vânzării, a documentației și valorii minime stabilite pentru vânzarea prin licitație publică a terenului în suprafață totală de 100 mp, pe care se află amplasată o construcție, situată în intravilanul extins conform PUG al satului Balș, având indicatorii cadastrali T19 parcela 423/10 identificat cu număr cadastral 64158 și număr de carte funciară 64158 care aparține domeniului privat al comunei Balș",
+"short": "HCL Balș nr. 120/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/220836",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-121-2024",
+"path": "local/iasi/bals/2024/121",
+"kind": "local",
+"year": "2024",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 121/2024 privind aprobarea vânzării a documentației și valorii minime stabilite pentru vânzarea prin licitație publică a terenului în suprafață totală de 1106 reiesită la măsurători ( din acte 1000 mp) pe care se află amplasată o construcție situată în intravilanul extins conform PUG al satului Balș",
+"short": "HCL Balș nr. 121/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/220841",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-122-2024",
+"path": "local/iasi/bals/2024/122",
+"kind": "local",
+"year": "2024",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 122/2024 privind aprobarea vânzării a documentației și valorii minime stabilite pentru vânzarea prin licitație publică a terenului în suprafață totală de 1019 mp reiesită la măsurători pe care se amplasează o construcție",
+"short": "HCL Balș nr. 122/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/223169",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-123-2024",
+"path": "local/iasi/bals/2024/123",
+"kind": "local",
+"year": "2024",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 123/2024 privind aprobarea vânzării, a documentației și valorii minime stabilite pentru vânzarea prin licitație publică a terenului în suprafață toatlă de 1205 mp reiesită la măsurători",
+"short": "HCL Balș nr. 123/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/223170",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--bals-124-2024",
+"path": "local/iasi/bals/2024/124",
+"kind": "local",
+"year": "2024",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balș nr. 124/2024 privind aprobarea vânzării a documentației și valorii minime stabilite pentru vânzarea prin licitație publică a terenului în suprafață totală de 1029 mp reiesită la măsurători",
+"short": "HCL Balș nr. 124/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/bals-is/registru-hcl/223171",
+"council": "iasi/bals",
+"council_name": "Consiliul Local al Comunei Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

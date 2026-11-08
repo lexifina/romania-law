@@ -3,6 +3,117 @@
 "shard": "local/hunedoara/vulcan/2014",
 "acts": [
 {
+"slug": "hcl-hunedoara--vulcan-4-2014",
+"path": "local/hunedoara/vulcan/2014/4",
+"kind": "local",
+"year": "2014",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 4/2014 privind aprobarea bugetului local al municipiului Vulcan pe anul 2014 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând nota de fundamentare a primarului municipiului Vulcan prin care se propune aprobarea bugetului de venituri și cheltuieli al municipiului Vulcan pe anul 2014, Văzând raportul compartimentului de resort din cadrul aparatului de spccialitate al primarului, precum și avizul comisiei",
+"short": "HCL Vulcan nr. 4/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-01-31",
+"latest": "2014-01-31",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2014-000030e6?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--vulcan-9-2014",
+"path": "local/hunedoara/vulcan/2014/9",
+"kind": "local",
+"year": "2014",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 9/2014 privind aprobarea Planului de acțiuni de interes local pe anul 2014 conform Legii nr. 41 6/2001 privind venitul minim garantat CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Având în vedere nota de fundamentare a primarului municipiului Vulcan prin care se propune aprobarea Planului de acțiuni pe anul 2014 conform Legii nr. 416/2001 privind venitul minim garantat, cu modificările și completările ulterioa",
+"short": "HCL Vulcan nr. 9/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-01-31",
+"latest": "2014-01-31",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2014-000030e6?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--vulcan-17-2014",
+"path": "local/hunedoara/vulcan/2014/17",
+"kind": "local",
+"year": "2014",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 17/2014",
+"short": "HCL Vulcan nr. 17/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-01-31",
+"latest": "2014-01-31",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2014-000030e6?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--vulcan-36-2014",
+"path": "local/hunedoara/vulcan/2014/36",
+"kind": "local",
+"year": "2014",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 36/2014 privind completarea structurii Ambulatoriului integrat al Spitalului Municipal Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând nota de fundamentare a primarului municipiului Vulcan prin care se propune completarea structurii Ambulatoriului integrat al Spitalului Municipal Vulcan ; Văzând raportul compartimentului de resort din cadrul aparatului de specialitate al primarului municipiului V",
+"short": "HCL Vulcan nr. 36/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-03-28",
+"latest": "2014-03-28",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2014-000030e6?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--vulcan-47-2014",
+"path": "local/hunedoara/vulcan/2014/47",
+"kind": "local",
+"year": "2014",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 47/2014 privind modificarea și completarea de structură la Spitalul Municipal Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând nota de fundamentare a primarului municipiului Vulcan prin care se propune modificarea și completarea de structură la Spitalul Municipal Vulcan ; Văzând raportul compartimentului de resort din cadrul aparatului de specialitate al primarului municipiului Vulcan, avizul comi",
+"short": "HCL Vulcan nr. 47/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-05-29",
+"latest": "2014-05-29",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2014-000030e6?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--vulcan-71-2014",
 "path": "local/hunedoara/vulcan/2014/71",
 "kind": "local",
@@ -22,6 +133,72 @@
 "council_name": "Consiliul Local al Municipiului Vulcan",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--vulcan-92-2014",
+"path": "local/hunedoara/vulcan/2014/92",
+"kind": "local",
+"year": "2014",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 92/2014 privind rectificarea bugetului local pe anul 2014 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând nota de fundamentare a primarului municipiului Vulcan prin care se propune rectificarea bugetului local pe anul 2014, aprobat Hotărârea Consiliului Local nr. 4 / 2014, rectificat prin Dispoziția nr. 197/2014, Hotărârea Consiliului Local nr. 19/2014, Dispoziția nr. 283/2014, Hotărârea Consiliului Loc",
+"short": "HCL Vulcan nr. 92/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-30",
+"latest": "2014-10-30",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2014-000030e6?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--vulcan-102-2014",
+"path": "local/hunedoara/vulcan/2014/102",
+"kind": "local",
+"year": "2014",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 102/2014 privind completarea de structură la Spitalul Municipal Vulcan CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând nota de fundamentare a primarului municipiului Vulcan prin care se propune completarea de structură la Spitalul Municipal Vulcan ; ! Văzând raportul compartimentului de resort din cadrul aparatului de specialitate al primarului municipiului Vulcan, avizul comisiei de specialitate pe dome",
+"short": "HCL Vulcan nr. 102/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-30",
+"latest": "2014-10-30",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2014-000030e6?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--vulcan-108-2014",
+"path": "local/hunedoara/vulcan/2014/108",
+"kind": "local",
+"year": "2014",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 108/2014 privind rectificarea bugetului local pe anul 2014 CONSILIUL LOCAL AL MUNICIPIULUI VULCAN, Analizând nota de fundamentare a primarului municipiului Vulcan prin care se propune rectificarea bugetului local pe anul 2014, aprobat Hotărârea Consiliului Local nr. 4 / 2014, rectificat prin Dispoziția nr. 197/2014, Hotărârea Consiliului Local nr. 19/2014, Dispoziția nr. 283/2014, Hotărârea Consiliului Loc",
+"short": "HCL Vulcan nr. 108/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-12-12",
+"latest": "2014-12-12",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hotarari-ale-cl-pe-2014-000030e6?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

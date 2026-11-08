@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-5-2026",
+"path": "local/ialomita/facaeni/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 5/2026 privind alegerea președintelui de ședință a Consiliului Local Făcăeni pentru data de 29.01.2026",
+"short": "HCL Făcăeni nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/250004",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-6-2026",
 "path": "local/ialomita/facaeni/2026/6",
 "kind": "local",
@@ -110,6 +132,51 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-7-2026",
+"path": "local/ialomita/facaeni/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 7/2026 privind conferirea titlului de „Cetățean de Onoare al Comunei Făcăeni” unor persoane care s-au remarcat în viața comunității",
+"short": "HCL Făcăeni nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/256483",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-8-2026",
+"path": "local/ialomita/facaeni/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 8/2026",
+"short": "HCL Făcăeni nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/256484",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -154,6 +221,28 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-11-2026",
+"path": "local/ialomita/facaeni/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 11/2026 privind schimbarea regimului juridic a clădirii C8 - construcție anexă din cadrul Școlii Gimnaziale Făcăeni, prin trecerea din domeniul public în domeniul privat al comunei Făcăeni",
+"short": "HCL Făcăeni nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/256487",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -289,6 +378,51 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-18-2026",
+"path": "local/ialomita/facaeni/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 18/2026 privind alegerea presedintelui de ședință",
+"short": "HCL Făcăeni nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/259363",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-19-2026",
+"path": "local/ialomita/facaeni/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 19/2026",
+"short": "HCL Făcăeni nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/259364",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-20-2026",
 "path": "local/ialomita/facaeni/2026/20",
 "kind": "local",
@@ -330,6 +464,29 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-22-2026",
+"path": "local/ialomita/facaeni/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 22/2026",
+"short": "HCL Făcăeni nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/262561",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -489,6 +646,50 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-30-2026",
+"path": "local/ialomita/facaeni/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 30/2026 privind anularea dezmembrării terenului intravilan situat în comuna Făcăeni, str. Ghindei, având număr cadastral 28004",
+"short": "HCL Făcăeni nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/266473",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-31-2026",
+"path": "local/ialomita/facaeni/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 31/2026 privind stabilirea taxelor specifice și a regulamentului pentru participarea la evenimentul „Zilele Comunei Făcăeni”, ediția 2026",
+"short": "HCL Făcăeni nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/266474",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-32-2026",
 "path": "local/ialomita/facaeni/2026/32",
 "kind": "local",
@@ -530,6 +731,28 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-34-2026",
+"path": "local/ialomita/facaeni/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 34/2026 privind aprobarea majorării impozitului pe clădirile/terenurile neîngrijite de pe raza comunei Făcăeni şi a Regulamentului privind stabilirea condiţiilor de majorare a impozitului pe clădirile şi terenurile neîngrijite",
+"short": "HCL Făcăeni nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/271590",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -732,6 +955,72 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-44-2026",
+"path": "local/ialomita/facaeni/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 44/2026 privind aprobarea raportului de evaluare a terenului intravilan din comuna Făcăeni, cu suprafața de 7462 mp, NC 29195, și aprobarea concesionării, studiului de oportunitate, documentației de atribuire și a comisiei de evaluare pentru concesionarea prin licitație publică a terenului intravilan",
+"short": "HCL Făcăeni nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-26",
+"latest": "2026-06-26",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/273529",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-45-2026",
+"path": "local/ialomita/facaeni/2026/45",
+"kind": "local",
+"year": "2026",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 45/2026 privind modificarea HCL nr. 11/27.02.2026 privind schimbarea regimului juridic a clădirii - construcție anexă din cadrul Școlii Gimnaziale Făcăeni, prin trecerea din domeniul public în domeniul privat al comunei Făcăeni",
+"short": "HCL Făcăeni nr. 45/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-24",
+"latest": "2026-07-24",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/278786",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-46-2026",
+"path": "local/ialomita/facaeni/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 46/2026 privind aprobarea raportului de evaluare a terenurilor intravilane din comuna Făcăeni, cu NC 29577 și NC 29579, și aprobarea concesionării, studiului de oportunitate, documentației de atribuire și a comisiei de evaluare pentru concesionarea prin licitație publică a acestor terenuri",
+"short": "HCL Făcăeni nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-24",
+"latest": "2026-07-24",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/278787",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-47-2026",
 "path": "local/ialomita/facaeni/2026/47",
 "kind": "local",
@@ -773,6 +1062,28 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-49-2026",
+"path": "local/ialomita/facaeni/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 49/2026 privind alegerea presedintelui de ședință",
+"short": "HCL Făcăeni nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-24",
+"latest": "2026-07-24",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/278790",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -820,6 +1131,73 @@
 }
 },
 {
+"slug": "hcl-ialomita--facaeni-52-2026",
+"path": "local/ialomita/facaeni/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 52/2026",
+"short": "HCL Făcăeni nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-19",
+"latest": "2026-08-19",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/282699",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-53-2026",
+"path": "local/ialomita/facaeni/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 53/2026 privind aprobarea indicatorilor tehnico-economici actualizați si a devizului general ACTUALIZAT IN URMA MODIFICARILOR SURVENITE PE PARCURSUL EXECUTIEI LUCRARILOR, MATERIALIZATE PRIN DISPOZITIA DE SANTIER NR. 3 pentru obiectivul de investiții „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN COMUNA FĂCĂENI, JUDEȚUL IALOMIȚA”, finanțat prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Făcăeni nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-19",
+"latest": "2026-08-19",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/282700",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-54-2026",
+"path": "local/ialomita/facaeni/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 54/2026 privind aprobarea implementării proiectului «Amenajare loc de joacă - Parc Central comuna Făcăeni», a documentației tehnico-economice - faza Studiu de fezabilitate, a indicatorilor tehnico-economici, a devizului general și a cheltuielilor ce vor fi suportate din bugetul local",
+"short": "HCL Făcăeni nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-28",
+"latest": "2026-08-28",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/283514",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--facaeni-55-2026",
 "path": "local/ialomita/facaeni/2026/55",
 "kind": "local",
@@ -861,6 +1239,28 @@
 "council_name": "Consiliul Local al Comunei Făcăeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--facaeni-57-2026",
+"path": "local/ialomita/facaeni/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Făcăeni nr. 57/2026 privind aprobarea închirierii fără licitație publică a unui spațiu de 1 mp din interiorul sediului administrativ al Primăriei Comunei Făcăeni, aparținând domeniului public, în vederea amplasării unui terminal bancar (ATM) aparținând Raiffeisen Bank S.A",
+"short": "HCL Făcăeni nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://emol.ro/facaeni-il/registru-hcl/284075",
+"council": "ialomita/facaeni",
+"council_name": "Consiliul Local al Comunei Făcăeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

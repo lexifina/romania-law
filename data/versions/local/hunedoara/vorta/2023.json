@@ -3,6 +3,141 @@
  "shard": "local/hunedoara/vorta/2023",
  "acts": [
   {
+   "slug": "hcl-hunedoara--vorta-1-2023",
+   "path": "local/hunedoara/vorta/2023/1",
+   "short": "HCL Vorța nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 1/2023 privind analiza studiului de înscriere a datelor în registrul agricol pentru trimestrul IV al anului 2022 și a stabilirii măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110322",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-10-2023",
+   "path": "local/hunedoara/vorta/2023/10",
+   "short": "HCL Vorța nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 10/2023 privind aprobarea contului anual de execuție a bugetului local al comunei Vorța pe anul 2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110331",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-11-2023",
+   "path": "local/hunedoara/vorta/2023/11",
+   "short": "HCL Vorța nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 11/2023 privind aprobarea plății cotizației anuale, datorată de comuna Vorța, județul Hunedoara la Asociația Comunelor din România",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110332",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-12-2023",
+   "path": "local/hunedoara/vorta/2023/12",
+   "short": "HCL Vorța nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 12/2023 privind aprobarea plății cotizației anuale, datorată de comuna Vorța, județul Hunedoara la Asociația de Dezvoltare Intercomunitară „Sistemul Integrat de Gestionare a Deșeurilor, județul Hunedoara”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110333",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-13-2023",
+   "path": "local/hunedoara/vorta/2023/13",
+   "short": "HCL Vorța nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 13/2023 privind aprobarea plății cotizației anuale, datorată de comuna Vorța, județul Hunedoara la Asociația de Dezvoltare Intercomunitară „Aqua Prest Hunedoara”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110334",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-14-2023",
+   "path": "local/hunedoara/vorta/2023/14",
+   "short": "HCL Vorța nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 14/2023 privind aprobarea plății cotizației anuale, datorată de comuna Vorța, județul Hunedoara la Asociația Grupul de acțiune locală „Sargetia Gal 1”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110335",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-15-2023",
+   "path": "local/hunedoara/vorta/2023/15",
+   "short": "HCL Vorța nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 15/2023 privind aprobarea regulamentului de organizare și funcționare al Asociației de Dezvoltare Intercomunitară „Serciviul județean pentru ocrotirea animalelor fără stăpân”, a caietului de sarcini, a cuantumului cotizației comunei Vorța și a tarifului de capturare practică de asociație",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110336",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-16-2023",
+   "path": "local/hunedoara/vorta/2023/16",
+   "short": "HCL Vorța nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 16/2023 privind aprobarea Strategiei de dezvoltare a serviciilor sociale acordate la nivelul comunei Vorța, județul Hunedoara, pentru perioada 2022-2026",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110337",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-17-2023",
+   "path": "local/hunedoara/vorta/2023/17",
+   "short": "HCL Vorța nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 17/2023 privind stabilirea și aprobarea salariilor de bază a funcționarilor publici și personal contractual din cadrul aparatului de specialitate al primarului comunei Vorța, a instituțiilor și serviciilor publice, fără personalitate juridică, aflate în subordinea Consiliului local Vorța, începând cu data de 1 martie 2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110338",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110338",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vorta-18-2023",
    "path": "local/hunedoara/vorta/2023/18",
    "short": "HCL Vorța nr. 18/2023",
@@ -18,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--vorta-19-2023",
+   "path": "local/hunedoara/vorta/2023/19",
+   "short": "HCL Vorța nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 19/2023 privind aprobarea implementării proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe”-a Școlii Gimnaziale Visca din comuna Vorța, județul Hunedoara, finanțat prin Planul Național de Redresare și Reziliență-Pilonul VI-Politici pentru noua generație-Componenta 15 Educație",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110340",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-2-2023",
+   "path": "local/hunedoara/vorta/2023/2",
+   "short": "HCL Vorța nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 2/2023 privind aprobarea casării și scoaterii din inventarul unității administrativ-teritoriale Vorța a unor mijloace fixe și obiecte de inventar care prezintă un grad avansat de uzură în urma inventarierii anuale",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110323",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110323",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vorta-20-2023",
    "path": "local/hunedoara/vorta/2023/20",
    "short": "HCL Vorța nr. 20/2023",
@@ -28,6 +193,576 @@
      "from": "2023-06-26",
      "units": 1,
      "source_url": "https://emol.ro/vorta-hd/registru-hcl/110341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-21-2023",
+   "path": "local/hunedoara/vorta/2023/21",
+   "short": "HCL Vorța nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 21/2023 privind aprobarea investiției „Realizare Capelă, filigorie octogonală, bazin vitanjabil, parcare auto, alei pietonale, puț natural de apă, poartă metalică, împrejmuire și racorduri la utilități în sat Visca, comuna Vorța, județul Hunedoara”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110342",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-22-2023",
+   "path": "local/hunedoara/vorta/2023/22",
+   "short": "HCL Vorța nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 22/2023 privind aprobarea investiției „Construire Capelă mortuară în satul Visca, comuna Vorța, județul Hunedoara”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110343",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-23-2023",
+   "path": "local/hunedoara/vorta/2023/23",
+   "short": "HCL Vorța nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 23/2023 privind aprobarea Organigramei și a Statului de funcții a aparatului de specialitate al primarului comunei Vorța, județul Hunedoara",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110344",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-24-2023",
+   "path": "local/hunedoara/vorta/2023/24",
+   "short": "HCL Vorța nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 24/2023 privind aprobarea întreptarea erorii materiale strecurată în titlul Hotărârii Consiliului Local nr. 10/2023 privind aprobarea contului anual de execuție a bugetului local al comunei Vorța pe anul 2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110345",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-25-2023",
+   "path": "local/hunedoara/vorta/2023/25",
+   "short": "HCL Vorța nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 25/2023 privind completarea Inventarului bunurilor care alcătuiesc domeniul privat al comunei Vorța, județul Hunedoara",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110375",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-26-2023",
+   "path": "local/hunedoara/vorta/2023/26",
+   "short": "HCL Vorța nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 26/2023 privind participarea Comunei Vorța, județul Hunedoara la parteneriatul LEADER al Grupului de Acțiune Locală „Asociația Sargetia Gal 1” în scopul elaborării și implementării Strategiei de Dezvoltare Locală, pentru perioada 2023-2027 în vederea susținerii proiectelor din Planul Național Strategic PAC (2023-2027)",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110387",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-27-2023",
+   "path": "local/hunedoara/vorta/2023/27",
+   "short": "HCL Vorța nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 27/2023 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul I al anului 2023 și a stabilirii măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110388",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-28-2023",
+   "path": "local/hunedoara/vorta/2023/28",
+   "short": "HCL Vorța nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 28/2023 privind aprobarea atribuirii în folosință gratuită și încheierea unui contract de comodat a spațiului de 20 mp situat în localitatea Vorța, str. Principală, nr. 5 , județul Hunedoara",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110389",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-29-2023",
+   "path": "local/hunedoara/vorta/2023/29",
+   "short": "HCL Vorța nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 29/2023 privind indexarea cu rata inflației a impozitelor și taxelor locale care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei precum și actualizarea amenzilor stabilite conform legii nr. 227/2015 privind Codul Fiscal, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110390",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-3-2023",
+   "path": "local/hunedoara/vorta/2023/3",
+   "short": "HCL Vorța nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 3/2023 privind aprobarea bugetului local al comunei Vorța pe anul 2023 și estimări pentru anii 2024-2026",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110324",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-30-2023",
+   "path": "local/hunedoara/vorta/2023/30",
+   "short": "HCL Vorța nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 30/2023 privind alegerea președintelui de ședință pentru lunile mai 2023 - iulie 2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110391",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-31-2023",
+   "path": "local/hunedoara/vorta/2023/31",
+   "short": "HCL Vorța nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 31/2023 privind aprobarea execuției bugetului local al comunei Vorța pe trimestrul I al anului 2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110392",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-32-2023",
+   "path": "local/hunedoara/vorta/2023/32",
+   "short": "HCL Vorța nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 32/2023 privind aprobarea modificării Organigramei și a Statului de funcții a aparatului de specialitate al primarului comunei Vorța, județul Hunedoara",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110393",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-33-2023",
+   "path": "local/hunedoara/vorta/2023/33",
+   "short": "HCL Vorța nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 33/2023 privind aprobarea actualizării Regulamentului serviciului de iluminat public al comunei Vorța, județul Hunedoara și a documentelor necesare delegării gestiunii serviciului de iluminat public",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110394",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-34-2023",
+   "path": "local/hunedoara/vorta/2023/34",
+   "short": "HCL Vorța nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 34/2023 privind aprobarea modificării și completării art. 2 al Hotărârii Consiliului local nr. 21/2023 privind aprobarea investiției „Realizare Capelă, filigorie octogonală, bazin vitanjabil, parcare auto, alei pietonale, puț natural de apă, poartă metalică, împrejmuire și racorduri la utilități în sat Visca, comuna Vorța, județul Hunedoara”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110395",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-35-2023",
+   "path": "local/hunedoara/vorta/2023/35",
+   "short": "HCL Vorța nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 35/2023 privind aprobarea modificării și completării art. 2 al Hotărârii Consiliului local nr. 21/2023 privind aprobarea investiției „Construire Capelă mortuară în satul Visca, comuna Vorța, județul Hunedoara”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110396",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-36-2023",
+   "path": "local/hunedoara/vorta/2023/36",
+   "short": "HCL Vorța nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 36/2023 privind aprobarea proiectului „Transport verde-Microbuze electrice pentru elevi în Județul Hunedoara” în vederea depunerii acestuia în cadrul Apelului de proiecte „Microbuze electrice pentru elevi”, ce va fi finanțat prin Planului Național de Redresare și Reziliență-Componenta C15: Educație",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129948",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-37-2023",
+   "path": "local/hunedoara/vorta/2023/37",
+   "short": "HCL Vorța nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 37/2023 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului comunei Vorța, județul Hunedoara",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129949",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-38-2023",
+   "path": "local/hunedoara/vorta/2023/38",
+   "short": "HCL Vorța nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 38/2023 privind stabilirea și aprobarea salariilor de bază a funcționarilor publici și personal contractual din cadrul aparatului de specialitate al primarului comunei Vorța, a instituțiilor și serviciilor publice, fără personalitate juridică, aflate în subordinea Primarului comunei Vorța, începând cu data de 1 iulie 2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129950",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-39-2023",
+   "path": "local/hunedoara/vorta/2023/39",
+   "short": "HCL Vorța nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 39/2023 privind analiza studiului de înscriere a datelor în registrul agricol pentru trimestrul II al anului 2023 și a stabilirii măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129951",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-4-2023",
+   "path": "local/hunedoara/vorta/2023/4",
+   "short": "HCL Vorța nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 4/2023 privind actualizarea Programului anual al achizițiilor publice a comunei Vorța pentru anul 2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110325",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-40-2023",
+   "path": "local/hunedoara/vorta/2023/40",
+   "short": "HCL Vorța nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 40/2023 privind rectificarea bugetului local al comunei Vorța pe anul 2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129952",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-41-2023",
+   "path": "local/hunedoara/vorta/2023/41",
+   "short": "HCL Vorța nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 41/2023 privind alegerea președintelui de ședință pentru lunile august 2023-octombrie 2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129953",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-42-2023",
+   "path": "local/hunedoara/vorta/2023/42",
+   "short": "HCL Vorța nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 42/2023 privind aprobarea indicatorilor tehnico-economici și a devizului general estimativ pentru obiectivul de investiție „Creșterea eficienței energetice și reabilitarea clădirii administrative aferente primăriei comunei Vorța",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129954",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-43-2023",
+   "path": "local/hunedoara/vorta/2023/43",
+   "short": "HCL Vorța nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 43/2023 privind aprobarea Regulamentului privind stabilirea unor forme de sprijin financiar de la bugetul local al comunei Vorța, pentru unitățile de cult aparținând cultelor religioase recunoscute din România situate pe raza administrativ-teritorială a comunei Vorța, județul Hunedoara",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129962",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-44-2023",
+   "path": "local/hunedoara/vorta/2023/44",
+   "short": "HCL Vorța nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 44/2023 privind aprobarea execuției bugetului local al comunei Vorța pe trimestrul II al anului 2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129963",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-45-2023",
+   "path": "local/hunedoara/vorta/2023/45",
+   "short": "HCL Vorța nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 45/2023 privind rectificarea bugetului local al comunei Vorța pe anul 2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129964",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-46-2023",
+   "path": "local/hunedoara/vorta/2023/46",
+   "short": "HCL Vorța nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 46/2023 privind actualizarea componentei echipei mobile pentru intervenția de urgență în cazurile de violență domestică în comuna Vorța, județul Hunedoara",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129965",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-47-2023",
+   "path": "local/hunedoara/vorta/2023/47",
+   "short": "HCL Vorța nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 47/2023 privind aprobarea modificării Organigramei și a Statului de funcții a aparatului de specialitate al primarului comunei Vorța, județul Hunedoara",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129991",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-48-2023",
+   "path": "local/hunedoara/vorta/2023/48",
+   "short": "HCL Vorța nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 48/2023 privind rectificarea bugetului local al comunei Vorța pe anul 2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129992",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-49-2023",
+   "path": "local/hunedoara/vorta/2023/49",
+   "short": "HCL Vorța nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 49/2023 privind aprobarea modificării art.3 și al art. 7 al Hotărârii Consiliului local nr. 51/2022 și art 1 al Hotărârii Consiliului local nr. 60/2022 pentru obiectivul de investiție „Centru Comunitar Integrat în Vorța”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129993",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-5-2023",
+   "path": "local/hunedoara/vorta/2023/5",
+   "short": "HCL Vorța nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 5/2023 privind aprobarea Planului anual de lucrări de interes local în scopul aplicării prevederilor Legii nr. 416/2001 privind venitul minim garantat, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110326",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-50-2023",
+   "path": "local/hunedoara/vorta/2023/50",
+   "short": "HCL Vorța nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 50/2023 privind aprobarea Strategiei de contractare și a documentației de atribuire pentru organizarea procedurii de „negociere fără publicare prealabilă a unui anunț de participare „ în vederea atribuirii contractului de achiziție având ca obiect: „Prestarea serviciului de salubrizare în zona de colectare 3 Centru, județul Hunedoara „precum și acordarea de mandate",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129994",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-51-2023",
+   "path": "local/hunedoara/vorta/2023/51",
+   "short": "HCL Vorța nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 51/2023 privind aprobarea Programului de acțiuni comunitare pentru combaterea sărăciei și marginalizării sociale la nivelul comunei Vorța, județul Hunedoara",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129995",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-52-2023",
+   "path": "local/hunedoara/vorta/2023/52",
+   "short": "HCL Vorța nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 52/2023 privind aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară „Sistemul Integrat de Gestionare a Deșeurilor județul Hunedoara”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129996",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-53-2023",
+   "path": "local/hunedoara/vorta/2023/53",
+   "short": "HCL Vorța nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 53/2023 privind aprobarea Actului Adițional nr. 2 la Contractul nr.44/167 din 10.10.2022 privind „Preșterea serviciului de salubrizare în zona de colectare 3 Centru, Județul Hunedoara”",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/129997",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/129997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-54-2023",
+   "path": "local/hunedoara/vorta/2023/54",
+   "short": "HCL Vorța nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 54/2023 privind analiza studiului de înscriere a datelor în registrul agricol pentru trimestrul III al anului 2023 și a stabilirii măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/134863",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/134863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-55-2023",
+   "path": "local/hunedoara/vorta/2023/55",
+   "short": "HCL Vorța nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 55/2023 privind rectificarea bugetului local al comunei Vorța pe anul 2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/134864",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/134864",
      "sha256": null
     }
    ]
@@ -88,6 +823,21 @@
      "from": "2023-12-21",
      "units": 1,
      "source_url": "https://emol.ro/vorta-hd/registru-hcl/134868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-6-2023",
+   "path": "local/hunedoara/vorta/2023/6",
+   "short": "HCL Vorța nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 6/2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110327",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110327",
      "sha256": null
     }
    ]
@@ -243,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--vorta-7-2023",
+   "path": "local/hunedoara/vorta/2023/7",
+   "short": "HCL Vorța nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 7/2023 privind aprobarea menținerii rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Vorța, județul Hunedoara, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110328",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110328",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--vorta-70-2023",
    "path": "local/hunedoara/vorta/2023/70",
    "short": "HCL Vorța nr. 70/2023",
@@ -328,6 +1093,36 @@
      "from": "2024-02-15",
      "units": 1,
      "source_url": "https://emol.ro/vorta-hd/registru-hcl/143501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-8-2023",
+   "path": "local/hunedoara/vorta/2023/8",
+   "short": "HCL Vorța nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 8/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE DRUMURI DE INTERES LOCAL, ETAPA I, ÎN COMUNA VORȚA, JUDEȚUL HUNEDOARA”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezetând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110329",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--vorta-9-2023",
+   "path": "local/hunedoara/vorta/2023/9",
+   "short": "HCL Vorța nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vorța nr. 9/2023 privind alegerea președintelui de ședință pentru lunile februarie 2023-aprilie 2023",
+   "url": "https://emol.ro/vorta-hd/registru-hcl/110330",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vorta-hd/registru-hcl/110330",
      "sha256": null
     }
    ]

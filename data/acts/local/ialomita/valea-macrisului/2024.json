@@ -356,6 +356,50 @@
 }
 },
 {
+"slug": "hcl-ialomita--valea-macrisului-17-2024",
+"path": "local/ialomita/valea-macrisului/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 17/2024 Închirierea pajiștei comunale- suprafața disponibilă pentru anul 2024- aflată în domeniul privat al UAT, către crescătorii de animale din comună,stabilirea prețului de închiriere și a contractului de închiriere",
+"short": "HCL Valea Măcrișului nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-30",
+"latest": "2024-03-30",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#73701",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-18-2024",
+"path": "local/ialomita/valea-macrisului/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 18/2024 Prelungirea unor contracte de închiriere pr. închirierea pajiștii comunale aflate în domeniul privat al UAT către crescătorii de animale și aprobarea modelului actului aditional",
+"short": "HCL Valea Măcrișului nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-30",
+"latest": "2024-03-30",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#73703",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--valea-macrisului-19-2024",
 "path": "local/ialomita/valea-macrisului/2024/19",
 "kind": "local",
@@ -619,6 +663,28 @@
 "council_name": "Consiliul Local al Comunei Valea Măcrișului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ialomita--valea-macrisului-31-2024",
+"path": "local/ialomita/valea-macrisului/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Măcrișului nr. 31/2024 Închirierea pajiștei comunale -suprafața de 0,51 ha disponibilă pentru anul 2024 - aflată în domeniul privat al UAT, către crescătorii de animale din comună",
+"short": "HCL Valea Măcrișului nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://valeamacrisului.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2756#76641",
+"council": "ialomita/valea-macrisului",
+"council_name": "Consiliul Local al Comunei Valea Măcrișului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

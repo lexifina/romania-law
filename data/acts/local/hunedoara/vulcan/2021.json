@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--vulcan-16-2021",
+"path": "local/hunedoara/vulcan/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vulcan nr. 16/2021 privind rectificarea hotararii nr. 2-2021 privind taxa salubrizare.pdf",
+"short": "HCL Vulcan nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-11",
+"latest": "2021-02-11",
+"portal": "https://www.e-vulcan.ro/dm_vulcan/portal.nsf/AllByUNID/hcluri-impozite-si-taxe-locale-2021-0000b90a?OpenDocument",
+"council": "hunedoara/vulcan",
+"council_name": "Consiliul Local al Municipiului Vulcan",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--vulcan-47-2021",
 "path": "local/hunedoara/vulcan/2021/47",
 "kind": "local",

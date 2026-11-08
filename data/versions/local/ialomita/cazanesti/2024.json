@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/cazanesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--cazanesti-2250-2024",
+   "path": "local/ialomita/cazanesti/2024/2250",
+   "short": "HCL Căzănești nr. 2250/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 2250/2024",
+   "url": "https://www.primariacazanestiil.ro/index.php/registrul-agricol/oferte-vanzare-teren-extravilan-conform-legii-17-2014?start=50",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2024/1/ofert%C4%83_v%C3%A2nzare_teren_nr.2250_din_20.11.2024.PDF",
+     "sha256": "ecdba13c8aad15b4587ca51dab0c252fd4475d8603e8c977e48955970b12dfb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-26-2024",
+   "path": "local/ialomita/cazanesti/2024/26",
+   "short": "HCL Căzănești nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 26/2024 privind revocarea Hotararii consiliului Local ar orasurui Cazanesti nr.26 din 28.03.2024 privind aprobarea inchirierii directe a suprafefei de 59,4544 ha păsune.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2024?start=22",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2024/HOTARARI_2024/2/HCL_33_privind_revocarea_Hotararii_consiliului_Local_ar_orasurui_Cazanesti_nr.26_din_28.03.2024_privind_aprobarea_inchirierii_directe_a_suprafefei_de_594544_ha_p%C4%83sune.pdf",
+     "sha256": "fe411d499c2a77ff6c7f14bf906fc536979d6bc1b6e88fe0caaf1db83e91b5f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-36-2024",
+   "path": "local/ialomita/cazanesti/2024/36",
+   "short": "HCL Căzănești nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 36/2024 Privind modificarea HCL nr.36 din 28.06.2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale Administratie.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2024",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2024/HOTARARI_2024/3/HCL_46_Privind_modificarea_HCL_nr.36_din_28.06.2024_privind_stabilirea_salariilor_de_baz%C4%83_pentru_func%C8%9Bionarii_publici_%C8%99i_personalul_contractual_din_cadrul_familiei_ocupa%C8%9Bionale_Administratie.pdf",
+     "sha256": "d6ffbd53c2cb85dea5a724f278af646f7ff9888e8f6006f84f28d21a56bb6346"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-37-2024",
+   "path": "local/ialomita/cazanesti/2024/37",
+   "short": "HCL Căzănești nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 37/2024 Privind modificarea HCLnr.37 din 28.06.2024 privind aprobarea Organigramei şi a Statului de funcţii ale aparatului de specialitate al Primarului oraşului Căzăneşti şi ale Serviciului Public Comunitar Local.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2025?start=66",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2025/Hotarari/1/12.Privind_modificarea_HCLnr.37_din_28.06.2024_privind_aprobarea_Organigramei_%C5%9Fi_a_Statului_de_func%C5%A3ii_ale_aparatului_de_specialitate_al_Primarului_ora%C5%9Fului_C%C4%83z%C4%83ne%C5%9Fti_%C5%9Fi_ale_Serviciului_Public_Comunitar_Local.pdf",
+     "sha256": "af427dac2394ce19b273de43bd48925afeba164d8b8cca2efeba1f031c72e343"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ialomita--cazanesti-51-2024",
+   "path": "local/ialomita/cazanesti/2024/51",
+   "short": "HCL Căzănești nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 51/2024 Privind modificarea HCL nr.51 din 17.10.2024 privind anularea accesoriilor în cazul obligaţiilor bugetare restante la 31 august 2024 datorate bugetului local al oraşului Căzănești de persoanele.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2024",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2024/HOTARARI_2024/4/HCL_66_Privind_modificarea_HCL_nr.51_din_17.10.2024_privind_anularea_accesoriilor_%C3%AEn_cazul_obliga%C5%A3iilor_bugetare_restante_la_31_august_2024_datorate_bugetului_local_al_ora%C5%9Fului_C%C4%83z%C4%83ne%C8%99ti_de_persoanele.pdf",
+     "sha256": "5a433a4d178116fa571a1d8099c91f2fa1a44cd9f316bf481f76441a338720bc"
+    }
+   ]
+  }
+ ]
+}

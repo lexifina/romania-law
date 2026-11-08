@@ -3,6 +3,138 @@
 "shard": "local/ialomita/tandarei/2013",
 "acts": [
 {
+"slug": "hcl-ialomita--tandarei-3-2013",
+"path": "local/ialomita/tandarei/2013/3",
+"kind": "local",
+"year": "2013",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 3/2013 privind insusirea inventarului bunurilor care alcatuiesc domeniul public al orasului Tandarei jud. Ialomita",
+"short": "HCL Țăndărei nr. 3/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-07",
+"latest": "2013-02-07",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-07022013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-4-2013",
+"path": "local/ialomita/tandarei/2013/4",
+"kind": "local",
+"year": "2013",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 4/2013 privind insusirea inventarului bunurilor care alcatuiesc domeniul privat al orasului Tandarei jud. Ialomita",
+"short": "HCL Țăndărei nr. 4/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-07",
+"latest": "2013-02-07",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-07022013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-5-2013",
+"path": "local/ialomita/tandarei/2013/5",
+"kind": "local",
+"year": "2013",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 5/2013 privind aprobarea programului de salubrizare al orasului Tandarei pentru anul 2013",
+"short": "HCL Țăndărei nr. 5/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-07",
+"latest": "2013-02-07",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-07022013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-6-2013",
+"path": "local/ialomita/tandarei/2013/6",
+"kind": "local",
+"year": "2013",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 6/2013 privind aprobarea planului de actiuni sau lucrari de interes local pentru anul 2013",
+"short": "HCL Țăndărei nr. 6/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-07",
+"latest": "2013-02-07",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-07022013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-7-2013",
+"path": "local/ialomita/tandarei/2013/7",
+"kind": "local",
+"year": "2013",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 7/2013 privind stabilirea costului mediu lunarde intretinere pentru pesoanele varstnice din Complexul de Servicii Sociale Tandarei si a grilei de calcul a contributiei de intretinere datorata de sustinatorii legali ai persoanelor varstnice asistate",
+"short": "HCL Țăndărei nr. 7/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-07",
+"latest": "2013-02-07",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-07022013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-8-2013",
+"path": "local/ialomita/tandarei/2013/8",
+"kind": "local",
+"year": "2013",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 8/2013 privind aprobarea platii cotizatiei la Asociatia Oraselor din Romania pe anul 2013",
+"short": "HCL Țăndărei nr. 8/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-07",
+"latest": "2013-02-07",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-07022013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--tandarei-10-2013",
 "path": "local/ialomita/tandarei/2013/10",
 "kind": "local",
@@ -25,6 +157,315 @@
 }
 },
 {
+"slug": "hcl-ialomita--tandarei-11-2013",
+"path": "local/ialomita/tandarei/2013/11",
+"kind": "local",
+"year": "2013",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 11/2013 privind aprobarea componentei Consiliului de Administratie al Spitalului Orasenesc Tandarei",
+"short": "HCL Țăndărei nr. 11/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-07",
+"latest": "2013-02-07",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-07022013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-12-2013",
+"path": "local/ialomita/tandarei/2013/12",
+"kind": "local",
+"year": "2013",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 12/2013 privind acordarea de facilitatii medicilor care isi desfasoara activitatea in cadrul Spitalului Orasenesc Tandarei",
+"short": "HCL Țăndărei nr. 12/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-07",
+"latest": "2013-02-07",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-07022013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-13-2013",
+"path": "local/ialomita/tandarei/2013/13",
+"kind": "local",
+"year": "2013",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 13/2013 privind scoaterea la licitatie in vederea inchirieri unui spatiu apartinand domeniului public",
+"short": "HCL Țăndărei nr. 13/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-07",
+"latest": "2013-02-07",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-07022013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-14-2013",
+"path": "local/ialomita/tandarei/2013/14",
+"kind": "local",
+"year": "2013",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 14/2013 privind aprobarea bugetului local pe anul 2013",
+"short": "HCL Țăndărei nr. 14/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-15-2013",
+"path": "local/ialomita/tandarei/2013/15",
+"kind": "local",
+"year": "2013",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 15/2013 privind aprobarea bugetului de venituri si cheltuieli la activitatile autofinantate ale Serviciului Administratiei Domeniului Public pe anul 2013",
+"short": "HCL Țăndărei nr. 15/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-16-2013",
+"path": "local/ialomita/tandarei/2013/16",
+"kind": "local",
+"year": "2013",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 16/2013 privind aprobarea bugetului de venituri si cheltuieli la activitatile autofinantate ale Complexului de Servicii Sociale pe anul 2013",
+"short": "HCL Țăndărei nr. 16/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-17-2013",
+"path": "local/ialomita/tandarei/2013/17",
+"kind": "local",
+"year": "2013",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 17/2013 privind aprobarea bugetului de venituri si cheltuieli la activitatile autofinantate ale Spitalului Orasenesc Tandarei pe anul 2013",
+"short": "HCL Țăndărei nr. 17/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-18-2013",
+"path": "local/ialomita/tandarei/2013/18",
+"kind": "local",
+"year": "2013",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 18/2013 privind aprobareaorganigramei si statului de functii ale aparatului de specialitate al primarului pe anul 2013",
+"short": "HCL Țăndărei nr. 18/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-19-2013",
+"path": "local/ialomita/tandarei/2013/19",
+"kind": "local",
+"year": "2013",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 19/2013 privind aprobarea organigramei si statului de functii ale Serviciului Administratiei Domeniului Public",
+"short": "HCL Țăndărei nr. 19/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-20-2013",
+"path": "local/ialomita/tandarei/2013/20",
+"kind": "local",
+"year": "2013",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 20/2013 privind aprobarea organigramei si statului de functii ale Complexului de Servicii Sociale",
+"short": "HCL Țăndărei nr. 20/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-21-2013",
+"path": "local/ialomita/tandarei/2013/21",
+"kind": "local",
+"year": "2013",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 21/2013 privind aprobarea Programului de Achizitii Publice pentru anul 2013",
+"short": "HCL Țăndărei nr. 21/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-22-2013",
+"path": "local/ialomita/tandarei/2013/22",
+"kind": "local",
+"year": "2013",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 22/2013",
+"short": "HCL Țăndărei nr. 22/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-23-2013",
+"path": "local/ialomita/tandarei/2013/23",
+"kind": "local",
+"year": "2013",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 23/2013 privind aprobarea contului de executie pe anul",
+"short": "HCL Țăndărei nr. 23/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-25-2013",
+"path": "local/ialomita/tandarei/2013/25",
+"kind": "local",
+"year": "2013",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 25/2013 privind aprobarea cuantumului unei burse acordate din sumele defalcate din unele venituri ale bugetului de stat si numarul acestora",
+"short": "HCL Țăndărei nr. 25/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ialomita--tandarei-26-2013",
 "path": "local/ialomita/tandarei/2013/26",
 "kind": "local",
@@ -44,6 +485,50 @@
 "council_name": "Consiliul Local al Orașului Țăndărei",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-27-2013",
+"path": "local/ialomita/tandarei/2013/27",
+"kind": "local",
+"year": "2013",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 27/2013 privind organizarea si functionarea retelei scolare",
+"short": "HCL Țăndărei nr. 27/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-28-2013",
+"path": "local/ialomita/tandarei/2013/28",
+"kind": "local",
+"year": "2013",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 28/2013 privind aprobarea planului de analiza si acoperire a riscurilor pe anul 2013",
+"short": "HCL Țăndărei nr. 28/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -88,6 +573,28 @@
 "council_name": "Consiliul Local al Orașului Țăndărei",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-ialomita--tandarei-31-2013",
+"path": "local/ialomita/tandarei/2013/31",
+"kind": "local",
+"year": "2013",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 31/2013 privind schimbarea destinatiei imobilului din gradinita nr. 2 Tandarei in Sala multifunctionala",
+"short": "HCL Țăndărei nr. 31/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primaria-tandarei.ro/pagini/hotarari-adoptate-in-sedinta-cl-29032013",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]
