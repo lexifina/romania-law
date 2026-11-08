@@ -3,6 +3,66 @@
  "shard": "local/iasi/vladeni/2025",
  "acts": [
   {
+   "slug": "hcl-iasi--vladeni-100-2025",
+   "path": "local/iasi/vladeni/2025/100",
+   "short": "HCL Vlădeni nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 100/2025 privind aprobarea Dispoziției Primarului Comunei Vlădeni nr. 154 din 06.11.2025, privind modificarea bugetului local și a listei de investiții ca urmare a înregistrării contractului de finanțare nr. MEDAT-DIGILOCAL 117/10.06.2025",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/235710",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/235710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-101-2025",
+   "path": "local/iasi/vladeni/2025/101",
+   "short": "HCL Vlădeni nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 101/2025 privind aprobarea Planului propriu de măsuri și acțiuni specifice sezonului rece 2025–2026 la nivelul UAT Vlădeni",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/235711",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/235711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-102-2025",
+   "path": "local/iasi/vladeni/2025/102",
+   "short": "HCL Vlădeni nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 102/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vlădeni din data de 28.11.2025;",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/238036",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/238036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-103-2025",
+   "path": "local/iasi/vladeni/2025/103",
+   "short": "HCL Vlădeni nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 103/2025 privind anularea din arhiva Oficiului de Cadastru și Publicitate Imobiliară Iași, a planurilor parcelare din tarlalele nr. 23, 24, 30, aflate în extravilanul Comunei Vlădeni, județul Iași",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/238037",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/238037",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--vladeni-104-2025",
    "path": "local/iasi/vladeni/2025/104",
    "short": "HCL Vlădeni nr. 104/2025",
@@ -298,6 +358,291 @@
      "from": "2026-01-15",
      "units": 1,
      "source_url": "https://emol.ro/vladeni-is/registru-hcl/244562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-34-2025",
+   "path": "local/iasi/vladeni/2025/34",
+   "short": "HCL Vlădeni nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 34/2025 privind însușirea Acordului de cooperare pentru furnizarea serviciilor aferente Registrului Electronic Național al Nomenclaturii Stradale (RENNS)",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223321",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-35-2025",
+   "path": "local/iasi/vladeni/2025/35",
+   "short": "HCL Vlădeni nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 35/2025 privind însușirea Acordului de cooperare pentru asigurarea suportului IT în vederea dezvoltării și gestionării Registrului Spațiilor Verzi",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223322",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-36-2025",
+   "path": "local/iasi/vladeni/2025/36",
+   "short": "HCL Vlădeni nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 36/2025 privind aprobarea actualizării devizului general pentru obiectivul „RENOVAREA ENERGETICĂ MODERATĂ A ȘCOLII CU CLASELE I-IV DIN COMUNA VLĂDENI” finanțat prin Planul Național de Redresare și Reziliență Componenta C10-Fondul Local I.3- Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223323",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-37-2025",
+   "path": "local/iasi/vladeni/2025/37",
+   "short": "HCL Vlădeni nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 37/2025 privind inventarierea în domeniul privat a unor suprafețe de teren",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223324",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-40-2025",
+   "path": "local/iasi/vladeni/2025/40",
+   "short": "HCL Vlădeni nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 40/2025 privind organizarea și desfășurarea manifestării cultural-artistice „Ziua Comunei Vlădeni” în data de 24 august 2025",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223327",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-41-2025",
+   "path": "local/iasi/vladeni/2025/41",
+   "short": "HCL Vlădeni nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 41/2025 privind modificarea bugetului local prin suplimentare pentru organizarea evenimentului ,,Ziua comunei Vlădeni”",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223328",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-42-2025",
+   "path": "local/iasi/vladeni/2025/42",
+   "short": "HCL Vlădeni nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 42/2025 privind modificarea și actualizarea articolului 4 și articolului 6 din Hotărârea Consiliului Local nr.108/2023 referitoare la implementarea proiectului „CONSTRUIRE PLATFORMĂ PENTRU DEPOZITAREA ȘI GOSPODĂRIREA GUNOIULUI DE GRAJD ÎN COMUNA VLĂDENI, JUDEȚUL IAȘI”, în cadrul apelului de proiecte cu titlul PNRR/2023/C3/S/I.2.A-B",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223329",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-43-2025",
+   "path": "local/iasi/vladeni/2025/43",
+   "short": "HCL Vlădeni nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 43/2025 privind modificarea Hotărârii Consiliului Local nr. 11 din 14.03.2025, în sensul înlocuirii termenului „revocare” cu „încetare a dreptului de folosință gratuită” asupra terenului în suprafață totala de 254 mp atribuit atribuit către Școala Generala Vlădeni",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223330",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-44-2025",
+   "path": "local/iasi/vladeni/2025/44",
+   "short": "HCL Vlădeni nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 44/2025 privind modificarea Hotărârii Consiliului Local nr. 13 din 24.03.2025, în sensul înlocuirii termenului „revocare” cu „încetare a dreptului de folosință gratuită” asupra terenului în suprafață totala de 510 mp atribuit către Școala Generala Vlădeni",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223331",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-46-2025",
+   "path": "local/iasi/vladeni/2025/46",
+   "short": "HCL Vlădeni nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 46/2025 privind aprobarea participării UAT Comuna Vlădeni la Programul Național de Consolidare a Clădirilor cu Risc Seismic Ridicat (PNCCRS), Subprogramul privind proiectarea și execuția lucrărilor de intervenție pentru clădirile de interes și utilitate publică, în vederea realizării obiectivului de investiții „Consolidarea și reabilitarea clădirii sediului Primăriei Comunei Vlădeni, județul Iași”",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223333",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-49-2025",
+   "path": "local/iasi/vladeni/2025/49",
+   "short": "HCL Vlădeni nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 49/2025 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială, la nivelul Comunei Vlădeni, județul Iași, pentru anul 2025",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223341",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-50-2025",
+   "path": "local/iasi/vladeni/2025/50",
+   "short": "HCL Vlădeni nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 50/2025 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență de tip V2 al Comunei Vlădeni, județul Iași",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223342",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-53-2025",
+   "path": "local/iasi/vladeni/2025/53",
+   "short": "HCL Vlădeni nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 53/2025 privind demararea procedurilor de inventariere în domeniul privat a unor suprafețe de teren",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223367",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-54-2025",
+   "path": "local/iasi/vladeni/2025/54",
+   "short": "HCL Vlădeni nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 54/2025 privind inventarierea în domeniul privat a unor suprafețe de teren",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223368",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-56-2025",
+   "path": "local/iasi/vladeni/2025/56",
+   "short": "HCL Vlădeni nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 56/2025 privind mandatarea Primarului comunei Vlădeni pentru reprezentarea Unității Administrativ-Teritoriale în fața Oficiului de Cadastru și Publicitate Imobiliară, în vederea întocmirii, depunerii și susținerii documentațiilor necesare operațiunilor de carte funciară și pentru îndeplinirea tuturor demersurilor aferente gestionării patrimoniului UAT",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223370",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-60-2025",
+   "path": "local/iasi/vladeni/2025/60",
+   "short": "HCL Vlădeni nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 60/2025 privind aprobarea unor măsuri organizatorice în vederea desfășurării manifestării cultural-artistice „Ziua Comunei Vlădeni” în data de 24 august 2025",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223375",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-61-2025",
+   "path": "local/iasi/vladeni/2025/61",
+   "short": "HCL Vlădeni nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 61/2025 privind aprobarea contractelor de sponsorizare si modificarea bugetului local prin suplimentare cu veniturile din sponsorizare, pentru organizarea evenimentului ,,Ziua comunei Vlădeni”",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/223376",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/223376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-63-2025",
+   "path": "local/iasi/vladeni/2025/63",
+   "short": "HCL Vlădeni nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 63/2025 privind aprobarea cuantumului compensației în bani acordate voluntarilor pentru timpul efectiv de lucru prestat la intervenții și activități prevăzute în programul Serviciului Voluntar pentru Situații de Urgență din cadrul aparatului de specialitate al primarului/Consiliului Local al comunei Vlădeni, județul Iași",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/224887",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/224887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--vladeni-64-2025",
+   "path": "local/iasi/vladeni/2025/64",
+   "short": "HCL Vlădeni nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 64/2025 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 9",
+   "url": "https://emol.ro/vladeni-is/registru-hcl/224888",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vladeni-is/registru-hcl/224888",
      "sha256": null
     }
    ]

@@ -3,6 +3,186 @@
  "shard": "local/iasi/valea-lupului/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--valea-lupului-10-2020",
+   "path": "local/iasi/valea-lupului/2020/10",
+   "short": "HCL Valea Lupului nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 10/2020 privind suplimentarea numărului de posturi de asistenți personali de la 16 posturi la 20 posturi în cadrul UAT Comunei Valea Lupului, județul Iași",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/2989",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/2989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-103-2020",
+   "path": "local/iasi/valea-lupului/2020/103",
+   "short": "HCL Valea Lupului nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 103/2020 privind aprobarea ordinii de zi și suplimentarea ordinii de zi",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18784",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-104-2020",
+   "path": "local/iasi/valea-lupului/2020/104",
+   "short": "HCL Valea Lupului nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 104/2020 privind completarea inventarului bunurilor care apar{in domeniului privat al Comunei Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18785",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-105-2020",
+   "path": "local/iasi/valea-lupului/2020/105",
+   "short": "HCL Valea Lupului nr. 105/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 105/2020 privind trecerea din domeniul privat în domeniul public al Comunei Valea Lupului, a unor terenuri cu destinația de cale de acces",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18786",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-106-2020",
+   "path": "local/iasi/valea-lupului/2020/106",
+   "short": "HCL Valea Lupului nr. 106/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 106/2020 privind aprobarea Proiectului tehnic și a indicatorilor tehnico-economici ai obiectivului de investiții ”Construire zid de sprijin”",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18787",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-107-2020",
+   "path": "local/iasi/valea-lupului/2020/107",
+   "short": "HCL Valea Lupului nr. 107/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 107/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18788",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-108-2020",
+   "path": "local/iasi/valea-lupului/2020/108",
+   "short": "HCL Valea Lupului nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 108/2020 privind aprobarea proiectului tehnic și a indicatorilor tehnico-economici ai obiectivului de investiție ,,Betonare drumuri, sat valea Lupului, com. valea Lupului' jud' Iaqi \"",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18789",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-109-2020",
+   "path": "local/iasi/valea-lupului/2020/109",
+   "short": "HCL Valea Lupului nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 109/2020",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18790",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-11-2020",
+   "path": "local/iasi/valea-lupului/2020/11",
+   "short": "HCL Valea Lupului nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 11/2020 privind aprobarea Listei obiectivelor de investiții cu finanțare parțială sau integrală de la bugetul local pentru anul 2020",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/2990",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/2990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-112-2020",
+   "path": "local/iasi/valea-lupului/2020/112",
+   "short": "HCL Valea Lupului nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 112/2020 privind stabilirea numărului comisiilor de specialitate ale Consiliului Local al comunei valea Lupului, denumirea acestora, precum și componența acestora",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/19609",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/19609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-118-2020",
+   "path": "local/iasi/valea-lupului/2020/118",
+   "short": "HCL Valea Lupului nr. 118/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 118/2020 privind atribuirea unor denumiri de străzi",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/19624",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/19624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-12-2020",
+   "path": "local/iasi/valea-lupului/2020/12",
+   "short": "HCL Valea Lupului nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 12/2020 privind aprobarea Programului anual al achizițiilor publice pentru anul 2020 al Comunei Valea Lupului, județul Iași",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/2991",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/2991",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--valea-lupului-120-2020",
    "path": "local/iasi/valea-lupului/2020/120",
    "short": "HCL Valea Lupului nr. 120/2020",
@@ -298,6 +478,726 @@
      "from": "2020-12-29",
      "units": 1,
      "source_url": "https://emol.ro/valealupului-is/registru-hcl/20011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-16-2020",
+   "path": "local/iasi/valea-lupului/2020/16",
+   "short": "HCL Valea Lupului nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 16/2020 privind înregistrarea declarațiilor de salubritate",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/2995",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/2995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-18-2020",
+   "path": "local/iasi/valea-lupului/2020/18",
+   "short": "HCL Valea Lupului nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 18/2020 privind modalitățile de identificare a beneficiarilor de stimulent educațional acordat sub forma de tichete sociale, pentru copiii care provin din familii defavorizate din Com. Valea Lupului, de soluționare a situațiilor identificate și procedura de acordare a tichetelor sociale pentru grădiniță",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/2997",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/2997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-21-2020",
+   "path": "local/iasi/valea-lupului/2020/21",
+   "short": "HCL Valea Lupului nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 21/2020 privind completarea și actualizarea inventarului bunurilor care aparțin domeniului privat al Comunei Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/3000",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/3000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-22-2020",
+   "path": "local/iasi/valea-lupului/2020/22",
+   "short": "HCL Valea Lupului nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 22/2020",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/3001",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/3001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-24-2020",
+   "path": "local/iasi/valea-lupului/2020/24",
+   "short": "HCL Valea Lupului nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 24/2020 privind modificarea și completarea Regulamentului de instituire și administrare a taxei speciale de salubrizare pentru persoanele casnice și non- casnice în COMUNA VALEA LUPULUI adoptat prin HCL 110/ 27.11.2018 și modificat prin HCL 107/ 25.10. 2019 și prin HCL 121/ 19.12.2020",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/2985",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/2985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-3-2020",
+   "path": "local/iasi/valea-lupului/2020/3",
+   "short": "HCL Valea Lupului nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 3/2020 privind aprobarea Statutului Comunei Valea Lupului, județul Iași",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/2948",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/2948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-35-2020",
+   "path": "local/iasi/valea-lupului/2020/35",
+   "short": "HCL Valea Lupului nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 35/2020 privind organizarea rețelei școlare pe raza comunei Valea Lupului în anul școlar 2020 - 2021",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/3044",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/3044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-38-2020",
+   "path": "local/iasi/valea-lupului/2020/38",
+   "short": "HCL Valea Lupului nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 38/2020 privind actualizarea/ modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/ 2009, prin Actul adițional nr. 36",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/3062",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/3062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-44-2020",
+   "path": "local/iasi/valea-lupului/2020/44",
+   "short": "HCL Valea Lupului nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 44/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18723",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-46-2020",
+   "path": "local/iasi/valea-lupului/2020/46",
+   "short": "HCL Valea Lupului nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 46/2020 privind Actualizarea Programului anual al achizițiilor publice pentru anul 2020 al Comunei Valea Lupului, județul Iași",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18721",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-48-2020",
+   "path": "local/iasi/valea-lupului/2020/48",
+   "short": "HCL Valea Lupului nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 48/2020 privind actualizarea și aprobarea Organigramei și Statutului de funcții al aparatului de specialitate al primarului comunei Valea Lupului județul Iași",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18724",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-5-2020",
+   "path": "local/iasi/valea-lupului/2020/5",
+   "short": "HCL Valea Lupului nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 5/2020 privind aprobarea Organigramei și a Statului de funcții din cadrul aparatului de specialitate al Primarului Comunei Valea Lupului, județul Iași",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/2950",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/2950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-50-2020",
+   "path": "local/iasi/valea-lupului/2020/50",
+   "short": "HCL Valea Lupului nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 50/2020 privind stabilirea impozitelor și taxelor locale și a altor sume care se fac venit al bugetului local pentru anul 2021",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18718",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-58-2020",
+   "path": "local/iasi/valea-lupului/2020/58",
+   "short": "HCL Valea Lupului nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 58/2020 privind aprobarea valorii investițiilor aferente Comunei Valea Lupului și a participării Comunei Valea Lupului la cofinanțarea Proiectului Regional de dezvoltare a infrastructurii de apă și apă uzată din județul Iași, în perioada 2014-2020",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18739",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-59-2020",
+   "path": "local/iasi/valea-lupului/2020/59",
+   "short": "HCL Valea Lupului nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 59/2020 privind aprobarea Studiului de Fezabilitate pentru ''Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iași, în perioada 2014-2020, precum și a indicatorilor tehnico-economici ai proiectului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18740",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-6-2020",
+   "path": "local/iasi/valea-lupului/2020/6",
+   "short": "HCL Valea Lupului nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 6/2020 privind suplimentarea numărului de posturi de asistenți personali de la 14 posturi la 16 posturi în cadrul UAT Comunei Valea Lupului, județul Iași",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/2951",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/2951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-60-2020",
+   "path": "local/iasi/valea-lupului/2020/60",
+   "short": "HCL Valea Lupului nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 60/2020 privind emiterea acordului Consiliului Local aș Comunei Valea Lupului, către SC DELGAZ GRID SA, necesar executării lucrării ''Alimentare cu energie electrică locuințe înșiruire, strada Mestecăniș, sat Valea Lupului, Comuna Valea Lupului, aparținând SC VENETO RESIDENCE SRL''",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18741",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-61-2020",
+   "path": "local/iasi/valea-lupului/2020/61",
+   "short": "HCL Valea Lupului nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 61/2020 privind Actualizarea Listei obiectivelor de investiții cu finanțare parțială sau integrală de la bugetul local pentru anul 2020",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18742",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-62-2020",
+   "path": "local/iasi/valea-lupului/2020/62",
+   "short": "HCL Valea Lupului nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 62/2020 privind Actualizarea Programului anual al achizițiilor publice pentru anul 2020 al Comunei Valea Lupului, județul Iași",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18743",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-63-2020",
+   "path": "local/iasi/valea-lupului/2020/63",
+   "short": "HCL Valea Lupului nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 63/2020 privind aprobarea Metodologiei de acordare a unui ajutor financiar familiilor cu copii preșcolari pentru plata serviciilor oferite de bonă",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18744",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-64-2020",
+   "path": "local/iasi/valea-lupului/2020/64",
+   "short": "HCL Valea Lupului nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 64/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18745",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-65-2020",
+   "path": "local/iasi/valea-lupului/2020/65",
+   "short": "HCL Valea Lupului nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 65/2020 privind însușirea reevaluării bunurilor din patrimoniul comunei Valea Lupului, jud. Iași",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18746",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-66-2020",
+   "path": "local/iasi/valea-lupului/2020/66",
+   "short": "HCL Valea Lupului nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 66/2020 privind rectificarea și actualizarea inventarului bunurilor care alcătuiesc domeniul public al UAT comuna Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18747",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-67-2020",
+   "path": "local/iasi/valea-lupului/2020/67",
+   "short": "HCL Valea Lupului nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 67/2020 privind însușirea inventarului bunurilor care alcătuiesc domeniul privat al Comunei Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18748",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-68-2020",
+   "path": "local/iasi/valea-lupului/2020/68",
+   "short": "HCL Valea Lupului nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 68/2020 privind revocarea HCL nr. 39/15.04.2020",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18749",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-7-2020",
+   "path": "local/iasi/valea-lupului/2020/7",
+   "short": "HCL Valea Lupului nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 7/2020 privind aprobarea „Planului de acțiuni și lucrări ce vor fi efectuate în anul 2020 de către persoanele apte de muncă, beneficiare de ajutor social conform Legii 416/ 2001, privind venitul minim garantat, modificată și completată”",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/2952",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/2952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-71-2020",
+   "path": "local/iasi/valea-lupului/2020/71",
+   "short": "HCL Valea Lupului nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 71/2020 privind respingerea proiectului de hotărâre privind aprobarea Actului Adițional nr. 37 la Contractul de delegare nr. 48/2009 ce cuprinde modificarea prețului pentru apa potabilăprodusă, transportată și distribuită, a prețului pentru apa industrială, a tarifului pentru canalizare și a tarifului pentru epurare, pentru întreaga arie de operare",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18752",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-72-2020",
+   "path": "local/iasi/valea-lupului/2020/72",
+   "short": "HCL Valea Lupului nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 72/2020 privind respingerea proiectului de hotărâre privind aprobarea planului tarifar APAVITAL SA pentru perioada 2020-2024",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18753",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-76-2020",
+   "path": "local/iasi/valea-lupului/2020/76",
+   "short": "HCL Valea Lupului nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 76/2020 privind aprobarea Actului Adițional nr. 37 la Contractul de delgare nr. 48/2009 ce cuprinde modificarea prețului pentru apa potabilă produsă, transportată și distribuită, a prețului pentru apa industrială, a tarifului pentru canalizare și a tarifului pentru epurare, pentru întreaga arie de operare",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18757",
+   "versions": [
+    {
+     "from": "2020-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-77-2020",
+   "path": "local/iasi/valea-lupului/2020/77",
+   "short": "HCL Valea Lupului nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 77/2020 privind aprobarea planului tarifar APAVITAL SA pentru perioada 2020-2024",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18758",
+   "versions": [
+    {
+     "from": "2020-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-79-2020",
+   "path": "local/iasi/valea-lupului/2020/79",
+   "short": "HCL Valea Lupului nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 79/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18760",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-8-2020",
+   "path": "local/iasi/valea-lupului/2020/8",
+   "short": "HCL Valea Lupului nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 8/2020 privind aprobarea contului de execuție a bugetului de venituri și cheltuieli al comunei Valea Lupului pentru TRIM IV al anului 2019",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/2987",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/2987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-80-2020",
+   "path": "local/iasi/valea-lupului/2020/80",
+   "short": "HCL Valea Lupului nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 80/2020 privind trecerea din domeniul privat în domeniul public al Comunei Valea Lupului a unor terenuri",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18761",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-82-2020",
+   "path": "local/iasi/valea-lupului/2020/82",
+   "short": "HCL Valea Lupului nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 82/2020 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 39",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18763",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-83-2020",
+   "path": "local/iasi/valea-lupului/2020/83",
+   "short": "HCL Valea Lupului nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 83/2020 privind aprobarea procedurii de acordare a anulării accesoriilor aferente obligațiilor bugetare principale restante la data de 31.03.2020 inclusiv, datorate bugetului local al primăriei Comunei Valea Lupului, județul Iași",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18764",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-84-2020",
+   "path": "local/iasi/valea-lupului/2020/84",
+   "short": "HCL Valea Lupului nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 84/2020 privind inițerea demersurilor de actualizare PUG și prelungirea valabilității PUG și RLU Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18765",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-85-2020",
+   "path": "local/iasi/valea-lupului/2020/85",
+   "short": "HCL Valea Lupului nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 85/2020 privind aprobarea Planului Urbanistic Zonal ''Construire imobil cu regim de înălțime D+P+1E (spații comerciale și birouri), amenajare parcări auto și împrejmuire teren proprietate', beneficiat SC SITERA DEVELOPMENT SRL în com. Valea Lupului, str. Soarelui, parcela cu nr. cad. 69722 cu suprafața de 2500 mp",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18766",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-86-2020",
+   "path": "local/iasi/valea-lupului/2020/86",
+   "short": "HCL Valea Lupului nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 86/2020 privind predarea unor bunuri aferente serviciilor de canalizare către SC APAVITAL SA, în vederea administrării, întreținerii și exploatării acestora",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18767",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-87-2020",
+   "path": "local/iasi/valea-lupului/2020/87",
+   "short": "HCL Valea Lupului nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 87/2020 privind atribuirea unor denumiri de străzi",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18768",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-89-2020",
+   "path": "local/iasi/valea-lupului/2020/89",
+   "short": "HCL Valea Lupului nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 89/2020 privind radierea unor bunuri din domeniul privat al Comunei Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18770",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-9-2020",
+   "path": "local/iasi/valea-lupului/2020/9",
+   "short": "HCL Valea Lupului nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 9/2020 privind aprobarea Organigramei, Statului de funcții în urma reorganizării Compartimentului taxe și impozite locale executări silite, Compartimentului Economic/ casierie, Compartiment Gospodărire comunală al aparatului de specialitate al Primarului comunei Valea Lupului județul Iași și înființării și organizării Compartimentului de Cabinet Medical Școlar pentru preșcolarii și elevii grădinițelor și școlii comunei Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/2988",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/2988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-91-2020",
+   "path": "local/iasi/valea-lupului/2020/91",
+   "short": "HCL Valea Lupului nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 91/2020 privind aprobarea Proiectului tehnic și a indicatorilor tehnico-economici ai obiectivului de investiții ''Modernizarea rețelei de drumuri sătești în comuna Valea Lupului, județul Iași, etapa II''",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18772",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-93-2020",
+   "path": "local/iasi/valea-lupului/2020/93",
+   "short": "HCL Valea Lupului nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 93/2020 privind Actualizarea Listei obiectivelor de investiții cu finanțare parțială sau integrală de la bugetul local pentru anul 2020",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18774",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-94-2020",
+   "path": "local/iasi/valea-lupului/2020/94",
+   "short": "HCL Valea Lupului nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 94/2020 privind aprobarea actualizării Programului Anual al Achizițiilor Publice pentru anul 2020 al Comunei Valea Lupului, județul Iași",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18775",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-95-2020",
+   "path": "local/iasi/valea-lupului/2020/95",
+   "short": "HCL Valea Lupului nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 95/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18776",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-96-2020",
+   "path": "local/iasi/valea-lupului/2020/96",
+   "short": "HCL Valea Lupului nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 96/2020 privind aprobarea contului de execuție a bugetului și a situațiilor financiare pentru trimestrul II 2020",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18777",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-98-2020",
+   "path": "local/iasi/valea-lupului/2020/98",
+   "short": "HCL Valea Lupului nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 98/2020 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, în cadrul Programului pentru școli al României, pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18779",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--valea-lupului-99-2020",
+   "path": "local/iasi/valea-lupului/2020/99",
+   "short": "HCL Valea Lupului nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Lupului nr. 99/2020 privind alipirea unor terenuri domeniu public al Comunei Valea Lupului",
+   "url": "https://emol.ro/valealupului-is/registru-hcl/18780",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/valealupului-is/registru-hcl/18780",
      "sha256": null
     }
    ]

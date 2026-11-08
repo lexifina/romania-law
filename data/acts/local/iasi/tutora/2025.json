@@ -3,6 +3,28 @@
 "shard": "local/iasi/tutora/2025",
 "acts": [
 {
+"slug": "hcl-iasi--tutora-20-2025",
+"path": "local/iasi/tutora/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 20/2025 privind aprobarea contului de execuție al bugetului de venituri si cheltuieli al comunei Țuțora, județul Iași pentru trimestrul IV al anului 2024",
+"short": "HCL Țuțora nr. 20/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-13",
+"latest": "2025-03-13",
+"portal": "https://emol.ro/tutora-is/registru-hcl/194664",
+"council": "iasi/tutora",
+"council_name": "Consiliul Local al Comunei Țuțora",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--tutora-120-2025",
 "path": "local/iasi/tutora/2025/120",
 "kind": "local",

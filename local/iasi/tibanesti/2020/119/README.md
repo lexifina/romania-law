@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Țibănești nr. 119/2020 privind inlocuirea reprezentantului legal al proiectului ,, Extindere sistem de canalizare in sat Tibanesti si infiintare sistem de canalizare in satul Jigoreni din comuna Tibanesti, judetul Iasi,,
+
+HCL Țibănești nr. 119/2020 · 1 versions, from 2020-11-10 (latest in force: 2020-11-10) · <https://emol.ro/tibanesti-is/registru-hcl/13934>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-iasi--tibanesti-119-2020` (tags `hcl-iasi--tibanesti-119-2020/<day>`; `python tools/on.py <day> hcl-iasi--tibanesti-119-2020`).
+
+## Decisions made by hand
+
+- HCL Țibănești nr. 119/2020: listed from Consiliul Local al Comunei Țibănești (emol.ro); metadata only for now: no document of it is held.
+- HCL Țibănești nr. 119/2020: dated from 10 November 2020, the day it was adopted (the register gives no later day of publication).
+- HCL Țibănești nr. 119/2020: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

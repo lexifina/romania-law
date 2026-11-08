@@ -3,6 +3,72 @@
 "shard": "local/iasi/ungheni/2025",
 "acts": [
 {
+"slug": "hcl-iasi--ungheni-54-2025",
+"path": "local/iasi/ungheni/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungheni nr. 54/2025 privind implementarea proiectului \"Imbunatatirea accesului la serviciile administrative din cadrul Primariei Ungheni, judetul Iasi, prin amenajare parcare, spatiu verde si imprejmuire\" prin PLANUL STRATEGIC PAC 2023 - 2027",
+"short": "HCL Ungheni nr. 54/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/ungheni-is/registru-hcl/229385",
+"council": "iasi/ungheni",
+"council_name": "Consiliul Local al Comunei Ungheni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ungheni-55-2025",
+"path": "local/iasi/ungheni/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungheni nr. 55/2025 privind actualizarea indicatorilor tehnico-economici ai obiectivului de investiții: ” Modernizare drumuri sătești afectate de fenomene hidrometeorologice - 4.6 km în comuna Ungheni, județul Iași”",
+"short": "HCL Ungheni nr. 55/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/ungheni-is/registru-hcl/229386",
+"council": "iasi/ungheni",
+"council_name": "Consiliul Local al Comunei Ungheni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ungheni-60-2025",
+"path": "local/iasi/ungheni/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungheni nr. 60/2025 privind actualizarea inventarului domeniului public al comunei Ungheni",
+"short": "HCL Ungheni nr. 60/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-26",
+"latest": "2026-01-26",
+"portal": "https://emol.ro/ungheni-is/registru-hcl/236540",
+"council": "iasi/ungheni",
+"council_name": "Consiliul Local al Comunei Ungheni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--ungheni-63-2025",
 "path": "local/iasi/ungheni/2025/63",
 "kind": "local",

@@ -3,6 +3,216 @@
  "shard": "local/iasi/tutora/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--tutora-132-2024",
+   "path": "local/iasi/tutora/2024/132",
+   "short": "HCL Țuțora nr. 132/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 132/2024 privind aprobarea Regulamentului de Organizare şi Funcţionare a Consiliului Local Ţuţora",
+   "url": "https://emol.ro/tutora-is/registru-hcl/186699",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/186699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-134-2024",
+   "path": "local/iasi/tutora/2024/134",
+   "short": "HCL Țuțora nr. 134/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 134/2024 privind aprobarea comisiilor de specialitate ale Consiliului Local al Comunei Țuțora, Județul Iași",
+   "url": "https://emol.ro/tutora-is/registru-hcl/186701",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/186701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-135-2024",
+   "path": "local/iasi/tutora/2024/135",
+   "short": "HCL Țuțora nr. 135/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 135/2024 privind alegerea viceprimarului comunei Țuțora, Județul Iași",
+   "url": "https://emol.ro/tutora-is/registru-hcl/186702",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/186702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-137-2024",
+   "path": "local/iasi/tutora/2024/137",
+   "short": "HCL Țuțora nr. 137/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 137/2024 privind stabilirea perioadei efectuării inventarierii anuale a bunurilor care aparțin domeniului public și privat al comunei Țuțora, județul Iași",
+   "url": "https://emol.ro/tutora-is/registru-hcl/186704",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/186704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-138-2024",
+   "path": "local/iasi/tutora/2024/138",
+   "short": "HCL Țuțora nr. 138/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 138/2024 privind validarea și însușirea Dispozițiilor Primarului Comunei Țuțora nr. 184 din 10.10.2024, nr. 187 din 17.10.2024, nr. 189 din 21.10.2024 și nr. 205 din 12.11.2024 privind rectificarea bugetului local pe trimestrul IV al anului 2024",
+   "url": "https://emol.ro/tutora-is/registru-hcl/186705",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/186705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-139-2024",
+   "path": "local/iasi/tutora/2024/139",
+   "short": "HCL Țuțora nr. 139/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 139/2024 privind aprobarea valorii finale a investiției: ”Construire teren sport sintetic multifuncțional în Satul Chiperești, comuna Țuțora, Județul Iași”",
+   "url": "https://emol.ro/tutora-is/registru-hcl/186706",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/186706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-140-2024",
+   "path": "local/iasi/tutora/2024/140",
+   "short": "HCL Țuțora nr. 140/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 140/2024 privind aprobarea actualizării valorii finale a investiției: ”Amenajare parc de agrement cu loc de joacă pentru copii în comuna Țuțora, Județul Iași",
+   "url": "https://emol.ro/tutora-is/registru-hcl/186707",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/186707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-141-2024",
+   "path": "local/iasi/tutora/2024/141",
+   "short": "HCL Țuțora nr. 141/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 141/2024 privind aprobarea participării la „Programul de realizare a pistelor pentru biciclete” și a devizului general pentru proiectul “ASIGURAREA DE PISTE PENTRU BICICLETE LA NIVELUL COMUNEI ȚUȚORA, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/tutora-is/registru-hcl/186708",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/186708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-142-2024",
+   "path": "local/iasi/tutora/2024/142",
+   "short": "HCL Țuțora nr. 142/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 142/2024 privind aprobarea participării Comunei ȚUȚORA în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public, precum și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul ,,Modernizare și extindere infrastructura iluminat public în comuna Țuțora, județul Iași,,",
+   "url": "https://emol.ro/tutora-is/registru-hcl/186709",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/186709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-143-2024",
+   "path": "local/iasi/tutora/2024/143",
+   "short": "HCL Țuțora nr. 143/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 143/2024 privind actualizarea domeniul public și privat al unității administrativ-teritoriale ȚUȚORA",
+   "url": "https://emol.ro/tutora-is/registru-hcl/186710",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/186710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-144-2024",
+   "path": "local/iasi/tutora/2024/144",
+   "short": "HCL Țuțora nr. 144/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 144/2024 privind aprobarea completării Strategiei de dezvoltare locală a comunei Țuțora, județul Iași pentru perioada 2021-2030",
+   "url": "https://emol.ro/tutora-is/registru-hcl/186711",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/186711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-145-2024",
+   "path": "local/iasi/tutora/2024/145",
+   "short": "HCL Țuțora nr. 145/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 145/2024 privind completarea programului anual al achiziţiilor publice pentru anul 2024",
+   "url": "https://emol.ro/tutora-is/registru-hcl/186712",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/186712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-146-2024",
+   "path": "local/iasi/tutora/2024/146",
+   "short": "HCL Țuțora nr. 146/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 146/2024 privind aprobarea procesului verbal de la şedința ordinară din 25 septembrie 2024 și a procesului verbal de la ședința ordinară din 17 noiembrie 2024 ale Consiliului Local Țuțora",
+   "url": "https://emol.ro/tutora-is/registru-hcl/186716",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/186716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-147-2024",
+   "path": "local/iasi/tutora/2024/147",
+   "short": "HCL Țuțora nr. 147/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 147/2024 privind organizarea reţelei şcolare de pe raza administrativ teritorială a comunei Ţuţora, alcătuită din unităţile de învăţământ care vor funcţiona în anul şcolar 2025-2026",
+   "url": "https://emol.ro/tutora-is/registru-hcl/186717",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/186717",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tutora-149-2024",
    "path": "local/iasi/tutora/2024/149",
    "short": "HCL Țuțora nr. 149/2024",

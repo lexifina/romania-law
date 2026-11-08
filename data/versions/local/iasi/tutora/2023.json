@@ -3,6 +3,21 @@
  "shard": "local/iasi/tutora/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--tutora-113-2023",
+   "path": "local/iasi/tutora/2023/113",
+   "short": "HCL Țuțora nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 113/2023 privind stabilirea unor contravenţii pe raza administrativ teritorială a comunei Țuțora",
+   "url": "https://emol.ro/tutora-is/registru-hcl/123449",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/123449",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tutora-140-2023",
    "path": "local/iasi/tutora/2023/140",
    "short": "HCL Țuțora nr. 140/2023",
@@ -298,6 +313,201 @@
      "from": "2024-01-09",
      "units": 1,
      "source_url": "https://emol.ro/tutora-is/registru-hcl/135710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-34-2023",
+   "path": "local/iasi/tutora/2023/34",
+   "short": "HCL Țuțora nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 34/2023 privind aprobarea proceselor verbale de la ședința ordinară din 28 februarie 2023 și de la ședința extraordinară din 15 martie 2023 ale Consiliului Local Țuțora",
+   "url": "https://emol.ro/tutora-is/registru-hcl/101185",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/101185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-35-2023",
+   "path": "local/iasi/tutora/2023/35",
+   "short": "HCL Țuțora nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 35/2023 privind aprobarea graficului de ședință cu ordine de zi a ședințelor Consiliului Local Țuțora pe trimestrul II al anului 2023",
+   "url": "https://emol.ro/tutora-is/registru-hcl/101186",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/101186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-37-2023",
+   "path": "local/iasi/tutora/2023/37",
+   "short": "HCL Țuțora nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 37/2023 privind aprobarea documențației de dezmembrare a unui imobil, proprietate publică a comunei Țuțora, imobil identificat cu numărul cadastral 60535",
+   "url": "https://emol.ro/tutora-is/registru-hcl/101188",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/101188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-38-2023",
+   "path": "local/iasi/tutora/2023/38",
+   "short": "HCL Țuțora nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 38/2023 privind însușirea cheltuielilor fondurilor bănești din bugetul local, pentru organizarea Zilei Femei din 8 martie 2023",
+   "url": "https://emol.ro/tutora-is/registru-hcl/101189",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/101189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-39-2023",
+   "path": "local/iasi/tutora/2023/39",
+   "short": "HCL Țuțora nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 39/2023 privind acordarea dreptului de uz și servitute, în favoarea SC Delgaz GRID S.A asupra unei suprafețe de teren aparținând domeniului public al comunei Țuțora",
+   "url": "https://emol.ro/tutora-is/registru-hcl/101190",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/101190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-40-2023",
+   "path": "local/iasi/tutora/2023/40",
+   "short": "HCL Țuțora nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 40/2023 privind scăderea din eviodența analitică a creanțelor fiscale-impozite și taxe locale din bugetul local 2023",
+   "url": "https://emol.ro/tutora-is/registru-hcl/101191",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/101191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-41-2023",
+   "path": "local/iasi/tutora/2023/41",
+   "short": "HCL Țuțora nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 41/2023 privind modificarea organigramei și a statului de funcții pentru anul 2023 la nivelul Unității Administrativ-Teritoriale Țuțora",
+   "url": "https://emol.ro/tutora-is/registru-hcl/101192",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/101192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-42-2023",
+   "path": "local/iasi/tutora/2023/42",
+   "short": "HCL Țuțora nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 42/2023 privind demararea formalitățiilor privind realizarea investiției \"Capacități de producere energie din surse regenerabile de energie pentru consum propriu în comuna Țuțora \"",
+   "url": "https://emol.ro/tutora-is/registru-hcl/101193",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/101193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-43-2023",
+   "path": "local/iasi/tutora/2023/43",
+   "short": "HCL Țuțora nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 43/2023 privind aprobarea includerii unor suprafețe de teren în domeniul public al unității administrativ-teritoriale Tuțora",
+   "url": "https://emol.ro/tutora-is/registru-hcl/101194",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/101194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-44-2023",
+   "path": "local/iasi/tutora/2023/44",
+   "short": "HCL Țuțora nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 44/2023 privind alocarea sumei de 15.000 lei din bugetul de venituri și cheltuieli pentru anul 2023- pentru parohia SF. Voievozi Oprișeni din comuna Țuțora",
+   "url": "https://emol.ro/tutora-is/registru-hcl/101195",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/101195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-48-2023",
+   "path": "local/iasi/tutora/2023/48",
+   "short": "HCL Țuțora nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 48/2023 privind aprobarea Strategia de Dezvoltare a serviciilor publice de alimentare cu apă și de canalizare la nivelul ariei delegării, pentru perioada 2023-2028",
+   "url": "https://emol.ro/tutora-is/registru-hcl/104445",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/104445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-51-2023",
+   "path": "local/iasi/tutora/2023/51",
+   "short": "HCL Țuțora nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 51/2023 privind modificarea și completarea Constractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009-consolidat 2021, prin Actul Adițional nr.3",
+   "url": "https://emol.ro/tutora-is/registru-hcl/104448",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/104448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-66-2023",
+   "path": "local/iasi/tutora/2023/66",
+   "short": "HCL Țuțora nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 66/2023 privind modificarea regulamentului referitor la instruirea și administrarea taxei speciale de salubrizare al comunei Țuțora, județul Iași",
+   "url": "https://emol.ro/tutora-is/registru-hcl/107880",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/107880",
      "sha256": null
     }
    ]

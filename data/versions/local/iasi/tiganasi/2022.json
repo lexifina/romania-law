@@ -3,6 +3,21 @@
  "shard": "local/iasi/tiganasi/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--tiganasi-10-2022",
+   "path": "local/iasi/tiganasi/2022/10",
+   "short": "HCL Țigănași nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 10/2022 privind aprobarea Bugetului local al comunei Ţigănaşi, judeţul Iaşi aferent anului 2022",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/50731",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/50731",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tiganasi-101-2022",
    "path": "local/iasi/tiganasi/2022/101",
    "short": "HCL Țigănași nr. 101/2022",
@@ -133,6 +148,21 @@
      "from": "2022-12-22",
      "units": 1,
      "source_url": "https://emol.ro/tiganasi-is/registru-hcl/82999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-11-2022",
+   "path": "local/iasi/tiganasi/2022/11",
+   "short": "HCL Țigănași nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 11/2022 privind aprobarea Planului anual al achiziţiilor publice al comunei Ţigănaşi, judeţul Iași, aferent anului 2022",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/50732",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/50732",
      "sha256": null
     }
    ]
@@ -288,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tiganasi-12-2022",
+   "path": "local/iasi/tiganasi/2022/12",
+   "short": "HCL Țigănași nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 12/2022 privind aprobare disponibil de pășune, inițiere procedură de închiriere pășune pentru anul 2022",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/50733",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/50733",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tiganasi-120-2022",
    "path": "local/iasi/tiganasi/2022/120",
    "short": "HCL Țigănași nr. 120/2022",
@@ -298,6 +343,216 @@
      "from": "2022-12-30",
      "units": 1,
      "source_url": "https://emol.ro/tiganasi-is/registru-hcl/84163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-14-2022",
+   "path": "local/iasi/tiganasi/2022/14",
+   "short": "HCL Țigănași nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 14/2022 privind aprobare Regulament privind repartizarea și închirierea locuințelor sociale aparținând Comunei Țigănași, județul Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/50735",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/50735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-16-2022",
+   "path": "local/iasi/tiganasi/2022/16",
+   "short": "HCL Țigănași nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 16/2022 privind aprobarea implementării proiectului ”Realizare stații de încărcare pentru vehicule elecrice în comuna Țigănași, județul Iași”",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/50737",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/50737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-34-2022",
+   "path": "local/iasi/tiganasi/2022/34",
+   "short": "HCL Țigănași nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 34/2022",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/57673",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/57673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-39-2022",
+   "path": "local/iasi/tiganasi/2022/39",
+   "short": "HCL Țigănași nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 39/2022 privind aprobarea realizării obiectivului de investiții – Proiect,, Construire hala agroalimentara in Targ-Obor , localitatea Carniceni, comuna Tiganasi, judetul Iasi’’ și a cofinanțării Proiectului prin Programul Județean de Dezvoltare Economico-Socială Iași pentru perioada 2021-2024",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/60380",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/60380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-41-2022",
+   "path": "local/iasi/tiganasi/2022/41",
+   "short": "HCL Țigănași nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 41/2022 privind aprobarea nivelului taxelor şi impozitelor aplicabile începând cu 01.01.2023 la nivelul comunei Ţigănaşi, judeţul Iaşi",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/61207",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/61207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-42-2022",
+   "path": "local/iasi/tiganasi/2022/42",
+   "short": "HCL Țigănași nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 42/2022",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/61208",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/61208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-57-2022",
+   "path": "local/iasi/tiganasi/2022/57",
+   "short": "HCL Țigănași nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 57/2022 privind aprobarea participării UAT Comuna Țigănași la programul PNRR-Componenta 10 –fondul local, PNRR/2022/C10, I.3 - Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale, pentru realizarea obiectivului de investitii ,,Eficientizare energetica Scoala Primara Stejarii, comuna Tiganasi, judetul Iasi’",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/63365",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/63365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-58-2022",
+   "path": "local/iasi/tiganasi/2022/58",
+   "short": "HCL Țigănași nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 58/2022 privind aprobarea participării UAT Comuna Țigănași la programul PNRR-Componenta 10 –fondul local, PNRR/2022/C10, I.3 - Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale, pentru realizarea obiectivului de investitii ,, Eficientizare energetica remiza ISU Primarie, comuna Tiganasi, judetul Iași’’",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/63366",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/63366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-6-2022",
+   "path": "local/iasi/tiganasi/2022/6",
+   "short": "HCL Țigănași nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 6/2022 privind completarea Hotărârii Consiliului Local Țigănași nr.65/31.07.2020 pentru proiectul ”Construire centru comunitar integrat în satul Stejarii, comuna Țigănași, județul Iași”",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/46745",
+   "versions": [
+    {
+     "from": "2022-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/46745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-60-2022",
+   "path": "local/iasi/tiganasi/2022/60",
+   "short": "HCL Țigănași nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 60/2022",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/65134",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/65134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-65-2022",
+   "path": "local/iasi/tiganasi/2022/65",
+   "short": "HCL Țigănași nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 65/2022 privind completarea Hotărârii nr.4 din 10.01.2022, a Consiliului Local al comunei Țigănași, județul Iași privind aprobarea salariilor de bază pentru aparatul de specialitate al primarului comunei Țigănași, județul Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/66825",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/66825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-70-2022",
+   "path": "local/iasi/tiganasi/2022/70",
+   "short": "HCL Țigănași nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 70/2022 privind actualizarea indicatorilor tehnico-economici ai investiției ”Construire bloc locuințe sociale satul Cârniceni, comuna Țigănași, județul Iași”, aprobați inițial prin Hotărârea nr.42/2021 a Consiliului Local Țigănași, județul Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/66830",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/66830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-76-2022",
+   "path": "local/iasi/tiganasi/2022/76",
+   "short": "HCL Țigănași nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 76/2022 privind aderarea Comunei Țigănași, județul Iași la Asociația de Dezvoltare Zona Metropolitană Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/68217",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/68217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-78-2022",
+   "path": "local/iasi/tiganasi/2022/78",
+   "short": "HCL Țigănași nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 78/2022 privind aprobarea contractului de finanțate 31889/03.08.2022- Consiliul Județean Iași, nr.5756 din 03.08.2022 - Comuna Țigănași încheiat pentru obiectivul de investiții ”Construire hală agroalimentară în Târg-Obor, localitatea Cârniceni, comuna Țigănași, județul Iași”",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/68219",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/68219",
      "sha256": null
     }
    ]

@@ -3,6 +3,186 @@
  "shard": "local/iasi/tiganasi/2025",
  "acts": [
   {
+   "slug": "hcl-iasi--tiganasi-14-2025",
+   "path": "local/iasi/tiganasi/2025/14",
+   "short": "HCL Țigănași nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 14/2025 privind aprobarea primirii prin donație a unei tractor",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/194069",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/194069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-15-2025",
+   "path": "local/iasi/tiganasi/2025/15",
+   "short": "HCL Țigănași nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 15/2025 privind aprobare disponibil de pășune, inițiere procedură de închiriere pășune pentru anul 2025",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/194070",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/194070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-20-2025",
+   "path": "local/iasi/tiganasi/2025/20",
+   "short": "HCL Țigănași nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 20/2025 privind darea în folosință gratuită, către Scoala Gimnaziala ,, Costache Antoniu’’ Tiganasi, judetul Iasi, a bunurilor achiziționate prin proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași”, cod F-PNRR-Dotari-2023-0426, finanțat prin Planul Național de Redresare și Reziliență - Componenta C15 Educație, pentru perioada de implementare a Proiectului",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/200104",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/200104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-24-2025",
+   "path": "local/iasi/tiganasi/2025/24",
+   "short": "HCL Țigănași nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 24/2025 privind retragerea din Acordul de cooperare nr 400 din 02 iulie 2014 pentru exercitarea funcției de audit public intern în sistem de cooperare din cadrul Filialei Județene Iași a Asociației Comunelor din România",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/202452",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/202452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-25-2025",
+   "path": "local/iasi/tiganasi/2025/25",
+   "short": "HCL Țigănași nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 25/2025 privind exercitarea funcției de audit public intern în sistem de cooperare în cadrul Filialei Județene Iași a Asociației Comunelor din România",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/202453",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/202453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-32-2025",
+   "path": "local/iasi/tiganasi/2025/32",
+   "short": "HCL Țigănași nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 32/2025 privind darea în administrare , către Scoala Gimnaziala ,, Costache Antoniu’’ Tiganasi, judetul Iasi, a obiectivului de investiții ,, Construire teren multisport în incinta școlii gimnaziale Costache Antoniu Țigănași, comuna Țigănași , județul Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/204708",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/204708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-37-2025",
+   "path": "local/iasi/tiganasi/2025/37",
+   "short": "HCL Țigănași nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 37/2025 privind aprobarea devizului general actualizat în urma finalizării procedurilor de achiziții privind investiția ”Construire bloc locuințe sociale satul Cârniceni, comuna Țigănași, județul Iași”",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/209431",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/209431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-47-2025",
+   "path": "local/iasi/tiganasi/2025/47",
+   "short": "HCL Țigănași nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 47/2025 privind rectificarea Bugetului local al comunei Țigănași, județul Iași, aferent anului 2025",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/218222",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/218222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-58-2025",
+   "path": "local/iasi/tiganasi/2025/58",
+   "short": "HCL Țigănași nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 58/2025 privind rectificarea Bugetului local al comunei Țigănași, județul Iași, aferent anului 2025",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/223900",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/223900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-61-2025",
+   "path": "local/iasi/tiganasi/2025/61",
+   "short": "HCL Țigănași nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 61/2025 privind rectificarea Bugetului local al comunei Țigănași, județul Iași, aferent anului 2025",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/226540",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/226540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-62-2025",
+   "path": "local/iasi/tiganasi/2025/62",
+   "short": "HCL Țigănași nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 62/2025 privind darea în folosință gratuită, către Școala Gimnazială ,, Costache Antoniu’’ Țiganași, județul Iași, a bunurilor achiziționate prin proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași”, cod F-PNRR-Dotari-2023-0426, finanțat prin Planul Național de Redresare și Reziliență - Componenta C15 Educație, pentru perioada de implementare a Proiectului, conform Contract de comodat nr. 34798/27.08.2025",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/226541",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/226541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-63-2025",
+   "path": "local/iasi/tiganasi/2025/63",
+   "short": "HCL Țigănași nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 63/2025 privind darea în folosință gratuită, către Scoala Gimnaziala ,, Costache Antoniu’’ Tiganasi, judetul Iasi, a bunurilor achiziționate prin proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași”, cod F-PNRR-Dotari-2023-0426, finanțat prin Planul Național de Redresare și Reziliență - Componenta C15 Educație, pentru perioada de implementare a Proiectului, conform Contract de comodat nr. 34796/27.08.2025",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/226542",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/226542",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tiganasi-69-2025",
    "path": "local/iasi/tiganasi/2025/69",
    "short": "HCL Țigănași nr. 69/2025",

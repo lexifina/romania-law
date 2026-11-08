@@ -3,6 +3,126 @@
  "shard": "local/iasi/tutora/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--tutora-115-2022",
+   "path": "local/iasi/tutora/2022/115",
+   "short": "HCL Țuțora nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 115/2022 privind aprobarea unor măsuri referitoare la reducerea consumului de energie electrică în UAT Țuțora",
+   "url": "https://emol.ro/tutora-is/registru-hcl/77544",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/77544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-150-2022",
+   "path": "local/iasi/tutora/2022/150",
+   "short": "HCL Țuțora nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 150/2022 privind aprobarea ajustării prețului contractului de achiziție publică de lucrări ”Proiectare și execuție lucrări pentru obiectivul de investiție Modernizare drumuri locale în satele Chiperești, Țuțora și Oprișeni, Comuna Țuțora, Județul Iași”",
+   "url": "https://emol.ro/tutora-is/registru-hcl/80444",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/80444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-152-2022",
+   "path": "local/iasi/tutora/2022/152",
+   "short": "HCL Țuțora nr. 152/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 152/2022 privind aprobarea finanțării investiției de către Del Gaz Grid SA pentru obiectivul: ”Extinderea rețelei de gaze naturale în localitățile Chiperești și Oprișeni din comuna Țuțora, Județul Iași”",
+   "url": "https://emol.ro/tutora-is/registru-hcl/80446",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/80446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-157-2022",
+   "path": "local/iasi/tutora/2022/157",
+   "short": "HCL Țuțora nr. 157/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 157/2022 privind scăderea din evidența analitică a creanțelor fiscale-impozite și taxe locale din bugetul local 2022",
+   "url": "https://emol.ro/tutora-is/registru-hcl/83130",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/83130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-158-2022",
+   "path": "local/iasi/tutora/2022/158",
+   "short": "HCL Țuțora nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 158/2022 privind alocarea de fonduri bănești din bugetul local pentru organizarea Sărbătorilor de Iarnă",
+   "url": "https://emol.ro/tutora-is/registru-hcl/83131",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/83131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-159-2022",
+   "path": "local/iasi/tutora/2022/159",
+   "short": "HCL Țuțora nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 159/2022 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții „ÎNFIINȚARE SISTEM DE CANALIZARE ÎN COMUNA ȚUȚORA, JUD.IAȘI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/tutora-is/registru-hcl/83132",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/83132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-160-2022",
+   "path": "local/iasi/tutora/2022/160",
+   "short": "HCL Țuțora nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 160/2022 privind aprobarea ajustării prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL S.A",
+   "url": "https://emol.ro/tutora-is/registru-hcl/83133",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/83133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-163-2022",
+   "path": "local/iasi/tutora/2022/163",
+   "short": "HCL Țuțora nr. 163/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 163/2022 privind aprobarea actualizării valorii finale a proiectului; „Achiziția de accesorii-Perie și Sărăriță în cadrul SERVICIULUI DE GOSPODĂRIRE COMUNALĂ ȚUȚORA”",
+   "url": "https://emol.ro/tutora-is/registru-hcl/83136",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/83136",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tutora-165-2022",
    "path": "local/iasi/tutora/2022/165",
    "short": "HCL Țuțora nr. 165/2022",
@@ -298,6 +418,51 @@
      "from": "2023-01-26",
      "units": 1,
      "source_url": "https://emol.ro/tutora-is/registru-hcl/86830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-26-2022",
+   "path": "local/iasi/tutora/2022/26",
+   "short": "HCL Țuțora nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 26/2022 privind de cote/plafoane maxime lunare privind consumul de combustibil pentru primar, viceprimar, secretar și utilajele autovehicolele din dotarea Primăriei Țuțora",
+   "url": "https://emol.ro/tutora-is/registru-hcl/76586",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/76586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-75-2022",
+   "path": "local/iasi/tutora/2022/75",
+   "short": "HCL Țuțora nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 75/2022 privind stabilirea domeniilor serviciilor publice și locul în care contravenienții vor presta activități în folosul comunității",
+   "url": "https://emol.ro/tutora-is/registru-hcl/77376",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/77376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tutora-78-2022",
+   "path": "local/iasi/tutora/2022/78",
+   "short": "HCL Țuțora nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Țuțora nr. 78/2022 privind completarea anexei nr.IX din HCL Țuțora nr.118 din 2021 privind stabilirea taxelor și impozitelor locale, precum și a taxelor speciale pentru anul 2022",
+   "url": "https://emol.ro/tutora-is/registru-hcl/77379",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tutora-is/registru-hcl/77379",
      "sha256": null
     }
    ]

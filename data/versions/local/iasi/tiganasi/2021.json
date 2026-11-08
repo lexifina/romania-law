@@ -3,6 +3,21 @@
  "shard": "local/iasi/tiganasi/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--tiganasi-1-2021",
+   "path": "local/iasi/tiganasi/2021/1",
+   "short": "HCL Țigănași nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 1/2021 privind actualizarea indicatorilor tehnico-economici ai proiectului denumit ''Reabilitare, modernizare, dotare și extindere Școala Gimnazială, comuna Țigănași, jud. Iași''",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/17656",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/17656",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tiganasi-100-2021",
    "path": "local/iasi/tiganasi/2021/100",
    "short": "HCL Țigănași nr. 100/2021",
@@ -13,6 +28,546 @@
      "from": "2021-12-23",
      "units": 1,
      "source_url": "https://emol.ro/tiganasi-is/registru-hcl/45117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-15-2021",
+   "path": "local/iasi/tiganasi/2021/15",
+   "short": "HCL Țigănași nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 15/2021 privind modificarea Regulamentului de salubritate, administrarea taxei speciale de salubrizare pentru persoanele casnice și non-casnice în comuna Țigănași, județul Iași - 2021",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/17661",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/17661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-16-2021",
+   "path": "local/iasi/tiganasi/2021/16",
+   "short": "HCL Țigănași nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 16/2021 privind aprobare execuție bugetară la data de 31.12.2020",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/18436",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/18436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-17-2021",
+   "path": "local/iasi/tiganasi/2021/17",
+   "short": "HCL Țigănași nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 17/2021 privind aprobare rețea transport public județean",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/18437",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/18437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-19-2021",
+   "path": "local/iasi/tiganasi/2021/19",
+   "short": "HCL Țigănași nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 19/2021 privind aprobarea Regulamentului gospodărire comunală, Comuna Țigănași, județul Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/18439",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/18439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-2-2021",
+   "path": "local/iasi/tiganasi/2021/2",
+   "short": "HCL Țigănași nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 2/2021 privind aprobarea Programului Anual al Achizițiilor Publice pe anul 2020 - forma finală",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/17664",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/17664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-20-2021",
+   "path": "local/iasi/tiganasi/2021/20",
+   "short": "HCL Țigănași nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 20/2021 privind aprobare disponibil de pășune, inițiere procedură de închiriere pășune pentru anul 2021",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/18440",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/18440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-22-2021",
+   "path": "local/iasi/tiganasi/2021/22",
+   "short": "HCL Țigănași nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 22/2021 privind necesitatea și oportunitatea actualizare Plan Urbanistic General al comunei Țigănași, județul Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/18442",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/18442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-23-2021",
+   "path": "local/iasi/tiganasi/2021/23",
+   "short": "HCL Țigănași nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 23/2021 privind aprobarea constituirii unei Asociații de Dezvoltare Intercomunitară pentru înființare rețea de gaze naturale",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/18443",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/18443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-24-2021",
+   "path": "local/iasi/tiganasi/2021/24",
+   "short": "HCL Țigănași nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 24/2021 privind „Înființare sistem inteligent de distribuție gaze naturale în comunele Țigănași și Probota, județul Iași”",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/18444",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/18444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-26-2021",
+   "path": "local/iasi/tiganasi/2021/26",
+   "short": "HCL Țigănași nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 26/2021 privind alegerea președintelui de ședință în perioada aprilie-iunie 2021",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/21171",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/21171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-27-2021",
+   "path": "local/iasi/tiganasi/2021/27",
+   "short": "HCL Țigănași nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 27/2021 privind aprobarea Regulamentului de Organizare şi Funcţionare a Aparatului de specialitate al Primarului comunei Ţigănaşi şi a Regulamentului de ordine interioară a Aparatului de specialitate al Primarului comunei Ţigănaşi, judeţul Iaşi",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/21172",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/21172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-28-2021",
+   "path": "local/iasi/tiganasi/2021/28",
+   "short": "HCL Țigănași nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 28/2021 privind aprobarea Bugetului local al comunei Ţigănaşi, judeţul Iaşi aferent anului 2021",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/22663",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/22663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-29-2021",
+   "path": "local/iasi/tiganasi/2021/29",
+   "short": "HCL Țigănași nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 29/2021 privind aprobarea Planului anual al achiziţiilor publice al comunei Ţigănaşi, judeţul Iași, aferent anului 2021",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/22664",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/22664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-3-2021",
+   "path": "local/iasi/tiganasi/2021/3",
+   "short": "HCL Țigănași nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 3/2021 privind aprobarea Planului local anual de lucrări pentru persoanele care au săvârșit infracțiuni și urmează să presteze muncă în folosul comunității ca aobligație stabilită de către instanța de judecată",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/17665",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/17665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-30-2021",
+   "path": "local/iasi/tiganasi/2021/30",
+   "short": "HCL Țigănași nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 30/2021 privind aprobare execuţie bugetară la data de 31.03.2021",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/22665",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/22665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-31-2021",
+   "path": "local/iasi/tiganasi/2021/31",
+   "short": "HCL Țigănași nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 31/2021 privind aprobarea nivelului taxelor şi impozitelor aplicabile începând cu 01.01.2022 la nivelul comunei Ţigănaşi, judeţul Iaşi",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/22666",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/22666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-32-2021",
+   "path": "local/iasi/tiganasi/2021/32",
+   "short": "HCL Țigănași nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 32/2021 privind aprobarea modificării și completării Regulamentului de gospodărire comunală la nivelul comunei Țigănași, județul Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/22667",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/22667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-33-2021",
+   "path": "local/iasi/tiganasi/2021/33",
+   "short": "HCL Țigănași nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 33/2021 privind prezentarea Raportului anual privind starea economică, socială și de mediu la nivelul comunei Țigănași, județul iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/22668",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/22668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-37-2021",
+   "path": "local/iasi/tiganasi/2021/37",
+   "short": "HCL Țigănași nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 37/2021 privind rectificarea bugetului comunei Țigănași, județul Iași, aferent anului 2021",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/25118",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/25118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-39-2021",
+   "path": "local/iasi/tiganasi/2021/39",
+   "short": "HCL Țigănași nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 39/2021 privind însușire rapoart evaluare imobile ce aparține Domeniului privat al comunei Țigănași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/25120",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/25120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-4-2021",
+   "path": "local/iasi/tiganasi/2021/4",
+   "short": "HCL Țigănași nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 4/2021 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2021 ce vor fi efectuate de către persoanele apte de muncă, beneficiare de ajutor social potrivit Legii nr. 416/2001, privind venitul minim garantat",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/17666",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/17666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-40-2021",
+   "path": "local/iasi/tiganasi/2021/40",
+   "short": "HCL Țigănași nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 40/2021 privind aprobarea consolidării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/25121",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/25121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-41-2021",
+   "path": "local/iasi/tiganasi/2021/41",
+   "short": "HCL Țigănași nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 41/2021",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/25122",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/25122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-42-2021",
+   "path": "local/iasi/tiganasi/2021/42",
+   "short": "HCL Țigănași nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 42/2021 privind aprobarea indicatorilor tehnico-economici ai investiției ”Construire bloc locuințe sociale satul Cârniceni, comuna Țigănași, județul Iași”",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/25123",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/25123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-44-2021",
+   "path": "local/iasi/tiganasi/2021/44",
+   "short": "HCL Țigănași nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 44/2021 privind rectificarea bugetului comunei Țigănași, județul Iași, aferent anului 2021",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/27498",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/27498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-46-2021",
+   "path": "local/iasi/tiganasi/2021/46",
+   "short": "HCL Țigănași nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 46/2021 privind implementarea Programului pentru școli în anul școlar 2021-2022 în comuna Țigănași, județul Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/27500",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/27500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-47-2021",
+   "path": "local/iasi/tiganasi/2021/47",
+   "short": "HCL Țigănași nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 47/2021 privind trecerea din Domeniul Public al comunei Țigănași în Domeniul Privat al comunei Țigănași a suprafeței de teren identificată cadastral cu nr.61143",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/27501",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/27501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-48-2021",
+   "path": "local/iasi/tiganasi/2021/48",
+   "short": "HCL Țigănași nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 48/2021 privind aprobarea dezlipirii unor imobile identificate cadastral cu nr.60143, nr. 60144 respectiv 61427, imobile ce aparțin Domeniului Public al comunei Țigănași, județul Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/27502",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/27502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-49-2021",
+   "path": "local/iasi/tiganasi/2021/49",
+   "short": "HCL Țigănași nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 49/2021 privind alegerea președintelui de ședință în perioada iulie-septembrie 2021",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/27503",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/27503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-5-2021",
+   "path": "local/iasi/tiganasi/2021/5",
+   "short": "HCL Țigănași nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 5/2021 privind aprobarea rețelei școlare pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/17667",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/17667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-50-2021",
+   "path": "local/iasi/tiganasi/2021/50",
+   "short": "HCL Țigănași nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 50/2021 privind aprobarea indicatorilor tehnico-economici ai investiției ”MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA ȚIGĂNAȘI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/27504",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/27504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-51-2021",
+   "path": "local/iasi/tiganasi/2021/51",
+   "short": "HCL Țigănași nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 51/2021 privind aprobarea indicatorilor tehnico-economici ai investiției ”REABILITAREA INFRASTRUCTURII DE TRANSPORT ÎN LUNGIME DE 262 M ÎN COMUNA ȚIGĂNAȘI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/27505",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/27505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-52-2021",
+   "path": "local/iasi/tiganasi/2021/52",
+   "short": "HCL Țigănași nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 52/2021 privind aprobarea bugetului actualizat rezultat in urma finalizarii evaluarii proiectului: „Dotarea unitatilor de invatamant din comuna Tiganasi, judetul Iasi cu echipamente si dispozitive electronice necesare desfasurarii activitatii didactice in mediul on-line”",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/27506",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/27506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-54-2021",
+   "path": "local/iasi/tiganasi/2021/54",
+   "short": "HCL Țigănași nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 54/2021 privind actualizarea indicatorilor tehnico-economici aferenti proiectului: „CONSTRUIRE CENTRU COMUNITAR INTEGRAT IN SATUL STEJARII, COMUNA TIGANASI, JUDETUL IASI”",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/28488",
+   "versions": [
+    {
+     "from": "2021-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/28488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-6-2021",
+   "path": "local/iasi/tiganasi/2021/6",
+   "short": "HCL Țigănași nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 6/2021 privind Strategia de Dezvolatre Locală a Comunei Țigănași, județul Iași 2021-2027",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/17668",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/17668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tiganasi-63-2021",
+   "path": "local/iasi/tiganasi/2021/63",
+   "short": "HCL Țigănași nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Țigănași nr. 63/2021 privind aprobarea modificării și completării Regulamentului de gospodărire comunală la nivelul comunei Țigănași, județul Iași",
+   "url": "https://emol.ro/tiganasi-is/registru-hcl/36505",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tiganasi-is/registru-hcl/36505",
      "sha256": null
     }
    ]

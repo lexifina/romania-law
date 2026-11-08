@@ -3,6 +3,126 @@
  "shard": "local/iasi/tomesti/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--tomesti-1-2022",
+   "path": "local/iasi/tomesti/2022/1",
+   "short": "HCL Tomești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 1/2022 privind aprobarea Programului Primarului Comunei Tomeşti, Județul Iași, pe anul 2022",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/63737",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/63737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-12-2022",
+   "path": "local/iasi/tomesti/2022/12",
+   "short": "HCL Tomești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 12/2022 privind aprobarea regulamentului de colectare a resturilor vegetale și instituirea taxei de colectare a resturilor vegetale în comuna Tomești, Județul Iași",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/63748",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/63748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-19-2022",
+   "path": "local/iasi/tomesti/2022/19",
+   "short": "HCL Tomești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 19/2022 privind participarea la proiectul de investiție ”Dezvoltarea rețelei de drumuri locale din Zona Metropolitană Iași pentru decongestionarea traficului”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/63755",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/63755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-26-2022",
+   "path": "local/iasi/tomesti/2022/26",
+   "short": "HCL Tomești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 26/2022 privind aprobarea: ”Listei cu lucrările de investiții publice ale Primăriei comunei Tomești, județul Iași, pe anul 2022”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/63783",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/63783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-27-2022",
+   "path": "local/iasi/tomesti/2022/27",
+   "short": "HCL Tomești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 27/2022 privind atribuirea de denumiri unor străzi de pe teritoriul administrativ al comunei Tomești, județul Iași",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/63821",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/63821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-4-2022",
+   "path": "local/iasi/tomesti/2022/4",
+   "short": "HCL Tomești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 4/2022 privind aprobarea Planului de Ordine și Siguranță Publică al Comunei Tomești, Județul Iași, pe anul 2022”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/63740",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/63740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-57-2022",
+   "path": "local/iasi/tomesti/2022/57",
+   "short": "HCL Tomești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 57/2022 privind aprobarea „Planului de amenajament pastoral pentru toate pajiștile permanente aflate pe raza comunei Tomești, județul Iași”",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/63877",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/63877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tomesti-67-2022",
+   "path": "local/iasi/tomesti/2022/67",
+   "short": "HCL Tomești nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tomești nr. 67/2022 privind Revocarea HCL Tomești nr. 57/2021 de aprobare a curselor regulate care vor face parte din Noul program de transport public județean de persoane, precum și stațiile de îmbarcare care vor fi cuprinse în Traseele județene de transport public de persoane prin curse regulate, de pe raza Comunei Tomești, Județul Iași",
+   "url": "https://emol.ro/tomesti-is/registru-hcl/63911",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tomesti-is/registru-hcl/63911",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tomesti-75-2022",
    "path": "local/iasi/tomesti/2022/75",
    "short": "HCL Tomești nr. 75/2022",
