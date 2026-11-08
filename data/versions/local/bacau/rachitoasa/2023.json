@@ -3,6 +3,546 @@
  "shard": "local/bacau/rachitoasa/2023",
  "acts": [
   {
+   "slug": "hcl-bacau--rachitoasa-1-2023",
+   "path": "local/bacau/rachitoasa/2023/1",
+   "short": "HCL Răchitoasa nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 1/2023 privind implementarea proiectului ” Înființare sistem de supraveghere video pe raza comunei Răchitoasa, judeţul Bacău”",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108884",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-10-2023",
+   "path": "local/bacau/rachitoasa/2023/10",
+   "short": "HCL Răchitoasa nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 10/2023 privind aprobarea Programului de măsuri pentru mai buna gospodărire, întreţinere şi înfrumuseţare a comunei Răchitoasa pe anul 2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108898",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-11-2023",
+   "path": "local/bacau/rachitoasa/2023/11",
+   "short": "HCL Răchitoasa nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 11/2023 privind aprobarea Planului de acţiuni şi lucrări de interes local ce vor fi efectuate în anul 2023 de către persoanele apte de muncă, beneficiare de ajutor social potrivit Legii nr. 416/2001 privind venitul minim garantat, precum şi a orelor de muncă dispuse a fi executate muncă în folosul comunităţii, la nivelul comunei Răchitoasa, judeţul Bacău",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108899",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-12-2023",
+   "path": "local/bacau/rachitoasa/2023/12",
+   "short": "HCL Răchitoasa nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 12/2023 privind stabilirea domeniilor serviciilor publice şi locul în care contravenienţii vor presta activităţi în folosul comunităţii în anul 2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108900",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-13-2023",
+   "path": "local/bacau/rachitoasa/2023/13",
+   "short": "HCL Răchitoasa nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 13/2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108901",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-14-2023",
+   "path": "local/bacau/rachitoasa/2023/14",
+   "short": "HCL Răchitoasa nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 14/2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108902",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-15-2023",
+   "path": "local/bacau/rachitoasa/2023/15",
+   "short": "HCL Răchitoasa nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 15/2023 privind aprobarea cotizaţiei anuale la patrimoniul„Asociaţiei de Dezvoltare Intercomunitară pentru Salubrizare Bacău”, pentru anul 2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108907",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-16-2023",
+   "path": "local/bacau/rachitoasa/2023/16",
+   "short": "HCL Răchitoasa nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 16/2023 privind aprobarea cotizaţiei anuale la Asociaţia Comunelor din România pe anul 2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108908",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-17-2023",
+   "path": "local/bacau/rachitoasa/2023/17",
+   "short": "HCL Răchitoasa nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 17/2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108909",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-18-2023",
+   "path": "local/bacau/rachitoasa/2023/18",
+   "short": "HCL Răchitoasa nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 18/2023 privind aprobarea cotizaţiei la Societatea Naţională de Cruce Roşie din România – Filiala Judeţului Bacău pe anul 2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108910",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-19-2023",
+   "path": "local/bacau/rachitoasa/2023/19",
+   "short": "HCL Răchitoasa nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 19/2023 privind însușirea Raportului de follow -up nr. 16721 din 21.02.2023 emis de Camera de Conturi a județului Bacău asupra modului de ducere la îndeplinire a măsurilor dispuse prin Decizia nr. 34/08.11.2019",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108911",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-2-2023",
+   "path": "local/bacau/rachitoasa/2023/2",
+   "short": "HCL Răchitoasa nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 2/2023 privind aprobarea Raportului Primarului comunei Răchitoasa privind situația gestionării bunurilor ce fac parte din domeniul public și privat al comunei și însuşirea inventarului patrimoniului comunei la sfârșitul anului 2022",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108885",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-20-2023",
+   "path": "local/bacau/rachitoasa/2023/20",
+   "short": "HCL Răchitoasa nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 20/2023 privind modificarea şi actualizarea Organigramei şi a Statului de funcţii al aparatului de specialitate al primarului comunei Răchitoasa , judeţul Bacău",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108912",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-21-2023",
+   "path": "local/bacau/rachitoasa/2023/21",
+   "short": "HCL Răchitoasa nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 21/2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108913",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-22-2023",
+   "path": "local/bacau/rachitoasa/2023/22",
+   "short": "HCL Răchitoasa nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 22/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108914",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-23-2023",
+   "path": "local/bacau/rachitoasa/2023/23",
+   "short": "HCL Răchitoasa nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 23/2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108915",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-24-2023",
+   "path": "local/bacau/rachitoasa/2023/24",
+   "short": "HCL Răchitoasa nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 24/2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108916",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-25-2023",
+   "path": "local/bacau/rachitoasa/2023/25",
+   "short": "HCL Răchitoasa nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 25/2023 privind aprobarea aderarii Autoritatii Publice Locale COMUNA RĂCHITOASA , judetul BACĂU la parteneriatul ASOCIAȚIA GRUPUL DE ACȚIUNE LOCALĂ BACĂUL RURAL",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108917",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-26-2023",
+   "path": "local/bacau/rachitoasa/2023/26",
+   "short": "HCL Răchitoasa nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 26/2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108918",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-28-2023",
+   "path": "local/bacau/rachitoasa/2023/28",
+   "short": "HCL Răchitoasa nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 28/2023 privind aprobarea proiectului de investiții ”Dotarea și echiparea unităților de învățământ preuniversitar din comuna Răchitoasa, județul Bacău” și a cheltuielilor aferente acestuia",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108920",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-29-2023",
+   "path": "local/bacau/rachitoasa/2023/29",
+   "short": "HCL Răchitoasa nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 29/2023 privind aprobarea contractului de asociere privind finanţarea activităţii de protecţie de tip rezidenţial al persoanei cu handicap",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/109046",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/109046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-3-2023",
+   "path": "local/bacau/rachitoasa/2023/3",
+   "short": "HCL Răchitoasa nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 3/2023 privind asigurarea activităţilor juridice de consultanţă, de asistenţă şi/sau de reprezentare, necesare Unităţii Administrativ Teritoriale Răchitoasa",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108886",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-30-2023",
+   "path": "local/bacau/rachitoasa/2023/30",
+   "short": "HCL Răchitoasa nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 30/2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/109047",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/109047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-31-2023",
+   "path": "local/bacau/rachitoasa/2023/31",
+   "short": "HCL Răchitoasa nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 31/2023 privind aprobarea cotizaţiei anuale la patrimoniul„Asociaţiei de Dezvoltare Intercomunitară Bacău-ADIB",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/109048",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/109048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-32-2023",
+   "path": "local/bacau/rachitoasa/2023/32",
+   "short": "HCL Răchitoasa nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 32/2023 privind aprobarea Documentației de avizare a lucrărilor de intervenții (DALI) si a indicatorilor tehnico-economici pentru obiectivul de investiții Reabilitare si modernizare sediu administrativ comuna Rachitoasa, judetul Bacau, aprobat pentru finanțare prin Programul Național de Redresare și Reziliență, Componenta C10 FONDUL LOCAL I3. Reabilitare moderata a cladirilor publice pentru a îmbunatati furnizarea de servicii publice de catre unitatile administrativ-teritoriale și a cheltuielilor ce vor fi efectuate în cadrul proiectului",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/109049",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/109049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-33-2023",
+   "path": "local/bacau/rachitoasa/2023/33",
+   "short": "HCL Răchitoasa nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 33/2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/111739",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/111739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-34-2023",
+   "path": "local/bacau/rachitoasa/2023/34",
+   "short": "HCL Răchitoasa nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 34/2023 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/ indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții „ Extindere reţea de alimentare cu apă şi canalizare în satul Răchitoasa şi satul Fundătura Răchitoasa – comuna Răchitoasa”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/111740",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/111740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-35-2023",
+   "path": "local/bacau/rachitoasa/2023/35",
+   "short": "HCL Răchitoasa nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 35/2023 privind aprobarea neasumării responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor / acordurilor- cadru pentru achiziţia produselor şi a contractelor / acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru şcoli al României , pentru perioada 2023 -2026",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/126804",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/126804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-36-2023",
+   "path": "local/bacau/rachitoasa/2023/36",
+   "short": "HCL Răchitoasa nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 36/2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/126805",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/126805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-37-2023",
+   "path": "local/bacau/rachitoasa/2023/37",
+   "short": "HCL Răchitoasa nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 37/2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/126806",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/126806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-38-2023",
+   "path": "local/bacau/rachitoasa/2023/38",
+   "short": "HCL Răchitoasa nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 38/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/126807",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/126807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-39-2023",
+   "path": "local/bacau/rachitoasa/2023/39",
+   "short": "HCL Răchitoasa nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 39/2023 privind aprobarea infiintarii SERVICIULUI PUBLIC LOCAL DE GESTIONARE A CÂINILOR FĂRA STĂPÂN si a REGULAMENTULUI DE ORGANIZARE SI DESFASURARE A SERVICIULUI la nivelul Comunei Răchitoasa, Judetul Bacău si aprobarea de achiziţie directă a activităţilor specifice acestui serviciu",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/126808",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/126808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-4-2023",
+   "path": "local/bacau/rachitoasa/2023/4",
+   "short": "HCL Răchitoasa nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 4/2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108887",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-40-2023",
+   "path": "local/bacau/rachitoasa/2023/40",
+   "short": "HCL Răchitoasa nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 40/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/ indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții „ MODERNIZARE DRUMURI COMUNALE ŞI DRUMURI DE INTERES LOCAL ÎN COMUNA RĂCHITOASA, JUDEȚUL BACĂU ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/126809",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/126809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-41-2023",
+   "path": "local/bacau/rachitoasa/2023/41",
+   "short": "HCL Răchitoasa nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 41/2023 privind aprobarea Programului de masuri in vederea efectuarii lucrarilor de reparatii, reabilitare si igienizare a localurilor unitatilor scolare din comuna Rachitoasa , judeţul Bacău, în vederea începerii noului an şcolar",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/126814",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/126814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-42-2023",
+   "path": "local/bacau/rachitoasa/2023/42",
+   "short": "HCL Răchitoasa nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 42/2023 privind aprobarea implementării obiectivului de investiții”Lucrări de reparații pe drumurile de interes local în comuna Răchitoasa , județul Bacău ”",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/126815",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/126815",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--rachitoasa-43-2023",
    "path": "local/bacau/rachitoasa/2023/43",
    "short": "HCL Răchitoasa nr. 43/2023",
@@ -103,6 +643,21 @@
      "from": "2023-10-26",
      "units": 1,
      "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/145051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-5-2023",
+   "path": "local/bacau/rachitoasa/2023/5",
+   "short": "HCL Răchitoasa nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 5/2023 privind aprobarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108888",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108888",
      "sha256": null
     }
    ]
@@ -258,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--rachitoasa-6-2023",
+   "path": "local/bacau/rachitoasa/2023/6",
+   "short": "HCL Răchitoasa nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 6/2023 privind însușirea Raportului de follow-up nr. 11948 din 08.02.2023 emis de Camera de conturi a județului Bacău asupra modului de ducere la îndeplinire a măsurilor dispuse prin Decizia nr. 10/31.05.2022",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108894",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108894",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--rachitoasa-60-2023",
    "path": "local/bacau/rachitoasa/2023/60",
    "short": "HCL Răchitoasa nr. 60/2023",
@@ -298,6 +868,51 @@
      "from": "2024-02-28",
      "units": 1,
      "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/145101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-7-2023",
+   "path": "local/bacau/rachitoasa/2023/7",
+   "short": "HCL Răchitoasa nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 7/2023 privind aprobarea Regulamentului pentru acordarea unor forme de sprijin financiar de la bugetul local al comunei Răchitoasa, pentru unităţile de cult din comună aparţinând cultelor religioase recunoscute din România",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108895",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-8-2023",
+   "path": "local/bacau/rachitoasa/2023/8",
+   "short": "HCL Răchitoasa nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 8/2023 privind corectarea Hotărârii nr. 49 din 17.11.2022 privind modificarea inventarul bunurilor ce aparţin domeniului public al comunei Răchitoasa, judeţul Bacău",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108896",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-9-2023",
+   "path": "local/bacau/rachitoasa/2023/9",
+   "short": "HCL Răchitoasa nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 9/2023 privind corectarea Hotărârii nr. 53 din 27.12.2022 privind modificarea inventarul bunurilor ce aparţin domeniului public al comunei Răchitoasa, judeţul Bacău",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/108897",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/108897",
      "sha256": null
     }
    ]

@@ -3,6 +3,576 @@
  "shard": "local/bacau/nicolae-balcescu/2023",
  "acts": [
   {
+   "slug": "hcl-bacau--nicolae-balcescu-1-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/1",
+   "short": "HCL Nicolae Bălcescu nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 1/2023 privind aprobare PUZ „AMENAJARE CENTRU LOGISTIC” – sat Nicolae Bălcescu, comuna Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89167",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-10-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/10",
+   "short": "HCL Nicolae Bălcescu nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 10/2023 privind aprobarea documentaţiei şi indicatorilor tehnico-economici, faza SF pentru obiectivul de investiţii „Înfiintarea sistemului de alimentare cu apã potabilã în satul Lărguţa, comuna Nicolae Bălcescu, judeţul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89352",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-100-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/100",
+   "short": "HCL Nicolae Bălcescu nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 100/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118593",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-102-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/102",
+   "short": "HCL Nicolae Bălcescu nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 102/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru perioada 2023-2026",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/119180",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/119180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-103-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/103",
+   "short": "HCL Nicolae Bălcescu nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 103/2023 privind aprobarea proiectului tehnic şi a indicatorilor tehnico-economici, pentru obiectivul de investiții „Realizare si dezvoltare sistem de distribuție gaze naturale in localitatea Galbeni aparținătoare Comunei Nicolae Balcescu, județul Bacau”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/119181",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/119181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-104-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/104",
+   "short": "HCL Nicolae Bălcescu nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 104/2023 privind modificarea HCL nr.28/2019",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/119182",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/119182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-106-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/106",
+   "short": "HCL Nicolae Bălcescu nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 106/2023 pentru înscrierea unei suprafețe de 2073 mp,strada Lotus (prelungire) din localitatea Nicolae Bălcescu în domeniul public al comunei Nicolae Bălcescu, urmând procedura de actualizarea a inventarului bunurilor care alcătuiesc domeniul privat al comunei",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/119184",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/119184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-107-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/107",
+   "short": "HCL Nicolae Bălcescu nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 107/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/119185",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/119185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-109-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/109",
+   "short": "HCL Nicolae Bălcescu nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 109/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/119187",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/119187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-110-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/110",
+   "short": "HCL Nicolae Bălcescu nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 110/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124034",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-111-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/111",
+   "short": "HCL Nicolae Bălcescu nr. 111/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 111/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124035",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-112-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/112",
+   "short": "HCL Nicolae Bălcescu nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 112/2023 privind completarea anexei nr. 1 din HCL nr. 43/26.04.2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din familia ocupaţională „Administraţie”, din cadrul aparatului de specialitate al primarului comunei Nicolae Bălcescu, județul Bacău, precum și pentru personalul din cadrul serviciilor publice din subordinea Consiliului Local al comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124036",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-113-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/113",
+   "short": "HCL Nicolae Bălcescu nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 113/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124037",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-115-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/115",
+   "short": "HCL Nicolae Bălcescu nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 115/2023 privind modificarea suprafeței imobilului (strada Lotus,Tronsonul I, localitatea Nicolae Bălcescu ) aflat în domeniul public al comunei Nicolae Bălcescu de la poziția 26 din HCL 41/16.05.2019 din suprafața de 1707 mp în suprafața de 2379 mp, conform anexei 1 la prezentul proiect de hotarâre ,urmând procedura de actualizarea a inventarului bunurilor care alcătuiesc domeniul public al comunei Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124039",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-116-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/116",
+   "short": "HCL Nicolae Bălcescu nr. 116/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 116/2023 privind modificarea suprafeței imobilului (strada Lotus Tronsonul II, localitatea Nicolae Bălcescu) aflat în domeniul public al comunei Nicolae Bălcescu de la poziția 7 din HCL 139/21.12.2022 din suprafața de 1797 mp în suprafața de 1919 mp ,conform anexei 2 la prezentul proiect de hotarâre , urmând procedura de actualizarea a inventarului bunurilor care alcătuiesc domeniul public al comunei",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124040",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-117-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/117",
+   "short": "HCL Nicolae Bălcescu nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 117/2023 privind modificarea suprafeței imobilului (strada Lotus Tronsonul III, localitatea Nicolae Bălcescu) aflat în domeniul public al comunei Nicolae Bălcescu de la poziția 1 din HCL 106/30.08.2023 din suprafața de 2073 mp în suprafața de 2369 mp ,conform anexei 3 la prezentul proiect de hotarâre, urmând procedura de actualizarea a inventarului bunurilor care alcătuiesc domeniul public al comunei",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124041",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-118-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/118",
+   "short": "HCL Nicolae Bălcescu nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 118/2023 privind modificarea și completarea hotărâri de consiliul local 72 din 14.06.2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124042",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/124042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-120-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/120",
+   "short": "HCL Nicolae Bălcescu nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 120/2023 privind dezmembrarea imobilului aflat în domeniul public al comunei Nicolae Bălcescu (poziția 3 nr. din HCL 79/13.12.2018) denumit strada Neptun în suprafață de 8622 mp, categorie de folosință drum în două loturi pentru înscrierea în etape a acestor tronsoane în carte funciară, urmând procedura de actualizarea a inventarului bunurilor care alcătuiesc domeniul privat al comunei",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130538",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-121-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/121",
+   "short": "HCL Nicolae Bălcescu nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 121/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130539",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-122-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/122",
+   "short": "HCL Nicolae Bălcescu nr. 122/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 122/2023 privind aprobarea destinației sumelor alocat de la bugetul local pe anul 2023 pentru susținerea cultelor religioase, actualizată",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130540",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-123-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/123",
+   "short": "HCL Nicolae Bălcescu nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 123/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130541",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-126-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/126",
+   "short": "HCL Nicolae Bălcescu nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 126/2023 privind aprobarea dobândirii dreptului de proprietate publică a comunei Nicolae Bălcescu, jud. Bacău asupra unor bunuri imobile",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130572",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-127-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/127",
+   "short": "HCL Nicolae Bălcescu nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 127/2023 privind aprobarea PROTOCOLULUI dintre ADMINISTRAȚIA NAȚIONALĂ „APELE ROMÂNE” prin ADMINISTRAȚIA BAZINALĂ DE APĂ SIRET și COMUNA NICOLAE BĂLCESCU pentru realizarea obiectivului de investiții “Modernizare drumuri locale în satele Nicolae Bălcescu, Valea Seacă, Galbeni și Buchila din comuna Nicolae Bălcescu, județul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130573",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-128-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/128",
+   "short": "HCL Nicolae Bălcescu nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 128/2023 privind aprobarea Studiului de fezabilitate a indicatorilor tehnico-economici ai proiectului a listei de investiții prioritare a valorilor investițiilor aferente Consiliului Local Nicolae Balcescu și a participării Consiliului Local Nicolae Balcescu la cofinanțarea Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în județul Bacău, în perioada 2014 – 2020",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130574",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-129-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/129",
+   "short": "HCL Nicolae Bălcescu nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 129/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130575",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-13-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/13",
+   "short": "HCL Nicolae Bălcescu nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 13/2023 privind revocarea Hotărârilor Consiliului Local nr. 6 din data de 30.01.2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89355",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-131-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/131",
+   "short": "HCL Nicolae Bălcescu nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 131/2023 privind aprobarea Regulamentului de organizarea și funcționarea serviciului pentru gestionarea câinilor fără stăpân al comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130577",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-132-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/132",
+   "short": "HCL Nicolae Bălcescu nr. 132/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 132/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130578",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-133-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/133",
+   "short": "HCL Nicolae Bălcescu nr. 133/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 133/2023 privind virarea contribuției anuale la Asociația de Dezvoltare Intercomunitară Bacău- ADIB pentru anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130579",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-135-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/135",
+   "short": "HCL Nicolae Bălcescu nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 135/2023 privind schimbarea categoriei de folosință a suprafeței de 34 mp din T78 P3221/120, înscrisă în cartea funciară 64749, nr. cadastral 64749 din localitatea Galbeni, din arabil în drum, în domeniul public al comunei Nicolae Bălcescu, urmând procedura de actualizarea a inventarului bunurilor care alcătuiesc domeniul public al comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130581",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-136-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/136",
+   "short": "HCL Nicolae Bălcescu nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 136/2023 privind confirmarea dreptului de propietate publică a comunei Nicolae Bălcescu, jud. Bacău asupra bunului imobil în suprafață de 608 mp situat în localitatea Valea Seacă, înscris provizoriu în sensul înscrierii definitive a dreptului de proprietate, dobândit prin HCL 125/14.11.2022, urmând procedura de atestare în inventarul bunurilor care alcătuiesc domeniul public al comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130582",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-137-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/137",
+   "short": "HCL Nicolae Bălcescu nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 137/2023 privind preluarea unor imobile în domeniul public al comunei Nicolae Bălcescu și înscrierea definitivă a acestora în carte funciară",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130583",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-138-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/138",
+   "short": "HCL Nicolae Bălcescu nr. 138/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 138/2023 privind aprobarea înscrierii definitive în cartea funciară a unor imobile și preluarea acestora în domeniul public al comunei, urmând procedura de atestare în inventarul bunurilor care alcătuiesc domeniul public al comunei Nicolae Bălcescu, jud. Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130584",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-139-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/139",
+   "short": "HCL Nicolae Bălcescu nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 139/2023 privind aprobarea înscrierii definitive în cartea funciară a unor imobile și preluarea acestora în domeniul public al comunei, urmând procedura de atestare în inventarul bunurilor care alcătuiesc domeniul public al comunei Nicolae Bălcescu, jud. Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130585",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-14-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/14",
+   "short": "HCL Nicolae Bălcescu nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 14/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93540",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-140-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/140",
+   "short": "HCL Nicolae Bălcescu nr. 140/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 140/2023 privind aprobarea documentaţiei şi indicatorilor tehnico-economici, faza PTh pentru obiectivul de investiţii pentru obiectivul de investiție “Modernizare străzi limitrofe, în satele Nicolae Bãlcescu, Valea Seacã, din comuna Nicolae Bălcescu, județul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130586",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-142-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/142",
+   "short": "HCL Nicolae Bălcescu nr. 142/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 142/2023 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Nicolae Bălcescu, judeţul Bacău, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130734",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-143-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/143",
+   "short": "HCL Nicolae Bălcescu nr. 143/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 143/2023 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Nicolae Bălcescu, judeţul Bacău, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130735",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130735",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-146-2023",
    "path": "local/bacau/nicolae-balcescu/2023/146",
    "short": "HCL Nicolae Bălcescu nr. 146/2023",
@@ -58,6 +628,21 @@
      "from": "2024-01-08",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/130741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-15-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/15",
+   "short": "HCL Nicolae Bălcescu nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 15/2023 privind avizarea rețelei de învățământ din comuna Nicolae Bălcescu pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93541",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93541",
      "sha256": null
     }
    ]
@@ -213,6 +798,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--nicolae-balcescu-16-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/16",
+   "short": "HCL Nicolae Bălcescu nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 16/2023 privind aprobarea conturilor de execuție pentru bugetul local și bugetul activităților finanțate din venituri proprii pe trim. IV 2022",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93542",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93542",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-160-2023",
    "path": "local/bacau/nicolae-balcescu/2023/160",
    "short": "HCL Nicolae Bălcescu nr. 160/2023",
@@ -298,6 +898,1191 @@
      "from": "2024-01-10",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/136563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-17-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/17",
+   "short": "HCL Nicolae Bălcescu nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 17/2023 privind avizare PUZ „CONSTRUIRE LOCUINȚE” în sat Nicolae Bălcescu, comuna Nicolae Bălcescu, Județul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93543",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-18-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/18",
+   "short": "HCL Nicolae Bălcescu nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 18/2023 privind acordarea burselor școlare pentru anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93544",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-2-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/2",
+   "short": "HCL Nicolae Bălcescu nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 2/2023 privind aprobarea Planului de acţiuni şi lucrări de interes local pe anul 2023, ce vor executa cu persoanele apte de munca beneficiare ale Legii 416/2001",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89168",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-20-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/20",
+   "short": "HCL Nicolae Bălcescu nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 20/2023 privind aprobarea Statutului Comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93546",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-21-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/21",
+   "short": "HCL Nicolae Bălcescu nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 21/2023 privind majorarea taxei de concesiune cu indicele de inflație pentru anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93547",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-22-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/22",
+   "short": "HCL Nicolae Bălcescu nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 22/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93548",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-23-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/23",
+   "short": "HCL Nicolae Bălcescu nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 23/2023 privind necesitatea și oportunitatea demarării procedurilor de realizare a unui Centru/Platformă de colectare a deșeurilor prin aport voluntar (CAV)",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93549",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/93549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-24-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/24",
+   "short": "HCL Nicolae Bălcescu nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 24/2023 privind aprobarea Proiectului tehnic şi a indicatorilor tehnico-economici, faza PTh, pentru obiectivul de investiţii „Înfiinţarea sistemului de alimentare cu apã potabilã în satul Lãrguţa, comuna Nicolae Bãlcescu, judeţul Bacãu”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/94332",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/94332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-25-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/25",
+   "short": "HCL Nicolae Bălcescu nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 25/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/94333",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/94333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-26-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/26",
+   "short": "HCL Nicolae Bălcescu nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 26/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/94334",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/94334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-27-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/27",
+   "short": "HCL Nicolae Bălcescu nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 27/2023 privind aprobarea acordului la faza de proiect tehnic, în vederea realizării investiției „Relocare rețea de canalizare” comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/94335",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/94335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-28-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/28",
+   "short": "HCL Nicolae Bălcescu nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 28/2023 privind aprobarea tarifelor pentru chiria spațiilor medicale din comună",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100289",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-29-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/29",
+   "short": "HCL Nicolae Bălcescu nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 29/2023 privind aprobarea Regulamentului Intern al angajatorului – Comuna Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100290",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-3-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/3",
+   "short": "HCL Nicolae Bălcescu nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 3/2023 privind aprobarea efectuării concediului de odihnă restant, aferent anului 2022, de către primarul şi viceprimarul comunei Nicolae Bălcescu, județul Bacău, în anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89169",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-30-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/30",
+   "short": "HCL Nicolae Bălcescu nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 30/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100291",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-31-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/31",
+   "short": "HCL Nicolae Bălcescu nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 31/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100292",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-32-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/32",
+   "short": "HCL Nicolae Bălcescu nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 32/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100293",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-34-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/34",
+   "short": "HCL Nicolae Bălcescu nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 34/2023 privind implementarea proiectului „CREȘTEREA CALITĂȚII SERVICIILOR LOCALE DE BAZA PRIN ACHIZITIA DE MASINĂ DE TOCAT CRENGI ÎN COMUNA NICOLAE BĂLCESCU, JUDEȚUL BACĂU”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/104940",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/104940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-36-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/36",
+   "short": "HCL Nicolae Bălcescu nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 36/2023 privind aprobarea „Reabilitare si modernizare teren sport sat Galbeni”, comuna Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100297",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-37-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/37",
+   "short": "HCL Nicolae Bălcescu nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 37/2023 privind aprobarea votului in cadrul Adunării Asociației de Dezvoltare Intercomunitara Zona Metropolitană Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100298",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-38-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/38",
+   "short": "HCL Nicolae Bălcescu nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 38/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100354",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-39-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/39",
+   "short": "HCL Nicolae Bălcescu nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 39/2023 privind aprobarea destinației sumelor alocat de la bugetul local pe anul 2023 pentru susținerea cultelor religioase",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100355",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-4-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/4",
+   "short": "HCL Nicolae Bălcescu nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 4/2023 privind aprobarea stabilirii salariilor de bază pentru funcționarii publici și personalul contractual din familia ocupaţională „Administraţie” din cadrul aparatului de specialitate al primarului comunei Nicolae Bălcescu, județul Bacău, precum și din cadrul serviciilor publice din subordinea Consiliului Local al comunei Nicolae Bălcescu, județul Bacău, pentru anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89170",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-40-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/40",
+   "short": "HCL Nicolae Bălcescu nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 40/2023 privind aprobarea rezilierii contractului de concesiune nr.4/2005",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100356",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/100356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-42-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/42",
+   "short": "HCL Nicolae Bălcescu nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 42/2023 privind aprobarea participării Comunei Nicolae Bãlcescu în cadrul Programului privind casarea autovehiculelor uzate, derulat în cofinanțare cu Administrația Fondului pentru Mediu şi aprobarea susţinerii din bugetul local a contribuţiei proprii aferentã programului",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103844",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-43-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/43",
+   "short": "HCL Nicolae Bălcescu nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 43/2023 privind aprobarea stabilirii salariilor de bază pentru funcționarii publici și personalul contractual din familia ocupaţională „Administraţie” din cadrul aparatului de specialitate al primarului comunei Nicolae Bălcescu, județul Bacău, precum și din cadrul serviciilor publice din subordinea Consiliului Local al comunei Nicolae Bălcescu, județul Bacău, începând cu data de 01.04.2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103845",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-45-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/45",
+   "short": "HCL Nicolae Bălcescu nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 45/2023 privind aprobarea proiectului tehnic şi a indicatorilor tehnico-economici, faza PTh, pentru obiectivul de investiţii \"Modernizare drumuri de interes local în satele Nicolae Bălcescu, Galbeni si Valea Seacă, comuna Nicolae Bălcescu, judetul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103847",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-46-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/46",
+   "short": "HCL Nicolae Bălcescu nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 46/2023 privind preluarea unei suprafețe de 34 mp din T78 P3221/120, , înscrisă provizoriu în cartea funciară 64749, nr. cadastral 64749 din localitatea Galbeni, în domeniul privat al comunei Nicolae Bălcescu, urmând procedura de actualizarea a inventarului bunurilor care alcătuiesc domeniul privat al comunei",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103848",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-47-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/47",
+   "short": "HCL Nicolae Bălcescu nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 47/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103849",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-48-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/48",
+   "short": "HCL Nicolae Bălcescu nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 48/2023 privind dezmembrarea imobilului înscris în cartea funciră nr.655221, nr. cadastral 65221 a comunei Nicolae Bălcescu, având suprafața de 2258 mp în două loturi, nr. cad. 65288 – str. Vulturului și nr. cad. 65289 – str. Căprioarei",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103850",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-49-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/49",
+   "short": "HCL Nicolae Bălcescu nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 49/2023 privind aprobarea documentaţiei şi indicatorilor tehnico-economici, faza DALI, pentru obiectivul de investiţii „Reabilitarea energeticã a Cãminului Cultural din sat Nicolae Bãlcescu, comuna Nicolae Bãlcescu, judeţul Bacãu”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103851",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-5-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/5",
+   "short": "HCL Nicolae Bălcescu nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 5/2023 privind aprobarea solicitări de preluare temporară în administrarea Consiliului Local Nicolae Bălcescu, a unui sector de drum din DE 319, cu lungimea de 425,24 ml, DE 320 cu lungimea de 240,37 ml, DE 321 cu lungimea de 586,00 ml aflat în domeniul public al Comunei Sănduleni, în vederea modernizării acestuia",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89171",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-50-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/50",
+   "short": "HCL Nicolae Bălcescu nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 50/2023 privind aprobarea obiectivului de investiții „Achizitie grupuri electrogene” pentru stațiile de apă din comuna Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103852",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-51-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/51",
+   "short": "HCL Nicolae Bălcescu nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 51/2023 privind indexarea impozitelor şi taxelor locale pentru anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103853",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-52-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/52",
+   "short": "HCL Nicolae Bălcescu nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 52/2023 privind repartizarea sumei de 80 mii lei, alocată în bugetul inițial pentru Ziua Comunei, pentru evenimentele organizate în cursul acestui an",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103854",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-53-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/53",
+   "short": "HCL Nicolae Bălcescu nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 53/2023 privind desfășurarea programului PRIMUL GHIOZDAN pentru copiii înscriși în clasa pregătitoare în școlile din comuna Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103855",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-54-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/54",
+   "short": "HCL Nicolae Bălcescu nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 54/2023 pentru aprobarea Regulamentului privind controlul reproducerii tuturor câinilor de pe domeniul public sau privat și preîntâmpinarea răspândirii bolilor și creșterea numărului de animale abandonate în comuna Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103856",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-55-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/55",
+   "short": "HCL Nicolae Bălcescu nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 55/2023 privind aprobarea Programul anual de sterilizare gratuită a animalelor fără pedigree, cu stăpân și fără stăpân, femele, la nivelul comunei Nicolae Bălcescu Jud. Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103857",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/103857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-56-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/56",
+   "short": "HCL Nicolae Bălcescu nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 56/2023 cu privire la aprobarea aderării Comunei Nicolae Bălcescu, județul Bacău la parteneriatul GAL MICROREGIUNEA CONFLUENȚE BĂCĂUANE",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/104837",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/104837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-57-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/57",
+   "short": "HCL Nicolae Bălcescu nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 57/2023 modificarea art. 5 din Hotărârea Consiliului Local nr. 34/29.03.2023 privind implementarea Proiectului „CREȘTEREA CALITĂȚII SERVICIILOR LOCALE DE BAZA PRIN ACHIZITIA DE MASINĂ DE TOCAT CRENGI ÎN COMUNA NICOLAE BĂLCESCU, JUDEȚUL BACĂU ”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109213",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-6-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/6",
+   "short": "HCL Nicolae Bălcescu nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 6/2023 privind modificarea statului de funcții al aparatului de specialitate al primarului comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89172",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-60-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/60",
+   "short": "HCL Nicolae Bălcescu nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 60/2023 privind aprobarea conturilor de execuție pentru bugetul local și bugetul activităților finanțate din venituri proprii pe trim. I 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109216",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-63-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/63",
+   "short": "HCL Nicolae Bălcescu nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 63/2023 pentru aprobarea acordului privind executarea unor lucrări de nivelare și stabilizare a drumului DC 271 de către SC DEDEMAN S.R.L",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109219",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-64-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/64",
+   "short": "HCL Nicolae Bălcescu nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 64/2023 privind aprobarea amenajării unei parcări la Școala Gimnazială nr. 1 Valea Seacă",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109220",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-65-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/65",
+   "short": "HCL Nicolae Bălcescu nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 65/2023 privind aprobarea reabilitării și modernizării terenurilor de sport din cadrul unităților de învățământ de pe raza comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109221",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-66-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/66",
+   "short": "HCL Nicolae Bălcescu nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 66/2023 privind actualizarea inventarului bunurilor care alcătuiesc domeniul public al comunei în sensul înscrierii imobilului în suparafață de 521 mp având categorie de folosință drum, din localitatea Nicolae Bălcescu, în domeniul public al comunei Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109222",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-67-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/67",
+   "short": "HCL Nicolae Bălcescu nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 67/2023 privind trecerea imobilului înscris în cartea funciară nr.64749 în suprafață de 34 mp din domeniul privat al comunei Nicolae Bălcescu în domeniul public al comunei Nicolae Bălcescu, urmând procedura de actualizarea a inventarului bunurilor care alcătuiesc domeniul public al comunei",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109223",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-68-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/68",
+   "short": "HCL Nicolae Bălcescu nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 68/2023 privind înscrierea unor imobile, din localitatea Nicolae Bălcescu, în domeniul privat al comunei Nicolae Bălcescu, urmând procedura de actualizarea a inventarului bunurilor care alcătuiesc domeniul privat al comunei",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109224",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-69-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/69",
+   "short": "HCL Nicolae Bălcescu nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 69/2023 privind modificarea suprafeței imobilului (strada Tineretului, localitatea Galbeni) aflat în domeniul public al comunei Nicolae Bălcescu de la poziția 22 din HCL 79/13.12.2018 din suprafața de 4769 mp în suprafața de 5281 mp , urmând procedura de actualizarea a inventarului bunurilor care alcătuiesc domeniul public al comunei",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109225",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-7-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/7",
+   "short": "HCL Nicolae Bălcescu nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 7/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89349",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-71-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/71",
+   "short": "HCL Nicolae Bălcescu nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 71/2023 privind amenajarea/construirea unui foraj de adăncime și a unei conducte de aducțiune în sat Nicolae Bălcescu, județul Bacău, pentru mărirea capacitătii sistemului de alimentare cu apă al satului Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109227",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-72-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/72",
+   "short": "HCL Nicolae Bălcescu nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 72/2023 privind modificarea și completarea HCL nr. 55 din 2023 privind aprobarea Programul anual de sterilizare gratuită a animalelor fără pedigree, cu stăpân și fără stăpân, la nivelul comunei Nicolae Bălcescu Județul Bacău Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109231",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-73-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/73",
+   "short": "HCL Nicolae Bălcescu nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 73/2023 privind stabilirea amplasării unui parc de distracții cu ocazia Hramului din localitatea Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109232",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/109232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-74-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/74",
+   "short": "HCL Nicolae Bălcescu nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 74/2023 privind aprobarea contribuției pentru anul 2023 la Asociația de Dezvoltare Intercomunitară Zona Metropolitană Bacău, aferentă comunei Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111627",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-75-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/75",
+   "short": "HCL Nicolae Bălcescu nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 75/2023 privind aprobarea solicitări de preluare temporară în administrarea Consiliului Local Nicolae Bălcescu, județul Bacău unui sector de drum DE 1086, pe o lungime de 0.134 km+ DE 1093 cu lungimea de 0,334 km situată pe raza comunei Luizi Călugăra, județul Bacău în vederea modernizării acestuia",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111628",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-76-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/76",
+   "short": "HCL Nicolae Bălcescu nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 76/2023 privind confirmarea dreptului de propietate publică a comunei Nicolae Bălcescu, jud. Bacău asupra bunului imobil situat în localitatea Galbeni, sub denumirea PIAȚA MONUMENT Galbeni- DS 3254/1 în suprafață de 1954 mp înscris provizoriu în CF 64947, nr. cadastral 64947 în sensul înscrierii definitive a dreptului de proprietate, dobândit prin HCL 132/25.11.2021, urmând procedura de atestare în inventarul bunurilor care alcătuiesc domeniul public al comunei Nicolae Bălcescu, jud. Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111629",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-77-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/77",
+   "short": "HCL Nicolae Bălcescu nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 77/2023 privind comasarea imobilului înscris în CF 65343, strada Tineretului, în suprafață de 5281 mp cu imobilul înscris în CF 64749 în suprafața de 34 mp din care rezultă imobilul cu nr. cadastral 65344 în suparafață de 5315 mp având categoria de folosință drum, urmând procedura de intabulare imobil în carte funciară și de actualizarea a inventarului bunurilor care alcătuiesc domeniul public al comunei",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111630",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-78-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/78",
+   "short": "HCL Nicolae Bălcescu nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 78/2023 privind comasarea imobilului înscris în CF 61743 în suprafață de 930 mp cu imobilul înscris în CF 65310 în suprafața de 707 mp din care rezultă imobilul cu nr. cadastral 65321 în suparafață de 1637 mp teren curți construcții din T19 P858 și P859 , urmând procedura de intabulare imobil în carte funciară și de actualizarea a inventarului bunurilor care alcătuiesc domeniul public al comunei",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111631",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-79-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/79",
+   "short": "HCL Nicolae Bălcescu nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 79/2023 privind aprobarea Contractului de asociere cu Județul Bacău în vederea finanțării activității de protecție de tip rezidențial a persoanei cu handicap pentru anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111632",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-8-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/8",
+   "short": "HCL Nicolae Bălcescu nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 8/2023 privind aprobarea bugetului comunei Nicolae Bălcescu pe anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89350",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-80-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/80",
+   "short": "HCL Nicolae Bălcescu nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 80/2023 privind aprobarea scoaterii definitive din circuitul agricol a unor suprafețe de teren având categoria de folosință fâneață",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111633",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-81-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/81",
+   "short": "HCL Nicolae Bălcescu nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 81/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111634",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-82-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/82",
+   "short": "HCL Nicolae Bălcescu nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 82/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111635",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/111635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-83-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/83",
+   "short": "HCL Nicolae Bălcescu nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 83/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/113278",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/113278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-85-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/85",
+   "short": "HCL Nicolae Bălcescu nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 85/2023 privind aprobarea documentaţiei şi indicatorilor tehnico-economici, faza DALI pentru obiectivul de investiţii pentru obiectivul de investiție “Modernizare străzi limitrofe, în satele Nicolae Bãlcescu, Valea Seacã, din comuna Nicolae Bălcescu, județul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/113280",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/113280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-86-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/86",
+   "short": "HCL Nicolae Bălcescu nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 86/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/113281",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/113281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-88-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/88",
+   "short": "HCL Nicolae Bălcescu nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 88/2023 privind însușirea de către Consiliul Local al comunei Nicolae Bălcescu a recursului formulat în dosarul 433/110/2022",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/113283",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/113283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-89-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/89",
+   "short": "HCL Nicolae Bălcescu nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 89/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118582",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-9-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/9",
+   "short": "HCL Nicolae Bălcescu nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 9/2023 privind aprobarea înscrierii provizorie în cartea funciară a unor imobile și preluarea acestora în domeniul public al comunei, urmând procedura de atestare în inventarul bunurilor care alcătuiesc domeniul public al comunei Nicolae Bălcescu, jud. Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89351",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/89351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-90-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/90",
+   "short": "HCL Nicolae Bălcescu nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 90/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118583",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-91-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/91",
+   "short": "HCL Nicolae Bălcescu nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 91/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118584",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-92-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/92",
+   "short": "HCL Nicolae Bălcescu nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 92/2023 privind aprobarea conturilor de executie pentru bugetul local si bugetul activitatilor finantate din venituri proprii pe trim. II 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118585",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-93-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/93",
+   "short": "HCL Nicolae Bălcescu nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 93/2023 privind modificarea și completarea Hotărârii Consiliului Local Nicolae Bălcescu nr.58 din 30.05.2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118586",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-94-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/94",
+   "short": "HCL Nicolae Bălcescu nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 94/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118587",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-95-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/95",
+   "short": "HCL Nicolae Bălcescu nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 95/2023 privind aprobarea Studiului de oportunitate în vederea extinderii sistemului de transport public local de călători în Zona Metropolitană Bacău, a Regulamentului și a Caietului de sarcini al serviciului public local de călători prin curse regulate în zona Metropolitană Băcău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118588",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-96-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/96",
+   "short": "HCL Nicolae Bălcescu nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 96/2023 privind aprobarea proiectului tehnic şi a indicatorilor tehnico-economici, pentru obiectivul de investiţii „Înfiinţare reţea de distribuţie gaze naturale în satele Valea Seacă şi Buchila, comuna Nicolae Bălcescu, judeţul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118589",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-97-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/97",
+   "short": "HCL Nicolae Bălcescu nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 97/2023 privind aprobarea documentaţiei şi indicatorilor tehnico-economici, faza DALI pentru obiectivul de investiţii \"Extinderea reţelei de apã şi canalizare în satele Valea Seacã şi Nicolae Bãlcescu din comuna Nicolae Bãlcescu, judeţul Bacãu”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118590",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-98-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/98",
+   "short": "HCL Nicolae Bălcescu nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 98/2023 privind aprobarea Devizului general şi a indicatorilor tehnico-economici, actualizaţi, faza PTh, pentru obiectivul de investiţii \"Modernizare drumuri de interes local în satele Nicolae Bălcescu, Galbeni si Valea Seacă, comuna Nicolae Bălcescu, judetul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118591",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-99-2023",
+   "path": "local/bacau/nicolae-balcescu/2023/99",
+   "short": "HCL Nicolae Bălcescu nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 99/2023 privind modificarea şi înlocuirea Anexei nr. 2 la HCL nr. 69/20.07.2022 privind stabilirea modalității de gestiune și aprobarea caietului de sarcini și regulamentului Serviciului de iluminat public al comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118592",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/118592",
      "sha256": null
     }
    ]

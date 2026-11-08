@@ -3,6 +3,156 @@
  "shard": "local/arges/maracineni/2020",
  "acts": [
   {
+   "slug": "hcl-arges--maracineni-1-2020",
+   "path": "local/arges/maracineni/2020/1",
+   "short": "HCL Mărăcineni nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 1/2020 privind acoperirea definitiva a deficitului sectiunii de dezvoltare existent la sfarsitul exercitiului bugetar 01.01.2019-31.12.2019",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/6",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/6",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-103-2020",
+   "path": "local/arges/maracineni/2020/103",
+   "short": "HCL Mărăcineni nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 103/2020 privind Actualizarea Programului Anual de achizitii publice pentru anul 2020 ,al comunei Maracineni ca urmare a necesitatii de noi investitii si prestari de servicii",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/11923",
+   "versions": [
+    {
+     "from": "2020-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/11923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-105-2020",
+   "path": "local/arges/maracineni/2020/105",
+   "short": "HCL Mărăcineni nr. 105/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 105/2020 privind aprobarea indicatorilor tehnico-economici la faza Proiect Tehnic, in vederea realizarii obiectivului de investitie: “Extindere retea stradala DN73 Lotas- sens giratoriu Mioveni- sens dublu, comuna Maracineni, judetul Arges”",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/11925",
+   "versions": [
+    {
+     "from": "2020-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/11925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-11-2020",
+   "path": "local/arges/maracineni/2020/11",
+   "short": "HCL Mărăcineni nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 11/2020 privind aprobarea raportului de evaluare şi înregistrarea în contabilitate a diferenţelor din reevaluare a clădirilor aparţinând domeniului public al Consiliului Local Mărăcineni, cuprinse în contractul de Delegare a Gestiunii Serviciilor Publice de Alimentare cu Apă şi de Canalizare nr. 1/26.03.2010 la nivelul valorii juste",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/16",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/16",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-12-2020",
+   "path": "local/arges/maracineni/2020/12",
+   "short": "HCL Mărăcineni nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 12/2020 privind realizarea investitiei „Extinderea sistemului de distributie gaze naturale pe strada Drumul Coandei, comuna Maracineni, jud. Arges si incheierea contractului de cofinantare cu conditia cedarii Investitiei in patrimoniul GDF SUEZ Energy Romania",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/17",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/17",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-123-2020",
+   "path": "local/arges/maracineni/2020/123",
+   "short": "HCL Mărăcineni nr. 123/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 123/2020 privind admiterea receptiei la terminarea lucrarilor,aprobarea devizului general la terminarea lucrarii, pentru obiectivul de investitie„Reamenajare urbana Cartier Blocuri Faza I, cai de acces si parcari sat Maracineni, comuna Maracineni, judetul Arges”,precum si includerea investitiei in inventarul domeniul public al Comunei Maracineni",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/15925",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/15925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-124-2020",
+   "path": "local/arges/maracineni/2020/124",
+   "short": "HCL Mărăcineni nr. 124/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 124/2020 privind admiterea receptiei la terminarea lucrarilor,aprobarea devizului general la terminarea lucrarii pentru obiectivul de investitie„Modernizarea sistemului de iluminat public stradal, cu corpuri tip LED prin sistem buy- back, pe strada principala DN73, comuna Maracineni, judetul Arges” precum si includerea investitiei in inventarul domeniul public al Comunei Maracineni",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/15926",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/15926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-125-2020",
+   "path": "local/arges/maracineni/2020/125",
+   "short": "HCL Mărăcineni nr. 125/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 125/2020 privind aprobarea elaborarii Strategiei Locale de Dezvoltare a Serviciului de Iluminat public din comuna Maracineni",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/15927",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/15927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-129-2020",
+   "path": "local/arges/maracineni/2020/129",
+   "short": "HCL Mărăcineni nr. 129/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 129/2020 privind alocarea burselor sociale pentru anul școlar 2020-2021, unui numar de 50 de beneficiari, in cuantum de 100 lei/beneficiar/luna,pentru elevi din cadrul Liceului Tehnologic Maracineni",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/15931",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/15931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-13-2020",
+   "path": "local/arges/maracineni/2020/13",
+   "short": "HCL Mărăcineni nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 13/2020 privind realizarea studiului de oportunitate privind stabilirea modalitatii de gestiune, a tipului contractului si a procedurii de atribuire a gestiunii serviciului de iluminat public al comunei Maracineni",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/18",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/18",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-130-2020",
    "path": "local/arges/maracineni/2020/130",
    "short": "HCL Mărăcineni nr. 130/2020",
@@ -153,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--maracineni-14-2020",
+   "path": "local/arges/maracineni/2020/14",
+   "short": "HCL Mărăcineni nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 14/2020 privind demararii procedurilor de licitatie si anume procedura simplificata, in vederea atribuirii contractului de executie „Modernizare cladire in vederea crearii unui asezamant cultural, zona Lotas, sat Argeselu, comuna Maracineni, judetul Arges” si aprobarea finantarii cheltuielilor neeligibile aferente proiectului „Modernizare cladire in vederea crearii unui asezamant cultural, zona Lotas, sat Argeselu, comuna Maracineni, judetul Arges” din bugetul propriu al comunei Maracineni",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/19",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/19",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-140-2020",
    "path": "local/arges/maracineni/2020/140",
    "short": "HCL Mărăcineni nr. 140/2020",
@@ -298,6 +463,396 @@
      "from": "2020-12-22",
      "units": 1,
      "source_url": "https://emol.ro/maracineni-ag/registru-hcl/15953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-15-2020",
+   "path": "local/arges/maracineni/2020/15",
+   "short": "HCL Mărăcineni nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 15/2020 privind infiintarea serviciului de iluminat public si demararea procedurilor de elaborare a documentatiei necesare atribuirii contractului de delegare a gestiunii, cu un operator specializat",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/20",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/20",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-16-2020",
+   "path": "local/arges/maracineni/2020/16",
+   "short": "HCL Mărăcineni nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 16/2020 privind aprobarea indicatorilor tehnico – economici la faza de Proiect Tehnic, Detalii de Execuţie şi Documentaţie Tehnică pentru eliberarea Autorizaţiei de Construire, conform Devizului General al investiţiei , Indicatorilor Tehnici ai investiţiei, precum şi aprobarea demarării procedurii de atribuire a contractului de execuţie de lucrări cu o firmă specializată în domeniu in vederea realizarii obiectivului de investitie„Amenajare deversare ape pluviale din zona străzii Măceşului, comuna Mărăcineni, judeţul Argeş”",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/21",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/21",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-19-2020",
+   "path": "local/arges/maracineni/2020/19",
+   "short": "HCL Mărăcineni nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 19/2020 privind aprobarea calendarului evenimentelor si activitatilor cultural-artistice,sportive,sociale si educative, la nivelul comunei Maracineni, pentru anul 2020",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/35",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/35",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-2-2020",
+   "path": "local/arges/maracineni/2020/2",
+   "short": "HCL Mărăcineni nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 2/2020 privind proiect de hotarare privind actualizarea statului de functii si organigramei",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/7",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/7",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-3-2020",
+   "path": "local/arges/maracineni/2020/3",
+   "short": "HCL Mărăcineni nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 3/2020 privind aprobarea listei provizorii a obiectivelor de investitii pentru anul 2020",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/8",
+   "versions": [
+    {
+     "from": "2020-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/8",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-30-2020",
+   "path": "local/arges/maracineni/2020/30",
+   "short": "HCL Mărăcineni nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 30/2020 privind aprobarea realizarii obiectivului de investitie:” Extindere retea stradala DN73 Lotas- sens giratoriu Mioveni- sens dublu, comuna Maracineni, jud. Arges”,precum si intocmirea documentatiilor tehnico - economice pentru realizarea obiectivului de investitie : ”Extindere retea stradala DN73 Lotas- sens giratoriu Mioveni- sens dublu, comuna Maracineni, jud. Arges”, etapa 1 si 2 respectiv: nota conceptuala, tema de proiectare, studiu de fezabilitate, inclusiv studiu geotehnic si elaborare documentatii obtinere avize si acorduri, prin incredintare directa unei fiirme specializate in domeniu",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/59",
+   "versions": [
+    {
+     "from": "2020-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/59",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-4-2020",
+   "path": "local/arges/maracineni/2020/4",
+   "short": "HCL Mărăcineni nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 4/2020 privind stabilirea cotei de carburanţi pentru vehiculele din dotarea Primariei, comunei Maracineni,judetul Arges,pentru anul 2020",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/9",
+   "versions": [
+    {
+     "from": "2020-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/9",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-40-2020",
+   "path": "local/arges/maracineni/2020/40",
+   "short": "HCL Mărăcineni nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 40/2020 privind rectificarea Bugetului de venituri si cheltuieli Nr.1/2020",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/1794",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/1794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-41-2020",
+   "path": "local/arges/maracineni/2020/41",
+   "short": "HCL Mărăcineni nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 41/2020 privind Actualizarea Programului Anual de achizitii publice pentru anul 2020 ,al comunei Maracineni ca urmare a necesitatii de noi investitii si prestari de servicii",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/1795",
+   "versions": [
+    {
+     "from": "2020-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/1795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-43-2020",
+   "path": "local/arges/maracineni/2020/43",
+   "short": "HCL Mărăcineni nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 43/2020 privind aprobarea efectuarii investitiei „Extinderea sistemului de distributie gaze naturale pe strada Drumul Coandei, comuna Maracineni, jud. Arges”",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/2178",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/2178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-45-2020",
+   "path": "local/arges/maracineni/2020/45",
+   "short": "HCL Mărăcineni nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 45/2020 privind aprobarea modului de întocmire a registrului agricol pe perioada 2020 – 2024 primaria Comunei Maracineni,judetul Arges",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/4395",
+   "versions": [
+    {
+     "from": "2020-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/4395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-46-2020",
+   "path": "local/arges/maracineni/2020/46",
+   "short": "HCL Mărăcineni nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 46/2020 privind stabilirea situatiilor deosebite ,pentru care se pot acorda ajutoare de urgenta",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/4396",
+   "versions": [
+    {
+     "from": "2020-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/4396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-48-2020",
+   "path": "local/arges/maracineni/2020/48",
+   "short": "HCL Mărăcineni nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 48/2020 privind admiterea recepţiei la terminarea lucrării privind obiectivul de investiţie: “Reamenajare urbanǎ zona blocuri – Faza II Peisagisticǎ, cartier blocuri în sat Mǎrǎcineni comuna Mărăcineni, judeţul Argeş” si introducerea acestuia in inventarul domeniului public al comunei Maracineni",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/4398",
+   "versions": [
+    {
+     "from": "2020-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/4398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-49-2020",
+   "path": "local/arges/maracineni/2020/49",
+   "short": "HCL Mărăcineni nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 49/2020 privind admiterea recepţiei la terminarea lucrării privind obiectivul de investiţie”Realizarea unei cismele stradale dintr-un foraj la adâncimea de 150 m în sat Mǎrǎcineni comuna Mărăcineni, judeţul Argeş”, si introducerea acestuia in inventarul domeniului public al comunei Maracineni",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/4399",
+   "versions": [
+    {
+     "from": "2020-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/4399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-5-2020",
+   "path": "local/arges/maracineni/2020/5",
+   "short": "HCL Mărăcineni nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 5/2020 privind aprobarea Regulamentului de organizare si functionare a aparatului de specialitate al primarului comunei Maracineni",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/10",
+   "versions": [
+    {
+     "from": "2020-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/10",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-54-2020",
+   "path": "local/arges/maracineni/2020/54",
+   "short": "HCL Mărăcineni nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 54/2020 privind necesitatea atribuirii unui contract de prestǎri servicii de mentenanţǎ şi întreţinere a sistemului de iluminat public pe raza comunei, unui operator economic acreditat ANRE şi ANRSC",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/4404",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/4404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-57-2020",
+   "path": "local/arges/maracineni/2020/57",
+   "short": "HCL Mărăcineni nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 57/2020 privind aprobarea incheierii unui act aditional prin care se majoreaza valoarea initiala a contractului privind realizarea obiectivului de investitie „Înfiintare parc joacă Halta Gropeni în sat Mărăcineni, comuna Mărăcineni, judeţul Argeş”",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/4407",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/4407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-59-2020",
+   "path": "local/arges/maracineni/2020/59",
+   "short": "HCL Mărăcineni nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 59/2020 privind aprobarea planului de acţiuni sau lucrări de interes local pentru persoanele apte de muncă pentru care se acordă ajutor social conform Legii nr.416 / 2001, privind venitul minim garantat ,cu modificările şi completările ulterioare , pentru anul 2020",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/5060",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/5060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-6-2020",
+   "path": "local/arges/maracineni/2020/6",
+   "short": "HCL Mărăcineni nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 6/2020 privind metodologia de aprobare a tarifelor minime de pornire a licitatiei,pentru inchiriere temporara a spatiilor excedentare situate in incinta unitatilor de invatamant preuniversitar de stat aflate in proprietatea Comunei Maracineni",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/11",
+   "versions": [
+    {
+     "from": "2020-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/11",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-8-2020",
+   "path": "local/arges/maracineni/2020/8",
+   "short": "HCL Mărăcineni nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 8/2020 privind aprobarea calendarului evenimentelor si activitatilor cultural-artistice,sportive,sociale si educative, la nivelul Centrului de zi « Alba ca Zapada si cei 60 de pitici »din comuna Maracineni,judetul Arges, pentru anul 2020",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/13",
+   "versions": [
+    {
+     "from": "2020-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/13",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-81-2020",
+   "path": "local/arges/maracineni/2020/81",
+   "short": "HCL Mărăcineni nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 81/2020 privind aprobarea modificarii si completarii art.1 la HCL nr.66/14.07/2020 referitoare la admiterea receptiei la terminarea lucrării, aprobarea includerii in inventarul domeniul public al Comunei Maracineni a mijloacelor fixe rezultate, precum si aprobarea bugetului final al obiectivului de investitie, „Infiintare parc joaca Halta Gropeni, sat Maracineni, comuna Maracineni, judetul Arges”",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/9377",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/9377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-82-2020",
+   "path": "local/arges/maracineni/2020/82",
+   "short": "HCL Mărăcineni nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 82/2020 privind aprobarea Planului de măsuri pentru reluarea /asigurarea activităților și pentru prevenirea îmbolnăvirii COVID-19 ,precum si reluarea activitatii Centrului de zi”Alba ca Zapada si cei 60 de pitici,incepand cu data de 14.9.2020",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/9378",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/9378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-85-2020",
+   "path": "local/arges/maracineni/2020/85",
+   "short": "HCL Mărăcineni nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 85/2020 privind Actualizarea Programului Anual de achizitii publice pentru anul 2020 ,al comunei Maracineni ca urmare a necesitatii de noi investitii si prestari de servicii",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/9381",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/9381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-86-2020",
+   "path": "local/arges/maracineni/2020/86",
+   "short": "HCL Mărăcineni nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 86/2020 privind aprobarea sustinerii de la bugetul local a transportului public in comun, in vederea acordarii unei subventii in procent de 50% din tariful/abonament/elev",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/9382",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/9382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-87-2020",
+   "path": "local/arges/maracineni/2020/87",
+   "short": "HCL Mărăcineni nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 87/2020 privind avizarea Strategiei de contractare, a Studiului de fundamentare și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată și transportul separat al deșeurilor municipale din județul Argeș, Zona Pitești-Sud și Pitești Nord, Lot 6",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/9383",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/9383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-89-2020",
+   "path": "local/arges/maracineni/2020/89",
+   "short": "HCL Mărăcineni nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 89/2020 privind realizarea achiziției de echipamente de protecție, dezinfectanți și termoscanner cu infraroșu,necesare activitatilor didactice aferente anului 2020/2021 si actualizarea Programului Anual de Achizitii publice pentru anul 2020 ,al comunei Maracineni",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/9385",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/9385",
      "sha256": null
     }
    ]

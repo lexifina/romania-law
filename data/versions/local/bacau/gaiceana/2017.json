@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/gaiceana/2017",
+ "acts": [
+  {
+   "slug": "hcl-bacau--gaiceana-47-2017",
+   "path": "local/bacau/gaiceana/2017/47",
+   "short": "HCL Găiceana nr. 47/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Găiceana nr. 47/2017 privind stabilirea impozitelor si taxelor locale, alte taxe asimilate acestora, precum si amenzile aplicabile, pentru anul 2018",
+   "url": "https://comunagaiceana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/?pagina=47",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://comunagaiceana.ro/continut/fisiere/2019/12/HCL_STABILIRE_IMPOZITE_SI_TAXE__2018.pdf",
+     "sha256": "846f160149eacd94cbcc0419bfc305ba6be930119fd4788003cbdb9d17da1a3c"
+    }
+   ]
+  }
+ ]
+}

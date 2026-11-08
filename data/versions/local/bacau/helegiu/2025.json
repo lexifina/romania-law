@@ -91,6 +91,21 @@
      "sha256": "905f4123eb893f6128285e26db9e227c75062537aa711887e123ed35b923bcb0"
     }
    ]
+  },
+  {
+   "slug": "hcl-bacau--helegiu-72-2025",
+   "path": "local/bacau/helegiu/2025/72",
+   "short": "HCL Helegiu nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Helegiu nr. 72/2025 privind modificarea din HCL nr. 60 din 16.12.2025 privind aprobarea impozitelor și taxelor locale, pentru anul 2026",
+   "url": "https://helegiu.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://helegiu.ro/wp-content/uploads/2026/01/Hotarare-nr.-72-din-30.12.2025-privind-modificarea-din-HCL-nr.-60-din-16.12.2025-privind-aprobarea-impozitelor-si-taxelor-locale-pentru-anul-2026-2.pdf",
+     "sha256": "71f202a6dffd5de4c3ec30bea7e794f391e068f5ad2b4e177d8bc815fc608758"
+    }
+   ]
   }
  ]
 }

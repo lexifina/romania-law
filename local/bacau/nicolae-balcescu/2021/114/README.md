@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 114/2021 Pentru modificarea și completarea H.CL. 95/2021 privind acordul de principiu în legătură cu posibilitatea de a participa la cofinanţarea obiectivelor sistemului de distribuţie:,,Infiintare retea de distributie gaze naturale in satul Galbeni, comuna Nicolae Balcescu, judetul Bacau” si ,,Infiintare retea de distributie gaze naturale in satul Valea Seaca si Buchila , comuna Nicolae Balcescu, judetul Bacau”
+
+HCL Nicolae Bălcescu nr. 114/2021 · 1 versions, from 2021-10-28 (latest in force: 2021-10-28) · <https://emol.ro/nicolaebalcescu-bc/registru-hcl/39958>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-bacau--nicolae-balcescu-114-2021` (tags `hcl-bacau--nicolae-balcescu-114-2021/<day>`; `python tools/on.py <day> hcl-bacau--nicolae-balcescu-114-2021`).
+
+## Decisions made by hand
+
+- HCL Nicolae Bălcescu nr. 114/2021: listed from Consiliul Local al Comunei Nicolae Bălcescu (emol.ro); metadata only for now: no document of it is held.
+- HCL Nicolae Bălcescu nr. 114/2021: dated from 28 October 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Nicolae Bălcescu nr. 114/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

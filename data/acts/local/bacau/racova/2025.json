@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-bacau--racova-39-2025",
+"path": "local/bacau/racova/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Racova nr. 39/2025 privind aprobarea modificării Regulamentului Serviciului Public de Salubrizare pentru zona de operare a SC ECO SUD SA Consiliul Local Racova întrunit în ședință ordinară în luna august 2025; Având în vedere prevederile: - Art. 129 alin. (2) lit. d), alin. (7) lit. n), art. 139 alin. (3) lit. h), art. 196 alin. (1) lit. a) din OUG nr. 57/2019 privind Codul administrativ, cu modificările și completă",
+"short": "HCL Racova nr. 39/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://primariaracova.ro/wp-content/uploads/2025/09/HCL-39-din-28.08.2025-Modificare-Regulament-ECOSUD.pdf",
+"council": "bacau/racova",
+"council_name": "Consiliul Local al Comunei Racova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-bacau--racova-49-2025",
 "path": "local/bacau/racova/2025/49",
 "kind": "local",

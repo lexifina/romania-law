@@ -180,6 +180,28 @@
 "annex_missing": true,
 "text_source": "pdf_text_layer"
 }
+},
+{
+"slug": "hcl-arges--poienarii-de-muscel-72-2025",
+"path": "local/arges/poienarii-de-muscel/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poienarii de Muscel nr. 72/2025 privind stabilirea plafonului creanțelor ce pot fi anulate ,aflate în sold la data de 31.12.2025 Consiliul Local Poienarii de Muscel întrunit în ședință ordinară ; Văzând referatul de aprobare nr. 5739/16.12.2025 al primarului comunei și raportul de specialitate nr.5740/16.12.2025 întocmit de compartimentul contabilitate -taxe și impozite ,prin care solicită stabilirea plafonului creanțelor ce pot",
+"short": "HCL Poienarii de Muscel nr. 72/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://poienariidemuscel.ro/wp-content/uploads/2026/09/HCL-72.pdf",
+"council": "arges/poienarii-de-muscel",
+"council_name": "Consiliul Local al Comunei Poienarii de Muscel",
+"flags": {
+"text_pending": "review"
+}
 }
 ]
 }

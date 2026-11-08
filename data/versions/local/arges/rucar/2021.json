@@ -3,6 +3,561 @@
  "shard": "local/arges/rucar/2021",
  "acts": [
   {
+   "slug": "hcl-arges--rucar-1-2021",
+   "path": "local/arges/rucar/2021/1",
+   "short": "HCL Rucăr nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 1/2021 privind acoperirea deficitului bugetar al anului 2020 -secțiunea dezvoltare",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46958",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-10-2021",
+   "path": "local/arges/rucar/2021/10",
+   "short": "HCL Rucăr nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 10/2021 privind aprobarea achiziționării unei autoutilitare cu masa utilă de 3 t și a unei sărărițe, ce vor fi utilizate pentru activități de interes public",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46967",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-11-2021",
+   "path": "local/arges/rucar/2021/11",
+   "short": "HCL Rucăr nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 11/2021 privind crearea unui cont de facebook și a unei pagini de facebook având denumirea - Consiliul Local al Comunei Rucăr - și achiziționarea unor echipamente, în vederea difuzării live pe contul de facebook creat a ședințelor Consiliului Local Rucăr, publicării convocatorului de ședință si a ordinii de zi, a proiectelor adoptate, anunțuri de interes public, precum și a altor evenimente culturale, sportive, școlare, tradiționale",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46968",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-12-2021",
+   "path": "local/arges/rucar/2021/12",
+   "short": "HCL Rucăr nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 12/2021",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46969",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-13-2021",
+   "path": "local/arges/rucar/2021/13",
+   "short": "HCL Rucăr nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 13/2021 privind modificarea și completarea Anexei nr. 1 la Hotărârea Consiliului Local nr. 37 din data de 02.06.2015",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46970",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-14-2021",
+   "path": "local/arges/rucar/2021/14",
+   "short": "HCL Rucăr nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 14/2021 privind aprobarea rețelei școlare pentru anul școlar 2021 – 2022 la nivelul comunei Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46971",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-16-2021",
+   "path": "local/arges/rucar/2021/16",
+   "short": "HCL Rucăr nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 16/2021",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46973",
+   "versions": [
+    {
+     "from": "2021-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-17-2021",
+   "path": "local/arges/rucar/2021/17",
+   "short": "HCL Rucăr nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 17/2021 privind atestarea apartenenței unor bunuri la domeniul privat al comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46975",
+   "versions": [
+    {
+     "from": "2021-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-18-2021",
+   "path": "local/arges/rucar/2021/18",
+   "short": "HCL Rucăr nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 18/2021 privind inițierea demersurilor necesare întocmirii Strategiei de Dezvoltare Locală a comunei Rucăr pentru perioada 2021-2027",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46974",
+   "versions": [
+    {
+     "from": "2021-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-19-2021",
+   "path": "local/arges/rucar/2021/19",
+   "short": "HCL Rucăr nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 19/2021 privind încheierea unui contract de asistență juridică",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46986",
+   "versions": [
+    {
+     "from": "2021-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-2-2021",
+   "path": "local/arges/rucar/2021/2",
+   "short": "HCL Rucăr nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 2/2021 privind aprobarea Planului de acțiuni sau de lucrări de interes local efectuate de beneficiarii de ajutor social din comuna Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46959",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-20-2021",
+   "path": "local/arges/rucar/2021/20",
+   "short": "HCL Rucăr nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 20/2021",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47487",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-21-2021",
+   "path": "local/arges/rucar/2021/21",
+   "short": "HCL Rucăr nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 21/2021 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Local al Comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47488",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-22-2021",
+   "path": "local/arges/rucar/2021/22",
+   "short": "HCL Rucăr nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 22/2021 privind aprobarea fazei de execuție pentru realizarea investiției de modernizare a drumului de interes local – Strada Mal-Divan, din comuna Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47489",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-23-2021",
+   "path": "local/arges/rucar/2021/23",
+   "short": "HCL Rucăr nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 23/2021 privind aprobarea planului de analiză și acoperire a riscurilor la nivelul comunei Rucăr pe anul 2021",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47490",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-24-2021",
+   "path": "local/arges/rucar/2021/24",
+   "short": "HCL Rucăr nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 24/2021",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47491",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-25-2021",
+   "path": "local/arges/rucar/2021/25",
+   "short": "HCL Rucăr nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 25/2021 privind demararea unor acțiuni de identificare a obiectivelor turistice ale zonei, a traseelor montane și a altor elemente care pot contribui la promovarea turistică a localității",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47492",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-26-2021",
+   "path": "local/arges/rucar/2021/26",
+   "short": "HCL Rucăr nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 26/2021 privind aprobarea fazei de execuție pentru investiția ”ridicare la cotă a căminelor de vizitare apă, canalizare, gaigăre”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47493",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-27-2021",
+   "path": "local/arges/rucar/2021/27",
+   "short": "HCL Rucăr nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 27/2021 privind achiziționarea serviciilor de consultanță privind inițierea, elaborarea și depunerea cererii de finanțare privind reabilitarea și dotarea Dispensarului Medical și a Centrului de Permanență",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47499",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-28-2021",
+   "path": "local/arges/rucar/2021/28",
+   "short": "HCL Rucăr nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 28/2021 privind aprobarea depunerii la finanțare a proiectului „ACCES PENTRU VOI - Îmbunătățirea Accesului la serviciile de asistență medicală pentru Grupurile Vulnerabile, inclusiv Romii, din comunele Rucăr- județul Argeș si Coțofenii din Față – județul Dolj.”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47500",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-29-2021",
+   "path": "local/arges/rucar/2021/29",
+   "short": "HCL Rucăr nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 29/2021 privind aprobarea trecerii drumului forestier Măra și a terenului aferent acestuia, din proprietatea publică a statului și din administrarea Regiei Naționale a Pădurilor ”ROMSILVA”, în domeniul public al comunei Rucăr și în administrarea Consiliului Local al comunei Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47501",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-3-2021",
+   "path": "local/arges/rucar/2021/3",
+   "short": "HCL Rucăr nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 3/2021 privind aprobarea numărului maxim de asistenți personali ai persoanelor cu handicap grav pe anul 2021",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46960",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-30-2021",
+   "path": "local/arges/rucar/2021/30",
+   "short": "HCL Rucăr nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 30/2021",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47502",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-31-2021",
+   "path": "local/arges/rucar/2021/31",
+   "short": "HCL Rucăr nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 31/2021",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47503",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-32-2021",
+   "path": "local/arges/rucar/2021/32",
+   "short": "HCL Rucăr nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 32/2021 privind modernizarea stațiilor de îmbarcare- debarcare, aflate pe raza comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47504",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-36-2021",
+   "path": "local/arges/rucar/2021/36",
+   "short": "HCL Rucăr nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 36/2021 privind includerea în domeniul public al localității a obiectivului ”Sistem de canalizare și stație de epurare, comuna Rucăr, județul Argeș”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47517",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-5-2021",
+   "path": "local/arges/rucar/2021/5",
+   "short": "HCL Rucăr nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 5/2021 privind modificarea structurii organizatorice, prin desființarea postului contractual Administrator Public",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46962",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-54-2021",
+   "path": "local/arges/rucar/2021/54",
+   "short": "HCL Rucăr nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 54/2021",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47535",
+   "versions": [
+    {
+     "from": "2021-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-55-2021",
+   "path": "local/arges/rucar/2021/55",
+   "short": "HCL Rucăr nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 55/2021",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47536",
+   "versions": [
+    {
+     "from": "2021-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-58-2021",
+   "path": "local/arges/rucar/2021/58",
+   "short": "HCL Rucăr nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 58/2021",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47539",
+   "versions": [
+    {
+     "from": "2021-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-59-2021",
+   "path": "local/arges/rucar/2021/59",
+   "short": "HCL Rucăr nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 59/2021 privind amplasarea de bănci și coșuri de gunoi stradale",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47540",
+   "versions": [
+    {
+     "from": "2021-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-6-2021",
+   "path": "local/arges/rucar/2021/6",
+   "short": "HCL Rucăr nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 6/2021 privind privire la atestarea apartenenței la domeniul privat al comunei Rucăr a unui imobil teren situat în punctul ”Săticul de Jos”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46963",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-60-2021",
+   "path": "local/arges/rucar/2021/60",
+   "short": "HCL Rucăr nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 60/2021 privind amplasarea de indicatoare și limitatoare de viteză în zonele intens circulate",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47541",
+   "versions": [
+    {
+     "from": "2021-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-64-2021",
+   "path": "local/arges/rucar/2021/64",
+   "short": "HCL Rucăr nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 64/2021 privind instituirea taxei speciale pentru oficierea căsătoriilor în afara sediului Primăriei comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47545",
+   "versions": [
+    {
+     "from": "2021-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-65-2021",
+   "path": "local/arges/rucar/2021/65",
+   "short": "HCL Rucăr nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 65/2021 privind extinderea rețelei de energie electrica de la proprietatea Simene ( fosta organizare de șantier) până la punctul Cărmăzan, zona Captare de Apă, lângă proprietatea Grapă Moise",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47546",
+   "versions": [
+    {
+     "from": "2021-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-69-2021",
+   "path": "local/arges/rucar/2021/69",
+   "short": "HCL Rucăr nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 69/2021 privind solicitarea de trecere cu titlu gratuit a unor drumuri forestiere si a terenurilor aferente acestora din domeniul public al Statului si din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al comunei Rucăr şi în administrarea Consiliului Local al comunei Rucăr, judeţul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/47550",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/47550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-7-2021",
+   "path": "local/arges/rucar/2021/7",
+   "short": "HCL Rucăr nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 7/2021 privind aprobarea organigramei Primăriei comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46964",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46964",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-70-2021",
    "path": "local/arges/rucar/2021/70",
    "short": "HCL Rucăr nr. 70/2021",
@@ -153,6 +708,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-8-2021",
+   "path": "local/arges/rucar/2021/8",
+   "short": "HCL Rucăr nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 8/2021 privind stabilirea unui salariu de bază din aparatul de specialitate al primarului comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46965",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46965",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-80-2021",
    "path": "local/arges/rucar/2021/80",
    "short": "HCL Rucăr nr. 80/2021",
@@ -298,6 +868,21 @@
      "from": "2021-12-13",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/47570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-9-2021",
+   "path": "local/arges/rucar/2021/9",
+   "short": "HCL Rucăr nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 9/2021 privind aprobarea întocmirii documentației tehnice și economice pentru amenajarea unui trotuar și a unei piste de biciclete pe strada Bulevardul Libertății",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/46966",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/46966",
      "sha256": null
     }
    ]

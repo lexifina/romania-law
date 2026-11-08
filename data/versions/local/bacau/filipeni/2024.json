@@ -3,6 +3,246 @@
  "shard": "local/bacau/filipeni/2024",
  "acts": [
   {
+   "slug": "hcl-bacau--filipeni-11-2024",
+   "path": "local/bacau/filipeni/2024/11",
+   "short": "HCL Filipeni nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 11/2024 privind aprobarea înființării Serviciilor sociale fără personalitate juridică „CENTRU DE ZI PENTRU PERSOANE VÂRSTNICE CU UNITATE DE ÎNGRIJIRE LA DOMICILIU” din comuna Filipeni, județul Bacău",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/148955",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/148955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-13-2024",
+   "path": "local/bacau/filipeni/2024/13",
+   "short": "HCL Filipeni nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 13/2024 privind aprobarea participării UAT COMUNA FILIPENI la apelul de proiecte cu titlul ”Finanțarea bibliotecilor din județul Bacău pentru a deveni hub-uri de dezvoltare a competențelor digitale și dotarea cu echipamente IT\" din cadrul Planului Național de Redresarae și Reziliență (PNNR), Componenta 7. Transformare digitală, Operațiunea Competențe digitale, Capital Uman și Utilizarea Internetului, Investiția I17. Scheme de finanțare pentru biblioteci pentru a deveni hub-uri de dezvoltare a competențelor digitale, Apel de proiecte numărul 2 - Finanțarea bibliotecilor pentru a deveni hub-uri de dezvoltare a competentelor digitale și aprobarea Acordului de parteneriat al proiectului",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/148957",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/148957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-14-2024",
+   "path": "local/bacau/filipeni/2024/14",
+   "short": "HCL Filipeni nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 14/2024 privind utilizarea excedentului bugetar al anilor precedenți, pentru cheltuielile de dezvoltare în anul 2024",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/148958",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/148958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-15-2024",
+   "path": "local/bacau/filipeni/2024/15",
+   "short": "HCL Filipeni nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 15/2024 privind adoptarea bugetului de venituri și cheltuieli și a Listei de investiții pe anul 2024",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/148960",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/148960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-16-2024",
+   "path": "local/bacau/filipeni/2024/16",
+   "short": "HCL Filipeni nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 16/2024 privind aprobarea Devizului general actualizat și a indicatorilor tehnico-economici actualizați, la faza Proiect Tehnic pentru obiectivul de investiții ”REABILITAREA INFRASTRUCTURII RUTIERE ÎN SATUL MARGIALIZAT BRAD, DIN COMUNA FILIPENI, JUDEȚUL BACĂU”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/149652",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/149652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-17-2024",
+   "path": "local/bacau/filipeni/2024/17",
+   "short": "HCL Filipeni nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 17/2024 privind modificarea bugetului de venituri și cheltuieli și a Listei de investiții pe anul 2024",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/149653",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/149653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-19-2024",
+   "path": "local/bacau/filipeni/2024/19",
+   "short": "HCL Filipeni nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 19/2024 privind modificarea bugetului de venituri și cheltuieli și a Listei de investiții pe anul 2024",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/149655",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/149655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-23-2024",
+   "path": "local/bacau/filipeni/2024/23",
+   "short": "HCL Filipeni nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 23/2024 privind înființarea serviciului specializat pentru gestionarea câinilor fără stăpân în comuna Filipeni, județul Bacău",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/153735",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/153735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-24-2024",
+   "path": "local/bacau/filipeni/2024/24",
+   "short": "HCL Filipeni nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 24/2024 privind modificarea bugetului de venituri și cheltuieli și a Listei de investiții pe anul 2024",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/157091",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/157091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-25-2024",
+   "path": "local/bacau/filipeni/2024/25",
+   "short": "HCL Filipeni nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 25/2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2025",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/157092",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/157092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-26-2024",
+   "path": "local/bacau/filipeni/2024/26",
+   "short": "HCL Filipeni nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 26/2024 privind aprobarea chiriilor pentru anul 2025",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/157093",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/157093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-33-2024",
+   "path": "local/bacau/filipeni/2024/33",
+   "short": "HCL Filipeni nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 33/2024 privind aprobarea Regulamentului pentru acordarea titlului de ”CETĂȚEAN DE ONOARE AL COMUNEI FILIPENI”",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/165803",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/165803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-34-2024",
+   "path": "local/bacau/filipeni/2024/34",
+   "short": "HCL Filipeni nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 34/2024 privind modificarea bugetului de venituri și cheltuieli și a Listei de investiții pe anul 2024",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/165804",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/165804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-37-2024",
+   "path": "local/bacau/filipeni/2024/37",
+   "short": "HCL Filipeni nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 37/2024 privind modificarea bugetului de venituri și cheltuieli și a Listei de investiții pe anul 2024",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/174401",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/174401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-38-2024",
+   "path": "local/bacau/filipeni/2024/38",
+   "short": "HCL Filipeni nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 38/2024 privind instituirea unei facilități fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.08.2024 inclusiv, datorate bugetului local de către contribuabilii de pa raza administrativ teritorială a Comunei Filipeni",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/174402",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/174402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-39-2024",
+   "path": "local/bacau/filipeni/2024/39",
+   "short": "HCL Filipeni nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 39/2024",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/177544",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/177544",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--filipeni-40-2024",
    "path": "local/bacau/filipeni/2024/40",
    "short": "HCL Filipeni nr. 40/2024",
@@ -283,6 +523,36 @@
      "from": "2024-12-17",
      "units": 1,
      "source_url": "https://emol.ro/filipeni-bc/registru-hcl/185896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-7-2024",
+   "path": "local/bacau/filipeni/2024/7",
+   "short": "HCL Filipeni nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 7/2024 privind utilizarea execedentului bugetar al anilor precedenți, pentru acoperirea temporară a golurilor de casă, provenite din decalaje între veniturile și cheltuielile secțiunilor de funcționare și dezvoltare în anul 2024",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/148951",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/148951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-9-2024",
+   "path": "local/bacau/filipeni/2024/9",
+   "short": "HCL Filipeni nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 9/2024 privind aprobarea Programului anual de achiziții publice pentru anul 2024",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/148953",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/148953",
      "sha256": null
     }
    ]

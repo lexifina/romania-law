@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/livezi/2025",
+ "acts": [
+  {
+   "slug": "hcl-bacau--livezi-60-2025",
+   "path": "local/bacau/livezi/2025/60",
+   "short": "HCL Livezi nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezi nr. 60/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a343bd244113ebe050b486a05803c5aa8045bbb6dc90f8293c1df74d99a25c8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--livezi-61-2025",
+   "path": "local/bacau/livezi/2025/61",
+   "short": "HCL Livezi nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezi nr. 61/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://comunalivezi.ro/continut/fisiere/2026/01/HOT-HCL-nr.61-din-22.12.2025-SALUBRIZARE-CASNICI-22.12.-2026.doc",
+     "sha256": "de5047c910da7ffdaee8b2bb17e4883d0390b778c69dd53ea09e34f5428c3921"
+    }
+   ]
+  }
+ ]
+}

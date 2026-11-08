@@ -3,6 +3,516 @@
  "shard": "local/bacau/motoseni/2025",
  "acts": [
   {
+   "slug": "hcl-bacau--motoseni-1-2025",
+   "path": "local/bacau/motoseni/2025/1",
+   "short": "HCL Motoșeni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 1/2025 privind stabilirea modului de întocmire a registrului agricol la nivelul UAT MOTOȘENI",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/195243",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/195243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-10-2025",
+   "path": "local/bacau/motoseni/2025/10",
+   "short": "HCL Motoșeni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 10/2025 privind aprobarea indicatorilor tehnico-economici actualizati si a devizului general actualizat la finalizarea si receptionarea lucrarilor de executie pentru obiectivul de investitie “MODERNIZARE DRUM COMUNAL DC 38, FANTANELE-SENDRESTI, COMUNA MOTOSENI, JUDETUL BACAU”",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/196797",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/196797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-11-2025",
+   "path": "local/bacau/motoseni/2025/11",
+   "short": "HCL Motoșeni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 11/2025 privind închiderea exerciţiului bugetar pentru anul 2024",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/196798",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/196798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-12-2025",
+   "path": "local/bacau/motoseni/2025/12",
+   "short": "HCL Motoșeni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 12/2025 privind aprobarea rezultatelor inventarierii patrimoniului comunei Motoseni, judetul Bacau la data de 31.12.2024",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/196799",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/196799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-13-2025",
+   "path": "local/bacau/motoseni/2025/13",
+   "short": "HCL Motoșeni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 13/2025 privind aprobarea Regulamentului privind procedura pentru înregistrarea ,evidența și radierea vehiculelor pentru care există obligativitatea înregistrării , de pe raza administrative teritorială a comunei MOTOȘENI, județul Bacău",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/196800",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/196800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-14-2025",
+   "path": "local/bacau/motoseni/2025/14",
+   "short": "HCL Motoșeni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 14/2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/196801",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/196801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-15-2025",
+   "path": "local/bacau/motoseni/2025/15",
+   "short": "HCL Motoșeni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 15/2025 privind asocierea comunei Motoșeni, cu Județul Bacău, Comuna Colonești, Comuna Dealu Morii, Comuna Răchitoasa, Comuna Stănișești, județul Bacău, și Asociația ”Amitié Roumaine Saint – Leu – La - Forêt” în vederea realizării și finanțării proiectului ”Aripi spre viitor prin cunoașterea limbii franceze / Ailes vers l'avenir par la connaissance du Français”",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/196807",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/196807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-16-2025",
+   "path": "local/bacau/motoseni/2025/16",
+   "short": "HCL Motoșeni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 16/2025 privind privind aprobarea bugetului de venituri si cheltuieli pentru anul 2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/201280",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/201280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-18-2025",
+   "path": "local/bacau/motoseni/2025/18",
+   "short": "HCL Motoșeni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 18/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului ,,Furnizarea de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate,, - cod SMIS 339395",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/201282",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/201282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-19-2025",
+   "path": "local/bacau/motoseni/2025/19",
+   "short": "HCL Motoșeni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 19/2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/201283",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/201283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-2-2025",
+   "path": "local/bacau/motoseni/2025/2",
+   "short": "HCL Motoșeni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 2/2025 privind stabilirea taxei de salubrizare pentru anul 2025 în comuna Motoseni, județul Bacău",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/195244",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/195244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-23-2025",
+   "path": "local/bacau/motoseni/2025/23",
+   "short": "HCL Motoșeni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 23/2025 privind aprobarea modificarii Organigramei si a Statului de functii al aparatului de specialitate al primarului comunei Motoseni, judetul Bacau",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/210966",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/210966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-24-2025",
+   "path": "local/bacau/motoseni/2025/24",
+   "short": "HCL Motoșeni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 24/2025 privind privind aprobarea actualizării indicatorilor tehnico-economici pentru obiectivul de investiții “Reabilitare Club cu Lipici din sat Fântânele, comuna Motoșeni, județul Bacău” ca urmare a semnării contractului nr. 1393/23.04.2025 de execuție a lucrărilor suplimentare",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/210967",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/210967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-25-2025",
+   "path": "local/bacau/motoseni/2025/25",
+   "short": "HCL Motoșeni nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 25/2025 privind eliberarea unui acord privind accesul pe drumurile publice aflate in administrarea UAT Motoseni",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/210968",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/210968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-26-2025",
+   "path": "local/bacau/motoseni/2025/26",
+   "short": "HCL Motoșeni nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 26/2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/216981",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/216981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-27-2025",
+   "path": "local/bacau/motoseni/2025/27",
+   "short": "HCL Motoșeni nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 27/2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/216982",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/216982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-28-2025",
+   "path": "local/bacau/motoseni/2025/28",
+   "short": "HCL Motoșeni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 28/2025 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții “DEZVOLTAREA INFRASTRUCTURII MEDICALE PRESPITALICEȘTI DIN COMUNA MOTOȘENI, JUDEȚUL BACĂU PRIN ÎNFIINȚAREA UNUI CENTRU COMUNITAR INTEGRAT”, ca urmare a semnării contractului de execuție a lucrărilor nr. 4529/21.11.2024",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/216983",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/216983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-29-2025",
+   "path": "local/bacau/motoseni/2025/29",
+   "short": "HCL Motoșeni nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 29/2025 privind acordul pentru scoaterea temporara din circuitul agricol a unei suprafete de teren si constituirea unui drept de uz si a unui drept de servitute asupra terenului in suprafata de 36 mp, in favoarea SNGN ROMGAZ SA",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/216984",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/216984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-3-2025",
+   "path": "local/bacau/motoseni/2025/3",
+   "short": "HCL Motoșeni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 3/2025 privind aprobarea realizării proiectului “Aripi spre viitor prin cunoașterea limbii franceze” / “Ailes vers l'avenir par la connaissance du français ”",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/195245",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/195245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-30-2025",
+   "path": "local/bacau/motoseni/2025/30",
+   "short": "HCL Motoșeni nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 30/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/216985",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/216985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-31-2025",
+   "path": "local/bacau/motoseni/2025/31",
+   "short": "HCL Motoșeni nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 31/2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/216986",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/216986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-32-2025",
+   "path": "local/bacau/motoseni/2025/32",
+   "short": "HCL Motoșeni nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 32/2025 privind eliberarea unui acord privind accesul pe drumurile publice aflate in administrarea UAT Motoseni",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/219484",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/219484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-33-2025",
+   "path": "local/bacau/motoseni/2025/33",
+   "short": "HCL Motoșeni nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 33/2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/224435",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/224435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-35-2025",
+   "path": "local/bacau/motoseni/2025/35",
+   "short": "HCL Motoșeni nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 35/2025 privind rectificarea (I) a bugetului de venituri si cheltuieli pentru anul 2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/224437",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/224437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-36-2025",
+   "path": "local/bacau/motoseni/2025/36",
+   "short": "HCL Motoșeni nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 36/2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/224438",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/224438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-37-2025",
+   "path": "local/bacau/motoseni/2025/37",
+   "short": "HCL Motoșeni nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 37/2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/224439",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/224439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-38-2025",
+   "path": "local/bacau/motoseni/2025/38",
+   "short": "HCL Motoșeni nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 38/2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/224440",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/224440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-39-2025",
+   "path": "local/bacau/motoseni/2025/39",
+   "short": "HCL Motoșeni nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 39/2025 privind eliberarea unui acord privind accesul pe drumurile publice aflate in administrarea UAT Motoseni, pentru reallizarea lucrarilor de „CONSTRUIRE SPALATORIE AUTO SELF CARE WASH LUCAS” beneficiar SC Zaharia 2006 SRL",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/224441",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/224441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-40-2025",
+   "path": "local/bacau/motoseni/2025/40",
+   "short": "HCL Motoșeni nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 40/2025 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții “DEZVOLTAREA INFRASTRUCTURII MEDICALE PRESPITALICEȘTI DIN COMUNA MOTOȘENI, JUDEȚUL BACĂU PRIN ÎNFIINȚAREA UNUI CENTRU COMUNITAR INTEGRAT”, ca urmare a modificării cotei standard de TVA de la 19% la 21%, conform prevederilor Legii nr. 141 din 25 iulie 2025 privind unele măsuri fiscal-bugetare",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/224442",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/224442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-42-2025",
+   "path": "local/bacau/motoseni/2025/42",
+   "short": "HCL Motoșeni nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 42/2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/228261",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/228261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-43-2025",
+   "path": "local/bacau/motoseni/2025/43",
+   "short": "HCL Motoșeni nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 43/2025 privind includerea in domeniul public al comunei Motoșeni, județul Bacău, a unor suprafețe de teren în vederea intabulării și înscrierii cu caracter definitiv a dreptului de proprietate în evidențele de cadastru si carte funciară",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/228262",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/228262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-44-2025",
+   "path": "local/bacau/motoseni/2025/44",
+   "short": "HCL Motoșeni nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 44/2025 privind aprobarea Strategiei de dezvoltare a serviciilor sociale la nivelul comunei MOTOȘENI, județul Bacău, pentru perioada 2025-2030",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/228263",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/228263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-45-2025",
+   "path": "local/bacau/motoseni/2025/45",
+   "short": "HCL Motoșeni nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 45/2025 privind aprobarea Manualului de proceduri necesare acreditării Primăria Comunei Motoșeni - Compartimentul de Asistență Socială Motoșeni ca furnizor în domeniul serviciilor sociale și a Planului de dezvoltare a serviciilor sociale",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/228264",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/228264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-46-2025",
+   "path": "local/bacau/motoseni/2025/46",
+   "short": "HCL Motoșeni nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 46/2025 privind ALEGEREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/228265",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/228265",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--motoseni-47-2025",
    "path": "local/bacau/motoseni/2025/47",
    "short": "HCL Motoșeni nr. 47/2025",
@@ -43,6 +553,21 @@
      "from": "2025-11-04",
      "units": 1,
      "source_url": "https://emol.ro/motoseni-bc/registru-hcl/231684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-5-2025",
+   "path": "local/bacau/motoseni/2025/5",
+   "short": "HCL Motoșeni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 5/2025 privind aprobarea actualizării indicatorilor tehnico-economici pentru obiectivul de investiții “Reabilitare Club cu Lipici din sat Fântânele, comuna Motoșeni, județul Bacău”, ca urmare a modificării soluțiilor tehnice conform Dispozițiilor de șantier nr. 1-4",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/195247",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/195247",
      "sha256": null
     }
    ]
@@ -198,6 +723,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--motoseni-6-2025",
+   "path": "local/bacau/motoseni/2025/6",
+   "short": "HCL Motoșeni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 6/2025 privind privind asigurarea activităţilor juridice de consultanţă, de asistenţă şi/sau de reprezentare, necesare Unităţii Administrativ Teritoriale Motoşeni",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/196793",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/196793",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--motoseni-60-2025",
    "path": "local/bacau/motoseni/2025/60",
    "short": "HCL Motoșeni nr. 60/2025",
@@ -298,6 +838,36 @@
      "from": "2026-01-20",
      "units": 1,
      "source_url": "https://emol.ro/motoseni-bc/registru-hcl/247447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-7-2025",
+   "path": "local/bacau/motoseni/2025/7",
+   "short": "HCL Motoșeni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 7/2025 privind privind aprobarea Planului de actiuni si lucrari de interes local pentru anul 2025, ce se vor efectua de beneficiarii Legii 196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/196794",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/196794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-9-2025",
+   "path": "local/bacau/motoseni/2025/9",
+   "short": "HCL Motoșeni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 9/2025 privind aprobarea “ Programului de masuri privind buna gospodarire , intretinere si infrumusetare a Comunei Motoseni, judetul Bacau, in anul 2025”",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/196796",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/196796",
      "sha256": null
     }
    ]

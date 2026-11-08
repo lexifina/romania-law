@@ -3,6 +3,321 @@
  "shard": "local/bacau/motoseni/2024",
  "acts": [
   {
+   "slug": "hcl-bacau--motoseni-1-2024",
+   "path": "local/bacau/motoseni/2024/1",
+   "short": "HCL Motoșeni nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 1/2024 privind privind organizarea retelei scolare de invatamant preuniversitar de stat in comuna Motoseni, judetul Bacau pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/141841",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/141841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-10-2024",
+   "path": "local/bacau/motoseni/2024/10",
+   "short": "HCL Motoșeni nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 10/2024 privind APROBARE CUANTUM SI CONDITII AJUTOR INMORMANTARE BENEFICIARI VMI",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/146845",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/146845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-11-2024",
+   "path": "local/bacau/motoseni/2024/11",
+   "short": "HCL Motoșeni nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 11/2024 privind APROBARE INCHIDERE EXERCITIU BUGETAR 2023",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/146846",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/146846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-12-2024",
+   "path": "local/bacau/motoseni/2024/12",
+   "short": "HCL Motoșeni nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 12/2024 privind APROBARE REZULTATE INVENTARIERE 2023",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/146847",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/146847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-13-2024",
+   "path": "local/bacau/motoseni/2024/13",
+   "short": "HCL Motoșeni nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 13/2024 privind STABIRIRE TAXA SALUBRITATE 2024",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/146848",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/146848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-15-2024",
+   "path": "local/bacau/motoseni/2024/15",
+   "short": "HCL Motoșeni nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 15/2024 privind acordul comunității locale cu privire la amplasarea turbinelor eoliene la o distanță mai mică de 495 m față de zona de locuințe din satele Fundatura, Rotaria si Sendresti din Comuna Motoseni, județul Bacău",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/152059",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/152059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-17-2024",
+   "path": "local/bacau/motoseni/2024/17",
+   "short": "HCL Motoșeni nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 17/2024 privind participarea Comunei Motoșeni la ,,Programul ce vizeaza sisteme de alimentare cu apă, canalizare și epurare a apelor uzate” în vedere aprobarii, depunerii și implementării proiectului cu titlul „Înființare sistem de alimentare cu apa și canalizare în Comuna Motoșeni Județul Bacău”",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/152061",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/152061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-18-2024",
+   "path": "local/bacau/motoseni/2024/18",
+   "short": "HCL Motoșeni nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 18/2024 privind privind aprobarea Documentației tehnice și a indicatorilor tehnico-economici pentru obiectivul de investiție „Înființare sistem de alimentare cu apa și canalizare în Comuna Motoșeni Județul Bacău”",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/152062",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/152062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-19-2024",
+   "path": "local/bacau/motoseni/2024/19",
+   "short": "HCL Motoșeni nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 19/2024 privind aprobarea documentației tehnico-economice, faza SF și a indicatorilor tehnico-economici pentru obiectivul de investiții ÎNFIINȚAREA UNUI CENTRU COMUNITAR INTEGRAT",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/152552",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/152552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-20-2024",
+   "path": "local/bacau/motoseni/2024/20",
+   "short": "HCL Motoșeni nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 20/2024",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/152553",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/152553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-21-2024",
+   "path": "local/bacau/motoseni/2024/21",
+   "short": "HCL Motoșeni nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 21/2024 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție „Infiintare sistem distributie gaze naturale si racorduri în comuna Motoșeni, judetul Bacău\"",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/156395",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/156395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-22-2024",
+   "path": "local/bacau/motoseni/2024/22",
+   "short": "HCL Motoșeni nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 22/2024 privind acordarea unui drept pentru ocuparea temporara si definitiva a unor suprafete de teren din domeniul public al comunei Motoseni, judetul Bacau in vederea realizarii obiectivului de investiție „Infiintare sistem distributie gaze naturale si racorduri în comuna Motoșeni, judetul Bacău\"",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/156396",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/156396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-23-2024",
+   "path": "local/bacau/motoseni/2024/23",
+   "short": "HCL Motoșeni nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 23/2024",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/156397",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/156397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-24-2024",
+   "path": "local/bacau/motoseni/2024/24",
+   "short": "HCL Motoșeni nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 24/2024 privind rectificare (I) BVC 2024",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/156432",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/156432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-25-2024",
+   "path": "local/bacau/motoseni/2024/25",
+   "short": "HCL Motoșeni nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 25/2024 privind hcl 25 aprobare suport alimentar Program Masa sanatoasa",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/156433",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/156433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-27-2024",
+   "path": "local/bacau/motoseni/2024/27",
+   "short": "HCL Motoșeni nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 27/2024 privind aprobarea actualizării indicatorilor tehnico-economici pentru obiectivul de investiții “Reabilitare Club cu Lipici din sat Fântânele, comuna Motoșeni, județul Bacău” ca urmare a semnării contractului de execuție a lucrărilor nr. 1483/23.04.2024",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/157647",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/157647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-29-2024",
+   "path": "local/bacau/motoseni/2024/29",
+   "short": "HCL Motoșeni nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 29/2024",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/163915",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/163915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-3-2024",
+   "path": "local/bacau/motoseni/2024/3",
+   "short": "HCL Motoșeni nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 3/2024 privind aprobarea Statutului Comunei Motoseni",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/141861",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/141861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-32-2024",
+   "path": "local/bacau/motoseni/2024/32",
+   "short": "HCL Motoșeni nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 32/2024 privind hcl 32 aprobare amplasare turbina 63 apartinand SC Balcani Est Group",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/164027",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/164027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-33-2024",
+   "path": "local/bacau/motoseni/2024/33",
+   "short": "HCL Motoșeni nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 33/2024 privind aprobare rectificare (II) BVC 2024",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/164028",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/164028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-34-2024",
+   "path": "local/bacau/motoseni/2024/34",
+   "short": "HCL Motoșeni nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 34/2024 privind rectificarea (III) BVC Motoseni",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/169721",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/169721",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--motoseni-35-2024",
    "path": "local/bacau/motoseni/2024/35",
    "short": "HCL Motoșeni nr. 35/2024",
@@ -73,6 +388,21 @@
      "from": "2024-12-16",
      "units": 1,
      "source_url": "https://emol.ro/motoseni-bc/registru-hcl/182115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-4-2024",
+   "path": "local/bacau/motoseni/2024/4",
+   "short": "HCL Motoșeni nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 4/2024 privind asigurarea activităţilor juridice de consultanţă, de asistenţă şi/sau de reprezentare, necesare Unităţii Administrativ Teritoriale Motoşeni",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/141862",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/141862",
      "sha256": null
     }
    ]
@@ -228,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--motoseni-5-2024",
+   "path": "local/bacau/motoseni/2024/5",
+   "short": "HCL Motoșeni nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 5/2024 privind aprobarea Planului de actiuni si lucrari de interes local pentru anul 2024, ce se vor efectua de beneficiarii Legii 196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/141863",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/141863",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--motoseni-50-2024",
    "path": "local/bacau/motoseni/2024/50",
    "short": "HCL Motoșeni nr. 50/2024",
@@ -298,6 +643,51 @@
      "from": "2025-02-28",
      "units": 1,
      "source_url": "https://emol.ro/motoseni-bc/registru-hcl/194502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-6-2024",
+   "path": "local/bacau/motoseni/2024/6",
+   "short": "HCL Motoșeni nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 6/2024 privind aprobare Buget de venituri si cheltuieli 2024",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/144220",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/144220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-8-2024",
+   "path": "local/bacau/motoseni/2024/8",
+   "short": "HCL Motoșeni nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 8/2024 privind APROBARE SUPLIMENTARE POSTURI ASISTENTI PERSONALI",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/146843",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/146843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--motoseni-9-2024",
+   "path": "local/bacau/motoseni/2024/9",
+   "short": "HCL Motoșeni nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Motoșeni nr. 9/2024 privind CONSTITUIRE CCA COMUNA MOTOSENI",
+   "url": "https://emol.ro/motoseni-bc/registru-hcl/146844",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/motoseni-bc/registru-hcl/146844",
      "sha256": null
     }
    ]

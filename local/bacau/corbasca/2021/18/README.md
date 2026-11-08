@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Corbasca nr. 18/2021 privind APROBAREA DEVIZULUI GENERAL SI A INDICATORILOR TEHNICO-ECONOMICI SI ASIGURARII DE LA BUGETUL LOCAL A CHELTUIELILOR PENTRU REALIZAREA OBIECTIVULUI DE INVESTITII ”Reabilitare centru civic in comuna Corbasca,judetul Bacau”
+
+HCL Corbasca nr. 18/2021 · 1 versions, from 2021-02-26 (latest in force: 2021-02-26) · <https://emol.ro/corbasca-bc/registru-hcl/18646>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-bacau--corbasca-18-2021` (tags `hcl-bacau--corbasca-18-2021/<day>`; `python tools/on.py <day> hcl-bacau--corbasca-18-2021`).
+
+## Decisions made by hand
+
+- HCL Corbasca nr. 18/2021: listed from Consiliul Local al Comunei Corbasca (emol.ro); metadata only for now: no document of it is held.
+- HCL Corbasca nr. 18/2021: dated from 26 February 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Corbasca nr. 18/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -3,6 +3,126 @@
  "shard": "local/arges/rucar/2024",
  "acts": [
   {
+   "slug": "hcl-arges--rucar-19-2024",
+   "path": "local/arges/rucar/2024/19",
+   "short": "HCL Rucăr nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 19/2024 privind însușirea Studiului de Oportunitate pentru fundamentarea și stabilirea soluțiilor optime de delegare a gestiunii serviciilor de apă și apă uzată în comuna Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/172100",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/172100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-25-2024",
+   "path": "local/arges/rucar/2024/25",
+   "short": "HCL Rucăr nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 25/2024 privind aprobarea cofinanțării lucrării ”Extindere rețea de alimentare cu energie electrica în punctul Gâlmee, comuna Rucăr, județul Argeș”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/172106",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/172106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-30-2024",
+   "path": "local/arges/rucar/2024/30",
+   "short": "HCL Rucăr nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 30/2024 privind aprobarea solicitării prelungirii până la data de 28.02.2025 a Scrisorii de garanție de la FNGCIMM SA IFN nr. 565/19.09.2017 în sumă de 1.906.380,00 lei în vederea garantării în procent de 100% a obligațiilor de plată a avansului de 1.906.380,00 lei din fondurile nerambursabile pentru implementarea proiectului “Modernizare a drumurilor comunale de interes local, în comuna Rucăr, județul Argeș” în com. Rucăr, jud. Arges, în baza contractului de finanțare nerambursabilă nr. C0720RM00011730300169 din data de 30.08.2017 cu modificările și completările ulterioare, în favoarea Agenției pentru Finanțarea Investițiilor Rurale",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/172115",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/172115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-32-2024",
+   "path": "local/arges/rucar/2024/32",
+   "short": "HCL Rucăr nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 32/2024 privind modificarea taxei pentru utilizarea temporară a locurilor publice",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/172119",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/172119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-33-2024",
+   "path": "local/arges/rucar/2024/33",
+   "short": "HCL Rucăr nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 33/2024 privind inițierea demersurilor aferente investiției de asfaltare, realizarea de piste de biciclete, trotuare pietonale și colectarea apelor pluviale, ale străzilor din comuna Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/172120",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/172120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-36-2024",
+   "path": "local/arges/rucar/2024/36",
+   "short": "HCL Rucăr nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 36/2024 privind stabilirea salariilor de bază pentru funcțiile publice și personalul contractual angajat în aparatul de specialitate",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/172123",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/172123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-38-2024",
+   "path": "local/arges/rucar/2024/38",
+   "short": "HCL Rucăr nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 38/2024 privind inițierea demersurilor aferente investiției - Trotuare pe ambele maluri ale râului Râușor, în comuna Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/172125",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/172125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-39-2024",
+   "path": "local/arges/rucar/2024/39",
+   "short": "HCL Rucăr nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 39/2024 privind inițierea demersurilor necesare introducerii obiectivului – Peștera Urșilor în circuitul turistic",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/172126",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/172126",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-42-2024",
    "path": "local/arges/rucar/2024/42",
    "short": "HCL Rucăr nr. 42/2024",
@@ -118,6 +238,21 @@
      "from": "2024-10-08",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/172158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-5-2024",
+   "path": "local/arges/rucar/2024/5",
+   "short": "HCL Rucăr nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 5/2024 privind stabilirea salariilor de bază pentru funcțiile publice și personalul contractual angajat în aparatul de specialitate",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/172074",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/172074",
      "sha256": null
     }
    ]
@@ -273,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-6-2024",
+   "path": "local/arges/rucar/2024/6",
+   "short": "HCL Rucăr nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 6/2024 privind aprobarea proiectului rețelei școlare pentru anul școlar 2024 – 2025 la nivelul comunei Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/172075",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/172075",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-60-2024",
    "path": "local/arges/rucar/2024/60",
    "short": "HCL Rucăr nr. 60/2024",
@@ -298,6 +448,21 @@
      "from": "2024-10-31",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/174443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-8-2024",
+   "path": "local/arges/rucar/2024/8",
+   "short": "HCL Rucăr nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 8/2024 privind scutirea de la plata majorărilor de întârziere a plătitorilor de obligaţii fiscale datorate la 31.12.2023, bugetului local al comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/172077",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/172077",
      "sha256": null
     }
    ]

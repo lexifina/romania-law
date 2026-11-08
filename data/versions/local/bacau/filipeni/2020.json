@@ -3,6 +3,531 @@
  "shard": "local/bacau/filipeni/2020",
  "acts": [
   {
+   "slug": "hcl-bacau--filipeni-1-2020",
+   "path": "local/bacau/filipeni/2020/1",
+   "short": "HCL Filipeni nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 1/2020 privind acoperirea definitivă a deficitului secțiunii de dezvoltare din excedentul anilor precedenți, pentru anul 2019",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6630",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-10-2020",
+   "path": "local/bacau/filipeni/2020/10",
+   "short": "HCL Filipeni nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 10/2020 privind constituirea unui drept de uz și servitute în favoarea SC DELGAZ GRID SA asupra terenului în suprafață de 1 mp. Situat în zona PTA 1, localitatea Slobozia, comuna Filipeni, județul Bacău aflat în domeniulș public al Comunei Filipeni",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6639",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-12-2020",
+   "path": "local/bacau/filipeni/2020/12",
+   "short": "HCL Filipeni nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 12/2020 privind adoptarea bugetului de venituri și cheltuieli și Listei de investiții pe 2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6641",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-13-2020",
+   "path": "local/bacau/filipeni/2020/13",
+   "short": "HCL Filipeni nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 13/2020 privind aprobarea Programului anual al achizițiilor publice pentru anul 2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6642",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-14-2020",
+   "path": "local/bacau/filipeni/2020/14",
+   "short": "HCL Filipeni nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 14/2020 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6643",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-15-2020",
+   "path": "local/bacau/filipeni/2020/15",
+   "short": "HCL Filipeni nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 15/2020 privind aprobarea chiriilor pentru anul 2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6644",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-16-2020",
+   "path": "local/bacau/filipeni/2020/16",
+   "short": "HCL Filipeni nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 16/2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6645",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-17-2020",
+   "path": "local/bacau/filipeni/2020/17",
+   "short": "HCL Filipeni nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 17/2020 privind actualizare suprafață de teren imobil",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6646",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-18-2020",
+   "path": "local/bacau/filipeni/2020/18",
+   "short": "HCL Filipeni nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 18/2020 privind acordarea ajutoarelor de înmormântare, ajutoarelor de urgență care se vor acorda din bugetul local în anul 2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6647",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-19-2020",
+   "path": "local/bacau/filipeni/2020/19",
+   "short": "HCL Filipeni nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 19/2020 privind rectificarea bugetului local de venituri și cheltuieli și a Listei de investiții pe anul 2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19055",
+   "versions": [
+    {
+     "from": "2020-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-2-2020",
+   "path": "local/bacau/filipeni/2020/2",
+   "short": "HCL Filipeni nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 2/2020 privind modificarea Contribuției la Economia Circulară pentru deșeurile municipale, deșeurile din construcții și desființări și destinate a fi eliminate prin depozitare pentru anul 2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6631",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-20-2020",
+   "path": "local/bacau/filipeni/2020/20",
+   "short": "HCL Filipeni nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 20/2020 privind punerea la dispoziția Proiectului ”ASIGUR Bacău și Vrancea (Aria de Servicii Integrate Guvernate local cu Respect Bacău și Vrancea)” a unui spațiu",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19056",
+   "versions": [
+    {
+     "from": "2020-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-21-2020",
+   "path": "local/bacau/filipeni/2020/21",
+   "short": "HCL Filipeni nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 21/2020 privind aprobarea majorării valorii estimate pentru mijlocul de transport autoutilitară, ce urmează a se achiziționa în cadrul proiectului ”Reabilitare și extindere clădire pentru înființare centru de zi pentru persoane vârstnice cu unitate de îngrijire la domiciliu”",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19057",
+   "versions": [
+    {
+     "from": "2020-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-22-2020",
+   "path": "local/bacau/filipeni/2020/22",
+   "short": "HCL Filipeni nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 22/2020 privind aprobarea taxei speciale de salubrizare în comuna Filipeni pentru anul fiscal 2020 în conformtate cu prevederile Planului Anual actualizat de evoluție a Taxelor și Tarifelor Aferente pentru utilizatorii casnici și non-casnici",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19058",
+   "versions": [
+    {
+     "from": "2020-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-23-2020",
+   "path": "local/bacau/filipeni/2020/23",
+   "short": "HCL Filipeni nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 23/2020 privind aprobarea Strategiei de Dezvoltare a Serviciului de Salubrizare al județului Bacău",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19059",
+   "versions": [
+    {
+     "from": "2020-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-24-2020",
+   "path": "local/bacau/filipeni/2020/24",
+   "short": "HCL Filipeni nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 24/2020 privind actualizarea Organigramei",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19060",
+   "versions": [
+    {
+     "from": "2020-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-25-2020",
+   "path": "local/bacau/filipeni/2020/25",
+   "short": "HCL Filipeni nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 25/2020 privind aprobarea strategiei de dezvoltare a serviciului de salubrizare al județului Bacău",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19066",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-26-2020",
+   "path": "local/bacau/filipeni/2020/26",
+   "short": "HCL Filipeni nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 26/2020 privind aprobarea indicatorilor tehnico-economici actualizați reprezetând noua valoare a investiției la proiectului ”MODERNIZARE DRUMURI LOCALE ÎN SATUL FILIPENI, COMUNA FILIPENI, JUDEȚUL BACĂU",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19068",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-28-2020",
+   "path": "local/bacau/filipeni/2020/28",
+   "short": "HCL Filipeni nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 28/2020 privind acualizarea Organigramei",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19071",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-3-2020",
+   "path": "local/bacau/filipeni/2020/3",
+   "short": "HCL Filipeni nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 3/2020 privind aprobarea cotizației anuale la patrimoniul ADIS",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6632",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-32-2020",
+   "path": "local/bacau/filipeni/2020/32",
+   "short": "HCL Filipeni nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 32/2020 privind revocarea Hotărârilor Consiliului Local Filipeni de la 19 la 24 din data de 17.04.2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19063",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-33-2020",
+   "path": "local/bacau/filipeni/2020/33",
+   "short": "HCL Filipeni nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 33/2020 privind rectificarea bugetului local de venituri și cheltuieli și a Listei de investiții pe anul 2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19064",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-34-2020",
+   "path": "local/bacau/filipeni/2020/34",
+   "short": "HCL Filipeni nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 34/2020 privind punerea la dispoziția Proiectului ”ASIGUR Bacău și Vrancea (Aria de Servicii Integrate Guvernate local cu Respect Bacău și Vrancea)” a unui spațiu",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19065",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-35-2020",
+   "path": "local/bacau/filipeni/2020/35",
+   "short": "HCL Filipeni nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 35/2020 privind aprobarea majorării valorii estimate pentru mijlocul de transport-autoutilitară, ce urmează a se achiziționa în cadrul proiectului ”Reabilitare și extindere clădire privind înființare centru de zi pentru persoane vârstnice cu unitate de îngrijire la domiciliu”",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19067",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-36-2020",
+   "path": "local/bacau/filipeni/2020/36",
+   "short": "HCL Filipeni nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 36/2020 privind aprobarea taxei speciale de salubrizare în comuna Filipeni pentru anul fiscal 2020 în conformitate cu prevederile Planului Anual actualizat de evoluție a Taxelor și Tarifelor aferente pentru utilizatorii casnici și non-casnici",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19069",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-37-2020",
+   "path": "local/bacau/filipeni/2020/37",
+   "short": "HCL Filipeni nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 37/2020 privind aprobarea contului de încheiere a exercițiului bugetar la 30.06.2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19073",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-38-2020",
+   "path": "local/bacau/filipeni/2020/38",
+   "short": "HCL Filipeni nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 38/2020 privind rectificarea bugetului local de venituri și cheltuieli și a Listei de investiții pe anul 2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19074",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-39-2020",
+   "path": "local/bacau/filipeni/2020/39",
+   "short": "HCL Filipeni nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 39/2020 privind permiterea racordării echipamentelor RCS & RDS la o sursă de distribuție a energiei electrice pusă la dispoziție de COMUNA FILIPENI",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19075",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-4-2020",
+   "path": "local/bacau/filipeni/2020/4",
+   "short": "HCL Filipeni nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 4/2020 privind aprobarea rețelei școlare din unitatea administrativ-teritorială a comunei Filipeni, în anul școlar 2020-2021",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6633",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-40-2020",
+   "path": "local/bacau/filipeni/2020/40",
+   "short": "HCL Filipeni nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 40/2020 privind aprobarea investiției: „Modernizarea sistemului de iluminat public prin creșterea eficienței energetice a corpurilor de iluminat și prin gestionarea inteligentă a energiei electrice în infrastructura de iluminat public din comuna Filipeni, județul Bacău”",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19076",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-41-2020",
+   "path": "local/bacau/filipeni/2020/41",
+   "short": "HCL Filipeni nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 41/2020 privind implementarea proiectului REȚEA DE ILUMINAT PUBLIC STRADAL CU PANOURI FOTOVOLTAICE ÎN COMUNA FILIPENI, JUDEȚUL BACĂU",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19077",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-42-2020",
+   "path": "local/bacau/filipeni/2020/42",
+   "short": "HCL Filipeni nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 42/2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19078",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-43-2020",
+   "path": "local/bacau/filipeni/2020/43",
+   "short": "HCL Filipeni nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 43/2020 privind participarea Comunei Filipeni la finanțarea costului anual pentru persoanele adulte internate în centre de îngrijire și asistență socială",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19141",
+   "versions": [
+    {
+     "from": "2020-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-45-2020",
+   "path": "local/bacau/filipeni/2020/45",
+   "short": "HCL Filipeni nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 45/2020 privind rectificarea bugetului local de venituri și cheltuieli și a Listei de investiții pe anul 2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19143",
+   "versions": [
+    {
+     "from": "2020-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-46-2020",
+   "path": "local/bacau/filipeni/2020/46",
+   "short": "HCL Filipeni nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 46/2020 privind aprobarea modificlrii tarifului de precolectare, colectare și transportul deșeurilor municipale amestecate reciclabile de la populafie și AE,+IP (luând in calcul cantitatea programată de 1000 tone/an asumată de delegatar) la contractul de concesionare pentru delegarea gestiunii serviciilor de colectare și transport deșeuri municipale in judeful Bacău nr. 180/ 2957 din 06.05.2015 și a Actului Adițional nr. 4 la Contractul 180/2957106.05,2015 (DIMINUAREA TARIFULUI de la 2654.82 lei/ tonă fără T.V.A,. la 1414,47 lei/ tonă)",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/19144",
+   "versions": [
+    {
+     "from": "2020-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19144",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--filipeni-47-2020",
    "path": "local/bacau/filipeni/2020/47",
    "short": "HCL Filipeni nr. 47/2020",
@@ -43,6 +568,21 @@
      "from": "2020-09-23",
      "units": 1,
      "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-5-2020",
+   "path": "local/bacau/filipeni/2020/5",
+   "short": "HCL Filipeni nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 5/2020 privind aprobarea rețelei școlare din unitatea administrativ-teritorială a comunei Filipeni, în anul școlar 2020-2021",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6634",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6634",
      "sha256": null
     }
    ]
@@ -198,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--filipeni-6-2020",
+   "path": "local/bacau/filipeni/2020/6",
+   "short": "HCL Filipeni nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 6/2020 privind aprobarea contului de încheiere a exercițiului bugetar la 31.12.2019",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6635",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6635",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--filipeni-60-2020",
    "path": "local/bacau/filipeni/2020/60",
    "short": "HCL Filipeni nr. 60/2020",
@@ -298,6 +853,36 @@
      "from": "2020-12-15",
      "units": 1,
      "source_url": "https://emol.ro/filipeni-bc/registru-hcl/19180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-8-2020",
+   "path": "local/bacau/filipeni/2020/8",
+   "short": "HCL Filipeni nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 8/2020",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6637",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--filipeni-9-2020",
+   "path": "local/bacau/filipeni/2020/9",
+   "short": "HCL Filipeni nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeni nr. 9/2020 privind prelungirea termenului de valabilitate a Planului Urbanistic General al comunei Filipeni, județul Bacău",
+   "url": "https://emol.ro/filipeni-bc/registru-hcl/6638",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/filipeni-bc/registru-hcl/6638",
      "sha256": null
     }
    ]

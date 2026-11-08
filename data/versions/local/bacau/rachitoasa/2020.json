@@ -3,6 +3,231 @@
  "shard": "local/bacau/rachitoasa/2020",
  "acts": [
   {
+   "slug": "hcl-bacau--rachitoasa-1-2020",
+   "path": "local/bacau/rachitoasa/2020/1",
+   "short": "HCL Răchitoasa nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 1/2020 privind stabilirea salariilor de bază începând cu data de 1 ianuarie 2020 pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Răchitoasa",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/760",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-10-2020",
+   "path": "local/bacau/rachitoasa/2020/10",
+   "short": "HCL Răchitoasa nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 10/2020 privind aprobarea cotizației anuale la patrimoniul Asociației de Dezvoltare Intercomunitare Bacău - ADIB",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/769",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-11-2020",
+   "path": "local/bacau/rachitoasa/2020/11",
+   "short": "HCL Răchitoasa nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 11/2020 privind aprobarea cotizației anuale la Asociația Comunelor din România",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/770",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-12-2020",
+   "path": "local/bacau/rachitoasa/2020/12",
+   "short": "HCL Răchitoasa nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 12/2020",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/771",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-13-2020",
+   "path": "local/bacau/rachitoasa/2020/13",
+   "short": "HCL Răchitoasa nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 13/2020 privind aprobarea cotizației la Societatea Națională de Cruce Roșie din România- Filiala Județului Bacău",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/772",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-14-2020",
+   "path": "local/bacau/rachitoasa/2020/14",
+   "short": "HCL Răchitoasa nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 14/2020 privind aprobarea Planului de Analiză și Acoperire a Riscurilor la nivelul comunei Răchitoasa, județul Bacău",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/773",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-15-2020",
+   "path": "local/bacau/rachitoasa/2020/15",
+   "short": "HCL Răchitoasa nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 15/2020 privind aprobarea acordului de principiu în vederea implementării proiectului Modernizare drumuri de interes local în sat Răchitoasa, comuna Răchitoasa, județul Bacău",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/774",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-16-2020",
+   "path": "local/bacau/rachitoasa/2020/16",
+   "short": "HCL Răchitoasa nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 16/2020 privind aprobarea propunerii privind evaluarea performanțelor profesionale individuale ale secretarului comunei Răchitoasa, județul Bacău, pe anul 2019",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/775",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-17-2020",
+   "path": "local/bacau/rachitoasa/2020/17",
+   "short": "HCL Răchitoasa nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 17/2020 privind acceptarea donației de la TERRE des hommes la Liceul Tehnologic Răchitoasa, județul Bacău",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/776",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-18-2020",
+   "path": "local/bacau/rachitoasa/2020/18",
+   "short": "HCL Răchitoasa nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 18/2020 privind aprobarea implementării proiectului Dezvoltarea sistemului de asistență socială și combaterea sărăciei și a excluziunii sociale cod SMIS 126924 la nivelul comunei Răchitoasa, județul Bacău",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/777",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-2-2020",
+   "path": "local/bacau/rachitoasa/2020/2",
+   "short": "HCL Răchitoasa nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 2/2020 privind însușirea inventarului bunurilor care aparțin domeniului public și privat al comunei Răchitoasa, județul Bacău",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/761",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-20-2020",
+   "path": "local/bacau/rachitoasa/2020/20",
+   "short": "HCL Răchitoasa nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 20/2020 privind aprobarea Strategiei de Dezvoltare a Serviciului de Salubrizare al județului Bacău",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/16670",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/16670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-23-2020",
+   "path": "local/bacau/rachitoasa/2020/23",
+   "short": "HCL Răchitoasa nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 23/2020 privind darea în folosință gratuită pe o perioadă de 49 de ani către Mănăstirea ”Adormirea Maicii Domnului” Răchitoasa a terenului în suprafață de 988 mp, aparținând domeniului privat al comunei Răchitoasa",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/16673",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/16673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-24-2020",
+   "path": "local/bacau/rachitoasa/2020/24",
+   "short": "HCL Răchitoasa nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 24/2020 privind aprobarea investiției ”Modernizarea sistemului de iluminat public prin creșterea eficienței energetice a corpurilor de ilumibnat și prin gestionarea inteligentă a energiei electrice în infrastructura de iluminat public din comuna Răchitoasa, județul Bacău",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/16674",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/16674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-25-2020",
+   "path": "local/bacau/rachitoasa/2020/25",
+   "short": "HCL Răchitoasa nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 25/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/16675",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/16675",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--rachitoasa-27-2020",
    "path": "local/bacau/rachitoasa/2020/27",
    "short": "HCL Răchitoasa nr. 27/2020",
@@ -43,6 +268,21 @@
      "from": "2020-09-10",
      "units": 1,
      "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/16679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-3-2020",
+   "path": "local/bacau/rachitoasa/2020/3",
+   "short": "HCL Răchitoasa nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 3/2020",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/762",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/762",
      "sha256": null
     }
    ]
@@ -198,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--rachitoasa-4-2020",
+   "path": "local/bacau/rachitoasa/2020/4",
+   "short": "HCL Răchitoasa nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 4/2020 privind adoptarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/763",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/763",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--rachitoasa-40-2020",
    "path": "local/bacau/rachitoasa/2020/40",
    "short": "HCL Răchitoasa nr. 40/2020",
@@ -298,6 +553,81 @@
      "from": "2020-12-17",
      "units": 1,
      "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/16699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-5-2020",
+   "path": "local/bacau/rachitoasa/2020/5",
+   "short": "HCL Răchitoasa nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 5/2020 privind prelungirea valabilității Planului Urbanistic General al comunei Răchitoasa județul Bacău și a Regulamentului Local de Urbanism",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/764",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-6-2020",
+   "path": "local/bacau/rachitoasa/2020/6",
+   "short": "HCL Răchitoasa nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 6/2020 privind aprobarea Programului de măsuri pentru mai buna gospodărire, întreținere și înfrumusețare a comunei Răchitoasa pentru anul 2020",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/765",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-7-2020",
+   "path": "local/bacau/rachitoasa/2020/7",
+   "short": "HCL Răchitoasa nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 7/2020 privind aprobarea Planului de acțiuni și lucrări ce vor fi efectuate în anul 2020 de către persoanele apte de muncă, beneficiare de ajutor social potrivit Legii nr.416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/766",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-8-2020",
+   "path": "local/bacau/rachitoasa/2020/8",
+   "short": "HCL Răchitoasa nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 8/2020 privind stabilirea domeniilor serviciilor publice și locul în care contravenienții vor presta activități țn folosul comunității",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/767",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--rachitoasa-9-2020",
+   "path": "local/bacau/rachitoasa/2020/9",
+   "short": "HCL Răchitoasa nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răchitoasa nr. 9/2020 privind aprobarea cotizației anuale la patrimoniul Asociației de Dezvoltare Intercomunitară pentru Salubrizare Bacău",
+   "url": "https://emol.ro/rachitoasa-bc/registru-hcl/768",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rachitoasa-bc/registru-hcl/768",
      "sha256": null
     }
    ]

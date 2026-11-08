@@ -3,6 +3,216 @@
  "shard": "local/arges/nucsoara/2025",
  "acts": [
   {
+   "slug": "hcl-arges--nucsoara-45-2025",
+   "path": "local/arges/nucsoara/2025/45",
+   "short": "HCL Nucșoara nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 45/2025",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/222876",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/222876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-47-2025",
+   "path": "local/arges/nucsoara/2025/47",
+   "short": "HCL Nucșoara nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 47/2025 privind RECTIFICAREA DE BUGET",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/224862",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/224862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-48-2025",
+   "path": "local/arges/nucsoara/2025/48",
+   "short": "HCL Nucșoara nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 48/2025 privind APROBAREA DEVIZULUI GENERAL ACTUALIZAT pentru obiectivul de investiții: „Modernizare drumuri comunale sat Slatina ,comuna Nucșoara , Județul Argeș”",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/224863",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/224863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-49-2025",
+   "path": "local/arges/nucsoara/2025/49",
+   "short": "HCL Nucșoara nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 49/2025 privind APROBAREA DEVIZULUI GENERAL ACTUALIZAT și a INDICATORILOR TEHNICO-ECONOMICI pentru obiectivul de investiții: „Modernizare drumuri comunale sat Slatina ,comuna Nucșoara , Județul Argeș”",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/227204",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/227204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-50-2025",
+   "path": "local/arges/nucsoara/2025/50",
+   "short": "HCL Nucșoara nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 50/2025 privind schimbarea destinației unor imobile clădiri și terenuri , situate în satul Slatina, comuna Nucșoara, județul Argeș",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/227205",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/227205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-52-2025",
+   "path": "local/arges/nucsoara/2025/52",
+   "short": "HCL Nucșoara nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 52/2025 privind aprobarea realizării investiției : ,,STAȚIE DE EPURARE CU SISTEM INTEGRAT DE COLECTARE A APELOR UZATE MENAJERE PRIN FOSE VIDANJABILE ȘI TRANSPORT VIDANJABIL ÎN COMUNA NUCȘOARA, JUDEȚUL ARGEȘ”",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/231190",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/231190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-53-2025",
+   "path": "local/arges/nucsoara/2025/53",
+   "short": "HCL Nucșoara nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 53/2025 privind RECTIFICAREA DE BUGET",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/231191",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/231191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-54-2025",
+   "path": "local/arges/nucsoara/2025/54",
+   "short": "HCL Nucșoara nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 54/2025 privind APROBAREA TAXEI SPECIALE DE SALUBRIZARE PENTRU ANUL 2025, pentru implementarea instrumentului economic ,,plătește pentru cât arunci”",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/231192",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/231192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-57-2025",
+   "path": "local/arges/nucsoara/2025/57",
+   "short": "HCL Nucșoara nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 57/2025",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/231196",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/231196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-59-2025",
+   "path": "local/arges/nucsoara/2025/59",
+   "short": "HCL Nucșoara nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 59/2025 privind aprobarea dării în folosinţă gratuită a unui spaţiu situat în Dispensarul Uman din satul Nucşoara",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/233300",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/233300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-61-2025",
+   "path": "local/arges/nucsoara/2025/61",
+   "short": "HCL Nucșoara nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 61/2025 privind aprobarea participării comunei Nucșoara la PROGRAMUL NAȚIONAL DE INVESTIȚII „Școli sigure și sănătoase”",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/235561",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/235561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-62-2025",
+   "path": "local/arges/nucsoara/2025/62",
+   "short": "HCL Nucșoara nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 62/2025 privind RECTIFICAREA DE BUGET",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/235562",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/235562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-63-2025",
+   "path": "local/arges/nucsoara/2025/63",
+   "short": "HCL Nucșoara nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 63/2025",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/235563",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/235563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--nucsoara-64-2025",
+   "path": "local/arges/nucsoara/2025/64",
+   "short": "HCL Nucșoara nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 64/2025",
+   "url": "https://emol.ro/nucsoara-ag/registru-hcl/235564",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nucsoara-ag/registru-hcl/235564",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--nucsoara-66-2025",
    "path": "local/arges/nucsoara/2025/66",
    "short": "HCL Nucșoara nr. 66/2025",

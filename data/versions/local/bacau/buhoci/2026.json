@@ -3,6 +3,456 @@
  "shard": "local/bacau/buhoci/2026",
  "acts": [
   {
+   "slug": "hcl-bacau--buhoci-10-2026",
+   "path": "local/bacau/buhoci/2026/10",
+   "short": "HCL Buhoci nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 10/2026 privind aprobarea Regulamentului pentru emiterea acordului prealabil și a autorizației de amplasare și/sau acces în zona drumurilor de interes local aflate în administrarea UAT Comuna Buhoci",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/256366",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/256366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-11-2026",
+   "path": "local/bacau/buhoci/2026/11",
+   "short": "HCL Buhoci nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 11/2026 privind modificarea HCL nr. 121 din 30.12.2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2026",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/258359",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/258359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-12-2026",
+   "path": "local/bacau/buhoci/2026/12",
+   "short": "HCL Buhoci nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 12/2026 privind aprobarea Devizului General actualizat defalcat pe cote de TVA (19% și 21%), a Devizului General Totalizator și a indicatorilor tehnico-economici finali pentru obiectivul de investiții ''Modernizare drumuri comunale și sătești în satele Buhoci, Dospinești, Bijghir și Coteni, comuna Buhoci, județul Bacău'', aprobat pentru finanțare prin Programul Național de Investiții ''Anghel saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/258353",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/258353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-14-2026",
+   "path": "local/bacau/buhoci/2026/14",
+   "short": "HCL Buhoci nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 14/2026 privind aprobarea de principiu a Planului Urbanistic General al Comunei Buhoci",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/262409",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/262409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-15-2026",
+   "path": "local/bacau/buhoci/2026/15",
+   "short": "HCL Buhoci nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 15/2026 privind stabilirea costului seriviciului de copiere a documentelor solicitate în baza Legii nr. 544/2001 privind liberul acces la informațiile de interes public",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/262410",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/262410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-16-2026",
+   "path": "local/bacau/buhoci/2026/16",
+   "short": "HCL Buhoci nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 16/2026 privind aprobarea tarifului pentru serviciul public de alimentare cu apă potabilă în Comuna Buhoci, județul Bacău",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/262411",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/262411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-18-2026",
+   "path": "local/bacau/buhoci/2026/18",
+   "short": "HCL Buhoci nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 18/2026",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/262413",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/262413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-2-2026",
+   "path": "local/bacau/buhoci/2026/2",
+   "short": "HCL Buhoci nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 2/2026",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/251756",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/251756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-20-2026",
+   "path": "local/bacau/buhoci/2026/20",
+   "short": "HCL Buhoci nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 20/2026 privind aprobarea contractării unor servicii de expertiză tehnico-economică privind obiectivul de investiții ''Reabilitare, modernizare și dotare a Școlii Buhoci, structură a Școlii Gimnaziale comuna Buhoci, județul Bacău''",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/262415",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/262415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-22-2026",
+   "path": "local/bacau/buhoci/2026/22",
+   "short": "HCL Buhoci nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 22/2026 privind aprobarea achiziționării serviciilor de proiectare de specialitate pentru Proiectul ''Construire Centru Social și After School în sat Bijghir, Comuna Buhoci, județul Bacău''",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/264212",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/264212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-23-2026",
+   "path": "local/bacau/buhoci/2026/23",
+   "short": "HCL Buhoci nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 23/2026 privind reorganizarea structurii organizatorice a instituției, aprobarea modificării și actualizării organigramei și a statului de funcții de la nivelul aparatului de specialitate al primarului comunei Buhoci, județul Bacău, conform prevederilor OUG nr. 7/2026",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/264214",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/264214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-25-2026",
+   "path": "local/bacau/buhoci/2026/25",
+   "short": "HCL Buhoci nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 25/2026 privind aprobarea indicatorilor și devizului Planului Urbanistic General al comunei Buhoci, județul Bacău și ale Regulamentului local de urbanism aferent",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/264218",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/264218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-26-2026",
+   "path": "local/bacau/buhoci/2026/26",
+   "short": "HCL Buhoci nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 26/2026 privind aprobarea întocmirii ''Strategiei de Dezvoltare a Serviciilor de Asistență Socială și Protecția Copilului'' Comuna Buhoci, pentru perioada 2026-2030",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/264219",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/264219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-28-2026",
+   "path": "local/bacau/buhoci/2026/28",
+   "short": "HCL Buhoci nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 28/2026 privind aprobarea accesării proiectului ''Îmbunătățirea serviciilor de asistență socială prin achiziția unui mijloc de transport în comuna Buhoci, județul Bacău''",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/269689",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/269689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-3-2026",
+   "path": "local/bacau/buhoci/2026/3",
+   "short": "HCL Buhoci nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 3/2026 privind aprobarea revizuirii și modificării Regulamentului de Organizare și Funcționare a Consiliului Local Buhoci",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/251757",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/251757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-30-2026",
+   "path": "local/bacau/buhoci/2026/30",
+   "short": "HCL Buhoci nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 30/2026 privind aprobarea bugetului de venituri și cheltuieli al Comunei Buhoci pentru anul 2026",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/269693",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/269693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-32-2026",
+   "path": "local/bacau/buhoci/2026/32",
+   "short": "HCL Buhoci nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 32/2026 privind aprobarea participării Comunei Buhoci la organizarea evenimentului ''Festivalul Iei și al Sânzienelor'', în parteneriat cu Asociația Grupul de Acțiune Locală ''Confulențe Moldave''",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/274320",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/274320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-33-2026",
+   "path": "local/bacau/buhoci/2026/33",
+   "short": "HCL Buhoci nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 33/2026 privind aprobarea rectificării bugetului de venituri și cheltuieli al Comunei Buhoci",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/274321",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/274321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-36-2026",
+   "path": "local/bacau/buhoci/2026/36",
+   "short": "HCL Buhoci nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 36/2026 privind aprobarea măsurilor necesare pentru interzicerea abandonării, aruncării sau gestionării necontrolate a deșeurilor pe raza Comunei",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/274837",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/274837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-37-2026",
+   "path": "local/bacau/buhoci/2026/37",
+   "short": "HCL Buhoci nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 37/2026 privind aprobarea documentației tehnico-economice - faza DATC nr. 25, a temei de proiectare și a Devizului General actualizat pentru obiectivul de investiții 'Reabilitare, modernizare și dotare a Școlii Buhoci, structură a Școlii Gimnaziale Buhoci, comuna Buhoci, județul Bacău'', ca urmare a modificărilor intervenite pe parcursul execuției lucrărilor",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/278228",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/278228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-4-2026",
+   "path": "local/bacau/buhoci/2026/4",
+   "short": "HCL Buhoci nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 4/2026 privind aprobarea achiziționării serviciilor de proiectare de specialitate pentru Proiectul ''Construire Cămin Cultural - After School/Ceentru Multicultural - After School în sat Buhoci, Comuna Buhoci, județul Bacău''",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/251758",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/251758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-40-2026",
+   "path": "local/bacau/buhoci/2026/40",
+   "short": "HCL Buhoci nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 40/2026 privind aprobarea cotizației anuale la patrimoniul „ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ BACĂU - ADIB”",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/282235",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/282235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-44-2026",
+   "path": "local/bacau/buhoci/2026/44",
+   "short": "HCL Buhoci nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 44/2026 privind aprobarea încheierii unui contract de lucrări de întreținere, reparații și mentenanță la Sistemul de Alimentare cu apă și canalizare Buhoci",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/282239",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/282239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-45-2026",
+   "path": "local/bacau/buhoci/2026/45",
+   "short": "HCL Buhoci nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 45/2026 privind aprobarea investiției „Modernizarea sistemului de stocare a energiei electrice aferent sistemului fotovoltaic” instalat la sediul primăriei comunei Buhoci",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/282240",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/282240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-46-2026",
+   "path": "local/bacau/buhoci/2026/46",
+   "short": "HCL Buhoci nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 46/2026 privind aprobarea Devizului general actualizat pentru proiectul „ REABILITARE, MODERNIZARE ȘI DOTARE A ȘCOLII BUHOCI, STRUCTURĂ A ȘCOLII GIMNAZIALE BUHOCI, COMUNA BUHOCI, JUDEȚUL BACĂU”",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/282241",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/282241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-47-2026",
+   "path": "local/bacau/buhoci/2026/47",
+   "short": "HCL Buhoci nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 47/2026 privind aprobarea decontării sumelor achitate de către casnici la prima branșare/racordare la Sistemul de Apă și la Sistemul de Canalizare al comunei Buhoci",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/282242",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/282242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-49-2026",
+   "path": "local/bacau/buhoci/2026/49",
+   "short": "HCL Buhoci nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 49/2026 privind asocierea Județului Bacău cu Comuna Buhoci în vederea cofinanțării cheltuielilor necesare implementării proiectului ''Reabilitare, modernizare și dotare a Școlii Buhoci, structură a Școlii Gimnaziale Buhoci''",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/285302",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/285302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-5-2026",
+   "path": "local/bacau/buhoci/2026/5",
+   "short": "HCL Buhoci nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 5/2026 privind aprobarea Planului de Măsuri pentru gospodărirea Comunei Buhoci în anul 2026",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/251759",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/251759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-50-2026",
+   "path": "local/bacau/buhoci/2026/50",
+   "short": "HCL Buhoci nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 50/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru perioada 2023-2026",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/285303",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/285303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-51-2026",
+   "path": "local/bacau/buhoci/2026/51",
+   "short": "HCL Buhoci nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 51/2026 privind aprobarea Planului de dezvoltare a serviciilor sociale pentru Primăria Comunei Buhoci - Serviciul Asistență Socială și Prestații Sociale",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/285304",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/285304",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--buhoci-52-2026",
    "path": "local/bacau/buhoci/2026/52",
    "short": "HCL Buhoci nr. 52/2026",
@@ -118,6 +568,21 @@
      "from": "2026-09-24",
      "units": 1,
      "source_url": "https://emol.ro/buhoci-bc/registru-hcl/288765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-6-2026",
+   "path": "local/bacau/buhoci/2026/6",
+   "short": "HCL Buhoci nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 6/2026 privind aprobarea elaborării Strategiei Naționale Anticorupție (S.N.A.) la nivelul UAT Buhoci, pentru perioada 2026-2030",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/251762",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/251762",
      "sha256": null
     }
    ]
@@ -273,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--buhoci-7-2026",
+   "path": "local/bacau/buhoci/2026/7",
+   "short": "HCL Buhoci nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 7/2026 privind aprobarea contribuției Consiliului Local Buhoci la finanțarea serviciilor sociale destinate protecției și promovării dreptului copilului și ale persoanei adulte cu handicap",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/251767",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/251767",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--buhoci-70-2026",
    "path": "local/bacau/buhoci/2026/70",
    "short": "HCL Buhoci nr. 70/2026",
@@ -298,6 +778,21 @@
      "from": "2026-11-03",
      "units": 1,
      "source_url": "https://emol.ro/buhoci-bc/registru-hcl/297269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-9-2026",
+   "path": "local/bacau/buhoci/2026/9",
+   "short": "HCL Buhoci nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 9/2026 privind aprobarea închiderii exercițiului financiar pentru anul 2025",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/256365",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/256365",
      "sha256": null
     }
    ]

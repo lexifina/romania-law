@@ -3,6 +3,411 @@
  "shard": "local/bacau/cleja/2024",
  "acts": [
   {
+   "slug": "hcl-bacau--cleja-1-2024",
+   "path": "local/bacau/cleja/2024/1",
+   "short": "HCL Cleja nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 1/2024 privind organizarea rețelei școlare pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/140129",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/140129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-10-2024",
+   "path": "local/bacau/cleja/2024/10",
+   "short": "HCL Cleja nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 10/2024 privind aprobarea documentației tehnico-economice, faza Documentație de Avizare a Lucrărilor de Intervenții și a indicatorilor tehnico – economici pentru obiectivul de investiții „ REABILITARE, MODERNIZARE ȘI DOTARE ȘCOALĂ GIMNAZIALĂ SOMUȘCA, SATUL SOMUȘCA, COMUNA CLEJA, JUDEȚUL BACĂU; DOTAREA UAT COMUNA CLEJA, JUDEȚUL BACĂU CU DOUĂ STAȚII DE REÎNCĂRCARE PENTRU VEHICULE ELECTRICE”",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/140138",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/140138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-11-2024",
+   "path": "local/bacau/cleja/2024/11",
+   "short": "HCL Cleja nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 11/2024 privind aprobarea Documentației tehnico economice, faza PTH, a indicatorilor tehnico-economici și a devizului general, pentru obiectivul de investiții \"MODERNIZARE DRUMURI SATESTI IN COMUNA CLEJA, JUDETUL BACAU\", aprobat pentru finanțare prin Programul național de investiții ”Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului de investiții",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/140139",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/140139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-14-2024",
+   "path": "local/bacau/cleja/2024/14",
+   "short": "HCL Cleja nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 14/2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/143196",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/143196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-17-2024",
+   "path": "local/bacau/cleja/2024/17",
+   "short": "HCL Cleja nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 17/2024 privind necesitatea și oportunitatea aprobării obiectivului de investiții ”Dotarea UAT Comuna Cleja, județul Bacău cu două stații de reîncărcare pentru vehicule electrice”",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/143199",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/143199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-20-2024",
+   "path": "local/bacau/cleja/2024/20",
+   "short": "HCL Cleja nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 20/2024 privind aprobarea bugetului de venituri și cheltuieli al comunei Cleja , județul Bacău, pentru anul 2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/143202",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/143202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-23-2024",
+   "path": "local/bacau/cleja/2024/23",
+   "short": "HCL Cleja nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 23/2024 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al primarului comunei Cleja, județul Bacău",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/145652",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/145652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-26-2024",
+   "path": "local/bacau/cleja/2024/26",
+   "short": "HCL Cleja nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 26/2024 privind aprobarea contului anual de execuție al bugetului local pentru anul 2023, respectiv la data de 31.12.2023",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/145655",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/145655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-28-2024",
+   "path": "local/bacau/cleja/2024/28",
+   "short": "HCL Cleja nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 28/2024 privind aprobarea cotizației anuale la patrimoniul Asociației Comunelor din România, pentru anul 2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/149475",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/149475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-29-2024",
+   "path": "local/bacau/cleja/2024/29",
+   "short": "HCL Cleja nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 29/2024 privind actualizarea unor bunuri aparținând domeniului public al comunei Cleja și introducerea unor bunuri în domeniul public al comunei Cleja",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/149476",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/149476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-37-2024",
+   "path": "local/bacau/cleja/2024/37",
+   "short": "HCL Cleja nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 37/2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Cleja, pentru trimestrul al II-lea al anului 2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/155070",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/155070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-39-2024",
+   "path": "local/bacau/cleja/2024/39",
+   "short": "HCL Cleja nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 39/2024 privind aprobarea Documentației tehnico economice, faza Documentație de avizare a Lucrărilor de intervenții și a indicatorilor tehnico-economici pentru obiectivul de investiții \"Creșterea eficienței energetice și gestionarea inteligentă a energiei în Școala Gimnazială nr. 2 Cleja, județul Bacău”",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/155072",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/155072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-4-2024",
+   "path": "local/bacau/cleja/2024/4",
+   "short": "HCL Cleja nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 4/2024 privind analiza stadiului de înscriere a datelor în Registrul Agricol pe anul 2023",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/140132",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/140132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-41-2024",
+   "path": "local/bacau/cleja/2024/41",
+   "short": "HCL Cleja nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 41/2024 privind aprobarea contului de execuție al bugetului local la data de 31.03.2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/157423",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/157423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-42-2024",
+   "path": "local/bacau/cleja/2024/42",
+   "short": "HCL Cleja nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 42/2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Cleja, pentru trimestrul al II-lea al anului 2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/157424",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/157424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-43-2024",
+   "path": "local/bacau/cleja/2024/43",
+   "short": "HCL Cleja nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 43/2024 privind aprobarea cotizației, pentru anul 2024, la patrimoniul ”Asociației de Dezvoltare Intercomunitară pentru Salubrizare Bacău”",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/157425",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/157425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-46-2024",
+   "path": "local/bacau/cleja/2024/46",
+   "short": "HCL Cleja nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 46/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții \"MODERNIZARE DRUMURI SĂTEȘTI ÎN COMUNA CLEJA, JUDETUL BACĂU\"",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/163216",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/163216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-49-2024",
+   "path": "local/bacau/cleja/2024/49",
+   "short": "HCL Cleja nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 49/2024 privind aprobarea DTAC/DTOE, a indicatorilor tehnico – economici și a Devizului General pentru obiectivul de investiții „ REABILITARE, MODERNIZARE ȘI DOTARE ȘCOALĂ GIMNAZIALĂ SOMUȘCA, SATUL SOMUȘCA, COMUNA CLEJA, JUDEȚUL BACĂU; DOTAREA UAT COMUNA CLEJA, JUDEȚUL BACĂU CU DOUĂ STAȚII DE REÎNCĂRCARE PENTRU VEHICULE ELECTRICE”",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/163219",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/163219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-5-2024",
+   "path": "local/bacau/cleja/2024/5",
+   "short": "HCL Cleja nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 5/2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/140133",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/140133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-50-2024",
+   "path": "local/bacau/cleja/2024/50",
+   "short": "HCL Cleja nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 50/2024 privind aprobarea modificării denumirii obiectivului de investiție din „Extindere sistem supraveghere video în comuna Cleja, județul Bacău” în „Extindere și modernizare sistem supraveghere video în comuna Cleja, județul Bacău”",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/163220",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/163220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-51-2024",
+   "path": "local/bacau/cleja/2024/51",
+   "short": "HCL Cleja nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 51/2024 privind aprobarea organizării evenimentului ” Ziua comunei Cleja” în data de 11 august 2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/163221",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/163221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-52-2024",
+   "path": "local/bacau/cleja/2024/52",
+   "short": "HCL Cleja nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 52/2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Cleja, pentru trimestrul al III-lea al anului 2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/163222",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/163222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-54-2024",
+   "path": "local/bacau/cleja/2024/54",
+   "short": "HCL Cleja nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 54/2024 privind aprobarea contului de execuție al bugetului local la data de 30.06.2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/165656",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/165656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-57-2024",
+   "path": "local/bacau/cleja/2024/57",
+   "short": "HCL Cleja nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 57/2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Cleja, pentru trimestrul al III-lea al anului 2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/165659",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/165659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-61-2024",
+   "path": "local/bacau/cleja/2024/61",
+   "short": "HCL Cleja nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 61/2024 privind implementarea proiectului ”Sprijinirea copiilor dezavantajați, înscriși în Centrul de Zi pentru copii aflați în situații de risc de separare de părinți Sf. Lucia din cadrul UAT Comuna Cleja, județul Bacău”, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/171007",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/171007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-63-2024",
+   "path": "local/bacau/cleja/2024/63",
+   "short": "HCL Cleja nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 63/2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Cleja, pentru trimestrul al III-lea al anului 2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/171009",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/171009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-65-2024",
+   "path": "local/bacau/cleja/2024/65",
+   "short": "HCL Cleja nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 65/2024 privind actualizarea unor bunuri aparținând domeniului public al comunei Cleja",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/171011",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/171011",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-66-2024",
    "path": "local/bacau/cleja/2024/66",
    "short": "HCL Cleja nr. 66/2024",
@@ -213,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--cleja-8-2024",
+   "path": "local/bacau/cleja/2024/8",
+   "short": "HCL Cleja nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 8/2024 privind aprobarea inventarierii masei impozabile pentru anul fiscal 2024",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/140136",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/140136",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--cleja-80-2024",
    "path": "local/bacau/cleja/2024/80",
    "short": "HCL Cleja nr. 80/2024",
@@ -298,6 +718,21 @@
      "from": "2025-01-08",
      "units": 1,
      "source_url": "https://emol.ro/cleja-bc/registru-hcl/184557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--cleja-9-2024",
+   "path": "local/bacau/cleja/2024/9",
+   "short": "HCL Cleja nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cleja nr. 9/2024 aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ,,Modernizarea, eficientizarea și extinderea sistemului de iluminat public în comuna Cleja, județul Bacău”, faza PTH",
+   "url": "https://emol.ro/cleja-bc/registru-hcl/140137",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cleja-bc/registru-hcl/140137",
      "sha256": null
     }
    ]

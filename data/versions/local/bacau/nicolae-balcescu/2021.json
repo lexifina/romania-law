@@ -3,6 +3,486 @@
  "shard": "local/bacau/nicolae-balcescu/2021",
  "acts": [
   {
+   "slug": "hcl-bacau--nicolae-balcescu-1-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/1",
+   "short": "HCL Nicolae Bălcescu nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 1/2021 avizarea rețelei de învățământ din comuna Nicolae Bălcescu 2021-2022",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19337",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-10-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/10",
+   "short": "HCL Nicolae Bălcescu nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 10/2021 privind aprobarea documentaţiei tehnico-economice – faza PTh şi a indicatorilor tehnico-economici pentru “Realizare măsuri ISU la Grădiniţa Valea Seacă, comuna Nicolae Bălcescu, judeţul Bacău, conform scenariului de securitate la incendiu”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19346",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-101-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/101",
+   "short": "HCL Nicolae Bălcescu nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 101/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/38554",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/38554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-103-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/103",
+   "short": "HCL Nicolae Bălcescu nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 103/2021 privind modificarea Statutului Asociației de Dezvoltare Intercomunitară Zona Metropolitană Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/38556",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/38556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-104-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/104",
+   "short": "HCL Nicolae Bălcescu nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 104/2021 Pentru modificarea HCL nr.9 din 28.01.2021 privind aprobarea documentației tehnico-economice – faza PTH si a indicatorilor tehnico-economici, respectiv actualizarea devizului general, privind investiția “Realizare măsuri ISU la Grădiniţa Nicolae Bălcescu, comuna Nicolae Bălcescu, judeţul Bacău, conform Avizului ISU”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/38557",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/38557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-105-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/105",
+   "short": "HCL Nicolae Bălcescu nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 105/2021 privind aprobarea rectificarii bugetului local pe anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/38558",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/38558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-106-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/106",
+   "short": "HCL Nicolae Bălcescu nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 106/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/38559",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/38559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-107-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/107",
+   "short": "HCL Nicolae Bălcescu nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 107/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/38560",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/38560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-108-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/108",
+   "short": "HCL Nicolae Bălcescu nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 108/2021 privind alegerea viceprimarului comunei Nicolae Bălcescu,județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/38896",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/38896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-109-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/109",
+   "short": "HCL Nicolae Bălcescu nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 109/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/39953",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/39953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-110-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/110",
+   "short": "HCL Nicolae Bălcescu nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 110/2021 privind modificarea Organigramei și Statului de funcții al aparatului de specialitate al primarului comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/39954",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/39954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-111-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/111",
+   "short": "HCL Nicolae Bălcescu nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 111/2021 privind aprobarea rectificarii bugetului local pe anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/39955",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/39955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-112-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/112",
+   "short": "HCL Nicolae Bălcescu nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 112/2021 Privind rezilierea Acordului de cooperare privind organizarea și exercitarea activității de audit public intern la nivelul Filialei Județene Bacau a ACOR",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/39956",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/39956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-114-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/114",
+   "short": "HCL Nicolae Bălcescu nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 114/2021 Pentru modificarea și completarea H.CL. 95/2021 privind acordul de principiu în legătură cu posibilitatea de a participa la cofinanţarea obiectivelor sistemului de distribuţie:,,Infiintare retea de distributie gaze naturale in satul Galbeni, comuna Nicolae Balcescu, judetul Bacau” si ,,Infiintare retea de distributie gaze naturale in satul Valea Seaca si Buchila , comuna Nicolae Balcescu, judetul Bacau”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/39958",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/39958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-115-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/115",
+   "short": "HCL Nicolae Bălcescu nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 115/2021 privind amenajarea unor subtraversări destinate circulației pietonilor pe DN2 din localitatea Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/39959",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/39959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-116-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/116",
+   "short": "HCL Nicolae Bălcescu nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 116/2021 privind aprobarea amenajării a trei sensuri giratorii pe DN2 – E85 și amenajarea trecerilorde pietoni pe sectorul de drum european ce traversează localitatea Nicolae Bălcescu cu scuaruri de piloni metalici",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/39960",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/39960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-117-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/117",
+   "short": "HCL Nicolae Bălcescu nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 117/2021 privind aprobarea solicitării de prelungire a Scrisorii de garanție nr. 682/06.10.2017 emisă de FNGCIMM SA IFN aferentă proiectului “ Modernizare rețea de drumuri de interes local în comuna Nicolae Bălcescu, județul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41213",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-118-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/118",
+   "short": "HCL Nicolae Bălcescu nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 118/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41214",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-119-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/119",
+   "short": "HCL Nicolae Bălcescu nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 119/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41215",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-120-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/120",
+   "short": "HCL Nicolae Bălcescu nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 120/2021 privind aprobarea conturilor de execuție pentru bugetul local și bugetul activităților finanțate din venituri proprii pe trim. III 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41216",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-121-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/121",
+   "short": "HCL Nicolae Bălcescu nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 121/2021 pentru modificarea HCL nr. 70 din 28.07.2021 privind implementarea proiectului „CREȘTEREA CALITĂȚII SERVICIILOR LOCALE DE BAZA PRIN ACHIZITIA DE COMPACTOR ÎN COMUNA NICOLAE BĂLCESCU, JUDEȚUL BACĂU”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41217",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-122-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/122",
+   "short": "HCL Nicolae Bălcescu nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 122/2021 privind aprobarea rectificarii bugetului local pe anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41218",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-123-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/123",
+   "short": "HCL Nicolae Bălcescu nr. 123/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 123/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41219",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-124-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/124",
+   "short": "HCL Nicolae Bălcescu nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 124/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41220",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-125-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/125",
+   "short": "HCL Nicolae Bălcescu nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 125/2021 Privind aprobarea indicatorilor tehnico-economici în vederea participării la „Programul privind creşterea eficienţei energetice şi gestionarea inteligentă a energiei în clădirile publice cu destinaţie de unităţi de învăţământ” cu proiectul: ''Cresterea eficientei energetice a Școlii Gimnaziale nr.1 din satul Valea Seacă, comuna Nicolae Bălcescu, județul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41221",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-126-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/126",
+   "short": "HCL Nicolae Bălcescu nr. 126/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 126/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41222",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/41222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-127-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/127",
+   "short": "HCL Nicolae Bălcescu nr. 127/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 127/2021 privind aprobarea documentației tehnico-economice –faza PTh –obiectivul de investiției ”MODERNIZAREA SISTEMULUI DE ILUMINAT PUBLIC STRADAL ÎN COMUNA NICOLAE BĂLCESCU, JUDEŢUL BACĂU”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/42845",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/42845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-128-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/128",
+   "short": "HCL Nicolae Bălcescu nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 128/2021 privind aprobarea devizului general actualizat, obiectiv de investiție „Modernizare reţea de drumuri de interes local în comuna Nicolae Bălcescu, judeţul Bacău”, finanţat prin PNDR 2014 – 2020",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/42846",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/42846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-129-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/129",
+   "short": "HCL Nicolae Bălcescu nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 129/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/42847",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/42847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-13-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/13",
+   "short": "HCL Nicolae Bălcescu nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 13/2021 privind aprobarea modificării SF-urilor la obiectivele de investiții „ INFIINȚARE REȚEA DE DISTRIBUȚIE GAZE NATURALE ÎN SATUL GALBENI, COMUNA NICOLAE BĂLCESCU, JUDEȚUL BACĂU” și „ INFIINȚARE REȚEA DE DISTRIBUȚIE GAZE NATURALE ÎN SATUL VALEA-SEACĂ, COMUNA NICOLAE BĂLCESCU, JUDEȚUL BACĂU” și inițierea demersurilor pentru finanțare prin POIM 2014-2020 Axa prioritară 8 Sisteme inteligente și sustenabile de transport al energiei electrice și gazelor naturale, Obiectivul Specific 8.2 Creșterea gradului de interconectare a Sistemului Național de Transport a gazelor naturale cu alte sate vecine",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19349",
+   "versions": [
+    {
+     "from": "2021-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-130-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/130",
+   "short": "HCL Nicolae Bălcescu nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 130/2021 privind aprobarea rectificarii bugetului local pe anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/42848",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/42848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-131-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/131",
+   "short": "HCL Nicolae Bălcescu nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 131/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/42849",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/42849",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-132-2021",
    "path": "local/bacau/nicolae-balcescu/2021/132",
    "short": "HCL Nicolae Bălcescu nr. 132/2021",
@@ -118,6 +598,21 @@
      "from": "2021-12-10",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/43958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-14-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/14",
+   "short": "HCL Nicolae Bălcescu nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 14/2021 privind aprobarea achiziționării unei pompe dozatoare de hipoclorit pentru Stația de pompare Galbeni din comuna Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19350",
+   "versions": [
+    {
+     "from": "2021-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19350",
      "sha256": null
     }
    ]
@@ -273,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--nicolae-balcescu-15-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/15",
+   "short": "HCL Nicolae Bălcescu nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 15/2021 privind aprobarea conturilor de executie pentru bugetul local si bugetul activitatilor finantate din venituri proprii pe trim. IV 2020",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19351",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19351",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-150-2021",
    "path": "local/bacau/nicolae-balcescu/2021/150",
    "short": "HCL Nicolae Bălcescu nr. 150/2021",
@@ -298,6 +808,1146 @@
      "from": "2021-12-22",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/45295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-18-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/18",
+   "short": "HCL Nicolae Bălcescu nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 18/2021 privind anularea accesoriilor în cazul obligaţiilor bugetare restante la 31 martie 2021 datorate bugetului local al Comunei Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19354",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-19-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/19",
+   "short": "HCL Nicolae Bălcescu nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 19/2021 privind aprobarea solicitarii de prelungire a Scrisorii de garantie nr. 682/06.10.2017 emisa de FNGCIMM SA IFN aferenta proiectului “ Modernizare retea de drumuri de interes local in comuna Nicolae Balcescu, judetul Bacau”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19847",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-2-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/2",
+   "short": "HCL Nicolae Bălcescu nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 2/2021 privind aprobarea Planului de acţiuni şi lucrări de interes local pe anul 2021, ce vor executa cu persoanele apte de munca beneficiare ale Legii 416/2001",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19338",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-20-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/20",
+   "short": "HCL Nicolae Bălcescu nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 20/2021 privind aprobarea tarifelor pentru chiria spațiilor medicale din comună",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22020",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-21-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/21",
+   "short": "HCL Nicolae Bălcescu nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 21/2021 privind majorarea taxei de concesiune cu indicele de inflatie pentru anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22028",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-22-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/22",
+   "short": "HCL Nicolae Bălcescu nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 22/2021 privind aprobarea Contractului de asociere privind finanțarea activității de protecție de tip rezidențial a persoanei cu handicap",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22022",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-25-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/25",
+   "short": "HCL Nicolae Bălcescu nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 25/2021 privind înregistrarea Comunei Nicolae Balcescu în Sistemul Naţional Electronic de Plată (SNEP) on-line a impozitelor şi taxelor locale utilizând cardul bancar, inclusiv instalarea unui terminal de plată (POS) ca metoda de acceptare pentru incasarea impozitelor si taxelor locale precum şi stabilirea modului în care este suportat comisionul bancar",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22021",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-26-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/26",
+   "short": "HCL Nicolae Bălcescu nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 26/2021 privind aprobarea Amenajamentului pastoral pentru pajiștile de pe raza Comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22024",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-27-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/27",
+   "short": "HCL Nicolae Bălcescu nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 27/2021 pentru aprobarea unui act adițional la Contractul de Comodat nr.34/30.06.2014 încheiat între Consiliul Local Nicolae Bălcescu și Asociatia GAL „ Confluențe Moldave”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22025",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-28-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/28",
+   "short": "HCL Nicolae Bălcescu nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 28/2021 privind aprobarea asocierii comunei Nicolae Bălcescu la Asociația Zona Metropolitană Bacău, precum și aprobarea Actului Constitutiv și a Statutului Zonei Metropolitane Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22026",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-29-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/29",
+   "short": "HCL Nicolae Bălcescu nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 29/2021 privind aprobarea participării Comunei Nicolae Bălcescu la Elaborarea Studiului de Oportunitate pe tema “Înființărea și delegărea în comun a serviciilor de transport local de călători” la nivelul Zonei Metropolitane Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22027",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/22027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-3-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/3",
+   "short": "HCL Nicolae Bălcescu nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 3/2021 pentru aprobarea Raportului privind activitatea desfașurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul II al anului 2020",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19339",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-30-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/30",
+   "short": "HCL Nicolae Bălcescu nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 30/2021 Privind aprobarea implementării proiectului „Dezvoltarea sistemului de asistență socială și combaterea sărăciei și a excluziunii sociale” cod SMIS 126924",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23225",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-31-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/31",
+   "short": "HCL Nicolae Bălcescu nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 31/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23226",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-32-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/32",
+   "short": "HCL Nicolae Bălcescu nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 32/2021 pentru revocarea HCL nr.13 din 16.02.2021 privind aprobarea modificării SF-urilor la obiectivele de investiții „ INFIINȚARE REȚEA DE DISTRIBUȚIE GAZE NATURALE ÎN SATUL GALBENI, COMUNA NICOLAE BĂLCESCU, JUDEȚUL BACĂU” și „ INFIINȚARE REȚEA DE DISTRIBUȚIE GAZE NATURALE ÎN SATUL VALEA-SEACĂ, COMUNA NICOLAE BĂLCESCU, JUDEȚUL BACĂU” și inițierea demersurilor pentru finanțare prin POIM 2014-2020 Axa prioritară 8 Sisteme inteligente și sustenabile de transport al energiei electrice și gazelor naturale, Obiectivul Specific 8.2 Creșterea gradului de interconectare a Sistemului Național de Transport a gazelor naturale cu alte sate vecine",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23227",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-33-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/33",
+   "short": "HCL Nicolae Bălcescu nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 33/2021 privind aprobarea Regulamentului privind procedura înregistrării, evidenței și radierii vehiculelor pentru care există obligativitatea înregistrării, de pe raza comunei Nicolae Bălcescu, judetul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23228",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-34-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/34",
+   "short": "HCL Nicolae Bălcescu nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 34/2021 privind constituirea Comisiei locale de Ordine Publică a Comunei NICOLAE BĂLCESCU,județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23229",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-35-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/35",
+   "short": "HCL Nicolae Bălcescu nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 35/2021 privind aprobarea Planlui de pază al Comunei NICOLAE BĂLCESCU,județul Bacău, pentru anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23230",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-36-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/36",
+   "short": "HCL Nicolae Bălcescu nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 36/2021 privind aprobarea Planului de siguranță și ordine publică al Comunei NICOLAE BĂLCESCU pentru anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23231",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-37-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/37",
+   "short": "HCL Nicolae Bălcescu nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 37/2021 privind aprobarea Regulamentului de organizare și funcționare al Biroului de Poliție Locală din cadrul aparatului de specialitate al primarului comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23232",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-39-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/39",
+   "short": "HCL Nicolae Bălcescu nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 39/2021 privind aprobarea modernizării sistemului de supraveghere video din comuna Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23234",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-4-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/4",
+   "short": "HCL Nicolae Bălcescu nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 4/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19340",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-40-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/40",
+   "short": "HCL Nicolae Bălcescu nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 40/2021 privind aprobarea bugetului comunei Nicolae Bălcescu, pe anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23531",
+   "versions": [
+    {
+     "from": "2021-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/23531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-41-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/41",
+   "short": "HCL Nicolae Bălcescu nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 41/2021 privind implementarea proiectului „CREȘTEREA CALITĂȚII SERVICIILOR LOCALE DE BAZĂ PRIN ACHIZIȚIA DE COMPACTOR ÎN COMUNA NICOLAE BĂLCESCU, JUDEȚUL BACĂU”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24761",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-42-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/42",
+   "short": "HCL Nicolae Bălcescu nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 42/2021 Pentru completarea H.C.L nr. 6 din 28.01.2021 privind stabilirea coeficienților de salarizare la nivelul Comunei Nicolae Bălcescu, județul Bacău pentru anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24762",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-43-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/43",
+   "short": "HCL Nicolae Bălcescu nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 43/2021 Privind aprobarea modificarilor tehnice și financiare survenite în execuția lucrarilor pentru investitia’’Construire dispensar uman in sat Nicolae Balcescu, comuna Nicolae Balcescu, judetul Bacau”, finanțat prin Programul Național de Dezvoltare Locală, inclusiv actualizarea devizului general",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24763",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-45-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/45",
+   "short": "HCL Nicolae Bălcescu nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 45/2021 privind indexarea impozitelor şi taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24765",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-46-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/46",
+   "short": "HCL Nicolae Bălcescu nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 46/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24766",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-47-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/47",
+   "short": "HCL Nicolae Bălcescu nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 47/2021 Privind acordarea unui stimulent financiar pentru nou-născuți",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24767",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-48-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/48",
+   "short": "HCL Nicolae Bălcescu nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 48/2021 privind actualizarea Devizului General pentru obiectivul de investiţie „Modernizare reţea de drumuri de interes local în comuna Nicolae Bălcescu, judeţul Bacău”, finanțat prin PNDR 2014-2020, ca urmare a modificărilor tehnice și financiare survenite în execuția lucrărilor",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24768",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-49-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/49",
+   "short": "HCL Nicolae Bălcescu nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 49/2021 privind aprobarea conturilor de execuție pentru bugetul local și bugetul activitatilor finantate din venituri proprii pe trim. I 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24769",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-50-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/50",
+   "short": "HCL Nicolae Bălcescu nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 50/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24770",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-51-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/51",
+   "short": "HCL Nicolae Bălcescu nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 51/2021 privind repartizarea sumei de 285 mii lei din bugetul local al Comunei Nicolae Bălcescu, județul Bacău, pe anul 2021 pentru susținerea cultelor",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24771",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-52-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/52",
+   "short": "HCL Nicolae Bălcescu nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 52/2021 privind aprobarea Regulamentului pentru stabilirea condițiilor de exercitare a dreptului de acces pe proprietatea publica și privată a Comunei Nicolae Bălcescu în vederea instalării, intreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură necesare susținerii acestora, a modului de utilizare partajată a elementelor de infrastructură, precum și măsurile privind construirea de rețele noi de comunicații electronice",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24772",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/24772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-53-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/53",
+   "short": "HCL Nicolae Bălcescu nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 53/2021 privind aprobarea și completarea prețurilor/tarifelor pentru unele servicii publice de alimentare cu apă și de canalizare",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/26853",
+   "versions": [
+    {
+     "from": "2021-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/26853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-56-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/56",
+   "short": "HCL Nicolae Bălcescu nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 56/2021 Pentru aprobarea Regulamentului privind emiterea acordului prealabil, a autorizaţiei de amplasare şi/sau de acces în zona drumului public, a încheierii contractului pentru utilizare şi acces în zona drumului public, precum şi condiţiile privind amplasarea construcţiilor, instalaţiilor şi panourilor publicitare în zona drumului, pe poduri, pasaje, viaducte şi tuneluri rutiere",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/26856",
+   "versions": [
+    {
+     "from": "2021-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/26856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-58-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/58",
+   "short": "HCL Nicolae Bălcescu nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 58/2021 Privind atestarea inventarului bunurilor care alcătuiesc domeniul public al comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/26858",
+   "versions": [
+    {
+     "from": "2021-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/26858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-6-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/6",
+   "short": "HCL Nicolae Bălcescu nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 6/2021 privind stabilirea coeficienților de salarizare la nivelul Comunei Nicolae Bălcescu, județul Bacău pentru anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19342",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-60-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/60",
+   "short": "HCL Nicolae Bălcescu nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 60/2021 privind acordarea burselor școlare pentru anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/26860",
+   "versions": [
+    {
+     "from": "2021-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/26860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-61-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/61",
+   "short": "HCL Nicolae Bălcescu nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 61/2021 privind aprobarea participării Comunei Nicolae Bălcescu la PROGRAMUL NAȚIONAL DE CONSTRUCȚII DE INTERES PUBLIC SAU SOCIAL” in vederea obținerii finanțării neramburabile pentru obiectivul de învestiție “Reabilitarea, modernizarea și extinderea Căminului Cultural din comuna Nicolae Bălcescu, județul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/26861",
+   "versions": [
+    {
+     "from": "2021-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/26861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-62-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/62",
+   "short": "HCL Nicolae Bălcescu nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 62/2021 Pentru modificarea și completarea H.C.L nr. 52/2021 privind aprobarea Regulamentului pentru stabilirea condițiilor de exercitare a dreptului de acces pe proprietatea publica și privată a Comunei Nicolae Bălcescu în vederea instalării, intreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură necesare susținerii acestora, a modului de utilizare partajată a elementelor de infrastructură, precum și măsurile privind construirea de rețele noi de comunicații electronice",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/26862",
+   "versions": [
+    {
+     "from": "2021-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/26862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-64-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/64",
+   "short": "HCL Nicolae Bălcescu nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 64/2021 pentru modificarea H.C.L 48 din 19.05.2021 privind actualizarea Devizului General pentru obiectivul de investiţie „Modernizare reţea de drumuri de interes local în comuna Nicolae Bălcescu, judeţul Bacău”, finanțat prin PNDR 2014-2020, ca urmare a modificărilor tehnice și financiare survenite în execuția lucrărilor",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/26926",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/26926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-65-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/65",
+   "short": "HCL Nicolae Bălcescu nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 65/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/28749",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/28749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-66-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/66",
+   "short": "HCL Nicolae Bălcescu nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 66/2021 privind aprobarea modificării Statului de funcții al aparatului de specialitate al primarului comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/28750",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/28750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-68-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/68",
+   "short": "HCL Nicolae Bălcescu nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 68/2021 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru perioada 2021-2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/29097",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/29097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-69-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/69",
+   "short": "HCL Nicolae Bălcescu nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 69/2021 privind aprobarea Contractului de asociere cu Județul Bacău în vederea finanțării activității de protecție de tip rezidențial a persoanei cu handicap pentru anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/29098",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/29098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-7-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/7",
+   "short": "HCL Nicolae Bălcescu nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 7/2021 privind aprobarea semnării unui act adițional la Contractul de asociere nr. 1038 din 21.05.2014 în contextul implementării de către Fundația YANA a proiectului “ Formăm Viitorul“, finanțat de fondul Român de Dezvoltare Socială din Granturile Norvegiene în cadrul Programului “ Dezvoltare locală – Educație Incluzivă pentru Copii și Tineri în Situații de Risc “ prin activități finanțate la Centrul de Zi pentru Copilul Aflat în Dificultate “Casa YANA” și “Casa HEIDY” și în Școala Gimnazială “Nicolae Bălcescu” și Școala Gimnazială nr.1 Valea-Seacă din comuna Nicolae Balcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19343",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-70-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/70",
+   "short": "HCL Nicolae Bălcescu nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 70/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/31400",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/31400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-72-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/72",
+   "short": "HCL Nicolae Bălcescu nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 72/2021 privind aprobarea conturilor de executie pentru bugetul local si bugetul activitatilor finantate din venituri proprii pe trim. II 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/31402",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/31402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-73-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/73",
+   "short": "HCL Nicolae Bălcescu nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 73/2021 privind aprobarea decontării contribuției datorate pentru exercitarea activității de audit, efectuarea regularizării sumelor plătite si rezilierea Acordului de cooperare privind organizarea si exercitarea activității de audit public intern la nivelul Filialei Județene Bacau a ACOR",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/31403",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/31403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-74-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/74",
+   "short": "HCL Nicolae Bălcescu nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 74/2021 privind anularea accesoriilor în cazul obligaţiilor bugetare restante la 31 martie 2020 datorate bugetului local al Comunei Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/31404",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/31404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-75-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/75",
+   "short": "HCL Nicolae Bălcescu nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 75/2021 privind aprobarea rectificarii bugetului local pe anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/31405",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/31405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-76-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/76",
+   "short": "HCL Nicolae Bălcescu nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 76/2021 privind bugetarea participativă la nivelul Comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/32808",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/32808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-77-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/77",
+   "short": "HCL Nicolae Bălcescu nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 77/2021 privind aprobarea Regulamentului pentru acordarea premiilor elevilor care au obținut distincții, medalii și premii speciale la olimpiade și concursuri școlare",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/32809",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/32809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-78-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/78",
+   "short": "HCL Nicolae Bălcescu nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 78/2021 Privind modificarea și completarea HCL. 6 /06.02.2014 și HCL 14/26.02.2014",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/32810",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/32810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-79-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/79",
+   "short": "HCL Nicolae Bălcescu nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 79/2021 privind aprobarea rectificarii bugetului local pe anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/32811",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/32811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-8-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/8",
+   "short": "HCL Nicolae Bălcescu nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 8/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19344",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-80-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/80",
+   "short": "HCL Nicolae Bălcescu nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 80/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/32812",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/32812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-81-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/81",
+   "short": "HCL Nicolae Bălcescu nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 81/2021 privind prelungirea termenului de valabilitate a Planului Urbanistic General și a Regulamentului Local de Urbanism al Comunei Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34217",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-83-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/83",
+   "short": "HCL Nicolae Bălcescu nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 83/2021 privind primirea Comunei Berești Bistrița în calitate de membru la Asociația de Dezvoltare Intercomunitară Bacău – ADIB și modificarea Actului Constitutiv și a Statului acesteia",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34219",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-84-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/84",
+   "short": "HCL Nicolae Bălcescu nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 84/2021 privind aprobarea rectificarii bugetului local pe anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34220",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-85-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/85",
+   "short": "HCL Nicolae Bălcescu nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 85/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34221",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-86-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/86",
+   "short": "HCL Nicolae Bălcescu nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 86/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34222",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-87-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/87",
+   "short": "HCL Nicolae Bălcescu nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 87/2021 privind participarea Comunei Nicolae Bălcescu la elaborarea Studiului de oportunitate și de fundamentare pentru delegarea gestiunii serviciului public local de călători prin curse regulate în Municipiul Bacău și Zona Metropolitană, a Regulamentului serviciului, a documentației de atribuire și la elaborarea unui Studiu de trafic pentru tren urban",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34987",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-89-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/89",
+   "short": "HCL Nicolae Bălcescu nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 89/2021 privind modificarea listei de investiții pe anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34989",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-9-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/9",
+   "short": "HCL Nicolae Bălcescu nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 9/2021 privind aprobarea documentaţiei tehnico-economice – faza PTh şi a indicatorilor tehnico-economici pentru “Realizare măsuri ISU la Grădiniţa Nicolae Bălcescu, comuna Nicolae Bălcescu, judeţul Bacău, conform Avizului ISU”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19345",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/19345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-90-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/90",
+   "short": "HCL Nicolae Bălcescu nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 90/2021 privind aprobarea rectificarii bugetului local pe anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34990",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-91-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/91",
+   "short": "HCL Nicolae Bălcescu nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 91/2021 Privind modificarea Organigramei și Statului de funcții al aparatului de specialitate al primarului comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34991",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/34991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-92-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/92",
+   "short": "HCL Nicolae Bălcescu nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 92/2021 Privind anularea obligațiilor fiscale datorate de debitori, persoane juridice, radiați din Registrul Comerțului și scăderea societăților radiate din evidența fiscală",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36801",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-93-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/93",
+   "short": "HCL Nicolae Bălcescu nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 93/2021 privind aprobarea rectificarii bugetului local pe anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36802",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-94-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/94",
+   "short": "HCL Nicolae Bălcescu nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 94/2021 pentru modificarea HCL nr.64 din 16.06.2021 pentru actualizarea indicatorilor tehnico-economici, respectiv a devizului general, privind investiția „Modernizare reţea de drumuri de interes local în comuna Nicolae Bălcescu, judeţul Bacău”, finanţat prin PNDR 2014 – 2020",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36803",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-95-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/95",
+   "short": "HCL Nicolae Bălcescu nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 95/2021 privind acordul de principiu în legătură cu posibilitatea de a participa la cofinanţarea obiectivelor sistemului de distribuţie:,,Infiintare retea de distributie gaze naturale in satul Galbeni, comuna Nicolae Balcescu, judetul Bacau” si ,,Infiintare retea de distributie gaze naturale in satul Valea Seaca si Buchila , comuna Nicolae Balcescu, judetul Bacau”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36804",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-96-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/96",
+   "short": "HCL Nicolae Bălcescu nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 96/2021 pentru modificarea HCL nr.21 din 27.02.2019 pentru actualizarea indicatorilor tehnico-economici, respectiv a devizului general, privind investiția „Construire Clădire Multifuncţională în sat Valea Seacă, comuna Nicolae Bălcescu, judeţul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36805",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-97-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/97",
+   "short": "HCL Nicolae Bălcescu nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 97/2021 privind modificarea art.5 și art.6 din HCL 40/26.04.2021 privind aprobarea bugetului local al comunei Nicolae Bălcescu pe anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36806",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-98-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/98",
+   "short": "HCL Nicolae Bălcescu nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 98/2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36807",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-99-2021",
+   "path": "local/bacau/nicolae-balcescu/2021/99",
+   "short": "HCL Nicolae Bălcescu nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 99/2021 privind modificarea listei de investiții pe anul 2021",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36808",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/36808",
      "sha256": null
     }
    ]

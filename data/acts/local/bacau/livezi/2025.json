@@ -1,0 +1,52 @@
+{
+"country": "RO",
+"shard": "local/bacau/livezi/2025",
+"acts": [
+{
+"slug": "hcl-bacau--livezi-60-2025",
+"path": "local/bacau/livezi/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezi nr. 60/2025",
+"short": "HCL Livezi nr. 60/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": null,
+"council": "bacau/livezi",
+"council_name": "Consiliul Local al Comunei Livezi",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--livezi-61-2025",
+"path": "local/bacau/livezi/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezi nr. 61/2025",
+"short": "HCL Livezi nr. 61/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": null,
+"council": "bacau/livezi",
+"council_name": "Consiliul Local al Comunei Livezi",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+}
+]
+}

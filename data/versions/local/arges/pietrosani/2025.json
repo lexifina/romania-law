@@ -3,6 +3,306 @@
  "shard": "local/arges/pietrosani/2025",
  "acts": [
   {
+   "slug": "hcl-arges--pietrosani-1-2025",
+   "path": "local/arges/pietrosani/2025/1",
+   "short": "HCL Pietroșani nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 1/2025 privind aprobarea utilizării excedentului bugetar al anilor precedenti în exercițiul financiar al anului 2025 pentru secțiunea de funcționare, în vederea acoperirii temporare a golului de casă",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217015",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-10-2025",
+   "path": "local/arges/pietrosani/2025/10",
+   "short": "HCL Pietroșani nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 10/2025 privind aplicarea planului local de masuri pentru gestionarea deseurilor municipale",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217058",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-12-2025",
+   "path": "local/arges/pietrosani/2025/12",
+   "short": "HCL Pietroșani nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 12/2025 privind aprobarea obiectivului de investitii ” Cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice- Sediu primarie, sat Pietrosani, comuna Pietrosani, judetul Arges”",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217060",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-13-2025",
+   "path": "local/arges/pietrosani/2025/13",
+   "short": "HCL Pietroșani nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 13/2025 privind aprobarea bugetului de venituri si cheltuieli al comunei Pietrosani pe anul 2025",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217061",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-15-2025",
+   "path": "local/arges/pietrosani/2025/15",
+   "short": "HCL Pietroșani nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 15/2025 privind rectificarea bugetului de venituri si cheltuieli comunei Pietrosani pe anul 2025",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217073",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-16-2025",
+   "path": "local/arges/pietrosani/2025/16",
+   "short": "HCL Pietroșani nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 16/2025 privind aprobarea participării comunei PIETROSANI, la Programul privind acordarea de sprijin în vederea achiziţionării de aparate pentru încălzirea locuinţelor,pentru localităţile din zona montană, program finanţat din Fondul pentru mediu",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217074",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-18-2025",
+   "path": "local/arges/pietrosani/2025/18",
+   "short": "HCL Pietroșani nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 18/2025 privind aprobarea executiei bugetare pentru anul 2024",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217181",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-19-2025",
+   "path": "local/arges/pietrosani/2025/19",
+   "short": "HCL Pietroșani nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 19/2025 privind aprobarea “Planului de acţiune comunitară pe anul 2025” prevăzut de Legea nr.196/2016, privind venitul minim de incluziune, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217182",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-2-2025",
+   "path": "local/arges/pietrosani/2025/2",
+   "short": "HCL Pietroșani nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 2/2025 privind aprobarea structurii retelei scolare din comuna Pietrosani, pe nivele de invatamant, pentru anul scolar 2025-2026",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217016",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-20-2025",
+   "path": "local/arges/pietrosani/2025/20",
+   "short": "HCL Pietroșani nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 20/2025 privind aprobarea devizului general estimativ actualizat pentru obiectivul de investiții „Înființarea sistemului inteligent de distribuție a gazelor naturale în comuna Pietroșani, județul Argeș, cu satele: Pietroșani, Bădești, Vărzăroaia, Retevoiești și Gănești”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217463",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-21-2025",
+   "path": "local/arges/pietrosani/2025/21",
+   "short": "HCL Pietroșani nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 21/2025 privind privind aprobarea iniţierii demersurilor de actualizare a Planului Urbanistic General (P.U.G.) si a Regulamentului Local de Urbanism (R.L.U.) al Comunei PIETROSANI, cu localitățile componente: Pietrosani, Badesti, Varzaroaia, Retevoiesti si Ganesti,transpunerea in format digital a PUG precum si servicii elaborare studii de fundamentare necesare PUG",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217619",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-22-2025",
+   "path": "local/arges/pietrosani/2025/22",
+   "short": "HCL Pietroșani nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 22/2025 privind aprobarea modului de întocmire și ținere a registrului agricol pentru perioada 2025 - 2029, la nivelul Unității Administrativ-Teritoriale Comuna Pietrosanii, județul Arges",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217620",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-23-2025",
+   "path": "local/arges/pietrosani/2025/23",
+   "short": "HCL Pietroșani nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 23/2025 privind aprobarea lucrarii de investitie: Reparatii Scoala Generala cu clasele I-IV,sat Ganesti, comuna Pietrosani, jud.Arges",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217862",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-24-2025",
+   "path": "local/arges/pietrosani/2025/24",
+   "short": "HCL Pietroșani nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 24/2025 privind aprobarea obiectivului de investitie “ EXTINDERE si SUBTRAVERSARI ,AFERENTE RETELEI DE ALIMENTARE CU APA IN VEDEREA BRANSARII COMUNA PIETROSANI, JUDETUL ARGES\"",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217863",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-26-2025",
+   "path": "local/arges/pietrosani/2025/26",
+   "short": "HCL Pietroșani nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 26/2025 privind aprobarea lucrarii de investitie ” Reparatii interioare ,Scoala Noua,Sat Pietrosani, comuna Pietrosani ,jud. Arges in vederea obtinerii autorizatiei ISU",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217865",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-27-2025",
+   "path": "local/arges/pietrosani/2025/27",
+   "short": "HCL Pietroșani nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 27/2025 privind aprobarea proiectului \"Hotarare privind inlocuire tronson conducta aductiune apa potabila in pct-ul Corbsori-sat Stanesti,comuna Corbi-jud.Arges, intre punctele DJ 731-km 34+009 si DJ 731 km 34+234’’",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217866",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-29-2025",
+   "path": "local/arges/pietrosani/2025/29",
+   "short": "HCL Pietroșani nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 29/2025 Privind aprobarea rectificarii bugetului de venituri si cheltuieli pentru anul 2025",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/222074",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/222074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-3-2025",
+   "path": "local/arges/pietrosani/2025/3",
+   "short": "HCL Pietroșani nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 3/2025 privind aprobarea Raportului de activitate Registrul Agricol, pentru anul 2024",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217017",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-30-2025",
+   "path": "local/arges/pietrosani/2025/30",
+   "short": "HCL Pietroșani nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 30/2025 privind aprobarea contractului de asociere dintre: Centrul ” DOINA ARGESULUI” si Primaria Comunei Pietrosani, privind infiintarea sectiei externe de Sculptura in lemn",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/222075",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/222075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-31-2025",
+   "path": "local/arges/pietrosani/2025/31",
+   "short": "HCL Pietroșani nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 31/2025 privind aprobarea contractului de asociere dintre: Centrul ” DOINA ARGESULUI” si Primaria Comunei Pietrosani, privind infiintarea sectiei externe de tesut -cusut",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/222076",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/222076",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--pietrosani-32-2025",
    "path": "local/arges/pietrosani/2025/32",
    "short": "HCL Pietroșani nr. 32/2025",
@@ -118,6 +418,21 @@
      "from": "2025-10-24",
      "units": 1,
      "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/231301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-4-2025",
+   "path": "local/arges/pietrosani/2025/4",
+   "short": "HCL Pietroșani nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 4/2025 privind aprobarea Raportului privind activitatea asistentilor personali ai persoanelor cu handicap pe semestrul II AL ANULUI 2024",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217018",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217018",
      "sha256": null
     }
    ]
@@ -273,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--pietrosani-5-2025",
+   "path": "local/arges/pietrosani/2025/5",
+   "short": "HCL Pietroșani nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 5/2025 privind stabilirea de masuri necesare pentru interzicerea abandonarii, aruncarii necontrolate a deseurilor sau gestionarii neconforme a deseurilor cu ierarhia acestora",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217020",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217020",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--pietrosani-50-2025",
    "path": "local/arges/pietrosani/2025/50",
    "short": "HCL Pietroșani nr. 50/2025",
@@ -298,6 +628,66 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/254351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-6-2025",
+   "path": "local/arges/pietrosani/2025/6",
+   "short": "HCL Pietroșani nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 6/2025 privind aprobarea modificarii structurii organizatorice a bibliotecii comunale in subordinea consilului local prin actualizarea organigramei si a statului de functii, aprobarea stabilirii functiilor specifice necesare activitatilor din administratia publica locala si aprobarea planului de pefectionare profesionala a functionarilor publici",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217021",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-7-2025",
+   "path": "local/arges/pietrosani/2025/7",
+   "short": "HCL Pietroșani nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 7/2025 privind aprobarea Planul Anual de acţiune privind serviciile sociale, la nivelul Comunei PIETROSANI pe anul 2025",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217055",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-8-2025",
+   "path": "local/arges/pietrosani/2025/8",
+   "short": "HCL Pietroșani nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 8/2025 privind aprobarea protocolului de colaborare între Consiliul Județean Argeș și Consiliul Local Pietroșani, județul Argeș, privind echipamentele de tip servere și licențe software aferente",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217056",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-9-2025",
+   "path": "local/arges/pietrosani/2025/9",
+   "short": "HCL Pietroșani nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 9/2025 privind stabilirea perioadei de păşunat pe teritoriul comunei PIETROSANI , judeţul Argeş",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/217057",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/217057",
      "sha256": null
     }
    ]

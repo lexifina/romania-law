@@ -3,6 +3,201 @@
  "shard": "local/bacau/secuieni/2025",
  "acts": [
   {
+   "slug": "hcl-bacau--secuieni-1-2025",
+   "path": "local/bacau/secuieni/2025/1",
+   "short": "HCL Secuieni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 1/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat in urma finalizării procedurii de achiziție publică pentru obiectivul de investiții „Modernizarea infrastructurii rutiere din comuna Secuieni, județul Bacău”, finanțat prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/189112",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/189112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-10-2025",
+   "path": "local/bacau/secuieni/2025/10",
+   "short": "HCL Secuieni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 10/2025 privind aprobarea înființării SERVICIULUI PUBLIC LOCAL DE GESTIONARE A CÂINILOR FĂRĂ STĂPÂN și a REGULAMENTULUI DE ORGANIZARE ȘI DESFAȘURARE A SERVICIULUI la nivelul Comunei Secuieni, județul Bacău",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/207729",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/207729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-11-2025",
+   "path": "local/bacau/secuieni/2025/11",
+   "short": "HCL Secuieni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 11/2025",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/207730",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/207730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-12-2025",
+   "path": "local/bacau/secuieni/2025/12",
+   "short": "HCL Secuieni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 12/2025",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/211960",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/211960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-13-2025",
+   "path": "local/bacau/secuieni/2025/13",
+   "short": "HCL Secuieni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 13/2025",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/211961",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/211961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-14-2025",
+   "path": "local/bacau/secuieni/2025/14",
+   "short": "HCL Secuieni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 14/2025 privind aprobarea bugetului de venituri și cheltuieli a comunei Secuieni pe anul 2025",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/211962",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/211962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-15-2025",
+   "path": "local/bacau/secuieni/2025/15",
+   "short": "HCL Secuieni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 15/2025 privind aprobarea contului anual de execuție al bugetului local al comunei Secuieni și a situațiilor financiare pentru anul 2024",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/215711",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/215711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-16-2025",
+   "path": "local/bacau/secuieni/2025/16",
+   "short": "HCL Secuieni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 16/2025",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/215710",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/215710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-17-2025",
+   "path": "local/bacau/secuieni/2025/17",
+   "short": "HCL Secuieni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 17/2025 privind creșterea transparenței cheltuirii banilor publici la nivelul Primăriei Comunei Secuieni, jud. Bacău",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/215709",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/215709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-18-2025",
+   "path": "local/bacau/secuieni/2025/18",
+   "short": "HCL Secuieni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 18/2025 privind rectificarea bugetului de venituri şi cheltuieli a comunei Secuieni pe anul 2025",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/215727",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/215727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-19-2025",
+   "path": "local/bacau/secuieni/2025/19",
+   "short": "HCL Secuieni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 19/2025 privind modificarea statului de funcţii personalului din cadrul Serviciului Public Comunitar Local din subordinea Consiliului Local Secuieni",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/215726",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/215726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-2-2025",
+   "path": "local/bacau/secuieni/2025/2",
+   "short": "HCL Secuieni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 2/2025 privind aderarea la sistemul de cooperare pentru organizarea și exercitarea activității de audit public intern la nivelul Filialei Județene Bacău a Asociației Comunelor din România",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/189113",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/189113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-20-2025",
+   "path": "local/bacau/secuieni/2025/20",
+   "short": "HCL Secuieni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 20/2025",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/219797",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/219797",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-24-2025",
    "path": "local/bacau/secuieni/2025/24",
    "short": "HCL Secuieni nr. 24/2025",
@@ -243,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-4-2025",
+   "path": "local/bacau/secuieni/2025/4",
+   "short": "HCL Secuieni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 4/2025 privind aprobarea constituirii Consiliului Comunitar Consultativ la nivelul comunei Secuieni pentru perioada 2025-2028",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/195410",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/195410",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-40-2025",
    "path": "local/bacau/secuieni/2025/40",
    "short": "HCL Secuieni nr. 40/2025",
@@ -298,6 +508,66 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/244650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-5-2025",
+   "path": "local/bacau/secuieni/2025/5",
+   "short": "HCL Secuieni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 5/2025",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/195411",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/195411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-6-2025",
+   "path": "local/bacau/secuieni/2025/6",
+   "short": "HCL Secuieni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 6/2025 privind utilizarea în anul 2025 a excedentului bugetar al anilor precedenți",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/197028",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/197028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-8-2025",
+   "path": "local/bacau/secuieni/2025/8",
+   "short": "HCL Secuieni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 8/2025 privind aprobarea bugetului de venituri şi cheltuieli a comunei Secuieni pe anul 2025",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/202706",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/202706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-9-2025",
+   "path": "local/bacau/secuieni/2025/9",
+   "short": "HCL Secuieni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 9/2025 privind aprobarea valorii de investitie și aprobarea solicitarii scrisorii de garantie din partea Fondului de Garantare a Creditului Rural IFN SA pentru proiectul „MODERNIZARE INFRASTRUCTURA RUTIERA IN COMUNA SECUIENI, JUDETUL BACAU”",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/207728",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/207728",
      "sha256": null
     }
    ]

@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--gura-vaii-40-2026",
+   "path": "local/bacau/gura-vaii/2026/40",
+   "short": "HCL Gura Văii nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Văii nr. 40/2026 privind aprobarea regulamentului privind stabilirea unor forme de sprijin financiar de la bugetul local al comunei Gura Văii, județul Bacău, pentru unitățile de cult aparținând cultelor religioase recunoscute din România",
+   "url": "https://uatcomunaguravaii.ro/hotarari-c-l/hotarari-consiliul-local-gura-vaii-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://uatcomunaguravaii.ro/wp-content/uploads/2026/05/hcl-40.pdf",
+     "sha256": "d886a38b9e67900b740654e17766d8057677a58ecc86eee4dce21c9e75a63b9e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--gura-vaii-44-2026",
    "path": "local/bacau/gura-vaii/2026/44",
    "short": "HCL Gura Văii nr. 44/2026",

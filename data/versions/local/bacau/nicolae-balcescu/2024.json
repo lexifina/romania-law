@@ -3,6 +3,36 @@
  "shard": "local/bacau/nicolae-balcescu/2024",
  "acts": [
   {
+   "slug": "hcl-bacau--nicolae-balcescu-1-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/1",
+   "short": "HCL Nicolae Bălcescu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 1/2024 privind avizarea rețelei de învățământ din comuna Nicolae Bălcescu pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142110",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-10-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/10",
+   "short": "HCL Nicolae Bălcescu nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 10/2024 privind aprobarea participării Comunei Nicolae Bălcescu la apelul de proiecte cu titlul „Finanțarea bibliotecilor din județul Bacău pentru a deveni hub-uri de dezvoltare a competențelor digitale și dotarea cu echipamente IT\" din cadrul Planului Național de Redresare și Reziliență (PNNR), Componenta 7. Transformare digitală, Operațiunea Competențe digitale, Capital Uman și Utilizarea Internetului, Investiția I17. Scheme de finanțare pentru biblioteci pentru a deveni hub-uri de dezvoltare a competențelor digitale, Apel de proiecte numărul 2 - Finanțarea bibliotecilor pentru a deveni hub-uri de dezvoltare a componentelor digitale și aprobarea Acordului de parteneriat al proiectului",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142122",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142122",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--nicolae-balcescu-100-2024",
    "path": "local/bacau/nicolae-balcescu/2024/100",
    "short": "HCL Nicolae Bălcescu nr. 100/2024",
@@ -73,6 +103,1026 @@
      "from": "2025-10-28",
      "units": 1,
      "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/185770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-11-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/11",
+   "short": "HCL Nicolae Bălcescu nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 11/2024 privind utilizarea definitivă a excedentului din anii precedenți, aferent bugetului local al Comunei Nicolae Bălcescu pe anul 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142123",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-12-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/12",
+   "short": "HCL Nicolae Bălcescu nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 12/2024 privind aprobarea bugetului comunei Nicolae Bălcescu pe anul 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142131",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-13-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/13",
+   "short": "HCL Nicolae Bălcescu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 13/2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142132",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-14-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/14",
+   "short": "HCL Nicolae Bălcescu nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 14/2024 privind majorarea taxei de concesiune cu indicele de inflatie pentru anul 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142133",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-15-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/15",
+   "short": "HCL Nicolae Bălcescu nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 15/2024 privind aprobarea documentaţiei şi indicatorilor tehnico-economici, faza PTh pentru obiectivul de investiţii \"Extinderea reţelei de apã şi canalizare în satele Valea Seacã şi Nicolae Bãlcescu din comuna Nicolae Bãlcescu, judeţul Bacãu”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142134",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-16-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/16",
+   "short": "HCL Nicolae Bălcescu nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 16/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152343",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-17-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/17",
+   "short": "HCL Nicolae Bălcescu nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 17/2024 privind aprobarea conturilor de execuție pentru bugetul local și bugetul activităților finanțate din venituri proprii pe trim. IV 2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152344",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-18-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/18",
+   "short": "HCL Nicolae Bălcescu nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 18/2024 privind avizare PUZ „CONSTRUIRE HALĂ DEPOZITARE, BIROURI ȘI ÎMPREJMUIRE TEREN” în comuna Nicolae Bălcescu, Județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152345",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-19-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/19",
+   "short": "HCL Nicolae Bălcescu nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 19/2024 privind aprobarea documentaţiei şi indicatorilor tehnico-economici, faza PTh, pentru obiectivul de investiţii ''Amenajare si modernizare Piaţã Jitãrie, sat Galbeni, comuna Nicolae Bălcescu, județul Bacău''",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152346",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-2-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/2",
+   "short": "HCL Nicolae Bălcescu nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 2/2024 privind aprobarea documentaţiei şi indicatorilor tehnico-economici, faza DALI, pentru obiectivul de investiţii ''Amenajare si modernizare Piaţã Jitãrie, sat Galbeni, comuna Nicolae Bălcescu, județul Bacău''",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142111",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-20-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/20",
+   "short": "HCL Nicolae Bălcescu nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 20/2024 pentru modificarea tronsonului 2 de drum DS 3154/2 Strada Neptun în două loturi",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152347",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-21-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/21",
+   "short": "HCL Nicolae Bălcescu nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 21/2024 privind aprobarea rectificarii bugetului local pe anul 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152348",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-23-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/23",
+   "short": "HCL Nicolae Bălcescu nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 23/2024 privind aprobarea destinației sumelor alocate de la bugetul local pe anul 2024 pentru susținerea cultelor religioase",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152350",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-24-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/24",
+   "short": "HCL Nicolae Bălcescu nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 24/2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152351",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-25-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/25",
+   "short": "HCL Nicolae Bălcescu nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 25/2024 privind apobarea participării Comunei Nicolae Balcescu la actiuni de promovare și mediatizare a necesității donării de sânge",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152352",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-26-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/26",
+   "short": "HCL Nicolae Bălcescu nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 26/2024 privind împuternicirea primarului comunei Nicolae Bălcescu să reprezinte Consiliul Local al comunei Nicolae Bălcescu în dosarul 2793/110/2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152353",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-27-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/27",
+   "short": "HCL Nicolae Bălcescu nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 27/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat după finalizarea procedurilor de achiziție publică, pentru obiectivul de investiții \"Modernizare drumuri de interes local în satele Nicolae Bălcescu, Galbeni si Valea Seacă, comuna Nicolae Bălcescu, judetul Bacău”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny” ”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152367",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-28-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/28",
+   "short": "HCL Nicolae Bălcescu nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 28/2024 privind aprobarea tarifelor pentru chiria spațiilor medicale din comuna Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152368",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-29-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/29",
+   "short": "HCL Nicolae Bălcescu nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 29/2024 privind înregistrarea Comunei Nicolae Balcescu în platforma online CityOn, a plăților prin intermediul acesteia utilizând cardul bancar și stabilirea modului în care este suportat comisionul bancar",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152369",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-30-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/30",
+   "short": "HCL Nicolae Bălcescu nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 30/2024 privind actualizarea devizului general, după finalizarea procedurilor de achiziţie, pentru obiectivul de investiţii “Modernizare străzi limitrofe, în satele Nicolae Bãlcescu, Valea Seacã, din comuna Nicolae Bălcescu, județul Bacău” precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152370",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-32-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/32",
+   "short": "HCL Nicolae Bălcescu nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 32/2024 privind actualizarea indicatorilor tehnico-economici şi a devizului general, faza PTh, aprobaţi prin HCL nr. 8/2024, pentru obiectivul de investiții „Modernizare drumuri locale în satele Nicolae Bălcescu, Valea Seacă, Galbeni și Buchila din comuna Nicolae Bălcescu, judeţul Bacău” aprobat spre finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152372",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-33-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/33",
+   "short": "HCL Nicolae Bălcescu nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 33/2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152373",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-35-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/35",
+   "short": "HCL Nicolae Bălcescu nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 35/2024 privind aprobarea Notei Conceptuale, Temei de proiectare şi achiziţionarea serviciului de proiectare faza SF/DALI, pentru obiectivul de investiţii „Extindere sistem de distribuţie gaze naturale în comuna Nicolae Bălcescu, judeţul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152375",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-36-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/36",
+   "short": "HCL Nicolae Bălcescu nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 36/2024 pentru modificarea suprafeței imobilului (strada Budăilor, localitatea Nicolae Bălcescu) aflat în domeniul public al comunei Nicolae Bălcescu de la poziția 1 din HCL 79/13.12.2019 din suprafața de 2703 mp în suprafața de 2904 mp, urmând procedura de actualizarea a inventarului bunurilor care alcătuiesc domeniul public al comunei",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152376",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-37-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/37",
+   "short": "HCL Nicolae Bălcescu nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 37/2024 privind actualizarea domeniului public al comunei Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152382",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/152382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-38-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/38",
+   "short": "HCL Nicolae Bălcescu nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 38/2024 privind aprobarea Notei Conceptuale, Temei de proiectare şi achiziţionarea serviciului de proiectare faza SF/DALI, PTh, pentru obiectivul de investiţii „Amenajare drum sat Lărguţa”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/153953",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/153953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-39-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/39",
+   "short": "HCL Nicolae Bălcescu nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 39/2024 privind includerea în proprietate privată a Comunei Nicolae Bălcescu a utilajului de tocat crengi JENSEN 530L cu motor ben 0000061531",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/153954",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/153954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-40-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/40",
+   "short": "HCL Nicolae Bălcescu nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 40/2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/153955",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/153955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-41-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/41",
+   "short": "HCL Nicolae Bălcescu nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 41/2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/153956",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/153956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-42-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/42",
+   "short": "HCL Nicolae Bălcescu nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 42/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/158084",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/158084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-43-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/43",
+   "short": "HCL Nicolae Bălcescu nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 43/2024 privind aprobarea conturilor de execuție pentru bugetul local și bugetul activităților finanțate din venituri proprii pe trim. I 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/158085",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/158085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-44-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/44",
+   "short": "HCL Nicolae Bălcescu nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 44/2024 privind achiziționarea unui autovehicul electric prin „ Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2020-2024”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/158086",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/158086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-45-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/45",
+   "short": "HCL Nicolae Bălcescu nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 45/2024 privind stabilirea amplasării unui parc de distracții cu ocazia Hramului din localitatea Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/158087",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/158087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-46-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/46",
+   "short": "HCL Nicolae Bălcescu nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 46/2024 privind aprobarea modificării listei de investiții pe anul 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/158088",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/158088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-47-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/47",
+   "short": "HCL Nicolae Bălcescu nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 47/2024 privind virarea contribuției anuale la Asociația de Dezvoltare Intercomunitară pentru Salubritate Bacău- ADIS pentru anul 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/160597",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/160597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-49-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/49",
+   "short": "HCL Nicolae Bălcescu nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 49/2024 privind actualizarea taxelor pentru utilizarea Căminelor Culturale din Comuna Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/160599",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/160599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-5-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/5",
+   "short": "HCL Nicolae Bălcescu nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 5/2024 privind aprobarea Planului de acțiuni sau lucrări de interes local pe anul 2024, pentru stabilirea activităților desfășurate de persoanele beneficiare de ajutorul de incluziune, acordat în baza Legii nr. 196/2016",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142114",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-50-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/50",
+   "short": "HCL Nicolae Bălcescu nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 50/2024 privind aprobarea modificării listei de investiții pe anul 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/160600",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/160600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-51-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/51",
+   "short": "HCL Nicolae Bălcescu nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 51/2024 privind aprobarea proiectului “Pelerinaj 7 capele” și cofinanțare cu suma de 50 mii lei din bugetul local al Comunei Nicolae Bălcescu, județul Bacău, pe anul 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/160601",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/160601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-53-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/53",
+   "short": "HCL Nicolae Bălcescu nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 53/2024 privind aprobarea rectificarii bugetului local pe anul 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/162709",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/162709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-54-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/54",
+   "short": "HCL Nicolae Bălcescu nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 54/2024 privind asocierea Comunei Nicolae Bălcescu cu Fundația YANA – You Are Not Alone Charitable Foundation, Comuna Mărgineni, Comuna Berzunți, Comuna Răcăciuni și Comuna Filipeni în vederea implementării proiectului „Acasă: acțiuni și servicii pentru prevenirea separării și consolidarea familiei de origine”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/162710",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/162710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-55-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/55",
+   "short": "HCL Nicolae Bălcescu nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 55/2024 privind aprobarea rectificarii bugetului local pe anul 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/165621",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/165621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-57-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/57",
+   "short": "HCL Nicolae Bălcescu nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 57/2024 privind aprobarea conturilor de execuție pentru bugetul local și bugetul activităților finanțate din venituri proprii pe trim. II 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/167885",
+   "versions": [
+    {
+     "from": "2024-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/167885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-58-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/58",
+   "short": "HCL Nicolae Bălcescu nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 58/2024 pentru modificarea HCL 23 din 27.02.2024 privind aprobarea destinației sumelor alocate de la bugetul local pe anul 2024 pentru susținerea cultelor religioase",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/167886",
+   "versions": [
+    {
+     "from": "2024-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/167886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-59-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/59",
+   "short": "HCL Nicolae Bălcescu nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 59/2024 privind modificarea și completarea HCL nr. 72 din 14.06.2023",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/167887",
+   "versions": [
+    {
+     "from": "2024-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/167887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-6-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/6",
+   "short": "HCL Nicolae Bălcescu nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 6/2024 privind aprobarea documentaţiei şi indicatorilor tehnico-economici, faza PTh pentru obiectivul de investiţii pentru obiectivul de investiție „Construire pod în Valea Seacã – Valea de Jos, comuna Nicolae Bãlcescu, judeţul Bacãu”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142115",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-60-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/60",
+   "short": "HCL Nicolae Bălcescu nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 60/2024 privind actualizarea domeniului public al comunei Nicolae Bălcescu cu înscrierea imobilului strada Toporașului (DS 3156/1) în inventarului bunurilor imobile care alcătuiesc domeniul public al comunei Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/167888",
+   "versions": [
+    {
+     "from": "2024-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/167888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-61-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/61",
+   "short": "HCL Nicolae Bălcescu nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 61/2024 privind aprobarea actualizării prețului contractului de proiectare și execuție lucrări nr. 13047/07-10-2022, aprobarea devizului general actualizat conform ORDONANȚEI DE URGENȚĂ nr. 47 din 14 aprilie 2022 și încheierea actului adițional aferente obiectivului de investiții „Realizarea și dezvoltarea sistemului de distribuție gaze naturale în localitățile Valea Seacă și Buchila, comuna Nicolae Bălcescu, județul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/167889",
+   "versions": [
+    {
+     "from": "2024-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/167889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-62-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/62",
+   "short": "HCL Nicolae Bălcescu nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 62/2024 privind aprobarea rectificarii bugetului local pe anul 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/167890",
+   "versions": [
+    {
+     "from": "2024-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/167890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-64-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/64",
+   "short": "HCL Nicolae Bălcescu nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 64/2024 pentru modificarea HCL 58 din 29.08.2024 privind aprobarea destinației sumelor alocate de la bugetul local pe anul 2024 pentru susținerea cultelor religioase",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171629",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-65-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/65",
+   "short": "HCL Nicolae Bălcescu nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 65/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat după finalizarea procedurilor de achiziție publică, pentru obiectivul de investiții \"Modernizare drumuri locale în satele Nicolae Bălcescu, Valea Seacă, Galbeni şi Buchila din comuna Nicolae Bălcescu, județul Bacău ” aprobat pentru finanțare prin Programul național de învestiții “Anghel Saligny ”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171630",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-66-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/66",
+   "short": "HCL Nicolae Bălcescu nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 66/2024 privind aprobarea documentației şi indicatorilor tehnico-economici, faza DALI, pentru obiectivul de învestiții ,,Amenajare teren sport Școala Valea Seacă, din comuna Nicolae Bălcescu, județul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171631",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-67-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/67",
+   "short": "HCL Nicolae Bălcescu nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 67/2024 privind aprobarea procedurii de publicare a listei debitorilor persoane juridice care înregistrează obligații fiscale restante, precum și cuantumul acestor obligații și procedurii de publicare a listelor debitorilor care nu înregistreaza obligații fiscale restante la bugetul local al comunei Nicolae Bălcescu, județul Bacău",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171632",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-68-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/68",
+   "short": "HCL Nicolae Bălcescu nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 68/2024 privind casarea unor mijloace fixe",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171633",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-69-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/69",
+   "short": "HCL Nicolae Bălcescu nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 69/2024 privind aprobarea procedurii de anulare a accesoriilor aferente obligațiilor fiscale principale restante la 31.08.2024 inclusiv, datorate bugetului local de către contribuabilii de pe raza administrativ teritorială a Comunei Nicolae Balcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171634",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-70-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/70",
+   "short": "HCL Nicolae Bălcescu nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 70/2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171635",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-71-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/71",
+   "short": "HCL Nicolae Bălcescu nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 71/2024 privind acordarea unei subvenții din bugetul local pentru finanțarea serviciului public de salubrizare",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171636",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-72-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/72",
+   "short": "HCL Nicolae Bălcescu nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 72/2024 privind aprobarea rectificarii bugetului local pe anul 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171637",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-73-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/73",
+   "short": "HCL Nicolae Bălcescu nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 73/2024 privind achiziționarea a trei autovehicule electrice prin „ Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2020-2024”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171638",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-74-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/74",
+   "short": "HCL Nicolae Bălcescu nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 74/2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171639",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/171639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-76-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/76",
+   "short": "HCL Nicolae Bălcescu nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 76/2024 privind aprobarea documentației şi indicatorilor tehnico-economici, faza PTh și DTAC, pentru obiectivul de investiții,, Amenajare teren sport Școala Valea Seacă, din comuna Nicolae Bălcescu, județul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/173842",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/173842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-77-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/77",
+   "short": "HCL Nicolae Bălcescu nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 77/2024 privind aprobarea modificării listei de investiții pe anul 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/173843",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/173843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-79-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/79",
+   "short": "HCL Nicolae Bălcescu nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 79/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/177549",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/177549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-8-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/8",
+   "short": "HCL Nicolae Bălcescu nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 8/2024 privind aprobarea proiectului tehnic şi a indicatorilor tehnico-economici, faza PTh, pentru obiectivul de investiţii \"Modernizare drumuri locale în satele Nicolae Bălcescu, Valea Seacă, Galbeni şi Buchila din comuna Nicolae Bălcescu, judetul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142117",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/142117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-80-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/80",
+   "short": "HCL Nicolae Bălcescu nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 80/2024 privind constituirea Comisiilor de specialitate din cadrul Consiliului Local al Comunei Nicolae Bălcescu",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/177550",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/177550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-81-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/81",
+   "short": "HCL Nicolae Bălcescu nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 81/2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/177551",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/177551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-82-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/82",
+   "short": "HCL Nicolae Bălcescu nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 82/2024 privind aprobarea conturilor de execuție pentru bugetul local și bugetul activităților finanțate din venituri proprii pe trim. III 2024",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/177552",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/177552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--nicolae-balcescu-84-2024",
+   "path": "local/bacau/nicolae-balcescu/2024/84",
+   "short": "HCL Nicolae Bălcescu nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nicolae Bălcescu nr. 84/2024 pentru modificarea art. 5 din HCL 150/2023 privind participarea comunei Nicolae Bălcescu la Programul-cheie 1: Surse regenerabile de energie și stocarea energiei din Fondul pentru Modernizare aprobat prin Ordinul Ministrului Energiei, nr. 1431 din 1 noiembrie 2023 și aprobarea indicatorilor tehnico-economici, pentru investitia: „Producere energie din surse regenerabile pentru consum propriu la nivelul Comunei Nicolae Bălcescu, Județul Bacău”",
+   "url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/177554",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nicolaebalcescu-bc/registru-hcl/177554",
      "sha256": null
     }
    ]

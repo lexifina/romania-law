@@ -3,6 +3,186 @@
  "shard": "local/bacau/buhoci/2024",
  "acts": [
   {
+   "slug": "hcl-bacau--buhoci-56-2024",
+   "path": "local/bacau/buhoci/2024/56",
+   "short": "HCL Buhoci nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 56/2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196253",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-57-2024",
+   "path": "local/bacau/buhoci/2024/57",
+   "short": "HCL Buhoci nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 57/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2024",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196254",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-64-2024",
+   "path": "local/bacau/buhoci/2024/64",
+   "short": "HCL Buhoci nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 64/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2024",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196275",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-66-2024",
+   "path": "local/bacau/buhoci/2024/66",
+   "short": "HCL Buhoci nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 66/2024 privind aprobarea achiziționării și montării a șapte stații de autobuz în satele comunei Buhoci",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196279",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-68-2024",
+   "path": "local/bacau/buhoci/2024/68",
+   "short": "HCL Buhoci nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 68/2024 privind aprobarea desfășurării de evenimente cultural artistice în luna decembrie 2024, în comuna Buhoci",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196281",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-69-2024",
+   "path": "local/bacau/buhoci/2024/69",
+   "short": "HCL Buhoci nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 69/2024 privind aprobarea montării de limitatoare de viteză în satul Bijghir",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196282",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-71-2024",
+   "path": "local/bacau/buhoci/2024/71",
+   "short": "HCL Buhoci nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 71/2024 privind aprobarea schimbării soluției Planului Urbanistic General al UAT Comuna Buhoci",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196285",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-72-2024",
+   "path": "local/bacau/buhoci/2024/72",
+   "short": "HCL Buhoci nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 72/2024 privind aprobarea Planului Operativ de acțiune proprie de intervenții pe drumurile comunale și sătești, pentru prevenirea și combaterea înzăpezirii acestora pentru perioada 2024-2025",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196287",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-73-2024",
+   "path": "local/bacau/buhoci/2024/73",
+   "short": "HCL Buhoci nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 73/2024 privind aprobarea participării Comunei Buhoci, județul Bacău, la Programul Național Nord-Est 2021-2027, Prioritatea P6 Nord-Est, apelul de proiect PR/NE/2024/6/RSO4.2/1 Învățământ comune, pentru proiectul ''Reabilitare și modernizare Unitate de Învățământ Școala Bijghir, sat Bijghir, comuna Buhoci, județul Bacău'' și împuternicirea Primarului comunei Buhoci să reprezinte comuna în relația cu finanțatorul",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196288",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-74-2024",
+   "path": "local/bacau/buhoci/2024/74",
+   "short": "HCL Buhoci nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 74/2024 privind aprobarea investiției ''Construire Sală de sport școlară (tribună 102 locuri) proiect TIP, în satul Buhoci, comuna Buhoci, județul Bacău''",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196289",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-75-2024",
+   "path": "local/bacau/buhoci/2024/75",
+   "short": "HCL Buhoci nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 75/2024 privind aprobarea modernizării căii de acces ce pleacă din DJ 252 B și face legătura cu Cimitirul și Biserica Ortodoxă Buhoci",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196291",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--buhoci-77-2024",
+   "path": "local/bacau/buhoci/2024/77",
+   "short": "HCL Buhoci nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Buhoci nr. 77/2024 privind aprobarea taxei de închiriere și a Regulamentului privind modalitatea de închiriere a buldoexcavator, aflat în patrimoniul Primăriei comunei Buhoci, județul Bacău",
+   "url": "https://emol.ro/buhoci-bc/registru-hcl/196294",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/buhoci-bc/registru-hcl/196294",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--buhoci-78-2024",
    "path": "local/bacau/buhoci/2024/78",
    "short": "HCL Buhoci nr. 78/2024",

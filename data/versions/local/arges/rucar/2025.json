@@ -3,6 +3,606 @@
  "shard": "local/arges/rucar/2025",
  "acts": [
   {
+   "slug": "hcl-arges--rucar-10-2025",
+   "path": "local/arges/rucar/2025/10",
+   "short": "HCL Rucăr nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 10/2025 privind încheierea unui act adițional la contractele de concesiune nr. 678/20.10.2004 și nr. 3945 / 23.08.2006",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230622",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-11-2025",
+   "path": "local/arges/rucar/2025/11",
+   "short": "HCL Rucăr nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 11/2025 privind încheierea unui act adițional la contractul de concesiune nr. contractul nr. 6781/20.10.2004",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230623",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-12-2025",
+   "path": "local/arges/rucar/2025/12",
+   "short": "HCL Rucăr nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 12/2025 privind continuarea demersurilor stabilite în conformitate cu prevederile Hotărârii Consiliului Local al comunei Rucăr nr. 14 din data de 09.12.2020, în sensul identificării unui teren în vederea înființării unei Piețe Comunale agro-alimentare și organizărea Târgului Săptămânal",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230636",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-13-2025",
+   "path": "local/arges/rucar/2025/13",
+   "short": "HCL Rucăr nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 13/2025 privind aprobarea Programului de acțiuni comunitare pentru prevenirea, combaterea sărăciei și excluziunii sociale la nivelul comunei Rucăr, pe anul 2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230645",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-14-2025",
+   "path": "local/arges/rucar/2025/14",
+   "short": "HCL Rucăr nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 14/2025 privind scoaterea din circuitul agricol a suprafeței de 148 mp aferentă imobilului înscris în CF 86401 Rucăr, situat în extravilanul comunei Rucăr, pentru realizarea obiectivului ”Refugiu Montan”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230646",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-15-2025",
+   "path": "local/arges/rucar/2025/15",
+   "short": "HCL Rucăr nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 15/2025 privind aprobarea planului de analiză și acoperire a riscurilor la nivelul comunei Rucăr pe anul 2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230647",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-16-2025",
+   "path": "local/arges/rucar/2025/16",
+   "short": "HCL Rucăr nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 16/2025 privind aprobarea Planului local de măsuri pentru gestionarea deșeurilor municipale la nivelul comunei Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230648",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-17-2025",
+   "path": "local/arges/rucar/2025/17",
+   "short": "HCL Rucăr nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 17/2025 privind aprobarea dotarii parcului central al comunei Rucăr cu mobilier urban destinat activităților recreative și sportive",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230661",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-18-2025",
+   "path": "local/arges/rucar/2025/18",
+   "short": "HCL Rucăr nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 18/2025 privind toaletarea arborilor situați pe aliniamentul râului Râușor – străzile Păpușa și Râușor, comuna Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230662",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-19-2025",
+   "path": "local/arges/rucar/2025/19",
+   "short": "HCL Rucăr nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 19/2025 privind aprobarea bugetului de venituri și cheltuieli al comunei Rucăr pe anul 2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230663",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-2-2025",
+   "path": "local/arges/rucar/2025/2",
+   "short": "HCL Rucăr nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 2/2025 privind aprobarea Planului de acțiuni sau de lucrări de interes local efectuate de beneficiarii de ajutor minim de incluziune din comuna Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230563",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-20-2025",
+   "path": "local/arges/rucar/2025/20",
+   "short": "HCL Rucăr nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 20/2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230665",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-22-2025",
+   "path": "local/arges/rucar/2025/22",
+   "short": "HCL Rucăr nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 22/2025 pentru a se lua act de Procesul verbal din data de 20.03.2025, întocmit de Inspectoratul pentru Situații de Urgență al Județului Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230667",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-23-2025",
+   "path": "local/arges/rucar/2025/23",
+   "short": "HCL Rucăr nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 23/2025 privind emiterea acordului pentru participarea comunei Rucăr la programul cu privire la acordarea de sprijin în vederea achiziționarii de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230669",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-24-2025",
+   "path": "local/arges/rucar/2025/24",
+   "short": "HCL Rucăr nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 24/2025 privind rectificarea bugetului de venituri și cheltuieli al comunei Rucăr pentru anul 2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230670",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-25-2025",
+   "path": "local/arges/rucar/2025/25",
+   "short": "HCL Rucăr nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 25/2025 privind aprobarea indicatorilor tehnico-economici actualizati si a Devizului general actualizat al obiectivului de investitii \"EXTINDERE RETEA DE CANALIZARE MENAJERA IN COMUNA RUCAR, JUDETUL ARGES\", dupa incheierea contractului de achizitie publica proiectare si executie lucrari",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230671",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-26-2025",
+   "path": "local/arges/rucar/2025/26",
+   "short": "HCL Rucăr nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 26/2025 privind aprobarea listei situatiilor deosebite care justifica acordarea ajutoarelor de urgenta",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230678",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-27-2025",
+   "path": "local/arges/rucar/2025/27",
+   "short": "HCL Rucăr nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 27/2025 privind inițierea demersurilor necesare in vederea dobândirii în condițiile legii a proprietății asupra imobilelor teren aferente Castrului roman ”Castellum” și Termelor romane, situate în punctul ”Scărișoara” din comuna Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230690",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-28-2025",
+   "path": "local/arges/rucar/2025/28",
+   "short": "HCL Rucăr nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 28/2025 privind aprobarea situației financiare a SC Utilități Apă Canal Rucăr 2010 SRL pe anul 2024",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230691",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-29-2025",
+   "path": "local/arges/rucar/2025/29",
+   "short": "HCL Rucăr nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 29/2025 privind aprobarea bugetului de venituri și cheltuieli al SC Utilități Apă Canal Rucăr 2010 SRL pe anul 2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230696",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-3-2025",
+   "path": "local/arges/rucar/2025/3",
+   "short": "HCL Rucăr nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 3/2025 privind reorganizarea Consiliului Comunitar Consultativ",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230564",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-30-2025",
+   "path": "local/arges/rucar/2025/30",
+   "short": "HCL Rucăr nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 30/2025 privind participarea la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic 2025-2030 cu proiectul: “Achiziţionare autovehicule electrice/plug-in hibrid in pentru UAT Comuna Rucar, judetul Arges”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230697",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-31-2025",
+   "path": "local/arges/rucar/2025/31",
+   "short": "HCL Rucăr nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 31/2025 privind Regulamentul de aprobare al taxelor speciale si adoptarea acestor taxe",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230701",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-32-2025",
+   "path": "local/arges/rucar/2025/32",
+   "short": "HCL Rucăr nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 32/2025 privind rambursarea sumei plătite de 994.869,78 lei și a dobânzilor aferente, reprezentând avansuri acordate și nejustificate în cadrul contractului privind proiectul cod C 0720RM00011730300169/30.08.2017 denumit ”Modernizare a drumurilor comunale de interes local, în comuna Rucăr, județul Argeș”",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230711",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-34-2025",
+   "path": "local/arges/rucar/2025/34",
+   "short": "HCL Rucăr nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 34/2025 privind aprobarea organizării procedurii de închiriere a unui imobil teren din domeniul public al localității",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230715",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-35-2025",
+   "path": "local/arges/rucar/2025/35",
+   "short": "HCL Rucăr nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 35/2025 privind anularea obligaţiilor fiscale datorate de debitori, persoane juridice, radiaţi din Registrul Comerţului şi scăderea societăţilor radiate din evidenţa fiscală",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230716",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-36-2025",
+   "path": "local/arges/rucar/2025/36",
+   "short": "HCL Rucăr nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 36/2025 privind aprobarea încheierii contractului de custodie şi a modelului acestuia, în cadrul proiectului: ’’ DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT PREUNIVERSITAR DIN COMUNA RUCĂR, JUDEȚUL ARGEȘ”,, finanţat prin Programul Naţional de Redresare şi Rezilienţă, Componenta CI 5: Educaţie",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230726",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-37-2025",
+   "path": "local/arges/rucar/2025/37",
+   "short": "HCL Rucăr nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 37/2025 privind rectificarea bugetului de venituri și cheltuieli al comunei Rucăr pentru anul 2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230727",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-38-2025",
+   "path": "local/arges/rucar/2025/38",
+   "short": "HCL Rucăr nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 38/2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230728",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-39-2025",
+   "path": "local/arges/rucar/2025/39",
+   "short": "HCL Rucăr nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 39/2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230729",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-4-2025",
+   "path": "local/arges/rucar/2025/4",
+   "short": "HCL Rucăr nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 4/2025 privind aprobarea încheierii unui protocol de colaborare",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230565",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-41-2025",
+   "path": "local/arges/rucar/2025/41",
+   "short": "HCL Rucăr nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 41/2025 privind aprobarea organizării manifestării locale ”Expopastoralis 2025 ” Rucăr, programul acesteia precum și a premiilor acordate pentru bonitatea animalelor ce vor participa în cadrul concursurilor desfășurate sub egida acestei manifestării",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230741",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-42-2025",
+   "path": "local/arges/rucar/2025/42",
+   "short": "HCL Rucăr nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 42/2025 privind aprobarea documentației PUZ pentru – schimbare destinaţie și reglementare urbanistică în vederea realizării investiției \"Construire 2 imobile cu regim de înălţime parter înalt, cu funcțiunile: obiect 1 – magazin Penny și obiect 2- magazin non - food; amenajărí exterioare în incintă (platforme parcare, spaţii verzi, drumuri, trotuare) căi de acces auto şi pietonale, racorduri la drumurile publice; împrejmuirea terenului; amplasare semnale publicitare, container aparat colectare deşeuri reciclabile, post trafo, gospodărie incendiu, reţele instalații în incintă și branşare la utilități, organizare de şantier\", în comuna Rucăr, sat Rucăr, str. Braşovului, nr. 153, jud. Argeş",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230742",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-43-2025",
+   "path": "local/arges/rucar/2025/43",
+   "short": "HCL Rucăr nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 43/2025 privind scutirea de la plata majorărilor de întârziere a plătitorilor de obligaţii fiscale datorate la 31.12.2025, bugetului local al comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230743",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-44-2025",
+   "path": "local/arges/rucar/2025/44",
+   "short": "HCL Rucăr nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 44/2025 privind formularea unor solicitări de relocare a unor exemplare de urs/vulpe, care provoacă atacuri în comuna Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230744",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-45-2025",
+   "path": "local/arges/rucar/2025/45",
+   "short": "HCL Rucăr nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 45/2025 privind aprobarea organizării procedurii de închiriere a unui imobil teren din domeniul public al localității",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230745",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-47-2025",
+   "path": "local/arges/rucar/2025/47",
+   "short": "HCL Rucăr nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 47/2025 privind acordarea unor premii în bani familiilor care împlinesc 50 de ani de căsătorie în anul 2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230811",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-48-2025",
+   "path": "local/arges/rucar/2025/48",
+   "short": "HCL Rucăr nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 48/2025 privind asocierea dintre comuna Rucăr și Centrul ”Doina Argeșului” prin Secția Școala Populară de Arte și Meserii, în vederea continuării activității secțiilor externe ”DANSURI POPULARE” (două secții) și ”ȚESUT-CUSUT”(o secție)",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230812",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-49-2025",
+   "path": "local/arges/rucar/2025/49",
+   "short": "HCL Rucăr nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 49/2025 privind acordarea reducerii impozitului pe clădiri și terenuri pentru donatorii de sânge din aceeași familie",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230813",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-5-2025",
+   "path": "local/arges/rucar/2025/5",
+   "short": "HCL Rucăr nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 5/2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230570",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230570",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-50-2025",
    "path": "local/arges/rucar/2025/50",
    "short": "HCL Rucăr nr. 50/2025",
@@ -153,6 +753,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-6-2025",
+   "path": "local/arges/rucar/2025/6",
+   "short": "HCL Rucăr nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 6/2025 privind aprobarea numărului maxim de asistenți personali ai persoanelor cu handicap grav pe anul 2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230571",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230571",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-60-2025",
    "path": "local/arges/rucar/2025/60",
    "short": "HCL Rucăr nr. 60/2025",
@@ -298,6 +913,36 @@
      "from": "2025-11-14",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/235541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-8-2025",
+   "path": "local/arges/rucar/2025/8",
+   "short": "HCL Rucăr nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 8/2025 privind organizarea și funcționarea târgului săptămânal",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230580",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-9-2025",
+   "path": "local/arges/rucar/2025/9",
+   "short": "HCL Rucăr nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 9/2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230621",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230621",
      "sha256": null
     }
    ]

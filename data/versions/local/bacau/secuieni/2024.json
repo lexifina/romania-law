@@ -3,6 +3,231 @@
  "shard": "local/bacau/secuieni/2024",
  "acts": [
   {
+   "slug": "hcl-bacau--secuieni-1-2024",
+   "path": "local/bacau/secuieni/2024/1",
+   "short": "HCL Secuieni nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 1/2024 privind privind aprobarea studiului de fezabilitate, indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZAREA INFRASTRUCTURII RUTIERE ÎN COMUNA SECUIENI, JUDEȚUL BACĂU”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/144649",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/144649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-10-2024",
+   "path": "local/bacau/secuieni/2024/10",
+   "short": "HCL Secuieni nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 10/2024 privind aprobarea devizului general actualizat pentru obiectivul de investiții ” Renovare integrată la şcoala generală din satul Secuieni, Comuna Secuieni, Judeţul Bacău”, aprobat pentru finanțare prin Programul Național de Redresare si Rezilienta – Componenta 10 – Fondul local, Investiția I.3 – Reabilitare moderata a cladirilor publice pentru a imbunatati furnizarea de servicii publice de catre unitatile administrativ-teritoriale precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/144965",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/144965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-11-2024",
+   "path": "local/bacau/secuieni/2024/11",
+   "short": "HCL Secuieni nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 11/2024",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/144963",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/144963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-13-2024",
+   "path": "local/bacau/secuieni/2024/13",
+   "short": "HCL Secuieni nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 13/2024",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/149565",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/149565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-14-2024",
+   "path": "local/bacau/secuieni/2024/14",
+   "short": "HCL Secuieni nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 14/2024 privind stabilirea situaţiilor deosebite și criteriile în bază cărora se pot acorda ajutoare de urgenţă din bugetul local",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/149566",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/149566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-16-2024",
+   "path": "local/bacau/secuieni/2024/16",
+   "short": "HCL Secuieni nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 16/2024 privind sprijinirea unor unităţi de cult din comuna Secuieni, judeţul Bacău",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/149568",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/149568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-17-2024",
+   "path": "local/bacau/secuieni/2024/17",
+   "short": "HCL Secuieni nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 17/2024",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/149569",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/149569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-18-2024",
+   "path": "local/bacau/secuieni/2024/18",
+   "short": "HCL Secuieni nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 18/2024",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/155662",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/155662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-19-2024",
+   "path": "local/bacau/secuieni/2024/19",
+   "short": "HCL Secuieni nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 19/2024 privind aprobarea modificării statului de funcții al personalului din cadrul U.A.T comuna Secuieni prin suplimentarea cu un post contractual de asistent personal",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/155663",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/155663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-2-2024",
+   "path": "local/bacau/secuieni/2024/2",
+   "short": "HCL Secuieni nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 2/2024 Privind aprobarea reţelei şcolare pentru anul şcolar 2024-2025 în comuna Secuieni, judeţul Bacău",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/144650",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/144650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-20-2024",
+   "path": "local/bacau/secuieni/2024/20",
+   "short": "HCL Secuieni nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 20/2024 Privind aprobarea Planului Urbanistic Zonal pentru „AMENAJARE TÂRG COMUNAL ÎN COMUNA SECUIENI; ACTUALIZARE PLAN URBANISTIC ZONAL SISTEMATIZARE ŞI MODERNIZARE ZONĂ CENTRALĂ” SAT SECUIENI , COMUNA SECUIENI, JUDEȚUL BACĂU",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/155664",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/155664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-21-2024",
+   "path": "local/bacau/secuieni/2024/21",
+   "short": "HCL Secuieni nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 21/2024",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/162284",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/162284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-22-2024",
+   "path": "local/bacau/secuieni/2024/22",
+   "short": "HCL Secuieni nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 22/2024 privind aprobarea cotizaţiei anuale la patrimoniul „Asociaţiei de Dezvoltare Intercomunitară pentru Salubrizare Bacău”",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/162285",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/162285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-24-2024",
+   "path": "local/bacau/secuieni/2024/24",
+   "short": "HCL Secuieni nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 24/2024 privind privind aprobarea devizului general actualizat dupa oferta de execuție lucrări pentru obiectivul de investiții ”Renovare integrată la şcoala generală din satul Secuieni, Comuna Secuieni, Judeţul Bacău”, aprobat pentru finanțare prin Planul Național de Redresare si Reziliența – Componenta 10 – Fondul local, Investiția I.3 – Reabilitare moderata a clădirilor publice pentru a îmbunătăți furnizarea de servicii publice de către unitățile administrativ-teritoriale precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/162298",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/162298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-26-2024",
+   "path": "local/bacau/secuieni/2024/26",
+   "short": "HCL Secuieni nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 26/2024 privind aprobarea Studiului de oportunitate și a indicatorilor tehnico-economici pentru proiectul “CONSTRUIRE CENTRU COMUNITAR INTEGRAT IN COMUNA SECUIENI, JUDETUL BACĂU“, în vederea finanțării acestuia în cadrul PNRR - PLANULUI NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ, APEL RESTRÂNS DE PROIECTE – COD APEL: MS- 0014, Pilonul V: Sănătate și reziliență instituțională, COMPONENTA: 12 – Sănătate, INVESTIȚIA: 1. Dezvoltarea infrastructurii medicale prespitalicești - Investiția specifică: I1.4: Centre Comunitare Integrate",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/162300",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/162300",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-27-2024",
    "path": "local/bacau/secuieni/2024/27",
    "short": "HCL Secuieni nr. 27/2024",
@@ -43,6 +268,21 @@
      "from": "2024-10-17",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/172990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-3-2024",
+   "path": "local/bacau/secuieni/2024/3",
+   "short": "HCL Secuieni nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 3/2024 privind completarea Anexei la HCL nr . 37/28.07.2017 privind stabilirea salariilor de baza pentru personalul din aparatul de specialitate al primarului Comunei Secuieni, Judetul Bacău si din subordinea Consiliului Local Secuieni, modificată, completată prin Hotărârea Consiliului Local Secuieni NR. 11/31.01.2018 , Hotărârea Consiliului Local Secuieni NR. 16/29.03.2019, Hotărârea Consiliului Local Secuieni NR. 15/27.02.2023, -privind stabilirea salariilor de bază pentru personalul din aparatul de specialitate al primarului comunei Secuieni şi din subordinea Consiliului Local Secuieni,",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/144651",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/144651",
      "sha256": null
     }
    ]
@@ -298,6 +538,66 @@
      "from": "2025-01-10",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/186109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-6-2024",
+   "path": "local/bacau/secuieni/2024/6",
+   "short": "HCL Secuieni nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 6/2024 privind aprobarea studiului de fezabilitate, indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZAREA INFRASTRUCTURII RUTIERE ÎN COMUNA SECUIENI, JUDEȚUL BACĂU”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/144689",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/144689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-7-2024",
+   "path": "local/bacau/secuieni/2024/7",
+   "short": "HCL Secuieni nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 7/2024 privind aprobarea participării UAT Comuna Secuieni la apelul de proiecte cu titlul „Finanțarea bibliotecilor din județul Bacău pentru a deveni hub-uri de dezvoltare a competențelor digitale și dotarea cu echipamente IT\" din cadrul Planului Național de Redresare și Reziliență (PNNR), Componenta 7. Transformare digitală, Operațiunea Competențe digitale, Capital Uman și Utilizarea Internetului, Investiția I17. Scheme de finanțare pentru biblioteci pentru a deveni hub-uri de dezvoltare a competențelor digitale, Apel de proiecte numărul 2 - Finanțarea bibliotecilor pentru a deveni hub-uri de dezvoltare a componentelor digitale și aprobarea Acordului de parteneriat al proiectului",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/144690",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/144690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-8-2024",
+   "path": "local/bacau/secuieni/2024/8",
+   "short": "HCL Secuieni nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 8/2024 privind aprobarea bugetului de venituri şi cheltuieli a comunei Secuieni pe anul 2024",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/144966",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/144966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-9-2024",
+   "path": "local/bacau/secuieni/2024/9",
+   "short": "HCL Secuieni nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 9/2024 privind aprobarea Devizului General actualizat în baza OUG 47/2022 privind cheltuielile de capital necesare realizării obiectivului de investiție: \"Înființarea rețelei de canalizare ape uzate si a stației de epurare in comuna Secuieni, județul Bacău\"",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/144964",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/144964",
      "sha256": null
     }
    ]
