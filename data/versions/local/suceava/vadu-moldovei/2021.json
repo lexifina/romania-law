@@ -3,6 +3,396 @@
  "shard": "local/suceava/vadu-moldovei/2021",
  "acts": [
   {
+   "slug": "hcl-suceava--vadu-moldovei-1-2021",
+   "path": "local/suceava/vadu-moldovei/2021/1",
+   "short": "HCL Vadu Moldovei nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 1/2021 privind utilizarea excedentului bugetului local, în cursul anului 2021",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26041",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-10-2021",
+   "path": "local/suceava/vadu-moldovei/2021/10",
+   "short": "HCL Vadu Moldovei nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 10/2021",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26049",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-11-2021",
+   "path": "local/suceava/vadu-moldovei/2021/11",
+   "short": "HCL Vadu Moldovei nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 11/2021",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26051",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-12-2021",
+   "path": "local/suceava/vadu-moldovei/2021/12",
+   "short": "HCL Vadu Moldovei nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 12/2021 privind alegerea președintelui de ședință al Consiliului Local al Comunei Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26052",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-13-2021",
+   "path": "local/suceava/vadu-moldovei/2021/13",
+   "short": "HCL Vadu Moldovei nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 13/2021 privind aprobarea actualizării Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului Comunei Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26053",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-14-2021",
+   "path": "local/suceava/vadu-moldovei/2021/14",
+   "short": "HCL Vadu Moldovei nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 14/2021 privind revocarea Hotărârii Consiliului Local nr. 6 din 28 ianuarie 2021 privind atestarea apartenenței la domeniul public al comunei Vadu Moldovei, județul Suceava, a imobilului în suprafață de 10110 mp",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26054",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-15-2021",
+   "path": "local/suceava/vadu-moldovei/2021/15",
+   "short": "HCL Vadu Moldovei nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 15/2021 privind atestarea aparteneței la domeniul public al comunei Vadu Moldovei, județul Suceava, a imobilului în suprafață de 11100 mp",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26055",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-16-2021",
+   "path": "local/suceava/vadu-moldovei/2021/16",
+   "short": "HCL Vadu Moldovei nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 16/2021 privind aprobarea solicitării de prelungire a valabilității Scrisorii de garanție nr. 815/12.10.2017, pentru proiectul de investiție intitulat: ”Construire și dotare gradinița în sat Ciumulești, comuna Vadu Moldovei, județul Suceava” și finanțat prin Agenția pentru Finanțarea Investițiilor Rurale, conform Contract de finanțare nr. C 0720EN00011613500272/24.07.2017, Act Adițional nr. 4/22.04.2020",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26056",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-17-2021",
+   "path": "local/suceava/vadu-moldovei/2021/17",
+   "short": "HCL Vadu Moldovei nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 17/2021 privind aprobarea bugetului de venituri și cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2021",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26057",
+   "versions": [
+    {
+     "from": "2021-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-18-2021",
+   "path": "local/suceava/vadu-moldovei/2021/18",
+   "short": "HCL Vadu Moldovei nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 18/2021 privind aprobarea listei de investiții a comunei Vadu Moldovei pe anul 2021",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26058",
+   "versions": [
+    {
+     "from": "2021-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-19-2021",
+   "path": "local/suceava/vadu-moldovei/2021/19",
+   "short": "HCL Vadu Moldovei nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 19/2021 privind aprobarea numărului de posturi pentru asistenții personali ai persoanelor cu handicap grav pentru anul 2021",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26059",
+   "versions": [
+    {
+     "from": "2021-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-2-2021",
+   "path": "local/suceava/vadu-moldovei/2021/2",
+   "short": "HCL Vadu Moldovei nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 2/2021 privind acordarea mandatului special reprezentantului comunei Vadu Moldovei, județul Suceava, în Adunarea Generală a Asociației Județene pentru Apă și Canalizare Suceava să voteze pentru adoptarea Actelor Adiționale de actualiare, modificare și completare a Actului Constitutiv și a Statutului Asociației Judeșene pentru Apă și Canalizare Suceava și împuternicirea Asociației Județene pentru Apă și Canalizare Suceava să semneze prin reprezentantul său legal, Președintele Asociației, în numele și pe seama UAT comuna Vadu Moldovei, Județul Suceava, Actul Adițional la Actul Constitutiv și Actul Adițional la Statutul AJAC Suceava",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26042",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-20-2021",
+   "path": "local/suceava/vadu-moldovei/2021/20",
+   "short": "HCL Vadu Moldovei nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 20/2021 privind achiziționarea de către comuna Vadu Moldovei a unei autobasculante",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26060",
+   "versions": [
+    {
+     "from": "2021-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-21-2021",
+   "path": "local/suceava/vadu-moldovei/2021/21",
+   "short": "HCL Vadu Moldovei nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 21/2021 privind aprobarea investiției „Construire alei pietonale în comuna Vadu Moldovei”",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26061",
+   "versions": [
+    {
+     "from": "2021-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-22-2021",
+   "path": "local/suceava/vadu-moldovei/2021/22",
+   "short": "HCL Vadu Moldovei nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 22/2021 privind aprobarea Regulamentului de adoptare a taxelor speciale la nivelul comunei Vadu Moldovei, județul Suceava",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26062",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-23-2021",
+   "path": "local/suceava/vadu-moldovei/2021/23",
+   "short": "HCL Vadu Moldovei nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 23/2021 privind achiziționarea unor servicii juridice de consultanță, asistență și reprezentare juridică pentru apărarea intereselor comunei Vadu Moldovei precum și ale autorităților administrației publice locale din comuna Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26063",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-24-2021",
+   "path": "local/suceava/vadu-moldovei/2021/24",
+   "short": "HCL Vadu Moldovei nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 24/2021 privind achiziționarea unor servicii în domeniul achizițiilor publice de consultanță, asistență și reprezentare a intereselor comunei Vadu Moldovei precum și ale autorităților administrației publice locale din comuna Vadu Moldovei în fața altor autorități/instituții de drept public ori privat",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26064",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-27-2021",
+   "path": "local/suceava/vadu-moldovei/2021/27",
+   "short": "HCL Vadu Moldovei nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 27/2021",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26067",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-28-2021",
+   "path": "local/suceava/vadu-moldovei/2021/28",
+   "short": "HCL Vadu Moldovei nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 28/2021 privind atestarea apartenenței la domeniul privat al comunei Vadu Moldovei, județul Suceava, a bunului mobil CENTRALĂ TERMICĂ, Cod produs 32LGO130-ICAZAN DIN OȚEL PENTRU ÎNCĂLZIRE PE LEMNE CU GAZIFICARE ORLAN SUPER, 130 Kw. Seria EKO - VIMAR și darea ei în folosință gratuită către Biserica Ortodoxă „Sfântul Nicolae” din satul Ioneasca, comuna Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26068",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-29-2021",
+   "path": "local/suceava/vadu-moldovei/2021/29",
+   "short": "HCL Vadu Moldovei nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 29/2021 privind atestarea apartenenței la domeniul privat al comunei Vadu Moldovei, județul Suceava, a bunului mobil CENTRALĂ TERMICĂ, Cod produs 32LGO - ICAZAN DIN OȚEL PENTRU ÎNCĂLZIRE PE LEMNE CU GAZIFICARE ORLAN SUPERIOR, 130 Kw. Seria EKO - VIMAR și darea ei în folosință gratuită către Biserica Ortodoxă „Adormirea Maicii Domnului” din satul Nigotești, comuna Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26069",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-3-2021",
+   "path": "local/suceava/vadu-moldovei/2021/3",
+   "short": "HCL Vadu Moldovei nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 3/2021 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2021, pentru persoanele apte de muncă, beneficiare ale prevederilor Legii 416/2001 (venitul minim garantat, cu modificările și completările ulterioare) la nivelul Primăriei comunei Vadu Moldovei, județul Suceava",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26043",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-38-2021",
+   "path": "local/suceava/vadu-moldovei/2021/38",
+   "short": "HCL Vadu Moldovei nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 38/2021 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2021",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/33200",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/33200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-40-2021",
+   "path": "local/suceava/vadu-moldovei/2021/40",
+   "short": "HCL Vadu Moldovei nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 40/2021 privind aprobarea Nomenclatorului stradal al comunei Vadu Moldovei, județul Suceava",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/36996",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/36996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-41-2021",
+   "path": "local/suceava/vadu-moldovei/2021/41",
+   "short": "HCL Vadu Moldovei nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 41/2021 privind aprobarea Strategiei de dezvoltare locală a comunei Vadu Moldovei, județul Suceava, pe perioada 2021 – 2027",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/36997",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/36997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-43-2021",
+   "path": "local/suceava/vadu-moldovei/2021/43",
+   "short": "HCL Vadu Moldovei nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 43/2021 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2021",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/39970",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/39970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-5-2021",
+   "path": "local/suceava/vadu-moldovei/2021/5",
+   "short": "HCL Vadu Moldovei nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 5/2021 privind reactualizarea Anexei Nr. 1 la Hotărârea Consiliului Local nr. 64/2020 privind implementarea proiectului „ÎNFIINȚAREA UNUI CENTRU COMUNITAR FUNCȚIONAL CARE SĂ DESERVEASCĂ POPULAȚIA DIN CATEGORIA PERSOANELOR VÂRSTNICE, A CELOR CU DIZABILITĂȚI CÂT ȘI A CELOR CARE FAC PARTE DIN CATEGORIA MINORITĂȚILOR ETNICE”",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26045",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26045",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--vadu-moldovei-53-2021",
    "path": "local/suceava/vadu-moldovei/2021/53",
    "short": "HCL Vadu Moldovei nr. 53/2021",
@@ -103,6 +493,21 @@
      "from": "2021-11-15",
      "units": 1,
      "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/43375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-6-2021",
+   "path": "local/suceava/vadu-moldovei/2021/6",
+   "short": "HCL Vadu Moldovei nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 6/2021 privind atestarea apartenenței la domeniul public al comunei Vadu Moldovei, județul Suceava, a imobilului în suprafață de 10110 mp",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26046",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26046",
      "sha256": null
     }
    ]
@@ -258,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--vadu-moldovei-7-2021",
+   "path": "local/suceava/vadu-moldovei/2021/7",
+   "short": "HCL Vadu Moldovei nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 7/2021 privind aprobarea Actelor adiționale de modificare și completare a Actului constituitiv și a Statutului Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în Județul Suceava, să voteze pentru alegerea Președintelui și a Consiliului director al Asociației, precum și împuternicirea Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în județul Suceava să semneze în Adunarea Generală a Asociației prin reprezentantul său legal, Președintele Asociației, în numele și pe seama comunei Vadu Moldovei, Actele adiționale de modificare și completare a Actului constitutiv și a Statutului Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în județul Suceava",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26047",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26047",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--vadu-moldovei-70-2021",
    "path": "local/suceava/vadu-moldovei/2021/70",
    "short": "HCL Vadu Moldovei nr. 70/2021",
@@ -298,6 +718,36 @@
      "from": "2021-12-15",
      "units": 1,
      "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/46217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-8-2021",
+   "path": "local/suceava/vadu-moldovei/2021/8",
+   "short": "HCL Vadu Moldovei nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 8/2021 privind alegerea președintelui de ședință al Consiliului Local al Comunei Vadu Moldovei pentru a conduce ședința ordinară din data de 23 februarie 2021",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26050",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-9-2021",
+   "path": "local/suceava/vadu-moldovei/2021/9",
+   "short": "HCL Vadu Moldovei nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 9/2021",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26048",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/26048",
      "sha256": null
     }
    ]

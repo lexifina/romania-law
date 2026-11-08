@@ -3,6 +3,116 @@
 "shard": "local/suceava/vulturesti/2023",
 "acts": [
 {
+"slug": "hcl-suceava--vulturesti-9-2023",
+"path": "local/suceava/vulturesti/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 9/2023 privind aprobarea propunerii preliminare de extindere a intravilanului comunei Vultureşti, judeţul Suceava, în vederea actualizării Planului Urbanistic General",
+"short": "HCL Vulturești nr. 9/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-06",
+"latest": "2023-03-06",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/91001",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-22-2023",
+"path": "local/suceava/vulturesti/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 22/2023 privind stabilirea impozitelor și taxelor locale, indexate cu rata inflației, aplicabile în comuna Vulturești, județul Suceava, în anul fiscal 2024",
+"short": "HCL Vulturești nr. 22/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-04",
+"latest": "2023-05-04",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/102424",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-26-2023",
+"path": "local/suceava/vulturesti/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 26/2023 privind stabilirea unor măsuri pentru delegarea gestiunii activității de colectare și transport a deșeurilor municipale, inclusiv operarea stațiilor de transfer și a centrelor de colectare cu aport voluntar în Județul Suceava",
+"short": "HCL Vulturești nr. 26/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/106410",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-35-2023",
+"path": "local/suceava/vulturesti/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 35/2023 privind atestarea apartenenţei la domeniul privat al comunei Vultureşti, judeţul Suceava, a unui bun imobil",
+"short": "HCL Vulturești nr. 35/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-07",
+"latest": "2023-07-07",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/111172",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-50-2023",
+"path": "local/suceava/vulturesti/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 50/2023 privind aprobarea înființării Serviciului de iluminat public al Comunei Vulturești, județul Suceava, fără personalitate juridică, a delegării gestiunii prin concesiune, a Studiului de fundamentare a deciziei de delegare, a Regulamentului de organizare și funcționare și a documentației de atribuire prin procedura simplificată",
+"short": "HCL Vulturești nr. 50/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-09",
+"latest": "2023-11-09",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/125941",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vulturesti-51-2023",
 "path": "local/suceava/vulturesti/2023/51",
 "kind": "local",

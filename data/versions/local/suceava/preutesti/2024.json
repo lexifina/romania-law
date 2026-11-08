@@ -3,6 +3,96 @@
  "shard": "local/suceava/preutesti/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--preutesti-1-2024",
+   "path": "local/suceava/preutesti/2024/1",
+   "short": "HCL Preutești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 1/2024 privind înfiinţarea Serviciului de iluminat public al comunei Preutesti, județul Suceava",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/141702",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/141702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-16-2024",
+   "path": "local/suceava/preutesti/2024/16",
+   "short": "HCL Preutești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 16/2024 privind aprobarea contului de execuție al bugetului local al comunei Preutești pe anul 2023",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/150568",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/150568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-2-2024",
+   "path": "local/suceava/preutesti/2024/2",
+   "short": "HCL Preutești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 2/2024 privind transmiterea fără plată a terenului în suprafaţă de 8733 mp număr cadastral 35311, CF 35311 aparținând domeniului privat al comunei Preutești în proprietatea Mănăstirii „ Tuturor Sfinților Stejarul” Leucușești",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/141703",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/141703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-38-2024",
+   "path": "local/suceava/preutesti/2024/38",
+   "short": "HCL Preutești nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 38/2024",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/161978",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/161978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-39-2024",
+   "path": "local/suceava/preutesti/2024/39",
+   "short": "HCL Preutești nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 39/2024 privind aprobarea încheierii unui contract de asociere între Comuna Preutești și Fundația FARA România",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/161979",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/161979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-54-2024",
+   "path": "local/suceava/preutesti/2024/54",
+   "short": "HCL Preutești nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 54/2024 privind clasificarea și declararea ca bun public de interes local a unui drum identificat pe teritoriul administrativ al comunei Preutești, județul Suceava",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/168884",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/168884",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--preutesti-61-2024",
    "path": "local/suceava/preutesti/2024/61",
    "short": "HCL Preutești nr. 61/2024",

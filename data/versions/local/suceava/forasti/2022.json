@@ -3,6 +3,861 @@
  "shard": "local/suceava/forasti/2022",
  "acts": [
   {
+   "slug": "hcl-suceava--forasti-1-2022",
+   "path": "local/suceava/forasti/2022/1",
+   "short": "HCL Forăști nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 1/2022 privind aprobarea Strategiei de dezvoltare a serviciilor sociale acordate la nivelul comunei Forăști, județul Suceava, pentru perioada 2022-2027",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/51954",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/51954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-11-2022",
+   "path": "local/suceava/forasti/2022/11",
+   "short": "HCL Forăști nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 11/2022 privind privind aprobarea apartenenței la domeniul privat al comunei Forăști, a imobilului teren, în suprafață de 24.300 mp., din care 6737 mp. arabil și 17.563 mp. neproductiv, situat în tarlaua Poligon – Bahnă, sat Forăști, comuna Forăști, județul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/55231",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/55231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-12-2022",
+   "path": "local/suceava/forasti/2022/12",
+   "short": "HCL Forăști nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 12/2022",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/55232",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/55232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-13-2022",
+   "path": "local/suceava/forasti/2022/13",
+   "short": "HCL Forăști nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 13/2022 privind modificarea și completarea HCL nr. 14 din 30.04.2020 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/55233",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/55233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-14-2022",
+   "path": "local/suceava/forasti/2022/14",
+   "short": "HCL Forăști nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 14/2022 privind rectificarea bugetului local de venituri și cheltuieli",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/59477",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/59477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-15-2022",
+   "path": "local/suceava/forasti/2022/15",
+   "short": "HCL Forăști nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 15/2022 privind depunerea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiție ”ÎNFIINȚARE SISTEM INTELIGENT DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA FORĂȘTI, CU SATELE: FORĂȘTI, ANTOCENI, ONICENI, ROȘIORI, RUȘI, UIDEȘTI, ȚOLEȘTI, MANOLEA, BOURA, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/59478",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/59478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-16-2022",
+   "path": "local/suceava/forasti/2022/16",
+   "short": "HCL Forăști nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 16/2022 privind aprobarea decontării navetei cadrelor didactice de la Școala Gimnazială Oniceni, pentru luna martie 2022",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/59479",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/59479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-17-2022",
+   "path": "local/suceava/forasti/2022/17",
+   "short": "HCL Forăști nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 17/2022 privind aprobarea alocării unor sume unităților de cult din Comuna Forăști, județul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/59480",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/59480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-18-2022",
+   "path": "local/suceava/forasti/2022/18",
+   "short": "HCL Forăști nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 18/2022 privind aprobarea contului de execuție bugetară pe anul 2021",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/59481",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/59481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-19-2022",
+   "path": "local/suceava/forasti/2022/19",
+   "short": "HCL Forăști nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 19/2022 privind aprobarea statutului comunei Forăști, județul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/59482",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/59482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-2-2022",
+   "path": "local/suceava/forasti/2022/2",
+   "short": "HCL Forăști nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 2/2022 privind modificarea statului de funcții al personalului din cadrul aparatului de specialitate al primarului comunei Forăști, județul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/51955",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/51955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-20-2022",
+   "path": "local/suceava/forasti/2022/20",
+   "short": "HCL Forăști nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 20/2022",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/59483",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/59483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-21-2022",
+   "path": "local/suceava/forasti/2022/21",
+   "short": "HCL Forăști nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 21/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/59484",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/59484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-22-2022",
+   "path": "local/suceava/forasti/2022/22",
+   "short": "HCL Forăști nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 22/2022 privind transformarea funcției publice de execuție vacantă de inspector, clasa I, grad profesional asistent, din cadrul compartimentului agricol, în funcția publică de execuție de inspector, clasa I, grad profesional debutant, cu încadrarea în numărul maxim de posturi aprobat și în fondurile bugetare anuale alocate",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/59485",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/59485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-24-2022",
+   "path": "local/suceava/forasti/2022/24",
+   "short": "HCL Forăști nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 24/2022 privind rectificarea bugetului local de venituri si cheltuieli si a listei de investitii",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/61065",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/61065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-25-2022",
+   "path": "local/suceava/forasti/2022/25",
+   "short": "HCL Forăști nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 25/2022 privind modificarea nivelului valorilor imozabile, impozitelor si taxelor locale si a altor taxe asimilate acestora precum si a amenzilor aplicabile în anul fiscal 2023 prin indexarea cu rata inflatiei in procent de 5,1%",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/61066",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/61066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-27-2022",
+   "path": "local/suceava/forasti/2022/27",
+   "short": "HCL Forăști nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 27/2022 privind aprobarea inventarierii in domeniul privat al comunei Forasti a unui buldoexcavator, marca JCB, TIP 3KX 14M5WM",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/61068",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/61068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-28-2022",
+   "path": "local/suceava/forasti/2022/28",
+   "short": "HCL Forăști nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 28/2022 privind aprobarea depunerii spre finantare a proiectului de investitii \"ELABORAREA IN FORMAT DIGITAL A DOCUMENTATIEI DE AMENAJARE A ATERITORIULUI SI URBANISM-PLAN URBANISTIC GENERAL PENTRU COMUNA FORASTI, JUDETUL SUCEAVA\"",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/63959",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/63959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-29-2022",
+   "path": "local/suceava/forasti/2022/29",
+   "short": "HCL Forăști nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 29/2022 privind aprobarea depunerii spre finantare a priectului de investitie \"IMPLEMENTAREA SISTEMELOR INTELIGENTE DE MANAGEMENT LOCAL IN COMUNA FORASTI, JUDETUL SUCEAVA\"",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/63960",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/63960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-30-2022",
+   "path": "local/suceava/forasti/2022/30",
+   "short": "HCL Forăști nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 30/2022 privind rectificarea bugetului local de venituri si cheltuieli",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/64341",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/64341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-31-2022",
+   "path": "local/suceava/forasti/2022/31",
+   "short": "HCL Forăști nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 31/2022 privind insusirea si aprobarea documentatiei cadastrale de dezmembrare in 10 loturi distincte a unui imobil, in suprafata 93248 mp, din domeniul privat al comunei Forasti, judetul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/64342",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/64342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-33-2022",
+   "path": "local/suceava/forasti/2022/33",
+   "short": "HCL Forăști nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 33/2022 privind scoaterea din functiune, casarea si valorificarea unui buldoexcavator marca BMC, nr. SV-09-HWG, proprietate private a comunei Forasti",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/64344",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/64344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-34-2022",
+   "path": "local/suceava/forasti/2022/34",
+   "short": "HCL Forăști nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 34/2022 privind aprobarea alocarii unor sume unitatilor de cult din comuna Forasti, judetul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/64345",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/64345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-37-2022",
+   "path": "local/suceava/forasti/2022/37",
+   "short": "HCL Forăști nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 37/2022 privind rectificarea bugetului local de venituri si cheltuieli si a Listei de Investitii",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/69356",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/69356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-4-2022",
+   "path": "local/suceava/forasti/2022/4",
+   "short": "HCL Forăști nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 4/2022 privind aprobarea Planului de acțiuni, de lucrări de interes local privind beneficiarii Legii 416/2001",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/51957",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/51957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-40-2022",
+   "path": "local/suceava/forasti/2022/40",
+   "short": "HCL Forăști nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 40/2022 privind aprobarea executiei bugetului intocmit pe cele 2 sectiuni, functionare si dezvoltare",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/69359",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/69359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-43-2022",
+   "path": "local/suceava/forasti/2022/43",
+   "short": "HCL Forăști nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 43/2022 privind Implementarea proiectului “Achizitie utilaj (tractor) pentru comuna Forasti, Judetul Suceava”",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/69362",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/69362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-44-2022",
+   "path": "local/suceava/forasti/2022/44",
+   "short": "HCL Forăști nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 44/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/69363",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/69363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-45-2022",
+   "path": "local/suceava/forasti/2022/45",
+   "short": "HCL Forăști nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 45/2022 privind rectificarea bugetului local de venituri si cheltuieli si a Listei de Investitii",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/69364",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/69364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-47-2022",
+   "path": "local/suceava/forasti/2022/47",
+   "short": "HCL Forăști nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 47/2022 privind acordarea mandatului special Presedintelui Asociatiei Judetene pentru Apa si canalizare Suceava sa semneze in numele si pe seama UAT, comuna Forasti, judetul Suceava, Actele aditionale de modificare a Actului Constitutiv si a Statutului Asociatiei Judetene pentru Apa si Canalizare Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/69366",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/69366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-49-2022",
+   "path": "local/suceava/forasti/2022/49",
+   "short": "HCL Forăști nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 49/2022 privind rectificarea bugetului local de venituri si cheltuieli si a Listei de Investitii",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79756",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-5-2022",
+   "path": "local/suceava/forasti/2022/5",
+   "short": "HCL Forăști nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 5/2022 privind utilizarea excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar pe anul 2021",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/51958",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/51958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-50-2022",
+   "path": "local/suceava/forasti/2022/50",
+   "short": "HCL Forăști nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 50/2022 privind aprobarea actualizarii Studiului de Fezabilitate, a indicatorilor tehnico-economici si a Divizului general pentru proiectul \"Extindere retea canalizare in satele Oniceni si Rosiori , comuna Forasti, judetul Suceava,\" prin programul national de investitii \"Anghel Silagny\"",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79757",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-51-2022",
+   "path": "local/suceava/forasti/2022/51",
+   "short": "HCL Forăști nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 51/2022 privind retificarea bugetului local de venituri si cheltuieli",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79768",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-53-2022",
+   "path": "local/suceava/forasti/2022/53",
+   "short": "HCL Forăști nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 53/2022 privind aprobarea elaborarii studiului de fezabilitate si a proiectului tehnic pentru obiectivul “ Modernizare drumuri satesti calamitate in satele Boura, Tolesti, Oniceni",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79770",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-54-2022",
+   "path": "local/suceava/forasti/2022/54",
+   "short": "HCL Forăști nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 54/2022 privind cu privire la revocarea HCL nr 50 din 09.08.2022 privind aprobarea actualizarii Studiului de Fezabilitate, a indicatorilor tehnico-economici si a Devizului general pentru proiectul “Extindere retea canalizare in satele Oniceni si Rosiori, comuna Forasti, judetul Suceava”, prin Programul National de Investitii “Anghel Salygni”",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79771",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-55-2022",
+   "path": "local/suceava/forasti/2022/55",
+   "short": "HCL Forăști nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 55/2022 privind privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizati si a devizului general actualizat pentru proiectul de ivestitii “Extindere retea canalizare in satele Oniceni si Rosiori, comuna Forasti, judetul Suceava”, aprobat pentru finantare prin Programul National de Investitii “Anghel Salygni” precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79772",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-56-2022",
+   "path": "local/suceava/forasti/2022/56",
+   "short": "HCL Forăști nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 56/2022 privind modificarea organigramei a statutului de functii al aparatului de specialitate al primarului comunei Forasti, judetul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79773",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-57-2022",
+   "path": "local/suceava/forasti/2022/57",
+   "short": "HCL Forăști nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 57/2022 privind aprobartea executiei bugetului intocmit pe cele doua sectiuni, functionare si dezvoltare",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79774",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-58-2022",
+   "path": "local/suceava/forasti/2022/58",
+   "short": "HCL Forăști nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 58/2022 privind punerea la dispozitia Comisiei comunale de fond funciar Forasti a unei suprafete de 2500mp teren domeniu privat al comunei Forasti, evidentiat in CF NR. 33557 Forasti, inscris in TP nr 764/ 07.09.1994",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79775",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-59-2022",
+   "path": "local/suceava/forasti/2022/59",
+   "short": "HCL Forăști nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 59/2022 privind punerea la dispozitia comisiei comunale de fond funciar Forasti a unei suprafete de 10.000 mp teren domeniu privat al comunei Forasti, evidentiat in CF nr. 33561 Forasti, inscris in TP nr. 738/ 18.05.1994",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79776",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-6-2022",
+   "path": "local/suceava/forasti/2022/6",
+   "short": "HCL Forăști nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 6/2022 privind aprobarea bugetului creditelor interne pe anul 2022",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/51959",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/51959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-60-2022",
+   "path": "local/suceava/forasti/2022/60",
+   "short": "HCL Forăști nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 60/2022 privind punerea la dispozitia comisiei comunale de fond funciar Forasti a unei suprafete de 1800 mp teren domeniu privat al comunei Forasti, evidentiat in CF nr. 33556 Forasti, inscris in TP nr. 2413/ 15.03.2004",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79777",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-61-2022",
+   "path": "local/suceava/forasti/2022/61",
+   "short": "HCL Forăști nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 61/2022 privind punerea la dispozitia comisiei comunale de fond funciar Forasti a unei suprafete de 2230mp teren domeniu privat al comunei Forasti, evidentiat in CF nr. 33563 Forasti, inscris in TP nr. 647/ 18.05.1994",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79778",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-62-2022",
+   "path": "local/suceava/forasti/2022/62",
+   "short": "HCL Forăști nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 62/2022",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79779",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-63-2022",
+   "path": "local/suceava/forasti/2022/63",
+   "short": "HCL Forăști nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 63/2022 privind rectificarea votului local de venituri si cheltuieli si a Listei de investitii",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79783",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-65-2022",
+   "path": "local/suceava/forasti/2022/65",
+   "short": "HCL Forăști nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 65/2022 privind insusirea si aprobarea documentatiei cadastrale de dezmembrare in doua loturi distincte a unui mobil in suprafata de 1635 mp, din domeniul public al comunei Forasti, judetul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79785",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-66-2022",
+   "path": "local/suceava/forasti/2022/66",
+   "short": "HCL Forăști nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 66/2022 privind insusirea si aprobarea documentatiei cadastrale cu propunere de alipire a doua parcele de teren, rezultand un singur lot in suprafata de 872 mp, domeniu public al comunei Forasti, judetul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79786",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-67-2022",
+   "path": "local/suceava/forasti/2022/67",
+   "short": "HCL Forăști nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 67/2022 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizati si a devizului general actualizat pentru obiectivul de investitii \"Construire poduri si podete in satele Manolea si Boura, comuna Forasti , judetul Suceava\", aprobat pentru finantare prin Programul national de investitii \"Anghel Saligny\", precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obictivului",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79787",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-7-2022",
+   "path": "local/suceava/forasti/2022/7",
+   "short": "HCL Forăști nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 7/2022 privind completarea anexei la HCL nr. 130 din 16.12.2021 cu privire la aprobarea organizării rețelei școlare, din raza teritorială a comunei Forăști, pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/51960",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/51960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-70-2022",
+   "path": "local/suceava/forasti/2022/70",
+   "short": "HCL Forăști nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 70/2022 privind modificarea HCL nr. 59 din 31.08.2022 privind punerea la dispozitia Comisiei comunale de fond funciar Forasti a unei suprafete de 10.000 mp teren domeniu privat al comunei Forasti, evidentiat in CF nr. 33561 UAT Forasti, inscris in TP nr. 738/18.05.1994",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79790",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-71-2022",
+   "path": "local/suceava/forasti/2022/71",
+   "short": "HCL Forăști nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 71/2022 privind modificarea anexei nr. 2 la HCL nr. 55 din 31.08.2022 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizati si a devizului general actualizat pentru obiectivul de investitii 'Extindere retea canalizare in satele Oniceni si Rosiori, comuna Forasti, judetul Suceava\", aprobat pentru finantare prin Programul national de investitii 'Anghel Saligny\", precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local prin relizarea obiectivului",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79791",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-72-2022",
+   "path": "local/suceava/forasti/2022/72",
+   "short": "HCL Forăști nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 72/2022 privind aprobarea depunerii proiectului \"EXTINDEREA SISTEMELOR INTELIGENTE DE MANAGEMENT LOCAL DIN COMUNA FORASTI, JUDETUL SUCEAVA\" in cadrul Planului National de Redresare si Rezilienta-Componenta 10-Fondul Local I.1.2.-Asigurarea infrastructurii pentru transportul verde -ITS/ alte infrastructuri TIC",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79955",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-73-2022",
+   "path": "local/suceava/forasti/2022/73",
+   "short": "HCL Forăști nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 73/2022 privind aprobarea apartenentei la domeniul privat al comunei Forasti a imobilului teren in suprafata de 8.017 mp, arabil, situat in extravilan, in tarlaua Valea Lupului, comuna Forasti, judetul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79956",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-75-2022",
+   "path": "local/suceava/forasti/2022/75",
+   "short": "HCL Forăști nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 75/2022",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79958",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-76-2022",
+   "path": "local/suceava/forasti/2022/76",
+   "short": "HCL Forăști nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 76/2022 privind modificarea organigramei , a statutului de functii al aparatului de specialitate al primarului comunei Forasti, judetul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/79959",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/79959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-77-2022",
+   "path": "local/suceava/forasti/2022/77",
+   "short": "HCL Forăști nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 77/2022 privind rectificarea bugetului local de venituri si cheltuieli si a listei de investitii",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/80093",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/80093",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--forasti-78-2022",
    "path": "local/suceava/forasti/2022/78",
    "short": "HCL Forăști nr. 78/2022",
@@ -28,6 +883,21 @@
      "from": "2022-11-21",
      "units": 1,
      "source_url": "https://emol.ro/forasti-sv/registru-hcl/80095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-8-2022",
+   "path": "local/suceava/forasti/2022/8",
+   "short": "HCL Forăști nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 8/2022 provand aprobarea bugetului local de venituri și cheltuieli și a Programului de investiții publice pe anul 2022",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/55228",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/55228",
      "sha256": null
     }
    ]
@@ -178,6 +1048,21 @@
      "from": "2022-12-21",
      "units": 1,
      "source_url": "https://emol.ro/forasti-sv/registru-hcl/83780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-9-2022",
+   "path": "local/suceava/forasti/2022/9",
+   "short": "HCL Forăști nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 9/2022 privind aprobarea participării la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități și a indicatorilor tehnico-economici, în vederea realizării obiectivului de investiții “Reducerea emisiilor de gaze cu efect de seră în transporturi, prin amplasarea stațiilor de reîncărcare pentru vehicule electrice în comuna Forăști, județul Suceava”",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/55229",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/55229",
      "sha256": null
     }
    ]

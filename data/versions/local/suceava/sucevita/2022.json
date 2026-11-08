@@ -3,6 +3,51 @@
  "shard": "local/suceava/sucevita/2022",
  "acts": [
   {
+   "slug": "hcl-suceava--sucevita-18-2022",
+   "path": "local/suceava/sucevita/2022/18",
+   "short": "HCL Sucevița nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sucevița nr. 18/2022 privind completarea domeniului privat al comunei Sucevița, cu două suprafețe de teren intravilan situat în zona ”Șantier ”",
+   "url": "https://emol.ro/sucevita-sv/registru-hcl/86503",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sucevita-sv/registru-hcl/86503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--sucevita-29-2022",
+   "path": "local/suceava/sucevita/2022/29",
+   "short": "HCL Sucevița nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sucevița nr. 29/2022 privind acordarea dreptului de uz si servitute cu titlul gratuit către SC DELGAZ GRID SA asupra unor terenuri",
+   "url": "https://emol.ro/sucevita-sv/registru-hcl/86992",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sucevita-sv/registru-hcl/86992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--sucevita-30-2022",
+   "path": "local/suceava/sucevita/2022/30",
+   "short": "HCL Sucevița nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sucevița nr. 30/2022",
+   "url": "https://emol.ro/sucevita-sv/registru-hcl/86993",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sucevita-sv/registru-hcl/86993",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--sucevita-42-2022",
    "path": "local/suceava/sucevita/2022/42",
    "short": "HCL Sucevița nr. 42/2022",

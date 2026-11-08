@@ -3,6 +3,171 @@
  "shard": "local/suceava/forasti/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--forasti-10-2024",
+   "path": "local/suceava/forasti/2024/10",
+   "short": "HCL Forăști nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 10/2024 privind aprobarea documentației tehnico-economice (faza SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții ”IMPLEMENTAREA SISTEMELOR INTELIGENTE DE MANAGEMENT LOCAL DIN COMUNA FORĂȘTI, JUDEȚUL SUCEAVA”, finanțat prin Planul Național de Redresare și Reziliență - Componenta C10 - Fondul local, Investiția I.1.2. Asigurarea infrastructurii pentru transportul verde - ITS/Alte infrastrucuri TIC - Runda 1",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/187861",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/187861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-15-2024",
+   "path": "local/suceava/forasti/2024/15",
+   "short": "HCL Forăști nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 15/2024 privind aprobarea Regulamentului pentru înregistrarea, evidența și radierea vehiculelor, la nivelul comunei Forăști, care nu se supun înmatriculării",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/187896",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/187896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-17-2024",
+   "path": "local/suceava/forasti/2024/17",
+   "short": "HCL Forăști nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 17/2024 privind aprobarea Studiului de fezabilitate, a Indicatorilor tehnico-economici și a Devizului general pentru obiectivul de investiții ”Înființare sistem inteligent de distribuire gaze naturale în Comuna Forăști cu satele: Forăști, Antoceni, Oniceni, Rosiori, Rusi, Uidesti, Țolești, Manolea, Boura, județul Suceava",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/187906",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/187906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-24-2024",
+   "path": "local/suceava/forasti/2024/24",
+   "short": "HCL Forăști nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 24/2024 privind constituirea Comisiei de evaluare a ofertelor depuse în cadrul procedurii de atribuire a concesiunii serviciului de utilitate publică de distribuție gaze naturale la nivelul comunei Forăști, județul Suceava, în cadrul proiectului ”Înființare sistem inteligent de distribuție gaze naturale în Comuna Forăști cu satele: Forăști, Antoceni, Oniceni, Roșiori, Rusi, Uidesti, Țolești, Manolea, Boura, județul Suceava”",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/188026",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/188026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-28-2024",
+   "path": "local/suceava/forasti/2024/28",
+   "short": "HCL Forăști nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 28/2024 privind actualizarea bugetului proiectului de investiție „Amenajare parcare și spații verzi în localitatea Forăști, comuna Forăști, județul Suceava”",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/188064",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/188064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-30-2024",
+   "path": "local/suceava/forasti/2024/30",
+   "short": "HCL Forăști nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 30/2024 privind indexarea cu rata inflației în procent de 10,4% a impozitelor și taxelor speciale aplicabile în anul fiscal 2025",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/188078",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/188078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-31-2024",
+   "path": "local/suceava/forasti/2024/31",
+   "short": "HCL Forăști nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 31/2024 privind stabilirea unor situații deosebite în care pot fi acordate ajutoare de urgență/comunitare și a metodologiei de acordare a acestora",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/188087",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/188087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-37-2024",
+   "path": "local/suceava/forasti/2024/37",
+   "short": "HCL Forăști nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 37/2024 privind actualizarea Devizului general rezultat în urma semnării Contractului de finanțare pentru obiectivul de investiții ''Reducerea emisiilor de gaze cu efect de seră în transporturi, prin amplasarea stațiilor de încărcare pentru vehicule electrice în comuna Forăști, județul Suceava'' finanțat prin Programul privind reducerea emisiilor de gaze cu efect de seră de transporturi prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități din veniturile Fondului pentru mediu",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/188163",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/188163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-46-2024",
+   "path": "local/suceava/forasti/2024/46",
+   "short": "HCL Forăști nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 46/2024 privind aprobarea documentației tehnico-economice (faza SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții ''Extinderea sistemelor inteligente de management local în comuna Forăști, județul Suceava'' finanțat prin Planul Național de Redresare și Reziliență - Componenta C10 - Fondul local, Investiția I.1.2 Asigurarea infrastructurii pentru transportul verde ITS/Alte infrastructuri TIC - Runda II",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/188191",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/188191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-48-2024",
+   "path": "local/suceava/forasti/2024/48",
+   "short": "HCL Forăști nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 48/2024 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ''Elaborarea în format digital/GIS a documentației de amenajare a teritoriului și de urbanism - Plan urbanistic pentru comuna Forăști, județul Suceava'' finanțat prin Planul Național de Redresare și Reziliență - Componenta C10 - Fondul local, Investiția I.4 - Elaborarea/actualizarea în format GIS a documentațiilor de amenajare și de planificare urbană, Runda I",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/188193",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/188193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--forasti-49-2024",
+   "path": "local/suceava/forasti/2024/49",
+   "short": "HCL Forăști nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Forăști nr. 49/2024 privind actualizarea indicatorilor tehnico-economici și a Devizului general rezultați în urma atribuirii contractului de lucrări pentru obiectivul de investiții ''Construire poduri și podețe în satele Manolea și Boura, comuna Forăști, județul Suceava'', pentru care a fost semnat contractul de finanțare în cadrul Programului național de investiții ''Anghel Saligny''",
+   "url": "https://emol.ro/forasti-sv/registru-hcl/188194",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/forasti-sv/registru-hcl/188194",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--forasti-65-2024",
    "path": "local/suceava/forasti/2024/65",
    "short": "HCL Forăști nr. 65/2024",

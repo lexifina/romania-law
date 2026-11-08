@@ -3,6 +3,28 @@
 "shard": "local/suceava/sucevita/2023",
 "acts": [
 {
+"slug": "hcl-suceava--sucevita-4-2023",
+"path": "local/suceava/sucevita/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sucevița nr. 4/2023 privind modificarea Art.2 (2) din H.CL. 85 din 29.10.2021 privind indicatorii tehnico- economici și valoarea investitiei “Modernizare infrastructura rutiera in comuna Sucevita, judetul Suceava”",
+"short": "HCL Sucevița nr. 4/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-23",
+"latest": "2023-05-23",
+"portal": "https://emol.ro/sucevita-sv/registru-hcl/105468",
+"council": "suceava/sucevita",
+"council_name": "Consiliul Local al Comunei Sucevița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--sucevita-53-2023",
 "path": "local/suceava/sucevita/2023/53",
 "kind": "local",

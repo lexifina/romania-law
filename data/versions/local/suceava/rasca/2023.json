@@ -3,6 +3,636 @@
  "shard": "local/suceava/rasca/2023",
  "acts": [
   {
+   "slug": "hcl-suceava--rasca-10-2023",
+   "path": "local/suceava/rasca/2023/10",
+   "short": "HCL Râșca nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 10/2023",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/116488",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/116488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-13-2023",
+   "path": "local/suceava/rasca/2023/13",
+   "short": "HCL Râșca nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 13/2023",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/116491",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/116491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-17-2023",
+   "path": "local/suceava/rasca/2023/17",
+   "short": "HCL Râșca nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 17/2023 privind aprobarea organigramei și modificarea statului de funcții pentru aparatul de specialitate a primarului comunei Râșca, județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/116508",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/116508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-18-2023",
+   "path": "local/suceava/rasca/2023/18",
+   "short": "HCL Râșca nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 18/2023 privind aprobarea Regulamentului privind promovarea acțiunilor având ca obiect transformarea amenzilor contravenșionale în muncă neremunerată în folosul comunității și scoaterea din evidențele fiscale a unor sume reprezentând amenzi contravenționale ale debitorilor decedați",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/116509",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/116509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-2-2023",
+   "path": "local/suceava/rasca/2023/2",
+   "short": "HCL Râșca nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 2/2023 privind aprobarea prelungirii valabilității scrisorilor de garanție bancare nr. 3963 din 11.10.2017 pentru proiectul ”Reabilitare, modernizare și dotare Cămin Cultural în sat Jahalia, comuna Râșca, județul Suceava”, finanțat prin Agenția pentru Finanțarea Investițiilor Rurale, măsura 7,6, conform contract de finanțare C0760CM00011613500120/11.09.2017",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/116475",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/116475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-22-2023",
+   "path": "local/suceava/rasca/2023/22",
+   "short": "HCL Râșca nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 22/2023 privind implementarea proiectului „Extinderea și creșterea eficienței energetice a infrastructurii de iluminat public în comuna Râșca, Județul Suceava”",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/116518",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/116518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-23-2023",
+   "path": "local/suceava/rasca/2023/23",
+   "short": "HCL Râșca nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 23/2023 privind aprobarea achiziției publice pentru servicii de elaborare expertiză tehnică cerută A4, B2, D, proiect faza studio de fezabilitate (S.F.)/documentație de avizare a lucrărilor de intervenție (D.A.L.I.) verificare tehnică de specialitate și documentații tehnice obținere avize și acorduri pentru obiectivul de investiții „Refacere și modernizare drumuri și poduri peste pârâul Slatioara afectate de calamități naturale în comuna Râșca, județul Suceava”",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/116519",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/116519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-3-2023",
+   "path": "local/suceava/rasca/2023/3",
+   "short": "HCL Râșca nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 3/2023 privind alocarea sumei de 50.000 lei pentru acoperirea cheltuielilor ocazionate cu lucrările de construcții la Case Sociale, cu hramul „Sfântul Ierarh Ioan de la Râșca, din cadrul Parohiei ”Sfinții Voievozi” Râșca, din sat Râșca, din sat Râșca, comuna Râșca",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/116476",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/116476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-32-2023",
+   "path": "local/suceava/rasca/2023/32",
+   "short": "HCL Râșca nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 32/2023 privind rectificare de buget pe anul 2023",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/120013",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/120013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-34-2023",
+   "path": "local/suceava/rasca/2023/34",
+   "short": "HCL Râșca nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 34/2023 privind stabilirea unor măsuri pentru delegarea gestiunii activității de colectare și transport a deșeurilor municipale, inclusiv operarea stațiilor de transfer și a centrelor de colectare cu aport voluntar în Județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/120015",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/120015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-35-2023",
+   "path": "local/suceava/rasca/2023/35",
+   "short": "HCL Râșca nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 35/2023 privind aprobarea modificării și completării Statutului Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în Județul Suceava, precum și împuternicirea Președintelui Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în Județul Suceava să semneze, în numele și pe seama membrilor Asociației, Actul adițional de modificare și completare a Statutului Asociației prevăzut în Anexa la prezenta hotărâre",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/120016",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/120016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-36-2023",
+   "path": "local/suceava/rasca/2023/36",
+   "short": "HCL Râșca nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 36/2023 privind acordul de principiu pentru înfrățirea Comunei Râșca, județul Suceava, România cu Comuna Pașcani, Raionul Criuleni, Republica Moldova",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/120017",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/120017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-37-2023",
+   "path": "local/suceava/rasca/2023/37",
+   "short": "HCL Râșca nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 37/2023 privind înființarea Serviciului public pentru gestionare câinilor fără stăpân din comuna Râșca, județul Suceava având ca modalitate de gestiune: gestiune delegată",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/120018",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/120018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-39-2023",
+   "path": "local/suceava/rasca/2023/39",
+   "short": "HCL Râșca nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 39/2023 privind aprobarea achiziției publice a unei autospeciale de pompieri marca MAN OAF17272FA, 2 axe, 4x4, de către Comuna Râșca",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/125253",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/125253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-4-2023",
+   "path": "local/suceava/rasca/2023/4",
+   "short": "HCL Râșca nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 4/2023 privind aprobarea salariilor de bază aferente funcțiilor din cadrul familiei ocupaționale „Administrație”, utilizate în aparatul de specialitate al Primarului comunei Râșca, jud. Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/116477",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/116477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-40-2023",
+   "path": "local/suceava/rasca/2023/40",
+   "short": "HCL Râșca nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 40/2023 privind rectificarea de buget pe anul 2023",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/125254",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/125254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-41-2023",
+   "path": "local/suceava/rasca/2023/41",
+   "short": "HCL Râșca nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 41/2023 privind aprobarea participării Comunei Râșca la Parteneriatul LEADER 2023 - 2027 cu denumirea Asociația Grupul de Acțiune Locală CONFLUENTE NORDICE",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/125255",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/125255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-43-2023",
+   "path": "local/suceava/rasca/2023/43",
+   "short": "HCL Râșca nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 43/2023 privind aprobarea proiectului „Microbuze electrice pentru elevii din Județul Suceava”, care urmează să fie promovat la finanțare în cadrul Investiției I10. Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi, Componenta C15 Educație, din Planul Național de Redresare și Reziliență (PNRR) și a cheltuielilor legate de acesta",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/125268",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/125268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-44-2023",
+   "path": "local/suceava/rasca/2023/44",
+   "short": "HCL Râșca nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 44/2023 privind aprobarea indicatorilor tehnico-economici ai proiectului „Înființare rețea de alimentare cu apă potabilă în comuna Râșca, Județul Suceava”",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/125269",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/125269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-46-2023",
+   "path": "local/suceava/rasca/2023/46",
+   "short": "HCL Râșca nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 46/2023",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/125271",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/125271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-48-2023",
+   "path": "local/suceava/rasca/2023/48",
+   "short": "HCL Râșca nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 48/2023 privind aprobarea investiției și a indicatorilor tehnico-economici ai obiectivului de investiții: „REFACERE DRUMURI ȘI PODURI PESTE PÂRÂUL SLĂTIOARA AFECTATE DE CALAMITĂȚI NATURALE ÎN COMUNA RÂȘCA, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/134563",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/134563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-49-2023",
+   "path": "local/suceava/rasca/2023/49",
+   "short": "HCL Râșca nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 49/2023 privind rectificare de buget pe anul 2023",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/134564",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/134564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-53-2023",
+   "path": "local/suceava/rasca/2023/53",
+   "short": "HCL Râșca nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 53/2023 privind actualizarea indicatorilor proiectului „Extinderea și creșterea eficienței energetice a infrastructurii de iluminat public în comuna Râșca, Județul Suceava”",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/134568",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/134568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-54-2023",
+   "path": "local/suceava/rasca/2023/54",
+   "short": "HCL Râșca nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 54/2023",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/134569",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/134569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-55-2023",
+   "path": "local/suceava/rasca/2023/55",
+   "short": "HCL Râșca nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 55/2023",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/134570",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/134570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-56-2023",
+   "path": "local/suceava/rasca/2023/56",
+   "short": "HCL Râșca nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 56/2023",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/134571",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/134571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-57-2023",
+   "path": "local/suceava/rasca/2023/57",
+   "short": "HCL Râșca nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 57/2023 privind apobarea neasumării/asumării responsabilității de către UAT Comuna Râșca a organizării și derulării procedurilor de atribuire a contractelor/acodurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli al României",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/134572",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/134572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-58-2023",
+   "path": "local/suceava/rasca/2023/58",
+   "short": "HCL Râșca nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 58/2023 privind aprobarea studiului de fezabilitate actualizat, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții ”Înființare rețea de alimentare cu apă în comuna Râșca, județul Suceava”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/134573",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/134573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-60-2023",
+   "path": "local/suceava/rasca/2023/60",
+   "short": "HCL Râșca nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 60/2023 privind rectificarea de buget pe anul 2023",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135352",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-62-2023",
+   "path": "local/suceava/rasca/2023/62",
+   "short": "HCL Râșca nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 62/2023 privind modificarea art. 2 din HCL nr. 15 din 24.03.2023 privind aprobarea proiectului „Biblioteca - hub digital pentru educație”, care urmează să fie promovat la finanțare în cadrul Investiției I17. Scheme de finanțare pentru biblioteci pentru a deveni hub-uri de dezvoltare a competențelor digitale, Componenta 7 Transformarea digitală, din Planul Național de Redresare și Reziliență (PNRR) și a cheltuielilor legate de acesta",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135354",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-63-2023",
+   "path": "local/suceava/rasca/2023/63",
+   "short": "HCL Râșca nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 63/2023 privind aprobarea Acordului de cooperare între Comuna Râșca, județul Suceava, România cu Comuna Pașcani, Raionul Criuleni, Republoca Moldova",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135355",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-64-2023",
+   "path": "local/suceava/rasca/2023/64",
+   "short": "HCL Râșca nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 64/2023 privind aprobarea achiziției publice pentru servicii de proiectare la obiectivul de investiții „Modernizare tronsoane din străzile: Arini, Doi Lei, Stejarului din comuna Râșca, județul Suceava” în sumă de 50.000 lei fără TVA și 59,500 lei cu TVA",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135356",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-66-2023",
+   "path": "local/suceava/rasca/2023/66",
+   "short": "HCL Râșca nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 66/2023 privind revocarea HCL nr. 7 din 22.01.2016 privind radierea dreptului de proprietate din domeniul privat al comunei Râșca, județul Suceava pentru suprafața de 1210 mp. pășune având numărul cadastral al imobilului 31315 și suprafața de 16554 mp. pășune având numărul cadastral al imobilului 31313, în vederea intabulării în domeniul public al comunei Râșca, județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135367",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-67-2023",
+   "path": "local/suceava/rasca/2023/67",
+   "short": "HCL Râșca nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 67/2023 privind înființarea Serviciului Voluntar pentru Situații de Urgență al comunei Râșca, județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135368",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-68-2023",
+   "path": "local/suceava/rasca/2023/68",
+   "short": "HCL Râșca nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 68/2023 privind organizarea apărării împotriva incendiilor a comunei RÂȘCA, județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135369",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-7-2023",
+   "path": "local/suceava/rasca/2023/7",
+   "short": "HCL Râșca nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 7/2023 privind aprobarea protocolului de colaborare cu Ministerul Muncii și Solidarității Sociale în cadrul proiectului ”HUB de servicii MMSS-SII MMSS” cod MySmis 13063",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/116485",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/116485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-70-2023",
+   "path": "local/suceava/rasca/2023/70",
+   "short": "HCL Râșca nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 70/2023 privind reglementarea focului deschis și a fumatului în Comuna Râșca, județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135371",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-71-2023",
+   "path": "local/suceava/rasca/2023/71",
+   "short": "HCL Râșca nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 71/2023 privind aprobarea achiziției publice pentru servicii de elaborare Studiu de Fezabilitate la obiectivul de investiții ”Înființare rețea de canalizare menajeră și stații de epurare, în comuna Râșca, județul Suceava”, în sumă de 260.000 lei fără TVA/309.400 lei cu TVA",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135372",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-72-2023",
+   "path": "local/suceava/rasca/2023/72",
+   "short": "HCL Râșca nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 72/2023 privind aprobarea achiziției publice pentru servicii de consultanță la obiectivul de investiții „Înființare rețea de canalizare menajeră și stații de epurare, în comuna Râșca, județul Suceava”, în sumă de 200.000 lei fără TVA/238.000 lei cu TVA",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135373",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-73-2023",
+   "path": "local/suceava/rasca/2023/73",
+   "short": "HCL Râșca nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 73/2023 privind aprobarea achiziției publice pentru servicii de elaborare Proiect tehnic la obiectivul de investiții „Înființare rețea de apă, în comuna Râșca, județul Suceava!, în sumă de 252.000 lei fără TVA/299.880 lei cu TVA",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135374",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-74-2023",
+   "path": "local/suceava/rasca/2023/74",
+   "short": "HCL Râșca nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 74/2023 privind aprobarea achiziției publice pentru servicii de elaborare Studiu de Fezabilitate la obiectivul de investiții „Înființare Parc Fotovoltaic, în comuna Râșca, județul Suceava”, în sumă de 73.250 lei fără TVA/87.167,5 lei cu TVA",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135375",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-75-2023",
+   "path": "local/suceava/rasca/2023/75",
+   "short": "HCL Râșca nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 75/2023 privind aprobarea achiziției publice pentru servicii de consultanță la obiectivul de investiții „Înființare Parc Fotovoltaic în comuna Râșca, județul Suceava”, în sumă de 50.000.00 lei fără TVA/59.500 lei cu TVA",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/135376",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/135376",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--rasca-76-2023",
    "path": "local/suceava/rasca/2023/76",
    "short": "HCL Râșca nr. 76/2023",

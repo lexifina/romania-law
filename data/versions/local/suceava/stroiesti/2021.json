@@ -3,6 +3,21 @@
  "shard": "local/suceava/stroiesti/2021",
  "acts": [
   {
+   "slug": "hcl-suceava--stroiesti-1-2021",
+   "path": "local/suceava/stroiesti/2021/1",
+   "short": "HCL Stroiești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 1/2021 privind acoperirea definitivă din excedentul bugetului local a deficitului secțiunii de dezvoltare pentru anul 2020",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26761",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26761",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--stroiesti-10-2021",
    "path": "local/suceava/stroiesti/2021/10",
    "short": "HCL Stroiești nr. 10/2021",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--stroiesti-2-2021",
+   "path": "local/suceava/stroiesti/2021/2",
+   "short": "HCL Stroiești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 2/2021 privind necesitatea, oportunitatea, potențialul economic și implementarea proiectului ”Dotarea unităţilor de învăţământ din Comuna Stroiești cu echipamente de protecţie şi dispozitive medicale”, denumit în continuare Proiect",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26762",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26762",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--stroiesti-20-2021",
    "path": "local/suceava/stroiesti/2021/20",
    "short": "HCL Stroiești nr. 20/2021",
@@ -298,6 +328,81 @@
      "from": "2021-05-28",
      "units": 1,
      "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-4-2021",
+   "path": "local/suceava/stroiesti/2021/4",
+   "short": "HCL Stroiești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 4/2021 privind stabilirea unor situaţii deosebite, pentru anul 2021, în care primarul poate acorda ajutoare de urgenţă familiilor sau persoanelor singure, în vederea aplicării prevederilor art.28, alin.(2) din Legea nr.416/2001 privind venitul minim garantat, cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26795",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-5-2021",
+   "path": "local/suceava/stroiesti/2021/5",
+   "short": "HCL Stroiești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 5/2021 privind aprobarea numarului de asistenţi personali ai persoanelor cu handicap grav, pentru anul 2021",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26796",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-6-2021",
+   "path": "local/suceava/stroiesti/2021/6",
+   "short": "HCL Stroiești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 6/2021 privind aprobarea Planului de acţiuni sau de lucrări de interes local pentru anul 2021, în vederea aplicării Legii nr.416/2001 privind venitul minim garantat, cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26797",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-8-2021",
+   "path": "local/suceava/stroiesti/2021/8",
+   "short": "HCL Stroiești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 8/2021 privind înființarea Serviciului Voluntar pentru Situaţii de Urgenţă",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26799",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-9-2021",
+   "path": "local/suceava/stroiesti/2021/9",
+   "short": "HCL Stroiești nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 9/2021 privind aprobarea Actelor adiționale de modificare și completare a Actului constitutiv şi a Statutului Asociaţiei de Dezvoltare Intercomunitară de Gestionare a Deşeurilor în Judeţul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/26800",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/26800",
      "sha256": null
     }
    ]

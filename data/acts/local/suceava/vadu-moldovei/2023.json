@@ -3,6 +3,72 @@
 "shard": "local/suceava/vadu-moldovei/2023",
 "acts": [
 {
+"slug": "hcl-suceava--vadu-moldovei-6-2023",
+"path": "local/suceava/vadu-moldovei/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 6/2023 privind anularea obligațiilor fiscale datorate de debitori, persoane juridice, radiați din Registrul Comerțului și scăderea societăților radiate din evidența fiscală a Comunei Vadu Moldovei, județul Suceava",
+"short": "HCL Vadu Moldovei nr. 6/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-07",
+"latest": "2023-08-07",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/95095",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-24-2023",
+"path": "local/suceava/vadu-moldovei/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 24/2023 privind aprobarea Amenajamentului pastoral pentru pajiștile permanente din comuna Vadu Moldovei, județul Suceava",
+"short": "HCL Vadu Moldovei nr. 24/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-07",
+"latest": "2023-08-07",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/107967",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-26-2023",
+"path": "local/suceava/vadu-moldovei/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 26/2023 privind stabilirea unor măsuri pentru delegarea gestiunii activității de colectare și transport a deșeurilor municipale, inclusiv operarea stațiilor de transfer și a centrelor de colectare cu aport voluntar în Județul Suceava",
+"short": "HCL Vadu Moldovei nr. 26/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-07",
+"latest": "2023-08-07",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/109115",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vadu-moldovei-47-2023",
 "path": "local/suceava/vadu-moldovei/2023/47",
 "kind": "local",

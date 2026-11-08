@@ -3,6 +3,138 @@
 "shard": "local/suceava/vama/2023",
 "acts": [
 {
+"slug": "hcl-suceava--vama-2-2023",
+"path": "local/suceava/vama/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 2/2023 ÎNCHEIEREA EXECUȚIEI BUGETARE PE ANUL 2022",
+"short": "HCL Vama nr. 2/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-27",
+"latest": "2023-01-27",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#41244",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-3-2023",
+"path": "local/suceava/vama/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 3/2023 APROBAREA BUGETULUI LOCAL PE ANUL 2023",
+"short": "HCL Vama nr. 3/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-27",
+"latest": "2023-01-27",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#41245",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-15-2023",
+"path": "local/suceava/vama/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 15/2023 APROBAREA DOCUMENTAȚIEI DE AVIZARE A LUCRĂRILOR DE INTERVENȚII A INDICATORILOR TEHNICO - ECONOMICI ȘI A DEVIZULUI GENERAL PENTRU PROIECTUL PNNR CANALIZARE ȘI STAȚIE DE EPURARE",
+"short": "HCL Vama nr. 15/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-06",
+"latest": "2023-02-06",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#41828",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-16-2023",
+"path": "local/suceava/vama/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 16/2023 APROBARE PROTOCOL PT. DOTARE COMPARTIMENT ASISTENȚĂ SOCIALĂ PENTRU UTILIZAREA PLATFORMEI E- ASISTENȚĂ SOCILĂ",
+"short": "HCL Vama nr. 16/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-06",
+"latest": "2023-02-06",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#41829",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-17-2023",
+"path": "local/suceava/vama/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 17/2023 ÎNFIINȚAREA SERVICIULUI DE GESTIONARE A CÂINILOR FĂRĂ STĂPÂN",
+"short": "HCL Vama nr. 17/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-06",
+"latest": "2023-02-06",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#41831",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-43-2023",
+"path": "local/suceava/vama/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 43/2023 DELEGAREA ACTIVITĂȚII DE COLECTARE ȚI TRANSPORTA DESEURILOR MUNICIPALE",
+"short": "HCL Vama nr. 43/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-26",
+"latest": "2023-05-26",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#50407",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vama-45-2023",
 "path": "local/suceava/vama/2023/45",
 "kind": "local",
@@ -110,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Vama",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vama-50-2023",
+"path": "local/suceava/vama/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 50/2023 APROBAREA DELEGĂRII GESTIUNII SERVICIULUI DE SALUBRIZARE AL COMUNEI VAMA PRIN CONCESIUNEA",
+"short": "HCL Vama nr. 50/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#53231",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -333,6 +487,28 @@
 }
 },
 {
+"slug": "hcl-suceava--vama-61-2023",
+"path": "local/suceava/vama/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 61/2023 ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ",
+"short": "HCL Vama nr. 61/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-28",
+"latest": "2023-07-28",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#54894",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vama-62-2023",
 "path": "local/suceava/vama/2023/62",
 "kind": "local",
@@ -352,6 +528,28 @@
 "council_name": "Consiliul Local al Comunei Vama",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vama-63-2023",
+"path": "local/suceava/vama/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 63/2023 APROBAREA MODULUI DE VALORIFICARE A MASEI LEMNOASE",
+"short": "HCL Vama nr. 63/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-28",
+"latest": "2023-07-28",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#54896",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -1148,6 +1346,50 @@
 }
 },
 {
+"slug": "hcl-suceava--vama-100-2023",
+"path": "local/suceava/vama/2023/100",
+"kind": "local",
+"year": "2023",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 100/2023 APROBAREA ROF AL APARATULUI DE SPECIALITATE AL PRIMARULUI",
+"short": "HCL Vama nr. 100/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#66127",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-101-2023",
+"path": "local/suceava/vama/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 101/2023 STABILIREA IMPOZITELOR ȘI TAXELOR LOCALE, ALTE TAXE ASIMILATE PRECUM ȘI AMENZILE APLICABILE PENTRU ANUL FISCAL 2024",
+"short": "HCL Vama nr. 101/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#66128",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vama-102-2023",
 "path": "local/suceava/vama/2023/102",
 "kind": "local",
@@ -1167,6 +1409,50 @@
 "council_name": "Consiliul Local al Comunei Vama",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vama-103-2023",
+"path": "local/suceava/vama/2023/103",
+"kind": "local",
+"year": "2023",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 103/2023 APROBAREA REȚELEI ȘCOLARE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT PE RAZA COMUNEI VAMA PENTRU ANUL ȘCOLAR 2024 - 2025",
+"short": "HCL Vama nr. 103/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#66130",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-104-2023",
+"path": "local/suceava/vama/2023/104",
+"kind": "local",
+"year": "2023",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 104/2023 MAJORAREA SALARILOR DE BAZĂ A FUCȚIONARILOR PUBLICI ȘI PERSONALULUI CONTRACTUAL",
+"short": "HCL Vama nr. 104/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#66131",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
 }
 }
 ]

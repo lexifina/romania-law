@@ -3,6 +3,966 @@
  "shard": "local/suceava/stroiesti/2022",
  "acts": [
   {
+   "slug": "hcl-suceava--stroiesti-1-2022",
+   "path": "local/suceava/stroiesti/2022/1",
+   "short": "HCL Stroiești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 1/2022 privind aprobarea indicatorilor tehnico-economici aferenţi obiectivului de investiţii: ”Dotarea unităţilor de învăţământ din comuna Stroieşti cu echipamente de protecţie şi dispozitive medicale”",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/56267",
+   "versions": [
+    {
+     "from": "2022-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/56267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-10-2022",
+   "path": "local/suceava/stroiesti/2022/10",
+   "short": "HCL Stroiești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 10/2022 privind aprobarea bugetului local al comunei Stroiești, judeţul Suceava pentru anul 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82062",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-11-2022",
+   "path": "local/suceava/stroiesti/2022/11",
+   "short": "HCL Stroiești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 11/2022 privind modificarea și completarea HCL nr. 50 din 14.10.2021 privind aprobarea cererii de finanţare şi a devizului general estimativ a obiectivului de investiţie : \"Reabilitare drumuri de interes local în comuna Stroieşti, judeţul Suceava\"",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82063",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-13-2022",
+   "path": "local/suceava/stroiesti/2022/13",
+   "short": "HCL Stroiești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 13/2022 privind actualizarea Planului de Analiză şi Acoperire a Riscurilor pentru comuna Stroiesti, judeţul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82105",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-14-2022",
+   "path": "local/suceava/stroiesti/2022/14",
+   "short": "HCL Stroiești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 14/2022 privind organizarea apărării împotriva incendiilor a Comunei Stroiești, judeţul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82106",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-16-2022",
+   "path": "local/suceava/stroiesti/2022/16",
+   "short": "HCL Stroiești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 16/2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82108",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-17-2022",
+   "path": "local/suceava/stroiesti/2022/17",
+   "short": "HCL Stroiești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 17/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii: \"Amenajare reţea iluminat public la DN 17 din localitatea Stroieşti, comuna Stroieşti, judeţul Suceava\"",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82109",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-19-2022",
+   "path": "local/suceava/stroiesti/2022/19",
+   "short": "HCL Stroiești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 19/2022 privind clasificarea unor drumuri din perimetrul UAT Comuna Stroiești, județul Suceava ca drumuri vicinale și cuprinderea acestora în inventarul bunurilor care alcătuiesc domeniul public al UAT Comuna Stroiești, jud. Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82111",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-2-2022",
+   "path": "local/suceava/stroiesti/2022/2",
+   "short": "HCL Stroiești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 2/2022 privind stabilirea unor situaţii deosebite, pentru anul 2022, în care primarul poate acorda ajutoare de urgenţă familiilor sau persoanelor singure, în vederea aplicării prevederilor art.28, alin.(2) din Legea nr.416/2001 privind venitul minim garantat, cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82044",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-20-2022",
+   "path": "local/suceava/stroiesti/2022/20",
+   "short": "HCL Stroiești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 20/2022 privind rectificarea bugetului local al comunei Stroiești, jud. Suceava pentru anul 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82112",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-21-2022",
+   "path": "local/suceava/stroiesti/2022/21",
+   "short": "HCL Stroiești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 21/2022 privind aprobarea majorării valorii neeligibile a proiectului: \"Înființare sistem de canalizare al apelor uzate şi înfiinţare sistem de alimentare cu apă în comuna Stroieşti, judeţul Suceava\"",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82113",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-22-2022",
+   "path": "local/suceava/stroiesti/2022/22",
+   "short": "HCL Stroiești nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 22/2022 privind aprobarea calendarului de activităţi social - culturale din comuna Stroieşti, judeţul Suceava care se vor desfăşura în anul 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82157",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-24-2022",
+   "path": "local/suceava/stroiesti/2022/24",
+   "short": "HCL Stroiești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 24/2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82159",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-25-2022",
+   "path": "local/suceava/stroiesti/2022/25",
+   "short": "HCL Stroiești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 25/2022 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiţii: \"Grădiniţă cu program normal – 3 grupe, localitatea Stroieşti, comuna Stroieşti, judeţul Suceava\"",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82160",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-26-2022",
+   "path": "local/suceava/stroiesti/2022/26",
+   "short": "HCL Stroiești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 26/2022 privind aprobarea finanţării creditului multianual pentru obiectivul de investiţii: \"Grădiniţă cu program normal – 3 grupe, localitatea Stroieşti, comuna Stroieşti, judeţul Suceava\"",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82161",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-27-2022",
+   "path": "local/suceava/stroiesti/2022/27",
+   "short": "HCL Stroiești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 27/2022 privind stabilirea salariilor de bază aferente funcţiilor publice și contractuale din cadrul familiei ocupaţionale „Administraţie\" utilizate în aparatul de specialitate al Primarului comunei Stroiești, județul Suceava pentru anul 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82162",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-3-2022",
+   "path": "local/suceava/stroiesti/2022/3",
+   "short": "HCL Stroiești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 3/2022 privind aprobarea numarului de asistenţi personali ai persoanelor cu handicap grav, pentru anul 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82045",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-30-2022",
+   "path": "local/suceava/stroiesti/2022/30",
+   "short": "HCL Stroiești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 30/2022 privind atestarea inventarului bunurilor care alcătuiesc domeniul public al comunei Stroiești, județul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82181",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-31-2022",
+   "path": "local/suceava/stroiesti/2022/31",
+   "short": "HCL Stroiești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 31/2022 privind aprobarea contractării serviciilor de proiectare, expertizare tehnică, audit energetic şi consultanţă pentru obiectivul „Renovare energetică moderata a clădirii Căminului Cultural din sat Stroieşti, comuna Stroieşti, judeţul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82182",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-32-2022",
+   "path": "local/suceava/stroiesti/2022/32",
+   "short": "HCL Stroiești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 32/2022 privind rectificarea bugetului local al comunei Stroiești, jud. Suceava pentru anul 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82183",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-33-2022",
+   "path": "local/suceava/stroiesti/2022/33",
+   "short": "HCL Stroiești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 33/2022 privind aprobarea documentației în vederea finanțării obiectivului de investiții ,,ÎNFIINȚARE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA STROIEȘTI, JUDEȚUL SUCEAVA“",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82190",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-34-2022",
+   "path": "local/suceava/stroiesti/2022/34",
+   "short": "HCL Stroiești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 34/2022 privind clasificarea și introducerea în inventarul bunurilor care alcătuiesc domeniul public al comunei Stroiești și declararea ca bun public de interes local a drumului vicinal identificat în teritoriul administrativ al comunei Stroiești, județul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82191",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-36-2022",
+   "path": "local/suceava/stroiesti/2022/36",
+   "short": "HCL Stroiești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 36/2022 privind aprobarea cuantumului burselor de performanță, de merit, de studiu și de ajutor social pentru elevii din învățământul preuniversitar de stat din Comuna Stroiești, județul Suceava, în anul școlar 2021 - 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82227",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-37-2022",
+   "path": "local/suceava/stroiesti/2022/37",
+   "short": "HCL Stroiești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 37/2022 privind introducerea în inventarul bunurilor care alcătuiesc domeniul public al comunei Stroiești și declararea ca bun public de interes local a terenului identificat pe teritoriul administrativ al comunei Stroiești, județul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82228",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-38-2022",
+   "path": "local/suceava/stroiesti/2022/38",
+   "short": "HCL Stroiești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 38/2022 privind atestarea inventarului bunurilor care aparțin domeniului public al Comunei Stroiești, județul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82229",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-39-2022",
+   "path": "local/suceava/stroiesti/2022/39",
+   "short": "HCL Stroiești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 39/2022 privind proiectul „RENOVARE ENERGETICĂ MODERATĂ A CLĂDIRII CĂMINULUI CULTURAL STROIEȘTI, COMUNA STROIEȘTI, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82235",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-4-2022",
+   "path": "local/suceava/stroiesti/2022/4",
+   "short": "HCL Stroiești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 4/2022 privind aprobarea Planului de acţiuni sau de lucrări de interes local pentru anul 2022, în vederea aplicării Legii nr.416/2001 privind venitul minim garantat, cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82046",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-40-2022",
+   "path": "local/suceava/stroiesti/2022/40",
+   "short": "HCL Stroiești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 40/2022 privind aprobarea necesității și oportunității obiectivului de investiție \"Amenajare reţea iluminat public în localitatea Stroieşti , comuna Stroieşti, judeţul Suceava\"",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82244",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-41-2022",
+   "path": "local/suceava/stroiesti/2022/41",
+   "short": "HCL Stroiești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 41/2022 privind premierea elevilor din unitatea de învăţământ preuniversitar din comuna Stroieşti cu rezultate deosebite în anul şcolar 2021- 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82245",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-42-2022",
+   "path": "local/suceava/stroiesti/2022/42",
+   "short": "HCL Stroiești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 42/2022 privind atestarea inventarului bunurilor care aparțin domeniului privat al Comunei Stroiești, județul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82246",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-43-2022",
+   "path": "local/suceava/stroiesti/2022/43",
+   "short": "HCL Stroiești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 43/2022 privind aprobarea contului anual de execuţie a bugetului propriu al comunei Stroieşti, judeţul Suceava şi a situaţiilor financiare pe anul 2021",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82247",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-44-2022",
+   "path": "local/suceava/stroiesti/2022/44",
+   "short": "HCL Stroiești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 44/2022 privind aprobarea Regulamentului Intern pentru acordarea voucherelor de vacanță pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Stroieşti",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82248",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-45-2022",
+   "path": "local/suceava/stroiesti/2022/45",
+   "short": "HCL Stroiești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 45/2022 privind prelungirea scrisorii de garanţie bancară emisă de CEC BANK SA pentru proiecte finanţate în cadrul Programului Naţional pentru Dezvoltare Rurală privind modificarea Contractului C 0720AN000011713500154072/12.09.2017",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82249",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-46-2022",
+   "path": "local/suceava/stroiesti/2022/46",
+   "short": "HCL Stroiești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 46/2022 privind aprobarea necesității și oportunității obiectivului de investiție \"Reabilitare drumuri inventariate la nr.41 și nr. 42, în sat Stroiești , comuna Stroieşti, judeţul Suceava\"",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82261",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-49-2022",
+   "path": "local/suceava/stroiesti/2022/49",
+   "short": "HCL Stroiești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 49/2022 privind clasificarea și introducerea în inventarul bunurilor care alcătuiesc domeniul public al comunei Stroiești și declararea ca bun public de interes local a drumului vicinal identificat în teritoriul administrativ al comunei Stroiești, județul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82264",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-5-2022",
+   "path": "local/suceava/stroiesti/2022/5",
+   "short": "HCL Stroiești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 5/2022 privind necesitatea şi oportunitatea pentru obiectivul de investiţie: \" Reabilitare şi modernizare infrastructură rutieră afectată de fenomene meteorologice în satele Stroieşti, Zahareşti şi Vîlcelele, comuna Stroiești, județul Suceava\"",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82047",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-50-2022",
+   "path": "local/suceava/stroiesti/2022/50",
+   "short": "HCL Stroiești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 50/2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82277",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-51-2022",
+   "path": "local/suceava/stroiesti/2022/51",
+   "short": "HCL Stroiești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 51/2022 privind repartizarea disponibilităţilor din excedentul anului 2021",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82278",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-52-2022",
+   "path": "local/suceava/stroiesti/2022/52",
+   "short": "HCL Stroiești nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 52/2022 privind rectificarea bugetului local al comunei Stroiești, jud. Suceava pentru anul 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82279",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-53-2022",
+   "path": "local/suceava/stroiesti/2022/53",
+   "short": "HCL Stroiești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 53/2022 privind participarea la Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public, aprobarea Devizului general, a documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții “Modernizarea sistemului de iluminat public stradal, în comuna Stroiești, județul Suceava – etapa II”",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82299",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-54-2022",
+   "path": "local/suceava/stroiesti/2022/54",
+   "short": "HCL Stroiești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 54/2022 privind aprobarea necesității și oportunității obiectivului de investiție \"Crearea unei rețele de centre de zi pentru copiii expuși riscului de a fi separați de familie\" în localitatea Stroieşti , comuna Stroieşti, judeţul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82336",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-55-2022",
+   "path": "local/suceava/stroiesti/2022/55",
+   "short": "HCL Stroiești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 55/2022 privind trecerea unui bun imobil din domeniul privat în domeniul public al comunei Stroiești, Județul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82363",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-57-2022",
+   "path": "local/suceava/stroiesti/2022/57",
+   "short": "HCL Stroiești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 57/2022 privind darea în folosință gratuită pe o perioadă de 5 ani, a spațiului în suprafață de 3,22 mp din imobilul Primăria comunei Stroiești",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82410",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-58-2022",
+   "path": "local/suceava/stroiesti/2022/58",
+   "short": "HCL Stroiești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 58/2022 privind completarea și actualizarea inventarului bunurilor imobile ce aparţin domeniului privat al comunei Stroiești, Județul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82411",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-59-2022",
+   "path": "local/suceava/stroiesti/2022/59",
+   "short": "HCL Stroiești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 59/2022 privind trecerea unui bun imobil din domeniul privat în domeniul public al comunei Stroiești, Județul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82412",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-6-2022",
+   "path": "local/suceava/stroiesti/2022/6",
+   "short": "HCL Stroiești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 6/2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82048",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-60-2022",
+   "path": "local/suceava/stroiesti/2022/60",
+   "short": "HCL Stroiești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 60/2022 privind însușirea documentației cadastrale de alipire a două parcele de teren în suprafață totală de 1.324 mp, situate în intravilan, sat Stroiești, comuna Stroiești, județul Suceava identificate prin CF nr. 30780 și CF nr.33858",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82413",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-61-2022",
+   "path": "local/suceava/stroiesti/2022/61",
+   "short": "HCL Stroiești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 61/2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82414",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-62-2022",
+   "path": "local/suceava/stroiesti/2022/62",
+   "short": "HCL Stroiești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 62/2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82415",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-63-2022",
+   "path": "local/suceava/stroiesti/2022/63",
+   "short": "HCL Stroiești nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 63/2022 privind rectificarea bugetului local al comunei Stroiești, jud. Suceava pentru anul 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82416",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-64-2022",
+   "path": "local/suceava/stroiesti/2022/64",
+   "short": "HCL Stroiești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 64/2022 privind aprobarea Statutului revizuit al Asociației de Dezvoltare Intercomunitară \"Zona Metropolitană Suceava\"",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82417",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-65-2022",
+   "path": "local/suceava/stroiesti/2022/65",
+   "short": "HCL Stroiești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 65/2022 privind aprobarea finanţării din fondurile nerambursabile, de la bugetul local al Comunei Stroieşti, pe anul 2022, a proiectelor declarate câştigătoare în 16.08.2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82418",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-66-2022",
+   "path": "local/suceava/stroiesti/2022/66",
+   "short": "HCL Stroiești nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 66/2022 privind modificarea art. 1 din HCL nr. 34/13.04.2022 privind clasificarea și introducerea în inventarul bunurilor care alcătuiesc domeniul public al comunei Stroiești și declararea ca bun public de interes local a drumului vicinal identificat în teritoriul administrativ al comunei Stroiești, județul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82419",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-67-2022",
+   "path": "local/suceava/stroiesti/2022/67",
+   "short": "HCL Stroiești nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 67/2022 privind abrogarea art.1 din HCL nr. 37/29.04.2022 privind introducerea în inventarul bunurilor care alcătuiesc domeniul public al comunei Stroiești și declararea ca bun public de interes local a terenului identificat pe teritoriul administrativ al comunei Stroiești, județul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82420",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-69-2022",
+   "path": "local/suceava/stroiesti/2022/69",
+   "short": "HCL Stroiești nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 69/2022 privind rectificarea bugetului local al comunei Stroiești, jud. Suceava pentru anul 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82422",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-70-2022",
+   "path": "local/suceava/stroiesti/2022/70",
+   "short": "HCL Stroiești nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 70/2022 privind aprobarea studiului de fezabilitate actualizat, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Extindere reţea de canalizare a apelor uzate şi extindere reţea de alimentare cu apă în comuna Stroieşti, judeţul Suceava”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82423",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-71-2022",
+   "path": "local/suceava/stroiesti/2022/71",
+   "short": "HCL Stroiești nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 71/2022 privind aprobarea contractării serviciilor de proiectare, expertizare tehnică, audit energetic şi consultanţă pentru obiectivul „ Renovare energetică moderata a clădirii C2 a Școlii Gimnaziale Stroiești din sat Stroieşti, comuna Stroieşti, judeţul Suceava ,,",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82424",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-72-2022",
+   "path": "local/suceava/stroiesti/2022/72",
+   "short": "HCL Stroiești nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 72/2022 privind aprobarea Strategiei de dezvoltare locală a comunei Stroieşti, județul Suceava 2022 –2027",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82425",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-73-2022",
+   "path": "local/suceava/stroiesti/2022/73",
+   "short": "HCL Stroiești nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 73/2022 privind aprobarea cererii de finanțare si a valorii proiectului pentru obiectivul de investiție: ,,Digitalizarea serviciilor comunei STROIESTI” în cadrul finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte Pilonul IV – Coeziune economică, socială și teritorială - Componenta C10 – Fondul local",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82426",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-74-2022",
+   "path": "local/suceava/stroiesti/2022/74",
+   "short": "HCL Stroiești nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 74/2022 privind proiectul: \"Renovare energetică moderată a clădirii C2 a Școlii Gimnaziale Stroiești din sat Stroieşti, comuna Stroieşti, judeţul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82427",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-77-2022",
+   "path": "local/suceava/stroiesti/2022/77",
+   "short": "HCL Stroiești nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 77/2022 privind însușirea documentației cadastrale de alipire a două parcele de teren în suprafață totală de 4599 mp, situate în intravilan, sat Stroiești, comuna Stroiești, județul Suceava identificate prin CF nr.32440 și CF nr.32450",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82430",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-78-2022",
+   "path": "local/suceava/stroiesti/2022/78",
+   "short": "HCL Stroiești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 78/2022 privind modificarea și completarea Programului anual al achiziţiilor publice pentru anul 2022 a Comunei Stroieşti, judeţul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82431",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-79-2022",
+   "path": "local/suceava/stroiesti/2022/79",
+   "short": "HCL Stroiești nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 79/2022 privind rectificarea bugetului local al comunei Stroiești, jud. Suceava pentru anul 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82432",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-8-2022",
+   "path": "local/suceava/stroiesti/2022/8",
+   "short": "HCL Stroiești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 8/2022 privind darea în folosință gratuită pe o perioadă de 1 an de zile, a spațiului în suprafață de 62,15 mp din imobilul Dispensarul Uman Stroiești aparținând UAT COMUNA STROIEȘTI",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82055",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82055",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--stroiesti-80-2022",
    "path": "local/suceava/stroiesti/2022/80",
    "short": "HCL Stroiești nr. 80/2022",
@@ -148,6 +1108,21 @@
      "from": "2023-03-28",
      "units": 1,
      "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/97080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-9-2022",
+   "path": "local/suceava/stroiesti/2022/9",
+   "short": "HCL Stroiești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 9/2022 privind acoperirea definitivă din excedentul bugetului local a deficitului secțiunii de dezvoltare pentru anul 2021",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/82061",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/82061",
      "sha256": null
     }
    ]

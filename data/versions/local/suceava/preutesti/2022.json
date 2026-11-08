@@ -3,6 +3,141 @@
  "shard": "local/suceava/preutesti/2022",
  "acts": [
   {
+   "slug": "hcl-suceava--preutesti-1-2022",
+   "path": "local/suceava/preutesti/2022/1",
+   "short": "HCL Preutești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 1/2022 privind aprobarea organizării rețelei școlare de învățământ preuniversitar de stat de pe raza comunei Preutești, județul Suceava în anul școlar 2022-2023",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/64449",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/64449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-15-2022",
+   "path": "local/suceava/preutesti/2022/15",
+   "short": "HCL Preutești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 15/2022 privind modificarea și completarea inventarului bunurilor care aparţin domeniului privat al comunei Preutești, judeţul Suceava",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/64463",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/64463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-23-2022",
+   "path": "local/suceava/preutesti/2022/23",
+   "short": "HCL Preutești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 23/2022 privind aprobarea contului de execuție a bugetului local al comunei Preutești pentru anul 2021",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/64510",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/64510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-36-2022",
+   "path": "local/suceava/preutesti/2022/36",
+   "short": "HCL Preutești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 36/2022 privind indexarea cu rata inflației în procent de 5,1% a impozitelor și taxelor locale aplicabile în anul 2023",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/64530",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/64530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-43-2022",
+   "path": "local/suceava/preutesti/2022/43",
+   "short": "HCL Preutești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 43/2022 privind atestarea inventarului bunurilor care alcătuiesc domeniul public al comunei Preutești, județul Suceava",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/64546",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/64546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-46-2022",
+   "path": "local/suceava/preutesti/2022/46",
+   "short": "HCL Preutești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 46/2022 privind privind modificarea și completarea Programului anual al achiziţiilor publice pentru anul 2022",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/212620",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/212620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-50-2022",
+   "path": "local/suceava/preutesti/2022/50",
+   "short": "HCL Preutești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 50/2022 privind atestarea inventarului bunurilor care alcătuiesc domeniul public al comunei Preutești, județul Suceava",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/212629",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/212629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-60-2022",
+   "path": "local/suceava/preutesti/2022/60",
+   "short": "HCL Preutești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 60/2022 privind clasificarea și declararea ca bun public de interes local a drumului comunal identificat în teritoriul administrativ al comunei Preutești, județul Suceava",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/212644",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/212644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-69-2022",
+   "path": "local/suceava/preutesti/2022/69",
+   "short": "HCL Preutești nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 69/2022 privind atestarea apartenenței la domeniul privat al comunei Preuteşti a unui imobil – teren",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/212696",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/212696",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--preutesti-76-2022",
    "path": "local/suceava/preutesti/2022/76",
    "short": "HCL Preutești nr. 76/2022",

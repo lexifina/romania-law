@@ -3,6 +3,501 @@
  "shard": "local/suceava/saru-dornei/2022",
  "acts": [
   {
+   "slug": "hcl-suceava--saru-dornei-1-2022",
+   "path": "local/suceava/saru-dornei/2022/1",
+   "short": "HCL Șaru Dornei nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 1/2022 privind aprobarea utilizării excedentului bugetar rezultat în anul 2021",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/63304",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/63304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-10-2022",
+   "path": "local/suceava/saru-dornei/2022/10",
+   "short": "HCL Șaru Dornei nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 10/2022 privind modificarea Regulamentului de colectare selectivă a deșeurilor la nivelul comunei Șaru Dornei, județul Suceava, aprobat prin Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 9 din 26 martie 2021",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/65784",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/65784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-12-2022",
+   "path": "local/suceava/saru-dornei/2022/12",
+   "short": "HCL Șaru Dornei nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 12/2022 privind aprobarea prelungirii valabilității Planului Urbanistic General (PUG) și a Regulamenlului Local de Urbanism (RLU) al comunei Șaru Dornei, aprobat prin HCL Șaru Dornei nr. 24 din 17 septembrie 2002",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/71762",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/71762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-13-2022",
+   "path": "local/suceava/saru-dornei/2022/13",
+   "short": "HCL Șaru Dornei nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 13/2022 privind modificarea Hotărârii Consiliului Local al comunei Șaru Dornei nr. 1 din 11.01.2022 privind aprobarea utilizării excedentului bugetar rezultat în anul 2021",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/71886",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/71886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-14-2022",
+   "path": "local/suceava/saru-dornei/2022/14",
+   "short": "HCL Șaru Dornei nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 14/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Șaru Dornei pentru anul 2022",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/71887",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/71887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-15-2022",
+   "path": "local/suceava/saru-dornei/2022/15",
+   "short": "HCL Șaru Dornei nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 15/2022 privind stabilirea modului de valorificare a unor partizi din fondul forestier proprietate publică a Comunei Șaru Dornei",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/71888",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/71888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-18-2022",
+   "path": "local/suceava/saru-dornei/2022/18",
+   "short": "HCL Șaru Dornei nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 18/2022 privind aprobarea asocierii UAT Comuna Șaru Dornei, cu UAT Comuna Coșna, UAT Comuna Dorna Arini, UAT Comuna Dorna Candrenilor și UAT Comuna Poiana Stampei, Județul Suceava, în vederea realizării în comun a proiectului „DEZVOLTARE REȚEA INTELIGENTĂ DE DISTRIBUȚIE GAZE NATURALE PE TERITORIUL COMUNELOR COȘNA, DORNA ARINI, DORNA CANDRENILOR, POIANA STAMPEI ȘI ȘARU DORNEI, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/71891",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/71891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-19-2022",
+   "path": "local/suceava/saru-dornei/2022/19",
+   "short": "HCL Șaru Dornei nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 19/2022 privind aprobarea Cererii de finanțare și a Devizului general estimativ a obiectivului de investiții „DEZVOLTARE REȚEA INTELIGENTĂ DE DISTRIBUȚIE GAZE NATURALE PE TERITORIUL COMUNELOR COȘNA, DORNA ARINI, DORNA CANDRENILOR, POIANA STAMPEI ȘI ȘARU DORNEI, JUDEȚUL SUCEAVA”,pentru finanțarea acestuia în cadrul Programului Național de Investiții „ANGHEL SALIGNY”",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/71892",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/71892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-2-2022",
+   "path": "local/suceava/saru-dornei/2022/2",
+   "short": "HCL Șaru Dornei nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 2/2022 privind aprobarea organizării rețelei școlare a unităților de învățământ pentru anul școlar 2022-2023 la nivelul comunei Șaru Dornei",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/63305",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/63305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-22-2022",
+   "path": "local/suceava/saru-dornei/2022/22",
+   "short": "HCL Șaru Dornei nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 22/2022 privind aprobarea burselor școlare și cuantumul acestora pentru elevii din unitățile de învățământ preuniversitar de stat din Comuna Șaru Dornei",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/71895",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/71895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-29-2022",
+   "path": "local/suceava/saru-dornei/2022/29",
+   "short": "HCL Șaru Dornei nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 29/2022 privind aprobarea proiectului “Asigurarea Infrastructurii Rutiera cu Statii de Reîncărcare pentru vehicule electrice in comuna Saru Dornei, judetul Suceava”",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84475",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-30-2022",
+   "path": "local/suceava/saru-dornei/2022/30",
+   "short": "HCL Șaru Dornei nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 30/2022 privind aprobarea proiectului „Creșterea eficienței energetice a clădirii centralei termice din localitatea Neagra Șarului, Comuna Șaru Dornei” și a cheltuielilor aferente proiectului",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84476",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-31-2022",
+   "path": "local/suceava/saru-dornei/2022/31",
+   "short": "HCL Șaru Dornei nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 31/2022 privind aprobare a proiectului „Dezvoltarea sistemului de management local prin implementarea unor infrastructuri inteligente la nivelul comunei Șaru Dornei, județul Suceava” și a cheltuielilor aferente proiectului",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84477",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-32-2022",
+   "path": "local/suceava/saru-dornei/2022/32",
+   "short": "HCL Șaru Dornei nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 32/2022 privind actualizarea Statutului comunei Șaru Dornei, județul Suceava",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84478",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-33-2022",
+   "path": "local/suceava/saru-dornei/2022/33",
+   "short": "HCL Șaru Dornei nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 33/2022 privind desfăşurarea manifestărilor ocazionate de ediţia a XV-a, a “Sărbătorii Bujorului de Munte în comuna Şaru Dornei”",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84479",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-34-2022",
+   "path": "local/suceava/saru-dornei/2022/34",
+   "short": "HCL Șaru Dornei nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 34/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Șaru Dornei pentru anul 2022",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84480",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-35-2022",
+   "path": "local/suceava/saru-dornei/2022/35",
+   "short": "HCL Șaru Dornei nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 35/2022 privind aprobarea actualizării Planului de analiză şi acoperire a riscurilor pentru anul 2022 a comunei Șaru Dornei",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84481",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-36-2022",
+   "path": "local/suceava/saru-dornei/2022/36",
+   "short": "HCL Șaru Dornei nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 36/2022 privind stabilirea modului de valorificare a unor partizi din fondul forestier proprietate publică a Comunei Șaru Dornei",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84482",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-37-2022",
+   "path": "local/suceava/saru-dornei/2022/37",
+   "short": "HCL Șaru Dornei nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 37/2022 privind acordul de atribuire în proprietatea Cetina Călimaniului-Societate Cooperativă a suprafeței de 750 mp teren, proprietate privată a comunei Șaru Dornei, aferent construcției Complex Comercial Neagra Șarului",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84483",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-38-2022",
+   "path": "local/suceava/saru-dornei/2022/38",
+   "short": "HCL Șaru Dornei nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 38/2022 privind aprobarea indicatorilor tehnico - economici actualizați pentru obiectivul de investiții ”Reabilitare și extindere Școala Gimnazială Neagra Șarului”",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84484",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-39-2022",
+   "path": "local/suceava/saru-dornei/2022/39",
+   "short": "HCL Șaru Dornei nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 39/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Șaru Dornei pentru anul 2022",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84485",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-4-2022",
+   "path": "local/suceava/saru-dornei/2022/4",
+   "short": "HCL Șaru Dornei nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 4/2022 privind stabilirea impozitelor şi taxelor locale, pentru anul 2022",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/65778",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/65778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-40-2022",
+   "path": "local/suceava/saru-dornei/2022/40",
+   "short": "HCL Șaru Dornei nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 40/2022 privind stabilirea modului de valorificare a unor partizi din fondul forestier proprietate publică a Comunei Șaru Dornei",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84486",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-41-2022",
+   "path": "local/suceava/saru-dornei/2022/41",
+   "short": "HCL Șaru Dornei nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 41/2022 privind alegerea președintelui de ședință al Consiliului Local Șaru Dornei",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84487",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-42-2022",
+   "path": "local/suceava/saru-dornei/2022/42",
+   "short": "HCL Șaru Dornei nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 42/2022 privind aprobarea execuției bugetului local de venituri și cheltuieli și a bugetului activităților finanțate integral din venituri proprii, pe trimestrul II al anului 2022",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84488",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-44-2022",
+   "path": "local/suceava/saru-dornei/2022/44",
+   "short": "HCL Șaru Dornei nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 44/2022 privind stabilirea modului de valorificare a unor partizi din fondul forestier proprietate publică a Comunei Șaru Dornei",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84490",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-45-2022",
+   "path": "local/suceava/saru-dornei/2022/45",
+   "short": "HCL Șaru Dornei nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 45/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Șaru Dornei pentru anul 2022",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84491",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-46-2022",
+   "path": "local/suceava/saru-dornei/2022/46",
+   "short": "HCL Șaru Dornei nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 46/2022 privind aprobarea documentației P.U.Z.- plan urbanistic zonal în vederea introducerii în intravilan a suprafeței de 5830 mp teren, pentru construire case de vacanță - sat Neagra Șarului",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84492",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-48-2022",
+   "path": "local/suceava/saru-dornei/2022/48",
+   "short": "HCL Șaru Dornei nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 48/2022 privind aprobarea indicatorilor tehnico - economici actualizați pentru obiectivul de investiții ”Reabilitare și extindere Școala Gimnazială Neagra Șarului”",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84494",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-49-2022",
+   "path": "local/suceava/saru-dornei/2022/49",
+   "short": "HCL Șaru Dornei nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 49/2022 privind validarea Dispozitiei Primarului comunei Șaru Dornei nr.90/27.09.2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Șaru Dornei pentru anul 2022",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84495",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-5-2022",
+   "path": "local/suceava/saru-dornei/2022/5",
+   "short": "HCL Șaru Dornei nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 5/2022 privind aprobarea documentației P.U.Z.- plan urbanistic zonal în vederea introducerii în intravilan a suprafeței de 950 mp., pt. construire casă și anexe - sat Neagra Șarului;",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/65779",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/65779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-50-2022",
+   "path": "local/suceava/saru-dornei/2022/50",
+   "short": "HCL Șaru Dornei nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 50/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Șaru Dornei pentru anul 2022",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84496",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-51-2022",
+   "path": "local/suceava/saru-dornei/2022/51",
+   "short": "HCL Șaru Dornei nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 51/2022 privind aprobarea indicatorilor tehnico-economici actualizați la nivelul DTAC aferenți proiectului „Eficientizarea energetica a caminului cultural Saru Dornei, din Comuna Saru Dornei, judetul Suceava”, cod SMIS 2014+: 137725",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/84497",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/84497",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--saru-dornei-52-2022",
    "path": "local/suceava/saru-dornei/2022/52",
    "short": "HCL Șaru Dornei nr. 52/2022",
@@ -118,6 +613,21 @@
      "from": "2023-03-24",
      "units": 1,
      "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/96558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-6-2022",
+   "path": "local/suceava/saru-dornei/2022/6",
+   "short": "HCL Șaru Dornei nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 6/2022 privind atestarea apartenenței unor imobile la domeniul privat al comunei Șaru Dornei",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/65780",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/65780",
      "sha256": null
     }
    ]
@@ -273,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--saru-dornei-7-2022",
+   "path": "local/suceava/saru-dornei/2022/7",
+   "short": "HCL Șaru Dornei nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 7/2022 privind încheierea unui contract de servicii juridice de consultanţă, de asistenţă şi de reprezentare",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/65781",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/65781",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--saru-dornei-70-2022",
    "path": "local/suceava/saru-dornei/2022/70",
    "short": "HCL Șaru Dornei nr. 70/2022",
@@ -298,6 +823,21 @@
      "from": "2023-03-30",
      "units": 1,
      "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/97582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-9-2022",
+   "path": "local/suceava/saru-dornei/2022/9",
+   "short": "HCL Șaru Dornei nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 9/2022",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/65783",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/65783",
      "sha256": null
     }
    ]

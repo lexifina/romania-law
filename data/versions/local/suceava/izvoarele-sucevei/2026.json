@@ -3,6 +3,486 @@
  "shard": "local/suceava/izvoarele-sucevei/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--izvoarele-sucevei-1-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/1",
+   "short": "HCL Izvoarele Sucevei nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 1/2026 pentru completarea Anexei la Hotărârea Consiliului Local nr.57 din 30.12.2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2026",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/246928",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/246928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-10-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/10",
+   "short": "HCL Izvoarele Sucevei nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 10/2026 privind aprobarea planului anual de acțiune privind serviciile sociale administrate si finanțate din bugetul Consiliului Local al Comunei Izvoarele Sucevei pentru anul 2026",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257807",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-11-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/11",
+   "short": "HCL Izvoarele Sucevei nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 11/2026 privind aprobarea programului de acțiune comunitară pentru combaterea sărăciei și excluziunii sociale la nivelul Comunei Izvoarele Sucevei, județul Suceava",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257808",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-13-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/13",
+   "short": "HCL Izvoarele Sucevei nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 13/2026 privind însușirea anexelor la Contractul de asistență juridică Seria SV 0220207 din 18.11.2024",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257810",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-14-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/14",
+   "short": "HCL Izvoarele Sucevei nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 14/2026 privind constituirea dreptului de acces, pe terenul ce aparține domeniului public al UAT Comuna Izvoarele Sucevei, județul Suceava, în favoarea INVOKER TRANS IT, în vederea instalării, întreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură necesare susținerii acestora",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257811",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-15-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/15",
+   "short": "HCL Izvoarele Sucevei nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 15/2026 privind modificare temă de proiectare la obiectivul ”Amenajare teren de sport în sat. Izvoarele Sucevei, comuna Izvoarele Sucevei, județul Suceava” și aprobare deviz general actualizat",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257812",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-16-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/16",
+   "short": "HCL Izvoarele Sucevei nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 16/2026 privind trecerea din domeniul privat al Comunei Izvoarele Sucevei în domeniul public al comunei Izvoarele Sucevei și declararea de uz şi interes public local, a unor bunuri aparținând Comunei Izvoarele Sucevei, județul Suceava",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/258707",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/258707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-17-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/17",
+   "short": "HCL Izvoarele Sucevei nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 17/2026",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/258708",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/258708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-18-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/18",
+   "short": "HCL Izvoarele Sucevei nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 18/2026 pentru aprobarea proiectului „Construire Sală de sport, Școala Gimnazială Brodina, Comuna Izvoarele Sucevei, Jud. Suceava” în conformitate cu ultima formă a bugetului rezultat în urma etapei de evaluare tehnică și financiară",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/260134",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/260134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-19-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/19",
+   "short": "HCL Izvoarele Sucevei nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 19/2026 pentru completarea anexei la Hotărârea Consiliului Local nr.57 din 30.12.2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2026",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/262961",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/262961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-20-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/20",
+   "short": "HCL Izvoarele Sucevei nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 20/2026 privind aprobarea Regulamentului Serviciului de salubrizare al Județului Suceava",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/262962",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/262962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-21-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/21",
+   "short": "HCL Izvoarele Sucevei nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 21/2026 privind aprobarea programului de înfrumusețare al comunei Izvoarele Sucevei, județul Suceava, pentru anul 2026",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/262963",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/262963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-24-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/24",
+   "short": "HCL Izvoarele Sucevei nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 24/2026 privind aprobarea utilizării excedentului bugetului local în anul 2026 rezultat la încheierea exercițiului bugetar pentru anul 2025",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266686",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-25-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/25",
+   "short": "HCL Izvoarele Sucevei nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 25/2026 privind aprobarea bugetului local pentru anul 2026",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266687",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-26-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/26",
+   "short": "HCL Izvoarele Sucevei nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 26/2026 privind aprobare număr posturi asistenți personali ai persoanelor cu handicap grav, pentru anul 2026",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266688",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-27-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/27",
+   "short": "HCL Izvoarele Sucevei nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 27/2026 privind aprobarea contului de execuție al bugetului local, pentru secțiunile de dezvoltare și funcționare, pentru trim.I/2026",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266689",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-28-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/28",
+   "short": "HCL Izvoarele Sucevei nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 28/2026 privind trecerea din domeniul public al Comunei Izvoarele Sucevei în domeniul privat al comunei Izvoarele Sucevei a unui bun aparținând Comunei Izvoarele Sucevei, județul Suceava, prin încetarea uzului acestuia",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266690",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-29-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/29",
+   "short": "HCL Izvoarele Sucevei nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 29/2026 privind însușirea Anexelor nr.10-12 la Contractul de asistență juridică Seria SV 0220207 din 18.11.2024",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266691",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-3-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/3",
+   "short": "HCL Izvoarele Sucevei nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 3/2026 pentru validarea Dispoziției primarului nr.1 din 08.01.2026 privind acoperirea definitivă a deficitului secțiunii de dezvoltare pe anul 2025 din excedentul bugetului local al anilor precedenți",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257800",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-30-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/30",
+   "short": "HCL Izvoarele Sucevei nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 30/2026 pentru modificarea Regulamentului de organizare și funcționare (ROF) al aparatului de specialitate al primarului Comunei Izvoarele Sucevei, județul Suceava, aprobat prin HCL nr.49 din 26.11.2025, ca urmare a reorganizării aparatului de specialitate al primarului Comunei Izvoarele Sucevei",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266692",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-31-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/31",
+   "short": "HCL Izvoarele Sucevei nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 31/2026 privind aprobarea efectuării lucrărilor de reparații la mașinile și utilajele aflate în dotarea UAT Comuna Izvoarele Sucevei, județul Suceava",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266693",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-33-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/33",
+   "short": "HCL Izvoarele Sucevei nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 33/2026 privind completarea Anexei nr.1 la Hotărârea Consiliului Local nr.21 din 22.05.2025 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Izvoarele Sucevei, județul Suceava",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266695",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-34-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/34",
+   "short": "HCL Izvoarele Sucevei nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 34/2026 privind completarea anexei la Hotărârea Consiliului Local nr.4/2002 privind stabilirea bunurilor care fac parte din domeniul privat al unității administrativ teritoriale Comuna Izvoarele Sucevei, județul Suceava",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266696",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-36-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/36",
+   "short": "HCL Izvoarele Sucevei nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 36/2026 privind aprobarea documentației tehnico-economice la faza SF+DTAC, a indicatorilor tehnico-economici și a cheltuielilor proiectului pentru obiectivul de investiții “Construire Sală de Sport, Școala Gimnazială Brodina, Comuna Izvoarele Sucevei, Jud. Suceava” propus pentru finanțare prin Programul Regional Nord-Est 2021-2027 PRIORITATEA P6 NORD-EST – O REGIUNE EDUCATĂ",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266698",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/266698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-37-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/37",
+   "short": "HCL Izvoarele Sucevei nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 37/2026 privind aprobarea documentației tehnico-economice la faza SF+DTAC, a indicatorilor tehnico-economici și a cheltuielilor proiectului pentru obiectivul de investiții “Construire Sală de Sport, Școala Gimnazială Brodina, Comuna Izvoarele Sucevei, Jud. Suceava” propus pentru finanțare prin Programul Regional Nord-Est 2021-2027 PRIORITATEA P6 NORD-EST – O REGIUNE EDUCATĂ",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/269066",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/269066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-38-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/38",
+   "short": "HCL Izvoarele Sucevei nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 38/2026 privind darea în folosință gratuită Ministerului Afacerilor Interne - Inspectoratul General al Poliției de Frontieră- Inspectoratului Teritorial al Poliției de Frontieră Sighetu Marmației a terenului înscris în Cartea Funciară nr.33943 proprietate publică a Comunei Izvoarele Sucevei, Județul Suceava, situat în Jud. Suceava, UAT Izvoarele Sucevei, Loc. Izvoarele Sucevei, Calea Bucovinei, nr.247",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/273129",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/273129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-39-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/39",
+   "short": "HCL Izvoarele Sucevei nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 39/2026 privind modificarea Anexei nr.3 la Hotărârea Consiliului Local nr.25 din 07.05.2026 privind aprobarea bugetului local pentru anul 2026",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/273130",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/273130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-4-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/4",
+   "short": "HCL Izvoarele Sucevei nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 4/2026 privind aprobarea planului de acțiuni/lucrări de interes local pentru anul 2026, pentru beneficiarii Legii nr.196/2016 privind venitul minim de incluziune, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257801",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-40-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/40",
+   "short": "HCL Izvoarele Sucevei nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 40/2026 privind aprobarea documentației tehnico-economice la faza SF+DTAC, a indicatorilor tehnico-economici și a cheltuielilor proiectului pentru obiectivul de investiții “Construire Sală de Sport, Școala Gimnazială Brodina, Comuna Izvoarele Sucevei, Jud. Suceava” propus pentru finanțare prin Programul Regional Nord-Est 2021-2027 PRIORITATEA P6 NORD-EST – O REGIUNE EDUCATĂ",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/274420",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/274420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-42-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/42",
+   "short": "HCL Izvoarele Sucevei nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 42/2026 privind însușirea Anexei nr.13 la Contractul de asistență juridică Seria SV 0220207 din 18.11.2024",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/279144",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/279144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-43-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/43",
+   "short": "HCL Izvoarele Sucevei nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 43/2026 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/279145",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/279145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-44-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/44",
+   "short": "HCL Izvoarele Sucevei nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 44/2026 privind aprobarea Procedurii de publicare a listei contribuabililor persoane juridice care au declarat și au achitat la scadență obligațiile fiscale și nu înregistrează obligații restante față de bugetul local al comunei Izvoarele Sucevei, județul Suceava",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/279146",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/279146",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--izvoarele-sucevei-45-2026",
    "path": "local/suceava/izvoarele-sucevei/2026/45",
    "short": "HCL Izvoarele Sucevei nr. 45/2026",
@@ -73,6 +553,21 @@
      "from": "2026-07-28",
      "units": 1,
      "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/279151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-5-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/5",
+   "short": "HCL Izvoarele Sucevei nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 5/2026 pentru aprobarea Regulamentului privind procedura de închiriere și concesionare a bunurilor imobile din domeniul public/privat al comunei Izvoarele Sucevei, județul Suceava",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257802",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257802",
      "sha256": null
     }
    ]
@@ -228,6 +723,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--izvoarele-sucevei-6-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/6",
+   "short": "HCL Izvoarele Sucevei nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 6/2026 privind aprobarea contului de execuție al bugetului local, pentru secțiunile de dezvoltare și funcționare, pentru trim.IV/2025",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257803",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257803",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--izvoarele-sucevei-60-2026",
    "path": "local/suceava/izvoarele-sucevei/2026/60",
    "short": "HCL Izvoarele Sucevei nr. 60/2026",
@@ -298,6 +808,21 @@
      "from": "2026-11-06",
      "units": 1,
      "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/297818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--izvoarele-sucevei-7-2026",
+   "path": "local/suceava/izvoarele-sucevei/2026/7",
+   "short": "HCL Izvoarele Sucevei nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoarele Sucevei nr. 7/2026 privind aprobarea contului de execuție al bugetului local, pentru secțiunile de dezvoltare și funcționare, pentru anul 2025",
+   "url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257804",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/izvoarelesucevei-sv/registru-hcl/257804",
      "sha256": null
     }
    ]

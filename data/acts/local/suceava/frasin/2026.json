@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-suceava--frasin-26-2026",
+"path": "local/suceava/frasin/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Frasin nr. 26/2026 privind aprobarea Regulamentului Serviciului de salubrizare al Județului Suceava Consiliul local al orasului Frasin,judetul Suceava ; Avand in vedere : - referatul de aprobare prezentat de catre domnul ing.Balan Marinel – primarul orasului Frasin, inregistrat cu nr.1308 din 16.02.2026 ; - raportul intocmit de catre Compartimentul urbanism, mediu și fond funciar , inregistrat cu nr.1309 din 16.02.2",
+"short": "HCL Frasin nr. 26/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-31",
+"latest": "2026-03-31",
+"portal": "https://www.primariaorasuluifrasin.ro/hcl-nr-26-din-31-03-2026-aprob-regulament-serviciu-de-salubrizare-al-judetului-suceava/",
+"council": "suceava/frasin",
+"council_name": "Consiliul Local al Orașului Frasin",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-suceava--frasin-34-2026",
 "path": "local/suceava/frasin/2026/34",
 "kind": "local",

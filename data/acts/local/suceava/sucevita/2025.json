@@ -3,6 +3,28 @@
 "shard": "local/suceava/sucevita/2025",
 "acts": [
 {
+"slug": "hcl-suceava--sucevita-2-2025",
+"path": "local/suceava/sucevita/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sucevița nr. 2/2025 privind modificarea hotărârii Consiliului local nr. 68 din 17.12.2024 privind aprobarea înființării unei societăți comerciale cu răspundere limitata de drept privat si interes local cu asociat unic comuna Sucevița prin reprezentantul sau legal Consiliul local Sucevița",
+"short": "HCL Sucevița nr. 2/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://emol.ro/sucevita-sv/registru-hcl/190913",
+"council": "suceava/sucevita",
+"council_name": "Consiliul Local al Comunei Sucevița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--sucevita-90-2025",
 "path": "local/suceava/sucevita/2025/90",
 "kind": "local",

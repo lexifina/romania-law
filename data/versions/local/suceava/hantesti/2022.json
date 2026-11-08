@@ -3,6 +3,36 @@
  "shard": "local/suceava/hantesti/2022",
  "acts": [
   {
+   "slug": "hcl-suceava--hantesti-1-2022",
+   "path": "local/suceava/hantesti/2022/1",
+   "short": "HCL Hănțești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 1/2022 privind aprobarea Planului Urbanistic General (P.U.G.) și a Regulamentului Local de Urbanism (R.L.U.) ale Comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/51221",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/51221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-10-2022",
+   "path": "local/suceava/hantesti/2022/10",
+   "short": "HCL Hănțești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 10/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/53244",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/53244",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--hantesti-100-2022",
    "path": "local/suceava/hantesti/2022/100",
    "short": "HCL Hănțești nr. 100/2022",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--hantesti-11-2022",
+   "path": "local/suceava/hantesti/2022/11",
+   "short": "HCL Hănțești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 11/2022 privind aprobarea participării la „ Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități” cu proiectul “Reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în Comuna Hantesti, judetul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/53245",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/53245",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--hantesti-110-2022",
    "path": "local/suceava/hantesti/2022/110",
    "short": "HCL Hănțești nr. 110/2022",
@@ -163,6 +208,1191 @@
      "from": "2023-05-05",
      "units": 1,
      "source_url": "https://emol.ro/hantesti-sv/registru-hcl/87182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-12-2022",
+   "path": "local/suceava/hantesti/2022/12",
+   "short": "HCL Hănțești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 12/2022 privind actualizarea indicatorilor tehnico- economici pentru restul de executat aferent investitiei „Modernizare drumuri de interes local în Asociația de Dezvoltare Intercomunitară ”Pleșa” din județul Suceava” finanțat prin Agenția de Finanțare a Investițiilor Rurale în baza Contractului nr. C 0720RN00011513500127",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/59401",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/59401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-13-2022",
+   "path": "local/suceava/hantesti/2022/13",
+   "short": "HCL Hănțești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 13/2022 privind aprobarea dezmembrării unui teren din domeniul public, în vederea construirii Centrului medical în satul Hănțești, comuna Hănțești",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/59402",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/59402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-14-2022",
+   "path": "local/suceava/hantesti/2022/14",
+   "short": "HCL Hănțești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 14/2022 privind aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava, pentru anul 2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/59403",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/59403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-15-2022",
+   "path": "local/suceava/hantesti/2022/15",
+   "short": "HCL Hănțești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 15/2022 privind aprobarea Planului de Analiză și Acoperire a Riscurilor al Comitetului Local pentru Situații de Urgență din comuna Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/59442",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/59442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-16-2022",
+   "path": "local/suceava/hantesti/2022/16",
+   "short": "HCL Hănțești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 16/2022 privind modificarea statului de funcții pentru aparatul de specialitate al primarului comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/59443",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/59443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-17-2022",
+   "path": "local/suceava/hantesti/2022/17",
+   "short": "HCL Hănțești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 17/2022 privind atestarea apartenenței la domeniul privat al comunei Hănțești, județul Suceava, a unor terenuri, ca urmare a identificării și delimitării cadastrale în vederea întabulării în Cartea Funciară",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/59444",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/59444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-18-2022",
+   "path": "local/suceava/hantesti/2022/18",
+   "short": "HCL Hănțești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 18/2022 privind acordarea denumirii unui imobil aflat în domeniul prival al Comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/59445",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/59445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-19-2022",
+   "path": "local/suceava/hantesti/2022/19",
+   "short": "HCL Hănțești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 19/2022 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav din comuna Hănțești, județul Suceava, pe semestrul II 2021",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/59446",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/59446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-2-2022",
+   "path": "local/suceava/hantesti/2022/2",
+   "short": "HCL Hănțești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 2/2022 privind aprobarea Planului de lucrări pentru anul 2022 , conform Legii nr. 416/2001 privind venitul minim garantat, cu modificări și completări ulterioare, în vederea repartizării orelor de muncă la nivelul comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/51222",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/51222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-20-2022",
+   "path": "local/suceava/hantesti/2022/20",
+   "short": "HCL Hănțești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 20/2022 privind însușirea Actului Constitutiv și a Statutului „Asociaţiei pentru Dezvoltare Intercomunitară – Dezvoltare Sustenabilă și Integrată în Țara de Sus” și aprobarea plății unei contribuții anuale în urma aderării Comunei Hănțești, în anul 2021",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/59447",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/59447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-21-2022",
+   "path": "local/suceava/hantesti/2022/21",
+   "short": "HCL Hănțești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 21/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/59448",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/59448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-23-2022",
+   "path": "local/suceava/hantesti/2022/23",
+   "short": "HCL Hănțești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 23/2022 privind aprobarea Regulamentului privind procedura de vânzare a bunurilor imobile aflate în domeniul prival al Comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/59450",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/59450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-24-2022",
+   "path": "local/suceava/hantesti/2022/24",
+   "short": "HCL Hănțești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 24/2022 privind aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava, pentru anul 2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/59451",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/59451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-25-2022",
+   "path": "local/suceava/hantesti/2022/25",
+   "short": "HCL Hănțești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 25/2022 privind aprobarea modificării denumirii investiției ”Reamenajare și modernizare teren de sport în sat Hănțești, comuna Hănțești, județul Suceava” cu noua denumire”Construire sală de educație fizică școlară în sat Hănțești, comuna Hănțești, județul Suceava”, în vederea includerii în programul Național de Construcții de Interes Public sau Social, Subprogramul ”Săli de sport”, finanțat de către MLPDA prin CNI - SA",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/59452",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/59452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-26-2022",
+   "path": "local/suceava/hantesti/2022/26",
+   "short": "HCL Hănțești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 26/2022 privind aprobarea execuţiei bugetului local al comunei Hănțești, județul Suceava, la data de 31.03.2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/63030",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/63030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-27-2022",
+   "path": "local/suceava/hantesti/2022/27",
+   "short": "HCL Hănțești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 27/2022 privind indexarea impozitelor şi taxelor locale pe anul 2023,conform ratei inflației pe anul 2021",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/63031",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/63031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-28-2022",
+   "path": "local/suceava/hantesti/2022/28",
+   "short": "HCL Hănțești nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 28/2022 privind aprobarea inventarierii masei impozabile pentru anul 2022, la nivelul comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/63032",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/63032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-29-2022",
+   "path": "local/suceava/hantesti/2022/29",
+   "short": "HCL Hănțești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 29/2022 privind alegerea presedintelui de sedinta pentru conducerea ședințelor Consiliului local Hănțești, de la data de 01.05.2022 până la data de 31.07.2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/63033",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/63033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-30-2022",
+   "path": "local/suceava/hantesti/2022/30",
+   "short": "HCL Hănțești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 30/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/63034",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/63034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-31-2022",
+   "path": "local/suceava/hantesti/2022/31",
+   "short": "HCL Hănțești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 31/2022 privind atestarea apartenenței la domeniul public al comunei Hănțești, județul Suceava, a două drumuri vicinale, ca urmare a identificării și delimitării cadastrale în vederea întabulării în Cartea Funciară",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/63035",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/63035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-32-2022",
+   "path": "local/suceava/hantesti/2022/32",
+   "short": "HCL Hănțești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 32/2022 privind modificarea statului de funcții pentruaparatul de specialitate al primarului comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/63036",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/63036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-33-2022",
+   "path": "local/suceava/hantesti/2022/33",
+   "short": "HCL Hănțești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 33/2022 privind aprobarea Cererii de finanțare și a Devizului general estimativ aobiectivului de investiții „DEZVOLTARE REȚEA INTELIGENTĂ DE DISTRIBUȚIE A GAZELOR NATURALE ÎN TERITORIUL ASOCIAȚIEIDE DEZVOLTARE INTERCOMUNITARĂ PLEȘA (COMUNA ADÂNCATA ȘI COMUNA HĂNȚEȘTI, JUDEȚUL SUCEAVA)”pentru finanțarea acestuia în cadrul Programului Național de Investiții „ANGHEL SALIGNY”",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/63037",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/63037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-34-2022",
+   "path": "local/suceava/hantesti/2022/34",
+   "short": "HCL Hănțești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 34/2022 privind acceptarea trasferului fără plată a unui autoturism marca DACIA LOGAN în dotarea SVSU Hănțești, de la UAT Oraș Bucecea, județul Botoșani",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/63038",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/63038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-35-2022",
+   "path": "local/suceava/hantesti/2022/35",
+   "short": "HCL Hănțești nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 35/2022 privind aprobarea proiectului și a cheltuielilor aferente proiectului “Construirea de locuințe nZEB pentru specialiști în comuna Hănțești",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/63039",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/63039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-36-2022",
+   "path": "local/suceava/hantesti/2022/36",
+   "short": "HCL Hănțești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 36/2022 privind aprobarea proiectului și a cheltuielilor aferente proiectului “Reabilitare moderată clădiri publice –atelier mecanic din cadrul SVSU, comuna Hănțești”",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/63040",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/63040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-37-2022",
+   "path": "local/suceava/hantesti/2022/37",
+   "short": "HCL Hănțești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 37/2022 privind aprobarea rectificăriibugetului local al comunei Hănțești, județul Suceava,pentru anul 2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/63041",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/63041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-38-2022",
+   "path": "local/suceava/hantesti/2022/38",
+   "short": "HCL Hănțești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 38/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/63042",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/63042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-39-2022",
+   "path": "local/suceava/hantesti/2022/39",
+   "short": "HCL Hănțești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 39/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/63043",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/63043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-4-2022",
+   "path": "local/suceava/hantesti/2022/4",
+   "short": "HCL Hănțești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 4/2022 privind alegerea presedintelui de sedinta pentru conducerea ședințelor Consiliului local Hănțești, de la data de 01.02.2022 până la data de 30.04.2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/51224",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/51224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-40-2022",
+   "path": "local/suceava/hantesti/2022/40",
+   "short": "HCL Hănțești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 40/2022 privind aprobarea solicitării de prelungire a valabilității Scrisorii de garanţie nr. 349/27.07.2017, pentru proiectul de investiție intitulat ”Modernizare drumuri de interes local în Asociația de Dezvoltare Intercomunitară Pleșa din județul Suceava”, finanțat prin Agenția pentru Finanțarea Investițiilor Rurale – SM 7.2, conform contractului de finanțare nr. C 0720RN00011513500127/04.10.2016 și Actului Adițional nr. 7/27.10.2021",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/64078",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/64078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-41-2022",
+   "path": "local/suceava/hantesti/2022/41",
+   "short": "HCL Hănțești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 41/2022 privind modificarea statului de funcții pentru aparatul de specialitate al primarului comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/69331",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/69331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-42-2022",
+   "path": "local/suceava/hantesti/2022/42",
+   "short": "HCL Hănțești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 42/2022 privind aprobarea Regulamentului pentru conferirea de distincții unor personalități cu merite deosebite din comuna Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/69332",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/69332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-43-2022",
+   "path": "local/suceava/hantesti/2022/43",
+   "short": "HCL Hănțești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 43/2022 privind aprobarea corectării indicatorilor tehnico-economici actualizați prin HCL nr. 70/28.09.2021, pentru obiectivul de investiție „ALIMENTARE CU APĂ SAT HĂNȚEȘTI”, finanțat prin Ministerul Dezvoltarii, Lucrărilor Publice și Administrației",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/69333",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/69333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-44-2022",
+   "path": "local/suceava/hantesti/2022/44",
+   "short": "HCL Hănțești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 44/2022 privind aprobarea corectării indicatorilor tehnico-economici actualizați prin HCL 69/28.09.2021, pentru obiectivul de investiție „ÎNFIINȚARE INFRASTRUCTURĂ DE APĂ UZATĂ ÎN COMUNA HĂNȚEȘTI, JUDEȚUL SUCEAVA”, finanțat prin Ministerul Dezvoltarii, Lucrărilor Publice și Administrației",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/69334",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/69334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-45-2022",
+   "path": "local/suceava/hantesti/2022/45",
+   "short": "HCL Hănțești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 45/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/69335",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/69335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-46-2022",
+   "path": "local/suceava/hantesti/2022/46",
+   "short": "HCL Hănțești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 46/2022 privind aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava, pentru anul 2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/69336",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/69336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-47-2022",
+   "path": "local/suceava/hantesti/2022/47",
+   "short": "HCL Hănțești nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 47/2022 privind aprobarea actualizării indicatorilor tehnico-economici pentru obiectivul de investiție „ÎNFIINȚARE INFRASTRUCTURĂ DE APĂ UZATĂ ÎN COMUNA HĂNȚEȘTI, JUDEȚUL SUCEAVA”, finanțat prin Ministerul Dezvoltarii, Lucrărilor Publice și Administrației, conform OUG nr. 47/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/69337",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/69337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-48-2022",
+   "path": "local/suceava/hantesti/2022/48",
+   "short": "HCL Hănțești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 48/2022 privind aprobarea actualizării indicatorilor tehnico-economici pentru obiectivul de investiție „ALIMENTARE CU APĂ SAT HĂNȚEȘTI”, finanțat prin Ministerul Dezvoltarii, Lucrărilor Publice și Administrației, conform OUG nr. 47/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/69338",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/69338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-49-2022",
+   "path": "local/suceava/hantesti/2022/49",
+   "short": "HCL Hănțești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 49/2022 privind aprobarea execuţiei bugetului local al comunei Hănțești, județul Suceava, la data de 30.06.2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/69339",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/69339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-5-2022",
+   "path": "local/suceava/hantesti/2022/5",
+   "short": "HCL Hănțești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 5/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/51225",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/51225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-50-2022",
+   "path": "local/suceava/hantesti/2022/50",
+   "short": "HCL Hănțești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 50/2022 privind aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava, pentru anul 2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/69340",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/69340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-51-2022",
+   "path": "local/suceava/hantesti/2022/51",
+   "short": "HCL Hănțești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 51/2022 privind aprobarea organizării zilei comunei Hănțești, județul Suceava, în data de 14.08.2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/69341",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/69341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-53-2022",
+   "path": "local/suceava/hantesti/2022/53",
+   "short": "HCL Hănțești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 53/2022 privind alegerea presedintelui de sedinta pentru conducerea ședințelor Consiliului local Hănțești, de la data de 01.08.2022 până la data de 31.10.2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/69343",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/69343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-54-2022",
+   "path": "local/suceava/hantesti/2022/54",
+   "short": "HCL Hănțești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 54/2022 privind aprobarea organizării evenimentului Festivalul ”GREEN BEAT”, în comuna Hănțești, județul Suceava, în perioada 29 – 31 iulie 2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/69344",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/69344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-55-2022",
+   "path": "local/suceava/hantesti/2022/55",
+   "short": "HCL Hănțești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 55/2022 privind implementarea proiectului „Extinderea și creşterea eficienţei energetice a infrastructurii de iluminat public în comuna Hănțești, Județul Suceava”",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/69345",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/69345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-56-2022",
+   "path": "local/suceava/hantesti/2022/56",
+   "short": "HCL Hănțești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 56/2022 privind înființarea Serviciului Voluntar pentru Situaţii de Urgenţă al Comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/73983",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/73983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-57-2022",
+   "path": "local/suceava/hantesti/2022/57",
+   "short": "HCL Hănțești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 57/2022 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav din comuna Hănțești, județul Suceava, pe semestrul I 2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/73984",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/73984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-58-2022",
+   "path": "local/suceava/hantesti/2022/58",
+   "short": "HCL Hănțești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 58/2022 privind atestarea apartenenței la domeniul privat al comunei Hănțești, județul Suceava, a unor terenuri, ca urmare a identificării și delimitării cadastrale în vederea întabulării în Cartea Funciară",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/73985",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/73985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-59-2022",
+   "path": "local/suceava/hantesti/2022/59",
+   "short": "HCL Hănțești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 59/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/73986",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/73986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-6-2022",
+   "path": "local/suceava/hantesti/2022/6",
+   "short": "HCL Hănțești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 6/2022 privind execuția bugetului local al comunei Hănțești, județul Suceava, pentru anul 2021",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/53240",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/53240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-60-2022",
+   "path": "local/suceava/hantesti/2022/60",
+   "short": "HCL Hănțești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 60/2022 privind aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava, pentru anul 2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/73987",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/73987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-62-2022",
+   "path": "local/suceava/hantesti/2022/62",
+   "short": "HCL Hănțești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 62/2022 privind însușirea Statutului revizuit al Asociaţiei de Dezvoltare Intercomunitară ”Zona Metropolitană Suceava”, conform prevederilor Legii nr. 246/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/73989",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/73989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-64-2022",
+   "path": "local/suceava/hantesti/2022/64",
+   "short": "HCL Hănțești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 64/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/73991",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/73991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-66-2022",
+   "path": "local/suceava/hantesti/2022/66",
+   "short": "HCL Hănțești nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 66/2022 privind aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava, pentru anul 2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/73993",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/73993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-67-2022",
+   "path": "local/suceava/hantesti/2022/67",
+   "short": "HCL Hănțești nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 67/2022 privind aprobarea modificării Organigramei și a Statului de funcții pentru aparatul de specialitate al primarului comunei Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/73994",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/73994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-68-2022",
+   "path": "local/suceava/hantesti/2022/68",
+   "short": "HCL Hănțești nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 68/2022 privind aprobarea actualizării Strategiei de Dezvoltare Locală a Comunei Hănțești, județul Suceava, pentru perioada 2021 - 2027",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/73995",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/73995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-69-2022",
+   "path": "local/suceava/hantesti/2022/69",
+   "short": "HCL Hănțești nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 69/2022 privind aprobarea Contractului de sponsorizare și acceptarea sponsorizării din partea Asociației ”Aripi de Bucovina” Suceava, la ziua comunei Hănțești",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/73996",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/73996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-7-2022",
+   "path": "local/suceava/hantesti/2022/7",
+   "short": "HCL Hănțești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 7/2022 privind aprobarea casării unor bunuri constatate ca fiind depreciate, cu ocazia inventarierii anuale a patrimoniului comunei Hănțești, din data de 31.12.2021",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/53241",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/53241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-70-2022",
+   "path": "local/suceava/hantesti/2022/70",
+   "short": "HCL Hănțești nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 70/2022 pentru implementarea proiectului \"Înființarea și dotarea unui centru de colectare prin aport voluntar (CAV) în comuna Hănțești, județul Suceava\"",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/76114",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/76114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-71-2022",
+   "path": "local/suceava/hantesti/2022/71",
+   "short": "HCL Hănțești nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 71/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/76115",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/76115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-72-2022",
+   "path": "local/suceava/hantesti/2022/72",
+   "short": "HCL Hănțești nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 72/2022 privind aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava, pentru anul 2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/76116",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/76116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-73-2022",
+   "path": "local/suceava/hantesti/2022/73",
+   "short": "HCL Hănțești nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 73/2022 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții ”Extindere infrastructură de apă și apă uzată în comuna Hănțești, județul Suceava”, aprobat pentru finanțare prin Programul national de investiții Anghel Saligny, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/76117",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/76117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-74-2022",
+   "path": "local/suceava/hantesti/2022/74",
+   "short": "HCL Hănțești nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 74/2022 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ”Alimentare cu energie electrică Stație de captare. tratare și pompare apă în localitatea Hănțești, str. Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/76118",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/76118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-75-2022",
+   "path": "local/suceava/hantesti/2022/75",
+   "short": "HCL Hănțești nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 75/2022 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ”Alimentare cu energie electrică Stație de epurare a apelor uzate în localitatea Hănțești, str. Hănțești, județul Suceava”",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/76119",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/76119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-76-2022",
+   "path": "local/suceava/hantesti/2022/76",
+   "short": "HCL Hănțești nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 76/2022 privind aprobarea proiectului și a cheltuielilor aferente proiectului “Construirea de locuințe nZEB pentru specialiști în comuna Hănțești, jud. Suceava”",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/78926",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/78926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-77-2022",
+   "path": "local/suceava/hantesti/2022/77",
+   "short": "HCL Hănțești nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 77/2022 privind aprobarea dezmembrării unui teren din domeniul public, în vederea construirii de locuințe nZEB pentru specialiști, în satul Hănțești, comuna Hănțești",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/78927",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/78927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-78-2022",
+   "path": "local/suceava/hantesti/2022/78",
+   "short": "HCL Hănțești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 78/2022 privind aprobarea dezmembrării unui teren din domeniul public, în vederea amplasării rachetelor antigrindină, în satul Hănțești, comuna Hănțești",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/78928",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/78928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-79-2022",
+   "path": "local/suceava/hantesti/2022/79",
+   "short": "HCL Hănțești nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 79/2022 privind constituirea unui drept real de folosință gratuită asupra unui teren situat în extravilanul satului Hănțești, comuna Hănțești, județul Suceava, în vederea amplasării unui Punct de lansare a rachetelor antigrindină",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/78929",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/78929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-8-2022",
+   "path": "local/suceava/hantesti/2022/8",
+   "short": "HCL Hănțești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 8/2022 privind aprobarea bugetului local al comunei Hănțești, județul Suceava, pe anul 2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/53242",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/53242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-80-2022",
+   "path": "local/suceava/hantesti/2022/80",
+   "short": "HCL Hănțești nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 80/2022 privind implementarea proiectului „Achiziție tractor în comuna Hănțești, județul Suceava”",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/78930",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/78930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-82-2022",
+   "path": "local/suceava/hantesti/2022/82",
+   "short": "HCL Hănțești nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 82/2022 privind aprobarea execuţiei bugetului local al comunei Hănțești, județul Suceava, la data de 30.09.2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/78936",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/78936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-83-2022",
+   "path": "local/suceava/hantesti/2022/83",
+   "short": "HCL Hănțești nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 83/2022 privind aprobarea rectificării bugetului local al comunei Hănțești, județul Suceava, pentru anul 2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/78937",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/78937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-84-2022",
+   "path": "local/suceava/hantesti/2022/84",
+   "short": "HCL Hănțești nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 84/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/78938",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/78938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-85-2022",
+   "path": "local/suceava/hantesti/2022/85",
+   "short": "HCL Hănțești nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 85/2022",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/78939",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/78939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-86-2022",
+   "path": "local/suceava/hantesti/2022/86",
+   "short": "HCL Hănțești nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 86/2022 privind atestarea apartenenței la domeniul privat al comunei Hănțești, județul Suceava, a unor terenuri, ca urmare a identificării și delimitării cadastrale în vederea întabulării în Cartea Funciară",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/78940",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/78940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-87-2022",
+   "path": "local/suceava/hantesti/2022/87",
+   "short": "HCL Hănțești nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 87/2022 privind alegerea presedintelui de sedinta pentru conducerea ședințelor Consiliului local Hănțești, de la data de 01.11.2022 până la data de 31.01.2023",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/78941",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/78941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-88-2022",
+   "path": "local/suceava/hantesti/2022/88",
+   "short": "HCL Hănțești nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 88/2022 privind implementarea proiectului „Înființare pistă de biciclete în comuna Hănțești, Județul Suceava”",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/78942",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/78942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-89-2022",
+   "path": "local/suceava/hantesti/2022/89",
+   "short": "HCL Hănțești nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 89/2022 pentru aprobarea înființării serviciului de utilitate publică de distribuție a gazelor naturale în Asociația de Dezvoltare Intercomunitară ”PLEȘA” din județul Suceava (comuna Adâncata și comuna Hănțești)",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/81180",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/81180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--hantesti-9-2022",
+   "path": "local/suceava/hantesti/2022/9",
+   "short": "HCL Hănțești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hănțești nr. 9/2022 privind aprobarea Planului anual de acțiune privind serviciile sociale, pe anul 2022, pentru comuna Hănțești, județul Suceava",
+   "url": "https://emol.ro/hantesti-sv/registru-hcl/53243",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/hantesti-sv/registru-hcl/53243",
      "sha256": null
     }
    ]

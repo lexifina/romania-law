@@ -3,6 +3,171 @@
  "shard": "local/suceava/fundu-moldovei/2025",
  "acts": [
   {
+   "slug": "hcl-suceava--fundu-moldovei-1-2025",
+   "path": "local/suceava/fundu-moldovei/2025/1",
+   "short": "HCL Fundu Moldovei nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 1/2025 privind aprobarea utilizării definitive a sumei de 26 000 lei din excedentul anilor precedenți pentru finanțarea cheltuielilor secțiunii de dezvoltare a bugetului local",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/196941",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/196941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-12-2025",
+   "path": "local/suceava/fundu-moldovei/2025/12",
+   "short": "HCL Fundu Moldovei nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 12/2025 privind atestarea apartenenței la domeniul privat al comunei a unor bunuri imobile",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/202790",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/202790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-13-2025",
+   "path": "local/suceava/fundu-moldovei/2025/13",
+   "short": "HCL Fundu Moldovei nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 13/2025 privind aprobarea bugetului de venituri și cheltuieli al comunei Fundu Moldovei, județul Suceava, pe anul 2025",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/202791",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/202791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-14-2025",
+   "path": "local/suceava/fundu-moldovei/2025/14",
+   "short": "HCL Fundu Moldovei nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 14/2025 privind aprobarea Programului anual privind regimul finanțărilor nerambursabile acordate de la bugetul local al comunei Fundu Moldovei",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/202792",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/202792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-18-2025",
+   "path": "local/suceava/fundu-moldovei/2025/18",
+   "short": "HCL Fundu Moldovei nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 18/2025 privind atestarea apartenenței la domeniul privat al comunei a unui bun imobil",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/213173",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/213173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-34-2025",
+   "path": "local/suceava/fundu-moldovei/2025/34",
+   "short": "HCL Fundu Moldovei nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 34/2025 privind aprobarea proiectului, a indicatorilor tehnico - economici și a devizului general aferent obiectivului de investiție „CONSTRUIRE ȘI DOTARE SALĂ DE SPORT ÎN COMUNA FUNDU MOLDOVEI, JUDEȚUL SUCEAVA” faza SF",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/219299",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/219299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-37-2025",
+   "path": "local/suceava/fundu-moldovei/2025/37",
+   "short": "HCL Fundu Moldovei nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 37/2025 privind aprobarea indicatorilor tehnico - economici și a devizului general aferent obiectivului de investiție ”CONSTRUIRE ȘI DOTARE SALĂ DE SPORT ÎN COMUNA FUNDU MOLDOVEI, JUDEȚUL SUCEAVA”, faza PT",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/219802",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/219802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-44-2025",
+   "path": "local/suceava/fundu-moldovei/2025/44",
+   "short": "HCL Fundu Moldovei nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 44/2025 privind implementarea proiectului ”CONSERVAREA ȘI VALORIFICAREA PATRIMONIULUI PRIN MODERNIZAREA CĂMINULUI CULTURAL DIN SATUL BOTUȘ, COMUNA FUNDU MOLDOVEI, JUDEȚUL SUCEAVA",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/233801",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/233801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-45-2025",
+   "path": "local/suceava/fundu-moldovei/2025/45",
+   "short": "HCL Fundu Moldovei nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 45/2025 privind implementarea proiectului ”ACHIZIȚIA UNEI AUTOSPECIALE MULTIFUNCȚIONALE ÎN VEDEREA ÎMBUNNĂTĂȚIRII SERVICIILOR PUBLICE ÎN COMUNA FUNDU MOLDOVEI, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/233802",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/233802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-46-2025",
+   "path": "local/suceava/fundu-moldovei/2025/46",
+   "short": "HCL Fundu Moldovei nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 46/2025",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/233972",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/233972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-47-2025",
+   "path": "local/suceava/fundu-moldovei/2025/47",
+   "short": "HCL Fundu Moldovei nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 47/2025",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/233973",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/233973",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--fundu-moldovei-52-2025",
    "path": "local/suceava/fundu-moldovei/2025/52",
    "short": "HCL Fundu Moldovei nr. 52/2025",
@@ -298,6 +463,36 @@
      "from": "2026-01-29",
      "units": 1,
      "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/249397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-8-2025",
+   "path": "local/suceava/fundu-moldovei/2025/8",
+   "short": "HCL Fundu Moldovei nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 8/2025 privind atestarea apartenenței la domeniul public al comunei a unor bunuri imobile",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/197420",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/197420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-9-2025",
+   "path": "local/suceava/fundu-moldovei/2025/9",
+   "short": "HCL Fundu Moldovei nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 9/2025 privind elaborarea Programului de Acțiune Comunitară Destinat Prevenirii și Combaterii Riscului de Sărăcie și Excluziune Socială la nivelul comunei Fundu Moldovei pentru anul 2025",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/197421",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/197421",
      "sha256": null
     }
    ]

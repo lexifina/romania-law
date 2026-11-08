@@ -3,6 +3,141 @@
  "shard": "local/suceava/veresti/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--veresti-1-2026",
+   "path": "local/suceava/veresti/2026/1",
+   "short": "HCL Verești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 1/2026 privind reglementarea focului deschis și a fumatului în comuna Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/252715",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/252715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-10-2026",
+   "path": "local/suceava/veresti/2026/10",
+   "short": "HCL Verești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 10/2026 privind aprobarea Regulamentului de funcționare a Pieței mixte din satul Verești, comuna Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/252724",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/252724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-13-2026",
+   "path": "local/suceava/veresti/2026/13",
+   "short": "HCL Verești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 13/2026 privind aprobarea Regulamentului de funcționare a Pieței mixte din satul Verești, comuna Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/258766",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/258766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-15-2026",
+   "path": "local/suceava/veresti/2026/15",
+   "short": "HCL Verești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 15/2026 privind completarea Regulamentului de funcționare al Pieței mixte din satul Verești, comuna Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/259172",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/259172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-18-2026",
+   "path": "local/suceava/veresti/2026/18",
+   "short": "HCL Verești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 18/2026 privind aprobarea Planului de analiză și acoperire a riscurilor pentru anul 2026",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/262391",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/262391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-2-2026",
+   "path": "local/suceava/veresti/2026/2",
+   "short": "HCL Verești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 2/2026 privind organizarea apărării împotriva incendiilor în comuna Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/252716",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/252716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-20-2026",
+   "path": "local/suceava/veresti/2026/20",
+   "short": "HCL Verești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 20/2026 privind aplicarea numărului maxim de posturi, modificarea Organigramei și a Statului de funcții ale aparatului de specialitate al primarului comunei Verești, județul Suceava, ca urmare a reorganizării în conformitate cu prevederile OUG nr. 7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșeterea capacității financiare a unităților administrativ-teritoriale",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/268433",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/268433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-21-2026",
+   "path": "local/suceava/veresti/2026/21",
+   "short": "HCL Verești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 21/2026 privind aprobarea Contului de execuție al bugetului local pentru trimestrul I, anul 2026",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/268436",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/268436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-22-2026",
+   "path": "local/suceava/veresti/2026/22",
+   "short": "HCL Verești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 22/2026 privind aprobarea dezmembrării unor terenuri din domeniul public al comunei, în vederea amplasării Stațiilor de Pompare a Apelor Uzate (SPAU-ri), aferente proiectului ''Înființare infrastructură de apă și apă uzată în comuna Verești, județul Suceava''",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/268437",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/268437",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--veresti-23-2026",
    "path": "local/suceava/veresti/2026/23",
    "short": "HCL Verești nr. 23/2026",
@@ -103,6 +238,21 @@
      "from": "2026-05-28",
      "units": 1,
      "source_url": "https://emol.ro/veresti-sv/registru-hcl/273789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-3-2026",
+   "path": "local/suceava/veresti/2026/3",
+   "short": "HCL Verești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 3/2026 privind aprobarea programului de acțiuni comunitare destinate prevenirii și combaterii riscului de sărăciei și excluziune socială pentru anii 2026-2027",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/252717",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/252717",
      "sha256": null
     }
    ]
@@ -298,6 +448,36 @@
      "from": "2026-09-28",
      "units": 1,
      "source_url": "https://emol.ro/veresti-sv/registru-hcl/293485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-8-2026",
+   "path": "local/suceava/veresti/2026/8",
+   "short": "HCL Verești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 8/2026 privind aprobarea dezmembrării unor terenuri din domeniul public al comunei, în vederea amplasării puțurilor de captare, stației de captare și a conductelor, aferente proiectului „Înființare infrastructură de apă și apă uzată în comuna Verești, județul Suceava”",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/252722",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/252722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-9-2026",
+   "path": "local/suceava/veresti/2026/9",
+   "short": "HCL Verești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 9/2026 privind apartenența unui bun imobil la domeniul privat al comunei Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/252723",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/252723",
      "sha256": null
     }
    ]

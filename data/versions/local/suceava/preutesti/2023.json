@@ -301,6 +301,81 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-34-2023",
+   "path": "local/suceava/preutesti/2023/34",
+   "short": "HCL Preutești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 34/2023 privind indexarea cu rata inflației pentru anul fiscal anterior a impozitelor și taxelor locale aplicabile în anul 2023",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/103568",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/103568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-43-2023",
+   "path": "local/suceava/preutesti/2023/43",
+   "short": "HCL Preutești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 43/2023 privind modificarea anexei nr.1- capitolul VII art.484-485 Taxe speciale la HCL nr.87/2022 privind stabilirea impozitelor și taxelor locale aplicabile în anul fiscal 2023",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/106275",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/106275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-44-2023",
+   "path": "local/suceava/preutesti/2023/44",
+   "short": "HCL Preutești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 44/2023 privind stabilirea unor măsuri pentru delegarea gestiunii activității de colectare și transport a deșeurilor municipale, inclusiv operarea stațiilor de transfer și a centrelor de colectare cu aport voluntar în Județul Suceava",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/106276",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/106276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-75-2023",
+   "path": "local/suceava/preutesti/2023/75",
+   "short": "HCL Preutești nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 75/2023 privind atribuirea denumirilor străzilor din comuna Preutești, judetul Suceava",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/119585",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/119585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--preutesti-98-2023",
+   "path": "local/suceava/preutesti/2023/98",
+   "short": "HCL Preutești nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Preutești nr. 98/2023 privind aprobarea atribuirii directe a gestiunii Serviciului specializat pentru gestionarea câinilor fără stăpân la nivelul Comunei Preutești",
+   "url": "https://emol.ro/preutesti-sv/registru-hcl/129927",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/preutesti-sv/registru-hcl/129927",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

@@ -3,6 +3,21 @@
  "shard": "local/suceava/radaseni/2020",
  "acts": [
   {
+   "slug": "hcl-suceava--radaseni-11-2020",
+   "path": "local/suceava/radaseni/2020/11",
+   "short": "HCL Rădășeni nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 11/2020 privind aprobarea contului trimestrial de execuție a bugetului local de venituri și cheltuielila data de 31.12.2019",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/7601",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/7601",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--radaseni-35-2020",
    "path": "local/suceava/radaseni/2020/35",
    "short": "HCL Rădășeni nr. 35/2020",
@@ -298,6 +313,21 @@
      "from": "2020-12-09",
      "units": 1,
      "source_url": "https://emol.ro/radaseni-sv/registru-hcl/14386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radaseni-6-2020",
+   "path": "local/suceava/radaseni/2020/6",
+   "short": "HCL Rădășeni nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 6/2020 privind aprobarea Statutului Comunei Rădășeni, județul Suceava",
+   "url": "https://emol.ro/radaseni-sv/registru-hcl/7596",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/radaseni-sv/registru-hcl/7596",
      "sha256": null
     }
    ]

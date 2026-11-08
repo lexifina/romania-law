@@ -3,6 +3,426 @@
  "shard": "local/suceava/stroiesti/2023",
  "acts": [
   {
+   "slug": "hcl-suceava--stroiesti-11-2023",
+   "path": "local/suceava/stroiesti/2023/11",
+   "short": "HCL Stroiești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 11/2023 privind atestarea inventarului bunurilor care alcătuiesc domeniul public al comunei Stroiești, județul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/105263",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/105263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-12-2023",
+   "path": "local/suceava/stroiesti/2023/12",
+   "short": "HCL Stroiești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 12/2023 privind repartizarea sumelor prevăzute în bugetul local al comunei Stroieşti pentru acordarea sprijunului financiar a unor unităţi de cult, în anul 2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/105264",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/105264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-13-2023",
+   "path": "local/suceava/stroiesti/2023/13",
+   "short": "HCL Stroiești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 13/2023 privind premierea elevilor din comuna Stroieşti cu rezultate deosebite în anul şcolar 2022- 2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/105265",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/105265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-14-2023",
+   "path": "local/suceava/stroiesti/2023/14",
+   "short": "HCL Stroiești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 14/2023 privind aprobarea Comenzilor de reparații - lucrări constând în manoperă și materiale piese de schimb la autoutilitara din dotare",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/105266",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/105266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-15-2023",
+   "path": "local/suceava/stroiesti/2023/15",
+   "short": "HCL Stroiești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 15/2023 privind aprobarea calendarului de activităţi social - culturale din comuna Stroieşti, judeţul Suceava care se vor desfăşura în anul 2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/105267",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/105267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-16-2023",
+   "path": "local/suceava/stroiesti/2023/16",
+   "short": "HCL Stroiești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 16/2023 privind aprobarea încheierii acordului de parteneriat între Unitatea Administrativ Teritoriala Comuna Stroieşti şi Asociatia ,,10 pentru folclor,,",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/105268",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/105268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-17-2023",
+   "path": "local/suceava/stroiesti/2023/17",
+   "short": "HCL Stroiești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 17/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „ RENOVARE ENERGETICĂ MODERATĂ A CLĂDIRII CĂMINULUI CULTURAL STROIEȘTI, COMUNA STROIEȘTI, JUDEȚUL SUCEAVA”, finanțat prin Planului Național de Redresare și Reziliență, Componenta 10 – Fondul Local, Investiția I.3 - Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/105269",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/105269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-2-2023",
+   "path": "local/suceava/stroiesti/2023/2",
+   "short": "HCL Stroiești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 2/2023 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiţii: \" Modernizare și reabilitare Cămin Cultural Zaharești, în sat Zaharești, comuna Stroiești, județul Suceava\"",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/105254",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/105254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-20-2023",
+   "path": "local/suceava/stroiesti/2023/20",
+   "short": "HCL Stroiești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 20/2023 privind aprobarea participării Comunei Stroiești, județul Suceava în cadrul Programului privind casarea autovehiculelor uzate, derulat în cofinanțare cu Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/111993",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/111993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-22-2023",
+   "path": "local/suceava/stroiesti/2023/22",
+   "short": "HCL Stroiești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 22/2023 privind indexarea impozitelor şi taxelor locale pentru anul fiscal 2024",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118701",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-26-2023",
+   "path": "local/suceava/stroiesti/2023/26",
+   "short": "HCL Stroiești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 26/2023 privind aprobarea Documentației de avizare a lucrărilor de intervenții – (DALI), a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „RENOVARE ENERGETICĂ MODERATĂ A CLĂDIRII C2 A ȘCOLII GIMNAZIALE STROIEȘTI, STA STROIEȘTI, COMUNA STROIEȘTI, JUDEȚUL SUCEAVA”, finanțat prin Planului Național de Redresare și Reziliență, Componenta 10 – Fondul Local, Investiția I.3 - Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118812",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-28-2023",
+   "path": "local/suceava/stroiesti/2023/28",
+   "short": "HCL Stroiești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 28/2023 privind stabilirea unor măsuri pentru delegarea gestiunii activității de colectare și transport a deșeurilor municipale, inclusiv operarea stațiilor de transfer și a centrelor de colectare cu aport voluntar în Județul Suceava",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118814",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-30-2023",
+   "path": "local/suceava/stroiesti/2023/30",
+   "short": "HCL Stroiești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 30/2023 privind aprobarea necesității și oportunității obiectivului de investiție: \" Construire unui centru de zi de asistență și recuperare pentru persoanele vârstnice în localitatea Stroieşti, comuna Stroieşti, judeţul Suceava”",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118816",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-32-2023",
+   "path": "local/suceava/stroiesti/2023/32",
+   "short": "HCL Stroiești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 32/2023 privind aprobarea contului anual de execuţie a bugetului propriu al comunei Stroieşti, judeţul Suceava şi a situaţiilor financiare pe anul 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118818",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-33-2023",
+   "path": "local/suceava/stroiesti/2023/33",
+   "short": "HCL Stroiești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 33/2023 privind rectificarea bugetului local al comunei Stroiești, jud. Suceava pentru anul 2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118819",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-35-2023",
+   "path": "local/suceava/stroiesti/2023/35",
+   "short": "HCL Stroiești nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 35/2023 privind aprobarea finanțării din fonduri nerambursabile, de la bugetul local al comunei Stroiești, pe anul 2023, a proiectelor declarate câștigătoare în 05.04.2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118821",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-37-2023",
+   "path": "local/suceava/stroiesti/2023/37",
+   "short": "HCL Stroiești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 37/2023 privind aprobarea depunerii proiectului și a cheltuielilor legate de proiectul „Construirea unui Centru de zi de asistență și recuperare pentru persoanele vârstnice cu echipă mobilă de îngrijire la domiciliu în localitatea Stroieşti, comuna Stroieşti, județul Suceava”",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118825",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-39-2023",
+   "path": "local/suceava/stroiesti/2023/39",
+   "short": "HCL Stroiești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 39/2023 privind rectificarea bugetului local al comunei Stroiești, jud. Suceava pentru anul 2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118840",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-40-2023",
+   "path": "local/suceava/stroiesti/2023/40",
+   "short": "HCL Stroiești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 40/2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118841",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-42-2023",
+   "path": "local/suceava/stroiesti/2023/42",
+   "short": "HCL Stroiești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 42/2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118856",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-43-2023",
+   "path": "local/suceava/stroiesti/2023/43",
+   "short": "HCL Stroiești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 43/2023 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii: „ Reabilitare și modernizare infrastructură rutieră afectată de fenomene meteorologice în satele Stroiești, Zaharești și Vâlcelele, comuna Stroiești, județul Suceava”",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118857",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-44-2023",
+   "path": "local/suceava/stroiesti/2023/44",
+   "short": "HCL Stroiești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 44/2023 privind clasificarea și includerea în domeniul public al comunei Stroiești în vederea intabulării dreptului de proprietate și declararea ca bunuri publice de interes local a unor drumuri",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118858",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-45-2023",
+   "path": "local/suceava/stroiesti/2023/45",
+   "short": "HCL Stroiești nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 45/2023 privind actualizarea indicatorilor tehnico-economici aferenți proiectului „ACHIZIȚIE DE ECHIPAMENTE IT PENTRU SERVICII DE E-GUVERNARE ÎN COMUNA STROIEȘTI, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118862",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-50-2023",
+   "path": "local/suceava/stroiesti/2023/50",
+   "short": "HCL Stroiești nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 50/2023 privind repartizarea disponibilităţilor din excedentul anului 2022",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118873",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-51-2023",
+   "path": "local/suceava/stroiesti/2023/51",
+   "short": "HCL Stroiești nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 51/2023 privind rectificarea bugetului local al comunei Stroiești, jud. Suceava pentru anul 2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118874",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-52-2023",
+   "path": "local/suceava/stroiesti/2023/52",
+   "short": "HCL Stroiești nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 52/2023 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții (DALI), a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „ RENOVARE ENERGETICĂ MODERATĂ A CLĂDIRII CĂMINULUI CULTURAL STROIEȘTI, COMUNA STROIEȘTI, JUDEȚUL SUCEAVA”, finanțat prin Planului Național de Redresare și Reziliență, Componenta 10 – Fondul Local, Investiția I.3 - Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/118875",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/118875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-7-2023",
+   "path": "local/suceava/stroiesti/2023/7",
+   "short": "HCL Stroiești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 7/2023 privind aprobarea necesității și oportunității obiectivului de investiție \"Construirea unei unități de producere a energiei electrice din surse regenerabile în vederea compensării consumului propriu în comuna Stroieşti, judeţul Suceava\"",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/105259",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/105259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-70-2023",
+   "path": "local/suceava/stroiesti/2023/70",
+   "short": "HCL Stroiești nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 70/2023 privind rectificarea bugetului comunei Stroiești, jud. Suceava pentru anul 2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/144638",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/144638",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--stroiesti-75-2023",
    "path": "local/suceava/stroiesti/2023/75",
    "short": "HCL Stroiești nr. 75/2023",
@@ -73,6 +493,21 @@
      "from": "2024-02-27",
      "units": 1,
      "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/144658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-8-2023",
+   "path": "local/suceava/stroiesti/2023/8",
+   "short": "HCL Stroiești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 8/2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/105260",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/105260",
      "sha256": null
     }
    ]
@@ -223,6 +658,21 @@
      "from": "2024-02-27",
      "units": 1,
      "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/144855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--stroiesti-9-2023",
+   "path": "local/suceava/stroiesti/2023/9",
+   "short": "HCL Stroiești nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stroiești nr. 9/2023",
+   "url": "https://emol.ro/stroiesti-sv/registru-hcl/105261",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stroiesti-sv/registru-hcl/105261",
      "sha256": null
     }
    ]

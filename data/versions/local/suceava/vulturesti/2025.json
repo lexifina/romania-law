@@ -3,6 +3,51 @@
  "shard": "local/suceava/vulturesti/2025",
  "acts": [
   {
+   "slug": "hcl-suceava--vulturesti-20-2025",
+   "path": "local/suceava/vulturesti/2025/20",
+   "short": "HCL Vulturești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 20/2025 privind organizarea și desfășurarea activităților comerciale și a serviciilor de piață pe teritoriul comunei Vulturești, județul Suceava",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/218714",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/218714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-27-2025",
+   "path": "local/suceava/vulturesti/2025/27",
+   "short": "HCL Vulturești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 27/2025 privind atribuirea de denumiri străzilor din Comuna Vulturești, Județul Suceava",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/222167",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/222167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-28-2025",
+   "path": "local/suceava/vulturesti/2025/28",
+   "short": "HCL Vulturești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 28/2025 privind atestarea apartenenței la domeniul privat al comunei Vulturești, județul Suceava, a unor bunuri imobile",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/222168",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/222168",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--vulturesti-31-2025",
    "path": "local/suceava/vulturesti/2025/31",
    "short": "HCL Vulturești nr. 31/2025",

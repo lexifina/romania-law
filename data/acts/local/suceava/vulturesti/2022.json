@@ -3,6 +3,94 @@
 "shard": "local/suceava/vulturesti/2022",
 "acts": [
 {
+"slug": "hcl-suceava--vulturesti-1-2022",
+"path": "local/suceava/vulturesti/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 1/2022 privind aprobarea propunerii preliminare de extindere a intravilanului comunei Vultureşti, judeţul Suceava, în vederea actualizării Planului Urbanistic General",
+"short": "HCL Vulturești nr. 1/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/48920",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-5-2022",
+"path": "local/suceava/vulturesti/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 5/2022 privind aprobarea bugetului local al comunei Vultureşti, judeţul Suceava, pe anul 2022, precum şi estimările pentru anii 2023 – 2025",
+"short": "HCL Vulturești nr. 5/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/50257",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-13-2022",
+"path": "local/suceava/vulturesti/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 13/2022 privind atestarea apartenenţei la domeniul privat al comunei Vultureşti, judeţul Suceava, a unor bunuri imobile",
+"short": "HCL Vulturești nr. 13/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-10",
+"latest": "2022-05-10",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/58656",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-14-2022",
+"path": "local/suceava/vulturesti/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 14/2022 privind aprobarea încheierii Acordului de Cooperare între Comuna Vulturești, Județul Suceava din România și Satul Iordanovca, Raionul Basarabeasca din Republica Moldova",
+"short": "HCL Vulturești nr. 14/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-10",
+"latest": "2022-05-10",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/58657",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vulturesti-33-2022",
 "path": "local/suceava/vulturesti/2022/33",
 "kind": "local",

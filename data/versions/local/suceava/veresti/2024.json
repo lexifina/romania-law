@@ -3,6 +3,111 @@
  "shard": "local/suceava/veresti/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--veresti-1-2024",
+   "path": "local/suceava/veresti/2024/1",
+   "short": "HCL Verești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 1/2024 privind aprobarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/144877",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/144877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-2-2024",
+   "path": "local/suceava/veresti/2024/2",
+   "short": "HCL Verești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 2/2024 privind stabilirea situaţiilor deosebite și a situațiilor de necesitate pentru care se acordă ajutoare de urgenţă, ajutoare comunitare și ajutoare de înmormântare din bugetul local al comunei Verești, începând cu anul 2024",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/144878",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/144878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-28-2024",
+   "path": "local/suceava/veresti/2024/28",
+   "short": "HCL Verești nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 28/2024 privind aprobarea Situațiilor financiare pentru anul 2023",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/162621",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/162621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-3-2024",
+   "path": "local/suceava/veresti/2024/3",
+   "short": "HCL Verești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 3/2024 privind aprobarea Regulamentului de acordare a stimulentului educaţional pentru copiii din grădiniţe care provin din familii defavorizate",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/144879",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/144879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-39-2024",
+   "path": "local/suceava/veresti/2024/39",
+   "short": "HCL Verești nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 39/2024 privind ajustarea tarifelor pentru activitățile specifice serviciului de salubrizare",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/167587",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/167587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-40-2024",
+   "path": "local/suceava/veresti/2024/40",
+   "short": "HCL Verești nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 40/2024 privind aprobarea solicitării de prelungire a valabilității Scrisorii de garanție nr. 416/21.08.2017, pentru implementarea proiectului de investiție intitulat ''Înființare Infrastructură de apă și apă uzată în comuna Verești, județul Suceava'' și finanțat prin Agenția pentru Finanțarea Investițiilor Rurale, conform Contract de finanțare nr. C 0720 AN00021513500273/22.12.2016, Act Adițional nr. 11/05.09.2023",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/172660",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/172660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-41-2024",
+   "path": "local/suceava/veresti/2024/41",
+   "short": "HCL Verești nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 41/2024 privind repartizarea fondului de rezervă bugetară la dispoziția Consiliului Local pe anul 2024",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/172661",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/172661",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--veresti-48-2024",
    "path": "local/suceava/veresti/2024/48",
    "short": "HCL Verești nr. 48/2024",

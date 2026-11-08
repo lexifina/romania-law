@@ -3,6 +3,116 @@
 "shard": "local/suceava/preutesti/2023",
 "acts": [
 {
+"slug": "hcl-suceava--preutesti-34-2023",
+"path": "local/suceava/preutesti/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 34/2023 privind indexarea cu rata inflației pentru anul fiscal anterior a impozitelor și taxelor locale aplicabile în anul 2023",
+"short": "HCL Preutești nr. 34/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-12",
+"latest": "2023-05-12",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/103568",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-43-2023",
+"path": "local/suceava/preutesti/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 43/2023 privind modificarea anexei nr.1- capitolul VII art.484-485 Taxe speciale la HCL nr.87/2022 privind stabilirea impozitelor și taxelor locale aplicabile în anul fiscal 2023",
+"short": "HCL Preutești nr. 43/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/106275",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-44-2023",
+"path": "local/suceava/preutesti/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 44/2023 privind stabilirea unor măsuri pentru delegarea gestiunii activității de colectare și transport a deșeurilor municipale, inclusiv operarea stațiilor de transfer și a centrelor de colectare cu aport voluntar în Județul Suceava",
+"short": "HCL Preutești nr. 44/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/106276",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-75-2023",
+"path": "local/suceava/preutesti/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 75/2023 privind atribuirea denumirilor străzilor din comuna Preutești, judetul Suceava",
+"short": "HCL Preutești nr. 75/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-09",
+"latest": "2023-10-09",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/119585",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--preutesti-98-2023",
+"path": "local/suceava/preutesti/2023/98",
+"kind": "local",
+"year": "2023",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Preutești nr. 98/2023 privind aprobarea atribuirii directe a gestiunii Serviciului specializat pentru gestionarea câinilor fără stăpân la nivelul Comunei Preutești",
+"short": "HCL Preutești nr. 98/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-04",
+"latest": "2023-12-04",
+"portal": "https://emol.ro/preutesti-sv/registru-hcl/129927",
+"council": "suceava/preutesti",
+"council_name": "Consiliul Local al Comunei Preutești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--preutesti-102-2023",
 "path": "local/suceava/preutesti/2023/102",
 "kind": "local",

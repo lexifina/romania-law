@@ -3,6 +3,425 @@
 "shard": "local/suceava/vama/2025",
 "acts": [
 {
+"slug": "hcl-suceava--vama-1-2025",
+"path": "local/suceava/vama/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 1/2025 ACOPERIREA DEFINITIVĂ A DEFICITULUI SECȚIUNII DE DEZVOLTARE PE ANUL 2024 DIN EXCEDENTUL BUGETULUI LOCAL PE ANII PRECEDENȚI",
+"short": "HCL Vama nr. 1/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#92603",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-2-2025",
+"path": "local/suceava/vama/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 2/2025",
+"short": "HCL Vama nr. 2/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": null,
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--vama-4-2025",
+"path": "local/suceava/vama/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 4/2025 APROBAREA PLANULUI DE LUCRĂRI DE INTERES LOCAL PE ANUL 2025 CE VOR FI EXECUTATE DE PERSOANELE APTE DE MUNCĂ BENEFICIARE A LEGII NR. 196/2016 PRIVIND VMG",
+"short": "HCL Vama nr. 4/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#93216",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-9-2025",
+"path": "local/suceava/vama/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 9/2025 APROBAREA REGULAMENTULUI DE ORGANIZARE ȘI FUNCȚIONARE A CONSILIULUI LOCAL AL COMUNEI VAMA",
+"short": "HCL Vama nr. 9/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#93229",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-13-2025",
+"path": "local/suceava/vama/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 13/2025 constituirea listei de partizi, aprobarea volumului masei lemnoase ce se recoltează în anul 2025 și modul de valorificare",
+"short": "HCL Vama nr. 13/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#95921",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-15-2025",
+"path": "local/suceava/vama/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 15/2025 REORGANIZAREA SVSU VAMA",
+"short": "HCL Vama nr. 15/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#95923",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-16-2025",
+"path": "local/suceava/vama/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 16/2025 APROBAREA REGULAMENTULUI PENTRU ACORDAREA TITLULUI DE CETĂȚEAN DE ONOARE AL COMUNEI VAMA",
+"short": "HCL Vama nr. 16/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#95924",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-19-2025",
+"path": "local/suceava/vama/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 19/2025 ÎNREGISTAREA COMUNEI VAMA ÎN SBEP ȘI ÎNROLAREA ÎN SISTEMUL GHIȘEUL.RO",
+"short": "HCL Vama nr. 19/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#97498",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-20-2025",
+"path": "local/suceava/vama/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 20/2025 ADOPTAREA BUGETULUI LOCAL PE ANUL 2025",
+"short": "HCL Vama nr. 20/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#98729",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-22-2025",
+"path": "local/suceava/vama/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 22/2025 MODIFICAREA ORGANIGRAMEI ȘI A STATULUI DE FUNCȚII PENTRU APARATUL DE SPECIALITATE AL PRIMARULUI",
+"short": "HCL Vama nr. 22/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#98746",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-24-2025",
+"path": "local/suceava/vama/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 24/2025 APROBAREA PROGRAMULUI DE ACȚIUNE COMUNITARĂ DESTINAT PREVENIRII ȘI COMBATERII RISCULUI DE SĂRĂCIE ȘI EXCLUZIUNE SOCIALĂ PE ANUL 2025",
+"short": "HCL Vama nr. 24/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#98749",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-26-2025",
+"path": "local/suceava/vama/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 26/2025 APROBAREA PARTICIPĂRII COMUNEI VAMA LA PROGRAMUL RABLA PENTRU SOBE",
+"short": "HCL Vama nr. 26/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#98849",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-27-2025",
+"path": "local/suceava/vama/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 27/2025 STABILIREA APARTENENȚEI UNUI IMOBIL LA DOMENIUL PRIVAT AL COMUNEI VAMA",
+"short": "HCL Vama nr. 27/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#98850",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-28-2025",
+"path": "local/suceava/vama/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 28/2025 ÎNSCRIEREA UNOR BUNURI IMOBILE ÎN INVENTARIUL DOMENIULUI PRIVAT AL COMUNEI",
+"short": "HCL Vama nr. 28/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#98852",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-29-2025",
+"path": "local/suceava/vama/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 29/2025 APROBAREA COLABORĂRII INTERINSTIȚIONALE DIN CADRUL PROIECTULUI FURNIZAREA DE SERVICII INTEGRATE ÎN COMUNITĂȚILE RURALE - FACILITAREA ACCESULUI PERSOANELOR VULNERABILE LA SERVICII DE BAZĂ EFICIENTE ȘI DE ALITATE",
+"short": "HCL Vama nr. 29/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#98853",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-32-2025",
+"path": "local/suceava/vama/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 32/2025 APROBAREA REALIZĂRII OBIECTIVELOR DE INVESTIȚII EXTINDERE REȚEA DE ALIMENTARE CU APĂ POTABILĂ ȘI CANALIZARE ÎN PRISACA DORNEI ȘI ÎNFIINȚARE REȚEA DE ALIMENTARE CU APĂ POTABILĂ ȘI CANALIZARE ÎN SATELE PRISACA DORNEI ȘI MOLID",
+"short": "HCL Vama nr. 32/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#98856",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-34-2025",
+"path": "local/suceava/vama/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 34/2025 ALEGERA PREȘEDINTELUI DE ȘEDINȚĂ",
+"short": "HCL Vama nr. 34/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#98860",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-36-2025",
+"path": "local/suceava/vama/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 36/2025 APROBAREA REGULAMENTULUI PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ACTIVITĂȚILOR COMERCIALE ȘI A SERVICIILOR DE PIAȚĂ PE RAZA COMUNEI VAMA",
+"short": "HCL Vama nr. 36/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#98862",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-45-2025",
+"path": "local/suceava/vama/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 45/2025 APROBAREA PAAR PE ANUL 2025",
+"short": "HCL Vama nr. 45/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#101451",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vama-46-2025",
 "path": "local/suceava/vama/2025/46",
 "kind": "local",
@@ -25,6 +444,28 @@
 }
 },
 {
+"slug": "hcl-suceava--vama-47-2025",
+"path": "local/suceava/vama/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 47/2025 APROBAREA MANUALULUI DE PROCEDURI INTERNE ȘI A PLANULUI DE DEZVOLTARE S SERVICIILOR SOCIALE",
+"short": "HCL Vama nr. 47/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#102058",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vama-48-2025",
 "path": "local/suceava/vama/2025/48",
 "kind": "local",
@@ -44,6 +485,28 @@
 "council_name": "Consiliul Local al Comunei Vama",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vama-49-2025",
+"path": "local/suceava/vama/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 49/2025 APROBAREA ÎNCHEIERII ACTULUI ADIȚIONAL NR. 2 LA CONTRACTUL NR. 283/1366/5.09.2024 DE DELEGARE A GESTIUNII ACTIVITĂȚII DE COLECTARE ȘI TRANSPORT A DEȘEURILOR MUNICIPALE",
+"short": "HCL Vama nr. 49/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#102060",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -286,6 +749,28 @@
 "council_name": "Consiliul Local al Comunei Vama",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vama-61-2025",
+"path": "local/suceava/vama/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 61/2025 STABILIREA APARTENENȚEI UNOR IMOBILE LA DOMENIUL PRIVAT AL COMUNEI",
+"short": "HCL Vama nr. 61/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-21",
+"latest": "2025-08-21",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#104970",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -730,6 +1215,72 @@
 }
 },
 {
+"slug": "hcl-suceava--vama-83-2025",
+"path": "local/suceava/vama/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 83/2025 ÎNCHEIEREA EXECUȚIEI BUGETARE PE TRIMESTRUL 3 ANUL 2025",
+"short": "HCL Vama nr. 83/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#109953",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-84-2025",
+"path": "local/suceava/vama/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 84/2025 VALIDAREA DISPOZIȚIEI NR. 341 DIN 24.10.2025 PRIVIND RECTIFICAREA BUGETULUI LOCAL PE ANUL 2025",
+"short": "HCL Vama nr. 84/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#109955",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-85-2025",
+"path": "local/suceava/vama/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 85/2025 RECTIFICAREA BUGETULUI LOCAL PE ANUL 2025",
+"short": "HCL Vama nr. 85/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#109973",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vama-86-2025",
 "path": "local/suceava/vama/2025/86",
 "kind": "local",
@@ -925,6 +1476,94 @@
 "council_name": "Consiliul Local al Comunei Vama",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vama-95-2025",
+"path": "local/suceava/vama/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 95/2025 RECTIFICAREA BUGETULUI LOCAL PE ANUL 2025",
+"short": "HCL Vama nr. 95/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#113840",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-96-2025",
+"path": "local/suceava/vama/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 96/2025 RECTIFICAREA BUGETULUI LOCAL PE ANUL 2025",
+"short": "HCL Vama nr. 96/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#113841",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-97-2025",
+"path": "local/suceava/vama/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 97/2025 MODIFICAREA ȘI COMPLETAREA LISTEI DE PARTIZI , APROBAREA VOLUMULUI MASEI LEMNOASE CE SE RECOLTEAZĂ ÎN ANUL 2026 ȘI MODUL DE VALORIFICARE",
+"short": "HCL Vama nr. 97/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#113842",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-98-2025",
+"path": "local/suceava/vama/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 98/2025 APROBAREA IMPOZITELOR ȘI TAXELOR LOCALE PE ANUL 2026",
+"short": "HCL Vama nr. 98/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#113844",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
 }
 }
 ]

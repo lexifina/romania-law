@@ -3,6 +3,36 @@
  "shard": "local/suceava/fantana-mare/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--fantana-mare-13-2024",
+   "path": "local/suceava/fantana-mare/2024/13",
+   "short": "HCL Fântâna Mare nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 13/2024 privind aprobarea Planului de analiză şi acoperire a riscurilor pentru anul 2024",
+   "url": "https://emol.ro/fantanamare-sv/registru-hcl/156665",
+   "versions": [
+    {
+     "from": "2024-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanamare-sv/registru-hcl/156665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantana-mare-16-2024",
+   "path": "local/suceava/fantana-mare/2024/16",
+   "short": "HCL Fântâna Mare nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 16/2024 privind rectificarea Bugetului local de venituri si cheltuieli al Consiliului Local , pentru anul 2024",
+   "url": "https://emol.ro/fantanamare-sv/registru-hcl/160395",
+   "versions": [
+    {
+     "from": "2024-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanamare-sv/registru-hcl/160395",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--fantana-mare-21-2024",
    "path": "local/suceava/fantana-mare/2024/21",
    "short": "HCL Fântâna Mare nr. 21/2024",
@@ -298,6 +328,21 @@
      "from": "2025-08-15",
      "units": 1,
      "source_url": "https://emol.ro/fantanamare-sv/registru-hcl/185043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantana-mare-6-2024",
+   "path": "local/suceava/fantana-mare/2024/6",
+   "short": "HCL Fântâna Mare nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 6/2024 privind aprobarea documentației tehnico-ecomonice (faza SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții “ IMPLEMENTAREA SISTEMELOR INTELIGENTE DE MANAGEMENT LOCAL ÎN COMUNA FÂNTÂNA MARE, JUDEȚUL SUCEAVA” finanțat prin Planul Național de Redresare și Reziliență – Componenta C10 – Fondul local, Investiția I.1.2 Asigurarea infrastructurii pentru transportul verde – ITS/Alte infrastructuri TIC – Runda 1",
+   "url": "https://emol.ro/fantanamare-sv/registru-hcl/142718",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanamare-sv/registru-hcl/142718",
      "sha256": null
     }
    ]

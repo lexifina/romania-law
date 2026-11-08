@@ -3,6 +3,786 @@
  "shard": "local/suceava/valea-moldovei/2025",
  "acts": [
   {
+   "slug": "hcl-suceava--valea-moldovei-1-2025",
+   "path": "local/suceava/valea-moldovei/2025/1",
+   "short": "HCL Valea Moldovei nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 1/2025 privind aprobarea PLAN URBANISTIC ZONAL (PUZ) pentru scoaterea din circuitul agricol în vederea construirii unei case de locuit P+M și anexe",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/190872",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/190872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-10-2025",
+   "path": "local/suceava/valea-moldovei/2025/10",
+   "short": "HCL Valea Moldovei nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 10/2025 privind aderarea la sistemul prin cooperare pentru organizarea și exercitarea activității de audit public intern la nivelul Filialei Județene Suceava a Asociației Comunelor din România",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/195519",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/195519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-11-2025",
+   "path": "local/suceava/valea-moldovei/2025/11",
+   "short": "HCL Valea Moldovei nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 11/2025 privind aprobarea execuției bugetare pe trim. IV, anul 2024",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/195520",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/195520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-12-2025",
+   "path": "local/suceava/valea-moldovei/2025/12",
+   "short": "HCL Valea Moldovei nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 12/2025 privind aprobarea demarării procedurilor pentru întocmirea Amenajamentului pastoral aferent pajiștilor aflate pe unitatea administrativ-teritorială comuna Valea Moldovei, județul Suceava",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/195521",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/195521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-14-2025",
+   "path": "local/suceava/valea-moldovei/2025/14",
+   "short": "HCL Valea Moldovei nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 14/2025 privind aprobarea tipului de suport alimentar acordat preșcolarilor si elevilor Școlii Gimnaziale Valea Moldovei și Școlii Primare Mironu, în cadrul Programului național „Masa sănătoasă",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/197039",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/197039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-15-2025",
+   "path": "local/suceava/valea-moldovei/2025/15",
+   "short": "HCL Valea Moldovei nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 15/2025 privind aprobarea indicatorilor tehnico-economici aferenți obiectivului de investiție ACTUALIZARE PLAN URBANISTIC GENERAL și REGULAMENT LOCAL DE URBANISM COMUNA VALEA MOLDOVEI, JUDEȚUL SUCEAVA",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/197040",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/197040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-16-2025",
+   "path": "local/suceava/valea-moldovei/2025/16",
+   "short": "HCL Valea Moldovei nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 16/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale administrate și finanțate din bugetul Consiliului Local al PRIMARIEI VALEA MOLDOVEI Centru de zi pentru consiliere si sprijin pentru părinți și copii 8899CZ-F-I",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/197041",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/197041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-17-2025",
+   "path": "local/suceava/valea-moldovei/2025/17",
+   "short": "HCL Valea Moldovei nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 17/2025 privind înregistrarea comunei Valea Moldovei, județul Suceava în Sistemul Național Electronic de Plată (SNEP) online a taxelor și impozitelor utilizând cardul bancar, și implicit înrolarea în sistemul „Ghișeul.ro” și stabilirea modului în care este suportat comisionul bancar",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/197192",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/197192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-18-2025",
+   "path": "local/suceava/valea-moldovei/2025/18",
+   "short": "HCL Valea Moldovei nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 18/2025 privind aprobarea încheierii protocolului de colaborare între Autoritatea Pentru Digitalizarea României și comuna Valea Moldovei, județul Suceava pentru asigurarea cadrului interinstituțional necesar înrolării în aplicația RoeID",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/197193",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/197193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-19-2025",
+   "path": "local/suceava/valea-moldovei/2025/19",
+   "short": "HCL Valea Moldovei nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 19/2025 privind aprobarea depunerii proiectului si a cheltuielilor aferente, precum si aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiție ”CONSTRUIREA A 18 DE LOCUINȚE SOCIALE ÎN COMUNA VALEA MOLDOVEI, JUDEȚUL SUCEAVA” prin Programul multianual privind construcția de locuințe sociale și de necesitate derulat conform legii nr. 114/1996",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/197194",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/197194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-2-2025",
+   "path": "local/suceava/valea-moldovei/2025/2",
+   "short": "HCL Valea Moldovei nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 2/2025 privind aprobarea Programului anual al achizițiilor publice al comunei Valea Moldovei, județul Suceava, pentru anul 2025",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/190873",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/190873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-20-2025",
+   "path": "local/suceava/valea-moldovei/2025/20",
+   "short": "HCL Valea Moldovei nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 20/2025 privind aprobarea depunerii proiectului si a cheltuielilor aferente, precum si aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiție ”CONSTRUIREA A 24 DE LOCUINȚE SOCIALE ÎN COMUNA VALEA MOLDOVEI, JUDEȚUL SUCEAVA” prin Programul multianual privind construcția de locuințe sociale și de necesitate derulat conform legii nr. 114/1996",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/197195",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/197195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-22-2025",
+   "path": "local/suceava/valea-moldovei/2025/22",
+   "short": "HCL Valea Moldovei nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 22/2025 privind aprobarea bugetului propriu al comunei Valea Moldovei pe anul 2025 și estimările pentru anii 2026-2028",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206523",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-23-2025",
+   "path": "local/suceava/valea-moldovei/2025/23",
+   "short": "HCL Valea Moldovei nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 23/2025 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2025 a Serviciului public de alimentare cu apă și de canalizare al comunei Valea Moldovei",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206524",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-24-2025",
+   "path": "local/suceava/valea-moldovei/2025/24",
+   "short": "HCL Valea Moldovei nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 24/2025 privind aprobarea utilizării sumei de 1.001.970 lei reprezentând excedentul bugetar din anii anteriori pentru finanțarea cheltuielilor de investiții în anul 2025",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206525",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-25-2025",
+   "path": "local/suceava/valea-moldovei/2025/25",
+   "short": "HCL Valea Moldovei nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 25/2025 privind aprobarea de cheltuieli pentru achiziționarea unui sistem de extindere supraveghere stradală cu camere LPR",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206526",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-26-2025",
+   "path": "local/suceava/valea-moldovei/2025/26",
+   "short": "HCL Valea Moldovei nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 26/2025 privind recompensarea elevilor din clasele V-VIII ai Școlii Gimnaziale Valea Moldovei, județul Suceava, care au obținut rezultate deosebite la învățătură în anul școlar 2024-2025",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206527",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-27-2025",
+   "path": "local/suceava/valea-moldovei/2025/27",
+   "short": "HCL Valea Moldovei nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 27/2025 privind transferarea sumei de 10.000 lei prevăzută în bugetul local al comunei Valea Moldovei către ”ASOCIAȚIA DE DEZVOLTARE INTERCOMUNITARĂ PENTRU DEZVOLTAREA REȚELELOR DE GAZE NATURALE VALEA MOLDOVEI ȘI CAPU CÂMPULUI” în vederea constituirii bugetului de venituri și cheltuieli al acesteia pe anul 2025",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206528",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-28-2025",
+   "path": "local/suceava/valea-moldovei/2025/28",
+   "short": "HCL Valea Moldovei nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 28/2025 privind aprobarea de cheltuieli pentru achiziționarea unor servicii de prelucrare arhivistică a materialului documentar din arhiva primăriei comunei Valea Moldovei, județul Suceava",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206529",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-29-2025",
+   "path": "local/suceava/valea-moldovei/2025/29",
+   "short": "HCL Valea Moldovei nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 29/2025 privind aprobarea cheltuielilor pentru distribuirea pachetelor cu ocazia Sărbătorilor Pascale",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206530",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-3-2025",
+   "path": "local/suceava/valea-moldovei/2025/3",
+   "short": "HCL Valea Moldovei nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 3/2025 privind apartenența unui bun imobil la domeniul public al comunei Valea Moldovei, județul Suceava",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/190874",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/190874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-30-2025",
+   "path": "local/suceava/valea-moldovei/2025/30",
+   "short": "HCL Valea Moldovei nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 30/2025 privind aprobarea rapoartelor de evaluare și stabilirea prețului pe mp/an pentru ocuparea definitivă și temporară a suprafețelor de teren afectate cu ocazia lucrărilor pentru realizarea obiectivului de investiții ”INSTALAȚIE TEHNOLOGICĂ DE SUPRAFAȚĂ LA SONDA 16 MIRONU”",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206531",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-31-2025",
+   "path": "local/suceava/valea-moldovei/2025/31",
+   "short": "HCL Valea Moldovei nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 31/2025 privind aprobarea Programului de acțiuni comunitare pentru anul 2025",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206532",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-32-2025",
+   "path": "local/suceava/valea-moldovei/2025/32",
+   "short": "HCL Valea Moldovei nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 32/2025 aprobarea indicatorilor tehnico-economici actualizați aferenți obiectivului de investiție ”ACHIZIȚIA DE TRACTOR ÎN COMUNA VALEA MOLDOVEI, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206533",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-33-2025",
+   "path": "local/suceava/valea-moldovei/2025/33",
+   "short": "HCL Valea Moldovei nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 33/2025 privind aprobarea participării comunei Valea Moldovei, județul Suceava, în cadrul Programului privind acordarea de sprijin în vederea achiziţionării de aparate pentru încălzirea locuinţelor, pentru localităţile din zona montană",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206534",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/206534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-34-2025",
+   "path": "local/suceava/valea-moldovei/2025/34",
+   "short": "HCL Valea Moldovei nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 34/2025 privind aprobarea participării Comunei Valea Moldovei la Programul Regional Nord-Est 2021-2027, Apelul PR/NE/2025/6/RSO4.2/1 – ÎNVĂȚĂMÂNT COMUNE și a indicatorilor tehnico-economici aferenți obiectivului de investiții ”CONSTRUIRE SALĂ DE SPORT ȘCOLARĂ, AMENAJARE INCINTĂ, ÎN COMUNA VALEA MOLDOVEI, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/207568",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/207568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-35-2025",
+   "path": "local/suceava/valea-moldovei/2025/35",
+   "short": "HCL Valea Moldovei nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 35/2025 privind aprobarea indicatorilor tehnico-economici aferenți obiectivului de investiție ”AMENAJARE TROTUARE ȘI PARCĂRI ÎN COMUNA VALEA MOLDOVEI, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/207569",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/207569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-36-2025",
+   "path": "local/suceava/valea-moldovei/2025/36",
+   "short": "HCL Valea Moldovei nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 36/2025 privind aprobarea execuției bugetare pe trim. I, anul 2025",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/207570",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/207570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-37-2025",
+   "path": "local/suceava/valea-moldovei/2025/37",
+   "short": "HCL Valea Moldovei nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 37/2025 privind aprobarea proiectului, a cheltuielilor legate de proiect și a indicatorilor tehnico-economici aferenți proiectului ”ÎNFIINȚARE ȘI DOTARE CENTRU RESPIRO ÎN CADRUL COMUNEI VALEA MOLDOVEI, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/208384",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/208384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-39-2025",
+   "path": "local/suceava/valea-moldovei/2025/39",
+   "short": "HCL Valea Moldovei nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 39/2025 privind însușirea și aprobarea documentației cadastrale de alipire a două imobile terenuri aparținând domeniului privat al comunei Valea Moldovei",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/208386",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/208386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-4-2025",
+   "path": "local/suceava/valea-moldovei/2025/4",
+   "short": "HCL Valea Moldovei nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 4/2025 privind acordul introducerii a 3(trei) noi parteneri, respectiv UAT Comuna Fundu Moldovei, UAT Comuna Zamostea și UAT Comuna Iacobeni în cadrul Acordului de Parteneriat aferent proiectului ”Microbuze electrice pentru elevii din Judeţul Suceava” finanțat din PNRR, Componenta 15 – Educaţie",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/190875",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/190875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-45-2025",
+   "path": "local/suceava/valea-moldovei/2025/45",
+   "short": "HCL Valea Moldovei nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 45/2025 privind modificarea listei obiectivelor de investiții a comunei Valea Moldovei, pe anul 2025",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/219811",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/219811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-46-2025",
+   "path": "local/suceava/valea-moldovei/2025/46",
+   "short": "HCL Valea Moldovei nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 46/2025 privind modificarea și completarea Programului anual al achizițiilor publice al comunei Valea Moldovei, județul Suceava, pentru anul 2025",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/219812",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/219812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-47-2025",
+   "path": "local/suceava/valea-moldovei/2025/47",
+   "short": "HCL Valea Moldovei nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 47/2025 privind aprobarea încheierii Actului adițional nr. 4 la Contractul nr.282/2656 din 05.09.2024 de delegare a gestiunii activității de colectare și transport a deșeurilor municipale, inclusiv operarea stațiilor de transfer și a centrelor de colectare cu aport voluntar în județul Suceava zona Gura Humorului – Fălticeni (Lot 3)",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/219813",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/219813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-48-2025",
+   "path": "local/suceava/valea-moldovei/2025/48",
+   "short": "HCL Valea Moldovei nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 48/2025 privind aprobarea Regulamentului de acordare a stimulentelor financiare elevilor din învățământul preuniversitar ai Școlii Gimnaziale Valea Moldovei care au obţinut distincţii, medalii şi premii speciale şi cadrelor didactice care s-au ocupat de pregătirea acestora",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/219814",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/219814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-5-2025",
+   "path": "local/suceava/valea-moldovei/2025/5",
+   "short": "HCL Valea Moldovei nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 5/2025 privind aprobarea achiziționării de servicii juridice de consultanță, de asistență și/sau reprezentare",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/190876",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/190876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-50-2025",
+   "path": "local/suceava/valea-moldovei/2025/50",
+   "short": "HCL Valea Moldovei nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 50/2025 privind aprobarea proiectului, a cheltuielilor legate de proiect și a indicatorilor tehnico-economici actualizați aferenți proiectului ”ÎNFIINȚARE ȘI DOTARE CENTRU RESPIRO ÎN CADRUL COMUNEI VALEA MOLDOVEI, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/219816",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/219816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-52-2025",
+   "path": "local/suceava/valea-moldovei/2025/52",
+   "short": "HCL Valea Moldovei nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 52/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului ”Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/221067",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/221067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-53-2025",
+   "path": "local/suceava/valea-moldovei/2025/53",
+   "short": "HCL Valea Moldovei nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 53/2025 privind aprobarea execuției bugetare pe trim. II, anul 2025",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/221068",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/221068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-54-2025",
+   "path": "local/suceava/valea-moldovei/2025/54",
+   "short": "HCL Valea Moldovei nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 54/2025 privind aprobarea demarării procedurii de achiziție publică pentru încheierea unui contract de lucrări de exploatare și depozitare 2000 mc agregate minerale în comuna Valea Moldovei, județul Suceava, respectiv pentru încheierea unui contract de servicii transport 2000 mc agregate minerale în comuna Valea Moldovei, județul Suceava",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/221069",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/221069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-55-2025",
+   "path": "local/suceava/valea-moldovei/2025/55",
+   "short": "HCL Valea Moldovei nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 55/2025 privind aprobarea acordării drepturilor bănești reprezentând cheltuieli de deplasare din luna iunie 2025, personalului didactic al Școlii Gimnaziale Valea Moldovei și care are reședința în altă localitate decât cea în care profesează",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/221070",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/221070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-56-2025",
+   "path": "local/suceava/valea-moldovei/2025/56",
+   "short": "HCL Valea Moldovei nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 56/2025 privind prelungirea valabilității Planului Urbanistic General al comunei Valea Moldovei și a Regulamentului de local de urbanism",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/221837",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/221837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-58-2025",
+   "path": "local/suceava/valea-moldovei/2025/58",
+   "short": "HCL Valea Moldovei nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 58/2025 privind aprobarea constituirii și utilizării fondului de rezervă bugetară la dispoziția Consiliului local, pentru anul 2025 și aprobarea rectificării bugetului local pe anul 2025",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/221839",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/221839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-59-2025",
+   "path": "local/suceava/valea-moldovei/2025/59",
+   "short": "HCL Valea Moldovei nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 59/2025 privind aprobarea indicatorilor tehnico-economici actualizați aferenți obiectivului de investiții ”CONSTRUIRE SALĂ DE SPORT ȘCOLARĂ, AMENAJARE INCINTĂ, ÎN COMUNA VALEA MOLDOVEI, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/221840",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/221840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-61-2025",
+   "path": "local/suceava/valea-moldovei/2025/61",
+   "short": "HCL Valea Moldovei nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 61/2025 privind aprobarea rectificării bugetului local pe anul 2025",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/226993",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/226993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-62-2025",
+   "path": "local/suceava/valea-moldovei/2025/62",
+   "short": "HCL Valea Moldovei nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 62/2025 privind aprobarea rectificării bugetului local pe anul 2025",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/229021",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/229021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-65-2025",
+   "path": "local/suceava/valea-moldovei/2025/65",
+   "short": "HCL Valea Moldovei nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 65/2025 privind completarea Programului anual al achizițiilor publice al comunei Valea Moldovei, județul Suceava, pentru anul 2025",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/229038",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/229038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-68-2025",
+   "path": "local/suceava/valea-moldovei/2025/68",
+   "short": "HCL Valea Moldovei nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 68/2025 privind continuarea desfășurării activității Serviciului public de alimentare cu apă şi de canalizare al comunei Valea Moldovei, serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea Consiliului Local al Comunei Valea Moldovei, județul Suceava",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/229041",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/229041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-69-2025",
+   "path": "local/suceava/valea-moldovei/2025/69",
+   "short": "HCL Valea Moldovei nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 69/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat ca urmare a finalizării procedurilor de achiziții publice și majorare TVA conform Legii 141/2025 privind unele masuri fiscal-bugetare, pentru obiectivul de investiții ”Modernizare drumuri de interes local în comuna Valea Moldovei, județul Suceava”, aprobat pentru finanțare prin Programul Național de Investiții ”Anghel Saligny”, precum și a sumei actualizate reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/229042",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/229042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-7-2025",
+   "path": "local/suceava/valea-moldovei/2025/7",
+   "short": "HCL Valea Moldovei nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 7/2025 privind modificarea Hotărârii Consiliului local nr. 96 din 23.12.2024 privind implementarea proiectului: ”ACHIZIȚIA DE TRACTOR ÎN COMUNA VALEA MOLDOVEI, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/195516",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/195516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-70-2025",
+   "path": "local/suceava/valea-moldovei/2025/70",
+   "short": "HCL Valea Moldovei nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 70/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/235545",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/235545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-71-2025",
+   "path": "local/suceava/valea-moldovei/2025/71",
+   "short": "HCL Valea Moldovei nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 71/2025 privind aprobarea Amenajamentului pastoral aferent pajiștilor permanente aflate pe raza unității administrativ-teritoriale Comuna Valea Moldovei, județul Suceava",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/235546",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/235546",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--valea-moldovei-72-2025",
    "path": "local/suceava/valea-moldovei/2025/72",
    "short": "HCL Valea Moldovei nr. 72/2025",
@@ -118,6 +898,21 @@
      "from": "2025-12-17",
      "units": 1,
      "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/241260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-8-2025",
+   "path": "local/suceava/valea-moldovei/2025/8",
+   "short": "HCL Valea Moldovei nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 8/2025 privind aprobarea Regulamentului de instituire și administrare a taxei de salubrizare pentru unitatea administrativ-teritorială comuna Valea Moldovei",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/195517",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/195517",
      "sha256": null
     }
    ]
@@ -268,6 +1063,21 @@
      "from": "2026-01-22",
      "units": 1,
      "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/247877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--valea-moldovei-9-2025",
+   "path": "local/suceava/valea-moldovei/2025/9",
+   "short": "HCL Valea Moldovei nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Moldovei nr. 9/2025 privind aprobarea modului de întocmire și ţinere a Registrului agricol al comunei Valea Moldovei, județul Suceava",
+   "url": "https://emol.ro/valeamoldovei-sv/registru-hcl/195518",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamoldovei-sv/registru-hcl/195518",
      "sha256": null
     }
    ]

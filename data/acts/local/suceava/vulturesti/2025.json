@@ -3,6 +3,72 @@
 "shard": "local/suceava/vulturesti/2025",
 "acts": [
 {
+"slug": "hcl-suceava--vulturesti-20-2025",
+"path": "local/suceava/vulturesti/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 20/2025 privind organizarea și desfășurarea activităților comerciale și a serviciilor de piață pe teritoriul comunei Vulturești, județul Suceava",
+"short": "HCL Vulturești nr. 20/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/218714",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-27-2025",
+"path": "local/suceava/vulturesti/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 27/2025 privind atribuirea de denumiri străzilor din Comuna Vulturești, Județul Suceava",
+"short": "HCL Vulturești nr. 27/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/222167",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vulturesti-28-2025",
+"path": "local/suceava/vulturesti/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 28/2025 privind atestarea apartenenței la domeniul privat al comunei Vulturești, județul Suceava, a unor bunuri imobile",
+"short": "HCL Vulturești nr. 28/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/222168",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vulturesti-31-2025",
 "path": "local/suceava/vulturesti/2025/31",
 "kind": "local",

@@ -3,6 +3,501 @@
  "shard": "local/suceava/fantanele/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--fantanele-10-2024",
+   "path": "local/suceava/fantanele/2024/10",
+   "short": "HCL Fântânele nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 10/2024 privind aprobarea Planului anual de acţiune privind serviciile comunitare în anul 2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241649",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-11-2024",
+   "path": "local/suceava/fantanele/2024/11",
+   "short": "HCL Fântânele nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 11/2024 privind aprobarea Planului de acţiuni/lucrări de interes local ce vor fi executate de beneficiarii ajutorului de incluziune apti de munca, potrivit Legii nr.196/2016 privind venitul minim de incluziune, pentru anul 2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241650",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-12-2024",
+   "path": "local/suceava/fantanele/2024/12",
+   "short": "HCL Fântânele nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 12/2024 privind aprobare amenajare parcare auto la Scoala Stamate nr.1 ,comuna Fantanele, judeţul Suceava",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241651",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-13-2024",
+   "path": "local/suceava/fantanele/2024/13",
+   "short": "HCL Fântânele nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 13/2024 privind aprobarea montării unei camere de supraveghere pentru înregistrarea si transmiterea online a ședintelor Consiliului local",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241652",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-15-2024",
+   "path": "local/suceava/fantanele/2024/15",
+   "short": "HCL Fântânele nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 15/2024 privind aprobarea proiectarii cai de acces , drum comunal , cu lungimea de 90 m si latimea carosabilului de 7 m , respctiv suprafata de 720 m.p. , la limita nordica a Statiei de tratare a apei , din suprafata totala de 6.399 m.p CF 30013",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241654",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-18-2024",
+   "path": "local/suceava/fantanele/2024/18",
+   "short": "HCL Fântânele nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 18/2024 privind aprobarea Planului de analiză şi acoperire a riscurilor pentru anul 2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241657",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-19-2024",
+   "path": "local/suceava/fantanele/2024/19",
+   "short": "HCL Fântânele nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 19/2024 privind aprobarea numărului asistenţilor personali ai persoanelor cu handicap în anul 2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241658",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-2-2024",
+   "path": "local/suceava/fantanele/2024/2",
+   "short": "HCL Fântânele nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 2/2024 privind demararea procedurii pentru construirea unui imobil “casa multifunctionala” in satul Slobozia, comuna Fântânele",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241641",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-20-2024",
+   "path": "local/suceava/fantanele/2024/20",
+   "short": "HCL Fântânele nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 20/2024 privind aprobarea contului de executie bugetara la data de 31.03.2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241659",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-22-2024",
+   "path": "local/suceava/fantanele/2024/22",
+   "short": "HCL Fântânele nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 22/2024 privind aprobarea demolării imobilului fosta Scoala cu clasele I-IV Slobozia, din satul Slobozia, comuna Fântânele, judetul Suceava",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241661",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-24-2024",
+   "path": "local/suceava/fantanele/2024/24",
+   "short": "HCL Fântânele nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 24/2024 privind aprobarea decontării navetei personalului didactic pentru lunile ianuarie, februarie, martie , aprilie 2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241768",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-25-2024",
+   "path": "local/suceava/fantanele/2024/25",
+   "short": "HCL Fântânele nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 25/2024 privind rectificarea bugetului local în anul 2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241769",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-26-2024",
+   "path": "local/suceava/fantanele/2024/26",
+   "short": "HCL Fântânele nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 26/2024 privind aprobarea solicitarii de prelungire a valabilitatii Scrisorii de garanţie nr. 165/16.05.2018, necesara pentru implementărea proiectului de investiție intitulat ”Infiintare retea publica de apa si apa uzata, in satele Stamate, Banesti si Fantanele din comuna Fantanele, judetul Suceava” și finanțat prin Agentia pentru Finantarea Investitiilor Rurale, conform Contract de finanțare nr. C0720AN00011713500419/02.04.2018, Act Aditional nr. 10/02.04.2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241770",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-28-2024",
+   "path": "local/suceava/fantanele/2024/28",
+   "short": "HCL Fântânele nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 28/2024 privind premierea elevilor din comuna Fantanele ai unitatilor de invatamant preuniversitar de stat care au obtinut rezultate deosebite in anul scolar 2023-2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241782",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-29-2024",
+   "path": "local/suceava/fantanele/2024/29",
+   "short": "HCL Fântânele nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 29/2024 privind actualizare inventar patrimoniului comunei Fântânele",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241783",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-31-2024",
+   "path": "local/suceava/fantanele/2024/31",
+   "short": "HCL Fântânele nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 31/2024 privind aprobarea contului de executie bugetara la data de 30.06.2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241811",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-32-2024",
+   "path": "local/suceava/fantanele/2024/32",
+   "short": "HCL Fântânele nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 32/2024 privind aprobarea reabilitarii sediului primariei Fântânele , prin construirea unui pasaj care va asigura legatura intre cele doua corpuri de cladire existente",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241812",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-33-2024",
+   "path": "local/suceava/fantanele/2024/33",
+   "short": "HCL Fântânele nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 33/2024 privind darea de seama actualizata la data de 30 septembrie 2024 a situatiilor financiare, darea de seama a proiectelor de investitii aflate in derulare si a celor finalizate, darea de seama a tuturor contractelor aferente sectiuni de functionare, la nivelul UAT Fântânele",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241814",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-34-2024",
+   "path": "local/suceava/fantanele/2024/34",
+   "short": "HCL Fântânele nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 34/2024 privind aprobarea reorganizării aparatului de specialitate al Primarului comunei Fântânele, județul Suceava",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241815",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-35-2024",
+   "path": "local/suceava/fantanele/2024/35",
+   "short": "HCL Fântânele nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 35/2024 privind premierea elevilor din comuna Fântânele ai unitatilor de invatamant preuniversitar de stat care au obtinut rezultate deosebite la examenul de bacalaureat 2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241816",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-36-2024",
+   "path": "local/suceava/fantanele/2024/36",
+   "short": "HCL Fântânele nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 36/2024 privind toaletarea și taierea arborilor din cimitirul din satul Stamate, comuna Fântânele, judetul Suceava",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241817",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-38-2024",
+   "path": "local/suceava/fantanele/2024/38",
+   "short": "HCL Fântânele nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 38/2024 privind schimbarea destinatiei pe o perioada nedeterminata in vederea demolarii pentru imobilul Scoala cu clasele I-IV Slobozia, din satul Slobozia, comuna Fântânele, judetul Suceava",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241819",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-39-2024",
+   "path": "local/suceava/fantanele/2024/39",
+   "short": "HCL Fântânele nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 39/2024 privind aprobarea solicitarii de prelungire a valabilitatii Scrisorii de garanţie nr. 165/16.05.2018, necesara pentru implementărea proiectului de investiție intitulat ”Infiintare retea publica de apa si apa uzata, in satele Stamate, Banesti si Fantanele din comuna Fantanele, judetul Suceava” și finanțat prin Agentia pentru Finantarea Investitiilor Rurale, conform Contract de finanțare nr. C0720AN00011713500419/02.04.2018, Act Aditional nr. 11/05.07.2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241820",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-4-2024",
+   "path": "local/suceava/fantanele/2024/4",
+   "short": "HCL Fântânele nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 4/2024 privind aprobarea înfiinţării/construire a unei pieţe agroalimentare/obor/bazar în aer liber, în comuna Fantanele, judeţul Suceava",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241643",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-40-2024",
+   "path": "local/suceava/fantanele/2024/40",
+   "short": "HCL Fântânele nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 40/2024 privind aprobarea devizului general reactualizat și a indicatorilor tehnico-economici actualizați ca urmare a finalizării achizițiilor pentru obiectivul de investiții „MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA FÂNTÂNELE, JUDEȚUL SUCEAVA”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241821",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-41-2024",
+   "path": "local/suceava/fantanele/2024/41",
+   "short": "HCL Fântânele nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 41/2024 privind rectificarea bugetului local in anul 2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241822",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-42-2024",
+   "path": "local/suceava/fantanele/2024/42",
+   "short": "HCL Fântânele nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 42/2024 privind lista de ramasita la 31.12.2023 si situatia litigiilor si titlurilor executorii la zi la nivelul UAT Fântânele",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241823",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-44-2024",
+   "path": "local/suceava/fantanele/2024/44",
+   "short": "HCL Fântânele nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 44/2024 privind aprobarea solicitarii de prelungire a valabilitatii Scrisorii de garanţie nr. 165/16.05.2018, necesara pentru implementărea proiectului de investiție intitulat ”Infiintare retea publica de apa si apa uzata, in satele Stamate, Banesti si Fantanele din comuna Fantanele, judetul Suceava” și finanțat prin Agentia pentru Finantarea Investitiilor Rurale, conform Contract de finanțare nr.C0720AN00011713500419/02.04.2018, Act Aditional nr. 12/25.09.2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241825",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-46-2024",
+   "path": "local/suceava/fantanele/2024/46",
+   "short": "HCL Fântânele nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 46/2024 privind constituirea comisiilor de specialitate pe principalele domenii de activitate",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241827",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-47-2024",
+   "path": "local/suceava/fantanele/2024/47",
+   "short": "HCL Fântânele nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 47/2024 privind constituirea Comisiei speciale de validare și numărare a voturilor",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241828",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-5-2024",
+   "path": "local/suceava/fantanele/2024/5",
+   "short": "HCL Fântânele nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 5/2024 privind aprobarea contului de executie bugetara la data de 31.12.2023",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241644",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-50-2024",
+   "path": "local/suceava/fantanele/2024/50",
+   "short": "HCL Fântânele nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 50/2024 privind aprobarea contului de executie bugetara la data de 30.09.2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241831",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-51-2024",
+   "path": "local/suceava/fantanele/2024/51",
+   "short": "HCL Fântânele nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 51/2024 privind rectificarea bugetului local in anul 2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241832",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241832",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--fantanele-52-2024",
    "path": "local/suceava/fantanele/2024/52",
    "short": "HCL Fântânele nr. 52/2024",
@@ -118,6 +613,21 @@
      "from": "2024-11-21",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-6-2024",
+   "path": "local/suceava/fantanele/2024/6",
+   "short": "HCL Fântânele nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 6/2024 privind aprobarea bugetului local de venituri si cheltuieli al comunei Fântânele aferent anului 2024 si estimarile pentru anii 2025-2027",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241645",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241645",
      "sha256": null
     }
    ]
@@ -273,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--fantanele-7-2024",
+   "path": "local/suceava/fantanele/2024/7",
+   "short": "HCL Fântânele nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 7/2024 privind aprobarea construirii de trotuare pavate in satele Stamate,Banesti si Fântânele aferente DC 65 si DJ 290",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241646",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241646",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--fantanele-70-2024",
    "path": "local/suceava/fantanele/2024/70",
    "short": "HCL Fântânele nr. 70/2024",
@@ -298,6 +823,36 @@
      "from": "2024-12-19",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-8-2024",
+   "path": "local/suceava/fantanele/2024/8",
+   "short": "HCL Fântânele nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 8/2024 privind rectificarea bugetului local în anul 2024",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241647",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantanele-9-2024",
+   "path": "local/suceava/fantanele/2024/9",
+   "short": "HCL Fântânele nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 9/2024 privind înfiinţarea Serviciului de Iluminat Public al comunei Fântânele",
+   "url": "https://emol.ro/fantanele-sv/registru-hcl/241648",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-sv/registru-hcl/241648",
      "sha256": null
     }
    ]

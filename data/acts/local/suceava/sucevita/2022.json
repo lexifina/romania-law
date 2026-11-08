@@ -3,6 +3,73 @@
 "shard": "local/suceava/sucevita/2022",
 "acts": [
 {
+"slug": "hcl-suceava--sucevita-18-2022",
+"path": "local/suceava/sucevita/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sucevița nr. 18/2022 privind completarea domeniului privat al comunei Sucevița, cu două suprafețe de teren intravilan situat în zona ”Șantier ”",
+"short": "HCL Sucevița nr. 18/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://emol.ro/sucevita-sv/registru-hcl/86503",
+"council": "suceava/sucevita",
+"council_name": "Consiliul Local al Comunei Sucevița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--sucevita-29-2022",
+"path": "local/suceava/sucevita/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sucevița nr. 29/2022 privind acordarea dreptului de uz si servitute cu titlul gratuit către SC DELGAZ GRID SA asupra unor terenuri",
+"short": "HCL Sucevița nr. 29/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-27",
+"latest": "2023-01-27",
+"portal": "https://emol.ro/sucevita-sv/registru-hcl/86992",
+"council": "suceava/sucevita",
+"council_name": "Consiliul Local al Comunei Sucevița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--sucevita-30-2022",
+"path": "local/suceava/sucevita/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sucevița nr. 30/2022",
+"short": "HCL Sucevița nr. 30/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-27",
+"latest": "2023-01-27",
+"portal": "https://emol.ro/sucevita-sv/registru-hcl/86993",
+"council": "suceava/sucevita",
+"council_name": "Consiliul Local al Comunei Sucevița",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-suceava--sucevita-42-2022",
 "path": "local/suceava/sucevita/2022/42",
 "kind": "local",

@@ -3,6 +3,126 @@
  "shard": "local/suceava/rasca/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--rasca-10-2026",
+   "path": "local/suceava/rasca/2026/10",
+   "short": "HCL Râșca nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 10/2026 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al comunei Râșca, județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/259067",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/259067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-12-2026",
+   "path": "local/suceava/rasca/2026/12",
+   "short": "HCL Râșca nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 12/2026 privind aprobarea Regulamentului Serviciului de salubrizare al Județului Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/264740",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/264740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-13-2026",
+   "path": "local/suceava/rasca/2026/13",
+   "short": "HCL Râșca nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 13/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat în urma creșterii cotei TVA la 21% pentru obiectivul de investiții „Înființare rețea de alimentare cu apă în comuna Râșca, județul Suceava”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/264742",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/264742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-14-2026",
+   "path": "local/suceava/rasca/2026/14",
+   "short": "HCL Râșca nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 14/2026 privind aprobarea actualizării Planului de analiză şi acoperire a riscurilor pentru anul 2026 a comunei Râșca, județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/264743",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/264743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-15-2026",
+   "path": "local/suceava/rasca/2026/15",
+   "short": "HCL Râșca nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 15/2026 privind aprobarea actualizării și includerii în domeniul privat a unor bunuri cu destinație de pajiști, din comuna Râșca, județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/264747",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/264747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-16-2026",
+   "path": "local/suceava/rasca/2026/16",
+   "short": "HCL Râșca nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 16/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „RENOVARE CLADIRE VESTIARE PENTRU SPORTIVI SI INFIINTARE ANEXA(CENTRALA TERMICA), FANTANA SI BAZIN VIDANJABIL DIN CADRUL TERENULUI DE SPORT DIN COMUNA RASCA, JUDETUL SUCEAVA”",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/264748",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/264748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-17-2026",
+   "path": "local/suceava/rasca/2026/17",
+   "short": "HCL Râșca nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 17/2026 privind implementarea proiectului „RENOVARE CLADIRE VESTIARE PENTRU SPORTIVI SI INFIINTARE ANEXA(CENTRALA TERMICA), FANTANA SI BAZIN VIDANJABIL DIN CADRUL TERENULUI DE SPORT DIN COMUNA RASCA, JUDETUL SUCEAVA”",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/264749",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/264749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-2-2026",
+   "path": "local/suceava/rasca/2026/2",
+   "short": "HCL Râșca nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 2/2026 privind aprobarea tipului de suport alimentar acordat preșcolarilor si elevilor din cadrul Școlii Gimnaziale Râșca din comuna Râșca, județul Suceava, în cadrul Programului național „Masa sănătoasă”",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/257052",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/257052",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--rasca-20-2026",
    "path": "local/suceava/rasca/2026/20",
    "short": "HCL Râșca nr. 20/2026",
@@ -258,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--rasca-4-2026",
+   "path": "local/suceava/rasca/2026/4",
+   "short": "HCL Râșca nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 4/2026 privind aprobarea salariilor de bază aferente funcţiilor din cadrul familiei ocupaţionale „Administraţie\", utilizate în aparatul de specialitate al Primarului comunei Râşca, jud. Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/257061",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/257061",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--rasca-40-2026",
    "path": "local/suceava/rasca/2026/40",
    "short": "HCL Râșca nr. 40/2026",
@@ -298,6 +433,66 @@
      "from": "2026-11-06",
      "units": 1,
      "source_url": "https://emol.ro/rasca-sv/registru-hcl/297853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-5-2026",
+   "path": "local/suceava/rasca/2026/5",
+   "short": "HCL Râșca nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 5/2026 privind aprobarea includerii în domeniul privat al comunei Râșca, județul Suceava a suprafeței de 1653 mp. din zona Satu Nou, str. Vânătorilor, comuna Râșca, județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/257062",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/257062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-7-2026",
+   "path": "local/suceava/rasca/2026/7",
+   "short": "HCL Râșca nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 7/2026 privind aprobarea Indicatorilor tehnico-economici actualizați și a Devizului general actualizat, în conformitate cu prevederile Legii nr. 141/2025, pentru obiectivul de investiții “Înființare sistem inteligent de distributie gaze naturale în comuna Râșca, județul Suceava”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului menționat",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/259062",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/259062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-8-2026",
+   "path": "local/suceava/rasca/2026/8",
+   "short": "HCL Râșca nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 8/2026 privind repartizarea sumei de 988,152 mii lei, inclusive TVA la un număr suplimentar de elevi din cadrul Școlii Gimnaziale Râșca din comuna Râșca, județul Suceava, în cadrul Programului național „Masa sănătoasă”;",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/259064",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/259064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-9-2026",
+   "path": "local/suceava/rasca/2026/9",
+   "short": "HCL Râșca nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 9/2026 privind reorganizează Serviciului Voluntar pentru Situaţii de Urgenţă al comunei Râșca, județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/259065",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/259065",
      "sha256": null
     }
    ]

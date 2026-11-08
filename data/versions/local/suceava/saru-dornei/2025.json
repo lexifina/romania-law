@@ -3,6 +3,126 @@
  "shard": "local/suceava/saru-dornei/2025",
  "acts": [
   {
+   "slug": "hcl-suceava--saru-dornei-1-2025",
+   "path": "local/suceava/saru-dornei/2025/1",
+   "short": "HCL Șaru Dornei nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 1/2025 privind acordul introducerii a 3(trei) noi parteneri, respectiv UAT Comuna Fundu Moldovei, UAT Comuna Zamostea și UAT Comuna Iacobeni în cadrul Acordului de Parteneriat aferent proiectului ”Microbuze electrice pentru elevii din Judeţul Suceava” finanțat din PNRR, Componenta 15 – Educaţie",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/195389",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/195389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-10-2025",
+   "path": "local/suceava/saru-dornei/2025/10",
+   "short": "HCL Șaru Dornei nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 10/2025 privind aprobarea bugetului local de venituri și cheltuieli al comunei Șaru Dornei pentru anul 2025 și estimarea bugetului de venituri și cheltuieli pentru anii 2026-2028",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/205052",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/205052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-11-2025",
+   "path": "local/suceava/saru-dornei/2025/11",
+   "short": "HCL Șaru Dornei nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 11/2025 privind aprobarea documentației P.U.Z.- plan urbanistic zonal în vederea introducerii în intravilan a suprafeței de 18.575 mp teren pentru construire complex turistic, împrejmuire, amenajări exterioare, branșamente",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/205053",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/205053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-12-2025",
+   "path": "local/suceava/saru-dornei/2025/12",
+   "short": "HCL Șaru Dornei nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 12/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/205054",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/205054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-13-2025",
+   "path": "local/suceava/saru-dornei/2025/13",
+   "short": "HCL Șaru Dornei nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 13/2025 privind aprobarea participării UAT comuna Șaru Dornei la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/205055",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/205055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-14-2025",
+   "path": "local/suceava/saru-dornei/2025/14",
+   "short": "HCL Șaru Dornei nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 14/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Șaru Dornei pentru anul 2025",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/218551",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/218551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-17-2025",
+   "path": "local/suceava/saru-dornei/2025/17",
+   "short": "HCL Șaru Dornei nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 17/2025",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/218555",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/218555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-4-2025",
+   "path": "local/suceava/saru-dornei/2025/4",
+   "short": "HCL Șaru Dornei nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 4/2025 privind acceptarea ofertei de donație a DELGAZ GRID SA, autentificată sub numărul 32/15.01.2025 la Societatea Profesională Notarială Chișiu și rectificată prin încheierea nr.110 din 12.02.2025",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/201343",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/201343",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--saru-dornei-43-2025",
    "path": "local/suceava/saru-dornei/2025/43",
    "short": "HCL Șaru Dornei nr. 43/2025",
@@ -103,6 +223,21 @@
      "from": "2026-01-26",
      "units": 1,
      "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/248306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-5-2025",
+   "path": "local/suceava/saru-dornei/2025/5",
+   "short": "HCL Șaru Dornei nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 5/2025 privind aprobarea prețurilor de referință pentru masa lemnoasă pe picior care se recoltează din fondul forestier proprietate publică a comunei Șaru Dornei, pentru anul 2025",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/201344",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/201344",
      "sha256": null
     }
    ]
@@ -258,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--saru-dornei-6-2025",
+   "path": "local/suceava/saru-dornei/2025/6",
+   "short": "HCL Șaru Dornei nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 6/2025 privind stabilirea modului de valorificare a masei lemnoase recepționată la drum auto, aferentă partizii nr.16357 din fondul forestier proprietate publică a Comunei Șaru Dornei",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/201345",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/201345",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--saru-dornei-60-2025",
    "path": "local/suceava/saru-dornei/2025/60",
    "short": "HCL Șaru Dornei nr. 60/2025",
@@ -298,6 +448,51 @@
      "from": "2026-05-21",
      "units": 1,
      "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/248362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-7-2025",
+   "path": "local/suceava/saru-dornei/2025/7",
+   "short": "HCL Șaru Dornei nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 7/2025 privind stabilirea modului de valorificare a partizii nr.16341 din fondul forestier proprietate publică a Comunei Șaru Dornei",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/201346",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/201346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-8-2025",
+   "path": "local/suceava/saru-dornei/2025/8",
+   "short": "HCL Șaru Dornei nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 8/2025 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2025 pentru administrarea fondului forestier proprietate a Comunei Șaru Dornei",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/201347",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/201347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--saru-dornei-9-2025",
+   "path": "local/suceava/saru-dornei/2025/9",
+   "short": "HCL Șaru Dornei nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șaru Dornei nr. 9/2025 privind aprobarea tipului de suport alimentar precum şi a modalității de distribuire a acestuia preșcolarilor și elevilor Şcolii Gimnaziale Neagra Șarului, din comuna Șaru Dornei, județul Suceava, în cadrul Programului Național „Masă sănătoasă”",
+   "url": "https://emol.ro/sarudornei-sv/registru-hcl/201348",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sarudornei-sv/registru-hcl/201348",
      "sha256": null
     }
    ]

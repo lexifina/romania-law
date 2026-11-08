@@ -3,6 +3,81 @@
  "shard": "local/suceava/fundu-moldovei/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--fundu-moldovei-10-2026",
+   "path": "local/suceava/fundu-moldovei/2026/10",
+   "short": "HCL Fundu Moldovei nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 10/2026 privind aprobarea Amenajamentului Pastoral pentru trupurile de pajiște din comuna Fundu Moldovei, județul Suceava",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/266209",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/266209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-11-2026",
+   "path": "local/suceava/fundu-moldovei/2026/11",
+   "short": "HCL Fundu Moldovei nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 11/2026 privind aprobarea Programului de Acțiune Comunitară Destinat Prevenirii și Combaterii Riscului de Sărăcie și Excluziune Socială la nivelul comunei Fundu Moldovei pentru anul 2026",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/266210",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/266210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-12-2026",
+   "path": "local/suceava/fundu-moldovei/2026/12",
+   "short": "HCL Fundu Moldovei nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 12/2026 privind înființarea Asociației ”TIMP PENTRU SUFLET - FUNDU MOLDOVEI”",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/266211",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/266211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-17-2026",
+   "path": "local/suceava/fundu-moldovei/2026/17",
+   "short": "HCL Fundu Moldovei nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 17/2026 privind aprobarea proiectului și a cheltuielilor legate de proiectul de investiție „AMENAJARE ȘI DOTARE DE SPAȚII PENTRU FACILITĂȚI SPORTIVE ȘI RECREATIVE ÎN AER LIBER ÎN COMUNA FUNDU MOLDOVEI, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/272216",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/272216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-19-2026",
+   "path": "local/suceava/fundu-moldovei/2026/19",
+   "short": "HCL Fundu Moldovei nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 19/2026 privind aprobarea regulamentului Serviciului de salubrizare al Județului Suceava",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/280051",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/280051",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--fundu-moldovei-21-2026",
    "path": "local/suceava/fundu-moldovei/2026/21",
    "short": "HCL Fundu Moldovei nr. 21/2026",
@@ -283,6 +358,21 @@
      "from": "2026-08-04",
      "units": 1,
      "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/282065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-4-2026",
+   "path": "local/suceava/fundu-moldovei/2026/4",
+   "short": "HCL Fundu Moldovei nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 4/2026 privind aprobarea bugetului inițial al creditelor interne al comunei Fundu Moldovei, județul Suceava, pe anul 2026",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/250865",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/250865",
      "sha256": null
     }
    ]

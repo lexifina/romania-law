@@ -3,6 +3,216 @@
  "shard": "local/suceava/fundu-moldovei/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--fundu-moldovei-12-2024",
+   "path": "local/suceava/fundu-moldovei/2024/12",
+   "short": "HCL Fundu Moldovei nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 12/2024 privind înființarea și delegarea de gestiune prin concesiune a Serviciului public de gestionare a câinilor fără stăpân al comunei Fundu Moldovei, județul Suceava",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162240",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-13-2024",
+   "path": "local/suceava/fundu-moldovei/2024/13",
+   "short": "HCL Fundu Moldovei nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 13/2024 privind reglementarea acordării ajutoarelor de urgență și ajutoarelor de înmormântare din bugetul local",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162241",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-22-2024",
+   "path": "local/suceava/fundu-moldovei/2024/22",
+   "short": "HCL Fundu Moldovei nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 22/2024 privind aprobarea Planului Urbanistic Zonal și a Regulamentului local de urbanism în vederea introducerii în intravilan a unei suprafețe din parcela identificată cu număr cadastral 36669 pentru construirea unei locuințe cu regim de înălțime D+P+M și anexe",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162319",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-25-2024",
+   "path": "local/suceava/fundu-moldovei/2024/25",
+   "short": "HCL Fundu Moldovei nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 25/2024 privind aprobarea propunerii de schimbare a destinației imobilului - construcție - Grădiniță colonie, în spațiu cu destinație - Centru organizare și desfășurare activități social culturale",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162383",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-26-2024",
+   "path": "local/suceava/fundu-moldovei/2024/26",
+   "short": "HCL Fundu Moldovei nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 26/2024 privind aprobarea propunerii de schimbare a destinației imobilelor - teren și construcție - Școala cu clasele I-IV Botușel, în spațiu cu destinație - Centru organizare și desfășurare activități social - culturale",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162384",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-27-2024",
+   "path": "local/suceava/fundu-moldovei/2024/27",
+   "short": "HCL Fundu Moldovei nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 27/2024 privind aprobarea propunerii de schimbare a destinației imobilelor - teren și construcție - Școala generală Deluț în spațiu cu destinație - Centru organizare și desfășurare activități social - culturale",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162385",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-28-2024",
+   "path": "local/suceava/fundu-moldovei/2024/28",
+   "short": "HCL Fundu Moldovei nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 28/2024 privind stabilirea și aprobarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și amenzile aplicabile începând cu anul fiscal 2025",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162386",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-29-2024",
+   "path": "local/suceava/fundu-moldovei/2024/29",
+   "short": "HCL Fundu Moldovei nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 29/2024 privind atestarea apartenenței la domeniul public al comunei a unor bunuri imobile",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162387",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-31-2024",
+   "path": "local/suceava/fundu-moldovei/2024/31",
+   "short": "HCL Fundu Moldovei nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 31/2024 privind aprobarea tarifelor de sortare, colectare separată și transport separat al deșeurilor municipale și al deșeurilor similare - fracția umedă și fracția uscată, de gestionare a deșeurilor din construcții și demolări (DCD) și deșeurilor voluminoase în vederea asigurării serviciului public de salubrizare pe raza comunei Fundu Moldovei, județul Suceava, precum și a tarifelor de depozitare la CMID Moara",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162389",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-39-2024",
+   "path": "local/suceava/fundu-moldovei/2024/39",
+   "short": "HCL Fundu Moldovei nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 39/2024 privind atestarea apartenentei la domeniul public al comunei a suprafeței de 567 mp",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/174774",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/174774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-4-2024",
+   "path": "local/suceava/fundu-moldovei/2024/4",
+   "short": "HCL Fundu Moldovei nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 4/2024 privind aprobarea bugetului de venituri si cheltuieli al comunei Fundu Moldovei, judetul Suceava, pe anul 2024",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162168",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-43-2024",
+   "path": "local/suceava/fundu-moldovei/2024/43",
+   "short": "HCL Fundu Moldovei nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 43/2024 privind aprobarea participării comunei Fundu Moldovei, județul Suceava la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic,2020/2024, programul Rabla Plus 2024, în vederea achiziționării unui autoturism",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/174907",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/174907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-48-2024",
+   "path": "local/suceava/fundu-moldovei/2024/48",
+   "short": "HCL Fundu Moldovei nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 48/2024 privind atestarea apartenenței la domeniul privat al comunei a suprafeței de 150 mp teren",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/175294",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/175294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fundu-moldovei-5-2024",
+   "path": "local/suceava/fundu-moldovei/2024/5",
+   "short": "HCL Fundu Moldovei nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fundu Moldovei nr. 5/2024 privind aprobarea Programului anual privind regimul finanțărilor nerambursabile acordate de la bugetul local al comunei Fundu Moldovei",
+   "url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162169",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/fundumoldovei-sv/registru-hcl/162169",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--fundu-moldovei-55-2024",
    "path": "local/suceava/fundu-moldovei/2024/55",
    "short": "HCL Fundu Moldovei nr. 55/2024",

@@ -3,6 +3,21 @@
  "shard": "local/suceava/vadu-moldovei/2025",
  "acts": [
   {
+   "slug": "hcl-suceava--vadu-moldovei-27-2025",
+   "path": "local/suceava/vadu-moldovei/2025/27",
+   "short": "HCL Vadu Moldovei nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 27/2025 privind aprobarea înființării Serviciului de iluminat public stradal fără personalitate juridică și a delegarii gestiunii prin concesiune a Serviciului de iluminat public al Comunei Vadu Moldovei, Județul Suceava, a Studiului de fundamentare a deciziei de delegare a Serviciului Public de Iluminat al Comunei Vadu Moldovei, Județul Suceava, a Regulamentului de Organizare și funcționare al serviciului de iluminat public, a Caietului de Sarcini, a documentatiei de atribuire prin procedura simplificata",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/217158",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/217158",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--vadu-moldovei-45-2025",
    "path": "local/suceava/vadu-moldovei/2025/45",
    "short": "HCL Vadu Moldovei nr. 45/2025",
@@ -298,6 +313,21 @@
      "from": "2025-12-22",
      "units": 1,
      "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/252136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-7-2025",
+   "path": "local/suceava/vadu-moldovei/2025/7",
+   "short": "HCL Vadu Moldovei nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 7/2025 privind aprobarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2025",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/199663",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/199663",
      "sha256": null
     }
    ]

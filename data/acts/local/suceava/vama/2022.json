@@ -3,6 +3,50 @@
 "shard": "local/suceava/vama/2022",
 "acts": [
 {
+"slug": "hcl-suceava--vama-21-2022",
+"path": "local/suceava/vama/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 21/2022 APROBAREA STRATEGIEI DE DEZVOLTARE A SERVICIILORSOCIALE PE PERIOADA 2022 - 2026 - 2031 A COMUNEI VAMA",
+"short": "HCL Vama nr. 21/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#18322",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-28-2022",
+"path": "local/suceava/vama/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 28/2022 APROBAREA IMPLEMENTĂRII PROIECTULUI \"STAȚII DE ÎNCĂRCARE PENTRU VEHICOLE ELECTRICE",
+"short": "HCL Vama nr. 28/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#21109",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vama-45-2022",
 "path": "local/suceava/vama/2022/45",
 "kind": "local",

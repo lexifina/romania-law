@@ -3,6 +3,36 @@
  "shard": "local/suceava/fantana-mare/2025",
  "acts": [
   {
+   "slug": "hcl-suceava--fantana-mare-13-2025",
+   "path": "local/suceava/fantana-mare/2025/13",
+   "short": "HCL Fântâna Mare nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 13/2025",
+   "url": "https://emol.ro/fantanamare-sv/registru-hcl/211135",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanamare-sv/registru-hcl/211135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantana-mare-20-2025",
+   "path": "local/suceava/fantana-mare/2025/20",
+   "short": "HCL Fântâna Mare nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 20/2025 privind constituirea Fondului de rezervă bugetară la dispoziţia Consiliului local al comunei Fântâna Mare şi aprobarea utilizării lui prin rectificarea Bugetului local de venituri si cheltuieli al Consiliului Local al anului 2025",
+   "url": "https://emol.ro/fantanamare-sv/registru-hcl/218922",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanamare-sv/registru-hcl/218922",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--fantana-mare-21-2025",
    "path": "local/suceava/fantana-mare/2025/21",
    "short": "HCL Fântâna Mare nr. 21/2025",
@@ -298,6 +328,21 @@
      "from": "2026-03-23",
      "units": 1,
      "source_url": "https://emol.ro/fantanamare-sv/registru-hcl/245627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--fantana-mare-9-2025",
+   "path": "local/suceava/fantana-mare/2025/9",
+   "short": "HCL Fântâna Mare nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 9/2025 privind atestarea apartenenţei unor imobile - terenuri la domeniul privat al comunei Fântâna Mare, judeţul Suceava",
+   "url": "https://emol.ro/fantanamare-sv/registru-hcl/206513",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanamare-sv/registru-hcl/206513",
      "sha256": null
     }
    ]

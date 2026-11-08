@@ -3,6 +3,73 @@
 "shard": "local/suceava/fantana-mare/2025",
 "acts": [
 {
+"slug": "hcl-suceava--fantana-mare-9-2025",
+"path": "local/suceava/fantana-mare/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 9/2025 privind atestarea apartenenţei unor imobile - terenuri la domeniul privat al comunei Fântâna Mare, judeţul Suceava",
+"short": "HCL Fântâna Mare nr. 9/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-14",
+"latest": "2025-08-14",
+"portal": "https://emol.ro/fantanamare-sv/registru-hcl/206513",
+"council": "suceava/fantana-mare",
+"council_name": "Consiliul Local al Comunei Fântâna Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--fantana-mare-13-2025",
+"path": "local/suceava/fantana-mare/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 13/2025",
+"short": "HCL Fântâna Mare nr. 13/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-14",
+"latest": "2025-08-14",
+"portal": "https://emol.ro/fantanamare-sv/registru-hcl/211135",
+"council": "suceava/fantana-mare",
+"council_name": "Consiliul Local al Comunei Fântâna Mare",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--fantana-mare-20-2025",
+"path": "local/suceava/fantana-mare/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fântâna Mare nr. 20/2025 privind constituirea Fondului de rezervă bugetară la dispoziţia Consiliului local al comunei Fântâna Mare şi aprobarea utilizării lui prin rectificarea Bugetului local de venituri si cheltuieli al Consiliului Local al anului 2025",
+"short": "HCL Fântâna Mare nr. 20/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-14",
+"latest": "2025-08-14",
+"portal": "https://emol.ro/fantanamare-sv/registru-hcl/218922",
+"council": "suceava/fantana-mare",
+"council_name": "Consiliul Local al Comunei Fântâna Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--fantana-mare-21-2025",
 "path": "local/suceava/fantana-mare/2025/21",
 "kind": "local",

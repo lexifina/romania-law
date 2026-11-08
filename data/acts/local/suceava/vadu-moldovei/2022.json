@@ -3,6 +3,50 @@
 "shard": "local/suceava/vadu-moldovei/2022",
 "acts": [
 {
+"slug": "hcl-suceava--vadu-moldovei-18-2022",
+"path": "local/suceava/vadu-moldovei/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 18/2022 privind actualizarea devizului general al obiectivului de investiții „INFIINTAREA UNUI CENTRU COMUNITAR FUNCTIONAL CARE SA DESERVEASCA POPULATIA DIN CATEGORIA PERSOANELOR VARSTNICE, A CELOR CU DIZABILITATI CAT SI A CELOR CARE FAC PARTE DIN CATEGORIA MINORITATILOR ETNICE”",
+"short": "HCL Vadu Moldovei nr. 18/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-04",
+"latest": "2022-03-04",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/54029",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-21-2022",
+"path": "local/suceava/vadu-moldovei/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 21/2022 Proiect de hotărâre nr. 7 din 19.01.2022 privind aprobarea înfiinţării Serviciului specializat pentru gestionarea câinilor fără stăpân la nivelul Comunei Vadu Moldovei, a Regulamentului privind organizarea şi funcţionarea acestuia, a Studiului de oportunitate şi a Caietului de sarcini privind delegarea de gestiune a serviciului, precum și a contractului de delegare prin concesiune a serviciului",
+"short": "HCL Vadu Moldovei nr. 21/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-04-12",
+"latest": "2022-04-12",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/57771",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vadu-moldovei-52-2022",
 "path": "local/suceava/vadu-moldovei/2022/52",
 "kind": "local",

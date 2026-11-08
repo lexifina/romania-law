@@ -3,6 +3,116 @@
 "shard": "local/suceava/veresti/2020",
 "acts": [
 {
+"slug": "hcl-suceava--veresti-3-2020",
+"path": "local/suceava/veresti/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 3/2020 privind aprobarea bugetului local pe anul 2020",
+"short": "HCL Verești nr. 3/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-21",
+"latest": "2020-02-21",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/853",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--veresti-4-2020",
+"path": "local/suceava/veresti/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 4/2020 privind aprobarea rețelei școlare a unităților de ânvățământ preuniversitare de stat din comuna Verești, pentru anul școlar 2020-2021",
+"short": "HCL Verești nr. 4/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-21",
+"latest": "2020-02-21",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/854",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--veresti-5-2020",
+"path": "local/suceava/veresti/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 5/2020 privind aprobarea unui număr de 30 posturi de asistenți personali pentru persoanele cu handicap grav din comuna Verești, județul Suceava, pentru anul 2020",
+"short": "HCL Verești nr. 5/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-21",
+"latest": "2020-02-21",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/855",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--veresti-6-2020",
+"path": "local/suceava/veresti/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 6/2020 privin aprobarea Planului de acțiuni de interes local aferent anului 2020 pentru repartizarea orelor de muncă beneficiarilor de ajutor social din comuna Verești, județul Suceava",
+"short": "HCL Verești nr. 6/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-21",
+"latest": "2020-02-21",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/856",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--veresti-10-2020",
+"path": "local/suceava/veresti/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Verești nr. 10/2020 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții - Alimentare cu energie electrică stație epurare și stație captare Verești, localitatea verești, județul Suceava -lucrări în instalații consumator-, la proiectul Înființare infrastructură de apă și apă uzată, în comuna Verești, județul Suceava, finanțat din bugetul local",
+"short": "HCL Verești nr. 10/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-21",
+"latest": "2020-02-21",
+"portal": "https://emol.ro/veresti-sv/registru-hcl/860",
+"council": "suceava/veresti",
+"council_name": "Consiliul Local al Comunei Verești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--veresti-33-2020",
 "path": "local/suceava/veresti/2020/33",
 "kind": "local",

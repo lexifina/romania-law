@@ -3,6 +3,321 @@
  "shard": "local/suceava/rasca/2025",
  "acts": [
   {
+   "slug": "hcl-suceava--rasca-10-2025",
+   "path": "local/suceava/rasca/2025/10",
+   "short": "HCL Râșca nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 10/2025 privind aprobarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/207096",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/207096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-11-2025",
+   "path": "local/suceava/rasca/2025/11",
+   "short": "HCL Râșca nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 11/2025 privind aprobarea tipului de suport alimentar acordat preșcolarilor și elevilor Școala Gimnazială Râșca din comuna Râșca, județul Suceava, în cadrul Programului național „Masă sănătoasă”",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/207098",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/207098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-12-2025",
+   "path": "local/suceava/rasca/2025/12",
+   "short": "HCL Râșca nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 12/2025 privind aprobarea achiziției publice privind servicii de racordare la energia electrică pentru lucrarea „Alimentare cu energie electrică stație de captare apă potabilă”, valoarea lucrărilor fiind de 179084,86 lei",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/207101",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/207101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-13-2025",
+   "path": "local/suceava/rasca/2025/13",
+   "short": "HCL Râșca nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 13/2025 privind participarea la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/207102",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/207102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-15-2025",
+   "path": "local/suceava/rasca/2025/15",
+   "short": "HCL Râșca nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 15/2025 privind rectificare de buget pe anul 2025",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/231515",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/231515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-17-2025",
+   "path": "local/suceava/rasca/2025/17",
+   "short": "HCL Râșca nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 17/2025 privind alocarea sumei de 50.000 lei pentru acoperirea cheltuielilor ocazionate cu lucrările de construcții la Mănăstirea „Sf. Voievozi Slătioara”, din sat Slătioara, comuna Râșca",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/231519",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/231519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-18-2025",
+   "path": "local/suceava/rasca/2025/18",
+   "short": "HCL Râșca nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 18/2025 privind aprobarea achiziției publice pentru servicii de proiectare și consultanță la obiectivul de investiții: „Înființare, amenajare și dotare Grădiniță cu Program Prelungit în comuna Râșca, județul Suceava, în sumă de 64000 lei (parte proiectare) fără TVA și 20.000 lei Ț(parte consultanță) fără TVA",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/231524",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/231524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-19-2025",
+   "path": "local/suceava/rasca/2025/19",
+   "short": "HCL Râșca nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 19/2025 privind aprobarea achiziției publice pentru servicii de proiectare și consultanță la obiectivul de investiții: „Eficientizare energetică sediul primăriei Comunei Râșca, județul Suceava”, în sumă de 77 000 lei (parte proiectare) fără TVA și 20.000 lei (parte consultanță) fără TVA",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/231539",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/231539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-20-2025",
+   "path": "local/suceava/rasca/2025/20",
+   "short": "HCL Râșca nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 20/2025",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/231556",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/231556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-21-2025",
+   "path": "local/suceava/rasca/2025/21",
+   "short": "HCL Râșca nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 21/2025 privind aprobarea actualizării Planului de analiză și acoperire a riscurilor pentru anul 2025 a comunei Râșca, județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/231559",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/231559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-23-2025",
+   "path": "local/suceava/rasca/2025/23",
+   "short": "HCL Râșca nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 23/2025 privind rectificarea de buget pe anul 2025",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/231561",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/231561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-24-2025",
+   "path": "local/suceava/rasca/2025/24",
+   "short": "HCL Râșca nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 24/2025 privind aprobarea cererii de renunțare la recursul formulat împotriva Sentinței Civile nr. 31 din data de 20.01.2025 a Tribunalului Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/231578",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/231578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-25-2025",
+   "path": "local/suceava/rasca/2025/25",
+   "short": "HCL Râșca nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 25/2025",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/231580",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/231580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-27-2025",
+   "path": "local/suceava/rasca/2025/27",
+   "short": "HCL Râșca nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 27/2025 privind înființarea și delegarea de gestiune prin concesiune a Serviciului public de gestionare a câinilor fără stăpân al comunei Râșca, județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/231582",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/231582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-28-2025",
+   "path": "local/suceava/rasca/2025/28",
+   "short": "HCL Râșca nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 28/2025 privind stabilirea orei și datei de desfășurare a ședințelor ordinare ale Consiliului Local Râșca",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/231583",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/231583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-3-2025",
+   "path": "local/suceava/rasca/2025/3",
+   "short": "HCL Râșca nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 3/2025 privind aprobarea trecerii unei suprafețe de teren din domeniul privat în domeniul public al comunei Râșca, județul Suceava",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/206937",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/206937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-32-2025",
+   "path": "local/suceava/rasca/2025/32",
+   "short": "HCL Râșca nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 32/2025 privind aprobarea încheierii Actului adițional nr. 4 la Contractul nr. 282/05.09.2024 de delegare a gestiunii activității de colectare și transport a deșeurilor municipale, inclusiv operarea stațiilor de transfer și a centrelor de colectare cu aport voluntar în județul Suceava zona Gura Humorului - Fălticeni (Lot 3)",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/232697",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/232697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-34-2025",
+   "path": "local/suceava/rasca/2025/34",
+   "short": "HCL Râșca nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 34/2025 privind aprobarea colaborării interinstituționale în cadrul proiectului ''Furnizare de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate''",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/233090",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/233090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-36-2025",
+   "path": "local/suceava/rasca/2025/36",
+   "short": "HCL Râșca nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 36/2025 privind rectificarea de buget pe anul 2025",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/233010",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/233010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-39-2025",
+   "path": "local/suceava/rasca/2025/39",
+   "short": "HCL Râșca nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 39/2025 privind aprobarea proiectului, indicatorilor tehnico-economici și a devizului general, pentru obiectivul de investiții „Eficientizarea energetică a sediului primăriei comunei Râșca, județul Suceava”",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/235089",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/235089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-4-2025",
+   "path": "local/suceava/rasca/2025/4",
+   "short": "HCL Râșca nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 4/2025 privind aprobarea salariilor de bază aferente funcțiilor din cadrul familiei ocupaționale „Administrație”, utilizate",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/206938",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/206938",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--rasca-46-2025",
    "path": "local/suceava/rasca/2025/46",
    "short": "HCL Râșca nr. 46/2025",
@@ -58,6 +373,21 @@
      "from": "2025-12-18",
      "units": 1,
      "source_url": "https://emol.ro/rasca-sv/registru-hcl/242245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-5-2025",
+   "path": "local/suceava/rasca/2025/5",
+   "short": "HCL Râșca nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 5/2025 privind acordul introducerii a 3 (trei) noi parteneri, respectiv UAT Comuna Fundu Moldovei, UAT Comuna Zamostea și UAT Comuna Iacobeni în cadrul Acordului de Parteneriat aferent proiectului ”Microbuze electrice pentru elevii din Județul Suceava” finanțat prin PNRR, Componenta 15 - Educație",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/206943",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/206943",
      "sha256": null
     }
    ]
@@ -298,6 +628,36 @@
      "from": "2026-02-02",
      "units": 1,
      "source_url": "https://emol.ro/rasca-sv/registru-hcl/250781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-7-2025",
+   "path": "local/suceava/rasca/2025/7",
+   "short": "HCL Râșca nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 7/2025 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat în urma finalizării procedurii de achiziție a lucrărilor pentru obiectivul de investiții „Înființare rețea de alimentare cu apă în comuna Râșca, județul Suceava”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/206951",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/206951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--rasca-8-2025",
+   "path": "local/suceava/rasca/2025/8",
+   "short": "HCL Râșca nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râșca nr. 8/2025 privind aprobarea Programului de întreținere și reparare a drumurilor sătești (străzi și ulițe) din comuna Râșca, județul Suceava pe anul 2025",
+   "url": "https://emol.ro/rasca-sv/registru-hcl/206953",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rasca-sv/registru-hcl/206953",
      "sha256": null
     }
    ]

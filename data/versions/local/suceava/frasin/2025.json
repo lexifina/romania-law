@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--frasin-140-2025",
+   "path": "local/suceava/frasin/2025/140",
+   "short": "HCL Frasin nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Frasin nr. 140/2025 privind aprobarea impozitelor și taxelor locale pentru anul 2026 Consiliul Local al orașului Frasin, județul Suceava ; Având în vedere : - referatul de aprobare prezentat de catre domnul ing.Balan Marinel – primarul orasului Frasin,inregistrat cu nr.9025 din 03.10.2025 și referatul de aprobare în completare prezentat de catre domnul ing.Balan Marinel – primarul orasului Frasin,inregistrat cu nr.11",
+   "url": "https://www.primariaorasuluifrasin.ro/hcl-nr-140-din-17-12-2025-aprobarea-impozitelor-si-taxelor-locale-pt-anul-2026/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://www.primariaorasuluifrasin.ro/wp-content/uploads/2026/02/HCL-nr.-140-din-17.12.2025-aprobarea-impozitelor-si-taxelor-locale-pt-anul-2026.pdf",
+     "sha256": "ecbec91a73c8534afa1c605c7de206d6b5ff13b92d3ffea7c1bc5446bc85eb4d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--frasin-148-2025",
    "path": "local/suceava/frasin/2025/148",
    "short": "HCL Frasin nr. 148/2025",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--frasin-58-2025",
+   "path": "local/suceava/frasin/2025/58",
+   "short": "HCL Frasin nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Frasin nr. 58/2025 privind aprob Regulamentului pt inregistrarea evidenta si radierea vehiculelor de pe raza UAT Frasin",
+   "url": "https://www.primariaorasuluifrasin.ro/hcl-nr-58-din-27-05-2025-privind-aprob-regulamentului-pt-inregistrarea-evidenta-si-radierea-vehiculelor-de-pe-raza-uat-frasin/",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaorasuluifrasin.ro/wp-content/uploads/2025/08/HCL-nr.-58-din-27.05.2025-privind-aprob-Regulamentului-pt-inregistrarea-evidenta-si-radierea-vehiculelor-de-pe-raza-UAT-Frasin.pdf",
+     "sha256": "16b22614fc68d0cbbe29dcbd4d0e728b7a4a66563c4822fa922ecb6570fa257b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--frasin-75-2025",
    "path": "local/suceava/frasin/2025/75",
    "short": "HCL Frasin nr. 75/2025",
@@ -119,6 +149,21 @@
      "units": 1,
      "source_url": "https://www.primariaorasuluifrasin.ro/wp-content/uploads/2026/10/HCL-nr.-75-din-29.09.2026-desemnare-reprezentanti-CL-in-Consiliul-de-administratie-al-Scolii-Bucsoaia-an-scolar-2026-2027.pdf",
      "sha256": "48171f43f4647cf406972e499cab207906751dd0652fbd287f5adaf252023415"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--frasin-89-2025",
+   "path": "local/suceava/frasin/2025/89",
+   "short": "HCL Frasin nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Frasin nr. 89/2025 privind aprobarea taxei de salubrizare și a tarifului de separare incorectă pentru gestionarea deșeurilor în Orașul Frasin, județul Suceava, precum și a Regulamentului privind instituirea și administrarea taxei de salubrizare și a tarifului de separare incorectă pentru gestionarea deșeurilor în Orașul Frasin Consiliul local al orasului Frasin,judetul Suceava ; Avand in vedere : -referatul de aprob",
+   "url": "https://www.primariaorasuluifrasin.ro/hcl-nr-89-din-26-06-2025-taxa-de-salubrizare-tarif-de-separare-incorecta-a-deseurilor-in-or-frasin-si-regulament/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://www.primariaorasuluifrasin.ro/wp-content/uploads/2025/09/HCL-nr.-89-din-26.06.2025-taxa-de-salubrizare-tarif-de-separare-incorecta-a-deseurilor-in-Or-Frasin-si-Regulament.pdf",
+     "sha256": "b4c444af027dcc14d05bd1a3ef8a6fb648a40be8d3c74f92da95bbb43cc879c7"
     }
    ]
   },

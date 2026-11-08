@@ -3,6 +3,28 @@
 "shard": "local/suceava/vulturesti/2021",
 "acts": [
 {
+"slug": "hcl-suceava--vulturesti-11-2021",
+"path": "local/suceava/vulturesti/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 11/2021 privind aprobarea prelungirii termenului de valabilitate a Planului Urbanistic General al comunei Vultureşti, judeţul Suceava",
+"short": "HCL Vulturești nr. 11/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/vulturesti-sv/registru-hcl/24260",
+"council": "suceava/vulturesti",
+"council_name": "Consiliul Local al Comunei Vulturești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vulturesti-23-2021",
 "path": "local/suceava/vulturesti/2021/23",
 "kind": "local",

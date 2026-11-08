@@ -3,6 +3,66 @@
  "shard": "local/suceava/vadu-moldovei/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--vadu-moldovei-1-2024",
+   "path": "local/suceava/vadu-moldovei/2024/1",
+   "short": "HCL Vadu Moldovei nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 1/2024 privind atestarea Inventarului bunurilor care alcătuiesc domeniul public al comunei Vadu Moldovei, județul Suceava",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/142207",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/142207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-14-2024",
+   "path": "local/suceava/vadu-moldovei/2024/14",
+   "short": "HCL Vadu Moldovei nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 14/2024 pentru aprobarea Regulamentului privind măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri cu caracter normativ care se supun adoptării Consiliului Local al Comunei Vadu Moldovei",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/152220",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/152220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-23-2024",
+   "path": "local/suceava/vadu-moldovei/2024/23",
+   "short": "HCL Vadu Moldovei nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 23/2024 privind atestarea Inventarului bunurilor care alcătuiesc domeniul public al comunei Vadu Moldovei, judeţul Suceava",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/159921",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/159921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vadu-moldovei-4-2024",
+   "path": "local/suceava/vadu-moldovei/2024/4",
+   "short": "HCL Vadu Moldovei nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 4/2024 privind aprobarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2024",
+   "url": "https://emol.ro/vadumoldovei-sv/registru-hcl/142319",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vadumoldovei-sv/registru-hcl/142319",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--vadu-moldovei-45-2024",
    "path": "local/suceava/vadu-moldovei/2024/45",
    "short": "HCL Vadu Moldovei nr. 45/2024",

@@ -3,6 +3,50 @@
 "shard": "local/suceava/vadu-moldovei/2025",
 "acts": [
 {
+"slug": "hcl-suceava--vadu-moldovei-7-2025",
+"path": "local/suceava/vadu-moldovei/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 7/2025 privind aprobarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2025",
+"short": "HCL Vadu Moldovei nr. 7/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-03",
+"latest": "2025-04-03",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/199663",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-27-2025",
+"path": "local/suceava/vadu-moldovei/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 27/2025 privind aprobarea înființării Serviciului de iluminat public stradal fără personalitate juridică și a delegarii gestiunii prin concesiune a Serviciului de iluminat public al Comunei Vadu Moldovei, Județul Suceava, a Studiului de fundamentare a deciziei de delegare a Serviciului Public de Iluminat al Comunei Vadu Moldovei, Județul Suceava, a Regulamentului de Organizare și funcționare al serviciului de iluminat public, a Caietului de Sarcini, a documentatiei de atribuire prin procedura simplificata",
+"short": "HCL Vadu Moldovei nr. 27/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-21",
+"latest": "2025-07-21",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/217158",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vadu-moldovei-45-2025",
 "path": "local/suceava/vadu-moldovei/2025/45",
 "kind": "local",

@@ -3,6 +3,426 @@
  "shard": "local/suceava/veresti/2021",
  "acts": [
   {
+   "slug": "hcl-suceava--veresti-1-2021",
+   "path": "local/suceava/veresti/2021/1",
+   "short": "HCL Verești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 1/2021 privind aprobarea Planului de acțiuni de interes local aferent anului 2021 pentru repartizarea orelor de muncă beneficiarilor de ajutor social din comuna Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/43480",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/43480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-10-2021",
+   "path": "local/suceava/veresti/2021/10",
+   "short": "HCL Verești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 10/2021 privind aprobarea Regulamentului privind procedura pentru înregistrarea, evidența și radierea vehiculelor pentru care exista obligativitatea înregistrării, de pe raza administrativ-teritorială a comunei Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/43489",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/43489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-11-2021",
+   "path": "local/suceava/veresti/2021/11",
+   "short": "HCL Verești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 11/2021 privind aderarea Comunei Verești, prin Consiliul Local Verești, la „Asociația pentru Dezvoltare Intercomunitară - Dezvoltare Sustenabilă și Integrată în Țara de Sus”",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/43490",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/43490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-12-2021",
+   "path": "local/suceava/veresti/2021/12",
+   "short": "HCL Verești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 12/2021 privind modificarea Statului de funcții al aparatului de specialitate al primarului comunei Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/43491",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/43491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-13-2021",
+   "path": "local/suceava/veresti/2021/13",
+   "short": "HCL Verești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 13/2021 privind aprobarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/69323",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/69323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-14-2021",
+   "path": "local/suceava/veresti/2021/14",
+   "short": "HCL Verești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 14/2021 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții „Reabilitare termică și creșterea eficienței energetice la Școala Gimnazială Bursuceni, sat Bursuceni, comuna Verești, județul Suceava”, finanțat prin Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/69324",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/69324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-15-2021",
+   "path": "local/suceava/veresti/2021/15",
+   "short": "HCL Verești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 15/2021 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții „Decolmatare, reprofilare albie pentru punerea în siguranță a punții pietonale peste Siret și remedieri la Bursuceni, comuna Verești, județul Suceava”, finanțat din bugetul local",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/69325",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/69325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-16-2021",
+   "path": "local/suceava/veresti/2021/16",
+   "short": "HCL Verești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 16/2021 privind prelungirea termenului de depunere a cererilor privind anularea accesoriilor aferente obligațiilor bugetare principale restante la data de 31.03.2020 inclusiv, datorate bugetului local al comunei Verești, Județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/69326",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/69326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-17-2021",
+   "path": "local/suceava/veresti/2021/17",
+   "short": "HCL Verești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 17/2021 privind aprobarea Planului anual de acțiune privind seriviciile sociale administrate și finanțate din bugetul local pentru anul 2021",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/69327",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/69327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-18-2021",
+   "path": "local/suceava/veresti/2021/18",
+   "short": "HCL Verești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 18/2021 privind indexarea impozitelor și taxelor locale pe anul 2022, cu rata inflației",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/69328",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/69328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-19-2021",
+   "path": "local/suceava/veresti/2021/19",
+   "short": "HCL Verești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 19/2021 privind aprobarea Contului de execuție al bugetului local pentru trimestrul I, anul 2021",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/69329",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/69329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-2-2021",
+   "path": "local/suceava/veresti/2021/2",
+   "short": "HCL Verești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 2/2021 privind aprobarea unui număr de 30 posturi de asistenți personali pentru persoanele cu handicap grav din comuna Verești, județul Suceava, pentru anul 2021",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/43481",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/43481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-20-2021",
+   "path": "local/suceava/veresti/2021/20",
+   "short": "HCL Verești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 20/2021 privind punerea la dispoziția proiectului „Watman II - Sistem informațional pentru managementul integrat al apelor - etapa II” a terenului pentru construcția noilor investiții aferente acestuia",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/69330",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/69330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-21-2021",
+   "path": "local/suceava/veresti/2021/21",
+   "short": "HCL Verești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 21/2021 privind aprobarea Planului pentru asigurarea resurselor umane, materiale și financiare necesare gestionării situațiilor de urgență pentru anul 2021",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/69674",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/69674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-22-2021",
+   "path": "local/suceava/veresti/2021/22",
+   "short": "HCL Verești nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 22/2021 privind modificarea Organigramei și Statului de funcții ale aparatului de specialitate al primarului comunei Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/69675",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/69675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-24-2021",
+   "path": "local/suceava/veresti/2021/24",
+   "short": "HCL Verești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 24/2021 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții „Extindere branșamente cu apă” la proiectul Înființare infrastructură de apă și apă uzată, în comuna Verești, județul Suceava, finanțat din bugetul local",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/69684",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/69684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-25-2021",
+   "path": "local/suceava/veresti/2021/25",
+   "short": "HCL Verești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 25/2021 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții „Reabilitare termică și creșterea eficienței energetice la Școala Gimnazială Bursuceni, sat Bursuceni, comuna Verești, județul Suceava”, finanțat prin Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/69685",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/69685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-26-2021",
+   "path": "local/suceava/veresti/2021/26",
+   "short": "HCL Verești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 26/2021 privind aprobarea Planului de analiză și acoperire a riscurilor pentru anul 2021",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/69686",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/69686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-27-2021",
+   "path": "local/suceava/veresti/2021/27",
+   "short": "HCL Verești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 27/2021 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții „Amenajare Centru Civic în satele Verești și Hancea, din comuna Verești, județul Suceava”, finanțat din bugetul local",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/71264",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/71264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-28-2021",
+   "path": "local/suceava/veresti/2021/28",
+   "short": "HCL Verești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 28/2021 privind aprobarea Contului de execuție al bugetului local pentru trimestrul II, anul 2021",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/71265",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/71265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-29-2021",
+   "path": "local/suceava/veresti/2021/29",
+   "short": "HCL Verești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 29/2021 privind repartizarea fondului de rezervă bugetară pe anul 2021",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/71266",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/71266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-3-2021",
+   "path": "local/suceava/veresti/2021/3",
+   "short": "HCL Verești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 3/2021 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții „Înlocuire și modernizare instalație electrică interioară la Școala Gimnazială Bursuceni, sat Bursuceni, comuna Verești, județul Suceava”",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/43482",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/43482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-30-2021",
+   "path": "local/suceava/veresti/2021/30",
+   "short": "HCL Verești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 30/2021 privind aprobarea solicitării de prelungire a valabilității Scrisorii de garanție nr. 416/21.08.2021, pentru implementarea proiectului de investiție intitulat ”Înființare Infrasctructură de apa și apa uzată în comuna Verești, Județul Suceava” și finanțat prin Agenția pentru Finanțarea Investițiilor Rurale",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/71267",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/71267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-31-2021",
+   "path": "local/suceava/veresti/2021/31",
+   "short": "HCL Verești nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 31/2021 privind aprobarea Regulamentului serviciului public de salubrizare menajeră al comunei Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/71268",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/71268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-32-2021",
+   "path": "local/suceava/veresti/2021/32",
+   "short": "HCL Verești nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 32/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/71269",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/71269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-33-2021",
+   "path": "local/suceava/veresti/2021/33",
+   "short": "HCL Verești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 33/2021 privind implementarea proiectului „Reabilitare termică și creșterea eficienței energetice la Școala Gimnazială Bursuceni, sat Bursuceni, comuna Verești, județul Suceva”",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/71270",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/71270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-34-2021",
+   "path": "local/suceava/veresti/2021/34",
+   "short": "HCL Verești nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 34/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/71271",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/71271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-35-2021",
+   "path": "local/suceava/veresti/2021/35",
+   "short": "HCL Verești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 35/2021 privind ajustarea prețului contractului nr. 6029/10.08.2018 având ca obiect Execuție lucrări de construcție a rețelei publice de apă uzată în localitatea Verești în cadrul proiectului ”Înfiinbțare infrastructură de apă și apă uzată, în comuna Verești, județul Suceava”",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/71272",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/71272",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--veresti-36-2021",
    "path": "local/suceava/veresti/2021/36",
    "short": "HCL Verești nr. 36/2021",
@@ -58,6 +478,21 @@
      "from": "2022-10-25",
      "units": 1,
      "source_url": "https://emol.ro/veresti-sv/registru-hcl/76856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-4-2021",
+   "path": "local/suceava/veresti/2021/4",
+   "short": "HCL Verești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 4/2021 privind aprobarea Actelor adiționale de modificare și completare a Actului constitutiv și a Statutului Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în Județul Suceava, să voteze pentru alegerea Președintelui și a Consiliului director al Asociației, precum și împuternicirea Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în Județul Suceava să semneze în Adunarea Generală a Asociației prin reprezentantul său legal, Președintele Asociației, în numele și pe seama comunei Verești, Actele adiționale de modificare și completare a Actului constitutiv și a Statutului Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în Județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/43483",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/43483",
      "sha256": null
     }
    ]
@@ -298,6 +733,66 @@
      "from": "2021-12-28",
      "units": 1,
      "source_url": "https://emol.ro/veresti-sv/registru-hcl/163011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-6-2021",
+   "path": "local/suceava/veresti/2021/6",
+   "short": "HCL Verești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 6/2021 privind aprobarea noilor indicatori tehnico-economici, la obiectivul de investiții „Modernizare Școala Gimnazială sat Corocaiesti, comuna Verești, județul Suceava”, actualizați după finalizare proiectului tehnic și a aplicarea Dispoziției de șantier nr. 1/12.10.2020, finanțat prin Ministerul Lucrărilor Publice, Dezvoltării și Administrației, P.N.D.L",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/43485",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/43485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-7-2021",
+   "path": "local/suceava/veresti/2021/7",
+   "short": "HCL Verești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 7/2021 privind aprobarea noilor indicatori tehnico-economici la obiectivul de investiții „Branșament apă și racord canalizare la proiectul Înființare infrastrctură de apă și apă uzată, în comuna Verești, județul Suceava”, actualizați după aplicarea dispozițiilor de șantier nr. 1 și 2, finanțat din bugetul local",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/43486",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/43486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-8-2021",
+   "path": "local/suceava/veresti/2021/8",
+   "short": "HCL Verești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 8/2021 privind instituirea unor facilități fiscale și aprobarea Procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.03.2020 inclusiv, datorate bugetului local al Comunei Verești, Județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/43487",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/43487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--veresti-9-2021",
+   "path": "local/suceava/veresti/2021/9",
+   "short": "HCL Verești nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Verești nr. 9/2021 privind aprobara Regulamentului de organizare și funcționare a Consiliului local al comunei Verești, județul Suceava",
+   "url": "https://emol.ro/veresti-sv/registru-hcl/43488",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/veresti-sv/registru-hcl/43488",
      "sha256": null
     }
    ]

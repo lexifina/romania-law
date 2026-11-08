@@ -3,6 +3,403 @@
 "shard": "local/suceava/vama/2024",
 "acts": [
 {
+"slug": "hcl-suceava--vama-2-2024",
+"path": "local/suceava/vama/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 2/2024 APROBAREA STATUTULUI COMUNEI VAMA",
+"short": "HCL Vama nr. 2/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#69607",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-3-2024",
+"path": "local/suceava/vama/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 3/2024 APROBAREA PLANULUI DE LUCRĂRI DE INTERES LOCAL PE ANUL 2024",
+"short": "HCL Vama nr. 3/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#69608",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-4-2024",
+"path": "local/suceava/vama/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 4/2024 APROBAREA NUMĂRULUI DE ASISTENȚI PERSONALI PE ANUL 2024",
+"short": "HCL Vama nr. 4/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#69609",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-5-2024",
+"path": "local/suceava/vama/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 5/2024 ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ",
+"short": "HCL Vama nr. 5/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#69610",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-7-2024",
+"path": "local/suceava/vama/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 7/2024 APROBAREA SITUAȚIILOR DEOSEBITE , ALTELE DECĂT CELE PREVĂZUTE DE LEGE, PENTRU ACORDAREA AJUTOARELOR DE URGENȚĂ",
+"short": "HCL Vama nr. 7/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#69613",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-8-2024",
+"path": "local/suceava/vama/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 8/2024 MODIFICAREA STATULUI DE FUNCȚII ȘI A ORGANIGRAMEI PENTRU APARATUL DE SPECIALITATE AL PRIMARULUI",
+"short": "HCL Vama nr. 8/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#69614",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-9-2024",
+"path": "local/suceava/vama/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 9/2024 STABILIREA APARTENENȚEI UNUI IMOBIL LA DOMENIUL PRIVAT AL COMUNEI VAMA",
+"short": "HCL Vama nr. 9/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#69615",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-10-2024",
+"path": "local/suceava/vama/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 10/2024 DAREA ÎN ADMINISTRARE A UNOR SPAȚII DIN VILA IORGU G. TOMA CĂTRE ȘCOALA VAMA",
+"short": "HCL Vama nr. 10/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#69616",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-12-2024",
+"path": "local/suceava/vama/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 12/2024 aprobarea bugetului local pe anul 2024",
+"short": "HCL Vama nr. 12/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#72089",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-13-2024",
+"path": "local/suceava/vama/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 13/2024 REORGANIZAREA SVSU VAMA",
+"short": "HCL Vama nr. 13/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#72039",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-14-2024",
+"path": "local/suceava/vama/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 14/2024 APROBAREA PLANULUI DE ANALIZA și ACOPERIRE A RISCURILOR IN ANUL 2024",
+"short": "HCL Vama nr. 14/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#72040",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-15-2024",
+"path": "local/suceava/vama/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 15/2024 APROBAREA DOCUMENTATIEI TEHNICO - ECONOMICE PENTRU MODERNIZAREA STRAZILOR DIMITRIE CANTEMIR, 1 MAI SI JUDECATORIEI",
+"short": "HCL Vama nr. 15/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#72041",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-16-2024",
+"path": "local/suceava/vama/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 16/2024 APROBAREA PROGRAMULUI ANUAL AL FINANTARILOR NERAMBURSABILE ALOCATE DE LA BUGETUL LOCAL PE ANUL 2024 PENTRU ACTIVITĂȚI NONPROFIT DE INTERES GENERAL",
+"short": "HCL Vama nr. 16/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#72042",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-17-2024",
+"path": "local/suceava/vama/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 17/2024 ÎNCHEIEREA EXECUȚIEI BUGETARE PE ANUL 2023",
+"short": "HCL Vama nr. 17/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#72043",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-18-2024",
+"path": "local/suceava/vama/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 18/2024",
+"short": "HCL Vama nr. 18/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": null,
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--vama-19-2024",
+"path": "local/suceava/vama/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 19/2024 APROBAREA REALIZĂRII OBIECTIVULUI REALIZARE RACORDURI CANALIZARE MENAJERĂ PE STR. ALEXANDRU SAHIA",
+"short": "HCL Vama nr. 19/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#72046",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-20-2024",
+"path": "local/suceava/vama/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 20/2024 STABILIREA APARTENENTEI UNUI IMOBIL LA DOMENIULPRIVAT LA COMUNEI",
+"short": "HCL Vama nr. 20/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#72047",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-37-2024",
+"path": "local/suceava/vama/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 37/2024 APROBAREA NUMĂRULUI DE ASISTENȚI PERSONALI PENTRU ANUL 2024",
+"short": "HCL Vama nr. 37/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#76803",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vama-45-2024",
 "path": "local/suceava/vama/2024/45",
 "kind": "local",
@@ -246,6 +643,28 @@
 }
 },
 {
+"slug": "hcl-suceava--vama-57-2024",
+"path": "local/suceava/vama/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 57/2024 INSTITUIREA UNEI FACILITĂȚI FISCALE ȘI APROBAREA PROCEDURII DE ANULARE A ACCESORIILOR AFERENTE OBLIGAȚIILOR BUGETARE PRINCIPALE RESTANTE LA DATA DE 31.08.2024 INCLUSIV DATORATE BUGETULUI LOCAL AL COMUNEI",
+"short": "HCL Vama nr. 57/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#84760",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vama-58-2024",
 "path": "local/suceava/vama/2024/58",
 "kind": "local",
@@ -265,6 +684,28 @@
 "council_name": "Consiliul Local al Comunei Vama",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vama-59-2024",
+"path": "local/suceava/vama/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 59/2024 APROBAREA RAPORTULUI PENTRU PROCEDURA DE ATRIBUIRE A CONTRACTULUI DE FINANȚARE NERAMBURSABILĂ ÎNTRE COMUNA VAMA ȘI BENEFICIARUL DE FINANȚARE NERAMBURSABILĂ DE LA BUGETUL LOCAL PE ANUL 2024",
+"short": "HCL Vama nr. 59/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#84764",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -312,6 +753,50 @@
 }
 },
 {
+"slug": "hcl-suceava--vama-62-2024",
+"path": "local/suceava/vama/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 62/2024 RECTIFICAREA BUGETULUI LOCAL",
+"short": "HCL Vama nr. 62/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-11",
+"latest": "2024-10-11",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#85114",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-63-2024",
+"path": "local/suceava/vama/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 63/2024 APROBAREA REȚELEI ȘCOLARE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT DE PE RAZA COMUNEI VAMA PENTRU ANUL ȘCOLAR 2025 - 2026",
+"short": "HCL Vama nr. 63/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-11",
+"latest": "2024-10-11",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#85115",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vama-64-2024",
 "path": "local/suceava/vama/2024/64",
 "kind": "local",
@@ -331,6 +816,28 @@
 "council_name": "Consiliul Local al Comunei Vama",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vama-65-2024",
+"path": "local/suceava/vama/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 65/2024 ORGANIZAREA COMISIILOR DE SPECIALITATE DIN CADRUL CL VAMA",
+"short": "HCL Vama nr. 65/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-08",
+"latest": "2024-11-08",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#86684",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -489,6 +996,28 @@
 }
 },
 {
+"slug": "hcl-suceava--vama-73-2024",
+"path": "local/suceava/vama/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 73/2024 MODIFICAREA ȘI COMPLETAREA ANEXEI LA HCL 57 DIN 25.09.2024",
+"short": "HCL Vama nr. 73/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#91425",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vama-74-2024",
 "path": "local/suceava/vama/2024/74",
 "kind": "local",
@@ -533,6 +1062,28 @@
 }
 },
 {
+"slug": "hcl-suceava--vama-76-2024",
+"path": "local/suceava/vama/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 76/2024 APROBAREA REGULAMENTULUI DE ORGANIZARE ȘI FUNCȚIONARE AL COMPARTIMENTULUI AUTORITATE TUTELARĂ, ASISTENȚĂ SOCIALĂ ȘI PROTECȚIA COPILULUI LA NIVELUL COMUNEI VAMA",
+"short": "HCL Vama nr. 76/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#91428",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vama-77-2024",
 "path": "local/suceava/vama/2024/77",
 "kind": "local",
@@ -552,6 +1103,50 @@
 "council_name": "Consiliul Local al Comunei Vama",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--vama-78-2024",
+"path": "local/suceava/vama/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 78/2024 STABILIREA IMPOZITELOR ȘI TAXELOR LOCALE, ALTE TAXE ASIMILATE PRECUM ȘI AMENZILE APLICABILE PENTRU ANUL FISCAL 2025",
+"short": "HCL Vama nr. 78/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#91430",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vama-79-2024",
+"path": "local/suceava/vama/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama nr. 79/2024 RECTIFICAREA BUGETULUI LOCAL PE ANUL 2024",
+"short": "HCL Vama nr. 79/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://vama.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3431#91431",
+"council": "suceava/vama",
+"council_name": "Consiliul Local al Comunei Vama",
+"flags": {
+"text_pending": "source"
 }
 },
 {

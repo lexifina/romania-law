@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 14/2021 privind revocarea Hotărârii Consiliului Local nr. 6 din 28 ianuarie 2021 privind atestarea apartenenței la domeniul public al comunei Vadu Moldovei, județul Suceava, a imobilului în suprafață de 10110 mp
+
+HCL Vadu Moldovei nr. 14/2021 · 1 versions, from 2021-03-31 (latest in force: 2021-03-31) · <https://emol.ro/vadumoldovei-sv/registru-hcl/26054>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-suceava--vadu-moldovei-14-2021` (tags `hcl-suceava--vadu-moldovei-14-2021/<day>`; `python tools/on.py <day> hcl-suceava--vadu-moldovei-14-2021`).
+
+## Decisions made by hand
+
+- HCL Vadu Moldovei nr. 14/2021: listed from Consiliul Local al Comunei Vadu Moldovei (emol.ro); metadata only for now: no document of it is held.
+- HCL Vadu Moldovei nr. 14/2021: dated from 31 March 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Vadu Moldovei nr. 14/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

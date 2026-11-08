@@ -3,6 +3,28 @@
 "shard": "local/suceava/radaseni/2023",
 "acts": [
 {
+"slug": "hcl-suceava--radaseni-24-2023",
+"path": "local/suceava/radaseni/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădășeni nr. 24/2023 privind stabilirea unor măsuri pentru delegarea gestiunii activității de colectare și transport a deșeurilor municipale, inclusiv operarea stațiilor de transfer și a centrelor de colectare cu aport voluntar în Județul Suceava",
+"short": "HCL Rădășeni nr. 24/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-19",
+"latest": "2023-05-19",
+"portal": "https://emol.ro/radaseni-sv/registru-hcl/105199",
+"council": "suceava/radaseni",
+"council_name": "Consiliul Local al Comunei Rădășeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--radaseni-47-2023",
 "path": "local/suceava/radaseni/2023/47",
 "kind": "local",

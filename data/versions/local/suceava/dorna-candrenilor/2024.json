@@ -3,6 +3,96 @@
  "shard": "local/suceava/dorna-candrenilor/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--dorna-candrenilor-109-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/109",
+   "short": "HCL Dorna Candrenilor nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 109/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/190997",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/190997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-110-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/110",
+   "short": "HCL Dorna Candrenilor nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 110/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/190998",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/190998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-111-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/111",
+   "short": "HCL Dorna Candrenilor nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 111/2024 privind constituirea comisiilor de specialitate pe principalele domenii de activitate, din cadrul Consiliului local al comunei Dorna Candrenilor",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/190999",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/190999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-112-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/112",
+   "short": "HCL Dorna Candrenilor nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 112/2024 privind alegerea viceprimarului comunei Dorna Candrenilor, județul Suceava",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/191000",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/191000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-113-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/113",
+   "short": "HCL Dorna Candrenilor nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 113/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/191001",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/191001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-114-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/114",
+   "short": "HCL Dorna Candrenilor nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 114/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/191011",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/191011",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--dorna-candrenilor-115-2024",
    "path": "local/suceava/dorna-candrenilor/2024/115",
    "short": "HCL Dorna Candrenilor nr. 115/2024",
@@ -298,6 +388,291 @@
      "from": "2025-02-25",
      "units": 1,
      "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/191137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-37-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/37",
+   "short": "HCL Dorna Candrenilor nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 37/2024 privind aprobarea inițierii procedurilor pentru înființarea unei societăți comerciale cu răspundere limitată de drept privat și interes local, cu asociat unic comuna Dorna Candrenilor, prin reprezentant legal",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161050",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-38-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/38",
+   "short": "HCL Dorna Candrenilor nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 38/2024 privind aprobarea proiectului tehnic pentru obiectivul de investiție „SISTEM DE ILUMINAT PUBLIC ÎN COMUNA DORNA CANDRENILOR - ETAPA A II-A”",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161051",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-41-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/41",
+   "short": "HCL Dorna Candrenilor nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 41/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161120",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-43-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/43",
+   "short": "HCL Dorna Candrenilor nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 43/2024 privind aprobarea contului anual de execuție al bugetului local pe anul 2023",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161122",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-45-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/45",
+   "short": "HCL Dorna Candrenilor nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 45/2024 privind aprobarea executării de lucrări de „Gard împrejmuire Stațiune balneoclimaterică, în comuna Dorna Candrenilor”, județul Suceava și însușirea documentației economice",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161124",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-46-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/46",
+   "short": "HCL Dorna Candrenilor nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 46/2024 privind aprobarea decontării navetei cadrelor didactice și personalului didactic-auxiliar pentru luna februarie 2024, care îți desfășoară activitatea la Liceul Tehnologic Dorna Candrenilor",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161125",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-47-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/47",
+   "short": "HCL Dorna Candrenilor nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 47/2024 privind aprobarea Planului Anual de acțiune privind serviciile sociale la nivelul comunei Dorna Candrenilor",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161126",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-56-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/56",
+   "short": "HCL Dorna Candrenilor nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 56/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161176",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-57-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/57",
+   "short": "HCL Dorna Candrenilor nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 57/2024 privind aprobarea execuției bugetelor întocmite pe cele două secțiuni, pentru trimestrul I 2024, buget de funcționare și buget de dezvoltare",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161177",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-58-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/58",
+   "short": "HCL Dorna Candrenilor nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 58/2024 privind aprobarea organizării și desfășurării evenimentului „Balul Gospodarilor”, în data de 6 mai 2024",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161178",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-60-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/60",
+   "short": "HCL Dorna Candrenilor nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 60/2024 privind aprobarea decontării navetei cadrelor didactice și personalului didactic-auxiliar pentru luna martie 2024, care își vor desfășura activitatea la Liceul Tehnologic Dorna Candrenilor",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161180",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-61-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/61",
+   "short": "HCL Dorna Candrenilor nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 61/2024 privind atestarea completării anexei Inventarului bunurilor care alcătuiesc domeniul privat al comunei Dorna Candrenilor, județul Suceava",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161181",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-64-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/64",
+   "short": "HCL Dorna Candrenilor nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 64/2024 privind aprobarea numărului de posturi, funcții publice, personal contractual, organigrama și statul de funcții din aparatul de specialitate al primarului comunei Dorna Candrenilor, județul Suceava pentru anul 2024",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161184",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/161184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-66-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/66",
+   "short": "HCL Dorna Candrenilor nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 66/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/164761",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/164761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-72-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/72",
+   "short": "HCL Dorna Candrenilor nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 72/2024 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Dorna Candrenilor, în conformitate cu Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/169019",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/169019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-78-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/78",
+   "short": "HCL Dorna Candrenilor nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 78/2024 privind aprobarea execuției bugetelor economice întocmite pe cele două secțiuni, pentru trimestrul II 2024, buget de funcționare și buget de dezvoltare",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/169039",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/169039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-82-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/82",
+   "short": "HCL Dorna Candrenilor nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 82/2024 privind aprobarea organizării și desfășurării Festivalului „La izvor de apă vie”, ediția XXI-a, în data de 18 august 2024, în comuna Dorna Candrenilor, județul Suceava",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/169043",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/169043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-83-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/83",
+   "short": "HCL Dorna Candrenilor nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 83/2024 privind aprobarea executării de lucrări de „igienizare și curățare șanțuri” și lucrări de „igienizare aerodrom Dealu Floreni”, în comuna Dorna Candrenilor, județul Suceava și însușirea documentației economice",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/169044",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/169044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--dorna-candrenilor-86-2024",
+   "path": "local/suceava/dorna-candrenilor/2024/86",
+   "short": "HCL Dorna Candrenilor nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorna Candrenilor nr. 86/2024",
+   "url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/169047",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dornacandrenilor-sv/registru-hcl/169047",
      "sha256": null
     }
    ]

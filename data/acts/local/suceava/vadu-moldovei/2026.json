@@ -3,6 +3,50 @@
 "shard": "local/suceava/vadu-moldovei/2026",
 "acts": [
 {
+"slug": "hcl-suceava--vadu-moldovei-21-2026",
+"path": "local/suceava/vadu-moldovei/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 21/2026 privind aprobarea Regulamentului Serviciului de salubrizare al Județului Suceava",
+"short": "HCL Vadu Moldovei nr. 21/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-25",
+"latest": "2026-05-25",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/267355",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-suceava--vadu-moldovei-23-2026",
+"path": "local/suceava/vadu-moldovei/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Moldovei nr. 23/2026 privind aprobarea bugetului de venituri si cheltuieli al Consiliului Local al comunei Vadu Moldovei pentru anul 2026",
+"short": "HCL Vadu Moldovei nr. 23/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-25",
+"latest": "2026-05-25",
+"portal": "https://emol.ro/vadumoldovei-sv/registru-hcl/267357",
+"council": "suceava/vadu-moldovei",
+"council_name": "Consiliul Local al Comunei Vadu Moldovei",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-suceava--vadu-moldovei-40-2026",
 "path": "local/suceava/vadu-moldovei/2026/40",
 "kind": "local",
