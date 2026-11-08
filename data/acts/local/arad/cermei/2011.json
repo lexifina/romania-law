@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/arad/cermei/2011",
+"acts": [
+{
+"slug": "hcl-arad--cermei-2-2011",
+"path": "local/arad/cermei/2011/2",
+"kind": "local",
+"year": "2011",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cermei nr. 2/2011 pentru aprobarea participarii Consiliului local al comunei Cermei la ”Programul privind instalarea sistemelor de incalzire care utitizeaza energie regenerabila,inclusiv inlocuirea sistemelor clasice de incalzire-beneficiari unitati administrativ teritoriale,institutii publice si unitati de cult”. CONSILIUL LOCAL AL COMUNEI CERMEI, intrunit in sedinta extraordinara, astazi 17. 01. 2011, Avand in ve",
+"short": "HCL Cermei nr. 2/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-01-17",
+"latest": "2011-01-17",
+"portal": "https://comuna-cermei.ro/2011/02/hotarare-extraorinara-a-consiliului-local-cermei-%E2%80%93-ianuarie-2011/",
+"council": "arad/cermei",
+"council_name": "Consiliul Local al Comunei Cermei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--cermei-50-2011",
+"path": "local/arad/cermei/2011/50",
+"kind": "local",
+"year": "2011",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cermei nr. 50/2011 privind aprobarea contractării unei finanțări rambursabile interne/externe, în valoare de 2.000.000 lei Consiliul Local Cermei, Având în vedere: -prevederile art. 36 alin. (2) și alin. (4) lit. „b”, ale art. 45 alin. (2) , art. 63 alin. (1) lit. „c” și alin. (4) lit. „c”, precum și ale art. 115 alin. (1) lit. „b”, alin. (3), (5) și (6) din Legea Administrației Publice Locale, nr. 215/2001, republi",
+"short": "HCL Cermei nr. 50/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-07-04",
+"latest": "2011-07-04",
+"portal": "https://comuna-cermei.ro/2011/07/hotarare-nr-50-a-consiliului-local-cermei/",
+"council": "arad/cermei",
+"council_name": "Consiliul Local al Comunei Cermei",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

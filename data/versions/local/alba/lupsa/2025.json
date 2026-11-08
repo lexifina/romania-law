@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/lupsa/2025",
+ "acts": [
+  {
+   "slug": "hcl-alba--lupsa-102-2025",
+   "path": "local/alba/lupsa/2025/102",
+   "short": "HCL Lupșa nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșa nr. 102/2025 privind mentinera Hotărârii Consiliului Local nr. 102, 13.10.2025, privind stabilirea unor măsuri pentru asigurarea liberului acces la informațiile de interes",
+   "url": "https://primarialupsa.ro/wp-content/uploads/2026/10/HOTARAREA-Nr.-87-privind-mentinera-Hotararii-Consiliului-Local-nr.-102-13.10.2025-privind-stabilirea-unor-masuri-pentru-asigurarea-liberului-acces-la-informatiile-de-interes.pdf",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://primarialupsa.ro/wp-content/uploads/2026/10/HOTARAREA-Nr.-87-privind-mentinera-Hotararii-Consiliului-Local-nr.-102-13.10.2025-privind-stabilirea-unor-masuri-pentru-asigurarea-liberului-acces-la-informatiile-de-interes.pdf",
+     "sha256": "fc8645c507c53a99fada27e5ac67c6b5c96877686c108cd628f2a31314292dae"
+    }
+   ]
+  }
+ ]
+}

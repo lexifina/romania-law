@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-arad--gurahont-3-2020",
+"path": "local/arad/gurahont/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 3/2020 privind acordarea unui mandat reprezentantului Comunei Gurahonț în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 750/03.12.2019 – Act adițional la Contractul nr. 704/02.12.2019",
+"short": "HCL Gurahonț nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-17",
+"latest": "2020-01-17",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/1461",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--gurahont-4-2020",
+"path": "local/arad/gurahont/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 4/2020 privind mandatarea reprezentantului Comunei Gurahonţ în Adunarea generală a operatorului regional SC Compania de Apa Arad SA Arad de a vota anumite propuneri privind funcţionarea societăţii",
+"short": "HCL Gurahonț nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-17",
+"latest": "2020-01-17",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/1462",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--gurahont-5-2020",
 "path": "local/arad/gurahont/2020/5",
 "kind": "local",
@@ -88,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Gurahonț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--gurahont-7-2020",
+"path": "local/arad/gurahont/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 7/2020 privind aprobarea proceselor verbale ale ședințelor consiliului local din data de 30 decembrie 2019 și 17 ianuarie 2020",
+"short": "HCL Gurahonț nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/1488",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -290,6 +356,28 @@
 }
 },
 {
+"slug": "hcl-arad--gurahont-17-2020",
+"path": "local/arad/gurahont/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 17/2020 privind alegerea preşedintelui de şedinţă pentru perioada MARTIE–MAI 2020",
+"short": "HCL Gurahonț nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-17",
+"latest": "2020-02-17",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/1507",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--gurahont-18-2020",
 "path": "local/arad/gurahont/2020/18",
 "kind": "local",
@@ -331,6 +419,94 @@
 "council_name": "Consiliul Local al Comunei Gurahonț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--gurahont-20-2020",
+"path": "local/arad/gurahont/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 20/2020 privind acordarea unui mandat reprezentantului Comunei Gurahonț în Adunarea Generală a Asociaţilor pentru modificarea Actului Constitutiv și a Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+"short": "HCL Gurahonț nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-17",
+"latest": "2020-02-17",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/1509",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--gurahont-21-2020",
+"path": "local/arad/gurahont/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 21/2020 privind acordarea unui mandat reprezentantului Comunei Gurahonț în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 750/03.12.2019 – Act adițional la Contractul nr. 704/02.12.2019, astfel cum a fost modificat prin Actele adiționale nr. 1/20.12.2019 și nr. 2/21.01.2020",
+"short": "HCL Gurahonț nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-17",
+"latest": "2020-02-17",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/1510",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--gurahont-22-2020",
+"path": "local/arad/gurahont/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 22/2020 privind acordarea unui mandat reprezentantului Comunei Gurahonț în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru plata cotizaţiei pe anul 2020 şi votarea proiectului de buget al ADI pe anul 2020",
+"short": "HCL Gurahonț nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-17",
+"latest": "2020-02-17",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/1511",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--gurahont-23-2020",
+"path": "local/arad/gurahont/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 23/2020 privind mandatarea reprezentantului Comunei Gurahonţ în Adunarea generală a operatorului regional SC Compania de Apa Arad SA Arad de a vota anumite propuneri privind funcţionarea societăţii",
+"short": "HCL Gurahonț nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-17",
+"latest": "2020-02-17",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/1512",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -774,6 +950,28 @@
 }
 },
 {
+"slug": "hcl-arad--gurahont-44-2020",
+"path": "local/arad/gurahont/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 44/2020 privind alegerea preşedintelui de şedinţă pentru perioada IUNIE – AUGUST 2020",
+"short": "HCL Gurahonț nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-21",
+"latest": "2020-05-21",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/3626",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--gurahont-45-2020",
 "path": "local/arad/gurahont/2020/45",
 "kind": "local",
@@ -947,6 +1145,28 @@
 "council_name": "Consiliul Local al Comunei Gurahonț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--gurahont-53-2020",
+"path": "local/arad/gurahont/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 53/2020 privind închirierea unei suprafețe de teren lotizate din domeniul public al localităţii Gurahonţ pentru activităţi de comerţ",
+"short": "HCL Gurahonț nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-21",
+"latest": "2020-05-21",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/3624",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1126,6 +1346,50 @@
 }
 },
 {
+"slug": "hcl-arad--gurahont-62-2020",
+"path": "local/arad/gurahont/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 62/2020 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local din data de 30 IULIE 2020",
+"short": "HCL Gurahonț nr. 62/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/10190",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--gurahont-63-2020",
+"path": "local/arad/gurahont/2020/63",
+"kind": "local",
+"year": "2020",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 63/2020 privind aprobarea procesului verbal al ședinței consiliului local din 25 iunie 2020",
+"short": "HCL Gurahonț nr. 63/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/10182",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--gurahont-64-2020",
 "path": "local/arad/gurahont/2020/64",
 "kind": "local",
@@ -1281,6 +1545,28 @@
 }
 },
 {
+"slug": "hcl-arad--gurahont-71-2020",
+"path": "local/arad/gurahont/2020/71",
+"kind": "local",
+"year": "2020",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 71/2020 privind modificarea prin act adițional a prevederilor contractelor de închiriere încheiate de Consiliului local al comunei Gurahonț în vederea uniformizării plății chiriei",
+"short": "HCL Gurahonț nr. 71/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/10188",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--gurahont-72-2020",
 "path": "local/arad/gurahont/2020/72",
 "kind": "local",
@@ -1303,6 +1589,50 @@
 }
 },
 {
+"slug": "hcl-arad--gurahont-73-2020",
+"path": "local/arad/gurahont/2020/73",
+"kind": "local",
+"year": "2020",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 73/2020 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local din data de 31 AUGUST 2020",
+"short": "HCL Gurahonț nr. 73/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/10197",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--gurahont-74-2020",
+"path": "local/arad/gurahont/2020/74",
+"kind": "local",
+"year": "2020",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 74/2020 privind aprobarea procesului verbal al ședinței consiliului local din 30 iulie 2020",
+"short": "HCL Gurahonț nr. 74/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/10191",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--gurahont-75-2020",
 "path": "local/arad/gurahont/2020/75",
 "kind": "local",
@@ -1322,6 +1652,29 @@
 "council_name": "Consiliul Local al Comunei Gurahonț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--gurahont-76-2020",
+"path": "local/arad/gurahont/2020/76",
+"kind": "local",
+"year": "2020",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 76/2020",
+"short": "HCL Gurahonț nr. 76/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/10193",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1366,6 +1719,72 @@
 "council_name": "Consiliul Local al Comunei Gurahonț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--gurahont-79-2020",
+"path": "local/arad/gurahont/2020/79",
+"kind": "local",
+"year": "2020",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 79/2020 privind acordarea unui mandat reprezentantului Comunei Gurahonț în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr.750/03.12.2019 – Act adițional la Contractul nr.704/02.12.2019, astfel cum a fost modificat prin Actele adiționale nr.1/20.12.2019, nr.2/21.01.2020 și nr.3/06.03.2020",
+"short": "HCL Gurahonț nr. 79/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/10194",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--gurahont-80-2020",
+"path": "local/arad/gurahont/2020/80",
+"kind": "local",
+"year": "2020",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 80/2020 privind alegerea preşedintelui de şedinţă pentru luna septembrie 2020",
+"short": "HCL Gurahonț nr. 80/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-18",
+"latest": "2020-09-18",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/13968",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--gurahont-81-2020",
+"path": "local/arad/gurahont/2020/81",
+"kind": "local",
+"year": "2020",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 81/2020 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local din data de 18 septembrie 2020",
+"short": "HCL Gurahonț nr. 81/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-18",
+"latest": "2020-09-18",
+"portal": "https://emol.ro/gurahont-ar/registru-hcl/13974",
+"council": "arad/gurahont",
+"council_name": "Consiliul Local al Comunei Gurahonț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

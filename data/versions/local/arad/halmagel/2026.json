@@ -3,6 +3,306 @@
  "shard": "local/arad/halmagel/2026",
  "acts": [
   {
+   "slug": "hcl-arad--halmagel-1-2026",
+   "path": "local/arad/halmagel/2026/1",
+   "short": "HCL Hălmăgel nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 1/2026 privind APROBAREA ORDINII DE ZI A ȘEDINȚEI CONSILIULUI LOCAL AL COMUNEI HĂLMĂGEL DIN DATA DE 29.01.2026",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269717",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-10-2026",
+   "path": "local/arad/halmagel/2026/10",
+   "short": "HCL Hălmăgel nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 10/2026 privind APROBAREA PROCESULUI VERBAL AL ȘEDINȚEI CONSILIULUI LOCAL AL COMUNEI HĂLMĂGEL DIN DATA DE 29.01.2026",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269737",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-11-2026",
+   "path": "local/arad/halmagel/2026/11",
+   "short": "HCL Hălmăgel nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 11/2026 privind modificarea Hotărârii Consiliului Local al Comunei Hălmăgel nr. 89 din 29.12.2025, pentru aprobarea impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269738",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-12-2026",
+   "path": "local/arad/halmagel/2026/12",
+   "short": "HCL Hălmăgel nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 12/2026 privind APROBAREA ORDINII DE ZI A ȘEDINȚEI CONSILIULUI LOCAL AL COMUNEI HĂLMĂGEL DIN DATA DE 30.03.2026",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269739",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-13-2026",
+   "path": "local/arad/halmagel/2026/13",
+   "short": "HCL Hălmăgel nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 13/2026 privind APROBAREA PROCESULUI VERBAL AL ȘEDINȚEI CONSILIULUI LOCAL AL COMUNEI HĂLMĂGEL DIN DATA DE 11.02.2026",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269740",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-14-2026",
+   "path": "local/arad/halmagel/2026/14",
+   "short": "HCL Hălmăgel nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 14/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și/sau finanțate din bugetul Consiliului Local al comunei Hălmăgel, judetul Arad",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269741",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-15-2026",
+   "path": "local/arad/halmagel/2026/15",
+   "short": "HCL Hălmăgel nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 15/2026 privind aplicarea noului număr total de posturi pentru comuna Hălmăgel, stabilit de către instituția Prefectului-jud. Arad, și aprobarea Statului de funcții și a Organigramei comunei Hălmăgel",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269742",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-16-2026",
+   "path": "local/arad/halmagel/2026/16",
+   "short": "HCL Hălmăgel nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 16/2026 privind aprobarea Raportului primarului comunei Hălmăgel, privind starea economică socială și de mediu pe anul 2025",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269743",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-17-2026",
+   "path": "local/arad/halmagel/2026/17",
+   "short": "HCL Hălmăgel nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 17/2026 privind aderarea comunei Hălmăgel la Asociația de Dezvoltare Intercomunitară ,,Moții, Țara de Piatră,,",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269744",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-18-2026",
+   "path": "local/arad/halmagel/2026/18",
+   "short": "HCL Hălmăgel nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 18/2026 privind APROBAREA ORDINII DE ZI A ȘEDINȚEI CONSILIULUI LOCAL AL COMUNEI HĂLMĂGEL DIN DATA DE 30.04.2026",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269745",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-19-2026",
+   "path": "local/arad/halmagel/2026/19",
+   "short": "HCL Hălmăgel nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 19/2026 privind APROBAREA PROCESULUI VERBAL AL ȘEDINȚEI CONSILIULUI LOCAL AL COMUNEI HĂLMĂGEL DIN DATA DE 30.03.2026",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269746",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-2-2026",
+   "path": "local/arad/halmagel/2026/2",
+   "short": "HCL Hălmăgel nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 2/2026 privind APROBAREA PROCESULUI VERBAL AL ȘEDINȚEI CONSILIULUI LOCAL AL COMUNEI HĂLMĂGEL DIN DATA DE 29.12.2025",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269719",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-20-2026",
+   "path": "local/arad/halmagel/2026/20",
+   "short": "HCL Hălmăgel nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 20/2026",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269747",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-21-2026",
+   "path": "local/arad/halmagel/2026/21",
+   "short": "HCL Hălmăgel nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 21/2026 privind implementarea proiectului “Achizitie mini-excavator, alte utilaje si echipamente, mijloace de transport” și asumarea obligației de asigurare a mentenanței investiției realizate prin proiectul “Achizitie mini-excavator, alte utilaje si echipamente, mijloace de transport”",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269748",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-22-2026",
+   "path": "local/arad/halmagel/2026/22",
+   "short": "HCL Hălmăgel nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 22/2026 privind aprobarea instituirii unei taxe pentru utilizarea infrastructurii publice locale de drumuri comunale sau forestiere ori a altor categorii de drumuri aflate in proprietatea sau administrarea comunei Hălmăgel",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269749",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-23-2026",
+   "path": "local/arad/halmagel/2026/23",
+   "short": "HCL Hălmăgel nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 23/2026 privind aprobarea bugetului local de venituri şi cheltuieli al Comunei Hălmăgel ,pe anul 2026 si estimarile pe anii 2027,2028,2029",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269750",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-24-2026",
+   "path": "local/arad/halmagel/2026/24",
+   "short": "HCL Hălmăgel nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 24/2026 privind aprobarea utilizării excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2025",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269751",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-25-2026",
+   "path": "local/arad/halmagel/2026/25",
+   "short": "HCL Hălmăgel nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 25/2026 privind scoaterea din funcţiune, casarea si valorificarea unor mijloace fixe aparţinând domeniului privat de interes local al Comunei HĂLMĂGEL cu referire la:.Lamă zăpadă MCMS ZU-250 și Distribuitor îngrășăminte",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269752",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-26-2026",
+   "path": "local/arad/halmagel/2026/26",
+   "short": "HCL Hălmăgel nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 26/2026 privind ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ DIN DATA DE 12.05.2026",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269753",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-27-2026",
+   "path": "local/arad/halmagel/2026/27",
+   "short": "HCL Hălmăgel nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 27/2026 privind APROBAREA ORDINII DE ZI A ȘEDINȚEI CONSILIULUI LOCAL AL COMUNEI HĂLMĂGEL DIN DATA DE 12.05.2026",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269754",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269754",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagel-28-2026",
    "path": "local/arad/halmagel/2026/28",
    "short": "HCL Hălmăgel nr. 28/2026",
@@ -28,6 +328,21 @@
      "from": "2026-09-15",
      "units": 1,
      "source_url": "https://emol.ro/halmagel-ar/registru-hcl/287489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-3-2026",
+   "path": "local/arad/halmagel/2026/3",
+   "short": "HCL Hălmăgel nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 3/2026 privind aprobarea Raportului asupra activitatii desfasurate de asistentii personali ai persoanelor cu handicap grav pe semestrul II al anului 2025",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269721",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269721",
      "sha256": null
     }
    ]
@@ -183,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--halmagel-4-2026",
+   "path": "local/arad/halmagel/2026/4",
+   "short": "HCL Hălmăgel nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 4/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială, la nivelul comunei Hălmăgel, aferent anului 2026",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269722",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269722",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagel-40-2026",
    "path": "local/arad/halmagel/2026/40",
    "short": "HCL Hălmăgel nr. 40/2026",
@@ -298,6 +628,81 @@
      "from": "2026-09-23",
      "units": 1,
      "source_url": "https://emol.ro/halmagel-ar/registru-hcl/288449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-5-2026",
+   "path": "local/arad/halmagel/2026/5",
+   "short": "HCL Hălmăgel nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 5/2026 privind aprobarea Planului de acţiuni/lucrări de interes local ce vor fi executate de beneficiarii ajutorului de incluziune apti de munca, potrivit Legii nr. 196/2016 privind venitul minim de incluziune, pentru anul 2026, la nivelul comunei Hălmăgel, judeţul Arad",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269729",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-6-2026",
+   "path": "local/arad/halmagel/2026/6",
+   "short": "HCL Hălmăgel nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 6/2026",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269730",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-7-2026",
+   "path": "local/arad/halmagel/2026/7",
+   "short": "HCL Hălmăgel nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 7/2026 privind APROBAREA EXECUȚIEI BUGETARE LA DATA DE 31.12.2025",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269733",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-8-2026",
+   "path": "local/arad/halmagel/2026/8",
+   "short": "HCL Hălmăgel nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 8/2026 privind ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ DIN DATA DE 11.02.2026",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269734",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-9-2026",
+   "path": "local/arad/halmagel/2026/9",
+   "short": "HCL Hălmăgel nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 9/2026 privind APROBAREA ORDINII DE ZI A ȘEDINȚEI CONSILIULUI LOCAL AL COMUNEI HĂLMĂGEL DIN DATA DE 11.02.2026",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/269736",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/269736",
      "sha256": null
     }
    ]

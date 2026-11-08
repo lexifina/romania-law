@@ -3,6 +3,21 @@
  "shard": "local/arad/carand/2026",
  "acts": [
   {
+   "slug": "hcl-arad--carand-1-2026",
+   "path": "local/arad/carand/2026/1",
+   "short": "HCL Cărand nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cărand nr. 1/2026 privind aprobarea procesului verbal anterior, încheiat cu ocazia ședinţei ordinare a Consiliului Local Cărand din data de 17..12.2025",
+   "url": "https://emol.ro/carand-ar/registru-hcl/261352",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carand-ar/registru-hcl/261352",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--carand-10-2026",
    "path": "local/arad/carand/2026/10",
    "short": "HCL Cărand nr. 10/2026",
@@ -48,6 +63,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--carand-13-2026",
+   "path": "local/arad/carand/2026/13",
+   "short": "HCL Cărand nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cărand nr. 13/2026 privind aprobarea procesului verbal anterior, încheiat cu ocazia ședinţei ordinare a Consiliului Local Cărand din data de 20..02.2026",
+   "url": "https://emol.ro/carand-ar/registru-hcl/272341",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carand-ar/registru-hcl/272341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--carand-14-2026",
+   "path": "local/arad/carand/2026/14",
+   "short": "HCL Cărand nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cărand nr. 14/2026 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/carand-ar/registru-hcl/272342",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carand-ar/registru-hcl/272342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--carand-15-2026",
+   "path": "local/arad/carand/2026/15",
+   "short": "HCL Cărand nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cărand nr. 15/2026 privind aprobarea ordinii de zi a ședinței ordinară pentru data de 03 aprilie 2026",
+   "url": "https://emol.ro/carand-ar/registru-hcl/272343",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carand-ar/registru-hcl/272343",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--carand-16-2026",
    "path": "local/arad/carand/2026/16",
    "short": "HCL Cărand nr. 16/2026",
@@ -88,6 +148,81 @@
      "from": "2026-06-04",
      "units": 1,
      "source_url": "https://emol.ro/carand-ar/registru-hcl/272346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--carand-19-2026",
+   "path": "local/arad/carand/2026/19",
+   "short": "HCL Cărand nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cărand nr. 19/2026",
+   "url": "https://emol.ro/carand-ar/registru-hcl/272347",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carand-ar/registru-hcl/272347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--carand-2-2026",
+   "path": "local/arad/carand/2026/2",
+   "short": "HCL Cărand nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cărand nr. 2/2026 privind aprobarea ordinei de zi a ședinței ordinară pentru data de 20.FEBRUARIE 2026",
+   "url": "https://emol.ro/carand-ar/registru-hcl/261353",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carand-ar/registru-hcl/261353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--carand-20-2026",
+   "path": "local/arad/carand/2026/20",
+   "short": "HCL Cărand nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cărand nr. 20/2026 privind aprobarea procesului verbal anterior, încheiat cu ocazia ședinţei ordinare a Consiliului Local Cărand din data de 03..04.2026",
+   "url": "https://emol.ro/carand-ar/registru-hcl/276573",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carand-ar/registru-hcl/276573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--carand-21-2026",
+   "path": "local/arad/carand/2026/21",
+   "short": "HCL Cărand nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cărand nr. 21/2026 privind aprobarea ordinei de zi a ședinței extraordinară modificată și suplimentată pentru data de 30 aprilie 2026",
+   "url": "https://emol.ro/carand-ar/registru-hcl/276574",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carand-ar/registru-hcl/276574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--carand-22-2026",
+   "path": "local/arad/carand/2026/22",
+   "short": "HCL Cărand nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cărand nr. 22/2026 privind aprobarea statutului comunei Cărand, județul Arad",
+   "url": "https://emol.ro/carand-ar/registru-hcl/276575",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carand-ar/registru-hcl/276575",
      "sha256": null
     }
    ]
@@ -193,6 +328,21 @@
      "from": "2026-07-03",
      "units": 1,
      "source_url": "https://emol.ro/carand-ar/registru-hcl/276582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--carand-3-2026",
+   "path": "local/arad/carand/2026/3",
+   "short": "HCL Cărand nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cărand nr. 3/2026 privind modificarea și completarea HCL NR. 89/17.12.2025 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență familiilor și persoanelor aflate în situații de necesitate",
+   "url": "https://emol.ro/carand-ar/registru-hcl/261354",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carand-ar/registru-hcl/261354",
      "sha256": null
     }
    ]
@@ -343,6 +493,21 @@
      "from": "2026-07-03",
      "units": 1,
      "source_url": "https://emol.ro/carand-ar/registru-hcl/276617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--carand-4-2026",
+   "path": "local/arad/carand/2026/4",
+   "short": "HCL Cărand nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cărand nr. 4/2026",
+   "url": "https://emol.ro/carand-ar/registru-hcl/261355",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carand-ar/registru-hcl/261355",
      "sha256": null
     }
    ]

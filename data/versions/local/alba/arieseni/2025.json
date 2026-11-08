@@ -3,6 +3,66 @@
  "shard": "local/alba/arieseni/2025",
  "acts": [
   {
+   "slug": "hcl-alba--arieseni-26-2025",
+   "path": "local/alba/arieseni/2025/26",
+   "short": "HCL Arieșeni nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 26/2025 privind modificarea art.2 din HOTĂRÂREA NR. 8/29.01.2024 privind însușirea documentaților tehnice cadastrale pentru dezlipirea imobilelor înscrise în următoarele cărți funciare: CF 70907 Arieșeni, CF 70687 Arieșeni, CF 70748 Arieșeni, CF 70910 Arieșeni",
+   "url": "https://comuna-arieseni.ro/wp-content/uploads/2025/06/HCL-26.pdf",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/06/HCL-26.pdf",
+     "sha256": "ad6018b465ccd61951de389ea0eeedc690723c898d821c81586fb17108dc5fe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--arieseni-28-2025",
+   "path": "local/alba/arieseni/2025/28",
+   "short": "HCL Arieșeni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 28/2025 privind aprobarea înființării „ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ GESTIONAREA ȘI PROTECȚIA ANIMALELOR ALBA” Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în data de 12.06.2025 Luând în dezbatere: - referatul de aprobare nr. 3557/04.06.2025 a proiectului de hotărâre privind aprobarea înființării „ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ GESTIONAREA ȘI",
+   "url": "https://comuna-arieseni.ro/wp-content/uploads/2025/06/HCL-28-1.pdf",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/06/HCL-28-1.pdf",
+     "sha256": "139f59dac1241382af1ead94a0a8c0354d2ee42b2417e22aabd4636734d4f5b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--arieseni-43-2025",
+   "path": "local/alba/arieseni/2025/43",
+   "short": "HCL Arieșeni nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 43/2025 privind aprobarea amenajamentului pastoral pentru pajiștilor permanente de pe raza administrativ teritoriala a Comunei Arieșeni județul Alba Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 01.09.2025 Luând în dezbatere: - Referatul de aprobare nr. 4593/25.08.2025, întocmit de inițiatorul proiectului de hotărâre, primarul comunei Arieșeni, dl",
+   "url": "https://comuna-arieseni.ro/wp-content/uploads/2025/09/HCL-43-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/09/HCL-43-2025.pdf",
+     "sha256": "624e68bcc2677ed0046e6e7d7da707cdc05df9c868df6b296a870e66af674f05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--arieseni-44-2025",
+   "path": "local/alba/arieseni/2025/44",
+   "short": "HCL Arieșeni nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 44/2025 privind desemnarea reprezentantului Consiliului local Arieșeni in Consiliul de Administrație și în Comisia de Evaluare și Asigurare a Calității al Liceului Tehnologic de Turism și Alimentație Arieșeni în anul școlar 2025-2026 Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 02.10.2025 Luând în dezbatere: - referatul de aprobare întocmit de către Primarul c",
+   "url": "https://comuna-arieseni.ro/wp-content/uploads/2025/10/HCL-44.pdf",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/10/HCL-44.pdf",
+     "sha256": "1f46f966588f05973055364a64bf33aa9d88cd6d9aa3072f4996ec56f9614579"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--arieseni-45-2025",
    "path": "local/alba/arieseni/2025/45",
    "short": "HCL Arieșeni nr. 45/2025",
@@ -14,6 +74,21 @@
      "units": 1,
      "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/10/HCL-45.pdf",
      "sha256": "f1602213de76a6386b4aeb22b1433b39f695c94e9bff7ce9bae67819f49522ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--arieseni-47-2025",
+   "path": "local/alba/arieseni/2025/47",
+   "short": "HCL Arieșeni nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 47/2025 privind modificarea și completarea art. 2, art. 3 și art. 4 din HCL 34/2023 Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 02.10.2025 Luând în dezbatere: - referatul de aprobare nr. 5025/24.09.2025 întocmit de domnul primar în calitate de inițiator privind oportunitatea proiectului de hotărâre; - Ținând cont de avizele favorabile ale comisiilor de specia",
+   "url": "https://comuna-arieseni.ro/wp-content/uploads/2025/10/HCL-47.pdf",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/10/HCL-47.pdf",
+     "sha256": "75623e0a5f1e5358479b6e23ab8680638e610a3c9cb37b6490b403fd6025af43"
     }
    ]
   },
@@ -33,6 +108,66 @@
    ]
   },
   {
+   "slug": "hcl-alba--arieseni-51-2025",
+   "path": "local/alba/arieseni/2025/51",
+   "short": "HCL Arieșeni nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 51/2025",
+   "url": "https://comuna-arieseni.ro/wp-content/uploads/2025/10/HCL-51.pdf",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/10/HCL-51.pdf",
+     "sha256": "1dfe4892e6049b0bf47eb9e01134e94b643556c379046ffec45760832dc2b295"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--arieseni-52-2025",
+   "path": "local/alba/arieseni/2025/52",
+   "short": "HCL Arieșeni nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 52/2025 privind schimbarea destinației bazei materiale a imobilului C5(școală cu clasele I-VIII)) identificată în CF 70793 Arieșeni in vederea demolării clădirii încadrate în clasa de risc seismic Rs I Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 02.10.2025 Luând în dezbatere: - referatul de aprobare nr.5092 din 26.09.2025 al Primarului comunei Arieșeni; - rap",
+   "url": "https://comuna-arieseni.ro/wp-content/uploads/2025/10/HCL-52.pdf",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/10/HCL-52.pdf",
+     "sha256": "70aa3e288801917705ea95c4e8556a5792357f5533063c49379885c845fc84ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--arieseni-53-2025",
+   "path": "local/alba/arieseni/2025/53",
+   "short": "HCL Arieșeni nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 53/2025",
+   "url": "https://comuna-arieseni.ro/wp-content/uploads/2025/11/HCL-53.pdf",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/11/HCL-53.pdf",
+     "sha256": "5abbeafc7bdefdc9c3f87d85f030aa29f86718a3e7d990114889711538b6ffd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--arieseni-54-2025",
+   "path": "local/alba/arieseni/2025/54",
+   "short": "HCL Arieșeni nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 54/2025 privind modificarea statului „ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ GESTIONAREA ȘI PROTECȚIA ANIMALELOR ALBA” Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică extraordinară în 31.10.2025 Luând în dezbatere: - referatul de aprobare nr. 5587/27.10.2025 a proiectului de hotărâre privind modificarea statului „ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ GESTIONAREA ȘI PROT",
+   "url": "https://comuna-arieseni.ro/wp-content/uploads/2025/11/HCL-54.pdf",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/11/HCL-54.pdf",
+     "sha256": "4c33e174699b21229b183f164d330d172ea4fa05e79656cf290eb6c596a167ae"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--arieseni-55-2025",
    "path": "local/alba/arieseni/2025/55",
    "short": "HCL Arieșeni nr. 55/2025",
@@ -48,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--arieseni-56-2025",
+   "path": "local/alba/arieseni/2025/56",
+   "short": "HCL Arieșeni nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 56/2025 privind alegerea președintelui de ședință care va conduce lucrările Consiliului Local al comunei Arieșeni în lunile decembrie 2025, ianuarie și februarie 2026 Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 15.12.2025 Luând în dezbatere: - referatul de aprobare întocmit de către Primarul comunei Arieșeni, înregistrat sub nr. din 6404 /05.12.2025. - raport",
+   "url": "https://comuna-arieseni.ro/wp-content/uploads/2025/12/HCL-56.pdf",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/12/HCL-56.pdf",
+     "sha256": "e4565e144715ca6a3d179696ee74f64a900bc3f3dbe7a4ca48e749400593ae05"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--arieseni-59-2025",
    "path": "local/alba/arieseni/2025/59",
    "short": "HCL Arieșeni nr. 59/2025",
@@ -59,6 +209,21 @@
      "units": 1,
      "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/12/HCL-59-1.pdf",
      "sha256": "a0c8242b8a4c4f70279f99921772a41ba1a66bac356c0392fa513613e2696d24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--arieseni-60-2025",
+   "path": "local/alba/arieseni/2025/60",
+   "short": "HCL Arieșeni nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 60/2025 privind stabilirea datelor de desfășurare a târgurilor de țara pe anul 2026 în comuna Arieșeni, județul Alba Consiliul local al comunei Arieșeni, județul Alba, întrunit în ședință publică ordinară în 15.12.2025 • Proiectul de hotărâre nr. 59/2025 privind stabilirea datelor de desfășurare a târgurilor de țara pe anul 2026 • în comuna Arieșeni, județul Alba • referatul de aprobare nr.6385/4.12.2025",
+   "url": "https://comuna-arieseni.ro/wp-content/uploads/2025/12/HCL-60.pdf",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/12/HCL-60.pdf",
+     "sha256": "238bcfbd44cca0b945e3cd9d34727d95ee11aa6ca2765eda82ca26b4a1da7c9d"
     }
    ]
   },

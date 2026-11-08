@@ -3,6 +3,141 @@
  "shard": "local/alba/pianu/2024",
  "acts": [
   {
+   "slug": "hcl-alba--pianu-12-2024",
+   "path": "local/alba/pianu/2024/12",
+   "short": "HCL Pianu nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 12/2024 privind Aprobarea Bugetului Local, a Bugetului de Venituri Proprii pe anul 2024; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__12_din_21_02_2024___privind_aprobarea_bugetului_local__a_bugetului_de_venituri_proprii_pe_anul_2024__2024_1266743.pdf",
+     "sha256": "6cc175386456b8ce2972bbc41d815c4b703941aa4316580af78e76b468a67052"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-13-2024",
+   "path": "local/alba/pianu/2024/13",
+   "short": "HCL Pianu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 13/2024 privind Aprobare parcelare înscrisă în CF nr. 77738; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__13_din_21_02_2024___privind_aprobare_parcelare_inscrisa_in_cf_nr__77738__2024_5398182.pdf",
+     "sha256": "71fc981bc1f5734fdd74d7f518850d7b1e5527a663a60e6e243d37899c6a5bd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-14-2024",
+   "path": "local/alba/pianu/2024/14",
+   "short": "HCL Pianu nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 14/2024 privind aprobarea ordinii de zi a Consiliului Local al Comunei Pianu în ședința extraordinară din luna martie 2024; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__14_din_21_03_2024___privind_aprobarea_ordinii_de_zi_a_consiliului_local_al_comunei_pianu_in_sedinta_extraordinara_din_luna_martie_2024__2024_4038434.pdf",
+     "sha256": "659e2880c1337e9d9ffd001a0177aa18873419f657752f0b91f6bea4a876e1f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-15-2024",
+   "path": "local/alba/pianu/2024/15",
+   "short": "HCL Pianu nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 15/2024 privind Aprobarea modificării și completării Inventarului bunurilor care aparțin domeniului public al comunei Pianu; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__15_din_21_03_2024___privind_aprobarea_modificarii_si_completarii_inventarului_bunurilor_care_apartin_domeniului_public_al_comunei_pianu__2024_4713910.pdf",
+     "sha256": "7846af0f54adf217d2753d6faf572f2ab163182b2ba5cab523058956bca6c4cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-16-2024",
+   "path": "local/alba/pianu/2024/16",
+   "short": "HCL Pianu nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 16/2024 privind Aprobarea volumului de masa lemnoasă care se recoltează din fondul forestier proprietate a comunei Pianu; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__16_din_21_03_2024___privind_aprobarea_volumului_de_masa_lemnoasa_care_se_recolteaza_din_fondul_forestier_proprietate_a_comunei_pianu__2024_7935255.pdf",
+     "sha256": "bdb7a384b31b903c729e53eaab91a559862189dffe1e3442f6b09bf6860129f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-17-2024",
+   "path": "local/alba/pianu/2024/17",
+   "short": "HCL Pianu nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 17/2024 pentru înregistrarea, evidența și radierea vehiculelor de pe raza comunei Pianu; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/anexa_la_hcl_nr__17_din_21_03_2024___regulamentul_pentru_inregistrarea__evidenta_si_radierea_vehiculelor_de_pe_raza_comunei_pianu__2024_4681688.pdf",
+     "sha256": "fb769fa0dc81e113463bbb4eff4490d620457cbe6eab76f53ea0fd2c1d9cb15f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-18-2024",
+   "path": "local/alba/pianu/2024/18",
+   "short": "HCL Pianu nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 18/2024 privind aprobarea ordinii de zi a Consiliului Local al Comunei Pianu în ședința de îndată, din luna aprilie 2024; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-04-21",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__18_din_21_04_2024___anexa___privind_aprobarea_ordinii_de_zi_a_consiliului_local_al_comunei_pianu_in_sedinta_de_indata__din_luna_aprilie_2024__2024_9102558.pdf",
+     "sha256": "e211b2f0aa0a8bcd914ebd45e9e5b57e1e6018be1911b7e6437390d4d993513e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-19-2024",
+   "path": "local/alba/pianu/2024/19",
+   "short": "HCL Pianu nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 19/2024 privind Aprobarea participării în cadrul programului cu investiția „ Înființare sistem de alimentare cu apă si evacuare ape uzate menajere în localitatea Str 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-04-21",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__19_din_21_04_2024___privind_aprobarea_participarii_in_cadrul_programului_cu_investitia____infiintare_sistem_de_alimentare_cu_apa_si_evacuare_ape_uzate_menajere_in_localitatea_strungari__comuna_pianu__judetul_alba_2024_6210145.pdf",
+     "sha256": "99c75a71b57189db98e842f1d4bd09bf34515b8205bcacf02f109752bba17dd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-20-2024",
+   "path": "local/alba/pianu/2024/20",
+   "short": "HCL Pianu nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 20/2024 privind aprobarea ordinii de zi a Consiliului Local al Comunei Pianu în ședința extraordinară din luna aprilie 2024; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__20_din_15_04_2024___privind_aprobarea_ordinii_de_zi_a_consiliului_local_al_comunei_pianu_in_sedinta_extraordinara_din_luna_aprilie_2024__2024_2933222.pdf",
+     "sha256": "5ecc8508a2adffe8497c74deff7cf4a4b274ad156dd8431231a72328579a8946"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--pianu-21-2024",
    "path": "local/alba/pianu/2024/21",
    "short": "HCL Pianu nr. 21/2024",
@@ -14,6 +149,396 @@
      "units": 1,
      "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__21_din_15_04_2024___privind_aprobarea_indexarii_taxelor_si_impozitelor_locale_pentru_anul_2025_cu_indicele_de_inflatie__2024_4231313.pdf",
      "sha256": "3520a005019ed2ad90e0c2ab7d2f22f0314c92d999b81774e9aa5ff09c51c600"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-22-2024",
+   "path": "local/alba/pianu/2024/22",
+   "short": "HCL Pianu nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 22/2024 pentru finanțarea cultelor; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__22_din_15_04_2024___aprobarea_alocarii_unor_sume_de_bani_din_bugetul_local_pentru_finantarea_cultelor__2024_9807770.pdf",
+     "sha256": "36a8b02be59baecbce6da505e6c6a89cdf272b68aa738aaf3c4fc6f35920dd15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-24-2024",
+   "path": "local/alba/pianu/2024/24",
+   "short": "HCL Pianu nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 24/2024 privind Aprobarea documentației cadastrale de primă înscriere a străzilor din sat Strungari, comuna Pianu; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__24_din_15_04_2024___privind_aprobarea_documentatiei_cadastrale_de_prima_inscriere_a_strazilor_din_sat_strungari__comuna_pianu__2024_3563299.pdf",
+     "sha256": "f864f373b4e463e7073f5ded79190a551f46ff1cde57c0308db4ab4ab74fc424"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-25-2024",
+   "path": "local/alba/pianu/2024/25",
+   "short": "HCL Pianu nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 25/2024 privind Aprobarea acceptării ofertei de donație pentru drum în suprafață de 435 mp, înscris în CF nr 73125; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__25_din_15_04_2024___privind_aprobarea_acceptarii_ofertei_de_donatie_pentru_drum_in_suprafata_de_435_mp__inscris_in_cf_nr_73125__2024_1936757.pdf",
+     "sha256": "c6354a0fade6ad2dae3ad31a2c509eb2aeb33d534263dfd13aa668b3e775e013"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-26-2024",
+   "path": "local/alba/pianu/2024/26",
+   "short": "HCL Pianu nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 26/2024 privind Aprobarea Organigramei și a Statului de funcții a comunei Pianu; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__26_din_15_04_2024__anexe___privind_aprobarea_organigramei_si_a_statului_de_functii_a_comunei_pianu__2024_5747269.pdf",
+     "sha256": "a2125342bf3be4c5c6a77d40583a1dc56073d7945d0ab4ceb22c094aaf5df1f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-27-2024",
+   "path": "local/alba/pianu/2024/27",
+   "short": "HCL Pianu nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 27/2024 privind Aprobarea ordinii de zi a Consiliului Local al Comunei Pianu în ședința extraordinară – de îndată din luna Mai 2024; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__27_din_31_05_2024__anexa___privind_aprobarea_ordinii_de_zi_a_consiliului_local_al_comunei_pianu_in_sedinta_extraordinara___de_indata_din_luna_mai_2024__2024_9616773.pdf",
+     "sha256": "09e8d5322bcbf73e354ab3c0073b2a796256b2abcb2da5f1f8e4c998d809da75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-28-2024",
+   "path": "local/alba/pianu/2024/28",
+   "short": "HCL Pianu nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 28/2024 privind Aprobarea încheierii de acte adiționale la contractele de închiriere a pășunatului 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__28_din_31_05_2024___privind_aprobarea_incheierii_de_acte_aditionale_la_contractele_de_inchiriere_a_pasunatului_2024_4176450.pdf",
+     "sha256": "d3facba81ccec97e3a1a77f9c8f410653045f3fa597c585253a468cadce63f43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-29-2024",
+   "path": "local/alba/pianu/2024/29",
+   "short": "HCL Pianu nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 29/2024 privind Aprobarea unei documentații cadastrale de primă înscriere a străzilor de pe raza comunei pianu; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__29_din_31_05_2024___privind_aprobarea_unei_documentatii_cadastrale_de_prima_inscriere_a_strazilor_de_pe_raza_comunei_pianu__2024_6463197.pdf",
+     "sha256": "2e1f13493635509d5ab6d411aea0bda07c89cbdc221701cc6243c51ab77d287d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-31-2024",
+   "path": "local/alba/pianu/2024/31",
+   "short": "HCL Pianu nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 31/2024 privind desemnarea președintelui de ședință pentru următoarele 3 luni – Iunie, Iulie, August 2024; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__31_din_27_06_2024___privind_desemnarea_presedintelui_de_sedinta_pentru_urmatoarele_3_luni___iunie__iulie__august_2024__2024_6701698.pdf",
+     "sha256": "7a03af78c9a94f30f47dc4579db7a9554af4ac8a4933eb4a441eac123d1f013a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-32-2024",
+   "path": "local/alba/pianu/2024/32",
+   "short": "HCL Pianu nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 32/2024 privind aprobarea ordinii de zi a Consiliului Local al Comunei Pianu în ședința ordinară din luna Iunie 2024; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__32_din_27_06_2024__privind_aprobarea_ordinii_de_zi_a_consiliului_local_al_comunei_pianu_in_sedinta_ordinara_din_luna_iunie_2024__2024_3118265.pdf",
+     "sha256": "2f53009c646bbcf4f4a11a50474c034b9bb98ccba0eb0957b3475ddedb257b21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-33-2024",
+   "path": "local/alba/pianu/2024/33",
+   "short": "HCL Pianu nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 33/2024 privind Acordare mandat special domnului primar, în Adunarea Generală a Asociației „Apa Alba”; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__33_din_27_06_2024___privind_acordare_mandat_special_domnului_primar__in_adunarea_generala_a_asociatiei___apa_alba___2024_9668477.pdf",
+     "sha256": "5fb00ec813a7510f81798f685424da2589ffda9cc9d862f66644970395772a2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-34-2024",
+   "path": "local/alba/pianu/2024/34",
+   "short": "HCL Pianu nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 34/2024 privind Aprobarea trecerii unor imobile din domeniul public al Comunei Pianu, în domeniul public al județului Alba; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__34_din_27_06_2024__privind_aprobarea_trecerii_unor_imobile_din_domeniul_public_al_comunei_pianu__in_domeniul_public_al_judetului_alba__2024_7172032.pdf",
+     "sha256": "5ae7c98562cb5376798740532018dfd2c518f9f16638933babe22b7a159d920f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-35-2024",
+   "path": "local/alba/pianu/2024/35",
+   "short": "HCL Pianu nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 35/2024 privind Aprobare propunere de atribuire teren prin ordinul prefectului; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__35_din_27_06_2024___privind_aprobare_propunere_de_atribuire_teren_prin_ordinul_prefectului__2024_2721707.pdf",
+     "sha256": "cdd69c5f1cba673c898d017ca050fb4552736ae618fa562d8b469991b09c2a7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-36-2024",
+   "path": "local/alba/pianu/2024/36",
+   "short": "HCL Pianu nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 36/2024 privind Aprobarea rectificare bugetară; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__36_din_27_06_2024_anexa___privind_aprobarea_rectificare_bugetara__2024_5063389.pdf",
+     "sha256": "03619a584f02eea36c26655384d874c37ff360ff64ef8273b0acd9dc6aea16b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-37-2024",
+   "path": "local/alba/pianu/2024/37",
+   "short": "HCL Pianu nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 37/2024 privind Aprobarea acord administrator domeniul public CF 77738 si 78194, Pianu; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__37_din_27_06_2024___privind_aprobarea_acord_administrator_domeniul_public_cf_77738_si_78194__pianu__2024_4168554.pdf",
+     "sha256": "5430c88816bc93e4eb8eab228c80fe9b23dbc6621152e06ec28b1b6be8f04c08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-38-2024",
+   "path": "local/alba/pianu/2024/38",
+   "short": "HCL Pianu nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 38/2024 privind desemnarea președintelui de ședință pentru luna Iulie 2024; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__38_din_25_07_2024____privind_desemnarea_presedintelui_de_sedinta_pentru_luna_iulie_2024__2024_6114596.pdf",
+     "sha256": "12f11cbfa5422f22ff43ce4b46124eeae20d5a1f5e0debd606bb5a3ba4e78bb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-39-2024",
+   "path": "local/alba/pianu/2024/39",
+   "short": "HCL Pianu nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 39/2024 privind aprobarea ordinii de zi a Consiliului Local al Comunei Pianu în ședința ordinară din luna Iulie 2024; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__39_din_25_07_2024__anexa___privind_aprobarea_ordinii_de_zi_a_consiliului_local_al_comunei_pianu_in_sedinta_ordinara_din_luna_iulie_2024__2024_6866636.pdf",
+     "sha256": "6fbdcb363873e1f415c8c3cbc8a5d68235e820e111ba7003ee00edc50da1b7fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-40-2024",
+   "path": "local/alba/pianu/2024/40",
+   "short": "HCL Pianu nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 40/2024 privind Asocierea dintre Comuna Pianu, prin Consiliul local al Comunei Pianu, Comuna Daia Română, prin Consiliul local al Comunei Daia Română, Comuna V 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__40_din_25_07_2024_anexa___privind_asocierea_dintre_comuna_pianu__prin_consiliul_local_al_comunei_pianu__comuna_daia_romana__prin_consiliul_local_al_comunei_daia_romana__comuna_v_2024_229.pdf",
+     "sha256": "0c4c210a8bd2bc256dc513578caff6d0759e8dedf9195de44c0c8b6ec9d59fa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-42-2024",
+   "path": "local/alba/pianu/2024/42",
+   "short": "HCL Pianu nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 42/2024 privind aprobarea ordinii de zi a Consiliului Local al Comunei Pianu în ședința extraordinară, din 01 August 2024; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__42_din_01_08_2024__privind_aprobarea_ordinii_de_zi_a_consiliului_local_al_comunei_pianu_in_sedinta_extraordinara__din_01_august_2024__2024_4065249.pdf",
+     "sha256": "18a3e5ab9f8345013b602da60bb39c936e36c32db2e7ff084c40288c3eb44acf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-45-2024",
+   "path": "local/alba/pianu/2024/45",
+   "short": "HCL Pianu nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 45/2024 privind aprobarea ordinii de zi a Consiliului Local al Comunei Pianu în ședința ordinară, din 12 Septembrie 2024 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__45_din_12_09_2024_cu_anexa___privind_aprobarea_ordinii_de_zi_a_consiliului_local_al_comunei_pianu_in_sedinta_ordinara__din_12_septembrie_2024_2024_1945514.pdf",
+     "sha256": "7b502a126d9fc15cee02de967cc51fac21b1e7fbd3fe07baa04bcbff9fa81c69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-46-2024",
+   "path": "local/alba/pianu/2024/46",
+   "short": "HCL Pianu nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 46/2024 privind aprobarea Modificării și actualizării componenței Serviciului Voluntar Pentru Situații de Urgență Pianu; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__46_din_12_09_2024_cu_anexe___privind_aprobarea_modificarii_si_actualizarii_componentei_serviciului_voluntar_pentru_situatii_de_urgenta_pianu__2024_5084716.pdf",
+     "sha256": "34f130b3218870d2a675d7f41c8adfa7c4caf724df8533cafc21715659b313df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-47-2024",
+   "path": "local/alba/pianu/2024/47",
+   "short": "HCL Pianu nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 47/2024 privind aprobare rectificare bugetară 2024; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__47_din_12_09_2024___privind_aprobare_rectificare_bugetara_2024__2024_3925787.pdf",
+     "sha256": "45a6634cfc8ac01e56ebecba4edc708afd254b3f36ef170ca6989ab9b595999e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-48-2024",
+   "path": "local/alba/pianu/2024/48",
+   "short": "HCL Pianu nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 48/2024 privind Modificarea și completarea Inventarului bunurilor care aparțin domeniului public al comunei Pianu; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__48_din_12_09_2024_cu_anexa___privind_modificarea_si_completarea_inventarului_bunurilor_care_apartin_domeniului_public_al_comunei_pianu__2024_2157604.pdf",
+     "sha256": "6eb18abe67ca26f04a6b3fa470e72dccb26c4fe8722b93edab74b2471996013d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-49-2024",
+   "path": "local/alba/pianu/2024/49",
+   "short": "HCL Pianu nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 49/2024 privind aprobarea ordinii de zi a Consiliului Local al Comunei Pianu în ședința extraordinară, din 17 Septembrie 2024 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__49_din_17_09_2024_cu_anexa___privind_aprobarea_ordinii_de_zi_a_consiliului_local_al_comunei_pianu_in_sedinta_extraordinara__din_17_septembrie_2024_2024_7584423.pdf",
+     "sha256": "ab4ef0c8d302c47126c7bc938f04fbd5d99a7f4fc893892b30d6da88a4b5d383"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-51-2024",
+   "path": "local/alba/pianu/2024/51",
+   "short": "HCL Pianu nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 51/2024 privind desemnarea președintelui de ședință pentru luna octombrie 2024; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__51_din_08_10_2024___privind_desemnarea_presedintelui_de_sedinta_pentru_luna_octombrie_2024__2024_1601245.pdf",
+     "sha256": "251556d0a6a54d67c734d6cdf30857de9ce796e83e8b2e9a4100c0d4e2cf2dbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-52-2024",
+   "path": "local/alba/pianu/2024/52",
+   "short": "HCL Pianu nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 52/2024 privind aprobarea ordinii de zi a Consiliului Local al Comunei Pianu în ședința ordinară, din 08 octombrie 2024; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__52_din_08_10_2024_anexa___privind_aprobarea_ordinii_de_zi_a_consiliului_local_al_comunei_pianu_in_sedinta_ordinara__din_08_octombrie_2024__2024_2128484.pdf",
+     "sha256": "f38431c97fa3d96761ac5eec8a5f9720e21b7f4757b6c82e8043c3ee04811fe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-53-2024",
+   "path": "local/alba/pianu/2024/53",
+   "short": "HCL Pianu nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 53/2024 privind aderarea Comunei Pianu la Asociația FLAG din Bazinul Mureșului, Secașelor și a Afluenților Acestora. 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__53_din_08_10_2024_anexa___privind_aderarea_comunei_pianu_la_asociatia_flag_din_bazinul_muresului__secaselor_si_a_afluentilor_acestora__2024_9988548.pdf",
+     "sha256": "5f634173da69b66a5e06b67c0adb7b00582387dfa0712e4ccf83cacd363e93f9"
     }
    ]
   }

@@ -3,6 +3,116 @@
 "shard": "local/alba/mihalt/2021",
 "acts": [
 {
+"slug": "hcl-alba--mihalt-44-2021",
+"path": "local/alba/mihalt/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 44/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Mihalț și",
+"short": "HCL Mihalț nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-28",
+"latest": "2021-09-28",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--mihalt-50-2021",
+"path": "local/alba/mihalt/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 50/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Mihalț și aprobarea Programului",
+"short": "HCL Mihalț nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-14",
+"latest": "2021-10-14",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--mihalt-52-2021",
+"path": "local/alba/mihalt/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 52/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Mihalț și aprobarea Programului anual",
+"short": "HCL Mihalț nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--mihalt-53-2021",
+"path": "local/alba/mihalt/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 53/2021 privind aprobarea execuției bugetului local al comunei Mihalț",
+"short": "HCL Mihalț nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--mihalt-56-2021",
+"path": "local/alba/mihalt/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 56/2021 privind aprobarea decontării cheltuielilor cu naveta cadrelor didactice pe luna septembrie",
+"short": "HCL Mihalț nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-28",
+"latest": "2021-09-28",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-alba--mihalt-57-2021",
 "path": "local/alba/mihalt/2021/57",
 "kind": "local",
@@ -22,6 +132,182 @@
 "council_name": "Consiliul Local al Comunei Mihalț",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--mihalt-58-2021",
+"path": "local/alba/mihalt/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 58/2021 privind aprobarea decontării cheltuielilor cu naveta cadrelor didactice pe luna octombrie",
+"short": "HCL Mihalț nr. 58/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-30",
+"latest": "2021-11-30",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--mihalt-60-2021",
+"path": "local/alba/mihalt/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 60/2021 privind alegerea președintelui de ședință al Consiliului Local al Comunei Mihalț pentru ședințele din lunile decembri",
+"short": "HCL Mihalț nr. 60/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-30",
+"latest": "2021-11-30",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--mihalt-62-2021",
+"path": "local/alba/mihalt/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 62/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli",
+"short": "HCL Mihalț nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-30",
+"latest": "2021-11-30",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--mihalt-63-2021",
+"path": "local/alba/mihalt/2021/63",
+"kind": "local",
+"year": "2021",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 63/2021 privind aprobarea execuției bugetului local al comunei Mihalț",
+"short": "HCL Mihalț nr. 63/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--mihalt-64-2021",
+"path": "local/alba/mihalt/2021/64",
+"kind": "local",
+"year": "2021",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 64/2021 privind aprobarea decontării cheltuielilor cu naveta cadrelor didactice pe luna noiembrie 2021",
+"short": "HCL Mihalț nr. 64/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--mihalt-65-2021",
+"path": "local/alba/mihalt/2021/65",
+"kind": "local",
+"year": "2021",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 65/2021 privind aprobarea cuantumului cotizației datorate Asociației de Dezvoltare Intercomunitară SALUBRIS Alba pent",
+"short": "HCL Mihalț nr. 65/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--mihalt-67-2021",
+"path": "local/alba/mihalt/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 67/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Mihalț și aprobarea Programului anual",
+"short": "HCL Mihalț nr. 67/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--mihalt-70-2021",
+"path": "local/alba/mihalt/2021/70",
+"kind": "local",
+"year": "2021",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 70/2021 privind repartizare sume prevăzute în bugetul local al comunei Mihalț pe anul 2021, pentru acordare sprijin",
+"short": "HCL Mihalț nr. 70/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+"council": "alba/mihalt",
+"council_name": "Consiliul Local al Comunei Mihalț",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

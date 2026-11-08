@@ -23,6 +23,28 @@
 "flags": {
 "text_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-arad--archis-1321-2021",
+"path": "local/arad/archis/2021/1321",
+"kind": "local",
+"year": "2021",
+"number": "1321",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Archiș nr. 1321/2021",
+"short": "HCL Archiș nr. 1321/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-27",
+"latest": "2021-08-27",
+"portal": "https://archis-arad.ro/page/10/",
+"council": "arad/archis",
+"council_name": "Consiliul Local al Comunei Archiș",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

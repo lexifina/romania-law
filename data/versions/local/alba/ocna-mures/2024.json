@@ -3,6 +3,126 @@
  "shard": "local/alba/ocna-mures/2024",
  "acts": [
   {
+   "slug": "hcl-alba--ocna-mures-253-2024",
+   "path": "local/alba/ocna-mures/2024/253",
+   "short": "HCL Ocna Mureș nr. 253/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 253/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2025/01/HCL-253-mandatare-primar.pdf",
+     "sha256": "11b57fd0a115b44dcb46d1d1482f0b70fc3eb964155f9700d8832c2156c466a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-254-2024",
+   "path": "local/alba/ocna-mures/2024/254",
+   "short": "HCL Ocna Mureș nr. 254/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 254/2024 privind aprobarea Contului trimestrial de execuție la data de 30.09.2024 al bugetului local al UAT orașul Ocna Mureș conform anexelor nr.1 și nr. 2, pentru activitatea desfășurată de Unitatea Medico- Socială conform anexei nr. 3, pentru activitatea desfășurată de Clubul Sportiv Ocna Mureș conform anexei nr. 4 CONSILIUL LOCAL AL ORAȘULUI OCNA MUREȘ, întrunit în ședința ordinară publică, la data de",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2025/01/HCL-254-cont-trim-de-executie-la-30.09.2024.pdf",
+     "sha256": "586034309b8e8d67a6b969abeb525141a5a6d55a88dcf40e2af7bc6e56568602"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-255-2024",
+   "path": "local/alba/ocna-mures/2024/255",
+   "short": "HCL Ocna Mureș nr. 255/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 255/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+     "sha256": "2fd1c7a56a7414696b729f00b1d4b54213f2161cd4d23536c1883dbf6b4be416"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-256-2024",
+   "path": "local/alba/ocna-mures/2024/256",
+   "short": "HCL Ocna Mureș nr. 256/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 256/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2025/01/HCL-256.pdf",
+     "sha256": "7c2f8f97df9d3b2670eed68b49a15b8f999beacff11de43e6de038c9141a7324"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-257-2024",
+   "path": "local/alba/ocna-mures/2024/257",
+   "short": "HCL Ocna Mureș nr. 257/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 257/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2025/01/HCL-257.pdf",
+     "sha256": "a8abc2c48e7b70dbc4eb69d8d6d68548db87d4e7ba5c2dad5d6069a001425b66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-258-2024",
+   "path": "local/alba/ocna-mures/2024/258",
+   "short": "HCL Ocna Mureș nr. 258/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 258/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2025/01/HCL-258.pdf",
+     "sha256": "3287e0f4b9c70dca4ad946ed1d5f8225928380da25cd510f39188d7fcd83c7f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-259-2024",
+   "path": "local/alba/ocna-mures/2024/259",
+   "short": "HCL Ocna Mureș nr. 259/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 259/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+     "sha256": "a0ebe58fc07971579b9bd3d5b54ae9e201af5227077d7cf8cfdb962ab154b9eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-260-2024",
+   "path": "local/alba/ocna-mures/2024/260",
+   "short": "HCL Ocna Mureș nr. 260/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 260/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2025/01/HCL-260.pdf",
+     "sha256": "f649097cdae1af3ea25ce32b28d12037910bdf4912acf2892dca3117f9732772"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-261-2024",
    "path": "local/alba/ocna-mures/2024/261",
    "short": "HCL Ocna Mureș nr. 261/2024",
@@ -14,6 +134,66 @@
      "units": 1,
      "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2025/01/HCL-261-impozite-si-taxe-locale-20251.pdf",
      "sha256": "ac516e9c61a3d0ec19c2b0ffb3ec8e6ff04eb19f43d341b2831be2fed9f18536"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-262-2024",
+   "path": "local/alba/ocna-mures/2024/262",
+   "short": "HCL Ocna Mureș nr. 262/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 262/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2025/01/HCL-262.pdf",
+     "sha256": "6e3b211679f0f06e39f9ee33a12cdf345094f36b621cde2f146c270324c2c909"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-263-2024",
+   "path": "local/alba/ocna-mures/2024/263",
+   "short": "HCL Ocna Mureș nr. 263/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 263/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2025/01/HCL-263-decont-naveta.pdf",
+     "sha256": "6170db6d0ceb1ddb29ad4cd0812efc30bcb7393fc79cb95b7b9fdf360fdc57b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-264-2024",
+   "path": "local/alba/ocna-mures/2024/264",
+   "short": "HCL Ocna Mureș nr. 264/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 264/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2025/01/HCL-264.pdf",
+     "sha256": "4d0f997c5fefccb074dcd119c3104d576bf765b6a0fa1e85891f702b1ba5ed6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-267-2024",
+   "path": "local/alba/ocna-mures/2024/267",
+   "short": "HCL Ocna Mureș nr. 267/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 267/2024",
+   "url": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaocnamures.ro/wp-content/uploads/2025/01/HCL-267.pdf",
+     "sha256": "a66aac687de9ebc725ad7d8c034e4e7bcf8b250d4b07c5b648f2fd92009b4335"
     }
    ]
   }

@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-10-2017",
+   "path": "local/alba/ocna-mures/2017/10",
+   "short": "HCL Ocna Mureș nr. 10/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 10/2017 privind aprobarea Contului Trimestrial de Execuție pentru anul 2016 pentru actvitatea desfășurată în cadrul instituției oraș Ocna Mureș, pentru Clubul Sportiv Ocna Mureș și pentru Unitatea Medico-Socială din orașul Ocna Mureș | 04.03.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/010.pdf",
+     "sha256": "b1cf5348cf160ac99bb3ef2486e23fc80e6db71cac8b8b6b3949811f3b0647cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-100-2017",
+   "path": "local/alba/ocna-mures/2017/100",
+   "short": "HCL Ocna Mureș nr. 100/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 100/2017 privind clarificarea situației juridice și închirierea, prin licitație publică, a terenului situat la adresa din Ocna Mureș, str. 9 Mai, nr.3, jud. Alba, înscris în CF 73314 Ocna Mureș, cu nr. cad. 73314, nr top 1752/3/6, în suprafață de 7,00 mp | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/100.pdf",
+     "sha256": "62add8eac7fec06df4166c3458184958a1a95f156d1f3fafaa330a27b267aca3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-101-2017",
+   "path": "local/alba/ocna-mures/2017/101",
+   "short": "HCL Ocna Mureș nr. 101/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 101/2017 privind aprobarea formei finale a criteriilor de acces la locuinţă şi criteriile de ierarhizare stabilite prin punctaj, din cadrul Criteriilor pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe şi în repartizarea locuinţelor pentru tineri, destinate închirierii, construite de Agenţia Naţională pentru Locuinţe | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/101.pdf",
+     "sha256": "6f3ff86b0b90354914ae024cd846a9a33b917e709c1ca27b344e134d614480ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-102-2017",
+   "path": "local/alba/ocna-mures/2017/102",
+   "short": "HCL Ocna Mureș nr. 102/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 102/2017 privind îndreptarea erorii materiale din cuprinsul HCLOM nr 76/20.04.2017, respectiv anexa 3, obiect 1 Domeniul public al orașului Ocna Mureș-Rețele de canalizare-reabilitare, pct.12 Ocna Mureș, Aleea Independenței, coloana 5, Descrierea lucrării | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/102.pdf",
+     "sha256": "8ec703d58c024780330a3210f200509e21049b9edfe6a3f51feb613bca27ad07"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-103-2017",
    "path": "local/alba/ocna-mures/2017/103",
    "short": "HCL Ocna Mureș nr. 103/2017",
@@ -29,6 +89,66 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/103.pdf",
      "sha256": "e228446d410afb120bb7c5411b1eb4a9754d1663d4d336062ffa6591e0a177a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-104-2017",
+   "path": "local/alba/ocna-mures/2017/104",
+   "short": "HCL Ocna Mureș nr. 104/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 104/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/104.pdf",
+     "sha256": "e15d8b5a3a5487f0b867e386769f8239c4b92a8b1c8a77941b6500f4c9bbbcff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-105-2017",
+   "path": "local/alba/ocna-mures/2017/105",
+   "short": "HCL Ocna Mureș nr. 105/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 105/2017 pentru realizarea proiectelor de amenajamente pastorale ale pajiștilor permanente situate pe raza administrativ-teritorială a orașului Ocna Mureș | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/105.pdf",
+     "sha256": "f6b7f2b0219fc9b1e4b1361e50232f605974c337a44872c5234fb2aa02f7ed32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-106-2017",
+   "path": "local/alba/ocna-mures/2017/106",
+   "short": "HCL Ocna Mureș nr. 106/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 106/2017 pentru modificarea anexei nr 2 a HCLOM nr 51 din 21.03.2017 privind achizițiile directe la programul anual al achizițiilor publice pentru anul 2017 finanţate din bugetul local | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/106.pdf",
+     "sha256": "b97bac401225ba20ccb662b03fec37fd459180ceca9f310c79a243b80d0b0f48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-107-2017",
+   "path": "local/alba/ocna-mures/2017/107",
+   "short": "HCL Ocna Mureș nr. 107/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 107/2017 privind clarificarea situației juridice a concesiunii terenului în suprafață de 250 mp, situat în Ocna Mureș, str. Narciselor, nr.6, înscris în CF 74686-Ocna Mureș (CF vechi 3213) | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/107.pdf",
+     "sha256": "661bbd34a56877122ab5cffc2794e4d57b5a733bb90c96b01d7b42424232fb54"
     }
    ]
   },
@@ -48,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-11-2017",
+   "path": "local/alba/ocna-mures/2017/11",
+   "short": "HCL Ocna Mureș nr. 11/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 11/2017 privind aprobarea ,,Planului de lucrări de interes local”care vor fi executate în anul 2017 la nivelul oraşului Ocna Mureş de către beneficiarii Legii nr. 416/2001 şi de către cei care prestează muncă neremunerată în folosul comunităţii prevăzuţi de Legea nr. 252/2013 privind organizarea şi funcţionarea sistemului de probaţiune | 04.03.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/011.pdf",
+     "sha256": "9acde72c8bf1b4c082db59728be8764d926219e74638b35317c56060d590c3dd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-110-2017",
    "path": "local/alba/ocna-mures/2017/110",
    "short": "HCL Ocna Mureș nr. 110/2017",
@@ -59,6 +194,126 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/110.pdf",
      "sha256": "7ef7956611dfb9fa344585689c5a5d7987a1ce97f1d6df82176d563de16be6e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-111-2017",
+   "path": "local/alba/ocna-mures/2017/111",
+   "short": "HCL Ocna Mureș nr. 111/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 111/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/111.pdf",
+     "sha256": "58d53b313943362b484b71c0014b1369557c784c31231f0490a37254d19c29f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-112-2017",
+   "path": "local/alba/ocna-mures/2017/112",
+   "short": "HCL Ocna Mureș nr. 112/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 112/2017 privind aprobarea vânzării, prin licitaţie publică, a imobilului proprietate privată a oraşului Ocna Mureş – teren situat în Ocna Mureş, str",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/112.pdf",
+     "sha256": "3a79221e3ae6eb4daa5281340c32b13b58d1fee618240267e732cbaef490532e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-113-2017",
+   "path": "local/alba/ocna-mures/2017/113",
+   "short": "HCL Ocna Mureș nr. 113/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 113/2017 privind aprobarea vânzării, prin licitaţie publică, a imobilului proprietate privată a oraşului Ocna Mureş – teren situat în Ocna Mureş, str",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/113.pdf",
+     "sha256": "8c8852cf2a44bbc34437bb6b90c77c48ddec8d7290f855bbb61819b8e0e1a0f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-114-2017",
+   "path": "local/alba/ocna-mures/2017/114",
+   "short": "HCL Ocna Mureș nr. 114/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 114/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/114.pdf",
+     "sha256": "a68071d543d76ff88b4da201c1ea111c3646518241ab61e553e8d2fc990e47b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-115-2017",
+   "path": "local/alba/ocna-mures/2017/115",
+   "short": "HCL Ocna Mureș nr. 115/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 115/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/115.pdf",
+     "sha256": "a11afaa37db61a2f6e72c41191a4052cc5aae92775a68b2f404823046eddb4f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-116-2017",
+   "path": "local/alba/ocna-mures/2017/116",
+   "short": "HCL Ocna Mureș nr. 116/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 116/2017 privind aprobarea noului cuantum al chiriilor aferente locuințelor realizate în regim ANL în orașul Ocna Mureș, începând cu 01.06.2017 | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/116.pdf",
+     "sha256": "3e74e359caf0b383e5abd1a4d6a07402d035dd5e560dee9a4e553b656fd20767"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-117-2017",
+   "path": "local/alba/ocna-mures/2017/117",
+   "short": "HCL Ocna Mureș nr. 117/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 117/2017 privind aprobarea atribuirii unui spațiu cu destinație de Club al Pensionarilor pentru toți vârstnicii din orașul Ocna Mureș, aprobarea unui program de activități care să fie desfășurate în cadrul Clubului Pensionarilor, conform anexei | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/117.pdf",
+     "sha256": "ad4c50df8b504e36d3e2104bdcd1a2628ed80aea2db12b15eeb5bce2c0a9a4f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-118-2017",
+   "path": "local/alba/ocna-mures/2017/118",
+   "short": "HCL Ocna Mureș nr. 118/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 118/2017 privind aprobarea relocării unor persoane care locuiesc fără titlu în construcția denumită baraca nr 4 amplasată pe terenul proprietate a UAT Ocna Mureș, situat la adresa din Ocna Mureș, str. G",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/118.pdf",
+     "sha256": "6662fdca6e460b52b66920b0b04059189bc4092f079963672d61aff4ca2c77c9"
     }
    ]
   },
@@ -78,6 +333,321 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-12-2017",
+   "path": "local/alba/ocna-mures/2017/12",
+   "short": "HCL Ocna Mureș nr. 12/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 12/2017 privind aprobarea „Strategia de eficiență energetică a UAT Ocna Mureș pentru perioada 2017-2030",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/012.pdf",
+     "sha256": "049cd35fa74b8b2ba68dd2be33c12de85d37bedcc0d745f0f1cd19c17b2d98c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-120-2017",
+   "path": "local/alba/ocna-mures/2017/120",
+   "short": "HCL Ocna Mureș nr. 120/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 120/2017 privind încetarea contractului de închiriere nr 288/09.01.2013, începând cu data de 20.07.2017, ca urmare a denunțării unilaterale de către chiriaș | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/120.pdf",
+     "sha256": "f07b3ce670456bac73034ae0e56f50066d69057550b59f3ef086e60c4567cbf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-121-2017",
+   "path": "local/alba/ocna-mures/2017/121",
+   "short": "HCL Ocna Mureș nr. 121/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 121/2017 privind parcelarea terenului din CF 79136 Ocna Mureș în doua loturi și înscrierea în domeniul public al orașului Ocna Mureș a imobilului- rezervor în suprafață construită de 238 mp, precum și a terenului aferent în suprafață de 2416 mp, având categoria de curți, construcții identificat cu lotul nr 1, cu nr top 2065/2/2/2/2/2/2/2/1 | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/121.pdf",
+     "sha256": "34b02edeca1fdd9900fa2b84238080f232769d1f486cb41c8aa8ea82269aace8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-122-2017",
+   "path": "local/alba/ocna-mures/2017/122",
+   "short": "HCL Ocna Mureș nr. 122/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 122/2017 privind trecerea din perimetrul extravilan al orașului Ocna Mureș, localitatea componentă Uioara De Sus, în intravilanul orașului Ocna Mureș a unor imobile | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/122.pdf",
+     "sha256": "b6bd58fe2319d69d9caeea572804512e62be3dfeb4328a9518685dc89ade13d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-123-2017",
+   "path": "local/alba/ocna-mures/2017/123",
+   "short": "HCL Ocna Mureș nr. 123/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 123/2017 privind alocarea sumei necesare plăţii contravalorii cheltuielilor cu naveta cadrelor didactice şi a personalului didactic auxiliar pentru luna mai 2017 | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/123.pdf",
+     "sha256": "bf35368f158a5453f93dfe646ca5c68242757a49f4d334b78f9145e1651bb0c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-124-2017",
+   "path": "local/alba/ocna-mures/2017/124",
+   "short": "HCL Ocna Mureș nr. 124/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 124/2017 privind aprobarea Contului Trimestrial de Execuţie al Bugetului Local al oraşului Ocna Mureş la data de 31.03.2017, conform anexelor nr. 1 și 2. | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/124.pdf",
+     "sha256": "b085196d7f9d69a7f03c7883850e4305691ae3b013da764cd27ccbc7803aa220"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-125-2017",
+   "path": "local/alba/ocna-mures/2017/125",
+   "short": "HCL Ocna Mureș nr. 125/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 125/2017 privind aprobarea contribuției la fondul IID pentru investiția pentru înlocuirea conductelor de la rețeaua de apă potabilă de pe străzile Vasile Lupu, Axente Sever , Înfrățirii și 8 Martie | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/125.pdf",
+     "sha256": "0da41518ae17027f4f5695a47567f4a8c433e74e1beff44694435a72a437b9c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-126-2017",
+   "path": "local/alba/ocna-mures/2017/126",
+   "short": "HCL Ocna Mureș nr. 126/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 126/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/126.pdf",
+     "sha256": "dfabcd7e50301b2a2beaa1709a7d1e8c487a1aee659f26c9b1ee200c5e1c0eae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-127-2017",
+   "path": "local/alba/ocna-mures/2017/127",
+   "short": "HCL Ocna Mureș nr. 127/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 127/2017 privind rectificarea de buget şi modificarea listelor de investiţii conform anexelor nr.1, 2 și 3 | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/127.pdf",
+     "sha256": "1daa85b4d5db72b4712abc409cc7876ec55acbd9c8693a78289059246f4e296b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-129-2017",
+   "path": "local/alba/ocna-mures/2017/129",
+   "short": "HCL Ocna Mureș nr. 129/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 129/2017 privind prelungirea termenelor contractelor de închiriere, cu încă un an de la data expirării, a chiriaşilor din bl 73 ANL, situat în Ocna Mureş, strada Colonia Monchim, nr. 12, înscrişi în anexca care face parte integrantă din prezenta. | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-07-11",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/129.pdf",
+     "sha256": "1d5fd3532c291d26e6ef5f8802cbade0927e00f219ecc4317d6743c755754a85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-13-2017",
+   "path": "local/alba/ocna-mures/2017/13",
+   "short": "HCL Ocna Mureș nr. 13/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 13/2017 privind modificarea HCLOM NR 96/2016, începând cu 01.02.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/013.pdf",
+     "sha256": "36f3c7de3cd29087bb41cbd5fcb8802d20855b6fe140cdf3d70669e2b24c0ad6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-132-2017",
+   "path": "local/alba/ocna-mures/2017/132",
+   "short": "HCL Ocna Mureș nr. 132/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 132/2017 privind rectificarea bugetului de venituri și cheltuieli pe anul 2017 | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/132.pdf",
+     "sha256": "aa38b201b16f46955efab1c15fe2d9eef457edbe10a48f465376306944ac61af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-135-2017",
+   "path": "local/alba/ocna-mures/2017/135",
+   "short": "HCL Ocna Mureș nr. 135/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 135/2017 privind dezlipirea imobilului înscris în CF. 78990 Ocna Mureș cu număr cadastral 78990, în două noi loturi | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/135.pdf",
+     "sha256": "3f0cb71275ed67196280508066697e277320437e51d9a398737f142cd1ff2898"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-136-2017",
+   "path": "local/alba/ocna-mures/2017/136",
+   "short": "HCL Ocna Mureș nr. 136/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 136/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/136.pdf",
+     "sha256": "8307f264924f04bc9d077dc24e1f7eb0377672ac32421c0b90749ae8a50160c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-137-2017",
+   "path": "local/alba/ocna-mures/2017/137",
+   "short": "HCL Ocna Mureș nr. 137/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 137/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/137.pdf",
+     "sha256": "c199d7e88b8c23729c495a7db734bf217da0ca2a5cd43677123665681800a077"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-138-2017",
+   "path": "local/alba/ocna-mures/2017/138",
+   "short": "HCL Ocna Mureș nr. 138/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 138/2017 privind darea în folosință gratuită a terenului situat în Cisteiu de Mureș, nr.109J, Ocna Mureș, jud. Alba, Bisericii Creștine Baptiste- Muntele Sionului | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/138.pdf",
+     "sha256": "fbc2c4c64e249e93f500ec6999ace9d9aac065190d2638985475a605d4228ed9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-14-2017",
+   "path": "local/alba/ocna-mures/2017/14",
+   "short": "HCL Ocna Mureș nr. 14/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 14/2017 privind încetarea contractului de închiriere nr. 15872 din 14.11.2012 pentru apartamentul nr. 6 din bloc 3AB-73-ANL,sc.B, situat în Ocna Mureș, str.Colonia Monchim, nr. 12, începând cu data de 12.02.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/014.pdf",
+     "sha256": "1e781e4b1c2b5e5aaaab29288edc7a8eaf0ad7b8bbc5eef0c1e9e2fe51b24d02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-140-2017",
+   "path": "local/alba/ocna-mures/2017/140",
+   "short": "HCL Ocna Mureș nr. 140/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 140/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/140.pdf",
+     "sha256": "2a0fa841514ddc4bd32a9f4e9c3c6b06fca026c6a4179ed5e3233f192f5d6187"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-141-2017",
+   "path": "local/alba/ocna-mures/2017/141",
+   "short": "HCL Ocna Mureș nr. 141/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 141/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/141.pdf",
+     "sha256": "084dfcc9de2cab1dc03f03a8be642ff40cf65a90f550eb65a3c92e070c0dfff1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-142-2017",
+   "path": "local/alba/ocna-mures/2017/142",
+   "short": "HCL Ocna Mureș nr. 142/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 142/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/142.pdf",
+     "sha256": "2018cda837f1a1360fa01b235e9eb57a09972f5c5d2de4b50f751544efa76f14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-143-2017",
+   "path": "local/alba/ocna-mures/2017/143",
+   "short": "HCL Ocna Mureș nr. 143/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 143/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/143.pdf",
+     "sha256": "10d70e424b15447345933255552a9935af1ed7db6c970eec60911e9a4c941534"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-144-2017",
    "path": "local/alba/ocna-mures/2017/144",
    "short": "HCL Ocna Mureș nr. 144/2017",
@@ -89,6 +659,381 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/144.pdf",
      "sha256": "a03bbd4f924acc27958a2292ed1276715385342e2d2e331958b0228691950e35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-145-2017",
+   "path": "local/alba/ocna-mures/2017/145",
+   "short": "HCL Ocna Mureș nr. 145/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 145/2017 privind aprobarea documentației tehnico-economice –faza DALI, aferenta obiectivului “Creşterea eficienţei energetice în clădirea Spitalului orăşenesc Ocna Mureş“ și a indicatorilor tehnicoeconomici ai proiectului conform anexei. | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/145.pdf",
+     "sha256": "4fe0d28ab34e45ffe3d79abcd3074d121ada69ea2c16ec5b0d20d961cfc0735a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-146-2017",
+   "path": "local/alba/ocna-mures/2017/146",
+   "short": "HCL Ocna Mureș nr. 146/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 146/2017 privind aprobarea documentației tehnico-economice –faza DALI, aferenta obiectivului “Creşterea eficienţei energetice în clădirea Policlinicii orașului Ocna Mureş“, a indicatorilor tehnico-economici ai proiectului conform anexei. | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/146.pdf",
+     "sha256": "d6b3958522bbcd8d9249082b5aa033113caeca889e47f5883413c003c81daee7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-147-2017",
+   "path": "local/alba/ocna-mures/2017/147",
+   "short": "HCL Ocna Mureș nr. 147/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 147/2017 privind aprobarea acordului de parteneriat pentru realizarea proiectului ,,Creşterea eficienţei energetice în clădirea Spitalului Orăşenesc Ocna Mureş” și aprobarea cofinanţării cu suma de 826.120,34 lei, de la bugetul local al UAT Ocna Mureş la cheltuielile totale ale proiectului | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/147.pdf",
+     "sha256": "e40464e45329f7b63ea440eb4a574689c1d592c99f3649b723d5a7d12722d2c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-148-2017",
+   "path": "local/alba/ocna-mures/2017/148",
+   "short": "HCL Ocna Mureș nr. 148/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 148/2017 privind rectificarea de buget pe anul 2017conform anexei nr.1 şi modificarea listelor de investiţii pe anul 2017, conform anexelor nr. 2 și 3 | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/148.pdf",
+     "sha256": "17e68e177d28988fced8c8d97c00ae12d57e9c02d61aa0a0cace4190143dd199"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-149-2017",
+   "path": "local/alba/ocna-mures/2017/149",
+   "short": "HCL Ocna Mureș nr. 149/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 149/2017 privind alocarea sumei necesare plăţii contravalorii cheltuielilor cu naveta cadrelor didactice şi a personalului didactic auxiliar pentru luna iunie 2017 | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/149.pdf",
+     "sha256": "89726580af98c01d514a645e4647bfe5bd456a61041ff3bbc8034484b5b03acb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-15-2017",
+   "path": "local/alba/ocna-mures/2017/15",
+   "short": "HCL Ocna Mureș nr. 15/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 15/2017 privind majorarea contribuției personale de întreținere datorată de către persoanele asistate în Unitatea Medico-Socială Ocna Mureș de la 850 lei/lună în prezent, la 1200 lei/lună, incepând cu luna februarie 2017 | 04.03.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/015.pdf",
+     "sha256": "bd65ef081be2a6a422fad69a8e56622fed8db9a062677f165a0494591b7c6d2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-150-2017",
+   "path": "local/alba/ocna-mures/2017/150",
+   "short": "HCL Ocna Mureș nr. 150/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 150/2017 privind încetarea contractului de închiriere nr 287/09.01.2013, începând cu data de 22.09.2017, ca urmare a denunțării unilaterale de către chiriaș. | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/150.pdf",
+     "sha256": "e880298635d73477231ed25de0418c682ad9562c31b5cf3562126dcf64f6ff46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-151-2017",
+   "path": "local/alba/ocna-mures/2017/151",
+   "short": "HCL Ocna Mureș nr. 151/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 151/2017 privind aprobarea documentației tehnico-economice faza Proiect tehnic şi Detalii execuţie, documentaţia nr.54/2017 întocmită de proiectantul general SC Birou Proiectare Chiriac SRL, indicatorii tehnico-economici pentru realizarea proiectului “Amenajare Piaţă industrială în oraşul Ocna Mureş”, conform anexei. | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/151.pdf",
+     "sha256": "360033ac2cc8199dd43f4b0e4f02c8b3d124dbaef8f244a0c799614356532907"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-152-2017",
+   "path": "local/alba/ocna-mures/2017/152",
+   "short": "HCL Ocna Mureș nr. 152/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 152/2017 privind îndreptarea erorii materiale din art.1 al HCLOM nr 59 din 30.03.2017 și respectiv din art.1 al HCLOM nr.104 din 25.05 2017 | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/152.pdf",
+     "sha256": "d9de8bec481c74429b42a29a0ed066516629036a5b773b93ec29d870b132c811"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-153-2017",
+   "path": "local/alba/ocna-mures/2017/153",
+   "short": "HCL Ocna Mureș nr. 153/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 153/2017 privind incetarea obligatiilor de plata a contravalorii abonamentului de instalatii catre operatorul de servicii de apa si canalizare SC APA CTTA SA, incepand cu data de 01.09.2017 | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/153.pdf",
+     "sha256": "32c5ab482fcaebbe76d9db5cd2998b159ff6944b88e3e7fe1d1ab4717dd1cc7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-154-2017",
+   "path": "local/alba/ocna-mures/2017/154",
+   "short": "HCL Ocna Mureș nr. 154/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 154/2017 privind modificarea și completarea Programului anual de achiziţii publice pentru anul 2017, conform anexelor | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/154.pdf",
+     "sha256": "eaf4eb6b2946f298c8f24b197943ba6e1c30c63d4666a99a0d07379865a43d59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-155-2017",
+   "path": "local/alba/ocna-mures/2017/155",
+   "short": "HCL Ocna Mureș nr. 155/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 155/2017 privind execuția bugetară aferentă evenimentului de interes public local ,,Festival Internațional de Folclor Aiud-Ocna Mureș”care s-a desfășurat în orașul Ocna Mureș, în perioada 6-8 august 2017, pentru suma de 63877,71 lei | 09.10.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/155.pdf",
+     "sha256": "9619217dd1e0606a7e1a8f90a662c7619b30d9c0f351cc185e5d59685b8ced10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-156-2017",
+   "path": "local/alba/ocna-mures/2017/156",
+   "short": "HCL Ocna Mureș nr. 156/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 156/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/156.pdf",
+     "sha256": "30fa2bfb05e2091a0c1decdea8c210c0e319f7d12e703495943551f4a9e090eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-157-2017",
+   "path": "local/alba/ocna-mures/2017/157",
+   "short": "HCL Ocna Mureș nr. 157/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 157/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/157.pdf",
+     "sha256": "c53f8f889ae6a7f85179e64e6e48f2030b80a16cabc53c3cf5ed2b8bd0216162"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-158-2017",
+   "path": "local/alba/ocna-mures/2017/158",
+   "short": "HCL Ocna Mureș nr. 158/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 158/2017 privind aprobarea Planului de ocupare a funcţiilor publice din aparatul de specialitate al primarului şi din serviciile publice subordonate Consiliului local al oraşului Ocna Mureş pentru anul 2018, conform anexelor 1,2,3 , care fac parte integrantă din prezenta | 29.11.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/158.pdf",
+     "sha256": "2e9b7cdd0b4775a2d4a329ec567c1e3d52e2ec53ef6b42e23d27cc6303a9f22f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-159-2017",
+   "path": "local/alba/ocna-mures/2017/159",
+   "short": "HCL Ocna Mureș nr. 159/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 159/2017 privind aprobarea modificării Statului de funcţii şi a Organigramei Primăriei orașului Ocna Mureş conform anexelor nr. 1 şi 2, care fac parte integrantă din prezenta. | 29.11.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/159.pdf",
+     "sha256": "c996c2c80e89e36fab0742a40096ecba147ced0ccee6f7d7c2ff3e1a6d1de1a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-16-2017",
+   "path": "local/alba/ocna-mures/2017/16",
+   "short": "HCL Ocna Mureș nr. 16/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 16/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/016.pdf",
+     "sha256": "0be0ac728e62fff7ae6a29cbb3218cf6866e02800b1afd5b7e0a3507e4038010"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-160-2017",
+   "path": "local/alba/ocna-mures/2017/160",
+   "short": "HCL Ocna Mureș nr. 160/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 160/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/160.pdf",
+     "sha256": "b7eb2c971fe8457742c530720769b9091fadd61abd3ee6c14fbacd4d2424d26d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-161-2017",
+   "path": "local/alba/ocna-mures/2017/161",
+   "short": "HCL Ocna Mureș nr. 161/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 161/2017 privind încetarea contractului de închiriere nr 15880/14.11.2012, începând cu data de 12.10.2017, ca urmare a denunțării unilaterale de către chiriaș | 29.11.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/161.pdf",
+     "sha256": "37b819c5d1b2d4463a7e1cccd61846db1af75765748e1cb6fc739b2437ea7c72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-162-2017",
+   "path": "local/alba/ocna-mures/2017/162",
+   "short": "HCL Ocna Mureș nr. 162/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 162/2017 privind încetarea contractului de închiriere nr.3941/21.03.2014, începând cu data de 30.09.2017, ca urmare a decesului titularului contractului de închiriere | 29.11.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/162.pdf",
+     "sha256": "7a4317e2877c5970a243da521799a38e543f01604da24d916dbab1e6c7234458"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-163-2017",
+   "path": "local/alba/ocna-mures/2017/163",
+   "short": "HCL Ocna Mureș nr. 163/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 163/2017 privind înscrierea în domeniul privat al UAT Orașul Ocna Mureş a imobilului proprietate de stat, situat administrativ în Ocna Mureș, str. Lungă, nr. 152, jud",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/163.pdf",
+     "sha256": "2ab6b3cfd6ff7fb1d5b564f2ce08855936a5c4d646bb0dad928437a022f185a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-164-2017",
+   "path": "local/alba/ocna-mures/2017/164",
+   "short": "HCL Ocna Mureș nr. 164/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 164/2017 privind revocarea art.3 din Hotărârea Consiliului Local al orașului Ocna Mureș nr. 101 din 25.05.2017 și revocarea Hotărârea Consiliului Local al orașului Ocna Mureș nr. 130 din 11.07.2017 | 29.11.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/164.pdf",
+     "sha256": "fc4a6788d97ebc2d7ee8ea35554b3a5716ee6a9decc9fe4ec9f81f954d36a67d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-165-2017",
+   "path": "local/alba/ocna-mures/2017/165",
+   "short": "HCL Ocna Mureș nr. 165/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 165/2017 privind aprobarea Contului Trimestrial de Execuţie pentru trimestrul II 2017, conform anexelor nr. 1 și 2I pentru activitatea desfășurată în cadrul instituției Oraș Ocna Mureș, .a contului trimestrial de execuție pentru trimestrul II 2017 la Clubul Sportiv Ocna Mureș, conform anexei nr.3 și a contului trimestrial de execuție pe trimestrul II 2017 la Unitatea Medico-Socială din orașul Ocna Mureș, c",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/165.pdf",
+     "sha256": "f10757383bf35d06fa54a52cf5c230ded654271a014cbe3e06923a87db429f64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-166-2017",
+   "path": "local/alba/ocna-mures/2017/166",
+   "short": "HCL Ocna Mureș nr. 166/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 166/2017 privind aprobarea încheierii unui contract de prestări servicii juridice între Oraşul Ocna Mureş- în calitate de achizitor şi Cabinet Avocatură Costin N",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/166.pdf",
+     "sha256": "fc9383d837d04579e8b319bf0874188d9279226779cf4510c2b64ccbeefb74ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-167-2017",
+   "path": "local/alba/ocna-mures/2017/167",
+   "short": "HCL Ocna Mureș nr. 167/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 167/2017 Privind revocarea art.1, pct.1 din HCLOM nr 149 din 30.08.2017 referitor la alocarea sumei necesare plății contravalorii plății cheltuielilor cu naveta cadrelor didactice și a personalului didactic auxiliar pentru luna iunie 2017 și alocarea sumei de 920 lei din bugetul Unității Admninistrativ –Teritorale Ocna Mureș pe anul 2017, în vederea decontării cheltuielilor cu naveta cadrelor didactice de",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/167.pdf",
+     "sha256": "4c48f434efc735edf7486d3fb8c2ce1b4ae583f2d86d46c316216bae7699c61f"
     }
    ]
   },
@@ -108,6 +1053,876 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-169-2017",
+   "path": "local/alba/ocna-mures/2017/169",
+   "short": "HCL Ocna Mureș nr. 169/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 169/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/169.pdf",
+     "sha256": "8532110bf0c59a04eebef94ff3c8ed214552a8c4b90fbaaf05efd76debcc9a6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-17-2017",
+   "path": "local/alba/ocna-mures/2017/17",
+   "short": "HCL Ocna Mureș nr. 17/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 17/2017 privind aprobarea transmiterii cotei de ½ părți asupra unui teren, din domeniul public al Orașului Ocna Mureș și din administrarea Consiliului Local al Orașului Ocna Mureș, în domeniul public al Județului Alba și administrarea Consiliului Județean Alba, în vederea realizării obiectivului „Amenajare bază de tratament și agrement în Orașul Ocna Mureș” | 04.03.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/017.pdf",
+     "sha256": "3bdd0a92a7d020b362bd80dba6285bd356696f8662f1dfb31eb9f3649bb65495"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-171-2017",
+   "path": "local/alba/ocna-mures/2017/171",
+   "short": "HCL Ocna Mureș nr. 171/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 171/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/171.pdf",
+     "sha256": "036ff4420d52d26d2af5511b817581a5aed49c4ad873aa769bea4dfdb786eb73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-172-2017",
+   "path": "local/alba/ocna-mures/2017/172",
+   "short": "HCL Ocna Mureș nr. 172/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 172/2017 privind rectificarea de buget pe anul 2017conform anexei nr.1 şi modificarea listelor de investiţii pe anul 2017, conform anexei nr. 2 | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/172.pdf",
+     "sha256": "57c279c9b992628886f9cd3483ef640a6b032029338e12ff231ce42dcad03531"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-173-2017",
+   "path": "local/alba/ocna-mures/2017/173",
+   "short": "HCL Ocna Mureș nr. 173/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 173/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/173.pdf",
+     "sha256": "41d9848153ea67f5830e03c693cf7a9170aa052b79968d4bc32be3e184323456"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-18-2017",
+   "path": "local/alba/ocna-mures/2017/18",
+   "short": "HCL Ocna Mureș nr. 18/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 18/2017 privind actualizarea indicatorilor tehnico-economici şi cofinanţarea din bugetul Oraşului Ocna Mureş pentru lucrarea „Reparaţii şi consolidare Şcoala primară Cisteiu de Mureş” | 04.03.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/018.pdf",
+     "sha256": "8e12bd10d593606b94b0ae2c6c1175832309dc5182ff589fb8ecc913ac044e29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-181-2017",
+   "path": "local/alba/ocna-mures/2017/181",
+   "short": "HCL Ocna Mureș nr. 181/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 181/2017 pentru aprobarea noului management al traficului privind circulația publică pe strada Horea, strada Closca și strada Crișan din orașul Ocna Mureș | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/181.pdf",
+     "sha256": "ad032ee37b6ae67da698f6aa95ff4a676814fa69ddfbd37b908c39141606ccbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-182-2017",
+   "path": "local/alba/ocna-mures/2017/182",
+   "short": "HCL Ocna Mureș nr. 182/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 182/2017 privind aprobarea casării instalaţiei RX-diagnostic, cu un post grafie, tip ELTEX 400, seria 489/1 și instalaţie fixă de RX-diagnostic dentar, cu un post grafie, tip DENTIX 2, seria 76/1976/1994, proprietate a UAT Orașul Ocna Mureș | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/182.pdf",
+     "sha256": "8275655d34e44701497cedd50b83934e9b5b87e663eb55c1b68d6d64e9912fe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-183-2017",
+   "path": "local/alba/ocna-mures/2017/183",
+   "short": "HCL Ocna Mureș nr. 183/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 183/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/183.pdf",
+     "sha256": "615f848fef4a243eb694b79c7f0937e7c468138c743ea29dd844c58b17441cdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-184-2017",
+   "path": "local/alba/ocna-mures/2017/184",
+   "short": "HCL Ocna Mureș nr. 184/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 184/2017 privind aprobarea casării mijoacelor fixe și obiectelor de inventar proprietatea UAT Orașul Ocna Mureș, conform anexelor, parte integrantă din prezenta | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/184.pdf",
+     "sha256": "10aad31715d2a3bb11adec44b9092ea7bb0478e305c26bea69608132038a1849"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-185-2017",
+   "path": "local/alba/ocna-mures/2017/185",
+   "short": "HCL Ocna Mureș nr. 185/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 185/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/185.pdf",
+     "sha256": "3b8c909046268775e8438c6d9faa71a488a278d00812e1dd35b06166f558316a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-186-2017",
+   "path": "local/alba/ocna-mures/2017/186",
+   "short": "HCL Ocna Mureș nr. 186/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 186/2017 privind repartizarea ap. nr. 48 din bl.26, str",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/186.pdf",
+     "sha256": "5948c2e064befd1345a586622e1c8acc1dc933d737ce22aef0920f393d2823a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-187-2017",
+   "path": "local/alba/ocna-mures/2017/187",
+   "short": "HCL Ocna Mureș nr. 187/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 187/2017 pentru înființarea, în subordinea Consiliului local Ocna Mureș, a Serviciului public de ecarisaj/gestionare a câinilor fără stăpân din orașul Ocna Mureș și concesionarea, prin delegare de gestiune, a acestui serviciu | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/187.pdf",
+     "sha256": "9e5fc50361083ab8a10b756e737e060164d4b243dd70e7ee8396a5bc99dc6da9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-188-2017",
+   "path": "local/alba/ocna-mures/2017/188",
+   "short": "HCL Ocna Mureș nr. 188/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 188/2017 privind aprobarea raportului de cheltuieli pentru evenimentul cultural de interes public local ,,Mureş pe marginea ta” ediţia a XXX-a, desfăşurat la Ocna Mureş. | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/188.pdf",
+     "sha256": "b1ed5bb281b45506747776d9d3b0d7d3107a5de3c18b51b22708e46afa6253cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-189-2017",
+   "path": "local/alba/ocna-mures/2017/189",
+   "short": "HCL Ocna Mureș nr. 189/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 189/2017 pentru modificarea şi completarea HCLOM nr.133/27.07.2017 privind salariile de bază ale funcţionarilor publici şi personalului contractual din aparatul de specialitate al Primarului oraşului Ocna Mureş şi ale serviciilor publice din subordinea Consiliului local. | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/189.pdf",
+     "sha256": "bd814415b9ff86e3eb4af21e77769a91e469c11e6638da18a0f0fee099e06496"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-19-2017",
+   "path": "local/alba/ocna-mures/2017/19",
+   "short": "HCL Ocna Mureș nr. 19/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 19/2017 privind actualizarea indicatorilor tehnico-economici şi cofinanţarea din bugetul Oraşului Ocna Mureş pentru lucrarea „Reparaţii şi consolidare Grădinița cu program normal Cisteiu de Mureş” | 04.03.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/019.pdf",
+     "sha256": "5c06e052c2e10b5a0228d23f734dd26fae9cc1c15237bb9796af2c8b21823b55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-190-2017",
+   "path": "local/alba/ocna-mures/2017/190",
+   "short": "HCL Ocna Mureș nr. 190/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 190/2017 privind modificarea şi completarea Statului de funcţii şi a Organigramei Clubului Sportiv Ocna Mureş | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/190.pdf",
+     "sha256": "adf0207fff3618a519aa6ffc61cdff3945ac8e803c1902cf55059d557f96119c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-191-2017",
+   "path": "local/alba/ocna-mures/2017/191",
+   "short": "HCL Ocna Mureș nr. 191/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 191/2017 privind aprobarea achiziţiei publice “Lucrări de amenajare Piaţă industrială în oraşul Ocna Mureş” cod CPV: 45213140-6 – Lucrări de construcţii de pieţe – prin procedura « procedură simplificată» criteriul de atribuire fiind «preţul cel mai scăzut» | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/191.pdf",
+     "sha256": "bf838ab3ba7f407a6a8dfea1ca08f79a1e2c2e7884a50fd735ea5350ac90ef09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-192-2017",
+   "path": "local/alba/ocna-mures/2017/192",
+   "short": "HCL Ocna Mureș nr. 192/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 192/2017 privind aprobarea achiziţiei publice “Servicii de proiectare amenajare parcuri centrale în oraşul Ocna Mureş” cod CPV: 71220000-6 – servicii de proiectare arhitecturală prin procedura « procedură simplificată » criteriul de atribuire fiind « Cel mai bun raport calitate – preţ» | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/192.pdf",
+     "sha256": "5f9bb5ff0d9500ef835eb8b633c40ba82b6e0fbaeade49c573b3af9edf511546"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-193-2017",
+   "path": "local/alba/ocna-mures/2017/193",
+   "short": "HCL Ocna Mureș nr. 193/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 193/2017 privind aprobarea achiziţiei publice “Servicii de dirigenţie de şantier pentru lucrări de amenajare Piaţă industrială în oraşul Ocna Mureş” cod CPV: 71520000-9 – Servicii de supraveghere a lucrărilor – prin procedura « procedură simplificată» criteriul de atribuire fiind «preţul cel mai scăzut» | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/193.pdf",
+     "sha256": "c527bf17e3c2aaed1484a3e8a749f6beebe2d691d6df80d84027c3118ed867dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-194-2017",
+   "path": "local/alba/ocna-mures/2017/194",
+   "short": "HCL Ocna Mureș nr. 194/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 194/2017 privind îndreptarea erorii din cuprinsul art.1 al HCLOM nr 125/29.06.2017 privind contribuția la investiția de interes public local ,,Înlocuire conducte de la rețeaua de apă potabilă de pe străzile Vasile Lupu,Axente Sever, Înfrățirii și 8 Martie” | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/194.pdf",
+     "sha256": "c6db754aa141d8fdbdb34491c4e63fea00f9efcce8d5dabc66fd586a37650dc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-195-2017",
+   "path": "local/alba/ocna-mures/2017/195",
+   "short": "HCL Ocna Mureș nr. 195/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 195/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/195.pdf",
+     "sha256": "9b38f82c50495f5ff84875b472e84ba31fd4437d2ebfcbfcc1798cd9f087f65d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-196-2017",
+   "path": "local/alba/ocna-mures/2017/196",
+   "short": "HCL Ocna Mureș nr. 196/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 196/2017 privind clarificarea situației juridice a unor imobile situate în zona ,,A” de influență a Câmpului de Sonde | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/196.pdf",
+     "sha256": "e41040a31368a582086795f2c47eaf3b044da95cc2d1b30c6fb7f84e520d888f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-197-2017",
+   "path": "local/alba/ocna-mures/2017/197",
+   "short": "HCL Ocna Mureș nr. 197/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 197/2017 privind revocarea HCLOM nr 122 din 29.06.2017 prin care s-a aprobat trecerea unor terenuri din perimetrul extravilan al orașului Ocna Mureș, localitatea componentă Uioara de Sus în intravilanul orașului Ocna Mureș | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/197.pdf",
+     "sha256": "324e05028d6ee0ec077f869a071bb0cb65b942d58ca4576f58d6864185b12b00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-198-2017",
+   "path": "local/alba/ocna-mures/2017/198",
+   "short": "HCL Ocna Mureș nr. 198/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 198/2017 privind alocarea sumei necesare plăţii contravalorii cheltuielilor cu naveta cadrelor didactice şi a personalului didactic auxiliar pentru lunile august și sepembrie 2017 | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/198.pdf",
+     "sha256": "93b49f9c4edf5f6bcf3bdb1af82b4285c33b20ec89dab842ba4a3cf62fdd00f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-199-2017",
+   "path": "local/alba/ocna-mures/2017/199",
+   "short": "HCL Ocna Mureș nr. 199/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 199/2017 privind rectificarea de buget pe anul 2017conform anexei , care face parte integranta din prezenta | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/199.pdf",
+     "sha256": "c69a1c0ed10de22ac239b326aeca7c20499c16f851bb38d81fbb4ebbe6bc1eb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-2-2017",
+   "path": "local/alba/ocna-mures/2017/2",
+   "short": "HCL Ocna Mureș nr. 2/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 2/2017 privind exprimarea acordului de preluare fără plată, din patrimoniul județului Alba în patrimoniul orașului Ocna Mureș, a bunurilor prevăzute în anexa listei de inventariere, aflate în cuprinsul adresei nr. 22328/V/A/5 din 16.12.2016 a Consiliului Județean Alba | 04.02.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/002.pdf",
+     "sha256": "37e58e7ffb9aa4275d2216630c06c6fc92681de5f81fa7d3b6278f0615eb6e7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-20-2017",
+   "path": "local/alba/ocna-mures/2017/20",
+   "short": "HCL Ocna Mureș nr. 20/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 20/2017 privind actualizarea indicatorilor tehnico-economici şi cofinanţarea Oraşului Ocna Mureş pentru lucrarea „Reparaţii şi consolidare Școala primară Uioara de Sus” | 04.03.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/020.pdf",
+     "sha256": "1967989c83670acdb97edb9c829a31e4a666bfbb1019070f1733ce6f26df0220"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-200-2017",
+   "path": "local/alba/ocna-mures/2017/200",
+   "short": "HCL Ocna Mureș nr. 200/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 200/2017 privind alocarea sumei de 27550 lei la capitolul 68.02.50 ‚’’Asistența socială’’, pentru continuarea sustenabilității proiectului ’’Centrul educational Egalitate de Șanse’’,conform anexei, care face parte integrantă din prezenta | 03.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/200.pdf",
+     "sha256": "896cb49b5d8f77741795ff4180e0675dd8b855467bc911dd2d62d8ccfa1d30a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-21-2017",
+   "path": "local/alba/ocna-mures/2017/21",
+   "short": "HCL Ocna Mureș nr. 21/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 21/2017 privind aprobarea propunerii de evaluare a performanțelor profesionale individuale ale Secretarului Orașului Ocna Mureș pentru anul 2016 | 04.03.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/021.pdf",
+     "sha256": "5108c1312105cddfa595aec819d94af02de96a3652dc5397d27476ec742d14c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-210-2017",
+   "path": "local/alba/ocna-mures/2017/210",
+   "short": "HCL Ocna Mureș nr. 210/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 210/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/210.pdf",
+     "sha256": "5c2865a8a702f703736de745711c09eed634bda82a51bf9ce9ada9dadd7f85e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-211-2017",
+   "path": "local/alba/ocna-mures/2017/211",
+   "short": "HCL Ocna Mureș nr. 211/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 211/2017 privind încetarea contractului de închiriere nr 17272/21.12.2016, începând cu data de 01.11.2017, ca urmare a expirării termenului prevăzut în contract | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/211.pdf",
+     "sha256": "3887ae9e03ce95b59737842afae5317df1703382a9e1f5c4d077bca446472937"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-212-2017",
+   "path": "local/alba/ocna-mures/2017/212",
+   "short": "HCL Ocna Mureș nr. 212/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 212/2017 privind încetarea contractului de închiriere nr 17999/20.11.2017, începând cu data de 22.12.2017, ca urmare a denunțării unilaterală de către chiriaș | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/212.pdf",
+     "sha256": "611144713729ba01dfd8fa14da3308823064a03276555005d4c9270c9d9c2456"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-213-2017",
+   "path": "local/alba/ocna-mures/2017/213",
+   "short": "HCL Ocna Mureș nr. 213/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 213/2017 privind rectificarea de buget pe anul 2017 conform anexei nr.1 și modificarea listei de investiții, conform anexei nr.2 care fac parte integranta din prezenta | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/213.pdf",
+     "sha256": "43cca41e36a187e8b4b66452ad17dec470f5b61f6e7fd7bd0292a8023df9b22c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-214-2017",
+   "path": "local/alba/ocna-mures/2017/214",
+   "short": "HCL Ocna Mureș nr. 214/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 214/2017 privind modificarea și completarea acordului de parteneriat nr.86/2017 încheiat în baza HCLOM nr.115/14.06.2017 | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/214.pdf",
+     "sha256": "10d97aeca160b099cf5a1d3e5b3fa3a148defe26f505c8bdb1f410ecbcd6e629"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-215-2017",
+   "path": "local/alba/ocna-mures/2017/215",
+   "short": "HCL Ocna Mureș nr. 215/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 215/2017 privind modificarea valorii indicatorilor tehnico economici pentru realizarea proiectului “Amenajare Piaţă industrială în oraşul Ocna Mureş” | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/215.pdf",
+     "sha256": "87a012640890ef0873a033cd28921ae5cf7a0bbd693489be34faee1598f57acc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-216-2017",
+   "path": "local/alba/ocna-mures/2017/216",
+   "short": "HCL Ocna Mureș nr. 216/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 216/2017 privind modificarea anexelor nr. 1 și 2 la Programul anual al achizițiilor publice pentru anul 2017 finanțate din bugetul local | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-11",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/216.pdf",
+     "sha256": "fe774585563b9c468ee6c45ab2b14a7b6dd94d401153273c177f39164e934456"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-217-2017",
+   "path": "local/alba/ocna-mures/2017/217",
+   "short": "HCL Ocna Mureș nr. 217/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 217/2017 privind alocarea sumei necesare plăţii contravalorii cheltuielilor cu naveta cadrelor didactice şi a personalului didactic auxiliar pentru luna octombrie 2017 | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-11",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/217.pdf",
+     "sha256": "2912f1faef06ea1dd0db32f1f86bb9836f13155c9f7b56c0f448d64065e5f42a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-218-2017",
+   "path": "local/alba/ocna-mures/2017/218",
+   "short": "HCL Ocna Mureș nr. 218/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 218/2017 privind aprobarea modificării Statului de funcții și a Organigramei Clubului Sportiv Ocna Mureș | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-11",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/218.pdf",
+     "sha256": "aa0ad67c9b28ed1af771ffec161b1627586a9fd745f080fbd9326e15b8081c8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-219-2017",
+   "path": "local/alba/ocna-mures/2017/219",
+   "short": "HCL Ocna Mureș nr. 219/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 219/2017 privind rectificarea de buget pe anul 2017 conform anexei nr. 1 și modificarea listei de investiții, conform anexei nr. 2 care fac parte integranta din prezenta | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-11",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/219.pdf",
+     "sha256": "502a5ee3763de8efe020c58c57e3b53e7fef9d11a7b01d92afe05dd6e3560898"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-22-2017",
+   "path": "local/alba/ocna-mures/2017/22",
+   "short": "HCL Ocna Mureș nr. 22/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 22/2017 privind înscrierea în domeniul public al UAT Ocna Mureş a terenului în suprafață de 9 mp, situat administrativ la adresa din Ocna Mureș, Str. 9 Mai, nr 3, din incinta Pieței Agroalimentare a orașului Ocna Mureș, loc. nr. 3, jud",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/022.pdf",
+     "sha256": "e41c2df119c6df42c3304b23301c7b8e746f2f21567dedaf27ae06ca6dfa4a7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-221-2017",
+   "path": "local/alba/ocna-mures/2017/221",
+   "short": "HCL Ocna Mureș nr. 221/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 221/2017 privind alocarea sumei necesare plăţii contravalorii cheltuielilor cu naveta cadrelor didactice şi a personalului didactic auxiliar pentru luna noiembrie 2017 | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/221.pdf",
+     "sha256": "90e0362c8bbc49e5fd235fa36776956a3f30bdf15c272575aac5c87d50d8781f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-222-2017",
+   "path": "local/alba/ocna-mures/2017/222",
+   "short": "HCL Ocna Mureș nr. 222/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 222/2017 privind aprobarea Programului Anual de achiziţii publice pentru anul 2018 | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/222.pdf",
+     "sha256": "8db24219efc6a961679cf19fafe93fa1e8d22b729d29734e6f3fe7ff6b76effe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-223-2017",
+   "path": "local/alba/ocna-mures/2017/223",
+   "short": "HCL Ocna Mureș nr. 223/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 223/2017 privind aprobarea Proiectului Planului de organizare a reţelei şcolare de pe raza administrativ-teritorială a Oraşului Ocna Mureş, pentru anul şcolar 2018 – 2019 | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/223.pdf",
+     "sha256": "3a3b28bb72fa536a08a2d64070a9cc83212012749f1595ac6a00663047651017"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-224-2017",
+   "path": "local/alba/ocna-mures/2017/224",
+   "short": "HCL Ocna Mureș nr. 224/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 224/2017 privind modificarea HCLOM nr.76 din 20.04.2017 | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/224.pdf",
+     "sha256": "940214128b316dcdcf3c4bdccb7b7cdae176c4472e0cc6ef20e5edde9c107d76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-225-2017",
+   "path": "local/alba/ocna-mures/2017/225",
+   "short": "HCL Ocna Mureș nr. 225/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 225/2017 privind aprobarea Contului Trimestrial de Execuţie pentru trimestrul III 2017, conform anexelor nr. 1 și 2 pentru activitatea desfășurată în cadrul instituției Oraș Ocna Mureș | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/225.pdf",
+     "sha256": "b7668d5f0719a52fabe02fbfc3958759c69512c35c3932ce8255fe63f626816a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-226-2017",
+   "path": "local/alba/ocna-mures/2017/226",
+   "short": "HCL Ocna Mureș nr. 226/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 226/2017 privind aprobarea consumului de carburant al autoturismelor din cadrul Primăriei orașului Ocna Mureș | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/226.pdf",
+     "sha256": "cf69896537e84845e1a23d9e4f0ffdd56ce09c137c1d6cf0b70391934fe6131b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-227-2017",
+   "path": "local/alba/ocna-mures/2017/227",
+   "short": "HCL Ocna Mureș nr. 227/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 227/2017 privind modificarea art.3 al Hotărârii de Consiliu local al orașului Ocna Mureș nr 62 din 30.03.3017 | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/227.pdf",
+     "sha256": "fcac4394ad669c1263074428d5da421109fc77a0ebc3559545deae4e6b2e88d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-228-2017",
+   "path": "local/alba/ocna-mures/2017/228",
+   "short": "HCL Ocna Mureș nr. 228/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 228/2017 privind aprobarea achiziţiei publice „Servicii de proiectare faza DALI privind reabilitarea şi modernizarea Şcolii gimnaziale „Lucian Blaga” clasele 0-VIII din oraşul Ocna Mureş” | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/228.pdf",
+     "sha256": "109589e50908368804abcf8249135d8618273e1fd92dcb43781364b5f498b7cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-229-2017",
+   "path": "local/alba/ocna-mures/2017/229",
+   "short": "HCL Ocna Mureș nr. 229/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 229/2017 privind aprobarea achiziţiei publice “Servicii de proiectare faza DALI privind reabilitarea şi modernizarea Liceului Tehnologic clasele IX-XII din oraşul Ocna Mureş” | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/229.pdf",
+     "sha256": "0ac593e9cd3a0f506eb1f48d89fc5af45f6b1a8839219a9e0ee5486deda9a84e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-23-2017",
+   "path": "local/alba/ocna-mures/2017/23",
+   "short": "HCL Ocna Mureș nr. 23/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 23/2017 privind aprobarea proiectului tehnic, a devizului general actualizat şi a indicatorilor tehnico-economici aferenţi obiectivului de investiţii „Amenajare bază de tratament şi agrement în oraşul Ocna Mureş”. | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-02-13",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/023.pdf",
+     "sha256": "555c43b4d8c0d7b25251b205a0a8920f52166093020f5d815bd0a2bda531217f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-230-2017",
+   "path": "local/alba/ocna-mures/2017/230",
+   "short": "HCL Ocna Mureș nr. 230/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 230/2017 privind rectificarea de buget pe anul 2017 conform anexei nr.1 și modificarea listei de investiții, conform anexei nr.2 care fac parte integranta din prezenta | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/230.pdf",
+     "sha256": "710518af42724efffb0af60aaa029867d75eaee60e39dbbb7806881ff070a6af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-231-2017",
+   "path": "local/alba/ocna-mures/2017/231",
+   "short": "HCL Ocna Mureș nr. 231/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 231/2017 privind încetarea contractului de închiriere nr 15876/14.11.2012, începând cu data de 22.12.2017, ca urmare a expirării termenului prevăzut în contract | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/231.pdf",
+     "sha256": "34822ae7dbb0577d26570f376fce0b174683c1826893edec0ad3f2b0be33e0cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-232-2017",
+   "path": "local/alba/ocna-mures/2017/232",
+   "short": "HCL Ocna Mureș nr. 232/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 232/2017 privind acordarea scutirii de la plata impozitului datorat pentru anul 2018 bugetului UAT Orașul Ocna Mureș de către Asociația „Casa Tâmplarului” | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/232.pdf",
+     "sha256": "e6b1b6326b436f6effc4879b6e834cee893bdecce21eee9765a498225fa237d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-233-2017",
+   "path": "local/alba/ocna-mures/2017/233",
+   "short": "HCL Ocna Mureș nr. 233/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 233/2017 privind acordarea scutirii de la plata impozitului datorat pentru anul 2018 bugetului UAT Orașul Ocna Mureș de către Asociația Creștină de Misiune și caritate ,,Bunul Samaritean” | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/233.pdf",
+     "sha256": "e94ee454d1e9a901879fdb746c72c443eacf38659818f9a1dc3a2bd4e7f1e087"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-234-2017",
+   "path": "local/alba/ocna-mures/2017/234",
+   "short": "HCL Ocna Mureș nr. 234/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 234/2017 privind aprobarea fondului pentru acordarea premiilor de excelenţă stabilite ,conform Legii nr. 153/2017, la nivelul Primăriei oraşului Ocna Mureş | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/234.pdf",
+     "sha256": "7736dcb6b174caac85e24d5c2622de2df0f9e6333c4ba42cbadb464d5f6885fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-235-2017",
+   "path": "local/alba/ocna-mures/2017/235",
+   "short": "HCL Ocna Mureș nr. 235/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 235/2017 privind revocarea HCLOM nr. 193/23.09.2015 și a HCLOM nr. 240/26.11.2015 | 29.01.2018",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/235.pdf",
+     "sha256": "cf0a2358f956e634c8a983aebb4e8eea5c7abd1f7504e2dcccedbe34a2db5f2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-24-2017",
+   "path": "local/alba/ocna-mures/2017/24",
+   "short": "HCL Ocna Mureș nr. 24/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 24/2017 privind aprobarea ACORDULUI DE ASOCIERE între oraşul Ocna Mureş prin Consiliul Local al oraşului Ocna Mureş și județul Alba prin",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-02-13",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/024.pdf",
+     "sha256": "0517cfe28658dea7a7f3b7f71228c0c66cb1256eceb6f42a0136c1220b1d85ec"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-25-2017",
    "path": "local/alba/ocna-mures/2017/25",
    "short": "HCL Ocna Mureș nr. 25/2017",
@@ -119,6 +1934,201 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/025.pdf",
      "sha256": "be4fc9dcf182c0a4fabb4d6d1f34935ba0d4f89255aa0a5e2cdb24e74c1ab530"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-26-2017",
+   "path": "local/alba/ocna-mures/2017/26",
+   "short": "HCL Ocna Mureș nr. 26/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 26/2017 privind aprobarea consumului maxim lunar de carburanți pentru autoturismele din dotarea Primăriei orașului Ocna Mureș",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-02-13",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/026.pdf",
+     "sha256": "3f6d2dc6094c8b27e20c622e95f7e4cad05bc336169466bebc0a0b984edae4c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-27-2017",
+   "path": "local/alba/ocna-mures/2017/27",
+   "short": "HCL Ocna Mureș nr. 27/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 27/2017 privind modificarea art.1 al HCLOM nr.1/09.01.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-02-13",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/027.pdf",
+     "sha256": "7e8a33bc9bb824622ba8e139f25104a573516775d3e62a2fd69a0a744926825b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-28-2017",
+   "path": "local/alba/ocna-mures/2017/28",
+   "short": "HCL Ocna Mureș nr. 28/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 28/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/028.pdf",
+     "sha256": "093af1869a16bf1067ba76f9259f56bb883fb1d7590e2c83435a630f02563241"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-29-2017",
+   "path": "local/alba/ocna-mures/2017/29",
+   "short": "HCL Ocna Mureș nr. 29/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 29/2017 pentru clarificarea termenului de aplicare a prevederilor HCLOM nr272/17.12.2015",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/029.pdf",
+     "sha256": "a70f81c4cb3b6fa73f9eb58c9a17e45703f5cc3d61fd8eaa37fd17861506c5bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-30-2017",
+   "path": "local/alba/ocna-mures/2017/30",
+   "short": "HCL Ocna Mureș nr. 30/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 30/2017 privind alocarea sumei necesare plăţii contravalorii cheltuielilor cu naveta cadrelor didactice şi a personalului didactic auxiliar pentru luna ianuarie 2017 | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/030.pdf",
+     "sha256": "2053e34349aad7b58657ac5f638087e530448465fafad718c22daa672f75922a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-31-2017",
+   "path": "local/alba/ocna-mures/2017/31",
+   "short": "HCL Ocna Mureș nr. 31/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 31/2017 privind încetarea, începând cu 01.03.2017, a contractului de închiriere nr.8942/03.07.2014 încheiat între Orașul Ocna Mureș și Frânc Tudorica, chiriaș, în urma decesului titularului | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/031.pdf",
+     "sha256": "4435bcb9b806cbfbb2e94814895122a3a3c80ba5b1b3c361b685eeb895a99a68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-32-2017",
+   "path": "local/alba/ocna-mures/2017/32",
+   "short": "HCL Ocna Mureș nr. 32/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 32/2017 privind modificarea obiectului repartiției care face obiectul art.1 lit.a) din HCLOM nr 197/29.09.2016 din spațiu locativ atribuit inițial identificat cu apartamentul nr.3, situat în Ocna Mureș, str. M. KOgălniceanu, nr.1, jud.Alba, cu spațiul locativ nou situat în str",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/032.pdf",
+     "sha256": "0bd63bc400482770bffc62e30d35d9c72de8e31d4414da057a9170f37ffc000c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-34-2017",
+   "path": "local/alba/ocna-mures/2017/34",
+   "short": "HCL Ocna Mureș nr. 34/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 34/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/034.pdf",
+     "sha256": "cd316b19e2fbc128d2a00e44de1eea84044aeb4e0e7c288d17832ab0a0e72b86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-35-2017",
+   "path": "local/alba/ocna-mures/2017/35",
+   "short": "HCL Ocna Mureș nr. 35/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 35/2017 privind aprobarea transmiterii unui bun imobil şi terenului aferent din domeniul public al orașului Ocna Mureș și din administrarea Consiliului Local al orașului Ocna Mureș în domeniul public al județului Alba și administrarea Consiliului Județean Alba, în vederea modificării lungimii și traseului drumului judeţean DJ 107G – DJ 107D (Uioara de Sus)-Noşlac-Căptălan-Copand-Stâna de Mureş-Găbud-limit",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/035.pdf",
+     "sha256": "a85a86605cc51a00da403e9d2d65e0e70d731f53f8c7f402936280dbc898b6e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-36-2017",
+   "path": "local/alba/ocna-mures/2017/36",
+   "short": "HCL Ocna Mureș nr. 36/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 36/2017 privind modificarea și actualizarea HCLOM nr134/12.07.2016 de aprobare a documentației de licitație pentru delegarea prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare în județul Alba, respectiv de colectare și transporet a deșeurilor municipale și a unor fluxuri speciale de deșeuri | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/036.pdf",
+     "sha256": "300dbf68a69b06ff737740461932b514dd8194dea14a216316e666915cbf94a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-37-2017",
+   "path": "local/alba/ocna-mures/2017/37",
+   "short": "HCL Ocna Mureș nr. 37/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 37/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/037.pdf",
+     "sha256": "96960f817362a2aa39ee1754b237e1fce227aceafaf7069346e2185b51ea26a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-38-2017",
+   "path": "local/alba/ocna-mures/2017/38",
+   "short": "HCL Ocna Mureș nr. 38/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 38/2017 privind aprobarea Planului anual de acțiune privind serviciile sociale pentru anul 2017, la nivelul orașului Ocna Mureș",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/038.pdf",
+     "sha256": "f64ebd40efff743daf9cb212bd036f9397943c6cf0c6c40f54f558326a60a5c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-39-2017",
+   "path": "local/alba/ocna-mures/2017/39",
+   "short": "HCL Ocna Mureș nr. 39/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 39/2017 privind aprobarea listei de priorități pentru locuințe convenabile pentru anul 2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/039.pdf",
+     "sha256": "6b6ca22bfe5ac94d680e0010ff0bcda7aa59548fc701caf2998a073a5d33aaa6"
     }
    ]
   },
@@ -138,6 +2148,516 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-40-2017",
+   "path": "local/alba/ocna-mures/2017/40",
+   "short": "HCL Ocna Mureș nr. 40/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 40/2017 privind declasarea unui sector de drum din DJ 107 G: DJ 107 D (Ocna Mures) – Noslac – Captalan – Copand – Stana de Mures – Gabud – limita jud. Mures, situat în judeţul Alba | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/040.pdf",
+     "sha256": "924b3600942f1df91782460daf2f546038bc7fa726df0a1b4d5d4fc8c7bf6af0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-41-2017",
+   "path": "local/alba/ocna-mures/2017/41",
+   "short": "HCL Ocna Mureș nr. 41/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 41/2017 privind alocarea sumei necesare plăţii contravalorii cheltuielilor cu naveta cadrelor didactice şi a personalului didactic auxiliar pentru luna februarie 2017 | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/041.pdf",
+     "sha256": "684007272bf8e8ca0d232d2465792d4a9aeaf03bbc4c6044d5e867a0a0be42bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-42-2017",
+   "path": "local/alba/ocna-mures/2017/42",
+   "short": "HCL Ocna Mureș nr. 42/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 42/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/042.pdf",
+     "sha256": "45ae24db143d7a4253f2bbd7efc1cc2d573cb7c4ba89a234c509311e2ffc0d90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-43-2017",
+   "path": "local/alba/ocna-mures/2017/43",
+   "short": "HCL Ocna Mureș nr. 43/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 43/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/043.pdf",
+     "sha256": "dc3af633b18e388c75e6a62d6eafbe605dbe347ebd404e9bfa431f7c63efbe00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-44-2017",
+   "path": "local/alba/ocna-mures/2017/44",
+   "short": "HCL Ocna Mureș nr. 44/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 44/2017 privind transmiterea unui bun imobil-clădire și terenul aferent-din domeniul public al statului și din administrarea Ministerului Finanțelor Publice, în domeniul public al orașului Ocna Mureș și în administrarea Consiliului local al orașului Ocna Mureș | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/044.pdf",
+     "sha256": "06e7492a823064e2855f989fff30d2a25d45f0d64be707871fa456a4be938288"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-45-2017",
+   "path": "local/alba/ocna-mures/2017/45",
+   "short": "HCL Ocna Mureș nr. 45/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 45/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/045.pdf",
+     "sha256": "0b35729cbb7b455b3a9e3e9447b6c732b910051fd93cce8843de2f0c8d0e2582"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-46-2017",
+   "path": "local/alba/ocna-mures/2017/46",
+   "short": "HCL Ocna Mureș nr. 46/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 46/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/046.pdf",
+     "sha256": "b6475f75fc4cad6f17466cb92da3364c20fecc78575018f495d01c484d405ba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-47-2017",
+   "path": "local/alba/ocna-mures/2017/47",
+   "short": "HCL Ocna Mureș nr. 47/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 47/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/047.pdf",
+     "sha256": "b4241033b5de93d7e944d5d5d5684941a65cf8de1f814a01337b37139ba50f80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-48-2017",
+   "path": "local/alba/ocna-mures/2017/48",
+   "short": "HCL Ocna Mureș nr. 48/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 48/2017 privind numirea (componența) comisiilor de evaluare a ofertelor pentru licitațiile de concesiune sau închiriere a terenurilor sau spațiilor care aparțin domeniului public și domeniului privat al orașului Ocna Mureș | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/048.pdf",
+     "sha256": "511e9b88f98fc7dc3a5fad38c5174f58db8c533958dc15e5cabf4a011d5c5b66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-49-2017",
+   "path": "local/alba/ocna-mures/2017/49",
+   "short": "HCL Ocna Mureș nr. 49/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 49/2017 privind încetarea contractului de închiriere nr. 16385 din 23.11.2012 , începând cu data de 03.04.2017, respectiv a contractului de închiriere nr.18/03.01.2017, începând cu 14.04.2017, pentru locuințele situate în Ocna Mureș, str. Digului, Bl.3AB 72ANL, Sc B | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/049.pdf",
+     "sha256": "72fcb090409fc71f65814ccc8748f4902be15c610e03562c6ffbfd189d6220cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-5-2017",
+   "path": "local/alba/ocna-mures/2017/5",
+   "short": "HCL Ocna Mureș nr. 5/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 5/2017 privind alocarea sumei necesare plăţii contravalorii cheltuielilor cu naveta cadrelor didactice şi a personalului didactic auxiliar pentru luna decembrie 2016 | 04.02.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/005.pdf",
+     "sha256": "60c1cb881ef889490e7395f50c0a90e853382941134b35b197b125ae90e95b94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-50-2017",
+   "path": "local/alba/ocna-mures/2017/50",
+   "short": "HCL Ocna Mureș nr. 50/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 50/2017 privind aprobarea bugetului UAT Oraşul Ocna Mureş şi a Listelor de investiţii aferente anului 2017, conform anexelor nr. 1 – 24 care fac parte integrantă din prezenta | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/050.pdf",
+     "sha256": "1692eebd59f8acfa9163714cba91e7f0e768efab23522c8bd614836f5d14f41d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-51-2017",
+   "path": "local/alba/ocna-mures/2017/51",
+   "short": "HCL Ocna Mureș nr. 51/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 51/2017 privind aprobarea Programului anual de achiziţii publice pentru anul 2017, conform anexelor 1-8",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/051.pdf",
+     "sha256": "647e3c0be7a341d98f3994b18d36063cfcf3458ea0947843c6a3b1120f476982"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-52-2017",
+   "path": "local/alba/ocna-mures/2017/52",
+   "short": "HCL Ocna Mureș nr. 52/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 52/2017 privind aprobarea achiziţiei publice “Furnizare consumabile pentru imprimante şi copiatoare” cod CPV 30125100-2-CARTUŞE TONER şi 30192113-6 CARTUŞE DE CERNEALĂ prin „achiziţie directă”, criteriul de atribuire fiind „preţul cel mai scăzut” | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/052.pdf",
+     "sha256": "5c28783256c0b06bf3c5b6bd29e7aa9a24900f71598785bbf4fd2f6ee6fb0cc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-53-2017",
+   "path": "local/alba/ocna-mures/2017/53",
+   "short": "HCL Ocna Mureș nr. 53/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 53/2017 privind aprobarea înscrierii în domeniul privat al UAT oraşul Ocna Mureş a terenului proprietate de stat în suprafaţă de 700 mp, situat în Ocna Mureş, loc. Războieni-Cetate, nr.228T, înscris în CF.71738-Ocna Mureş, loc.Războieni-Cetate şi transmiterea dreptului de concesiune asupra terenului proprietate privată a UAT oraşul Ocna Mureş | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/053.pdf",
+     "sha256": "133b0dca126dda28673342977e484355831c5ec73792f5c848931d285e36975b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-54-2017",
+   "path": "local/alba/ocna-mures/2017/54",
+   "short": "HCL Ocna Mureș nr. 54/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 54/2017 privind aprobarea achiziţiei publice „Lucrări de amenajare Bază de tratament și agrement în orașul Ocna Mureș” cod CPV 45200000-9-lucrări de construcții complete sau parțiale și lucrări publice” prin procedura „licitație deschisă”, criteriul de atribuire fiind „preţul cel mai scăzut” | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/054.pdf",
+     "sha256": "a2dab9024c82f5c2bd8bef11e042266ed404373c058971fd19689c10cd4db13e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-55-2017",
+   "path": "local/alba/ocna-mures/2017/55",
+   "short": "HCL Ocna Mureș nr. 55/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 55/2017 privind aprobarea achiziţiei publice „Lucrări de reparații și consolidare Grădiniţa cu program normal Cisteiul de Mureş” cod CPV 45453000-7 – lucrări de reparații generale și de renovare prin procedura, „procedură simplificată”, criteriul de atribuire fiind „preţul cel mai scăzut” | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/055.pdf",
+     "sha256": "4090be92f469c71071ecd1a8160a69015982f229bb77567b454921c89ac44775"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-56-2017",
+   "path": "local/alba/ocna-mures/2017/56",
+   "short": "HCL Ocna Mureș nr. 56/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 56/2017 privind aprobarea achiziţiei publice „Lucrări de reparații și consolidare Școala primară Cisteiul de Mureş” cod CPV 45453000-7 – lucrări de reparații generale și de renovare prin procedura „procedură simplificată”, criteriul de atribuire fiind „preţul cel mai scăzut” | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/056.pdf",
+     "sha256": "1b79cee88b1788037d8e48a74868b29647d0b1805c582732b03e37d200065274"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-57-2017",
+   "path": "local/alba/ocna-mures/2017/57",
+   "short": "HCL Ocna Mureș nr. 57/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 57/2017 privind aprobarea achiziţiei publice „Lucrări de reparații și consolidare Școala primară Uioara de Sus” cod CPV 45453000-7- lucrări de reparații generale și de renovare prin procedura „procedură simplificată”, criteriul de atribuire fiind „preţul cel mai scăzut” | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/057.pdf",
+     "sha256": "8dfdf226eb8b7a021d49143bfca6c392971804a73e1f5d7c10092840ae5f486b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-58-2017",
+   "path": "local/alba/ocna-mures/2017/58",
+   "short": "HCL Ocna Mureș nr. 58/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 58/2017 privind îndreptarea erorii materiale strecurate în cuprinsul art.2, alin. (1), punctul 2 din HCLOM nr.4/09.01.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/058.pdf",
+     "sha256": "b905fa24777e268b172ddde66128a3ec78684e7e42ea0666aa7505fc44acb0b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-59-2017",
+   "path": "local/alba/ocna-mures/2017/59",
+   "short": "HCL Ocna Mureș nr. 59/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 59/2017 privind aprobarea realizării unei uși de acces la spațiul „Radiologie” din Policlinica orașului Ocna Mureș",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/059.pdf",
+     "sha256": "02668f8bdb4e0951f1bf735d364a3ef0754a250840fcbbb9e4d614bb2cafc72e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-6-2017",
+   "path": "local/alba/ocna-mures/2017/6",
+   "short": "HCL Ocna Mureș nr. 6/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 6/2017 privind aprobarea modificării valorii TVA de la 20 % la 19% pentru contractele în derulare rămase de executat la 01.01.2017 | 04.02.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/006.pdf",
+     "sha256": "e4aa52b1b4827afc17516e20be6ec3f801f8e51ee768d63ac9421509ffd06e3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-60-2017",
+   "path": "local/alba/ocna-mures/2017/60",
+   "short": "HCL Ocna Mureș nr. 60/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 60/2017 privind aprobarea achiziţiei de „Furnizare produse de curăţenie” cod CPV:39831240-0 – produse de curăţenie, criteriul de atribuire fiind „preţul cel mai scăzut” | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/060.pdf",
+     "sha256": "2c37508f23bb0f1f086793ba6d380c63abc6175ac6070c244c1fc95fbf30a829"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-61-2017",
+   "path": "local/alba/ocna-mures/2017/61",
+   "short": "HCL Ocna Mureș nr. 61/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 61/2017 privind aprobarea achiziţiei publice „Servicii de proiectare amenajare Piață industrială în orașul Ocna Mureș” prin procedura „achiziție directă”, criteriul de atribuire fiind „cel mai bun raport calitate-preț” | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/061.pdf",
+     "sha256": "7b16af5b84def05ad9de9c2a12efd85bfcc475be081d0f6be2bd3324e7adbfed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-62-2017",
+   "path": "local/alba/ocna-mures/2017/62",
+   "short": "HCL Ocna Mureș nr. 62/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 62/2017 privind aprobarea achiziţiei publice „Servicii de dirigenție de șantier pentru Lucrări de amenajare Bază de tratament și agrement în orașul Ocna Mureș” cod CPV 71520000-9 Servicii de supraveghere a lucrărilor prin procedura „procedura simplificată”, criteriul de atribuire fiind „preţul cel mai scăzut” | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/062.pdf",
+     "sha256": "1d06d9dd43a45d1e0c1edc4fab7215c6d577ea290c376f91e4014763d11ff747"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-63-2017",
+   "path": "local/alba/ocna-mures/2017/63",
+   "short": "HCL Ocna Mureș nr. 63/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 63/2017 privind aprobarea achiziţiei publice „Servicii de dirigenție de șantier lucrări de reparații Grădiniţa cu program normal Cisteiul de Mureş” cod CPV 71520000-9-Servicii de supraveghere a lucrărilor prin procedura „achiziție directă” , criteriul de atribuire fiind „preţul cel mai scăzut” | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/063.pdf",
+     "sha256": "8a13e7eb2eb2bd34d1c8aa3214ac1cd62cb7fe70d5a29101f91f016184d74dd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-64-2017",
+   "path": "local/alba/ocna-mures/2017/64",
+   "short": "HCL Ocna Mureș nr. 64/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 64/2017 privind aprobarea achiziţiei publice „Servicii de dirigenție de șantier pentru lucrări de reparații și consolidare Școala primară Cisteiul de Mureş” cod CPV 71520000-9-Servicii de supraveghere a lucrărilor prin procedura „achiziție directă”, criteriul de atribuire fiind „preţul cel mai scăzut” | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/064.pdf",
+     "sha256": "b49ad1d1bcb539692fc1791115e2e0a4d5deae7f8f6e073ee18bfa286a289b5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-65-2017",
+   "path": "local/alba/ocna-mures/2017/65",
+   "short": "HCL Ocna Mureș nr. 65/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 65/2017 privind aprobarea achiziţiei publice „Servicii de dirigenție de șantier pentru lucrări de reparații și consolidare Școala primară Uioara de Sus” cod CPV 71520000-9-Servicii de supraveghere a lucrărilor prin procedura „achiziție directă”, criteriul de atribuire fiind „preţul cel mai scăzut” | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/065.pdf",
+     "sha256": "80038897a47b128798d00cc2968ce5ded2cfa913231350a990244a4ac24c7dbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-66-2017",
+   "path": "local/alba/ocna-mures/2017/66",
+   "short": "HCL Ocna Mureș nr. 66/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 66/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/066.pdf",
+     "sha256": "3d02adfd6e98893ba6c9d30b9d2397afa8d9e70a7abdb878da5b1e419d26c039"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-67-2017",
+   "path": "local/alba/ocna-mures/2017/67",
+   "short": "HCL Ocna Mureș nr. 67/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 67/2017 privind aprobarea trecerii, din domeniul privat al orașului Ocna Mureș a terenului cu CF. 79107- Ocna Mureş, nr.cad.79107 în suprafaţă de 2888 mp, în domeniul public al oraşului Ocna Mureş și alipirea terenului înscris în CF.79107-Ocna Mureş, cu nr.cad.79107 în suprafaţă de 2888 mp. cu terenul înscris în CF.79116- Ocna Mureş cu nr. cad.79116 în suprafaţă de 330 mp., în vederea formării unui singur",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/067.pdf",
+     "sha256": "347fa2a3b6947b19b5f1fb626d19cd2b7a57e98aa834da04d466b4470013bcb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-68-2017",
+   "path": "local/alba/ocna-mures/2017/68",
+   "short": "HCL Ocna Mureș nr. 68/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 68/2017 privind aprobarea situației denumite ”Evidența tuturor utilizatorilor cu și fără contracte de prestări servicii de salubrizare la nivelul oraşului Ocna Mureş”",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/068.pdf",
+     "sha256": "dc2dd5c889aa3fa18035f0620dffccef5634e9b67ac00e31814dabda76374b81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-69-2017",
+   "path": "local/alba/ocna-mures/2017/69",
+   "short": "HCL Ocna Mureș nr. 69/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 69/2017 privind achiziționarea, în condițiile legii, de servicii socio-medicale necesare în procesul de recuperare al copiilor cu dizabilități, în limita sumei de 1.193 lei/lună/beneficiar | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/069.pdf",
+     "sha256": "d36286ba7e46d6620e99938ba9a3bd80398eb3a800ef66cf1eb50dbfa48c7ca9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-7-2017",
+   "path": "local/alba/ocna-mures/2017/7",
+   "short": "HCL Ocna Mureș nr. 7/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 7/2017 privind modificarea și completarea Planului de ocupare a funcţiilor publice la nivelul UAT orașul Ocna Mureș pe anul 2017 | 04.02.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/007.pdf",
+     "sha256": "5cb1cec75b99dc7370b21b03519fb343559f627e07cead6d1fa1a7beb2794ef9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-70-2017",
+   "path": "local/alba/ocna-mures/2017/70",
+   "short": "HCL Ocna Mureș nr. 70/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 70/2017 pentru criteriile de acces la locuinţă şi criteriile de ierarhizare stabilite prin punctaj, din cadrul Criteriilor pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe şi în repartizarea locuinţelor pentru tineri, destinate închirierii, construite de Agenţia Naţională pentru Locuinţe | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/070.pdf",
+     "sha256": "bd58353d5f665ad5eb47eeb36c7a7184b7543f74bf1d5c513f3b27177095f832"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-71-2017",
    "path": "local/alba/ocna-mures/2017/71",
    "short": "HCL Ocna Mureș nr. 71/2017",
@@ -149,6 +2669,36 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/071.pdf",
      "sha256": "a851a710c2c92ffce2eecbd04c787a2b9f7cd5592fb638ae73fddcebace98fb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-72-2017",
+   "path": "local/alba/ocna-mures/2017/72",
+   "short": "HCL Ocna Mureș nr. 72/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 72/2017 privind modificarea și completarea Anexei nr 2-„Achizițiile directe la programul anual al achizițiilor publice pentru anul 2017” aprobata prin art.2 al HCLOM nr 51/21.03.2017, conform anexei care face parte integrantă din prezenta | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/072.pdf",
+     "sha256": "20840cefdf452b3d648acde46bd81bf81012f9a7b9dacc9a9afdc2ad55877e0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-73-2017",
+   "path": "local/alba/ocna-mures/2017/73",
+   "short": "HCL Ocna Mureș nr. 73/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 73/2017 privind aprobarea achiziţiei publice „Servicii de proiectare privind reabilitarea termică a SPITALULUI Orăşenesc Ocna Mureş şi a POLICLINICII Ocna Mureş”, cod CPV 71322000-1 Servicii de proiectare tehnică pentru construcţia de lucrări publice prin procedura „achiziție directă”, criteriul de atribuire fiind „cel mai bun raport calitate – preţ” | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/073.pdf",
+     "sha256": "49844f44bad5e2129df21ceea27a886e465ca126ccdaad7df90a116b3af657bc"
     }
    ]
   },
@@ -168,6 +2718,126 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-75-2017",
+   "path": "local/alba/ocna-mures/2017/75",
+   "short": "HCL Ocna Mureș nr. 75/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 75/2017 privind aprobarea indicatorilor tehnico-economici- pentru lucrarea de investiții „Modernizare str.Ax Sever, V.Lupu și Șt",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/075.pdf",
+     "sha256": "87724de12362461cbca2041a31cc28465dd81763936d685652fe851283374954"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-77-2017",
+   "path": "local/alba/ocna-mures/2017/77",
+   "short": "HCL Ocna Mureș nr. 77/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 77/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-14",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/077.pdf",
+     "sha256": "fac841edf6bb157000c101370ad44662dcad47bdb5a5512ef94e20e5d7c56dab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-78-2017",
+   "path": "local/alba/ocna-mures/2017/78",
+   "short": "HCL Ocna Mureș nr. 78/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 78/2017 privind aprobarea achiziţiei publice pentru „Lucrări de modernizare a str",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/078.pdf",
+     "sha256": "4f9a215b4be47cb70f447e621c1df506ea46a4ad0e398c64c741f4d1a2dbcea2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-79-2017",
+   "path": "local/alba/ocna-mures/2017/79",
+   "short": "HCL Ocna Mureș nr. 79/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 79/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/079.pdf",
+     "sha256": "1cedc54b4f0bde0d775b065564c43008bbd36d75092d7ac20493bc21f4e6bdf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-8-2017",
+   "path": "local/alba/ocna-mures/2017/8",
+   "short": "HCL Ocna Mureș nr. 8/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 8/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/008.pdf",
+     "sha256": "bfd8a4c4966644dfece85a52c4362ddbb8415a676b1e57b4875c83d2fe67860a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-80-2017",
+   "path": "local/alba/ocna-mures/2017/80",
+   "short": "HCL Ocna Mureș nr. 80/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 80/2017 privind aprobarea achiziţiei publice pentru „Lucrări de dirigentie de șantier pentru lucrări de modernizare a str",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/080.pdf",
+     "sha256": "dba297d0dff6c781b89d8e98e202a73855f05390fc5c30a1fd255666680eead9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-81-2017",
+   "path": "local/alba/ocna-mures/2017/81",
+   "short": "HCL Ocna Mureș nr. 81/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 81/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/081.pdf",
+     "sha256": "4a5ef4a3eaaa64d78a1ba116a78e570c48309ca1c948e5f0bfe8a9e2743153bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-82-2017",
+   "path": "local/alba/ocna-mures/2017/82",
+   "short": "HCL Ocna Mureș nr. 82/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 82/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/082.pdf",
+     "sha256": "b2eef1ca4f4a3b06848dd421c89901a25d9e121ab9d21d37c6cf5df793ea5291"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-84-2017",
    "path": "local/alba/ocna-mures/2017/84",
    "short": "HCL Ocna Mureș nr. 84/2017",
@@ -183,6 +2853,111 @@
    ]
   },
   {
+   "slug": "hcl-alba--ocna-mures-85-2017",
+   "path": "local/alba/ocna-mures/2017/85",
+   "short": "HCL Ocna Mureș nr. 85/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 85/2017 pentru modificarea anexei nr. 2 a HCLOM nr 51 din 21.03.2017 privind achizițiile directe la programul anual al achizițiilor publice pentru anul 2017 finanţate din bugetul local | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/085.pdf",
+     "sha256": "36ac7277636718d798da49ad0752ee0923912fc0903afefba7d168c08af5d877"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-86-2017",
+   "path": "local/alba/ocna-mures/2017/86",
+   "short": "HCL Ocna Mureș nr. 86/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 86/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/086.pdf",
+     "sha256": "6c3a0514c1b0acb836a66e993b417673ff81d8aadbe757d9327b974309a11ad1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-87-2017",
+   "path": "local/alba/ocna-mures/2017/87",
+   "short": "HCL Ocna Mureș nr. 87/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 87/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/087.pdf",
+     "sha256": "c3f57898f5aac839c9cb1f49f8cb8482259b0836c8a230ed058718cf18ce4fc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-88-2017",
+   "path": "local/alba/ocna-mures/2017/88",
+   "short": "HCL Ocna Mureș nr. 88/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 88/2017 privind rectificarea de buget şi modificarea listei de investiţii conform anexelor nr. 1 și 2 | 09.05.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/088.pdf",
+     "sha256": "508f4d949ff8e76e58b3974ea9042e2ea81cb5af1abb449ee83529c50a1a8f02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-89-2017",
+   "path": "local/alba/ocna-mures/2017/89",
+   "short": "HCL Ocna Mureș nr. 89/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 89/2017 privind aprobarea Planului de organizare a reţelei şcolare de pe raza administrativ-teritorială a Oraşului Ocna Mureş, pentru anul şcolar 2017 – 2018 | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/089.pdf",
+     "sha256": "6dfb61454619967be2345fbc4bf6803997ca90b5f1c9e680dd3e244a469b197e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-9-2017",
+   "path": "local/alba/ocna-mures/2017/9",
+   "short": "HCL Ocna Mureș nr. 9/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 9/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/009.pdf",
+     "sha256": "6d98a29d28fd89bdf9bbf58e98e370474bdc856055f01659428cf33ab9582425"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-90-2017",
+   "path": "local/alba/ocna-mures/2017/90",
+   "short": "HCL Ocna Mureș nr. 90/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 90/2017 privind alocarea sumei necesare plăţii contravalorii cheltuielilor cu naveta cadrelor didactice şi a personalului didactic auxiliar pentru luna martie și aprilie 2017 | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/090.pdf",
+     "sha256": "ded37e3b11233f568bb76d04c1e55f2b53a858e8bfd56e0370ecdbed5e5e02c4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--ocna-mures-91-2017",
    "path": "local/alba/ocna-mures/2017/91",
    "short": "HCL Ocna Mureș nr. 91/2017",
@@ -194,6 +2969,111 @@
      "units": 1,
      "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/091.pdf",
      "sha256": "6077ea6e868588c3c7e69055cbfb7c260c7ed5f2ddc6c1922b8484a9c3ac5b4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-93-2017",
+   "path": "local/alba/ocna-mures/2017/93",
+   "short": "HCL Ocna Mureș nr. 93/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 93/2017 privind aprobarea numărului de beneficiari, cuantumului şi categoriilor de burse pentru semestrul II, anul şcolar 2016-2017 care se acordă elevilor din învăţământul preuniversitar de stat din orasul Ocna Mureş | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/093.pdf",
+     "sha256": "182395179a7cc933876d712aa0ded5eed132f21fb7aa76ac6c02d2f1205fe27b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-94-2017",
+   "path": "local/alba/ocna-mures/2017/94",
+   "short": "HCL Ocna Mureș nr. 94/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 94/2017 privind înscrierea în domeniul privat al UAT Ocna Mureş a imobilului-apartament proprietate de stat în suprafață de 45 mp situat în Ocna Mureș, str",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/094.pdf",
+     "sha256": "026a7aa4143465f43c98355033614269003f3526c6c9593a25149dec14f1af0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-95-2017",
+   "path": "local/alba/ocna-mures/2017/95",
+   "short": "HCL Ocna Mureș nr. 95/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 95/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/095.pdf",
+     "sha256": "19078692075c91108c8ae0019203eafbcad71097dcb6dc3a209cee5e9750d9e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-96-2017",
+   "path": "local/alba/ocna-mures/2017/96",
+   "short": "HCL Ocna Mureș nr. 96/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 96/2017 privind încetarea contractului de închiriere nr 16344/23.11.2012, începând cu data de 02.06.2017, ca urmare a denunțării unilaterală de către chiriaș | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/096.pdf",
+     "sha256": "55909f1ba2e45746ad88dc87bfe698f9887a2ff7736c42918e05681bdac277e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-97-2017",
+   "path": "local/alba/ocna-mures/2017/97",
+   "short": "HCL Ocna Mureș nr. 97/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 97/2017 privind revocarea hotărârilor nr.196/25.09.2014 și respectiv nr.44/21.03.2017; transmiterea unui bun imobil-clădire și terenul aferent-din domeniul public al statului și din administrarea Ministerului Finanțelor Publice, în domeniul public al orașului Ocna Mureș | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/097.pdf",
+     "sha256": "ff7328d3001591b084ffdf6e3b809c679eafdb78e1e94b6dbd92922c1df65c0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-98-2017",
+   "path": "local/alba/ocna-mures/2017/98",
+   "short": "HCL Ocna Mureș nr. 98/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 98/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/098.pdf",
+     "sha256": "e5b0a463a53d37fd9c76c3595c23f0d644f25165ad293dbc8349318af57e08fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--ocna-mures-99-2017",
+   "path": "local/alba/ocna-mures/2017/99",
+   "short": "HCL Ocna Mureș nr. 99/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 99/2017 privind clarificarea situației juridice și închirierea, prin licitație publică, a terenului situat la adresa din Ocna Mureș, str. 9 Mai, nr.3, jud. Alba, înscris în CF 71856 Ocna Mureș, cu nr. cad. 71856, nr top 1752/3/8, în suprafață de 7,00 mp | 09.08.2017",
+   "url": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2017/",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2017/099.pdf",
+     "sha256": "a3acf75ebafdc8ad154f73813eb026cdf4b77c1fd1c3f21675fdb2a1e548cbfe"
     }
    ]
   }

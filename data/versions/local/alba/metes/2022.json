@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/metes/2022",
+ "acts": [
+  {
+   "slug": "hcl-alba--metes-12-2022",
+   "path": "local/alba/metes/2022/12",
+   "short": "HCL Meteș nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Meteș nr. 12/2022",
+   "url": "https://www.primariametes.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://www.primariametes.ro/wp-content/uploads/2022/11/HCL-12.07.2022.pdf",
+     "sha256": "c16dcfb26dc63a0447607a6e4b40edd5f43fd3b12863f49c327577593b383a21"
+    }
+   ]
+  }
+ ]
+}

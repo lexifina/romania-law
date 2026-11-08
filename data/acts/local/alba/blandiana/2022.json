@@ -1,0 +1,96 @@
+{
+"country": "RO",
+"shard": "local/alba/blandiana/2022",
+"acts": [
+{
+"slug": "hcl-alba--blandiana-12-2022",
+"path": "local/alba/blandiana/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 12/2022",
+"short": "HCL Blandiana nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+"council": "alba/blandiana",
+"council_name": "Consiliul Local al Comunei Blandiana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--blandiana-14-2022",
+"path": "local/alba/blandiana/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 14/2022 privind aprobarea proiectului de ordine de zi al ședinței extraordinare cu convocare de îndată, la distanță prin mijloace de comunicare electronică din data de 10.03.2022 Consiliul Local al Comunei Blandiana, întrunit în ședință extraordinară cu convocare de îndată, la distanță prin mijloace de comunicare electronică în data de 10 martie 2022, Luând în dezbatere: Dispoziția Primarului Comunei Blan",
+"short": "HCL Blandiana nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+"council": "alba/blandiana",
+"council_name": "Consiliul Local al Comunei Blandiana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--blandiana-15-2022",
+"path": "local/alba/blandiana/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 15/2022",
+"short": "HCL Blandiana nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-10",
+"latest": "2022-03-10",
+"portal": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+"council": "alba/blandiana",
+"council_name": "Consiliul Local al Comunei Blandiana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--blandiana-18-2022",
+"path": "local/alba/blandiana/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 18/2022 privind nominalizarea de către Consiliul Local al Comunei Blandiana a doi consilieri locali care vor avea calitatea de evaluatori în cadrul comisiei de evaluare a performanțelor profesionale individuale ale Secretarului general al Comunei Blandiana Consiliul local al comunei Blandiana, județul Alba intrunit in ședința publica ordinara, la distanta, prin mijloace de comunicare electronica, in data",
+"short": "HCL Blandiana nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+"council": "alba/blandiana",
+"council_name": "Consiliul Local al Comunei Blandiana",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

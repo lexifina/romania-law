@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/vintu-de-jos/2026",
+ "acts": [
+  {
+   "slug": "hcl-alba--vintu-de-jos-180-2026",
+   "path": "local/alba/vintu-de-jos/2026/180",
+   "short": "HCL Vințu de Jos nr. 180/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vințu de Jos nr. 180/2026",
+   "url": "https://vintudejos.ro/wp-content/uploads/2026/07/HCJ-Alba-nr.-180-din-data-de-24-iunie-2026-2.pdf",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://vintudejos.ro/wp-content/uploads/2026/07/HCJ-Alba-nr.-180-din-data-de-24-iunie-2026-2.pdf",
+     "sha256": "1aa9db89fb50931864bd20112fcb89b1df8c87fec63dd871ac4ac37aae36c4d0"
+    }
+   ]
+  }
+ ]
+}

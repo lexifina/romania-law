@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-alba--hoparta-66-2018",
+"path": "local/alba/hoparta/2018/66",
+"kind": "local",
+"year": "2018",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 66/2018",
+"short": "HCL Hopârta nr. 66/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-19",
+"latest": "2018-11-19",
+"portal": null,
+"council": "alba/hoparta",
+"council_name": "Consiliul Local al Comunei Hopârta",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-alba--hoparta-74-2018",
 "path": "local/alba/hoparta/2018/74",
 "kind": "local",

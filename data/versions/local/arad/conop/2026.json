@@ -3,6 +3,21 @@
  "shard": "local/arad/conop/2026",
  "acts": [
   {
+   "slug": "hcl-arad--conop-1-2026",
+   "path": "local/arad/conop/2026/1",
+   "short": "HCL Conop nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 1/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/246922",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/246922",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-10-2026",
    "path": "local/arad/conop/2026/10",
    "short": "HCL Conop nr. 10/2026",
@@ -73,6 +88,21 @@
      "from": "2026-01-30",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/249054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-15-2026",
+   "path": "local/arad/conop/2026/15",
+   "short": "HCL Conop nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 15/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/255054",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/255054",
      "sha256": null
     }
    ]
@@ -153,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-20-2026",
+   "path": "local/arad/conop/2026/20",
+   "short": "HCL Conop nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 20/2026 privind desemnarea unui membru provizoriu, reprezentant al Consiliului Local al comunei Conop în Consiliul de administrație al RPL Ocolul Silvic Valea Mureșului R.A",
+   "url": "https://emol.ro/conop-ar/registru-hcl/255059",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/255059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-21-2026",
+   "path": "local/arad/conop/2026/21",
+   "short": "HCL Conop nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 21/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/261371",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/261371",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-22-2026",
    "path": "local/arad/conop/2026/22",
    "short": "HCL Conop nr. 22/2026",
@@ -223,6 +283,21 @@
      "from": "2026-05-08",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/261376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-27-2026",
+   "path": "local/arad/conop/2026/27",
+   "short": "HCL Conop nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 27/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/262682",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/262682",
      "sha256": null
     }
    ]
@@ -333,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-34-2026",
+   "path": "local/arad/conop/2026/34",
+   "short": "HCL Conop nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 34/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/266880",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/266880",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-35-2026",
    "path": "local/arad/conop/2026/35",
    "short": "HCL Conop nr. 35/2026",
@@ -423,6 +513,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-40-2026",
+   "path": "local/arad/conop/2026/40",
+   "short": "HCL Conop nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 40/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/273139",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/273139",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-41-2026",
    "path": "local/arad/conop/2026/41",
    "short": "HCL Conop nr. 41/2026",
@@ -478,6 +583,36 @@
      "from": "2026-06-18",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/273143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-45-2026",
+   "path": "local/arad/conop/2026/45",
+   "short": "HCL Conop nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 45/2026",
+   "url": "https://emol.ro/conop-ar/registru-hcl/273144",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/273144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-46-2026",
+   "path": "local/arad/conop/2026/46",
+   "short": "HCL Conop nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 46/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/274995",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/274995",
      "sha256": null
     }
    ]
@@ -543,6 +678,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-50-2026",
+   "path": "local/arad/conop/2026/50",
+   "short": "HCL Conop nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 50/2026",
+   "url": "https://emol.ro/conop-ar/registru-hcl/274999",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/274999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-51-2026",
+   "path": "local/arad/conop/2026/51",
+   "short": "HCL Conop nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 51/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/278840",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/278840",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-52-2026",
    "path": "local/arad/conop/2026/52",
    "short": "HCL Conop nr. 52/2026",
@@ -568,6 +733,21 @@
      "from": "2026-07-17",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/278842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-54-2026",
+   "path": "local/arad/conop/2026/54",
+   "short": "HCL Conop nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 54/2026 privind constituirea unui drept de superficie cu titlu gratuit în favoarea UAT Comuna Conop, asupra imobilului-teren aflat în proprietatea Bisericii Ortodoxe Române Conop, în vederea realizării obiectivului de investiții „Construire capelă funerară”",
+   "url": "https://emol.ro/conop-ar/registru-hcl/278843",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/278843",
      "sha256": null
     }
    ]
@@ -628,6 +808,66 @@
      "from": "2026-07-17",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/278847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-59-2026",
+   "path": "local/arad/conop/2026/59",
+   "short": "HCL Conop nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 59/2026 privind prelungirea mandatului provizoriu al reprezentantului Consiliului Local al comunei Conop în Consiliul de administrație al RPL Ocolul Silvic Valea Mureșului R.A",
+   "url": "https://emol.ro/conop-ar/registru-hcl/278848",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/278848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-6-2026",
+   "path": "local/arad/conop/2026/6",
+   "short": "HCL Conop nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 6/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/249046",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/249046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-60-2026",
+   "path": "local/arad/conop/2026/60",
+   "short": "HCL Conop nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 60/2026 privind aprobarea modificării numărului asistenţilor personali ai persoanelor cu handicap grav pentru anul 2026, stabilit prin Hotărârea Consiliului Local Conop nr.30/14.04.2026",
+   "url": "https://emol.ro/conop-ar/registru-hcl/278849",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/278849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-61-2026",
+   "path": "local/arad/conop/2026/61",
+   "short": "HCL Conop nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 61/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/283057",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/283057",
      "sha256": null
     }
    ]
@@ -703,6 +943,51 @@
      "from": "2026-08-28",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/283062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-67-2026",
+   "path": "local/arad/conop/2026/67",
+   "short": "HCL Conop nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 67/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/289452",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/289452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-68-2026",
+   "path": "local/arad/conop/2026/68",
+   "short": "HCL Conop nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 68/2026 Privind aprobarea proiectului, aprobarea depunerii proiectului în vederea obținerii finanțării, aprobarea Studiului de fezabilitate, aprobarea cheltuielilor, care țin de proiect și desemnarea persoanei responsabile pentru proiectul „Capacități de producere a energiei din surse regenerabile de energie pentru consum propriu în Comuna Conop, Județul Arad”",
+   "url": "https://emol.ro/conop-ar/registru-hcl/289453",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/289453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-69-2026",
+   "path": "local/arad/conop/2026/69",
+   "short": "HCL Conop nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 69/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/290288",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/290288",
      "sha256": null
     }
    ]

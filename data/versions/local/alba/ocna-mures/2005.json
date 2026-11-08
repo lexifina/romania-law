@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/ocna-mures/2005",
+ "acts": [
+  {
+   "slug": "hcl-alba--ocna-mures-214-2005",
+   "path": "local/alba/ocna-mures/2005/214",
+   "short": "HCL Ocna Mureș nr. 214/2005",
+   "title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 214/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-07-20",
+     "units": 1,
+     "source_url": "http://primariaocnamures.ro/consiliul-local/hotarari/2018/H%20214%2028.11.2018.pdf",
+     "sha256": "4cbbafbbbef6a4366a4962cc06f5aa56329a914d605bba4d3437a08f057af753"
+    }
+   ]
+  }
+ ]
+}

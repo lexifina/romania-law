@@ -3,6 +3,21 @@
  "shard": "local/arad/archis/2021",
  "acts": [
   {
+   "slug": "hcl-arad--archis-1321-2021",
+   "path": "local/arad/archis/2021/1321",
+   "short": "HCL Archiș nr. 1321/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Archiș nr. 1321/2021",
+   "url": "https://archis-arad.ro/page/10/",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://archis-arad.ro/wp-content/uploads/2021/08/raport-final-nr-1321-27.08.2021-concurs.pdf",
+     "sha256": "3c8377922c474928c72b3ec91ae52fca633d38f6570022392fb3468b2dc45c8d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--archis-18-2021",
    "path": "local/arad/archis/2021/18",
    "short": "HCL Archiș nr. 18/2021",

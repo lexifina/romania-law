@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/alba/hoparta/2017",
+"acts": [
+{
+"slug": "hcl-alba--hoparta-1-2017",
+"path": "local/alba/hoparta/2017/1",
+"kind": "local",
+"year": "2017",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 1/2017",
+"short": "HCL Hopârta nr. 1/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-05",
+"latest": "2017-01-05",
+"portal": "https://www.primariahopirta.ro/hotarari-consiliu-local-2017/",
+"council": "alba/hoparta",
+"council_name": "Consiliul Local al Comunei Hopârta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--hoparta-6-2017",
+"path": "local/alba/hoparta/2017/6",
+"kind": "local",
+"year": "2017",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 6/2017",
+"short": "HCL Hopârta nr. 6/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-10",
+"latest": "2017-01-10",
+"portal": "https://www.primariahopirta.ro/hotarari-consiliu-local-2017/",
+"council": "alba/hoparta",
+"council_name": "Consiliul Local al Comunei Hopârta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--hoparta-11-2017",
+"path": "local/alba/hoparta/2017/11",
+"kind": "local",
+"year": "2017",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 11/2017",
+"short": "HCL Hopârta nr. 11/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-02-12",
+"latest": "2017-02-12",
+"portal": "https://www.primariahopirta.ro/hotarari-consiliu-local-2017/",
+"council": "alba/hoparta",
+"council_name": "Consiliul Local al Comunei Hopârta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--hoparta-13-2017",
+"path": "local/alba/hoparta/2017/13",
+"kind": "local",
+"year": "2017",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 13/2017",
+"short": "HCL Hopârta nr. 13/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-02-19",
+"latest": "2017-02-19",
+"portal": "https://www.primariahopirta.ro/hotarari-consiliu-local-2017/",
+"council": "alba/hoparta",
+"council_name": "Consiliul Local al Comunei Hopârta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--hoparta-20-2017",
+"path": "local/alba/hoparta/2017/20",
+"kind": "local",
+"year": "2017",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 20/2017",
+"short": "HCL Hopârta nr. 20/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-03-21",
+"latest": "2017-03-21",
+"portal": "https://www.primariahopirta.ro/hotarari-consiliu-local-2017/",
+"council": "alba/hoparta",
+"council_name": "Consiliul Local al Comunei Hopârta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--hoparta-22-2017",
+"path": "local/alba/hoparta/2017/22",
+"kind": "local",
+"year": "2017",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 22/2017",
+"short": "HCL Hopârta nr. 22/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-03-30",
+"latest": "2017-03-30",
+"portal": "https://www.primariahopirta.ro/hotarari-consiliu-local-2017/",
+"council": "alba/hoparta",
+"council_name": "Consiliul Local al Comunei Hopârta",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

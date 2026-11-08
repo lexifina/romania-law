@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/alba/lupsa/2026",
+ "acts": [
+  {
+   "slug": "hcl-alba--lupsa-71-2026",
+   "path": "local/alba/lupsa/2026/71",
+   "short": "HCL Lupșa nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșa nr. 71/2026 privind aprobarea execuției bugetare la 30 IUNIE 2026",
+   "url": "https://primarialupsa.ro/wp-content/uploads/2026/08/HOTARAREA-NR.-71-privind-aprobarea-executiei-bugetare-la-30-IUNIE-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primarialupsa.ro/wp-content/uploads/2026/08/HOTARAREA-NR.-71-privind-aprobarea-executiei-bugetare-la-30-IUNIE-2026.pdf",
+     "sha256": "7d06d0959de4adf5bd601b919b8f78344ca33766a87873bdc9532064a8c31b4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--lupsa-73-2026",
+   "path": "local/alba/lupsa/2026/73",
+   "short": "HCL Lupșa nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșa nr. 73/2026 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local al comunei Lupșa pe data de 23.08.2026",
+   "url": "https://primarialupsa.ro/wp-content/uploads/2026/09/HOTARAREA-Nr.-73-privind-aprobarea-ordinii-de-zi-a-sedintei-extraordinare-a-Consiliului-Local-al-comunei-Lupsa-pe-data-de-23.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 1,
+     "source_url": "https://primarialupsa.ro/wp-content/uploads/2026/09/HOTARAREA-Nr.-73-privind-aprobarea-ordinii-de-zi-a-sedintei-extraordinare-a-Consiliului-Local-al-comunei-Lupsa-pe-data-de-23.08.2026.pdf",
+     "sha256": "6e97fb3eea95a35bfdc2ba17b269267b1c42d8f5cedbeb49715c92bca267b384"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--lupsa-79-2026",
+   "path": "local/alba/lupsa/2026/79",
+   "short": "HCL Lupșa nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșa nr. 79/2026 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local al comunei Lupșa pe data de 08.09.2026",
+   "url": "https://primarialupsa.ro/wp-content/uploads/2026/09/HOTARAREA-Nr.-79-privind-aprobarea-ordinii-de-zi-a-sedintei-extraordinare-a-Consiliului-Local-al-comunei-Lupsa-pe-data-de-08.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://primarialupsa.ro/wp-content/uploads/2026/09/HOTARAREA-Nr.-79-privind-aprobarea-ordinii-de-zi-a-sedintei-extraordinare-a-Consiliului-Local-al-comunei-Lupsa-pe-data-de-08.09.2026.pdf",
+     "sha256": "c7c75858db22bc193225c203608d35344d4871c398924d0c2bd1320c27acbfc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--lupsa-86-2026",
+   "path": "local/alba/lupsa/2026/86",
+   "short": "HCL Lupșa nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșa nr. 86/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al UAT Lupșa pe data de 21.09.2026",
+   "url": "https://primarialupsa.ro/wp-content/uploads/2026/10/HOTARAREA-Nr.-86-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-Consiliului-Local-al-UAT-Lupsa-pe-data-de-21.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://primarialupsa.ro/wp-content/uploads/2026/10/HOTARAREA-Nr.-86-privind-aprobarea-ordinii-de-zi-a-sedintei-ordinare-a-Consiliului-Local-al-UAT-Lupsa-pe-data-de-21.09.2026.pdf",
+     "sha256": "1c5c9beb9b70804ba1dceb4c03de803d2ce3de12127fc8e9f4ca6e9330437859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--lupsa-93-2026",
+   "path": "local/alba/lupsa/2026/93",
+   "short": "HCL Lupșa nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșa nr. 93/2026 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local al comunei Lupșa pe data de 28.09.2026",
+   "url": "https://primarialupsa.ro/wp-content/uploads/2026/10/HOTARAREA-Nr.-93-privind-aprobarea-ordinii-de-zi-a-sedintei-extraordinare-a-Consiliului-Local-al-comunei-Lupsa-pe-data-de-28.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://primarialupsa.ro/wp-content/uploads/2026/10/HOTARAREA-Nr.-93-privind-aprobarea-ordinii-de-zi-a-sedintei-extraordinare-a-Consiliului-Local-al-comunei-Lupsa-pe-data-de-28.09.2026.pdf",
+     "sha256": "41052e51d100970db4c66c92aac125c5659a5f1c23c8ee026f69a6d8163ee753"
+    }
+   ]
+  }
+ ]
+}

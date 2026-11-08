@@ -3,6 +3,81 @@
  "shard": "local/alba/pianu/2023",
  "acts": [
   {
+   "slug": "hcl-alba--pianu-103-2023",
+   "path": "local/alba/pianu/2023/103",
+   "short": "HCL Pianu nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 103/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7b030aafa022ec7b5bb3bf7eda54c55eded3ac4f7a67876f3e422dabe706d0f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-104-2023",
+   "path": "local/alba/pianu/2023/104",
+   "short": "HCL Pianu nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 104/2023 privind Aprobarea modificării Organigramei și a Statului de funcții a comunei Pianu, ca urmare a reducerii cu 10 % a numărului de posturi pentru aplicarea pr 2023 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2023",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotarare_nr__104_din_10_11_2023___privind_aprobarea_modificarii_organigramei_si_a_statului_de_functii_a_comunei_pianu__ca_urmare_a_reducerii_cu_10___a_numarului_de_posturi_pentru_aplicarea_prevederilor_legii_nr__296_2023__2023_1938912.pdf",
+     "sha256": "f49fa850207d58956f2fd49eaf6c3151ae5cd5b2b4500b6cda4951bc71ba99a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-106-2023",
+   "path": "local/alba/pianu/2023/106",
+   "short": "HCL Pianu nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 106/2023 privind Aprobare rectificare bugetară; 2023 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2023",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotarare_nr__106_din_10_11_2023___privind_aprobare_rectificare__bugetara__2023_4943721.pdf",
+     "sha256": "619d98102cd40a5756c3c1dd8770e7937f6078ba92308e70216adb5fc6b2d932"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-107-2023",
+   "path": "local/alba/pianu/2023/107",
+   "short": "HCL Pianu nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 107/2023",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2023",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotarare_nr__107_din_10_11_2023___propunere_atribuire_teren_prin_ordinul_prefectului__2023_5400831.pdf",
+     "sha256": "5d6f9ae3b2d53544ee88c715a262319f5664082a6f2e150e401688df147504f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-108-2023",
+   "path": "local/alba/pianu/2023/108",
+   "short": "HCL Pianu nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 108/2023 privind aprobarea ordinii de zi a Consiliului Local al Comunei Pianu în ședința ordinară din luna decembrie 2023; 2023 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2023",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__108_din_12_12_2023___anexa___privind_aprobarea_ordinii_de_zi_a_consiliului_local_al_comunei_pianu_in_sedinta_ordinara_din_luna_decembrie_2023__2023_8887166.pdf",
+     "sha256": "4d5fa32f34565cca9509ca7093bf15f88fda064edf7e30f515435244c93cf2f7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--pianu-109-2023",
    "path": "local/alba/pianu/2023/109",
    "short": "HCL Pianu nr. 109/2023",
@@ -14,6 +89,96 @@
      "units": 1,
      "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__109_din_12_12_2023___privind_aprobarea_stabilirii_impozitelor_si_taxelor_locale__precum_si_a_taxelor_speciale_pentru_2024__2023_7381904.pdf",
      "sha256": "1c9f7bbdd199d489cb0e3ece7daf24f51746a8fc5ec4cc45e6298af979f94298"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-11-2023",
+   "path": "local/alba/pianu/2023/11",
+   "short": "HCL Pianu nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 11/2023 privind Aprobarea Bugetului Local, a Bugetului de Venituri Proprii pe anul 2023; 2024 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2024",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__11_din_10_02_2023__anexa____privind_aprobarea_bugetului_local__a_bugetului_de_venituri_proprii_pe_anul_2023__2024_4623226.pdf",
+     "sha256": "3416fefc5948ca17eda7c5ff5bacf5ee566d18fdbf0044663ef72d55cbb58a2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-110-2023",
+   "path": "local/alba/pianu/2023/110",
+   "short": "HCL Pianu nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 110/2023 privind Aprobarea Planului de acțiuni/lucrări de interes public local pentru persoanele apte de muncă, beneficiari de ajutor social, pentru anul 2024 2023 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2023",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__110_din_12_12_2023__anexa___privind_aprobarea_planului_de_actiuni_lucrari_de_interes_public_local_pentru_persoanele_apte_de_munca__beneficiari_de_ajutor_social__pentru_anul_2024__2023_9297131.pdf",
+     "sha256": "1c32bcb6f3132ff734cbe4e2f09b2d93ab337c48060ef7b07b8763bf5db04c42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-114-2023",
+   "path": "local/alba/pianu/2023/114",
+   "short": "HCL Pianu nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 114/2023 privind Aprobare rectificare bugetară; 2023 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2023",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__114_din_12_12_2023__privind_aprobare_rectificare_bugetara__2023_5499994.pdf",
+     "sha256": "243bb10617de3301a92ac809860029bf0203de2fc2369192d0564308c30269f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-115-2023",
+   "path": "local/alba/pianu/2023/115",
+   "short": "HCL Pianu nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 115/2023 privind aprobare investiție „Extindere rețele de apă și canalizare în localitatea Pianu de Sus com. Pianu, Jud Alba” obiectivul„ Amenajare șanț din beton, în 2023 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2023",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__115_din_12_12_2023__privind_aprobare_investitie___extindere_retele_de_apa_si_canalizare_in_localitatea_pianu_de_sus_com__pianu__jud_alba__obiectivul___amenajare_sant_din_beton__intre_str__gruiete___str__bisericii___2023_7311622.pdf",
+     "sha256": "148eb0598870b029928b2dd7dd4df5fb5531c3ea289beaeeac88742edb78532e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-117-2023",
+   "path": "local/alba/pianu/2023/117",
+   "short": "HCL Pianu nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 117/2023 privind aprobarea ordinii de zi a Consiliului Local al Comunei Pianu în ședința de îndată din luna decembrie 2023; 2023 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2023",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__117_din_19_12_2023___privind_aprobarea_ordinii_de_zi_a_consiliului_local_al_comunei_pianu_in_sedinta_de_indata__din_luna_decembrie_2023__2023_1330164.pdf",
+     "sha256": "f933021cff36e172997b7a66deb071aa8d4303769c1646bf5e5745ff9bfafdd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--pianu-118-2023",
+   "path": "local/alba/pianu/2023/118",
+   "short": "HCL Pianu nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pianu nr. 118/2023 privind Aprobare rectificare bugetară; 2023 Descarcă",
+   "url": "https://www.primariapianu.ro/documente/categoria/hotararile-autoritatii-deliberative/anul/2023",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariapianu.ro/storage/documents/hotararea_nr__118_din_19_12_2023___privind_aprobare_rectificare_bugetara__2023_7995369.pdf",
+     "sha256": "6a7e013df331aac2d2dc6314a1804798b706fa21e9f2961313a56f571009d75d"
     }
    ]
   }

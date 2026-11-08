@@ -3,6 +3,36 @@
  "shard": "local/arad/halmagel/2024",
  "acts": [
   {
+   "slug": "hcl-arad--halmagel-1-2024",
+   "path": "local/arad/halmagel/2024/1",
+   "short": "HCL Hălmăgel nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 1/2024 privind alegerea președintelui de ședință din data de 26.01.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155491",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-10-2024",
+   "path": "local/arad/halmagel/2024/10",
+   "short": "HCL Hălmăgel nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 10/2024 privind aprobarea procesului verbal al ședinței consiliului local al comunei Hălmăgel din data de 26.01.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155506",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155506",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagel-11-2024",
    "path": "local/arad/halmagel/2024/11",
    "short": "HCL Hălmăgel nr. 11/2024",
@@ -13,6 +43,21 @@
      "from": "2024-05-08",
      "units": 1,
      "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-12-2024",
+   "path": "local/arad/halmagel/2024/12",
+   "short": "HCL Hălmăgel nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 12/2024 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și/sau finanțate din bugetul Consiliului Local al comunei Hălmăgel, judetul Arad",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155508",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155508",
      "sha256": null
     }
    ]
@@ -33,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--halmagel-14-2024",
+   "path": "local/arad/halmagel/2024/14",
+   "short": "HCL Hălmăgel nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 14/2024 privind alegerea președintelui de ședință din data de 29.03.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155530",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155530",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagel-15-2024",
    "path": "local/arad/halmagel/2024/15",
    "short": "HCL Hălmăgel nr. 15/2024",
@@ -43,6 +103,36 @@
      "from": "2024-05-08",
      "units": 1,
      "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-16-2024",
+   "path": "local/arad/halmagel/2024/16",
+   "short": "HCL Hălmăgel nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 16/2024 privind aprobarea procesului verbal al ședinței Consiliului Local al comunei Hălmăgel din data de 12.02.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155532",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-17-2024",
+   "path": "local/arad/halmagel/2024/17",
+   "short": "HCL Hălmăgel nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 17/2024 privind aprobarea Regulamentului de organizare al traficului autovehiculelor cu masa maxima autorizata mai mare de 3,5 to în comuna Hălmăgel",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155533",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155533",
      "sha256": null
     }
    ]
@@ -63,6 +153,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--halmagel-19-2024",
+   "path": "local/arad/halmagel/2024/19",
+   "short": "HCL Hălmăgel nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 19/2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155535",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-2-2024",
+   "path": "local/arad/halmagel/2024/2",
+   "short": "HCL Hălmăgel nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 2/2024 privind aprobarea ordinii de zi a ședinței Consiliului Local al comunei Hălmăgel din data de 26.01.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155492",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-20-2024",
+   "path": "local/arad/halmagel/2024/20",
+   "short": "HCL Hălmăgel nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 20/2024 privind delegarea gestiunii unor activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor, Județul Arad ADISIGD Arad din Zona 4 a județului Arad, avizarea Strategiei de contractare, a Studiului de fundamentare și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, Zona 4",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155536",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155536",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagel-21-2024",
    "path": "local/arad/halmagel/2024/21",
    "short": "HCL Hălmăgel nr. 21/2024",
@@ -73,6 +208,231 @@
      "from": "2024-05-08",
      "units": 1,
      "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-22-2024",
+   "path": "local/arad/halmagel/2024/22",
+   "short": "HCL Hălmăgel nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 22/2024 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 23",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155538",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-23-2024",
+   "path": "local/arad/halmagel/2024/23",
+   "short": "HCL Hălmăgel nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 23/2024 privind alegerea președintelui de ședință din data de 30.04.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/159842",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/159842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-24-2024",
+   "path": "local/arad/halmagel/2024/24",
+   "short": "HCL Hălmăgel nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 24/2024 privind aprobarea ordinii de zi a ședinței consiliului local al comunei Hălmăgel din data de 30.04.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/159843",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/159843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-25-2024",
+   "path": "local/arad/halmagel/2024/25",
+   "short": "HCL Hălmăgel nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 25/2024 privind aprobarea procesului-verbal al ședinței consiliului local l comunei Hălmăgel din data de 29.03.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/159844",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/159844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-26-2024",
+   "path": "local/arad/halmagel/2024/26",
+   "short": "HCL Hălmăgel nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 26/2024 privind aprobarea execuție bugetare pe trimestrul III/2023",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/159845",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/159845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-27-2024",
+   "path": "local/arad/halmagel/2024/27",
+   "short": "HCL Hălmăgel nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 27/2024 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență si a ajutoarelor comunitare prevăzute de Legea nr. 196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/159846",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/159846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-28-2024",
+   "path": "local/arad/halmagel/2024/28",
+   "short": "HCL Hălmăgel nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 28/2024 privind alegerea președintelui de ședință din data de 31.05.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/159847",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/159847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-29-2024",
+   "path": "local/arad/halmagel/2024/29",
+   "short": "HCL Hălmăgel nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 29/2024 privind aprobarea ordinii de zi a ședinței consiliului local al comunei Hălmăgel din data de 31.05.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/159848",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/159848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-3-2024",
+   "path": "local/arad/halmagel/2024/3",
+   "short": "HCL Hălmăgel nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 3/2024 privind aprobarea procesului verbal al ședinței Consiliului Local al comunei Hălmăgel din data de 27.12.2023",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155493",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-30-2024",
+   "path": "local/arad/halmagel/2024/30",
+   "short": "HCL Hălmăgel nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 30/2024 privind aprobarea procesului-verbal al ședinței consiliului local al comunei Hălmăgel din data de 30.04.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/159849",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/159849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-31-2024",
+   "path": "local/arad/halmagel/2024/31",
+   "short": "HCL Hălmăgel nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 31/2024 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 24",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/159850",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/159850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-32-2024",
+   "path": "local/arad/halmagel/2024/32",
+   "short": "HCL Hălmăgel nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 32/2024 privind aprobarea protocolului de colaborare pentru realizarea lucrărilor de decolmatare și amenajare pe cursurile de apă :valea Hălmăgel și valea Luncșoara",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/159851",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/159851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-33-2024",
+   "path": "local/arad/halmagel/2024/33",
+   "short": "HCL Hălmăgel nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 33/2024 privind alegerea președintelui de ședință din data de 28.06.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169242",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-34-2024",
+   "path": "local/arad/halmagel/2024/34",
+   "short": "HCL Hălmăgel nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 34/2024 privind aprobarea ordinii de zi a ședinței consiliului local al comunei Hălmăgel din data de 28.06.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169243",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-35-2024",
+   "path": "local/arad/halmagel/2024/35",
+   "short": "HCL Hălmăgel nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 35/2024 privind aprobarea procesului verbal al ședinței consiliului local al comunei Hălmăgel din data de 31.05.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169244",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169244",
      "sha256": null
     }
    ]
@@ -93,6 +453,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--halmagel-37-2024",
+   "path": "local/arad/halmagel/2024/37",
+   "short": "HCL Hălmăgel nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 37/2024 privind alegerea președintelui de ședință din data de 29.07.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169246",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-38-2024",
+   "path": "local/arad/halmagel/2024/38",
+   "short": "HCL Hălmăgel nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 38/2024 privind aprobarea ordinii de zi a ședinței consiliului local al comunei Hălmăgel din data de 29.07.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169247",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-39-2024",
+   "path": "local/arad/halmagel/2024/39",
+   "short": "HCL Hălmăgel nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 39/2024 privind aprobarea procesului verbal al ședinței consiliului local al comunei Hălmăgel din data de 28.06.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169248",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169248",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagel-4-2024",
    "path": "local/arad/halmagel/2024/4",
    "short": "HCL Hălmăgel nr. 4/2024",
@@ -103,6 +508,501 @@
      "from": "2024-05-08",
      "units": 1,
      "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-40-2024",
+   "path": "local/arad/halmagel/2024/40",
+   "short": "HCL Hălmăgel nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 40/2024 privind rectificarea în trimestrul III/2024, a bugetului local aprobat pentru anul 2024 de către Consiliul Local al Comunei Hălmăgel prin Hotărârea nr. 11 din 12.02.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169249",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-41-2024",
+   "path": "local/arad/halmagel/2024/41",
+   "short": "HCL Hălmăgel nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 41/2024 privind aprobarea încheierii unui Protocol de finanțare între Unitatea Administrativ-Teritorială Județul Arad și Unitatea Administrativ-Teritorială Comuna Hălmăgel în vederea implementării și derulării Programului multianual privind finanțarea elaborării și/sau actualizării planurilor urbanistice generale ale localităților și a regulamentelor locale de urbanism pentru perioada 2024-2027",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169250",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-42-2024",
+   "path": "local/arad/halmagel/2024/42",
+   "short": "HCL Hălmăgel nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 42/2024 privind aprobarea Raportului asupra activității desfășurate de asistenții personali ai persoanelor cu handicap grav pe semestrul I al anului 2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169251",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-43-2024",
+   "path": "local/arad/halmagel/2024/43",
+   "short": "HCL Hălmăgel nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 43/2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169252",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-44-2024",
+   "path": "local/arad/halmagel/2024/44",
+   "short": "HCL Hălmăgel nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 44/2024 privind alegerea președintelui de ședință din data de 26.08.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169253",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-45-2024",
+   "path": "local/arad/halmagel/2024/45",
+   "short": "HCL Hălmăgel nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 45/2024 privind aprobarea ordinii de zi a ședinței consiliului local al comunei Hălmăgel din data de 26.08.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169254",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-46-2024",
+   "path": "local/arad/halmagel/2024/46",
+   "short": "HCL Hălmăgel nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 46/2024 privind aprobarea procesului verbal al ședinței consiliului local al comunei Hălmăgel din data de 29.07.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169255",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-47-2024",
+   "path": "local/arad/halmagel/2024/47",
+   "short": "HCL Hălmăgel nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 47/2024 privind aprobarea Contractului de delegare (operare a stațiilor de transfer) prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor județul Arad, respectiv transferul deşeurilor municipale în staţiile de transfer Bârzava, Chișineu-Criș și Sebiș, inclusiv transportul separat al deşeurilor reziduale la depozitul de deşeuri nepericuloase şi la instalaţiile integrate de tratare al deşeurilor de hârtie, metal, plastic şi sticlă colectate separat la staţiile de sortare şi al biodeşeurilor la instalaţiile de compostare",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169256",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-48-2024",
+   "path": "local/arad/halmagel/2024/48",
+   "short": "HCL Hălmăgel nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 48/2024 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 26",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169257",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-49-2024",
+   "path": "local/arad/halmagel/2024/49",
+   "short": "HCL Hălmăgel nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 49/2024 privind aprobarea Proiectului tehnic de executie, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “Modernizare DC 46 Luncșoara, DC 47 Țohești și străzi aferente din comuna Hălmăgel, Județeul Arad”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/169258",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/169258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-5-2024",
+   "path": "local/arad/halmagel/2024/5",
+   "short": "HCL Hălmăgel nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 5/2024 privind aprobarea Contractului de delegare a gestiunii serviciului de eliminare, prin depozitare, a deşeurilor reziduale, a deşeurilor stradale, a deşeurilor de pământ şi pietre provenite de pe căile publice, a reziduurilor rezultate de la instalaţiile de tratare a deşeurilor municipale, precum şi a deşeurilor care nu pot fi valorificate provenite din activităţi de reamenajare şi reabilitare interioară şi/sau exterioară a locuinţelor la depozitele de deşeuri nepericuloase în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în Județul Arad – Operarea Depozitului de deșeuri nepericuloase Arad, componenta eliminare, prin depozitare, a deșeurilor municipale reziduale, a reziduurilor rezultate de la instalaţiile de tratare a deşeurilor municipale, precum, a deşeurilor care nu pot fi valorificate provenite din activităţi de reamenajare şi reabilitare interioară şi/sau exterioară a locuinţelor si a deșeurilor ce nu pot fi valorificate din deșeurile voluminoase, deșeurile textile și deșeurile provenite de la evenimente la depozitul de deşeuri nepericuloase din Aria Delegării",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155495",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-50-2024",
+   "path": "local/arad/halmagel/2024/50",
+   "short": "HCL Hălmăgel nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 50/2024 privind alegerea președintelui de ședință din data de 27.09.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/179984",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/179984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-51-2024",
+   "path": "local/arad/halmagel/2024/51",
+   "short": "HCL Hălmăgel nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 51/2024 privind aprobarea ordinii de zi a ședinței Consiliului local al comunei Hălmăgel din data de 27.09.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/179985",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/179985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-52-2024",
+   "path": "local/arad/halmagel/2024/52",
+   "short": "HCL Hălmăgel nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 52/2024 privind aprobarea procesului verbal al ședinței Consiliului local al comunei Hălmăgel din data de 26.08.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/179986",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/179986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-53-2024",
+   "path": "local/arad/halmagel/2024/53",
+   "short": "HCL Hălmăgel nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 53/2024 privind desemnarea reprezentantului Consiliului Local al Comunei Hălmăgel în Consiliul de Administrație al Școlii Gimnaziale Hălmăgel",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181185",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-54-2024",
+   "path": "local/arad/halmagel/2024/54",
+   "short": "HCL Hălmăgel nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 54/2024 privind alegerea președintelui de ședință din data de 27.09.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181190",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-55-2024",
+   "path": "local/arad/halmagel/2024/55",
+   "short": "HCL Hălmăgel nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 55/2024 privind aprobarea ordinii de zi a ședinței Consiliului local al comunei Hălmăgel din data de 18.10.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181192",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-56-2024",
+   "path": "local/arad/halmagel/2024/56",
+   "short": "HCL Hălmăgel nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 56/2024 privind aprobarea procesului verbal al ședinței consiliului local al comunei Hălmăgel din data de 27.09.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181191",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-57-2024",
+   "path": "local/arad/halmagel/2024/57",
+   "short": "HCL Hălmăgel nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 57/2024 privind aprobarea studiului de fezabilitate/documentatiei de avizare a lucrarilor de interventii, a indicatorilor tehnico-economici/indicatorilor tehnico-economici actualizati si a devizului general actualizat pentru obiectivul de investiții “MODERNIZARE DC 46 LUNCȘOARA, DC 47 ȚOHEȘTI ȘI STRĂZI AFERENTE DIN COMUNA HĂLMĂGEL, JUDEȚEUL ARAD”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181193",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-58-2024",
+   "path": "local/arad/halmagel/2024/58",
+   "short": "HCL Hălmăgel nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 58/2024 privind alegerea președintelui de ședință din data de 29.10.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181221",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-59-2024",
+   "path": "local/arad/halmagel/2024/59",
+   "short": "HCL Hălmăgel nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 59/2024 privind aprobarea ordinii de zi a ședinței Consiliului local al comunei Hălmăgel din data de 29.10.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181222",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-6-2024",
+   "path": "local/arad/halmagel/2024/6",
+   "short": "HCL Hălmăgel nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 6/2024 privind plata cotizaţiei Consiliului Local al comunei Hălmăgel aferentă anului 2024, la bugetul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155496",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-60-2024",
+   "path": "local/arad/halmagel/2024/60",
+   "short": "HCL Hălmăgel nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 60/2024 privind aprobarea procesului verbal al ședinței Consiliului local al comunei Hălmăgel din data de 18.10.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181223",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-61-2024",
+   "path": "local/arad/halmagel/2024/61",
+   "short": "HCL Hălmăgel nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 61/2024 privind constituirea comisiilor de specialitate ale Consiliului Local al Comunei Hălmăgel",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181224",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-62-2024",
+   "path": "local/arad/halmagel/2024/62",
+   "short": "HCL Hălmăgel nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 62/2024 privind alegerea viceprimarului comunei Hălmăgel",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181225",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-63-2024",
+   "path": "local/arad/halmagel/2024/63",
+   "short": "HCL Hălmăgel nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 63/2024 privind rectificarea în trimestrul IV/2024, a bugetului local aprobat pentru anul 2024 de către Consiliul Local al Comunei Hălmăgel prin Hotărârea nr. 11 din 12.02.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181226",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-64-2024",
+   "path": "local/arad/halmagel/2024/64",
+   "short": "HCL Hălmăgel nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 64/2024 privind alegerea președintelui de ședință din data de 08.11.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181227",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-65-2024",
+   "path": "local/arad/halmagel/2024/65",
+   "short": "HCL Hălmăgel nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 65/2024 privind aprobarea ordinii de zi a ședinței Consiliului local al comunei Hălmăgel din data de 08.11.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181228",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-66-2024",
+   "path": "local/arad/halmagel/2024/66",
+   "short": "HCL Hălmăgel nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 66/2024 privind aprobarea procesului verbal al ședinței Consiliului local al comunei Hălmăgel din data de 29.10. 2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181229",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-67-2024",
+   "path": "local/arad/halmagel/2024/67",
+   "short": "HCL Hălmăgel nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 67/2024 privind modificarea art.7 și 8 din Hotărârea nr. 56/12.07.2023 privind implementarea Proiectului „AMENAJARE SPAȚIU RECREATIV-PARC PRIN ACHIZIȚIE DE ECHIPAMENTE SPECIFICE” ÎN COMUNA HĂLMĂGEL,JUDEȚUL ARAD, prin Programul Național de Dezvoltare Rurală, Măsura 6.3/6B:Dezvoltarea spațiului rural LEADER",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181230",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-68-2024",
+   "path": "local/arad/halmagel/2024/68",
+   "short": "HCL Hălmăgel nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 68/2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181231",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-69-2024",
+   "path": "local/arad/halmagel/2024/69",
+   "short": "HCL Hălmăgel nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 69/2024 privind aprobarea ”Regulamentului de instituire și administrare a taxei de salubrizare în UAT HĂLMĂGEL”",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/181261",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/181261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-7-2024",
+   "path": "local/arad/halmagel/2024/7",
+   "short": "HCL Hălmăgel nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 7/2024 privind aprobarea Raportului asupra activitatii desfasurate de asistentii personali ai persoanelor cu handicap grav pe semestrul II al anului 2023",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155497",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155497",
      "sha256": null
     }
    ]
@@ -238,6 +1138,21 @@
      "from": "2025-03-13",
      "units": 1,
      "source_url": "https://emol.ro/halmagel-ar/registru-hcl/196881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-8-2024",
+   "path": "local/arad/halmagel/2024/8",
+   "short": "HCL Hălmăgel nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 8/2024 privind alegerea președintelui de ședință din data de 12.02.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155504",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155504",
      "sha256": null
     }
    ]
@@ -388,6 +1303,21 @@
      "from": "2025-03-13",
      "units": 1,
      "source_url": "https://emol.ro/halmagel-ar/registru-hcl/196906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagel-9-2024",
+   "path": "local/arad/halmagel/2024/9",
+   "short": "HCL Hălmăgel nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 9/2024 privind aprobarea ordinii de zi a ședinței consiliului local al comunei Hălmăgel din data de 12.02.2024",
+   "url": "https://emol.ro/halmagel-ar/registru-hcl/155505",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagel-ar/registru-hcl/155505",
      "sha256": null
     }
    ]

@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/alba/hoparta/2017",
+ "acts": [
+  {
+   "slug": "hcl-alba--hoparta-1-2017",
+   "path": "local/alba/hoparta/2017/1",
+   "short": "HCL Hopârta nr. 1/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 1/2017",
+   "url": "https://www.primariahopirta.ro/hotarari-consiliu-local-2017/",
+   "versions": [
+    {
+     "from": "2017-01-05",
+     "units": 1,
+     "source_url": "https://www.primariahopirta.ro/hcl/2017/hcl-01-05.pdf",
+     "sha256": "2fdc0dccbac9985b480e85be082e82e0fce09adad22b455651c535737cb7b9bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--hoparta-11-2017",
+   "path": "local/alba/hoparta/2017/11",
+   "short": "HCL Hopârta nr. 11/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 11/2017",
+   "url": "https://www.primariahopirta.ro/hotarari-consiliu-local-2017/",
+   "versions": [
+    {
+     "from": "2017-02-12",
+     "units": 1,
+     "source_url": "https://www.primariahopirta.ro/hcl/2017/hcl-11-12.pdf",
+     "sha256": "1686ff9f8e899d220f70fac6dccf8eaceb4684cc5da0694980050ca2a4176ce1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--hoparta-13-2017",
+   "path": "local/alba/hoparta/2017/13",
+   "short": "HCL Hopârta nr. 13/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 13/2017",
+   "url": "https://www.primariahopirta.ro/hotarari-consiliu-local-2017/",
+   "versions": [
+    {
+     "from": "2017-02-19",
+     "units": 1,
+     "source_url": "https://www.primariahopirta.ro/hcl/2017/hcl-13-19.pdf",
+     "sha256": "d16ff7696123266b6927ee10b773c828ff4dbe18ee4b550310fc5159a7cd115a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--hoparta-20-2017",
+   "path": "local/alba/hoparta/2017/20",
+   "short": "HCL Hopârta nr. 20/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 20/2017",
+   "url": "https://www.primariahopirta.ro/hotarari-consiliu-local-2017/",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 1,
+     "source_url": "https://www.primariahopirta.ro/hcl/2017/hcl-20-21.pdf",
+     "sha256": "67471791dd25a3cf0113cb04ebc0c6156525e19ca62a36e53b69e9470195495d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--hoparta-22-2017",
+   "path": "local/alba/hoparta/2017/22",
+   "short": "HCL Hopârta nr. 22/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 22/2017",
+   "url": "https://www.primariahopirta.ro/hotarari-consiliu-local-2017/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "https://www.primariahopirta.ro/hcl/2017/hcl-22-30.pdf",
+     "sha256": "533d912cc29388a93c7365da04400785030861d21cc5628a3471ab0632509d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--hoparta-6-2017",
+   "path": "local/alba/hoparta/2017/6",
+   "short": "HCL Hopârta nr. 6/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Hopârta nr. 6/2017",
+   "url": "https://www.primariahopirta.ro/hotarari-consiliu-local-2017/",
+   "versions": [
+    {
+     "from": "2017-01-10",
+     "units": 1,
+     "source_url": "https://www.primariahopirta.ro/hcl/2017/hcl-06-10.pdf",
+     "sha256": "947d42acb5374f5d60617a1524f2664a11f2bf5ff5b9d327863338e5a6647d16"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,81 @@
  "shard": "local/alba/mihalt/2021",
  "acts": [
   {
+   "slug": "hcl-alba--mihalt-44-2021",
+   "path": "local/alba/mihalt/2021/44",
+   "short": "HCL Mihalț nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 44/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Mihalț și",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-44-privind-aprobarea-rectificarii-bugetului-local-de-venituri-si-cheltuieli-al-comunei-Mihalt-si.pdf",
+     "sha256": "52e9738b630c5f1b10ecfd9f04dba4c0223f5108fc3e644b40b5b739e09676f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-50-2021",
+   "path": "local/alba/mihalt/2021/50",
+   "short": "HCL Mihalț nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 50/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Mihalț și aprobarea Programului",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-10-14",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-50-privind-aprobarea-rectificarii-bugetului-local-de-venituri-si-cheltuieli-al-comunei-Mihalt-si-aprobarea-Programului.pdf",
+     "sha256": "a67414c6971dcc94756054cb437df6c4dd46444560b4ebf0662db6fb2dbf571a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-52-2021",
+   "path": "local/alba/mihalt/2021/52",
+   "short": "HCL Mihalț nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 52/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Mihalț și aprobarea Programului anual",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-52-privind-aprobarea-rectificarii-bugetului-local-de-venituri-si-cheltuieli-al-comunei-Mihalt-si-aprobarea-Programului-anual.pdf",
+     "sha256": "ba35e49428fe16480d7797b1cee3d727dfc6cb75aa8ad63319f478967e1327be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-53-2021",
+   "path": "local/alba/mihalt/2021/53",
+   "short": "HCL Mihalț nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 53/2021 privind aprobarea execuției bugetului local al comunei Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-53-privind-aprobarea-executiei-bugetului-local-al-comunei-Mihalt.pdf",
+     "sha256": "4b960e259c6896fdc9b8a1d4d5301080257802579daf51ee570ff98795840c4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-56-2021",
+   "path": "local/alba/mihalt/2021/56",
+   "short": "HCL Mihalț nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 56/2021 privind aprobarea decontării cheltuielilor cu naveta cadrelor didactice pe luna septembrie",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-56-privind-aprobarea-decontarii-cheltuielilor-cu-naveta-cadrelor-didactice-pe-luna-septembrie.pdf",
+     "sha256": "0c55461560e312a610605001cd26b01e2ecefa7df5006686f09f56109a80af4b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--mihalt-57-2021",
    "path": "local/alba/mihalt/2021/57",
    "short": "HCL Mihalț nr. 57/2021",
@@ -14,6 +89,126 @@
      "units": 1,
      "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-57-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2022.pdf",
      "sha256": "dc9ccef6d398b043769a14782fe099ec0f402982a9ac20e7af9b56099a6892b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-58-2021",
+   "path": "local/alba/mihalt/2021/58",
+   "short": "HCL Mihalț nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 58/2021 privind aprobarea decontării cheltuielilor cu naveta cadrelor didactice pe luna octombrie",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-11-30",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-58-privind-aprobarea-decontarii-cheltuielilor-cu-naveta-cadrelor-didactice-pe-luna-octombrie.pdf",
+     "sha256": "b43a0bb1f259ae9ab20646bd88909d7547963d98e9bdde98d7921c6787a61e02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-60-2021",
+   "path": "local/alba/mihalt/2021/60",
+   "short": "HCL Mihalț nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 60/2021 privind alegerea președintelui de ședință al Consiliului Local al Comunei Mihalț pentru ședințele din lunile decembri",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-11-30",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-60-privind-alegerea-presedintelui-de-sedinta-al-Consiliului-Local-al-Comunei-Mihalt-pentru-sedintele-din-lunile-decembri.pdf",
+     "sha256": "f9e0cf43366cd29a6563cfd3ba69ecba2a4606f2ad0bb513c211b07c3f765130"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-62-2021",
+   "path": "local/alba/mihalt/2021/62",
+   "short": "HCL Mihalț nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 62/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-11-30",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-62-privind-aprobarea-rectificarii-bugetului-local-de-venituri-si-cheltuieli.pdf",
+     "sha256": "9360dbfac2656a92bceb324924b156d4acaeb4ee1fda6559377bdf2ef4c95f4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-63-2021",
+   "path": "local/alba/mihalt/2021/63",
+   "short": "HCL Mihalț nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 63/2021 privind aprobarea execuției bugetului local al comunei Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-63-privind-aprobarea-executiei-bugetului-local-al-comunei-Mihalt.pdf",
+     "sha256": "2b79d6af3cfdef321ebcf73eb01aa80842bee2f861dcb7283dfae981225d64e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-64-2021",
+   "path": "local/alba/mihalt/2021/64",
+   "short": "HCL Mihalț nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 64/2021 privind aprobarea decontării cheltuielilor cu naveta cadrelor didactice pe luna noiembrie 2021",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-64-privind-aprobarea-decontarii-cheltuielilor-cu-naveta-cadrelor-didactice-pe-luna-noiembrie-2021.pdf",
+     "sha256": "041caab9c54ea0634674bb993acd08b689bff8983fdd9e3942ca617972e798ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-65-2021",
+   "path": "local/alba/mihalt/2021/65",
+   "short": "HCL Mihalț nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 65/2021 privind aprobarea cuantumului cotizației datorate Asociației de Dezvoltare Intercomunitară SALUBRIS Alba pent",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-65-privind-aprobarea-cuantumului-cotizatiei-datorate-Asociatiei-de-Dezvoltare-Intercomunitara-SALUBRIS-Alba-pent.pdf",
+     "sha256": "c743d5eeece478ddfd1d511992535c8812dfe228fd02a808c993bba25552a37b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-67-2021",
+   "path": "local/alba/mihalt/2021/67",
+   "short": "HCL Mihalț nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 67/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Mihalț și aprobarea Programului anual",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-67-privind-aprobarea-rectificarii-bugetului-local-de-venituri-si-cheltuieli-al-comunei-Mihalt-si-aprobarea-Programului-anual.pdf",
+     "sha256": "38c52bc37839f484976dffb4e5e10384a6fa55af1200c9d13c6beca35ef4b13d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-70-2021",
+   "path": "local/alba/mihalt/2021/70",
+   "short": "HCL Mihalț nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 70/2021 privind repartizare sume prevăzute în bugetul local al comunei Mihalț pe anul 2021, pentru acordare sprijin",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/01/HCL-nr.-70-privind-repartizare-sume-prevazute-in-bugetul-local-al-comunei-Mihalt-pe-anul-2021-pentru-acordare-sprijin.pdf",
+     "sha256": "416b4e3432b13579d120e4325dc45d48b9a0b673b3ccec32a533d01cba5a1ff6"
     }
    ]
   }

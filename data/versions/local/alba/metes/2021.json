@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/alba/metes/2021",
+ "acts": [
+  {
+   "slug": "hcl-alba--metes-60-2021",
+   "path": "local/alba/metes/2021/60",
+   "short": "HCL Meteș nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Meteș nr. 60/2021",
+   "url": "https://www.primariametes.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://www.primariametes.ro/wp-content/uploads/2021/10/HCL-nr.60-28.09.2021.pdf",
+     "sha256": "ac25c5e7c6961d37eb62140e9958081848b5bd4d469d0b1fb7c6d1edd52d63d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--metes-61-2021",
+   "path": "local/alba/metes/2021/61",
+   "short": "HCL Meteș nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Meteș nr. 61/2021",
+   "url": "https://www.primariametes.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://www.primariametes.ro/wp-content/uploads/2021/10/HCL-nr.61-28.09.2021.pdf",
+     "sha256": "709ea80e17523ee6e8584712ca6f38becb1f115410e6e588299f22a9742f0b7f"
+    }
+   ]
+  }
+ ]
+}

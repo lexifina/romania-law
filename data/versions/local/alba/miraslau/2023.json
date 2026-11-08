@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/alba/miraslau/2023",
+ "acts": [
+  {
+   "slug": "hcl-alba--miraslau-100-2023",
+   "path": "local/alba/miraslau/2023/100",
+   "short": "HCL Mirăslău nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 100/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-100-din-19.12.2023.pdf",
+     "sha256": "6681d7403727dfe4f9f46303d1451c1820f5c216b244f8cca9d2d1c4b0f0e2d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-101-2023",
+   "path": "local/alba/miraslau/2023/101",
+   "short": "HCL Mirăslău nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 101/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-101-din-19.12.2023.pdf",
+     "sha256": "45b179a089e87d441a4cada8e345841a56db13ef567ac28b56771489755a456c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-102-2023",
+   "path": "local/alba/miraslau/2023/102",
+   "short": "HCL Mirăslău nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 102/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-102-din-28.12.2023.pdf",
+     "sha256": "32e6257d41790265f91c852ad0963008675d8d5e420f4a3e3be798d2266842af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-103-2023",
+   "path": "local/alba/miraslau/2023/103",
+   "short": "HCL Mirăslău nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 103/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-103-din-28.12.2023.pdf",
+     "sha256": "fa058285140bb95fa3c91ba1f79fa991407da7bf65eae7ecd99983ce197166a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-104-2023",
+   "path": "local/alba/miraslau/2023/104",
+   "short": "HCL Mirăslău nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 104/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-104-din-28.12.2023.pdf",
+     "sha256": "095208fc42b0da4ccc2f16e395afc48d59c46ade2662442b3e90b485ea11381e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-85-2023",
+   "path": "local/alba/miraslau/2023/85",
+   "short": "HCL Mirăslău nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 85/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-85-din-28.11.2023.pdf",
+     "sha256": "47e9cd7d62e619e70785096102e14596e97aa723ffbac17e44fe4ee50e1ad9cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-86-2023",
+   "path": "local/alba/miraslau/2023/86",
+   "short": "HCL Mirăslău nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 86/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-86-din-28.11.2023.pdf",
+     "sha256": "9a0cd246e668567ff37543e30217acf5d50015f8b38503c761e47cbee15313ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-87-2023",
+   "path": "local/alba/miraslau/2023/87",
+   "short": "HCL Mirăslău nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 87/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-87-din-28.11.2023.pdf",
+     "sha256": "f51735706ad663d01c0bff53636266db4d01b182093896da03ef22ac9286fd5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-88-2023",
+   "path": "local/alba/miraslau/2023/88",
+   "short": "HCL Mirăslău nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 88/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-88-din-28.11.2023.pdf",
+     "sha256": "d58ec51a1e4faba22c23f751cb870fdcdb7774162d5a67d840eeb21d57b366b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-89-2023",
+   "path": "local/alba/miraslau/2023/89",
+   "short": "HCL Mirăslău nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 89/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-89-din-28.11.2023.pdf",
+     "sha256": "2e938575173fe66df694cf331f0fca6975af12f9f2267b819b5a49875b3a6234"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-90-2023",
+   "path": "local/alba/miraslau/2023/90",
+   "short": "HCL Mirăslău nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 90/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-90-din-28.11.2023.pdf",
+     "sha256": "df924dbf1808096f7e9a3c6d080db4292b12c7a672fdfbb85abade85df6c153a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-91-2023",
+   "path": "local/alba/miraslau/2023/91",
+   "short": "HCL Mirăslău nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 91/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-91-din-28.11.2023.pdf",
+     "sha256": "25c9af5f4a03f6ca3fffea6277199324665a070ea8229d9ac9b69e79ede1f104"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-92-2023",
+   "path": "local/alba/miraslau/2023/92",
+   "short": "HCL Mirăslău nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 92/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-92-din-28.11.2023.pdf",
+     "sha256": "5a0f6e954d2af16b852a72ecd682918fb157554eea67b32d139008fbd7c003ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-93-2023",
+   "path": "local/alba/miraslau/2023/93",
+   "short": "HCL Mirăslău nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 93/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-93-din-28.11.2023.pdf",
+     "sha256": "d9a143797cefb161703269ba8c8ee4d2ef64bdea5423059af33f9ed7c39ec45d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-94-2023",
+   "path": "local/alba/miraslau/2023/94",
+   "short": "HCL Mirăslău nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 94/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-94-din-28.11.2023.pdf",
+     "sha256": "1212b7e0c118c25bd080a99a76647b0650229ac736e735b72c7b2f2644a5c749"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-95-2023",
+   "path": "local/alba/miraslau/2023/95",
+   "short": "HCL Mirăslău nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 95/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-95-din-19.12.2023.pdf",
+     "sha256": "090946ee17c0d8a4ba1460024ac4b79362eac6e0933cd0e6a171320799b95e33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-96-2023",
+   "path": "local/alba/miraslau/2023/96",
+   "short": "HCL Mirăslău nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 96/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-96-din-19.12.2023.pdf",
+     "sha256": "75d53df0a9228757d9f6237afed8dc230a268fcc89b3ed60c8fb29ca3af985b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-97-2023",
+   "path": "local/alba/miraslau/2023/97",
+   "short": "HCL Mirăslău nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 97/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-97-din-data-de-19.12.2023.pdf",
+     "sha256": "60397e7673f2e0865db623c364ce5b7a4e09791d490f77d65b2cfede01397008"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-98-2023",
+   "path": "local/alba/miraslau/2023/98",
+   "short": "HCL Mirăslău nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 98/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-98-din-19.12.2023.pdf",
+     "sha256": "b6f90f06bcecd95a3b202601f4f6884194ec6caf14337c3b56305dc2046360ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-99-2023",
+   "path": "local/alba/miraslau/2023/99",
+   "short": "HCL Mirăslău nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 99/2023",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2023",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2024/05/HCL-nr.-99-din-19.12.2023.pdf",
+     "sha256": "52af12313e0e894a398d302c6e9ee3b24a9bc2a0cae7c80092a7749ef7968533"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/alba/vintu-de-jos/2019",
+ "acts": [
+  {
+   "slug": "hcl-alba--vintu-de-jos-28-2019",
+   "path": "local/alba/vintu-de-jos/2019/28",
+   "short": "HCL Vințu de Jos nr. 28/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Vințu de Jos nr. 28/2019 privind aprobarea Bugetului local al comunei Vințu de Jos pentru anul 2019 precum și a programului anual de achiziții și investiții publice pe anul 2019",
+   "url": "https://vintudejos.ro/http-vintudejos-ro-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://vintudejos.ro/wp-content/uploads/2019/05/Hotararea-nr.-28.pdf",
+     "sha256": "6b91432a17525efb2b90ccabb8be832f62338c7df238883f9e7db4842eb4c040"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--vintu-de-jos-31-2019",
+   "path": "local/alba/vintu-de-jos/2019/31",
+   "short": "HCL Vințu de Jos nr. 31/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Vințu de Jos nr. 31/2019 privind aprobarea contului de execuție al bugetului local al comunei Vințu de Jos la data de 31.03.2019",
+   "url": "https://vintudejos.ro/http-vintudejos-ro-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2019-03-31",
+     "units": 1,
+     "source_url": "http://vintudejos.ro/wp-content/uploads/2019/05/Hot-31_20052019223808.pdf",
+     "sha256": "b75e6e8171c55d38f599e1855837ce803cda05f0a9e86c003cf9530fa2932ae7"
+    }
+   ]
+  }
+ ]
+}

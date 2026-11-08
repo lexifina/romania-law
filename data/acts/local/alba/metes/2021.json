@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/alba/metes/2021",
+"acts": [
+{
+"slug": "hcl-alba--metes-60-2021",
+"path": "local/alba/metes/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Meteș nr. 60/2021",
+"short": "HCL Meteș nr. 60/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-28",
+"latest": "2021-09-28",
+"portal": "https://www.primariametes.ro/hotarari-ale-consiliului-local/",
+"council": "alba/metes",
+"council_name": "Consiliul Local al Comunei Meteș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--metes-61-2021",
+"path": "local/alba/metes/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Meteș nr. 61/2021",
+"short": "HCL Meteș nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-28",
+"latest": "2021-09-28",
+"portal": "https://www.primariametes.ro/hotarari-ale-consiliului-local/",
+"council": "alba/metes",
+"council_name": "Consiliul Local al Comunei Meteș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

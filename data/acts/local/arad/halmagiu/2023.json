@@ -25,6 +25,72 @@
 }
 },
 {
+"slug": "hcl-arad--halmagiu-2-2023",
+"path": "local/arad/halmagiu/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 2/2023 privind aprobarea procesului-verbal al ședinței Consiliului local Hălmagiu din 22.12.2022",
+"short": "HCL Hălmagiu nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100002",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-3-2023",
+"path": "local/arad/halmagiu/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 3/2023 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat de pe raza com. Hălmagiu, județul Arad, pentru anul școlar 2023-2024",
+"short": "HCL Hălmagiu nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100003",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-4-2023",
+"path": "local/arad/halmagiu/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 4/2023 privind actualizarea planului de analiză și acoperire a riscurilor (PAAR) în comuna Hălmagiu pe anul 2023",
+"short": "HCL Hălmagiu nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100004",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--halmagiu-5-2023",
 "path": "local/arad/halmagiu/2023/5",
 "kind": "local",
@@ -44,6 +110,139 @@
 "council_name": "Consiliul Local al Comunei Hălmagiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-6-2023",
+"path": "local/arad/halmagiu/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 6/2023 privind cuantumul cotizației Consiliului Local Hălmagiu, aferentă anului 2023, la bugetul Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor Județul Arad",
+"short": "HCL Hălmagiu nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100006",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-7-2023",
+"path": "local/arad/halmagiu/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 7/2023 privind acordarea mandatului reprezentantului în AGA a ADIACJA pentru aprobarea Strategiei de Dezvoltare a Serviciului Public de Alimentare cu Apă și de Canalizare în aria de operare județul Arad 2022-2027",
+"short": "HCL Hălmagiu nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100007",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-8-2023",
+"path": "local/arad/halmagiu/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 8/2023 privind modificarea Statului Asociației de Dezvoltare Intercomunitară Apă Canalizare Județul Arad, la care comuna Hălmagiu este membru asociat",
+"short": "HCL Hălmagiu nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100008",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-9-2023",
+"path": "local/arad/halmagiu/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 9/2023 privind aprobarea utilizării în anul 2023, al excedentului anual al Bugetului local de venituri și cheltuieli sursa A și al Bugetului local al activităților finanțate integral din venituri proprii, sursa E, al Comunei Hălmagiu, rezultat la încheierea exercițiului bugetar al anului 2022",
+"short": "HCL Hălmagiu nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100009",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-10-2023",
+"path": "local/arad/halmagiu/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 10/2023",
+"short": "HCL Hălmagiu nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100010",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-11-2023",
+"path": "local/arad/halmagiu/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 11/2023 privind aprobarea bugetului local de venituri și cheltuieli al Comunei Hălmagiu, sursele A și E, pe anul 2023 și estimările pe anii 2024-2026",
+"short": "HCL Hălmagiu nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100011",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +268,94 @@
 }
 },
 {
+"slug": "hcl-arad--halmagiu-13-2023",
+"path": "local/arad/halmagiu/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 13/2023 privind alegerea președintelui de ședință",
+"short": "HCL Hălmagiu nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100035",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-14-2023",
+"path": "local/arad/halmagiu/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 14/2023 privind aprobarea ordinei de zi a ședinței extraordinare-de îndată a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 28.01.2023, convocată prin dispoziția primarului nr. 33 din 26.01.2023",
+"short": "HCL Hălmagiu nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100036",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-15-2023",
+"path": "local/arad/halmagiu/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 15/2023 privind aprobarea procesului-verbal al ședinței Consiliului local Hălmagiu din 25.01.2023",
+"short": "HCL Hălmagiu nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100037",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-16-2023",
+"path": "local/arad/halmagiu/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 16/2023 privind avizarea Strategiei de contractare, Studiului de fundamentare/oportunitate, Documentației de atribuire pentru delegarea gestiunii serviciului de depozitare și neutralizare a deșeurilor municipale în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în Județul Arad Operarea Depozitului Conform Arad",
+"short": "HCL Hălmagiu nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100038",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--halmagiu-17-2023",
 "path": "local/arad/halmagiu/2023/17",
 "kind": "local",
@@ -88,6 +375,72 @@
 "council_name": "Consiliul Local al Comunei Hălmagiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-18-2023",
+"path": "local/arad/halmagiu/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 18/2023 privind aprobarea ordinei de zi a ședinței ordinare publice a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 22.02.2023, convocată prin dispoziția primarului nr. 38 din 16.02.2023",
+"short": "HCL Hălmagiu nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100069",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-19-2023",
+"path": "local/arad/halmagiu/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 19/2023 privind aprobarea procesului-verbal al ședinței Consiliului local Hălmagiu din 28.01.2023",
+"short": "HCL Hălmagiu nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100070",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-20-2023",
+"path": "local/arad/halmagiu/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 20/2023 privind aprobarea Protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și UAT Comuna Hălmagiu, județul Arad, referitor la colaborarea instituțională în cadrul proiectului ”HUB de servicii MMSS-SII MMSS”, Cod MySmis 130963",
+"short": "HCL Hălmagiu nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100071",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -132,6 +485,94 @@
 "council_name": "Consiliul Local al Comunei Hălmagiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-23-2023",
+"path": "local/arad/halmagiu/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 23/2023 privind aprobarea ordinei de zi a ședinței ordinare publice a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 03.03.2023, convocată prin Dispoziția primarului nr. 41 din 24.02.2023",
+"short": "HCL Hălmagiu nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100088",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-24-2023",
+"path": "local/arad/halmagiu/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 24/2023 privind aprobarea procesului-verbal al ședinței Consiliului local Hălmagiu din 22.02.2023",
+"short": "HCL Hălmagiu nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100089",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-25-2023",
+"path": "local/arad/halmagiu/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 25/2023 privind delegarea către Unitatea Administrativ-Teritorială Județul Arad a depunerii aplicației de finanțare pentru proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din județul Arad” în cadrul proiectului P.N.R.R./2022/C15/MEDU/19./111./113./114",
+"short": "HCL Hălmagiu nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100090",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-26-2023",
+"path": "local/arad/halmagiu/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 26/2023 privind aprobarea rectificării bugetului local general centralizat de venituri și cheltuieli al Comunei Hălmagiu, sursa A pe anul 2023",
+"short": "HCL Hălmagiu nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-11",
+"latest": "2023-04-11",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/100091",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

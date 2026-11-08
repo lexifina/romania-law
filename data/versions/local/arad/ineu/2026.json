@@ -3,6 +3,1176 @@
  "shard": "local/arad/ineu/2026",
  "acts": [
   {
+   "slug": "hcl-arad--ineu-1-2026",
+   "path": "local/arad/ineu/2026/1",
+   "short": "HCL Ineu nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 1/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-10-din-13-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/01/hotararea-nr.1-din-data-de-13.01.2026.pdf",
+     "sha256": "ae9133664fc9f7ace403e23b990bdef5a8d4397f869229ace51a57366bc38c5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-10-2026",
+   "path": "local/arad/ineu/2026/10",
+   "short": "HCL Ineu nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 10/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-10-din-13-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/01/hotararea-nr.10-din-data-de-13.01.2026.pdf",
+     "sha256": "88ff65f29224ebc41b5014703e0afcbe28cd55c5df9a68f3ce1a1d9d2da27278"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-100-2026",
+   "path": "local/arad/ineu/2026/100",
+   "short": "HCL Ineu nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 100/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-93-101-2026/",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.100-din-data-de-03.06.2026.pdf",
+     "sha256": "494f02c625b622e5bfdefbc1b39bae887140694b5b3a39a43de2ee82c74890e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-101-2026",
+   "path": "local/arad/ineu/2026/101",
+   "short": "HCL Ineu nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 101/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-93-101-2026/",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.101-din-data-de-03.06.2026.pdf",
+     "sha256": "54d905dd8bd56845147e902823be779ced94b4fda6ed92275148511c1439dd57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-102-2026",
+   "path": "local/arad/ineu/2026/102",
+   "short": "HCL Ineu nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 102/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.102-din-data-de-23.06.2026.pdf",
+     "sha256": "64be2612081a3d131e69b47b92847ece535c832a2aaa3e06aa022b2df30b5f3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-103-2026",
+   "path": "local/arad/ineu/2026/103",
+   "short": "HCL Ineu nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 103/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.103-din-data-de-23.06.2026.pdf",
+     "sha256": "26464bf0726f8c59ecc16c8c771c1793265643d880d4595c44795238f8346f46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-104-2026",
+   "path": "local/arad/ineu/2026/104",
+   "short": "HCL Ineu nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 104/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.104-din-data-de-23.06.2026.pdf",
+     "sha256": "4491a36fe0144e358bc7b17a2e13ebfdcd5425e96d1942ba4b044684cc148828"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-105-2026",
+   "path": "local/arad/ineu/2026/105",
+   "short": "HCL Ineu nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 105/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.105-din-data-de-23.06.2026.pdf",
+     "sha256": "bc331832cd1729f08031b4ebf5c2e5cc5ccb4ec18ca88593a0e061f489a75ebc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-106-2026",
+   "path": "local/arad/ineu/2026/106",
+   "short": "HCL Ineu nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 106/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.106-din-data-de-23.06.2026.pdf",
+     "sha256": "347a320bc043e9287d8307fdafc1c1cf124bc5404966a71d2468aef6bb01f76b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-107-2026",
+   "path": "local/arad/ineu/2026/107",
+   "short": "HCL Ineu nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 107/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.107-din-data-de-23.06.2026.pdf",
+     "sha256": "87dd36d1351c764ecc3aa6aecfdaaa4f236953f95b9d038a3d1df5733e361aa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-108-2026",
+   "path": "local/arad/ineu/2026/108",
+   "short": "HCL Ineu nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 108/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.108-din-data-de-23.06.2026.pdf",
+     "sha256": "48e11608b21a99f80b3b7375f6d734d7463108c2addaacfca378f2b664133ccc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-109-2026",
+   "path": "local/arad/ineu/2026/109",
+   "short": "HCL Ineu nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 109/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.109-din-data-de-23.06.2026.pdf",
+     "sha256": "6c55b501f89dc0d0481e5c73db3e0f92e0beb196ac091d6a935905244099ef6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-11-2026",
+   "path": "local/arad/ineu/2026/11",
+   "short": "HCL Ineu nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 11/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-11-22-din-30-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.11-din-data-de-30.01.2026.pdf",
+     "sha256": "ec0c37a3cc9226fd551332c9d1a74e8f6c25db5a8e39a6b103e526bed3089c30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-110-2026",
+   "path": "local/arad/ineu/2026/110",
+   "short": "HCL Ineu nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 110/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.110-din-data-de-23.06.2026.pdf",
+     "sha256": "6db6206b1fc779249bdfe19e227e9859f310cb625b95c3c6415ebc843dcfa333"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-111-2026",
+   "path": "local/arad/ineu/2026/111",
+   "short": "HCL Ineu nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 111/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.111-din-data-de-23.06.2026.pdf",
+     "sha256": "d234cc377a841d5ca1d1f61c5677701a3f0c76c804b4e173c406828bb641e58f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-112-2026",
+   "path": "local/arad/ineu/2026/112",
+   "short": "HCL Ineu nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 112/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.112-din-data-de-23.06.2026.pdf",
+     "sha256": "c112103bbc63261c6485942a9e05ec830a093e3090acfc9ccf3f50588647c50f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-113-2026",
+   "path": "local/arad/ineu/2026/113",
+   "short": "HCL Ineu nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 113/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.113-din-data-de-23.06.2026.pdf",
+     "sha256": "9664d06e7d3b002700c0c92a6603520842079b70e8b655c0f47feca21e8de7f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-114-2026",
+   "path": "local/arad/ineu/2026/114",
+   "short": "HCL Ineu nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 114/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.114-din-data-de-23.06.2026.pdf",
+     "sha256": "2a4d19c795ca124073d607da8ee6b37747d6de04d7c5a4ebab50b5ed397f31f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-115-2026",
+   "path": "local/arad/ineu/2026/115",
+   "short": "HCL Ineu nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 115/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.115-din-data-de-23.06.2026.pdf",
+     "sha256": "81b037e8e6c221ae0023d8b0f1a66fa2085aa33668331a07854cef2962ce715f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-116-2026",
+   "path": "local/arad/ineu/2026/116",
+   "short": "HCL Ineu nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 116/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.116-din-data-de-23.06.2026.pdf",
+     "sha256": "4bc8e885ab03184655fcd48a2eab895980c84f0ac7313ff7dc7b39e72b47615c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-117-2026",
+   "path": "local/arad/ineu/2026/117",
+   "short": "HCL Ineu nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 117/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-102-117-23-06-2026/",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.117-din-data-de-23.06.2026.pdf",
+     "sha256": "5b6b4e6b6638181e5ec174eb55cb0d33c50d7a4159ad895a216b7380cbe80d06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-118-2026",
+   "path": "local/arad/ineu/2026/118",
+   "short": "HCL Ineu nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 118/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-118-122-02-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/07/hotararea-nr.118-din-data-de-02.07.2026.pdf",
+     "sha256": "bc79b5de9be73ab0b7a0e45996c96b733735b0f7046c96ec874bd96d02a54207"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-119-2026",
+   "path": "local/arad/ineu/2026/119",
+   "short": "HCL Ineu nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 119/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-118-122-02-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/07/hotararea-nr.119-din-data-de-02.07.2026.pdf",
+     "sha256": "05df3c88ba3264571d6364b7195428ae154ca51241f545b40cbbf29c8e50343c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-12-2026",
+   "path": "local/arad/ineu/2026/12",
+   "short": "HCL Ineu nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 12/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-11-22-din-30-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.12-din-data-de-30.01.2026.pdf",
+     "sha256": "534506f6b5d891413acb3b866f37a4039446a866fe85718ed4fc938edc2eee14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-120-2026",
+   "path": "local/arad/ineu/2026/120",
+   "short": "HCL Ineu nr. 120/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 120/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-118-122-02-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/07/hotararea-nr.120-din-data-de-02.07.2026.pdf",
+     "sha256": "91625eef28515d13176f117c456159e43f7c9d6a7d00eaf4b7280ba9dc5b492f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-121-2026",
+   "path": "local/arad/ineu/2026/121",
+   "short": "HCL Ineu nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 121/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-118-122-02-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/07/hotararea-nr.121-din-data-de-02.07.2026.pdf",
+     "sha256": "af88a92dfa98ea1f5f72d294bf390048d472ecbad7bf084a79e17e166fd7cf9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-122-2026",
+   "path": "local/arad/ineu/2026/122",
+   "short": "HCL Ineu nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 122/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-118-122-02-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/07/hotararea-nr.122-din-data-de-02.07.2026.pdf",
+     "sha256": "ef85d15680aed7d1741b9ab7ecd2dca5c6d9a5b5cbe55620e2e255938547d69f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-123-2026",
+   "path": "local/arad/ineu/2026/123",
+   "short": "HCL Ineu nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 123/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-123-127-23-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/07/hotararea-nr.123-din-data-de-17.07.2026.pdf",
+     "sha256": "580057a423bb873532d8cce2eefa432ab8a638fdb6a1b6aafd0762015704658b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-124-2026",
+   "path": "local/arad/ineu/2026/124",
+   "short": "HCL Ineu nr. 124/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 124/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-123-127-23-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/07/hotararea-nr.124-din-data-de-17.07.2026.pdf",
+     "sha256": "715b788c399cf06940ee0403d414e16999fa08e6344fc32ff93180145fec7102"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-125-2026",
+   "path": "local/arad/ineu/2026/125",
+   "short": "HCL Ineu nr. 125/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 125/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-123-127-23-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/07/hotararea-nr.125-din-data-de-17.07.2026.pdf",
+     "sha256": "bd2ab39eee34cbf76edec5e3fa0dff69faf195c96b6cd6853a44fee2e3d212b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-126-2026",
+   "path": "local/arad/ineu/2026/126",
+   "short": "HCL Ineu nr. 126/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 126/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-123-127-23-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/07/hotararea-nr.126-din-data-de-17.07.2026.pdf",
+     "sha256": "0ded9e63d279367cf2fa163aa867a57fea7efd98b911c3f53170725f4c96aa44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-127-2026",
+   "path": "local/arad/ineu/2026/127",
+   "short": "HCL Ineu nr. 127/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 127/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-123-127-23-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/07/hotararea-nr.127-din-data-de-17.07.2026.pdf",
+     "sha256": "609c2386e71f559a33107689e9efaea6f16388f9fc64b90be28a9e1aee2e2f29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-128-2026",
+   "path": "local/arad/ineu/2026/128",
+   "short": "HCL Ineu nr. 128/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 128/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-128-134-30-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.128-din-data-de-30.07.2026.pdf",
+     "sha256": "eca53bdbf4ab7ebb5f6d039ece42f509876d9bd0fd41ae2e07647da51288bdaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-129-2026",
+   "path": "local/arad/ineu/2026/129",
+   "short": "HCL Ineu nr. 129/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 129/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-128-134-30-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.129-din-data-de-30.07.2026.pdf",
+     "sha256": "28490cadd77c7e0c40de9fb2dcac6cd91d656f2e656b4b3e63e4d53cc7253788"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-13-2026",
+   "path": "local/arad/ineu/2026/13",
+   "short": "HCL Ineu nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 13/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-11-22-din-30-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.13-din-data-de-30.01.2026.pdf",
+     "sha256": "6570533d9eeecd09851538332414e548720533e2be870e658656479d222f69e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-130-2026",
+   "path": "local/arad/ineu/2026/130",
+   "short": "HCL Ineu nr. 130/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 130/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-128-134-30-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.130-din-data-de-30.07.2026.pdf",
+     "sha256": "d617c6be38b72a21bc92db20cc281e63870940b911078af79081c967f48292d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-131-2026",
+   "path": "local/arad/ineu/2026/131",
+   "short": "HCL Ineu nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 131/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-128-134-30-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.131-din-data-de-30.07.2026.pdf",
+     "sha256": "793e61eae57248908644b9f7ae3e37f6f02a3b5f14db17b9d5dd9875e74f956c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-132-2026",
+   "path": "local/arad/ineu/2026/132",
+   "short": "HCL Ineu nr. 132/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 132/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-128-134-30-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.132-din-data-de-30.07.2026.pdf",
+     "sha256": "a111303dc8c8a6cd6a8d83207ff8baaf07e227f5a3bc1c096cb1d51753df05a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-133-2026",
+   "path": "local/arad/ineu/2026/133",
+   "short": "HCL Ineu nr. 133/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 133/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-128-134-30-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.133-din-data-de-30.07.2026.pdf",
+     "sha256": "cb7ba7bcc02c35f5a329757b139a79728713ab6b04bdaf5ffb5486cc77d02a5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-134-2026",
+   "path": "local/arad/ineu/2026/134",
+   "short": "HCL Ineu nr. 134/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 134/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-128-134-30-07-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.134-din-data-de-30.07.2026.pdf",
+     "sha256": "0c9a3678ed2860a98ba21b9ab4c0784934bf67bb807c89ceec96b3bda21b142d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-135-2026",
+   "path": "local/arad/ineu/2026/135",
+   "short": "HCL Ineu nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 135/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-135-136-2026/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.135-din-data-de-07.08.2026.pdf",
+     "sha256": "ea90b237fe042964c42446e59d6a9c07db082d6d2929b87550ee25e8f64ffc66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-136-2026",
+   "path": "local/arad/ineu/2026/136",
+   "short": "HCL Ineu nr. 136/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 136/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-135-136-2026/",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.136-din-data-de-07.08.2026.pdf",
+     "sha256": "04eef21ece5a3e3a30c1571536c13749526a640ab415f3d00afdc521450501f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-137-2026",
+   "path": "local/arad/ineu/2026/137",
+   "short": "HCL Ineu nr. 137/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 137/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.137-din-data-de-20.08.2026.pdf",
+     "sha256": "83f1315ac89a961d29c5cd30e215e3a3cc2c822d198266725b3aa9eb1397ba3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-138-2026",
+   "path": "local/arad/ineu/2026/138",
+   "short": "HCL Ineu nr. 138/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 138/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.138-din-data-de-20.08.2026.pdf",
+     "sha256": "3f51ef452d198cf169a40d5344d43a3bc978482ffddd05a03811d53db1aaac62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-139-2026",
+   "path": "local/arad/ineu/2026/139",
+   "short": "HCL Ineu nr. 139/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 139/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.139-din-data-de-20.08.2026.pdf",
+     "sha256": "698d886d80e0da2ec03f79b16cca5a7287f685ad4a5cc37871ef2e857bbb1a81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-14-2026",
+   "path": "local/arad/ineu/2026/14",
+   "short": "HCL Ineu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 14/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-11-22-din-30-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.14-din-data-de-30.01.2026.pdf",
+     "sha256": "629f16db32cff86fe2c8d5c417f3e36d258d0659bf38bfe6197248b88bee88dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-140-2026",
+   "path": "local/arad/ineu/2026/140",
+   "short": "HCL Ineu nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 140/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.140-din-data-de-20.08.2026.pdf",
+     "sha256": "a1f629909d34b0f3f291928a3d7837c698d183b9a02f95d947011c03c75aebb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-141-2026",
+   "path": "local/arad/ineu/2026/141",
+   "short": "HCL Ineu nr. 141/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 141/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.141-din-data-de-20.08.2026.pdf",
+     "sha256": "b0733bfb0f95813ffb279ab5a25ea4767c5d59fb6a3daa67b783ab47bccdbe9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-142-2026",
+   "path": "local/arad/ineu/2026/142",
+   "short": "HCL Ineu nr. 142/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 142/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.142-din-data-de-20.08.2026.pdf",
+     "sha256": "1a0b123245d86a22b3f2c6ece342de8b8a7cb9ceb78c170f798607555fa6615c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-143-2026",
+   "path": "local/arad/ineu/2026/143",
+   "short": "HCL Ineu nr. 143/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 143/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.143-din-data-de-20.08.2026.pdf",
+     "sha256": "2a33f5fe9d7569b6a40b1dfbaffd2e36e36c1e276d249dedaaa66429b9a12ca4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-144-2026",
+   "path": "local/arad/ineu/2026/144",
+   "short": "HCL Ineu nr. 144/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 144/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.144-din-data-de-20.08.2026.pdf",
+     "sha256": "8001d8ea85fb6385ed95ded1b4db24b48d926151c8b5011b56b44c44d1a0b7f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-145-2026",
+   "path": "local/arad/ineu/2026/145",
+   "short": "HCL Ineu nr. 145/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 145/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.145-din-data-de-20.08.2026.pdf",
+     "sha256": "d1fa779fdd35944f80d15a7e847d099d28f3eaff5dd895928d18610715111780"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-146-2026",
+   "path": "local/arad/ineu/2026/146",
+   "short": "HCL Ineu nr. 146/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 146/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.146-din-data-de-20.08.2026.pdf",
+     "sha256": "28dad4eb3da8ce032aff5626fb507bc1134116d6fc82f477b2722af4a116d9b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-147-2026",
+   "path": "local/arad/ineu/2026/147",
+   "short": "HCL Ineu nr. 147/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 147/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.147-din-data-de-20.08.2026.pdf",
+     "sha256": "300af3c6b5be4499a0e91250ef6911f9c7324ca9d5008f6c28d81cf524c33d5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-148-2026",
+   "path": "local/arad/ineu/2026/148",
+   "short": "HCL Ineu nr. 148/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 148/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.148-din-data-de-20.08.2026.pdf",
+     "sha256": "de0b45cad7db3b20f8b018c45f069d58d9fa1616bd41a7867d62ce9e42e23d2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-149-2026",
+   "path": "local/arad/ineu/2026/149",
+   "short": "HCL Ineu nr. 149/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 149/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.149-din-data-de-20.08.2026.pdf",
+     "sha256": "69fb193ac5ebb6fb9da86f4e42a5c52a3305d17dccd24243c185cfbf547b1674"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-15-2026",
+   "path": "local/arad/ineu/2026/15",
+   "short": "HCL Ineu nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 15/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-11-22-din-30-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.15-din-data-de-30.01.2026.pdf",
+     "sha256": "cf5520d8d126edf879114c4b3f06444cfa140a69d03ed3a319c3a505897cde88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-150-2026",
+   "path": "local/arad/ineu/2026/150",
+   "short": "HCL Ineu nr. 150/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 150/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.150-din-data-de-20.08.2026.pdf",
+     "sha256": "b94dcd8f31ff95e6a354b627f424bf8d8e03b7956322d25624e7e6f5b98db5b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-151-2026",
+   "path": "local/arad/ineu/2026/151",
+   "short": "HCL Ineu nr. 151/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 151/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.151-din-data-de-20.08.2026.pdf",
+     "sha256": "db4ccf3e15dbc4d650d211ad38896f665d6a67989396b0df8577a5eb87f57d55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-152-2026",
+   "path": "local/arad/ineu/2026/152",
+   "short": "HCL Ineu nr. 152/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 152/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-137-152-20-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/08/hotararea-nr.152-din-data-de-20.08.2026.pdf",
+     "sha256": "d5afba3b4b03757aa530be421d64476a31a10a4808ac33f74cbbe46513d0c6ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-153-2026",
+   "path": "local/arad/ineu/2026/153",
+   "short": "HCL Ineu nr. 153/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 153/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-153-158-31-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.153-din-data-de-31.08.2026.pdf",
+     "sha256": "7e92ee6ae7b3a9d86812d9e659129683349db903f751b64c1a4c70d740302d58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-154-2026",
+   "path": "local/arad/ineu/2026/154",
+   "short": "HCL Ineu nr. 154/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 154/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-153-158-31-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.154-din-data-de-31.08.2026.pdf",
+     "sha256": "6ecb4bb78f7b699ea45aeee1d9c5baa9557a8e9a0b43b02f0bee79d82f1597b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-155-2026",
+   "path": "local/arad/ineu/2026/155",
+   "short": "HCL Ineu nr. 155/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 155/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-153-158-31-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.155-din-data-de-31.08.2026.pdf",
+     "sha256": "02fef8d8c1ebc5635059d8e2aeba7605645aae3203fba0d2a47fdb6ceeb013b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-156-2026",
+   "path": "local/arad/ineu/2026/156",
+   "short": "HCL Ineu nr. 156/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 156/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-153-158-31-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.156-din-data-de-31.08.2026.pdf",
+     "sha256": "7d528baf5f822d6d0a9fe4490fa8abb8d8a9f950062b4064ddfedb2dc5b3eb69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-157-2026",
+   "path": "local/arad/ineu/2026/157",
+   "short": "HCL Ineu nr. 157/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 157/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-153-158-31-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.157-din-data-de-31.08.2026.pdf",
+     "sha256": "ab24d0d6272d58f126d041545113c21f84f0117ced9c8733ab8a605dba061599"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-158-2026",
+   "path": "local/arad/ineu/2026/158",
+   "short": "HCL Ineu nr. 158/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 158/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-153-158-31-08-2026/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.158-din-data-de-31.08.2026.pdf",
+     "sha256": "eba36086edc25965d4964b30eeb73597fadf38903bf164996f5b5d49dcf293e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-159-2026",
+   "path": "local/arad/ineu/2026/159",
+   "short": "HCL Ineu nr. 159/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 159/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-159-167-17-09-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.159-din-data-de-17.09.2026.pdf",
+     "sha256": "da98aea313aea6fef7ba9cd8cbe98de729c9bb81d827d615927643ef6dad9bd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-16-2026",
+   "path": "local/arad/ineu/2026/16",
+   "short": "HCL Ineu nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 16/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-11-22-din-30-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.16-din-data-de-30.01.2026.pdf",
+     "sha256": "7de34bee19ab300181ead07419f4c1df65b2b98d6f14c4fc6e62a52dd486017a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-160-2026",
+   "path": "local/arad/ineu/2026/160",
+   "short": "HCL Ineu nr. 160/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 160/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-159-167-17-09-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.160-din-data-de-17.09.2026.pdf",
+     "sha256": "961cc7c70828dd890c0393a7c923cd8e6c9b2000cdc4dbe0b539cd24a6054a0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-161-2026",
+   "path": "local/arad/ineu/2026/161",
+   "short": "HCL Ineu nr. 161/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 161/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-159-167-17-09-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.161-din-data-de-17.09.2026.pdf",
+     "sha256": "620453ed392a38597679319ddbb2f8df76b24632a6daae5bc842ffceb5ffd67c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-162-2026",
+   "path": "local/arad/ineu/2026/162",
+   "short": "HCL Ineu nr. 162/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 162/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-159-167-17-09-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.162-din-data-de-17.09.2026.pdf",
+     "sha256": "2af6d5c602db0404e3b83cce2a80799bfb54c7bb68357ad76c0eb3727411f245"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-163-2026",
+   "path": "local/arad/ineu/2026/163",
+   "short": "HCL Ineu nr. 163/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 163/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-159-167-17-09-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.163-din-data-de-17.09.2026_fara-anexa.pdf",
+     "sha256": "10476a42bacc64cabfd86fcf3ad291ad21c6e1650496a402c0610029244ed17e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-164-2026",
+   "path": "local/arad/ineu/2026/164",
+   "short": "HCL Ineu nr. 164/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 164/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-159-167-17-09-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.164-din-data-de-17.09.2026.pdf",
+     "sha256": "3b458e569dc5cd8ca3faf35ae5d8fdf18b0b77ebab233889e625cd006029d9bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-165-2026",
+   "path": "local/arad/ineu/2026/165",
+   "short": "HCL Ineu nr. 165/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 165/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-159-167-17-09-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.165-din-data-de-17.09.2026.pdf",
+     "sha256": "5eb28a56ed8eae866d264b4fbaa6c4a41a6442cd0fa18e686732c970af51acbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-166-2026",
+   "path": "local/arad/ineu/2026/166",
+   "short": "HCL Ineu nr. 166/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 166/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-159-167-17-09-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.166-din-data-de-17.09.2026.pdf",
+     "sha256": "29304f9865dd10d577450154d9bfb3a9bfa97fa6f9577fa53b66af22e97e2190"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-167-2026",
+   "path": "local/arad/ineu/2026/167",
+   "short": "HCL Ineu nr. 167/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 167/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-159-167-17-09-2026/",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.167-din-data-de-17.09.2026.pdf",
+     "sha256": "82dbd5f3dd216636704392fdd7c87bc1575c200d7ad410dcb35f26884eea5465"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-17-2026",
+   "path": "local/arad/ineu/2026/17",
+   "short": "HCL Ineu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 17/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-11-22-din-30-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.17-din-data-de-30.01.2026.pdf",
+     "sha256": "1e62021f6b92b85bf415856f888cf4723999428904a72583d669963b93641796"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-177-2026",
+   "path": "local/arad/ineu/2026/177",
+   "short": "HCL Ineu nr. 177/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 177/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-177-185-24-09-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.177-din-data-de-24.09.2026.pdf",
+     "sha256": "ff74670b92ac95416bf102268a065b809b1b1a28faf7bc75daad99a5f35305de"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ineu-178-2026",
    "path": "local/arad/ineu/2026/178",
    "short": "HCL Ineu nr. 178/2026",
@@ -14,6 +1184,51 @@
      "units": 1,
      "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.178-din-data-de-24.09.2026.pdf",
      "sha256": "ed102be6d7e1f157f9ba3bf47da9f98db49278edf01eba781b19675f8ade2a34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-179-2026",
+   "path": "local/arad/ineu/2026/179",
+   "short": "HCL Ineu nr. 179/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 179/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-177-185-24-09-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.179-din-data-de-24.09.2026.pdf",
+     "sha256": "d82fb0cadff31243b12aa7c0d09c02a9ad8f3da954f4ab232d8997013fd4f2eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-18-2026",
+   "path": "local/arad/ineu/2026/18",
+   "short": "HCL Ineu nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 18/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-11-22-din-30-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.18-din-data-de-30.01.2026.pdf",
+     "sha256": "1a269319cc3d2c2fd0a1a52b4597fb92dbac5c6e387da914fc36ad5088ddcf62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-180-2026",
+   "path": "local/arad/ineu/2026/180",
+   "short": "HCL Ineu nr. 180/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 180/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-177-185-24-09-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/09/hotararea-nr.180-din-data-de-24.09.2026.pdf",
+     "sha256": "336f860d0b3a8b4c6d16e5726f4fa7b611c3d46045c74c1ffab1a18b2745fd39"
     }
    ]
   },
@@ -149,6 +1364,21 @@
      "units": 1,
      "source_url": "https://primariaineu.ro/wp-content/uploads/2026/10/hotararea-nr.189-din-data-de-02.10.2026.pdf",
      "sha256": "2f6dfa034fe603e7b6727966976f6f911a88b9f42556ed1f50e9d37e18d43581"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-19-2026",
+   "path": "local/arad/ineu/2026/19",
+   "short": "HCL Ineu nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 19/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-11-22-din-30-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.19-din-data-de-30.01.2026.pdf",
+     "sha256": "090369630a12285796876efe3dfc03554118bdea7abadcffcfb30e5e83578a49"
     }
    ]
   },
@@ -303,6 +1533,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--ineu-2-2026",
+   "path": "local/arad/ineu/2026/2",
+   "short": "HCL Ineu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 2/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-10-din-13-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/01/hotararea-nr.2-din-data-de-13.01.2026.pdf",
+     "sha256": "76fac07bc68207578aceadadbefe61a0c330425d3f9c894b03e139d2ac704bc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-20-2026",
+   "path": "local/arad/ineu/2026/20",
+   "short": "HCL Ineu nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 20/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-11-22-din-30-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.20-din-data-de-30.01.2026.pdf",
+     "sha256": "16dd229ef17725634f0ce8fb8f46ef3d3a123c16852c704d27bb339ad7ef6166"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ineu-200-2026",
    "path": "local/arad/ineu/2026/200",
    "short": "HCL Ineu nr. 200/2026",
@@ -449,6 +1709,21 @@
      "units": 1,
      "source_url": "https://primariaineu.ro/wp-content/uploads/2026/10/hotararea-nr.209-din-data-de-13.10.2026.pdf",
      "sha256": "f662b4e6c4009e87a9b8d4a002ea4a9f848997237e286609c984cea75444b84a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-21-2026",
+   "path": "local/arad/ineu/2026/21",
+   "short": "HCL Ineu nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 21/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-11-22-din-30-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.21-din-data-de-30.01.2026.pdf",
+     "sha256": "c1877d77414be3255a10ba08eb54a565e2d0ae6b4a50117387b7632c0f99c7e1"
     }
    ]
   },
@@ -603,6 +1878,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--ineu-22-2026",
+   "path": "local/arad/ineu/2026/22",
+   "short": "HCL Ineu nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 22/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-11-22-din-30-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.22-din-data-de-30.01.2026.pdf",
+     "sha256": "2fd71c4ef0218422c51ab478747b7d49db21f2a8bd7393feadc88199a22b0f60"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ineu-220-2026",
    "path": "local/arad/ineu/2026/220",
    "short": "HCL Ineu nr. 220/2026",
@@ -753,6 +2043,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--ineu-23-2026",
+   "path": "local/arad/ineu/2026/23",
+   "short": "HCL Ineu nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 23/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-23-30-11-18-02-2026/",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hoararea-nr.23-din-data-de-11.02.2026.pdf",
+     "sha256": "a3d4c2dac3580bfbbcbda329606e2fb582f9539fc953d1888451e7a125fbeb8b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ineu-230-2026",
    "path": "local/arad/ineu/2026/230",
    "short": "HCL Ineu nr. 230/2026",
@@ -813,6 +2118,1041 @@
    ]
   },
   {
+   "slug": "hcl-arad--ineu-24-2026",
+   "path": "local/arad/ineu/2026/24",
+   "short": "HCL Ineu nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 24/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-23-30-11-18-02-2026/",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.24-din-data-de-11.02.2026.pdf",
+     "sha256": "3ed29ea91391fbadf50d1919c4537d3f8ad10850e4ea8fa4fb37df388709d2cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-25-2026",
+   "path": "local/arad/ineu/2026/25",
+   "short": "HCL Ineu nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 25/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-23-30-11-18-02-2026/",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.25-din-data-de-11.02.2026.pdf",
+     "sha256": "4f1c4f4e5e31fcef2ff68c5132c59894f1b0b6b146c8759c19ffe6b6259499d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-26-2026",
+   "path": "local/arad/ineu/2026/26",
+   "short": "HCL Ineu nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 26/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-23-30-11-18-02-2026/",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.26-din-data-de-11.02.2026.pdf",
+     "sha256": "f953ac3652869ef278167ab46631ad334753e50251def06408c50621c07972d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-27-2026",
+   "path": "local/arad/ineu/2026/27",
+   "short": "HCL Ineu nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 27/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-23-30-11-18-02-2026/",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.27-din-data-de-11.02.2026.pdf",
+     "sha256": "6669d16af5992c5747914864446fbdc2da80713ce51cd6e239f5056632350ae1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-28-2026",
+   "path": "local/arad/ineu/2026/28",
+   "short": "HCL Ineu nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 28/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-23-30-11-18-02-2026/",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.28-din-data-de-18.02.2026.pdf",
+     "sha256": "6499c49fd99659e8d90fa8f4c8662519761bb2bd215002c6d56f42c31a07c2c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-3-2026",
+   "path": "local/arad/ineu/2026/3",
+   "short": "HCL Ineu nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 3/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-10-din-13-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/01/hotararea-nr.3-din-data-de-13.01.2026.pdf",
+     "sha256": "b0fcd782d166dc0fb90cfa12ab15d0ca3c41c06b24a27da0d7b480d00dc255ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-30-2026",
+   "path": "local/arad/ineu/2026/30",
+   "short": "HCL Ineu nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 30/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-23-30-11-18-02-2026/",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/02/hotararea-nr.30-din-data-de-18.02.2026.pdf",
+     "sha256": "4b9e720d758fe78e9d0560a2502c8f7c893d9a8ad15268bdfb33c55dbafa4cdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-31-2026",
+   "path": "local/arad/ineu/2026/31",
+   "short": "HCL Ineu nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 31/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-31-37-2026/",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/03/hotararea-nr.31-din-data-de-24.02.2026.pdf",
+     "sha256": "478279e6520682ac06f43d94525c9180c753e27c00d86dff3cd06c3deb24090e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-32-2026",
+   "path": "local/arad/ineu/2026/32",
+   "short": "HCL Ineu nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 32/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-31-37-2026/",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/03/hotararea-nr.32-din-data-de-24.02.2026.pdf",
+     "sha256": "8e8344edcef8d09dc00c90f181a9733e1d2c9c1d12dd59d1a5e637351123c3bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-33-2026",
+   "path": "local/arad/ineu/2026/33",
+   "short": "HCL Ineu nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 33/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-31-37-2026/",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/03/hotararea-nr.33-din-data-de-24.02.2026.pdf",
+     "sha256": "5e776f8b227f5504ca574f25092210ae7fa1d33ed9932d9a1b88a2c777a7b1f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-34-2026",
+   "path": "local/arad/ineu/2026/34",
+   "short": "HCL Ineu nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 34/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-31-37-2026/",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/03/hotararea-nr.34-din-data-de-24.02.2026.pdf",
+     "sha256": "45615a353a18e95339fe9af0482e900b15c4c94664ac16636d6d6a46510b08e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-35-2026",
+   "path": "local/arad/ineu/2026/35",
+   "short": "HCL Ineu nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 35/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-31-37-2026/",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/03/hotararea-nr.35-din-data-de-24.02.2026.pdf",
+     "sha256": "c5ef9a7785eca721c81fe31dad98eff875915a879170db8969fcdebe8c8a61c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-36-2026",
+   "path": "local/arad/ineu/2026/36",
+   "short": "HCL Ineu nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 36/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-31-37-2026/",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/03/hotararea-nr.36-din-data-de-24.02.2026.pdf",
+     "sha256": "69e039a3763deebb6d27182270c59d2877ae1cba42ff602effeac3e6a3d62e5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-37-2026",
+   "path": "local/arad/ineu/2026/37",
+   "short": "HCL Ineu nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 37/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-31-37-2026/",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/03/hotararea-nr.37-din-data-de-24.02.2026.pdf",
+     "sha256": "cfb1b851f2f962f5b9c1f557845e0fbe3ff5105f2bc7fbe339e848509a19f8c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-38-2026",
+   "path": "local/arad/ineu/2026/38",
+   "short": "HCL Ineu nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 38/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-38-42-2026/",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/03/hotararea-nr.38-din-data-de-03.03.2026.pdf",
+     "sha256": "fa2f4b15d1a882e80e0ce3af589c89a921aedadfc44c5b657bcbcddeb4c7fc8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-39-2026",
+   "path": "local/arad/ineu/2026/39",
+   "short": "HCL Ineu nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 39/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-38-42-2026/",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/03/hotararea-nr.39-din-data-de-03.03.2026.pdf",
+     "sha256": "b1eee82ede3beb0340c055d24ab746cdf7f73fa18961742e0a5d5bdad3b0ed5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-4-2026",
+   "path": "local/arad/ineu/2026/4",
+   "short": "HCL Ineu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 4/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-10-din-13-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/01/hotararea-nr.4-din-data-de-13.01.2026.pdf",
+     "sha256": "a4b3e970b6863d8995e67ee44312ba1c4c007eb76a5676080b51b22d715549a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-40-2026",
+   "path": "local/arad/ineu/2026/40",
+   "short": "HCL Ineu nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 40/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-38-42-2026/",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/03/hotararea-nr.40-din-data-de-03.03.2026.pdf",
+     "sha256": "9e37843b563283b91135fbe0a56fdd380408e714f0b103f33a53270b928aa662"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-41-2026",
+   "path": "local/arad/ineu/2026/41",
+   "short": "HCL Ineu nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 41/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-38-42-2026/",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/03/hotararea-nr.41-din-data-de-03.03.2026.pdf",
+     "sha256": "fc641cf8e91ed0037f27b06d0ca10ae3d56d7c9a0f032a16a11973d6ab559027"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-42-2026",
+   "path": "local/arad/ineu/2026/42",
+   "short": "HCL Ineu nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 42/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-38-42-2026/",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/03/hotararea-nr.42-din-data-de-03.03.2026.pdf",
+     "sha256": "0c527ce28489594d00081d72d40c3a440d6b6ba96c7fd19ec55b98c66c5c834c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-43-2026",
+   "path": "local/arad/ineu/2026/43",
+   "short": "HCL Ineu nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 43/2026",
+   "url": "https://primariaineu.ro/hotararile-consililui-local-ineu-de-la-nr-43-56-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.43-din-data-de-31.03.2026.pdf",
+     "sha256": "bca6a0a98584e0fa149757d07c6f96181a2016f9dd12391470437e1875da7788"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-44-2026",
+   "path": "local/arad/ineu/2026/44",
+   "short": "HCL Ineu nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 44/2026",
+   "url": "https://primariaineu.ro/hotararile-consililui-local-ineu-de-la-nr-43-56-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.44-din-data-de-31.03.2026.pdf",
+     "sha256": "07ac0b0e5349c891a617233316868a87a2e7889b75860f067e5f25d9dabc8f2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-45-2026",
+   "path": "local/arad/ineu/2026/45",
+   "short": "HCL Ineu nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 45/2026",
+   "url": "https://primariaineu.ro/hotararile-consililui-local-ineu-de-la-nr-43-56-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.45-din-data-de-31.03.2026.pdf",
+     "sha256": "d6faa9e4591325f1a2e38387ac6b50373c4df62f84d8a1b94a7ba004575c545e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-46-2026",
+   "path": "local/arad/ineu/2026/46",
+   "short": "HCL Ineu nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 46/2026",
+   "url": "https://primariaineu.ro/hotararile-consililui-local-ineu-de-la-nr-43-56-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.46-din-data-de-31.03.2026.pdf",
+     "sha256": "f99c187853b2acfb23f93a2f6c2273e114ec4b8feaef3d9f3126ebb19c800859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-47-2026",
+   "path": "local/arad/ineu/2026/47",
+   "short": "HCL Ineu nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 47/2026",
+   "url": "https://primariaineu.ro/hotararile-consililui-local-ineu-de-la-nr-43-56-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.47-din-data-de-31.03.2026.pdf",
+     "sha256": "e0e28047a524dc300e5094f773a7edb52064a2433cce8dfbf604e3f00d5dcf71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-48-2026",
+   "path": "local/arad/ineu/2026/48",
+   "short": "HCL Ineu nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 48/2026",
+   "url": "https://primariaineu.ro/hotararile-consililui-local-ineu-de-la-nr-43-56-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.48-din-data-de-31.03.2026.pdf",
+     "sha256": "92e1b43fec7438168f194c385ac3edb96e57c3c9113b12eeb1bb7480e92278e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-49-2026",
+   "path": "local/arad/ineu/2026/49",
+   "short": "HCL Ineu nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 49/2026",
+   "url": "https://primariaineu.ro/hotararile-consililui-local-ineu-de-la-nr-43-56-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.49-din-data-de-31.03.2026.pdf",
+     "sha256": "6524aedfa39b7d29f92d46174547995aea6c3a6eaedce27e3bcc9605c4c61a61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-5-2026",
+   "path": "local/arad/ineu/2026/5",
+   "short": "HCL Ineu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 5/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-10-din-13-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/01/hotararea-nr.5-din-data-de-13.01.2026.pdf",
+     "sha256": "b639d53532aa3f21964e9a35a7451b5c01e78428d611f46e9fbaec70168dc2ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-50-2026",
+   "path": "local/arad/ineu/2026/50",
+   "short": "HCL Ineu nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 50/2026",
+   "url": "https://primariaineu.ro/hotararile-consililui-local-ineu-de-la-nr-43-56-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.50-din-data-de-31.03.2026.pdf",
+     "sha256": "4d1d17440fea2c910628d3b685fdd3ce95530ff5924caeaf6a090d3027f1d925"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-51-2026",
+   "path": "local/arad/ineu/2026/51",
+   "short": "HCL Ineu nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 51/2026",
+   "url": "https://primariaineu.ro/hotararile-consililui-local-ineu-de-la-nr-43-56-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.51-din-data-de-31.03.2026.pdf",
+     "sha256": "5b78e3e03e6322ff18ab8db34f621ceddc58b6f5e0a242abd95acb7b7d188b9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-52-2026",
+   "path": "local/arad/ineu/2026/52",
+   "short": "HCL Ineu nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 52/2026",
+   "url": "https://primariaineu.ro/hotararile-consililui-local-ineu-de-la-nr-43-56-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.52-din-data-de-31.03.2026.pdf",
+     "sha256": "d37921c5a2319419754118ecc28ea654c83e5ababd96e8537cb2cf7174ddfdc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-53-2026",
+   "path": "local/arad/ineu/2026/53",
+   "short": "HCL Ineu nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 53/2026",
+   "url": "https://primariaineu.ro/hotararile-consililui-local-ineu-de-la-nr-43-56-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.53-din-data-de-31.03.2026.pdf",
+     "sha256": "fb4998b3bd15284b1b08d1ebc12f02f86b3fea6772cf9c8cbddb4a9ea4e07fc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-54-2026",
+   "path": "local/arad/ineu/2026/54",
+   "short": "HCL Ineu nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 54/2026",
+   "url": "https://primariaineu.ro/hotararile-consililui-local-ineu-de-la-nr-43-56-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.54-din-data-de-31.03.2026.pdf",
+     "sha256": "ff57991466d01d479729263b886e882a015a164940a6f7b8de04a0b9ef5895c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-55-2026",
+   "path": "local/arad/ineu/2026/55",
+   "short": "HCL Ineu nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 55/2026",
+   "url": "https://primariaineu.ro/hotararile-consililui-local-ineu-de-la-nr-43-56-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.55-din-data-de-31.03.2026.pdf",
+     "sha256": "94e69dd6eb94ea5dba6ab1d900472c9c968e1e89899ea7b9f96eddc9016e4388"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-56-2026",
+   "path": "local/arad/ineu/2026/56",
+   "short": "HCL Ineu nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 56/2026",
+   "url": "https://primariaineu.ro/hotararile-consililui-local-ineu-de-la-nr-43-56-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.56-din-data-de-31.03.2026.pdf",
+     "sha256": "67c83cf13657e89ae298303169f85999492ea01af031dec7c3f36d2e61ad41df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-57-2026",
+   "path": "local/arad/ineu/2026/57",
+   "short": "HCL Ineu nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 57/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-57-59-09-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.57-din-data-de-09.04.2026.pdf",
+     "sha256": "85fc7e9d93a2183e92929e7fcc3f397d5a55191b0f4a7dd206cda413e5169d8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-58-2026",
+   "path": "local/arad/ineu/2026/58",
+   "short": "HCL Ineu nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 58/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-57-59-09-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.58-din-data-de-09.04.2026.pdf",
+     "sha256": "f4722ce7a61a85c930317cda31ce16d26f5f457593b4480a577afd7e69c7baf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-59-2026",
+   "path": "local/arad/ineu/2026/59",
+   "short": "HCL Ineu nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 59/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-57-59-09-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/04/hotararea-nr.59-din-data-de-09.04.2026.pdf",
+     "sha256": "5e8538680ed3d25d74e51c4c34593e9ac346d3a9bc25af86cab35ef3acc1cf94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-6-2026",
+   "path": "local/arad/ineu/2026/6",
+   "short": "HCL Ineu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 6/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-10-din-13-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/01/hotararea-nr.6-din-data-de-13.01.2026.pdf",
+     "sha256": "eeb4b58be5e55787d577c5c531bab75b76fb2c7c8ceb2db37bf96f819c36e29b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-60-2026",
+   "path": "local/arad/ineu/2026/60",
+   "short": "HCL Ineu nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 60/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-din-nr-60-73-29-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.60-din-data-de-29.04.2026.pdf",
+     "sha256": "59d60ae27ce3bb4afeab11f7863f6d3432f7b72be87b3fd01ffc5829dbfa3878"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-61-2026",
+   "path": "local/arad/ineu/2026/61",
+   "short": "HCL Ineu nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 61/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-din-nr-60-73-29-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.61-din-data-de-29.04.2026.pdf",
+     "sha256": "47f1f61e9a594e8bc3b9358558811814b8ec748c6527deddcc2dc47d01267947"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-62-2026",
+   "path": "local/arad/ineu/2026/62",
+   "short": "HCL Ineu nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 62/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-din-nr-60-73-29-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.62-din-data-de-29.04.2026.pdf",
+     "sha256": "2c20953a0b2e455b3f7758aab37a917c2881e67fddc3d105751c36e62de294ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-63-2026",
+   "path": "local/arad/ineu/2026/63",
+   "short": "HCL Ineu nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 63/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-din-nr-60-73-29-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.63-din-data-de-29.04.2026.pdf",
+     "sha256": "13e29326cf2a98911dcc013cb42443c74b8fb08662e77ac7ae5768b1151655b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-64-2026",
+   "path": "local/arad/ineu/2026/64",
+   "short": "HCL Ineu nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 64/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-din-nr-60-73-29-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.64-din-data-de-29.04.2026.pdf",
+     "sha256": "47a79af817fe2f6aed7056438a77aaa286d93cd8c2661a153f95746a202643bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-65-2026",
+   "path": "local/arad/ineu/2026/65",
+   "short": "HCL Ineu nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 65/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-din-nr-60-73-29-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.65-din-data-de-29.04.2026.pdf",
+     "sha256": "fb888feef32d109ce681e8815825392f32585ba681f618b1f27b7017d7aa95d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-66-2026",
+   "path": "local/arad/ineu/2026/66",
+   "short": "HCL Ineu nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 66/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-din-nr-60-73-29-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.66-din-data-de-29.04.2026.pdf",
+     "sha256": "5b04a6362a44c74385c90f892da67cf73ebce2074760ccf7cf67f937cccd2f98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-67-2026",
+   "path": "local/arad/ineu/2026/67",
+   "short": "HCL Ineu nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 67/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-din-nr-60-73-29-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.67-din-data-de-29.04.2026.pdf",
+     "sha256": "f3b1927bba83f1268aeb0ed07622110913be13823abd7a043714874818a1c2ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-68-2026",
+   "path": "local/arad/ineu/2026/68",
+   "short": "HCL Ineu nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 68/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-din-nr-60-73-29-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.68-din-data-de-29.04.2026.pdf",
+     "sha256": "eb3775c0aa57fe278e0ce5630f69785b4ecad27e3cc11724cd41b86caab82bb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-69-2026",
+   "path": "local/arad/ineu/2026/69",
+   "short": "HCL Ineu nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 69/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-din-nr-60-73-29-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.69-din-data-de-29.04.2026.pdf",
+     "sha256": "3ab625afd3f3f69a32514255ec2f44e90f8911e80741421f16863b09696a8521"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-70-2026",
+   "path": "local/arad/ineu/2026/70",
+   "short": "HCL Ineu nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 70/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-din-nr-60-73-29-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.70-din-data-de-29.04.2026.pdf",
+     "sha256": "177600f07fff7a139671fa21f5a39a088b2d4f882e61a41719370812d3392ca7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-71-2026",
+   "path": "local/arad/ineu/2026/71",
+   "short": "HCL Ineu nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 71/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-din-nr-60-73-29-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.71-din-data-de-29.04.2026.pdf",
+     "sha256": "2402a72fcc06e6528a5029f1000a2d7b9518328a1f6262f1e1285d94c4824847"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-72-2026",
+   "path": "local/arad/ineu/2026/72",
+   "short": "HCL Ineu nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 72/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-din-nr-60-73-29-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.72-din-data-de-29.04.2026.pdf",
+     "sha256": "42dcc677ac5018e3accf4eb4c1cd08647c4f2e4bfee840c9b8a89cfb6d9227fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-73-2026",
+   "path": "local/arad/ineu/2026/73",
+   "short": "HCL Ineu nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 73/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-din-nr-60-73-29-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.73-din-data-de-29.04.2026.pdf",
+     "sha256": "25a76347bbfd9c2de51ea136088045be8ebef9ffe01a6496317179a00b06c9c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-74-2026",
+   "path": "local/arad/ineu/2026/74",
+   "short": "HCL Ineu nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 74/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-de-la-nr-74-76-06-05-2026/",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.74-din-data-de-06.05.2026.pdf",
+     "sha256": "88ad7762ae3d78b4a9f6a26f78ec0155d82abfd8e466052c70e349e049616e13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-75-2026",
+   "path": "local/arad/ineu/2026/75",
+   "short": "HCL Ineu nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 75/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.75-din-data-de-06.05.2026.pdf",
+     "sha256": "2be7ce992a1deca0e0a3ae02278f0d3d3b5bd5c764b35c085d6cd69040feaeae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-76-2026",
+   "path": "local/arad/ineu/2026/76",
+   "short": "HCL Ineu nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 76/2026",
+   "url": "https://primariaineu.ro/hotararile-consililului-local-ineu-de-la-nr-74-76-06-05-2026/",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.76-din-data-de-06.05.2026.pdf",
+     "sha256": "ad15bc63f5e62333bb5dc5ce2dc4315ac5afe39efd1b478b66ecd44aed796f6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-77-2026",
+   "path": "local/arad/ineu/2026/77",
+   "short": "HCL Ineu nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 77/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-77-79-12-05-2026/",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.77-din-data-de-12.05.2026.pdf",
+     "sha256": "ca4f0ce6f3cf9a215e22668afa6cb3ba27c64d81a3f1c5a4dbbadf5ded0209ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-78-2026",
+   "path": "local/arad/ineu/2026/78",
+   "short": "HCL Ineu nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 78/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-77-79-12-05-2026/",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.78-din-data-de-12.05.2026.pdf",
+     "sha256": "21bf6306b4f62f96892148b5c411b55b6ef13956f72c88d103fadd40650de858"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-79-2026",
+   "path": "local/arad/ineu/2026/79",
+   "short": "HCL Ineu nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 79/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-77-79-12-05-2026/",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.79-din-data-de-12.05.2026.pdf",
+     "sha256": "68ee77188248574c5d4e54707dde95a3bfda7f735ec3e5040b6f1b75e17250cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-8-2026",
+   "path": "local/arad/ineu/2026/8",
+   "short": "HCL Ineu nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 8/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-10-din-13-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/01/hotararea-nr.8-din-data-de-13.01.2026.pdf",
+     "sha256": "f183d1edc9e2e97a66cda7ab6dc262ec8e0d4d9ea577b71fad0a0c9ca76a54af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-80-2026",
+   "path": "local/arad/ineu/2026/80",
+   "short": "HCL Ineu nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 80/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-80-86-2026/",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.80-din-data-de-18.05.2026.pdf",
+     "sha256": "4cf68cdaa808cc389f383d8bf3cbaee8e355d73d93e91541dde3fd05286cfe0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-81-2026",
+   "path": "local/arad/ineu/2026/81",
+   "short": "HCL Ineu nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 81/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-80-86-2026/",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.81-din-data-de-18.05.2026.pdf",
+     "sha256": "45ca51a0dfa057f2482825d2282b6b9f1528e6f6037485d82e4837b728196290"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-82-2026",
+   "path": "local/arad/ineu/2026/82",
+   "short": "HCL Ineu nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 82/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-80-86-2026/",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.82-din-data-de-18.05.2026.pdf",
+     "sha256": "e475804ec91d78e6746b05f2fa975013774574c8cd258d0068b2fe405a57db23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-83-2026",
+   "path": "local/arad/ineu/2026/83",
+   "short": "HCL Ineu nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 83/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-80-86-2026/",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.83-din-data-de-18.05.2026.pdf",
+     "sha256": "aee8de071556ccbdab98b0e7e82546150f4de5e927f4b7b1bee2f5de69535b7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-84-2026",
+   "path": "local/arad/ineu/2026/84",
+   "short": "HCL Ineu nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 84/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-80-86-2026/",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.84-din-data-de-18.05.2026.pdf",
+     "sha256": "51f5edb051153837f0e7477298e8436e2c3cb99397e68ee0075fc5b37769ae4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-85-2026",
+   "path": "local/arad/ineu/2026/85",
+   "short": "HCL Ineu nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 85/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-80-86-2026/",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.85-din-data-de-18.05.2026.pdf",
+     "sha256": "18f3a301d3fa59bbdca5d9a081116d47496cbd75e85c14a1f27c3b01e9f61b36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-86-2026",
+   "path": "local/arad/ineu/2026/86",
+   "short": "HCL Ineu nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 86/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-80-86-2026/",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/05/hotararea-nr.86-din-data-de-18.05.2026.pdf",
+     "sha256": "51a8dbfddd5b020a3adf92b75aa5a29112ddfdb548d833b425503cb8730c939e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-87-2026",
+   "path": "local/arad/ineu/2026/87",
+   "short": "HCL Ineu nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 87/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-87-92-din-data-de-26-05-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.87-din-data-de-26.05.2026.pdf",
+     "sha256": "3cea04c8eb78a8c323cb8ad5b060f530c7d13bf78c0a4af30be255808e9961c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-88-2026",
+   "path": "local/arad/ineu/2026/88",
+   "short": "HCL Ineu nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 88/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-87-92-din-data-de-26-05-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.88-din-data-de-26.05.2026.pdf",
+     "sha256": "573c6ba97beff42fd78d5ae4470a0d01769ed5cf1ab43a18755683d2b246fe95"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ineu-89-2026",
    "path": "local/arad/ineu/2026/89",
    "short": "HCL Ineu nr. 89/2026",
@@ -824,6 +3164,171 @@
      "units": 1,
      "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.89-din-data-e-26.05.2026.pdf",
      "sha256": "21850f2c3e7c56231c412d5ccb76f8c71ca658f679c4553a9c57692de06ec366"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-9-2026",
+   "path": "local/arad/ineu/2026/9",
+   "short": "HCL Ineu nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 9/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-1-10-din-13-01-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/01/hotararea-nr.9-din-data-de-13.01.2026.pdf",
+     "sha256": "5b95fff2c178071edab879641ad1419f9fcadcce7f6cedd7a8bb5e3494600a96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-90-2026",
+   "path": "local/arad/ineu/2026/90",
+   "short": "HCL Ineu nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 90/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-87-92-din-data-de-26-05-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.-90-din-data-de-26.05.2026.pdf",
+     "sha256": "25709dfefdf71d07165afef85c387a7b7ba5834fcedfe31e24a5c0bc394aad9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-91-2026",
+   "path": "local/arad/ineu/2026/91",
+   "short": "HCL Ineu nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 91/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-87-92-din-data-de-26-05-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.91-din-data-de-26.05.2026.pdf",
+     "sha256": "bb30d7c8eaa0563c80600ec3cea6f947daf7f83eaefb4fb445d37ef3452e103b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-92-2026",
+   "path": "local/arad/ineu/2026/92",
+   "short": "HCL Ineu nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 92/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-87-92-din-data-de-26-05-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.92-din-data-de-26.05.2026.pdf",
+     "sha256": "2266be20a87b9efe852db937f8f8b809cde51ea7918014c5c7b9cb1253115209"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-93-2026",
+   "path": "local/arad/ineu/2026/93",
+   "short": "HCL Ineu nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 93/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-93-101-2026/",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.93-din-data-de-03.06.2026.pdf",
+     "sha256": "2102ee4b0a241af89d890e0eff3e3ff6b495d09cc59ba5d65ff2c8ae3e64ce29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-94-2026",
+   "path": "local/arad/ineu/2026/94",
+   "short": "HCL Ineu nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 94/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-93-101-2026/",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.94-din-data-de-03.06.2026.pdf",
+     "sha256": "d9aa72ced4352ec9b8d0eebfe41a35e5da70e081a9e66f7fa836e0fffc025b59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-95-2026",
+   "path": "local/arad/ineu/2026/95",
+   "short": "HCL Ineu nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 95/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-93-101-2026/",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.95-din-data-de-03.06.2026.pdf",
+     "sha256": "1c07465e684f223d5d075aaae3d4037995392ea1b90bb0a192f8942f071b979b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-96-2026",
+   "path": "local/arad/ineu/2026/96",
+   "short": "HCL Ineu nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 96/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-93-101-2026/",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.96-din-data-de-03.06.2026.pdf",
+     "sha256": "405b83fb254e5ead9a019d7cbab89bfb17feeddb3e80a4be96256e392a2b16f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-97-2026",
+   "path": "local/arad/ineu/2026/97",
+   "short": "HCL Ineu nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 97/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-93-101-2026/",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.97-din-data-de-03.06.2026.pdf",
+     "sha256": "dfb48a49793551725dd87a244a4ad831438c5fa5f8ba494cf5b5f00906779be9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-98-2026",
+   "path": "local/arad/ineu/2026/98",
+   "short": "HCL Ineu nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 98/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-93-101-2026/",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.98-din-data-de-03.06.2026.pdf",
+     "sha256": "c5a599b4d71919f091919d16e52f2c3e77d5b0e1cb8362454b12c0492cc80964"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-99-2026",
+   "path": "local/arad/ineu/2026/99",
+   "short": "HCL Ineu nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 99/2026",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-de-la-nr-93-101-2026/",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2026/06/hotararea-nr.99-din-data-de-03.06.2026.pdf",
+     "sha256": "6370e90fab52435bce3600fc4d21ab926f6cc1295ddd008406539361789d6e35"
     }
    ]
   }

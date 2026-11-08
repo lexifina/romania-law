@@ -3,6 +3,50 @@
 "shard": "local/alba/spring/2025",
 "acts": [
 {
+"slug": "hcl-alba--spring-63-2025",
+"path": "local/alba/spring/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șpring nr. 63/2025 privind aaprobarea ordini de zi",
+"short": "HCL Șpring nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-04",
+"latest": "2025-06-04",
+"portal": "https://comunaspring.ro/wp-content/uploads/2025/08/HCL_nr._63_aprobare_ordine_zi1-1.pdf",
+"council": "alba/spring",
+"council_name": "Consiliul Local al Comunei Șpring",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--spring-70-2025",
+"path": "local/alba/spring/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șpring nr. 70/2025 privind aprobarea ordini de zi",
+"short": "HCL Șpring nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "https://comunaspring.ro/wp-content/uploads/2025/08/HCL_70_aprobarea_ordinei_de_zi1.pdf",
+"council": "alba/spring",
+"council_name": "Consiliul Local al Comunei Șpring",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-alba--spring-147-2025",
 "path": "local/alba/spring/2025/147",
 "kind": "local",

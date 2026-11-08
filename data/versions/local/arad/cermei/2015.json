@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arad/cermei/2015",
+ "acts": [
+  {
+   "slug": "hcl-arad--cermei-61-2015",
+   "path": "local/arad/cermei/2015/61",
+   "short": "HCL Cermei nr. 61/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Cermei nr. 61/2015 pentru a vizualiza Hotararea 61",
+   "url": "https://comuna-cermei.ro/2015/07/hotararea-nr-61-din-30-06-2015/",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "http://comuna-cermei.ro/wp-content/uploads/2015/11/hot_61_30_6_2015.pdf",
+     "sha256": "0c6a5055b083908ef8e9c71017179bbd32729f448ed782f6137a355d80a8ea36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--cermei-84-2015",
+   "path": "local/arad/cermei/2015/84",
+   "short": "HCL Cermei nr. 84/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Cermei nr. 84/2015 pentru a descarca Hotărârile Consiliului Local Cermei din 8 octombrie 2015",
+   "url": "https://comuna-cermei.ro/2015/11/hotarari-ale-consiliului-local-cermei-octombrie-2015/",
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "units": 1,
+     "source_url": "http://comuna-cermei.ro/wp-content/uploads/2015/11/CLC_OCTOMBRIE_8_2015.pdf",
+     "sha256": "e9bfea493044b7a4a107b8bff97f592dbb7e228b7832dc3f058bd89122315d6a"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/arad/cermei/2009",
+"acts": [
+{
+"slug": "hcl-arad--cermei-78-2009",
+"path": "local/arad/cermei/2009/78",
+"kind": "local",
+"year": "2009",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cermei nr. 78/2009 Privind aprobarea procesului verbal de la ședința consiliului local al comunei Cermei din data de 22.09.2009",
+"short": "HCL Cermei nr. 78/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-09-30",
+"latest": "2009-09-30",
+"portal": "https://comuna-cermei.ro/2010/04/hotarare-1/",
+"council": "arad/cermei",
+"council_name": "Consiliul Local al Comunei Cermei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--cermei-90-2009",
+"path": "local/arad/cermei/2009/90",
+"kind": "local",
+"year": "2009",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cermei nr. 90/2009 Privind aprobarea rectificării bugetului local al comunei Cermei Consiliul local al comunei Cermei întrunit în ședință ordinara in data de 26.11.2009, Având in vedere: -Proiectul de hotărâre inițiat de către primarul comunei Cermei si expunerea de motive a acestuia, - H.G.R . nr. 1255/ 2009 de alocare la bugetul local a sumei de 20 mii lei, si adresa nr. 40637/16.11.2009 a DGFP- ARAD , privind sol",
+"short": "HCL Cermei nr. 90/2009",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2009-11-26",
+"latest": "2009-11-26",
+"portal": "https://comuna-cermei.ro/2010/04/hotarare-a-consiliului-local-cermei-%E2%80%93-noiembrie-2009/",
+"council": "arad/cermei",
+"council_name": "Consiliul Local al Comunei Cermei",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

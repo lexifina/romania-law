@@ -3,6 +3,291 @@
  "shard": "local/arad/ignesti/2022",
  "acts": [
   {
+   "slug": "hcl-arad--ignesti-53-2022",
+   "path": "local/arad/ignesti/2022/53",
+   "short": "HCL Ignești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 53/2022 privind aprobarea executie la 30.06.2022",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/07/Hotararea-nr.53-din-26.07.2022-privind-aprobarea-executie-la-30.06.2022.pdf",
+     "sha256": "418ae964ba73b59f79ea3cc4c3dcf4bebbc5fb7b9642b3fdda4b9c47d8ea830d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-55-2022",
+   "path": "local/arad/ignesti/2022/55",
+   "short": "HCL Ignești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 55/2022 privind aprobare PV sed. anterioara",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/08/Hotararea-nr.-55-din-03.08.2022-privind-aprobare-PV-sed.-anterioara.pdf",
+     "sha256": "ecc8ce92edb3a93dd1e05f5f477e721423190cd27a0ba81e681bd9e052830dee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-56-2022",
+   "path": "local/arad/ignesti/2022/56",
+   "short": "HCL Ignești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 56/2022 cu privire la aprobarea Ordinii de zi pt. Sed. din 03.08.2022",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/08/Hotararea-nr.-56-din-03.08.2022-cu-privire-la-aprobarea-Ordinii-de-zi-pt.-Sed.-din-03.08.2022.pdf",
+     "sha256": "2b086267194bc37b45521eee63d1db659ef5704d55174d346aa113e5f6eb6d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-57-2022",
+   "path": "local/arad/ignesti/2022/57",
+   "short": "HCL Ignești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 57/2022 cu privire la rectificarea bug. local Ignesti 2022",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/08/Hotararea-nr.-57-din-03.08.2022-cu-privire-la-rectificarea-bug.-local-Ignesti-2022.pdf",
+     "sha256": "aa83cecc9107654e265c4b3c3f6e0d9aeb75b89aa0b129fb0858849ae1d6b5e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-58-2022",
+   "path": "local/arad/ignesti/2022/58",
+   "short": "HCL Ignești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 58/2022 privind propunerea retelei scolare 2023-2024 Hotararea nr. 83 din 21.12.2022 MODIFICARE ORGANIGRAMAL Hotararea nr. 82 din 21.12.2022 RECTIFICARE BUGET LOCAL Hotararea nr. 81 din 21.12.2022 ALEGEREA PRESEDINTELUI DE SEDINTA Hotararea nr. 80 din 21.12.2022 APROBARE ORDINE DE ZI SEDINTA Hotararea nr. 79 din 21.12.2022 APROBARE PV SED ANTERIOARA Hotararea nr. 78 din 25.11.2022 PRIVIND VANZARE LEMN CAT",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/08/Hotararea-nr.-58-din-03.08.2022-cu-priv.-la-mod.-programului-achizitiilor-directe.pdf",
+     "sha256": "8d0525cfbd181a8eea5dbbc63a02d9646d06a9248edcc08a20ccfe2eb1f92ae9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-59-2022",
+   "path": "local/arad/ignesti/2022/59",
+   "short": "HCL Ignești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 59/2022 privind propunerea retelei scolare 2023-2024 Hotararea nr. 83 din 21.12.2022 MODIFICARE ORGANIGRAMAL Hotararea nr. 82 din 21.12.2022 RECTIFICARE BUGET LOCAL Hotararea nr. 81 din 21.12.2022 ALEGEREA PRESEDINTELUI DE SEDINTA Hotararea nr. 80 din 21.12.2022 APROBARE ORDINE DE ZI SEDINTA Hotararea nr. 79 din 21.12.2022 APROBARE PV SED ANTERIOARA Hotararea nr. 78 din 25.11.2022 PRIVIND VANZARE LEMN CAT",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/09/HOTARAREA-59-DIN-23.09.2022-APROBARE-PV-SEDINTA-ANTERIOARA_000572.pdf",
+     "sha256": "16c774d78171e9d4c70956e39ffdeea2fb8fd676b20b5be5259a315676acae48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-61-2022",
+   "path": "local/arad/ignesti/2022/61",
+   "short": "HCL Ignești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 61/2022 privind propunerea retelei scolare 2023-2024 Hotararea nr. 83 din 21.12.2022 MODIFICARE ORGANIGRAMAL Hotararea nr. 82 din 21.12.2022 RECTIFICARE BUGET LOCAL Hotararea nr. 81 din 21.12.2022 ALEGEREA PRESEDINTELUI DE SEDINTA Hotararea nr. 80 din 21.12.2022 APROBARE ORDINE DE ZI SEDINTA Hotararea nr. 79 din 21.12.2022 APROBARE PV SED ANTERIOARA Hotararea nr. 78 din 25.11.2022 PRIVIND VANZARE LEMN CAT",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/09/HOTARARE-NR.-61-DIN-23.09.2022-ALEGERE-PRESEDINTE-SEDINTA_000576.pdf",
+     "sha256": "81c0cbc5d6bd42293329a3b7c717b5c3202171f7c2f3dd345bdd1af013bac76e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-62-2022",
+   "path": "local/arad/ignesti/2022/62",
+   "short": "HCL Ignești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 62/2022 privind propunerea retelei scolare 2023-2024 Hotararea nr. 83 din 21.12.2022 MODIFICARE ORGANIGRAMAL Hotararea nr. 82 din 21.12.2022 RECTIFICARE BUGET LOCAL Hotararea nr. 81 din 21.12.2022 ALEGEREA PRESEDINTELUI DE SEDINTA Hotararea nr. 80 din 21.12.2022 APROBARE ORDINE DE ZI SEDINTA Hotararea nr. 79 din 21.12.2022 APROBARE PV SED ANTERIOARA Hotararea nr. 78 din 25.11.2022 PRIVIND VANZARE LEMN CAT",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/09/HOTARARE-NR.-62-DIN-23.09.2022-MODIFICARE-PROGRAM-ACHIZITII-DIRECTE_000578.pdf",
+     "sha256": "4ee2e13e97c40e23c81932d726e00b99c229f16c062fc62759b33c3d71180cca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-63-2022",
+   "path": "local/arad/ignesti/2022/63",
+   "short": "HCL Ignești nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 63/2022 privind propunerea retelei scolare 2023-2024 Hotararea nr. 83 din 21.12.2022 MODIFICARE ORGANIGRAMAL Hotararea nr. 82 din 21.12.2022 RECTIFICARE BUGET LOCAL Hotararea nr. 81 din 21.12.2022 ALEGEREA PRESEDINTELUI DE SEDINTA Hotararea nr. 80 din 21.12.2022 APROBARE ORDINE DE ZI SEDINTA Hotararea nr. 79 din 21.12.2022 APROBARE PV SED ANTERIOARA Hotararea nr. 78 din 25.11.2022 PRIVIND VANZARE LEMN CAT",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/09/HOTARARE-NR.-63-DIN-23.09.2022-APROBARE-INDICATORI-DC16-IGNESTI_000580.pdf",
+     "sha256": "ecdb06203c98539a31aa3c54baee842100bfe5bf018ae8bd09eb5cf8e2b7a4d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-64-2022",
+   "path": "local/arad/ignesti/2022/64",
+   "short": "HCL Ignești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 64/2022 privind propunerea retelei scolare 2023-2024 Hotararea nr. 83 din 21.12.2022 MODIFICARE ORGANIGRAMAL Hotararea nr. 82 din 21.12.2022 RECTIFICARE BUGET LOCAL Hotararea nr. 81 din 21.12.2022 ALEGEREA PRESEDINTELUI DE SEDINTA Hotararea nr. 80 din 21.12.2022 APROBARE ORDINE DE ZI SEDINTA Hotararea nr. 79 din 21.12.2022 APROBARE PV SED ANTERIOARA Hotararea nr. 78 din 25.11.2022 PRIVIND VANZARE LEMN CAT",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/09/HOTARARE-NR.-64-DIN-23.09.2022-VANZARE-PARTIDA-LEMN-DE-FOC_000582.pdf",
+     "sha256": "a89b696a985edecc998f511396db7d382a3f88391aabae4449b4c6ddee513e51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-65-2022",
+   "path": "local/arad/ignesti/2022/65",
+   "short": "HCL Ignești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 65/2022 privind propunerea retelei scolare 2023-2024 Hotararea nr. 83 din 21.12.2022 MODIFICARE ORGANIGRAMAL Hotararea nr. 82 din 21.12.2022 RECTIFICARE BUGET LOCAL Hotararea nr. 81 din 21.12.2022 ALEGEREA PRESEDINTELUI DE SEDINTA Hotararea nr. 80 din 21.12.2022 APROBARE ORDINE DE ZI SEDINTA Hotararea nr. 79 din 21.12.2022 APROBARE PV SED ANTERIOARA Hotararea nr. 78 din 25.11.2022 PRIVIND VANZARE LEMN CAT",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/09/HOTARARE-NR.-65-DIN-23.09.2022-DESEMNARE-REPREZENTANTI-COMISIE-PROBA-INTERVIU_000584.pdf",
+     "sha256": "7bbb38ff9ec57674e8c843920f88aa10f2d099ca8e2fed480f259ba429f66b7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-66-2022",
+   "path": "local/arad/ignesti/2022/66",
+   "short": "HCL Ignești nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 66/2022 privind propunerea retelei scolare 2023-2024 Hotararea nr. 83 din 21.12.2022 MODIFICARE ORGANIGRAMAL Hotararea nr. 82 din 21.12.2022 RECTIFICARE BUGET LOCAL Hotararea nr. 81 din 21.12.2022 ALEGEREA PRESEDINTELUI DE SEDINTA Hotararea nr. 80 din 21.12.2022 APROBARE ORDINE DE ZI SEDINTA Hotararea nr. 79 din 21.12.2022 APROBARE PV SED ANTERIOARA Hotararea nr. 78 din 25.11.2022 PRIVIND VANZARE LEMN CAT",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/09/HOTARARE-NR.-66-DIN-23.09.2022-DESEMNARE-REPREZENTANT-CL-IN-CONSILIUL-DE-ADMIN-SCOALA_000586.pdf",
+     "sha256": "b6f251a763a489ab6bec1a84a8795a611e492ec5cab798a87d1da076cc66a304"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-67-2022",
+   "path": "local/arad/ignesti/2022/67",
+   "short": "HCL Ignești nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 67/2022 privind propunerea retelei scolare 2023-2024 Hotararea nr. 83 din 21.12.2022 MODIFICARE ORGANIGRAMAL Hotararea nr. 82 din 21.12.2022 RECTIFICARE BUGET LOCAL Hotararea nr. 81 din 21.12.2022 ALEGEREA PRESEDINTELUI DE SEDINTA Hotararea nr. 80 din 21.12.2022 APROBARE ORDINE DE ZI SEDINTA Hotararea nr. 79 din 21.12.2022 APROBARE PV SED ANTERIOARA Hotararea nr. 78 din 25.11.2022 PRIVIND VANZARE LEMN CAT",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/09/HOTARARE-NR.-67-DIN-23.09.2022-RECTIFICARE-BUGET-LOCAL_000588.pdf",
+     "sha256": "26c04be93ce1ce2e5fbb8b3ba437352109ef75b062fdca00de336e73bdff3571"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-68-2022",
+   "path": "local/arad/ignesti/2022/68",
+   "short": "HCL Ignești nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 68/2022 privind aprobare pv sedinta anterioara",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/11/HOTARARE-NR.-68-DIN-31.10.2022-privind-aprobare-pv-sedinta-anterioara.pdf",
+     "sha256": "d9835b4e6faeda90a4d9dedac98ac79ff50858616758c722959493401e5d96af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-70-2022",
+   "path": "local/arad/ignesti/2022/70",
+   "short": "HCL Ignești nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 70/2022 privind modificare organigrama si stat de functii",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/11/HOTARARE-NR.-70-DIN-31.10.2022-privind-modificare-organigrama-si-stat-de-functii.pdf",
+     "sha256": "bfa16f8dd0c55b31197ec1d4564c1d672e1ebd84a4c898d0a733274a27c82a5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-71-2022",
+   "path": "local/arad/ignesti/2022/71",
+   "short": "HCL Ignești nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 71/2022 privind acordarea burselor sociale",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/11/HOTARARE-NR.-71-DIN-31.10.2022-privind-acordarea-burselor-sociale.pdf",
+     "sha256": "1fde1f641938f6fec208e56c1fe38cf9b77b5b02b82e92e67ecd2ac01c3fbd1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-72-2022",
+   "path": "local/arad/ignesti/2022/72",
+   "short": "HCL Ignești nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 72/2022 privind neasumare responsabilitatea achizitie produse-min",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/11/HOTARARE-NR.-72-DIN-31.10.2022-privind-neasumare-responsabilitatea-achizitie-produse-min.pdf",
+     "sha256": "47b04b3f8beec941a7afd2795337bc641d4fc41a118e48a5292eb7ddf77d8536"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-73-2022",
+   "path": "local/arad/ignesti/2022/73",
+   "short": "HCL Ignești nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 73/2022 PRIVIND APROBARE PV SED ANTERIOARA",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/11/Hotararea-nr.-73-din-25.11.2022-PRIVIND-APROBARE-PV-SED-ANTERIOARA_000743.pdf",
+     "sha256": "6b6dc0881a0c20f2b4cf2fddb8c26c253cbf6dee6941dce6df10ca771d8673b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-75-2022",
+   "path": "local/arad/ignesti/2022/75",
+   "short": "HCL Ignești nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 75/2022 PRIVIND APROBARE EXECUTIE BUGETARA",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/11/Hotararea-nr.-75-din-25.11.2022-PRIVIND-APROBARE-EXECUTIE-BUGETARA_000747.pdf",
+     "sha256": "3da79228022267775b489cb6cdc143f4ba4ce82da7b950cefd907aacc535da86"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ignesti-76-2022",
    "path": "local/arad/ignesti/2022/76",
    "short": "HCL Ignești nr. 76/2022",
@@ -14,6 +299,111 @@
      "units": 1,
      "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/11/Hotararea-nr.-76-din-25.11.2022-PRIVIND-STABILIREA-IMPOZITELOR-SI-TAXELOR-LOCALE-PT-ANUL-2023_000750.pdf",
      "sha256": "667d4aad139a934720a6390b8d2aa5ae70fd5e5fe8493a8fc73805bea7627d7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-77-2022",
+   "path": "local/arad/ignesti/2022/77",
+   "short": "HCL Ignești nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 77/2022 PRIVIND ACORDAREA BURSE ELEVI",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/11/Hotararea-nr.-77-din-25.11.2022-PRIVIND-ACORDAREA-BURSE-ELEVI_000752.pdf",
+     "sha256": "944696f388e516d7b8109a2668f65eadba3fd51c78b9e175472a55005b116426"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-78-2022",
+   "path": "local/arad/ignesti/2022/78",
+   "short": "HCL Ignești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 78/2022 PRIVIND VANZARE LEMN CATRE POPULATIE",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/11/Hotararea-nr.-78-din-25.11.2022-PRIVIND-VANZARE-LEMN-CATRE-POPULATIE_000754.pdf",
+     "sha256": "cb972070d0a276fcc6d95d2f1aa02dd738fffcce50ff6dca546d98bc6aecaa2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-79-2022",
+   "path": "local/arad/ignesti/2022/79",
+   "short": "HCL Ignești nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 79/2022 privind propunerea retelei scolare 2023-2024 Hotararea nr. 83 din 21.12.2022 MODIFICARE ORGANIGRAMAL Hotararea nr. 82 din 21.12.2022 RECTIFICARE BUGET LOCAL Hotararea nr. 81 din 21.12.2022 ALEGEREA PRESEDINTELUI DE SEDINTA Hotararea nr. 80 din 21.12.2022 APROBARE ORDINE DE ZI SEDINTA Hotararea nr. 79 din 21.12.2022 APROBARE PV SED ANTERIOARA Hotararea nr. 78 din 25.11.2022 PRIVIND VANZARE LEMN CAT",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/12/HOTARAREA-79-DIN-21.12.2022-APROBARE-PV-SED-ANTERIOARA.pdf",
+     "sha256": "5912ece10b4f12652c56dc5345663a09fc353f3ea2d218f2085089dc3002b626"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-81-2022",
+   "path": "local/arad/ignesti/2022/81",
+   "short": "HCL Ignești nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 81/2022 privind propunerea retelei scolare 2023-2024 Hotararea nr. 83 din 21.12.2022 MODIFICARE ORGANIGRAMAL Hotararea nr. 82 din 21.12.2022 RECTIFICARE BUGET LOCAL Hotararea nr. 81 din 21.12.2022 ALEGEREA PRESEDINTELUI DE SEDINTA Hotararea nr. 80 din 21.12.2022 APROBARE ORDINE DE ZI SEDINTA Hotararea nr. 79 din 21.12.2022 APROBARE PV SED ANTERIOARA Hotararea nr. 78 din 25.11.2022 PRIVIND VANZARE LEMN CAT",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/12/HOTARAREA-81-DIN-21.12.2022-ALEGEREA-PRESEDINTELUI-DE-SEDINTA.pdf",
+     "sha256": "bb937c620fcde12c601d3ecb01a2dfc8999cbd48c557fb14cc1743de9d27e208"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-82-2022",
+   "path": "local/arad/ignesti/2022/82",
+   "short": "HCL Ignești nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 82/2022 privind propunerea retelei scolare 2023-2024 Hotararea nr. 83 din 21.12.2022 MODIFICARE ORGANIGRAMAL Hotararea nr. 82 din 21.12.2022 RECTIFICARE BUGET LOCAL Hotararea nr. 81 din 21.12.2022 ALEGEREA PRESEDINTELUI DE SEDINTA Hotararea nr. 80 din 21.12.2022 APROBARE ORDINE DE ZI SEDINTA Hotararea nr. 79 din 21.12.2022 APROBARE PV SED ANTERIOARA Hotararea nr. 78 din 25.11.2022 PRIVIND VANZARE LEMN CAT",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/12/HOTARAREA-82-DIN-21.12.2022-RECTIFICARE-BUGET-LOCAL.pdf",
+     "sha256": "dc725435c6551dc1595e7b8adc4513072cda448ae8c3e81a856904c2e8cfce88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-83-2022",
+   "path": "local/arad/ignesti/2022/83",
+   "short": "HCL Ignești nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 83/2022 privind propunerea retelei scolare 2023-2024 Hotararea nr. 83 din 21.12.2022 MODIFICARE ORGANIGRAMAL Hotararea nr. 82 din 21.12.2022 RECTIFICARE BUGET LOCAL Hotararea nr. 81 din 21.12.2022 ALEGEREA PRESEDINTELUI DE SEDINTA Hotararea nr. 80 din 21.12.2022 APROBARE ORDINE DE ZI SEDINTA Hotararea nr. 79 din 21.12.2022 APROBARE PV SED ANTERIOARA Hotararea nr. 78 din 25.11.2022 PRIVIND VANZARE LEMN CAT",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2022/12/HOTARARE-83-DIN-21.12.2022-MODIFICARE-ORGANIGRAMAL.pdf",
+     "sha256": "de0e0e29e630fd9d2311d09e718b5057950b1d9e9a3da0c45403dd46adc9e0bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-84-2022",
+   "path": "local/arad/ignesti/2022/84",
+   "short": "HCL Ignești nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 84/2022 privind propunerea retelei scolare 2023-2024",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2023/02/HOTARARE-NR.-84-din-21.12.2023-privind-propunerea-retelei-scolare-2023-2024.pdf",
+     "sha256": "183f83dd814034d659805a02de83d0f7efbe86d8d9be86b2ea622a44e2ff9c05"
     }
    ]
   }

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/beliu/2017",
+"acts": [
+{
+"slug": "hcl-arad--beliu-36-2017",
+"path": "local/arad/beliu/2017/36",
+"kind": "local",
+"year": "2017",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beliu nr. 36/2017 privind aprobarea închirierii prin licitație publică a pajiștilor din patrimoniul privat al comunei Beliu Consiliul Local al comunei Beliu; întrunit în ședința ordinară din 30.03.2017, Având în vedere : • Expunerea de motive, cu privire la aprobarea închirierii prin licitație publică a pajiștilor (pășuni și fânețe) din patrimoniul privat al comunei Beliu, a Referatului privind oportunitatea închir",
+"short": "HCL Beliu nr. 36/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-03-30",
+"latest": "2017-03-30",
+"portal": "https://beliu.ro/page/27/",
+"council": "arad/beliu",
+"council_name": "Consiliul Local al Comunei Beliu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

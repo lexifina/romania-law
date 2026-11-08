@@ -78,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--barzava-103-2025",
+   "path": "local/arad/barzava/2025/103",
+   "short": "HCL Bârzava nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 103/2025 privind numirea reprezentantului Consiliului local Bârzava în Consiliul de administraţie al Şcolii Gimnaziale din Bârzava pe perioada anului scolar 2025-2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/229131",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/229131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-104-2025",
+   "path": "local/arad/barzava/2025/104",
+   "short": "HCL Bârzava nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 104/2025 privind desemnarea reprezentantului Consiliului local Bârzava în Comisia pentru evaluarea și asigurarea calității constituită la nivelul Şcolii Gimnaziale din Bârzava",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/229132",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/229132",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--barzava-105-2025",
    "path": "local/arad/barzava/2025/105",
    "short": "HCL Bârzava nr. 105/2025",
@@ -208,6 +238,21 @@
      "from": "2025-11-11",
      "units": 1,
      "source_url": "https://emol.ro/barzava-ar/registru-hcl/233898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-113-2025",
+   "path": "local/arad/barzava/2025/113",
+   "short": "HCL Bârzava nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 113/2025 privind alegerea președintelui de ședință pentru perioada NOIEMBRIE 2025 – IANUARIE 2026",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/233899",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/233899",
      "sha256": null
     }
    ]
@@ -633,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--barzava-14-2025",
+   "path": "local/arad/barzava/2025/14",
+   "short": "HCL Bârzava nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 14/2025 privind alegerea președintelui de ședință pentru perioada FEBRUARIE 2025 – APRILIE 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/192402",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/192402",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--barzava-140-2025",
    "path": "local/arad/barzava/2025/140",
    "short": "HCL Bârzava nr. 140/2025",
@@ -873,6 +933,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--barzava-23-2025",
+   "path": "local/arad/barzava/2025/23",
+   "short": "HCL Bârzava nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 23/2025 privind vânzarea prin atribuire directa a trenului intravilan înscris în CF 307663 topografic 307663 localitatea Lalasinț",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/193149",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/193149",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--barzava-24-2025",
    "path": "local/arad/barzava/2025/24",
    "short": "HCL Bârzava nr. 24/2025",
@@ -1003,6 +1078,21 @@
      "from": "2025-05-21",
      "units": 1,
      "source_url": "https://emol.ro/barzava-ar/registru-hcl/198358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-32-2025",
+   "path": "local/arad/barzava/2025/32",
+   "short": "HCL Bârzava nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 32/2025 privind desemnarea a doi consilieri locali din cadrul consiliului local al comunei Bârzava, care vor face parte din Comisia de evaluare a performanțelor individuale ale Secretarului general al comunei Bârzava",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/198359",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/198359",
      "sha256": null
     }
    ]
@@ -1188,6 +1278,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--barzava-44-2025",
+   "path": "local/arad/barzava/2025/44",
+   "short": "HCL Bârzava nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 44/2025 privind alegerea președintelui de ședință pentru perioada MAI 2025 – IULIE 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/207709",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/207709",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--barzava-45-2025",
    "path": "local/arad/barzava/2025/45",
    "short": "HCL Bârzava nr. 45/2025",
@@ -1233,6 +1338,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--barzava-48-2025",
+   "path": "local/arad/barzava/2025/48",
+   "short": "HCL Bârzava nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 48/2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/207713",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/207713",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--barzava-49-2025",
    "path": "local/arad/barzava/2025/49",
    "short": "HCL Bârzava nr. 49/2025",
@@ -1273,6 +1393,21 @@
      "from": "2025-05-23",
      "units": 1,
      "source_url": "https://emol.ro/barzava-ar/registru-hcl/207715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-51-2025",
+   "path": "local/arad/barzava/2025/51",
+   "short": "HCL Bârzava nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 51/2025 privind vânzarea prin atribuire directa a trenului intravilan înscris în CF 307649 topografic 307649 localitatea Căpruța",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/207716",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/207716",
      "sha256": null
     }
    ]
@@ -1363,6 +1498,21 @@
      "from": "2025-09-10",
      "units": 1,
      "source_url": "https://emol.ro/barzava-ar/registru-hcl/209399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-58-2025",
+   "path": "local/arad/barzava/2025/58",
+   "short": "HCL Bârzava nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 58/2025 privind modificarea art.3 din HCL nr.51 din 08.05.2025, privind vânzarea prin atribuire directă a terenului intravilan înscris în CF 307649 topografic 307649 localitatea Căpruța",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/209400",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/209400",
      "sha256": null
     }
    ]
@@ -1563,6 +1713,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--barzava-70-2025",
+   "path": "local/arad/barzava/2025/70",
+   "short": "HCL Bârzava nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 70/2025 privind acordare unui sprijin financiar pentru Parohia Ortodoxă Bârzava cu hramul ”ADORMIREA MAICII DOMNULUI”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/216221",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/216221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-71-2025",
+   "path": "local/arad/barzava/2025/71",
+   "short": "HCL Bârzava nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 71/2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/216222",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/216222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-72-2025",
+   "path": "local/arad/barzava/2025/72",
+   "short": "HCL Bârzava nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 72/2025 privind acordare unui sprijin financiar pentru Parohia Ortodoxă Căpruța cu hramul ”ADORMIREA MAICII DOMNULUI”",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/216223",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/216223",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--barzava-73-2025",
    "path": "local/arad/barzava/2025/73",
    "short": "HCL Bârzava nr. 73/2025",
@@ -1693,6 +1888,21 @@
      "from": "2025-09-10",
      "units": 1,
      "source_url": "https://emol.ro/barzava-ar/registru-hcl/219841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--barzava-81-2025",
+   "path": "local/arad/barzava/2025/81",
+   "short": "HCL Bârzava nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 81/2025 privind alegerea președintelui de ședință pentru perioada AUGUST 2025 – OCTOMBRIE 2025",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/219842",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/219842",
      "sha256": null
     }
    ]

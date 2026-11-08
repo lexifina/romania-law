@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/bocsig/2020",
+ "acts": [
+  {
+   "slug": "hcl-arad--bocsig-9-2020",
+   "path": "local/arad/bocsig/2020/9",
+   "short": "HCL Bocsig nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bocsig nr. 9/2020",
+   "url": "https://bocsig.ro/arhiva-2020-2022/",
+   "versions": [
+    {
+     "from": "2020-09-25",
+     "units": 1,
+     "source_url": "https://bocsig.ro/wp-content/uploads/2023/02/9-HOTARARI-CL-BOCSIG-25.09.2020.pdf",
+     "sha256": "b9a8f30cc7fb19784e2b90ad69b79c0781ef569280e972f9884892a26cd2c1bd"
+    }
+   ]
+  }
+ ]
+}

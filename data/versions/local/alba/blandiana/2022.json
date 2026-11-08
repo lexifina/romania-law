@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/alba/blandiana/2022",
+ "acts": [
+  {
+   "slug": "hcl-alba--blandiana-12-2022",
+   "path": "local/alba/blandiana/2022/12",
+   "short": "HCL Blandiana nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 12/2022",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2022/hcl/12.pdf",
+     "sha256": "774ed8cec231470cdb5fe80550edf8423358632ee1b8d981dc96433ef0d76c29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-14-2022",
+   "path": "local/alba/blandiana/2022/14",
+   "short": "HCL Blandiana nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 14/2022 privind aprobarea proiectului de ordine de zi al ședinței extraordinare cu convocare de îndată, la distanță prin mijloace de comunicare electronică din data de 10.03.2022 Consiliul Local al Comunei Blandiana, întrunit în ședință extraordinară cu convocare de îndată, la distanță prin mijloace de comunicare electronică în data de 10 martie 2022, Luând în dezbatere: Dispoziția Primarului Comunei Blan",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2022/hcl/14.pdf",
+     "sha256": "1969e8fcad1878ea4bd5d0a6777f988e75988a0dc4583fbf2c903be46de8ee9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-15-2022",
+   "path": "local/alba/blandiana/2022/15",
+   "short": "HCL Blandiana nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 15/2022",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2022/hcl/15.pdf",
+     "sha256": "7b0eaeae67342a3ec96635002ecbe50b6e52d20efb9228084379dbcbaf372c1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-18-2022",
+   "path": "local/alba/blandiana/2022/18",
+   "short": "HCL Blandiana nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 18/2022 privind nominalizarea de către Consiliul Local al Comunei Blandiana a doi consilieri locali care vor avea calitatea de evaluatori în cadrul comisiei de evaluare a performanțelor profesionale individuale ale Secretarului general al Comunei Blandiana Consiliul local al comunei Blandiana, județul Alba intrunit in ședința publica ordinara, la distanta, prin mijloace de comunicare electronica, in data",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2022/hcl/18.pdf",
+     "sha256": "dab7ca6f131d672c312be2117bb2968fce453229fcaa6ce9f16f8c60557a00c0"
+    }
+   ]
+  }
+ ]
+}

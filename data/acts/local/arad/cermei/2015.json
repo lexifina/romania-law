@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/arad/cermei/2015",
+"acts": [
+{
+"slug": "hcl-arad--cermei-61-2015",
+"path": "local/arad/cermei/2015/61",
+"kind": "local",
+"year": "2015",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cermei nr. 61/2015 pentru a vizualiza Hotararea 61",
+"short": "HCL Cermei nr. 61/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-06-30",
+"latest": "2015-06-30",
+"portal": "https://comuna-cermei.ro/2015/07/hotararea-nr-61-din-30-06-2015/",
+"council": "arad/cermei",
+"council_name": "Consiliul Local al Comunei Cermei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--cermei-84-2015",
+"path": "local/arad/cermei/2015/84",
+"kind": "local",
+"year": "2015",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cermei nr. 84/2015 pentru a descarca Hotărârile Consiliului Local Cermei din 8 octombrie 2015",
+"short": "HCL Cermei nr. 84/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-10-08",
+"latest": "2015-10-08",
+"portal": "https://comuna-cermei.ro/2015/11/hotarari-ale-consiliului-local-cermei-octombrie-2015/",
+"council": "arad/cermei",
+"council_name": "Consiliul Local al Comunei Cermei",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

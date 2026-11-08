@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/alba/cugir/2020",
+"acts": [
+{
+"slug": "hcl-alba--cugir-306-2020",
+"path": "local/alba/cugir/2020/306",
+"kind": "local",
+"year": "2020",
+"number": "306",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 306/2020 pentru aprobarea organigramei, statului de funcții și a numărului de posturi în anul 2020 privind Ocolul Silvic Sâpcea - Cugir R.A",
+"short": "HCL Cugir nr. 306/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C44",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

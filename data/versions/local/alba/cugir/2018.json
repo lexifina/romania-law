@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/cugir/2018",
+ "acts": [
+  {
+   "slug": "hcl-alba--cugir-82-2018",
+   "path": "local/alba/cugir/2018/82",
+   "short": "HCL Cugir nr. 82/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 82/2018 privind aprobarea Regulamentului finanțărilor nerambursabile din bugetul local al Orașului Cugir a proiectelor din domeniul turismului și tineretului Consiliul Local al orașului Cugir, județul Alba, întrunit în ședință publică ordinară în data de 20 aprilie 2018; Analizând Raportul de specialitate nr.5362/23.03.2018, întocmit de Compartimentul Contencios din cadrul aparatului de specialitate al Pr",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/buget_detaliu/C59",
+   "versions": [
+    {
+     "from": "2018-04-20",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/buget/HCL_nr._82,_Regulament_finantari_nerambursabile_turism,_tineret__.doc",
+     "sha256": "f3d84349a9e4c75ed145814c7c9fdc737de97ffebee268fda2d468a950f2d3b6"
+    }
+   ]
+  }
+ ]
+}

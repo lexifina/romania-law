@@ -3,6 +3,73 @@
 "shard": "local/alba/cugir/2023",
 "acts": [
 {
+"slug": "hcl-alba--cugir-7-2023",
+"path": "local/alba/cugir/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 7/2023",
+"short": "HCL Cugir nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P280",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--cugir-235-2023",
+"path": "local/alba/cugir/2023/235",
+"kind": "local",
+"year": "2023",
+"number": "235",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 235/2023 privind aprobarea conturilor de execuție a bugetelor Orașului Cugir la 30.09.2023 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară”, în data de 27 noiembrie 2023; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea conturilor de execuție a bugetelor Orașului Cugir la 30.09.2023; -Referatul de aprobare nr.29.323/16.11.2023 al inițiatorului proiectului",
+"short": "HCL Cugir nr. 235/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P40",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--cugir-237-2023",
+"path": "local/alba/cugir/2023/237",
+"kind": "local",
+"year": "2023",
+"number": "237",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 237/2023 privind înscrierea în Cartea Funciară a dreptului de proprietate al orașului Cugir - domeniul public, în cotă definitivă pentru imobilul-strada Calea Gorunilor din localitatea Vinerea Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară”, în data de 27 noiembrie 2023; Luând în dezbatere: -Proiectul de hotărâre privind înscrierea în Cartea Funciară a dreptului de p",
+"short": "HCL Cugir nr. 237/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P40",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-alba--cugir-238-2023",
 "path": "local/alba/cugir/2023/238",
 "kind": "local",
@@ -23,6 +90,28 @@
 "flags": {
 "text_pending": "review",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--cugir-239-2023",
+"path": "local/alba/cugir/2023/239",
+"kind": "local",
+"year": "2023",
+"number": "239",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 239/2023 privind aprobarea prelungirii Contractului de delegare a gestiunii serviciului public de transport local de persoane prin curse regulate în Orașul Cugir nr.114/19837 din data 22.12.2020 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară”, în data de 27 noiembrie 2023; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea prelungirii Contractului de delega",
+"short": "HCL Cugir nr. 239/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P40",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -49,6 +138,318 @@
 }
 },
 {
+"slug": "hcl-alba--cugir-241-2023",
+"path": "local/alba/cugir/2023/241",
+"kind": "local",
+"year": "2023",
+"number": "241",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 241/2023 privind prelungirea duratei Contractelor de închiriere pentru locuințele ANL situate în Cugir str.21 Decembrie 1989, nr.156, bl. HD6 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară”, în data de 27 noiembrie 2023; Luând în dezbatere: -Proiectul de hotărâre privind prelungirea duratei Contractelor de închiriere pentru locuințele ANL situate în Cugir, str.21 Dec",
+"short": "HCL Cugir nr. 241/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P40",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--cugir-242-2023",
+"path": "local/alba/cugir/2023/242",
+"kind": "local",
+"year": "2023",
+"number": "242",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 242/2023 privind stabilirea cuantumului componentei variabile a remunerației administratorilor neexecutivi ai Ocolului Silvic Sâpcea Cugir RA Consiliul Local al Orașului Cugir, Județul Alba; Întrunit în ședință publică „ordinară”, din data de 27 noiembrie 2023; Luând în dezbatere: -Proiectul de hotărâre privind stabilirea cuantumului componentei variabile a remunerației administratorilor neexecutivi ai Oco",
+"short": "HCL Cugir nr. 242/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P40",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--cugir-243-2023",
+"path": "local/alba/cugir/2023/243",
+"kind": "local",
+"year": "2023",
+"number": "243",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 243/2023",
+"short": "HCL Cugir nr. 243/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P40",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--cugir-244-2023",
+"path": "local/alba/cugir/2023/244",
+"kind": "local",
+"year": "2023",
+"number": "244",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 244/2023",
+"short": "HCL Cugir nr. 244/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-27",
+"latest": "2023-11-27",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P40",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--cugir-260-2023",
+"path": "local/alba/cugir/2023/260",
+"kind": "local",
+"year": "2023",
+"number": "260",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 260/2023 privind acordarea unui mandat special pentru a vota în AGA A.D.I",
+"short": "HCL Cugir nr. 260/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-08",
+"latest": "2023-12-08",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P20",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--cugir-261-2023",
+"path": "local/alba/cugir/2023/261",
+"kind": "local",
+"year": "2023",
+"number": "261",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 261/2023",
+"short": "HCL Cugir nr. 261/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-08",
+"latest": "2023-12-08",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P20",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--cugir-262-2023",
+"path": "local/alba/cugir/2023/262",
+"kind": "local",
+"year": "2023",
+"number": "262",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 262/2023 privind rectificarea bugetului local al Orașului Cugir și a bugetului instituțiilor publice din subordinea Consiliului Local Cugir finanțate din venituri proprii și subvenții, pe anul 2023 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară” din data de 08 decembrie 2023; Luând în dezbatere: -Proiectul de hotărâre privind rectificarea bugetului local al Oraș",
+"short": "HCL Cugir nr. 262/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-08",
+"latest": "2023-12-08",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P20",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--cugir-263-2023",
+"path": "local/alba/cugir/2023/263",
+"kind": "local",
+"year": "2023",
+"number": "263",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 263/2023",
+"short": "HCL Cugir nr. 263/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P20",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--cugir-270-2023",
+"path": "local/alba/cugir/2023/270",
+"kind": "local",
+"year": "2023",
+"number": "270",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 270/2023 Privind aprobarea documentatiei tehnico-economice, faza SF și a indicatorilor tehnico- economici pentru obiectivul de investitie ”Asigurarea cu utilități a grupului sanitar Școala Primară Mugești, Orașul Cugir”, jud",
+"short": "HCL Cugir nr. 270/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35/P20",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--cugir-271-2023",
+"path": "local/alba/cugir/2023/271",
+"kind": "local",
+"year": "2023",
+"number": "271",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 271/2023 privind rectificarea bugetului local al Orașului Cugir, pe anul 2023 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară” din data de 19 decembrie 2023; Luând în dezbatere: -Proiectul de hotărâre privind rectificarea bugetului local al Orașului Cugir, pe anul 2023; -Referatul de aprobare nr. 33990/19.12.2023 al inițiatorului proiectului de hotărâre prin care",
+"short": "HCL Cugir nr. 271/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--cugir-272-2023",
+"path": "local/alba/cugir/2023/272",
+"kind": "local",
+"year": "2023",
+"number": "272",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 272/2023 privind rectificarea bugetului local al Orașului Cugir, pe anul 2023 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”extraordinară” din data de 22 decembrie 2023; Luând în dezbatere: -Proiectul de hotărâre privind rectificarea bugetului local al Orașului Cugir, pe anul 2023; -Referatul de aprobare nr. 34.334/21.12.2023 al inițiatorului proiectului de hotărâre prin car",
+"short": "HCL Cugir nr. 272/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-22",
+"latest": "2023-12-22",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--cugir-278-2023",
+"path": "local/alba/cugir/2023/278",
+"kind": "local",
+"year": "2023",
+"number": "278",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 278/2023 privind însușirea Raportului de evaluare pentru 1.381 imobile - construcții (parcări) și terenurile aferente acestora din Orașul Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 28 decembrie 2023; Luând în dezbatere: -Proiectul de hotărâre privind însușirea Raportului de evaluare pentru 1.381 imobile - construcții (parcări) și terenurile afe",
+"short": "HCL Cugir nr. 278/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--cugir-279-2023",
+"path": "local/alba/cugir/2023/279",
+"kind": "local",
+"year": "2023",
+"number": "279",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 279/2023 privind înscrierea în Cartea Funciară a dreptului de proprietate al orașului Cugir - domeniul privat, în cotă definitivă pentru un imobil- pășune situat administrativ în extravilanul UAT Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 28 decembrie 2023; Luând în dezbatere: -Proiectul de hotărâre privind înscrierea în Cartea Funciară a drept",
+"short": "HCL Cugir nr. 279/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--cugir-280-2023",
+"path": "local/alba/cugir/2023/280",
+"kind": "local",
+"year": "2023",
+"number": "280",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 280/2023 privind înscrierea în Cartea Funciară a dreptului de proprietate al orașului Cugir - domeniul public, în cotă definitivă pentru imobilul-drum forestier Valea Spinului situat administrativ în localitatea Vinerea, UAT Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 28 decembrie 2023; Luând în dezbatere: -Proiectul de hotărâre privind aprobare",
+"short": "HCL Cugir nr. 280/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-alba--cugir-281-2023",
 "path": "local/alba/cugir/2023/281",
 "kind": "local",
@@ -68,6 +469,96 @@
 "council_name": "Consiliul Local al Orașului Cugir",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--cugir-282-2023",
+"path": "local/alba/cugir/2023/282",
+"kind": "local",
+"year": "2023",
+"number": "282",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 282/2023 privind acordarea unui mandat special pentru aprobarea modificării tarifelor pentru serviciile prestate de asocierea RER VEST SA/RETIM ECOLOGIC SERVICE SA în baza Contractului de delegare prin concesiune a gestiunii activităților de colectare și transport a deșeurilor în Zona 2, Lot 2 Tărtăria cu nr. 223/27.12.2018 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordin",
+"short": "HCL Cugir nr. 282/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--cugir-283-2023",
+"path": "local/alba/cugir/2023/283",
+"kind": "local",
+"year": "2023",
+"number": "283",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 283/2023",
+"short": "HCL Cugir nr. 283/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--cugir-284-2023",
+"path": "local/alba/cugir/2023/284",
+"kind": "local",
+"year": "2023",
+"number": "284",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 284/2023",
+"short": "HCL Cugir nr. 284/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--cugir-285-2023",
+"path": "local/alba/cugir/2023/285",
+"kind": "local",
+"year": "2023",
+"number": "285",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 285/2023 privind prelungirea duratei contractelor de închiriere pentru locuințele ANL situate în Cugir str. 21 Decembrie 1989, nr.156, bl. HD6, str",
+"short": "HCL Cugir nr. 285/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +582,72 @@
 "flags": {
 "text_pending": "review",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--cugir-288-2023",
+"path": "local/alba/cugir/2023/288",
+"kind": "local",
+"year": "2023",
+"number": "288",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 288/2023 privind aprobarea documentației tehnico-economice, faza SF și a indicatorilor tehnico-economici pentru obiectivul de investiție „Regenerare urbană inteligentă durabilă și incluzivă în orașul Cugir” Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 28 decembrie 2023; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea Documentației tehnico",
+"short": "HCL Cugir nr. 288/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--cugir-289-2023",
+"path": "local/alba/cugir/2023/289",
+"kind": "local",
+"year": "2023",
+"number": "289",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 289/2023 privind aprobarea documentației tehnico-economice, faza SF și a indicatorilor tehnico-economici pentru obiectivul de investiție „ Dezvoltarea sistemului de mobilitate alternativ, public prin implementarea transportului verde în Cugir pe coridorul \"Localitatea componentă Vinerea - zona rezidențială Cindeni - localități componente zona de munte\" Consiliul Local al orașului Cugir, județul Alba; Întru",
+"short": "HCL Cugir nr. 289/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--cugir-290-2023",
+"path": "local/alba/cugir/2023/290",
+"kind": "local",
+"year": "2023",
+"number": "290",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 290/2023 privind aprobarea “Calendarului târgurilor și piețelor” din orașul Cugir pentru anul 2024 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 28 decembrie 2023; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea Calendarului târgurilor și piețelor din orașul Cugir pentru anul 2024; -Referatul de aprobare nr. 34856/27.12.2023 al primarului o",
+"short": "HCL Cugir nr. 290/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C35",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

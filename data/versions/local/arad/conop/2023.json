@@ -3,6 +3,21 @@
  "shard": "local/arad/conop/2023",
  "acts": [
   {
+   "slug": "hcl-arad--conop-1-2023",
+   "path": "local/arad/conop/2023/1",
+   "short": "HCL Conop nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 1/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/87530",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/87530",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-10-2023",
    "path": "local/arad/conop/2023/10",
    "short": "HCL Conop nr. 10/2023",
@@ -243,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-13-2023",
+   "path": "local/arad/conop/2023/13",
+   "short": "HCL Conop nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 13/2023",
+   "url": "https://emol.ro/conop-ar/registru-hcl/87542",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/87542",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-14-2023",
    "path": "local/arad/conop/2023/14",
    "short": "HCL Conop nr. 14/2023",
@@ -303,6 +333,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-18-2023",
+   "path": "local/arad/conop/2023/18",
+   "short": "HCL Conop nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 18/2023 privind modificarea art. 2, pct.2 din Hotărârea Consiliului Local Conop nr.71 din 31.10.2022 privind aprobarea Memoriului Justificativ pentru investiţia,, Achiziție autoutilitară pentru Comuna Conop, Judetul Arad” și modificarea și completarea art.2 din Hotărârea Consiliului Local Conop nr.72 din 31.10.2022 privind aprobarea implementarea proiectului ,, Achizitie Autoutilitară pentru Comuna Conop, Judetul Arad”,",
+   "url": "https://emol.ro/conop-ar/registru-hcl/91088",
+   "versions": [
+    {
+     "from": "2023-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/91088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-19-2023",
+   "path": "local/arad/conop/2023/19",
+   "short": "HCL Conop nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 19/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/92945",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/92945",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-2-2023",
    "path": "local/arad/conop/2023/2",
    "short": "HCL Conop nr. 2/2023",
@@ -343,6 +403,21 @@
      "from": "2023-03-02",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/92947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-22-2023",
+   "path": "local/arad/conop/2023/22",
+   "short": "HCL Conop nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 22/2023",
+   "url": "https://emol.ro/conop-ar/registru-hcl/92948",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/92948",
      "sha256": null
     }
    ]
@@ -438,6 +513,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-29-2023",
+   "path": "local/arad/conop/2023/29",
+   "short": "HCL Conop nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 29/2023 privind încheierea și semnarea Contractului de delegare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată și transportul separat al deșeurilor municipale din județul Arad ZONA 5, cu Societatea POLARIS M HOLDING SRL",
+   "url": "https://emol.ro/conop-ar/registru-hcl/92955",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/92955",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-3-2023",
    "path": "local/arad/conop/2023/3",
    "short": "HCL Conop nr. 3/2023",
@@ -448,6 +538,21 @@
      "from": "2023-02-15",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/87532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-30-2023",
+   "path": "local/arad/conop/2023/30",
+   "short": "HCL Conop nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 30/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/97633",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/97633",
      "sha256": null
     }
    ]
@@ -528,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-36-2023",
+   "path": "local/arad/conop/2023/36",
+   "short": "HCL Conop nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 36/2023 privind aprobarea operațiunii de rectificare a suprafețelor unor imobile aparținând comunei Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/97639",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/97639",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-37-2023",
    "path": "local/arad/conop/2023/37",
    "short": "HCL Conop nr. 37/2023",
@@ -538,6 +658,21 @@
      "from": "2023-04-06",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/97640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-38-2023",
+   "path": "local/arad/conop/2023/38",
+   "short": "HCL Conop nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 38/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/101924",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/101924",
      "sha256": null
     }
    ]
@@ -603,6 +738,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-42-2023",
+   "path": "local/arad/conop/2023/42",
+   "short": "HCL Conop nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 42/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din aparatul propriu al Primăriei comunei Conop, care se aplică începând cu luna aprilie 2023",
+   "url": "https://emol.ro/conop-ar/registru-hcl/101928",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/101928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-43-2023",
+   "path": "local/arad/conop/2023/43",
+   "short": "HCL Conop nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 43/2023 privind aprobarea participării Comunei Conop, Județul Arad la Parteneriatul LEADER Podgoria Miniș-Măderat",
+   "url": "https://emol.ro/conop-ar/registru-hcl/101929",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/101929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-44-2023",
+   "path": "local/arad/conop/2023/44",
+   "short": "HCL Conop nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 44/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/105412",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/105412",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-45-2023",
    "path": "local/arad/conop/2023/45",
    "short": "HCL Conop nr. 45/2023",
@@ -643,6 +823,21 @@
      "from": "2023-05-23",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/105415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-48-2023",
+   "path": "local/arad/conop/2023/48",
+   "short": "HCL Conop nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 48/2023 privind aprobarea Actul Adițional nr. 5 la Statutul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://emol.ro/conop-ar/registru-hcl/105416",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/105416",
      "sha256": null
     }
    ]
@@ -708,6 +903,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-52-2023",
+   "path": "local/arad/conop/2023/52",
+   "short": "HCL Conop nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 52/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/110829",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/110829",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-53-2023",
    "path": "local/arad/conop/2023/53",
    "short": "HCL Conop nr. 53/2023",
@@ -733,6 +943,21 @@
      "from": "2023-07-10",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/110831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-55-2023",
+   "path": "local/arad/conop/2023/55",
+   "short": "HCL Conop nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 55/2023",
+   "url": "https://emol.ro/conop-ar/registru-hcl/110832",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/110832",
      "sha256": null
     }
    ]
@@ -783,6 +1008,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-59-2023",
+   "path": "local/arad/conop/2023/59",
+   "short": "HCL Conop nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 59/2023 privind aprobarea unui sprijin financiar în suma de 5.000 lei Bisericii Creștine Baptiste Milova pentru lucrări de reparaţii și consolidare",
+   "url": "https://emol.ro/conop-ar/registru-hcl/110836",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/110836",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-6-2023",
    "path": "local/arad/conop/2023/6",
    "short": "HCL Conop nr. 6/2023",
@@ -793,6 +1033,21 @@
      "from": "2023-02-15",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/87535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-60-2023",
+   "path": "local/arad/conop/2023/60",
+   "short": "HCL Conop nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 60/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/114857",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/114857",
      "sha256": null
     }
    ]
@@ -918,6 +1173,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-69-2023",
+   "path": "local/arad/conop/2023/69",
+   "short": "HCL Conop nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 69/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/118693",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/118693",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-7-2023",
    "path": "local/arad/conop/2023/7",
    "short": "HCL Conop nr. 7/2023",
@@ -1003,6 +1273,21 @@
      "from": "2023-09-19",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/118698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-75-2023",
+   "path": "local/arad/conop/2023/75",
+   "short": "HCL Conop nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 75/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/122808",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/122808",
      "sha256": null
     }
    ]
@@ -1113,6 +1398,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-82-2023",
+   "path": "local/arad/conop/2023/82",
+   "short": "HCL Conop nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 82/2023",
+   "url": "https://emol.ro/conop-ar/registru-hcl/122815",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/122815",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-83-2023",
    "path": "local/arad/conop/2023/83",
    "short": "HCL Conop nr. 83/2023",
@@ -1153,6 +1453,21 @@
      "from": "2023-10-19",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/122818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-86-2023",
+   "path": "local/arad/conop/2023/86",
+   "short": "HCL Conop nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 86/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/127019",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/127019",
      "sha256": null
     }
    ]

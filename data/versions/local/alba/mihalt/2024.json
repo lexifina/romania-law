@@ -3,6 +3,51 @@
  "shard": "local/alba/mihalt/2024",
  "acts": [
   {
+   "slug": "hcl-alba--mihalt-1-2024",
+   "path": "local/alba/mihalt/2024/1",
+   "short": "HCL Mihalț nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 1/2024 privind stabilirea și preluarea excedentului anual al bugetului local al comunei Mihalț rezultat la încheierea exercițiului bugetar al anului 2023",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2024/08/1.-Hotarare-nr.-1-privind-stabilirea-si-preluarea-excedentului-anual-al-bugetului-local-al-comunei-Mihalt-rezultat-la-incheierea-exercitiului-bugetar-al-anului-2023.pdf",
+     "sha256": "9a9b792c0b4181647519da22ff1be935c129b95c744d4f2625fe9b63f0dd994e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-10-2024",
+   "path": "local/alba/mihalt/2024/10",
+   "short": "HCL Mihalț nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 10/2024 privind aprobarea cotizației Comunei Mihalț la Asociația Intercomunitară de Dezvoltare Alba Iulia – Transport Local pentru anul 2024",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2024/08/10.-Hotararea-nr.-10-privind-aprobarea-cotizatiei-Comunei-Mihalt-la-Asociatia-Intercomunitara-de-Dezvoltare-Alba-Iulia-%E2%80%93-Transport-Local-pentru-anul-2024.pdf",
+     "sha256": "95b489d659dbb133f715418694bebfad1a6c7be73c92e9e9d9bf89c25fa37540"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-13-2024",
+   "path": "local/alba/mihalt/2024/13",
+   "short": "HCL Mihalț nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 13/2024 privind aprobarea utilizării sumei de 334.100 lei din excedentul bugetului local al comunei Mihalț, înregistrat la încheierea exercițiului bugetar al",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2024/08/13.-Hotararea-nr.-13-privind-aprobarea-utilizarii-sumei-de-334.100-lei-din-excedentul-bugetului-local-al-comunei-Mihalt-inregistrat-la-incheierea-exercitiului-bugetar-al.pdf",
+     "sha256": "ec449f9a66ae291572778a62aed652ed44d78ab81070f391481db9daf0db6273"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--mihalt-14-2024",
    "path": "local/alba/mihalt/2024/14",
    "short": "HCL Mihalț nr. 14/2024",
@@ -89,6 +134,21 @@
      "units": 1,
      "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2024/08/19.-Hotararea-nr.-19-privind-aprobarea-inchirierii-prin-atribuire-directa-a-pasunilor-aflate-in-proprietatea-privata-a-comunei-Mihalt.pdf",
      "sha256": "c8fe8ee482b7567d2af8156d3cc90287849a6bc080911d60d3b17cd3a683577e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-2-2024",
+   "path": "local/alba/mihalt/2024/2",
+   "short": "HCL Mihalț nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 2/2024 privind utilizarea sumei de 938.563,16 lei din excedentul bugetului local al comunei Mihalț, înregistrat la încheierea exercițiului bugetar al anului 2023",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2024/08/2.-Hotarare-nr.-2-privind-utilizarea-sumei-de-938.56316-lei-din-excedentul-bugetului-local-al-comunei-Mihalt-inregistrat-la-incheierea-exercitiului-bugetar-al-anului-2023.pdf",
+     "sha256": "dd975a689228e70f8f0e3c64ea8908bac03d5e5f6a1404f754eeb254e8dbf7dc"
     }
    ]
   },
@@ -243,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--mihalt-3-2024",
+   "path": "local/alba/mihalt/2024/3",
+   "short": "HCL Mihalț nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 3/2024 privind organizarea rețelei școlare pe raza administrativă a comunei Mihalț pentru anul școlar 2024 – 2025",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2024/08/3.-Hotararea-nr.-3-privind-organizarea-retelei-scolare-pe-raza-administrativa-a-comunei-Mihalt-pentru-anul-scolar-2024-%E2%80%93-2025.pdf",
+     "sha256": "d19c4103bfb45f5e884742ce87b350396556de5d424721571ebd7a4417420bba"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--mihalt-30-2024",
    "path": "local/alba/mihalt/2024/30",
    "short": "HCL Mihalț nr. 30/2024",
@@ -393,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--mihalt-4-2024",
+   "path": "local/alba/mihalt/2024/4",
+   "short": "HCL Mihalț nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 4/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7c6e5ee229bb9581667f5dff60b7c1c9b9f1204fee33276a685a0a18e0665578"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--mihalt-41-2024",
    "path": "local/alba/mihalt/2024/41",
    "short": "HCL Mihalț nr. 41/2024",
@@ -528,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--mihalt-5-2024",
+   "path": "local/alba/mihalt/2024/5",
+   "short": "HCL Mihalț nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 5/2024 privind stabilirea unor măsuri cu privire la salariile pentru funcționarii publici și personalul contractual din Primăria comunei Mihalț, județul Alba",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2024/08/5.-Hotararea-nr.-5-privind-stabilirea-unor-masuri-cu-privire-la-salariile-pentru-functionarii-publici-si-personalul-contractual-din-Primaria-comunei-Mihalt-judetul-Alba.pdf",
+     "sha256": "8e4cc4eff4574657ab28ac98b2898e8bfe8f1b22794069ce8cd7b9011963a22f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--mihalt-50-2024",
    "path": "local/alba/mihalt/2024/50",
    "short": "HCL Mihalț nr. 50/2024",
@@ -629,6 +734,21 @@
      "units": 1,
      "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/01/59.-Hotararea-nr.-59-privind-aprobarea-decontarii-cheltuielilor-pentru-naveta-cadrelor-didactice.pdf",
      "sha256": "ca37e0d0429f5f92bf915febcde5cb53582802802c1a23bb61855b289f240a9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-6-2024",
+   "path": "local/alba/mihalt/2024/6",
+   "short": "HCL Mihalț nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 6/2024 privind aprobarea principalelor manifestări cultural – artistice și educative 2024",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2024/08/6.-Hotararea-nr.-6-privind-aprobarea-principalelor-manifestari-cultural-%E2%80%93-artistice-si-educative-2024.pdf",
+     "sha256": "b3f71e56b5aaa894934a49d81589ca2b63de2c7b1cb36145dd172b3a56c514f1"
     }
    ]
   },
@@ -753,6 +873,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--mihalt-7-2024",
+   "path": "local/alba/mihalt/2024/7",
+   "short": "HCL Mihalț nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 7/2024 privind aprobarea bugetului de venituri și cheltuieli al comunei Mihalț pe anul 2024",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2024/08/7.-Hotararea-nr.-7-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-al-comunei-Mihalt-pe-anul-2024.pdf",
+     "sha256": "0e3bcb1431462e4a85a1f6f144733bb791cc354ae074ebf9ec80d3fe0a1d0c63"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--mihalt-70-2024",
    "path": "local/alba/mihalt/2024/70",
    "short": "HCL Mihalț nr. 70/2024",
@@ -809,6 +944,36 @@
      "units": 1,
      "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/01/73.-Hotararea-nr.-73-privind-scoatere-din-functiune-si-valorificare-prin-vanzare-licitatie-publica-autoturism.pdf",
      "sha256": "24a257980d061237f51e1aab3e91947c53435d1dc5a265a80b345f7e50a5a1f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-8-2024",
+   "path": "local/alba/mihalt/2024/8",
+   "short": "HCL Mihalț nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 8/2024 privind repartizarea sumelor prevăzute în bugetul local al comunei Mihalț, pentru acordarea sprijinului financiar unităților de cult din comuna Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2024/08/8.-Hotararea-nr.-8-privind-repartizarea-sumelor-prevazute-in-bugetul-local-al-comunei-Mihalt-pentru-acordarea-sprijinului-financiar-unitatilor-de-cult-din-comuna-Mihalt.pdf",
+     "sha256": "3911104fa2d0411f94f137681232db58a7e026b3b01b79911278ff53bb9a68e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-9-2024",
+   "path": "local/alba/mihalt/2024/9",
+   "short": "HCL Mihalț nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 9/2024 privind aprobarea necesarului estimat de contribuții compensații al Comunei Mihalț pentru serviciul de transp. public local, în calitate de membru AIDA",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2024/08/9.-Hotararea-nr.-9-privind-aprobarea-necesarului-estimat-de-contributiicompensatii-al-Comunei-Mihalt-pentru-serviciul-de-transp.-public-local-in-calitate-de-membru-AIDA.pdf",
+     "sha256": "92757a8db3fc46affac66803cea58ef750c1c69f36bab0ed42faaf3cd2ca957c"
     }
    ]
   }

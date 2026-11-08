@@ -3,6 +3,351 @@
  "shard": "local/alba/miraslau/2026",
  "acts": [
   {
+   "slug": "hcl-alba--miraslau-1-2026",
+   "path": "local/alba/miraslau/2026/1",
+   "short": "HCL Mirăslău nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 1/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/3/",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/01/HCL-nr.-1-din-8-ianuarie-2026-1.pdf",
+     "sha256": "fa6bacef52023691eda516b2afd6f560526036f31bda85fa5a377b19077be377"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-10-2026",
+   "path": "local/alba/miraslau/2026/10",
+   "short": "HCL Mirăslău nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 10/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/04/HCL-nr.-10-din-22-aprilie-2026-1.pdf",
+     "sha256": "e2c5972b619f7b8baeede71274d59378ea16767b87a90c16cffbaf48a6460484"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-11-2026",
+   "path": "local/alba/miraslau/2026/11",
+   "short": "HCL Mirăslău nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 11/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/05/HCL-nr.-11-din-4-mai-2026-1.pdf",
+     "sha256": "ebdcb41a16048b2309edcf0c9d77e1595f06144458992475616a83d1df2ee20d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-12-2026",
+   "path": "local/alba/miraslau/2026/12",
+   "short": "HCL Mirăslău nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 12/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/05/HCL-nr.-12-din-4-mai-2026-1.pdf",
+     "sha256": "93b9b27b8f838ee6e2f89f938b467eb9f12ac820e141296b874ff3f1438ed5f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-13-2026",
+   "path": "local/alba/miraslau/2026/13",
+   "short": "HCL Mirăslău nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 13/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/05/HCL-nr.-13-din-19-mai-2026.pdf",
+     "sha256": "ae1076a1336025e42a3cbc697fab9d5d48d9adcf3bc8d6136730ffeff3bb6b3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-14-2026",
+   "path": "local/alba/miraslau/2026/14",
+   "short": "HCL Mirăslău nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 14/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/05/HCL-nr.-14-din-19-mai-2026.pdf",
+     "sha256": "99b6ea012e70cf0cdcaca848aa56fb7bfd723a5da6e8749f224ced08905ae89c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-15-2026",
+   "path": "local/alba/miraslau/2026/15",
+   "short": "HCL Mirăslău nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 15/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/05/HCL-nr.-15-din-19-mai-2026.pdf",
+     "sha256": "9a126dafc8f28edea8224b047267e5eaf20d61605697a6879212ba2c198582b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-16-2026",
+   "path": "local/alba/miraslau/2026/16",
+   "short": "HCL Mirăslău nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 16/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/05/HCL-nr.-16-din-19-mai-2026.pdf",
+     "sha256": "cc475772dbfbb90da0aabb417e81b207827ae3c2b9997556590fdbf6baad7965"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-17-2026",
+   "path": "local/alba/miraslau/2026/17",
+   "short": "HCL Mirăslău nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 17/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/05/HCL-nr.-17-din-19-mai-2026.pdf",
+     "sha256": "e7b7c846dacb617d240a60127582bbb56bd2081fd5fbc04c03c186a2b5e45e3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-18-2026",
+   "path": "local/alba/miraslau/2026/18",
+   "short": "HCL Mirăslău nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 18/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/06/HCL-nr.-18-din-11-iunie-2026-1.pdf",
+     "sha256": "ff92f011e62d614a1895287d4d5e860f6a45a8fd180ada8d383d2abe05052b26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-19-2026",
+   "path": "local/alba/miraslau/2026/19",
+   "short": "HCL Mirăslău nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 19/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/06/HCL-nr.-19-din-11-iunie-2026.pdf",
+     "sha256": "93222fb76f91d302a70d5936d590c43c2ea9d07a122e04c1d918ba8038da584b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-2-2026",
+   "path": "local/alba/miraslau/2026/2",
+   "short": "HCL Mirăslău nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 2/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/3/",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/01/HCL-nr.-2-din-8-ianuarie-2026-1.pdf",
+     "sha256": "86087cb7293a4b169ea086d128d4f51aba4a98654489d35bc9a063ad14d2b5b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-20-2026",
+   "path": "local/alba/miraslau/2026/20",
+   "short": "HCL Mirăslău nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 20/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/07/HCL-nr.-20-din-7-iulie-2026-blurat.pdf",
+     "sha256": "0e5e87854f8839b1d3a1d958ffa3be87167aa9f1467b5516ee1ae793aaf6179a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-21-2026",
+   "path": "local/alba/miraslau/2026/21",
+   "short": "HCL Mirăslău nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 21/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/07/HCL-nr.-21-din-7-iulie-2026.pdf",
+     "sha256": "6104f03c66f14003c6a93cca90d3d3aa85cf20b74736d8fa2e0776edb4cae463"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-22-2026",
+   "path": "local/alba/miraslau/2026/22",
+   "short": "HCL Mirăslău nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 22/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/07/HCL-nr.-22-din-7-iulie-2026.pdf",
+     "sha256": "c1629d59b0b7433b11cae2d3d22618c96f23fe2d0849cbd556f337e67db32902"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-23-2026",
+   "path": "local/alba/miraslau/2026/23",
+   "short": "HCL Mirăslău nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 23/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/07/HCL-nr.-23-din-7-iulie-2026.pdf",
+     "sha256": "7ad5fbc77f863c7dab42afc848fba65cb194ea6ee30b0ed8bf4835bd9306803a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-24-2026",
+   "path": "local/alba/miraslau/2026/24",
+   "short": "HCL Mirăslău nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 24/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/07/HCL-nr.-24-din-7-iulie-2026.pdf",
+     "sha256": "bcb4beeb9f9520a853102f07940256c074fce091da25eaa7779c0eb91a1bcff3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-25-2026",
+   "path": "local/alba/miraslau/2026/25",
+   "short": "HCL Mirăslău nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 25/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/07/HCL-nr.-25-din-16-iulie-2026-1.pdf",
+     "sha256": "3ee3450e25a6be048e9bb9efc46b534144a0fe9a90fa08b41ffbb09e404f72dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-3-2026",
+   "path": "local/alba/miraslau/2026/3",
+   "short": "HCL Mirăslău nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 3/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/3/",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/01/HCL-nr.-3-din-22-ianuarie-2026-1.pdf",
+     "sha256": "cbb7111aaf8d727494f72371aa74eebf6f7e8eb1fe27cca77238d2856d698513"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-39-2026",
+   "path": "local/alba/miraslau/2026/39",
+   "short": "HCL Mirăslău nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 39/2026",
+   "url": "http://www.primariamiraslau.ro/",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/10/HCL-nr.-39-din-20-octombrie-2026-1.pdf",
+     "sha256": "e8cdf197da14f628fa6a9d35bc6b3fd0de51a009440d7e180c968a51e4414107"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-4-2026",
+   "path": "local/alba/miraslau/2026/4",
+   "short": "HCL Mirăslău nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 4/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/3/",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/01/HCL-nr.-4-din-22-ianuarie-2026-1.pdf",
+     "sha256": "6f9ef6009b2e270e4963a46de2bc42b8faa94146829badf8694203151ba6d12b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-40-2026",
+   "path": "local/alba/miraslau/2026/40",
+   "short": "HCL Mirăslău nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 40/2026",
+   "url": "http://www.primariamiraslau.ro/",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/10/HCL-nr.-40-din-20-octombrie-2026-1.pdf",
+     "sha256": "299526af8acd911e385e1e89bd1e8006cf746af6309c06cef74c20ae844876c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-41-2026",
+   "path": "local/alba/miraslau/2026/41",
+   "short": "HCL Mirăslău nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 41/2026",
+   "url": "http://www.primariamiraslau.ro/",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/10/HCL-nr.-41-din-20-octombrie-2026-1.pdf",
+     "sha256": "f8c807269d3a49ea3d504015728b36f9542c38dc25b3ea240ae89a530acaed5c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--miraslau-42-2026",
    "path": "local/alba/miraslau/2026/42",
    "short": "HCL Mirăslău nr. 42/2026",
@@ -59,6 +404,81 @@
      "units": 1,
      "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/10/HCL-nr.-45-din-20-octombrie-2026-1.pdf",
      "sha256": "486794904e3f15fd37c9acb0425153a4b9d4b137d5951753ec223ccc890a94ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-5-2026",
+   "path": "local/alba/miraslau/2026/5",
+   "short": "HCL Mirăslău nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 5/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/3/",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/01/HCL-nr.-5-din-22-ianuarie-2026-1.pdf",
+     "sha256": "4838edb8b67cadbb3cb2103f41fa143def8051d43a0b70fecd14438a0296b48c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-6-2026",
+   "path": "local/alba/miraslau/2026/6",
+   "short": "HCL Mirăslău nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 6/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/03/HCL-nr.-6-din-26-februarie-2026.pdf",
+     "sha256": "e7ce0a2f8a38a1618ac4808c85d102f05259280af5bc422ca775148253a4cc0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-7-2026",
+   "path": "local/alba/miraslau/2026/7",
+   "short": "HCL Mirăslău nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 7/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/03/HCL-nr.-7-din-26-februarie-2026.pdf",
+     "sha256": "26f7f6c43263f9d7c38fa52a3a23b5383fc9a37b9f308464611d88042a55671a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-8-2026",
+   "path": "local/alba/miraslau/2026/8",
+   "short": "HCL Mirăslău nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 8/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/03/HCL-nr.-8-din-9-martie-2026.pdf",
+     "sha256": "e695993e0ac2b31097701a7cd92ccaefc678addfe238c4b40a1113bcea441247"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--miraslau-9-2026",
+   "path": "local/alba/miraslau/2026/9",
+   "short": "HCL Mirăslău nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 9/2026",
+   "url": "https://www.primariamiraslau.ro/categorie-documente/hcl-2026/page/2/",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2026/04/HCL-nr.-9-din-22-aprilie-2026-1.pdf",
+     "sha256": "5896cadbea9bda870398decd6a202a61caa9d834bae1f56773d9278dd7198cac"
     }
    ]
   }

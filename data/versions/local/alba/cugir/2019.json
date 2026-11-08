@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/cugir/2019",
+ "acts": [
+  {
+   "slug": "hcl-alba--cugir-97-2019",
+   "path": "local/alba/cugir/2019/97",
+   "short": "HCL Cugir nr. 97/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 97/2019 privind aprobarea Programului anual 2019 de finanțare/finanțare nerambursabilă de la bugetul local al Orașului Cugir, în condițiile Legii nr.350/2005 și ale Legii nr. 69/2000 Consiliul Local al orașului Cugir, județul Alba, întrunit în ședință publică ordinară în data de 18 aprilie 2019; Văzând Raportul de specialitate nr. 7166/12.04.2019 întocmit de șef Serviciu Buget din cadrul Direcției de Dezv",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/buget_detaliu/C60",
+   "versions": [
+    {
+     "from": "2019-04-18",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/buget/HCL_nr.97_-_Program_anual_de_finantare_nerambursabila_2019__.doc",
+     "sha256": "c6caa6f4c85a4299391a20d8fcf4c288f05f31ae68611770b4d7afea53f49837"
+    }
+   ]
+  }
+ ]
+}

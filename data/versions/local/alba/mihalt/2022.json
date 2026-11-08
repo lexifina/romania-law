@@ -3,6 +3,531 @@
  "shard": "local/alba/mihalt/2022",
  "acts": [
   {
+   "slug": "hcl-alba--mihalt-10-2022",
+   "path": "local/alba/mihalt/2022/10",
+   "short": "HCL Mihalț nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 10/2022 privind repartizare sume prevăzute în bugetul local al comunei Mihalț pe anul 2022, pentru acordare sprijin",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/10.-HCL-nr.-10-privind-repartizare-sume-prevazute-in-bugetul-local-al-comunei-Mihalt-pe-anul-2022-pentru-acordare-sprijin.pdf",
+     "sha256": "23cf7d2b00dcb55b3d5a8519d8c7f86d306b55f4e49e23a73d3522829667e216"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-12-2022",
+   "path": "local/alba/mihalt/2022/12",
+   "short": "HCL Mihalț nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 12/2022 privind aprobarea decontării cheltuielilor cu naveta cadrelor didactice pe lunile dec. 2021 și ian.2022",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/12.-HCL-nr.-12-privind-aprobarea-decontarii-cheltuielilor-cu-naveta-cadrelor-didactice-pe-lunile-dec.-2021-si-ian.2022.pdf",
+     "sha256": "6b1360d2db968ef8f61c76e33640a63f09a2f23c24223d4f24d77f54011e0ee1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-14-2022",
+   "path": "local/alba/mihalt/2022/14",
+   "short": "HCL Mihalț nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 14/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d46c244b54020458277a568f1ebcada3eb3613bb756aabfffe1e5f070883f3d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-16-2022",
+   "path": "local/alba/mihalt/2022/16",
+   "short": "HCL Mihalț nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 16/2022 privind alegerea președintelui de ședință al C. L",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/16.-HCL-nr.-16-privind-alegerea-presedintelui-de-sedinta-al-C.-L.-Mihalt-pentru-sedintele-din-lunile-martie-mai-2022.pdf",
+     "sha256": "3706322c67374c1b39148175155258fb1d1716d34287e466be7db40ca3f66f08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-17-2022",
+   "path": "local/alba/mihalt/2022/17",
+   "short": "HCL Mihalț nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 17/2022 privind aprobarea indicatorilor tehnico – economici pentru obiectivul de investiție ”Modernizare trotuare",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/17.-HCL-nr.-17-privind-aprobarea-indicatorilor-tehnico-%E2%80%93-economici-pentru-obiectivul-de-investitie-Modernizare-trotuare.pdf",
+     "sha256": "230412e43a96d41d5c7e53d9cc7ff56850b29a5cdc9f8d42f7a38e8e16d3f23c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-18-2022",
+   "path": "local/alba/mihalt/2022/18",
+   "short": "HCL Mihalț nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 18/2022 privind aprobarea indicatorilor tehnico – economici pentru obiectivul de investiție ”Amenajare curte capelă",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/18.-HCL-nr.-18-privind-aprobarea-indicatorilor-tehnico-%E2%80%93-economici-pentru-obiectivul-de-investitie-Amenajare-curte-capela.pdf",
+     "sha256": "bde3938e2e949a6dcf0ff6f05f21b90fff567a2912650d8ab945f12fa7220e2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-2-2022",
+   "path": "local/alba/mihalt/2022/2",
+   "short": "HCL Mihalț nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 2/2022 privind aprobarea încheierii unui Protocol de colaborarecu Compania Națională d Administrare a Infrastructurii Rut",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/2.-HCL-nr.-2-privind-aprobarea-incheierii-unui-Protocol-de-colaborarecu-Compania-Nationala-d-Administrare-a-Infrastructurii-Rut.pdf",
+     "sha256": "610699254003b35ff8fa3152aedea13e8a57b7b8657a0a03c3ec30817634ae80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-20-2022",
+   "path": "local/alba/mihalt/2022/20",
+   "short": "HCL Mihalț nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 20/2022 privind aprobarea cotizației Comunei Mihalț la Asociația Intercomunitară de Dezvoltare Alba Iulia – Tran",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/20.-HCL-nr.-20-privind-aprobarea-cotizatiei-Comunei-Mihalt-la-Asociatia-Intercomunitara-de-Dezvoltare-Alba-Iulia-%E2%80%93-Tran.pdf",
+     "sha256": "c8719a4fc580680276569cd011044d5f0aa5522a7c0cb56a4def36807404931e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-21-2022",
+   "path": "local/alba/mihalt/2022/21",
+   "short": "HCL Mihalț nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 21/2022 privind aprobare necesar con",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/21.-HCL-nr.-21-privind-aprobare-necesar-con.pdf",
+     "sha256": "d35ba94ccd2a9d64d0196f9c37ec3bd620303b08b92379ddb5425b26b9a98b35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-22-2022",
+   "path": "local/alba/mihalt/2022/22",
+   "short": "HCL Mihalț nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 22/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "69506e7a1328f437f1b3751afd6821c74ff02621a8a1f8fa96109c735e09b393"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-23-2022",
+   "path": "local/alba/mihalt/2022/23",
+   "short": "HCL Mihalț nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 23/2022 privind aprobarea valorii obiectivului de investiție ”Amenajare exterioară și împrejmuire curte",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/23.-HCL-nr.-23-privind-aprobarea-valorii-obiectivului-de-investitie-Amenajare-exterioara-si-imprejmuire-curte.pdf",
+     "sha256": "d5469e025f64e74b45503f510715fae9cb6fe00cdc2b58ece922811527f16a9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-24-2022",
+   "path": "local/alba/mihalt/2022/24",
+   "short": "HCL Mihalț nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 24/2022 privind aprobarea valorii lucrărilor de ’’Reparații curente cămin cultural comuna Mihalț, sat Obreja’’ și alocarea sumelor neces",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/24.-HCL-nr.-24-privind-aprobarea-valorii-lucrarilor-de-Reparatii-curente-camin-cultural-comuna-Mihalt-sat-Obreja-si-alocarea-sumelor-neces.pdf",
+     "sha256": "22e75b6784fc3012e029149a1b196c2bb61ad58a3b4adb83fd3cafe24fb522e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-26-2022",
+   "path": "local/alba/mihalt/2022/26",
+   "short": "HCL Mihalț nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 26/2022 privind aprobarea necesității și oportunității înființării unei zone turistice și de agrement la nivelul",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/26.-HCL-nr.-26-privind-aprobarea-necesitatii-si-oportunitatii-infiintarii-unei-zone-turistice-si-de-agrement-la-nivelul.pdf",
+     "sha256": "3c2768454325667910b852280f0ea74cf185086662f01c453742aab5c014aa9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-27-2022",
+   "path": "local/alba/mihalt/2022/27",
+   "short": "HCL Mihalț nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 27/2022 privind actualizarea devizului general pentru obiectivul de investiție",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-13",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/27.-HCL-nr.-27-privind-actualizarea-devizului-general-pentru-obiectivul-de-investitie.pdf",
+     "sha256": "2de34c99a2d1ddfcaaed26be7deb7836c3ff616a0887bc31d934c9287d134f04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-28-2022",
+   "path": "local/alba/mihalt/2022/28",
+   "short": "HCL Mihalț nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 28/2022 privind aprobarea încheierii unui ACORD DE REGLEMENTARE a relaţiilor dintre membrii Partener 2 ce le revin în im",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/28.-HCl-nr.-28-privind-aprobarea-incheierii-unui-ACORD-DE-REGLEMENTARE-a-relatiilor-dintre-membrii-Partener-2-ce-le-revin-in-im.pdf",
+     "sha256": "3e5130626189592513b49e07bd43bf8e5282a25a32cf55b529eec20b356fda5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-29-2022",
+   "path": "local/alba/mihalt/2022/29",
+   "short": "HCL Mihalț nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 29/2022 privind actualizarea devizului general pentru obiectivul de investiție",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/29.-HCL-nr.-29-privind-actualizarea-devizului-general-pentru-obiectivul-de-investitie.pdf",
+     "sha256": "d8cd816fc7c9f95f97e47a12002873e6e147f1f08ca931832a0c8fad4a92c789"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-3-2022",
+   "path": "local/alba/mihalt/2022/3",
+   "short": "HCL Mihalț nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 3/2022 privind organizarea rețelei școlare pe raza administrativă a comunei Mihalț pentru anul școlar 2022 – 2023",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/3.-HCL-nr.-3-privind-organizarea-retelei-scolare-pe-raza-administrativa-a-comunei-Mihalt-pentru-anul-scolar-2022-%E2%80%93-2023.pdf",
+     "sha256": "1d1c2ad415b20596d46f78cba87a38c53acd58768b1590d0a6f278d6dea5f019"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-30-2022",
+   "path": "local/alba/mihalt/2022/30",
+   "short": "HCL Mihalț nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 30/2022 privind aprobare documentație cadastrală parcelare și înscriere în Cartea Funciară a d",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/30.-HCL-nr.-30-privind-aprobare-documentatie-cadastrala-parcelare-si-inscriere-in-Cartea-Funciara-a-d.pdf",
+     "sha256": "b0f575793a1e0c57b3d7d853a13a61fc1c2da19be87d76fc12a2238da11a03b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-31-2022",
+   "path": "local/alba/mihalt/2022/31",
+   "short": "HCL Mihalț nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 31/2022 privind aprobarea Planului de analiză și acoperire a",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/31.-HCL-nr.-31-privind-aprobarea-Planului-de-analiza-si-acoperire-a.pdf",
+     "sha256": "22b11ef2a53d05d9dc9befeaf8f9aab22363cf8bf4b0c33fb51f4028cd6b1056"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-32-2022",
+   "path": "local/alba/mihalt/2022/32",
+   "short": "HCL Mihalț nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 32/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "75eac21f5b553f820fdb9fd0215fa7312b018bde3005c4c7f9c17de03bd205b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-33-2022",
+   "path": "local/alba/mihalt/2022/33",
+   "short": "HCL Mihalț nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 33/2022 privind aprobarea burselor școlare și cuantumul acestora pentru elevii Șco",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/33.-HCL-nr.-33-privind-aprobarea-burselor-scolare-si-cuantumul-acestora-pentru-elevii-Sco.pdf",
+     "sha256": "f7524519ddbd8bc81f02718e52f64fa6e720c27f5251d4c114b5434a1e781631"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-34-2022",
+   "path": "local/alba/mihalt/2022/34",
+   "short": "HCL Mihalț nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 34/2022 privind atribuirea în folosință gratuită a unei suprafețe de",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/34.-HCL-nr.-34-privind-atribuirea-in-folosinta-gratuita-a-unei-suprafete-de.pdf",
+     "sha256": "a6062a6bef4160c1770328b434cdcfb8a97610a7a64696361ad6561de99f6508"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-35-2022",
+   "path": "local/alba/mihalt/2022/35",
+   "short": "HCL Mihalț nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 35/2022 privind aprobarea indicatorilor tehnico",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/35.-HCL-nr.-35-privind-aprobarea-indicatorilor-tehnico.pdf",
+     "sha256": "fe9bf49e6fff00ff7f73850eedb4cccbfee9683077b41bb2a4f4fa166e5d7d93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-36-2022",
+   "path": "local/alba/mihalt/2022/36",
+   "short": "HCL Mihalț nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 36/2022 privind aprobarea utilizării sumei de 200.000 lei din excedentul bugetului local al comunei Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/36.-HCL-nr.-36-privind-aprobarea-utilizarii-sumei-de-200.000-lei-din-excedentul-bugetului-local-al-comunei-Mihalt.pdf",
+     "sha256": "d3fd0b443461bba657f4c309fa8da6794b81c5c6837b1f783583772712b5e78c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-38-2022",
+   "path": "local/alba/mihalt/2022/38",
+   "short": "HCL Mihalț nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 38/2022 privind aprobarea actualizării devizului general pentru obiectivul de investiție",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/38.-HCL-nr.-38-privind-aprobarea-actualizarii-devizului-general-pentru-obiectivul-de-investitie.pdf",
+     "sha256": "e4842b69e9d00d09cc997ef58aa9588803fc5a2d84a634a3b9bc58bd13f43512"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-39-2022",
+   "path": "local/alba/mihalt/2022/39",
+   "short": "HCL Mihalț nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 39/2022 privind aprobarea execuției bugetului local al comunei Mihalț pe trim. I 2022",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/39.-HCL-nr.-39-privind-aprobarea-executiei-bugetului-local-al-comunei-Mihalt-pe-trim.-I-2022.pdf",
+     "sha256": "e329d05df44116194893545a47ee26a2d6f118929889e84bab5791dd03397194"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-4-2022",
+   "path": "local/alba/mihalt/2022/4",
+   "short": "HCL Mihalț nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 4/2022 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2022",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/4.-HCL-nr.-4-privind-aprobarea-Planului-de-actiuni-si-lucrari-de-interes-local-pe-anul-2022.pdf",
+     "sha256": "6eee2def7ca8680affdca613739811be76c5f8a10109ab9f16a242093fa4e520"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-40-2022",
+   "path": "local/alba/mihalt/2022/40",
+   "short": "HCL Mihalț nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 40/2022 privind modificarea Hotărârii Consiliului Local Mihalț nr. 322020 referitoare la aprobarea închirierii prin atribuire directă",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/40.-HCL-nr.-40-privind-modificarea-Hotararii-Consiliului-Local-Mihalt-nr.-322020-referitoare-la-aprobarea-inchirierii-prin-atribuire-directa.pdf",
+     "sha256": "e532c86e43afe1c11227d213af78bde7337647c3b9adfd9d15576b90a7240800"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-44-2022",
+   "path": "local/alba/mihalt/2022/44",
+   "short": "HCL Mihalț nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 44/2022 privind decontarea navetei cadrelor didactice pe luna aprilie 2022",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/44.-HCL-nr.-44-privind-decontarea-navetei-cadrelor-didactice-pe-luna-aprilie-2022.pdf",
+     "sha256": "9bd9fce3b10f8916b3d7b63c18e003a06f6109fbbcc19b18e6b99c0c1663b3f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-45-2022",
+   "path": "local/alba/mihalt/2022/45",
+   "short": "HCL Mihalț nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 45/2022 privind alegerea președintelui de ședință al C. L",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2022/05/45.-HCL-nr.-45-privind-alegerea-presedintelui-de-sedinta-al-C.-L.-Mihalt-pentru-sedintele-din-lunile-iunie-august-2022.pdf",
+     "sha256": "4dc2f327cf87b5eb53418b55394b16a2cfe36129829f97fe8a585225e411320b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-46-2022",
+   "path": "local/alba/mihalt/2022/46",
+   "short": "HCL Mihalț nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 46/2022 privind aprobarea indicatorilor tehnico – economici pentru obiectivul de investiție ”Construire capelă în localitatea Cistei”",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/1.-HCL-nr.-46-privind-aprobarea-indicatorilor-tehnico-%E2%80%93-economici-pentru-obiectivul-de-investitie-Construire-capela-in-localitatea-Cistei.pdf",
+     "sha256": "b89fba8f623dcef2282ddd92cae7a5d86e6d88c008fe31a5ca8f4c07e00c8cfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-47-2022",
+   "path": "local/alba/mihalt/2022/47",
+   "short": "HCL Mihalț nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 47/2022 privind actualizarea devizului general pentru obiectivul de investiție ”Modernizare trotuare, rigole, accese, înlocuire poduri, podețe ” pentru Sectorul 6 drum",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/2.-HCL-nr.-47-privind-actualizarea-devizului-general-pentru-obiectivul-de-investitie-Modernizare-trotuare-rigole-accese-inlocuire-poduri-podete-pentru-Sectorul-6-drum.pdf",
+     "sha256": "357d68799711f2486d9a3aeb3ee76f1fd83fb79fd1c1fcab33cdb56d54fcdc17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-49-2022",
+   "path": "local/alba/mihalt/2022/49",
+   "short": "HCL Mihalț nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 49/2022 privind aprobarea modificării organigramei și a statului de funcții al aparatului de specialitate al primarului Comunei Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/4.-HCL-nr.-49-privind-aprobarea-modificarii-organigramei-si-a-statului-de-functii-al-aparatului-de-specialitate-al-primarului-Comunei-Mihalt.pdf",
+     "sha256": "cd6a70018e8ae64089983009902742e95f12fbfcea5df6db06ce1c20fc5e4c40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-50-2022",
+   "path": "local/alba/mihalt/2022/50",
+   "short": "HCL Mihalț nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 50/2022 privind decontarea navetei cadrelor didactice pe luna mai 2022",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/5.-HCL-nr.-50-privind-decontarea-navetei-cadrelor-didactice-pe-luna-mai-2022.pdf",
+     "sha256": "c7850ee035c5845b089f88a70a058dcfb791ab98e2e51687ca1e2f135f5aebcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-51-2022",
+   "path": "local/alba/mihalt/2022/51",
+   "short": "HCL Mihalț nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 51/2022 privind constituire drept de superficie în favoarea comunei Mihalț, asupra terenului în suprafață de 532 mp, înscris în CF nr.75029 Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/6.-HCL-nr.-51-privind-constituire-drept-de-superficie-in-favoarea-comunei-Mihalt-asupra-terenului-in-suprafata-de-532-mp-inscris-in-CF-nr.75029-Mihalt.pdf",
+     "sha256": "5489625a26552b23080f2562de6f4adfbdac5784fb34de4e294ee9179329efa3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--mihalt-55-2022",
    "path": "local/alba/mihalt/2022/55",
    "short": "HCL Mihalț nr. 55/2022",
@@ -18,6 +543,336 @@
    ]
   },
   {
+   "slug": "hcl-alba--mihalt-56-2022",
+   "path": "local/alba/mihalt/2022/56",
+   "short": "HCL Mihalț nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 56/2022 privind aprobarea Regulamentului de organizare și funcționare a Capelei mortuare din comuna Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/2.-HCL-nr.-56-privind-aprobarea-Regulamentului-de-organizare-si-functionare-a-Capelei-mortuare-din-comuna-Mihalt.pdf",
+     "sha256": "cd5076e6b2d4f7ae9bdc9ee12284d60dbf9517220c0e954731a796e5d8fa49ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-57-2022",
+   "path": "local/alba/mihalt/2022/57",
+   "short": "HCL Mihalț nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 57/2022 privind decontarea navetei cadrelor didactice pe luna iunie 2022",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/3.-HCL-nr.-57-privind-decontarea-navetei-cadrelor-didactice-pe-luna-iunie-2022.pdf",
+     "sha256": "4da11546b6a0c12ca23096e98e6be01a28784a3a83fcf2c65420a374221df906"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-58-2022",
+   "path": "local/alba/mihalt/2022/58",
+   "short": "HCL Mihalț nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 58/2022 privind modificarea art. III din Acordul de reglementare a relațiilor dintre membri Partener 2 ce le revin în implementarea activităților aferente pregătirii",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/4.-HCL-nr.-58-privind-modificarea-art.-III-din-Acordul-de-reglementare-a-relatiilor-dintre-membri-Partener-2-ce-le-revin-in-implementarea-activitatilor-aferente-pregatirii.pdf",
+     "sha256": "5791da6376af9898b20aa51079ec4fda59ef605fa2e51dbe9d9141fe363a68dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-59-2022",
+   "path": "local/alba/mihalt/2022/59",
+   "short": "HCL Mihalț nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 59/2022 privind aprobarea execuției bugetului local al comunei Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/5.-HCL-nr.-59-privind-aprobarea-executiei-bugetului-local-al-comunei-Mihalt.pdf",
+     "sha256": "4bceabb2586000af9d83bc256772a63b7796d00643fe4371aab4f107c48664ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-60-2022",
+   "path": "local/alba/mihalt/2022/60",
+   "short": "HCL Mihalț nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 60/2022 privind actualizarea devizului general pentru obiectivul de investiție Reabilitare străzi Cistei",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-06-26",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/6.-HCL-nr.-60-privind-actualizarea-devizului-general-pentru-obiectivul-de-investitie-Reabilitare-strazi-Cistei.pdf",
+     "sha256": "106dee203dca6f97db632f9f99c1d18623d53c84a35c44b19d0834ce030a19ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-61-2022",
+   "path": "local/alba/mihalt/2022/61",
+   "short": "HCL Mihalț nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 61/2022 privind aprobarea Regulamentului de organizare și funcționare a Clubului Sportiv DACIA Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/1.-HCL-nr.-61-privind-aprobarea-Regulamentului-de-organizare-si-functionare-a-Clubului-Sportiv-DACIA-Mihalt.pdf",
+     "sha256": "23d17670729114b804bf9e0403edc6a6afa8767080f9642ca3848997cb19efcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-63-2022",
+   "path": "local/alba/mihalt/2022/63",
+   "short": "HCL Mihalț nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 63/2022 privind participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/3.-HCL-nr.-63-privind-participarea-la-Programul-privind-cresterea-eficientei-energetice-a-infrastructurii-de-iluminat-public.pdf",
+     "sha256": "e2b9f0f76c14948e733595ca6aae67e8e6164bf1daa86b7418ff67b442f6f1a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-65-2022",
+   "path": "local/alba/mihalt/2022/65",
+   "short": "HCL Mihalț nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 65/2022 privind alegerea președintelui de ședință al C. L",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/1.-HCL-nr.-65-privind-alegerea-presedintelui-de-sedinta-al-C.-L.-Mihalt-pentru-sedintele-din-lunile-septembrie-noiembrie-2022.pdf",
+     "sha256": "ebb269e5aac8c0cd6c393061619ba3eb884d2ebaa128811fa485831710b978a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-71-2022",
+   "path": "local/alba/mihalt/2022/71",
+   "short": "HCL Mihalț nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 71/2022 privind înscrierea dreptului de proprietate publică al Comunei Mihalț asupra imobilului situat administrativ în Comuna Mihalț, nr. 699, județul Alba",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/1.-HCL-nr.-71-privind-inscrierea-dreptului-de-proprietate-publica-al-Comunei-Mihalt-asupra-imobilului-situat-administrativ-in-Comuna-Mihalt-nr.-699-judetul-Alba.pdf",
+     "sha256": "a0adaa8242503aa4b0a98651ccd3c0fd05d9431f46452c26d0885902cbb3448f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-75-2022",
+   "path": "local/alba/mihalt/2022/75",
+   "short": "HCL Mihalț nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 75/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/5.-HCL-nr.-75-privind-aprobarea-rectificarii-bugetului-local-de-venituri-si-cheltuieli-al-comunei-Mihalt.pdf",
+     "sha256": "58e46ea6161d8c3d8df7dd22d9f60889e901d80db266641314dcabd8828e5f32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-76-2022",
+   "path": "local/alba/mihalt/2022/76",
+   "short": "HCL Mihalț nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 76/2022 privind aprobarea execuției bugetului local al comunei Mihalț pe trim. III 2022",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/6.-HCL-nr.-76-privind-aprobarea-executiei-bugetului-local-al-comunei-Mihalt-pe-trim.-III-2022.pdf",
+     "sha256": "918424b5fc734cc952f8c2f67812a637e2e87bbaaddfed4414fdb066a690e15c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-77-2022",
+   "path": "local/alba/mihalt/2022/77",
+   "short": "HCL Mihalț nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 77/2022 privind decontarea navetei cadrelor didactice pe luna septembrie 2022",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/7.-HCL-nr.-77-privind-decontarea-navetei-cadrelor-didactice-pe-luna-septembrie-2022.pdf",
+     "sha256": "e7d195ca313df195e79c29064773a2a29fc50ef3ef80b591aafda3224b0c5771"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-78-2022",
+   "path": "local/alba/mihalt/2022/78",
+   "short": "HCL Mihalț nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 78/2022 privind aprobarea organigramei și statului de funcții ale Clubului Sportiv DACIA Mihalț, organizarea activității financiar contabile și CFPP club sportiv",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/8.-HCL-nr.-78-privind-aprobarea-organigramei-si-statului-de-functii-ale-Clubului-Sportiv-DACIA-Mihalt-organizarea-activitatii-financiar-contabile-si-CFPP-club-sportiv.pdf",
+     "sha256": "5666e105c11ccbabe3a8e4e56133ec82eb5434cdd43a498aabae96b33fb83221"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-79-2022",
+   "path": "local/alba/mihalt/2022/79",
+   "short": "HCL Mihalț nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 79/2022",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/1.-HCL-nr.-79-privind-modificarea-Hotararii-Consiliului-local-al-comunei-Mihalt-nr.-72-din-14-octombrie-2022-program-Anghel-Saligny.pdf",
+     "sha256": "f65b1f559a62d0a129faaf53eefe6bf8f1cb0be901db194a6057986f435baf71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-80-2022",
+   "path": "local/alba/mihalt/2022/80",
+   "short": "HCL Mihalț nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 80/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "dab1267b8954f794d19b2edcd2c52710c4bf33a6d851f0b80f1d1e0140d7b7bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-81-2022",
+   "path": "local/alba/mihalt/2022/81",
+   "short": "HCL Mihalț nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 81/2022 privind aprobarea numărului de burse și a cuantumului acestora, care se acordă elevilor în anul școlar 2022 – 2023",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/3.-HCL-nr.-81-privind-aprobarea-numarului-de-burse-si-a-cuantumului-acestora-care-se-acorda-elevilor-in-anul-scolar-2022-2023.pdf",
+     "sha256": "0dea835c2e1cfaf78e4bdcbe7bf375b00891a382b9f47d7e6399cca36a5dbea1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-82-2022",
+   "path": "local/alba/mihalt/2022/82",
+   "short": "HCL Mihalț nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 82/2022 privind decontarea navetei cadrelor didactice pe luna octombrie 2022",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/4.-HCL-nr.-82-privind-decontarea-navetei-cadrelor-didactice-pe-luna-octombrie-2022.pdf",
+     "sha256": "0dff7ce8b826ca738452b5e099d42b173687f070481b3203024e11e949d8efc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-83-2022",
+   "path": "local/alba/mihalt/2022/83",
+   "short": "HCL Mihalț nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 83/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5eaf8a9a033a54b2134a015a4523ba48be6efc52f42485f043a2ac2baf06d010"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-84-2022",
+   "path": "local/alba/mihalt/2022/84",
+   "short": "HCL Mihalț nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 84/2022 privind aprobarea indicatorilor tehnico economici pentru investiția Dotarea serviciului public de gospod. com. cu utilaje de întreținere",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/6.-HCL-Mihalt-nr.-84-privind-aprobarea-indicatorilor-tehnico-economici-pentru-investitia-Dotarea-serviciului-public-de-gospod.-com.-cu-utilaje-de-intretinere.pdf",
+     "sha256": "1aed085c93d4e8d6b391da3631d8d2ce9160a2c66362d123c053a61bd25a1cbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-86-2022",
+   "path": "local/alba/mihalt/2022/86",
+   "short": "HCL Mihalț nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 86/2022 privind alegerea președintelui de ședință al C. L",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/8.-HCL-nr.-86-privind-alegerea-presedintelui-de-sedinta-al-C.-L.-Mihalt-pentru-sedintele-din-lunile-decembrie-februarie.pdf",
+     "sha256": "07746ae7497f4cc637ab86cc39f7d050c1332af21a1ce352945d00e2dd1bafd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-87-2022",
+   "path": "local/alba/mihalt/2022/87",
+   "short": "HCL Mihalț nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 87/2022 privind rectificarea bugetului local al comunei Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/9.-HCL-nr.-87-prividn-rectificarea-bugetului-local-al-comunei-Mihalt.pdf",
+     "sha256": "a1f6c3b4796133623da0dda51f096c021aaf4a1aadb9187516735e27f11c1b9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-88-2022",
+   "path": "local/alba/mihalt/2022/88",
+   "short": "HCL Mihalț nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 88/2022 privind rectificarea bugetului local al comunei Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/1.-HCL-nr.-88-privind-rectificarea-bugetului-local-al-comunei-Mihalt.pdf",
+     "sha256": "17c0e038a8543714503fbfc8235e2fc317a12ac1558000a449bc569d1b5a8718"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--mihalt-89-2022",
    "path": "local/alba/mihalt/2022/89",
    "short": "HCL Mihalț nr. 89/2022",
@@ -29,6 +884,66 @@
      "units": 1,
      "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/2.-HCL-nr.-89-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2023.pdf",
      "sha256": "3172de891eaa2a258a9916fb6c1987ecc9b37b08313e3076d17b495d9c1c9112"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-91-2022",
+   "path": "local/alba/mihalt/2022/91",
+   "short": "HCL Mihalț nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 91/2022 privind stabilirea chiriei pentru spațiile de locuit din blocul de locuințe situat administrativ în Mihalț nr. 133",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/4.-HCL-nr.-91-privind-stabilirea-chiriei-pentru-spatiile-de-locuit-din-blocul-de-locuinte-situat-administrativ-in-Mihalt-nr.-133.pdf",
+     "sha256": "44f4ad7dec3d81f3391dbe46ea98886913ad2f46bed4a05b9139c6183dde04fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-92-2022",
+   "path": "local/alba/mihalt/2022/92",
+   "short": "HCL Mihalț nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 92/2022 privind aprobarea execuției bugetului local al comunei Mihalț pe trim. IV 2022",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/5.-HCL-nr.-92-privind-aprobarea-executiei-bugetului-local-al-comunei-Mihalt-pe-trim.-IV-2022.pdf",
+     "sha256": "66cf3cd93f6a411375ef7950ae1fda5ee8c060a3d68e57cecc6bd68633e7a849"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-93-2022",
+   "path": "local/alba/mihalt/2022/93",
+   "short": "HCL Mihalț nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 93/2022 privind decontarea navetei cadrelor didactice pe luna noiembrie 2022",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/6.-HCL-nr.-93-privind-decontarea-navetei-cadrelor-didactice-pe-luna-noiembrie-2022.pdf",
+     "sha256": "2f035320e4957b63f6e682b6f97f26e2f51ecdc149da4ec8f0cbcd50e4d67959"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-95-2022",
+   "path": "local/alba/mihalt/2022/95",
+   "short": "HCL Mihalț nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 95/2022 privind modificarea și completarea Hotărârii Consiliului Local Mihalț nr. 85 din 2022",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2022/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2023/01/8.-HCL-nr.-95-privind-modificarea-si-completarea-Hotararii-Consiliului-Local-Mihalt-nr.-85-din-2022.pdf",
+     "sha256": "baab89ab9cf384b84663f85cd86b474677e8c9f41649e0cf7d0905506016ea93"
     }
    ]
   }

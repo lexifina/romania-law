@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/garbova/2024",
+ "acts": [
+  {
+   "slug": "hcl-alba--garbova-7-2024",
+   "path": "local/alba/garbova/2024/7",
+   "short": "HCL Gârbova nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gârbova nr. 7/2024",
+   "url": "https://primaria-garbova.ro/hotararea-7-din-22-05-2024/",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://primaria-garbova.ro/wp-content/uploads/2024/05/Hotararea-7-din-22.05.2024.pdf",
+     "sha256": "13e8fc2331e4ca7e119d0fe63281ffe9733da5f0f3af23fc11b4050c20fec08e"
+    }
+   ]
+  }
+ ]
+}

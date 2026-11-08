@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/miraslau/2021",
+ "acts": [
+  {
+   "slug": "hcl-alba--miraslau-70-2021",
+   "path": "local/alba/miraslau/2021/70",
+   "short": "HCL Mirăslău nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mirăslău nr. 70/2021",
+   "url": "http://www.primariamiraslau.ro/categorie-documente/hcl-2021",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://www.primariamiraslau.ro/wp-content/uploads/2022/01/HCL-nr-70-din-27-decembrie-2021.pdf",
+     "sha256": "bba368feb64478f5085c039806859c5274545748c6f51fcc5f2f810c6c080d95"
+    }
+   ]
+  }
+ ]
+}

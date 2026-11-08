@@ -3,6 +3,28 @@
 "shard": "local/arad/conop/2024",
 "acts": [
 {
+"slug": "hcl-arad--conop-1-2024",
+"path": "local/arad/conop/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 1/2024 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/conop-ar/registru-hcl/139940",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-2-2024",
 "path": "local/arad/conop/2024/2",
 "kind": "local",
@@ -180,6 +202,29 @@
 }
 },
 {
+"slug": "hcl-arad--conop-10-2024",
+"path": "local/arad/conop/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 10/2024",
+"short": "HCL Conop nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/conop-ar/registru-hcl/139949",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--conop-11-2024",
 "path": "local/arad/conop/2024/11",
 "kind": "local",
@@ -221,6 +266,28 @@
 "council_name": "Consiliul Local al Comunei Conop",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--conop-13-2024",
+"path": "local/arad/conop/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 13/2024 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://emol.ro/conop-ar/registru-hcl/146088",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -335,6 +402,28 @@
 }
 },
 {
+"slug": "hcl-arad--conop-19-2024",
+"path": "local/arad/conop/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 19/2024 privind aprobarea documentației cadastrale de primă înscriere și introducerea în circuitul funciar domeniul privat al comunei Conop a unui teren situat în intravilanul localității Conop",
+"short": "HCL Conop nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-19",
+"latest": "2024-06-19",
+"portal": "https://emol.ro/conop-ar/registru-hcl/146094",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-20-2024",
 "path": "local/arad/conop/2024/20",
 "kind": "local",
@@ -354,6 +443,28 @@
 "council_name": "Consiliul Local al Comunei Conop",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--conop-21-2024",
+"path": "local/arad/conop/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 21/2024 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/conop-ar/registru-hcl/150791",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -468,6 +579,28 @@
 }
 },
 {
+"slug": "hcl-arad--conop-27-2024",
+"path": "local/arad/conop/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 27/2024 privind acordarea avizului de principiu pentru concesionarea unui bun imobil aparținând domeniului public al comunei Conop, în vederea constituirii unui complex de vânătoare în baza O.U.G.81/2004, imobil identificat prin nr.cadastral 310707 Conop",
+"short": "HCL Conop nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-02",
+"latest": "2024-04-02",
+"portal": "https://emol.ro/conop-ar/registru-hcl/150797",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-28-2024",
 "path": "local/arad/conop/2024/28",
 "kind": "local",
@@ -532,6 +665,28 @@
 "council_name": "Consiliul Local al Comunei Conop",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--conop-31-2024",
+"path": "local/arad/conop/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 31/2024 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-09",
+"latest": "2024-05-09",
+"portal": "https://emol.ro/conop-ar/registru-hcl/154435",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -712,6 +867,28 @@
 }
 },
 {
+"slug": "hcl-arad--conop-40-2024",
+"path": "local/arad/conop/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 40/2024 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/conop-ar/registru-hcl/156556",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-41-2024",
 "path": "local/arad/conop/2024/41",
 "kind": "local",
@@ -754,6 +931,28 @@
 "council_name": "Consiliul Local al Comunei Conop",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--conop-43-2024",
+"path": "local/arad/conop/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 43/2024 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-05",
+"latest": "2024-07-05",
+"portal": "https://emol.ro/conop-ar/registru-hcl/160622",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -868,6 +1067,28 @@
 }
 },
 {
+"slug": "hcl-arad--conop-49-2024",
+"path": "local/arad/conop/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 49/2024 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://emol.ro/conop-ar/registru-hcl/164768",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-50-2024",
 "path": "local/arad/conop/2024/50",
 "kind": "local",
@@ -910,6 +1131,28 @@
 "council_name": "Consiliul Local al Comunei Conop",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--conop-52-2024",
+"path": "local/arad/conop/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 52/2024 privind aprobarea încheierii unui Protocol de finanțare între Unitatea Administrativ-Teritorială Județul Arad și Unitatea Administrativ-Teritorială Comuna Conop, Judetul Arad în vederea implementării și derulării Programului multianual privind finanțarea elaborării și/sau actualizării planurilor urbanistice generale ale localităților și a regulamentelor locale de urbanism pentru perioada 2024-2027",
+"short": "HCL Conop nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-02",
+"latest": "2024-08-02",
+"portal": "https://emol.ro/conop-ar/registru-hcl/164771",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1023,6 +1266,28 @@
 }
 },
 {
+"slug": "hcl-arad--conop-58-2024",
+"path": "local/arad/conop/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 58/2024 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/conop-ar/registru-hcl/168305",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-59-2024",
 "path": "local/arad/conop/2024/59",
 "kind": "local",
@@ -1090,6 +1355,72 @@
 }
 },
 {
+"slug": "hcl-arad--conop-62-2024",
+"path": "local/arad/conop/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 62/2024 privind delegarea prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor, Județul Arad ADISIGD Arad din Zona 5 a județului Arad, avizarea Strategiei de contractare, a Studiului de fundamentare și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, Zona 5",
+"short": "HCL Conop nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/conop-ar/registru-hcl/168309",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--conop-63-2024",
+"path": "local/arad/conop/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 63/2024 privind aprobarea Contractului de delegare (operare a stațiilor de transfer) prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor județul Arad",
+"short": "HCL Conop nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/conop-ar/registru-hcl/168310",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--conop-64-2024",
+"path": "local/arad/conop/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 64/2024 privind instrumentarea dosarului tehnic Schemei de ajutor de stat ,,SERVICII DE SILVO- MEDIU ȘI CLIMĂ ”, aferent intervenției DR-7",
+"short": "HCL Conop nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/conop-ar/registru-hcl/168311",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-65-2024",
 "path": "local/arad/conop/2024/65",
 "kind": "local",
@@ -1109,6 +1440,28 @@
 "council_name": "Consiliul Local al Comunei Conop",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--conop-66-2024",
+"path": "local/arad/conop/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 66/2024 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-04",
+"latest": "2024-10-04",
+"portal": "https://emol.ro/conop-ar/registru-hcl/171774",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1201,6 +1554,73 @@
 }
 },
 {
+"slug": "hcl-arad--conop-71-2024",
+"path": "local/arad/conop/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 71/2024",
+"short": "HCL Conop nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-04",
+"latest": "2024-10-04",
+"portal": "https://emol.ro/conop-ar/registru-hcl/171779",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--conop-72-2024",
+"path": "local/arad/conop/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 72/2024 privind aprobarea Contractului de delegare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat din județul Arad, ZONA 5",
+"short": "HCL Conop nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-04",
+"latest": "2024-10-04",
+"portal": "https://emol.ro/conop-ar/registru-hcl/171780",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--conop-73-2024",
+"path": "local/arad/conop/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 73/2024 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 73/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-31",
+"latest": "2024-10-31",
+"portal": "https://emol.ro/conop-ar/registru-hcl/174302",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-74-2024",
 "path": "local/arad/conop/2024/74",
 "kind": "local",
@@ -1290,6 +1710,28 @@
 }
 },
 {
+"slug": "hcl-arad--conop-78-2024",
+"path": "local/arad/conop/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 78/2024 privind acordarea unui ajutor financiar Bisericii Ortodoxe cu hramul ,,Buna Vestire’’ din Odvoș",
+"short": "HCL Conop nr. 78/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-31",
+"latest": "2024-10-31",
+"portal": "https://emol.ro/conop-ar/registru-hcl/174307",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-79-2024",
 "path": "local/arad/conop/2024/79",
 "kind": "local",
@@ -1312,6 +1754,28 @@
 }
 },
 {
+"slug": "hcl-arad--conop-80-2024",
+"path": "local/arad/conop/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 80/2024 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-05",
+"latest": "2024-11-05",
+"portal": "https://emol.ro/conop-ar/registru-hcl/174766",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-81-2024",
 "path": "local/arad/conop/2024/81",
 "kind": "local",
@@ -1331,6 +1795,50 @@
 "council_name": "Consiliul Local al Comunei Conop",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--conop-82-2024",
+"path": "local/arad/conop/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 82/2024 Privind organizarea comisiilor de specialitate ale Consiliului Local CONOP",
+"short": "HCL Conop nr. 82/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/conop-ar/registru-hcl/174768",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--conop-83-2024",
+"path": "local/arad/conop/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 83/2024 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 83/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://emol.ro/conop-ar/registru-hcl/176643",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

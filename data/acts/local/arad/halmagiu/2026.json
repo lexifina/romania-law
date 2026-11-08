@@ -3,6 +3,50 @@
 "shard": "local/arad/halmagiu/2026",
 "acts": [
 {
+"slug": "hcl-arad--halmagiu-1-2026",
+"path": "local/arad/halmagiu/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 1/2026 privind aprobarea ordinei de zi a ședinței extraodinare publice a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 14.02.2026, convocată prin Dispoziția primarului nr. 15 din 10.02.2026",
+"short": "HCL Hălmagiu nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-20",
+"latest": "2026-03-20",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/259043",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-2-2026",
+"path": "local/arad/halmagiu/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 2/2026 privind aprobarea procesului verbal al ședinței Consiliului local Hălmagiu din 31.12.2025",
+"short": "HCL Hălmagiu nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-20",
+"latest": "2026-03-20",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/259044",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--halmagiu-3-2026",
 "path": "local/arad/halmagiu/2026/3",
 "kind": "local",
@@ -113,6 +157,72 @@
 }
 },
 {
+"slug": "hcl-arad--halmagiu-8-2026",
+"path": "local/arad/halmagiu/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 8/2026 privind alegerea președintelui de ședință",
+"short": "HCL Hălmagiu nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/266364",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-9-2026",
+"path": "local/arad/halmagiu/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 9/2026 privind aprobarea ordinii de zi a ședinței extraordinare publice a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 31.03.2026, convocată prin Dispoziția primarului nr. 32 din 27.03.2026",
+"short": "HCL Hălmagiu nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/266365",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-10-2026",
+"path": "local/arad/halmagiu/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 10/2026 privind aprobarea procesului-verbaal al ședinței Consiliului local Hălmagiu din 14.02.2026",
+"short": "HCL Hălmagiu nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/266366",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--halmagiu-11-2026",
 "path": "local/arad/halmagiu/2026/11",
 "kind": "local",
@@ -135,6 +245,29 @@
 }
 },
 {
+"slug": "hcl-arad--halmagiu-12-2026",
+"path": "local/arad/halmagiu/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 12/2026",
+"short": "HCL Hălmagiu nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/266382",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--halmagiu-13-2026",
 "path": "local/arad/halmagiu/2026/13",
 "kind": "local",
@@ -154,6 +287,50 @@
 "council_name": "Consiliul Local al Comunei Hălmagiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-14-2026",
+"path": "local/arad/halmagiu/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 14/2026 privind aprobarea ordinii de zi a ședinței ordinare publice a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 09.04.2026, convocată prin Dispoziția primarului nr. 35 din 03.04.2026",
+"short": "HCL Hălmagiu nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/266388",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-15-2026",
+"path": "local/arad/halmagiu/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 15/2026 privind aprobarea procesului verbal al ședinței Consiliului local Hălmagiu din 31.03.2026",
+"short": "HCL Hălmagiu nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/266389",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +378,50 @@
 }
 },
 {
+"slug": "hcl-arad--halmagiu-18-2026",
+"path": "local/arad/halmagiu/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 18/2026 privind aprobarea ordinii de zi a ședinței ordinare publice a Consiliului Local Halmagiu, județul Arad, întrunit în data de 12.05.2026, convocată prin Dispoziția nr.52 din 05.05.2026",
+"short": "HCL Hălmagiu nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/269893",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-19-2026",
+"path": "local/arad/halmagiu/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 19/2026 privind aprobarea procesului verbal al șdeinței Consiliului Local Hălmagiu, din 09.04.2026",
+"short": "HCL Hălmagiu nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/269897",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--halmagiu-20-2026",
 "path": "local/arad/halmagiu/2026/20",
 "kind": "local",
@@ -220,6 +441,28 @@
 "council_name": "Consiliul Local al Comunei Hălmagiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-21-2026",
+"path": "local/arad/halmagiu/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 21/2026 privind aprobarea bugetului local de venituri și cheltuieli, al comunei Hălmagiu, județul Arad, sursele A, E și G, pe anul 2026, și estimările pe anii 2027-2029",
+"short": "HCL Hălmagiu nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/269912",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +488,73 @@
 }
 },
 {
+"slug": "hcl-arad--halmagiu-23-2026",
+"path": "local/arad/halmagiu/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 23/2026",
+"short": "HCL Hălmagiu nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/269918",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-24-2026",
+"path": "local/arad/halmagiu/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 24/2026 privind aprobarea ordinei de zi a ședinței ordinare publice a Consiliului Local Halmagiu, județul Arad, întrunit în data de 09.06.2026, convocată prin Dispoziția primarului nr. 56 din 02.06.2026",
+"short": "HCL Hălmagiu nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-01",
+"latest": "2026-07-01",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/276913",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-25-2026",
+"path": "local/arad/halmagiu/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 25/2026 privind aprobarea procesului verbal al ședinței Consiliului local Hălmagiu din 12.05.2026",
+"short": "HCL Hălmagiu nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-01",
+"latest": "2026-07-01",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/276915",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--halmagiu-26-2026",
 "path": "local/arad/halmagiu/2026/26",
 "kind": "local",
@@ -264,6 +574,29 @@
 "council_name": "Consiliul Local al Comunei Hălmagiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-27-2026",
+"path": "local/arad/halmagiu/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 27/2026",
+"short": "HCL Hălmagiu nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-01",
+"latest": "2026-07-01",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/276953",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -309,6 +642,72 @@
 "council_name": "Consiliul Local al Comunei Hălmagiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-30-2026",
+"path": "local/arad/halmagiu/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 30/2026 privind alegerea președintelui de ședință",
+"short": "HCL Hălmagiu nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/280217",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-31-2026",
+"path": "local/arad/halmagiu/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 31/2026 privind aprobarea ordinei de zi a ședinței ordinare publice a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 23.06.2026, convocată prin Dispoziția primarului nr.58 din 17.06.2026",
+"short": "HCL Hălmagiu nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/280224",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-32-2026",
+"path": "local/arad/halmagiu/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 32/2026 privind aprobarea procesului verbal al ședinței Consiliului Local Hălmagiu din 09.06.2026",
+"short": "HCL Hălmagiu nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-23",
+"latest": "2026-07-23",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/280225",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

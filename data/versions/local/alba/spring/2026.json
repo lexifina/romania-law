@@ -288,6 +288,36 @@
    ]
   },
   {
+   "slug": "hcl-alba--spring-14-2026",
+   "path": "local/alba/spring/2026/14",
+   "short": "HCL Șpring nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 14/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "774ac1135860d559cacc30bb31f25efb5dd11d675eaf3a6a4fa420fe3b1deb17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-15-2026",
+   "path": "local/alba/spring/2026/15",
+   "short": "HCL Șpring nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 15/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "48ff86b758f15f6c3dcbba33f5aae8dbc7cc837cbc49cf86a7af68e325ff98c4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--spring-17-2026",
    "path": "local/alba/spring/2026/17",
    "short": "HCL Șpring nr. 17/2026",
@@ -299,6 +329,111 @@
      "units": 1,
      "source_url": "https://comunaspring.ro/wp-content/uploads/2026/04/HOTARAREA-NR.-17-din-17.02.2026-privind-modificarea-HCL-nr.-79-din-09.06.2022-privind-constituirea-Consiliului-Comunitar-Consultativ-al-comunei-Spring-si-aprobarea-Regulamentul.pdf",
      "sha256": "b0ff2c67a6fef1716d6d8e67cb25c314322a3a6d5dbc1790398719a63d28090d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-71-2026",
+   "path": "local/alba/spring/2026/71",
+   "short": "HCL Șpring nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 71/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "69602aed5a95f5971e4a66e629cc3766468e9984f5d58be6673e6051bb3517b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-72-2026",
+   "path": "local/alba/spring/2026/72",
+   "short": "HCL Șpring nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 72/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9fc5dd3a8315234020a3cfa055324a637835ea956dd4e5d5704960aba597d20d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-74-2026",
+   "path": "local/alba/spring/2026/74",
+   "short": "HCL Șpring nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 74/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "02b36c8a532b29ed0e90b128e30e82fd3e867780286c8c3ec780bc5b35ef6f40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-76-2026",
+   "path": "local/alba/spring/2026/76",
+   "short": "HCL Șpring nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 76/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "98f5ef3c91b5f0a579de3dcd9c072b13653f84cddb0fa89d69274136fe8de7e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-77-2026",
+   "path": "local/alba/spring/2026/77",
+   "short": "HCL Șpring nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 77/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8f52800aa4667c673e5c06b39762d18455237cb6b95ea3429fd0c68ed05a788e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-78-2026",
+   "path": "local/alba/spring/2026/78",
+   "short": "HCL Șpring nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 78/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "54f3c34f30c270307932b8232364222573055b8529d01851831d53bfb11af2bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--spring-87-2026",
+   "path": "local/alba/spring/2026/87",
+   "short": "HCL Șpring nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șpring nr. 87/2026 privind modificarea HCL nr. 51/04.05.2026 privind implementarea proiectului „CONSERVAREA ȘI PROMOVAREA PATRIMONIULUI IMATERIAL AL COMUNEI ȘPRING” Primarul Comunei Șpring, județul Alba Consiliul Local al Comunei Șpring, județul Alba Întrunit în ședința extraordinară din data de 09.07.2026 Luând în dezbatere: - Proiectul de hotărâre nr. 87/08.07.2026 privind modificarea HCL nr. 51/04.05.2026 privind",
+   "url": "https://comunaspring.ro/wp-content/uploads/2026/08/HCL-NR.-87-1.pdf",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://comunaspring.ro/wp-content/uploads/2026/08/HCL-NR.-87-1.pdf",
+     "sha256": "12541237f0d6abef02258df862857c50be4d66c4bd64b7081a534347a766db9c"
     }
    ]
   }

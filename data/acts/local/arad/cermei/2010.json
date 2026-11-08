@@ -3,6 +3,28 @@
 "shard": "local/arad/cermei/2010",
 "acts": [
 {
+"slug": "hcl-arad--cermei-10-2010",
+"path": "local/arad/cermei/2010/10",
+"kind": "local",
+"year": "2010",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cermei nr. 10/2010 Privind modificarea Actului Constitutiv și a Statutului Asociației de dezvoltare intercomunitară Apă Canalizare Județul Arad, la care comuna Cermei este membru asociat Consiliul Local al comunei Cermei întrunit în ședință la data de 25.02.2010 Având în vedere: Expunerea de motive la proiectul de hotărâre; Raportul de specialitate al compartimentului contabil Avizul comisiei de specialitate economi",
+"short": "HCL Cermei nr. 10/2010",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2010-02-25",
+"latest": "2010-02-25",
+"portal": "https://comuna-cermei.ro/2010/04/hotarare-a-consiliului-local-cermei-%E2%80%93-februarie-2010/",
+"council": "arad/cermei",
+"council_name": "Consiliul Local al Comunei Cermei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--cermei-33-2010",
 "path": "local/arad/cermei/2010/33",
 "kind": "local",

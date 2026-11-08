@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arad/felnac/2017",
+ "acts": [
+  {
+   "slug": "hcl-arad--felnac-93-2017",
+   "path": "local/arad/felnac/2017/93",
+   "short": "HCL Felnac nr. 93/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Felnac nr. 93/2017 privind trecerea din inventarul patrimoniului public al județului Arad, în patrimoniul privat al comunei Felnac, a unor bunuri de natura mijloacelor fixe aflate în concesiune la Compania de Apă Arad",
+   "url": "https://primaria-felnac.ro/hotarari-din-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primaria-felnac.ro/wp-content/uploads/2018/02/HCL-93-din-19.12.2017.pdf",
+     "sha256": "0a843a94157594adf235c1927b2cb4646ff39dd6d8f1868965de4ed44c16adca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--felnac-95-2017",
+   "path": "local/arad/felnac/2017/95",
+   "short": "HCL Felnac nr. 95/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Felnac nr. 95/2017",
+   "url": "https://primaria-felnac.ro/hotarari-din-2017/",
+   "versions": [
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "http://primaria-felnac.ro/wp-content/uploads/2018/02/HCL-95-din-19.12.2017.pdf",
+     "sha256": "ffe9a44699b34d170ea459d165dc8dda92b15feb408a8b8cec4ceb854a1f6f39"
+    }
+   ]
+  }
+ ]
+}
