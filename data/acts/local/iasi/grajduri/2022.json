@@ -908,6 +908,28 @@
 }
 },
 {
+"slug": "hcl-iasi--grajduri-42-2022",
+"path": "local/iasi/grajduri/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 42/2022 HCL privind aprobarea concesionării prin licitație publică a unor suprafețe de teren aparținând domeniului privat al comunei Grajduri, județul Iași",
+"short": "HCL Grajduri nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-25",
+"latest": "2022-11-25",
+"portal": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#34034",
+"council": "iasi/grajduri",
+"council_name": "Consiliul Local al Comunei Grajduri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--grajduri-43-2022",
 "path": "local/iasi/grajduri/2022/43",
 "kind": "local",

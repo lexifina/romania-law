@@ -3,6 +3,21 @@
  "shard": "local/iasi/grozesti/2025",
  "acts": [
   {
+   "slug": "hcl-iasi--grozesti-1-2025",
+   "path": "local/iasi/grozesti/2025/1",
+   "short": "HCL Grozești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 1/2025",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/196627",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/196627",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--grozesti-10-2025",
    "path": "local/iasi/grozesti/2025/10",
    "short": "HCL Grozești nr. 10/2025",
@@ -43,6 +58,21 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/grozesti-is/registru-hcl/211975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-13-2025",
+   "path": "local/iasi/grozesti/2025/13",
+   "short": "HCL Grozești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 13/2025 privind aprobarea închirierii utilajului buldoexcavator MST și a autoutilitarei Ford Transit aflate în proprietatea privată a comunei Grozești, județul Iași, a Regulamentului privind modalitatea de închiriere și a taxei speciale de închiriere a utilajelor aflate în proprietatea privată a comunei Grozești, județul Iași",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/211976",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/211976",
      "sha256": null
     }
    ]
@@ -223,6 +253,21 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/grozesti-is/registru-hcl/231452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-25-2025",
+   "path": "local/iasi/grozesti/2025/25",
+   "short": "HCL Grozești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 25/2025 privind aprobarea închirierii autoutilitarei marca MAN aflată în proprietatea privată a comunei Grozești, județul Iași, a Regulamentului privind modalitatea de închiriere și a taxei speciale de închiriere a autoutilitarei aflate în proprietatea privată a comunei Grozești, județul Iași",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/231453",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/231453",
      "sha256": null
     }
    ]
@@ -583,6 +628,21 @@
      "from": "2025-04-22",
      "units": 1,
      "source_url": "https://emol.ro/grozesti-is/registru-hcl/196632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-7-2025",
+   "path": "local/iasi/grozesti/2025/7",
+   "short": "HCL Grozești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 7/2025 privind desemnarea consilierilor locali în cadrul comisiei de evaluare a performanțelor profesionale individuale ale Secretarului general al comunei Grozești pentru activitatea desfășurată în anul 2024",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/196633",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/196633",
      "sha256": null
     }
    ]

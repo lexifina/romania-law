@@ -91,6 +91,72 @@
 }
 },
 {
+"slug": "hcl-iasi--focuri-5-2021",
+"path": "local/iasi/focuri/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 5/2021 privind aprobarea rețelei școlare de învățământ preunivesitar de stat de pe raza comunei Focuri pentru anul școlar 2021-2022",
+"short": "HCL Focuri nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23544",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-6-2021",
+"path": "local/iasi/focuri/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 6/2021 privind aprobarea planului de acțiuni și lucrări de interes local pe anul 2021, ce vor fi executate de către beneficiarii de ajutor social, conform Legii nr. 416/2001, cu modificările și completările ulterioare",
+"short": "HCL Focuri nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23545",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-7-2021",
+"path": "local/iasi/focuri/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 7/2021 privind stabilirea activităților și locul în care contravenienții vor presta activități în folosul comunității",
+"short": "HCL Focuri nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23546",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--focuri-8-2021",
 "path": "local/iasi/focuri/2021/8",
 "kind": "local",
@@ -132,6 +198,317 @@
 "council_name": "Consiliul Local al Comunei Focuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--focuri-10-2021",
+"path": "local/iasi/focuri/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 10/2021 privind aprobarea măsurilor pentru gospodărirea comunei Focuri și a sacțiunilor pentru cei care nu respectă sau nu duc la îndeplinire obligațiile stabilite prin acest program",
+"short": "HCL Focuri nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23549",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-11-2021",
+"path": "local/iasi/focuri/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 11/2021 privind aprobarea realizării raportului de evaluare în vederea vânzării autocamionului SAVIEM, care face parte din inventarul privat al comunei",
+"short": "HCL Focuri nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23550",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-12-2021",
+"path": "local/iasi/focuri/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 12/2021 privind aprobarea investitiei ” Construire grup sanitar-WC prevăzut cu fosă septică la Școala Profesională Focuri”, corp A parter+etaj",
+"short": "HCL Focuri nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23551",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-13-2021",
+"path": "local/iasi/focuri/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 13/2021 privind aprobarea investiției ”Schimbarea învelitorii la Școala Profesională Focuri”",
+"short": "HCL Focuri nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23552",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-14-2021",
+"path": "local/iasi/focuri/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 14/2021 privind aprobarea investiției ”Construire sală de sport la Școala Generală nr. 2 Pășcăneni, comuna Focuri”",
+"short": "HCL Focuri nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23553",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-15-2021",
+"path": "local/iasi/focuri/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 15/2021",
+"short": "HCL Focuri nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23554",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--focuri-16-2021",
+"path": "local/iasi/focuri/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 16/2021",
+"short": "HCL Focuri nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23555",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--focuri-17-2021",
+"path": "local/iasi/focuri/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 17/2021 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr.40",
+"short": "HCL Focuri nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23556",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-18-2021",
+"path": "local/iasi/focuri/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 18/2021",
+"short": "HCL Focuri nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23557",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--focuri-19-2021",
+"path": "local/iasi/focuri/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 19/2021 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+"short": "HCL Focuri nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23558",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-20-2021",
+"path": "local/iasi/focuri/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 20/2021 privind revizuirea, modificarea și actualizarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 prin Actul Adițional nr.41",
+"short": "HCL Focuri nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23588",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-21-2021",
+"path": "local/iasi/focuri/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 21/2021 privind consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009",
+"short": "HCL Focuri nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23589",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-22-2021",
+"path": "local/iasi/focuri/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 22/2021 privind demararea proiectului de investiție ” Înființare Rețea de Distribuție gaze naturale în comuna Focuri, județul Iași” și realizarea parteneriatului dintre comunele Erbiceni, Focuri și Gropnița pentru implementarea acestui proiect",
+"short": "HCL Focuri nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23590",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-23-2021",
+"path": "local/iasi/focuri/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 23/2021 privind stabilirea amplasamentelor și localizarea stațiilor de îmbarcare/debarcare existente sau care se doresc a se înființa pe raza comunei și reînființarea cursei capăt de linie Focuri",
+"short": "HCL Focuri nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23591",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +600,28 @@
 }
 },
 {
+"slug": "hcl-iasi--focuri-28-2021",
+"path": "local/iasi/focuri/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 28/2021 privind trecerea în domeniul public a suprafeței de 2049 mp teren situate în intravilan comuna Focuri",
+"short": "HCL Focuri nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-18",
+"latest": "2021-03-18",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23603",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--focuri-29-2021",
 "path": "local/iasi/focuri/2021/29",
 "kind": "local",
@@ -242,6 +641,51 @@
 "council_name": "Consiliul Local al Comunei Focuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--focuri-30-2021",
+"path": "local/iasi/focuri/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 30/2021",
+"short": "HCL Focuri nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-18",
+"latest": "2021-03-18",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23605",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--focuri-31-2021",
+"path": "local/iasi/focuri/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 31/2021 privind aderarea Comunei Focuri prin Consiliul Local Focuri la ”Asociația de Dezvoltare Intercomunitară-Dezvoltare Sustenabilă și Integrată în Țara de Sus”",
+"short": "HCL Focuri nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-01",
+"latest": "2021-04-01",
+"portal": "https://emol.ro/focuri-is/registru-hcl/23619",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -308,6 +752,117 @@
 "council_name": "Consiliul Local al Comunei Focuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--focuri-35-2021",
+"path": "local/iasi/focuri/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 35/2021 privind actualizarea organigramei și a statului de funcții pentru aparatul de specialitate al primarului comunei Focuri",
+"short": "HCL Focuri nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/focuri-is/registru-hcl/24079",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-36-2021",
+"path": "local/iasi/focuri/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 36/2021 privind la aprobarea ” Acordului de cooperare cu Asociația Comunelor din România în vederea organizării și exercitării unor activități stabilite prin Codul Administrativ”",
+"short": "HCL Focuri nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/focuri-is/registru-hcl/24083",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-37-2021",
+"path": "local/iasi/focuri/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 37/2021 privind revizuirea actului Constitutiv și Statutului Asociației Regionale a Serviciilor de Apă Canal Iași-ARSACIS",
+"short": "HCL Focuri nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/focuri-is/registru-hcl/24080",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-38-2021",
+"path": "local/iasi/focuri/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 38/2021",
+"short": "HCL Focuri nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/focuri-is/registru-hcl/24081",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--focuri-39-2021",
+"path": "local/iasi/focuri/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 39/2021 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+"short": "HCL Focuri nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/focuri-is/registru-hcl/24082",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -664,6 +1219,28 @@
 }
 },
 {
+"slug": "hcl-iasi--focuri-56-2021",
+"path": "local/iasi/focuri/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 56/2021 privind desemnarea presedintelui de şedinţă pentru urmatoarele trei luni",
+"short": "HCL Focuri nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/focuri-is/registru-hcl/31399",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--focuri-57-2021",
 "path": "local/iasi/focuri/2021/57",
 "kind": "local",
@@ -882,6 +1459,28 @@
 "council_name": "Consiliul Local al Comunei Focuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--focuri-67-2021",
+"path": "local/iasi/focuri/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 67/2021 privind concesionarea suprafetei de 15 mp teren aflat în domeniul public al comunei Focuri",
+"short": "HCL Focuri nr. 67/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://emol.ro/focuri-is/registru-hcl/40204",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

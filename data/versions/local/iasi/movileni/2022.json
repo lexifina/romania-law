@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-10-2022",
+   "path": "local/iasi/movileni/2022/10",
+   "short": "HCL Movileni nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 10/2022 privind încetarea Contractului de inchiriere pentru suprafeţele de pajişti aflate în domeniul privat al comunei Movileni nr.1850/28.02.2019",
+   "url": "https://emol.ro/movileni-is/registru-hcl/48649",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/48649",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-100-2022",
    "path": "local/iasi/movileni/2022/100",
    "short": "HCL Movileni nr. 100/2022",
@@ -93,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-105-2022",
+   "path": "local/iasi/movileni/2022/105",
+   "short": "HCL Movileni nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 105/2022 privind vânzarea fără licitație publică(directă) a unui teren proprietate privată a Unităţii Administrativ Teritoriale Comuna Movileni , judeţul Iași, în baza dreptului de preemțiune",
+   "url": "https://emol.ro/movileni-is/registru-hcl/67423",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/67423",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-106-2022",
    "path": "local/iasi/movileni/2022/106",
    "short": "HCL Movileni nr. 106/2022",
@@ -148,6 +178,21 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/68456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-11-2022",
+   "path": "local/iasi/movileni/2022/11",
+   "short": "HCL Movileni nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 11/2022 privind acordarea unui ajutor de urgență",
+   "url": "https://emol.ro/movileni-is/registru-hcl/48650",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/48650",
      "sha256": null
     }
    ]
@@ -343,6 +388,51 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/72698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-122-2022",
+   "path": "local/iasi/movileni/2022/122",
+   "short": "HCL Movileni nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 122/2022 privind privind alegerea reprezentantului Consiliului local Movileni in Comisia de asigurare a calitatii (CEAC) din cadrul Scolii Larga Jijia pentru anul scolar 2022-2023",
+   "url": "https://emol.ro/movileni-is/registru-hcl/73784",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/73784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-123-2022",
+   "path": "local/iasi/movileni/2022/123",
+   "short": "HCL Movileni nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 123/2022 privind alegerea reprezentantului Consiliului local Movileni în Consiliul de Administratie al Scolii Larga Jijia pentru anul scolar 2022-2023",
+   "url": "https://emol.ro/movileni-is/registru-hcl/73785",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/73785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-124-2022",
+   "path": "local/iasi/movileni/2022/124",
+   "short": "HCL Movileni nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 124/2022 privind alegerea președintelui de ședintă al Consiliului local Movileni, pentru perioada octombrie,noiembrie și decembrie 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/73786",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/73786",
      "sha256": null
     }
    ]
@@ -1023,6 +1113,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-22-2022",
+   "path": "local/iasi/movileni/2022/22",
+   "short": "HCL Movileni nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 22/2022 privind acordarea unui ajutor de urgență",
+   "url": "https://emol.ro/movileni-is/registru-hcl/52273",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/52273",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-23-2022",
    "path": "local/iasi/movileni/2022/23",
    "short": "HCL Movileni nr. 23/2022",
@@ -1113,6 +1218,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-29-2022",
+   "path": "local/iasi/movileni/2022/29",
+   "short": "HCL Movileni nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 29/2022 privind privind desemnarea a doi consilieri locali in Comisia de evaluare a performanțelor profesionale individuale ale secretarului -general al comunei Movileni ,județul Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/53413",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/53413",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-3-2022",
    "path": "local/iasi/movileni/2022/3",
    "short": "HCL Movileni nr. 3/2022",
@@ -1143,6 +1263,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-31-2022",
+   "path": "local/iasi/movileni/2022/31",
+   "short": "HCL Movileni nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 31/2022 privind încetarea Contractului de inchiriere pentru suprafeţele de pajişti aflate în domeniul privat al comunei Movileni nr.2250/12.03.2021",
+   "url": "https://emol.ro/movileni-is/registru-hcl/53415",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/53415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-32-2022",
+   "path": "local/iasi/movileni/2022/32",
+   "short": "HCL Movileni nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 32/2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/55676",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/55676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-33-2022",
+   "path": "local/iasi/movileni/2022/33",
+   "short": "HCL Movileni nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 33/2022 privind încetarea Contractului de inchiriere pentru suprafeţele de pajişti aflate în domeniul privat al comunei Movileni nr.2255/12.03.2021",
+   "url": "https://emol.ro/movileni-is/registru-hcl/55677",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/55677",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-34-2022",
    "path": "local/iasi/movileni/2022/34",
    "short": "HCL Movileni nr. 34/2022",
@@ -1153,6 +1318,36 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/55678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-35-2022",
+   "path": "local/iasi/movileni/2022/35",
+   "short": "HCL Movileni nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 35/2022 privind încetarea Contractului de inchiriere pentru suprafeţele de pajişti aflate în domeniul privat al comunei Movileni nr.2684/31.03.2021",
+   "url": "https://emol.ro/movileni-is/registru-hcl/55679",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/55679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-36-2022",
+   "path": "local/iasi/movileni/2022/36",
+   "short": "HCL Movileni nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 36/2022 privind încetarea Contractului de concesiune nr.5253/2018",
+   "url": "https://emol.ro/movileni-is/registru-hcl/55680",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/55680",
      "sha256": null
     }
    ]
@@ -1183,6 +1378,21 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/55682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-39-2022",
+   "path": "local/iasi/movileni/2022/39",
+   "short": "HCL Movileni nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 39/2022 privind alegerea președintelui de ședintă al Consiliului local Movileni, pentru perioada , aprilie,mai și iunie 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/55683",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/55683",
      "sha256": null
     }
    ]
@@ -1248,6 +1458,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-43-2022",
+   "path": "local/iasi/movileni/2022/43",
+   "short": "HCL Movileni nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 43/2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/56652",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/56652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-44-2022",
+   "path": "local/iasi/movileni/2022/44",
+   "short": "HCL Movileni nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 44/2022 privind acordarea unui ajutor de urgență d-nei. Cataramă Paraschiva",
+   "url": "https://emol.ro/movileni-is/registru-hcl/56653",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/56653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-45-2022",
+   "path": "local/iasi/movileni/2022/45",
+   "short": "HCL Movileni nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 45/2022 privind adoptarea Regulamentui de stabilire a unor forme de sprijin financiar de la bugetul local al Comunei Movileni , pentru unitatile de cult apartinand cultelor religioase recunoscute din Romania de pe raza comunei Movileni",
+   "url": "https://emol.ro/movileni-is/registru-hcl/56654",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/56654",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-46-2022",
    "path": "local/iasi/movileni/2022/46",
    "short": "HCL Movileni nr. 46/2022",
@@ -1273,6 +1528,36 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/56656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-48-2022",
+   "path": "local/iasi/movileni/2022/48",
+   "short": "HCL Movileni nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 48/2022 privind încetarea Contractului de inchiriere pentru suprafeţele de pajişti aflate în domeniul privat al comunei Movileni nr.1867/28.02.2019",
+   "url": "https://emol.ro/movileni-is/registru-hcl/56657",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/56657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-49-2022",
+   "path": "local/iasi/movileni/2022/49",
+   "short": "HCL Movileni nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 49/2022 privind încetarea Contractului de inchiriere pentru suprafeţele de pajişti aflate în domeniul privat al comunei Movileni nr.2051/23.04.2018 și 2052 /24.04.2018",
+   "url": "https://emol.ro/movileni-is/registru-hcl/56658",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/56658",
      "sha256": null
     }
    ]
@@ -1413,6 +1698,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-58-2022",
+   "path": "local/iasi/movileni/2022/58",
+   "short": "HCL Movileni nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 58/2022 privind aprobarea Studiului de oportunitate, Caietului de sarcini si raportului de evaluare pentru concesionarea prin licitatie publică a suprafetei de 3830,00 mp. teren intravilan, situat in satul Movileni, comuna Movileni ,T 7 ,parcela 1(2), proprietate privată a comunei Movileni, judetul Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/59031",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/59031",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-59-2022",
    "path": "local/iasi/movileni/2022/59",
    "short": "HCL Movileni nr. 59/2022",
@@ -1453,6 +1753,21 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/59033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-61-2022",
+   "path": "local/iasi/movileni/2022/61",
+   "short": "HCL Movileni nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 61/2022 privind acceptul de a construi o locuință pe terenul cu nr. cadastral nr.61125 la o distanță minimă de 0,60 metri față de limita de proprietate a terenului aflat in domeniul privat al comunei ,cu nr. cadastral nr.61332",
+   "url": "https://emol.ro/movileni-is/registru-hcl/59034",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/59034",
      "sha256": null
     }
    ]
@@ -1608,6 +1923,261 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-71-2022",
+   "path": "local/iasi/movileni/2022/71",
+   "short": "HCL Movileni nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 71/2022 privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 3830,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Movileni , comuna Movileni, nr.cadastral :60261 și 62006 ,teren ce se va folosi pentru activități agricole",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63561",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-72-2022",
+   "path": "local/iasi/movileni/2022/72",
+   "short": "HCL Movileni nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 72/2022 privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 1093,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61275 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63562",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-73-2022",
+   "path": "local/iasi/movileni/2022/73",
+   "short": "HCL Movileni nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 73/2022 privind privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 934,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61276 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63563",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-74-2022",
+   "path": "local/iasi/movileni/2022/74",
+   "short": "HCL Movileni nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 74/2022 privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 934,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61281 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63564",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-75-2022",
+   "path": "local/iasi/movileni/2022/75",
+   "short": "HCL Movileni nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 75/2022 privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 934,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61283 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63565",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-76-2022",
+   "path": "local/iasi/movileni/2022/76",
+   "short": "HCL Movileni nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 76/2022 privind privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 934,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61284 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63566",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-77-2022",
+   "path": "local/iasi/movileni/2022/77",
+   "short": "HCL Movileni nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 77/2022 privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 934,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61285 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63567",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-78-2022",
+   "path": "local/iasi/movileni/2022/78",
+   "short": "HCL Movileni nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 78/2022 privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 931,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61312 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63568",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-79-2022",
+   "path": "local/iasi/movileni/2022/79",
+   "short": "HCL Movileni nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 79/2022 privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 931,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61314 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63569",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-8-2022",
+   "path": "local/iasi/movileni/2022/8",
+   "short": "HCL Movileni nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 8/2022 privind actualizarea prețului de închiriere a pajiştilor permanente aflate în proprietatea privată a comunei Movileni , judeţul Iasi in conformitate cu reglementările Planului de amenajament pastoral al UAT Movileni ,județul Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/48647",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/48647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-80-2022",
+   "path": "local/iasi/movileni/2022/80",
+   "short": "HCL Movileni nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 80/2022 privind privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 931,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61315 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63570",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-81-2022",
+   "path": "local/iasi/movileni/2022/81",
+   "short": "HCL Movileni nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 81/2022 privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 931,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61316 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63571",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-82-2022",
+   "path": "local/iasi/movileni/2022/82",
+   "short": "HCL Movileni nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 82/2022 privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 1074,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61317 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63572",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-83-2022",
+   "path": "local/iasi/movileni/2022/83",
+   "short": "HCL Movileni nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 83/2022 privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 905,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61319 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63573",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-84-2022",
+   "path": "local/iasi/movileni/2022/84",
+   "short": "HCL Movileni nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 84/2022 privind privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 905,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61320 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63574",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-85-2022",
+   "path": "local/iasi/movileni/2022/85",
+   "short": "HCL Movileni nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 85/2022 privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 905,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61321 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63575",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-86-2022",
+   "path": "local/iasi/movileni/2022/86",
+   "short": "HCL Movileni nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 86/2022 privind aprobarea concesionarii prin licitatie publică a suprafetei de teren curti constructii de 2260,00mp din domeniul privat al comunei Movileni,situat in intravilanul satului Iepureni , comuna Movileni, nr.cadastral :61337 ,teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/63576",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/63576",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-87-2022",
    "path": "local/iasi/movileni/2022/87",
    "short": "HCL Movileni nr. 87/2022",
@@ -1648,6 +2218,36 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/65897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-9-2022",
+   "path": "local/iasi/movileni/2022/9",
+   "short": "HCL Movileni nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 9/2022 privind inițierea procedurii de închiriere a pajiştilor permanente aflate în proprietatea privată a comunei Movileni , judeţul Iasi in anul 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/48648",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/48648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-90-2022",
+   "path": "local/iasi/movileni/2022/90",
+   "short": "HCL Movileni nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 90/2022 privind nominalizarea a 2 (doi) consilieri locali în Comisia de evaluare a ofertelor pentru licitația publică organizată în vederea concesionarii a 16 suprafețe de teren aflate în domeniul privat al comunei Movileni",
+   "url": "https://emol.ro/movileni-is/registru-hcl/65898",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/65898",
      "sha256": null
     }
    ]

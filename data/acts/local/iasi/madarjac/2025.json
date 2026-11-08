@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-iasi--madarjac-3-2025",
+"path": "local/iasi/madarjac/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 3/2025 privind numirea Corpului de lucru care să implementeze metodologia de evaluare ariscurilor de corupție",
+"short": "HCL Mădârjac nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-07",
+"latest": "2025-07-07",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/214374",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--madarjac-4-2025",
 "path": "local/iasi/madarjac/2025/4",
 "kind": "local",
@@ -198,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Mădârjac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-11-2025",
+"path": "local/iasi/madarjac/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 11/2025 privind inițierea procedurilor de închiriere a suprafețelor de imas din proprietatea privată a comunei Mădărjac, județul Iași",
+"short": "HCL Mădârjac nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-07",
+"latest": "2025-07-07",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/214470",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -576,6 +620,28 @@
 }
 },
 {
+"slug": "hcl-iasi--madarjac-29-2025",
+"path": "local/iasi/madarjac/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 29/2025 privind alegerea președintelui de ședință al Consiliului Local al Comunei Madarjac, județul Iași, care va conduce ședințele consiliului și va semna Hotărârile adoptate pentru perioada de 3 luni, începând cu luna mai 2025",
+"short": "HCL Mădârjac nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/230482",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--madarjac-30-2025",
 "path": "local/iasi/madarjac/2025/30",
 "kind": "local",
@@ -686,6 +752,28 @@
 }
 },
 {
+"slug": "hcl-iasi--madarjac-35-2025",
+"path": "local/iasi/madarjac/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 35/2025 privind alegerea președintelui de ședință al Consiliului Local al Comunei Mădârjac, județul Iași, care va conduce ședințele consiliului și va semna Hotărârile adoptate pentru perioada de 3 luni, începând cu luna August 2025",
+"short": "HCL Mădârjac nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-10",
+"latest": "2025-07-10",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/230856",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--madarjac-36-2025",
 "path": "local/iasi/madarjac/2025/36",
 "kind": "local",
@@ -771,6 +859,28 @@
 "council_name": "Consiliul Local al Comunei Mădârjac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-40-2025",
+"path": "local/iasi/madarjac/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 40/2025 privind actualizarea prețului/oră de închiriat buldoexcavator din dotarea primăriei în raport cu rata inflației și a creșterii prețului la combustibil",
+"short": "HCL Mădârjac nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-14",
+"latest": "2025-08-14",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/230872",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

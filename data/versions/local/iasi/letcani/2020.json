@@ -33,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--letcani-11-2020",
+   "path": "local/iasi/letcani/2020/11",
+   "short": "HCL Lețcani nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 11/2020 privind aprobarea contractării de la Banca Transilvania SA a Scrisorii de Garanție Bancară de bună execuție aferentă investiției „Înființare sistem de distribuție gaze naturale în localitățile Cogeasca și Cucuteni, aparținătoare comunei Lețcani, județul Iași” conform contract nr. 9/2019 încheiat între Comuna Lețcani și SC Delgaz Grid SA",
+   "url": "https://emol.ro/letcani-is/registru-hcl/2004",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/2004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-12-2020",
+   "path": "local/iasi/letcani/2020/12",
+   "short": "HCL Lețcani nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 12/2020 privind aprobarea bugetului local şi a listei de investiţii pe anul 2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/2005",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/2005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-13-2020",
+   "path": "local/iasi/letcani/2020/13",
+   "short": "HCL Lețcani nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 13/2020 privind modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Local al Comunei Lețcani în sensul utilizării mijloacelor electronice de comunicare, pe durata stării de urgență, în vederea prevenirii răspândirii infecțiilor respiratorii (Covid-19) cauzate de acest virus,",
+   "url": "https://emol.ro/letcani-is/registru-hcl/9512",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/9512",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--letcani-14-2020",
    "path": "local/iasi/letcani/2020/14",
    "short": "HCL Lețcani nr. 14/2020",
@@ -48,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--letcani-15-2020",
+   "path": "local/iasi/letcani/2020/15",
+   "short": "HCL Lețcani nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 15/2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/9514",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/9514",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--letcani-16-2020",
    "path": "local/iasi/letcani/2020/16",
    "short": "HCL Lețcani nr. 16/2020",
@@ -58,6 +118,126 @@
      "from": "2020-03-31",
      "units": 1,
      "source_url": "https://emol.ro/letcani-is/registru-hcl/9515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-17-2020",
+   "path": "local/iasi/letcani/2020/17",
+   "short": "HCL Lețcani nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 17/2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/9516",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/9516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-18-2020",
+   "path": "local/iasi/letcani/2020/18",
+   "short": "HCL Lețcani nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 18/2020 privind stabilire tarif orar pentru utilizare buldoexcavator",
+   "url": "https://emol.ro/letcani-is/registru-hcl/9548",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/9548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-19-2020",
+   "path": "local/iasi/letcani/2020/19",
+   "short": "HCL Lețcani nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 19/2020 privind aprobare acces pe domeniul public al comunei cu lucrările necesare în vederea realizării obiectivului de investiții „Alimentare cu energie electrică Stație de betoane” aparținând SC TERA BETON SRL, amplasată în sat Lețcani, comuna Lețcani, județul Iași",
+   "url": "https://emol.ro/letcani-is/registru-hcl/9549",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/9549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-2-2020",
+   "path": "local/iasi/letcani/2020/2",
+   "short": "HCL Lețcani nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 2/2020 privind aprobarea Planului de acţiuni şi lucrări de interes local",
+   "url": "https://emol.ro/letcani-is/registru-hcl/1995",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/1995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-20-2020",
+   "path": "local/iasi/letcani/2020/20",
+   "short": "HCL Lețcani nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 20/2020 privind alegere preşedinte de şedinţă",
+   "url": "https://emol.ro/letcani-is/registru-hcl/9550",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/9550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-21-2020",
+   "path": "local/iasi/letcani/2020/21",
+   "short": "HCL Lețcani nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 21/2020 privind acordarea mandatului special reprezentantului comunei Lețcani, județul Iași în AGA ADIS Iași în vederea aprobării modificării tarifului de colectare și transport a deșeurilor menajere și similare, altele decât reciclabile, în cadrul Proiectului „Sistem de Management Integrat al Deșeurilor din județul Iași” și împuternicirea Președintelui ADIS Iași să semneze Actul Adițional nr.3 la Contractul de delegare a gestiunii serviciului de colectare și transport a deșeurilor municipale în Județul Iași nr.357/30.10.2018",
+   "url": "https://emol.ro/letcani-is/registru-hcl/9551",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/9551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-22-2020",
+   "path": "local/iasi/letcani/2020/22",
+   "short": "HCL Lețcani nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 22/2020 privind actualizarea/modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr.36",
+   "url": "https://emol.ro/letcani-is/registru-hcl/9552",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/9552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-23-2020",
+   "path": "local/iasi/letcani/2020/23",
+   "short": "HCL Lețcani nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 23/2020 privind aprobarea rectificării bugetului local şi a listei de investiţii pe anul 2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/9553",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/9553",
      "sha256": null
     }
    ]
@@ -88,6 +268,36 @@
      "from": "2020-05-27",
      "units": 1,
      "source_url": "https://emol.ro/letcani-is/registru-hcl/9570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-26-2020",
+   "path": "local/iasi/letcani/2020/26",
+   "short": "HCL Lețcani nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 26/2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/9571",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/9571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-27-2020",
+   "path": "local/iasi/letcani/2020/27",
+   "short": "HCL Lețcani nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 27/2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/9572",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/9572",
      "sha256": null
     }
    ]
@@ -198,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--letcani-34-2020",
+   "path": "local/iasi/letcani/2020/34",
+   "short": "HCL Lețcani nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 34/2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/9602",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/9602",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--letcani-35-2020",
    "path": "local/iasi/letcani/2020/35",
    "short": "HCL Lețcani nr. 35/2020",
@@ -243,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--letcani-38-2020",
+   "path": "local/iasi/letcani/2020/38",
+   "short": "HCL Lețcani nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 38/2020 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 39",
+   "url": "https://emol.ro/letcani-is/registru-hcl/10515",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/10515",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--letcani-39-2020",
    "path": "local/iasi/letcani/2020/39",
    "short": "HCL Lețcani nr. 39/2020",
@@ -253,6 +493,21 @@
      "from": "2020-07-22",
      "units": 1,
      "source_url": "https://emol.ro/letcani-is/registru-hcl/10516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-4-2020",
+   "path": "local/iasi/letcani/2020/4",
+   "short": "HCL Lețcani nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 4/2020 privind aprobarea retelei scolare de pe raza administrativ-teritoriala a Comunei Letcani",
+   "url": "https://emol.ro/letcani-is/registru-hcl/1997",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/1997",
      "sha256": null
     }
    ]
@@ -283,6 +538,36 @@
      "from": "2020-07-22",
      "units": 1,
      "source_url": "https://emol.ro/letcani-is/registru-hcl/10519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-42-2020",
+   "path": "local/iasi/letcani/2020/42",
+   "short": "HCL Lețcani nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 42/2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/10520",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/10520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-43-2020",
+   "path": "local/iasi/letcani/2020/43",
+   "short": "HCL Lețcani nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 43/2020 privind alegere președinte de ședință",
+   "url": "https://emol.ro/letcani-is/registru-hcl/10518",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/10518",
      "sha256": null
     }
    ]
@@ -333,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--letcani-47-2020",
+   "path": "local/iasi/letcani/2020/47",
+   "short": "HCL Lețcani nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 47/2020 privind aprobare cerere Dascălu Ramona-Georgiana pentru cumpărare 400 mp teren, cu drept de preempțiune",
+   "url": "https://emol.ro/letcani-is/registru-hcl/10531",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/10531",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--letcani-48-2020",
    "path": "local/iasi/letcani/2020/48",
    "short": "HCL Lețcani nr. 48/2020",
@@ -343,6 +643,51 @@
      "from": "2020-08-28",
      "units": 1,
      "source_url": "https://emol.ro/letcani-is/registru-hcl/10532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-49-2020",
+   "path": "local/iasi/letcani/2020/49",
+   "short": "HCL Lețcani nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 49/2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/10533",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/10533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-5-2020",
+   "path": "local/iasi/letcani/2020/5",
+   "short": "HCL Lețcani nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 5/2020 privind acordare ajutor financiar d-rei Gribincea Ștefana",
+   "url": "https://emol.ro/letcani-is/registru-hcl/1998",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/1998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-50-2020",
+   "path": "local/iasi/letcani/2020/50",
+   "short": "HCL Lețcani nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 50/2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/10534",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/10534",
      "sha256": null
     }
    ]
@@ -373,6 +718,21 @@
      "from": "2020-08-28",
      "units": 1,
      "source_url": "https://emol.ro/letcani-is/registru-hcl/10536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-53-2020",
+   "path": "local/iasi/letcani/2020/53",
+   "short": "HCL Lețcani nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 53/2020",
+   "url": "https://emol.ro/letcani-is/registru-hcl/10582",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/10582",
      "sha256": null
     }
    ]
@@ -463,6 +823,21 @@
      "from": "2020-11-19",
      "units": 1,
      "source_url": "https://emol.ro/letcani-is/registru-hcl/12661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-6-2020",
+   "path": "local/iasi/letcani/2020/6",
+   "short": "HCL Lețcani nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 6/2020 privind alegere preşedinte de şedinţă",
+   "url": "https://emol.ro/letcani-is/registru-hcl/1999",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/1999",
      "sha256": null
     }
    ]
@@ -688,6 +1063,36 @@
      "from": "2020-12-21",
      "units": 1,
      "source_url": "https://emol.ro/letcani-is/registru-hcl/13334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-8-2020",
+   "path": "local/iasi/letcani/2020/8",
+   "short": "HCL Lețcani nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 8/2020 privind aprobarea modificărilor la Contractul de delegare a gestiunii serviciului public de alimentare cu apă şi canalizare nr.48/2009, prin Actul Adițional nr.35",
+   "url": "https://emol.ro/letcani-is/registru-hcl/2001",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/2001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-9-2020",
+   "path": "local/iasi/letcani/2020/9",
+   "short": "HCL Lețcani nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 9/2020 privind aprobarea contului de execuţie a bugetului local la data de 31.12.2019",
+   "url": "https://emol.ro/letcani-is/registru-hcl/2002",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/2002",
      "sha256": null
     }
    ]

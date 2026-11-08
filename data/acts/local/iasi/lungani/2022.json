@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-iasi--lungani-4-2022",
+"path": "local/iasi/lungani/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 4/2022 privind acordarea unor ajutoare de urgență",
+"short": "HCL Lungani nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://emol.ro/lungani-is/registru-hcl/51195",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--lungani-5-2022",
 "path": "local/iasi/lungani/2022/5",
 "kind": "local",
@@ -135,6 +157,51 @@
 }
 },
 {
+"slug": "hcl-iasi--lungani-8-2022",
+"path": "local/iasi/lungani/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 8/2022 privind aprobarea desemnării unui consilier local în Comisia de evaluare a probei de interviu, din cadrul Concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat din Comuna Lungani",
+"short": "HCL Lungani nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://emol.ro/lungani-is/registru-hcl/60925",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-9-2022",
+"path": "local/iasi/lungani/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 9/2022",
+"short": "HCL Lungani nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://emol.ro/lungani-is/registru-hcl/60926",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--lungani-10-2022",
 "path": "local/iasi/lungani/2022/10",
 "kind": "local",
@@ -154,6 +221,116 @@
 "council_name": "Consiliul Local al Comunei Lungani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-11-2022",
+"path": "local/iasi/lungani/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 11/2022 privind dezmembrarea imobilului-teren în suprafață de 1093 mp având numărul cadastral 60840 situat în intravilanul comunei Lungani, jud. Iași, în două loturi distincte",
+"short": "HCL Lungani nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://emol.ro/lungani-is/registru-hcl/60928",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-12-2022",
+"path": "local/iasi/lungani/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 12/2022 privind alegerea președintelui de ședință pentru perioada 23 Martie - 23 Iunie",
+"short": "HCL Lungani nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-23",
+"latest": "2022-03-23",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67735",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-13-2022",
+"path": "local/iasi/lungani/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 13/2022 privind acordarea unui ajutor de urgență",
+"short": "HCL Lungani nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-23",
+"latest": "2022-03-23",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67736",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-14-2022",
+"path": "local/iasi/lungani/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 14/2022 privind stabilirea domeniilor serviciilor publice și locurilor în care persoanele care au fost sancționate contravențional vor presta muncă neremunerată în folosul comunității, ca obligație stabilită de către instanța de judecată, în cadrul comunei Lungani, județul Iași",
+"short": "HCL Lungani nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-23",
+"latest": "2022-03-23",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67737",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-15-2022",
+"path": "local/iasi/lungani/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 15/2022 privind acordarea unor ajutoare de urgență",
+"short": "HCL Lungani nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67738",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -286,6 +463,138 @@
 "council_name": "Consiliul Local al Comunei Lungani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-22-2022",
+"path": "local/iasi/lungani/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 22/2022 privind trecerea unor suprafețe de teren din zonele de protecție aferente drumului județean DJ 282 E și drumului comunal DC 583 în domeniul public al comunei Lungani, județul Iași",
+"short": "HCL Lungani nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-12",
+"latest": "2022-05-12",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67752",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-23-2022",
+"path": "local/iasi/lungani/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 23/2022 privind aprobareaproiectului, a cheltuielilor aferente proiectului și a depunerii proiectului ,,Dezvoltarea infrastructurii pentru biciclete în comuna Lungani, județul Iași\" în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 10 - Fondul local",
+"short": "HCL Lungani nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-12",
+"latest": "2022-05-12",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67753",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-24-2022",
+"path": "local/iasi/lungani/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 24/2022 privind acordarea unor ajutoare de urgență",
+"short": "HCL Lungani nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-30",
+"latest": "2022-05-30",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67767",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-25-2022",
+"path": "local/iasi/lungani/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 25/2022 privind acordarea unor ajutoare de urgență",
+"short": "HCL Lungani nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-15",
+"latest": "2022-06-15",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67768",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-26-2022",
+"path": "local/iasi/lungani/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 26/2022 privind acordarea unor premii persoanelor care au împlinit vârsta de 100 de ani și au domiciliul pe raza comunei Lungani, județul Iași, Consiliul Local Lungani, întrunit în ședință ordinară în data de 15 Iunie 2022",
+"short": "HCL Lungani nr. 26/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-15",
+"latest": "2022-06-15",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67769",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-27-2022",
+"path": "local/iasi/lungani/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 27/2022 privind acordarea unor ajutoare de urgență",
+"short": "HCL Lungani nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-07",
+"latest": "2022-07-07",
+"portal": "https://emol.ro/lungani-is/registru-hcl/67916",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

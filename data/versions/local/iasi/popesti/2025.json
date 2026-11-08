@@ -3,6 +3,36 @@
  "shard": "local/iasi/popesti/2025",
  "acts": [
   {
+   "slug": "hcl-iasi--popesti-1-2025",
+   "path": "local/iasi/popesti/2025/1",
+   "short": "HCL Popești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 1/2025 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009 – consolidat 2021 cu modificările și completările ulterioare, prin Actul aditional nr. 8",
+   "url": "https://emol.ro/popesti-is/registru-hcl/189074",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/189074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-10-2025",
+   "path": "local/iasi/popesti/2025/10",
+   "short": "HCL Popești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 10/2025 privind aprobarea Proiectului Programului Anual de Achiziții Publice pe anul 2025, al comunei Popești, Jud. Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/192174",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/192174",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popesti-100-2025",
    "path": "local/iasi/popesti/2025/100",
    "short": "HCL Popești nr. 100/2025",
@@ -108,6 +138,231 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popesti-11-2025",
+   "path": "local/iasi/popesti/2025/11",
+   "short": "HCL Popești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 11/2025 privind aprobarea utilizării excedentului bugetar, al comunei Popesti, Jud. Iasi din anii anteriori și anul 2024, în anul 2025 în suma de 8.571.818,48 lei",
+   "url": "https://emol.ro/popesti-is/registru-hcl/192175",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/192175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-12-2025",
+   "path": "local/iasi/popesti/2025/12",
+   "short": "HCL Popești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 12/2025 privind alegerea viceprimarului comunei Popești, județul Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/192176",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/192176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-13-2025",
+   "path": "local/iasi/popesti/2025/13",
+   "short": "HCL Popești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 13/2025 privind aprobarea rezultatului inventarierii elementelor de natura activelor, datoriilor și capitalurilor proprii aflate în patrimoniul UAT Popești, Jud. Iași – Rezultate obținute în urma inventarierii încheiate la data de 31.12.2024",
+   "url": "https://emol.ro/popesti-is/registru-hcl/193784",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/193784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-14-2025",
+   "path": "local/iasi/popesti/2025/14",
+   "short": "HCL Popești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 14/2025 privind unele cheltuieli ale bugetului local",
+   "url": "https://emol.ro/popesti-is/registru-hcl/193785",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/193785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-15-2025",
+   "path": "local/iasi/popesti/2025/15",
+   "short": "HCL Popești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 15/2025 privind aprobarea sumei de 7.820 lei reprezentând ajutor de încălzire a locuinței, conform Dispoziției Primarului nr. 57/21.02.2025, care va fi solicitată și suportată de la bugetul de stat",
+   "url": "https://emol.ro/popesti-is/registru-hcl/199590",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/199590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-16-2025",
+   "path": "local/iasi/popesti/2025/16",
+   "short": "HCL Popești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 16/2025 privind aprobarea Contului de Execuție bugetara , conform art.49, alin. (12) și (13) din Legea nr. 273/2006 a finanțelor publice locale pe anul 2024",
+   "url": "https://emol.ro/popesti-is/registru-hcl/199591",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/199591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-17-2025",
+   "path": "local/iasi/popesti/2025/17",
+   "short": "HCL Popești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 17/2025 privind transformarea funcției contractuale de execuție de Bibliotecar , grad I ,din cadrul aparatului de specialitate al primarului comunei Popești, județul Iași, în Bibliotecar grad IA, în urma admiterii examenului de promovare în treapta imediat superioară a celei deținute, precum și aprobarea Statului de Funcții, începând cu data de 01.03.2025",
+   "url": "https://emol.ro/popesti-is/registru-hcl/199592",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/199592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-18-2025",
+   "path": "local/iasi/popesti/2025/18",
+   "short": "HCL Popești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 18/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/popesti-is/registru-hcl/199593",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/199593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-19-2025",
+   "path": "local/iasi/popesti/2025/19",
+   "short": "HCL Popești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 19/2025 privind aprobarea scoaterii din funcţiune şi casării unor mijloace de transport din parcul auto propriu al comunei Popești, județul Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/199594",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/199594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-2-2025",
+   "path": "local/iasi/popesti/2025/2",
+   "short": "HCL Popești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 2/2025 privind aprobarea sumei de 31.460 lei reprezentând ajutor de încălzire a locuinței, conform Dispoziției Primarului nr. 482/20.12.2024, care va fi solicitată și suportată de la bugetul de stat",
+   "url": "https://emol.ro/popesti-is/registru-hcl/189075",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/189075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-20-2025",
+   "path": "local/iasi/popesti/2025/20",
+   "short": "HCL Popești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 20/2025 privind aprobarea oportunității și necesității înființării Obiectivului de investiție Înființare variantă trafic greu în sat Popești, comuna Popești, județul Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/199595",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/199595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-21-2025",
+   "path": "local/iasi/popesti/2025/21",
+   "short": "HCL Popești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 21/2025 privind aprobarea bugetului de venituri și cheltuieli al UAT Popești pentru anul 2025",
+   "url": "https://emol.ro/popesti-is/registru-hcl/199596",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/199596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-22-2025",
+   "path": "local/iasi/popesti/2025/22",
+   "short": "HCL Popești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 22/2025 privind alegerea președintelui de ședințe a Consiliului Local Popești, județul Iași, pentru lunile mai, iunie și iulie an 2025",
+   "url": "https://emol.ro/popesti-is/registru-hcl/203630",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/203630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-23-2025",
+   "path": "local/iasi/popesti/2025/23",
+   "short": "HCL Popești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 23/2025 privind aprobarea sumei de 7.460 lei reprezentând ajutor de încălzire a locuinței, conform Dispoziției Primarului nr. 100/21.03.2025, care va fi solicitată și suportată de la bugetul de stat",
+   "url": "https://emol.ro/popesti-is/registru-hcl/203631",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/203631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-24-2025",
+   "path": "local/iasi/popesti/2025/24",
+   "short": "HCL Popești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 24/2025 privind aprobarea Actului Adițional pentru modificarea, completarea și actualizarea Statutului Asociaţiei Regionale a Serviciilor de Apă Canal Iaşi – ARSACIS",
+   "url": "https://emol.ro/popesti-is/registru-hcl/203632",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/203632",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popesti-25-2025",
    "path": "local/iasi/popesti/2025/25",
    "short": "HCL Popești nr. 25/2025",
@@ -118,6 +373,336 @@
      "from": "2025-04-28",
      "units": 1,
      "source_url": "https://emol.ro/popesti-is/registru-hcl/203633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-26-2025",
+   "path": "local/iasi/popesti/2025/26",
+   "short": "HCL Popești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 26/2025 privind aprobarea Caietului de sarcini reactualizat întocmit pentru realizarea obiectivului de investiție \"Înființare și dotare spațiu de joacă Hărpășești\"",
+   "url": "https://emol.ro/popesti-is/registru-hcl/203634",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/203634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-27-2025",
+   "path": "local/iasi/popesti/2025/27",
+   "short": "HCL Popești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 27/2025 privind aprobarea actualizării Statului de Funcții și a Organigramei aparatului de specialitate al Primarului Comunei Popești începând cu data de 01.05.2025",
+   "url": "https://emol.ro/popesti-is/registru-hcl/203635",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/203635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-28-2025",
+   "path": "local/iasi/popesti/2025/28",
+   "short": "HCL Popești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 28/2025 privind înființarea, organigrama și numărul de personal ale Serviciului Voluntar pentru Situații de Urgență de tip V2, prin reorganizare a serviciului de categoria V2 al comunei POPESTI județul Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/203636",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/203636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-29-2025",
+   "path": "local/iasi/popesti/2025/29",
+   "short": "HCL Popești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 29/2025 privind aprobarea oportunității și necesității înființării Obiectivului de investiție Reabilitare prin betonare serpentina dintre sat Popești și sat Doroșcani",
+   "url": "https://emol.ro/popesti-is/registru-hcl/203637",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/203637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-3-2025",
+   "path": "local/iasi/popesti/2025/3",
+   "short": "HCL Popești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 3/2025 privind constituirea Consiliului Comunitar Consultativ al comunei Popești, județul Iași și aprobarea Regulamentului de organizare și funcționare",
+   "url": "https://emol.ro/popesti-is/registru-hcl/189076",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/189076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-30-2025",
+   "path": "local/iasi/popesti/2025/30",
+   "short": "HCL Popești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 30/2025 privind participarea la Programul - cheie 1 : Surse regenerabile de energie și stocarea energiei, Fondul pentru Modernizare în România",
+   "url": "https://emol.ro/popesti-is/registru-hcl/207200",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/207200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-31-2025",
+   "path": "local/iasi/popesti/2025/31",
+   "short": "HCL Popești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 31/2025 privind externalizarea serviciilor de contabilitate din aparatul de specialitate al primarului comunei Popești, județul Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/207201",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/207201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-32-2025",
+   "path": "local/iasi/popesti/2025/32",
+   "short": "HCL Popești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 32/2025 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici în vederea depunerii, pentru obiectivul de investiții „MODERNIZAREA INFRASTRUCTURII ȘCOLARE PRIN DIGITALIZARE, INSTALAREA DE SISTEME ALTERNATIVE PENTRU PRODUCEREA ENERGIEI ȘI CREAREA DE FACILITĂȚI MODERNE PENTRU EDUCAȚIE ÎN COMUNA POPEȘTI, JUDEȚUL IAȘI” în cadrul Programului Regional 2021-2027, Prioritatea 6, apelul de proiecte nr. PR/NE/2024/6/RSO4.2/1/Învățământ Comune",
+   "url": "https://emol.ro/popesti-is/registru-hcl/207202",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/207202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-33-2025",
+   "path": "local/iasi/popesti/2025/33",
+   "short": "HCL Popești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 33/2025 privind necesitatea și oportunitatea înființării obiectivului de investiții „REABILITARE PRIN CONSOLIDARE SEISMICĂ A ȘCOLII ,,DIMITRIE STURDZA\" DIN COMUNA POPEȘTI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/popesti-is/registru-hcl/207203",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/207203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-34-2025",
+   "path": "local/iasi/popesti/2025/34",
+   "short": "HCL Popești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 34/2025 privind aprobarea indicatorilor economici pentru obiectivul de investiții „REABILITARE PRIN CONSOLIDARE SEISMICĂ A ȘCOLII ,,DIMITRIE STURDZA\" DIN COMUNA POPEȘTI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/popesti-is/registru-hcl/207204",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/207204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-35-2025",
+   "path": "local/iasi/popesti/2025/35",
+   "short": "HCL Popești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 35/2025 privind aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuire contractelor/acordurilor cadru pentru achiziția produselor aferente și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative Programului pentru școli a României pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/popesti-is/registru-hcl/209524",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/209524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-36-2025",
+   "path": "local/iasi/popesti/2025/36",
+   "short": "HCL Popești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 36/2025 privind aprobarea schimbării denumirii obiectivului de investiție „ASIGURAREA SCURGERII APELOR ȘI ACCESE LA PROPRIETĂȚI AFERENTE DC36 ÎN COMUNA POPEȘTI, JUDEȚUL IAȘI” în \" ASIGURAREA SCURGERII APELOR, ACCESE LA PROPRIETĂȚI, CÂT ȘI REABILITAREA A DOUĂ SECTOARE DE DRUM AFERENTE DC36 ÎN COMUNA POPEȘTI, JUDEȚUL IAȘI \"",
+   "url": "https://emol.ro/popesti-is/registru-hcl/209525",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/209525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-37-2025",
+   "path": "local/iasi/popesti/2025/37",
+   "short": "HCL Popești nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 37/2025 privind însușirea Acordului de cooperare pentru asigurarea suportului IT în vederea dezvoltării și gestionării Registrului Spațiilor Verzi",
+   "url": "https://emol.ro/popesti-is/registru-hcl/209526",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/209526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-38-2025",
+   "path": "local/iasi/popesti/2025/38",
+   "short": "HCL Popești nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 38/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli la nivel de an și Trim. II, an 2025, precum și modificarea Listei de investiții",
+   "url": "https://emol.ro/popesti-is/registru-hcl/209527",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/209527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-39-2025",
+   "path": "local/iasi/popesti/2025/39",
+   "short": "HCL Popești nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 39/2025 privind modificarea și completarea HCL 20/19.02.2020",
+   "url": "https://emol.ro/popesti-is/registru-hcl/209528",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/209528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-4-2025",
+   "path": "local/iasi/popesti/2025/4",
+   "short": "HCL Popești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 4/2025 privind alegerea președintelui de ședințe a Consiliului Local Popești, județul Iași, pentru lunile februarie, martie, și aprilie, an 2025",
+   "url": "https://emol.ro/popesti-is/registru-hcl/192168",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/192168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-40-2025",
+   "path": "local/iasi/popesti/2025/40",
+   "short": "HCL Popești nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 40/2025 privind modificarea art. 5 din HCL 31/13.05.2025",
+   "url": "https://emol.ro/popesti-is/registru-hcl/209529",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/209529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-41-2025",
+   "path": "local/iasi/popesti/2025/41",
+   "short": "HCL Popești nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 41/2025 privind aprobarea schimbării denumirii obiectivului de investiție „Construire Sală de sport în sat Hărpășești, comuna Popești, județul Iași” în \" Construire și dotare sală de sport aferentă școlii Gimnaziale din localitatea Hărpășești, comuna Popești, județul Iași \"",
+   "url": "https://emol.ro/popesti-is/registru-hcl/209530",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/209530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-42-2025",
+   "path": "local/iasi/popesti/2025/42",
+   "short": "HCL Popești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 42/2025 privind darea în folosință gratuită, către Școala Gimnazială Dimitrie Sturdza, Popești a bunurilor achiziționate prin proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași”, cod F-PNRR-Dotari-2023-0426, finanțat prin Planul Național de Redresare și Reziliență - Componenta C15 Educație, pentru perioada de implementare a Proiectului, Contract de furnizare nr. 26008/10.07.2024 - Lotul 4 Mobilier săli de clasă/săli grupă/conexe",
+   "url": "https://emol.ro/popesti-is/registru-hcl/212170",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/212170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-43-2025",
+   "path": "local/iasi/popesti/2025/43",
+   "short": "HCL Popești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 43/2025 privind aprobarea proiectului, a cheltuielilor legate de proiect și a indicatorilor tehnico-economici aferente obiectivului de investiții „CONSTRUIRE ȘI DOTARE SALĂ DE SPORT AFERENTĂ ȘCOLII GIMNAZIALE DIN LOCALITATEA HĂRPĂȘEȘTI COMUNA POPEȘTI, JUDEȚUL IAȘI ”,",
+   "url": "https://emol.ro/popesti-is/registru-hcl/213777",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/213777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-44-2025",
+   "path": "local/iasi/popesti/2025/44",
+   "short": "HCL Popești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 44/2025 privind alegerea președintelui de ședințe a Consiliului Local Popești, județul Iași, pentru ședința extraordinară din data de 27 iunie 2025, ora 10.00",
+   "url": "https://emol.ro/popesti-is/registru-hcl/214083",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/214083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-45-2025",
+   "path": "local/iasi/popesti/2025/45",
+   "short": "HCL Popești nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 45/2025 privind actualizarea documentației tehnico-economice și a indicatorilor tehnico-economici aprobați inițial prin HCL nr. 32 din 13.05.2025, pentru obiectivul de investiții „MODERNIZAREA INFRASTRUCTURII ȘCOLARE PRIN DIGITALIZARE, INSTALAREA DE SISTEME ALTERNATIVE PENTRU PRODUCEREA ENERGIEI ȘI CREAREA DE FACILITĂȚI MODERNE PENTRU EDUCAȚIE ÎN COMUNA POPEȘTI, JUDEȚUL IAȘI” în cadrul Programului Regional 2021-2027, Prioritatea 6, apelul de proiecte nr. PR/NE/2024/6/RSO4.2/1/Învățământ Comune",
+   "url": "https://emol.ro/popesti-is/registru-hcl/214084",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/214084",
      "sha256": null
     }
    ]
@@ -138,6 +723,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popesti-47-2025",
+   "path": "local/iasi/popesti/2025/47",
+   "short": "HCL Popești nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 47/2025 privind validarea și însușirea Dispoziţiei Primarului Comunei Popești nr. 196/02.06.2025 privind rectificarea bugetului local al Comunei Popești pe trimestrul II al anului 2025",
+   "url": "https://emol.ro/popesti-is/registru-hcl/214389",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/214389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-48-2025",
+   "path": "local/iasi/popesti/2025/48",
+   "short": "HCL Popești nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 48/2025 privind aprobarea și utilizarea consumului lunar de carburant pentru un tractor Belarus 820, aparținând parcului auto al Primăriei Popești, județul Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/214390",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/214390",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popesti-49-2025",
    "path": "local/iasi/popesti/2025/49",
    "short": "HCL Popești nr. 49/2025",
@@ -148,6 +763,216 @@
      "from": "2025-07-02",
      "units": 1,
      "source_url": "https://emol.ro/popesti-is/registru-hcl/214391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-5-2025",
+   "path": "local/iasi/popesti/2025/5",
+   "short": "HCL Popești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 5/2025 privind validarea Dispoziției nr. 10/09.01.2025 privind acoperirea definitivă din excedentul bugetului local al anilor precedenți a deficitului secțiunii de dezvoltare în suma de 1.429.215,48 lei, potrivit art. 58 alin. 1 lit. c din Legea 273/2006 privind finanțele publice locale",
+   "url": "https://emol.ro/popesti-is/registru-hcl/192169",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/192169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-50-2025",
+   "path": "local/iasi/popesti/2025/50",
+   "short": "HCL Popești nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 50/2025 privind aprobarea Proiectului tehnic de execuție, Caietele de sarcini , Detalii de execuție cât și a Devizului general pentru obiectivul de investiție \" ASIGURAREA SCURGERII APELOR, ACCESE LA PROPRIETĂȚI, CÂT ȘI REABILITAREA A DOUĂ SECTOARE DE DRUM AFERENTE DC36 ÎN COMUNA POPEȘTI, JUDEȚUL IAȘI \"",
+   "url": "https://emol.ro/popesti-is/registru-hcl/214392",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/214392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-51-2025",
+   "path": "local/iasi/popesti/2025/51",
+   "short": "HCL Popești nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 51/2025 privind Însușirea dispoziției de șantier nr. 1/17.12.2024 și aprobarea Actului adițional nr. 2/03.06.2025 încheiat pentru realizarea obiectivului de investiții „REABILITAREA MODERATĂ A DISPENSARULUI DIN COMUNA POPEȘTI, JUDEȚUL IAȘI”, aprobat la finanțare prin Planul Național de Redresare și Reziliență, în cadrul apelurilor de proiecte PNRR/2022/C10/I3, PNRR/2022/C10/I1.3, runda 1",
+   "url": "https://emol.ro/popesti-is/registru-hcl/214393",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/214393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-52-2025",
+   "path": "local/iasi/popesti/2025/52",
+   "short": "HCL Popești nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 52/2025 privind aprobarea Devizului General actualizat în urma Dispoziției de șantier nr.1 pentru obiectivul de investiții „REABILITAREA MODERATĂ A DISPENSARULUI DIN COMUNA POPEȘTI, JUDEȚUL IAȘI”, aprobat la finanțare prin Planul Național de Redresare și Reziliență, în cadrul apelurilor de proiecte PNRR/2022/C10/I3, PNRR/2022/C10/I1.3, runda 1",
+   "url": "https://emol.ro/popesti-is/registru-hcl/214394",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/214394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-53-2025",
+   "path": "local/iasi/popesti/2025/53",
+   "short": "HCL Popești nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 53/2025 privind alegerea președintelui de ședințe a Consiliului Local Popești, județul Iași, pentru ședința extraordinară din data de 11 iulie 2025, ora 09.00",
+   "url": "https://emol.ro/popesti-is/registru-hcl/216523",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/216523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-54-2025",
+   "path": "local/iasi/popesti/2025/54",
+   "short": "HCL Popești nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 54/2025 privind aprobarea Actului adițional nr. 3/02.07.2025 încheiat pentru realizarea obiectivului de investiții „REABILITAREA MODERATĂ A DISPENSARULUI DIN COMUNA POPEȘTI, JUDEȚUL IAȘI”, aprobat la finanțare prin Planul Național de Redresare și Reziliență, în cadrul apelurilor de proiecte PNRR/2022/C10/I3, PNRR/2022/C10/I1.3, runda 1",
+   "url": "https://emol.ro/popesti-is/registru-hcl/216524",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/216524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-55-2025",
+   "path": "local/iasi/popesti/2025/55",
+   "short": "HCL Popești nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 55/2025 privind aprobarea Devizului General actualizat pentru obiectivul de investiții „REABILITAREA MODERATĂ A DISPENSARULUI DIN COMUNA POPEȘTI, JUDEȚUL IAȘI”, aprobat la finanțare prin Planul Național de Redresare și Reziliență, în cadrul apelurilor de proiecte PNRR/2022/C10/I3, PNRR/2022/C10/I1.3, runda 1",
+   "url": "https://emol.ro/popesti-is/registru-hcl/216525",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/216525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-56-2025",
+   "path": "local/iasi/popesti/2025/56",
+   "short": "HCL Popești nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 56/2025 privind aprobarea Caietului de sarcini și a Devizului general pentru obiectivul de investiție \" Înființare variantă trafic greu în sat Popești, comuna Popești, județul Iași \"",
+   "url": "https://emol.ro/popesti-is/registru-hcl/216526",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/216526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-57-2025",
+   "path": "local/iasi/popesti/2025/57",
+   "short": "HCL Popești nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 57/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli la nivel de an și Trim. III, an 2025, precum și modificarea Listei de investiții",
+   "url": "https://emol.ro/popesti-is/registru-hcl/216527",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/216527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-58-2025",
+   "path": "local/iasi/popesti/2025/58",
+   "short": "HCL Popești nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 58/2025 privind completarea și atestarea inventarului bunurilor care alcătuiesc domeniul public al comunei Popești, județul lași, conform prevederilor OUG nr. 57/2019 privind Codul administrativ",
+   "url": "https://emol.ro/popesti-is/registru-hcl/219055",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/219055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-59-2025",
+   "path": "local/iasi/popesti/2025/59",
+   "short": "HCL Popești nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 59/2025 privind revocarea unor hotărâri privind darea în folosință gratuită a terenului aparținând domeniului privat al Comunei Popești , înscris în CF 60896, CF 608987 și CF 60898, către Parohia Popești ,în vederea construirii unui lăcaș de cult în sat Vama, Comuna Popești, Județul Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/219056",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/219056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-6-2025",
+   "path": "local/iasi/popesti/2025/6",
+   "short": "HCL Popești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 6/2025 privind aprobarea Planului de acțiuni comunitare destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2025 la nivelul Comunei Popești, județul Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/192170",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/192170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-60-2025",
+   "path": "local/iasi/popesti/2025/60",
+   "short": "HCL Popești nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 60/2025 privind atribuirea în folosință gratuită către Parohia \"Sf. Cuv. Teodora de la Sihla'', Vama , a terenului în suprafață totală de 13.763 mp, pe care este edificat un lăcaș de cult, situat în Sat Vama, Comuna Popești,Județul Iași aflat în proprietatea privată a Comunei Popești, Județul Iași, înscris în CF 60896, CF 60897 și CF 60898",
+   "url": "https://emol.ro/popesti-is/registru-hcl/219057",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/219057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-61-2025",
+   "path": "local/iasi/popesti/2025/61",
+   "short": "HCL Popești nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 61/2025 privind aprobarea transformării funcției publice de execuție de consilier, cl. I, grad profesional principal în funcția publica de execuție de consilier, cl. I, grad profesional superior din cadrul Compartimentului Evidență agricolă și cadastru din aparatul de specialitate al Primarului comunei Popești, în urma admiterii examenului de promovare în grad profesional, începând cu 01.08.2025, și aprobarea Statului de Funcții al aparatului de specialitate al primarului Comunei Popești, Jud. Iași, valabil de la 01.08.2025",
+   "url": "https://emol.ro/popesti-is/registru-hcl/219058",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/219058",
      "sha256": null
     }
    ]
@@ -168,6 +993,156 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popesti-63-2025",
+   "path": "local/iasi/popesti/2025/63",
+   "short": "HCL Popești nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 63/2025 privind alegerea președintelui de ședințe a Consiliului Local Popești, județul Iași, pentru lunile august, septembrie și octombrie, an 2025",
+   "url": "https://emol.ro/popesti-is/registru-hcl/219060",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/219060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-64-2025",
+   "path": "local/iasi/popesti/2025/64",
+   "short": "HCL Popești nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 64/2025 privind retragerea din Acordul de cooperare nr 400 din 02 iulie 2014 pentru exercitarea funcției de audit public intern în sistem de cooperare din cadrul Filialei Județene Iași a Asociației Comunelor din România",
+   "url": "https://emol.ro/popesti-is/registru-hcl/219061",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/219061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-65-2025",
+   "path": "local/iasi/popesti/2025/65",
+   "short": "HCL Popești nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 65/2025 privind exercitarea funcției de audit public intern în sistem de cooperare în cadrul Filialei Județene Iași a Asociației Comunelor din România",
+   "url": "https://emol.ro/popesti-is/registru-hcl/219062",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/219062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-66-2025",
+   "path": "local/iasi/popesti/2025/66",
+   "short": "HCL Popești nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 66/2025 privind aprobarea documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici pentru obiectivul de investiții „REABILITARE PRIN CONSOLIDARE SEISMICĂ A ȘCOLII ,,DIMITRIE STURDZA\" DIN COMUNA POPEȘTI, JUDEȚUL IAȘI”, aprobat pentru finanțare prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile de interes și utilitate publică",
+   "url": "https://emol.ro/popesti-is/registru-hcl/221128",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/221128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-67-2025",
+   "path": "local/iasi/popesti/2025/67",
+   "short": "HCL Popești nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 67/2025 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 9",
+   "url": "https://emol.ro/popesti-is/registru-hcl/222758",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/222758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-68-2025",
+   "path": "local/iasi/popesti/2025/68",
+   "short": "HCL Popești nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 68/2025 privind aprobarea oportunității și necesității înființării Obiectivului de investiție \"Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile pentru autoconsum pentru entitățile publice din comuna Popești, județul Iași\"",
+   "url": "https://emol.ro/popesti-is/registru-hcl/222759",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/222759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-69-2025",
+   "path": "local/iasi/popesti/2025/69",
+   "short": "HCL Popești nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 69/2025 privind aprobarea oportunității și necesității înființării Obiectivului de investiție \" EXTINDEREA SISTEMULUI DE ALIMENTARE CU APĂ ÎN COMUNA POPEȘTI, JUDEȚUL IAȘI\"",
+   "url": "https://emol.ro/popesti-is/registru-hcl/222760",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/222760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-7-2025",
+   "path": "local/iasi/popesti/2025/7",
+   "short": "HCL Popești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 7/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale pentru anul 2025 la nivelul Comunei Popești, județul Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/192171",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/192171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-70-2025",
+   "path": "local/iasi/popesti/2025/70",
+   "short": "HCL Popești nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 70/2025 privind aprobarea Devizului General inițial pentru obiectivul de investiții \" EXTINDEREA SISTEMULUI DE ALIMENTARE CU APĂ ÎN COMUNA POPEȘTI, JUDEȚUL IAȘI\"",
+   "url": "https://emol.ro/popesti-is/registru-hcl/222761",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/222761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-71-2025",
+   "path": "local/iasi/popesti/2025/71",
+   "short": "HCL Popești nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 71/2025 privind darea în folosință gratuită, către Școala Gimnazială Dimitrie Sturdza, Popești a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin Planul Naţional de Redresare şi Rezilienţă — Componenta C15 Educaţie, pentru perioada de implementare a Proiectului, respectiv prin Contractul de furnizare nr. 31022/21.08.2024 – Mobilier specific pentru cabinetele școlare (inclusiv cabinete consiliere și asistență psihopedagogică de sprijin, logopedice și alte terapii specifice etc) și Contractul de furnizare nr. 34450/17.09.2024 – Materiale specifice pentru cabinetele școlare (cabinete educație muzicală, săli de sport) – LOT 2 – Material didactic/pedagogic – săli de sport conexe",
+   "url": "https://emol.ro/popesti-is/registru-hcl/222762",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/222762",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popesti-72-2025",
    "path": "local/iasi/popesti/2025/72",
    "short": "HCL Popești nr. 72/2025",
@@ -183,6 +1158,81 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popesti-73-2025",
+   "path": "local/iasi/popesti/2025/73",
+   "short": "HCL Popești nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 73/2025 privind Perfectarea unui acord de parteneriat între UAT Comuna Popești prin Consiliul Local Popești și Asociația EcoAssist în vederea implementării inițiativei naționale de împădurire pe bază de voluntariat ,, Plantăm fapte bune în România\"",
+   "url": "https://emol.ro/popesti-is/registru-hcl/222764",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/222764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-74-2025",
+   "path": "local/iasi/popesti/2025/74",
+   "short": "HCL Popești nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 74/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli la nivel de an și Trim. III, an 2025, precum și modificarea Listei de investiții",
+   "url": "https://emol.ro/popesti-is/registru-hcl/222765",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/222765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-75-2025",
+   "path": "local/iasi/popesti/2025/75",
+   "short": "HCL Popești nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 75/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli la nivel de an și Trim. III, an 2025",
+   "url": "https://emol.ro/popesti-is/registru-hcl/224369",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/224369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-76-2025",
+   "path": "local/iasi/popesti/2025/76",
+   "short": "HCL Popești nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 76/2025 privind desemnarea consilierilor locali din Consiliul Local Popești pentru a face parte din Consiliul de Administrație și Comisia pentru asigurarea calității (C.E.A.C.) a Școlii Gimnaziale Dimitrie Sturdza, Popești în anul școlar 2025-2026",
+   "url": "https://emol.ro/popesti-is/registru-hcl/227333",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/227333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-77-2025",
+   "path": "local/iasi/popesti/2025/77",
+   "short": "HCL Popești nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 77/2025 privind reorganizarea Echipei mobile pentru intervenția de urgență în cazurile de violență domestică ,constituite conform Ordinului nr. 2525/2018 emis de Ministerul Muncii și Justiției Sociale",
+   "url": "https://emol.ro/popesti-is/registru-hcl/227334",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/227334",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popesti-78-2025",
    "path": "local/iasi/popesti/2025/78",
    "short": "HCL Popești nr. 78/2025",
@@ -193,6 +1243,141 @@
      "from": "2025-10-07",
      "units": 1,
      "source_url": "https://emol.ro/popesti-is/registru-hcl/227335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-79-2025",
+   "path": "local/iasi/popesti/2025/79",
+   "short": "HCL Popești nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 79/2025 privind aprobarea documentatiei de dezmembrare a unui imobil - teren, aparținând domeniului public, înscris în Cartea Funciară Popești , având numărul cadastral 61381",
+   "url": "https://emol.ro/popesti-is/registru-hcl/227336",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/227336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-8-2025",
+   "path": "local/iasi/popesti/2025/8",
+   "short": "HCL Popești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 8/2025 privind aprobarea sumei de 8.792 lei reprezentând ajutor de încălzire a locuinței, conform Dispoziției Primarului nr. 21/21.01.2025, care va fi solicitată și suportată de la bugetul de stat",
+   "url": "https://emol.ro/popesti-is/registru-hcl/192172",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/192172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-80-2025",
+   "path": "local/iasi/popesti/2025/80",
+   "short": "HCL Popești nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 80/2025 privind aprobarea noului amplasamentul pentru SPAU 1.1. Doroșcani din cadrul Proiectului Regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iași în perioada 2014-2020 , Contractul de lucrări IS-CL-06 Acordul Contractual nr. 194/03.08.2022, acord contractual nr. 194/03.08.2022, Extinderea sistemului de apă și canalizare în județul Iași - axa 4- Brăiești-Sinești-Popești",
+   "url": "https://emol.ro/popesti-is/registru-hcl/227337",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/227337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-81-2025",
+   "path": "local/iasi/popesti/2025/81",
+   "short": "HCL Popești nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 81/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli la nivel de an și Trim. III, an 2025",
+   "url": "https://emol.ro/popesti-is/registru-hcl/227338",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/227338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-82-2025",
+   "path": "local/iasi/popesti/2025/82",
+   "short": "HCL Popești nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 82/2025 privind modificarea art. 1 din HCL nr. 81/30.09.2025 privind rectificărea bugetului de venituri și cheltuieli la nivel de an și Trim. III, an 2025",
+   "url": "https://emol.ro/popesti-is/registru-hcl/228464",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/228464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-83-2025",
+   "path": "local/iasi/popesti/2025/83",
+   "short": "HCL Popești nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 83/2025 privind aprobarea împuternicirii UAT Județul Iași – Consiliul Județean Iași pentru includerea în proiectul ”ACHIZIȚIA DE MICROBUZE ELECTRICE PENTRU ELEVI ÎN JUD. IAȘI” finanțat prin Programul Național de Redresare și Reziliență - Componenta C15 Educație, Reforma 6, a UAT Comuna Popești - Consiliul Local al Comunei Popești, în vederea suplimentării numărului de microbuze în cadrul Contractului de Finanțare nr. 12001/12.09.2023 încheiat între Consiliul Județean Iași și Ministerul Educației",
+   "url": "https://emol.ro/popesti-is/registru-hcl/228779",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/228779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-84-2025",
+   "path": "local/iasi/popesti/2025/84",
+   "short": "HCL Popești nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 84/2025 privind alegerea președintelui de ședințe a Consiliului Local Popești, județul Iași, pentru lunile noiembrie, decembrie, an 2025 și ianuarie, an 2026",
+   "url": "https://emol.ro/popesti-is/registru-hcl/231675",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/231675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-85-2025",
+   "path": "local/iasi/popesti/2025/85",
+   "short": "HCL Popești nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 85/2025 privind modificarea și actualizarea Contractului de furnizare și/sau prestare a serviciului de alimentare cu apă și de canalizare și a Regulamentului Serviciului de alimentare cu apă și de canalizare APAVITAL SA, respectiv modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, consolidat 2021, prin Act Adițional nr.10",
+   "url": "https://emol.ro/popesti-is/registru-hcl/231676",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/231676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-86-2025",
+   "path": "local/iasi/popesti/2025/86",
+   "short": "HCL Popești nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 86/2025 privind validarea și însușirea Dispoziţiei Primarului Comunei Popești nr. 367/07.10.2025 privind rectificarea bugetului local al Comunei Popești pe trimestrul IV al anului 2025",
+   "url": "https://emol.ro/popesti-is/registru-hcl/231677",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/231677",
      "sha256": null
     }
    ]
@@ -238,6 +1423,21 @@
      "from": "2025-11-05",
      "units": 1,
      "source_url": "https://emol.ro/popesti-is/registru-hcl/231680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-9-2025",
+   "path": "local/iasi/popesti/2025/9",
+   "short": "HCL Popești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 9/2025 privind aprobarea Planului de Acțiuni și Lucrări de Interes Local pe anul 2025, ce vor fi executate de către persoanele apte de muncă beneficiare de ajutor de incluziune , conform Legii nr. 196/2016 privind venitul minim de incluziune, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/popesti-is/registru-hcl/192173",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/192173",
      "sha256": null
     }
    ]

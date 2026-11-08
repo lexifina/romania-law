@@ -179,6 +179,29 @@
 }
 },
 {
+"slug": "hcl-iasi--grajduri-9-2026",
+"path": "local/iasi/grajduri/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 9/2026",
+"short": "HCL Grajduri nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": null,
+"council": "iasi/grajduri",
+"council_name": "Consiliul Local al Comunei Grajduri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--grajduri-10-2026",
 "path": "local/iasi/grajduri/2026/10",
 "kind": "local",
@@ -330,6 +353,28 @@
 "council_name": "Consiliul Local al Comunei Grajduri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--grajduri-17-2026",
+"path": "local/iasi/grajduri/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 17/2026 HCL inchiriere locuinte",
+"short": "HCL Grajduri nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-18",
+"latest": "2026-06-18",
+"portal": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#123895",
+"council": "iasi/grajduri",
+"council_name": "Consiliul Local al Comunei Grajduri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -553,6 +598,50 @@
 }
 },
 {
+"slug": "hcl-iasi--grajduri-28-2026",
+"path": "local/iasi/grajduri/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 28/2026 HCL aprobare concesionare gaz",
+"short": "HCL Grajduri nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-01",
+"latest": "2026-09-01",
+"portal": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#128189",
+"council": "iasi/grajduri",
+"council_name": "Consiliul Local al Comunei Grajduri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--grajduri-29-2026",
+"path": "local/iasi/grajduri/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 29/2026 HCL aprobare documentatie concesionare gaz",
+"short": "HCL Grajduri nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-01",
+"latest": "2026-09-01",
+"portal": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#128620",
+"council": "iasi/grajduri",
+"council_name": "Consiliul Local al Comunei Grajduri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--grajduri-30-2026",
 "path": "local/iasi/grajduri/2026/30",
 "kind": "local",
@@ -594,6 +683,28 @@
 "council_name": "Consiliul Local al Comunei Grajduri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--grajduri-32-2026",
+"path": "local/iasi/grajduri/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 32/2026 HCL desemnare membri comisie concurs director scoala",
+"short": "HCL Grajduri nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-18",
+"latest": "2026-09-18",
+"portal": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#129118",
+"council": "iasi/grajduri",
+"council_name": "Consiliul Local al Comunei Grajduri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

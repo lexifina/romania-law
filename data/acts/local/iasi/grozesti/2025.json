@@ -3,6 +3,29 @@
 "shard": "local/iasi/grozesti/2025",
 "acts": [
 {
+"slug": "hcl-iasi--grozesti-1-2025",
+"path": "local/iasi/grozesti/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 1/2025",
+"short": "HCL Grozești nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-22",
+"latest": "2025-04-22",
+"portal": "https://emol.ro/grozesti-is/registru-hcl/196627",
+"council": "iasi/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--grozesti-2-2025",
 "path": "local/iasi/grozesti/2025/2",
 "kind": "local",
@@ -113,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-iasi--grozesti-7-2025",
+"path": "local/iasi/grozesti/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 7/2025 privind desemnarea consilierilor locali în cadrul comisiei de evaluare a performanțelor profesionale individuale ale Secretarului general al comunei Grozești pentru activitatea desfășurată în anul 2024",
+"short": "HCL Grozești nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-22",
+"latest": "2025-04-22",
+"portal": "https://emol.ro/grozesti-is/registru-hcl/196633",
+"council": "iasi/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--grozesti-8-2025",
 "path": "local/iasi/grozesti/2025/8",
 "kind": "local",
@@ -220,6 +265,28 @@
 "council_name": "Consiliul Local al Comunei Grozești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--grozesti-13-2025",
+"path": "local/iasi/grozesti/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 13/2025 privind aprobarea închirierii utilajului buldoexcavator MST și a autoutilitarei Ford Transit aflate în proprietatea privată a comunei Grozești, județul Iași, a Regulamentului privind modalitatea de închiriere și a taxei speciale de închiriere a utilajelor aflate în proprietatea privată a comunei Grozești, județul Iași",
+"short": "HCL Grozești nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/grozesti-is/registru-hcl/211976",
+"council": "iasi/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -462,6 +529,28 @@
 "council_name": "Consiliul Local al Comunei Grozești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--grozesti-25-2025",
+"path": "local/iasi/grozesti/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 25/2025 privind aprobarea închirierii autoutilitarei marca MAN aflată în proprietatea privată a comunei Grozești, județul Iași, a Regulamentului privind modalitatea de închiriere și a taxei speciale de închiriere a autoutilitarei aflate în proprietatea privată a comunei Grozești, județul Iași",
+"short": "HCL Grozești nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/grozesti-is/registru-hcl/231453",
+"council": "iasi/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

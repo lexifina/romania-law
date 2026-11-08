@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-10-2023",
+   "path": "local/iasi/movileni/2023/10",
+   "short": "HCL Movileni nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 10/2023 privind încetarea Contractului de concesiune nr. 3025 /28.03.2019",
+   "url": "https://emol.ro/movileni-is/registru-hcl/87439",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/87439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-100-2023",
+   "path": "local/iasi/movileni/2023/100",
+   "short": "HCL Movileni nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 100/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 797,00 mp. situat in intravilan comuna Movileni, T.63/1 -parcela P.504/3/19 nr.cadastral:62358 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118681",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-101-2023",
+   "path": "local/iasi/movileni/2023/101",
+   "short": "HCL Movileni nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 101/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 1307,00 mp. situat in intravilan comuna Movileni, T.40 -parcela P.315/7/1/3 nr.cadastral:62526 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118682",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-102-2023",
+   "path": "local/iasi/movileni/2023/102",
+   "short": "HCL Movileni nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 102/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 795 mp. situat in intravilan comuna Movileni, T.5 -parcela P.25/1/4 nr.cadastral:62260 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118683",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118683",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-103-2023",
    "path": "local/iasi/movileni/2023/103",
    "short": "HCL Movileni nr. 103/2023",
@@ -123,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-11-2023",
+   "path": "local/iasi/movileni/2023/11",
+   "short": "HCL Movileni nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 11/2023 privind modificarea art.1.2 a Contractului de concesiune nr. 1747 /01.06.2006",
+   "url": "https://emol.ro/movileni-is/registru-hcl/87440",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/87440",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-110-2023",
    "path": "local/iasi/movileni/2023/110",
    "short": "HCL Movileni nr. 110/2023",
@@ -138,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-111-2023",
+   "path": "local/iasi/movileni/2023/111",
+   "short": "HCL Movileni nr. 111/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 111/2023 privind aprobarea concesionarii prin licitatie publică a Iazului Izvoare 4 situat in sat Iepureni ,comuna Movileni, in suprafață totală de 37.535,00 mp,nr. cadastral :61398 ,proprietate privată a comunei Movileni pentru amenajare zonă de agrement",
+   "url": "https://emol.ro/movileni-is/registru-hcl/122906",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/122906",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-112-2023",
    "path": "local/iasi/movileni/2023/112",
    "short": "HCL Movileni nr. 112/2023",
@@ -148,6 +238,21 @@
      "from": "2023-10-11",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/122907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-113-2023",
+   "path": "local/iasi/movileni/2023/113",
+   "short": "HCL Movileni nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 113/2023 privind încetarea Contractului de concesiune nr. 2588 /10.06.2013",
+   "url": "https://emol.ro/movileni-is/registru-hcl/122908",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/122908",
      "sha256": null
     }
    ]
@@ -408,6 +513,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-13-2023",
+   "path": "local/iasi/movileni/2023/13",
+   "short": "HCL Movileni nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 13/2023 privind aprobarea decontarii cheltuielilor de transport pentru cadrele didactice din unitatea de învățământ Școala Gimnaziala Larga-Jijia, Comuna Movileni , judetul Iasi, aferente lunilor Noiembrie și Decembrie 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/87442",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/87442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-130-2023",
+   "path": "local/iasi/movileni/2023/130",
+   "short": "HCL Movileni nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 130/2023 privind încetarea Contractului de închiriere nr. 2339 /16.03.2021",
+   "url": "https://emol.ro/movileni-is/registru-hcl/125887",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/125887",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-131-2023",
    "path": "local/iasi/movileni/2023/131",
    "short": "HCL Movileni nr. 131/2023",
@@ -528,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-139-2023",
+   "path": "local/iasi/movileni/2023/139",
+   "short": "HCL Movileni nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 139/2023",
+   "url": "https://emol.ro/movileni-is/registru-hcl/128724",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/128724",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-14-2023",
    "path": "local/iasi/movileni/2023/14",
    "short": "HCL Movileni nr. 14/2023",
@@ -553,6 +703,21 @@
      "from": "2023-12-11",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/131434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-141-2023",
+   "path": "local/iasi/movileni/2023/141",
+   "short": "HCL Movileni nr. 141/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 141/2023 privind încetarea Contractului de concesiune nr. 1346 /25.08.1998",
+   "url": "https://emol.ro/movileni-is/registru-hcl/131435",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/131435",
      "sha256": null
     }
    ]
@@ -1113,6 +1278,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-25-2023",
+   "path": "local/iasi/movileni/2023/25",
+   "short": "HCL Movileni nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 25/2023 privind inițierea procedurii de închiriere a pajiştilor permanente aflate în proprietatea privată a comunei Movileni , judeţul Iasi in anul 2023",
+   "url": "https://emol.ro/movileni-is/registru-hcl/92856",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/92856",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-26-2023",
    "path": "local/iasi/movileni/2023/26",
    "short": "HCL Movileni nr. 26/2023",
@@ -1153,6 +1333,21 @@
      "from": "2023-03-31",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/95693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-29-2023",
+   "path": "local/iasi/movileni/2023/29",
+   "short": "HCL Movileni nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 29/2023 privind încetarea Contractului de închiriere nr. 2982 /01.04.2021",
+   "url": "https://emol.ro/movileni-is/registru-hcl/97788",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/97788",
      "sha256": null
     }
    ]
@@ -1218,6 +1413,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-33-2023",
+   "path": "local/iasi/movileni/2023/33",
+   "short": "HCL Movileni nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 33/2023 privind alegerea președintelui de ședintă al Consiliului local Movileni, pentru perioada aprilie ,mai și iunie 2023",
+   "url": "https://emol.ro/movileni-is/registru-hcl/97792",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/97792",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-34-2023",
    "path": "local/iasi/movileni/2023/34",
    "short": "HCL Movileni nr. 34/2023",
@@ -1273,6 +1483,21 @@
      "from": "2023-05-02",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/101239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-38-2023",
+   "path": "local/iasi/movileni/2023/38",
+   "short": "HCL Movileni nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 38/2023 privind menținerea comunei Movileni, Județul Iași la parteneriatul tip DLRC/LEADER a Asociației Grupul de Acțiune Locală Regiunea Rediu-Prăjeni",
+   "url": "https://emol.ro/movileni-is/registru-hcl/102326",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/102326",
      "sha256": null
     }
    ]
@@ -1458,6 +1683,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-5-2023",
+   "path": "local/iasi/movileni/2023/5",
+   "short": "HCL Movileni nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 5/2023 privind desemnarea a doi consilieri locali in Comisia de evaluare a performanțelor profesionale individuale ale secretarului -general al comunei Movileni ,județul Iasi pe anul 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/86180",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/86180",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-50-2023",
    "path": "local/iasi/movileni/2023/50",
    "short": "HCL Movileni nr. 50/2023",
@@ -1623,6 +1863,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-60-2023",
+   "path": "local/iasi/movileni/2023/60",
+   "short": "HCL Movileni nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 60/2023 privind alegerea președintelui de ședintă al Consiliului local Movileni, pentru perioada iulie ,august și septembrie 2023",
+   "url": "https://emol.ro/movileni-is/registru-hcl/111331",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/111331",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-61-2023",
    "path": "local/iasi/movileni/2023/61",
    "short": "HCL Movileni nr. 61/2023",
@@ -1723,6 +1978,531 @@
      "from": "2023-08-04",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/114269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-68-2023",
+   "path": "local/iasi/movileni/2023/68",
+   "short": "HCL Movileni nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 68/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 1005,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/230, nr.cadastral:62283 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118649",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-69-2023",
+   "path": "local/iasi/movileni/2023/69",
+   "short": "HCL Movileni nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 69/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 1211,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/229 nr.cadastral:62288 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118650",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-7-2023",
+   "path": "local/iasi/movileni/2023/7",
+   "short": "HCL Movileni nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 7/2023 privind încetarea Contractului de concesiune nr. 3022 /28.03.2019",
+   "url": "https://emol.ro/movileni-is/registru-hcl/87436",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/87436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-70-2023",
+   "path": "local/iasi/movileni/2023/70",
+   "short": "HCL Movileni nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 70/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 931,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/159 nr.cadastral:61309 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118651",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-71-2023",
+   "path": "local/iasi/movileni/2023/71",
+   "short": "HCL Movileni nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 71/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 930,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/72 nr.cadastral:61296 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118652",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-72-2023",
+   "path": "local/iasi/movileni/2023/72",
+   "short": "HCL Movileni nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 72/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 930,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/73 nr.cadastral:61295 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118653",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-73-2023",
+   "path": "local/iasi/movileni/2023/73",
+   "short": "HCL Movileni nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 73/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 1051,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/84 nr.cadastral:61258 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118654",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-74-2023",
+   "path": "local/iasi/movileni/2023/74",
+   "short": "HCL Movileni nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 74/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 1051,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/83 nr.cadastral:61259 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118655",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-75-2023",
+   "path": "local/iasi/movileni/2023/75",
+   "short": "HCL Movileni nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 75/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 1051,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/82 nr.cadastral:61260 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118656",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-76-2023",
+   "path": "local/iasi/movileni/2023/76",
+   "short": "HCL Movileni nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 76/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 934,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/140 nr.cadastral:61287 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118657",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-77-2023",
+   "path": "local/iasi/movileni/2023/77",
+   "short": "HCL Movileni nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 77/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 934,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/141 nr.cadastral:61286 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118658",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-78-2023",
+   "path": "local/iasi/movileni/2023/78",
+   "short": "HCL Movileni nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 78/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 934,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/145 nr.cadastral:61281 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118659",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-79-2023",
+   "path": "local/iasi/movileni/2023/79",
+   "short": "HCL Movileni nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 79/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 1130,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/99 nr.cadastral:61246 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118660",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-8-2023",
+   "path": "local/iasi/movileni/2023/8",
+   "short": "HCL Movileni nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 8/2023 privind încetarea Contractului de concesiune nr. 3023 /28.03.2019",
+   "url": "https://emol.ro/movileni-is/registru-hcl/87437",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/87437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-80-2023",
+   "path": "local/iasi/movileni/2023/80",
+   "short": "HCL Movileni nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 80/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 1113,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/96 nr.cadastral:61249 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118661",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-81-2023",
+   "path": "local/iasi/movileni/2023/81",
+   "short": "HCL Movileni nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 81/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 916,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/104 nr.cadastral:61217 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118662",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-82-2023",
+   "path": "local/iasi/movileni/2023/82",
+   "short": "HCL Movileni nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 82/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 916,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/107 nr.cadastral:61214 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118663",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-83-2023",
+   "path": "local/iasi/movileni/2023/83",
+   "short": "HCL Movileni nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 83/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 916,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/108 nr.cadastral:61213 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118664",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-84-2023",
+   "path": "local/iasi/movileni/2023/84",
+   "short": "HCL Movileni nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 84/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 966,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/109 nr.cadastral:61212 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118665",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-85-2023",
+   "path": "local/iasi/movileni/2023/85",
+   "short": "HCL Movileni nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 85/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 929,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/110 nr.cadastral:61211 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118666",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-86-2023",
+   "path": "local/iasi/movileni/2023/86",
+   "short": "HCL Movileni nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 86/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 900,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/206 nr.cadastral:61242 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118667",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-87-2023",
+   "path": "local/iasi/movileni/2023/87",
+   "short": "HCL Movileni nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 87/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 900,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/207 nr.cadastral:61241 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit”",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118668",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-88-2023",
+   "path": "local/iasi/movileni/2023/88",
+   "short": "HCL Movileni nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 88/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 900,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/208 nr.cadastral:61240 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118669",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-89-2023",
+   "path": "local/iasi/movileni/2023/89",
+   "short": "HCL Movileni nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 89/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 900,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/209 nr.cadastral:61239 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118670",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-9-2023",
+   "path": "local/iasi/movileni/2023/9",
+   "short": "HCL Movileni nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 9/2023 privind încetarea Contractului de concesiune nr. 3024 /28.03.2019",
+   "url": "https://emol.ro/movileni-is/registru-hcl/87438",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/87438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-90-2023",
+   "path": "local/iasi/movileni/2023/90",
+   "short": "HCL Movileni nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 90/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 903,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/185 nr.cadastral:61271 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118671",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-91-2023",
+   "path": "local/iasi/movileni/2023/91",
+   "short": "HCL Movileni nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 91/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 903,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/186 nr.cadastral:61272 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118672",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-92-2023",
+   "path": "local/iasi/movileni/2023/92",
+   "short": "HCL Movileni nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 92/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de de 910,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/187 nr.cadastral:61273 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118673",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-93-2023",
+   "path": "local/iasi/movileni/2023/93",
+   "short": "HCL Movileni nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 93/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 934,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/177 nr.cadastral:61276 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118674",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-94-2023",
+   "path": "local/iasi/movileni/2023/94",
+   "short": "HCL Movileni nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 94/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 933,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/185 nr.cadastral:61205 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118675",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-95-2023",
+   "path": "local/iasi/movileni/2023/95",
+   "short": "HCL Movileni nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 95/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 933,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/114 nr.cadastral:61207 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118676",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-96-2023",
+   "path": "local/iasi/movileni/2023/96",
+   "short": "HCL Movileni nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 96/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 933,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/111 nr.cadastral:61210 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118677",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-97-2023",
+   "path": "local/iasi/movileni/2023/97",
+   "short": "HCL Movileni nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 97/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 907,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/200 nr.cadastral:61227 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118678",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-98-2023",
+   "path": "local/iasi/movileni/2023/98",
+   "short": "HCL Movileni nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 98/2023 privind aprobarea concesionarii prin licitatie publică a suprafetei de 907,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/203 nr.cadastral:61230 , proprietate privata a comunei Movileni, judetul Iasi, pentru construire imobil de locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118679",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-99-2023",
+   "path": "local/iasi/movileni/2023/99",
+   "short": "HCL Movileni nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 99/2023 privind concesionarea suprafetei de 914,00 mp. situat in intravilan comuna Movileni, T.138 -parcela P.1723/3/204 nr.cadastral:61231 , proprietate privata a comunei Movileni, , judetul Iasi , teren ce se va folosi pentru construcție imobil locuit",
+   "url": "https://emol.ro/movileni-is/registru-hcl/118680",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/118680",
      "sha256": null
     }
    ]

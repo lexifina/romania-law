@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-10-2025",
+   "path": "local/iasi/ion-neculce/2025/10",
+   "short": "HCL Ion Neculce nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 10/2025 privind initierea procedurii de închiriere a păşunilor disponibile, în suprafaţă de 557,3106 ha, aflata în proprietatea privată a comunei Ion Neculce, Judetul Iasi",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/196435",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/196435",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-100-2025",
    "path": "local/iasi/ion-neculce/2025/100",
    "short": "HCL Ion Neculce nr. 100/2025",
@@ -58,6 +73,21 @@
      "from": "2025-11-13",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/234544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-103-2025",
+   "path": "local/iasi/ion-neculce/2025/103",
+   "short": "HCL Ion Neculce nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 103/2025",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/234545",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/234545",
      "sha256": null
     }
    ]
@@ -328,6 +358,21 @@
      "from": "2025-03-18",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/196437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-120-2025",
+   "path": "local/iasi/ion-neculce/2025/120",
+   "short": "HCL Ion Neculce nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 120/2025 privind alegerea preşedintelui de şedinţă a Consiliului Local Ion Neculce, Judetul Iasi, pentru o perioada de 3 luni (noiembrie, decembrie anul 2025 și ianuarie 2026)",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/234562",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/234562",
      "sha256": null
     }
    ]
@@ -783,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-2-2025",
+   "path": "local/iasi/ion-neculce/2025/2",
+   "short": "HCL Ion Neculce nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 2/2025",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/193480",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/193480",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-20-2025",
    "path": "local/iasi/ion-neculce/2025/20",
    "short": "HCL Ion Neculce nr. 20/2025",
@@ -883,6 +943,21 @@
      "from": "2025-04-14",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/202807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-27-2025",
+   "path": "local/iasi/ion-neculce/2025/27",
+   "short": "HCL Ion Neculce nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 27/2025 privind înlocuirea unui membru desemnat în comisia de evaluare a ofertelor în vederea atribuirii contractelor de închiriere a pajiştilor la art.9 din Hotărârea Consiliului Local nr. 10 din 27.02.2025 privind inițierea procedurii de închiriere a păşunilor disponibile, în suprafaţă de 557,3106 ha, aflata în proprietatea privată a comunei Ion Neculce, Judetul Iasi",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/202808",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/202808",
      "sha256": null
     }
    ]
@@ -993,6 +1068,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-34-2025",
+   "path": "local/iasi/ion-neculce/2025/34",
+   "short": "HCL Ion Neculce nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 34/2025 privind alegerea preşedintelui de şedinţă a Consiliului Local Ion Neculce, Judetul Iasi, pentru o perioada de 3 luni (mai, iunie, iulie)",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/208067",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/208067",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-35-2025",
    "path": "local/iasi/ion-neculce/2025/35",
    "short": "HCL Ion Neculce nr. 35/2025",
@@ -1063,6 +1153,21 @@
      "from": "2025-06-18",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/212763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-4-2025",
+   "path": "local/iasi/ion-neculce/2025/4",
+   "short": "HCL Ion Neculce nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 4/2025 privind alegerea preşedintelui de şedinţă a Consiliului Local Ion Neculce, Judetul Iasi, pentru o perioada de 3 luni (februarie, martie, aprilie)",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/196429",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/196429",
      "sha256": null
     }
    ]
@@ -1158,6 +1263,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-46-2025",
+   "path": "local/iasi/ion-neculce/2025/46",
+   "short": "HCL Ion Neculce nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 46/2025 privind aprobarea propunerii de efectuare a unui schimb de terenuri între SC SUINPROD SA și Comuna Ion Neculce",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/212770",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/212770",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-47-2025",
    "path": "local/iasi/ion-neculce/2025/47",
    "short": "HCL Ion Neculce nr. 47/2025",
@@ -1168,6 +1288,21 @@
      "from": "2025-07-08",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/215588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-48-2025",
+   "path": "local/iasi/ion-neculce/2025/48",
+   "short": "HCL Ion Neculce nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 48/2025",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/215589",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/215589",
      "sha256": null
     }
    ]
@@ -1233,6 +1368,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-52-2025",
+   "path": "local/iasi/ion-neculce/2025/52",
+   "short": "HCL Ion Neculce nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 52/2025",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/215593",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/215593",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-53-2025",
    "path": "local/iasi/ion-neculce/2025/53",
    "short": "HCL Ion Neculce nr. 53/2025",
@@ -1243,6 +1393,21 @@
      "from": "2025-07-08",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/215594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-54-2025",
+   "path": "local/iasi/ion-neculce/2025/54",
+   "short": "HCL Ion Neculce nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 54/2025 privind efectuarea unui schimb de terenuri între Comuna Ion Neculce și SC SUINPROD SA cu sediul în satul Traian, comuna Săboani, județul Neamț",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/215595",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/215595",
      "sha256": null
     }
    ]
@@ -1293,6 +1458,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-58-2025",
+   "path": "local/iasi/ion-neculce/2025/58",
+   "short": "HCL Ion Neculce nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 58/2025",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/215599",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/215599",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-59-2025",
    "path": "local/iasi/ion-neculce/2025/59",
    "short": "HCL Ion Neculce nr. 59/2025",
@@ -1303,6 +1483,21 @@
      "from": "2025-07-08",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/215600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-6-2025",
+   "path": "local/iasi/ion-neculce/2025/6",
+   "short": "HCL Ion Neculce nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 6/2025",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/196431",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/196431",
      "sha256": null
     }
    ]
@@ -1368,6 +1563,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-64-2025",
+   "path": "local/iasi/ion-neculce/2025/64",
+   "short": "HCL Ion Neculce nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 64/2025 privind revocarea Hotărârii Consiliului Local nr. 54/25.06.2025 privind efectuarea unui schimb de terenuri între Comuna Ion Neculce și SC SUINPROD SA cu sediul în satul Traian, comuna Săboani, județul Neamț",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/220900",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/220900",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-65-2025",
    "path": "local/iasi/ion-neculce/2025/65",
    "short": "HCL Ion Neculce nr. 65/2025",
@@ -1378,6 +1588,21 @@
      "from": "2025-08-13",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/220901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-66-2025",
+   "path": "local/iasi/ion-neculce/2025/66",
+   "short": "HCL Ion Neculce nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 66/2025",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/220902",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/220902",
      "sha256": null
     }
    ]
@@ -1398,6 +1623,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-68-2025",
+   "path": "local/iasi/ion-neculce/2025/68",
+   "short": "HCL Ion Neculce nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 68/2025 privind alegerea preşedintelui de şedinţă a Consiliului Local Ion Neculce, Judetul Iasi, pentru o perioada de 3 luni (august, septembrie, octombrie)",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/220904",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/220904",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-69-2025",
    "path": "local/iasi/ion-neculce/2025/69",
    "short": "HCL Ion Neculce nr. 69/2025",
@@ -1413,6 +1653,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-7-2025",
+   "path": "local/iasi/ion-neculce/2025/7",
+   "short": "HCL Ion Neculce nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 7/2025 privind desemnarea consilierilor locali din cadrul Consiliului local al comunei Ion Neculce care vor face parte din Comisia de evaluare a performantelor profesionale individuale ale Secretarului general al comunei Ion Neculce",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/196432",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/196432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-70-2025",
+   "path": "local/iasi/ion-neculce/2025/70",
+   "short": "HCL Ion Neculce nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 70/2025 privind rezilierea Contractului de închiriere nr.7207/27.07.2023, încheiat între comuna Ion Neculce și titularul de contract de închiriere Silva Clinic SRL, precum și încheierea unui contract de colaborare cu un executor judecătoresc pentru aplicarea procedurii de evacuare a imobilului închiriat și executare silită în vederea recuperării creanțelor ficale reprezentând plata redevenței și obligațiilor accesorii",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/221072",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/221072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-71-2025",
+   "path": "local/iasi/ion-neculce/2025/71",
+   "short": "HCL Ion Neculce nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 71/2025 privind rezilierea Contractului de închiriere nr.7205/27.07.2023, încheiat între comuna Ion Neculce și titularul de contract de închiriere Casa Damaj S.R.L, precum și încheierea unui contract de colaborare cu un executor judecătoresc pentru aplicarea procedurii de evacuare a imobilului închiriat și executare silită în vederea recuperării creanțelor ficale reprezentând plata redevenței și obligațiilor accesorii",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/221073",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/221073",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-72-2025",
    "path": "local/iasi/ion-neculce/2025/72",
    "short": "HCL Ion Neculce nr. 72/2025",
@@ -1423,6 +1708,21 @@
      "from": "2025-09-11",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/224184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-73-2025",
+   "path": "local/iasi/ion-neculce/2025/73",
+   "short": "HCL Ion Neculce nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 73/2025",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/224185",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/224185",
      "sha256": null
     }
    ]
@@ -1468,6 +1768,21 @@
      "from": "2025-09-11",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/224188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-77-2025",
+   "path": "local/iasi/ion-neculce/2025/77",
+   "short": "HCL Ion Neculce nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 77/2025",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/224189",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/224189",
      "sha256": null
     }
    ]
@@ -1548,6 +1863,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-82-2025",
+   "path": "local/iasi/ion-neculce/2025/82",
+   "short": "HCL Ion Neculce nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 82/2025",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/224194",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/224194",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-83-2025",
    "path": "local/iasi/ion-neculce/2025/83",
    "short": "HCL Ion Neculce nr. 83/2025",
@@ -1593,6 +1923,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-86-2025",
+   "path": "local/iasi/ion-neculce/2025/86",
+   "short": "HCL Ion Neculce nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 86/2025 privind Rectificarea Bugetului Local de Venituri și Cheltuieli al Comunei Ion Neculce",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/224198",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/224198",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-87-2025",
    "path": "local/iasi/ion-neculce/2025/87",
    "short": "HCL Ion Neculce nr. 87/2025",
@@ -1623,6 +1968,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-89-2025",
+   "path": "local/iasi/ion-neculce/2025/89",
+   "short": "HCL Ion Neculce nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 89/2025",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/228317",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/228317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-9-2025",
+   "path": "local/iasi/ion-neculce/2025/9",
+   "short": "HCL Ion Neculce nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 9/2025 privind aprobarea situației indicatorilor privind execuția bugetului local al comunei Ion Neculce, Județul Iași la data de 31.12.2024",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/196434",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/196434",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-90-2025",
    "path": "local/iasi/ion-neculce/2025/90",
    "short": "HCL Ion Neculce nr. 90/2025",
@@ -1633,6 +2008,36 @@
      "from": "2025-10-09",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/228318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-91-2025",
+   "path": "local/iasi/ion-neculce/2025/91",
+   "short": "HCL Ion Neculce nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 91/2025",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/228319",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/228319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-92-2025",
+   "path": "local/iasi/ion-neculce/2025/92",
+   "short": "HCL Ion Neculce nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 92/2025",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/228320",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/228320",
      "sha256": null
     }
    ]

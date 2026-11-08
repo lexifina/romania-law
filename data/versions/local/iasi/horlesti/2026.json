@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--horlesti-18-2026",
+   "path": "local/iasi/horlesti/2026/18",
+   "short": "HCL Horlești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 18/2026 Privind acordarea a trei recompense băneşti în sumă netă de 200 lei cuplului care a împlinit 50 de ani de la încheierea căsătoriei cu domiciliul stabil în comuna Horlesti, judetul Iasi",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/260321",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/260321",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--horlesti-19-2026",
    "path": "local/iasi/horlesti/2026/19",
    "short": "HCL Horlești nr. 19/2026",
@@ -328,6 +343,21 @@
      "from": "2026-03-30",
      "units": 1,
      "source_url": "https://emol.ro/horlesti-is/registru-hcl/260306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-30-2026",
+   "path": "local/iasi/horlesti/2026/30",
+   "short": "HCL Horlești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 30/2026",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/267400",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/267400",
      "sha256": null
     }
    ]
@@ -708,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--horlesti-54-2026",
+   "path": "local/iasi/horlesti/2026/54",
+   "short": "HCL Horlești nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 54/2026",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/273570",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/273570",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--horlesti-55-2026",
    "path": "local/iasi/horlesti/2026/55",
    "short": "HCL Horlești nr. 55/2026",
@@ -733,6 +778,21 @@
      "from": "2026-06-12",
      "units": 1,
      "source_url": "https://emol.ro/horlesti-is/registru-hcl/273572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-57-2026",
+   "path": "local/iasi/horlesti/2026/57",
+   "short": "HCL Horlești nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 57/2026 privind aprobarea ordinii de zi a şedinţei consiliului local",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/277883",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/277883",
      "sha256": null
     }
    ]
@@ -898,6 +958,21 @@
      "from": "2026-08-07",
      "units": 1,
      "source_url": "https://emol.ro/horlesti-is/registru-hcl/282659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-68-2026",
+   "path": "local/iasi/horlesti/2026/68",
+   "short": "HCL Horlești nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 68/2026",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/282660",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/282660",
      "sha256": null
     }
    ]
@@ -1078,6 +1153,21 @@
      "from": "2026-10-19",
      "units": 1,
      "source_url": "https://emol.ro/horlesti-is/registru-hcl/293800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-8-2026",
+   "path": "local/iasi/horlesti/2026/8",
+   "short": "HCL Horlești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 8/2026 Privind desemnarea consilierilor locali in Comisia pentru evaluarea performantelor profesionale a secretarului general al unităţii administrativ – teritoriale Horlești",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/260311",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/260311",
      "sha256": null
     }
    ]

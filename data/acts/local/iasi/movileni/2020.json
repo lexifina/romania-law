@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-iasi--movileni-2-2020",
+"path": "local/iasi/movileni/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 2/2020 privind aprobarea decontarii cheltuielilor de transport pentru cadrele didactice din unitatea de invatamant Scoala Gimnaziala Larga-Jijia, Comuna Movileni , judetul Iasi, aferente lunii Decembrie 2019",
+"short": "HCL Movileni nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/movileni-is/registru-hcl/80",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--movileni-3-2020",
 "path": "local/iasi/movileni/2020/3",
 "kind": "local",
@@ -91,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-iasi--movileni-6-2020",
+"path": "local/iasi/movileni/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 6/2020 privind aprobarea acordarii unui ajutor de urgenta",
+"short": "HCL Movileni nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/movileni-is/registru-hcl/84",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--movileni-7-2020",
 "path": "local/iasi/movileni/2020/7",
 "kind": "local",
@@ -135,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-iasi--movileni-9-2020",
+"path": "local/iasi/movileni/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 9/2020 privind rezilierea Contractului de inchiriere pentru suprafeţele de pajişti aflate în domeniul privat al comunei Movileni nr.1871/28.02.2019",
+"short": "HCL Movileni nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/movileni-is/registru-hcl/87",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--movileni-10-2020",
 "path": "local/iasi/movileni/2020/10",
 "kind": "local",
@@ -176,6 +242,50 @@
 "council_name": "Consiliul Local al Comunei Movileni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-12-2020",
+"path": "local/iasi/movileni/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 12/2020 privind rezilierea Contractului de concesiune nr.2666/17.06.2013 si restituirea sumelor încasate necuvenit",
+"short": "HCL Movileni nr. 12/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/movileni-is/registru-hcl/90",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-13-2020",
+"path": "local/iasi/movileni/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 13/2020 privind rezilierea Contractului de concesiune nr.2637/14.06.2013",
+"short": "HCL Movileni nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/movileni-is/registru-hcl/91",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -352,6 +462,28 @@
 "council_name": "Consiliul Local al Comunei Movileni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-22-2020",
+"path": "local/iasi/movileni/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 22/2020 privind aprobarea acordarii unui ajutor de urgență",
+"short": "HCL Movileni nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/movileni-is/registru-hcl/692",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -551,6 +683,28 @@
 "council_name": "Consiliul Local al Comunei Movileni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-32-2020",
+"path": "local/iasi/movileni/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 32/2020 privind Închirierea suprafețelor de pașune rămase neatribuite, crescătorilor de animale prin suplimentarea suprafețelor din contractele de închiriere în funcție de numărul animalelor înscrise în Registrul național al exploatațiilor",
+"short": "HCL Movileni nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/movileni-is/registru-hcl/790",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -903,6 +1057,28 @@
 "council_name": "Consiliul Local al Comunei Movileni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-49-2020",
+"path": "local/iasi/movileni/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 49/2020 privind aprobarea concesionarii terenului in suprafață de 3472mp, situat in intravilanul satului Movileni ,comuna Movileni,jud.Iasi ,Cvartal 18, în baza dreptului de preempțiune",
+"short": "HCL Movileni nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/2731",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1457,6 +1633,73 @@
 }
 },
 {
+"slug": "hcl-iasi--movileni-75-2020",
+"path": "local/iasi/movileni/2020/75",
+"kind": "local",
+"year": "2020",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 75/2020 privind desemnarea membrilor Comisiilor de specialitate a Consiliului local Movileni",
+"short": "HCL Movileni nr. 75/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-29",
+"latest": "2020-10-29",
+"portal": "https://emol.ro/movileni-is/registru-hcl/10706",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-76-2020",
+"path": "local/iasi/movileni/2020/76",
+"kind": "local",
+"year": "2020",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 76/2020 privind alegerea presedintelui de sedinta al Consiliului local Movileni, pentru perioada octombrie,noiembrie și decembrie 2020",
+"short": "HCL Movileni nr. 76/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-29",
+"latest": "2020-10-29",
+"portal": "https://emol.ro/movileni-is/registru-hcl/10707",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-77-2020",
+"path": "local/iasi/movileni/2020/77",
+"kind": "local",
+"year": "2020",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 77/2020",
+"short": "HCL Movileni nr. 77/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/movileni-is/registru-hcl/12537",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--movileni-78-2020",
 "path": "local/iasi/movileni/2020/78",
 "kind": "local",
@@ -1501,6 +1744,72 @@
 }
 },
 {
+"slug": "hcl-iasi--movileni-80-2020",
+"path": "local/iasi/movileni/2020/80",
+"kind": "local",
+"year": "2020",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 80/2020 privind .desemnarea reprezentantului comunei Movileni și a persoanelor care pot înlocui reprezentantul comunei Movileni în Adunarea Generală a Asociaților din cadrul Asociației Regionale a Serviciilor de Apă Canal - ARSACIS",
+"short": "HCL Movileni nr. 80/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/movileni-is/registru-hcl/12540",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-81-2020",
+"path": "local/iasi/movileni/2020/81",
+"kind": "local",
+"year": "2020",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 81/2020 privind privind desemnarea reprezentantului legal și a persoanei/persoanelor care pot înlocui reprezentantul legal al UAT Movileni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate A.D.I.S Iaşi",
+"short": "HCL Movileni nr. 81/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/movileni-is/registru-hcl/12541",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-82-2020",
+"path": "local/iasi/movileni/2020/82",
+"kind": "local",
+"year": "2020",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 82/2020 privind alegerea reprezentantilor Consiliului local Movileni în Consiliul de Administratie al Scolii Larga Jijia pentru anul scolar 2020-2021",
+"short": "HCL Movileni nr. 82/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/movileni-is/registru-hcl/12542",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--movileni-83-2020",
 "path": "local/iasi/movileni/2020/83",
 "kind": "local",
@@ -1520,6 +1829,28 @@
 "council_name": "Consiliul Local al Comunei Movileni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-84-2020",
+"path": "local/iasi/movileni/2020/84",
+"kind": "local",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 84/2020 privind alegerea reprezentantului Consiliului local Movileni in Comisia de asigurare a calitatii (CEAC) din cadrul Scolii Larga Jijia pentru anul scolar 2020-2021",
+"short": "HCL Movileni nr. 84/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/movileni-is/registru-hcl/12544",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1675,6 +2006,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--movileni-92-2020",
+"path": "local/iasi/movileni/2020/92",
+"kind": "local",
+"year": "2020",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 92/2020 privind alegerea viceprimarului comunei Movileni ,județul Iași",
+"short": "HCL Movileni nr. 92/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/movileni-is/registru-hcl/12552",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

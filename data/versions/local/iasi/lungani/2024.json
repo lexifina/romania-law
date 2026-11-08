@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-11-2024",
+   "path": "local/iasi/lungani/2024/11",
+   "short": "HCL Lungani nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 11/2024 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/172336",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/172336",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-12-2024",
    "path": "local/iasi/lungani/2024/12",
    "short": "HCL Lungani nr. 12/2024",
@@ -43,6 +58,51 @@
      "from": "2024-03-29",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/172337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-13-2024",
+   "path": "local/iasi/lungani/2024/13",
+   "short": "HCL Lungani nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 13/2024 privind modificarea HCL nr. 49/06.11.2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Lungani, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/lungani-is/registru-hcl/172338",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/172338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-14-2024",
+   "path": "local/iasi/lungani/2024/14",
+   "short": "HCL Lungani nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 14/2024 privind scoaterea din inventarul domeniului privat a suprafeței de 981 metri pătrați, suprafața ce aparține domeniului privat al Unității Administrativ-Teritoriale Comuna Lungani, jud. Iași, înscrisă în cartea funciară nr. 61125/2024 și punerea acesteia la dispoziția Comisiei pentru aplicarea legilor fondului funciar Lungani, în vederea punerii în executare a prevederilor sentinței civile nr. 1470/02.06.2009 pronunțată de către Judecătoria Pașcani în dosarul nr. 4479/866/2008, rămasă definitivă și irevocabilă prin Hotărârea nr. 2/19.01.2024 pronunțată de Tribunalul lași",
+   "url": "https://emol.ro/lungani-is/registru-hcl/172346",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/172346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-15-2024",
+   "path": "local/iasi/lungani/2024/15",
+   "short": "HCL Lungani nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 15/2024 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/178936",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/178936",
      "sha256": null
     }
    ]
@@ -63,6 +123,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-17-2024",
+   "path": "local/iasi/lungani/2024/17",
+   "short": "HCL Lungani nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 17/2024 privind modificarea poziției nr. 28 din inventarul cuprinzând bunurile care alcătuiesc domeniul privat al comunei Lungani, județul Iași, aprobat prin HCL nr. 41 din 06.10.2023",
+   "url": "https://emol.ro/lungani-is/registru-hcl/178938",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/178938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-18-2024",
+   "path": "local/iasi/lungani/2024/18",
+   "short": "HCL Lungani nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 18/2024 privind actualizare HCL nr. 45/27.10.2023",
+   "url": "https://emol.ro/lungani-is/registru-hcl/178972",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/178972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-19-2024",
+   "path": "local/iasi/lungani/2024/19",
+   "short": "HCL Lungani nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 19/2024 privind aprobarea actualizării documentației tehnico-economici - Studiu de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul ,,Înființarea și dotarea unei platforme pentru gestionarea gunoiului de grajd în comuna Lungani, județul Iași” aprobați inițial prin HCL nr. 46/27.10.2023",
+   "url": "https://emol.ro/lungani-is/registru-hcl/178973",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/178973",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-2-2024",
    "path": "local/iasi/lungani/2024/2",
    "short": "HCL Lungani nr. 2/2024",
@@ -78,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-20-2024",
+   "path": "local/iasi/lungani/2024/20",
+   "short": "HCL Lungani nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 20/2024 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/179125",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/179125",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-21-2024",
    "path": "local/iasi/lungani/2024/21",
    "short": "HCL Lungani nr. 21/2024",
@@ -88,6 +208,21 @@
      "from": "2024-05-31",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/179126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-25-2024",
+   "path": "local/iasi/lungani/2024/25",
+   "short": "HCL Lungani nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 25/2024 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/180116",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/180116",
      "sha256": null
     }
    ]
@@ -318,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-4-2024",
+   "path": "local/iasi/lungani/2024/4",
+   "short": "HCL Lungani nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 4/2024 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/172312",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/172312",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-40-2024",
    "path": "local/iasi/lungani/2024/40",
    "short": "HCL Lungani nr. 40/2024",
@@ -438,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-6-2024",
+   "path": "local/iasi/lungani/2024/6",
+   "short": "HCL Lungani nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 6/2024",
+   "url": "https://emol.ro/lungani-is/registru-hcl/172315",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/172315",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-7-2024",
    "path": "local/iasi/lungani/2024/7",
    "short": "HCL Lungani nr. 7/2024",
@@ -463,6 +628,21 @@
      "from": "2024-02-08",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/172319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-9-2024",
+   "path": "local/iasi/lungani/2024/9",
+   "short": "HCL Lungani nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 9/2024 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/172330",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/172330",
      "sha256": null
     }
    ]

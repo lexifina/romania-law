@@ -158,6 +158,50 @@
 }
 },
 {
+"slug": "hcl-iasi--ion-neculce-8-2026",
+"path": "local/iasi/ion-neculce/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 8/2026 privind inițierea procedurii de închiriere a păşunilor disponibile, în suprafaţă de 284,0864 ha, aflată în proprietatea privată a comunei Ion Neculce, Judetul Iași",
+"short": "HCL Ion Neculce nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/251806",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-9-2026",
+"path": "local/iasi/ion-neculce/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 9/2026 privind alegerea preşedintelui de şedinţă a Consiliului Local Ion Neculce, Judetul Iasi, pentru o perioada de 3 luni (februarie, martie, aprilie 2026)",
+"short": "HCL Ion Neculce nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/251807",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-10-2026",
 "path": "local/iasi/ion-neculce/2026/10",
 "kind": "local",
@@ -953,6 +997,28 @@
 }
 },
 {
+"slug": "hcl-iasi--ion-neculce-46-2026",
+"path": "local/iasi/ion-neculce/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 46/2026 privind alegerea preşedintelui de şedinţă a Consiliului Local Ion Neculce, Judetul Iasi, pentru o perioada de 3 luni (mai, iunie, iulie 2026)",
+"short": "HCL Ion Neculce nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-25",
+"latest": "2026-05-25",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/269075",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-47-2026",
 "path": "local/iasi/ion-neculce/2026/47",
 "kind": "local",
@@ -1525,6 +1591,50 @@
 }
 },
 {
+"slug": "hcl-iasi--ion-neculce-73-2026",
+"path": "local/iasi/ion-neculce/2026/73",
+"kind": "local",
+"year": "2026",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 73/2026 privind efectuarea unui raport de evaluare a unor imobile teren, în suprafață totală de 87.149 mp, situate în comuna Ion Neculce, în vederea concesionării",
+"short": "HCL Ion Neculce nr. 73/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/277453",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-74-2026",
+"path": "local/iasi/ion-neculce/2026/74",
+"kind": "local",
+"year": "2026",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 74/2026 privind efectuarea unui raport de evaluare a unor imobile teren, în suprafață totală de 87.149 mp, situate în comuna Ion Neculce, în vederea vânzării",
+"short": "HCL Ion Neculce nr. 74/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/277454",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-75-2026",
 "path": "local/iasi/ion-neculce/2026/75",
 "kind": "local",
@@ -1544,6 +1654,98 @@
 "council_name": "Consiliul Local al Comunei Ion Neculce",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-76-2026",
+"path": "local/iasi/ion-neculce/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 76/2026",
+"short": "HCL Ion Neculce nr. 76/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/277456",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-77-2026",
+"path": "local/iasi/ion-neculce/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 77/2026",
+"short": "HCL Ion Neculce nr. 77/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/277457",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-78-2026",
+"path": "local/iasi/ion-neculce/2026/78",
+"kind": "local",
+"year": "2026",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 78/2026",
+"short": "HCL Ion Neculce nr. 78/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/277458",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-79-2026",
+"path": "local/iasi/ion-neculce/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 79/2026",
+"short": "HCL Ion Neculce nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/277459",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1767,6 +1969,28 @@
 }
 },
 {
+"slug": "hcl-iasi--ion-neculce-90-2026",
+"path": "local/iasi/ion-neculce/2026/90",
+"kind": "local",
+"year": "2026",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 90/2026 privind însușirea raportului de evaluare ce stabileşte nivelul minim al redevenţei, pentru suprafaţa de 87.149 mp teren situat în Comuna Ion Neculce, satele Războieni, Prigoreni, Buznea și Gănești, în vederea concesionării",
+"short": "HCL Ion Neculce nr. 90/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/280646",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-91-2026",
 "path": "local/iasi/ion-neculce/2026/91",
 "kind": "local",
@@ -1811,6 +2035,28 @@
 }
 },
 {
+"slug": "hcl-iasi--ion-neculce-93-2026",
+"path": "local/iasi/ion-neculce/2026/93",
+"kind": "local",
+"year": "2026",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 93/2026 privind însușirea raportului de evaluare în vederea vânzării, a suprafaţei de 87.149 mp teren situat în Comuna Ion Neculce, satele Războieni, Prigoreni, Buznea și Gănești",
+"short": "HCL Ion Neculce nr. 93/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/280649",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--ion-neculce-94-2026",
 "path": "local/iasi/ion-neculce/2026/94",
 "kind": "local",
@@ -1831,6 +2077,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-95-2026",
+"path": "local/iasi/ion-neculce/2026/95",
+"kind": "local",
+"year": "2026",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 95/2026 privind alegerea preşedintelui de şedinţă a Consiliului Local Ion Neculce, Judetul Iasi, pentru o perioada de 3 luni (august, septembrie, octombrie 2026)",
+"short": "HCL Ion Neculce nr. 95/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/280651",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--ion-neculce-96-2026",
+"path": "local/iasi/ion-neculce/2026/96",
+"kind": "local",
+"year": "2026",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 96/2026 privind aprobarea Raportului Comisiei de analiză a solicitărilor privind stabilirea punctajului, a listei solicitanților care au acces la locuințe și a listei de prioritate, pentru locuințele destinate închirierii specialiștilor din sănătate și învățământ, din Blocul de locuințe nZEB plus finanțat în cadrul obiectivului de investiții „Construire locuințe de serviciu nZEB pentru specialiștii din sănătate și învățământ în sat Războieni, comuna Ion Neculce, județul Iași”, realizat prin Planul Național de Redresare și Reziliență - Contract de finanțare nr. 145574/22.12.2022, situat în sat Războieni, nr. cadastral 61607, comuna Ion Neculce, județul Iași",
+"short": "HCL Ion Neculce nr. 96/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-06",
+"latest": "2026-08-06",
+"portal": "https://emol.ro/ionneculce-is/registru-hcl/280652",
+"council": "iasi/ion-neculce",
+"council_name": "Consiliul Local al Comunei Ion Neculce",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

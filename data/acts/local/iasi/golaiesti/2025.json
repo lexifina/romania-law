@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-iasi--golaiesti-3-2025",
+"path": "local/iasi/golaiesti/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 3/2025 privind acordarea unui sprijin financiar către Parohia Medeleni din satul Medeleni, comuna Golăiești, în vederea edificării unei clopotnițe și a unei magazii pentru depozitare",
+"short": "HCL Golăiești nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/212890",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--golaiesti-4-2025",
 "path": "local/iasi/golaiesti/2025/4",
 "kind": "local",
@@ -91,6 +113,95 @@
 }
 },
 {
+"slug": "hcl-iasi--golaiesti-6-2025",
+"path": "local/iasi/golaiesti/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 6/2025 privind desemnarea președintelui de ședință pentru următoarele 3 luni",
+"short": "HCL Golăiești nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/212893",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-7-2025",
+"path": "local/iasi/golaiesti/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 7/2025 privind aprobarea raportului de evaluare a proprietății imobiliare, situate în intravilanul Comunei GOLĂIEȘTI, Judeţul Iaşi, în vederea exproprierii limitelor de proprietate",
+"short": "HCL Golăiești nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/212896",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-8-2025",
+"path": "local/iasi/golaiesti/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 8/2025 privind modificarea anexelor nr. 1 și 2 la HCL nr. 63/22.08.2024 privind aprobarea raportului de evaluare a proprietății imobiliare, situate în intravilanul Comunei GOLĂIEȘTI, Județul Iași, în vederea exproprierii limitelor de proprietate",
+"short": "HCL Golăiești nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/212898",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-9-2025",
+"path": "local/iasi/golaiesti/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 9/2025",
+"short": "HCL Golăiești nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/212899",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--golaiesti-10-2025",
 "path": "local/iasi/golaiesti/2025/10",
 "kind": "local",
@@ -110,6 +221,28 @@
 "council_name": "Consiliul Local al Comunei Golăiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-11-2025",
+"path": "local/iasi/golaiesti/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 11/2025 privind actualizarea indicatorilor tehnico-economici pentru proiectului de investiție: ”Construire piste pentru biciclete în Comuna GOLĂIEȘTI, Județul Iași”, în urma achizițiilor și introducerea cheltuielilor în buget privind exproprierea",
+"short": "HCL Golăiești nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/212901",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -334,6 +467,28 @@
 }
 },
 {
+"slug": "hcl-iasi--golaiesti-22-2025",
+"path": "local/iasi/golaiesti/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 22/2025 privind aprobarea rapoartelor de evaluare a proprietăților imobiliare, situate în intravilanul Comunei GOLĂIEȘTI, Județul Iași, în vederea exproprierii limitelor de proprietate",
+"short": "HCL Golăiești nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/212923",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--golaiesti-23-2025",
 "path": "local/iasi/golaiesti/2025/23",
 "kind": "local",
@@ -466,6 +621,29 @@
 }
 },
 {
+"slug": "hcl-iasi--golaiesti-30-2025",
+"path": "local/iasi/golaiesti/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 30/2025",
+"short": "HCL Golăiești nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/212935",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--golaiesti-31-2025",
 "path": "local/iasi/golaiesti/2025/31",
 "kind": "local",
@@ -485,6 +663,28 @@
 "council_name": "Consiliul Local al Comunei Golăiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-32-2025",
+"path": "local/iasi/golaiesti/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 32/2025 privind aprobarea actului adițional nr. 3 la Contractul de concesionare nr. 1594/28.04.2010",
+"short": "HCL Golăiești nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/212937",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -554,6 +754,29 @@
 }
 },
 {
+"slug": "hcl-iasi--golaiesti-36-2025",
+"path": "local/iasi/golaiesti/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 36/2025",
+"short": "HCL Golăiești nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/212941",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--golaiesti-37-2025",
 "path": "local/iasi/golaiesti/2025/37",
 "kind": "local",
@@ -595,6 +818,51 @@
 "council_name": "Consiliul Local al Comunei Golăiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-39-2025",
+"path": "local/iasi/golaiesti/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 39/2025 privind aprobarea dezmembrării unor imobile înscrise în domeniu public al Unității Administrativ-Teritoriale Golăiești",
+"short": "HCL Golăiești nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/252249",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-40-2025",
+"path": "local/iasi/golaiesti/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 40/2025",
+"short": "HCL Golăiești nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/252295",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -666,6 +934,28 @@
 }
 },
 {
+"slug": "hcl-iasi--golaiesti-44-2025",
+"path": "local/iasi/golaiesti/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 44/2025 privind aprobarea încheierii actelor adiționale la contractele de concesiune și închiriere aflate în derulare încheiate fără clauza de garanție",
+"short": "HCL Golăiești nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/252303",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--golaiesti-45-2025",
 "path": "local/iasi/golaiesti/2025/45",
 "kind": "local",
@@ -710,6 +1000,50 @@
 }
 },
 {
+"slug": "hcl-iasi--golaiesti-47-2025",
+"path": "local/iasi/golaiesti/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 47/2025 privind darea în folosință a suprafeței de 4000 mp teren și dreptul de a dispune în mod gratuit pentru organizare de șantier, în vederea execuției lucrărilor proiectului „Extindere rețea de alimentare cu apa si canalizare in comuna Golăiești, județul Iași” în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 1 – Managementul apei",
+"short": "HCL Golăiești nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-23",
+"latest": "2026-02-23",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/254278",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-48-2025",
+"path": "local/iasi/golaiesti/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 48/2025 ANULAT",
+"short": "HCL Golăiești nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/254279",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--golaiesti-49-2025",
 "path": "local/iasi/golaiesti/2025/49",
 "kind": "local",
@@ -729,6 +1063,28 @@
 "council_name": "Consiliul Local al Comunei Golăiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-50-2025",
+"path": "local/iasi/golaiesti/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 50/2025 privind desemnarea președintelui de ședință pentru următoarele 3 luni",
+"short": "HCL Golăiești nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-23",
+"latest": "2026-02-23",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/254289",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -773,6 +1129,96 @@
 "council_name": "Consiliul Local al Comunei Golăiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-53-2025",
+"path": "local/iasi/golaiesti/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 53/2025 privind aprobarea actualizării Programului Anual al Achizițiilor Publice al Comunei Golăiești pe anul 2025",
+"short": "HCL Golăiești nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-23",
+"latest": "2026-02-23",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/254301",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-54-2025",
+"path": "local/iasi/golaiesti/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 54/2025",
+"short": "HCL Golăiești nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/254302",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-55-2025",
+"path": "local/iasi/golaiesti/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 55/2025",
+"short": "HCL Golăiești nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-23",
+"latest": "2026-02-23",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/254303",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-56-2025",
+"path": "local/iasi/golaiesti/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 56/2025 privind aprobarea executării lucrărilor de construire a unui gard aferent procedurii de expropriere pentru proiectul „Construire piste pentru biciclete în Comuna Golăiești, Județul Iași” și a sumelor necesare",
+"short": "HCL Golăiești nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/254304",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -883,6 +1329,28 @@
 "council_name": "Consiliul Local al Comunei Golăiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-62-2025",
+"path": "local/iasi/golaiesti/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 62/2025 privind aprobarea închirierii, prin licitație cu plic închis, a spațiului în suprafață de 109,7 mp cu destinație spațiu cazare, amplasat în incinta Centrului de zi pentru copii, situat în sat Golăiești, comuna Golăiești, județul Iași",
+"short": "HCL Golăiești nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-23",
+"latest": "2026-02-23",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/254310",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1084,6 +1552,28 @@
 }
 },
 {
+"slug": "hcl-iasi--golaiesti-72-2025",
+"path": "local/iasi/golaiesti/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 72/2025 privind completarea și actualizarea Hotărârii nr. 62/20.08.2025 privind aprobarea închirierii, prin licitație cu plic închis, a spațiului în suprafață de 109,7 mp cu destinație spațiu cazare, amplasat în incinta Centrului de zi pentru copii, situat în sat Golăiești, comuna Golăiești, județul Iași",
+"short": "HCL Golăiești nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/254320",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--golaiesti-73-2025",
 "path": "local/iasi/golaiesti/2025/73",
 "kind": "local",
@@ -1128,6 +1618,28 @@
 }
 },
 {
+"slug": "hcl-iasi--golaiesti-75-2025",
+"path": "local/iasi/golaiesti/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 75/2025 privind acordarea unui sprijin financiar către Parohia ”Sfânta Cuvioasă Parascheva” din satul Golăiești, comuna Golăiești în vederea achitării lucrărilor de racordare la rețeaua de canalizare a casei parohiale",
+"short": "HCL Golăiești nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/254323",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--golaiesti-76-2025",
 "path": "local/iasi/golaiesti/2025/76",
 "kind": "local",
@@ -1147,6 +1659,28 @@
 "council_name": "Consiliul Local al Comunei Golăiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-77-2025",
+"path": "local/iasi/golaiesti/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 77/2025 privind desemnarea a doi consilieri locali în cadrul Consiliului de administrație al Școlii Gimnaziale Golăiești – comuna Golăiești, județul Iași",
+"short": "HCL Golăiești nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-23",
+"latest": "2026-02-23",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/254325",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1301,6 +1835,28 @@
 "council_name": "Consiliul Local al Comunei Golăiești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--golaiesti-85-2025",
+"path": "local/iasi/golaiesti/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golăiești nr. 85/2025 privind desemnarea președintelui de ședință pentru următoarele 3 luni",
+"short": "HCL Golăiești nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-23",
+"latest": "2026-02-23",
+"portal": "https://emol.ro/golaiesti-is/registru-hcl/254333",
+"council": "iasi/golaiesti",
+"council_name": "Consiliul Local al Comunei Golăiești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

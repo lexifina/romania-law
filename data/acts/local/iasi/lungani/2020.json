@@ -3,6 +3,74 @@
 "shard": "local/iasi/lungani/2020",
 "acts": [
 {
+"slug": "hcl-iasi--lungani-1-2020",
+"path": "local/iasi/lungani/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 1/2020",
+"short": "HCL Lungani nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-10",
+"latest": "2020-01-10",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28762",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--lungani-2-2020",
+"path": "local/iasi/lungani/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 2/2020",
+"short": "HCL Lungani nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-10",
+"latest": "2020-01-10",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28763",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--lungani-3-2020",
+"path": "local/iasi/lungani/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 3/2020 privind aprobarea salariilor de bază pentru aparatul de specialitate al primarului comunie Lungani, județul Iași, în conformitate cu prevederile Legii nr. 153 din 2017 privind salarizarea personalului plătit din fonduri publice",
+"short": "HCL Lungani nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28764",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--lungani-4-2020",
 "path": "local/iasi/lungani/2020/4",
 "kind": "local",
@@ -22,6 +90,28 @@
 "council_name": "Consiliul Local al Comunei Lungani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-5-2020",
+"path": "local/iasi/lungani/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 5/2020 privind revocarea hotărârii nr. 77/2019, pentru aprobarea metodologiei de eliberare a Acordului de funcționare pentru agenții economici care desfășoară activități de comerț și servicii de piață pe raza comunei Lungani",
+"short": "HCL Lungani nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28766",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +159,50 @@
 }
 },
 {
+"slug": "hcl-iasi--lungani-8-2020",
+"path": "local/iasi/lungani/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 8/2020 privind acordarea unui ajutor de urgență unui număr de 11 persoane",
+"short": "HCL Lungani nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28769",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-9-2020",
+"path": "local/iasi/lungani/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 9/2020 privind acordarea unui premiu în sumă netă de 500 lei",
+"short": "HCL Lungani nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28770",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--lungani-10-2020",
 "path": "local/iasi/lungani/2020/10",
 "kind": "local",
@@ -113,6 +247,29 @@
 }
 },
 {
+"slug": "hcl-iasi--lungani-12-2020",
+"path": "local/iasi/lungani/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 12/2020",
+"short": "HCL Lungani nr. 12/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-10",
+"latest": "2020-04-10",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28773",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--lungani-13-2020",
 "path": "local/iasi/lungani/2020/13",
 "kind": "local",
@@ -132,6 +289,28 @@
 "council_name": "Consiliul Local al Comunei Lungani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-14-2020",
+"path": "local/iasi/lungani/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 14/2020 privind acordarea unor ajutoare de urgență",
+"short": "HCL Lungani nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-10",
+"latest": "2020-04-10",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28775",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -224,6 +403,28 @@
 }
 },
 {
+"slug": "hcl-iasi--lungani-19-2020",
+"path": "local/iasi/lungani/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 19/2020 privind respingerea proiectului de hotărâre pentru derularea contractelor de închiriere a pășunii din patrimoniul Unității Administrativ Teritoriale Lungani, județul Iași ca urmare a necesității actualizării legislative",
+"short": "HCL Lungani nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-14",
+"latest": "2020-05-14",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28780",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--lungani-20-2020",
 "path": "local/iasi/lungani/2020/20",
 "kind": "local",
@@ -291,6 +492,141 @@
 }
 },
 {
+"slug": "hcl-iasi--lungani-23-2020",
+"path": "local/iasi/lungani/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 23/2020 privind acordarea unui ajutor de urgență",
+"short": "HCL Lungani nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28784",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-24-2020",
+"path": "local/iasi/lungani/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 24/2020 privind acordarea unui premiu în sumă netă de 500 lei, de la bugetul local pe anul 2020, cuplurilor care au împlinit 50 de ani de căsătorie neîntreruptă",
+"short": "HCL Lungani nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28785",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-25-2020",
+"path": "local/iasi/lungani/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 25/2020",
+"short": "HCL Lungani nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28786",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--lungani-26-2020",
+"path": "local/iasi/lungani/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 26/2020 privind revocarea hotărârii Consiliului Local Lungani nr. 25/30.06.2020",
+"short": "HCL Lungani nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-09",
+"latest": "2020-07-09",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28787",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-27-2020",
+"path": "local/iasi/lungani/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 27/2020",
+"short": "HCL Lungani nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-09",
+"latest": "2020-07-09",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28788",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--lungani-28-2020",
+"path": "local/iasi/lungani/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 28/2020",
+"short": "HCL Lungani nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-09",
+"latest": "2020-07-09",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28789",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--lungani-29-2020",
 "path": "local/iasi/lungani/2020/29",
 "kind": "local",
@@ -310,6 +646,50 @@
 "council_name": "Consiliul Local al Comunei Lungani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--lungani-30-2020",
+"path": "local/iasi/lungani/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 30/2020 privind acordarea unor ajutoare de urgență",
+"short": "HCL Lungani nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28791",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--lungani-31-2020",
+"path": "local/iasi/lungani/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lungani nr. 31/2020 privind alegerea unui nou președinte de ședință pentru o perioadă de maximum 3 luni, începând cu data de 19.08.2020",
+"short": "HCL Lungani nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-19",
+"latest": "2020-08-19",
+"portal": "https://emol.ro/lungani-is/registru-hcl/28809",
+"council": "iasi/lungani",
+"council_name": "Consiliul Local al Comunei Lungani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

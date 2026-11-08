@@ -198,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--halaucesti-21-2022",
+   "path": "local/iasi/halaucesti/2022/21",
+   "short": "HCL Hălăucești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 21/2022",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/63927",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/63927",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--halaucesti-22-2022",
    "path": "local/iasi/halaucesti/2022/22",
    "short": "HCL Hălăucești nr. 22/2022",
@@ -538,6 +553,21 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/halaucesti-is/registru-hcl/63332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-6-2022",
+   "path": "local/iasi/halaucesti/2022/6",
+   "short": "HCL Hălăucești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 6/2022 privind închirierea suprafetei de 15 mp teren din vecinătatea Căminului Cultural Hălăucești (T.1, CC21) pentru amplasarea unui chioșc alimentar",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/63333",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/63333",
      "sha256": null
     }
    ]

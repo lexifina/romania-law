@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popesti-10-2021",
+   "path": "local/iasi/popesti/2021/10",
+   "short": "HCL Popești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 10/2021",
+   "url": "https://emol.ro/popesti-is/registru-hcl/41369",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/41369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-11-2021",
+   "path": "local/iasi/popesti/2021/11",
+   "short": "HCL Popești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 11/2021",
+   "url": "https://emol.ro/popesti-is/registru-hcl/41370",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/41370",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popesti-12-2021",
    "path": "local/iasi/popesti/2021/12",
    "short": "HCL Popești nr. 12/2021",
@@ -43,6 +73,21 @@
      "from": "2021-01-21",
      "units": 1,
      "source_url": "https://emol.ro/popesti-is/registru-hcl/41372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-14-2021",
+   "path": "local/iasi/popesti/2021/14",
+   "short": "HCL Popești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 14/2021 privind aprobarea procesului verbal al sedintei ordinare a Consiliului local din 21 ianuarie 2021",
+   "url": "https://emol.ro/popesti-is/registru-hcl/41376",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/41376",
      "sha256": null
     }
    ]

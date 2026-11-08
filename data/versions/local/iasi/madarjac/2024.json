@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--madarjac-10-2024",
+   "path": "local/iasi/madarjac/2024/10",
+   "short": "HCL Mădârjac nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 10/2024",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/150046",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/150046",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-11-2024",
    "path": "local/iasi/madarjac/2024/11",
    "short": "HCL Mădârjac nr. 11/2024",
@@ -103,6 +118,36 @@
      "from": "2024-05-16",
      "units": 1,
      "source_url": "https://emol.ro/madarjac-is/registru-hcl/156362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-17-2024",
+   "path": "local/iasi/madarjac/2024/17",
+   "short": "HCL Mădârjac nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 17/2024",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/162848",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/162848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-18-2024",
+   "path": "local/iasi/madarjac/2024/18",
+   "short": "HCL Mădârjac nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 18/2024",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/162849",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/162849",
      "sha256": null
     }
    ]
@@ -333,6 +378,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--madarjac-32-2024",
+   "path": "local/iasi/madarjac/2024/32",
+   "short": "HCL Mădârjac nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 32/2024",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/162863",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/162863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-33-2024",
+   "path": "local/iasi/madarjac/2024/33",
+   "short": "HCL Mădârjac nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 33/2024 privind majorarea indemnizației Primarului Comunei Mădârjac cu 5% nivelul acordat pentru luna decembrie 2023, începând cu data de 1.06.2024 conform prevederilor O.U.G nr.115/14.12.2023 și respectiv majorarea indemnizației Viceprimarului Comunei cu 10% conform prevederilor O.U.G nr.115/14.12.2023, coroborat cu prevederile O.U.G nr.35/23.5.2024",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/162864",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/162864",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-34-2024",
    "path": "local/iasi/madarjac/2024/34",
    "short": "HCL Mădârjac nr. 34/2024",
@@ -403,6 +478,21 @@
      "from": "2024-09-27",
      "units": 1,
      "source_url": "https://emol.ro/madarjac-is/registru-hcl/170271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-39-2024",
+   "path": "local/iasi/madarjac/2024/39",
+   "short": "HCL Mădârjac nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 39/2024 privind propunerea de evaluare a imobilului unde funcționează dispensarul Comunei Mădărjac și respectiv a dotărilor aferente, în vederea concesionării ( încheieri) unor spații către o serie de persoane juridice pentru desfășurarea unor activități medicale si sau conexe actelor medicale și contractelor unei societăți acreditate în domeniu",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/170272",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/170272",
      "sha256": null
     }
    ]

@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--grozesti-16-2024",
+   "path": "local/iasi/grozesti/2024/16",
+   "short": "HCL Grozești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 16/2024 privind aprobare documentației de alipire a unor terenuri situate în comuna Grozești, județul Iași",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/170422",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/170422",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--grozesti-17-2024",
    "path": "local/iasi/grozesti/2024/17",
    "short": "HCL Grozești nr. 17/2024",
@@ -718,6 +733,21 @@
      "from": "2024-12-23",
      "units": 1,
      "source_url": "https://emol.ro/grozesti-is/registru-hcl/196573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grozesti-6-2024",
+   "path": "local/iasi/grozesti/2024/6",
+   "short": "HCL Grozești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 6/2024 privind desemnarea consilierilor locali în cadrul comisiei de evaluare a performantelor profesionale individuale ale Secretarului general al comunei Grozești pentru activitatea desfășurată în anul 2023",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/170210",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/170210",
      "sha256": null
     }
    ]

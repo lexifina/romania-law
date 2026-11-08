@@ -3,6 +3,21 @@
  "shard": "local/iasi/madarjac/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--madarjac-1-2020",
+   "path": "local/iasi/madarjac/2020/1",
+   "short": "HCL Mădârjac nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 1/2020 privind alegerea unui nou preşedinte de şedinţă",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/5516",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/5516",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-10-2020",
    "path": "local/iasi/madarjac/2020/10",
    "short": "HCL Mădârjac nr. 10/2020",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--madarjac-13-2020",
+   "path": "local/iasi/madarjac/2020/13",
+   "short": "HCL Mădârjac nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 13/2020 privind stabilirea indemnizatiilor pentru demnitarii publici , a salariilor de baza pentru functionarii publici si a personalului contractual din cadrul aparatului de specialitate al primarului incepand cu data de 01.02.2020",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/5531",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/5531",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-14-2020",
    "path": "local/iasi/madarjac/2020/14",
    "short": "HCL Mădârjac nr. 14/2020",
@@ -58,6 +88,21 @@
      "from": "2020-02-25",
      "units": 1,
      "source_url": "https://emol.ro/madarjac-is/registru-hcl/5532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-15-2020",
+   "path": "local/iasi/madarjac/2020/15",
+   "short": "HCL Mădârjac nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 15/2020 privind privind instituirea unei taxe de salubritate la operatorii economici de pe raza comunei Madarjac",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/5533",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/5533",
      "sha256": null
     }
    ]
@@ -78,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--madarjac-17-2020",
+   "path": "local/iasi/madarjac/2020/17",
+   "short": "HCL Mădârjac nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 17/2020 privind radierea din evidentele fiscale a unor debite restante",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/5541",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/5541",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-18-2020",
    "path": "local/iasi/madarjac/2020/18",
    "short": "HCL Mădârjac nr. 18/2020",
@@ -93,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--madarjac-19-2020",
+   "path": "local/iasi/madarjac/2020/19",
+   "short": "HCL Mădârjac nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 19/2020",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/5543",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/5543",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-2-2020",
    "path": "local/iasi/madarjac/2020/2",
    "short": "HCL Mădârjac nr. 2/2020",
@@ -103,6 +178,66 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/madarjac-is/registru-hcl/5517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-20-2020",
+   "path": "local/iasi/madarjac/2020/20",
+   "short": "HCL Mădârjac nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 20/2020 privind actualizarea/modificarea si completarea contractului de delegare a gestiunii serviciilor publice de alimentare cu apa si canalizare nr.48/2009 prin actul aditional nr.36",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/5544",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/5544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-21-2020",
+   "path": "local/iasi/madarjac/2020/21",
+   "short": "HCL Mădârjac nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 21/2020 privind inteprinderea unor masuri in vederea exploatarii in conditii corespunzatoare a pasunilor comunale in anul 2020, inchirierea unor suprafete de pajisti comunale precum si stabilirea taxelor de pasune pentru anul 2020pestru islazurile ramase neinchiriate",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/5545",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/5545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-22-2020",
+   "path": "local/iasi/madarjac/2020/22",
+   "short": "HCL Mădârjac nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 22/2020 privind alegerea unui nou preşedinte de şedinţă",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/5546",
+   "versions": [
+    {
+     "from": "2020-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/5546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-23-2020",
+   "path": "local/iasi/madarjac/2020/23",
+   "short": "HCL Mădârjac nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 23/2020",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/5547",
+   "versions": [
+    {
+     "from": "2020-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/5547",
      "sha256": null
     }
    ]
@@ -168,6 +303,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--madarjac-28-2020",
+   "path": "local/iasi/madarjac/2020/28",
+   "short": "HCL Mădârjac nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 28/2020",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/5552",
+   "versions": [
+    {
+     "from": "2020-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/5552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-29-2020",
+   "path": "local/iasi/madarjac/2020/29",
+   "short": "HCL Mădârjac nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 29/2020 privind radierea din evidentele fiscale ale primariei a sumei de 1846 lei, reprezentand debite provenite din amenzi pentru un numar de 3(trei) debitori insolvabili",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/5553",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/5553",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-3-2020",
    "path": "local/iasi/madarjac/2020/3",
    "short": "HCL Mădârjac nr. 3/2020",
@@ -178,6 +343,21 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/madarjac-is/registru-hcl/5518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-30-2020",
+   "path": "local/iasi/madarjac/2020/30",
+   "short": "HCL Mădârjac nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 30/2020",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/5554",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/5554",
      "sha256": null
     }
    ]
@@ -213,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--madarjac-33-2020",
+   "path": "local/iasi/madarjac/2020/33",
+   "short": "HCL Mădârjac nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 33/2020 privind radierea din evidentele fiscale ale primariei a sumei de 428,65 lei privind pe debitorul restant CRACIUN E. ALEXANDRU – ANDREI – medic stomatolog",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/29833",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/29833",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-34-2020",
    "path": "local/iasi/madarjac/2020/34",
    "short": "HCL Mădârjac nr. 34/2020",
@@ -223,6 +418,21 @@
      "from": "2020-06-24",
      "units": 1,
      "source_url": "https://emol.ro/madarjac-is/registru-hcl/29834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-35-2020",
+   "path": "local/iasi/madarjac/2020/35",
+   "short": "HCL Mădârjac nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 35/2020 privind alegerea unui nou preşedinte de şedinţă",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/29835",
+   "versions": [
+    {
+     "from": "2020-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/29835",
      "sha256": null
     }
    ]
@@ -343,6 +553,21 @@
      "from": "2020-09-15",
      "units": 1,
      "source_url": "https://emol.ro/madarjac-is/registru-hcl/29847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-43-2020",
+   "path": "local/iasi/madarjac/2020/43",
+   "short": "HCL Mădârjac nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 43/2020 privind inchirierea unui microbuz pentru asigurarea transportului elevilor din satul Frumusica la Scoala Gimnaziala Madarjac;",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/29848",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/29848",
      "sha256": null
     }
    ]

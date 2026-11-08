@@ -245,6 +245,74 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-12-2025",
+"path": "local/iasi/horlesti/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 12/2025 Privind desemnarea consilierilor locali in Comisia pentru evaluarea performantelor profesionale a secretarului general al unităţii administrativ – teritoriale Horlești",
+"short": "HCL Horlești nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/198182",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-13-2025",
+"path": "local/iasi/horlesti/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 13/2025",
+"short": "HCL Horlești nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/198183",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-14-2025",
+"path": "local/iasi/horlesti/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 14/2025",
+"short": "HCL Horlești nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/198184",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-15-2025",
 "path": "local/iasi/horlesti/2025/15",
 "kind": "local",
@@ -462,6 +530,52 @@
 "council_name": "Consiliul Local al Comunei Horlești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-25-2025",
+"path": "local/iasi/horlesti/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 25/2025",
+"short": "HCL Horlești nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/198199",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-26-2025",
+"path": "local/iasi/horlesti/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 26/2025",
+"short": "HCL Horlești nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/198200",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -773,6 +887,28 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-41-2025",
+"path": "local/iasi/horlesti/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 41/2025 privind aprobarea modificării și completării Hotărârii Consiliului Local nr. 24 din 31.03.2023 pentru închirierea prin atribuire directă a trupurilor de pășune ce aparțin domeniului privat al comunei Horlești, județul Iași",
+"short": "HCL Horlești nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/211708",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-42-2025",
 "path": "local/iasi/horlesti/2025/42",
 "kind": "local",
@@ -948,6 +1084,28 @@
 "council_name": "Consiliul Local al Comunei Horlești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-50-2025",
+"path": "local/iasi/horlesti/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 50/2025 privind modificărea și completărea Hotărârii Consiliului Local nr. 24 din 31.03.2023 pentru închirierea prin atribuire direct a trupurilor de pășune ce aparțin domeniului privat al comunei Horlești, județul Iași",
+"short": "HCL Horlești nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-12",
+"latest": "2025-08-12",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/220570",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1172,6 +1330,28 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-61-2025",
+"path": "local/iasi/horlesti/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 61/2025 Privind acordarea unei recompense băneşti în sumă netă de 200 lei cuplului care a împlinit 50 de ani de la încheierea căsătoriei cu domiciliul stabil în comuna Horlesti, judetul Iasi",
+"short": "HCL Horlești nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-12",
+"latest": "2025-08-12",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/220914",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-62-2025",
 "path": "local/iasi/horlesti/2025/62",
 "kind": "local",
@@ -1304,6 +1484,28 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-68-2025",
+"path": "local/iasi/horlesti/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 68/2025 privind modificarea Hotărârii Consiliului Local nr. 115 din 29.11.2024 pentru concesionarea prin licitație publică a spațiului cu destinația de cabinet medical în vederea desfășurării de activități medicină de familie",
+"short": "HCL Horlești nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-20",
+"latest": "2025-08-20",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/221439",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-69-2025",
 "path": "local/iasi/horlesti/2025/69",
 "kind": "local",
@@ -1367,6 +1569,29 @@
 "council_name": "Consiliul Local al Comunei Horlești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-72-2025",
+"path": "local/iasi/horlesti/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 72/2025",
+"short": "HCL Horlești nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/221443",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1480,6 +1705,28 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-78-2025",
+"path": "local/iasi/horlesti/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 78/2025 Privind desemnarea unui consilier local in Comisia de licitație a spațiului cu destinația cabinet medical- medicină de familie",
+"short": "HCL Horlești nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/236407",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-79-2025",
 "path": "local/iasi/horlesti/2025/79",
 "kind": "local",
@@ -1546,6 +1793,28 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-82-2025",
+"path": "local/iasi/horlesti/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 82/2025 privind desemnarea unui reprezentant al consiliului local în Consiliul de Administraţie al unităţii de învăţământ Şcoala Gimnazială Horleşti și un reprezentant al consiliului local pentru asigurarea calității în învățământ pentru anul școlar 2025 - 2026",
+"short": "HCL Horlești nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/236429",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-83-2025",
 "path": "local/iasi/horlesti/2025/83",
 "kind": "local",
@@ -1568,6 +1837,29 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-84-2025",
+"path": "local/iasi/horlesti/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 84/2025",
+"short": "HCL Horlești nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/236431",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-85-2025",
 "path": "local/iasi/horlesti/2025/85",
 "kind": "local",
@@ -1587,6 +1879,29 @@
 "council_name": "Consiliul Local al Comunei Horlești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-86-2025",
+"path": "local/iasi/horlesti/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 86/2025",
+"short": "HCL Horlești nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-24",
+"latest": "2025-11-24",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/236433",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

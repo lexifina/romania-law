@@ -3,6 +3,66 @@
  "shard": "local/iasi/halaucesti/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--halaucesti-1-2021",
+   "path": "local/iasi/halaucesti/2021/1",
+   "short": "HCL Hălăucești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 1/2021 privind aprobarea Planului de acțiuni și lucrări de interes local propus a se realiza în anul 2021 cu beneficiarii venitului minim garantat, stabilit în condițiile Legii nr.416/2001",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33352",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-10-2021",
+   "path": "local/iasi/halaucesti/2021/10",
+   "short": "HCL Hălăucești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 10/2021 privind revizuirea, modificarea și actualizarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 prin Actul Adițional nr. 41",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33361",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-11-2021",
+   "path": "local/iasi/halaucesti/2021/11",
+   "short": "HCL Hălăucești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 11/2021 privind consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33362",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-12-2021",
+   "path": "local/iasi/halaucesti/2021/12",
+   "short": "HCL Hălăucești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 12/2021 privind aprobarea Raportului de execuție bugetară a veniturilor și cheltuielilor pe anul 2020",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33363",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33363",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--halaucesti-13-2021",
    "path": "local/iasi/halaucesti/2021/13",
    "short": "HCL Hălăucești nr. 13/2021",
@@ -13,6 +73,21 @@
      "from": "2021-03-31",
      "units": 1,
      "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-14-2021",
+   "path": "local/iasi/halaucesti/2021/14",
+   "short": "HCL Hălăucești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 14/2021 privind implementarea proiectului ” Amenajare teren sport multifuncțional în sat Hălăucești, comuna Hălăucești, județul Iași”",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33368",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33368",
      "sha256": null
     }
    ]
@@ -93,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--halaucesti-2-2021",
+   "path": "local/iasi/halaucesti/2021/2",
+   "short": "HCL Hălăucești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 2/2021 privind aprobarea categoriilor de lucrări de interes local propuse a se realiza cu persoanele sancționate cu ”prestarea unei munci în folosul comunității” în anul 2021",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33353",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-20-2021",
+   "path": "local/iasi/halaucesti/2021/20",
+   "short": "HCL Hălăucești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 20/2021 privind aprobarea prelungirii aderării comunei Hălăucești, județul Iași, la Asociația Grupul de Acțiune Locală (G.A.L.) Iași Sud – Vest, pentru perioada 2021 - 2027",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33374",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33374",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--halaucesti-21-2021",
    "path": "local/iasi/halaucesti/2021/21",
    "short": "HCL Hălăucești nr. 21/2021",
@@ -138,6 +243,126 @@
    ]
   },
   {
+   "slug": "hcl-iasi--halaucesti-24-2021",
+   "path": "local/iasi/halaucesti/2021/24",
+   "short": "HCL Hălăucești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 24/2021 privind implementarea proiectului ACHIZITIE : 2 (două) APARATE DE RESPIRAT AUTONOM PENTRU INTERVENȚIA MEMBRILOR SERVICIULUI VOLUNTAR PENTRU SITUAȚII DE URGENȚĂ",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33378",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-25-2021",
+   "path": "local/iasi/halaucesti/2021/25",
+   "short": "HCL Hălăucești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 25/2021 privind punerea la dispozitia proiectului „Sistem informațional pentru managementul integrat al apelor–etapa II” dezvoltat de către Administrația Națională \"Apele Romane\" a terenului pentru constructia noilor investitii aferente acestuia",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33380",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-26-2021",
+   "path": "local/iasi/halaucesti/2021/26",
+   "short": "HCL Hălăucești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 26/2021 privind aprobarea bugetului local de venituri si cheltuieli al comunei Hălăucești pe anul 2021 precum si pentru activitățile extrabugetare- sursa E și estimările pe anii 2022 – 2024",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33381",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-27-2021",
+   "path": "local/iasi/halaucesti/2021/27",
+   "short": "HCL Hălăucești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 27/2021 privind aprobarea „Programului anual de achizitii publice al comunei Hălăucești pentru anul 2021”",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33382",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-28-2021",
+   "path": "local/iasi/halaucesti/2021/28",
+   "short": "HCL Hălăucești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 28/2021 privind alegerea presedintelui de sedinţă",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33383",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-29-2021",
+   "path": "local/iasi/halaucesti/2021/29",
+   "short": "HCL Hălăucești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 29/2021 privind revizuirea Actului Constitutiv și Statutului Asociației Regionale a Serviciilor de Apă Canal Iași – ARSACIS",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33384",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-3-2021",
+   "path": "local/iasi/halaucesti/2021/3",
+   "short": "HCL Hălăucești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 3/2021 privind validarea modificării bugetului de venituri și cheltuieli al comunei Hălăucești pe anul 2020, aprobat prin Dispoziția nr. 266 din 22.12.2020",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33354",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-30-2021",
+   "path": "local/iasi/halaucesti/2021/30",
+   "short": "HCL Hălăucești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 30/2021 privind aprobarea Raportului de execuţie bugetara a veniturilor şi cheltuielilor la data de 31.03.2021",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33385",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33385",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--halaucesti-31-2021",
    "path": "local/iasi/halaucesti/2021/31",
    "short": "HCL Hălăucești nr. 31/2021",
@@ -148,6 +373,36 @@
      "from": "2021-05-31",
      "units": 1,
      "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-32-2021",
+   "path": "local/iasi/halaucesti/2021/32",
+   "short": "HCL Hălăucești nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 32/2021 privind aprobarea Regulamentului propriu cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri care se supun aprobării Consiliului local al comunei Hălăucești",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33387",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-33-2021",
+   "path": "local/iasi/halaucesti/2021/33",
+   "short": "HCL Hălăucești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 33/2021 privind aprobarea Regulamentului de organizare si funcționare a Consiliului local al comunei Hălăuceşti",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33388",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33388",
      "sha256": null
     }
    ]
@@ -168,6 +423,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--halaucesti-35-2021",
+   "path": "local/iasi/halaucesti/2021/35",
+   "short": "HCL Hălăucești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 35/2021 privind aprobarea Documentației de avizare a lucrărilor de intervenții (D.A.L.I) și indicatorilor tehnico-economici ai obiectivului de investiții \"MODERNIZARE PRIN ASFALTARE DRUMURI SĂTEȘTI ÎN COMUNA HĂLĂUCEȘTI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33390",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-36-2021",
+   "path": "local/iasi/halaucesti/2021/36",
+   "short": "HCL Hălăucești nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 36/2021 privind neasumarea responsabilităţii organizării şi derulării procedurii de atribuire a contractului/acordului-cadru pentru achiziţia publică a produselor aferente Programului pentru şcoli al României în comuna Hălăucești, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33391",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-37-2021",
+   "path": "local/iasi/halaucesti/2021/37",
+   "short": "HCL Hălăucești nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 37/2021 privind stabilirea impozitelor si taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33392",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-38-2021",
+   "path": "local/iasi/halaucesti/2021/38",
+   "short": "HCL Hălăucești nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 38/2021 privind rectificarea bugetului de venituri si cheltuieli pe anul 2021 prin virarea de credite bugetare",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33393",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33393",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--halaucesti-39-2021",
    "path": "local/iasi/halaucesti/2021/39",
    "short": "HCL Hălăucești nr. 39/2021",
@@ -178,6 +493,21 @@
      "from": "2021-07-29",
      "units": 1,
      "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-4-2021",
+   "path": "local/iasi/halaucesti/2021/4",
+   "short": "HCL Hălăucești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 4/2021 privind aprobarea rețelei școlare pentru anul școlar 2021-2022 de pe raza comunei Hălăucești Consiliul local al comunei Hălăucești, județul Iași",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33355",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33355",
      "sha256": null
     }
    ]
@@ -198,6 +528,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--halaucesti-41-2021",
+   "path": "local/iasi/halaucesti/2021/41",
+   "short": "HCL Hălăucești nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 41/2021",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/34951",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/34951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-42-2021",
+   "path": "local/iasi/halaucesti/2021/42",
+   "short": "HCL Hălăucești nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 42/2021 privind aprobarea raportului de execuție bugetară a veniturilor și cheltuielilor la data de 30.06.2021",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/34952",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/34952",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--halaucesti-43-2021",
    "path": "local/iasi/halaucesti/2021/43",
    "short": "HCL Hălăucești nr. 43/2021",
@@ -213,6 +573,81 @@
    ]
   },
   {
+   "slug": "hcl-iasi--halaucesti-44-2021",
+   "path": "local/iasi/halaucesti/2021/44",
+   "short": "HCL Hălăucești nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 44/2021 privind aprobarea Regulamentului de închiriere a bunurilor imobile aflate în domeniul public sau privat al comunei Hălăucești",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/34954",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/34954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-45-2021",
+   "path": "local/iasi/halaucesti/2021/45",
+   "short": "HCL Hălăucești nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 45/2021 privind aprobarea Regulamentului de organizare si funcționare al Compartimentului de asistență socială din aparatul de specialitate al Primarului comunei Hălăucești, județul Iași",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/39484",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/39484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-46-2021",
+   "path": "local/iasi/halaucesti/2021/46",
+   "short": "HCL Hălăucești nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 46/2021 privind aprobarea documentației tehnico-economice pentru investiția ”AMENAJARE SCURGERE APE (ȘANTURI, RIGOLE SI TROTUARE) IN SATELE LUNCAȘI ȘI HĂLĂUCEȘTI, COMUNA HĂLĂUCEȘTI, JUDEȚUL IAȘI” , în cadrul Programului Naţional de Investiții \"Anghel Saligny\"",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/39485",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/39485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-47-2021",
+   "path": "local/iasi/halaucesti/2021/47",
+   "short": "HCL Hălăucești nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 47/2021 privind rectificarea bugetului de venituri si cheltuieli al comunei Hălăucești pe anul 2021 prin suplimentarea de credite și actualizarea listei de investiții",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/39486",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/39486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-48-2021",
+   "path": "local/iasi/halaucesti/2021/48",
+   "short": "HCL Hălăucești nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 48/2021 privind stabilirea nivelului minim al redevenței pentru concesionarea/închirierea spațiilor din cadrul Dispensarului medical Hălăuceşti pentru desfașurarea de activităţi de servicii medicale",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/39487",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/39487",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--halaucesti-49-2021",
    "path": "local/iasi/halaucesti/2021/49",
    "short": "HCL Hălăucești nr. 49/2021",
@@ -223,6 +658,21 @@
      "from": "2021-09-29",
      "units": 1,
      "source_url": "https://emol.ro/halaucesti-is/registru-hcl/39488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-5-2021",
+   "path": "local/iasi/halaucesti/2021/5",
+   "short": "HCL Hălăucești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 5/2021",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33356",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33356",
      "sha256": null
     }
    ]
@@ -378,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--halaucesti-6-2021",
+   "path": "local/iasi/halaucesti/2021/6",
+   "short": "HCL Hălăucești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 6/2021 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr.40",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33357",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33357",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--halaucesti-60-2021",
    "path": "local/iasi/halaucesti/2021/60",
    "short": "HCL Hălăucești nr. 60/2021",
@@ -508,6 +973,51 @@
      "from": "2021-12-16",
      "units": 1,
      "source_url": "https://emol.ro/halaucesti-is/registru-hcl/49471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-7-2021",
+   "path": "local/iasi/halaucesti/2021/7",
+   "short": "HCL Hălăucești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 7/2021 privind revizuirea și consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33358",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-8-2021",
+   "path": "local/iasi/halaucesti/2021/8",
+   "short": "HCL Hălăucești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 8/2021 privind aprobarea Strategiei de dezvoltarea locală a comunei Hălăucești, județul Iași, pentru perioada 2021-2027",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33359",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-9-2021",
+   "path": "local/iasi/halaucesti/2021/9",
+   "short": "HCL Hălăucești nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 9/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33360",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33360",
      "sha256": null
     }
    ]

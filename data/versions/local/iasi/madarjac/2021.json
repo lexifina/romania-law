@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--madarjac-13-2021",
+   "path": "local/iasi/madarjac/2021/13",
+   "short": "HCL Mădârjac nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 13/2021 privind inchirierea unui microbuz pentru asigurarea transportului elevilor din satul Frumusica la Scoala Gimnaziala Madarjac;",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/30628",
+   "versions": [
+    {
+     "from": "2021-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/30628",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-14-2021",
    "path": "local/iasi/madarjac/2021/14",
    "short": "HCL Mădârjac nr. 14/2021",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--madarjac-17-2021",
+   "path": "local/iasi/madarjac/2021/17",
+   "short": "HCL Mădârjac nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 17/2021",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/30632",
+   "versions": [
+    {
+     "from": "2021-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/30632",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-18-2021",
    "path": "local/iasi/madarjac/2021/18",
    "short": "HCL Mădârjac nr. 18/2021",
@@ -118,6 +148,21 @@
      "from": "2021-03-31",
      "units": 1,
      "source_url": "https://emol.ro/madarjac-is/registru-hcl/30633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-19-2021",
+   "path": "local/iasi/madarjac/2021/19",
+   "short": "HCL Mădârjac nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 19/2021",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/30634",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/30634",
      "sha256": null
     }
    ]
@@ -403,6 +448,21 @@
      "from": "2021-06-29",
      "units": 1,
      "source_url": "https://emol.ro/madarjac-is/registru-hcl/30654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-37-2021",
+   "path": "local/iasi/madarjac/2021/37",
+   "short": "HCL Mădârjac nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 37/2021",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/30655",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/30655",
      "sha256": null
     }
    ]

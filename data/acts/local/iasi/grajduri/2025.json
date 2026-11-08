@@ -333,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-iasi--grajduri-16-2025",
+"path": "local/iasi/grajduri/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 16/2025 HCL aprobare concesionare terenuri",
+"short": "HCL Grajduri nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#97295",
+"council": "iasi/grajduri",
+"council_name": "Consiliul Local al Comunei Grajduri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--grajduri-17-2025",
 "path": "local/iasi/grajduri/2025/17",
 "kind": "local",
@@ -418,6 +440,28 @@
 "council_name": "Consiliul Local al Comunei Grajduri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--grajduri-21-2025",
+"path": "local/iasi/grajduri/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 21/2025 HCL aprobare concesionare teren",
+"short": "HCL Grajduri nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-11",
+"latest": "2025-06-11",
+"portal": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#100404",
+"council": "iasi/grajduri",
+"council_name": "Consiliul Local al Comunei Grajduri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -550,6 +594,28 @@
 "council_name": "Consiliul Local al Comunei Grajduri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--grajduri-28-2025",
+"path": "local/iasi/grajduri/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 28/2025 HCL privind concesionarea unor terenuri",
+"short": "HCL Grajduri nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-11",
+"latest": "2025-08-11",
+"portal": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#102885",
+"council": "iasi/grajduri",
+"council_name": "Consiliul Local al Comunei Grajduri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -946,6 +1012,29 @@
 "council_name": "Consiliul Local al Comunei Grajduri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--grajduri-47-2025",
+"path": "local/iasi/grajduri/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 47/2025",
+"short": "HCL Grajduri nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": null,
+"council": "iasi/grajduri",
+"council_name": "Consiliul Local al Comunei Grajduri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

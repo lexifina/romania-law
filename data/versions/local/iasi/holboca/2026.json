@@ -1023,6 +1023,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--holboca-6-2026",
+   "path": "local/iasi/holboca/2026/6",
+   "short": "HCL Holboca nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 6/2026 privind desemnarea consilieri locali in vederea evaluarii profesionale a secretarului general",
+   "url": "https://emol.ro/holboca-is/registru-hcl/252456",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/252456",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--holboca-60-2026",
    "path": "local/iasi/holboca/2026/60",
    "short": "HCL Holboca nr. 60/2026",
@@ -1138,6 +1153,36 @@
      "from": "2026-07-09",
      "units": 1,
      "source_url": "https://emol.ro/holboca-is/registru-hcl/276029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-68-2026",
+   "path": "local/iasi/holboca/2026/68",
+   "short": "HCL Holboca nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 68/2026 privind insusire raport de evaluare imobile apartinand domeniul privat al comunei in vederea concesionarii",
+   "url": "https://emol.ro/holboca-is/registru-hcl/276030",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/276030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-69-2026",
+   "path": "local/iasi/holboca/2026/69",
+   "short": "HCL Holboca nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 69/2026 privind insusire raport de evaluare imobile apartinand domeniul privat al comunei in vederea vanzarii",
+   "url": "https://emol.ro/holboca-is/registru-hcl/276031",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/276031",
      "sha256": null
     }
    ]
@@ -1348,6 +1393,21 @@
      "from": "2026-08-13",
      "units": 1,
      "source_url": "https://emol.ro/holboca-is/registru-hcl/283035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-82-2026",
+   "path": "local/iasi/holboca/2026/82",
+   "short": "HCL Holboca nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 82/2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/283036",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/283036",
      "sha256": null
     }
    ]

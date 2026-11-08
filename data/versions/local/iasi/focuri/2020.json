@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--focuri-12-2020",
+   "path": "local/iasi/focuri/2020/12",
+   "short": "HCL Focuri nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 12/2020",
+   "url": "https://emol.ro/focuri-is/registru-hcl/22847",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/22847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-13-2020",
+   "path": "local/iasi/focuri/2020/13",
+   "short": "HCL Focuri nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 13/2020",
+   "url": "https://emol.ro/focuri-is/registru-hcl/22848",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/22848",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--focuri-14-2020",
    "path": "local/iasi/focuri/2020/14",
    "short": "HCL Focuri nr. 14/2020",
@@ -73,6 +103,51 @@
      "from": "2020-02-20",
      "units": 1,
      "source_url": "https://emol.ro/focuri-is/registru-hcl/22850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-16-2020",
+   "path": "local/iasi/focuri/2020/16",
+   "short": "HCL Focuri nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 16/2020",
+   "url": "https://emol.ro/focuri-is/registru-hcl/22851",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/22851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-17-2020",
+   "path": "local/iasi/focuri/2020/17",
+   "short": "HCL Focuri nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 17/2020",
+   "url": "https://emol.ro/focuri-is/registru-hcl/22852",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/22852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-18-2020",
+   "path": "local/iasi/focuri/2020/18",
+   "short": "HCL Focuri nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 18/2020 privind modificarea componenței comisiei Juridice și de Disciplină, amenajarea Teritoriului și Urbanism din cadrul Consiliului Local Focuri",
+   "url": "https://emol.ro/focuri-is/registru-hcl/22853",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/22853",
      "sha256": null
     }
    ]
@@ -223,6 +298,21 @@
      "from": "2020-04-28",
      "units": 1,
      "source_url": "https://emol.ro/focuri-is/registru-hcl/22862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-28-2020",
+   "path": "local/iasi/focuri/2020/28",
+   "short": "HCL Focuri nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 28/2020",
+   "url": "https://emol.ro/focuri-is/registru-hcl/22863",
+   "versions": [
+    {
+     "from": "2020-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/22863",
      "sha256": null
     }
    ]
@@ -748,6 +838,36 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/focuri-is/registru-hcl/22841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-7-2020",
+   "path": "local/iasi/focuri/2020/7",
+   "short": "HCL Focuri nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 7/2020",
+   "url": "https://emol.ro/focuri-is/registru-hcl/22842",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/22842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-8-2020",
+   "path": "local/iasi/focuri/2020/8",
+   "short": "HCL Focuri nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 8/2020",
+   "url": "https://emol.ro/focuri-is/registru-hcl/22843",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/22843",
      "sha256": null
     }
    ]

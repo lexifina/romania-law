@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-10-2021",
+   "path": "local/iasi/miroslovesti/2021/10",
+   "short": "HCL Miroslovești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 10/2021 privind aprobarea achiziționării unui tocător de crengi - rezultate și predate de cetățenii din satele componente ale Comunei Miroslovești, județul iași",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/29341",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/29341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-100-2021",
+   "path": "local/iasi/miroslovesti/2021/100",
+   "short": "HCL Miroslovești nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 100/2021 privind privind aprobare sprijin financiar unităților de cult din comuna Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/51227",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/51227",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-101-2021",
    "path": "local/iasi/miroslovesti/2021/101",
    "short": "HCL Miroslovești nr. 101/2021",
@@ -163,6 +193,21 @@
      "from": "2021-01-15",
      "units": 1,
      "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/29342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-110-2021",
+   "path": "local/iasi/miroslovesti/2021/110",
+   "short": "HCL Miroslovești nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 110/2021 privind desemnarea unui reprezentant din partea CL pentru a face parte din cadrul Comisiei de evaluare a probei de interviu la Școala Gimnazială Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/51262",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/51262",
      "sha256": null
     }
    ]
@@ -558,6 +603,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-15-2021",
+   "path": "local/iasi/miroslovesti/2021/15",
+   "short": "HCL Miroslovești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 15/2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/29346",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/29346",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-16-2021",
    "path": "local/iasi/miroslovesti/2021/16",
    "short": "HCL Miroslovești nr. 16/2021",
@@ -643,6 +703,21 @@
      "from": "2021-02-26",
      "units": 1,
      "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/29360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-21-2021",
+   "path": "local/iasi/miroslovesti/2021/21",
+   "short": "HCL Miroslovești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 21/2021 privind nominalizarea reprezentantului Consiliului Local Miroslovești în Consiliul de Administrație al Școlii Gimnaziale Miroslovești, județul Iași",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/29361",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/29361",
      "sha256": null
     }
    ]
@@ -798,6 +873,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-31-2021",
+   "path": "local/iasi/miroslovesti/2021/31",
+   "short": "HCL Miroslovești nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 31/2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/29371",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/29371",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-32-2021",
    "path": "local/iasi/miroslovesti/2021/32",
    "short": "HCL Miroslovești nr. 32/2021",
@@ -858,6 +948,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-36-2021",
+   "path": "local/iasi/miroslovesti/2021/36",
+   "short": "HCL Miroslovești nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 36/2021 privind aprobarea realizării obiectivului: ”Sală de Sport. Sat Miroslovești, Comuna Miroslovești, Județul Iași”",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/29402",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/29402",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-37-2021",
    "path": "local/iasi/miroslovesti/2021/37",
    "short": "HCL Miroslovești nr. 37/2021",
@@ -888,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-39-2021",
+   "path": "local/iasi/miroslovesti/2021/39",
+   "short": "HCL Miroslovești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 39/2021 privind participarea la Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice, cu destinație de unități de învățământ, pentru obiectivul de investiție ”Reabilitare Școală Gimnazială Verseni, comuna Miroslovești”",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/29405",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/29405",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-4-2021",
    "path": "local/iasi/miroslovesti/2021/4",
    "short": "HCL Miroslovești nr. 4/2021",
@@ -898,6 +1018,21 @@
      "from": "2021-01-15",
      "units": 1,
      "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/29335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-40-2021",
+   "path": "local/iasi/miroslovesti/2021/40",
+   "short": "HCL Miroslovești nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 40/2021 privind aprobarea Devizului General-Faza PTH și actializarea bugetului indicativ pentru investiția ”Realizarea Sistem de Supraveghere Video Stradal în comuna Miroslovești, județul Iași”",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/29406",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/29406",
      "sha256": null
     }
    ]
@@ -1008,6 +1143,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-48-2021",
+   "path": "local/iasi/miroslovesti/2021/48",
+   "short": "HCL Miroslovești nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 48/2021 privind aprobarea sărbătorii în cadrul festiv, în data de 04.05.2021 a veteranului de război Paiu GH.Ion din Satul Soci, Comuna Miroslovești, Județul Iași-cu prilejul împlinirii vârstei de 100ani",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/29414",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/29414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-49-2021",
+   "path": "local/iasi/miroslovesti/2021/49",
+   "short": "HCL Miroslovești nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 49/2021 privind alegerea președintelui de ședință al Consiliului Local Miroslovești pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/29415",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/29415",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-5-2021",
    "path": "local/iasi/miroslovesti/2021/5",
    "short": "HCL Miroslovești nr. 5/2021",
@@ -1033,6 +1198,21 @@
      "from": "2021-05-25",
      "units": 1,
      "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-51-2021",
+   "path": "local/iasi/miroslovesti/2021/51",
+   "short": "HCL Miroslovești nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 51/2021 privind aprobarea acordării unui sprijin financiar unității de cult din satul și comuna MIROSLOVEȘTI",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37445",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37445",
      "sha256": null
     }
    ]
@@ -1203,6 +1383,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-62-2021",
+   "path": "local/iasi/miroslovesti/2021/62",
+   "short": "HCL Miroslovești nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 62/2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37499",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37499",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-63-2021",
    "path": "local/iasi/miroslovesti/2021/63",
    "short": "HCL Miroslovești nr. 63/2021",
@@ -1368,6 +1563,81 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-73-2021",
+   "path": "local/iasi/miroslovesti/2021/73",
+   "short": "HCL Miroslovești nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 73/2021 privind Rectificarea Bugetului de Venituri si Cheltuieli al Comunei Miroslovesti, Judeţul Iaşi, pe anul 2021 conform Dispoziţiei Primarului Nr. 163/27.05.2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37510",
+   "versions": [
+    {
+     "from": "2021-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-74-2021",
+   "path": "local/iasi/miroslovesti/2021/74",
+   "short": "HCL Miroslovești nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 74/2021 privind Rectificarea Bugetului de Venituri si Cheltuieli al Comunei Miroslovesti, Judeţul Iaşi, pe anul 2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37511",
+   "versions": [
+    {
+     "from": "2021-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-75-2021",
+   "path": "local/iasi/miroslovesti/2021/75",
+   "short": "HCL Miroslovești nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 75/2021 privind solicitarea de prelungire a Scrisorii de Garantie din partea Fondului de Garantare ( FNGCIMM SA-IFN ) si aprobarea comisionului de garantare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37512",
+   "versions": [
+    {
+     "from": "2021-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-76-2021",
+   "path": "local/iasi/miroslovesti/2021/76",
+   "short": "HCL Miroslovești nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 76/2021 privind alegerea presedintelui de sedinta al Consiliului Local Miroslovesti pentru sedinta urmatoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37513",
+   "versions": [
+    {
+     "from": "2021-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-77-2021",
+   "path": "local/iasi/miroslovesti/2021/77",
+   "short": "HCL Miroslovești nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 77/2021 privind aprobarea alocarii din Bugetul Local a unor sume pentru finantarea activitatilor sportive in limita a maximum 5% din bugetul aprobat",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37520",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37520",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-78-2021",
    "path": "local/iasi/miroslovesti/2021/78",
    "short": "HCL Miroslovești nr. 78/2021",
@@ -1378,6 +1648,21 @@
      "from": "2021-08-19",
      "units": 1,
      "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-79-2021",
+   "path": "local/iasi/miroslovesti/2021/79",
+   "short": "HCL Miroslovești nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 79/2021 privind necesitatea si oportunitatea amenajarii prin pavare a parcarilor de la Dispensarul Uman , Scoala Gimnaziala Miroslovesti si Primaria Comunei Miroslovesti",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37522",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37522",
      "sha256": null
     }
    ]
@@ -1428,6 +1713,126 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-82-2021",
+   "path": "local/iasi/miroslovesti/2021/82",
+   "short": "HCL Miroslovești nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 82/2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37525",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-83-2021",
+   "path": "local/iasi/miroslovesti/2021/83",
+   "short": "HCL Miroslovești nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 83/2021 privind consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă şi de canalizare nr. 48/2009",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37526",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-84-2021",
+   "path": "local/iasi/miroslovesti/2021/84",
+   "short": "HCL Miroslovești nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 84/2021 privind aprobarea dezmembrării imobilului ( 5.000 mp ) cu numărul de Carte Funciara 63793 ce face obiectul lucrărilor de înregistrare Sistematica, respectiv dezmembrarea imobilului in doua imobile cu suprafaţa de:1.4000mp ; 3600mp",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37527",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-85-2021",
+   "path": "local/iasi/miroslovesti/2021/85",
+   "short": "HCL Miroslovești nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 85/2021 privind modificarea Anexei I la Hotararea Consiliului Local Miroslovesti nr. 71 / 29.06.2021 respectiv actualizarea indicatorilor tehnico-economici , conform cresterii preturilor la materiale la zi , pentru Obiectivul de investitie “Reabilitare Scoala Gimnaziala Verseni, comuna Miroslovesti”prin participarea la Programul privind cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice, cu destinatie de unitati de invatamant",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37528",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-86-2021",
+   "path": "local/iasi/miroslovesti/2021/86",
+   "short": "HCL Miroslovești nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 86/2021 privind modificarea Anexei I la Hotararea Consiliului Local Miroslovesti nr. 70 / 29.06.2021 respectiv actualizarea indicatorilor tehnico-economici , conform cresterii preturilor la materiale la zi , pentru Obiectivul de investitie “Reabilitare Gradinita Soci , Comuna Miroslovesti”prin participarea la Programul privind cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice, cu destinatie de unitati de invatamant",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37529",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-87-2021",
+   "path": "local/iasi/miroslovesti/2021/87",
+   "short": "HCL Miroslovești nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 87/2021 privind participarea la Programul privind cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice, cu destinatie de unitati de invatamant , pentru Obiectivul de investitie “Reabilitare Scoala Soci , Comuna Miroslovesti”",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37530",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-88-2021",
+   "path": "local/iasi/miroslovesti/2021/88",
+   "short": "HCL Miroslovești nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 88/2021 privind Rectificarea Bugetului de Venituri si Cheltuieli al Comunei Miroslovesti, Judeţul Iaşi, pe anul 2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37531",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-89-2021",
+   "path": "local/iasi/miroslovesti/2021/89",
+   "short": "HCL Miroslovești nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 89/2021 privind alegerea presedintelui de sedinta al Consiliului Local Miroslovesti pentru sedinta urmatoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37532",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37532",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-9-2021",
    "path": "local/iasi/miroslovesti/2021/9",
    "short": "HCL Miroslovești nr. 9/2021",
@@ -1443,6 +1848,96 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-90-2021",
+   "path": "local/iasi/miroslovesti/2021/90",
+   "short": "HCL Miroslovești nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 90/2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37535",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-91-2021",
+   "path": "local/iasi/miroslovesti/2021/91",
+   "short": "HCL Miroslovești nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 91/2021 privind participarea la Programul privind cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice, pentru Obiectivul de investitie “Reabilitare Scoala Gimnaziala Verseni, comuna Miroslovesti”",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37536",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-92-2021",
+   "path": "local/iasi/miroslovesti/2021/92",
+   "short": "HCL Miroslovești nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 92/2021 privind participarea la Programul privind cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice, pentru obiectivul de investitie:“Reabilitare Gradinita Soci , Comuna Miroslovesti, Judetul Iasi ”",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37537",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-93-2021",
+   "path": "local/iasi/miroslovesti/2021/93",
+   "short": "HCL Miroslovești nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 93/2021 privind participarea la Programul privind cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice, pentru Obiectivul de investitie “Reabilitare Scoala Soci , Comuna Miroslovesti”",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37538",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-94-2021",
+   "path": "local/iasi/miroslovesti/2021/94",
+   "short": "HCL Miroslovești nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 94/2021 privind reactualizarea indicatorilor tehnico-economici si asigurarea cofinantarii pentru obiectivul de investitii: “Reabilitare și extindere Dispensar medical, corp A și corp B din comuna Miroslovești, județul Iași”",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37539",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-95-2021",
+   "path": "local/iasi/miroslovesti/2021/95",
+   "short": "HCL Miroslovești nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 95/2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37540",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37540",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-96-2021",
    "path": "local/iasi/miroslovesti/2021/96",
    "short": "HCL Miroslovești nr. 96/2021",
@@ -1453,6 +1948,36 @@
      "from": "2021-09-24",
      "units": 1,
      "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-97-2021",
+   "path": "local/iasi/miroslovesti/2021/97",
+   "short": "HCL Miroslovești nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 97/2021 privind Rectificarea Bugetului de Venituri si Cheltuieli al Comunei Miroslovesti, Judeţul Iaşi, pe anul 2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37542",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-98-2021",
+   "path": "local/iasi/miroslovesti/2021/98",
+   "short": "HCL Miroslovești nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 98/2021 privind alegerea presedintelui de sedinta al Consiliului Local Miroslovesti pentru sedinta urmatoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/37543",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/37543",
      "sha256": null
     }
    ]

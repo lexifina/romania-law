@@ -268,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-iasi--madarjac-13-2021",
+"path": "local/iasi/madarjac/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 13/2021 privind inchirierea unui microbuz pentru asigurarea transportului elevilor din satul Frumusica la Scoala Gimnaziala Madarjac;",
+"short": "HCL Mădârjac nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-15",
+"latest": "2021-02-15",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/30628",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--madarjac-14-2021",
 "path": "local/iasi/madarjac/2021/14",
 "kind": "local",
@@ -334,6 +356,29 @@
 }
 },
 {
+"slug": "hcl-iasi--madarjac-17-2021",
+"path": "local/iasi/madarjac/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 17/2021",
+"short": "HCL Mădârjac nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-15",
+"latest": "2021-02-15",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/30632",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--madarjac-18-2021",
 "path": "local/iasi/madarjac/2021/18",
 "kind": "local",
@@ -353,6 +398,29 @@
 "council_name": "Consiliul Local al Comunei Mădârjac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-19-2021",
+"path": "local/iasi/madarjac/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 19/2021",
+"short": "HCL Mădârjac nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/30634",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -730,6 +798,29 @@
 "council_name": "Consiliul Local al Comunei Mădârjac",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-37-2021",
+"path": "local/iasi/madarjac/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 37/2021",
+"short": "HCL Mădârjac nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/30655",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

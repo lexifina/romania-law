@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-iasi--miroslovesti-2-2025",
+"path": "local/iasi/miroslovesti/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 2/2025 privind atât aprobarea documentațiilor de atribuire pentru suprafețele utile ale cabinetelor medicale din Corp A cât și din Corp B, în vederea închirierii prin licitație publică, cât și aprobarea dării în folosință gratuită a spațiilor comune aferente acestor cabinete medicale",
+"short": "HCL Miroslovești nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/235856",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--miroslovesti-3-2025",
 "path": "local/iasi/miroslovesti/2025/3",
 "kind": "local",
@@ -66,6 +88,29 @@
 "council_name": "Consiliul Local al Comunei Miroslovești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--miroslovesti-5-2025",
+"path": "local/iasi/miroslovesti/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 5/2025",
+"short": "HCL Miroslovești nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/235877",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -357,6 +402,51 @@
 }
 },
 {
+"slug": "hcl-iasi--miroslovesti-19-2025",
+"path": "local/iasi/miroslovesti/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 19/2025 privind aprobarea acordării unui sprijin financiar lunar domnișoarei COJOCARIU Alexandra-Maria, studentă în anul II, la Facultatea de Medicină, în vederea contiunuării cursurilor universitare",
+"short": "HCL Miroslovești nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/235900",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--miroslovesti-20-2025",
+"path": "local/iasi/miroslovesti/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 20/2025",
+"short": "HCL Miroslovești nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/235905",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--miroslovesti-21-2025",
 "path": "local/iasi/miroslovesti/2025/21",
 "kind": "local",
@@ -644,6 +734,29 @@
 }
 },
 {
+"slug": "hcl-iasi--miroslovesti-34-2025",
+"path": "local/iasi/miroslovesti/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 34/2025",
+"short": "HCL Miroslovești nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/235929",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--miroslovesti-35-2025",
 "path": "local/iasi/miroslovesti/2025/35",
 "kind": "local",
@@ -730,6 +843,75 @@
 "council_name": "Consiliul Local al Comunei Miroslovești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--miroslovesti-39-2025",
+"path": "local/iasi/miroslovesti/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 39/2025",
+"short": "HCL Miroslovești nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/235934",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--miroslovesti-40-2025",
+"path": "local/iasi/miroslovesti/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 40/2025",
+"short": "HCL Miroslovești nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/235935",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--miroslovesti-41-2025",
+"path": "local/iasi/miroslovesti/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 41/2025",
+"short": "HCL Miroslovești nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/235936",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

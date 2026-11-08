@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--grajduri-17-2026",
+   "path": "local/iasi/grajduri/2026/17",
+   "short": "HCL Grajduri nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 17/2026 HCL inchiriere locuinte",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#123895",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#123895",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--grajduri-18-2026",
    "path": "local/iasi/grajduri/2026/18",
    "short": "HCL Grajduri nr. 18/2026",
@@ -288,6 +303,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--grajduri-28-2026",
+   "path": "local/iasi/grajduri/2026/28",
+   "short": "HCL Grajduri nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 28/2026 HCL aprobare concesionare gaz",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#128189",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#128189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-29-2026",
+   "path": "local/iasi/grajduri/2026/29",
+   "short": "HCL Grajduri nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 29/2026 HCL aprobare documentatie concesionare gaz",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#128620",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#128620",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--grajduri-3-2026",
    "path": "local/iasi/grajduri/2026/3",
    "short": "HCL Grajduri nr. 3/2026",
@@ -328,6 +373,21 @@
      "from": "2026-09-18",
      "units": 1,
      "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#129117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-32-2026",
+   "path": "local/iasi/grajduri/2026/32",
+   "short": "HCL Grajduri nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 32/2026 HCL desemnare membri comisie concurs director scoala",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#129118",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#129118",
      "sha256": null
     }
    ]
@@ -463,6 +523,21 @@
      "from": "2026-03-25",
      "units": 1,
      "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#117915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-9-2026",
+   "path": "local/iasi/grajduri/2026/9",
+   "short": "HCL Grajduri nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 9/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]

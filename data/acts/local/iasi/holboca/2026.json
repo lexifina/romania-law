@@ -114,6 +114,28 @@
 }
 },
 {
+"slug": "hcl-iasi--holboca-6-2026",
+"path": "local/iasi/holboca/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Holboca nr. 6/2026 privind desemnarea consilieri locali in vederea evaluarii profesionale a secretarului general",
+"short": "HCL Holboca nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://emol.ro/holboca-is/registru-hcl/252456",
+"council": "iasi/holboca",
+"council_name": "Consiliul Local al Comunei Holboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--holboca-7-2026",
 "path": "local/iasi/holboca/2026/7",
 "kind": "local",
@@ -1458,6 +1480,50 @@
 }
 },
 {
+"slug": "hcl-iasi--holboca-68-2026",
+"path": "local/iasi/holboca/2026/68",
+"kind": "local",
+"year": "2026",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Holboca nr. 68/2026 privind insusire raport de evaluare imobile apartinand domeniul privat al comunei in vederea concesionarii",
+"short": "HCL Holboca nr. 68/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://emol.ro/holboca-is/registru-hcl/276030",
+"council": "iasi/holboca",
+"council_name": "Consiliul Local al Comunei Holboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--holboca-69-2026",
+"path": "local/iasi/holboca/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Holboca nr. 69/2026 privind insusire raport de evaluare imobile apartinand domeniul privat al comunei in vederea vanzarii",
+"short": "HCL Holboca nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://emol.ro/holboca-is/registru-hcl/276031",
+"council": "iasi/holboca",
+"council_name": "Consiliul Local al Comunei Holboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--holboca-70-2026",
 "path": "local/iasi/holboca/2026/70",
 "kind": "local",
@@ -1720,6 +1786,29 @@
 "council_name": "Consiliul Local al Comunei Holboca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--holboca-82-2026",
+"path": "local/iasi/holboca/2026/82",
+"kind": "local",
+"year": "2026",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Holboca nr. 82/2026",
+"short": "HCL Holboca nr. 82/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-13",
+"latest": "2026-08-13",
+"portal": "https://emol.ro/holboca-is/registru-hcl/283036",
+"council": "iasi/holboca",
+"council_name": "Consiliul Local al Comunei Holboca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

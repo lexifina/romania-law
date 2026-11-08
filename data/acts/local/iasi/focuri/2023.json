@@ -91,6 +91,73 @@
 }
 },
 {
+"slug": "hcl-iasi--focuri-5-2023",
+"path": "local/iasi/focuri/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 5/2023",
+"short": "HCL Focuri nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-08",
+"latest": "2023-05-08",
+"portal": "https://emol.ro/focuri-is/registru-hcl/103661",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--focuri-6-2023",
+"path": "local/iasi/focuri/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 6/2023 privind desemnarea a doi consilieri locali care vor face parte din comisia de evaluare a indicatorilor de performanță de către secretarul comunei conform art..485 din Codul Administrativ",
+"short": "HCL Focuri nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-08",
+"latest": "2023-05-08",
+"portal": "https://emol.ro/focuri-is/registru-hcl/103662",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-7-2023",
+"path": "local/iasi/focuri/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 7/2023 privind desemnarea unui nou presedinte de sedintă pentru urmatoarele trei luni",
+"short": "HCL Focuri nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-08",
+"latest": "2023-05-08",
+"portal": "https://emol.ro/focuri-is/registru-hcl/103663",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--focuri-8-2023",
 "path": "local/iasi/focuri/2023/8",
 "kind": "local",
@@ -355,6 +422,28 @@
 }
 },
 {
+"slug": "hcl-iasi--focuri-20-2023",
+"path": "local/iasi/focuri/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 20/2023 privind desemnarea presedintelui de ședință pentru urmatoarele trei luni",
+"short": "HCL Focuri nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/103676",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--focuri-21-2023",
 "path": "local/iasi/focuri/2023/21",
 "kind": "local",
@@ -488,6 +577,50 @@
 }
 },
 {
+"slug": "hcl-iasi--focuri-27-2023",
+"path": "local/iasi/focuri/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 27/2023 privind acordarea unui ajutor de urgenta familiei Scortanu Doinita",
+"short": "HCL Focuri nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/103683",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-28-2023",
+"path": "local/iasi/focuri/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 28/2023 privind acordarea unui ajutor de urgență cu sume din bugetul local familiei Sabasanu ioan",
+"short": "HCL Focuri nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/103684",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--focuri-29-2023",
 "path": "local/iasi/focuri/2023/29",
 "kind": "local",
@@ -507,6 +640,316 @@
 "council_name": "Consiliul Local al Comunei Focuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--focuri-30-2023",
+"path": "local/iasi/focuri/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 30/2023 (privind aprobarea implementarii obiectivul de investitii “Infiintare sistem de distribuție inteligent gaze naturale în comuna FOCURI, judetul IASI”)",
+"short": "HCL Focuri nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/109696",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-31-2023",
+"path": "local/iasi/focuri/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 31/2023 privind aprobare asocierii comunei Focuri ca membru fondator la înfiintarea Asociatiei de Dezvoltare Intercomunitară a comunelor Fântânele - Focuri - Sipote, judetul Iași",
+"short": "HCL Focuri nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/109697",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-32-2023",
+"path": "local/iasi/focuri/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 32/2023 (privind utilizarea domeniului public pentru executarea lucrării în cadrul proiectului de Alimentarea cu apă a comunei Focuri, din rezervorul 2500 mc Belcești, prin montarea unui rezervor în satul Focuri, comune Focuri, judetul Iasi)",
+"short": "HCL Focuri nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/109698",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-33-2023",
+"path": "local/iasi/focuri/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 33/2023 privind repartizarea sumei de 75,00 mii lei aflată în bugetului local de venituri și cheltuieli pentru anul 2023, unităților de cult de pe raza comunei Focuri, judetul Iasi, cât și completarea listei de investitii cu achizitionarea unei motocositoare )",
+"short": "HCL Focuri nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/109699",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-34-2023",
+"path": "local/iasi/focuri/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 34/2023 privind completarea listei d einvestitii cu achizitionare motocoasă",
+"short": "HCL Focuri nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/109700",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-35-2023",
+"path": "local/iasi/focuri/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 35/2023 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul II, III si IV anul 2023",
+"short": "HCL Focuri nr. 35/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/113188",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-36-2023",
+"path": "local/iasi/focuri/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 36/2023 privind aprobarea colaborării cu Ministerul Muncii și Solidarității Sociale în cadrul proiectului ”HUB de Servicii MMSS – SII MMSS”, Cod My Smis 130963",
+"short": "HCL Focuri nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/113189",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-37-2023",
+"path": "local/iasi/focuri/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 37/2023 privind aprobarea dezlipirii terenului în suprafata totala de 8840 mp prin act notarial in două loturi",
+"short": "HCL Focuri nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/113190",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-38-2023",
+"path": "local/iasi/focuri/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 38/2023",
+"short": "HCL Focuri nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/113191",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--focuri-39-2023",
+"path": "local/iasi/focuri/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 39/2023 privind acordare ajutoare de urgentă pentru completarea cheltuielilor de înmornântare",
+"short": "HCL Focuri nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/113192",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-40-2023",
+"path": "local/iasi/focuri/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 40/2023 privind desemnarea unui nou președinte d eședinta pentru urmatoarele trei luni",
+"short": "HCL Focuri nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/focuri-is/registru-hcl/113193",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-41-2023",
+"path": "local/iasi/focuri/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 41/2023 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul III anul 2023",
+"short": "HCL Focuri nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://emol.ro/focuri-is/registru-hcl/129010",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-42-2023",
+"path": "local/iasi/focuri/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 42/2023",
+"short": "HCL Focuri nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://emol.ro/focuri-is/registru-hcl/129011",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--focuri-43-2023",
+"path": "local/iasi/focuri/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 43/2023 privind acordarea ajutoarelor de urgență familiilor vulnerabile",
+"short": "HCL Focuri nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://emol.ro/focuri-is/registru-hcl/129012",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -554,6 +997,28 @@
 }
 },
 {
+"slug": "hcl-iasi--focuri-46-2023",
+"path": "local/iasi/focuri/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 46/2023 privind acordare ajutor de urgentă familiei VODĂ Ioan, pentru construirea unei rigole betonate în vederea devierii scurgerii apei de pe șosea",
+"short": "HCL Focuri nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://emol.ro/focuri-is/registru-hcl/136254",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--focuri-47-2023",
 "path": "local/iasi/focuri/2023/47",
 "kind": "local",
@@ -573,6 +1038,50 @@
 "council_name": "Consiliul Local al Comunei Focuri",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--focuri-48-2023",
+"path": "local/iasi/focuri/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 48/2023 privind alocarea din bugetului local al comunei Focuri, pe anul 2023, a sumei de 10.000 lei net, pentru premierea elevilor și a profesorilor îndrumători, cu rezultate deosebite la concursurile naționale, internationale, judetene si comunale în anul școlar 2022 – 2023, în cadrul manifestărilor începerii anului școlar din 11.09.2023",
+"short": "HCL Focuri nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://emol.ro/focuri-is/registru-hcl/136373",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--focuri-49-2023",
+"path": "local/iasi/focuri/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Focuri nr. 49/2023 (privind completarea Programului Anual al achizițiilor publice al comunei Focuri, pentru anului 2023)",
+"short": "HCL Focuri nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-11",
+"latest": "2024-01-11",
+"portal": "https://emol.ro/focuri-is/registru-hcl/136374",
+"council": "iasi/focuri",
+"council_name": "Consiliul Local al Comunei Focuri",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

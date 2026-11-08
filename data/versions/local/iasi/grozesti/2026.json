@@ -363,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--grozesti-5-2026",
+   "path": "local/iasi/grozesti/2026/5",
+   "short": "HCL Grozești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 5/2026 privind desemnarea consilierilor locali în cadrul comisiei de evaluare a performanţelor profesionale individuale ale Secretarului General al comunei Grozești, județul Iași, pentru activitatea desfășurată în anul 2025",
+   "url": "https://emol.ro/grozesti-is/registru-hcl/263413",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-is/registru-hcl/263413",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--grozesti-6-2026",
    "path": "local/iasi/grozesti/2026/6",
    "short": "HCL Grozești nr. 6/2026",

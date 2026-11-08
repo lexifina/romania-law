@@ -3,6 +3,21 @@
  "shard": "local/iasi/ion-neculce/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--ion-neculce-1-2021",
+   "path": "local/iasi/ion-neculce/2021/1",
+   "short": "HCL Ion Neculce nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 1/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/20846",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/20846",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-10-2021",
    "path": "local/iasi/ion-neculce/2021/10",
    "short": "HCL Ion Neculce nr. 10/2021",
@@ -28,6 +43,21 @@
      "from": "2021-11-01",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/41992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-101-2021",
+   "path": "local/iasi/ion-neculce/2021/101",
+   "short": "HCL Ion Neculce nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 101/2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/41993",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/41993",
      "sha256": null
     }
    ]
@@ -453,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-18-2021",
+   "path": "local/iasi/ion-neculce/2021/18",
+   "short": "HCL Ion Neculce nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 18/2021 privind desemnarea consilierilor locali din cadrul Consiliului Local al comunei Ion Neculce care vor face parte din Comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al comunei Ion Neculce",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/20899",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/20899",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-19-2021",
    "path": "local/iasi/ion-neculce/2021/19",
    "short": "HCL Ion Neculce nr. 19/2021",
@@ -493,6 +538,21 @@
      "from": "2021-02-25",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/20901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-21-2021",
+   "path": "local/iasi/ion-neculce/2021/21",
+   "short": "HCL Ion Neculce nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 21/2021 privind inițierea procedurii de închiriere a suprafeței de 39,3519 ha teren pășune aflată în proprietatea privată a comunei Ion Neculce, județul Iași",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/20902",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/20902",
      "sha256": null
     }
    ]
@@ -648,6 +708,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-31-2021",
+   "path": "local/iasi/ion-neculce/2021/31",
+   "short": "HCL Ion Neculce nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 31/2021 privind aprobarea organigramei de funcționare și statul de funcții pentru înființarea posturilor didactice și nedidactice din cele 3 grupe de educație preșcolară din cadrul Grădiniței cu Program Prelungit din satul Războieni, comuna Ion Neculce, Județul Iași și a înscrierii în bugetul pentru anul 2021 a sumelor cuvenite salarizării personalului încadrat",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/25569",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-32-2021",
+   "path": "local/iasi/ion-neculce/2021/32",
+   "short": "HCL Ion Neculce nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 32/2021 privind extinderea Acordului de cooperare cu Asociația Comunelor din România în vederea organizării exercitării unor activității stabilite prin lege autorităților administrație publice locale, cu două posturi (muncitor calificat și muncitor necalificat)",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/25570",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25570",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-33-2021",
    "path": "local/iasi/ion-neculce/2021/33",
    "short": "HCL Ion Neculce nr. 33/2021",
@@ -663,6 +753,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-34-2021",
+   "path": "local/iasi/ion-neculce/2021/34",
+   "short": "HCL Ion Neculce nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 34/2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/25572",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-35-2021",
+   "path": "local/iasi/ion-neculce/2021/35",
+   "short": "HCL Ion Neculce nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 35/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/25582",
+   "versions": [
+    {
+     "from": "2021-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25582",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-36-2021",
    "path": "local/iasi/ion-neculce/2021/36",
    "short": "HCL Ion Neculce nr. 36/2021",
@@ -673,6 +793,21 @@
      "from": "2021-04-05",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-37-2021",
+   "path": "local/iasi/ion-neculce/2021/37",
+   "short": "HCL Ion Neculce nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 37/2021 privind modificarea și completarea Art.1, Art.2, Art.3 și Art.4 din H.C.L nr. 21/25.02.2021 privind inițierea procedurii de închiriere a suprafeței de 39,3519 ha teren pășune aflată în proprietatea privată a comunei Ion Neculce, Județul Iași",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/25584",
+   "versions": [
+    {
+     "from": "2021-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25584",
      "sha256": null
     }
    ]
@@ -723,6 +858,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-40-2021",
+   "path": "local/iasi/ion-neculce/2021/40",
+   "short": "HCL Ion Neculce nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 40/2021 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Ion Neculce din data de 22 .04.2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/25592",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25592",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-41-2021",
    "path": "local/iasi/ion-neculce/2021/41",
    "short": "HCL Ion Neculce nr. 41/2021",
@@ -733,6 +883,21 @@
      "from": "2021-04-22",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-42-2021",
+   "path": "local/iasi/ion-neculce/2021/42",
+   "short": "HCL Ion Neculce nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 42/2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/25594",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25594",
      "sha256": null
     }
    ]
@@ -768,6 +933,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-45-2021",
+   "path": "local/iasi/ion-neculce/2021/45",
+   "short": "HCL Ion Neculce nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 45/2021 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al comunei Ion Neculce din data de 14.05.2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/25597",
+   "versions": [
+    {
+     "from": "2021-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-46-2021",
+   "path": "local/iasi/ion-neculce/2021/46",
+   "short": "HCL Ion Neculce nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 46/2021 privind reglementarea acordării ajutoarelor de urgență și ajutoarelor de înmormântare, pentru anul 2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/25598",
+   "versions": [
+    {
+     "from": "2021-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25598",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-47-2021",
    "path": "local/iasi/ion-neculce/2021/47",
    "short": "HCL Ion Neculce nr. 47/2021",
@@ -778,6 +973,21 @@
      "from": "2021-05-14",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-48-2021",
+   "path": "local/iasi/ion-neculce/2021/48",
+   "short": "HCL Ion Neculce nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 48/2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/25600",
+   "versions": [
+    {
+     "from": "2021-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25600",
      "sha256": null
     }
    ]
@@ -843,6 +1053,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-52-2021",
+   "path": "local/iasi/ion-neculce/2021/52",
+   "short": "HCL Ion Neculce nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 52/2021 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local Ion Neculce din data de 21.05.2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/25604",
+   "versions": [
+    {
+     "from": "2021-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25604",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-53-2021",
    "path": "local/iasi/ion-neculce/2021/53",
    "short": "HCL Ion Neculce nr. 53/2021",
@@ -853,6 +1078,21 @@
      "from": "2021-05-21",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-54-2021",
+   "path": "local/iasi/ion-neculce/2021/54",
+   "short": "HCL Ion Neculce nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 54/2021 privind inițierea procedurii de închiriere a suprafeței de 23,00 ha teren pășune aflată în proprietatea privată a comunei Ion Neculce, Județul Iași",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/25606",
+   "versions": [
+    {
+     "from": "2021-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/25606",
      "sha256": null
     }
    ]
@@ -1098,6 +1338,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-7-2021",
+   "path": "local/iasi/ion-neculce/2021/7",
+   "short": "HCL Ion Neculce nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 7/2021 privind aprobarea organizării rețelei școlare de învățământ preuniversitar de stat de pe raza comunei Ion Neculce și aprobarea de denumire pentru unitățile de învățământ de stat în anul școlar 2021-2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/20852",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/20852",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-70-2021",
    "path": "local/iasi/ion-neculce/2021/70",
    "short": "HCL Ion Neculce nr. 70/2021",
@@ -1183,6 +1438,21 @@
      "from": "2021-07-21",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/31086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-76-2021",
+   "path": "local/iasi/ion-neculce/2021/76",
+   "short": "HCL Ion Neculce nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 76/2021 privind aprobarea finantarii din bugetul local cu suma de 2000 lei pentru susţinerea financiară a proiectului zonal ,,Tabara din pridvorul satului”",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/31087",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/31087",
      "sha256": null
     }
    ]
@@ -1278,6 +1548,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-82-2021",
+   "path": "local/iasi/ion-neculce/2021/82",
+   "short": "HCL Ion Neculce nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 82/2021 privind acordarea sumei de 1000 lei, reprezentand premiu, pentru performante în domeniul sportiv, domnișoarei",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/34118",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/34118",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-83-2021",
    "path": "local/iasi/ion-neculce/2021/83",
    "short": "HCL Ion Neculce nr. 83/2021",
@@ -1318,6 +1603,21 @@
      "from": "2021-09-22",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/35985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-86-2021",
+   "path": "local/iasi/ion-neculce/2021/86",
+   "short": "HCL Ion Neculce nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 86/2021 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/40927",
+   "versions": [
+    {
+     "from": "2021-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/40927",
      "sha256": null
     }
    ]

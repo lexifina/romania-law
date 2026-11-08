@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-8-2026",
+"path": "local/iasi/horlesti/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 8/2026 Privind desemnarea consilierilor locali in Comisia pentru evaluarea performantelor profesionale a secretarului general al unităţii administrativ – teritoriale Horlești",
+"short": "HCL Horlești nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-30",
+"latest": "2026-03-30",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/260311",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-9-2026",
 "path": "local/iasi/horlesti/2026/9",
 "kind": "local",
@@ -352,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Horlești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-18-2026",
+"path": "local/iasi/horlesti/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 18/2026 Privind acordarea a trei recompense băneşti în sumă netă de 200 lei cuplului care a împlinit 50 de ani de la încheierea căsătoriei cu domiciliul stabil în comuna Horlesti, judetul Iasi",
+"short": "HCL Horlești nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-30",
+"latest": "2026-03-30",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/260321",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -594,6 +638,29 @@
 "council_name": "Consiliul Local al Comunei Horlești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-30-2026",
+"path": "local/iasi/horlesti/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 30/2026",
+"short": "HCL Horlești nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/267400",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1104,6 +1171,29 @@
 }
 },
 {
+"slug": "hcl-iasi--horlesti-54-2026",
+"path": "local/iasi/horlesti/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 54/2026",
+"short": "HCL Horlești nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/273570",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--horlesti-55-2026",
 "path": "local/iasi/horlesti/2026/55",
 "kind": "local",
@@ -1145,6 +1235,28 @@
 "council_name": "Consiliul Local al Comunei Horlești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-57-2026",
+"path": "local/iasi/horlesti/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 57/2026 privind aprobarea ordinii de zi a şedinţei consiliului local",
+"short": "HCL Horlești nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-13",
+"latest": "2026-07-13",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/277883",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1365,6 +1477,29 @@
 "council_name": "Consiliul Local al Comunei Horlești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--horlesti-68-2026",
+"path": "local/iasi/horlesti/2026/68",
+"kind": "local",
+"year": "2026",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horlești nr. 68/2026",
+"short": "HCL Horlești nr. 68/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://emol.ro/horlesti-is/registru-hcl/282660",
+"council": "iasi/horlesti",
+"council_name": "Consiliul Local al Comunei Horlești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

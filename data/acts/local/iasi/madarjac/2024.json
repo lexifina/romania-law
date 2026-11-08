@@ -201,6 +201,29 @@
 }
 },
 {
+"slug": "hcl-iasi--madarjac-10-2024",
+"path": "local/iasi/madarjac/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 10/2024",
+"short": "HCL Mădârjac nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/150046",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--madarjac-11-2024",
 "path": "local/iasi/madarjac/2024/11",
 "kind": "local",
@@ -332,6 +355,52 @@
 "council_name": "Consiliul Local al Comunei Mădârjac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-17-2024",
+"path": "local/iasi/madarjac/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 17/2024",
+"short": "HCL Mădârjac nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/162848",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-18-2024",
+"path": "local/iasi/madarjac/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 18/2024",
+"short": "HCL Mădârjac nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/162849",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -621,6 +690,51 @@
 }
 },
 {
+"slug": "hcl-iasi--madarjac-32-2024",
+"path": "local/iasi/madarjac/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 32/2024",
+"short": "HCL Mădârjac nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-24",
+"latest": "2024-07-24",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/162863",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-33-2024",
+"path": "local/iasi/madarjac/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 33/2024 privind majorarea indemnizației Primarului Comunei Mădârjac cu 5% nivelul acordat pentru luna decembrie 2023, începând cu data de 1.06.2024 conform prevederilor O.U.G nr.115/14.12.2023 și respectiv majorarea indemnizației Viceprimarului Comunei cu 10% conform prevederilor O.U.G nr.115/14.12.2023, coroborat cu prevederile O.U.G nr.35/23.5.2024",
+"short": "HCL Mădârjac nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-24",
+"latest": "2024-07-24",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/162864",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--madarjac-34-2024",
 "path": "local/iasi/madarjac/2024/34",
 "kind": "local",
@@ -729,6 +843,28 @@
 "council_name": "Consiliul Local al Comunei Mădârjac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--madarjac-39-2024",
+"path": "local/iasi/madarjac/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 39/2024 privind propunerea de evaluare a imobilului unde funcționează dispensarul Comunei Mădărjac și respectiv a dotărilor aferente, în vederea concesionării ( încheieri) unor spații către o serie de persoane juridice pentru desfășurarea unor activități medicale si sau conexe actelor medicale și contractelor unei societăți acreditate în domeniu",
+"short": "HCL Mădârjac nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-27",
+"latest": "2024-09-27",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/170272",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

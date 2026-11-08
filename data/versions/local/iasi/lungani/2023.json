@@ -48,6 +48,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-12-2023",
+   "path": "local/iasi/lungani/2023/12",
+   "short": "HCL Lungani nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 12/2023 privind acordarea unui sprijin financiar pentru procurarea pachețelului zilnic pe perioada anului școlar 2022-2023 pentru copilul BOUREANU Văduț-Ștefan",
+   "url": "https://emol.ro/lungani-is/registru-hcl/106127",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/106127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-13-2023",
+   "path": "local/iasi/lungani/2023/13",
+   "short": "HCL Lungani nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 13/2023 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/106128",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/106128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-14-2023",
+   "path": "local/iasi/lungani/2023/14",
+   "short": "HCL Lungani nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 14/2023 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009-consolidat 2021, prin Actul Adițional nr. 3",
+   "url": "https://emol.ro/lungani-is/registru-hcl/106129",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/106129",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-15-2023",
    "path": "local/iasi/lungani/2023/15",
    "short": "HCL Lungani nr. 15/2023",
@@ -58,6 +103,36 @@
      "from": "2023-05-26",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/112376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-16-2023",
+   "path": "local/iasi/lungani/2023/16",
+   "short": "HCL Lungani nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 16/2023 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/112377",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/112377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-17-2023",
+   "path": "local/iasi/lungani/2023/17",
+   "short": "HCL Lungani nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 17/2023 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/112378",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/112378",
      "sha256": null
     }
    ]
@@ -78,6 +153,126 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-19-2023",
+   "path": "local/iasi/lungani/2023/19",
+   "short": "HCL Lungani nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 19/2023",
+   "url": "https://emol.ro/lungani-is/registru-hcl/112426",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/112426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-2-2023",
+   "path": "local/iasi/lungani/2023/2",
+   "short": "HCL Lungani nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 2/2023 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/92062",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/92062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-20-2023",
+   "path": "local/iasi/lungani/2023/20",
+   "short": "HCL Lungani nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 20/2023 privind rectificarea bugetului de venituri și cheltuieli al comunei Lungani pentru anul 2023, trimestrul II",
+   "url": "https://emol.ro/lungani-is/registru-hcl/112427",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/112427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-21-2023",
+   "path": "local/iasi/lungani/2023/21",
+   "short": "HCL Lungani nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 21/2023 privind includerea teritoriului comunei Lungani, județul Iași, la parteneriatul LEADER înființat la nivelul Asociației GAL Stejarul",
+   "url": "https://emol.ro/lungani-is/registru-hcl/112428",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/112428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-22-2023",
+   "path": "local/iasi/lungani/2023/22",
+   "short": "HCL Lungani nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 22/2023",
+   "url": "https://emol.ro/lungani-is/registru-hcl/112429",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/112429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-23-2023",
+   "path": "local/iasi/lungani/2023/23",
+   "short": "HCL Lungani nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 23/2023 privind aprobarea Studiului de Fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ,,Dezvoltarea infrastructurii pentru biciclete în comuna Lungani, județul Iași\", aprobat pentru finanțarea prin Planul Național de Redresare și Reziliență al României, Componenta 10 - Fondul Local, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/lungani-is/registru-hcl/112430",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/112430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-24-2023",
+   "path": "local/iasi/lungani/2023/24",
+   "short": "HCL Lungani nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 24/2023 privind alegerea președintelui de ședință pentru perioada lunilor Iulie - Septembrie 2023",
+   "url": "https://emol.ro/lungani-is/registru-hcl/112546",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/112546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-25-2023",
+   "path": "local/iasi/lungani/2023/25",
+   "short": "HCL Lungani nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 25/2023 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/112547",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/112547",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-26-2023",
    "path": "local/iasi/lungani/2023/26",
    "short": "HCL Lungani nr. 26/2023",
@@ -93,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-27-2023",
+   "path": "local/iasi/lungani/2023/27",
+   "short": "HCL Lungani nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 27/2023 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/115744",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/115744",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-28-2023",
    "path": "local/iasi/lungani/2023/28",
    "short": "HCL Lungani nr. 28/2023",
@@ -103,6 +313,36 @@
      "from": "2023-08-25",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/124196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-29-2023",
+   "path": "local/iasi/lungani/2023/29",
+   "short": "HCL Lungani nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 29/2023 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/124197",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/124197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-3-2023",
+   "path": "local/iasi/lungani/2023/3",
+   "short": "HCL Lungani nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 3/2023 privind aprobarea proiectului bugetului local de venituri și cheltuieli pentru anul 2023",
+   "url": "https://emol.ro/lungani-is/registru-hcl/92071",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/92071",
      "sha256": null
     }
    ]
@@ -178,6 +418,36 @@
      "from": "2023-09-13",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/124202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-35-2023",
+   "path": "local/iasi/lungani/2023/35",
+   "short": "HCL Lungani nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 35/2023",
+   "url": "https://emol.ro/lungani-is/registru-hcl/124230",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/124230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-36-2023",
+   "path": "local/iasi/lungani/2023/36",
+   "short": "HCL Lungani nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 36/2023 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/124231",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/124231",
      "sha256": null
     }
    ]
@@ -558,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-7-2023",
+   "path": "local/iasi/lungani/2023/7",
+   "short": "HCL Lungani nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 7/2023 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/93937",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/93937",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-8-2023",
    "path": "local/iasi/lungani/2023/8",
    "short": "HCL Lungani nr. 8/2023",
@@ -568,6 +853,21 @@
      "from": "2023-05-26",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/106102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-9-2023",
+   "path": "local/iasi/lungani/2023/9",
+   "short": "HCL Lungani nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 9/2023 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/106103",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/106103",
      "sha256": null
     }
    ]

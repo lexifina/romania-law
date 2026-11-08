@@ -3,6 +3,94 @@
 "shard": "local/iasi/halaucesti/2020",
 "acts": [
 {
+"slug": "hcl-iasi--halaucesti-1-2020",
+"path": "local/iasi/halaucesti/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 1/2020 privind aprobarea rețelei școlare pentru anul școlar 2020-2021 de pe raza comunei Hăăucești",
+"short": "HCL Hălăucești nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-15",
+"latest": "2020-01-15",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6769",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-2-2020",
+"path": "local/iasi/halaucesti/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 2/2020 privind alegerea președintelui de ședință",
+"short": "HCL Hălăucești nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-15",
+"latest": "2020-01-15",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6770",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-3-2020",
+"path": "local/iasi/halaucesti/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 3/2020 privind dezmembrarea imobilului - Teren liceu - aflat pe Domeniul Public al comunei Hălăucești în vederea înscrierii în Cartea Funciară",
+"short": "HCL Hălăucești nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-15",
+"latest": "2020-01-15",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6771",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-4-2020",
+"path": "local/iasi/halaucesti/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 4/2020 privind aprobarea Planului de acțiuni și lucrări de interes local propus a se realiza în anul 2020 cu beneficarii venitului minim garantat, stabilit în condițiile Legii nr. 416/2001",
+"short": "HCL Hălăucești nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-15",
+"latest": "2020-01-15",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6772",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--halaucesti-5-2020",
 "path": "local/iasi/halaucesti/2020/5",
 "kind": "local",
@@ -69,6 +157,160 @@
 }
 },
 {
+"slug": "hcl-iasi--halaucesti-8-2020",
+"path": "local/iasi/halaucesti/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 8/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 34",
+"short": "HCL Hălăucești nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6776",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-9-2020",
+"path": "local/iasi/halaucesti/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 9/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 35",
+"short": "HCL Hălăucești nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6777",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-10-2020",
+"path": "local/iasi/halaucesti/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 10/2020 privind aprobarea Studiului de oportunitate a proiectului - Lucrări de modernizare a iluminatului public în comuna Hălăucești, județul Iași",
+"short": "HCL Hălăucești nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6778",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-11-2020",
+"path": "local/iasi/halaucesti/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 11/2020 privind instrumentarea proiectului - Modernizarea prin asfaltare drumuri sătesti în comuna Hălăucești, județul Iași",
+"short": "HCL Hălăucești nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-25",
+"latest": "2020-02-25",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6779",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-12-2020",
+"path": "local/iasi/halaucesti/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 12/2020 privind alegerea președintelui de ședință",
+"short": "HCL Hălăucești nr. 12/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6784",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-13-2020",
+"path": "local/iasi/halaucesti/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 13/2020 privind acordarea de mandat special în vederea exprimării votului în AGA ARSACIS referitor la completarea, modificarea și actualizarea Actului Constituiv și Statutul Asociației Regionale a Serviciilor de Apă Canal Iași-ARSACIS",
+"short": "HCL Hălăucești nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6785",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-14-2020",
+"path": "local/iasi/halaucesti/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 14/2020 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții - Modernizarea prin asfaltare drumuri sătești în comuna Hălăucești, județul Iași",
+"short": "HCL Hălăucești nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6786",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--halaucesti-15-2020",
 "path": "local/iasi/halaucesti/2020/15",
 "kind": "local",
@@ -88,6 +330,51 @@
 "council_name": "Consiliul Local al Comunei Hălăucești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-16-2020",
+"path": "local/iasi/halaucesti/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 16/2020",
+"short": "HCL Hălăucești nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-29",
+"latest": "2020-04-29",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6789",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-17-2020",
+"path": "local/iasi/halaucesti/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 17/2020 privind acordarea mandatului special reprezentantului UAT Hălăucești în AGA ADIS în vederea aprobării modificării tarifului de colectare și transport a deșeurilor menajere și similare, altele decăt reciclabile, în cadrul proiectului - Sistem de Management Integrat al Deșeurilor din județul Iași - și împuternicirea președintelui ADIS să semneze Actul Adițional nr. 3 la Contractul de delegare a gestiunii serviciului de colecatre și transport a deșeurilor municipale în județul Iași ner. 357/30.10.2018",
+"short": "HCL Hălăucești nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-29",
+"latest": "2020-04-29",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6790",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +400,161 @@
 }
 },
 {
+"slug": "hcl-iasi--halaucesti-19-2020",
+"path": "local/iasi/halaucesti/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 19/2020",
+"short": "HCL Hălăucești nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-27",
+"latest": "2020-05-27",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6795",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-20-2020",
+"path": "local/iasi/halaucesti/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 20/2020 privind aprobarea Raportului de execuţie bugetara a veniturilor şi cheltuielilor pe anul 2019",
+"short": "HCL Hălăucești nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-27",
+"latest": "2020-05-27",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6796",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-21-2020",
+"path": "local/iasi/halaucesti/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 21/2020 privind alegerea presedintelui de şedinţă",
+"short": "HCL Hălăucești nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-10",
+"latest": "2020-06-10",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6797",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-22-2020",
+"path": "local/iasi/halaucesti/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 22/2020 privind implementarea proiectului \"CONSTRUIRE ŞI DOTARE SALĂ DE SPORT IN SAT HĂLĂUCEȘTI, COMUNA HĂLĂUCEŞTI, JUDEŢUL IAŞI” în cadrul Programului Național de Construcții de Interes Public sau Social, Subprogramul „SĂLI DE SPORT”",
+"short": "HCL Hălăucești nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-10",
+"latest": "2020-06-10",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6798",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-23-2020",
+"path": "local/iasi/halaucesti/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 23/2020 privind aprobarea Actului Adițional nr. 37 la Contractul de delegare nr. 48/2009 ce cuprinde modificarea prețului pentru apa potabilă produsă, transportată și distribuită, a prețului pentru apa industrială, a tarifului pentru canalizare și a tarifului pentru epurare, pentru întreaga arie de operare",
+"short": "HCL Hălăucești nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-10",
+"latest": "2020-06-10",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6799",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-24-2020",
+"path": "local/iasi/halaucesti/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 24/2020 privind aprobarea Raportului de execuție bugetară a veniturilor şi cheltuielilor pe la data de 31.03.2020",
+"short": "HCL Hălăucești nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-10",
+"latest": "2020-06-10",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6800",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-25-2020",
+"path": "local/iasi/halaucesti/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 25/2020 privind participarea comunei Hălăucești în cadrul „Programului privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public” finanțat de Administrația Fondului pentru Mediu (AFM) în vederea implementării proiectului \"MODERNIZAREA ILUMINATULUI PUBLIC STRADAL ÎN COMUNA HĂLĂUCEȘTI, JUDEȚUL IAȘI",
+"short": "HCL Hălăucești nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-14",
+"latest": "2020-07-14",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/6801",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--halaucesti-26-2020",
 "path": "local/iasi/halaucesti/2020/26",
 "kind": "local",
@@ -135,6 +577,95 @@
 }
 },
 {
+"slug": "hcl-iasi--halaucesti-27-2020",
+"path": "local/iasi/halaucesti/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 27/2020 privind modificarea bugetului de venituri si cheltuieli al comunei Hălăucești pe anul 2020 prin virare de credite",
+"short": "HCL Hălăucești nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-24",
+"latest": "2020-07-24",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/7278",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-28-2020",
+"path": "local/iasi/halaucesti/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 28/2020 privind modificarea bugetului de venituri si cheltuieli al comunei Hălăucești pe anul 2020 prin suplimentarea de credite",
+"short": "HCL Hălăucești nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-24",
+"latest": "2020-07-24",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/7279",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-29-2020",
+"path": "local/iasi/halaucesti/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 29/2020 privind instrumentarea proiectului „MODERNIZAREA PRIN ASFALTARE DRUMURI SĂTEŞTI ÎN COMUNA HĂLĂUCEȘTI, JUDEȚUL IAȘI”",
+"short": "HCL Hălăucești nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-24",
+"latest": "2020-07-24",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/7280",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-30-2020",
+"path": "local/iasi/halaucesti/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 30/2020",
+"short": "HCL Hălăucești nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-24",
+"latest": "2020-07-24",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/7281",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--halaucesti-31-2020",
 "path": "local/iasi/halaucesti/2020/31",
 "kind": "local",
@@ -154,6 +685,50 @@
 "council_name": "Consiliul Local al Comunei Hălăucești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-32-2020",
+"path": "local/iasi/halaucesti/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 32/2020 privind aprobarea inceperii investitiei si aprobarea indicatorilor tehnico - economici ai Documentației de avizare a lucrarilor de interventie, inclusiv anexa privind descrierea sumară a investiţiei propuse a fi realizată prin proiectul „MODERNIZAREA SI EFICIENTIZAREA SISTEMULUI DE ILUMINAT PUBLIC STRADAL DIN COMUNA HALAUCESTI, JUDETUL IASI”",
+"short": "HCL Hălăucești nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-24",
+"latest": "2020-07-24",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/7283",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-33-2020",
+"path": "local/iasi/halaucesti/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 33/2020 privind modificarea bugetului de venituri si cheltuieli al comunei Hălăucești pe anul 2020 prin suplimentarea de credite",
+"short": "HCL Hălăucești nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-24",
+"latest": "2020-07-24",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/7284",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -242,6 +817,28 @@
 "council_name": "Consiliul Local al Comunei Hălăucești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--halaucesti-38-2020",
+"path": "local/iasi/halaucesti/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 38/2020 privind alegerea presedintelui de şedinţă",
+"short": "HCL Hălăucești nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-22",
+"latest": "2020-09-22",
+"portal": "https://emol.ro/halaucesti-is/registru-hcl/10179",
+"council": "iasi/halaucesti",
+"council_name": "Consiliul Local al Comunei Hălăucești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

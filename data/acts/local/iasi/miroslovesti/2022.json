@@ -556,6 +556,28 @@
 }
 },
 {
+"slug": "hcl-iasi--miroslovesti-26-2022",
+"path": "local/iasi/miroslovesti/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 26/2022 privind aprobarea acordării unui sprijin financiar unității de cult din localitatea și Comuna Miroslovești",
+"short": "HCL Miroslovești nr. 26/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/63932",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--miroslovesti-27-2022",
 "path": "local/iasi/miroslovesti/2022/27",
 "kind": "local",
@@ -620,6 +642,28 @@
 "council_name": "Consiliul Local al Comunei Miroslovești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--miroslovesti-30-2022",
+"path": "local/iasi/miroslovesti/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 30/2022 privind desemnarea a doi consilieri locali în cadrul Comisiei de evaluare a performanțelor individuale ale Secretarului General al UAT Miroslovești",
+"short": "HCL Miroslovești nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-22",
+"latest": "2022-06-22",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/63936",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -752,6 +796,29 @@
 "council_name": "Consiliul Local al Comunei Miroslovești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--miroslovesti-37-2022",
+"path": "local/iasi/miroslovesti/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 37/2022",
+"short": "HCL Miroslovești nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-22",
+"latest": "2022-06-22",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/63968",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1548,6 +1615,28 @@
 }
 },
 {
+"slug": "hcl-iasi--miroslovesti-74-2022",
+"path": "local/iasi/miroslovesti/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 74/2022 privind declararea ca fiind bunuri de uz si interes public local a unor imobile din Comuna Miroslovești",
+"short": "HCL Miroslovești nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-27",
+"latest": "2023-03-27",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/96633",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--miroslovesti-75-2022",
 "path": "local/iasi/miroslovesti/2022/75",
 "kind": "local",
@@ -1878,6 +1967,29 @@
 }
 },
 {
+"slug": "hcl-iasi--miroslovesti-90-2022",
+"path": "local/iasi/miroslovesti/2022/90",
+"kind": "local",
+"year": "2022",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 90/2022",
+"short": "HCL Miroslovești nr. 90/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/99744",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--miroslovesti-91-2022",
 "path": "local/iasi/miroslovesti/2022/91",
 "kind": "local",
@@ -2029,6 +2141,28 @@
 "council_name": "Consiliul Local al Comunei Miroslovești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--miroslovesti-98-2022",
+"path": "local/iasi/miroslovesti/2022/98",
+"kind": "local",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 98/2022 privind aprobarea implementării proiectului Extindere rețea de canalizare în comuna Miroslovești prin PNNR",
+"short": "HCL Miroslovești nr. 98/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-02",
+"latest": "2023-11-02",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/127521",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

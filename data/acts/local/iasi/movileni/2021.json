@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-iasi--movileni-6-2021",
+"path": "local/iasi/movileni/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 6/2021 privind privind inițierea procedurii de închiriere a pajiştilor permanente aflate în proprietatea privată a comunei Movileni , judeţul Iasi –anul 2021",
+"short": "HCL Movileni nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/17633",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--movileni-7-2021",
 "path": "local/iasi/movileni/2021/7",
 "kind": "local",
@@ -132,6 +154,248 @@
 "council_name": "Consiliul Local al Comunei Movileni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-8-2021",
+"path": "local/iasi/movileni/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 8/2021 privind înlocuirea reprezentantului legal al proiectului “ Construire Dispensar Medical in Localitatea Movileni, ComunaMovileni, Judetul Iasi ”",
+"short": "HCL Movileni nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/17635",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-9-2021",
+"path": "local/iasi/movileni/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 9/2021 privind .înlocuirea reprezentantului legal al proiectului “ Extindere retea de alimentare cu apa si canalizare in comuna Movileni, judetul Iași, ”",
+"short": "HCL Movileni nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/17636",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-10-2021",
+"path": "local/iasi/movileni/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 10/2021 privind înlocuirea reprezentantului legal al proiectului “ Reabilitare și extindere Scoala Gimnaziala Larga Jijia corp A si B, comuna Movileni, Judetul Iasi, ”",
+"short": "HCL Movileni nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/17637",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-11-2021",
+"path": "local/iasi/movileni/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 11/2021 privind privind inlocuirea reprezentantului legal al proiectului“ Reabilitare și extindere Scoala Primara Iepureni, corp A si B, comuna Movileni, Judetul Iasi ”",
+"short": "HCL Movileni nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/17639",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-12-2021",
+"path": "local/iasi/movileni/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 12/2021 privind înlocuirea reprezentantului legal al proiectului “ Reabilitare și extindere gradinita cu program normal Movileni, Judetul Iasi",
+"short": "HCL Movileni nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/17638",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-13-2021",
+"path": "local/iasi/movileni/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 13/2021 privind privind înlocuirea reprezentantului legal al proiectului “ Reabilitare Scoala cu clasele I-IV Potangeni, comunaMovileni, Judetul Iasi",
+"short": "HCL Movileni nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/17640",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-14-2021",
+"path": "local/iasi/movileni/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 14/2021 privind .înlocuirea reprezentantului legal al proiectului“ Imbunatatirea calitatii mediului prin lucrari de impadurire a terenurilor agricole degradate, in comuna Movileni, judetul Iasi",
+"short": "HCL Movileni nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/17641",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-15-2021",
+"path": "local/iasi/movileni/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 15/2021 privind înlocuirea reprezentantului legal al proiectului“ Infiintare retea de distributie gaze naturale din comuna Movileni, Judetul Iasi",
+"short": "HCL Movileni nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/17642",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-16-2021",
+"path": "local/iasi/movileni/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 16/2021 privind înlocuirea reprezentantului legal al proiectului Reabilitare, modernizare și dotare așezământ cultural în comunaMovileni, județul Iași",
+"short": "HCL Movileni nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/17643",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-17-2021",
+"path": "local/iasi/movileni/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 17/2021 privind înlocuirea reprezentantului legal al proiectului“ Construire și dotare sală de sport în satul Iepureni , județul Iași",
+"short": "HCL Movileni nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/17644",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-18-2021",
+"path": "local/iasi/movileni/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 18/2021 privind .înlocuirea reprezentantului legal al proiectului“ Reabilitare drumuri comunale afectate în comuna Movileni, localitatea Movileni, jud Iași",
+"short": "HCL Movileni nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/17645",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -333,6 +597,28 @@
 }
 },
 {
+"slug": "hcl-iasi--movileni-28-2021",
+"path": "local/iasi/movileni/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 28/2021 privind încetarea Contractului de închiriere nr.1851/28.02.2019 ,având ca obiect suprafata de 7,2 ha pajisti permanente din domeniul privat al comunei Movileni,jud.Iași",
+"short": "HCL Movileni nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/movileni-is/registru-hcl/18922",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--movileni-29-2021",
 "path": "local/iasi/movileni/2021/29",
 "kind": "local",
@@ -418,6 +704,28 @@
 "council_name": "Consiliul Local al Comunei Movileni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-33-2021",
+"path": "local/iasi/movileni/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 33/2021 privind acordarea unui ajutor de urgență",
+"short": "HCL Movileni nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/movileni-is/registru-hcl/18926",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -575,6 +883,116 @@
 }
 },
 {
+"slug": "hcl-iasi--movileni-41-2021",
+"path": "local/iasi/movileni/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 41/2021 privind încetarea Contractului de inchiriere pentru suprafeţele de pajişti aflate în domeniul privat al comunei Movileni nr.1845/28.02.2019",
+"short": "HCL Movileni nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/movileni-is/registru-hcl/20800",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-42-2021",
+"path": "local/iasi/movileni/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 42/2021 privind privind încetarea Contractului de inchiriere pentru suprafeţele de pajişti aflate în domeniul privat al comunei Movileni nr.1855/28.02.2019",
+"short": "HCL Movileni nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/movileni-is/registru-hcl/20801",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-43-2021",
+"path": "local/iasi/movileni/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 43/2021 privind încetarea Contractului de inchiriere pentru suprafeţele de pajişti aflate în domeniul privat al comunei Movileni nr.1871/28.02.2019",
+"short": "HCL Movileni nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/movileni-is/registru-hcl/20802",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-44-2021",
+"path": "local/iasi/movileni/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 44/2021 privind încetarea Contractului de inchiriere pentru suprafeţele de pajişti aflate în domeniul privat al comunei Movileni nr.1853/28.02.2019",
+"short": "HCL Movileni nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/movileni-is/registru-hcl/20803",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-45-2021",
+"path": "local/iasi/movileni/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 45/2021 privind alegerea președintelui de ședintă al Consiliului local Movileni, pentru perioada aprilie ,mai și iunie 2021",
+"short": "HCL Movileni nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/movileni-is/registru-hcl/20804",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--movileni-46-2021",
 "path": "local/iasi/movileni/2021/46",
 "kind": "local",
@@ -682,6 +1100,50 @@
 "council_name": "Consiliul Local al Comunei Movileni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-51-2021",
+"path": "local/iasi/movileni/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 51/2021 privind privind încetarea Contractului de inchiriere pentru suprafeţele de pajişti aflate în domeniul privat al comunei Movileni nr.1895/28.02.2019",
+"short": "HCL Movileni nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-29",
+"latest": "2021-04-29",
+"portal": "https://emol.ro/movileni-is/registru-hcl/23563",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-52-2021",
+"path": "local/iasi/movileni/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 52/2021 privind aprobarea încetării prin reziliere a contractelor de concesiune și închiriere ca urmare a nerespectării clauzelor si obligațiilor contractuale de către concesionar",
+"short": "HCL Movileni nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-29",
+"latest": "2021-04-29",
+"portal": "https://emol.ro/movileni-is/registru-hcl/23564",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1477,6 +1939,29 @@
 }
 },
 {
+"slug": "hcl-iasi--movileni-89-2021",
+"path": "local/iasi/movileni/2021/89",
+"kind": "local",
+"year": "2021",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 89/2021",
+"short": "HCL Movileni nr. 89/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-06",
+"latest": "2021-08-06",
+"portal": "https://emol.ro/movileni-is/registru-hcl/32183",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--movileni-90-2021",
 "path": "local/iasi/movileni/2021/90",
 "kind": "local",
@@ -1673,6 +2158,28 @@
 "council_name": "Consiliul Local al Comunei Movileni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-99-2021",
+"path": "local/iasi/movileni/2021/99",
+"kind": "local",
+"year": "2021",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 99/2021 privind aprobarea Caietului de sarcini pentru execuția lucrărilor aferente obiectivului de investiție ,,Reabilitare școala cu clasele I-IV Potângeni,comuna Movileni,județul Iași,,și desemnarea Comisiei de evaluare a ofertelor",
+"short": "HCL Movileni nr. 99/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-03",
+"latest": "2021-09-03",
+"portal": "https://emol.ro/movileni-is/registru-hcl/34293",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2138,6 +2645,50 @@
 }
 },
 {
+"slug": "hcl-iasi--movileni-121-2021",
+"path": "local/iasi/movileni/2021/121",
+"kind": "local",
+"year": "2021",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 121/2021 privind alegerea reprezentantilor Consiliului local Movileni în Consiliul de Administratie al Scolii Larga Jijia pentru anul scolar 2021-2022",
+"short": "HCL Movileni nr. 121/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/movileni-is/registru-hcl/36528",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--movileni-122-2021",
+"path": "local/iasi/movileni/2021/122",
+"kind": "local",
+"year": "2021",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 122/2021 privind alegerea președintelui de ședintă al Consiliului local Movileni, pentru perioada octombrie,noiembrie și decembrie 2021",
+"short": "HCL Movileni nr. 122/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/movileni-is/registru-hcl/36529",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--movileni-123-2021",
 "path": "local/iasi/movileni/2021/123",
 "kind": "local",
@@ -2289,6 +2840,28 @@
 "council_name": "Consiliul Local al Comunei Movileni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--movileni-130-2021",
+"path": "local/iasi/movileni/2021/130",
+"kind": "local",
+"year": "2021",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 130/2021 privind desemnarea unui consilier local în Comisia de evaluare a probei de interviu,în calitate de membru ,pentru concursul organizat pentru ocuparea functiilor de director și director adjunct din unitătille de invatamant aflate pe raza comunei Movileni,județul Iași",
+"short": "HCL Movileni nr. 130/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/movileni-is/registru-hcl/39518",
+"council": "iasi/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -641,6 +641,28 @@
 }
 },
 {
+"slug": "hcl-iasi--grajduri-30-2024",
+"path": "local/iasi/grajduri/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 30/2024 HCL - concesionare teren",
+"short": "HCL Grajduri nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-01",
+"latest": "2024-07-01",
+"portal": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#78310",
+"council": "iasi/grajduri",
+"council_name": "Consiliul Local al Comunei Grajduri",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--grajduri-31-2024",
 "path": "local/iasi/grajduri/2024/31",
 "kind": "local",

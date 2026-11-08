@@ -558,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-26-2022",
+   "path": "local/iasi/miroslovesti/2022/26",
+   "short": "HCL Miroslovești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 26/2022 privind aprobarea acordării unui sprijin financiar unității de cult din localitatea și Comuna Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63932",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63932",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-27-2022",
    "path": "local/iasi/miroslovesti/2022/27",
    "short": "HCL Miroslovești nr. 27/2022",
@@ -613,6 +628,21 @@
      "from": "2022-01-28",
      "units": 1,
      "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-30-2022",
+   "path": "local/iasi/miroslovesti/2022/30",
+   "short": "HCL Miroslovești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 30/2022 privind desemnarea a doi consilieri locali în cadrul Comisiei de evaluare a performanțelor individuale ale Secretarului General al UAT Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63936",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63936",
      "sha256": null
     }
    ]
@@ -703,6 +733,21 @@
      "from": "2022-06-22",
      "units": 1,
      "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-37-2022",
+   "path": "local/iasi/miroslovesti/2022/37",
+   "short": "HCL Miroslovești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 37/2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63968",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63968",
      "sha256": null
     }
    ]
@@ -1308,6 +1353,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-74-2022",
+   "path": "local/iasi/miroslovesti/2022/74",
+   "short": "HCL Miroslovești nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 74/2022 privind declararea ca fiind bunuri de uz si interes public local a unor imobile din Comuna Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96633",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96633",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-75-2022",
    "path": "local/iasi/miroslovesti/2022/75",
    "short": "HCL Miroslovești nr. 75/2022",
@@ -1563,6 +1623,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-90-2022",
+   "path": "local/iasi/miroslovesti/2022/90",
+   "short": "HCL Miroslovești nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 90/2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/99744",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/99744",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-91-2022",
    "path": "local/iasi/miroslovesti/2022/91",
    "short": "HCL Miroslovești nr. 91/2022",
@@ -1663,6 +1738,21 @@
      "from": "2023-11-02",
      "units": 1,
      "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/127520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-98-2022",
+   "path": "local/iasi/miroslovesti/2022/98",
+   "short": "HCL Miroslovești nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 98/2022 privind aprobarea implementării proiectului Extindere rețea de canalizare în comuna Miroslovești prin PNNR",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/127521",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/127521",
      "sha256": null
     }
    ]

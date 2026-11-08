@@ -3,6 +3,36 @@
  "shard": "local/iasi/lungani/2025",
  "acts": [
   {
+   "slug": "hcl-iasi--lungani-1-2025",
+   "path": "local/iasi/lungani/2025/1",
+   "short": "HCL Lungani nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 1/2025 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/197482",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/197482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-10-2025",
+   "path": "local/iasi/lungani/2025/10",
+   "short": "HCL Lungani nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 10/2025 privind aprobarea concesionării, punerii la dispoziția concesionarului a terenurilor necesare pentru realizarea obiectivului de investiție ,,Înființare rețele de distruție a gazului metan pe teritoriile administrative ale comunelor asociate: Brăești, Lungani și Sinești\" și participarea la finanțarea investiției",
+   "url": "https://emol.ro/lungani-is/registru-hcl/209221",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/209221",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-11-2025",
    "path": "local/iasi/lungani/2025/11",
    "short": "HCL Lungani nr. 11/2025",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-20-2025",
+   "path": "local/iasi/lungani/2025/20",
+   "short": "HCL Lungani nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 20/2025 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/214482",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/214482",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-21-2025",
    "path": "local/iasi/lungani/2025/21",
    "short": "HCL Lungani nr. 21/2025",
@@ -198,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-24-2025",
+   "path": "local/iasi/lungani/2025/24",
+   "short": "HCL Lungani nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 24/2025 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/214497",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/214497",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-25-2025",
    "path": "local/iasi/lungani/2025/25",
    "short": "HCL Lungani nr. 25/2025",
@@ -228,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-27-2025",
+   "path": "local/iasi/lungani/2025/27",
+   "short": "HCL Lungani nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 27/2025 privind acordarea unui ajutor de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/234382",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/234382",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-28-2025",
    "path": "local/iasi/lungani/2025/28",
    "short": "HCL Lungani nr. 28/2025",
@@ -238,6 +313,36 @@
      "from": "2025-07-18",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/234383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-29-2025",
+   "path": "local/iasi/lungani/2025/29",
+   "short": "HCL Lungani nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 29/2025 privind acordarea unui ajutor de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/234393",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/234393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-3-2025",
+   "path": "local/iasi/lungani/2025/3",
+   "short": "HCL Lungani nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 3/2025 privind acordarea unui premiu în sumă netă de 500 lei, de la bugetul local, cuplurilor care au împlinit 50 de ani de căsătorie neîntreruptă",
+   "url": "https://emol.ro/lungani-is/registru-hcl/197499",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/197499",
      "sha256": null
     }
    ]
@@ -268,6 +373,21 @@
      "from": "2025-08-22",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/234395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-32-2025",
+   "path": "local/iasi/lungani/2025/32",
+   "short": "HCL Lungani nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 32/2025 privind acordarea unui ajutor de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/234396",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/234396",
      "sha256": null
     }
    ]
@@ -543,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-5-2025",
+   "path": "local/iasi/lungani/2025/5",
+   "short": "HCL Lungani nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 5/2025 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/lungani-is/registru-hcl/197534",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/197534",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-50-2025",
    "path": "local/iasi/lungani/2025/50",
    "short": "HCL Lungani nr. 50/2025",
@@ -658,6 +793,21 @@
      "from": "2025-12-22",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/244312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-6-2025",
+   "path": "local/iasi/lungani/2025/6",
+   "short": "HCL Lungani nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 6/2025 privind aprobarea punerii la dispoziția concesionarului cu titlu gratuit a terenurilor necesare pentru realizarea obiectivelor sistemului de utilitate publică de distribuție a gazelor naturale în comuna Lungani, județul Iași, pe toată durata concesiunii, precum și a terenurilor necesare organizării de șantier pe durata realizării investiției",
+   "url": "https://emol.ro/lungani-is/registru-hcl/197535",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/197535",
      "sha256": null
     }
    ]
