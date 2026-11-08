@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/vitanesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--vitanesti-1-2020",
+   "path": "local/teleorman/vitanesti/2020/1",
+   "short": "HCL Vitănești nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 1/2020 privind aprobarea Planului anual de actiuni si lucrari de interes local ce vor fi prestate de beneficiarii Legii nr.416/2001 privind venitul minim garantat, cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/1368",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/1368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-11-2020",
+   "path": "local/teleorman/vitanesti/2020/11",
+   "short": "HCL Vitănești nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 11/2020 privind rectificarea bugetului local de venituri si cheltuieli al comunei Vitănești pe anul 2020;",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/1378",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/1378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-12-2020",
+   "path": "local/teleorman/vitanesti/2020/12",
+   "short": "HCL Vitănești nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 12/2020 privind stabilirea şi aprobarea nivelurilor taxelor şi impozitelor locale pentru anul fiscal 2021",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/1379",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/1379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-13-2020",
+   "path": "local/teleorman/vitanesti/2020/13",
+   "short": "HCL Vitănești nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 13/2020 privind alocarea unei sume din bugetul local, capitolul 67.02. Cultură, recreere şi religie",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/1380",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/1380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-14-2020",
+   "path": "local/teleorman/vitanesti/2020/14",
+   "short": "HCL Vitănești nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 14/2020 privind stabilirea masurilor ce se impun pentru gospodarirea si înfrumusetarea comunei, conform OG nr. 21/2002, privind gospodarirea comunala",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/5800",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/5800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-16-2020",
+   "path": "local/teleorman/vitanesti/2020/16",
+   "short": "HCL Vitănești nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 16/2020 privind modificarea si completarea HCL Nr. 15/ 21.05.2019 pentru aprobarea indicatorilor tehnico-economici actualizati in urma modificarilor survenite pe parcursul executiei, materializate prin dispozitiile de santier emise pentru obiectivul de investitii „REALIZARE SISTEM DE ALIMENTARE CU APA IN COMUNA VITANESTI, JUDETUL TELEORMAN",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/5802",
+   "versions": [
+    {
+     "from": "2020-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/5802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-17-2020",
+   "path": "local/teleorman/vitanesti/2020/17",
+   "short": "HCL Vitănești nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 17/2020 modificarea inventarului bunurilor ce aparțin domeniului public al comunei Vitănești, județ Teleorman;",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/5803",
+   "versions": [
+    {
+     "from": "2020-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/5803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-18-2020",
+   "path": "local/teleorman/vitanesti/2020/18",
+   "short": "HCL Vitănești nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 18/2020 privind alocarea unor sume din bugetul local al comunei Vitănești pentru sprijinirea Parohiilor Purani si Silistea-Grosu, comuna Vitănești, județul Teleorman",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/5804",
+   "versions": [
+    {
+     "from": "2020-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/5804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-2-2020",
+   "path": "local/teleorman/vitanesti/2020/2",
+   "short": "HCL Vitănești nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 2/2020 privind aprobarea Planului de analiză şi acoperire a riscurilor al comunei Vitănești pe anul 2020",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/1369",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/1369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-3-2020",
+   "path": "local/teleorman/vitanesti/2020/3",
+   "short": "HCL Vitănești nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 3/2020 privind utilizarea excedentului anual al bugetului local pentru secţiunea de dezvoltare pe anul 2020",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/1370",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/1370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-4-2020",
+   "path": "local/teleorman/vitanesti/2020/4",
+   "short": "HCL Vitănești nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 4/2020",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/1371",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/1371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-5-2020",
+   "path": "local/teleorman/vitanesti/2020/5",
+   "short": "HCL Vitănești nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 5/2020 privind instituirii taxei speciale de salubrizare pentru persoanele fizice si a Regulamentului privind adoptarea taxei speciale de salubrizare pentru persoanele fizice",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/1373",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/1373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-6-2020",
+   "path": "local/teleorman/vitanesti/2020/6",
+   "short": "HCL Vitănești nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 6/2020 privind aprobarea cuantumului burselor acordate elevilor din cadru instituţiei de învăţământ preuniversitar de stat-Şcoala gimnazială VITĂNEȘTI, ce se vor acorda în anul şcolar 2019 – 2020",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/1372",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/1372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-7-2020",
+   "path": "local/teleorman/vitanesti/2020/7",
+   "short": "HCL Vitănești nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 7/2020 privind aprobarea bugetului local pe anul 2020 şi a estimărilor pe anii 2021-2023, a bugetului instituţiilor publice finanţate integral sau parţial din venituri proprii, a bugetului creditelor interne şi a Listei de investiţii pe anul 2020",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/1375",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/1375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-8-2020",
+   "path": "local/teleorman/vitanesti/2020/8",
+   "short": "HCL Vitănești nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 8/2020 privind aprobarea contractului cadru de prestare a serviciului de salubrizare în Comuna VITĂNEȘTI",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/1374",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/1374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--vitanesti-9-2020",
+   "path": "local/teleorman/vitanesti/2020/9",
+   "short": "HCL Vitănești nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 9/2020 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului comunei VITĂNEȘTI, Judeţul Teleorman",
+   "url": "https://emol.ro/vitanesti-tr/registru-hcl/1377",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vitanesti-tr/registru-hcl/1377",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

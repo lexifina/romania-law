@@ -3,6 +3,95 @@
 "shard": "local/teleorman/islaz/2024",
 "acts": [
 {
+"slug": "hcl-teleorman--islaz-20-2024",
+"path": "local/teleorman/islaz/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Islaz nr. 20/2024",
+"short": "HCL Islaz nr. 20/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-18",
+"latest": "2024-04-18",
+"portal": "https://emol.ro/islaz-tr/registru-hcl/152826",
+"council": "teleorman/islaz",
+"council_name": "Consiliul Local al Comunei Islaz",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-teleorman--islaz-21-2024",
+"path": "local/teleorman/islaz/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Islaz nr. 21/2024 privind aprobarea participării UAT Comuna Islaz, județul Teleorman în cadrul ,,Programului vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate” – sesiunea 2024 derulat de Administrația Fondului pentru Mediu (A.F.M.) și depunerii proiectului ,,Înființare sistem canalizare menajeră în satul Moldoveni, comuna Islaz, județul Teleorman”",
+"short": "HCL Islaz nr. 21/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-18",
+"latest": "2024-04-18",
+"portal": "https://emol.ro/islaz-tr/registru-hcl/152827",
+"council": "teleorman/islaz",
+"council_name": "Consiliul Local al Comunei Islaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--islaz-24-2024",
+"path": "local/teleorman/islaz/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Islaz nr. 24/2024 privind aprobarea contului de execuţie bugetară pe cele două secţiuni: funcţionare şi dezvoltare precum şi situaţia financiară la 29.03.2024",
+"short": "HCL Islaz nr. 24/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/islaz-tr/registru-hcl/156039",
+"council": "teleorman/islaz",
+"council_name": "Consiliul Local al Comunei Islaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--islaz-38-2024",
+"path": "local/teleorman/islaz/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Islaz nr. 38/2024 privind aprobarea contului de execuţie bugetară pe cele două secţiuni: funcţionare şi dezvoltare precum şi situaţia financiară la 28.06.2024",
+"short": "HCL Islaz nr. 38/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "https://emol.ro/islaz-tr/registru-hcl/169206",
+"council": "teleorman/islaz",
+"council_name": "Consiliul Local al Comunei Islaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-teleorman--islaz-42-2024",
 "path": "local/teleorman/islaz/2024/42",
 "kind": "local",

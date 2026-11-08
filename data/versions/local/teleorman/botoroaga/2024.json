@@ -3,6 +3,366 @@
  "shard": "local/teleorman/botoroaga/2024",
  "acts": [
   {
+   "slug": "hcl-teleorman--botoroaga-1-2024",
+   "path": "local/teleorman/botoroaga/2024/1",
+   "short": "HCL Botoroaga nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 1/2024 privind aprobarea contului anual de încheiere a exercițiului bugetar și situațiilor financiare pe anul 2023",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191138",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-13-2024",
+   "path": "local/teleorman/botoroaga/2024/13",
+   "short": "HCL Botoroaga nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 13/2024",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191187",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-14-2024",
+   "path": "local/teleorman/botoroaga/2024/14",
+   "short": "HCL Botoroaga nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 14/2024 privind rectificarea bugetului local al comunei Botoroaga, pe anul 2024",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191204",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-18-2024",
+   "path": "local/teleorman/botoroaga/2024/18",
+   "short": "HCL Botoroaga nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 18/2024 privind aprobarea valorii de inventar al imobilelor care fac obiectul investiției în cadrul proiectului „Modernizare drumuri de exploatare în comuna Botoroaga, județul Teleorman”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191208",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-19-2024",
+   "path": "local/teleorman/botoroaga/2024/19",
+   "short": "HCL Botoroaga nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 19/2024 privind analiza stadiului de înscriere a datelor în Registrul agricol, în trimestrul IV/2023 și stabilirea unor măsuri pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191209",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-20-2024",
+   "path": "local/teleorman/botoroaga/2024/20",
+   "short": "HCL Botoroaga nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 20/2024 privind aprobarea „Planului de Analiză și Acoperire a Riscurilor pentru anul 2024”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191210",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-23-2024",
+   "path": "local/teleorman/botoroaga/2024/23",
+   "short": "HCL Botoroaga nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 23/2024 privind contul de inchidere a exercițiului bugetar pe trimestrul I, anul 2024",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191213",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-24-2024",
+   "path": "local/teleorman/botoroaga/2024/24",
+   "short": "HCL Botoroaga nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 24/2024 privind aprobarea indexării impozitelor și taxelor locale pentru anul 2025 cu rata inflației de 10,4%",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191214",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-26-2024",
+   "path": "local/teleorman/botoroaga/2024/26",
+   "short": "HCL Botoroaga nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 26/2024 privind analiza stadiului de înscriere a datelor în Registrul agricol, în trinestrul I, anul 2024 și stabilirea unor măsuri pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191219",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-28-2024",
+   "path": "local/teleorman/botoroaga/2024/28",
+   "short": "HCL Botoroaga nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 28/2024 privind actualizarea devizului general și a indicatorilor tehnico-economici la obiectivul de investiții „Reabilitare moderată a școlii din satul Călugăru și a grădiniței din Valea Cireșului, comuna Botoroaga, județul teleorman",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191221",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-29-2024",
+   "path": "local/teleorman/botoroaga/2024/29",
+   "short": "HCL Botoroaga nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 29/2024 privind actualizarea în urma achiziției de lucrări a devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizare drumuri în comuna Botororaga, județul teleorman, aprobat pentru finanțare prin Programul național de investiți Anghel Saligny”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191222",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-3-2024",
+   "path": "local/teleorman/botoroaga/2024/3",
+   "short": "HCL Botoroaga nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 3/2024 privind aprobarea utilizării de către Unitatea Administrativ Teritorială Comuna Botoroaga a excedentului anual al bugetului local anilor precedenți",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191140",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-30-2024",
+   "path": "local/teleorman/botoroaga/2024/30",
+   "short": "HCL Botoroaga nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 30/2024 privind aprobarea exceptării Serviciului Public Apă Canal comuna Botoroaga, de la aplicarea prevederilor art.XXIX, alin (1) din Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191223",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-33-2024",
+   "path": "local/teleorman/botoroaga/2024/33",
+   "short": "HCL Botoroaga nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 33/2024 privind contractarea unui împrumut de la Ministerul Finanțelor",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191231",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-35-2024",
+   "path": "local/teleorman/botoroaga/2024/35",
+   "short": "HCL Botoroaga nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 35/2024 privind rectificarea bugetului local al comunei Botoroaga, pe anul 2024",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191233",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-37-2024",
+   "path": "local/teleorman/botoroaga/2024/37",
+   "short": "HCL Botoroaga nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 37/2024 privind contul de închidere a exercițiului bugetar pe trimestrul al II-lea, anul 2024",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191235",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-40-2024",
+   "path": "local/teleorman/botoroaga/2024/40",
+   "short": "HCL Botoroaga nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 40/2024 privind analiza stadiului de înscriere a datelor în Registrul agricol, în trimestrul al II-lea, anul 2024 și stabilirea unor măsuri pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191238",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-42-2024",
+   "path": "local/teleorman/botoroaga/2024/42",
+   "short": "HCL Botoroaga nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 42/2024 privind rectificarea bugetului local al comunei Botoroaga, pe anul 2024",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191240",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-44-2024",
+   "path": "local/teleorman/botoroaga/2024/44",
+   "short": "HCL Botoroaga nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 44/2024",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/195045",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/195045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-46-2024",
+   "path": "local/teleorman/botoroaga/2024/46",
+   "short": "HCL Botoroaga nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 46/2024 privind modificarea HCL nr. 6/23.01.2024 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru realizarea obiectivului de investiții „Realizarea Planului Urbanistic General al comunei Bototrorga, județul Teleorman”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/195047",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/195047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-48-2024",
+   "path": "local/teleorman/botoroaga/2024/48",
+   "short": "HCL Botoroaga nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 48/2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr.107/2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/195049",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/195049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-49-2024",
+   "path": "local/teleorman/botoroaga/2024/49",
+   "short": "HCL Botoroaga nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 49/2024 privind constituirea Consiliului Comunitar Consultativ al comunei Botoroaga, județul Teleorman și aprobarea Regulamentului de organizare și funcționare",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/195050",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/195050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-50-2024",
+   "path": "local/teleorman/botoroaga/2024/50",
+   "short": "HCL Botoroaga nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 50/2024 privind rectificarea bugetului local al comunei Botoroaga, pe anul 2024",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/195070",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/195070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-51-2024",
+   "path": "local/teleorman/botoroaga/2024/51",
+   "short": "HCL Botoroaga nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 51/2024 privind anularea unui procent din obligațiile bugetare principale și a tuturor accesoriilor obligațiilor bugetare principale restante potrivit prevederilor OUG 107/04.09.2024 modificată prin OUG 112/23.09.2024",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/195071",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/195071",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--botoroaga-57-2024",
    "path": "local/teleorman/botoroaga/2024/57",
    "short": "HCL Botoroaga nr. 57/2024",
@@ -43,6 +403,21 @@
      "from": "2024-11-08",
      "units": 1,
      "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/195119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-6-2024",
+   "path": "local/teleorman/botoroaga/2024/6",
+   "short": "HCL Botoroaga nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 6/2024 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru realizarea obiectivului de investiții „Reactualizarea Planului Urbanistic General al comunei Botoroaga, județul teleorman",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191143",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191143",
      "sha256": null
     }
    ]
@@ -198,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--botoroaga-7-2024",
+   "path": "local/teleorman/botoroaga/2024/7",
+   "short": "HCL Botoroaga nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 7/2024 privind acoperirea deficitului bugetar, secțiunea de dezvoltare, sursa A, în sumă de 1.888.917,70 lei al anului 2023, din excedentul bugetar al anului 2022",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191144",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191144",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--botoroaga-70-2024",
    "path": "local/teleorman/botoroaga/2024/70",
    "short": "HCL Botoroaga nr. 70/2024",
@@ -298,6 +688,36 @@
      "from": "2024-12-24",
      "units": 1,
      "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/195151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-8-2024",
+   "path": "local/teleorman/botoroaga/2024/8",
+   "short": "HCL Botoroaga nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 8/2024 privind aprobarea bugetului general de venituri și cheltuieli pe anul 2024 al comunei Botoroaga",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191182",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-9-2024",
+   "path": "local/teleorman/botoroaga/2024/9",
+   "short": "HCL Botoroaga nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 9/2024 privind aprobarea utilizării de către Unitatea Administrativ Teritoarială Comuna Botoroaga a excedentului anual al bugetului local anilor precedenți",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/191183",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/191183",
      "sha256": null
     }
    ]

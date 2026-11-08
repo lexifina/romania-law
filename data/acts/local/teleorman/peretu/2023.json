@@ -3,6 +3,50 @@
 "shard": "local/teleorman/peretu/2023",
 "acts": [
 {
+"slug": "hcl-teleorman--peretu-7-2023",
+"path": "local/teleorman/peretu/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peretu nr. 7/2023 privind aprobarea bugetului centralizat de venituri și cheltuieli al comunei Peretu pe anul 2023",
+"short": "HCL Peretu nr. 7/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-20",
+"latest": "2023-04-20",
+"portal": "https://emol.ro/peretu-tr/registru-hcl/91884",
+"council": "teleorman/peretu",
+"council_name": "Consiliul Local al Comunei Peretu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--peretu-33-2023",
+"path": "local/teleorman/peretu/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peretu nr. 33/2023 privind aprobarea înființării și delegarii prin concesiune a Serviciului de iluminat public al COMUNEI PERETU, județul TELEORMAN, a studiului de fundamentare a deciziei de delegarea a Servicului Public de Iluminat al COMUNEI PERETU , Judetul TELEORMAN, a Regulamentului de Organizare și funcționare al serviciului de iluminat public, a Caietului de Sarcini, a documentatiei de atribuire prin procedura simplificata",
+"short": "HCL Peretu nr. 33/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-01",
+"latest": "2023-08-01",
+"portal": "https://emol.ro/peretu-tr/registru-hcl/114725",
+"council": "teleorman/peretu",
+"council_name": "Consiliul Local al Comunei Peretu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-teleorman--peretu-54-2023",
 "path": "local/teleorman/peretu/2023/54",
 "kind": "local",

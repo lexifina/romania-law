@@ -3,6 +3,246 @@
  "shard": "local/teleorman/sarbeni/2025",
  "acts": [
   {
+   "slug": "hcl-teleorman--sarbeni-1-2025",
+   "path": "local/teleorman/sarbeni/2025/1",
+   "short": "HCL Sârbeni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 1/2025 privind aprobarea acoperirii definitive a deficitului de 137 088 lei aferent sectiunii dezvoltare sursa E, inregistrat in executia bugetara a anului 2024, din execedentul bugetului local al comunei Sarbeni, inregistrat in anii anteriori",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/192157",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/192157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-10-2025",
+   "path": "local/teleorman/sarbeni/2025/10",
+   "short": "HCL Sârbeni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 10/2025 privind aprobarea bugetului de venituri proprii și cheltuieli al comunei Sârbeni, județul Teleorman pentru anul 2025 și previziuni pentru anii 2026, 2027 și 2028",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/199265",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/199265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-16-2025",
+   "path": "local/teleorman/sarbeni/2025/16",
+   "short": "HCL Sârbeni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 16/2025 privind rectificarea bugetului local al comunei SÂRBENI, pe luna APRILIE, anul 2025",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/207841",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/207841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-17-2025",
+   "path": "local/teleorman/sarbeni/2025/17",
+   "short": "HCL Sârbeni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 17/2025 privind aprobarea contractului de concesiune a spaţiului cu destinaţia de cabinet medical, situat în Comuna Sarbeni, satul Sarbenii de jos, strada Primariei, nr. 83",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/214067",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/214067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-18-2025",
+   "path": "local/teleorman/sarbeni/2025/18",
+   "short": "HCL Sârbeni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 18/2025 privind alegerea președintelui de ședință pentru lunile: IULIE, AUGUST si SEPTEMBRIE 2025",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/215638",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/215638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-19-2025",
+   "path": "local/teleorman/sarbeni/2025/19",
+   "short": "HCL Sârbeni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 19/2025 privind insusirea raportului informarii si consultarii publicului, in etapa elaborarii propunerilor preliminare , pentru actualizarea Planului Urbanistic General al comunei Sarbeni, judetul Teleorman",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/215643",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/215643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-2-2025",
+   "path": "local/teleorman/sarbeni/2025/2",
+   "short": "HCL Sârbeni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 2/2025 privind aprobarea contului de executie al bugetului local, si al bugetului finantat din venituri proprii pe anul 2024",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/192158",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/192158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-20-2025",
+   "path": "local/teleorman/sarbeni/2025/20",
+   "short": "HCL Sârbeni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 20/2025 privind aprobarea Programului de actiuni comunitare la nivelul comunei Sarbeni pentru anul 2025",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/215644",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/215644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-21-2025",
+   "path": "local/teleorman/sarbeni/2025/21",
+   "short": "HCL Sârbeni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 21/2025 privind aprobarea colaborarii interinstitutionale din cadrul proiectului ,,Furnizare de servicii integrate in comunitatile rurale-facilitarea accesului persoanelor vulnerabile la servicii de baza eficiente si de calitate’’",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/223129",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/223129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-22-2025",
+   "path": "local/teleorman/sarbeni/2025/22",
+   "short": "HCL Sârbeni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 22/2025 privind înființarea și organizarea serviciului public de interes local, specializat, cu personalitate juridică, denumit „Serviciu Public Apă – Canal Comuna SARBENI ”, organizat în subordinea Consiliului Local al Comunei SARBENI, Județul Teleorman",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/223130",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/223130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-23-2025",
+   "path": "local/teleorman/sarbeni/2025/23",
+   "short": "HCL Sârbeni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 23/2025 privind actualizarea serviciului voluntar pentru situații de urgență al comisiei Sârbeni, județul Teleorman",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/223131",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/223131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-24-2025",
+   "path": "local/teleorman/sarbeni/2025/24",
+   "short": "HCL Sârbeni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 24/2025 privind aprobarea colaborării, interinstituționale din cadrul proiectului„Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/223132",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/223132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-25-2025",
+   "path": "local/teleorman/sarbeni/2025/25",
+   "short": "HCL Sârbeni nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 25/2025 privind rectificarea bugetului local al comunei Sârbeni, pe luna august, anul 2025",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/223133",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/223133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-26-2025",
+   "path": "local/teleorman/sarbeni/2025/26",
+   "short": "HCL Sârbeni nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 26/2025 privind alegere președinte de ședință pentru lunile: septembrie, octombrie si noiembrie 2025",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/223134",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/223134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-27-2025",
+   "path": "local/teleorman/sarbeni/2025/27",
+   "short": "HCL Sârbeni nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 27/2025 privind rectificarea bugetului local al comunei SÂRBENI, pe luna septembrie, anul 2025",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/230974",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/230974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-28-2025",
+   "path": "local/teleorman/sarbeni/2025/28",
+   "short": "HCL Sârbeni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 28/2025 privind implementarea proiectului „ ACHIZITIA DE ECHIPAMENTE SI TEHNOLOGII INTELIGENTE PENTRU DIGITALIZAREA SERVICIILOR ADMINISTRATIVE DIN COMUNA SÂRBENI, JUDETUL TELEORMAN INTERVENTIA DR 36 - LEADER",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/231006",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/231006",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--sarbeni-29-2025",
    "path": "local/teleorman/sarbeni/2025/29",
    "short": "HCL Sârbeni nr. 29/2025",
@@ -13,6 +253,21 @@
      "from": "2025-10-02",
      "units": 1,
      "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/231026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-3-2025",
+   "path": "local/teleorman/sarbeni/2025/3",
+   "short": "HCL Sârbeni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 3/2025 privind aprobarea Planului de actiuni si lucrarii de interes local pe anul 2025, a listei privind beneficiari venitului minim de incluziune, precum si persoanele, care urmeaza sa efectueze actiuni si lucrari de interes local",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/192161",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/192161",
      "sha256": null
     }
    ]
@@ -298,6 +553,51 @@
      "from": "2026-01-16",
      "units": 1,
      "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/246994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-5-2025",
+   "path": "local/teleorman/sarbeni/2025/5",
+   "short": "HCL Sârbeni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 5/2025 privind aprobarea si utilizarea excedentului bugetar, în sumă de 63 235.03 lei, înregistrat la bugetul local, pentru anul bugetar 2024",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/192163",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/192163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-8-2025",
+   "path": "local/teleorman/sarbeni/2025/8",
+   "short": "HCL Sârbeni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 8/2025 privind aprobarea indicatorilor tehnico-economici, a cofinanțării și a Devizului General pentru obiectivul de investiție Actualizarea Planului Urbanistic General și a Regulamentului de Urbanism al comunei SÂRBENI și introducerea în format GIS",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/199248",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/199248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--sarbeni-9-2025",
+   "path": "local/teleorman/sarbeni/2025/9",
+   "short": "HCL Sârbeni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sârbeni nr. 9/2025 privind aprobarea bugetului local de venituri și cheltuieli al comunei Sârbeni, județul Teleorman pentru anul 2025 și previziuni pentru anii 2026, 2027 și 2028",
+   "url": "https://emol.ro/sarbeni-tr/registru-hcl/199251",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarbeni-tr/registru-hcl/199251",
      "sha256": null
     }
    ]

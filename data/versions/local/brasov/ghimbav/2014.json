@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/ghimbav/2014",
+ "acts": [
+  {
+   "slug": "hcl-brasov--ghimbav-6-2014",
+   "path": "local/brasov/ghimbav/2014/6",
+   "short": "HCL Ghimbav nr. 6/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 6/2014 Pentru Copii Abandonati de la plata impozitului pe cladire Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL6-2014.pdf",
+     "sha256": "07c5b17ca6959b0f36bb250e68c8d7b76915a878a91f749d1338e2f457bb8465"
+    }
+   ]
+  }
+ ]
+}

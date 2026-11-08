@@ -3,6 +3,411 @@
  "shard": "local/teleorman/dracsenei/2025",
  "acts": [
   {
+   "slug": "hcl-teleorman--dracsenei-1-2025",
+   "path": "local/teleorman/dracsenei/2025/1",
+   "short": "HCL Drăcșenei nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 1/2025 privind modificarea pct. 4 și 5 din cap.IX – alte taxe locale, art.486, alin.(2) din anexa nr.1 la hotărârea consiliului local nr.25/2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul fiscal 2025",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/196872",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/196872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-10-2025",
+   "path": "local/teleorman/dracsenei/2025/10",
+   "short": "HCL Drăcșenei nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 10/2025",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/196887",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/196887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-11-2025",
+   "path": "local/teleorman/dracsenei/2025/11",
+   "short": "HCL Drăcșenei nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 11/2025 privind aprobarea bugetului local al comunei Drăcşenei pentru anul 2025 şi estimările pentru anii 2026 – 2028",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/202418",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/202418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-12-2025",
+   "path": "local/teleorman/dracsenei/2025/12",
+   "short": "HCL Drăcșenei nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 12/2025 privind modificarea hotărârii nr.5/2025 privind aprobarea utilizării sumei de 340 mii lei din excedentul anual al bugetului local rezultat la închiderea exerciţiului bugetar al anului 2024, ca sursă de finanţare a cheltuielilor secţiunii de dezvoltare a bugetului local al comunei Drăcşenei pe anul 2025",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/202419",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/202419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-14-2025",
+   "path": "local/teleorman/dracsenei/2025/14",
+   "short": "HCL Drăcșenei nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 14/2025 privind aprobarea utilizării excedentului anual rezultat din execuţia bugetului de venituri şi cheltuieli finanţat din venituri proprii – sursa E pe anul 2024 al unităţii de învăţământ preuniversitar de stat cu personalitate juridică „Şcoala Gimnazială comuna Drăcşenei”",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/202421",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/202421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-15-2025",
+   "path": "local/teleorman/dracsenei/2025/15",
+   "short": "HCL Drăcșenei nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 15/2025 privind aprobarea bugetului de venituri şi cheltuieli al unităţii de învăţământ preuniversitar de stat cu personalitate juridică „Şcoala Gimnazială comuna Drăcşenei”, finanţat din transferuri din bugetul local pe anul 2025 şi estimările pentru anii 2026 – 2028 și a bugetului de venituri şi cheltuieli al unităţii de învăţământ preuniversitar de stat cu personalitate juridică „Şcoala Gimnazială comuna Drăcşenei” finanţat din venituri proprii (extrabugetare) – sursa E pe anul 2025",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/202422",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/202422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-16-2025",
+   "path": "local/teleorman/dracsenei/2025/16",
+   "short": "HCL Drăcșenei nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 16/2025 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2025",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219438",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-17-2025",
+   "path": "local/teleorman/dracsenei/2025/17",
+   "short": "HCL Drăcșenei nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 17/2025 privind alocarea unei sume din bugetul local al comunei Drăcșenei pe anul 2025 pentru finanțarea programului sportiv al Asociației Club Sportiv Viitorul Drăcșenei",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219439",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-18-2025",
+   "path": "local/teleorman/dracsenei/2025/18",
+   "short": "HCL Drăcșenei nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 18/2025 privind indexarea și stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, pentru anul fiscal 2026",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219440",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-19-2025",
+   "path": "local/teleorman/dracsenei/2025/19",
+   "short": "HCL Drăcșenei nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 19/2025 privind alegerea preşedintelui de şedinţă pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219441",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-2-2025",
+   "path": "local/teleorman/dracsenei/2025/2",
+   "short": "HCL Drăcșenei nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 2/2025 privind reducerea impozitului pe mijloacele de transport pentru mijloacele de transport hibride, care se aplică în anul fiscal 2025",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/196873",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/196873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-20-2025",
+   "path": "local/teleorman/dracsenei/2025/20",
+   "short": "HCL Drăcșenei nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 20/2025 privind participarea la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic 2025-2030, cu proiectul: „Achiziţionare autovehicule electrice / plug-in hibrid pentru UAT Comuna Drăcșenei, judetul Teleorman",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219448",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-21-2025",
+   "path": "local/teleorman/dracsenei/2025/21",
+   "short": "HCL Drăcșenei nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 21/2025 privind modificarea pct. 4 și 5 din cap.IX – alte taxe locale, art.486, alin.(2) din anexa nr.1 la hotărârea consiliului local nr.25/2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul fiscal 2025",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219449",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-22-2025",
+   "path": "local/teleorman/dracsenei/2025/22",
+   "short": "HCL Drăcșenei nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 22/2025 privind aprobarea încheierii contractului de custodie şi a modelului acestuia, în cadrul proiectului: „DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT PREUNIVERSITAR DIN COMUNA DRĂCȘENEI, JUDEȚUL TELEORMAN”, finanţat prin Programul Naţional de Redresare şi Rezilienţă, Componenta CI 5: Educaţie",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219450",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-23-2025",
+   "path": "local/teleorman/dracsenei/2025/23",
+   "short": "HCL Drăcșenei nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 23/2025 privind aprobarea programului manifestărilor cultural-artistice ce vor fi organizate cu ocazia „Zilei Comunei Drăcșenei”, în data de 21 iunie 2025 și a fondurilor bugetare necesare pentru organizarea evenimentului",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219473",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-25-2025",
+   "path": "local/teleorman/dracsenei/2025/25",
+   "short": "HCL Drăcșenei nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 25/2025 privind aprobarea Proiectului Tehnic pentru obiectivul de investiții „REABILITARE INTEGRATĂ A SEDIULUI PRIMĂRIEI DIN COMUNA DRĂCȘENEI, JUDEȚUL TELEORMAN",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219475",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-26-2025",
+   "path": "local/teleorman/dracsenei/2025/26",
+   "short": "HCL Drăcșenei nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 26/2025 privind aprobarea Proiectului Tehnic pentru obiectivul de investiții „REABILITARE INTEGRATĂ A CLĂDIRII CONSILIULUI LOCAL DIN COMUNA DRĂCȘENEI, JUDEȚUL TELEORMAN”",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219476",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-27-2025",
+   "path": "local/teleorman/dracsenei/2025/27",
+   "short": "HCL Drăcșenei nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 27/2025 privind aprobarea Planului de Analiză şi Acoperire a Riscurilor actualizat pentru comuna Drăcşenei, judeţul Teleorman",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219477",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-28-2025",
+   "path": "local/teleorman/dracsenei/2025/28",
+   "short": "HCL Drăcșenei nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 28/2025 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Primarului comunei Drăcşenei, judeţul Teleorman",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219478",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-29-2025",
+   "path": "local/teleorman/dracsenei/2025/29",
+   "short": "HCL Drăcșenei nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 29/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219479",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-3-2025",
+   "path": "local/teleorman/dracsenei/2025/3",
+   "short": "HCL Drăcșenei nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 3/2025 privind alegerea preşedintelui de şedinţă pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/196874",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/196874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-30-2025",
+   "path": "local/teleorman/dracsenei/2025/30",
+   "short": "HCL Drăcșenei nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 30/2025 privind modificarea unor prevederi referitoare la investiţiile publice finanţate din bugetul local al comunei Drăcşenei pe anul 2025 și rectificarea bugetului local al comunei Drăcșenei pe anul 2025",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219480",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-31-2025",
+   "path": "local/teleorman/dracsenei/2025/31",
+   "short": "HCL Drăcșenei nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 31/2025 privind modificarea anexei la hotărârea nr.12/2025 privind modificarea hotărârii nr.5/2025 privind aprobarea utilizării sumei de 340 mii lei din excedentul anual al bugetului local rezultat la închiderea exerciţiului bugetar al anului 2024, ca sursă de finanţare a cheltuielilor secţiunii de dezvoltare a bugetului local al comunei Drăcşenei pe anul 2025",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219481",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-32-2025",
+   "path": "local/teleorman/dracsenei/2025/32",
+   "short": "HCL Drăcșenei nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 32/2025 privind modificarea unei poziții din anexa la hotărârea Consiliului Local al Comunei Drăcşenei nr.27 din 30.04.2001 privind însuşirea inventarului bunurilor care aparţin domeniului public al comunei Drăcşenei, cu modificările şi completările ulterioare, atestate prin Hotărârea Guvernului României nr.1358/2001, cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/219482",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/219482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-33-2025",
+   "path": "local/teleorman/dracsenei/2025/33",
+   "short": "HCL Drăcșenei nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 33/2025 privind alegerea preşedintelui de şedinţă pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/242829",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/242829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-34-2025",
+   "path": "local/teleorman/dracsenei/2025/34",
+   "short": "HCL Drăcșenei nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 34/2025 privind stabilirea spațiului de depozitare provizorie necesar pentru colectarea separată a deșeurilor de sticlă, metal, lemn, textile, ambalaje, deșeuri de echipamente electrice și electronice, deseuri de baterii și acumulatori, ulei vegetal uzat și deșeuri voluminoase inclusiv saltele, mobilă și deșeuri periculoase, provenite de la locuitorii comunei Drăcșenei, cu titlu gratuit",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/242830",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/242830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-35-2025",
+   "path": "local/teleorman/dracsenei/2025/35",
+   "short": "HCL Drăcșenei nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 35/2025 privind aprobarea indicatorilor tehnico-economici actualizați pentru implementarea proiectului de investitii : „Extindere sistem centralizat de alimentare cu apă comuna Drăcşenei, judeţul Teleorman şi branşare” din fonduri alocate prin Programul national de investitii „Anghel Saligny“, aprobat prin OUG nr 95/2021",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/242831",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/242831",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--dracsenei-36-2025",
    "path": "local/teleorman/dracsenei/2025/36",
    "short": "HCL Drăcșenei nr. 36/2025",
@@ -58,6 +463,21 @@
      "from": "2025-12-31",
      "units": 1,
      "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/243046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-4-2025",
+   "path": "local/teleorman/dracsenei/2025/4",
+   "short": "HCL Drăcșenei nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 4/2025 privind aprobarea Regulamentului de organizare şi funcţionare al Consiliului Local al comunei Drăcşenei, judeţul Teleorman",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/196875",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/196875",
      "sha256": null
     }
    ]
@@ -213,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--dracsenei-5-2025",
+   "path": "local/teleorman/dracsenei/2025/5",
+   "short": "HCL Drăcșenei nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 5/2025 privind aprobarea utilizării sumei de 340 mii lei din excedentul anual al bugetului local rezultat la închiderea exerciţiului bugetar al anului 2024, ca sursă de finanţare a cheltuielilor secţiunii de dezvoltare a bugetului local al comunei Drăcşenei pe anul 2025",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/196876",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/196876",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--dracsenei-50-2025",
    "path": "local/teleorman/dracsenei/2025/50",
    "short": "HCL Drăcșenei nr. 50/2025",
@@ -298,6 +733,66 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/245564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-6-2025",
+   "path": "local/teleorman/dracsenei/2025/6",
+   "short": "HCL Drăcșenei nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 6/2025 privind aprobarea modului de întocmire a registrului agricol 2025 - 2029",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/196877",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/196877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-7-2025",
+   "path": "local/teleorman/dracsenei/2025/7",
+   "short": "HCL Drăcșenei nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 7/2025 privind aprobarea utilizării sumei de 300 mii lei din excedentul anual al bugetului local rezultat la închiderea exerciţiului bugetar al anului 2024, pentru acoperirea temporară a golurilor de casă provenite din decalajele între veniturile și cheltuielile secțiunii de funcționare a bugetului local în anul 2025",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/196883",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/196883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-8-2025",
+   "path": "local/teleorman/dracsenei/2025/8",
+   "short": "HCL Drăcșenei nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 8/2025 privind aprobarea Planului de măsuri necesare pentru interzicerea abandonării, aruncării necontrolate a deşeurilor sau gestionării neconforme cu ierarhia deşeurilor, pe raza comunei Drăcșenei, județul Teleorman",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/196884",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/196884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-9-2025",
+   "path": "local/teleorman/dracsenei/2025/9",
+   "short": "HCL Drăcșenei nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 9/2025 privind aprobarea Devizului General Actualizat după finalizarea procedurilor de achiziție si încheierea contractului de execuție lucrări aferent obiectivului de investiție „Înființare de sisteme individuale adecvate( SIA) de colectare și epurare a apelor uzate din comuna Drăcșenei, județul Teleorman”",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/196886",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/196886",
      "sha256": null
     }
    ]

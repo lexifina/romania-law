@@ -3,6 +3,36 @@
  "shard": "local/teleorman/scurtu-mare/2024",
  "acts": [
   {
+   "slug": "hcl-teleorman--scurtu-mare-10-2024",
+   "path": "local/teleorman/scurtu-mare/2024/10",
+   "short": "HCL Scurtu Mare nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 10/2024 privind stabilirea de măsuri necesare pentru interzicerea abandonării, aruncării sau gestionării neconforme a deșeurilor pe raza comunei Scurtu Mare, județul Teleorman",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/159094",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/159094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-13-2024",
+   "path": "local/teleorman/scurtu-mare/2024/13",
+   "short": "HCL Scurtu Mare nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 13/2024 privind analiza stadiului de înscriere a datelor în Registrul Agricol pentru trimestrul III al anului 2024 și a stabilirii măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/168761",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/168761",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--scurtu-mare-14-2024",
    "path": "local/teleorman/scurtu-mare/2024/14",
    "short": "HCL Scurtu Mare nr. 14/2024",
@@ -298,6 +328,21 @@
      "from": "2024-12-19",
      "units": 1,
      "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/204212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-7-2024",
+   "path": "local/teleorman/scurtu-mare/2024/7",
+   "short": "HCL Scurtu Mare nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 7/2024 privind aprobarea Planului de acțiuni/lucrări de interes local care pot fi realizate în anul 2024 de persoanele beneficiare ale venitului minim de incluziune (VMI) și de persoanele obligate să presteze muncă în folosul comunității",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/153024",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/153024",
      "sha256": null
     }
    ]

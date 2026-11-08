@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/teleorman/vitanesti/2024",
+"acts": [
+{
+"slug": "hcl-teleorman--vitanesti-9-2024",
+"path": "local/teleorman/vitanesti/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 9/2024 privind aprobarea bugetului local, a bugetului instituțiilor publice finanțate integral sau parțial din venituri proprii și subvenții pe anul 2024, a estimărilor pe anii 2025-2027 și a Listei de investiții pe anul 2024",
+"short": "HCL Vitănești nr. 9/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-09",
+"latest": "2024-05-09",
+"portal": "https://emol.ro/vitanesti-tr/registru-hcl/155708",
+"council": "teleorman/vitanesti",
+"council_name": "Consiliul Local al Comunei Vitănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--vitanesti-21-2024",
+"path": "local/teleorman/vitanesti/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 21/2024 privind modificarea cuantumului taxei speciale de salubrizare pentru persoanele fizice din comuna Vitănești, județ Teleorman",
+"short": "HCL Vitănești nr. 21/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-01",
+"latest": "2024-10-01",
+"portal": "https://emol.ro/vitanesti-tr/registru-hcl/170208",
+"council": "teleorman/vitanesti",
+"council_name": "Consiliul Local al Comunei Vitănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--vitanesti-30-2024",
+"path": "local/teleorman/vitanesti/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 30/2024 privind stabilirea și aprobarea nivelurilor taxelor și impozitelor locale pentru anul fiscal 2025",
+"short": "HCL Vitănești nr. 30/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/vitanesti-tr/registru-hcl/182306",
+"council": "teleorman/vitanesti",
+"council_name": "Consiliul Local al Comunei Vitănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--vitanesti-33-2024",
+"path": "local/teleorman/vitanesti/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 33/2024 privind aprobarea indicatorilor tehnico-economici, aferenți obiectivului de investiții ''Creșterea eficienței energetice a infrastructurii de iluminat public în comuna Vitănești, județul Teleorman''",
+"short": "HCL Vitănești nr. 33/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://emol.ro/vitanesti-tr/registru-hcl/182342",
+"council": "teleorman/vitanesti",
+"council_name": "Consiliul Local al Comunei Vitănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--vitanesti-35-2024",
+"path": "local/teleorman/vitanesti/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vitănești nr. 35/2024 privind rectificarea bugetului local al comunei Vitănești pe anul 2024",
+"short": "HCL Vitănești nr. 35/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/vitanesti-tr/registru-hcl/188345",
+"council": "teleorman/vitanesti",
+"council_name": "Consiliul Local al Comunei Vitănești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

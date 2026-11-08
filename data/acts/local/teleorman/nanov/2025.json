@@ -3,6 +3,72 @@
 "shard": "local/teleorman/nanov/2025",
 "acts": [
 {
+"slug": "hcl-teleorman--nanov-4-2025",
+"path": "local/teleorman/nanov/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 4/2025 privind alegere președinte de ședință",
+"short": "HCL Nanov nr. 4/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-25",
+"latest": "2025-02-25",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/192580",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--nanov-10-2025",
+"path": "local/teleorman/nanov/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 10/2025 privind aprobare buget",
+"short": "HCL Nanov nr. 10/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-09",
+"latest": "2025-04-09",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/201128",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--nanov-11-2025",
+"path": "local/teleorman/nanov/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 11/2025 privind aprobare buget",
+"short": "HCL Nanov nr. 11/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-03",
+"latest": "2025-11-03",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/202063",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-teleorman--nanov-15-2025",
 "path": "local/teleorman/nanov/2025/15",
 "kind": "local",

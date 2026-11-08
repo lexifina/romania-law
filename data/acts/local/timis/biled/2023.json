@@ -3,6 +3,50 @@
 "shard": "local/timis/biled/2023",
 "acts": [
 {
+"slug": "hcl-timis--biled-5-2023",
+"path": "local/timis/biled/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 5/2023 Privind contractarea unei societăţi de avocatură pentru asigurarea asistenţei juridice a Primăriei Comunei Biled și Consiliului Local Biled",
+"short": "HCL Biled nr. 5/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-08",
+"latest": "2023-06-08",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#50854",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--biled-11-2023",
+"path": "local/timis/biled/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 11/2023 Privind aprobarea agendei activităţilor culturale pentru anul 2023 a comunei Biled",
+"short": "HCL Biled nr. 11/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-08",
+"latest": "2023-06-08",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#50864",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-timis--biled-35-2023",
 "path": "local/timis/biled/2023/35",
 "kind": "local",

@@ -3,6 +3,126 @@
  "shard": "local/teleorman/tatarastii-de-jos/2021",
  "acts": [
   {
+   "slug": "hcl-teleorman--tatarastii-de-jos-11-2021",
+   "path": "local/teleorman/tatarastii-de-jos/2021/11",
+   "short": "HCL Tătărăștii de Jos nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 11/2021 privind aprobarea numărului și cuantumului lunar al burselor aferente semestrului I al anului școlar 2020-2021, pentru elevii din învățământul preuniversitar de stat din comuna Tătărăștii de Jos, județul Teleorman",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74877",
+   "versions": [
+    {
+     "from": "2021-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-12-2021",
+   "path": "local/teleorman/tatarastii-de-jos/2021/12",
+   "short": "HCL Tătărăștii de Jos nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 12/2021",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74878",
+   "versions": [
+    {
+     "from": "2021-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-13-2021",
+   "path": "local/teleorman/tatarastii-de-jos/2021/13",
+   "short": "HCL Tătărăștii de Jos nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 13/2021 privind atestarea apartenenței unor imobile având categoria de folosință „drum” la domeniul public al comunei Tătărăștii de Jos , judeţul Teleorman",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74879",
+   "versions": [
+    {
+     "from": "2021-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-14-2021",
+   "path": "local/teleorman/tatarastii-de-jos/2021/14",
+   "short": "HCL Tătărăștii de Jos nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 14/2021 privind aprobarea modificării Regulamentului de organizare şi funcţionare al aparatului de specialitate al Primarului comunei Tătărăștii de Jos, județul Teleorman și a serviciilor subordonate fără personalitate juridică",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74887",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-15-2021",
+   "path": "local/teleorman/tatarastii-de-jos/2021/15",
+   "short": "HCL Tătărăștii de Jos nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 15/2021",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74888",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-16-2021",
+   "path": "local/teleorman/tatarastii-de-jos/2021/16",
+   "short": "HCL Tătărăștii de Jos nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 16/2021 privind aprobarea solicitării prelungirii Scrisorii de Garanție nr. 377/03.08.2017 pentru garantarea avansului proiectului „ EXTINDERE RETEA DISTRIBUTIE APA IN COMUNA TATARASTII DE JOS, JUDETUL TELEORMAN SI EXTINDERE SISTEM DE CANALIZARE MENAJERA IN COMUNA TATARASTII DE JOS, JUDETUL TELEORMAN ”",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74889",
+   "versions": [
+    {
+     "from": "2021-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-18-2021",
+   "path": "local/teleorman/tatarastii-de-jos/2021/18",
+   "short": "HCL Tătărăștii de Jos nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 18/2021 privind modificarea si completarea Hotărârii Consiliului Local al comunei Tătărăștii de Jos nr.14/30.06.2021 privind Regulamentul de organizare şi funcţionare al aparatului de specialitate al Primarului comunei Tătărăștii de Jos, județul Teleorman și a serviciilor subordonate fără personalitate juridică",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74891",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-20-2021",
+   "path": "local/teleorman/tatarastii-de-jos/2021/20",
+   "short": "HCL Tătărăștii de Jos nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 20/2021 privind aprobarea contractării unui împrumut în valoare de 1 950 000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 83/2021 pentru unele măsuri fiscal-bugetare privind acordarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74893",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74893",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--tatarastii-de-jos-22-2021",
    "path": "local/teleorman/tatarastii-de-jos/2021/22",
    "short": "HCL Tătărăștii de Jos nr. 22/2021",

@@ -3,6 +3,21 @@
  "shard": "local/teleorman/ciolanesti/2026",
  "acts": [
   {
+   "slug": "hcl-teleorman--ciolanesti-1-2026",
+   "path": "local/teleorman/ciolanesti/2026/1",
+   "short": "HCL Ciolănești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 1/2026 privind alegerea președintelui de ședință, pe o perioadă de 3 luni",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/268084",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/268084",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--ciolanesti-10-2026",
    "path": "local/teleorman/ciolanesti/2026/10",
    "short": "HCL Ciolănești nr. 10/2026",

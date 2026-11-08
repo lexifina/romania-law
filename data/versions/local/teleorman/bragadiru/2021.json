@@ -3,6 +3,426 @@
  "shard": "local/teleorman/bragadiru/2021",
  "acts": [
   {
+   "slug": "hcl-teleorman--bragadiru-10-2021",
+   "path": "local/teleorman/bragadiru/2021/10",
+   "short": "HCL Bragadiru nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 10/2021 privind atestarea modificării inventarului bunurilor care aparțin domeniului public al comunei",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42191",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-11-2021",
+   "path": "local/teleorman/bragadiru/2021/11",
+   "short": "HCL Bragadiru nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 11/2021 privind preluare în folosință gratuită spațiu incintă",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42197",
+   "versions": [
+    {
+     "from": "2021-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-12-2021",
+   "path": "local/teleorman/bragadiru/2021/12",
+   "short": "HCL Bragadiru nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 12/2021 privind organizarea Studiului de oportunitate",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42198",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-14-2021",
+   "path": "local/teleorman/bragadiru/2021/14",
+   "short": "HCL Bragadiru nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 14/2021 privind aprobarea Planului de măsuri privind colectarea selectivă a deșeurilor",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42200",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-15-2021",
+   "path": "local/teleorman/bragadiru/2021/15",
+   "short": "HCL Bragadiru nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 15/2021 privind completarea anexei la HCL nr. 45/31.10.2020 - organizare comisii",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42201",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-16-2021",
+   "path": "local/teleorman/bragadiru/2021/16",
+   "short": "HCL Bragadiru nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 16/2021 privind aprobarea Bugetului local al comunei Bragadiru pe anul 2021",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42203",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-17-2021",
+   "path": "local/teleorman/bragadiru/2021/17",
+   "short": "HCL Bragadiru nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 17/2021 privind modificarea HCL al comunei Bragadiru, privind aprobare statut",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42204",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-18-2021",
+   "path": "local/teleorman/bragadiru/2021/18",
+   "short": "HCL Bragadiru nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 18/2021 privind modificarea HCL nr. 4/31.01.2008 privind stabilirea salariilor de bază pentru funcționari",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42205",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-19-2021",
+   "path": "local/teleorman/bragadiru/2021/19",
+   "short": "HCL Bragadiru nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 19/2021 privind aprobarea utilizării în anul 2021 a excedentului anual",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42206",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-2-2021",
+   "path": "local/teleorman/bragadiru/2021/2",
+   "short": "HCL Bragadiru nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 2/2021 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului secțiunii de dezvoltare",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42174",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-20-2021",
+   "path": "local/teleorman/bragadiru/2021/20",
+   "short": "HCL Bragadiru nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 20/2021 privind aprobarea utilizării în 2021 a excedentului anual al bugetului instituției publice",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42207",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-21-2021",
+   "path": "local/teleorman/bragadiru/2021/21",
+   "short": "HCL Bragadiru nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 21/2021",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42208",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-22-2021",
+   "path": "local/teleorman/bragadiru/2021/22",
+   "short": "HCL Bragadiru nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 22/2021 privind aprobarea decontării cheltuielilor de transport pentru cadrele didactice care nu dispun de locuință în comună",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42221",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-23-2021",
+   "path": "local/teleorman/bragadiru/2021/23",
+   "short": "HCL Bragadiru nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 23/2021",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42222",
+   "versions": [
+    {
+     "from": "2021-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-24-2021",
+   "path": "local/teleorman/bragadiru/2021/24",
+   "short": "HCL Bragadiru nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 24/2021 privind stabilirea cuantumului, categoriei și numărului de burse pentru elevi pe anul școlar 2020-2021",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42223",
+   "versions": [
+    {
+     "from": "2021-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-25-2021",
+   "path": "local/teleorman/bragadiru/2021/25",
+   "short": "HCL Bragadiru nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 25/2021 privind modificare HCL nr. 59/2018 pentru aprobarea indicatorilor tehnico-economici",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42224",
+   "versions": [
+    {
+     "from": "2021-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-26-2021",
+   "path": "local/teleorman/bragadiru/2021/26",
+   "short": "HCL Bragadiru nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 26/2021 privind rectificarea bugetului local al comunei Bragadiru",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42225",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-27-2021",
+   "path": "local/teleorman/bragadiru/2021/27",
+   "short": "HCL Bragadiru nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 27/2021 privind aprobarea decontării cheltuielilor de transport pentru cadrele didactice",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42226",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-28-2021",
+   "path": "local/teleorman/bragadiru/2021/28",
+   "short": "HCL Bragadiru nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 28/2021 privind aprobarea Programului anual al finanțărilor nerambursabile",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42237",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-29-2021",
+   "path": "local/teleorman/bragadiru/2021/29",
+   "short": "HCL Bragadiru nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 29/2021 privind reglementarea modalităților de sprijinire a activității sportive la nivelul comunei Bragadiru",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42238",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-3-2021",
+   "path": "local/teleorman/bragadiru/2021/3",
+   "short": "HCL Bragadiru nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 3/2021 privind aprobarea acoperirii deficitului din excedentul bugetului local",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42175",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-30-2021",
+   "path": "local/teleorman/bragadiru/2021/30",
+   "short": "HCL Bragadiru nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 30/2021 privind dezmembrarea unui imobil aparținând domneiului privat",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42239",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-32-2021",
+   "path": "local/teleorman/bragadiru/2021/32",
+   "short": "HCL Bragadiru nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 32/2021 privind dezmembrarea unui imobil aparținând domeniului public al comunei",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42246",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-33-2021",
+   "path": "local/teleorman/bragadiru/2021/33",
+   "short": "HCL Bragadiru nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 33/2021 privind aprobarea Regulamentului de Organizare și Funcționare al Consiliului Local",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42247",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-34-2021",
+   "path": "local/teleorman/bragadiru/2021/34",
+   "short": "HCL Bragadiru nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 34/2021 privind modificarea anexei la HCL nr. 45/31.10.2020 pentru organizarea comisiilor",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42248",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-35-2021",
+   "path": "local/teleorman/bragadiru/2021/35",
+   "short": "HCL Bragadiru nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 35/2021 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42249",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-36-2021",
+   "path": "local/teleorman/bragadiru/2021/36",
+   "short": "HCL Bragadiru nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 36/2021 privind implementarea contractului de finanțare „Extindere rețele de alimentare cu apă”",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42250",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-37-2021",
+   "path": "local/teleorman/bragadiru/2021/37",
+   "short": "HCL Bragadiru nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 37/2021 privind aprobarea indicatorilor tehnico-economici - asfaltare străzi",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/43662",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/43662",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--bragadiru-38-2021",
    "path": "local/teleorman/bragadiru/2021/38",
    "short": "HCL Bragadiru nr. 38/2021",
@@ -28,6 +448,21 @@
      "from": "2021-10-21",
      "units": 1,
      "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/43664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-4-2021",
+   "path": "local/teleorman/bragadiru/2021/4",
+   "short": "HCL Bragadiru nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 4/2021 privind implementarea proiectului „e-Primăria - administrație locală fără hârtii și ghișee”",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42176",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42176",
      "sha256": null
     }
    ]
@@ -183,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--bragadiru-5-2021",
+   "path": "local/teleorman/bragadiru/2021/5",
+   "short": "HCL Bragadiru nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 5/2021",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42177",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42177",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--bragadiru-50-2021",
    "path": "local/teleorman/bragadiru/2021/50",
    "short": "HCL Bragadiru nr. 50/2021",
@@ -298,6 +748,66 @@
      "from": "2021-12-23",
      "units": 1,
      "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/48582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-6-2021",
+   "path": "local/teleorman/bragadiru/2021/6",
+   "short": "HCL Bragadiru nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 6/2021 privind aprobarea planului de acțiune și lucrărilor de interes local ce vor fi efectuate de beneficiarii ajutorului social",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42178",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-7-2021",
+   "path": "local/teleorman/bragadiru/2021/7",
+   "short": "HCL Bragadiru nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 7/2021 privind aprobare reguli și dispoziții de apărare împotriva incendiilor pentru domeniul public",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42180",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-8-2021",
+   "path": "local/teleorman/bragadiru/2021/8",
+   "short": "HCL Bragadiru nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 8/2021 privind aprobarea Strategiei de dezvoltare locală 2021-2027 a comunei Bragadiru",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42189",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-9-2021",
+   "path": "local/teleorman/bragadiru/2021/9",
+   "short": "HCL Bragadiru nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 9/2021 privind aprobarea decontării cheltuielilor de transport pentru cadrele didactice",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/42190",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/42190",
      "sha256": null
     }
    ]

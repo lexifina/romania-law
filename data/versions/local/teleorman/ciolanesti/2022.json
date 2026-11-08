@@ -3,6 +3,186 @@
  "shard": "local/teleorman/ciolanesti/2022",
  "acts": [
   {
+   "slug": "hcl-teleorman--ciolanesti-10-2022",
+   "path": "local/teleorman/ciolanesti/2022/10",
+   "short": "HCL Ciolănești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 10/2022 privind aprobarea proiectului „Achiziția de microbuz nepoluant pentru Comuna Ciolănești, județul Teleorman”, a cheltuielilor legate de proiect și depunerea acestuia în cadrul apelului de proiecte din Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C10 - Fondul Local",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75943",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-11-2022",
+   "path": "local/teleorman/ciolanesti/2022/11",
+   "short": "HCL Ciolănești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 11/2022 privind aprobarea proiectului ”Realizare stații de reîncărcare vehicule electrice Comuna Ciolănești, județul Teleorman”, a cheltuielilor legate de proiect și depunerea acestuia în cadrul apelului de proiecte din Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C10 - Fondul Local",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75944",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-12-2022",
+   "path": "local/teleorman/ciolanesti/2022/12",
+   "short": "HCL Ciolănești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 12/2022 privind aprobarea încheierii prin atribuire directă a suprafeței totale de 400,0 ha teren extravilan izlaz, proprietate privată a comunei Ciolănești",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75945",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-13-2022",
+   "path": "local/teleorman/ciolanesti/2022/13",
+   "short": "HCL Ciolănești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 13/2022 privind aprobarea devizului general estimativ pentru obiectivul de investiții „Înființare rețea inteligentă de distribuție gaze naturale în Comuna Ciolănești, Județul Teleorman",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75946",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-14-2022",
+   "path": "local/teleorman/ciolanesti/2022/14",
+   "short": "HCL Ciolănești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 14/2022 privind aprobarea cererii de finanțare, a devizului general estimativ, indicatorilor tehnico economici și indicatorilor specifici pentru obiectivul de investiții „Realizare rețea inteligentă de distribuție gaze naturale în UAT-urile partenere (UAT Dobrotești și UAT Balaci, UAT Siliștea Gumești, UAT Didesti, UAT Dracsenei, UAT Zambreasca, UAT Beuca, UAT Ciolănești)„",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75947",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-18-2022",
+   "path": "local/teleorman/ciolanesti/2022/18",
+   "short": "HCL Ciolănești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 18/2022 privind indexarea și stabilirea impozitelor și taxelor locale și speciale pentru an fiscal 2023",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75951",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-19-2022",
+   "path": "local/teleorman/ciolanesti/2022/19",
+   "short": "HCL Ciolănești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 19/2022 privind participarea la apelul de proiecte din PNRR comp. C10 - „Achiziție microbuze nepoluante„",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75952",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-2-2022",
+   "path": "local/teleorman/ciolanesti/2022/2",
+   "short": "HCL Ciolănești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 2/2022 privind aprobarea utilizării în anul 2022 a sumei de 2054 mii lei din excedentul anual al bugetului local rezultat la închiderea exercițiului bugetar al anului 2021",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75935",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-20-2022",
+   "path": "local/teleorman/ciolanesti/2022/20",
+   "short": "HCL Ciolănești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 20/2022 privind aprobarea Planului de Analiză și Acoperire a Riscurilor actualizat pentru comuna Ciolănești, județul Teleorman pentru anul 2022",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75953",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-21-2022",
+   "path": "local/teleorman/ciolanesti/2022/21",
+   "short": "HCL Ciolănești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 21/2022 privind rectificarea bugetului local al comunei Ciolănești pentru anul 2022",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75954",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-22-2022",
+   "path": "local/teleorman/ciolanesti/2022/22",
+   "short": "HCL Ciolănești nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 22/2022 privind participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public cu investiția „MODERNIZARE ILUMINAT PUBLIC ÎN COMUNA CIOLĂNEȘTI, JUDEȚUL TELEORMAN„",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75955",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-23-2022",
+   "path": "local/teleorman/ciolanesti/2022/23",
+   "short": "HCL Ciolănești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 23/2022 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75956",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75956",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--ciolanesti-24-2022",
    "path": "local/teleorman/ciolanesti/2022/24",
    "short": "HCL Ciolănești nr. 24/2022",
@@ -88,6 +268,21 @@
      "from": "2022-10-26",
      "units": 1,
      "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/113762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-3-2022",
+   "path": "local/teleorman/ciolanesti/2022/3",
+   "short": "HCL Ciolănești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 3/2022 privind aprobarea bugetului local al comunei Ciolănești pentru anul 2022 și estimările pentru anii 2023-2025",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75936",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75936",
      "sha256": null
     }
    ]
@@ -243,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--ciolanesti-4-2022",
+   "path": "local/teleorman/ciolanesti/2022/4",
+   "short": "HCL Ciolănești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 4/2022 privind rectificarea bugetului local al comunei Ciolănești pentru anul 2022",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75937",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75937",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--ciolanesti-40-2022",
    "path": "local/teleorman/ciolanesti/2022/40",
    "short": "HCL Ciolănești nr. 40/2022",
@@ -298,6 +508,66 @@
      "from": "2022-12-27",
      "units": 1,
      "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/113857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-5-2022",
+   "path": "local/teleorman/ciolanesti/2022/5",
+   "short": "HCL Ciolănești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 5/2022 privind încheiera unui ACORD de parteneriat între UAT Dobrotești și UAT Balaci, UAT Gumești, UAT Drăcșenei, UAT Zambreasca, UAT Beuca, UAT Ciolănești în vederea depunerii cererii de finanțare prin programul Național de Investiții „Anghel Saligny„ pentru realizarea obiectivului de investiții ”Înființare/Extindere rețea inteligentă de distribuție gaze naturale în comuna Ciolănești, județul Teleorman„",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75938",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-7-2022",
+   "path": "local/teleorman/ciolanesti/2022/7",
+   "short": "HCL Ciolănești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 7/2022 privind aprobarea numărului de burse și cuantumului burselor pentru elevii unității de învățământ preuniversitar de stat cu personalitate juridică din comuna Ciolănești, județul Teleorman, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75940",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-8-2022",
+   "path": "local/teleorman/ciolanesti/2022/8",
+   "short": "HCL Ciolănești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 8/2022 privind înfințarea Serviciului de iluminat public al Comunei Ciolănești, respectiv aprobarea Regulamentului de organizare și funcționare al Serviciului de iluminat public la nivelul Comunei Ciolănești și alegerea formei de gestiune a Serviciului public al Comunei Ciolănești",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75941",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-9-2022",
+   "path": "local/teleorman/ciolanesti/2022/9",
+   "short": "HCL Ciolănești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 9/2022 privind aprobarea proiectului „Modernizare și extindere sistem de monitorizare și supraveghere video a spațiului public în comuna Ciolănești, județul Teleorman”, a cheltuielilor legate de proiect și depunerea acestuia în cadrul apelului de proiecte din Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C10 - Fondul Local",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/75942",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/75942",
      "sha256": null
     }
    ]

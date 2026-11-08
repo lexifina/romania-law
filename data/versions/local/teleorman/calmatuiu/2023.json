@@ -3,6 +3,291 @@
  "shard": "local/teleorman/calmatuiu/2023",
  "acts": [
   {
+   "slug": "hcl-teleorman--calmatuiu-1-2023",
+   "path": "local/teleorman/calmatuiu/2023/1",
+   "short": "HCL Călmățuiu nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 1/2023 privind aprobarea studiului de fezabilitate , a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ,, SISTEM DE ALIMENTARE CU APĂ ȘI BRANȘAMENTE LA GOSPODĂRII INDIVIDUALE ÎN COMUNA CĂLMĂȚUIU , JUDEȚUL TELEORMAN ,, aprobat pentru finanțare prin Programul național de investiții ,, Anghel Saligny ,, , precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/91229",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/91229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-12-2023",
+   "path": "local/teleorman/calmatuiu/2023/12",
+   "short": "HCL Călmățuiu nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 12/2023 privind aprobarea proiectului ,,DOTAREA CU MOBILIER , MATERIALE DIDACTICE ȘI ECHIPAMENTE A ȘCOLII GIMNAZIALE , CĂLMĂȚUIU ,,",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/101300",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/101300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-14-2023",
+   "path": "local/teleorman/calmatuiu/2023/14",
+   "short": "HCL Călmățuiu nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 14/2023 privind aprobarea Strategiei de DezvoltareLocală pentru perioada 2021-2027 , a comunei Călmățuiu , județul Teleorman",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/101531",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/101531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-15-2023",
+   "path": "local/teleorman/calmatuiu/2023/15",
+   "short": "HCL Călmățuiu nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 15/2023 privind implementarea proiectului și aprobarea indicatorilor tehnico-economici ai proiectului ,, ACHIZIȚIE UTILAJE PENTRU COMUNA CĂLMĂȚUIU , JUDEȚUL TELEORMAN ,,",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/101532",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/101532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-16-2023",
+   "path": "local/teleorman/calmatuiu/2023/16",
+   "short": "HCL Călmățuiu nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 16/2023 privind eficientizarea sistemului de iluminat public din comuna Călmățuiu , județul Teleorman",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/101534",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/101534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-18-2023",
+   "path": "local/teleorman/calmatuiu/2023/18",
+   "short": "HCL Călmățuiu nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 18/2023 privind atestarea dreptului de proprietate publică al comunei Călmățuiu asupra drumurilor de exploatare în vederea efectuării demersurilor pentru înscrierea în cartea funciară a dreptului de proprietate publică asupra acestor bunuri",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/109469",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/109469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-19-2023",
+   "path": "local/teleorman/calmatuiu/2023/19",
+   "short": "HCL Călmățuiu nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 19/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale ,,Administrație ,, din aparatul de specialitate al primarului comunei Călmățuiu , jud. Teleorman",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/109470",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/109470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-2-2023",
+   "path": "local/teleorman/calmatuiu/2023/2",
+   "short": "HCL Călmățuiu nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 2/2023 privind aprobarea bugetului local al comunei Călmățuiu , județul Teleorman , pe anul 2023",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/91261",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/91261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-20-2023",
+   "path": "local/teleorman/calmatuiu/2023/20",
+   "short": "HCL Călmățuiu nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 20/2023 privind organizarea și aprobarea cheltuielilor legate de manifestările pentru ,,Ziua Comunei Călmățuiu ,, din anul 2023",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/109471",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/109471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-21-2023",
+   "path": "local/teleorman/calmatuiu/2023/21",
+   "short": "HCL Călmățuiu nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 21/2023 privind înscrierea Comunei Călmățuiu în cadrul ,, Programului privind casarea autovehiculelor uzate ,,",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/109472",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/109472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-22-2023",
+   "path": "local/teleorman/calmatuiu/2023/22",
+   "short": "HCL Călmățuiu nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 22/2023 privind rectificarea bugetului local al comunei Călmățuiu , județul Teleorman , Trim.II , anul 2023",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/109475",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/109475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-23-2023",
+   "path": "local/teleorman/calmatuiu/2023/23",
+   "short": "HCL Călmățuiu nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 23/2023 privind aderarea și includerea Comunei Călmățuiu , județul Teleorman la Parteneriatul LEADER ,, Grupul de Acțiune Locală CÂMPIA BURNAZULUI ,,",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/109476",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/109476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-25-2023",
+   "path": "local/teleorman/calmatuiu/2023/25",
+   "short": "HCL Călmățuiu nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 25/2023 privind aprobarea încheierii Actului Adițional nr.8 la Contractul de furnizare energie electrică nr. UAT 02C / 08.03.2019 , între Primăria comunei Călmățuiu și furnizorul SC RES ENERGY SOLUTIONS SA",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/112757",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/112757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-26-2023",
+   "path": "local/teleorman/calmatuiu/2023/26",
+   "short": "HCL Călmățuiu nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 26/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor /acordurilor - cadru pentru achiziția produselor și a contractelor/acordurilor -cadru de prestare a serviciilor pentru derularea măsurilor educațive la nivelul comunei Călmățuiu pentru perioada 2023-2029",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/112758",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/112758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-27-2023",
+   "path": "local/teleorman/calmatuiu/2023/27",
+   "short": "HCL Călmățuiu nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 27/2023 privind aprobarea devizului general , rest de executat , pentru obiectivul de investiții ,, POD PESTE PÂRÂUL CĂLMĂȚUI ÎN SATUL CARAVANEȚI , COMUNA CĂLMĂȚUIU ,,",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/112759",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/112759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-28-2023",
+   "path": "local/teleorman/calmatuiu/2023/28",
+   "short": "HCL Călmățuiu nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 28/2023 privind aprobarea ,, Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pe semestrul I al anului 2023 , angajați ai Primăriei comunei Călmățuiu , județul Teleorman ,,",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/115657",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/115657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-29-2023",
+   "path": "local/teleorman/calmatuiu/2023/29",
+   "short": "HCL Călmățuiu nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 29/2023 privind analiza stadiului de înscriere a datelor în Registrul Agricol al comunei Călmățuiu , pentru semestrul I al anului 2023 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/115658",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/115658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-3-2023",
+   "path": "local/teleorman/calmatuiu/2023/3",
+   "short": "HCL Călmățuiu nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 3/2023 privind aprobarea planului anual de lucrări sau acțiuni de interes local pentru repartizarea orelor de muncă la beneficiarii de venit minim garantat pe anul 2023 , la nivelul comunei Călmățuiu , județui Teleorman",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/91262",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/91262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-30-2023",
+   "path": "local/teleorman/calmatuiu/2023/30",
+   "short": "HCL Călmățuiu nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 30/2023 privind rectificarea bugetului local al comunei Călmățuiu , județul Teleorman , Trim.III , anul 2023",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/121312",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/121312",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--calmatuiu-32-2023",
    "path": "local/teleorman/calmatuiu/2023/32",
    "short": "HCL Călmățuiu nr. 32/2023",
@@ -118,6 +403,21 @@
      "from": "2023-12-12",
      "units": 1,
      "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/132992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-4-2023",
+   "path": "local/teleorman/calmatuiu/2023/4",
+   "short": "HCL Călmățuiu nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 4/2023 privind înființarea Serviciului de gestionare a câinilor fără stăpân al comunei Călmățuiu , județul Teleorman",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/91263",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/91263",
      "sha256": null
     }
    ]
@@ -273,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--calmatuiu-5-2023",
+   "path": "local/teleorman/calmatuiu/2023/5",
+   "short": "HCL Călmățuiu nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 5/2023 privind analiza stadiului de înscriere a datelor în Registrul Agricol al comunei Călmățuiu , pentru semestrul II al anului 2022 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/91264",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/91264",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--calmatuiu-50-2023",
    "path": "local/teleorman/calmatuiu/2023/50",
    "short": "HCL Călmățuiu nr. 50/2023",
@@ -298,6 +613,66 @@
      "from": "2024-01-16",
      "units": 1,
      "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/137677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-6-2023",
+   "path": "local/teleorman/calmatuiu/2023/6",
+   "short": "HCL Călmățuiu nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 6/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale ,, Administrație ,, din aparatul de specialitate al primarului comunei Călmățuiu , jud. Teleorman",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/91265",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/91265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-7-2023",
+   "path": "local/teleorman/calmatuiu/2023/7",
+   "short": "HCL Călmățuiu nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 7/2023 privind aprobarea studiului de fezabilitate , a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ,, SISTEM DE ALIMENTARE CU APĂ ȘI BRANȘAMENTE LA GOSPODĂRII INDIVIDUALE ÎN COMUNA CĂLMĂȚUIU , JUDEȚUL TELEORMAN ,, aprobat pentru finanțare prin Programul național de investiții ,, Anghel Saligny ,, , precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/91306",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/91306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-8-2023",
+   "path": "local/teleorman/calmatuiu/2023/8",
+   "short": "HCL Călmățuiu nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 8/2023 privind aprobarea protocolului de colaborare între Ministerul Muncii și Solidarității Sociale ( MMSS ) și Unitatea Administrativ Teritorială Călmățuiu , județul Teleorman",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/91307",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/91307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-9-2023",
+   "path": "local/teleorman/calmatuiu/2023/9",
+   "short": "HCL Călmățuiu nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 9/2023 privind aprobarea Studiului de fezabilitate privind proiectul de investiții ,, Realizare sistem de monitorizare și supraveghere video în comuna Călmățuiu , județul Teleorman ,,",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/91308",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/91308",
      "sha256": null
     }
    ]

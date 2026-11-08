@@ -3,6 +3,651 @@
  "shard": "local/teleorman/botoroaga/2025",
  "acts": [
   {
+   "slug": "hcl-teleorman--botoroaga-1-2025",
+   "path": "local/teleorman/botoroaga/2025/1",
+   "short": "HCL Botoroaga nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 1/2025 privind acoperirea deficitului bugetar, secțiunea de dezvoltare, sursa A, în suma de 1.588.950,03 lei al anului 2024, din excedentul bugetar al anului 2023",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247421",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-10-2025",
+   "path": "local/teleorman/botoroaga/2025/10",
+   "short": "HCL Botoroaga nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 10/2025 privind acordarea unei subvenții din bugetul local al comunei Botoroaga pentru finanțarea funcționării Serviciului Public apaă-canal comuna Botoroaga",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247466",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-11-2025",
+   "path": "local/teleorman/botoroaga/2025/11",
+   "short": "HCL Botoroaga nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 11/2025 privind analiza stadiului de înscriere a datelor în Registrul agricol, în trimestrul IV/2024 și stabilirea unor măsuri pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247467",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-12-2025",
+   "path": "local/teleorman/botoroaga/2025/12",
+   "short": "HCL Botoroaga nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 12/2025 privind actualizarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizare drumuri în comuna Botoroaga, județul Teleorman”, aprobat pentru finanțare prin Programul Național de Investiții ”Anghel Saligny”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247483",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-14-2025",
+   "path": "local/teleorman/botoroaga/2025/14",
+   "short": "HCL Botoroaga nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 14/2025 privind modificarea HCL nr.6/23.01.2024, privind aprobarea indicatorilor tehnico-economici și a devizului general pentru realizarea obiectivului de investiții „Reactualizarea Planului Urbanistic General al comunei Botoroaga, județul Teleorman”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247487",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-15-2025",
+   "path": "local/teleorman/botoroaga/2025/15",
+   "short": "HCL Botoroaga nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 15/2025 privind aprobarea indeicatorilor tehnico-economici pentru obiectivul „Construire locuințe sociale în comuna Botoroaga, județul Teleorman”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247491",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-16-2025",
+   "path": "local/teleorman/botoroaga/2025/16",
+   "short": "HCL Botoroaga nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 16/2025 privind aprobarea bugetului general de venituri și cheltuieli pe anul 2025, al comunei Botoroaga",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247509",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-18-2025",
+   "path": "local/teleorman/botoroaga/2025/18",
+   "short": "HCL Botoroaga nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 18/2025 privind modificarea HCL nr.43/20.09.2024 privind schimbarea destinației și demolarea Școlii Gimnaziale Valea Cireșului, comuna Botoroaga, județul Teleorman",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247517",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-19-2025",
+   "path": "local/teleorman/botoroaga/2025/19",
+   "short": "HCL Botoroaga nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 19/2025 privind rectificarea bugetului local al comunei Botoroaga, pe anul 2025",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247518",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-2-2025",
+   "path": "local/teleorman/botoroaga/2025/2",
+   "short": "HCL Botoroaga nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 2/2025 privind aprobarea contului anual de incheiere a exercițiului bugetar și situațiilor financiare pe anul 2024",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247423",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-20-2025",
+   "path": "local/teleorman/botoroaga/2025/20",
+   "short": "HCL Botoroaga nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 20/2025 privind aprobarea documentației tehnico-economice - faza PT și indicatorii tehnico-economici aferenți obiectivului de investiții „Centru Comunitar Botoroaga",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247532",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-21-2025",
+   "path": "local/teleorman/botoroaga/2025/21",
+   "short": "HCL Botoroaga nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 21/2025 privind alegerea președintelui de ședință pentru perioada mai, iunie și iulie 20205",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247533",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-22-2025",
+   "path": "local/teleorman/botoroaga/2025/22",
+   "short": "HCL Botoroaga nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 22/2025 privind contul de inchidere a exrcițiului bugetar pe trimestrul I, anul 2025",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247534",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-23-2025",
+   "path": "local/teleorman/botoroaga/2025/23",
+   "short": "HCL Botoroaga nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 23/2025 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul intitulat „Modernizare prin Digitalizare în Comuna Botoroaga - Administrație pentru Cetățean”, din cadrul - Programul Regional, Sud-Muntenia 2021-2027; Prioritatea 1- 0 regiunea competitivă prin inovare, digitalizare și intreprinderi dinamice, Obiectivul Specific RSO 1.2. - Valorificarea avantajelor digitalizării, în beneficiul cetățenilor, al companiilor, al organizaților de cercetare și al autorităților publice",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247550",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-24-2025",
+   "path": "local/teleorman/botoroaga/2025/24",
+   "short": "HCL Botoroaga nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 24/2025 privind aprobarea indexării impozitelor și taxelor locale pentru anul 2026, cu rata inflației de 5,6%",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247551",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-25-2025",
+   "path": "local/teleorman/botoroaga/2025/25",
+   "short": "HCL Botoroaga nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 25/2025 privind rectificarea bugetului local al comunei Botoroaga, pe anul 2025",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247552",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-26-2025",
+   "path": "local/teleorman/botoroaga/2025/26",
+   "short": "HCL Botoroaga nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 26/2025 privind modificarea HCL nr. 68/24.12.2024, privind stabilirea și aprobarea impozitelor, taxelor locale și a altor taxe asimilate acestora, începând cu anul fiscal 2025",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247553",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-28-2025",
+   "path": "local/teleorman/botoroaga/2025/28",
+   "short": "HCL Botoroaga nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 28/2025 privind participarea la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic 2025-2030 cu proiectul: „Achiziționare autovehicule electrice /plug-in hibrid pentru comuna Botoroaga, județul Teleorman”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247656",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-29-2025",
+   "path": "local/teleorman/botoroaga/2025/29",
+   "short": "HCL Botoroaga nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 29/2025 privind analiza stadiului de înscriere a datelor în Registrul agricol, în trimestrul I/2025 și stabilirea unor măsuri pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247658",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-3-2025",
+   "path": "local/teleorman/botoroaga/2025/3",
+   "short": "HCL Botoroaga nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 3/2025 privind aprobarea utilizării de către Unitatea Administrativ Teritorială Comuna Botoroaga, a excedentului anual al bugetului local anilor precedenți",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247424",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-30-2025",
+   "path": "local/teleorman/botoroaga/2025/30",
+   "short": "HCL Botoroaga nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 30/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247659",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-31-2025",
+   "path": "local/teleorman/botoroaga/2025/31",
+   "short": "HCL Botoroaga nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 31/2025 privind actualizarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizare drumuri în comuna Botoroaga, județul Telorman”, aprobat pentru finanțare prin Programul Naționa de Investiții ”Anghel Saligny”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247660",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-32-2025",
+   "path": "local/teleorman/botoroaga/2025/32",
+   "short": "HCL Botoroaga nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 32/2025 privind aprobarea depunerii proiectului ”Demnitate la Vârsta a Treia - Servicii sociale integrate pentru vârstnici” în cadrul apelul de tip competitiv PIDS/632/PIDS_P6/OP4/ESO4.11/PIDS_A26 - Servicii de îngrijire la domiciliu pentru persoanele vârstnice - Regiuni mai puțin dezvoltate, finanțate din Prioritatea PO6. Servicii de suport pentru persoane vârstnice, Obiective specific: ESO4.11. Lărgirea accesului egal și în timp util la servicii de calitate, sustenabile și la prețuri accesibile, inclusiv asistență medicală Modernizarea sistemelor de protecție socială, inclusiv promovarea accesului la protecție socială, acordând o atenție deosebită copiilor și a eficacității și rezilienței sistemelor de sănătate și a serviciilor de îngrijire pe termen lung (FSE+), Acțiunea 6.1. Servicii de îngrijire la domiciliu pentru persoanele vârstnice",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247662",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-33-2025",
+   "path": "local/teleorman/botoroaga/2025/33",
+   "short": "HCL Botoroaga nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 33/2025 privind modificarea HCL nr.76/24.12.2024 privind aprobarea propunerii de scoatere din circuitul agricol a suprafeței de 8.019 mp de teren arabil înscrisă în CF 28598 a UAT Botoroaga",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247665",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-34-2025",
+   "path": "local/teleorman/botoroaga/2025/34",
+   "short": "HCL Botoroaga nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 34/2025 privind validarea și însușirea Dispoziției Primarului comunei Botoroaga nr. 112/12.06.2025 privind rectificarea bugetului local al comunei Botoroaga, pe anul 2025",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247672",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-36-2025",
+   "path": "local/teleorman/botoroaga/2025/36",
+   "short": "HCL Botoroaga nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 36/2025 privind modificarea HCL nr.15/28.02.2025, privind aprobarea indicatorilor tehnico-economici pentru obiectivul ”Construire locuințe sociale în comuna Botoroaga, județul Teleorman”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247674",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-37-2025",
+   "path": "local/teleorman/botoroaga/2025/37",
+   "short": "HCL Botoroaga nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 37/2025 privind rectificarea bugetului local al comunei Botoroaga, pe anul 2025",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247675",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-39-2025",
+   "path": "local/teleorman/botoroaga/2025/39",
+   "short": "HCL Botoroaga nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 39/2025 privind darea în administrare a serviciului și sistemul de alimentare cu apă și canalizare a comunei Botoroaga, județul Teleorman, către „SERVICIUL PUBLIC DE APĂ - CANAL COMUNA BOTOROAGA”, serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea Consiliului Local al comunei Botoroaga, județul Teleorman",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247689",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-40-2025",
+   "path": "local/teleorman/botoroaga/2025/40",
+   "short": "HCL Botoroaga nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 40/2025 privind modificarea HCL nr.48/28.08.2023 privind stabilire tarife provizorii pentru apa potabilă produsă, transportată și distribuită, pentru canalizare -epurare, respectiv a unor taxe practicate de către Serviciul Public Apă-canal comuna Botoroaga",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247701",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-41-2025",
+   "path": "local/teleorman/botoroaga/2025/41",
+   "short": "HCL Botoroaga nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 41/2025 privind alegerea președintelui de ședință pentru perioada august, septembrie și octombrie 20025",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247702",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-42-2025",
+   "path": "local/teleorman/botoroaga/2025/42",
+   "short": "HCL Botoroaga nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 42/2025 privind implementarea proiectului ”Demnitate la Vârsta a Treia - Servicii sociale integrate pentru vârstnici”, în cadrul apelul de tip competitiv PIDS/632/PIDS_P6/OP4/ESO4.11/PIDS_A26 - Servicii de îngrijire la domiciliu pentru persoanele vârstnice - Regiuni mai puțin dezvoltate, finanțat din Prioritatea P06. Servicii de suport pentru persoane vârstnice, Obiectiv specific: ESO4.11. Lărgirea accesului egal și în timp util la servicii de calitate, sustenabile și la prețuri accesibile, inclusiv servicii care promovează accesul la locuințe și îngrijire orientată către persoane, inclusiv asistență medicală Modernizarea sistemelor de protecție socială, inclusiv promovarea accesului la protecția socială, acordând o atenție deosebită copiilor și grupurilor defavorizate îmbunătățirea accesibilității, inclusiv pentru persoanele cu dizabilități, precum și a eficacității și rezilienței sistemelor de sănătate și a serviciilor de îngrijire pe termen lung (FSE+), Acțiunea 6.1. Servicii de îngrijire la domiciliu pentru persoanele vârstnice",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247703",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-43-2025",
+   "path": "local/teleorman/botoroaga/2025/43",
+   "short": "HCL Botoroaga nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 43/2025 privind aprobarea Registrului Local al spațiilor verzi din comuna Botoroaga, județul Teleorman",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247704",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-44-2025",
+   "path": "local/teleorman/botoroaga/2025/44",
+   "short": "HCL Botoroaga nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 44/2025 privind aprobarea transmiterii cu titlu gratuit, în folosință, a microbuzului electric către Liceul Tehnologic Andrei Șaguna",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247705",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-45-2025",
+   "path": "local/teleorman/botoroaga/2025/45",
+   "short": "HCL Botoroaga nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 45/2025 privind aprobarea mutării activității didactice din sediul Grădiniței cu Program Normal nr.1 Călugăru, din str. Profesorilor, nr.1 la sediul Școlii Gimnaziale nr.1 Călugăru din str. Școlii, nr. 84, comuna Botoroaga, sat Călugăru",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247706",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-46-2025",
+   "path": "local/teleorman/botoroaga/2025/46",
+   "short": "HCL Botoroaga nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 46/2025 privind aprobarea acordului de parteneriat dintre comuna Botoroaga și Centru Regional Cultură-Sportiv Moșteni",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247707",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-48-2025",
+   "path": "local/teleorman/botoroaga/2025/48",
+   "short": "HCL Botoroaga nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 48/2025 privind transmiterea cu titlu gratuit a unui autoturism către Asociația „Societatea de Salvare București”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247709",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-5-2025",
+   "path": "local/teleorman/botoroaga/2025/5",
+   "short": "HCL Botoroaga nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 5/2025 privind modificarea HCL nr.39/21.06.2023, privind: aprobarea proiectului „Microbuze electrice pentru elevii din județul Teleorman”, în vederea depunerii acestuia în cadrul apelului de proiecte cu titlul „Microbuze electrice pentru elevi”, ce va fi finanțat prin Planul Național de Redresare și Reziliență, Componenta C15: Educație",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247440",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-50-2025",
+   "path": "local/teleorman/botoroaga/2025/50",
+   "short": "HCL Botoroaga nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 50/2025 privind analiza stadiului de înscriere a datelor în Registrul agricol, în trimestrul al-II-lea/ 2025 și stabilirea unor măsuri pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247712",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-51-2025",
+   "path": "local/teleorman/botoroaga/2025/51",
+   "short": "HCL Botoroaga nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 51/2025 privind acordarea unei subvenții din bugetul local al comunei Botoroaga pentru finanțarea funcționării Serviciului Public apa-canal comuna Botoroaga",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247717",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-52-2025",
+   "path": "local/teleorman/botoroaga/2025/52",
+   "short": "HCL Botoroaga nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 52/2025 privind stabilirea taxelor locale ce vor fi colectate cu ocazia bâlciului anual de „Sf. Dumitru”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247722",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-53-2025",
+   "path": "local/teleorman/botoroaga/2025/53",
+   "short": "HCL Botoroaga nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 53/2025 privind predarea în administrare a bunului „greder tractat” din domeniul privat al comunei Botoroaga către Serviciul Public de apă-canal comuna Botoroaga",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247723",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-54-2025",
+   "path": "local/teleorman/botoroaga/2025/54",
+   "short": "HCL Botoroaga nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 54/2025 privind actualizarea devizului general, după licitație, pentru obiectivul de investiții „Construire centru de zi pentru persoane vârstnice în comuna Botoroaga, județul Teleorman",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247724",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-55-2025",
+   "path": "local/teleorman/botoroaga/2025/55",
+   "short": "HCL Botoroaga nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 55/2025 privind alegerea președintelui de ședință pentru perioada noiembrie, decembrie 2025 și ianuarie 2026",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247725",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247725",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--botoroaga-56-2025",
    "path": "local/teleorman/botoroaga/2025/56",
    "short": "HCL Botoroaga nr. 56/2025",
@@ -58,6 +703,21 @@
      "from": "2025-10-23",
      "units": 1,
      "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-6-2025",
+   "path": "local/teleorman/botoroaga/2025/6",
+   "short": "HCL Botoroaga nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 6/2025 privind aprobarea transferului din sursa E, a sumei de 1.325.078,04 lei reprezentând excedent pe anul 2024, în sursa A, a bugetului local al comunei Botoroaga, pe anul 2025",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247441",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247441",
      "sha256": null
     }
    ]
@@ -213,6 +873,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--botoroaga-7-2025",
+   "path": "local/teleorman/botoroaga/2025/7",
+   "short": "HCL Botoroaga nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 7/2025 privind participarea comunei Botoroaga, Județul Teleorman, la Programul de construcții de locuințe sociale și de necesitate derulat conform Legii nr. 114/1996, precum și aprobarea Notei conceptuale și Temei de proiectare în vederea elaborării documentației tehnico-economice faza SF pentru obiectivul de investiții „Construire locuințe sociale în comuna Botoroaga, județul Teleorman”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247457",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247457",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--botoroaga-70-2025",
    "path": "local/teleorman/botoroaga/2025/70",
    "short": "HCL Botoroaga nr. 70/2025",
@@ -298,6 +973,36 @@
      "from": "2025-12-23",
      "units": 1,
      "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-8-2025",
+   "path": "local/teleorman/botoroaga/2025/8",
+   "short": "HCL Botoroaga nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 8/2025 privind alegerea președintelui de ședință pentru perioada februarie, martie și aprilie 2025",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247458",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--botoroaga-9-2025",
+   "path": "local/teleorman/botoroaga/2025/9",
+   "short": "HCL Botoroaga nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Botoroaga nr. 9/2025 privind aprobarea „Planului de Analiză și Acoperire a Riscurilor pentru anul 2025”",
+   "url": "https://emol.ro/botoroaga-tr/registru-hcl/247459",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/botoroaga-tr/registru-hcl/247459",
      "sha256": null
     }
    ]

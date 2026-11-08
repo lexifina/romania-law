@@ -3,6 +3,28 @@
 "shard": "local/teleorman/lunca/2025",
 "acts": [
 {
+"slug": "hcl-teleorman--lunca-1-2025",
+"path": "local/teleorman/lunca/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 1/2025 privind: aprobarea acoperirii definitive a deficitului rezultat la incheierea exercițiului bugetar pe anul 2024",
+"short": "HCL Lunca nr. 1/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#91438",
+"council": "teleorman/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-teleorman--lunca-2-2025",
 "path": "local/teleorman/lunca/2025/2",
 "kind": "local",

@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcl-suceava--vulturesti-12-2021",
+   "path": "local/suceava/vulturesti/2021/12",
+   "short": "HCL Vulturești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 12/2021 privind aprobarea bugetului local al comunei Vultureşti, judeţul Suceava, pe anul 2021, precum şi estimările pentru anii 2022 - 2024",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/24261",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/24261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-13-2021",
+   "path": "local/suceava/vulturesti/2021/13",
+   "short": "HCL Vulturești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 13/2021 privind stabilirea impozitelor şi taxelor locale, indexate cu rata inflaţiei, aplicabile în comuna Vultureşti, judeţul Suceava, în anul fiscal 2022",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/24262",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/24262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-16-2021",
+   "path": "local/suceava/vulturesti/2021/16",
+   "short": "HCL Vulturești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 16/2021 privind solicitarea trecerii din domeniul public al Judeţului Suceava în domeniul public al Comunei Vultureşti, Judeţul Suceava, a bunului imobil construcţii – teren înscris în Cartea funciară nr. 35372 / Comuna Vultureşti",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/25186",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/25186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-17-2021",
+   "path": "local/suceava/vulturesti/2021/17",
+   "short": "HCL Vulturești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 17/2021 privind aprobarea propunerii de schimbare a destinaţiei imobilului compus din construcţie fostă Şcoală cu clasele I - IV Pleşeşti (nr. 2) şi teren aferent, situat în sat Pleşeşti nr. 152, comuna Vultureşti, judeţul Suceava, aparţinând domeniului public al comunei Vultureşti, înscris în Cartea funciară nr. 35229 / Comuna Vultureşti",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/25187",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/25187",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--vulturesti-23-2021",
    "path": "local/suceava/vulturesti/2021/23",
    "short": "HCL Vulturești nr. 23/2021",
@@ -118,6 +178,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/39551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-3-2021",
+   "path": "local/suceava/vulturesti/2021/3",
+   "short": "HCL Vulturești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 3/2021 privind aprobarea Actelor adiționale de modificare și completare a Actului constitutiv şi a Statutului Asociaţiei de Dezvoltare Intercomunitară de Gestionare a Deşeurilor în Judeţul Suceava, să voteze pentru alegerea Președintelui și a Consiliului director al Asociaţiei, precum și împuternicirea Asociaţiei de Dezvoltare Intercomunitară de Gestionare a Deşeurilor în Judeţul Suceava să semneze în Adunarea Generală a Asociației prin reprezentantul său legal, Președintele Asociației, în numele și pe seama comunei Vultureşti, Actele adiționale de modificare și completare a Actului constitutiv şi a Statutului Asociaţiei de Dezvoltare Intercomunitară de Gestionare a Deşeurilor în Judeţul Suceava",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/24149",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/24149",
      "sha256": null
     }
    ]
@@ -313,6 +388,21 @@
      "from": "2021-12-21",
      "units": 1,
      "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/44835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--vulturesti-7-2021",
+   "path": "local/suceava/vulturesti/2021/7",
+   "short": "HCL Vulturești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vulturești nr. 7/2021 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal şi Regulament Local de Urbanism pentru ”Construire locuinţă, anexe gospodăreşti, împrejmuire şi utilităţi în sat Hreaţca, comuna Vultureşti, judeţul Suceava”",
+   "url": "https://emol.ro/vulturesti-sv/registru-hcl/24234",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vulturesti-sv/registru-hcl/24234",
      "sha256": null
     }
    ]

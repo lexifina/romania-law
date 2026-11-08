@@ -3,6 +3,50 @@
 "shard": "local/teleorman/bragadiru/2020",
 "acts": [
 {
+"slug": "hcl-teleorman--bragadiru-1-2020",
+"path": "local/teleorman/bragadiru/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 1/2020 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului secțiunii de dezvoltare pe anul 2019",
+"short": "HCL Bragadiru nr. 1/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-09",
+"latest": "2020-01-09",
+"portal": "https://emol.ro/bragadiru-tr/registru-hcl/1735",
+"council": "teleorman/bragadiru",
+"council_name": "Consiliul Local al Comunei Bragadiru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--bragadiru-2-2020",
+"path": "local/teleorman/bragadiru/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 2/2020 privind aprobarea cotizației comunei Bragadiru la Asociația de Dezvoltare Intracomunitară Managementul Deșeurilor Teleorman, pentru anul 2020",
+"short": "HCL Bragadiru nr. 2/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/bragadiru-tr/registru-hcl/1744",
+"council": "teleorman/bragadiru",
+"council_name": "Consiliul Local al Comunei Bragadiru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-teleorman--bragadiru-3-2020",
 "path": "local/teleorman/bragadiru/2020/3",
 "kind": "local",

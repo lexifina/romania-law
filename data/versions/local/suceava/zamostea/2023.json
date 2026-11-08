@@ -3,6 +3,21 @@
  "shard": "local/suceava/zamostea/2023",
  "acts": [
   {
+   "slug": "hcl-suceava--zamostea-10-2023",
+   "path": "local/suceava/zamostea/2023/10",
+   "short": "HCL Zamostea nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 10/2023 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții \"Lucrări în primă urgență de reabilitare drumuri comunale din satele Nicani și Zamostea, comuna Zamostea, județul Suceava \"",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/105318",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/105318",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--zamostea-11-2023",
    "path": "local/suceava/zamostea/2023/11",
    "short": "HCL Zamostea nr. 11/2023",
@@ -133,6 +148,21 @@
      "from": "2023-05-22",
      "units": 1,
      "source_url": "https://emol.ro/zamostea-sv/registru-hcl/105333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-2-2023",
+   "path": "local/suceava/zamostea/2023/2",
+   "short": "HCL Zamostea nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 2/2023 privind aprobarea bugetului local de venituri și cheltuieli al comunei Zamostea, județul Suceava, pe anul 2023 și estimările pentru anii 2024-2026",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/105309",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/105309",
      "sha256": null
     }
    ]
@@ -288,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--zamostea-3-2023",
+   "path": "local/suceava/zamostea/2023/3",
+   "short": "HCL Zamostea nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 3/2023 privind stabilirea salariilor pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Zamostea, județul Suceava pentru anul 2023",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/105310",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/105310",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--zamostea-30-2023",
    "path": "local/suceava/zamostea/2023/30",
    "short": "HCL Zamostea nr. 30/2023",
@@ -298,6 +343,51 @@
      "from": "2023-09-28",
      "units": 1,
      "source_url": "https://emol.ro/zamostea-sv/registru-hcl/122244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-4-2023",
+   "path": "local/suceava/zamostea/2023/4",
+   "short": "HCL Zamostea nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 4/2023 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al primarului comunei Zamostea, județul Suceava",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/105311",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/105311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-5-2023",
+   "path": "local/suceava/zamostea/2023/5",
+   "short": "HCL Zamostea nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 5/2023 privind aprobarea actualizării indicatorilor tehnico-economici aferenți obiectivului de investiții \"REABILTARE ȘI MODERNIZARE ȘCOLARĂ PRIMARĂ NICANI \"finanțat prin MDRAP, la finalizarea lucrărilor",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/105312",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/105312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--zamostea-6-2023",
+   "path": "local/suceava/zamostea/2023/6",
+   "short": "HCL Zamostea nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zamostea nr. 6/2023 privind aprobarea actualizării Planului privind asigurarea resurselor umane, materiale și financiare necesare gestionării sistuațiilor de urgență pe anul 2023 al Comitetului Local pentru Situații de urgență al comunei Zamostea, județul Suceava",
+   "url": "https://emol.ro/zamostea-sv/registru-hcl/105314",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zamostea-sv/registru-hcl/105314",
      "sha256": null
     }
    ]

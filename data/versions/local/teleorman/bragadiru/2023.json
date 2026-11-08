@@ -3,6 +3,21 @@
  "shard": "local/teleorman/bragadiru/2023",
  "acts": [
   {
+   "slug": "hcl-teleorman--bragadiru-1-2023",
+   "path": "local/teleorman/bragadiru/2023/1",
+   "short": "HCL Bragadiru nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 1/2023 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului secțiunii de dezvoltare, sursa A, pe anul 2022",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/119481",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/119481",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--bragadiru-10-2023",
    "path": "local/teleorman/bragadiru/2023/10",
    "short": "HCL Bragadiru nr. 10/2023",
@@ -298,6 +313,111 @@
      "from": "2023-05-30",
      "units": 1,
      "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/119521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-3-2023",
+   "path": "local/teleorman/bragadiru/2023/3",
+   "short": "HCL Bragadiru nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 3/2023 privind aprobarea Bugetului local al Comunei Bragadiru pe anul 2023",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/119483",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/119483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-4-2023",
+   "path": "local/teleorman/bragadiru/2023/4",
+   "short": "HCL Bragadiru nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 4/2023 privind aprobarea utilizarii in anul 2023 a excedentului anual al bugetului institutiilor publice si activitatilor finantate integral sau partial din venituri proprii rezultat la incheierea exercitiului bugetar aferent anului 2022",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/119484",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/119484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-5-2023",
+   "path": "local/teleorman/bragadiru/2023/5",
+   "short": "HCL Bragadiru nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 5/2023 privind aprobarea utilizarii in anul 2023 a excedentului anual al bugetului local rezultat la incheierea exercitiului bugetar aferent anului 2022",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/119485",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/119485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-6-2023",
+   "path": "local/teleorman/bragadiru/2023/6",
+   "short": "HCL Bragadiru nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 6/2023 privind stabilirea salariilor pentru functiile publice si contractuale din aparatul de specialitate al primarului comunei Bragadiru",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/119486",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/119486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-7-2023",
+   "path": "local/teleorman/bragadiru/2023/7",
+   "short": "HCL Bragadiru nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 7/2023 privind modificarea HC.L. nr. 60/16.12.2022 pentru aprobarea numărului de posturi de asistent personal al persoanelor cu handicap pe anul 2023",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/119487",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/119487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-8-2023",
+   "path": "local/teleorman/bragadiru/2023/8",
+   "short": "HCL Bragadiru nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 8/2023 privind aprobarea achizitionarii de servicii juridice de consultanta, de asistenta si/sau de reprezentare pentru comuna BRAGADIRU, jud. Teleorman",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/119488",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/119488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--bragadiru-9-2023",
+   "path": "local/teleorman/bragadiru/2023/9",
+   "short": "HCL Bragadiru nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bragadiru nr. 9/2023 privind aprobarea Programului anual al finantarilor nerambursabile de la bugetul local al Comunei BRAGADIRU, pentru activitati nonprofit de interes general, aferent anului 2023",
+   "url": "https://emol.ro/bragadiru-tr/registru-hcl/119489",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bragadiru-tr/registru-hcl/119489",
      "sha256": null
     }
    ]

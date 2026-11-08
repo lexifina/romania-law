@@ -3,6 +3,21 @@
  "shard": "local/teleorman/nanov/2024",
  "acts": [
   {
+   "slug": "hcl-teleorman--nanov-1-2024",
+   "path": "local/teleorman/nanov/2024/1",
+   "short": "HCL Nanov nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 1/2024 privindBUGET",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/140114",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/140114",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--nanov-12-2024",
    "path": "local/teleorman/nanov/2024/12",
    "short": "HCL Nanov nr. 12/2024",
@@ -118,6 +133,21 @@
      "from": "2024-05-17",
      "units": 1,
      "source_url": "https://emol.ro/nanov-tr/registru-hcl/155800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-2-2024",
+   "path": "local/teleorman/nanov/2024/2",
+   "short": "HCL Nanov nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 2/2024 privindaprobare buget",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/140556",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/140556",
      "sha256": null
     }
    ]
@@ -298,6 +328,21 @@
      "from": "2024-11-18",
      "units": 1,
      "source_url": "https://emol.ro/nanov-tr/registru-hcl/177015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--nanov-7-2024",
+   "path": "local/teleorman/nanov/2024/7",
+   "short": "HCL Nanov nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nanov nr. 7/2024 privind aprobare ordine de zi",
+   "url": "https://emol.ro/nanov-tr/registru-hcl/143016",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/nanov-tr/registru-hcl/143016",
      "sha256": null
     }
    ]

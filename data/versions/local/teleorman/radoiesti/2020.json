@@ -3,6 +3,96 @@
  "shard": "local/teleorman/radoiesti/2020",
  "acts": [
   {
+   "slug": "hcl-teleorman--radoiesti-1-2020",
+   "path": "local/teleorman/radoiesti/2020/1",
+   "short": "HCL Rădoiești nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 1/2020 privind acoperirea definitivă din excedentul bugetului local al Comunei Radoiesti a deficitului secțiunii de dezvoltare la data de 31.12.2019 in suma de 260 565, 96 lei",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/5886",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/5886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-10-2020",
+   "path": "local/teleorman/radoiesti/2020/10",
+   "short": "HCL Rădoiești nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 10/2020 privind aprobarea principalelor manifestări cultural - artistice, sportive si de tineret care se desfasoară în comuna Radoiesti 2020",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/5895",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/5895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-11-2020",
+   "path": "local/teleorman/radoiesti/2020/11",
+   "short": "HCL Rădoiești nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 11/2020 privind organizarea sarbatorii ,,Zilei Comunei Radoiesti” , a doua zi de Pasti, a fiecarui an",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/5896",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/5896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-12-2020",
+   "path": "local/teleorman/radoiesti/2020/12",
+   "short": "HCL Rădoiești nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 12/2020",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/5897",
+   "versions": [
+    {
+     "from": "2020-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/5897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-14-2020",
+   "path": "local/teleorman/radoiesti/2020/14",
+   "short": "HCL Rădoiești nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 14/2020 privind privind aprobarea actualizarea indicatorilor tehnico-economici urmare a OUG 114/2018 pentru obiectivul de investitie: Consolidare, demolare, modernizare, extindere si dotare scoala gimnaziala in localitatea Radoiesti-Deal, comuna Radoiesti, judetul Teleorman,",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/5899",
+   "versions": [
+    {
+     "from": "2020-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/5899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-2-2020",
+   "path": "local/teleorman/radoiesti/2020/2",
+   "short": "HCL Rădoiești nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 2/2020 privind aprobarea planului de actiuni si lucrari de interes local ce vor fi realizate in anul 2020",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/5887",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/5887",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--radoiesti-23-2020",
    "path": "local/teleorman/radoiesti/2020/23",
    "short": "HCL Rădoiești nr. 23/2020",
@@ -103,6 +193,21 @@
      "from": "2020-08-31",
      "units": 1,
      "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/10635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-3-2020",
+   "path": "local/teleorman/radoiesti/2020/3",
+   "short": "HCL Rădoiești nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 3/2020 privind aprobarea numarului de posturi de asistent personal al persoanei cu handicap, pentru anul 2020",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/5888",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/5888",
      "sha256": null
     }
    ]
@@ -258,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--radoiesti-4-2020",
+   "path": "local/teleorman/radoiesti/2020/4",
+   "short": "HCL Rădoiești nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 4/2020 privind aprobarea contractului cadru de prestare a serviciului de salubrizare în Comuna Radoiesti",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/5889",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/5889",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--radoiesti-40-2020",
    "path": "local/teleorman/radoiesti/2020/40",
    "short": "HCL Rădoiești nr. 40/2020",
@@ -298,6 +418,36 @@
      "from": "2020-12-23",
      "units": 1,
      "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/17020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-7-2020",
+   "path": "local/teleorman/radoiesti/2020/7",
+   "short": "HCL Rădoiești nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 7/2020 privind aprobarea bugetului local al comunei Radoiesti, judetul Teleormanpe anul 2020",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/5892",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/5892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--radoiesti-8-2020",
+   "path": "local/teleorman/radoiesti/2020/8",
+   "short": "HCL Rădoiești nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădoiești nr. 8/2020 privind aprobarea contului de executie pe trim.IV, anul 2019",
+   "url": "https://emol.ro/radoiesti-tr/registru-hcl/5893",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/radoiesti-tr/registru-hcl/5893",
      "sha256": null
     }
    ]

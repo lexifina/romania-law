@@ -3,6 +3,94 @@
 "shard": "local/teleorman/peretu/2025",
 "acts": [
 {
+"slug": "hcl-teleorman--peretu-8-2025",
+"path": "local/teleorman/peretu/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peretu nr. 8/2025 privind :aprobarea bugetului centralizat de venituri și cheltuieli al comunei Peretu pe anul 2025",
+"short": "HCL Peretu nr. 8/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/peretu-tr/registru-hcl/200599",
+"council": "teleorman/peretu",
+"council_name": "Consiliul Local al Comunei Peretu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--peretu-12-2025",
+"path": "local/teleorman/peretu/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peretu nr. 12/2025 privind indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2026",
+"short": "HCL Peretu nr. 12/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/peretu-tr/registru-hcl/205410",
+"council": "teleorman/peretu",
+"council_name": "Consiliul Local al Comunei Peretu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--peretu-16-2025",
+"path": "local/teleorman/peretu/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peretu nr. 16/2025 privind aprobarea Programului anual al finantarilor nerambursabile alocate de la bugetul local al Comunei PERETU, pentru activitati nonprofit de interes general, aferent anului 2025",
+"short": "HCL Peretu nr. 16/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/peretu-tr/registru-hcl/205414",
+"council": "teleorman/peretu",
+"council_name": "Consiliul Local al Comunei Peretu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--peretu-17-2025",
+"path": "local/teleorman/peretu/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peretu nr. 17/2025 privind aprobarea Ghidului solicitantului privind finantarea nerambursabila din fondurile bugetului local al Comunei Peretu, pentru proiecte si programe sportive",
+"short": "HCL Peretu nr. 17/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/peretu-tr/registru-hcl/205415",
+"council": "teleorman/peretu",
+"council_name": "Consiliul Local al Comunei Peretu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-teleorman--peretu-21-2025",
 "path": "local/teleorman/peretu/2025/21",
 "kind": "local",

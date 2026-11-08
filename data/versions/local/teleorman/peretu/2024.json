@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--peretu-4-2024",
+   "path": "local/teleorman/peretu/2024/4",
+   "short": "HCL Peretu nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 4/2024 privind aprobarea bugetului local centralizat de venituri și cheltuieli al comunei Peretu pentru anul 2024",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/142373",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/142373",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--peretu-40-2024",
    "path": "local/teleorman/peretu/2024/40",
    "short": "HCL Peretu nr. 40/2024",

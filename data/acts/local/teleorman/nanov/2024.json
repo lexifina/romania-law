@@ -3,6 +3,72 @@
 "shard": "local/teleorman/nanov/2024",
 "acts": [
 {
+"slug": "hcl-teleorman--nanov-1-2024",
+"path": "local/teleorman/nanov/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 1/2024 privindBUGET",
+"short": "HCL Nanov nr. 1/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-07",
+"latest": "2024-02-07",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/140114",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--nanov-2-2024",
+"path": "local/teleorman/nanov/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 2/2024 privindaprobare buget",
+"short": "HCL Nanov nr. 2/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-08",
+"latest": "2024-02-08",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/140556",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--nanov-7-2024",
+"path": "local/teleorman/nanov/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nanov nr. 7/2024 privind aprobare ordine de zi",
+"short": "HCL Nanov nr. 7/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/nanov-tr/registru-hcl/143016",
+"council": "teleorman/nanov",
+"council_name": "Consiliul Local al Comunei Nanov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-teleorman--nanov-12-2024",
 "path": "local/teleorman/nanov/2024/12",
 "kind": "local",

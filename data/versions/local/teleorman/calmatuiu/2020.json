@@ -3,6 +3,261 @@
  "shard": "local/teleorman/calmatuiu/2020",
  "acts": [
   {
+   "slug": "hcl-teleorman--calmatuiu-1-2020",
+   "path": "local/teleorman/calmatuiu/2020/1",
+   "short": "HCL Călmățuiu nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 1/2020 privind acoperirea defininitivă a deficitului la secțiunea de funcționare din excedentul bugetului local în sumă de 94.363,72 lei",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3678",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-10-2020",
+   "path": "local/teleorman/calmatuiu/2020/10",
+   "short": "HCL Călmățuiu nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 10/2020 privind aprobarea modificării organigramei și a ștatului de funcții al aparatului de specialitate al primarului comunei Călmățuiu",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3687",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-11-2020",
+   "path": "local/teleorman/calmatuiu/2020/11",
+   "short": "HCL Călmățuiu nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 11/2020 privind aprobarea reutilizării spțiului construcții administrative și social culturale –C1 conform CF nr. 20039",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3707",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-12-2020",
+   "path": "local/teleorman/calmatuiu/2020/12",
+   "short": "HCL Călmățuiu nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 12/2020 privind stabilirea salariilor de bază pentru funcționarii publici si personalul contractual din cadrul familiei ocupaționale „Administratie „ din aparatul de specialitate al primarului comunei Călmățuiu , județul Teleorman",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3708",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-13-2020",
+   "path": "local/teleorman/calmatuiu/2020/13",
+   "short": "HCL Călmățuiu nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 13/2020 privind modificarea Anexei nr.1 la Horărârea nr. 12/27.02.2020 , privind stabilirea salariilor de bază pentru funcționarii publici si personalul contractual din cadrul familiei ocupaționale „Administratie „ din aparatul de specialitate al primarului comunei Călmățuiu , județul Teleorman",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3709",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-14-2020",
+   "path": "local/teleorman/calmatuiu/2020/14",
+   "short": "HCL Călmățuiu nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 14/2020 privind aprobarea sumelor necesare alimentării cu energie electrică trifazată a ansamblului Grădiniță , Școală și Cămin Cultural , sat Călmățuiu ,comuna Călmățuiu",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3710",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-15-2020",
+   "path": "local/teleorman/calmatuiu/2020/15",
+   "short": "HCL Călmățuiu nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 15/2020 privind rectificarea Nomenclatorului Stradal pentru satele Caravaneți , Călmătuiu , Bujoru și Nicolae Bălcescu din comuna Călmățuiu , județui Teleorman , aprobat prin HCL nr. 12 / 28.03.2018",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3711",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-16-2020",
+   "path": "local/teleorman/calmatuiu/2020/16",
+   "short": "HCL Călmățuiu nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 16/2020 privind rectificarea bugetului local al comunei Călmățuiu , județul Teleorman ,Trim.I anul 2020",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3712",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-17-2020",
+   "path": "local/teleorman/calmatuiu/2020/17",
+   "short": "HCL Călmățuiu nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 17/2020 privind aprobarea utilizării sumei de 20 000 lei pentru sprijinirea familiilor aflate în auto-izolare la domiciliu și pentru finanțarea măsurilor de combatere și prevenire a răspândirii infectării cu coronavirusul COVID – 19",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3713",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-18-2020",
+   "path": "local/teleorman/calmatuiu/2020/18",
+   "short": "HCL Călmățuiu nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 18/2020 privind rectificarea bugetului local al comunei Călmățuiu , județul Teleorman ,Trim.I anul 2020",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3714",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-19-2020",
+   "path": "local/teleorman/calmatuiu/2020/19",
+   "short": "HCL Călmățuiu nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 19/2020 privind predarea către Ministerul Lucrărilor Publice ,Dezvoltării și Administrației prin CNI a amplasamentului pentru investiția „Construire sediu administrativ primărie ”",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/10313",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/10313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-2-2020",
+   "path": "local/teleorman/calmatuiu/2020/2",
+   "short": "HCL Călmățuiu nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 2/2020 privind constituirea comisiei speciale pentru întocmirea inventarului bunurilor care aparțin domeniului public al comunei Călmățuiu",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3679",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-20-2020",
+   "path": "local/teleorman/calmatuiu/2020/20",
+   "short": "HCL Călmățuiu nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 20/2020 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții „Construire sediu administrativ primărie ”",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/10314",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/10314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-21-2020",
+   "path": "local/teleorman/calmatuiu/2020/21",
+   "short": "HCL Călmățuiu nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 21/2020 privind alegerea președintelui de ședință , pe o perioadă de 3 luni , care să conducă ședințele Consiliului Local , să semneze procesul verbal de ședință și hotărârile adoptate de acesta",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/10315",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/10315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-22-2020",
+   "path": "local/teleorman/calmatuiu/2020/22",
+   "short": "HCL Călmățuiu nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 22/2020 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/10316",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/10316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-23-2020",
+   "path": "local/teleorman/calmatuiu/2020/23",
+   "short": "HCL Călmățuiu nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 23/2020 privind aprobarea Nomenclatorului Stradal pentru satele Caravaneți , Călmățuiu , Bujoru și Nicolae Bălcescu din comuna Călmățuiu , județul Teleorman",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/10317",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/10317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-24-2020",
+   "path": "local/teleorman/calmatuiu/2020/24",
+   "short": "HCL Călmățuiu nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 24/2020 privind instituirea unor facilități fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.03.2020 , inclusiv , datorate bugetului local de către contribuabili de pe raza administrativ teritorială a comunei Călmățuiu , județul Teleorman",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/10318",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/10318",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--calmatuiu-25-2020",
    "path": "local/teleorman/calmatuiu/2020/25",
    "short": "HCL Călmățuiu nr. 25/2020",
@@ -73,6 +328,21 @@
      "from": "2020-08-31",
      "units": 1,
      "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/10323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-3-2020",
+   "path": "local/teleorman/calmatuiu/2020/3",
+   "short": "HCL Călmățuiu nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 3/2020 privind modificarea poziției nr. 19 , înscrisă în Anexa la HCL nr.18 din 25.04.2001 , privind aprobarea inventarului domeniului public al comunei Călmățuiu , publicat în Monitorul Oficial al României ,Anul XIV-nr.620 bis",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3680",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3680",
      "sha256": null
     }
    ]
@@ -228,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--calmatuiu-4-2020",
+   "path": "local/teleorman/calmatuiu/2020/4",
+   "short": "HCL Călmățuiu nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 4/2020 privind aprobarea planului anual de lucrări sau acțiuni de interes local pentru repartizarea orelor de muncă la beneficiarii de venit minim garantat pe anul 2020 , la nivelul comunei Călmățuiu , județui Teleorman",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3681",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3681",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--calmatuiu-40-2020",
    "path": "local/teleorman/calmatuiu/2020/40",
    "short": "HCL Călmățuiu nr. 40/2020",
@@ -298,6 +583,81 @@
      "from": "2020-12-21",
      "units": 1,
      "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/14281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-5-2020",
+   "path": "local/teleorman/calmatuiu/2020/5",
+   "short": "HCL Călmățuiu nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 5/2020 privind analiza stadiului de înscriere a datelor în Registrul Agricol al comunei Călmățuiu , pentru semestrul II al anului 2019 si stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3682",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-6-2020",
+   "path": "local/teleorman/calmatuiu/2020/6",
+   "short": "HCL Călmățuiu nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 6/2020 privind revocarea HCL nr. 2 / 09.01.2020 , privind constituirea comisiei speciale pentru întocmirea inventarului bunurilor care aparțin domeniului public al comunei Călmățuiu",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3683",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-7-2020",
+   "path": "local/teleorman/calmatuiu/2020/7",
+   "short": "HCL Călmățuiu nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 7/2020 privind revocarea HCL nr. 3 / 09.01.2020 , privind modificarea poziției nr. 19 , înscrisă în Anexa la HCL nr.18 din 25.04.2001 , privind aprobarea inventarului domeniului public al comunei Călmățuiu , publicat în Monitorul Oficial al României ,Anul XIV-nr.620 bis",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3684",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-8-2020",
+   "path": "local/teleorman/calmatuiu/2020/8",
+   "short": "HCL Călmățuiu nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 8/2020 privind alegerea președintelui de ședință , pe o perioadă de 3 luni , care să conducă ședințele Consiliului Local , să semneze procesul verbal de ședință și hotărârile adoptate de acesta",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3685",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--calmatuiu-9-2020",
+   "path": "local/teleorman/calmatuiu/2020/9",
+   "short": "HCL Călmățuiu nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Călmățuiu nr. 9/2020 privind aprobarea bugetului local al comunei Călmățuiu , județul Teleorman , pe anul 2020",
+   "url": "https://emol.ro/calmatuiu-tr/registru-hcl/3686",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/calmatuiu-tr/registru-hcl/3686",
      "sha256": null
     }
    ]

@@ -3,6 +3,72 @@
 "shard": "local/teleorman/scurtu-mare/2021",
 "acts": [
 {
+"slug": "hcl-teleorman--scurtu-mare-1-2021",
+"path": "local/teleorman/scurtu-mare/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 1/2021 privind aprobarea organizării reţelei şcolare de învăţământ preuniversitar de stat din comuna Scurtu mare pentru anul şcolar 2021 - 2022",
+"short": "HCL Scurtu Mare nr. 1/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-14",
+"latest": "2021-01-14",
+"portal": "https://emol.ro/scurtumare-tr/registru-hcl/31927",
+"council": "teleorman/scurtu-mare",
+"council_name": "Consiliul Local al Comunei Scurtu Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--scurtu-mare-2-2021",
+"path": "local/teleorman/scurtu-mare/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 2/2021 privind aprobarea Planului de acţiuniăsi lucrări de interes local pe anul 2021, ce vor fi executate de către beneficiarii de ajutor social, conform Legii nr.416/2001, cu modificarile si completarile ulterioare",
+"short": "HCL Scurtu Mare nr. 2/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-14",
+"latest": "2021-01-14",
+"portal": "https://emol.ro/scurtumare-tr/registru-hcl/31928",
+"council": "teleorman/scurtu-mare",
+"council_name": "Consiliul Local al Comunei Scurtu Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--scurtu-mare-3-2021",
+"path": "local/teleorman/scurtu-mare/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 3/2021 privind avizarea Studiului de oportunitate, Planului tarifar și analizei gradului de suportabilitate în cadrul SMID Teleorman, Strategiei de contractare, Studiului de Fundamentare și a Documentației de Atribuire pentru ”delegarea prin concesiune a gestiunii activității de colectare și transport separat a deșeurilor municipale în județul Teleorman”,",
+"short": "HCL Scurtu Mare nr. 3/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-14",
+"latest": "2021-01-14",
+"portal": "https://emol.ro/scurtumare-tr/registru-hcl/31929",
+"council": "teleorman/scurtu-mare",
+"council_name": "Consiliul Local al Comunei Scurtu Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-teleorman--scurtu-mare-15-2021",
 "path": "local/teleorman/scurtu-mare/2021/15",
 "kind": "local",

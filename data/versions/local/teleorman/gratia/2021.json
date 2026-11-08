@@ -3,6 +3,141 @@
  "shard": "local/teleorman/gratia/2021",
  "acts": [
   {
+   "slug": "hcl-teleorman--gratia-1-2021",
+   "path": "local/teleorman/gratia/2021/1",
+   "short": "HCL Gratia nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 1/2021 privind UTILIZAREA EXCEDENTULUI BUGETULUI LOCAL AL COMUNEI GRATIA",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/16845",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/16845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-10-2021",
+   "path": "local/teleorman/gratia/2021/10",
+   "short": "HCL Gratia nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 10/2021 privind modificarea organigramei şi a ştatului de personal a aparatului de specialitate al primarului comunei Gratia, Judeţul Teleorman",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/26102",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/26102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-11-2021",
+   "path": "local/teleorman/gratia/2021/11",
+   "short": "HCL Gratia nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 11/2021 privind reorganizarea serviciului de alimentare cu apă şi de canalizare din comuna Gratia, jud. Teleorman",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/26103",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/26103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-12-2021",
+   "path": "local/teleorman/gratia/2021/12",
+   "short": "HCL Gratia nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 12/2021 privind APROBAREA BUGETULUI LOCAL RECTIFICAT AL COMUNEI GRATIA PENTRU ANUL 2021",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/26104",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/26104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-13-2021",
+   "path": "local/teleorman/gratia/2021/13",
+   "short": "HCL Gratia nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 13/2021 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al Comunei Gratia, Județul Teleorman",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/29311",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/29311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-14-2021",
+   "path": "local/teleorman/gratia/2021/14",
+   "short": "HCL Gratia nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 14/2021 privind aprobarea procedurii si condițiile de acordare a ajutoarelor de urgență familiilor sau persoanelor care se află în situații de necesitate",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/29312",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/29312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-16-2021",
+   "path": "local/teleorman/gratia/2021/16",
+   "short": "HCL Gratia nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 16/2021 privind aprobarea Strategiei de dezvoltare locală a comunei Gratia pentru perioada 2021 - 2027",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/31717",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/31717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-17-2021",
+   "path": "local/teleorman/gratia/2021/17",
+   "short": "HCL Gratia nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 17/2021 privind scoaterea la licitație publică deschisă cu strigare a autovehiculului marca ARO TDX, an fabricație 2000, a autoturismului marca Nova Clima, an fabricație 2002, a AUTOSPECIALIZATEI BASCULANTĂ, tipul R8135",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/31718",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/31718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-18-2021",
+   "path": "local/teleorman/gratia/2021/18",
+   "short": "HCL Gratia nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 18/2021 privind .includerea în bugetul UAT Gratia a proiectului,,Înființare sistem distribuție gaze naturale în Comuna Gratia”",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/40081",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/40081",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--gratia-19-2021",
    "path": "local/teleorman/gratia/2021/19",
    "short": "HCL Gratia nr. 19/2021",
@@ -13,6 +148,21 @@
      "from": "2022-05-23",
      "units": 1,
      "source_url": "https://emol.ro/gratia-tr/registru-hcl/60966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-2-2021",
+   "path": "local/teleorman/gratia/2021/2",
+   "short": "HCL Gratia nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 2/2021 privind instituirea taxei speciale de salubrizare în cazul prestațiilor de care beneficiază utilizatorii fără contract din Comuna Gratia, Județul Teleorman",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/16846",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/16846",
      "sha256": null
     }
    ]
@@ -168,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--gratia-3-2021",
+   "path": "local/teleorman/gratia/2021/3",
+   "short": "HCL Gratia nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 3/2021 privind aprobarea Regulamentului privind eliberarea autorizației de funcționare pentru desfășurarea activităților comerciale in comuna Gratia",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/16847",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/16847",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--gratia-30-2021",
    "path": "local/teleorman/gratia/2021/30",
    "short": "HCL Gratia nr. 30/2021",
@@ -298,6 +463,66 @@
      "from": "2022-05-23",
      "units": 1,
      "source_url": "https://emol.ro/gratia-tr/registru-hcl/61039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-4-2021",
+   "path": "local/teleorman/gratia/2021/4",
+   "short": "HCL Gratia nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 4/2021 privind aprobarea programului de măsuri tehnice, organizatorice şi economico-financiare privind exploatarea izlazurilor comunale la comuna Gratia, Judeţul Teleorman, pentru anul 2021",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/19502",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/19502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-5-2021",
+   "path": "local/teleorman/gratia/2021/5",
+   "short": "HCL Gratia nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 5/2021 privind completarea anexei nr. 1 a Hotărârii Consiliului Local Gratia nr. 40 din 27.11.2020 privind stabilirea și aprobarea taxelor și impozitelor locale precum și taxele speciale pentru anul fiscal 2021 la comuna Gratia, județul Teleorman",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/19503",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/19503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-7-2021",
+   "path": "local/teleorman/gratia/2021/7",
+   "short": "HCL Gratia nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 7/2021 privind stabilirea costului mediu lunar de întreținere a copiilor care beneficiază de servicii oferite de Centrul de zi pentru copii Gratia, în anul 2021",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/22229",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/22229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-9-2021",
+   "path": "local/teleorman/gratia/2021/9",
+   "short": "HCL Gratia nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 9/2021 privind APROBAREA BUGETULUI LOCAL CENTRALIZAT AL COMUNEI GRATIA PENTRU ANUL 2021",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/24009",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/24009",
      "sha256": null
     }
    ]

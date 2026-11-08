@@ -3,6 +3,516 @@
  "shard": "local/teleorman/peretu/2022",
  "acts": [
   {
+   "slug": "hcl-teleorman--peretu-1-2022",
+   "path": "local/teleorman/peretu/2022/1",
+   "short": "HCL Peretu nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 1/2022 privind menţinerea retelei scolare a unitatilor de invatamant preuniversitar de stat din comuna Peretu , pentru anul scolar 2022 – 2023",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/51388",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/51388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-10-2022",
+   "path": "local/teleorman/peretu/2022/10",
+   "short": "HCL Peretu nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 10/2022",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/51404",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/51404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-12-2022",
+   "path": "local/teleorman/peretu/2022/12",
+   "short": "HCL Peretu nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 12/2022 privind aprobarea rectificării bugetului local centralizat pentru anul fiscal 2022",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/53604",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/53604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-14-2022",
+   "path": "local/teleorman/peretu/2022/14",
+   "short": "HCL Peretu nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 14/2022 privind respingerea plângerii prealabile împotriva Hotărârii Consiliului local al comunei Peretu nr. 6 din 8.02.2022",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/53606",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/53606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-15-2022",
+   "path": "local/teleorman/peretu/2022/15",
+   "short": "HCL Peretu nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 15/2022 privind aprobarea Regulamentului de eliberare a Acordului de funcționare pentru desfășurarea activităților comerciale pe raza Comunei Peretu",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/53607",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/53607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-17-2022",
+   "path": "local/teleorman/peretu/2022/17",
+   "short": "HCL Peretu nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 17/2022 privind constatarea dreptului de proprietate publică asupra unor terenuri – străzi, situate în intravilanul comunei Peretu, județ Teleorman",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/59524",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/59524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-19-2022",
+   "path": "local/teleorman/peretu/2022/19",
+   "short": "HCL Peretu nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 19/2022 privind : pentru aprobarea Regulamentului privind implementarea și eliberarea formatului unic al modelului card — legitimație de parcare pentru persoanele cu handicap",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/59526",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/59526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-2-2022",
+   "path": "local/teleorman/peretu/2022/2",
+   "short": "HCL Peretu nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 2/2022 privind scăderea din evidența fiscală a unor sume reprezentând amenzi contravenționale ale debitorilor decedați cu ultimul domiciliu în comuna Peretu , județul Teleorman",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/51389",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/51389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-20-2022",
+   "path": "local/teleorman/peretu/2022/20",
+   "short": "HCL Peretu nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 20/2022 privind aprobarea susţinerii financiare a „ Clubului Sportiv Metalul Peretu” pentru anul 2022",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/59527",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/59527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-21-2022",
+   "path": "local/teleorman/peretu/2022/21",
+   "short": "HCL Peretu nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 21/2022 privind prelungirea valabilitătii Planului de Urbanism General si a Regulamentului de Urbanism aferent P.U.G",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/59528",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/59528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-22-2022",
+   "path": "local/teleorman/peretu/2022/22",
+   "short": "HCL Peretu nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 22/2022 privind aprobarea Regulamentului de Organizare, Funcţionare al aparatului de specialitate al Primarului Comunei Peretu",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/59529",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/59529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-23-2022",
+   "path": "local/teleorman/peretu/2022/23",
+   "short": "HCL Peretu nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 23/2022 privind aprobarea consumului lunar de carburanți pentru autovehiculele și utilajele din dotarea Primăriei comunei Peretu, județ Teleorman",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/60248",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/60248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-24-2022",
+   "path": "local/teleorman/peretu/2022/24",
+   "short": "HCL Peretu nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 24/2022 privind aprobarea rectificării bugetului local centralizat pentru anul fiscal 2022 prin utilizarea excedentului anului precedent al bugetului local al unitații administrativ - teritoriale ca sursă de finanțare a sectiunii de dezvoltare",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/60249",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/60249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-26-2022",
+   "path": "local/teleorman/peretu/2022/26",
+   "short": "HCL Peretu nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 26/2022 privind privind constituirea parteneriatului pentru proiectul ” Î n f i i n ț a r e Rețea de Gaze Naturale în Comunele Peretu și Troianul, Județul Teleorman\"",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/60252",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/60252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-27-2022",
+   "path": "local/teleorman/peretu/2022/27",
+   "short": "HCL Peretu nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 27/2022 privind aprobarea cererii de finanțare și a devizului general pentru obiectivul de investiții \" Î n f i i n ț a r e Rețea de Gaze Naturale în Comunele Peretu și Troianul, Județul Teleorman \" pentru finanțarea acestuia în cadrul Programului Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/60253",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/60253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-28-2022",
+   "path": "local/teleorman/peretu/2022/28",
+   "short": "HCL Peretu nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 28/2022 privind alegerea președintelui de ședință pentru lunile aprilie, mai și iunie 2022",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/60258",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/60258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-29-2022",
+   "path": "local/teleorman/peretu/2022/29",
+   "short": "HCL Peretu nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 29/2022 privind aprobarea situaţiilor financiare anuale pe anul 2021",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/60259",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/60259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-3-2022",
+   "path": "local/teleorman/peretu/2022/3",
+   "short": "HCL Peretu nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 3/2022 privind aprobarea Planului de lucrări pentru anul 2022, conform Legi 416/2001",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/51390",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/51390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-30-2022",
+   "path": "local/teleorman/peretu/2022/30",
+   "short": "HCL Peretu nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 30/2022 Privind : aprobarea execuţiei bugetare la sfârşitul trimestrului I / 2022",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/60260",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/60260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-31-2022",
+   "path": "local/teleorman/peretu/2022/31",
+   "short": "HCL Peretu nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 31/2022 privind aprobarea conturilor anuale de execuţie ale bugetului pe anul 2021",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/60261",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/60261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-32-2022",
+   "path": "local/teleorman/peretu/2022/32",
+   "short": "HCL Peretu nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 32/2022 privind rectificarea bugetului local centralizat pe anul fiscal 2022",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/60262",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/60262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-34-2022",
+   "path": "local/teleorman/peretu/2022/34",
+   "short": "HCL Peretu nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 34/2022",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/60264",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/60264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-35-2022",
+   "path": "local/teleorman/peretu/2022/35",
+   "short": "HCL Peretu nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 35/2022 privind rectificarea bugetului local pentru anul fiscal 2022",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/64905",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/64905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-36-2022",
+   "path": "local/teleorman/peretu/2022/36",
+   "short": "HCL Peretu nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 36/2022 privind Privind modificarea art. 1 alin.(1) din Hotărârea Consiliului Local al comunei Peretu nr. 25 / 11.04.2022",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/64906",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/64906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-37-2022",
+   "path": "local/teleorman/peretu/2022/37",
+   "short": "HCL Peretu nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 37/2022 privind privind aprobarea începerii investiției „Infrastructura pentru vehicule de transport rutier nepoluant din punct de vedere energetic: statii de reincarcare pentru vehicule electrice in comuna Peretu, judetul Teleorman”",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/64907",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/64907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-38-2022",
+   "path": "local/teleorman/peretu/2022/38",
+   "short": "HCL Peretu nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 38/2022 privind aprobarea criteriilor pentru acordarea unor ajutoare de urgență, precum și a prestațiilor financiare excepționale",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/65098",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/65098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-39-2022",
+   "path": "local/teleorman/peretu/2022/39",
+   "short": "HCL Peretu nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 39/2022 privind aprobarea taxelor de închiriere și a Regulamentului privind modalitatea de închiriere a utilajelor aflate în patrimoniul comunei Peretu",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/65099",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/65099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-4-2022",
+   "path": "local/teleorman/peretu/2022/4",
+   "short": "HCL Peretu nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 4/2022 privind aprobarea indicatorilor tehnico-economici, a devizului general și a cererii de finanțare pentru obiectivul de investitii ,,Modernizare drumuri de interes local în comuna Peretu, Jud. Teleorman.”",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/51398",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/51398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-41-2022",
+   "path": "local/teleorman/peretu/2022/41",
+   "short": "HCL Peretu nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 41/2022 privind stabilirea impozitelor şi taxelor locale pentru anul 2023",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/67799",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/67799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-42-2022",
+   "path": "local/teleorman/peretu/2022/42",
+   "short": "HCL Peretu nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 42/2022 privind aprobarea execuţiei bugetare la sfârşitul trimestrului II / 2022",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/68522",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/68522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-43-2022",
+   "path": "local/teleorman/peretu/2022/43",
+   "short": "HCL Peretu nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 43/2022 privind : inițierea demersurilor de „Actualizare Planului Urbanistic General (P.U.G.) si a Regulamentului Local de Urbanism (R.L.U.) ale comunei Peretu”",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/68523",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/68523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-44-2022",
+   "path": "local/teleorman/peretu/2022/44",
+   "short": "HCL Peretu nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 44/2022 privind prelungirea valabilităţii „Planului Urbanistic General si a Regulamentului Local de Urbanism al comunei PERETU aprobat prin HCL nr. 09/30.08.2012 până la intrarea în vigoare a noului Plan Urbanistic General si a Regulamentului Local de Urbanism, dar nu mai târziu de 31.12.2032",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/68524",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/68524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-47-2022",
+   "path": "local/teleorman/peretu/2022/47",
+   "short": "HCL Peretu nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 47/2022 privind: alegerea președintelui de ședință pentru lunile octombrie, noiembrie și decembrie 2022 : alegerea președintelui de ședință pentru lunile octombrie, noiembrie și decembrie 2022",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/73242",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/73242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-48-2022",
+   "path": "local/teleorman/peretu/2022/48",
+   "short": "HCL Peretu nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 48/2022 privind studiului de fezabilitate, documentației de avizare a lucrărilor de intervenții a indicatorilor tehnico-economici actualizați pentru obiectivul de investitii ,,Extindere rețea de alimentare cu apă și canalizare, comuna Peretu, județul Teleorman”, aprobat pentru finanțare prin Programul national de investiții ” Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/73243",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/73243",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--peretu-49-2022",
    "path": "local/teleorman/peretu/2022/49",
    "short": "HCL Peretu nr. 49/2022",
@@ -13,6 +523,21 @@
      "from": "2022-11-23",
      "units": 1,
      "source_url": "https://emol.ro/peretu-tr/registru-hcl/73244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-5-2022",
+   "path": "local/teleorman/peretu/2022/5",
+   "short": "HCL Peretu nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 5/2022 privind : alegerea președintelui de ședință pentru luna februarie 2022",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/51399",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/51399",
      "sha256": null
     }
    ]
@@ -298,6 +823,51 @@
      "from": "2023-04-20",
      "units": 1,
      "source_url": "https://emol.ro/peretu-tr/registru-hcl/84788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-7-2022",
+   "path": "local/teleorman/peretu/2022/7",
+   "short": "HCL Peretu nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 7/2022 privind aprobarea bugetului centralizat de venituri și cheltuieli al comunei Peretu pe anul 2022",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/51401",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/51401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-8-2022",
+   "path": "local/teleorman/peretu/2022/8",
+   "short": "HCL Peretu nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 8/2022 privind utilizarea excedentului anului precedent bugetului local al unitații administrativ - teritoriale ca sursă de finanțare a sectiunii de dezvoltare",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/51402",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/51402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-9-2022",
+   "path": "local/teleorman/peretu/2022/9",
+   "short": "HCL Peretu nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 9/2022 privind analiza stadiului de înscriere a datelor în Registrul Agricol în trimestrul IV al anului 2021 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/51403",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/51403",
      "sha256": null
     }
    ]

@@ -3,6 +3,28 @@
 "shard": "local/teleorman/peretu/2024",
 "acts": [
 {
+"slug": "hcl-teleorman--peretu-4-2024",
+"path": "local/teleorman/peretu/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Peretu nr. 4/2024 privind aprobarea bugetului local centralizat de venituri și cheltuieli al comunei Peretu pentru anul 2024",
+"short": "HCL Peretu nr. 4/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/peretu-tr/registru-hcl/142373",
+"council": "teleorman/peretu",
+"council_name": "Consiliul Local al Comunei Peretu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-teleorman--peretu-29-2024",
 "path": "local/teleorman/peretu/2024/29",
 "kind": "local",

@@ -1,0 +1,936 @@
+{
+ "country": "RO",
+ "shard": "local/timis/birda/2022",
+ "acts": [
+  {
+   "slug": "hcl-timis--birda-1-2022",
+   "path": "local/timis/birda/2022/1",
+   "short": "HCL Birda nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 1/2022 privind stabilirea modalitatii de identificare a beneficiarilor stimulentului educational sub forma de tichete sociale",
+   "url": "https://emol.ro/birda-tm/registru-hcl/50077",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/50077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-10-2022",
+   "path": "local/timis/birda/2022/10",
+   "short": "HCL Birda nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 10/2022 privind aprobarea exprimării acordurilor și efectuării procedurilor legale pentru realizarea proiectului ”Realizare stații de încărcare vehicule electrice în Comuna BIRDA, județul TIMIȘ .”",
+   "url": "https://emol.ro/birda-tm/registru-hcl/50086",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/50086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-11-2022",
+   "path": "local/timis/birda/2022/11",
+   "short": "HCL Birda nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 11/2022 privind scoaterea la licitatie a obiectivului de investitie: „Amenajare teren de sport si spatii aferente in localitatea Birda",
+   "url": "https://emol.ro/birda-tm/registru-hcl/50087",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/50087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-12-2022",
+   "path": "local/timis/birda/2022/12",
+   "short": "HCL Birda nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 12/2022 privind alegerea presedintelui de sedinta pentru perioada februarie 2022- aprilie 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/50088",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/50088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-13-2022",
+   "path": "local/timis/birda/2022/13",
+   "short": "HCL Birda nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 13/2022 privind aprobarea bugetului local pentru anul 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/51394",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/51394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-14-2022",
+   "path": "local/timis/birda/2022/14",
+   "short": "HCL Birda nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 14/2022 privind aprobarea utilizarii sumei de 1.300 mii leidin disponibilitatile anilor precedenti pentru finantarea sectiunii de dezvoltare a bugetului local pentru anul 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/51395",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/51395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-15-2022",
+   "path": "local/timis/birda/2022/15",
+   "short": "HCL Birda nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 15/2022 privind achizitia de servicii de consultanta juridica",
+   "url": "https://emol.ro/birda-tm/registru-hcl/51396",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/51396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-16-2022",
+   "path": "local/timis/birda/2022/16",
+   "short": "HCL Birda nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 16/2022 privind aprobarea modificarilor statutului ASOCIAŢIEI DE DEZVOLTARE INTERCOMUNITARĂ,,DISTRIBUȚIE GAZ TIMIȘ SUD”",
+   "url": "https://emol.ro/birda-tm/registru-hcl/51397",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/51397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-17-2022",
+   "path": "local/timis/birda/2022/17",
+   "short": "HCL Birda nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 17/2022 privind constatarea apartenentei la domeniul privat al comunei Birda a unor terenuri si radierea unor constructii din cartea funciara",
+   "url": "https://emol.ro/birda-tm/registru-hcl/53380",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/53380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-18-2022",
+   "path": "local/timis/birda/2022/18",
+   "short": "HCL Birda nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 18/2022 privind cedarea titlu gratuit a unui autoturism către Asociatia Tineri pentru Timisoara",
+   "url": "https://emol.ro/birda-tm/registru-hcl/53381",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/53381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-19-2022",
+   "path": "local/timis/birda/2022/19",
+   "short": "HCL Birda nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 19/2022 privind rectificarea bugetului local pentru anul 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/53382",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/53382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-2-2022",
+   "path": "local/timis/birda/2022/2",
+   "short": "HCL Birda nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 2/2022 privind aprobarea Planului de actiuni si interes local , Lista bunurilor ce duc la excluderea acordarii ajutorului social si Regulamentului privind prestarea unei activitati in folosul comunitatii ,conform OUG 55/2002 , in anul 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/50078",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/50078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-20-2022",
+   "path": "local/timis/birda/2022/20",
+   "short": "HCL Birda nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 20/2022 privind realizarea curateniei de primavara in comuna Birda",
+   "url": "https://emol.ro/birda-tm/registru-hcl/56742",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/56742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-21-2022",
+   "path": "local/timis/birda/2022/21",
+   "short": "HCL Birda nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 21/2022 privind amenajarea unui drum comunal (DC) din localitatea Birda",
+   "url": "https://emol.ro/birda-tm/registru-hcl/56743",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/56743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-22-2022",
+   "path": "local/timis/birda/2022/22",
+   "short": "HCL Birda nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 22/2022 privind aprobarea bilantului contabil, a contului de rezultat patrimonial ,a conturilor de executie si inventarierea patrimoniului public si privat al UAT Birda in anul 2021",
+   "url": "https://emol.ro/birda-tm/registru-hcl/56744",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/56744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-23-2022",
+   "path": "local/timis/birda/2022/23",
+   "short": "HCL Birda nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 23/2022 privind organizarea de manifestari sociale- culturale in localitatile Sangeorge si berecuta in ziua de 24 aprilie 2022 cu ocazia sarbatorilor de pasti",
+   "url": "https://emol.ro/birda-tm/registru-hcl/56745",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/56745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-24-2022",
+   "path": "local/timis/birda/2022/24",
+   "short": "HCL Birda nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 24/2022 privind aprobarea materiei impozabile si stabilirea nivelului impozitelor si taxelor locale si alte taxe asimilate acestora, facilitatile si scutirile acordate, precum si amenzile aplicabile in anul fiscal 2023",
+   "url": "https://emol.ro/birda-tm/registru-hcl/59397",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/59397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-25-2022",
+   "path": "local/timis/birda/2022/25",
+   "short": "HCL Birda nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 25/2022 privind aprobarea indicatorilor tehnico-economici, cofinantarea si participarea la Programul Național de Investiţii \"Anghel Saligny\" pentru obiectivul de investiţie: ÎNFIINŢARE REŢELE DE DISTRIBUŢIE A GAZELOR NATURALE ÎN UNITĂŢILE ADMINISTRATIV TERITORIALE GĂTAIA ȘI BIRDA, JUD. TIMIȘ",
+   "url": "https://emol.ro/birda-tm/registru-hcl/59398",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/59398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-26-2022",
+   "path": "local/timis/birda/2022/26",
+   "short": "HCL Birda nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 26/2022 privind privind aprobarea indicatorilor tehnico-economici, cofinantarea si participarea la Programul Național de Investiţii \"Anghel Saligny\" pentru obiectivul de investiţie: ” ÎNFIINŢARE ȘI EXTINDERE REŢELE DE DISTRIBUŢIE A GAZELOR NATURALE ÎN UNITĂŢILE ADMINISTRATIV TERITORIALE MEMBRE ÎN CADRUL ASOCIAŢIEI DE DEZVOLTARE INTERCOMUNITARĂ \"DISTRIBUŢIE GAZ TIMIŞ SUD”",
+   "url": "https://emol.ro/birda-tm/registru-hcl/59399",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/59399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-27-2022",
+   "path": "local/timis/birda/2022/27",
+   "short": "HCL Birda nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 27/2022 privind alegerea presedintelui de sedinta pentru perioada mai 2022- iulie 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/59400",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/59400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-28-2022",
+   "path": "local/timis/birda/2022/28",
+   "short": "HCL Birda nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 28/2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/60519",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/60519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-29-2022",
+   "path": "local/timis/birda/2022/29",
+   "short": "HCL Birda nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 29/2022 privind privind realizarea unui studiu de fezabilitate privind proiectul de investitie ” Construire corp nou clădire garaje, arhiva si birouri in regim de inaltime P+M , comuna Birda , Jud. Timiș”",
+   "url": "https://emol.ro/birda-tm/registru-hcl/63405",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/63405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-3-2022",
+   "path": "local/timis/birda/2022/3",
+   "short": "HCL Birda nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 3/2022 privind aprobarea Agendei Culturale- Sportive si de Tineret pe anul 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/50079",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/50079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-30-2022",
+   "path": "local/timis/birda/2022/30",
+   "short": "HCL Birda nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 30/2022 privind alocarea de fonduri pentru organizarea de activitati socio-culturale in localitatea Mănăstire, comuna Birda",
+   "url": "https://emol.ro/birda-tm/registru-hcl/63406",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/63406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-31-2022",
+   "path": "local/timis/birda/2022/31",
+   "short": "HCL Birda nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 31/2022 privind aprobarea indicatorilor tehnico-economici la obiectivul de investitie “Realizarea Planului Urbanistic General al comunei Birda",
+   "url": "https://emol.ro/birda-tm/registru-hcl/63407",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/63407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-34-2022",
+   "path": "local/timis/birda/2022/34",
+   "short": "HCL Birda nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 34/2022 privind incheierea unui acord de parteneriat cu “Asociatia Luptă, Zâmbește si Trăiește Timis “",
+   "url": "https://emol.ro/birda-tm/registru-hcl/63410",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/63410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-35-2022",
+   "path": "local/timis/birda/2022/35",
+   "short": "HCL Birda nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 35/2022 privind realizarea unei statii de autobus in localitatea Sângeorge si reparatii la statiile de autobus",
+   "url": "https://emol.ro/birda-tm/registru-hcl/63986",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/63986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-36-2022",
+   "path": "local/timis/birda/2022/36",
+   "short": "HCL Birda nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 36/2022 pentru însuşirea Acordului de cooperare privind organizarea şi exercitarea unor activități necesare comunei BIRDA cu Filiala Județeană Timiș a Asociației Comunelor din România , în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale",
+   "url": "https://emol.ro/birda-tm/registru-hcl/63987",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/63987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-37-2022",
+   "path": "local/timis/birda/2022/37",
+   "short": "HCL Birda nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 37/2022 privind realizarea de reparatii la autospeciala de pompieri",
+   "url": "https://emol.ro/birda-tm/registru-hcl/63988",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/63988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-38-2022",
+   "path": "local/timis/birda/2022/38",
+   "short": "HCL Birda nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 38/2022 privind organizarea proiectului socio-cultural \"Zilele comunei Birda- editia XVI - Ruga Satului Birda",
+   "url": "https://emol.ro/birda-tm/registru-hcl/67951",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/67951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-39-2022",
+   "path": "local/timis/birda/2022/39",
+   "short": "HCL Birda nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 39/2022 privind rectificarea bugetului local pentru anul 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/67952",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/67952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-4-2022",
+   "path": "local/timis/birda/2022/4",
+   "short": "HCL Birda nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 4/2022 privind aprobarea Dispozitiei primarului nr. 1/6.01.2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/50080",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/50080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-40-2022",
+   "path": "local/timis/birda/2022/40",
+   "short": "HCL Birda nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 40/2022 privind realizarea de lucrari de reparati/modificari la grupurile sanitare de la Scoala Cl I-IV Sangeorge",
+   "url": "https://emol.ro/birda-tm/registru-hcl/67953",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/67953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-41-2022",
+   "path": "local/timis/birda/2022/41",
+   "short": "HCL Birda nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 41/2022 privind alegerea presedintelui de sedinta pentru perioada august-octombrie 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/67954",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/67954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-42-2022",
+   "path": "local/timis/birda/2022/42",
+   "short": "HCL Birda nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 42/2022 privind realizarea unui gard imprejmuitor la terenul apartinând de sediul Primăriei si Consiliului Local Birda “",
+   "url": "https://emol.ro/birda-tm/registru-hcl/71214",
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/71214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-44-2022",
+   "path": "local/timis/birda/2022/44",
+   "short": "HCL Birda nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 44/2022 privind rectificarea bugetului local pentru anul 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/74657",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/74657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-45-2022",
+   "path": "local/timis/birda/2022/45",
+   "short": "HCL Birda nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 45/2022 privind achizitia unor serviciile de catering pentru scolarii si prescolarii din comuna Birda, in baza prevederilor Ordonanței de urgență nr. 105/2022 privind aprobarea Programului-pilot de acordare a unui suport alimentar pentru prescolarii si elevii din 350 de unitati de învatamânt preuniversitar de stat",
+   "url": "https://emol.ro/birda-tm/registru-hcl/74658",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/74658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-46-2022",
+   "path": "local/timis/birda/2022/46",
+   "short": "HCL Birda nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 46/2022 privind completarea si modoficarea HCL nr. 24/21.04.2022 cu privire la stabilirea impozitului pe cladiri si teren in anul fiscal 2023",
+   "url": "https://emol.ro/birda-tm/registru-hcl/74659",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/74659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-47-2022",
+   "path": "local/timis/birda/2022/47",
+   "short": "HCL Birda nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 47/2022 privind aprobarea cotizatiei pentru anul 2022 datorata de Comuna Birda catre ASOCIAŢIA DE DEZVOLTARE INTERCOMUNITARĂ,,DISTRIBUȚIE GAZ TIMIȘ SUD”",
+   "url": "https://emol.ro/birda-tm/registru-hcl/74660",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/74660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-49-2022",
+   "path": "local/timis/birda/2022/49",
+   "short": "HCL Birda nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 49/2022 privind completarea inventarului domeniului privat al comunei Birda si inscrierea in Cf a imobilelor cuprinse in anexa 1 si 2 ”",
+   "url": "https://emol.ro/birda-tm/registru-hcl/74662",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/74662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-5-2022",
+   "path": "local/timis/birda/2022/5",
+   "short": "HCL Birda nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 5/2022 privind achizitia de produse alimentare si nealimentare, consumabile de birou uzuale, si prestari servicii de curatenie, dezinsectie, dezinfectie si deratizare, servicii informatice si de publicitate, combustibil",
+   "url": "https://emol.ro/birda-tm/registru-hcl/50081",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/50081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-50-2022",
+   "path": "local/timis/birda/2022/50",
+   "short": "HCL Birda nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 50/2022 privind achizitia de servicii cultural artistice( coregrafie artistica) pentru anul 2022-2023",
+   "url": "https://emol.ro/birda-tm/registru-hcl/74663",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/74663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-51-2022",
+   "path": "local/timis/birda/2022/51",
+   "short": "HCL Birda nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 51/2022 privind rectificarea bugetului local pentru anul 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/78786",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/78786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-52-2022",
+   "path": "local/timis/birda/2022/52",
+   "short": "HCL Birda nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 52/2022 privind realizarea proiectului tehnic si detalii de executie pentru obiectivul de investitie :Realizare extindere rețea de canalizare menajeră in localitățile Mănăstire și Berecuța, comuna Birda și conectarea la stația de epurare din localitatea Mănăstire, comuna Birda, Județul Timiș",
+   "url": "https://emol.ro/birda-tm/registru-hcl/78787",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/78787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-53-2022",
+   "path": "local/timis/birda/2022/53",
+   "short": "HCL Birda nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 53/2022 privind “realizarea de lucrari de reparatii/modificari la terenul de sport din localitatea Sângeorge “",
+   "url": "https://emol.ro/birda-tm/registru-hcl/78788",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/78788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-54-2022",
+   "path": "local/timis/birda/2022/54",
+   "short": "HCL Birda nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 54/2022 privind alegerea presedintelui de sedinta pentru perioada noiembrie 2022-ianuarie 2023",
+   "url": "https://emol.ro/birda-tm/registru-hcl/78789",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/78789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-55-2022",
+   "path": "local/timis/birda/2022/55",
+   "short": "HCL Birda nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 55/2022 privind rectificarea a bugetului local pentru anul 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/81938",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/81938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-56-2022",
+   "path": "local/timis/birda/2022/56",
+   "short": "HCL Birda nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 56/2022 privind punerea la dispozitia Directiei Generale de Asistenta sociala si protectia copilului Timis a unui imobil pentru realizarea unei case de tip familial",
+   "url": "https://emol.ro/birda-tm/registru-hcl/81939",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/81939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-57-2022",
+   "path": "local/timis/birda/2022/57",
+   "short": "HCL Birda nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 57/2022 privind alocarea de fonduri pentru manifestarea cultural artistica : Zilele colindului",
+   "url": "https://emol.ro/birda-tm/registru-hcl/81940",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/81940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-58-2022",
+   "path": "local/timis/birda/2022/58",
+   "short": "HCL Birda nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 58/2022 privind aprobarea studiuluide oportunitate si a formei de gestiune a Serviciului Public de iluminat in comuna Birda",
+   "url": "https://emol.ro/birda-tm/registru-hcl/81941",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/81941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-6-2022",
+   "path": "local/timis/birda/2022/6",
+   "short": "HCL Birda nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 6/2022 privind aprobarea Planului de ocupare a functiilor publice pentru anul 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/50082",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/50082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-60-2022",
+   "path": "local/timis/birda/2022/60",
+   "short": "HCL Birda nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 60/2022 privind aprobarea proiectului Planului de scolarizare pentru Scoala Gimnaziala Birda in anul scolar 2022-2023",
+   "url": "https://emol.ro/birda-tm/registru-hcl/81943",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/81943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-61-2022",
+   "path": "local/timis/birda/2022/61",
+   "short": "HCL Birda nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 61/2022 privind stabilirea unui spatiu pentru colectarea deseurilor voluminoase din comuna Birda",
+   "url": "https://emol.ro/birda-tm/registru-hcl/81944",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/81944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-62-2022",
+   "path": "local/timis/birda/2022/62",
+   "short": "HCL Birda nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 62/2022 privind alocarea de fonduri pentru premierea elevilor cu rezultate sportive si artistice in anul 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/81945",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/81945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-63-2022",
+   "path": "local/timis/birda/2022/63",
+   "short": "HCL Birda nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 63/2022 privind rectificarea bugetului local pentru anul 2022",
+   "url": "https://emol.ro/birda-tm/registru-hcl/85092",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/85092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-64-2022",
+   "path": "local/timis/birda/2022/64",
+   "short": "HCL Birda nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 64/2022 privind acoperirea temporara a golului de casa la sectiunea functionare a bugetului local pentru anul 2023",
+   "url": "https://emol.ro/birda-tm/registru-hcl/85093",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/85093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-65-2022",
+   "path": "local/timis/birda/2022/65",
+   "short": "HCL Birda nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 65/2022 privind alocarea de fonduri pentru activitati de deszăpezire pentru iarna 2022-2023,",
+   "url": "https://emol.ro/birda-tm/registru-hcl/85094",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/85094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-66-2022",
+   "path": "local/timis/birda/2022/66",
+   "short": "HCL Birda nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 66/2022 privind inscrierea definitiva in Cartea Funciara a imobilelor cuprinse in anexa 1,",
+   "url": "https://emol.ro/birda-tm/registru-hcl/85095",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/85095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-67-2022",
+   "path": "local/timis/birda/2022/67",
+   "short": "HCL Birda nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 67/2022 privind alocarea de fonduri pentru achizitia de artificii si alte efecte pirotehnice pentru sarbatorirea intrarii in anul 2023",
+   "url": "https://emol.ro/birda-tm/registru-hcl/85096",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/85096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-68-2022",
+   "path": "local/timis/birda/2022/68",
+   "short": "HCL Birda nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 68/2022 privind aprobarea Contractului de finantare pentru inregistrarea sistematica a imobilelor din extravilanul comunei Birda",
+   "url": "https://emol.ro/birda-tm/registru-hcl/85097",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/85097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-69-2022",
+   "path": "local/timis/birda/2022/69",
+   "short": "HCL Birda nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 69/2022 privind achizitia de piatra concasata si balast pentru amenajare drumuri in comuna Birda",
+   "url": "https://emol.ro/birda-tm/registru-hcl/85098",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/85098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--birda-9-2022",
+   "path": "local/timis/birda/2022/9",
+   "short": "HCL Birda nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Birda nr. 9/2022 privind repozitionarea unei parcele in localitatea Mănăstire",
+   "url": "https://emol.ro/birda-tm/registru-hcl/50085",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/birda-tm/registru-hcl/50085",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

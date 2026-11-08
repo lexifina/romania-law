@@ -3,6 +3,81 @@
  "shard": "local/teleorman/scurtu-mare/2020",
  "acts": [
   {
+   "slug": "hcl-teleorman--scurtu-mare-10-2020",
+   "path": "local/teleorman/scurtu-mare/2020/10",
+   "short": "HCL Scurtu Mare nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 10/2020 privind apobarea PUZ pentru lucrări de construire “ Înfiinţare unitate de colectare, depozitare, condiţionare şi comercializare cereale în comuna Scurtu Mare“",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/6035",
+   "versions": [
+    {
+     "from": "2020-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/6035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-11-2020",
+   "path": "local/teleorman/scurtu-mare/2020/11",
+   "short": "HCL Scurtu Mare nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 11/2020 privind aprobarea indicatorilor tehico-economici rezultaţi în urma actualizării după OUG 114/2018 a tarifului orar de manopera a Devizului General actualizat şi aprobarea cofinanţării de la bugetul local pentru proiectul: “Amenajare Centru de Permanenţă Scurtu Mare”",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/6036",
+   "versions": [
+    {
+     "from": "2020-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/6036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-12-2020",
+   "path": "local/teleorman/scurtu-mare/2020/12",
+   "short": "HCL Scurtu Mare nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 12/2020 privind modificarea indicatorilor tehnico-economici rezultați în urma actualizării după OUG 114/2018 a tarifului orar de manopera, modificarea Devizului General actualizat, precum şi aprobarea cofinanţării de la bugetul local pentru “ Amenajare Centru de Permanenţă în comuna Scurtu Mare, judeţul Teleorman",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/6386",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/6386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-13-2020",
+   "path": "local/teleorman/scurtu-mare/2020/13",
+   "short": "HCL Scurtu Mare nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 13/2020 privind aprobarea scoaterii din funcţiune a doua autoturizme din inventarul UAT Scurtu Mare în vederea casării şi valorificarii acestora",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/6387",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/6387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-14-2020",
+   "path": "local/teleorman/scurtu-mare/2020/14",
+   "short": "HCL Scurtu Mare nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 14/2020 privind aprobarea Statului comunei Scurtu Mare, judeţul Teleorman",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/6388",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/6388",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--scurtu-mare-15-2020",
    "path": "local/teleorman/scurtu-mare/2020/15",
    "short": "HCL Scurtu Mare nr. 15/2020",
@@ -298,6 +373,66 @@
      "from": "2020-12-18",
      "units": 1,
      "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/16914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-4-2020",
+   "path": "local/teleorman/scurtu-mare/2020/4",
+   "short": "HCL Scurtu Mare nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 4/2020 privind aprobarea Bugetului de venituri şi cheltuieli al comunei Scurtu Mare pe anul 2020",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/6021",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/6021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-5-2020",
+   "path": "local/teleorman/scurtu-mare/2020/5",
+   "short": "HCL Scurtu Mare nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 5/2020 privind aprobarea rectificării Bugetului de venit şi cheltuieli al comunei Scurtu Mare pe anul 2020",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/6022",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/6022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-6-2020",
+   "path": "local/teleorman/scurtu-mare/2020/6",
+   "short": "HCL Scurtu Mare nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 6/2020 privind aprobarea contractului cadru de prestări servicii de salubrizare în comuna Scurtu mare, judeţul Teleorman",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/6031",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/6031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-8-2020",
+   "path": "local/teleorman/scurtu-mare/2020/8",
+   "short": "HCL Scurtu Mare nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 8/2020 privind desfiinţarea postului vacant de referent III, din cadrul compartimentului Registru Agricol, Fond Funciar, Cadastru",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/6033",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/6033",
      "sha256": null
     }
    ]

@@ -3,6 +3,201 @@
  "shard": "local/timis/biled/2025",
  "acts": [
   {
+   "slug": "hcl-timis--biled-1-2025",
+   "path": "local/timis/biled/2025/1",
+   "short": "HCL Biled nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 1/2025 Privind aprobarea documentației de atribuire pentru prestarea servicilor de sortare a deșeurilor reciclabile și tratare mecanică a deșeurilor reziduale desfășurată în obiectivul Stație de Sortare Deșeuri Municipale din Municipiul Timișoara prin procedura de achiziție publică de negociere fără publicare prealabilă a unui anunț de participare pentru prestarea activităților de sortare a deșeurilor reciclabile și tratare mecanică a deșeurilor reziduale desfășurată în obiectivul Stație de Sortate Deșeuri Municipale din Municipiul Timișoara",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116716",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-11-2025",
+   "path": "local/timis/biled/2025/11",
+   "short": "HCL Biled nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 11/2025 Privind aprobarea bugetului local al Comunei Biled pe anul 2025",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116744",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-15-2025",
+   "path": "local/timis/biled/2025/15",
+   "short": "HCL Biled nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 15/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-19-2025",
+   "path": "local/timis/biled/2025/19",
+   "short": "HCL Biled nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 19/2025 Privind aprobarea Statului de Funcţii , a numărului de personal angajat si Organigrama Primăriei Comunei Biled judeţ Timiş pe anul 2025",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116768",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-20-2025",
+   "path": "local/timis/biled/2025/20",
+   "short": "HCL Biled nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 20/2025 Privind aprobarea Programului anual al achiziţiilor publice pe anul 2025 al Primăriei Comunei Biled",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116769",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-21-2025",
+   "path": "local/timis/biled/2025/21",
+   "short": "HCL Biled nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 21/2025 Privind aprobarea agendei activităţilor culturale pentru anul 2025 a comunei Biled",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116770",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-22-2025",
+   "path": "local/timis/biled/2025/22",
+   "short": "HCL Biled nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 22/2025 Privind aprobarea acordării unui împrumut Serviciului de alimentare cu apă și canalizare al comunei Biled - “Consiliul Local al Comunei Biled – Serviciul de apă”",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116771",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-24-2025",
+   "path": "local/timis/biled/2025/24",
+   "short": "HCL Biled nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 24/2025 Privind aprobarea bugetului de venituri și cheltuieli al Serviciului de alimentare cu apă și canalizare al comunei Biled - “Consiliul Local al Comunei Biled – Serviciul de apă” pe anul 2025",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116773",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-25-2025",
+   "path": "local/timis/biled/2025/25",
+   "short": "HCL Biled nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 25/2025 privind aprobarea solicitării prelungirii Scrisorii de garantie nr. 699/ 10.10.2017 de la FNGCIMM SA IFN in valoare de 1.780.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 1.780.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – „ Extindere alimentare cu apă în comuna Biled, județul Timiș ”",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116774",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-26-2025",
+   "path": "local/timis/biled/2025/26",
+   "short": "HCL Biled nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 26/2025 privind aprobarea solicitării prelungirii Scrisorii de garantie nr. 82/ 23.05.2017 de la FNGCIMM SA IFN in valoare de 1.790.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 1.790.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – „ Înființare canalizare menajeră în comuna Biled, județul Timiș ” până la data de 07.01.2026",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116775",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-3-2025",
+   "path": "local/timis/biled/2025/3",
+   "short": "HCL Biled nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 3/2025 Privind stabilirea modalității de finanțare nerambursabilă de la bugetul local a Clubului Sportiv ”Voința Biled”",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116720",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-32-2025",
+   "path": "local/timis/biled/2025/32",
+   "short": "HCL Biled nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 32/2025 privind aprobarea Extinderii rețelei electrice de interes public în zona PUZ – 3 UTR- 208 locuri de consum din Biled, județ Timiș și incheierea unui contract de cofinanțare între Comuna Biled și E-distribuție Banat SA",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116781",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-33-2025",
+   "path": "local/timis/biled/2025/33",
+   "short": "HCL Biled nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 33/2025 Privind constatarea apartenentei la domeniul privat al comunei Biled a terenului intravilan inscris in CF 407207 , în suprafata totală de 899 mp situat in Biled",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116782",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116782",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--biled-35-2025",
    "path": "local/timis/biled/2025/35",
    "short": "HCL Biled nr. 35/2025",
@@ -378,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--biled-6-2025",
+   "path": "local/timis/biled/2025/6",
+   "short": "HCL Biled nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 6/2025 privind darea în administrare a sistemului de alimentare cu apă şi de canalizare ale comunei Biled, judeţul Timiș, către serviciul “Consiliul Local al Comunei Biled – Serviciul de apă”, serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea consiliului local al comunei Biled, judeţul Timiș",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116729",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116729",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--biled-60-2025",
    "path": "local/timis/biled/2025/60",
    "short": "HCL Biled nr. 60/2025",
@@ -673,6 +883,21 @@
      "from": "2025-01-01",
      "units": 1,
      "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-8-2025",
+   "path": "local/timis/biled/2025/8",
+   "short": "HCL Biled nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 8/2025 privind aprobarea planului de acţiune sau de lucrări de interes local pentru repartizarea orelor de muncă ce trebuie să presteze persoanele apte de muncă beneficiare de ajutor de incluziune pe anul 2025",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116735",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#116735",
      "sha256": null
     }
    ]

@@ -3,6 +3,426 @@
  "shard": "local/teleorman/islaz/2021",
  "acts": [
   {
+   "slug": "hcl-teleorman--islaz-1-2021",
+   "path": "local/teleorman/islaz/2021/1",
+   "short": "HCL Islaz nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 1/2021 privind acoperirea definitivă a deficitului rezultat la secţiunea Dezvoltare din excedentul bugetului local 2020 al comunei Islaz",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/32565",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/32565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-11-2021",
+   "path": "local/teleorman/islaz/2021/11",
+   "short": "HCL Islaz nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 11/2021 privind modificarea Hotărârii Consiliului Local Islaz nr. 14/23.04.2001 privind reactualizarea şi însuşirea inventarului bunurilor din domeniul public de interes local al comunei Islaz",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34401",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-13-2021",
+   "path": "local/teleorman/islaz/2021/13",
+   "short": "HCL Islaz nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 13/2021 privind aprobarea modului de întocmire a registrului agricol pentru perioada 2020-2024 la nivelul comunei Islaz",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34407",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-14-2021",
+   "path": "local/teleorman/islaz/2021/14",
+   "short": "HCL Islaz nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 14/2021 privind analiza stadiului de înscriere a datelor in Registrul agricol pentru trimestrul IV al anului 2020 și stabilirea măsurilor pentru eficientizarea acestei activități la nivelul comunei Islaz",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34408",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-15-2021",
+   "path": "local/teleorman/islaz/2021/15",
+   "short": "HCL Islaz nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 15/2021 privind modificarea inventarului bunurilor care aparțin domeniului public al comunei Islaz, însușit prin HCL Islaz nr. 14/23.04.2001 și atestat prin HGR nr. 1358/2001",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34409",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-16-2021",
+   "path": "local/teleorman/islaz/2021/16",
+   "short": "HCL Islaz nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 16/2021 privind aprobarea contului de execuţie bugetară pe cele două secţiuni: funcţionare şi dezvoltare precum şi situaţia financiară la 31.12.2020",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34410",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-17-2021",
+   "path": "local/teleorman/islaz/2021/17",
+   "short": "HCL Islaz nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 17/2021 privind alegerea preşedintelui de şedinţă pentru următoarele trei luni",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34412",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-18-2021",
+   "path": "local/teleorman/islaz/2021/18",
+   "short": "HCL Islaz nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 18/2021 privind aprobarea bugetului local de venituri şi cheltuieli al comunei Islaz pe anul 2021",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34411",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-19-2021",
+   "path": "local/teleorman/islaz/2021/19",
+   "short": "HCL Islaz nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 19/2021 privind modificarea anexei 2 la HCL Islaz nr. 25/21.05.2020 privind aprobarea organigramei si a statului de functii aferente aparatului de specialitate al primarului comunei Islaz, precum și ale serviciilor și instituțiilor aflate în subordinea Consiliului local al comunei Islaz",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34413",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-2-2021",
+   "path": "local/teleorman/islaz/2021/2",
+   "short": "HCL Islaz nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 2/2021 privind organizare rețea școlară pentru anul 2021-2022 la Școala Gimnazială nr. 1 Islaz",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/32566",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/32566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-20-2021",
+   "path": "local/teleorman/islaz/2021/20",
+   "short": "HCL Islaz nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 20/2021 privind analiza stadiului de înscriere a datelor in Registrul agricol pentru trimestrul I al anului 2021 și stabilirea măsurilor pentru eficientizarea acestei activități la nivelul UAT comuna Islaz",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34414",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-21-2021",
+   "path": "local/teleorman/islaz/2021/21",
+   "short": "HCL Islaz nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 21/2021 privind aprobarea contului de execuţie bugetară pe cele două secţiuni: funcţionare şi dezvoltare precum şi situaţia financiară la 31.03.2021",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34415",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-22-2021",
+   "path": "local/teleorman/islaz/2021/22",
+   "short": "HCL Islaz nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 22/2021 privind organizarea de activităţi cultural – sportive şi artistice cu ocazia unor evenimente ce se vor desfăşura pe parcursul anului 2021",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34416",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-23-2021",
+   "path": "local/teleorman/islaz/2021/23",
+   "short": "HCL Islaz nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 23/2021 privind aprobarea achiziţionării de servicii de consultanţă juridică şi de reprezentare a intereselor Unitatii Administrativ Teritoriale Comuna Islaz, a Consiliului Local al Comunei Islaz , a Instituţiei Primarului Comunei Islaz , precum şi a Comisiei Locale de Fond Funciar Islaz",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34417",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-24-2021",
+   "path": "local/teleorman/islaz/2021/24",
+   "short": "HCL Islaz nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 24/2021 privind rectificarea bugetului local de venituri şi cheltuieli al comunei Islaz pe anul 2021",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34422",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-25-2021",
+   "path": "local/teleorman/islaz/2021/25",
+   "short": "HCL Islaz nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 25/2021 privind modificarea Anexei la HCL nr. 34/02.11.2020 privind organizarea comisiilor de specialitate pe domenii de activitate ale Consiliului local al comunei Islaz, completată prin HCL nr. 36/26.11.2020",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34423",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-26-2021",
+   "path": "local/teleorman/islaz/2021/26",
+   "short": "HCL Islaz nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 26/2021 privind aprobarea Regulamentului de organizare şi funcţionare al Consiliului Local al Comunei Islaz, judeţul Teleorman",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34424",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-27-2021",
+   "path": "local/teleorman/islaz/2021/27",
+   "short": "HCL Islaz nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 27/2021 privind stabilirea spaţiilor provizorii de depozitare a deşeurilor vegetale, precum şi a deşeurilor din construcţii şi demolări ( DCD) pe raza comunei Islaz, judeţul Teleorman",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34425",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-29-2021",
+   "path": "local/teleorman/islaz/2021/29",
+   "short": "HCL Islaz nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 29/2021 privind analiza stadiului de înscriere a datelor in Registrul agricol pentru trimestrul II al anului 2021 și stabilirea măsurilor pentru eficientizarea acestei activități la nivelul UAT comuna Islaz",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34430",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-3-2021",
+   "path": "local/teleorman/islaz/2021/3",
+   "short": "HCL Islaz nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 3/2021 privind acoperirea temporară a golului de casă din excedentul bugetului Serviciului Public Apă comuna Islaz 2020 la secțiunea Funcționare",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/32567",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/32567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-30-2021",
+   "path": "local/teleorman/islaz/2021/30",
+   "short": "HCL Islaz nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 30/2021 privind constituirea grupului de lucru în vederea identificării aşezărilor informale, evaluării situaţiei acestora şi stabilirea măsurilor necesare la nivelul UAT comuna Islaz",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34431",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-31-2021",
+   "path": "local/teleorman/islaz/2021/31",
+   "short": "HCL Islaz nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 31/2021 privind revocarea HCL Islaz nr. 23/25.05.2021 privind aprobarea achiziţionării de servicii de consultanţă juridică şi de reprezentare a intereselor Unităţii Administrativ Teritoriale comuna Islaz, a Consiliului Local al Comunei Islaz, a Instituţiei Primarului Comunei Islaz, precum şi a Comisiei Locale de Fond Funciar Islaz",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34432",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-32-2021",
+   "path": "local/teleorman/islaz/2021/32",
+   "short": "HCL Islaz nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 32/2021 privind aprobarea contului de execuţie bugetară pe cele două secţiuni: funcţionare şi dezvoltare precum şi situaţia financiară la 30.06.2021",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/54122",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/54122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-33-2021",
+   "path": "local/teleorman/islaz/2021/33",
+   "short": "HCL Islaz nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 33/2021 privind rectificarea bugetului local de venituri şi cheltuieli al comunei Islaz pe anul 2021",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/54123",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/54123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-34-2021",
+   "path": "local/teleorman/islaz/2021/34",
+   "short": "HCL Islaz nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 34/2021 privind rectificarea bugetului local de venituri şi cheltuieli al comunei Islaz pe anul 2021",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/54124",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/54124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-35-2021",
+   "path": "local/teleorman/islaz/2021/35",
+   "short": "HCL Islaz nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 35/2021 privind rectificarea bugetului local de venituri şi cheltuieli al comunei Islaz pe anul 2021",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/54125",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/54125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-37-2021",
+   "path": "local/teleorman/islaz/2021/37",
+   "short": "HCL Islaz nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 37/2021 privind aprobarea Regulamentului de organizare şi funcţionare al Compartimentului de asistenţă socială organizat la nivelul comunei Islaz, judeţul Teleorman",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/54127",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/54127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-38-2021",
+   "path": "local/teleorman/islaz/2021/38",
+   "short": "HCL Islaz nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 38/2021 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate şi finanțate din bugetul consiliului local Islaz pentru anul 2021",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/54128",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/54128",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--islaz-39-2021",
    "path": "local/teleorman/islaz/2021/39",
    "short": "HCL Islaz nr. 39/2021",
@@ -168,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--islaz-5-2021",
+   "path": "local/teleorman/islaz/2021/5",
+   "short": "HCL Islaz nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 5/2021 privind aprobarea planului de actiuni sau lucrari de interes local pe anul 2021 pentru repartizarea orelor de munca la beneficiarii venitului minim garantat",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34395",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34395",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--islaz-50-2021",
    "path": "local/teleorman/islaz/2021/50",
    "short": "HCL Islaz nr. 50/2021",
@@ -298,6 +733,21 @@
      "from": "2022-08-18",
      "units": 1,
      "source_url": "https://emol.ro/islaz-tr/registru-hcl/54158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--islaz-6-2021",
+   "path": "local/teleorman/islaz/2021/6",
+   "short": "HCL Islaz nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Islaz nr. 6/2021 privind aprobarea inventarului bunurilor care alcatuiesc domeniul privat al comunei Islaz, judetul Teleorman",
+   "url": "https://emol.ro/islaz-tr/registru-hcl/34396",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/islaz-tr/registru-hcl/34396",
      "sha256": null
     }
    ]

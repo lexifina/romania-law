@@ -3,6 +3,291 @@
  "shard": "local/teleorman/gratia/2024",
  "acts": [
   {
+   "slug": "hcl-teleorman--gratia-1-2024",
+   "path": "local/teleorman/gratia/2024/1",
+   "short": "HCL Gratia nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 1/2024 privind Privind organizarea rețelei școlare a unitățior de învățământ preuniversitar de stat din comuna Gratia, judetul Teleorman, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164422",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-11-2024",
+   "path": "local/teleorman/gratia/2024/11",
+   "short": "HCL Gratia nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 11/2024 privind aprobarea bugetului local rectificat al comunei Gratia pentru anul 2024",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164440",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-13-2024",
+   "path": "local/teleorman/gratia/2024/13",
+   "short": "HCL Gratia nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 13/2024 alegerea președintelui de ședință pentru sedinta ordinara din data de 19.03.2024",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164473",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-14-2024",
+   "path": "local/teleorman/gratia/2024/14",
+   "short": "HCL Gratia nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 14/2024 Privind organizarea licitatiei publice cu strigare in vederea valorificarii unui imobil –teren in suprafata de 215 ,72 mp conform CF nr.20202 ,apartinand domeniului privat situat in comuna Gratia, judetul Teleorman",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164474",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-15-2024",
+   "path": "local/teleorman/gratia/2024/15",
+   "short": "HCL Gratia nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 15/2024 PRIVIND UTILIZAREA EXCEDENTULUI BUGETULUI INSTITUTIILOR PUBLICE FINANTATE DIN VENITURI PROPRII ALE COMUNEI GRATIA",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164475",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-16-2024",
+   "path": "local/teleorman/gratia/2024/16",
+   "short": "HCL Gratia nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 16/2024 Privind aprobarea Regulamentului privind regimul finantarilor acordate de la bugetul local al comunei Gratia ,pentru activitatile sportive ,in baza prevdereilor Legii nr.69 /200 a educatiei fizice si sportului ,cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164476",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-17-2024",
+   "path": "local/teleorman/gratia/2024/17",
+   "short": "HCL Gratia nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 17/2024 privind stabilirea situatiior deosebite ,altele decat cele cauzate de calamitatii naturale ,incendii accidente ,epidemii ,epizotii ,pentru care se pot acorda ajutoare de urgent ,precum si a criteriilor si documentelor necesare acordarii acestor ajutoare",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164477",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-18-2024",
+   "path": "local/teleorman/gratia/2024/18",
+   "short": "HCL Gratia nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 18/2024 privind aprobarea bugetului local rectificat al comunei Gratia pentru anul 2024",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164479",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-19-2024",
+   "path": "local/teleorman/gratia/2024/19",
+   "short": "HCL Gratia nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 19/2024 privind participarea la Programul vizând sisteme de alimentare cu apa, canalizare si epurare a apelor uzate pentru obiectivul de investiții “EXTINDERE RETEA DE APA / CANALIZARE SI STATIE DE EPURARE A APELOR UZATE COMUNA GRATIA, JUDETUL TELEORMAN”",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164480",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-2-2024",
+   "path": "local/teleorman/gratia/2024/2",
+   "short": "HCL Gratia nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 2/2024 privind Privește majorarea tarifelor de salubrizare în cazul prestațiilor de care beneficiază utilizatorii fără contract din Comuna Gratia, Județul Teleorman",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164423",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-20-2024",
+   "path": "local/teleorman/gratia/2024/20",
+   "short": "HCL Gratia nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 20/2024 Priveste indexarea impozitelor si taxelor locale pentru anul fiscal 2025, la comuna Gratia, județul Teleorman cu rata inflatiei de 10.4%",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164488",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-22-2024",
+   "path": "local/teleorman/gratia/2024/22",
+   "short": "HCL Gratia nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 22/2024 aprobarea documentației tehnico-economice faza PT și a indicatorilor tehnico-economici aferenți proiectului „Creșterea eficientei energetice si gestionarea inteligenta a energiei într-o clădire publică cu destinație unitate de învățământ: Grădinița cu program normal din comuna Gratia””",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164490",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-23-2024",
+   "path": "local/teleorman/gratia/2024/23",
+   "short": "HCL Gratia nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 23/2024 privind aprobarea siuatiilor financiare -Bilantului contabil pentru anul 2023 al SC Gratiaserv SRL",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164507",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-24-2024",
+   "path": "local/teleorman/gratia/2024/24",
+   "short": "HCL Gratia nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 24/2024 privind aprobarea bugetului de venituri si cheltuieli al SC Gratiaserv SRL pe anul 2023",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164508",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-28-2024",
+   "path": "local/teleorman/gratia/2024/28",
+   "short": "HCL Gratia nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 28/2024 PRIVIND APROBAREA CONTULUI DE EXECUTIE AL BUGETULUI LOCAL AL COMUNEI GRATIA PENTRU ANUL 2023",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164520",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-29-2024",
+   "path": "local/teleorman/gratia/2024/29",
+   "short": "HCL Gratia nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 29/2024 Priveşte modificarea organigramei şi a ştatului de functii a aparatului de specialitate al primarului comunei Gratia, Judeţul Teleorman si al serviciilor din subordinea Consiliului Local al comunei Gratia, Judeţul Teleorman",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164521",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-3-2024",
+   "path": "local/teleorman/gratia/2024/3",
+   "short": "HCL Gratia nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 3/2024 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Gratia , judeţul Teleorman , si al personalului din cadrul serviciilor din subordinea Consiliului Local al comunei Gratia, Judeţul Teleorman începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164424",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-30-2024",
+   "path": "local/teleorman/gratia/2024/30",
+   "short": "HCL Gratia nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 30/2024 privind aprobarea bugetului local rectificat al comunei Gratia pentru anul 2024",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164522",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-35-2024",
+   "path": "local/teleorman/gratia/2024/35",
+   "short": "HCL Gratia nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 35/2024 privind anularea accesorilor aferente obligaţiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/185189",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/185189",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--gratia-36-2024",
    "path": "local/teleorman/gratia/2024/36",
    "short": "HCL Gratia nr. 36/2024",
@@ -213,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--gratia-5-2024",
+   "path": "local/teleorman/gratia/2024/5",
+   "short": "HCL Gratia nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 5/2024 privind stabilirea costului mediu lunar/beneficiar pentru Serviciul de Asistenta Sociala Comunitara si Centrul de zi pentru copii Gratia, în anul 2024",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164426",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164426",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--gratia-50-2024",
    "path": "local/teleorman/gratia/2024/50",
    "short": "HCL Gratia nr. 50/2024",
@@ -298,6 +598,36 @@
      "from": "2024-12-19",
      "units": 1,
      "source_url": "https://emol.ro/gratia-tr/registru-hcl/185359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-6-2024",
+   "path": "local/teleorman/gratia/2024/6",
+   "short": "HCL Gratia nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 6/2024 privind aprobarea Regulamentului pentru stabilirea metodologiei cadru de repartizare a terenurilor atribuite in baza Legii 15/2003 ,republicata ,privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala si acriteriilor suplimentare de selectie a solicitantilor de loturi de teren pentru construirea de locuinte",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164427",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--gratia-8-2024",
+   "path": "local/teleorman/gratia/2024/8",
+   "short": "HCL Gratia nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gratia nr. 8/2024 Priveste modificarea si completarea HCL nr. 21/ 21.04.2023 privind indexarea impozitelor si taxelor locale pentru anul fiscal 2024 la comuna Gratia, județul Teleorman",
+   "url": "https://emol.ro/gratia-tr/registru-hcl/164429",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gratia-tr/registru-hcl/164429",
      "sha256": null
     }
    ]

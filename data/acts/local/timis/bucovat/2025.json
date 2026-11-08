@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/timis/bucovat/2025",
+"acts": [
+{
+"slug": "hcl-timis--bucovat-24-2025",
+"path": "local/timis/bucovat/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 24/2025 privind indexarea impozitelor si taxelor locale pentru anul 2026 cu rata injla/iei de 5,6%",
+"short": "HCL Bucovăț nr. 24/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/bucovat-tm/registru-hcl/210156",
+"council": "timis/bucovat",
+"council_name": "Consiliul Local al Comunei Bucovăț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--bucovat-25-2025",
+"path": "local/timis/bucovat/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 25/2025 privind completarea HCL nr. 27 din data de 28 martie 2024 privind aprobarea nomenclatorului stradal al comunei Bucovat, județul Timis",
+"short": "HCL Bucovăț nr. 25/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/bucovat-tm/registru-hcl/210157",
+"council": "timis/bucovat",
+"council_name": "Consiliul Local al Comunei Bucovăț",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

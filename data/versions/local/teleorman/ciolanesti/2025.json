@@ -3,6 +3,216 @@
  "shard": "local/teleorman/ciolanesti/2025",
  "acts": [
   {
+   "slug": "hcl-teleorman--ciolanesti-10-2025",
+   "path": "local/teleorman/ciolanesti/2025/10",
+   "short": "HCL Ciolănești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 10/2025 privind stabilirea și aprobarea taxelor locale ce vor fi colectate la târgul comunal, eveniment organizat în zilele de duminică pe raza comunei Ciolănești",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/216032",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/216032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-11-2025",
+   "path": "local/teleorman/ciolanesti/2025/11",
+   "short": "HCL Ciolănești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 11/2025 privind aprobarea Planului de dezvoltare a serviciilor de prevenire a separării copilului de familie la nivelul comunei Ciolănești, județul Teleorman",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/216033",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/216033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-12-2025",
+   "path": "local/teleorman/ciolanesti/2025/12",
+   "short": "HCL Ciolănești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 12/2025 privind constituirea echipei mobilei pentru intervenția în cazurile de violență domestică pe raza comuna Ciolănești, județul Teleorman",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/216066",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/216066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-13-2025",
+   "path": "local/teleorman/ciolanesti/2025/13",
+   "short": "HCL Ciolănești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 13/2025 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/216067",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/216067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-14-2025",
+   "path": "local/teleorman/ciolanesti/2025/14",
+   "short": "HCL Ciolănești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 14/2025 privind aprobarea proiectului Platformă integrată de servicii publice digitale comuna Ciolănești, în vederea finanțării acestuia prin Programul Regional Sud-Muntenia 2021-2027",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/216068",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/216068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-15-2025",
+   "path": "local/teleorman/ciolanesti/2025/15",
+   "short": "HCL Ciolănești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 15/2025 privind indexarea și stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul fiscal 2026",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/216119",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/216119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-16-2025",
+   "path": "local/teleorman/ciolanesti/2025/16",
+   "short": "HCL Ciolănești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 16/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului Furnizare de servicii integrate în comunitățile rurale-facilitarea acesului persoanelor vulnerabile la servicii de bază eficiente și de calitate",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/216120",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/216120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-17-2025",
+   "path": "local/teleorman/ciolanesti/2025/17",
+   "short": "HCL Ciolănești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 17/2025 privind aprobarea Regulamentului de Organizare și funcționare a Consiliului Local Ciolănești, județul Teleorman",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/234988",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/234988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-2-2025",
+   "path": "local/teleorman/ciolanesti/2025/2",
+   "short": "HCL Ciolănești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 2/2025 privind aprobarea utilizării sumei de 300.000 lei din excedentul anilor precedenți al bugetului local rezultat la închiderea exercițiului bugetar al anului 2024, la secțiunea de functionare, pentru acoperirea golului temporar de casă",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/197625",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/197625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-20-2025",
+   "path": "local/teleorman/ciolanesti/2025/20",
+   "short": "HCL Ciolănești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 20/2025 privind modificarea atestarea apartenenței la domeniul privat al comunei Ciolănești, județul Teleorman, a unui imobil",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/235003",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/235003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-21-2025",
+   "path": "local/teleorman/ciolanesti/2025/21",
+   "short": "HCL Ciolănești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 21/2025 privind reorganizarea grupului de lucru propriu în vederea identificării așezărilor informale, evaluării situației acestora și stabilirii măsurilor necesare, la nivelul comunei Ciolănești, județul Teleorman",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/235004",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/235004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-22-2025",
+   "path": "local/teleorman/ciolanesti/2025/22",
+   "short": "HCL Ciolănești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 22/2025 privind aprobarea organigramei și statul de funcții al aparatului de specialitate al primarului comunei Ciolănești",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/235011",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/235011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-24-2025",
+   "path": "local/teleorman/ciolanesti/2025/24",
+   "short": "HCL Ciolănești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 24/2025 privind rectificarea bugetului local al comunei CIOLĂNEȘTI pe anul 2025",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/235040",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/235040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-25-2025",
+   "path": "local/teleorman/ciolanesti/2025/25",
+   "short": "HCL Ciolănești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 25/2025 privind aprobarea Raportului privind activitatea asistenților personali desfășurată în SEM I al anului 2026",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/235064",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/235064",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--ciolanesti-26-2025",
    "path": "local/teleorman/ciolanesti/2025/26",
    "short": "HCL Ciolănești nr. 26/2025",
@@ -58,6 +268,21 @@
      "from": "2025-11-11",
      "units": 1,
      "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/235075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-3-2025",
+   "path": "local/teleorman/ciolanesti/2025/3",
+   "short": "HCL Ciolănești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 3/2025 privind reactualizarea Planului de Analiză și Acoperire a Riscurilor pentru comuna Ciolănești, județul Teleorman",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/203434",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/203434",
      "sha256": null
     }
    ]
@@ -213,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--ciolanesti-4-2025",
+   "path": "local/teleorman/ciolanesti/2025/4",
+   "short": "HCL Ciolănești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 4/2025 privind aprobarea Regulamentului de organizare și funcționare a aparatului de specialitate al primarului comunei Ciolănești, județul Teleorman",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/203435",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/203435",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--ciolanesti-40-2025",
    "path": "local/teleorman/ciolanesti/2025/40",
    "short": "HCL Ciolănești nr. 40/2025",
@@ -283,6 +523,81 @@
      "from": "2026-03-19",
      "units": 1,
      "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/258921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-5-2025",
+   "path": "local/teleorman/ciolanesti/2025/5",
+   "short": "HCL Ciolănești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 5/2025 privind aprobarea modului de întocmire a registrului agricol 2025-2029",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/203436",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/203436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-6-2025",
+   "path": "local/teleorman/ciolanesti/2025/6",
+   "short": "HCL Ciolănești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 6/2025 privind aprobarea aderării comunei Ciolănești la sistemul de cooperare pentru audit prin încheierea unui act adițional la Acordul de cooperare pentru organizarea și exercitarea funcției de audit intern pentru care Asociația de dezvoltare intercomunitară audit TR are rol de enitate publică organizatoare",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/203443",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/203443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-7-2025",
+   "path": "local/teleorman/ciolanesti/2025/7",
+   "short": "HCL Ciolănești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 7/2025 privind aprobarea utilizării sumei de 68000 lei din excedentul anilor precedenți al bugetului local rezultat la încheierea exercițiului bugetar al anului 2024, la șecțiunea de funcționare sursa E",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/203444",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/203444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-8-2025",
+   "path": "local/teleorman/ciolanesti/2025/8",
+   "short": "HCL Ciolănești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 8/2025 privind aprobarea bugetului local al comunei Ciolănești pentru anul 2025 și estimările pentru anii 2026-2028",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/206131",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/206131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-9-2025",
+   "path": "local/teleorman/ciolanesti/2025/9",
+   "short": "HCL Ciolănești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 9/2025 privind aprobarea devizului general actualizat după licitație pentru obiectivul de investiții \" Extindere Rețea de Canalizare în Satele Ciolăneștii din Deal și Ciolăneștii din Vale din Comuna Ciolănești\" aprobat pentru finanțare prin Programul național de investiții \" Anghel Saligny\", precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/206132",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/206132",
      "sha256": null
     }
    ]

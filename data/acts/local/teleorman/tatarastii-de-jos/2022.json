@@ -3,6 +3,72 @@
 "shard": "local/teleorman/tatarastii-de-jos/2022",
 "acts": [
 {
+"slug": "hcl-teleorman--tatarastii-de-jos-4-2022",
+"path": "local/teleorman/tatarastii-de-jos/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 4/2022 privind clasificarea unor drumuri de interes public local în categoria funcțională de străzi aflate în perimetrul comunei Tătărăștii de Jos și cuprinderea acestora în inventarul bunurilor care alcătuiesc domeniul public al comunei Tătărăștii de Jos",
+"short": "HCL Tătărăștii de Jos nr. 4/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-07",
+"latest": "2022-10-07",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/74987",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--tatarastii-de-jos-19-2022",
+"path": "local/teleorman/tatarastii-de-jos/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 19/2022 privind aprobarea numărului și cuantumului lunar al burselor aferente Semestrului II al anului școlar 2021-2022, pentru elevii din învățământul preuniversitar de stat din comuna Tătărăștii de Jos, județul Teleorman",
+"short": "HCL Tătărăștii de Jos nr. 19/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-07",
+"latest": "2022-10-07",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/75033",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-teleorman--tatarastii-de-jos-34-2022",
+"path": "local/teleorman/tatarastii-de-jos/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 34/2022 privind înființarea punctului de colectare separată a deșeurilor de echipamente electrice și electronice (DEEE), deșeurilor din lemn, textile și deșeuri voluminoase, inclusiv saltele și mobilă",
+"short": "HCL Tătărăștii de Jos nr. 34/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-18",
+"latest": "2023-08-18",
+"portal": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116455",
+"council": "teleorman/tatarastii-de-jos",
+"council_name": "Consiliul Local al Comunei Tătărăștii de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-teleorman--tatarastii-de-jos-35-2022",
 "path": "local/teleorman/tatarastii-de-jos/2022/35",
 "kind": "local",

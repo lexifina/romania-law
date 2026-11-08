@@ -3,6 +3,28 @@
 "shard": "local/teleorman/scurtu-mare/2026",
 "acts": [
 {
+"slug": "hcl-teleorman--scurtu-mare-1-2026",
+"path": "local/teleorman/scurtu-mare/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 1/2026 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al Primarului Comunei Scurtu Mare, precum și a serviciilor din subordinea consiliului Scurtu Mare, județul Teleorman",
+"short": "HCL Scurtu Mare nr. 1/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/scurtumare-tr/registru-hcl/264118",
+"council": "teleorman/scurtu-mare",
+"council_name": "Consiliul Local al Comunei Scurtu Mare",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-teleorman--scurtu-mare-2-2026",
 "path": "local/teleorman/scurtu-mare/2026/2",
 "kind": "local",

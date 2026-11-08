@@ -3,6 +3,66 @@
  "shard": "local/timis/biled/2022",
  "acts": [
   {
+   "slug": "hcl-timis--biled-19-2022",
+   "path": "local/timis/biled/2022/19",
+   "short": "HCL Biled nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 19/2022 privind îndreptarea erorii materiale din cărțile funciare nr. 403430-C2-U7 Biled si CF 403430-C2-U17 Biled aferent apartamentului nr. 5, Sc. A , et. 2 și apratmanetului nr. 5, Sc.B, et. 2 din Blocul nr. 418",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#19598",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#19598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-23-2022",
+   "path": "local/timis/biled/2022/23",
+   "short": "HCL Biled nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 23/2022 Privind aprobarea Statului de Funcţii a personalului angajat al Primăriei Comunei Biled, judeţ Timiş pe anul 2022",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#19602",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#19602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-24-2022",
+   "path": "local/timis/biled/2022/24",
+   "short": "HCL Biled nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 24/2022 privind implementarea procesului de bugetare participativă la nivelul Comunei Biled, județul Timiș",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#19603",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#19603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-3-2022",
+   "path": "local/timis/biled/2022/3",
+   "short": "HCL Biled nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 3/2022 privind schimbarea reprezentantului primarului din Consiliului de administrație a Clubului Sportiv Voința Biled",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#16069",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#16069",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--biled-35-2022",
    "path": "local/timis/biled/2022/35",
    "short": "HCL Biled nr. 35/2022",
@@ -73,6 +133,21 @@
      "from": "2022-08-03",
      "units": 1,
      "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#26442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-4-2022",
+   "path": "local/timis/biled/2022/4",
+   "short": "HCL Biled nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 4/2022 Privind aprobarea bugetului local al Comunei Biled pe anul 2022",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#16071",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#16071",
      "sha256": null
     }
    ]
@@ -523,6 +598,21 @@
      "from": "2022-12-07",
      "units": 1,
      "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#36141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-7-2022",
+   "path": "local/timis/biled/2022/7",
+   "short": "HCL Biled nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 7/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]

@@ -3,6 +3,246 @@
  "shard": "local/teleorman/scurtu-mare/2025",
  "acts": [
   {
+   "slug": "hcl-teleorman--scurtu-mare-1-2025",
+   "path": "local/teleorman/scurtu-mare/2025/1",
+   "short": "HCL Scurtu Mare nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 1/2025 privind indexarea la nivelul comunei Scurtu Mare a impozitelor și taxelor local cu indicele de inflație de 10,4%, precum și amenzilor pentru anul fiscal 2025",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/204213",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/204213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-10-2025",
+   "path": "local/teleorman/scurtu-mare/2025/10",
+   "short": "HCL Scurtu Mare nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 10/2025 privind modificarea Hotărârii Consiliului Local nr.33 din 19.12.2024, privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții \" Modernizare drumuri de interes local, comuna Scurtu Mare, județul Teleorman, aprobat pentru finanțarea prin Programul național de investiții \" Anghel Saligny\" precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/216505",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/216505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-11-2025",
+   "path": "local/teleorman/scurtu-mare/2025/11",
+   "short": "HCL Scurtu Mare nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 11/2025",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/216506",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/216506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-12-2025",
+   "path": "local/teleorman/scurtu-mare/2025/12",
+   "short": "HCL Scurtu Mare nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 12/2025 privind aprobarea proiectului \" Construire Locuințe Sociale în Comuna Scurtu Mare\" în vederea finanțării acestuia prin Programul de construire de locuințe sociale conform Legii locuințe nr. 114/1996, republicată, cu modificările și completările ulterioare, finanțat de către Ministerul Dezvoltării Lucrărilor Publice și Administrației",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/216507",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/216507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-13-2025",
+   "path": "local/teleorman/scurtu-mare/2025/13",
+   "short": "HCL Scurtu Mare nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 13/2025 privind aprobarea reaprtizării și utilizării Excedentului Bugetar înregistrat în anul 2024 pentru finanțarea cheltuielilor de dezvoltare în anul 2025",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/216508",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/216508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-14-2025",
+   "path": "local/teleorman/scurtu-mare/2025/14",
+   "short": "HCL Scurtu Mare nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 14/2025 privind aprobarea Bugetului de venituri și cheltuieli al comunei Scurtu Mare pe anul 2025",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/216509",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/216509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-15-2025",
+   "path": "local/teleorman/scurtu-mare/2025/15",
+   "short": "HCL Scurtu Mare nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 15/2025 privind alegerea președintelui de ședință al Consiliului Local Scurtu Mare pentru perioada de trei luni (mai 2025-iunie 2025)",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/216510",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/216510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-16-2025",
+   "path": "local/teleorman/scurtu-mare/2025/16",
+   "short": "HCL Scurtu Mare nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 16/2025 privind aprobarea rectificării Bugetului de venituri și cheltuieli al comunei Scurtu Mare pe anul 2025",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/216511",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/216511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-17-2025",
+   "path": "local/teleorman/scurtu-mare/2025/17",
+   "short": "HCL Scurtu Mare nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 17/2025 privind acceptarea sponsorizării și încheierii contractului de sponsorizare din comuna Scurtu Mare, în calitate de beneficiar al sponsorizării și OMV Petrom S.A pentru un CONTAINER VESTIAR MODUL MEDIU",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/216512",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/216512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-18-2025",
+   "path": "local/teleorman/scurtu-mare/2025/18",
+   "short": "HCL Scurtu Mare nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 18/2025 privind aprobarea indicatorilor tehnico-economici și a Devizului General actualizat după licitație, precum și aprobarea cofinanțării de la bugetul local pentru proiectul \" Modernizare drumuri de interes local în comuna Scurtu Mare \"",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/216513",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/216513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-19-2025",
+   "path": "local/teleorman/scurtu-mare/2025/19",
+   "short": "HCL Scurtu Mare nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 19/2025 privind aprobarea proiectului și a cheltuielilor legate de proiectul \"Simplificare prin digitalizare-Comuna Scurtu Mare\"",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/216514",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/216514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-20-2025",
+   "path": "local/teleorman/scurtu-mare/2025/20",
+   "short": "HCL Scurtu Mare nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 20/2025 privind aprobarea Strategiei de Dezvoltare Locală (SDL) pentru perioada 2025-2030 a Comunei Scurtu Mare, județul Teleorman",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/225702",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/225702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-21-2025",
+   "path": "local/teleorman/scurtu-mare/2025/21",
+   "short": "HCL Scurtu Mare nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 21/2025 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al primarului comunei Scurtu Mare, precum și a serviciilor din subordinea consiliului local Scurtu Mare, județul Teleorman",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/225703",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/225703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-22-2025",
+   "path": "local/teleorman/scurtu-mare/2025/22",
+   "short": "HCL Scurtu Mare nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 22/2025 privind aprobarea Programului de acțiune comunitară destinat prevenirii sau reducerii riscului de sărăcie și excluziune socială, la nivelul comunei Scurtu Mare, pentru anul 2025",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/225704",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/225704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-23-2025",
+   "path": "local/teleorman/scurtu-mare/2025/23",
+   "short": "HCL Scurtu Mare nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 23/2025 privind participarea la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2025-2030",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/225705",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/225705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-24-2025",
+   "path": "local/teleorman/scurtu-mare/2025/24",
+   "short": "HCL Scurtu Mare nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 24/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale pentru anul școlar 2025",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/225706",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/225706",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--scurtu-mare-25-2025",
    "path": "local/teleorman/scurtu-mare/2025/25",
    "short": "HCL Scurtu Mare nr. 25/2025",
@@ -73,6 +313,21 @@
      "from": "2026-04-21",
      "units": 1,
      "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/225711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-3-2025",
+   "path": "local/teleorman/scurtu-mare/2025/3",
+   "short": "HCL Scurtu Mare nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 3/2025 privind modificarea Hotărârii Consiliului Local nr. 18.01.2023, privind implementarea proiectului: „ACHIZIȚIE DE UTILAJE PENTRU DOTAREA COMPARTIMENTULUI DE ADMINISTRARE A DOMENIULUI PUBLIC „Măsura 3/6 B - Dezvoltarea comunității rurale",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/204215",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/204215",
      "sha256": null
     }
    ]
@@ -228,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--scurtu-mare-4-2025",
+   "path": "local/teleorman/scurtu-mare/2025/4",
+   "short": "HCL Scurtu Mare nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 4/2025 privind stabilirea „ZILEI COMUNEI SCURTU MARE” județul Teleorman",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/204216",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/204216",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--scurtu-mare-40-2025",
    "path": "local/teleorman/scurtu-mare/2025/40",
    "short": "HCL Scurtu Mare nr. 40/2025",
@@ -298,6 +568,51 @@
      "from": "2026-04-21",
      "units": 1,
      "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/264117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-5-2025",
+   "path": "local/teleorman/scurtu-mare/2025/5",
+   "short": "HCL Scurtu Mare nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 5/2025 privind aprobarea Planului de acțiuni/lucrări de inters local care pot fi realizate în anul 2025 de persoanele beneficiare ale venitului minim de incluziune (VMI) și de persoanele obligate să presteze muncă în folosul comunității",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/204217",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/204217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-6-2025",
+   "path": "local/teleorman/scurtu-mare/2025/6",
+   "short": "HCL Scurtu Mare nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 6/2025 privind aprobarea organizării rețelei școlare de învățământ preuniversitar de stat din comuna Scurtu Mare pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/204218",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/204218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-7-2025",
+   "path": "local/teleorman/scurtu-mare/2025/7",
+   "short": "HCL Scurtu Mare nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 7/2025 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al comunei Scurtu Mare, județul Teleorman",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/204219",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/204219",
      "sha256": null
     }
    ]

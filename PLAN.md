@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**80.6%** of the plan is published, weighted by how binding each source is and how often it is used. **82.8%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-08 07:23 UTC.
+**80.6%** of the plan is published, weighted by how binding each source is and how often it is used. **82.8%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-08 07:42 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -18,7 +18,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | Lower courts (MO decisions, ROLII archive; annulments) | instante/<court>/; data/court-annulments.csv | 1.4% | 530 of 26,000,000 judgments; 89 of 229 annulments · 13.0% | texts where no private person is named, else metadata and a link; annulments noted on the acts | collecting |
 | ECHR judgments against Romania | jurisprudenta/cedo/ | 1.4% | 1,652 of 1,942 judgments · 85.1% | Romanian translations published in the Monitorul Oficial; HUDOC links for the rest | collecting |
 | CJEU references | jurisprudenta/cjue/ | 0.5% | 568 of 574 cases · 99.0% | the operative part and metadata of each decision concerning Romania; full texts linked | collecting |
-| CNSC and other bodies | cnsc/decizie/ (links for the rest) | 0.6% | 6,611 of 32,482 decisions · 10.2% | decisions as issued and as reasoned, identifiers removed; other bodies as metadata where they name private persons | collecting |
+| CNSC and other bodies | cnsc/decizie/ (links for the rest) | 0.6% | 7,273 of 32,482 decisions · 11.2% | decisions as issued and as reasoned, identifiers removed; other bodies as metadata where they name private persons | collecting |
 | **Secondary legislation** | | | | | |
 | Ministerial and authority orders | ordin/<issuer>/ | 10.4% | 39,160 of 62,513 orders · 75.6% | official texts as published, with the documents that amend them | planned |
 | Norms and regulations (BNR, ASF, ANRE, ANCOM and others) | norme/<issuer>/ | 11.2% | 22,958 of 38,987 acts · 64.4% | official texts as published | collecting |
@@ -36,16 +36,16 @@ This is the plan for this repository, part by part, with what is published so fa
 | Court of Accounts | curtea-de-conturi/ | 0.3% | target unknown | official texts as published | collecting |
 | Ombudsman (Avocatul Poporului) | avocatul-poporului/ | 0.2% | 1,776 of 1,807 documents · 98.3% | the Ombudsman's own publications | collecting |
 | **EU and international** | | | | | |
-| Treaties | tratat/ (texts), linked from the ratifying acts | 2.0% | 2,594 of 2,648 treaty texts; 3,663 of 3,500 acts · 84.7% | official texts, linked from the ratifying acts | planned |
+| Treaties | tratat/ (texts), linked from the ratifying acts | 2.0% | 2,594 of 2,648 treaty texts; 3,675 of 3,500 acts · 84.7% | official texts, linked from the ratifying acts | planned |
 | EU transposition links | data/eu-transposition.csv | 2.8% | 6,938 of 5,834 notification records · 100.0% | EU notification records and the transposition clauses in the acts | done |
 | EU law in Romanian | ue/<kind>/<year>/<number>/ | 0.5% | 16,409 of 16,415 EU acts · 100.0% | the Romanian Official Journal text of each regulation and directive in force | done |
 | **Parliament and President** | | | | | |
 | Presidential decrees | promulgation data on each law; normative decrees in decret/ | 0.3% | 9,090 of 9,678 decrees · 93.9% | promulgation data on each law; normative decrees as acts | collecting |
 | Parliament decisions | hotarare-parlament/ | 0.4% | 5,633 of 7,050 decisions · 79.9% | official texts as published | planned |
 | **Legislative history and publications** | | | | | |
-| Legislative history (amendment links, bills, Council opinions) | data/act-links-<year>.csv, data/bills-<year>.csv | 5.4% | 60,005 of 395,745 acts; 10,032 of 10,124 laws (+2 more) · 39.4% | the Chamber of Deputies' act sheets and bill files | collecting |
+| Legislative history (amendment links, bills, Council opinions) | data/act-links-<year>.csv, data/bills-<year>.csv | 5.4% | 60,037 of 402,407 acts; 10,032 of 10,124 laws (+2 more) · 39.2% | the Chamber of Deputies' act sheets and bill files | collecting |
 | Draft acts in public consultation | proiect/<initiator>/<year>/ | 0.9% | target unknown | official drafts and explanatory notes as published, each stage appended | collecting |
-| Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.2% | 395,745 of 395,745 acts; 15,077 of 33,731 issues · 55.7% | the Monitorul Oficial reference of every version | collecting |
+| Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.2% | 402,407 of 402,407 acts; 15,077 of 33,731 issues · 55.7% | the Monitorul Oficial reference of every version | collecting |
 | Collective labour agreements (MO Part V) | cct/ | 0.3% | 0 of 57 agreements · 0.0% | official texts as published | planned |
 | **Historical law** | | | | | |
 | Historical law | cod/ (old codes), decret-lege/, pre-1990 lege/ and decret/ | 2.4% | 9 of 10 codes and statutes; 111 of 200 decree-laws (+1 more) · 67.3% | built by hand from the official texts | collecting |

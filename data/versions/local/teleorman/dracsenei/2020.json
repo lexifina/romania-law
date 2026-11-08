@@ -3,6 +3,111 @@
  "shard": "local/teleorman/dracsenei/2020",
  "acts": [
   {
+   "slug": "hcl-teleorman--dracsenei-1-2020",
+   "path": "local/teleorman/dracsenei/2020/1",
+   "short": "HCL Drăcșenei nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 1/2020 privind acoperirea definitivă a deficitului secţiunii de dezvoltare la sfârşitul exerciţiului bugetar 2019, din excedentul anual al bugetului local rezultat la închiderea exerciţiului bugetar al anului 2019, pe cele două secţiuni",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/715",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-10-2020",
+   "path": "local/teleorman/dracsenei/2020/10",
+   "short": "HCL Drăcșenei nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 10/2020 privind aprobarea modului de întocmire a registrului agricol 2020 - 2024",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/807",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-11-2020",
+   "path": "local/teleorman/dracsenei/2020/11",
+   "short": "HCL Drăcșenei nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 11/2020 privind aprobarea utilizării excedentului anual al bugetului local rezultat la închiderea exerciţiului bugetar al anului 2019",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/808",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-12-2020",
+   "path": "local/teleorman/dracsenei/2020/12",
+   "short": "HCL Drăcșenei nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 12/2020 privind aprobarea bugetului local al comunei Drăcşenei pentru anul 2020 şi estimările pentru anii 2021 – 2023",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/809",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-14-2020",
+   "path": "local/teleorman/dracsenei/2020/14",
+   "short": "HCL Drăcșenei nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 14/2020 privind aprobarea Regulamentului de organizare şi funcţionare al Consiliului Local al comunei Drăcşenei",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/811",
+   "versions": [
+    {
+     "from": "2020-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-15-2020",
+   "path": "local/teleorman/dracsenei/2020/15",
+   "short": "HCL Drăcșenei nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 15/2020 privind aprobarea iniţierii demersurilor de actualizare a Planului Urbanistic General al comunei Drăcşenei, judeţul Teleorman şi a Regulamentului Local de Urbanism",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/812",
+   "versions": [
+    {
+     "from": "2020-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-16-2020",
+   "path": "local/teleorman/dracsenei/2020/16",
+   "short": "HCL Drăcșenei nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 16/2020 privind aprobarea prelungirii termenului de valabilitate al Planului Urbanistic General al comunei Drăcşenei, judeţul Teleorman şi al Regulamentului Local de Urbanism, aprobate prin hotărârea consiliului local nr.11 din 08.04.2010",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/813",
+   "versions": [
+    {
+     "from": "2020-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/813",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--dracsenei-17-2020",
    "path": "local/teleorman/dracsenei/2020/17",
    "short": "HCL Drăcșenei nr. 17/2020",
@@ -198,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--dracsenei-3-2020",
+   "path": "local/teleorman/dracsenei/2020/3",
+   "short": "HCL Drăcșenei nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 3/2020 privind reorganizarea comisiei de validare a mandatelor consilierilor locali declaraţi aleşi în Consiliul local al comunei Drăcşenei, judeţul Teleorman",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/803",
+   "versions": [
+    {
+     "from": "2020-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/803",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--dracsenei-30-2020",
    "path": "local/teleorman/dracsenei/2020/30",
    "short": "HCL Drăcșenei nr. 30/2020",
@@ -298,6 +418,81 @@
      "from": "2020-12-21",
      "units": 1,
      "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/18192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-4-2020",
+   "path": "local/teleorman/dracsenei/2020/4",
+   "short": "HCL Drăcșenei nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 4/2020 privind aprobarea utilizării excedentului anual rezultat din execuţia bugetului de venituri şi cheltuieli finanţat din venituri proprii – sursa E pe anul 2019, al unităţii de învăţământ preuniversitar de stat cu personalitate juridică „Şcoala Gimnazială comuna Drăcşenei",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/804",
+   "versions": [
+    {
+     "from": "2020-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-6-2020",
+   "path": "local/teleorman/dracsenei/2020/6",
+   "short": "HCL Drăcșenei nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 6/2020",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/800",
+   "versions": [
+    {
+     "from": "2020-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-7-2020",
+   "path": "local/teleorman/dracsenei/2020/7",
+   "short": "HCL Drăcșenei nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 7/2020",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/801",
+   "versions": [
+    {
+     "from": "2020-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-8-2020",
+   "path": "local/teleorman/dracsenei/2020/8",
+   "short": "HCL Drăcșenei nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 8/2020 privind stabilirea situaţiilor deosebite, altele decât situaţiile de necesitate, în care se pot afla familii şi/sau persoane, cărora li se pot acorda ajutoare de urgenţă, în condiţiile legii şi aprobarea Metodologiei de acordare a ajutoarelor de urgenţă",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/805",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-9-2020",
+   "path": "local/teleorman/dracsenei/2020/9",
+   "short": "HCL Drăcșenei nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 9/2020 privind înfiinţarea Serviciului Voluntar pentru Situaţii de Urgenţă de TIP V1 al comunei Drăcşenei, judeţul Teleorman",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/806",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/806",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/teleorman/lunca/2024",
  "acts": [
   {
+   "slug": "hcl-teleorman--lunca-1-2024",
+   "path": "local/teleorman/lunca/2024/1",
+   "short": "HCL Lunca nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 1/2024 Privind: organizarea rețelei școlare a unităților de învațământ preuniversitar de stat din comuna Lunca pentru anul scolar 2024-2025",
+   "url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#66080",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://luncatr.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/22077#66080",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--lunca-10-2024",
    "path": "local/teleorman/lunca/2024/10",
    "short": "HCL Lunca nr. 10/2024",

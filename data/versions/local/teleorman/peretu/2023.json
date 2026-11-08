@@ -3,6 +3,21 @@
  "shard": "local/teleorman/peretu/2023",
  "acts": [
   {
+   "slug": "hcl-teleorman--peretu-33-2023",
+   "path": "local/teleorman/peretu/2023/33",
+   "short": "HCL Peretu nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 33/2023 privind aprobarea înființării și delegarii prin concesiune a Serviciului de iluminat public al COMUNEI PERETU, județul TELEORMAN, a studiului de fundamentare a deciziei de delegarea a Servicului Public de Iluminat al COMUNEI PERETU , Judetul TELEORMAN, a Regulamentului de Organizare și funcționare al serviciului de iluminat public, a Caietului de Sarcini, a documentatiei de atribuire prin procedura simplificata",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/114725",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/114725",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--peretu-54-2023",
    "path": "local/teleorman/peretu/2023/54",
    "short": "HCL Peretu nr. 54/2023",
@@ -238,6 +253,21 @@
      "from": "2023-12-14",
      "units": 1,
      "source_url": "https://emol.ro/peretu-tr/registru-hcl/133504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--peretu-7-2023",
+   "path": "local/teleorman/peretu/2023/7",
+   "short": "HCL Peretu nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Peretu nr. 7/2023 privind aprobarea bugetului centralizat de venituri și cheltuieli al comunei Peretu pe anul 2023",
+   "url": "https://emol.ro/peretu-tr/registru-hcl/91884",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/peretu-tr/registru-hcl/91884",
      "sha256": null
     }
    ]

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/timis/biled/2020",
+ "acts": [
+  {
+   "slug": "hcl-timis--biled-12-2020",
+   "path": "local/timis/biled/2020/12",
+   "short": "HCL Biled nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 12/2020 Privind stabilirea impozitelor si taxelor locale pentru 2021",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#6967",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#6967",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

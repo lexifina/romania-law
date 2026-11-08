@@ -3,6 +3,246 @@
  "shard": "local/timis/biled/2021",
  "acts": [
   {
+   "slug": "hcl-timis--biled-1-2021",
+   "path": "local/timis/biled/2021/1",
+   "short": "HCL Biled nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 1/2021 PH nr.66 Privind aprobarea indicatorilor tehnico-economici și execuția obiectivului de investiții: ASFALTARE STRADĂ DS9 ÎN COMUNA BILED, JUDEȚ TIMIȘ",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3421",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-10-2021",
+   "path": "local/timis/biled/2021/10",
+   "short": "HCL Biled nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 10/2021 PROIECT DE HOTĂRÂRE nr. _10/20.01.2021 privind aprobarea amplasării unor stații de autobuze/microbuze pentru îmbarcarea/debarcarea persoanelor pe raza comunei Biled",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3473",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-16-2021",
+   "path": "local/timis/biled/2021/16",
+   "short": "HCL Biled nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 16/2021 PROIECT DE HOTĂRÂRE nr. 16/26.01.2021 Privind aprobarea Listei cu tinerii indreptăţiţi să beneficieze de prevederile Legii 15/2003 şi punctajul",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3481",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-17-2021",
+   "path": "local/timis/biled/2021/17",
+   "short": "HCL Biled nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 17/2021 PROIECT DE HOTĂRÂRE nr. 17/26.01.2021 privind aprobarea solicitării prelungirii Scrisorii de garantie nr. 82/ 23.05.2017 de la FNGCIMM SA IFN in valoare de 1.790.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 1.790.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – „ Înființare canalizare menajeră în comuna Biled, județul Timiș ”",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3482",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-18-2021",
+   "path": "local/timis/biled/2021/18",
+   "short": "HCL Biled nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 18/2021 PROIECT DE HOTĂRÂRE nr. 18/26.01.2021 privind trecerea terenului extravilan cu destinația de drum de exploatare agricolă , identificat cu nr.cad. De 683 din domeniul public al comunei Becicherecu Mic în domeniul public al comunei Biled",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3483",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-19-2021",
+   "path": "local/timis/biled/2021/19",
+   "short": "HCL Biled nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 19/2021 PROIECT DE HOTĂRÂRE nr. 20 din 19.02.2021 Privind stabilirea si sanctionarea faptelor ce constituie contraventii cu privire la gospodarirea, intretinerea si curatenia comunei Biled",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3486",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-2-2021",
+   "path": "local/timis/biled/2021/2",
+   "short": "HCL Biled nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 2/2021 PROIECT DE HOTĂRÂRE nr. _2/06.01.2021 pentru revocarea HCL nr. 18 din 15.12.2020 privind încetarea activității de audit public intern exercitată în cadrul primăriei comunei Biled de către Asociația Comunelor din România",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3464",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-20-2021",
+   "path": "local/timis/biled/2021/20",
+   "short": "HCL Biled nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 20/2021 PROIECT DE HOTĂRÂRE nr. 21 din 18.02.2021 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului comunei Biled - ROF",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3489",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-21-2021",
+   "path": "local/timis/biled/2021/21",
+   "short": "HCL Biled nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 21/2021 ROIECT DE HOTĂRÂRE nr. 22 din 18.02.2021 privind aprobarea Regulamentului propriu privind măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de hotărâri care se înaintează Consiliului Local Biled spre adoptare",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3491",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-22-2021",
+   "path": "local/timis/biled/2021/22",
+   "short": "HCL Biled nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 22/2021 PROIECT DE HOTĂRÂRE nr. 23 din 18.02.2021 privind aprobarea Regulamentului propriu cuprinzând măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de dispoziţii, precum şi a dispoziţiilor emise de primarul comunei Biled",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3492",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-26-2021",
+   "path": "local/timis/biled/2021/26",
+   "short": "HCL Biled nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 26/2021 PROIECT DE HOTĂRÂRE nr. 27/18.02.2021 Privind aprobarea Listei cu tinerii indreptăţiţi să beneficieze de prevederile Legii 15/2003 şi punctajul",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3497",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-28-2021",
+   "path": "local/timis/biled/2021/28",
+   "short": "HCL Biled nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 28/2021 PROIECT DE HOTĂRÂRE nr. 29 din 20.02.2021 Privind renunțarea la proiectul “Amenajare trotuare în localitatea Biled , județ Timiș” prin Gal Triplex Cofinum",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3500",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-3-2021",
+   "path": "local/timis/biled/2021/3",
+   "short": "HCL Biled nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 3/2021 PROIECT DE HOTĂRÂRE nr. _3/06.01.2021 Privind actualizarea componenţei Comisiei de verificare a dosarelor depuse de tineri conform Legii 15/2003 şi întocmire a listei de priorităţi",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3465",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-31-2021",
+   "path": "local/timis/biled/2021/31",
+   "short": "HCL Biled nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 31/2021 PROIECT DE HOTĂRÂRE nr. 31 din 23.08.2021 privind adoptarea Regulamentului privind facilitățile acordate unor categorii de cetățeni și entități la transportul public prestat cu tramvai, troleibuz, autobuz și vapoare în aria de competență a Societății Metropolitane de Transport Timișoara",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3509",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-32-2021",
+   "path": "local/timis/biled/2021/32",
+   "short": "HCL Biled nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 32/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-33-2021",
+   "path": "local/timis/biled/2021/33",
+   "short": "HCL Biled nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 33/2021 PROIECT DE HOTĂRÂRE nr. 33 din 23.08.2021 privind deschiderea procedurii de insolvență a SC Gospodărire Comunală Biled SRL",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3513",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3513",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--biled-35-2021",
    "path": "local/timis/biled/2021/35",
    "short": "HCL Biled nr. 35/2021",
@@ -73,6 +313,21 @@
      "from": "2021-04-28",
      "units": 1,
      "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-4-2021",
+   "path": "local/timis/biled/2021/4",
+   "short": "HCL Biled nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 4/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]
@@ -228,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--biled-5-2021",
+   "path": "local/timis/biled/2021/5",
+   "short": "HCL Biled nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 5/2021 PROIECT DE HOTĂRÂRE nr. _5/20.01.2021 privind arondarea comunei Biled la serviciile publice comunitare de evidenţă a persoanelor Șandra",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3468",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3468",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--biled-50-2021",
    "path": "local/timis/biled/2021/50",
    "short": "HCL Biled nr. 50/2021",
@@ -373,6 +643,21 @@
      "from": "2021-07-28",
      "units": 1,
      "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-6-2021",
+   "path": "local/timis/biled/2021/6",
+   "short": "HCL Biled nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 6/2021 PROIECT DE HOTĂRÂRE nr. _6/20.01.2021 privind aprobarea retelei școlare de pe raza comunei Biled pentru anul scolar 2021-2022",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3469",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3469",
      "sha256": null
     }
    ]
@@ -528,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--biled-7-2021",
+   "path": "local/timis/biled/2021/7",
+   "short": "HCL Biled nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 7/2021 PROIECT DE HOTĂRÂRE nr. 7/20.01.2021 privind aprobarea numărului și cuantumului burselor pe sem. al II-lea anul 2021- sem. I anuul 2022 pentru elevii din unitățile de învățământ preuniversitar",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3470",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3470",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--biled-70-2021",
    "path": "local/timis/biled/2021/70",
    "short": "HCL Biled nr. 70/2021",
@@ -673,6 +973,21 @@
      "from": "2021-09-29",
      "units": 1,
      "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#5441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--biled-8-2021",
+   "path": "local/timis/biled/2021/8",
+   "short": "HCL Biled nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Biled nr. 8/2021 PROIECT DE HOTĂRÂRE nr. _8/20.01.2021 privind aprobarea planului de acţiune pentru serviciile sociale acordate la nivelul comunei Biled și activitățile și lucrările de interes local pe anul 2021, ce vor fi executate de către beneficiarii de ajutor social, conform Legii nr.416/2001, cu modificarile si completarile ulterioare",
+   "url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3471",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#3471",
      "sha256": null
     }
    ]

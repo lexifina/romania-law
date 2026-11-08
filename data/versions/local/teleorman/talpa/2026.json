@@ -3,6 +3,396 @@
  "shard": "local/teleorman/talpa/2026",
  "acts": [
   {
+   "slug": "hcl-teleorman--talpa-1-2026",
+   "path": "local/teleorman/talpa/2026/1",
+   "short": "HCL Talpa nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 1/2026 privind acoperirea definitivă a Secțiunii de dezvoltare, Sursa A, rezultat din anul 2025 din excedentul bugetului local",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/254036",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/254036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-10-2026",
+   "path": "local/teleorman/talpa/2026/10",
+   "short": "HCL Talpa nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 10/2026 privind participarea Comunei Talpa, județul Teleorman, la Programul național de investiții \"Școli singure și sănătoase\" pentru clădirile în care se desfășoară activitatea didactică unităților de învățământ preuniversitar de stat, inclusiv de învățământ special, precum și la alte componente ale bazei materiale al acestora",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/256983",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/256983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-11-2026",
+   "path": "local/teleorman/talpa/2026/11",
+   "short": "HCL Talpa nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 11/2026 privind modificarea Hotărârii Consiliului local al comunei Talpa, cu nr.70 din 23 decembrie 2025 cu privire la înființarea \" Serviciului Public Comunitar Local de Edidență a Persoanelor\" al comunei Talpa, jud. Telorman",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/257004",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/257004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-12-2026",
+   "path": "local/teleorman/talpa/2026/12",
+   "short": "HCL Talpa nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 12/2026 privind atestarea apartenenței la domeniul public al comunei Talpa, județul Teleorman a unui bun imobil, construcție-Centru medical, situat pe strada Moromeții 2, nr.601, sat Linia-Costii",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/256989",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/256989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-13-2026",
+   "path": "local/teleorman/talpa/2026/13",
+   "short": "HCL Talpa nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 13/2026 privind îndreptarea unor erori materiale strecurate în HCL nr.70/23.12.2025 și în HCL nr.11/19.02.2026",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/259700",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/259700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-14-2026",
+   "path": "local/teleorman/talpa/2026/14",
+   "short": "HCL Talpa nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 14/2026 privind aprobarea organigramei și a statului de funcții al aparatului de specialitate al primarului comunei Talpa, județul Teleorman",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/259701",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/259701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-15-2026",
+   "path": "local/teleorman/talpa/2026/15",
+   "short": "HCL Talpa nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 15/2026 privind participarea comunei Talpa, județul Teleorman, la programul vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate, gestionat la nivelul național de Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/259704",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/259704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-16-2026",
+   "path": "local/teleorman/talpa/2026/16",
+   "short": "HCL Talpa nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 16/2026 privind aprobarea achiziției de material frezat pentru realizare unor lucrări de interes public pe raza comunei Talpa",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/259708",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/259708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-17-2026",
+   "path": "local/teleorman/talpa/2026/17",
+   "short": "HCL Talpa nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 17/2026 privind alegerea presedintelui de sedință a consiliului local al comunei Talpa, pentru lunile aprilie, mai, iunie, aferente anului 2026",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/261851",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/261851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-18-2026",
+   "path": "local/teleorman/talpa/2026/18",
+   "short": "HCL Talpa nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 18/2026 privind aprobarea organigramei și a statului de funcții al aparatului de specialitate al primarului",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/261852",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/261852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-19-2026",
+   "path": "local/teleorman/talpa/2026/19",
+   "short": "HCL Talpa nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 19/2026 privind aprobarea devizului general actualizat după licitație și a principalilor indicatori tehnico-economici actualizați, pentru investiția \" Realizare Sistem Integrat de Colectare și Valorificare a Gunoiului de Grajd în comuna Talpa, județul Teleorman\" proiect finanațat în cadrul PNRR/2024/C3/S./I.2.A-B din Planul Național de Redresare și rezilență, Componenta C3-Manangementul Deseurilor, Investiția I2 Dezvoltarea Infrastructuriii pentru manangementul gunoiului de grajd și a altor deseuri agricole compostabile, sub investiția I2.A-B Sisteme integrate de colectare și valorificare a gunoiului de grajd",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/261855",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/261855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-2-2026",
+   "path": "local/teleorman/talpa/2026/2",
+   "short": "HCL Talpa nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 2/2026 privind aprobarea planului de analiză și acoperire a riscurilor teritoriale din comuna Talpa, județul Telorman, pe anul 2026",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/251563",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/251563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-20-2026",
+   "path": "local/teleorman/talpa/2026/20",
+   "short": "HCL Talpa nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 20/2026 privind aprobarea achiziției a 1200 tone de piatră 16/32 pentru realizarea unor lucrări de interes public pe raza comunei Talpa și renunțarea la achiziția de material frezat",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/261856",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/261856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-21-2026",
+   "path": "local/teleorman/talpa/2026/21",
+   "short": "HCL Talpa nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 21/2026 privind atestarea inventarului bunurilor care aparțin domeniului public al comunei Talpa, județul Teleorman",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/264723",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/264723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-23-2026",
+   "path": "local/teleorman/talpa/2026/23",
+   "short": "HCL Talpa nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 23/2026 privind aprobarea indicatorilor tehnico-economici, devizului general și al cofinanțării pentru realizarea obiectivului de investiții \" Servicii de elaborare/actualizare Plan Urbanistic General și Regulament Local de Urbanism al comunei Talpa, județul Telorman\"",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/264732",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/264732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-24-2026",
+   "path": "local/teleorman/talpa/2026/24",
+   "short": "HCL Talpa nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 24/2026 privind aprobarea costului mediu lunar de întreținere și a contribuției lunare de întreținere datorată de persoane vârstnice îngrijite în \" Centrul Rezidențial pentru Persoanele Vârstnice Dependente Sfânta Maria \"",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/264736",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/264736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-25-2026",
+   "path": "local/teleorman/talpa/2026/25",
+   "short": "HCL Talpa nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 25/2026 privind aprobarea bugetului local al comunei Talpa, județul Teleorman, pe anul 2026",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/268928",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/268928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-26-2026",
+   "path": "local/teleorman/talpa/2026/26",
+   "short": "HCL Talpa nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 26/2026 privind aprobarea devizului general pentru investi(ia \"REALIZARE SISTEM INTEGRAT DE COLECTARE SI VALORIFICAREA GUNOIULUI DE GRAJD ÎN COMUNA TALPA, JUDETUL TELEORMAN” , proiectfinanłat in cadrul PNRW2023/C3/S/1.2.A-B din PLANUL NATIONAL DE REDRESARE Șl REZILIENTÂ, Componenta C3 - Managementul Deșeuriloł: Investi(ia 12 Dezvoltarea infrastructurii pentru managementul gunoiului de grajd și al altor deșeuri agricole compostabile, Sub investiłia 12.A-B. Sisteme integrate de colectare și valorificare a gunoiului de grajd",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/268934",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/268934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-27-2026",
+   "path": "local/teleorman/talpa/2026/27",
+   "short": "HCL Talpa nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 27/2026 privind analiza stadiului de înscriere a datelor în Registrul Agricol pentru trimestrul I al anului 2026 și a stabilirii masurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/278996",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/278996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-28-2026",
+   "path": "local/teleorman/talpa/2026/28",
+   "short": "HCL Talpa nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 28/2026 privind aprobarea rectificării bugetului local al comunei Talpa",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/278997",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/278997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-29-2026",
+   "path": "local/teleorman/talpa/2026/29",
+   "short": "HCL Talpa nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 29/2026 privind aprobarea bugetului pentru organizarea și sarbatorirea zilei comunei Talpa, județul Teleorman",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/278998",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/278998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-3-2026",
+   "path": "local/teleorman/talpa/2026/3",
+   "short": "HCL Talpa nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 3/2026 privind aprobarea Raportului de evaluare a capicității de apărare împotriva incendiilor la nivelul comunei Talpa pe semestrul II al anului 2025",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/251564",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/251564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-30-2026",
+   "path": "local/teleorman/talpa/2026/30",
+   "short": "HCL Talpa nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 30/2026 privind alegerea presedintelui de sedință a consiliului local al comunei Talpa, pentru lunile iulie, august și septembrie, aferent anului 2026",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/279024",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/279024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-31-2026",
+   "path": "local/teleorman/talpa/2026/31",
+   "short": "HCL Talpa nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 31/2026 privind aprobarea organigramei a statului de fucții și a regulamentului de organizare și funcționare al Centrului Rezidențial pentru Persoane Vârstnice Dependente Sfânta Maria",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/279202",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/279202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-32-2026",
+   "path": "local/teleorman/talpa/2026/32",
+   "short": "HCL Talpa nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 32/2026 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2026 la SC CONSTAL TALPA SRL",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/279203",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/279203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-33-2026",
+   "path": "local/teleorman/talpa/2026/33",
+   "short": "HCL Talpa nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 33/2026 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2026 la SC AQA TALPA SRL",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/279204",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/279204",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--talpa-35-2026",
    "path": "local/teleorman/talpa/2026/35",
    "short": "HCL Talpa nr. 35/2026",
@@ -73,6 +463,21 @@
      "from": "2026-07-21",
      "units": 1,
      "source_url": "https://emol.ro/talpa-tr/registru-hcl/279221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-4-2026",
+   "path": "local/teleorman/talpa/2026/4",
+   "short": "HCL Talpa nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 4/2026 privind aprobarea regulilor și măsurilor specifice de apărare impotriva incendiilor coreltae cu nivel și natura risurilor locale pe teritoriul comunei Talpa",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/251567",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/251567",
      "sha256": null
     }
    ]
@@ -228,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--talpa-5-2026",
+   "path": "local/teleorman/talpa/2026/5",
+   "short": "HCL Talpa nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 5/2026 privind aprobarea Planului de Acțiuni și Interes Local repartizarea orelor de muncă ce se vor efectua de către persoanele majore apte de muncă din familia beneficiară a Legii nr. 196/2016 privind venitul minim de incluziune pentru anul 2026",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/251565",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/251565",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--talpa-50-2026",
    "path": "local/teleorman/talpa/2026/50",
    "short": "HCL Talpa nr. 50/2026",
@@ -298,6 +718,51 @@
      "from": "2026-11-04",
      "units": 1,
      "source_url": "https://emol.ro/talpa-tr/registru-hcl/297416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-7-2026",
+   "path": "local/teleorman/talpa/2026/7",
+   "short": "HCL Talpa nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 7/2026 privind aprobarea sumelor necesare pentru organizarea evenimentului \" Ziua Internațională a Femeii 8 Martie 2026\" , în comuna Talpa",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/256981",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/256981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-8-2026",
+   "path": "local/teleorman/talpa/2026/8",
+   "short": "HCL Talpa nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 8/2026 privind analiza studiului de înscriere a datelor în Registrul Agricol pentru trimestrul IV al anului 2025 și a stabilirii măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/256982",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/256982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-9-2026",
+   "path": "local/teleorman/talpa/2026/9",
+   "short": "HCL Talpa nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 9/2026 privind participarea Comunei Talpa, județul Teleorman, la Programul național de consolidare a clădirilor cu risc seismic ridicat pentru clădirile de interes și utilitate publică aflate în proprietatea UAT Comuna Talpa",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/256984",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/256984",
      "sha256": null
     }
    ]

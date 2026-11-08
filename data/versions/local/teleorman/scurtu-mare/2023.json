@@ -3,6 +3,51 @@
  "shard": "local/teleorman/scurtu-mare/2023",
  "acts": [
   {
+   "slug": "hcl-teleorman--scurtu-mare-1-2023",
+   "path": "local/teleorman/scurtu-mare/2023/1",
+   "short": "HCL Scurtu Mare nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 1/2023 privind implementarea proiectului „ACHIZIȚIE DE UTILAJE PENTRU DOTAREA COMPARTIMENTULUI DE ADMINISTRARE A DOMENIULUI PUBLIC” Masura 3.6 B - Dezvoltarea comunității rurale",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/91021",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/91021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-10-2023",
+   "path": "local/teleorman/scurtu-mare/2023/10",
+   "short": "HCL Scurtu Mare nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 10/2023 privind modificarea organigramei și statului de funcții al aparatului de specialitate al Primarului comunei Scurtu Mare, precum și a serviciilor din subordinea consiliului local Scurtu Mare, județul Teleorman",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/114169",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/114169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-11-2023",
+   "path": "local/teleorman/scurtu-mare/2023/11",
+   "short": "HCL Scurtu Mare nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 11/2023 privind alegerea președintelui de ședință al Consiliului Local Scurtu Mare pentru perioadă de trei luni (aprilie - iunie 2023)",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/114170",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/114170",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--scurtu-mare-12-2023",
    "path": "local/teleorman/scurtu-mare/2023/12",
    "short": "HCL Scurtu Mare nr. 12/2023",
@@ -118,6 +163,21 @@
      "from": "2023-07-27",
      "units": 1,
      "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/114185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-2-2023",
+   "path": "local/teleorman/scurtu-mare/2023/2",
+   "short": "HCL Scurtu Mare nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 2/2023 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2023, ce vor fi executate de către beneficiarii de ajutor social, conform Legii nr. 416/2001, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/91022",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/91022",
      "sha256": null
     }
    ]
@@ -273,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--scurtu-mare-3-2023",
+   "path": "local/teleorman/scurtu-mare/2023/3",
+   "short": "HCL Scurtu Mare nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 3/2023 privind analiza stadiului de înscriere a datelor în Registrul Agricol pentru trimestrul IV al anului 2023 și a stabilirii măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/91023",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/91023",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--scurtu-mare-30-2023",
    "path": "local/teleorman/scurtu-mare/2023/30",
    "short": "HCL Scurtu Mare nr. 30/2023",
@@ -298,6 +373,66 @@
      "from": "2023-12-21",
      "units": 1,
      "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/134908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-4-2023",
+   "path": "local/teleorman/scurtu-mare/2023/4",
+   "short": "HCL Scurtu Mare nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 4/2023 privind aprobarea Bugetului de venituri și cheltuieli al comunei Scurtu Mare pe anul 2023",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/91024",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/91024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-5-2023",
+   "path": "local/teleorman/scurtu-mare/2023/5",
+   "short": "HCL Scurtu Mare nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 5/2023 privind aprobarea organizării rețelei școlare de învățământ preuniversitar de stat din comuna Scurtu Mare pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/91025",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/91025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-8-2023",
+   "path": "local/teleorman/scurtu-mare/2023/8",
+   "short": "HCL Scurtu Mare nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 8/2023 privind aprobarea rectificării bugetului de venituri și cheltuieli al comunei Scurtu Mare pe anul 2023",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/114167",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/114167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--scurtu-mare-9-2023",
+   "path": "local/teleorman/scurtu-mare/2023/9",
+   "short": "HCL Scurtu Mare nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scurtu Mare nr. 9/2023 privind actualizarea indicatorilor tehnico-economici precizati în Studiul de Fezabilitate (S.F.): „Construire și dotare cămin cultural în sat Scurtu Mare, comuna Scurtu Mare, județul Teleorman”",
+   "url": "https://emol.ro/scurtumare-tr/registru-hcl/114168",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scurtumare-tr/registru-hcl/114168",
      "sha256": null
     }
    ]

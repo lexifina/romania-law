@@ -3,6 +3,36 @@
  "shard": "local/timis/becicherecu-mic/2023",
  "acts": [
   {
+   "slug": "hcl-timis--becicherecu-mic-1-2023",
+   "path": "local/timis/becicherecu-mic/2023/1",
+   "short": "HCL Becicherecu Mic nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 1/2023 privind organizarea rețelei școlare a unităţilor de învăţământ preuniversitar de pe raza comunei Becicherecu Mic pentru anul școlar 2023 – 2024",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#39261",
+   "versions": [
+    {
+     "from": "2023-01-09",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#39261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-10-2023",
+   "path": "local/timis/becicherecu-mic/2023/10",
+   "short": "HCL Becicherecu Mic nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 10/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--becicherecu-mic-100-2023",
    "path": "local/timis/becicherecu-mic/2023/100",
    "short": "HCL Becicherecu Mic nr. 100/2023",
@@ -146,6 +176,21 @@
    "versions": [
     {
      "from": "2023-08-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-11-2023",
+   "path": "local/timis/becicherecu-mic/2023/11",
+   "short": "HCL Becicherecu Mic nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 11/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-25",
      "units": 1,
      "source_url": null,
      "sha256": null
@@ -303,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--becicherecu-mic-12-2023",
+   "path": "local/timis/becicherecu-mic/2023/12",
+   "short": "HCL Becicherecu Mic nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 12/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--becicherecu-mic-120-2023",
    "path": "local/timis/becicherecu-mic/2023/120",
    "short": "HCL Becicherecu Mic nr. 120/2023",
@@ -448,6 +508,21 @@
      "from": "2023-10-30",
      "units": 1,
      "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#61115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-13-2023",
+   "path": "local/timis/becicherecu-mic/2023/13",
+   "short": "HCL Becicherecu Mic nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 13/2023 privind adoptarea bugetului local și a bugetului de venituri proprii al comunei Becicherecu Mic pentru anul 2023",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#41648",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#41648",
      "sha256": null
     }
    ]
@@ -603,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--becicherecu-mic-14-2023",
+   "path": "local/timis/becicherecu-mic/2023/14",
+   "short": "HCL Becicherecu Mic nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 14/2023 privind avizarea încheirii unui contract de asistență juridică de către operatorul serviciului de apă – canal AQUATORONTAL SRL pentru anul 2023",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#41650",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#41650",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--becicherecu-mic-140-2023",
    "path": "local/timis/becicherecu-mic/2023/140",
    "short": "HCL Becicherecu Mic nr. 140/2023",
@@ -753,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--becicherecu-mic-15-2023",
+   "path": "local/timis/becicherecu-mic/2023/15",
+   "short": "HCL Becicherecu Mic nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 15/2023 privind aprobarea planului de acţiuni de interes local pentru repartizarea orelor de muncă în folosul comunității beneficiarilor de ajutor social pentru anul 2023",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#41651",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#41651",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--becicherecu-mic-150-2023",
    "path": "local/timis/becicherecu-mic/2023/150",
    "short": "HCL Becicherecu Mic nr. 150/2023",
@@ -793,6 +898,1056 @@
      "from": "2023-12-18",
      "units": 1,
      "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#65805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-16-2023",
+   "path": "local/timis/becicherecu-mic/2023/16",
+   "short": "HCL Becicherecu Mic nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 16/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-18-2023",
+   "path": "local/timis/becicherecu-mic/2023/18",
+   "short": "HCL Becicherecu Mic nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 18/2023 privind modificarea protocolului nr.5255 din 02.08.2021 încheiat cu Asociația ”Micile Comori”",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#43784",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#43784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-19-2023",
+   "path": "local/timis/becicherecu-mic/2023/19",
+   "short": "HCL Becicherecu Mic nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 19/2023 privind avizarea alocațiilor bugetare pentru acoperirea costurilor majorate ocazionate cu suplimentarea cursei M44 Timișoara – Becicherecu Mic – Dudeștii Noi și retur în anul 2023",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#43785",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#43785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-2-2023",
+   "path": "local/timis/becicherecu-mic/2023/2",
+   "short": "HCL Becicherecu Mic nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 2/2023 privind acoperirea deficitului secțiunii de dezvoltare a anului 2022 cu excedentul bugetar din anii precedenți",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#39262",
+   "versions": [
+    {
+     "from": "2023-01-09",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#39262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-20-2023",
+   "path": "local/timis/becicherecu-mic/2023/20",
+   "short": "HCL Becicherecu Mic nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 20/2023 privind delegarea dreptului de a depune aplicația de finanțare pentru proiectul ”Dotarea Școlii Gimnaziale ”Dimitrie Țichindeal” Becicherecu Mic și a Grădiniței cu Program Prelungit Becicherecu Mic cu mobilier de clasă” prin Programul Național de Redresare și Reziliență Componenta C15 – Educație – Reforma 4, 5 și 6 – I9, I11, I13 și I14 – Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe către Consiliul Județean Timiș",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#43786",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#43786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-21-2023",
+   "path": "local/timis/becicherecu-mic/2023/21",
+   "short": "HCL Becicherecu Mic nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 21/2023 privind aprobarea contului de execuţie al bugetului local pe trimestrul IV – anul 2022",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#43787",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#43787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-26-2023",
+   "path": "local/timis/becicherecu-mic/2023/26",
+   "short": "HCL Becicherecu Mic nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 26/2023 privind ajustarea devizului general estimativ al obiectivului de investiții „Modernizare și asfaltare străzi comuna Becicherecu Mic, jud. Timiș” finanțat prin Programul Național de Investiții \"Anghel Saligny\"",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#43792",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#43792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-27-2023",
+   "path": "local/timis/becicherecu-mic/2023/27",
+   "short": "HCL Becicherecu Mic nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 27/2023 privind actualizarea și stabilirea valorii finale a investiției locale “Construire Capelă Mortuară și Sală Multifuncțională în localitatea Becicherecu Mic”",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#44831",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#44831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-28-2023",
+   "path": "local/timis/becicherecu-mic/2023/28",
+   "short": "HCL Becicherecu Mic nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 28/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-29-2023",
+   "path": "local/timis/becicherecu-mic/2023/29",
+   "short": "HCL Becicherecu Mic nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 29/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-31-2023",
+   "path": "local/timis/becicherecu-mic/2023/31",
+   "short": "HCL Becicherecu Mic nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 31/2023 privind rectificarea bugetului local al comunei Becicherecu Mic – secțiunea dezvoltare – pentru trimestrul I pe anul 2023",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#44836",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#44836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-32-2023",
+   "path": "local/timis/becicherecu-mic/2023/32",
+   "short": "HCL Becicherecu Mic nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 32/2023 privind modificarea statului nominal de funcții al compartimentului administrativ organizat prin Acordul de Cooperare privind organizarea și exercitarea activității de audit public intern, precum și pentru organizarea și exercitarea unor activități în scopul realizării unor atribuții stabilite prin lege autorităților administrației publice locale încheiat conform Hotărârii Consiliului Local Becicherecu Mic nr.27 din 25.02.2013",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#44838",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#44838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-33-2023",
+   "path": "local/timis/becicherecu-mic/2023/33",
+   "short": "HCL Becicherecu Mic nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 33/2023 privind actualizarea devizului general final a investiției “Extindere și modernizare sistem alimentare cu apa în localitatea Becicherecu Mic, comuna Becicherecu Mic, jud. Timiș” și aprobarea devizului cu restul rămas de executat conform contractului de lucrări nr. 3612/25.04.2019",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#45877",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#45877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-34-2023",
+   "path": "local/timis/becicherecu-mic/2023/34",
+   "short": "HCL Becicherecu Mic nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 34/2023 privind alocarea sumei de 5000 lei din bugetul local al comunei Becicherecu Mic pentru premierea performanțelor sportive extraordinare realizate de Műller Rebeca Micaela",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#45878",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#45878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-35-2023",
+   "path": "local/timis/becicherecu-mic/2023/35",
+   "short": "HCL Becicherecu Mic nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 35/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-36-2023",
+   "path": "local/timis/becicherecu-mic/2023/36",
+   "short": "HCL Becicherecu Mic nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 36/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-37-2023",
+   "path": "local/timis/becicherecu-mic/2023/37",
+   "short": "HCL Becicherecu Mic nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 37/2023 privind actualizarea condițiilor de realizare a investiției locale “Extindere rețea electrică de interes public zonal: PUZ zonă rezidențială – 100 locuințe (Etapa I – 53 locuințe, Etapa II – 47 locuințe) intravilan zona NV (CF 400888-drum) în localitatea Becicherecu Mic, județul Timiș”",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#45882",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#45882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-38-2023",
+   "path": "local/timis/becicherecu-mic/2023/38",
+   "short": "HCL Becicherecu Mic nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 38/2023 privind prefinanțarea investiției „Înființare sistem inteligent de distribuție gaze naturale comunele Becicherecu Mic și Dudeștii Noi, jud. Timiș” depusă în cadrul Programului Național de Investiții ”Anghel Saligny prin Asociația de Dezvoltare Intercomunitară ”DIMITRIE ȚICHINDEAL”",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#45883",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#45883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-39-2023",
+   "path": "local/timis/becicherecu-mic/2023/39",
+   "short": "HCL Becicherecu Mic nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 39/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-4-2023",
+   "path": "local/timis/becicherecu-mic/2023/4",
+   "short": "HCL Becicherecu Mic nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 4/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-40-2023",
+   "path": "local/timis/becicherecu-mic/2023/40",
+   "short": "HCL Becicherecu Mic nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 40/2023 privind modificarea cotizației anuale a comunei Becicherecu Mic datorată Asociației de Dezvoltare Intercomunitară TORONTAL pe durata monitorizării postimplementare a proiectului “Înființare rețea de canalizare menajeră, canal de legătură între Becicherecu Mic și Dudeștii Noi și extindere stație de epurare în comuna Dudeștii Noi, județul Timiș” și pe durata implementării proiectului ”Extinderea rețelelor de canalizare și alimentare cu apă din comunele Becicherecu Mic și Dudeștii Noi, Județul Timiș”",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#47162",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#47162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-41-2023",
+   "path": "local/timis/becicherecu-mic/2023/41",
+   "short": "HCL Becicherecu Mic nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 41/2023 pentru modificarea sumelor prevăzute în Hotărârea Consiliului Local Becicherecu Mic nr.38 din 27.03.2023 privind prefinanțarea investiției „Înființare sistem inteligent de distribuție gaze naturale comunele Becicherecu Mic și Dudeștii Noi, jud. Timiș” depusă în cadrul Programului Național de Investiții ”Anghel Saligny prin Asociația de Dezvoltare Intercomunitară ”DIMITRIE ȚICHINDEAL”",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#47163",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#47163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-42-2023",
+   "path": "local/timis/becicherecu-mic/2023/42",
+   "short": "HCL Becicherecu Mic nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 42/2023 privind încheierea parteneriatelor pentru activitățile prevăzute în agenda cultural – sportivă a comunei Becicherecu Mic pentru anul 2023",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#47164",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#47164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-43-2023",
+   "path": "local/timis/becicherecu-mic/2023/43",
+   "short": "HCL Becicherecu Mic nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 43/2023 privind preluarea în patrimoniul comunei Becicherecu Mic a terenului intravilan înscris în CF nr.403921, nr.cad.403921 Becicherecu Mic, cu suprafața de 11.443 mp și a terenului intravilan înscris în CF nr.403923, nr.cad.403932 Becicherecu Mic, cu suprafața de 13.996 mp și trecerea acestora în domeniul public al comunei Becicherecu Mic",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#47165",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#47165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-44-2023",
+   "path": "local/timis/becicherecu-mic/2023/44",
+   "short": "HCL Becicherecu Mic nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 44/2023 privind aprobarea înscrierii comunei Becicherecu Mic în Programul privind casarea autovehiculelor uzate organizat conform Ordinului Ministerului Mediului, Apelor și Pădurilor nr.2261 din 23.08.2022, actualizat prin Ordinul Ministerului Mediului, Apelor și Pădurilor nr.864 din 30.03.2023 și asigurarea finanțării primelor de casare din bugetul local al comunei Becicherecu Mic",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#47166",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#47166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-45-2023",
+   "path": "local/timis/becicherecu-mic/2023/45",
+   "short": "HCL Becicherecu Mic nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 45/2023 privind indexarea valorilor impozitelor și taxelor locale aplicabile pe raza comunei Becicherecu Mic pentru anul 2024",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#47719",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#47719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-47-2023",
+   "path": "local/timis/becicherecu-mic/2023/47",
+   "short": "HCL Becicherecu Mic nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 47/2023 privind radierea dreptului de ipotecă al comunei Becicherecu Mic notat asupra terenului intravilan înscris în CF 400809",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#47725",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#47725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-49-2023",
+   "path": "local/timis/becicherecu-mic/2023/49",
+   "short": "HCL Becicherecu Mic nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 49/2023 privind acordarea unui mandat special primarului comunei Becicherecu Mic pentru aprobarea documentației de delegare a gestiunii serviciului de alimentare cu apă și canalizare pe raza localităților care au mandatat gestionarea serviciului de alimentare cu apă și canalizare către Asociația de Dezvoltare Intercomunitară Apă – Canal Timiș pe o durată de 30 de ani",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#48824",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#48824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-50-2023",
+   "path": "local/timis/becicherecu-mic/2023/50",
+   "short": "HCL Becicherecu Mic nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 50/2023 privind aprobarea contului de execuţie al bugetului local pe trimestrul I – anul 2023",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#48825",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#48825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-51-2023",
+   "path": "local/timis/becicherecu-mic/2023/51",
+   "short": "HCL Becicherecu Mic nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 51/2023 privind modificarea și actualizarea Regulamentului local pentru organizarea, administrarea şi exploatarea pajiştilor aparţinând domeniului public şi privat al comunei Becicherecu Mic",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#48826",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#48826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-52-2023",
+   "path": "local/timis/becicherecu-mic/2023/52",
+   "short": "HCL Becicherecu Mic nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 52/2023 privind încheierea unui parteneriat cu Asociația de Dezvoltare Intercomunitară Deșeuri Timiș în vederea realizării proiectului ”Colectez separat și la școală” prin Programul vizând educația și conștientizarea publicului privind protecția mediului finanțat de Agenția Fondului de Mediu în baza Ordinului Ministerului Mediului, Apelor și Pădurilor nr.3288 din 22.12.2022",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#48827",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#48827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-53-2023",
+   "path": "local/timis/becicherecu-mic/2023/53",
+   "short": "HCL Becicherecu Mic nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 53/2023 privind actualizarea devizului general și a indicatorilor tehnico – economici ai investiției „Realizare Parc Central în comuna Becicherecu Mic, județul Timiș”",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#48828",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#48828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-54-2023",
+   "path": "local/timis/becicherecu-mic/2023/54",
+   "short": "HCL Becicherecu Mic nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 54/2023 privind aprobarea participării comunei Becicherecu Mic în cadrul parteneriatului LEADER cu denumirea ”TRIPLEX CONFINIUM 2023 – 2027” în vederea depunerii pentru selecţie şi în vederea implementării STRATEGIEI DE DEZVOLTARE LOCALĂ A TERITORIULUI pentru perioada 2023 – 2027",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#49980",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#49980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-55-2023",
+   "path": "local/timis/becicherecu-mic/2023/55",
+   "short": "HCL Becicherecu Mic nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 55/2023 privind modificarea cuantumurilor salariilor de bază prevăzute în nomenclatorul de funcții din aparatul de specialitate al primarului comunei Becicherecu Mic începând cu data de 01.06.2023",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#50435",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#50435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-56-2023",
+   "path": "local/timis/becicherecu-mic/2023/56",
+   "short": "HCL Becicherecu Mic nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 56/2023 privind preluarea în patrimoniul comunei Becicherecu Mic a cotei de 14 mp din terenul intravilan înscris în CF nr.406270, nr.cad.406270 Becicherecu Mic, cu suprafața totală de 374 mp în domeniul privat al comunei Becicherecu Mic",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#50436",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#50436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-57-2023",
+   "path": "local/timis/becicherecu-mic/2023/57",
+   "short": "HCL Becicherecu Mic nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 57/2023 privind dezlipirea terenului intravilan înscris în nr.406576, nr.cad.406576 în două loturi cu suprafeţe diferite",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#50437",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#50437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-58-2023",
+   "path": "local/timis/becicherecu-mic/2023/58",
+   "short": "HCL Becicherecu Mic nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 58/2023 privind dezlipirea terenului intravilan înscris în nr.406576, nr.cad.406126 în două loturi cu suprafeţe diferite",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#50439",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#50439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-59-2023",
+   "path": "local/timis/becicherecu-mic/2023/59",
+   "short": "HCL Becicherecu Mic nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 59/2023 privind radierea dreptului de ipotecă al comunei Becicherecu Mic notat asupra terenului intravilan înscris în CF 402439",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#50440",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#50440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-6-2023",
+   "path": "local/timis/becicherecu-mic/2023/6",
+   "short": "HCL Becicherecu Mic nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 6/2023 privind actualizarea cuantumurilor salariilor de bază prevăzute în nomenclatorul de funcții din aparatul de specialitate al primarului comunei Becicherecu Mic care sunt stabilite sub pragul salariului minim pe economie garantat în plată pe anul 2023",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#41641",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#41641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-60-2023",
+   "path": "local/timis/becicherecu-mic/2023/60",
+   "short": "HCL Becicherecu Mic nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 60/2023 privind modificarea sumelor alocate activităților prevăzute în agenda cultural – sportivă a comunei Becicherecu Mic pentru anul 2023",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#50441",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#50441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-61-2023",
+   "path": "local/timis/becicherecu-mic/2023/61",
+   "short": "HCL Becicherecu Mic nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 61/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-66-2023",
+   "path": "local/timis/becicherecu-mic/2023/66",
+   "short": "HCL Becicherecu Mic nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 66/2023 privind aprobarea investiției locale „Achiziție mixtură asfaltică pentru pietruire străzi în comuna Becicherecu Mic, județul Timiș”",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#51581",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#51581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-67-2023",
+   "path": "local/timis/becicherecu-mic/2023/67",
+   "short": "HCL Becicherecu Mic nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 67/2023 privind rectificarea bugetului local al comunei Becicherecu Mic – secțiunea dezvoltare – pentru trimestrul II pe anul 2023",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#51582",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#51582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-69-2023",
+   "path": "local/timis/becicherecu-mic/2023/69",
+   "short": "HCL Becicherecu Mic nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 69/2023 privind aprobarea finanţării programului educaţional „Şcoală după Şcoală” organizat de către Şcoala Gimnazială „Dimitrie Ţichindeal” Becicherecu Mic pentru anul şcolar 2023 – 2024",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52381",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-7-2023",
+   "path": "local/timis/becicherecu-mic/2023/7",
+   "short": "HCL Becicherecu Mic nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 7/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-70-2023",
+   "path": "local/timis/becicherecu-mic/2023/70",
+   "short": "HCL Becicherecu Mic nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 70/2023 privind trecerea terenului extravilan înscris în CF 404864, nr.cad. 404864 Becicherecu Mic cu suprafața de 4400 mp în domeniul public al comunei Becicherecu Mic",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52384",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-71-2023",
+   "path": "local/timis/becicherecu-mic/2023/71",
+   "short": "HCL Becicherecu Mic nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 71/2023 privind avizarea majorării prețului pentru apa potabilă și tariful pentru canalizare - epurare utilizate de operatorul AQUATORONTAL SRL pentru perioada iulie 2023 – iulie 2024",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52386",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-72-2023",
+   "path": "local/timis/becicherecu-mic/2023/72",
+   "short": "HCL Becicherecu Mic nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 72/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-73-2023",
+   "path": "local/timis/becicherecu-mic/2023/73",
+   "short": "HCL Becicherecu Mic nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 73/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-74-2023",
+   "path": "local/timis/becicherecu-mic/2023/74",
+   "short": "HCL Becicherecu Mic nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 74/2023 privind actualizarea devizului general estimativ al obiectivului de investiții „Modernizare și asfaltare străzi comuna Becicherecu Mic, jud. Timiș” finanțat prin Programul Național de Investiții ”Anghel Saligny”",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52396",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-75-2023",
+   "path": "local/timis/becicherecu-mic/2023/75",
+   "short": "HCL Becicherecu Mic nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 75/2023 privind încheierea unui protocol de colaborare cu Ministerul Muncii și Solidarității Sociale în vederea implementării proiectului ”HUB de servicii MMSS – SII MMSS” cod MySmis 130963",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52398",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-76-2023",
+   "path": "local/timis/becicherecu-mic/2023/76",
+   "short": "HCL Becicherecu Mic nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 76/2023 privind preluarea în patrimoniul comunei Becicherecu Mic a terenului extravilan înscris în CF nr.406695, nr.cad.406695, trecerea în domeniul public al comunei Becicherecu Mic și aprobarea denumirii acestuia",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52892",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-77-2023",
+   "path": "local/timis/becicherecu-mic/2023/77",
+   "short": "HCL Becicherecu Mic nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 77/2023 privind preluarea în patrimoniul comunei Becicherecu Mic a construcțiilor înscrise în CF nr.405467, nr.cad. 405467 – C3 și nr.405467 – C4 și trecerea acestora în domeniul public al comunei Becicherecu Mic",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52893",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-78-2023",
+   "path": "local/timis/becicherecu-mic/2023/78",
+   "short": "HCL Becicherecu Mic nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 78/2023 privind punerea la dispoziție a terenului intravilan înscris în CF 405467, nr.cad.405467 Becicherecu Mic cu suprafața de 6542 mp ca amplasament pentru realizarea investiției Reabilitare și eficientizare energetică infrastructură școlară – Școala Gimnazială ”Dimitrie Țichindeal” comuna Becicherecu Mic prin obținerea unei finanțări în cadrul apelului competitiv de proiecte ”Construirea și dezvoltarea unei rețele – pilot de școli verzi” Planul Național de Redresare și Reziliență – Componenta C15 – Educație – Reforma 6 – Actualizarea cadrului legislativ pentru a asigura standarde ecologice de proiectare, construcție și dotare în sistemul de învățământ preuniversitar – I 10 – Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52898",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-79-2023",
+   "path": "local/timis/becicherecu-mic/2023/79",
+   "short": "HCL Becicherecu Mic nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 79/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții „Modernizare și asfaltare străzi în comuna Becicherecu Mic, județul Timiș”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52900",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-8-2023",
+   "path": "local/timis/becicherecu-mic/2023/8",
+   "short": "HCL Becicherecu Mic nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 8/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-80-2023",
+   "path": "local/timis/becicherecu-mic/2023/80",
+   "short": "HCL Becicherecu Mic nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 80/2023 privind alipirea terenului intravilan înscris în CF nr.406303 Becicherecu Mic cu terenul intravilan înscris în CF nr.406950 Becicherecu Mic",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52903",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-81-2023",
+   "path": "local/timis/becicherecu-mic/2023/81",
+   "short": "HCL Becicherecu Mic nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 81/2023 privind rectificarea bugetului local al comunei Becicherecu Mic – secțiunea funcționare și dezvoltare – pentru trimestrul III pe anul 2023",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52909",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#52909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-82-2023",
+   "path": "local/timis/becicherecu-mic/2023/82",
+   "short": "HCL Becicherecu Mic nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 82/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-83-2023",
+   "path": "local/timis/becicherecu-mic/2023/83",
+   "short": "HCL Becicherecu Mic nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 83/2023 privind modificarea și completarea activităților prevăzute în agenda cultural – sportivă a comunei Becicherecu Mic pentru anul 2023",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54615",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-84-2023",
+   "path": "local/timis/becicherecu-mic/2023/84",
+   "short": "HCL Becicherecu Mic nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 84/2023 privind modificarea Statutului Asociației de Dezvoltare Intercomunitară ”DIMITRIE ȚICHINDEAL”",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54616",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-85-2023",
+   "path": "local/timis/becicherecu-mic/2023/85",
+   "short": "HCL Becicherecu Mic nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 85/2023 privind modificarea Statutului Asociației de Dezvoltare Intercomunitară ”TORONTAL”",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54617",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-86-2023",
+   "path": "local/timis/becicherecu-mic/2023/86",
+   "short": "HCL Becicherecu Mic nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 86/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-87-2023",
+   "path": "local/timis/becicherecu-mic/2023/87",
+   "short": "HCL Becicherecu Mic nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 87/2023 privind preluarea în patrimoniul comunei Becicherecu Mic a terenului extravilan înscris în CF nr.404203, nr.cad.404203, a terenului extravilan înscris în CF 407388, nr.cad.407388, a terenului extravilan înscris în CF 407419, nr.cad.407419 și trecerea acestora în domeniul public al comunei Becicherecu Mic",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54619",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-88-2023",
+   "path": "local/timis/becicherecu-mic/2023/88",
+   "short": "HCL Becicherecu Mic nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 88/2023 privind preluarea în patrimoniul comunei Becicherecu Mic a terenului extravilan înscris în CF nr.406827, nr.cad.406827, a terenului extravilan înscris în CF 407829, nr.cad.407829 și trecerea acestora în domeniul privat al comunei Becicherecu Mic",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54620",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-89-2023",
+   "path": "local/timis/becicherecu-mic/2023/89",
+   "short": "HCL Becicherecu Mic nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 89/2023 privind actualizarea devizului general și a indicatorilor tehnico – economici ai investiției „Realizare Parc Central în comuna Becicherecu Mic, județul Timiș”",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54621",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-9-2023",
+   "path": "local/timis/becicherecu-mic/2023/9",
+   "short": "HCL Becicherecu Mic nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 9/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-90-2023",
+   "path": "local/timis/becicherecu-mic/2023/90",
+   "short": "HCL Becicherecu Mic nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 90/2023 privind actualizarea devizului general și a indicatorilor tehnico – economici ai investiției „Construire așezământ cultural în sat Becichereu Mic, comuna Becicherecu Mic, judetul Timiș”",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54622",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-91-2023",
+   "path": "local/timis/becicherecu-mic/2023/91",
+   "short": "HCL Becicherecu Mic nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 91/2023 pentru predarea amplasamentului obiectivului de investiţii „Construire așezământ cultural în sat Becicherecu Mic, comuna Becicherecu Mic, județul Timiș” către Compania Națională de Investiții",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54623",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--becicherecu-mic-93-2023",
+   "path": "local/timis/becicherecu-mic/2023/93",
+   "short": "HCL Becicherecu Mic nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Becicherecu Mic nr. 93/2023 privind rectificarea bugetului local al comunei Becicherecu Mic – secțiunea funcționare și dezvoltare – pentru trimestrul III pe anul 2023",
+   "url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54625",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://becicherecumic.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3407#54625",
      "sha256": null
     }
    ]

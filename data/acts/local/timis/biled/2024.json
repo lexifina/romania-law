@@ -3,6 +3,50 @@
 "shard": "local/timis/biled/2024",
 "acts": [
 {
+"slug": "hcl-timis--biled-17-2024",
+"path": "local/timis/biled/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 17/2024 privind aprobarea facilităților acordate unor categorii de cetățeni la transportul public local",
+"short": "HCL Biled nr. 17/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-27",
+"latest": "2024-05-27",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#77075",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--biled-33-2024",
+"path": "local/timis/biled/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Biled nr. 33/2024 privind aprobarea înființări Serviciului public de administrare a domeniului public și privat, comuna Biled",
+"short": "HCL Biled nr. 33/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-27",
+"latest": "2024-05-27",
+"portal": "https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#77099",
+"council": "timis/biled",
+"council_name": "Consiliul Local al Comunei Biled",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-timis--biled-35-2024",
 "path": "local/timis/biled/2024/35",
 "kind": "local",

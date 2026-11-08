@@ -3,6 +3,51 @@
  "shard": "local/teleorman/ciolanesti/2024",
  "acts": [
   {
+   "slug": "hcl-teleorman--ciolanesti-1-2024",
+   "path": "local/teleorman/ciolanesti/2024/1",
+   "short": "HCL Ciolănești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 1/2024 privind aprobarea Studiului de Fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiție „Modernizare și extindere sistem de monitorizare și supraveghere video a spațiului public în comuna Ciolănești, județul Teleorman”",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/148009",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/148009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-10-2024",
+   "path": "local/teleorman/ciolanesti/2024/10",
+   "short": "HCL Ciolănești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 10/2024 privind aprobarea plății cotizației Autorității Publice Locale COMUNA CIOLĂNEȘTI județul Teleorman către Asociația Mirocregiunea Lunca Argeșului Mozaceni",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/157298",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/157298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-11-2024",
+   "path": "local/teleorman/ciolanesti/2024/11",
+   "short": "HCL Ciolănești nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 11/2024 privind reactualizarea Planului de Analiză și Acoperire a Riscurilor pentru comuna CIOLĂNEȘTI, județul Teleorman, actualizat anul 2024",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/157299",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/157299",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--ciolanesti-18-2024",
    "path": "local/teleorman/ciolanesti/2024/18",
    "short": "HCL Ciolănești nr. 18/2024",
@@ -28,6 +73,21 @@
      "from": "2024-08-13",
      "units": 1,
      "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/165820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-2-2024",
+   "path": "local/teleorman/ciolanesti/2024/2",
+   "short": "HCL Ciolănești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 2/2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat din Comuna Ciolănești, județul Teleorman, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/148010",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/148010",
      "sha256": null
     }
    ]
@@ -183,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--ciolanesti-3-2024",
+   "path": "local/teleorman/ciolanesti/2024/3",
+   "short": "HCL Ciolănești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 3/2024 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei CIOLĂNEȘTI, județul Teleorman, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/148011",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/148011",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--ciolanesti-30-2024",
    "path": "local/teleorman/ciolanesti/2024/30",
    "short": "HCL Ciolănești nr. 30/2024",
@@ -298,6 +373,51 @@
      "from": "2024-12-20",
      "units": 1,
      "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/186862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-5-2024",
+   "path": "local/teleorman/ciolanesti/2024/5",
+   "short": "HCL Ciolănești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 5/2024 privind aprobarea utilizării sumei de 1.357, 48 lei din excedentul anual al bugetului local rezultat la închiderea exercițiului bugetar al anului 2023, ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare a bugetului local al comunei Ciolănești, pe anul 2024",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/157287",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/157287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-6-2024",
+   "path": "local/teleorman/ciolanesti/2024/6",
+   "short": "HCL Ciolănești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 6/2024 privind aprobarea bugetului local al comunei Ciolănești pentru anul 2024 și estimările pentru anii 2025-2027",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/157288",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/157288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--ciolanesti-7-2024",
+   "path": "local/teleorman/ciolanesti/2024/7",
+   "short": "HCL Ciolănești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciolănești nr. 7/2024 privind aprobarea Proiectului Tehnic și a Devizului General actualizat pentru obiectivul de investiție „MODERNIZARE ȘI EXTINDERE SISTEM DE MONITORIZARE ȘI SUPRAVEGHERE VIDEO A SPAȚIULUI PUBLIC ÎN COMUNA CIOLĂNEȘTI, JUDEȚUL TELEORMAN”",
+   "url": "https://emol.ro/ciolanesti-tr/registru-hcl/157289",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciolanesti-tr/registru-hcl/157289",
      "sha256": null
     }
    ]

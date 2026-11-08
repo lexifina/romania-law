@@ -3,6 +3,36 @@
  "shard": "local/teleorman/tatarastii-de-jos/2023",
  "acts": [
   {
+   "slug": "hcl-teleorman--tatarastii-de-jos-1-2023",
+   "path": "local/teleorman/tatarastii-de-jos/2023/1",
+   "short": "HCL Tătărăștii de Jos nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 1/2023 privind acoperirea definitivă din excedentul bugetului local al comunei Tătărăștii de Jos a deficitului secțiunii de dezvoltare și funcționare",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116422",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-10-2023",
+   "path": "local/teleorman/tatarastii-de-jos/2023/10",
+   "short": "HCL Tătărăștii de Jos nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 10/2023 privind modificarea Hotărârii Consiliului Local nr. 36 din data de 28 septembrie 2022",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116431",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116431",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--tatarastii-de-jos-11-2023",
    "path": "local/teleorman/tatarastii-de-jos/2023/11",
    "short": "HCL Tătărăștii de Jos nr. 11/2023",
@@ -133,6 +163,21 @@
      "from": "2023-08-17",
      "units": 1,
      "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-2-2023",
+   "path": "local/teleorman/tatarastii-de-jos/2023/2",
+   "short": "HCL Tătărăștii de Jos nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 2/2023 privind acoperirea deficitului bugetar al anului 2022 la secțiunea de funcționare Sursa E-activități finanțate integral din venituri proprii, în sumă de 21370 lei din excedentul anului 2021",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116423",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116423",
      "sha256": null
     }
    ]
@@ -288,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--tatarastii-de-jos-3-2023",
+   "path": "local/teleorman/tatarastii-de-jos/2023/3",
+   "short": "HCL Tătărăștii de Jos nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 3/2023 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Tătărăștii de Jos, județul Teleorman, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116424",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116424",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--tatarastii-de-jos-30-2023",
    "path": "local/teleorman/tatarastii-de-jos/2023/30",
    "short": "HCL Tătărăștii de Jos nr. 30/2023",
@@ -298,6 +358,96 @@
      "from": "2023-08-18",
      "units": 1,
      "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-4-2023",
+   "path": "local/teleorman/tatarastii-de-jos/2023/4",
+   "short": "HCL Tătărăștii de Jos nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 4/2023 privind aprobarea bugetului local al comunei Tătărăștii de Jos, județul Teleorman pe anul 2023",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116425",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-5-2023",
+   "path": "local/teleorman/tatarastii-de-jos/2023/5",
+   "short": "HCL Tătărăștii de Jos nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 5/2023 privind darea în administrare către Școala Gimnazială Tătărăștii de Jos, unitate de învătământ cu personalitate juridică, a unor bunuri aflate în proprietatea privată a Comunei Tătărăștii de Jos, județul Teleorman",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116426",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-6-2023",
+   "path": "local/teleorman/tatarastii-de-jos/2023/6",
+   "short": "HCL Tătărăștii de Jos nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 6/2023",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116427",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-7-2023",
+   "path": "local/teleorman/tatarastii-de-jos/2023/7",
+   "short": "HCL Tătărăștii de Jos nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 7/2023 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Tătărăștii de Jos , aprobarea organigramei și a ștatului de funcții și al serviciilor publice din subordinea consiliului local",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116428",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-8-2023",
+   "path": "local/teleorman/tatarastii-de-jos/2023/8",
+   "short": "HCL Tătărăștii de Jos nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 8/2023 privind stabilirea salariilor de bază aferente funcţiilor din cadrul familiei ocupaţionale „Administraţie” utilizate în aparatul de specialitate al Primarului comunei Tătărăștii de Jos precum şi în cadrul serviciilor publice de interes local ale comunei Tătărăștii de Jos, începând cu luna ianuarie 2023",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116429",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--tatarastii-de-jos-9-2023",
+   "path": "local/teleorman/tatarastii-de-jos/2023/9",
+   "short": "HCL Tătărăștii de Jos nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăștii de Jos nr. 9/2023 privind aprobarea utilizării excedentului bugetului local rezultat la incheierea exercitiului bugetar pe anul 2022",
+   "url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116430",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tatarastiidejos-tr/registru-hcl/116430",
      "sha256": null
     }
    ]

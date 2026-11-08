@@ -3,6 +3,51 @@
  "shard": "local/teleorman/dracsenei/2026",
  "acts": [
   {
+   "slug": "hcl-teleorman--dracsenei-1-2026",
+   "path": "local/teleorman/dracsenei/2026/1",
+   "short": "HCL Drăcșenei nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 1/2026 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/258793",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/258793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-11-2026",
+   "path": "local/teleorman/dracsenei/2026/11",
+   "short": "HCL Drăcșenei nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 11/2026 privind aprobarea contului anual de execuţie al bugetului local al comunei Drăcşenei pe anul 2025, a contului secţiunii de funcţionare şi contului secţiunii de dezvoltare ale bugetului local pe anul 2025",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/258803",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/258803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-12-2026",
+   "path": "local/teleorman/dracsenei/2026/12",
+   "short": "HCL Drăcșenei nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 12/2026 privind însuşirea Documentaţiei cadastrale de dezmembrare a imobilului - teren cu nr. cadastral 22672, situat în comuna Drăcșenei, sat Odobeasca, județul Teleorman și aprobarea dezmembrării imobilului",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/265418",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/265418",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--dracsenei-13-2026",
    "path": "local/teleorman/dracsenei/2026/13",
    "short": "HCL Drăcșenei nr. 13/2026",
@@ -103,6 +148,21 @@
      "from": "2026-05-15",
      "units": 1,
      "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/268493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-2-2026",
+   "path": "local/teleorman/dracsenei/2026/2",
+   "short": "HCL Drăcșenei nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 2/2026 privind aprobarea utilizării sumei de 321 mii lei din excedentul anual al bugetului local rezultat la închiderea exerciţiului bugetar al anului 2025, pentru acoperirea temporară a golurilor de casă provenite din decalajele între veniturile și cheltuielile secțiunii de funcționare a bugetului local în anul 2026",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/258794",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/258794",
      "sha256": null
     }
    ]
@@ -258,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--dracsenei-3-2026",
+   "path": "local/teleorman/dracsenei/2026/3",
+   "short": "HCL Drăcșenei nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 3/2026 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/258795",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/258795",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--dracsenei-30-2026",
    "path": "local/teleorman/dracsenei/2026/30",
    "short": "HCL Drăcșenei nr. 30/2026",
@@ -298,6 +373,81 @@
      "from": "2026-08-24",
      "units": 1,
      "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/284134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-5-2026",
+   "path": "local/teleorman/dracsenei/2026/5",
+   "short": "HCL Drăcșenei nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 5/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2026",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/258797",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/258797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-6-2026",
+   "path": "local/teleorman/dracsenei/2026/6",
+   "short": "HCL Drăcșenei nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 6/2026 privind alegerea preşedintelui de şedinţă pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/258798",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/258798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-7-2026",
+   "path": "local/teleorman/dracsenei/2026/7",
+   "short": "HCL Drăcșenei nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 7/2026 privind constituirea echipei mobile pentru intervenția de urgență în cazurile de violență domestică pe raza comunei Drăcșenei, județul Teleorman",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/258799",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/258799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-8-2026",
+   "path": "local/teleorman/dracsenei/2026/8",
+   "short": "HCL Drăcșenei nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 8/2026 privind aprobarea Devizului General actualizat în urma finalizării procedurilor de achiziție publică, incheierii contractului de execuție lucrări și cu actualizarea cotei de TVA la 21% aferent obiectivului de investiții „REABILITARE INTEGRATĂ A SEDIULUI PRIMĂRIEI DIN COMUNA DRĂCȘENEI, JUDEȚUL TELEORMAN”",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/258800",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/258800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--dracsenei-9-2026",
+   "path": "local/teleorman/dracsenei/2026/9",
+   "short": "HCL Drăcșenei nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Drăcșenei nr. 9/2026 privind aprobarea Devizului General actualizat după finalizarea procedurilor de achiziție publică, încheierii contractului de execuție lucrări și cu actualizarea cotei de TVA la 21% aferent obiectivului de investiții „REABILITARE INTEGRATĂ A CLĂDIRII CONSILIULUI LOCAL DIN COMUNA DRĂCȘENEI, JUDEȚUL TELEORMAN”",
+   "url": "https://emol.ro/dracsenei-tr/registru-hcl/258801",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dracsenei-tr/registru-hcl/258801",
      "sha256": null
     }
    ]

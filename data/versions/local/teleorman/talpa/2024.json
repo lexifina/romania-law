@@ -3,6 +3,36 @@
  "shard": "local/teleorman/talpa/2024",
  "acts": [
   {
+   "slug": "hcl-teleorman--talpa-15-2024",
+   "path": "local/teleorman/talpa/2024/15",
+   "short": "HCL Talpa nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 15/2024 privind aprobarea rectificării bugetului local al Comunei Talpa",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/165879",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/165879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--talpa-17-2024",
+   "path": "local/teleorman/talpa/2024/17",
+   "short": "HCL Talpa nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Talpa nr. 17/2024 privind aprobarea rectificării bugetului local al comunei Talpa",
+   "url": "https://emol.ro/talpa-tr/registru-hcl/165881",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/talpa-tr/registru-hcl/165881",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--talpa-32-2024",
    "path": "local/teleorman/talpa/2024/32",
    "short": "HCL Talpa nr. 32/2024",
