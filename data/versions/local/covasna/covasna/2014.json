@@ -3,6 +3,21 @@
  "shard": "local/covasna/covasna/2014",
  "acts": [
   {
+   "slug": "hcl-covasna--covasna-101-2014",
+   "path": "local/covasna/covasna/2014/101",
+   "short": "HCL Covasna nr. 101/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 101/2014 Cu privire la vânzarea, prin licitație publică a terenului de 66 mp din strada Jutinian Teculescu Consiliul local al Orașului Covasna, întrunit în ședința ordinară din data de 22 DECEMBRIE 2014 ședință legal constituită, fiind prezentă majoritatea consilierilor în funcție (17), Analizând expunerea de motive a primarului, raportul compartimenului de specialitate, avizul comisiilor de specialitate j",
+   "url": "https://www.primariacovasna.ro/alte-pagini/ro/arhiva-hcl/",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2014/hcl_101-107new.pdf",
+     "sha256": "35fcf7d32aa57e5bad39f5e92c7f52820459aae509901affd0e2ac38a7c8cb34"
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--covasna-55-2014",
    "path": "local/covasna/covasna/2014/55",
    "short": "HCL Covasna nr. 55/2014",
@@ -14,6 +29,96 @@
      "units": 1,
      "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2014/hcl_55.pdf",
      "sha256": "8f4b257264825671b0b8a2c0a2844902a4e8f3acceca3999735a06fe1775bff1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-56-2014",
+   "path": "local/covasna/covasna/2014/56",
+   "short": "HCL Covasna nr. 56/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 56/2014 Cu privire la alegerea președintelui de ședință Consiliul local al Orașului Covasna, întrunit în ședință ordinară din data de 28 august 2014, ședință legal constituită, fiind prezentă majoritatea consilierilor în funcție (13), În conformitate cu prevederile art. 9 din Regulamentul cadru de organizare si funcționare a consiliilor locale, aprobat prin OG nr. 35/2002, În baza art. 36, art. 45 si 115",
+   "url": "https://www.primariacovasna.ro/alte-pagini/ro/arhiva-hcl/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2014/hcl_56-67.pdf",
+     "sha256": "51e081564c8bbad9f8047a49441883c239cce0933b31f3afbbcc2808ffb56986"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-68-2014",
+   "path": "local/covasna/covasna/2014/68",
+   "short": "HCL Covasna nr. 68/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 68/2014 Cu privire la alegerea președintelui de ședință Consiliul local al Orașului Covasna, întrunit în ședință ordinară din data de 18 septembrie 2014, ședință legal constituită, fiind prezentă majoritatea consilierilor în funcție (15), În conformitate cu prevederile art. 9 din Regulamentul cadru de organizare si funcționare a consiliilor locale, aprobat prin OG nr. 35/2002, În baza art. 36, art. 45 si",
+   "url": "https://www.primariacovasna.ro/alte-pagini/ro/arhiva-hcl/",
+   "versions": [
+    {
+     "from": "2014-09-18",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2014/hcl_68-71.pdf",
+     "sha256": "55e22221013c419a0c3deec7a6a4f8c2d66aa7625b27ebd782be0d40d390d936"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-72-2014",
+   "path": "local/covasna/covasna/2014/72",
+   "short": "HCL Covasna nr. 72/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 72/2014 cu privire la aprobarea studiul de fezabilitate și a devizului general al investiției „Construire refugiu montan-punct de alimentație publică” Consiliul local al Orașului Covasna, întrunit în ședință extraordinară din data de 30 septembrie 2014, ședință legal constituită, fiind prezentă majoritatea consilierilor în funcție ( 16 ), Analizând expunerea de motive a primarului, raportul compartimentel",
+   "url": "https://www.primariacovasna.ro/alte-pagini/ro/arhiva-hcl/",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2014/hcl_72-75.pdf",
+     "sha256": "3ef3813e773dd41687a40231ad4fbd898380dead98b273dd30ed9fb96701c60d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-85-2014",
+   "path": "local/covasna/covasna/2014/85",
+   "short": "HCL Covasna nr. 85/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 85/2014 Cu privire la alegerea președintelui de ședință Consiliul local al Orașului Covasna, întrunit în ședință ordinară din data de 27 NOIEMBRIE 2014, ședință legal constituită, fiind prezentă majoritatea consilierilor în funcție (14), În conformitate cu prevederile art. 9 din Regulamentul cadru de organizare si funcționare a consiliilor locale, aprobat prin OG nr. 35/2002, În baza art. 36, art. 45 si 1",
+   "url": "https://www.primariacovasna.ro/alte-pagini/ro/arhiva-hcl/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2014/hcl_85-96.pdf",
+     "sha256": "d89c930ee1b47a02102dc4d33b8c44240425144081fb3b2866901f4f95860374"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-97-2014",
+   "path": "local/covasna/covasna/2014/97",
+   "short": "HCL Covasna nr. 97/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 97/2014 Cu privire la alegerea președintelui de ședință Consiliul local al Orașului Covasna, întrunit în ședință extraordinară din data de 8 DECEMBRIE 2014, ședință legal constituită, fiind prezentă majoritatea consilierilor în funcție (15), În conformitate cu prevederile art. 9 din Regulamentul cadru de organizare si funcționare a consiliilor locale, aprobat prin OG nr. 35/2002, În baza art. 36, art. 45",
+   "url": "https://www.primariacovasna.ro/alte-pagini/ro/arhiva-hcl/",
+   "versions": [
+    {
+     "from": "2014-12-08",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2014/hcl_97-98.pdf",
+     "sha256": "a986d8c626a880dc81c532fe5ae4d8b84d5437277f945ca6b17d6eef744989a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-99-2014",
+   "path": "local/covasna/covasna/2014/99",
+   "short": "HCL Covasna nr. 99/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 99/2014 cu privire la rectificarea bugetului local al orasului Covasna pe anul 2014 Consiliul local al Orașului Covasna, întrunit în ședință extraordinară din data de 15 DECEMBRIE 2014, ședință legal constituită, fiind prezentă majoritatea consilierilor în funcție (15), Analizând expunerea de motive a primarului raportul compartimenului de specialitate avizul comisiilor de specialitate și avizul de legali",
+   "url": "https://www.primariacovasna.ro/alte-pagini/ro/arhiva-hcl/",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2014/hcl_99-100.pdf",
+     "sha256": "258424ca9b895c89398fdf93d7370cd45063ecf4948a72c8dd83a7da7091d031"
     }
    ]
   }

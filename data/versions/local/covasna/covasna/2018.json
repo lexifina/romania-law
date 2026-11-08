@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/covasna/2018",
+ "acts": [
+  {
+   "slug": "hcl-covasna--covasna-162-2018",
+   "path": "local/covasna/covasna/2018/162",
+   "short": "HCL Covasna nr. 162/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 162/2018 privind aprobarea execuţiei bugetare pe 30.11.2018",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2018/hcl162.pdf",
+     "sha256": "a899f6bb632631b6fab3a416a3e19f23f57cd27ee1e99777a4da5e02b5646ef7"
+    }
+   ]
+  }
+ ]
+}

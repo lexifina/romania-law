@@ -23305,11 +23305,11 @@
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 380 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
-| Draft acts in consultation and bills in Parliament (proiecte) | 3050 | [`data/acts/proiect/`](data/acts/proiect/) |
+| Draft acts in consultation and bills in Parliament (proiecte) | 4550 | [`data/acts/proiect/`](data/acts/proiect/) |
 | EU law in Romanian: regulations and directives in force (Official Journal text) | 16409 | [`data/acts/ue/`](data/acts/ue/) |
 | Annexes published apart from their act (court circumscriptions, official forms) | 3797 | [`data/acts/anexa/`](data/acts/anexa/) |
 | Legal professions' rules: statutes, codes of ethics, regulations and decisions of the professional bodies (UNBR, UNNPR, UNEJ, OCJR, UNPIR, Consiliul de Mediere, CSM, INM, CAFR) | 2536 | [`data/acts/profesii/`](data/acts/profesii/) |
 | Treaties and international agreements (texts published with their ratifying act) | 2579 | [`data/acts/tratat/`](data/acts/tratat/) |
 | Public procurement complaints council decisions (CNSC) | 11653 | [`data/acts/cnsc/`](data/acts/cnsc/) |
 | Lower-court decisions published in the Monitorul Oficial (courts of appeal, tribunals): annulments of normative acts and other rulings | 530 | [`data/acts/instante/`](data/acts/instante/) |
-| Local acts (decisions of local and county councils) | 324166 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 327166 | [`data/acts/local/`](data/acts/local/) |

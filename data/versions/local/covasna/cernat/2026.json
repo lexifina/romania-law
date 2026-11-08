@@ -3,6 +3,216 @@
  "shard": "local/covasna/cernat/2026",
  "acts": [
   {
+   "slug": "hcl-covasna--cernat-1-2026",
+   "path": "local/covasna/cernat/2026/1",
+   "short": "HCL Cernat nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 1/2026 privind aprobarea acoperirii definitive din excedentul bugetului local al anilor precedenți a deficitului secțiunii de dezvoltare aferent exercițiului bugetar al anului 2025 al comunei Cernat, județul Covasna",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/248051",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/248051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-10-2026",
+   "path": "local/covasna/cernat/2026/10",
+   "short": "HCL Cernat nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 10/2026 privind modificarea anexei la HCL nr. 85/2025 privind stabilirea impozitelor și taxelor locale în comuna Cernat, județul Covasna, pentru anul 2026",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/253750",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/253750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-11-2026",
+   "path": "local/covasna/cernat/2026/11",
+   "short": "HCL Cernat nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 11/2026",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/253751",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/253751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-12-2026",
+   "path": "local/covasna/cernat/2026/12",
+   "short": "HCL Cernat nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 12/2026 privind aprobarea cuantumului chiriei pentru anul 2026 actualizat cu rata inflației, pentru locuințele pentru tineri destinate închirierii, construite de Agenția Națională de Locuințe în comuna Cernat, aflate în administrarea Consiliului local Cernat",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/253752",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/253752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-13-2026",
+   "path": "local/covasna/cernat/2026/13",
+   "short": "HCL Cernat nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 13/2026 privind aprobarea contului anual de execuție a bugetului local al Comunei Cernat pe anul 2025",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/253753",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/253753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-14-2026",
+   "path": "local/covasna/cernat/2026/14",
+   "short": "HCL Cernat nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 14/2026 privind aprobarea devizului general, după încheierea contractelor de achiziție publică aferente obiectivului de investiții „Extinderea sistemului de alimentare cu apă în localitatea Cernat și înființarea sistemului de alimentare cu apă în localitatea Icafalău din comuna Cernat, jud. Covasna”",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/253754",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/253754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-15-2026",
+   "path": "local/covasna/cernat/2026/15",
+   "short": "HCL Cernat nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 15/2026 privind aprobarea documentației de dezmembrare a imobilului înscris în CF 43529 Cernat",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/253755",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/253755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-16-2026",
+   "path": "local/covasna/cernat/2026/16",
+   "short": "HCL Cernat nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 16/2026 privind aprobarea utilizării excedentului anului 2025 pentru finanțarea secțiunii de dezvoltarea a bugetului local al comunei Cernat pe anul 2026 și aprobarea Programului de investiții provizoriu, pentru activitatea proprie a bugetului local al comunei Cernat pe anul 2026",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/257998",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/257998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-17-2026",
+   "path": "local/covasna/cernat/2026/17",
+   "short": "HCL Cernat nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 17/2026 privind aprobarea acordării unei contribuții necesar pentru obiectul de investiții ”DEZVOLTAREA INFRASTRUCTURII DE APĂ ȘI APĂ UZATĂ ÎN COMUNELE CERNAT ȘI DALNIC, JUDETUL COVASNA”",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/257999",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/257999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-18-2026",
+   "path": "local/covasna/cernat/2026/18",
+   "short": "HCL Cernat nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 18/2026 privind aprobarea nivelului contribuției Consiliului local Cernat la susţinerea serviciilor sociale acordate în cadrul Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Covasna, pe anul 2026",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/258000",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/258000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-19-2026",
+   "path": "local/covasna/cernat/2026/19",
+   "short": "HCL Cernat nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 19/2026 privind privind aprobarea Contractului – model – care va fi încheiat între Județul Covasna prin Consiliul Judeţean Covasna, Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Covasna şi Comuna Cernat prin Consiliul local Cernat, care participă la cofinanţarea serviciilor sociale acordate în cadrul Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Covasna, pe anul 2026",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/258001",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/258001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-2-2026",
+   "path": "local/covasna/cernat/2026/2",
+   "short": "HCL Cernat nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 2/2026 privind aprobarea listei pentru stabilirea ordinii de prioritate în soluționarea cererilor de locuințe și în repartizarea locuințelor pentru tineri destinate închirierii, în anul 2026",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/248052",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/248052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-20-2026",
+   "path": "local/covasna/cernat/2026/20",
+   "short": "HCL Cernat nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 20/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/263361",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/263361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-21-2026",
+   "path": "local/covasna/cernat/2026/21",
+   "short": "HCL Cernat nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 21/2026",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/263362",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/263362",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--cernat-22-2026",
    "path": "local/covasna/cernat/2026/22",
    "short": "HCL Cernat nr. 22/2026",
@@ -28,6 +238,36 @@
      "from": "2026-05-06",
      "units": 1,
      "source_url": "https://emol.ro/cernat-cv/registru-hcl/263364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-24-2026",
+   "path": "local/covasna/cernat/2026/24",
+   "short": "HCL Cernat nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 24/2026 privind aprobarea numărului maxim de posturi și reorganizarea aparatului de specialitate al primarului comunei Cernat, județul Covasna în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 7/2026",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/263365",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/263365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-25-2026",
+   "path": "local/covasna/cernat/2026/25",
+   "short": "HCL Cernat nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 25/2026 privind aprobarea Regulamentului de organizare și funcționare al Căminului Cultural și a Caselor Multifuncționale din proprietatea Comunei Cernat, Judetul Covasna",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/263366",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/263366",
      "sha256": null
     }
    ]
@@ -78,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--cernat-29-2026",
+   "path": "local/covasna/cernat/2026/29",
+   "short": "HCL Cernat nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 29/2026 privind aprobarea contului de încheiere al exercițiului bugetar al comunei Cernat la data de 31.03.2026",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/268272",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/268272",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--cernat-3-2026",
    "path": "local/covasna/cernat/2026/3",
    "short": "HCL Cernat nr. 3/2026",
@@ -88,6 +343,96 @@
      "from": "2026-01-29",
      "units": 1,
      "source_url": "https://emol.ro/cernat-cv/registru-hcl/248053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-30-2026",
+   "path": "local/covasna/cernat/2026/30",
+   "short": "HCL Cernat nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 30/2026 privind aprobarea REGULAMENTULUI DE ORGANIZARE ȘI FUNCȚIONARE A BIBLIOTECII COMUNALE CERNAT, JUDEȚUL COVASNA",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/268273",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/268273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-31-2026",
+   "path": "local/covasna/cernat/2026/31",
+   "short": "HCL Cernat nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 31/2026 privind aprobarea participării Comunei Cernat la „Programului județean de dezvoltare a infrastructurii unităților de învățământ preuniversitar, în perioada 2025-2028”, cu proiectul ”REABILITAREA ȘI CONSOLIDAREA CLĂDIRII ȘCOLII PRIMARE ALBIȘ ȘI A GRĂDINIȚEI CU PROGRAM NORMAL ALBIȘ\"",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/270001",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/270001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-32-2026",
+   "path": "local/covasna/cernat/2026/32",
+   "short": "HCL Cernat nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 32/2026 privind aprobarea participării Comunei Cernat la „Programului județean pentru reabilitarea şi modernizarea bazelor sportive din mediul rural, în perioada 2025-2028”, cu proiectul ”REABILITAREA SI MODERNIZAREA BAZEI SPORTIVE DIN COMUNA CERNAT",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/270002",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/270002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-33-2026",
+   "path": "local/covasna/cernat/2026/33",
+   "short": "HCL Cernat nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 33/2026 privind modificarea Hotărârea Consiliului Local nr.62/2025 privind implementarea proiectului „AMENAJAREA ACCESULUI SI A ZONEI VERZI IN CENTRUL SATULUI CERNAT”",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/270003",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/270003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-34-2026",
+   "path": "local/covasna/cernat/2026/34",
+   "short": "HCL Cernat nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 34/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/273733",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/273733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-35-2026",
+   "path": "local/covasna/cernat/2026/35",
+   "short": "HCL Cernat nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 35/2026 privind angajarea unui avocat care să reprezinte interesele Comunei Cernat",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/273734",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/273734",
      "sha256": null
     }
    ]
@@ -123,6 +468,66 @@
    ]
   },
   {
+   "slug": "hcl-covasna--cernat-38-2026",
+   "path": "local/covasna/cernat/2026/38",
+   "short": "HCL Cernat nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 38/2026 privind aprobarea volumului de masă lemnoasă care se poate recolta în anul 2026 din fondul forestier proprietate publică a Comunei Cernat, județul Covasna",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/273737",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/273737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-39-2026",
+   "path": "local/covasna/cernat/2026/39",
+   "short": "HCL Cernat nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 39/2026 privind aprobarea documentației tehnico-economice faza Proiect tehnic, actualizat, aferente proiectului ”AMENAJAREA ACCESULUI SI A ZONEI VERZI IN CENTRUL SATULUI CERNAT”",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/273738",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/273738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-4-2026",
+   "path": "local/covasna/cernat/2026/4",
+   "short": "HCL Cernat nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 4/2026 privind aprobarea raportului de activitate desfășurata de asistenții personali ai persoanelor cu handicap grav pe semestrul II al anului 2025",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/248054",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/248054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-40-2026",
+   "path": "local/covasna/cernat/2026/40",
+   "short": "HCL Cernat nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 40/2026 privind modificare anexei la Hotărârea Consiliului Local Cernat nr. 14/2026 privind aprobare deviz general actualizat aferente obiectivului de investiții „Extinderea sistemului de alimentare cu apă în localitatea Cernat și înființarea sistemului de alimentare cu apă în localitatea Icafalău din comuna Cernat, jud. Covasna”",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/273739",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/273739",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--cernat-41-2026",
    "path": "local/covasna/cernat/2026/41",
    "short": "HCL Cernat nr. 41/2026",
@@ -148,6 +553,66 @@
      "from": "2026-08-04",
      "units": 1,
      "source_url": "https://emol.ro/cernat-cv/registru-hcl/278603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-43-2026",
+   "path": "local/covasna/cernat/2026/43",
+   "short": "HCL Cernat nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 43/2026 privind aprobarea solicitării de trecere din domeniul privat al Județului Covasna a unor bunuri mobile – dotări școlare în domeniul privat al comunei Cernat",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/278604",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/278604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-44-2026",
+   "path": "local/covasna/cernat/2026/44",
+   "short": "HCL Cernat nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 44/2026 privind aprobarea raportului de activitate desfășurata de asistenții personali ai persoanelor cu handicap grav pe semestrul I al anului 2026",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/278605",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/278605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-45-2026",
+   "path": "local/covasna/cernat/2026/45",
+   "short": "HCL Cernat nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 45/2026 privind modificarea anexei la Hotărârea Consiliului Local nr.62/2025 privind implementarea proiectului „AMENAJAREA ACCESULUI SI A ZONEI VERZI IN CENTRUL SATULUI CERNAT”",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/278606",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/278606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-46-2026",
+   "path": "local/covasna/cernat/2026/46",
+   "short": "HCL Cernat nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 46/2026 privind aprobarea devizului general și documentația de avizare a lucrărilor de intervenții (DALI) actualizat pentru obiectivul de investiții „AMENAJAREA ACCESULUI SI A ZONEI VERZI IN CENTRUL SATULUI CERNAT”",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/278607",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/278607",
      "sha256": null
     }
    ]
@@ -193,6 +658,21 @@
      "from": "2026-09-01",
      "units": 1,
      "source_url": "https://emol.ro/cernat-cv/registru-hcl/283016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-5-2026",
+   "path": "local/covasna/cernat/2026/5",
+   "short": "HCL Cernat nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 5/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/248055",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/248055",
      "sha256": null
     }
    ]
@@ -343,6 +823,21 @@
      "from": "2026-10-19",
      "units": 1,
      "source_url": "https://emol.ro/cernat-cv/registru-hcl/290535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-6-2026",
+   "path": "local/covasna/cernat/2026/6",
+   "short": "HCL Cernat nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 6/2026 privind mandatarea Asociației de Dezvoltare Intercomunitară ”Zonă Metropolitană Târgu Secuiesc - Covasna”, pentru organizarea și derularea procedurii de concesionare a serviciului de distribuție a gazelor naturale",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/248056",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/248056",
      "sha256": null
     }
    ]
@@ -553,6 +1048,21 @@
      "from": "2026-03-05",
      "units": 1,
      "source_url": "https://emol.ro/cernat-cv/registru-hcl/253748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--cernat-9-2026",
+   "path": "local/covasna/cernat/2026/9",
+   "short": "HCL Cernat nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernat nr. 9/2026 cu privire la constituirea echipei mobile pentru intervenția de urgență în cazurile de violență domestică",
+   "url": "https://emol.ro/cernat-cv/registru-hcl/253749",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cernat-cv/registru-hcl/253749",
      "sha256": null
     }
    ]

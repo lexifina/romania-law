@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--cojasca-5-2021",
+"path": "local/dambovita/cojasca/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 5/2021 privind desemnarea reprezentanților Consiliului Local Cojasca în Consiliul de Administratie al Liceului Tehnologic Cojasca",
+"short": "HCL Cojasca nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-18",
+"latest": "2021-08-18",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#3201",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cojasca-6-2021",
 "path": "local/dambovita/cojasca/2021/6",
 "kind": "local",
@@ -288,6 +310,29 @@
 "council_name": "Consiliul Local al Comunei Cojasca",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-15-2021",
+"path": "local/dambovita/cojasca/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 15/2021",
+"short": "HCL Cojasca nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-18",
+"latest": "2021-08-18",
+"portal": null,
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -533,6 +578,29 @@
 "council_name": "Consiliul Local al Comunei Cojasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-27-2021",
+"path": "local/dambovita/cojasca/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 27/2021",
+"short": "HCL Cojasca nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": null,
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

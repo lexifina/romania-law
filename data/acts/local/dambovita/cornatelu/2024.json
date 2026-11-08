@@ -25,6 +25,51 @@
 }
 },
 {
+"slug": "hcl-dambovita--cornatelu-2-2024",
+"path": "local/dambovita/cornatelu/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 2/2024",
+"short": "HCL Cornățelu nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/140558",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-3-2024",
+"path": "local/dambovita/cornatelu/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 3/2024 privind alegerea președintelui de ședință al Consiliului Local Cornățelu, județul Dâmbovița, pentru perioada februarie - aprilie 2024",
+"short": "HCL Cornățelu nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/140559",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cornatelu-4-2024",
 "path": "local/dambovita/cornatelu/2024/4",
 "kind": "local",
@@ -44,6 +89,28 @@
 "council_name": "Consiliul Local al Comunei Cornățelu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-5-2024",
+"path": "local/dambovita/cornatelu/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 5/2024 privind aprobarea plății sumei de 16 000 lei către Asociația Grupul De Acțiune Locală IALOMIȚA DE JOS, sprijin în vederea implementării SDL 2023 – 2027",
+"short": "HCL Cornățelu nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/140561",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +158,162 @@
 }
 },
 {
+"slug": "hcl-dambovita--cornatelu-8-2024",
+"path": "local/dambovita/cornatelu/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 8/2024 privind decontarea cheltuielilor cu naveta pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Cornățelu",
+"short": "HCL Cornățelu nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-15",
+"latest": "2024-03-15",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/145933",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-9-2024",
+"path": "local/dambovita/cornatelu/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 9/2024 privind aprobarea Programului de activitate pentru anul 2024 şi a Informării privind activitatea desfăşurată în anul 2023 ale Bibliotecii comunale „Cristache Georgescu” Cornăţelu",
+"short": "HCL Cornățelu nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-15",
+"latest": "2024-03-15",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/145934",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-10-2024",
+"path": "local/dambovita/cornatelu/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 10/2024 privind asocierea comunei Cornățelu cu Asociația Fotbal Club Luceafărul Bolovani și aprobarea susținerii financiare în anul 2024",
+"short": "HCL Cornățelu nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-15",
+"latest": "2024-03-15",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/145935",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-11-2024",
+"path": "local/dambovita/cornatelu/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 11/2024 privind transmiterea, cu titlu gratuit, a dreptului de proprietate asupra terenului în suprafață de 1.250 mp, către Parohia Cornățelu, teren aferent cimitirului parohial",
+"short": "HCL Cornățelu nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-15",
+"latest": "2024-03-15",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/145936",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-12-2024",
+"path": "local/dambovita/cornatelu/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 12/2024",
+"short": "HCL Cornățelu nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/150618",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-13-2024",
+"path": "local/dambovita/cornatelu/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 13/2024",
+"short": "HCL Cornățelu nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/150619",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-14-2024",
+"path": "local/dambovita/cornatelu/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 14/2024 privind exprimarea acordului Consiliului local pentru participarea comunei Cornățelu, județul Dâmbovița la elaborarea, depunerea și implementarea proiectului ”Finanțarea bibliotecilor pentru a deveni hub-uri de dezvoltare a competențelor digitale” finanțat în cadrul Planului Național de Redresare și Reziliență, Pilonul II, Componenta 7 - Tranformare digitală, Investiția I 17. Scheme de finanțare pentru biblioteci pentru a deveni hub-uri de dezvoltare a competențelor digitale",
+"short": "HCL Cornățelu nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/150620",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cornatelu-15-2024",
 "path": "local/dambovita/cornatelu/2024/15",
 "kind": "local",
@@ -113,6 +336,94 @@
 }
 },
 {
+"slug": "hcl-dambovita--cornatelu-16-2024",
+"path": "local/dambovita/cornatelu/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 16/2024 privind aprobarea actualizării indicatorilor tehnico-economici ai obiectivul de investiții ”Construire pod rutier peste parâul Ilfov, sat Bolovani, comuna Cornățelu, județul Dâmbovița”",
+"short": "HCL Cornățelu nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/150622",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-17-2024",
+"path": "local/dambovita/cornatelu/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 17/2024 privind aprobarea tipului de suport alimentar, precum și modalitatea de distribuție a acestora preșcolarilor și elevilor Școlii Gimnaziale Cornățelu",
+"short": "HCL Cornățelu nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/150623",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-18-2024",
+"path": "local/dambovita/cornatelu/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 18/2024 privind retragerea dreptului de folosință a unor terenenuri atribuite în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+"short": "HCL Cornățelu nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/150624",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-19-2024",
+"path": "local/dambovita/cornatelu/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 19/2024 privind atribuirea unor suprafețe de teren în folosință gratuită pentru construirea unei locuințe proprietate personală, în condițiile Legii nr. 15 din 2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+"short": "HCL Cornățelu nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/150625",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cornatelu-20-2024",
 "path": "local/dambovita/cornatelu/2024/20",
 "kind": "local",
@@ -132,6 +443,50 @@
 "council_name": "Consiliul Local al Comunei Cornățelu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-21-2024",
+"path": "local/dambovita/cornatelu/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 21/2024 privind implementarea proiectului ”Înființare rețea canalizare menajeră în comuna Cornățelu, județul Dâmbovița” în vederea participării la Programul vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate organizat de Administrația Fondului pentru Mediu",
+"short": "HCL Cornățelu nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/151306",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-22-2024",
+"path": "local/dambovita/cornatelu/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 22/2024 privind aprobarea documentaţiei tehnico-economice faza SF și a indicatorilor tehnico-economici pentru obiectivul de investitii “Înființare rețea canalizare menajeră în comuna Cornățelu, județul Dâmbovița” în vederea participării la Programul vizând sistem de alimentare cu apă, canalizare și epurare a apelor uzate organizat de Administrația Fondului pentru Mediu",
+"short": "HCL Cornățelu nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/151307",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +556,94 @@
 }
 },
 {
+"slug": "hcl-dambovita--cornatelu-26-2024",
+"path": "local/dambovita/cornatelu/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 26/2024 privind alegerea președintelui de ședință al Consiliului Local Cornățelu, județul Dâmbovița, pentru perioada mai - iulie 2024",
+"short": "HCL Cornățelu nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-01",
+"latest": "2024-08-01",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/154919",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-27-2024",
+"path": "local/dambovita/cornatelu/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 27/2024 privind aprobarea devizului general pentru faza Proiect Tehnic și actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „Renovare energetica moderata scoala generala sat Alunisu, comuna Cornatelu, judetul Dambovita” finanțat prin Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C10 – Fondul Local",
+"short": "HCL Cornățelu nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-01",
+"latest": "2024-08-01",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/157954",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-28-2024",
+"path": "local/dambovita/cornatelu/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 28/2024 privind aprobarea devizului general pentru faza Proiect Tehnic și actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „Renovare energetica moderata scoala primara sat Bolovani, comuna Cornatelu, judetul Dambovita” finanțat prin Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C10 – Fondul Local",
+"short": "HCL Cornățelu nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-01",
+"latest": "2024-08-01",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/157955",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-29-2024",
+"path": "local/dambovita/cornatelu/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 29/2024 privind aprobarea devizului general pentru faza Proiect Tehnic și actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții “Renovarea energetică moderată Grădinița Bolovani Deal, Comuna Cornățelu, județul Dâmbovița” finanțat prin Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C10 – Fondul Local",
+"short": "HCL Cornățelu nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-01",
+"latest": "2024-08-01",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/157956",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cornatelu-30-2024",
 "path": "local/dambovita/cornatelu/2024/30",
 "kind": "local",
@@ -267,6 +710,50 @@
 }
 },
 {
+"slug": "hcl-dambovita--cornatelu-33-2024",
+"path": "local/dambovita/cornatelu/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 33/2024 privind retragerea dreptului de folosință a unor terenuri atribuite în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+"short": "HCL Cornățelu nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-01",
+"latest": "2024-08-01",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/162835",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-34-2024",
+"path": "local/dambovita/cornatelu/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 34/2024 privind atribuirea unor suprafețe de teren în folosință gratuită pentru construirea unei locuințe proprietate personală, în condițiile Legii nr. 15 din 2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+"short": "HCL Cornățelu nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-01",
+"latest": "2024-08-01",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/162836",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cornatelu-35-2024",
 "path": "local/dambovita/cornatelu/2024/35",
 "kind": "local",
@@ -289,6 +776,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--cornatelu-36-2024",
+"path": "local/dambovita/cornatelu/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 36/2024 privind reorganizarea aparatului de specialitate al primarului comunei Cornățelu precum și aprobarea statului de funcții și a organigramei în conformitate cu Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilităţii financiare a României pe termen lung",
+"short": "HCL Cornățelu nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-01",
+"latest": "2024-08-01",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/162838",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cornatelu-37-2024",
 "path": "local/dambovita/cornatelu/2024/37",
 "kind": "local",
@@ -308,6 +817,28 @@
 "council_name": "Consiliul Local al Comunei Cornățelu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-38-2024",
+"path": "local/dambovita/cornatelu/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 38/2024 privind alegerea președintelui de ședință al Consiliului Local Cornățelu, județul Dâmbovița, pentru perioada AUGUST - OCTOMBRIE 2024",
+"short": "HCL Cornățelu nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-22",
+"latest": "2024-08-22",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/165421",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -352,6 +883,28 @@
 "council_name": "Consiliul Local al Comunei Cornățelu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-41-2024",
+"path": "local/dambovita/cornatelu/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 41/2024 privind atribuirea unei suprafețe de teren în folosință gratuită pentru construirea unei locuințe proprietate personală, în condițiile Legii nr. 15 din 2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+"short": "HCL Cornățelu nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-10",
+"latest": "2024-09-10",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/167706",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

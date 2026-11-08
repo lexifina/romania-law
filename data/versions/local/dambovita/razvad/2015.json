@@ -3,6 +3,66 @@
  "shard": "local/dambovita/razvad/2015",
  "acts": [
   {
+   "slug": "hcl-dambovita--razvad-24-2015",
+   "path": "local/dambovita/razvad/2015/24",
+   "short": "HCL Răzvad nr. 24/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 24/2015 privind aprobarea executiei bugetului de venituri si cheltuieli al comunei Razvad la data de 31.12.2014 HCL",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2015-03-19",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2015/03/Hotararea-Consiliului-LOcal-nr.24-din-19-martie-2015.pdf",
+     "sha256": "2bdab1f5735362f52000d1c9d9d702a953e28c59989f6daa2cee08e10256da68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-25-2015",
+   "path": "local/dambovita/razvad/2015/25",
+   "short": "HCL Răzvad nr. 25/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 25/2015 privind aprobarea acoperirii deficitului sectiunii de dezvoltare aferent anului 2014 si aprobarea utilizarii excedentului bugetului local inregistrat la data de 31.12.2014 HCL",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2015-03-19",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2015/03/Hotararea-Consiliului-Local-nr.-25-din-19-martie-2015.pdf",
+     "sha256": "8427937db09b89e74c33e134ce7a581eb9d34c763638f287e4f6f50b09643209"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-26-2015",
+   "path": "local/dambovita/razvad/2015/26",
+   "short": "HCL Răzvad nr. 26/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 26/2015 privind aprobarea bugetului pe anul 2015 HCL",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2015-03-19",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2015/03/Hotararea-Consiliului-Local-nr.-26-din-19-martie-2015.pdf",
+     "sha256": "6e3993a350bf2fd666916f583de54338d4d646fbe3d98daf9775187917b2c97c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-66-2015",
+   "path": "local/dambovita/razvad/2015/66",
+   "short": "HCL Răzvad nr. 66/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 66/2015 privind desemnarea reprezentantilor CL in consiliul de administratie al Scolii Razvad HCL",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2015-11-24",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2015/07/Hotararea-Consiliul-Local-nr.-66-din-24.11.2015.pdf",
+     "sha256": "8f29f491365f436fcedb60329330c15510f05701ff7d727c49b6d02e42ad8c56"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--razvad-67-2015",
    "path": "local/dambovita/razvad/2015/67",
    "short": "HCL Răzvad nr. 67/2015",
@@ -14,6 +74,36 @@
      "units": 1,
      "source_url": "http://comunarazvad.ro/wp-content/uploads/2015/07/Hotararea-Consiliul-Local-nr.-67-din-24.11.2015.pdf",
      "sha256": "dd441717be11bf7e4c901bbf1fd0356409d16e61ca7158853087d1f4a2d59229"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-68-2015",
+   "path": "local/dambovita/razvad/2015/68",
+   "short": "HCL Răzvad nr. 68/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 68/2015",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2015-11-24",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/hotarari-2/",
+     "sha256": "293e77584dd60edb7f0b21e54457af6cf978e47fc8b54d190e9b9e675a092d9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--razvad-69-2015",
+   "path": "local/dambovita/razvad/2015/69",
+   "short": "HCL Răzvad nr. 69/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 69/2015 privind rectificarea bugetului pe anul 2015 HCL",
+   "url": "http://comunarazvad.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2015-11-24",
+     "units": 1,
+     "source_url": "http://comunarazvad.ro/wp-content/uploads/2015/07/Hotararea-Consiliul-Local-nr.-69-din-24.11.2015.pdf",
+     "sha256": "7e60fd688c98e14f5fe002846e3e1633b0935fae35dcd59443da0d01eeab610f"
     }
    ]
   }

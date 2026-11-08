@@ -3,6 +3,21 @@
  "shard": "local/covasna/ojdula/2023",
  "acts": [
   {
+   "slug": "hcl-covasna--ojdula-28-2023",
+   "path": "local/covasna/ojdula/2023/28",
+   "short": "HCL Ojdula nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 28/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2028%20din%2027.04.2023.PDF",
+     "sha256": "74979ba85e48fcfdd0dc112a94a19b11f9747a82b403e7992a6843a48bf03300"
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--ojdula-30-2023",
    "path": "local/covasna/ojdula/2023/30",
    "short": "HCL Ojdula nr. 30/2023",
@@ -14,6 +29,246 @@
      "units": 1,
      "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2030%20din%2027.04.2023.PDF",
      "sha256": "0ece34a1372f9c25dcae31c1f1b0cf2f9082bf6a95b5721b13e1482576a15f26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-32-2023",
+   "path": "local/covasna/ojdula/2023/32",
+   "short": "HCL Ojdula nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 32/2023",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2032%20din%2025.05.2023.pdf",
+     "sha256": "295df34d2a85b5cf701c8389931a33ad540daeeb4795117495fc6fa2bdc1e903"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-33-2023",
+   "path": "local/covasna/ojdula/2023/33",
+   "short": "HCL Ojdula nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 33/2023",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2033%20din%2025.05.2023.pdf",
+     "sha256": "e034390510ef3126b01d98eba1901dcfff69230dbed7c930fb15ff0869934d5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-34-2023",
+   "path": "local/covasna/ojdula/2023/34",
+   "short": "HCL Ojdula nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 34/2023 privind delegarea Jlrde{ului Covasna pentru a participa cu proiectul,,Achizilionarea de microbuze electrice pentru elevi in Judelul Covasna\" la apelul de proiecte pilonul VI. politici pentru noua genera{ie, Componenta C15. Educa{ie, finantat din fondurile europene aferente Planului Nafional de lledresare qi Rezilienfl, in numele gi pe seama Comunei Ojdula Consiliul Local al Comunei Ojdula, intruni",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2034%20din%2025.05.2023.PDF",
+     "sha256": "9708b3154d444e007f2d0f6defedc7b647c1115d07e8231fe7f46031d13a15cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-38-2023",
+   "path": "local/covasna/ojdula/2023/38",
+   "short": "HCL Ojdula nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 38/2023",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2038%20din%2027.07.2023_2.pdf",
+     "sha256": "f31637fe180c90ff60ffb96524a6417082deb84a104ec5910a2fa33967e34ca1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-39-2023",
+   "path": "local/covasna/ojdula/2023/39",
+   "short": "HCL Ojdula nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 39/2023 privind alegerea preqedintelui de qedinfi, pentru gedin{a ordinarl Consiliului Loc,al al comunei Ojdula ,luna august Z0Z3 Consiliul Local al comunei Ojdula, judetul Covasna, intrunit in se4inla ordinar[ ,in data de 27 \"07 .2023; AvAnd in vedere: - Referatul de aprobar<t aI Primarului comunei Ojdula, inregistrat sub nr.1825 din 27.07.2023; -avizul secretarului general inregistrat sub nr.1828 din27",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2039%20din%2027.07.2023.PDF",
+     "sha256": "6ed0e0abddeefc1121f4042834ce2a9b993aa93d10045f51cca01210c20d561c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-40-2023",
+   "path": "local/covasna/ojdula/2023/40",
+   "short": "HCL Ojdula nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 40/2023",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2040%20din%2028.08.2023.pdf",
+     "sha256": "98d2bf82f6286b90104e0edd86a2767a99796cc18374d5698a1a971ac38c98b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-42-2023",
+   "path": "local/covasna/ojdula/2023/42",
+   "short": "HCL Ojdula nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 42/2023",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2042%20din%2028.08.2023.pdf",
+     "sha256": "24765a64ab7220944db67468dc85badb5642831ec65a301a5be122ed3316cbc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-45-2023",
+   "path": "local/covasna/ojdula/2023/45",
+   "short": "HCL Ojdula nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 45/2023 privind aprob:lrea programului de ac{iuni comunitare privind combaterea slriciei gi excluziunii sociale ConsiliLul local al comunei Ojdula, judelul Covasna, intrunit in gedinfa ordinard din data de 28.09.2023 -analizdnd referarattrl de aprobare prezentatd de cdtre primarul comunei Ojdula, asupra proiectului de hotiilrAre, privind aprobarea programului de ac{iuni comunitare privind combaterea sbrdc",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2045%20din%2028.09.2023.PDF",
+     "sha256": "627fa2573958f09026af66425a18c766dd81e53bda285671a6fe1b5948ded4f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-46-2023",
+   "path": "local/covasna/ojdula/2023/46",
+   "short": "HCL Ojdula nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 46/2023 privind Stadiul de inscriere a datelor in Registrul Agricol pe trimestrul I respectiv trimestrul II anul 2023 gi stabilirea misurilor pentru eficientizarea acestei activiti{i Consiliul local al comunei Ojdula, judelul Covasna, intrunit in qedinla ordinarb din data de28.09.2023 -analtzdnd referaraturl de aprobare prezentatd de cdtre primarul comunei Ojdula, asupra proiectului de hotdrdre, privind a",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2046%20din%2028.09.2023.PDF",
+     "sha256": "79bbc8d87d5bf5642b8084764cd53237329eec015425cf55a1531ae25008ca92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-48-2023",
+   "path": "local/covasna/ojdula/2023/48",
+   "short": "HCL Ojdula nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 48/2023 privind aprobarea contului de execu{ie bugetari pe trimestrul III. anul2023 Consiliul local al comunei Ojdula, judelul Covasna, analizdnd expunereia de motive prezentatd de c6tre primarul comunei Ojdula, asupra proiectului de hotdrdre, privind aprobarea contului de execulie bugetard pe trimestrul III. anul 2023 vdzdnd cd proiectul de hotdrdre este avizat favorabil prin rapoartele lor, de c6tre com",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2048%20din%2026.10.2023.PDF",
+     "sha256": "64ddaececfe53e8cfa60658271b5124b7926ec056b03702024df95228e2e438d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-49-2023",
+   "path": "local/covasna/ojdula/2023/49",
+   "short": "HCL Ojdula nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 49/2023",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2049%20din%2026.10.2023.pdf",
+     "sha256": "baa92ac8be98be81f7bcb9237a013b28082fe95f0cb4922c944f3ecbe442194b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-50-2023",
+   "path": "local/covasna/ojdula/2023/50",
+   "short": "HCL Ojdula nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 50/2023 pentru aprobarea modificdrii gi completdrii Statutului ASOCIATIEI DE DEZV OLTARE INTERCOMLINITARA ,, SISTEM INTE,GRAT DE MANAGEMENT AL DE$EURILOR ix ruoETUL covASNA,, Consiliul local al comunei Ojdula, intrunit in qedin{a.rdinar6 din data d,e 26.10.2023 ; ff. pentru aprobarea analizdnd DE DEZV)LTARE Referatul de aprobare inregistrat cu modific[rii qi complertdrii Statutului ASO-CIATIEI I].,ITERCOM",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2050%20din%2026.10.2023.PDF",
+     "sha256": "0598b99f341e389ed0c3734a5f9bebb70974f08432efbecbf1c6ea17358d7dce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-51-2023",
+   "path": "local/covasna/ojdula/2023/51",
+   "short": "HCL Ojdula nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 51/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2051%20din%2026.10.2023.PDF",
+     "sha256": "7fa43773396f245a80fa6ac37d915cb77f03cb491f71017c79316fa323b93d9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-56-2023",
+   "path": "local/covasna/ojdula/2023/56",
+   "short": "HCL Ojdula nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 56/2023",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2056%20din%2023.11.2023.pdf",
+     "sha256": "2908c03e82b892232b9778a4e7a64039e62ff75151670c299ea89149e205eda1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-59-2023",
+   "path": "local/covasna/ojdula/2023/59",
+   "short": "HCL Ojdula nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 59/2023 privind implementarea proiectului,, MODERNIZAREA $I ASFALTAREA STRAZILOR COMUNALE iN LOCALITATEA OJDUL,A, JUDETUL COVASNA'' Consiliul Local al Cornunei Ojdula, Judeful Covasna, intrunit in qedintd ordinard din data de 23 noiembrie 2023,la care participd un numdr de 12 consilieri locali din cei 13 consilieri locali in funcfie, AvAnd in vedere temeiurile juridice, respectiv prevederile: -art. 729, I",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2059%20din%2023.11.2023.PDF",
+     "sha256": "69ee08f7596a98cf865c1b83af85a9829b308df4d697716a1697e05a5ebbde54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-61-2023",
+   "path": "local/covasna/ojdula/2023/61",
+   "short": "HCL Ojdula nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 61/2023",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2061%20din%2019.12.2023.pdf",
+     "sha256": "17d230f09730956a573731e88bcceb2dbd67a1f0c8a24399b143f432173a42c2"
     }
    ]
   }

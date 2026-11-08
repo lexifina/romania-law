@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "hcl-covasna--ghidfalau-59-2025",
+   "path": "local/covasna/ghidfalau/2025/59",
+   "short": "HCL Ghidfalău nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidfalău nr. 59/2025 privind aprobarea executirii lucririlor pentru obiectivul de investifii ,,Moilernizare ilrumuri de interes local in comufla Ghidfaldu - etapa III, juile{ul Couasn&'\" Consiliul local al comunei Ghidfaliu intrunit in gedinfi ordinari la data de 30 irilie 2025, , analizdnd proiectul de hotirAre impreunl cu Referatul de aprobare al Primarului comunei Ghidfaliu, privind aprobarea executirii lucririlor",
+   "url": "https://primariaghidfalau.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://primariaghidfalau.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%2059%20apr.%20ex.%20lucrarilor%20de%20modernizare%20drum%20etapa%20III.pdf",
+     "sha256": "7d0071ee06be46cb0c4bbeb51110ca7fdd4f40fa8f9bf9e8755859b81382543d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ghidfalau-68-2025",
+   "path": "local/covasna/ghidfalau/2025/68",
+   "short": "HCL Ghidfalău nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidfalău nr. 68/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://primariaghidfalau.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%2068%20acord.%20mandat%20special%20in%20asoic.%20Sistem%20itegrat%20de%20manag.%20al%20deseurilor%20jud.%20covasna.pdf",
+     "sha256": "26cd22c97d93ef1f06a789bf5f01c6d8613dabbbd2a5fd7fd1b5c12e27ab671d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ghidfalau-81-2025",
+   "path": "local/covasna/ghidfalau/2025/81",
+   "short": "HCL Ghidfalău nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidfalău nr. 81/2025 privind aprobarea achizi{ionlrii unor servicii iuridice Consiliul local al comunei Ghidfaldu, intrunit in gedinf5 ordinari la data de 28 octombrie 2025, analizind Proiectul de hotdrAre impreund cu Referatul de aprobare al Primarului comunei Ghidfaldu privind aprobarea achizilionirii unor servicii juridice, raportul compartimentului de resort gi avizul comisiei de specialitate din cadrul consiliulu",
+   "url": "https://primariaghidfalau.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://primariaghidfalau.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%2081%20apr.%20achi.%20serv.%20juridice.pdf",
+     "sha256": "2ed28b2b8355aa328a86268c310947b720eea916b947671b0af46b5af101b8b9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--ghidfalau-85-2025",
    "path": "local/covasna/ghidfalau/2025/85",
    "short": "HCL Ghidfalău nr. 85/2025",
@@ -29,6 +74,21 @@
      "units": 1,
      "source_url": "https://primariaghidfalau.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%2086%20prv.%20mod%20hcl%2017.2016.pdf",
      "sha256": "c8a51ec2b1d39671fc7e5ec98eff64d852db8e0713ab1f926bb59bdaf222c236"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ghidfalau-91-2025",
+   "path": "local/covasna/ghidfalau/2025/91",
+   "short": "HCL Ghidfalău nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidfalău nr. 91/2025 privind aprobarea numirului asistenlilor personali angaj ali cu contract individual de munci pentru anrul2025 ,}, Consiliul local al comunei Ghidfaldu, intrunit in gedinla sa ordinarl din data de 27 noiembrie2}2l, analizAnd referatul de aprobare al primarului comunei Ghidfaldu impreund cu proiectul de hotirAre privind aprobarea numdrului asistenlilor personali angajali cu contract individual de mu",
+   "url": "https://primariaghidfalau.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaghidfalau.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%2091%20apr.%20nr.%20asis.%20pers.%20angajati%20cu%20cintract%20de%20munca%20pt.%20anul%202026.pdf",
+     "sha256": "9f495ebabe67627ed842c39a4e71d163a736f57e1c42a29f38407ac0532f12f3"
     }
    ]
   },

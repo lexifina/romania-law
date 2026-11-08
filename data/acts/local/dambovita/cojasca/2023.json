@@ -136,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--cojasca-7-2023",
+"path": "local/dambovita/cojasca/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 7/2023 privind aprobarea închirierii pășunii în suprafață de 82 ha proprietate privată a comunei Cojasca, județul Dâmbovița prin încredintare directă și aprobarea procesului verbal de verificare oferte și încherea contactelor cu ofertanții câștigători",
+"short": "HCL Cojasca nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#40607",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cojasca-8-2023",
 "path": "local/dambovita/cojasca/2023/8",
 "kind": "local",
@@ -354,6 +376,28 @@
 "council_name": "Consiliul Local al Comunei Cojasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-18-2023",
+"path": "local/dambovita/cojasca/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 18/2023 privind desemnarea reprezentanților Consiliului Local Cojasca în comisia de evaluare a performantelor profesionale individuale ale Secretarului general al comunei Cojasca, județul Dâmbovița",
+"short": "HCL Cojasca nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#42712",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -662,6 +706,28 @@
 "council_name": "Consiliul Local al Comunei Cojasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cojasca-33-2023",
+"path": "local/dambovita/cojasca/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 33/2023 privind desemnarea persoanelor cu drept de semnătură asupra conturilor curente deschise la Banca Comercială Română S.A",
+"short": "HCL Cojasca nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#47175",
+"council": "dambovita/cojasca",
+"council_name": "Consiliul Local al Comunei Cojasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

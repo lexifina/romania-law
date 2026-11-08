@@ -3,6 +3,36 @@
  "shard": "local/dambovita/ciocanesti/2022",
  "acts": [
   {
+   "slug": "hcl-dambovita--ciocanesti-1-2022",
+   "path": "local/dambovita/ciocanesti/2022/1",
+   "short": "HCL Ciocănești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 1/2022 privind stabilirea nivelului de salarizare al funcţionarilor publici şi personalului contractual din cadrul Primăriei comunei Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74232",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-10-2022",
+   "path": "local/dambovita/ciocanesti/2022/10",
+   "short": "HCL Ciocănești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 10/2022 privind aprobarea Regulamentul de Organizare şi Funcţionare, Regulamentul privind conduita socială a utilizatorilor și angajațiolor bibliotecii în raport cu prevederile răspândirii SARSCOV 2, Programul de activitate pe anul 2022, Strategia activităţii pe anul 2022, Raportul de activitate pe anul 2021, Calendarul Evenimentelor Social - Culturale pe anul 2022, Indicatori orientativi pentru biblioteca comunală Ciocănești, Consiliul Ştiinţific Consultativ și Programul de lucru al Bibliotecii Comunale Ciocăneşti, judeţul Dâmboviţa",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74258",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74258",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ciocanesti-11-2022",
    "path": "local/dambovita/ciocanesti/2022/11",
    "short": "HCL Ciocănești nr. 11/2022",
@@ -13,6 +43,36 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-12-2022",
+   "path": "local/dambovita/ciocanesti/2022/12",
+   "short": "HCL Ciocănești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 12/2022 privind aprobarea Cererii de finanțare și a Devizului general al obiectivului de investiție Înființarea Distribuției de gaze natural în comuna Ciocănești, județul Dâmbovița în vederea includerii acestuia în cadrul Programului Național de Investiții ”Anghel Saligny”",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74267",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-13-2022",
+   "path": "local/dambovita/ciocanesti/2022/13",
+   "short": "HCL Ciocănești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 13/2022 privind aprobarea scutirii de la plata majorărilor de întârziere aferente obligaţiilor fiscale, constând în impozite şi taxe locale datorate bugetului local de către persoanele fizice care au calitatea de contribuabilii ai comunei Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74272",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74272",
      "sha256": null
     }
    ]
@@ -33,6 +93,51 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ciocanesti-15-2022",
+   "path": "local/dambovita/ciocanesti/2022/15",
+   "short": "HCL Ciocănești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 15/2022 privind aprobarea Planului de acţiuni de interes local în vederea repartizării orelor de muncă persoanele apte de muncă, beneficiare de ajutor social, conform legii nr.416/2001 privind venitul minim garantat, pentru anul 2022",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74274",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-16-2022",
+   "path": "local/dambovita/ciocanesti/2022/16",
+   "short": "HCL Ciocănești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 16/2022 privind aprobarea Planului de acţiuni și lucrări de interes local pentru persoanele obligate la prestarea unei activități în folosul comunității, în anul 2022",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74275",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-17-2022",
+   "path": "local/dambovita/ciocanesti/2022/17",
+   "short": "HCL Ciocănești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 17/2022 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ciocănești, pe o perioadă de 3 luni",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74323",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74323",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ciocanesti-18-2022",
    "path": "local/dambovita/ciocanesti/2022/18",
    "short": "HCL Ciocănești nr. 18/2022",
@@ -43,6 +148,96 @@
      "from": "2022-10-04",
      "units": 1,
      "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-19-2022",
+   "path": "local/dambovita/ciocanesti/2022/19",
+   "short": "HCL Ciocănești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 19/2022 prin care se ia act de recepția la terminarea lucrărilor pentru obiectivul de investiții „Serviciile de proiectare şi lucrările de modernizare drum comunal care face legătura între următoarele sate ale comunei Ciocăneşti: Decindea, Turciţi, Urziceanca, Vizureşti şi Creţu, în lungime de 25 km”",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74325",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-2-2022",
+   "path": "local/dambovita/ciocanesti/2022/2",
+   "short": "HCL Ciocănești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 2/2022 privind aprobarea includerii în domeniul public al comunei Ciocănești și înscrierea în cartea funciară a unor bunuri imobile, având destinația de teren arabil intravilan",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74233",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-20-2022",
+   "path": "local/dambovita/ciocanesti/2022/20",
+   "short": "HCL Ciocănești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 20/2022",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74329",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-21-2022",
+   "path": "local/dambovita/ciocanesti/2022/21",
+   "short": "HCL Ciocănești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 21/2022 privind aprobarea Proiectului pentru ”Construirea, Echiparea și Operaționalizarea unei creșe de 70 de copii în Comuna Ciocănești, Județul Dâmbovița în cadrul Planului Naţional de Redresare si Rezilienţa (PNRR), Componenta 15 - Educație, Investiția 1 - Construirea, Echiparea și Operaționalizarea a 110 Creșe",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74333",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-22-2022",
+   "path": "local/dambovita/ciocanesti/2022/22",
+   "short": "HCL Ciocănești nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 22/2022 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ciocănești, pe o perioadă de 3 luni",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74338",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-23-2022",
+   "path": "local/dambovita/ciocanesti/2022/23",
+   "short": "HCL Ciocănești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 23/2022 privind aprobarea cooperării/colaborării comunei Ciocănești cu Asociația Județeană a Vânătorilor și Pescarilor Sportivi ACVILA Dâmbovița, gestionarul fondului cinegetic nr. 38 Ciocănești",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74339",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74339",
      "sha256": null
     }
    ]
@@ -133,6 +328,21 @@
      "from": "2022-10-04",
      "units": 1,
      "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-3-2022",
+   "path": "local/dambovita/ciocanesti/2022/3",
+   "short": "HCL Ciocănești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 3/2022 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ciocănești, pe o perioadă de 3 luni",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74234",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74234",
      "sha256": null
     }
    ]
@@ -288,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ciocanesti-4-2022",
+   "path": "local/dambovita/ciocanesti/2022/4",
+   "short": "HCL Ciocănești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 4/2022",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74235",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74235",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ciocanesti-40-2022",
    "path": "local/dambovita/ciocanesti/2022/40",
    "short": "HCL Ciocănești nr. 40/2022",
@@ -343,6 +568,81 @@
      "from": "2023-01-17",
      "units": 1,
      "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/85949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-5-2022",
+   "path": "local/dambovita/ciocanesti/2022/5",
+   "short": "HCL Ciocănești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 5/2022",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74253",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-6-2022",
+   "path": "local/dambovita/ciocanesti/2022/6",
+   "short": "HCL Ciocănești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 6/2022",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74254",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-7-2022",
+   "path": "local/dambovita/ciocanesti/2022/7",
+   "short": "HCL Ciocănești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 7/2022 privind aprobarea Studiului de Fezabilitate pentru ”Amenajare Teren de Sport Urziceanca”, comuna Ciocănești, județul Dâmbovița, precum și a indicatorilor tehnico-economici",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74255",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-8-2022",
+   "path": "local/dambovita/ciocanesti/2022/8",
+   "short": "HCL Ciocănești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 8/2022 privind aderarea și participarea Comunei Ciocănești la parteneriatul constituit de ”Grupul de Acțiune Locală Ogoarele Vlăsiei”",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74256",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-9-2022",
+   "path": "local/dambovita/ciocanesti/2022/9",
+   "short": "HCL Ciocănești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 9/2022 privind aprobarea reţelei şcolare pentru anul şcolar 2022 - 2023 din localitatea Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/74257",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/74257",
      "sha256": null
     }
    ]

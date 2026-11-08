@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/covasna/bretcu/2023",
+"acts": [
+{
+"slug": "hcl-covasna--bretcu-44-2023",
+"path": "local/covasna/bretcu/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brețcu nr. 44/2023",
+"short": "HCL Brețcu nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-17",
+"latest": "2023-11-17",
+"portal": "https://bretcu-bereck.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/bretcu",
+"council_name": "Consiliul Local al Comunei Brețcu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

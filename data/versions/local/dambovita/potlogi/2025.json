@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/potlogi/2025",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--potlogi-41-2025",
+   "path": "local/dambovita/potlogi/2025/41",
+   "short": "HCL Potlogi nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Potlogi nr. 41/2025",
+   "url": "https://primariapotlogi.ro/wp-content/uploads/2025/06/Bugetul-local-rectificat-prin-HCL-nr.-41-din-30.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primariapotlogi.ro/wp-content/uploads/2025/06/Bugetul-local-rectificat-prin-HCL-nr.-41-din-30.05.2025.pdf",
+     "sha256": "ccdc6fbf43383aa21ad526d569234cc030beb11b8919f24e0ad3c2cbabd3a815"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--potlogi-52-2025",
+   "path": "local/dambovita/potlogi/2025/52",
+   "short": "HCL Potlogi nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Potlogi nr. 52/2025",
+   "url": "https://primariapotlogi.ro/wp-content/uploads/2026/03/Bugetul-local-pe-anul-2025-aprobat-prin-HCL-nr.-52-din-12.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://primariapotlogi.ro/wp-content/uploads/2026/03/Bugetul-local-pe-anul-2025-aprobat-prin-HCL-nr.-52-din-12.08.2025.pdf",
+     "sha256": "c95af3de808871200c3def9ad76df0e2ab089dbf73236b9b26a23445160f6480"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--potlogi-70-2025",
+   "path": "local/dambovita/potlogi/2025/70",
+   "short": "HCL Potlogi nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Potlogi nr. 70/2025",
+   "url": "https://primariapotlogi.ro/wp-content/uploads/2026/03/Bugetul-local-pe-anul-2025-aprobat-prin-HCL-nr.-70-din-27.11.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariapotlogi.ro/wp-content/uploads/2026/03/Bugetul-local-pe-anul-2025-aprobat-prin-HCL-nr.-70-din-27.11.2025.pdf",
+     "sha256": "8ee5f50b976ce66e4959e202586923914b1bb41f1599bac8dc94be400088d37e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--potlogi-77-2025",
+   "path": "local/dambovita/potlogi/2025/77",
+   "short": "HCL Potlogi nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Potlogi nr. 77/2025",
+   "url": "https://primariapotlogi.ro/wp-content/uploads/2026/03/Bugetul-local-pe-anul-2025-aprobat-prin-HCL-nr.-77-din-18.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariapotlogi.ro/wp-content/uploads/2026/03/Bugetul-local-pe-anul-2025-aprobat-prin-HCL-nr.-77-din-18.12.2025.pdf",
+     "sha256": "2e0465ed234b4073d9c2982976a7e1f65f2a500429310a7c83b923739fe283ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--potlogi-87-2025",
+   "path": "local/dambovita/potlogi/2025/87",
+   "short": "HCL Potlogi nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Potlogi nr. 87/2025",
+   "url": "https://primariapotlogi.ro/wp-content/uploads/2026/03/Bugetul-local-pe-anul-2025-aprobat-prin-HCL-nr.-87-din-23.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://primariapotlogi.ro/wp-content/uploads/2026/03/Bugetul-local-pe-anul-2025-aprobat-prin-HCL-nr.-87-din-23.12.2025.pdf",
+     "sha256": "63600b243603801820f62b7a0db0548b5fbb0ff1782edad52e0bde2ca5cfdaa3"
+    }
+   ]
+  }
+ ]
+}

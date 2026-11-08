@@ -3,6 +3,94 @@
 "shard": "local/dambovita/pietrari/2023",
 "acts": [
 {
+"slug": "hcl-dambovita--pietrari-1-2023",
+"path": "local/dambovita/pietrari/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 1/2023 privind alegerea pregeflintelui de gedinfd pentru luna IANUARIE 2023 Consiliul local al comunei Pfietrari, judelul DAmbovi{a, intrunit in sedin{a ordinara din 31.01 .2023, avand in vedere: - prevederile art.123 alin.(1) din O.p.G. nr.5712019 privind Codul administrativ, cu modificdrile gi comp^letdrile ulterioare; In temeiul art.134 alin.(3) litfb), art.139 alin.(1) si art.196 alin.(1) lit.b) din",
+"short": "HCL Pietrari nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://primariapietrari.ro/wp-content/uploads/2023/09/HOTARAREA-NR-1-2023.pdf",
+"council": "dambovita/pietrari",
+"council_name": "Consiliul Local al Comunei Pietrari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--pietrari-6-2023",
+"path": "local/dambovita/pietrari/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 6/2023 Privind stabilirea salariilor de ba7d pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Pietrari, judelul D6mbovifa, in anul 2023 Consiliul local al comunei Pietrari judetul Dambovita, intrunit in sedinta ordinara astazi 31.01 .2023, -- Avand in vedere: Proiectul de hotarare intocfnit de primarul comunei inregistrat sub nr. 5/18,01 .2",
+"short": "HCL Pietrari nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://primariapietrari.ro/wp-content/uploads/2023/09/HOTARAREA-NR-6-2023-SALARIU-BAZA.pdf",
+"council": "dambovita/pietrari",
+"council_name": "Consiliul Local al Comunei Pietrari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--pietrari-10-2023",
+"path": "local/dambovita/pietrari/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 10/2023 Privind analiza stadiului de riere a datelor in Registrul agricol in trim lV 20022 Consiliul local al comunei , judetul Dambovita intrunit in sedinta ordinara astazi 28 02.2023 Avand in vedere: naliza stadiului de inscriere a datelor in Registrul agricol Proiectul de hotarare Privind unei Pietrari si inregistrat sub nr. 12115.02.2023; de primarul comunei pentru initierea proiectului de -in trim lV",
+"short": "HCL Pietrari nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://primariapietrari.ro/wp-content/uploads/2023/09/HOTARAREA-NR-10-2023-REGISTRU-AGRICOL.pdf",
+"council": "dambovita/pietrari",
+"council_name": "Consiliul Local al Comunei Pietrari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--pietrari-29-2023",
+"path": "local/dambovita/pietrari/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 29/2023 privind aprobarea documentaliei de avizare a lucrdrilor de intervenlii si a proiectuluitehnic;' a actualizat pentru obiectivul de tehnico-economici indicatorilor ) covor asfaltic pe o lungimre de Rau; irnvestilii ,,Pod peste paraul prin Programul Pietrari 700 metri, in comuna ,,Anghel.Se na[ional de investi(ii onbhieicativnurluii, oriile de cheltuieli t iinanlite oe consiliul local al comunei piet",
+"short": "HCL Pietrari nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-19",
+"latest": "2023-05-19",
+"portal": "https://primariapietrari.ro/wp-content/uploads/2023/09/HOTARAREA-NR.29.pdf",
+"council": "dambovita/pietrari",
+"council_name": "Consiliul Local al Comunei Pietrari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--pietrari-35-2023",
 "path": "local/dambovita/pietrari/2023/35",
 "kind": "local",
@@ -22,6 +110,50 @@
 "council_name": "Consiliul Local al Comunei Pietrari",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-dambovita--pietrari-36-2023",
+"path": "local/dambovita/pietrari/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 36/2023 privind aprobarea documentului strategic \" Strategia Integratd de Dezvoltare Urband a M u nici pi u I u i TA rgovi gte 2021 -2027\" Consiliul local al comunei pietrari judetul Dambovita intrunit in sedinta de ind,ata astazi 17.08.2023",
+"short": "HCL Pietrari nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-17",
+"latest": "2023-08-17",
+"portal": "https://primariapietrari.ro/wp-content/uploads/2023/09/HOTARAREA-NR.36.pdf",
+"council": "dambovita/pietrari",
+"council_name": "Consiliul Local al Comunei Pietrari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--pietrari-43-2023",
+"path": "local/dambovita/pietrari/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 43/2023 privind alegerea pregedintelui de gedinfa pentru luna ocToMBRlE 2023 consiliul local al comunei pietrari, judelul DAmbovifa, Tntrunit in gedin(a ordinara din 25.10.2023, av6nd in vedere: o.u.G . nr.s7t2o19 privind codul administrativ, cu modificdrile - prevederile art.ri3 alin.(1) din gi completdrile ulterioare; atin.(3) tit.b), art.139 alin.(1)9i art.196 alin.(1) lit.b) din O'U.G' administrativ",
+"short": "HCL Pietrari nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://primariapietrari.ro/wp-content/uploads/2023/11/HOTARARE-43.pdf",
+"council": "dambovita/pietrari",
+"council_name": "Consiliul Local al Comunei Pietrari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

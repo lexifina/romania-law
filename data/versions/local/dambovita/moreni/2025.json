@@ -3,6 +3,21 @@
  "shard": "local/dambovita/moreni/2025",
  "acts": [
   {
+   "slug": "hcl-dambovita--moreni-11-2025",
+   "path": "local/dambovita/moreni/2025/11",
+   "short": "HCL Moreni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 11/2025 privind aprobarea cotizației Municipiului MORENI datorată Asociației de Dezvoltare Intercomunitară \"Management Integrat al Deșeurilor în Județul Dâmbovița”, pentru anul 2025 Analizând temeiurile juridice, respectiv: a) art.3, art.4 și art.6 paragraful 1 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985, ratificată prin Legea nr.199/1997; b) art.15 alin.(2), art.1",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2025/01/HCL-11-din-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2025/01/HCL-11-din-2025.pdf",
+     "sha256": "db095f8c7d1965400ab7a7c063911be28b141f49615e6fe2a59fd31f303e6d01"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--moreni-110-2025",
    "path": "local/dambovita/moreni/2025/110",
    "short": "HCL Moreni nr. 110/2025",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://primariamoreni.ro/wp-content/uploads/2026/10/17-HCL-nr.110-din-28.04.2025-indicatori-faza-SF-Regenerare-urbana.pdf",
      "sha256": "da5322418d8178bebea9c915d8f237163272599f0434e5a569eaaaaea3da2ca1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-113-2025",
+   "path": "local/dambovita/moreni/2025/113",
+   "short": "HCL Moreni nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 113/2025 privind aprobarea studiului de fezabilitate, a devizului general și a indicatorilor tehnico-economici, faza studiu de fezabilitate pentru proiectul \" Construire Centru de îngrijiri paliative în cadrul Spitalului Municipal Moreni” Analizând temeiurile juridice, respectiv: a) b) o) d) e) 8 h) , k) art.15 alin.(2), art.120 alin.(1) și art.121 alin.(1) și alin.(2) din Constituția României, republicată",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2026/10/11-HCL-113-din-08.05.2025-indicatori-tehnico-economici-SF.pdf",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2026/10/11-HCL-113-din-08.05.2025-indicatori-tehnico-economici-SF.pdf",
+     "sha256": "3420e8f59dd502e258d9ce6e2644c363f4256eacd714890eefb3fed1af1120a5"
     }
    ]
   },
@@ -74,6 +104,21 @@
      "units": 1,
      "source_url": "https://primariamoreni.ro/wp-content/uploads/2025/10/HCL-nr.-240-din-23.10.2025.pdf",
      "sha256": "00f2d562235f3b5b1658fb0cf001b94f2de6597c548883d6f7a27b075799af72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-250-2025",
+   "path": "local/dambovita/moreni/2025/250",
+   "short": "HCL Moreni nr. 250/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 250/2025 privind aprobarea documentației tehnico-economice în faza studiu de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „Investiții în infrastructura verde-albastră în Municipiul Moreni\", Județul Dâmbovița Analizând temeiurile juridice, respectiv: a) art.15 alin.(2), art.120 alin.(1) și art.121 alin.(1) și alin.(2) din Constituția României, republicată; b) art.3, art",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2026/10/25-HCL-250-din-25.11.2025-indicatori-SF-Investitii-infrastructura-verde-albastra.pdf",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2026/10/25-HCL-250-din-25.11.2025-indicatori-SF-Investitii-infrastructura-verde-albastra.pdf",
+     "sha256": "e49c2ae3d477f2586dde2665ca74b26b4591472d233f605a368f0cc017d873f2"
     }
    ]
   },

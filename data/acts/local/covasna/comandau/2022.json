@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/covasna/comandau/2022",
+"acts": [
+{
+"slug": "hcl-covasna--comandau-14-2022",
+"path": "local/covasna/comandau/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comandău nr. 14/2022 privind constituirea dreptului de superficie cu titlu gratuit asupra terenului sub nr. CF 23315 în supraf. de 472,69 din totalul 898 mp în favoarea sinistrațiilor în urma incendiului din 23.01.2022.pdf",
+"short": "HCL Comandău nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-23",
+"latest": "2022-01-23",
+"portal": "https://www.kommando.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/comandau",
+"council_name": "Consiliul Local al Comunei Comandău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--comandau-22-2022",
+"path": "local/covasna/comandau/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comandău nr. 22/2022 privind modificarea si completarea hotaraii de CL al com",
+"short": "HCL Comandău nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://www.kommando.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/comandau",
+"council_name": "Consiliul Local al Comunei Comandău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--comandau-58-2022",
+"path": "local/covasna/comandau/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comandău nr. 58/2022 privind alegerea președintelui de ședință a Consiliului Local al comunei Comandău pentru perioada 1 noiembrie 2022 - 1 februarie 2023.PDF",
+"short": "HCL Comandău nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-01",
+"latest": "2022-11-01",
+"portal": "https://www.kommando.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/comandau",
+"council_name": "Consiliul Local al Comunei Comandău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

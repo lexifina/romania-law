@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/ghidfalau/2024",
+ "acts": [
+  {
+   "slug": "hcl-covasna--ghidfalau-24-2024",
+   "path": "local/covasna/ghidfalau/2024/24",
+   "short": "HCL Ghidfalău nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidfalău nr. 24/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://primariaghidfalau.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202024/HOTARAREA%2024.pdf",
+     "sha256": "cf422eba520da8afccd42912602d745f15e308020308d36f7902d4e16a8ecee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ghidfalau-26-2024",
+   "path": "local/covasna/ghidfalau/2024/26",
+   "short": "HCL Ghidfalău nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidfalău nr. 26/2024 privind aprobarea contului de execuție al bugetului local al comunei Ghidfalău, întocmit pe cele două secțiuni pe trimestrul I, anul 2024 Consiliul local al comunei Ghidfalău, întrunit în ședința sa extraordinară din data de 27 mai 2024, analizând referatul de aprobare al primarului comunei Ghidfalău împreună cu proiectul de hotărâre, privind aprobarea contului de execuție al bugetului local al co",
+   "url": "https://primariaghidfalau.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://primariaghidfalau.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202024/HOTARAREA%2026.pdf",
+     "sha256": "5ea80018c00726b96616457dbc3375ccc32fae602e7014f9c951d556733cc43c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ghidfalau-28-2024",
+   "path": "local/covasna/ghidfalau/2024/28",
+   "short": "HCL Ghidfalău nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidfalău nr. 28/2024 privind aprobarea executării lucrărilor aferente investiției ” Extindere rețea de canalizare a localității Angheluș, comuna Ghidfalău, județul Covasna ” , aprobat pentru finanțare prin Programul national de investiții ” Anghel Saligny” Consiliul local al comunei Ghidfalău, întrunit în ședință extraordinară la data de 27 mai 2024, analizând Proiectul de hotărâre împreună cu Referatul de aprobare al",
+   "url": "https://primariaghidfalau.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://primariaghidfalau.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202024/HOTARAREA%2028.pdf",
+     "sha256": "58fc021f0ea5486aa20ff98118482ca718813357137f9eecd6c2e94e3cef82ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ghidfalau-29-2024",
+   "path": "local/covasna/ghidfalau/2024/29",
+   "short": "HCL Ghidfalău nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidfalău nr. 29/2024 pentru aprobarea raportului de activitate desfășurată de asistenții personali ai persoanelor cu handicap grav pe semestrul II al anului 2023 Consiliul local al comunei Ghidfalău, întrunit în ședință extraordinară la data de 27 mai 2024, analizând PROIECTUL DE HOTĂRÂRE împreună cu Referatul de aprobare al primarului comunei Ghidfalău privind aprobarea raportului de activitate desfășurată de asisten",
+   "url": "https://primariaghidfalau.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://primariaghidfalau.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202024/HOTARAREA%2029.pdf",
+     "sha256": "fe5f5b3492ee5318c3d42a5d08939b18f2abf1c4833224b05537603dd4b16525"
+    }
+   ]
+  }
+ ]
+}

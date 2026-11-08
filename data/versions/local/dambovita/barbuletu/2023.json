@@ -3,6 +3,636 @@
  "shard": "local/dambovita/barbuletu/2023",
  "acts": [
   {
+   "slug": "hcl-dambovita--barbuletu-1-2023",
+   "path": "local/dambovita/barbuletu/2023/1",
+   "short": "HCL Bărbulețu nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 1/2023 privind alegerea președintelui de ședință pentru luna ianuarie 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/96039",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/96039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-10-2023",
+   "path": "local/dambovita/barbuletu/2023/10",
+   "short": "HCL Bărbulețu nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 10/2023 privind aprobarea asocierii unității administrativ teritoriale Comunei Bărbulețu, prin Consiliul Local al comunei Bărbulețu, cu Județul Dâmbovița, prin Consiliul Județean Dâmbovița, pentru implementarea obiectivului de investiții „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților conexe din județul Dâmbovița”, în vederea depunerii cererii de finanțare în cadrul Planului Național de Redresare și Reziliență, Pilonul VI. „Politici pentru noua generație”, Componenta C15 „Educație”",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/96048",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/96048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-11-2023",
+   "path": "local/dambovita/barbuletu/2023/11",
+   "short": "HCL Bărbulețu nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 11/2023 privind rectificarea bugetului local în trimestrul I al anului 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/96049",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/96049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-12-2023",
+   "path": "local/dambovita/barbuletu/2023/12",
+   "short": "HCL Bărbulețu nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 12/2023 privind aprobarea gestiunii delegate a Serviciului public de alimentare cu apă al comunei Bărbulețu către Compania de Apă Târgoviște Dâmbovița",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/96050",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/96050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-13-2023",
+   "path": "local/dambovita/barbuletu/2023/13",
+   "short": "HCL Bărbulețu nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 13/2023 privind alegerea preşedintelui de şedinţă pentru luna martie 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122209",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-14-2023",
+   "path": "local/dambovita/barbuletu/2023/14",
+   "short": "HCL Bărbulețu nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 14/2023 privind includerea unor bunuri imobile din categoria străzilor în domeniul public al comunei Bărbulețu, judeţul Dâmboviţa",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122210",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-15-2023",
+   "path": "local/dambovita/barbuletu/2023/15",
+   "short": "HCL Bărbulețu nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 15/2023 privind înregistrarea Comunei Bărbulețu, Județul Dâmbovița în Sistemul Național Electronic de Plata online a taxelor și impozitelor utilizând cardul bancar (S.N.E.P.)",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122211",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-16-2023",
+   "path": "local/dambovita/barbuletu/2023/16",
+   "short": "HCL Bărbulețu nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 16/2023 privind aprobarea implementării proiectului \"HUB DE SERVICII -SII MMPS\" Cod MySmis 130963",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122212",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-17-2023",
+   "path": "local/dambovita/barbuletu/2023/17",
+   "short": "HCL Bărbulețu nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 17/2023 privind aprobarea Rețelei școlare de pe raza comunei Bărbulețu, judeţul Dâmbovița pentru anul școlar 2023-2024 - art.19 incolo Lg.198/2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122213",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-18-2023",
+   "path": "local/dambovita/barbuletu/2023/18",
+   "short": "HCL Bărbulețu nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 18/2023 privind desemnarea reprezentantului Consiliului Local al Comunei Bărbulețu în Consiliul de Administrație al Școlii Gimnaziale Gura Bărbulețului pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122214",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-19-2023",
+   "path": "local/dambovita/barbuletu/2023/19",
+   "short": "HCL Bărbulețu nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 19/2023 privind stabilirea de măsuri privind gestionarea câinilor la nivelul comunei Bărbulețu",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122215",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-2-2023",
+   "path": "local/dambovita/barbuletu/2023/2",
+   "short": "HCL Bărbulețu nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 2/2023 privind aprobarea Bugetului local al comunei Bărbulețu pe anul 2023 și a estimărilor pentru anii 2024-2026",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/96040",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/96040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-20-2023",
+   "path": "local/dambovita/barbuletu/2023/20",
+   "short": "HCL Bărbulețu nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 20/2023 privind rectificarea bugetului local în trimestrul I al anului 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122216",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-21-2023",
+   "path": "local/dambovita/barbuletu/2023/21",
+   "short": "HCL Bărbulețu nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 21/2023 privind validarea Dispoziției nr.32 din 20.03.2023 privind rectificarea bugetului local al comunei Bărbulețu pe trimestrul I al anului 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122217",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-22-2023",
+   "path": "local/dambovita/barbuletu/2023/22",
+   "short": "HCL Bărbulețu nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 22/2023 privind rectificarea bugetului local în trimestrul I al anului 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122218",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-23-2023",
+   "path": "local/dambovita/barbuletu/2023/23",
+   "short": "HCL Bărbulețu nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 23/2023 privind alegerea preşedintelui de şedinţă pentru luna aprilie 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122219",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-24-2023",
+   "path": "local/dambovita/barbuletu/2023/24",
+   "short": "HCL Bărbulețu nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 24/2023 privind aprobarea execuţiei bugetare pentru trimestrul I al anului 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122220",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-25-2023",
+   "path": "local/dambovita/barbuletu/2023/25",
+   "short": "HCL Bărbulețu nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 25/2023 privind aprobarea implementării proiectului ”Teren de sport în Sat Gura Bărbulețului, Comuna Bărbulețu, Județul Dâmbovița” și asocierii Comunei Bărbulețu, prin Consiliul Local al Comunei Bărbulețu, cu Județul Dâmbovița, prin Consiliul Judeţean Dâmboviţa, în cadrul Programului Județean de Dezvoltare Locală Dâmbovița, pentru realizarea investiţiei",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122221",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-26-2023",
+   "path": "local/dambovita/barbuletu/2023/26",
+   "short": "HCL Bărbulețu nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 26/2023 privind aprobarea elaborării și implementării Strategiei de Dezvoltare Locală, în cadrul parteneriatului LEADER al GRUPULUI DE ACȚIUNE LOCALĂ „VALEA IALOMIŢEI”",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122222",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-27-2023",
+   "path": "local/dambovita/barbuletu/2023/27",
+   "short": "HCL Bărbulețu nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 27/2023 privind alegerea preşedintelui de şedinţă pentru luna mai 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122228",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-28-2023",
+   "path": "local/dambovita/barbuletu/2023/28",
+   "short": "HCL Bărbulețu nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 28/2023 privind rectificarea bugetului local al comunei Bărbulețu în trimestrul al II-lea al anului 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122229",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-29-2023",
+   "path": "local/dambovita/barbuletu/2023/29",
+   "short": "HCL Bărbulețu nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 29/2023 privind aprobarea proiectului \"SISTEM DE MANAGEMENT INTEGRAT AL DEȘEURILOR DIN JUDEȚUL DÂMBOVIȚA – OBIECTIV – INSTALAȚIE DE TRATARE DEȘEURI COLECTATE SEPARAT ȘI CENTRU DE APORT VOLUNTAR ȘOTÂNGA\"",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122230",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-3-2023",
+   "path": "local/dambovita/barbuletu/2023/3",
+   "short": "HCL Bărbulețu nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 3/2023 privind îndreptarea erorii materiale din Anexa nr.2 la Hotărârea Consiliului Local al comunei, nr.26 din 30.09.2019 privind aprobarea organigramei și a statului de funcții ale aparatului de specialitate al Primaraului comunei Bărbulețu, județul Dâmbovița, cu modificările ulterioare",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/96041",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/96041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-30-2023",
+   "path": "local/dambovita/barbuletu/2023/30",
+   "short": "HCL Bărbulețu nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 30/2023 privind aprobarea contului de execuţie al bugetului local pe anul 2022 și a situațiilor financiare anuale pe anul 2022",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122231",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-31-2023",
+   "path": "local/dambovita/barbuletu/2023/31",
+   "short": "HCL Bărbulețu nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 31/2023 privind aprobarea Organigramei și a Statului de funcții ale aparatului de specialitate al Primarului comunei Bărbulețu, județul Dâmbovița",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122232",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-32-2023",
+   "path": "local/dambovita/barbuletu/2023/32",
+   "short": "HCL Bărbulețu nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 32/2023 privind rectificarea bugetului local al comunei Bărbulețu în trimestrul al II-lea al anului 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122236",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-33-2023",
+   "path": "local/dambovita/barbuletu/2023/33",
+   "short": "HCL Bărbulețu nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 33/2023 privind asocierea unității administrativ-teritoriale Comuna Bărbulețu, prin Consiliul Local al comunei Bărbulețu, cu Județul Dâmbovița, prin Consiliul Judeţean Dâmboviţa, pentru implementarea obiectivului de investiții ”Achiziție microbuze noi electrice pentru școlile din județul Dâmbovița”, în vedere depunerii cererii de finanțare în cadrul Planului Național de Redresare și Reziliență, Pilonul VI.”Politici pentru noua generație”, Componenta C15 ”Educație”",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122241",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-34-2023",
+   "path": "local/dambovita/barbuletu/2023/34",
+   "short": "HCL Bărbulețu nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 34/2023 privind alegerea preşedintelui de şedinţă pentru luna iunie 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122251",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-35-2023",
+   "path": "local/dambovita/barbuletu/2023/35",
+   "short": "HCL Bărbulețu nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 35/2023 privind includerea unor bunuri imobile din categoria străzilor în domeniul public al comunei Bărbulețu, judeţul Dâmboviţa",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122252",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-36-2023",
+   "path": "local/dambovita/barbuletu/2023/36",
+   "short": "HCL Bărbulețu nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 36/2023 privind scoaterea din funcțiune și casarea unor mijloace fixe și obiecte de inventar aflate în proprietatea privată a comunei Bărbulețu, județul Dâmboviţa",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122253",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-37-2023",
+   "path": "local/dambovita/barbuletu/2023/37",
+   "short": "HCL Bărbulețu nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 37/2023 privind rectificarea bugetului local al comunei Bărbulețu în trimestrul al II-lea al anului 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122254",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-38-2023",
+   "path": "local/dambovita/barbuletu/2023/38",
+   "short": "HCL Bărbulețu nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 38/2023 privind alegerea preşedintelui de şedinţă pentru luna iulie 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122263",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-39-2023",
+   "path": "local/dambovita/barbuletu/2023/39",
+   "short": "HCL Bărbulețu nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 39/2023 privind aprobarea Studiului de oportunitate, Caietului de sarcini și a proiectului de Contract de delegare a gestiunii activităților de sortare, compostare și depozitare a deșeurilor municipale de pe raza județului Dâmbovița",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122264",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-4-2023",
+   "path": "local/dambovita/barbuletu/2023/4",
+   "short": "HCL Bărbulețu nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 4/2023 privind alegerea președintelui de ședință pentru luna februarie 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/96042",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/96042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-40-2023",
+   "path": "local/dambovita/barbuletu/2023/40",
+   "short": "HCL Bărbulețu nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 40/2023 privind aprobarea execuţiei bugetare pentru trimestrul al II-lea al anului 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122265",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-41-2023",
+   "path": "local/dambovita/barbuletu/2023/41",
+   "short": "HCL Bărbulețu nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 41/2023 privind alegerea preşedintelui de şedinţă pentru luna august 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122266",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-42-2023",
+   "path": "local/dambovita/barbuletu/2023/42",
+   "short": "HCL Bărbulețu nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 42/2023 privind rectificarea bugetului local al comunei Bărbulețu în trimestrul al III-lea al anului 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122267",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-43-2023",
+   "path": "local/dambovita/barbuletu/2023/43",
+   "short": "HCL Bărbulețu nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 43/2023 privind aprobarea încheierii actului adițional nr.3 la contractul de asociere nr.351/5609/11.12.2019 pentru realizarea în comun cu Județul Dâmbovița, prin Consiliul Județean Dâmbovița, a obiectivului de investiţie ”Modernizare drum de legătură Bărbulețu-Valea Tisei-Malu cu Flori”",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122268",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-44-2023",
+   "path": "local/dambovita/barbuletu/2023/44",
+   "short": "HCL Bărbulețu nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 44/2023 privind aprobarea proiectului \"SISTEM DE MANAGEMENT INTEGRAT AL DEȘEURILOR DIN JUDEȚUL DÂMBOVIȚA – OBIECTIV – INSTALAȚIE DE TRATARE DEȘEURI COLECTATE SEPARAT ȘI CENTRU DE APORT VOLUNTAR ȘOTÂNGA\"",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122269",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-45-2023",
+   "path": "local/dambovita/barbuletu/2023/45",
+   "short": "HCL Bărbulețu nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 45/2023 privind aprobarea principalilor indicatori tehnico-economici ai obiectivului de investiţie ”Modernizare străzi locale, șanțuri și podețe în comuna Bărbulețu, județul Dâmbovița” ca urmare a actualizării acestora după finalizarea procedurilor de achiziție publică",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122270",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-46-2023",
+   "path": "local/dambovita/barbuletu/2023/46",
+   "short": "HCL Bărbulețu nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 46/2023 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor şi a contractelor/acordurilor -cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru şcoli al României în perioada 2023-2029",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122271",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-47-2023",
+   "path": "local/dambovita/barbuletu/2023/47",
+   "short": "HCL Bărbulețu nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 47/2023 privind alegerea preşedintelui de şedinţă pentru luna septembrie 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/122272",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122272",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--barbuletu-48-2023",
    "path": "local/dambovita/barbuletu/2023/48",
    "short": "HCL Bărbulețu nr. 48/2023",
@@ -28,6 +658,21 @@
      "from": "2024-01-18",
      "units": 1,
      "source_url": "https://emol.ro/barbuletu-db/registru-hcl/122274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-5-2023",
+   "path": "local/dambovita/barbuletu/2023/5",
+   "short": "HCL Bărbulețu nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 5/2023 privind validarea Dispoziției nr.18 din 01.02.2023 privind rectificarea bugetului local al comunei Bărbulețu pe trimestrul I al anului 2023",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/96043",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/96043",
      "sha256": null
     }
    ]
@@ -183,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--barbuletu-6-2023",
+   "path": "local/dambovita/barbuletu/2023/6",
+   "short": "HCL Bărbulețu nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 6/2023 privind aprobarea proiectului „SISTEM DE MANAGEMENT INTEGRAT AL DEȘEURILOR DIN JUDEȚUL DÂMBOVIȚA - OBIECTIV - INSTALAȚIE DE TRATARE DEȘEURI COLECTATE SEPARAT ȘI CENTRU DE APORT VOLUNTAR ȘOTÂNGA”",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/96044",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/96044",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--barbuletu-60-2023",
    "path": "local/dambovita/barbuletu/2023/60",
    "short": "HCL Bărbulețu nr. 60/2023",
@@ -298,6 +958,51 @@
      "from": "2024-04-16",
      "units": 1,
      "source_url": "https://emol.ro/barbuletu-db/registru-hcl/152901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-7-2023",
+   "path": "local/dambovita/barbuletu/2023/7",
+   "short": "HCL Bărbulețu nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 7/2023 privind aprobarea realizării documentației tehnico-economică aferente obiectivului de investiție „DOTARE COMUNA BĂRBULEȚU, JUDEȚUL DÂMBOVIȚA, CU MOBILIER URBAN SMART ȘI SISTEME DE SUPRAVEGHERE VIDEO”",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/96045",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/96045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-8-2023",
+   "path": "local/dambovita/barbuletu/2023/8",
+   "short": "HCL Bărbulețu nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 8/2023 privind aprobarea realizării documentației tehnico-economice aferente obiectivului de investiție „Reabilitare moderată a Căminului Cultural din satul Gura Bărbulețului, comuna Bărbubulețu, județul Dâmbovița",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/96046",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/96046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-9-2023",
+   "path": "local/dambovita/barbuletu/2023/9",
+   "short": "HCL Bărbulețu nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 9/2023 privind tranformarea funcției publice vacante „consilier clasa I grad profesional principal” în funcția publică vacantă de „consilier clasa I grad profesional debutant” din cadrul compartimentului „Financiar-Contabil” al aparatului de specialitate al Primarului comunei Bărbulețu",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/96047",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/96047",
      "sha256": null
     }
    ]

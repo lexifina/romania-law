@@ -245,6 +245,50 @@
 }
 },
 {
+"slug": "hcl-dambovita--lucieni-45-2023",
+"path": "local/dambovita/lucieni/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 45/2023 privind aprobarea acordării unui sprijin financiar pentru Parohia Lucieni",
+"short": "HCL Lucieni nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#51732",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-46-2023",
+"path": "local/dambovita/lucieni/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 46/2023 privind aprobarea acordării unui sprijin financiar pentru Biserica Adventistă de Ziua a Șaptea din comuna Lucieni, județul Dâmbovița",
+"short": "HCL Lucieni nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#51786",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--lucieni-49-2023",
 "path": "local/dambovita/lucieni/2023/49",
 "kind": "local",
@@ -352,6 +396,29 @@
 "council_name": "Consiliul Local al Comunei Lucieni",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-55-2023",
+"path": "local/dambovita/lucieni/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 55/2023",
+"short": "HCL Lucieni nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-25",
+"latest": "2023-07-25",
+"portal": null,
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -487,6 +554,51 @@
 }
 },
 {
+"slug": "hcl-dambovita--lucieni-69-2023",
+"path": "local/dambovita/lucieni/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 69/2023",
+"short": "HCL Lucieni nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": null,
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-70-2023",
+"path": "local/dambovita/lucieni/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 70/2023 privind desemnarea reprezentantului consiliul local Lucieni în Consiliul de Administraţie al Şcolii Gimnaziale Lucieni",
+"short": "HCL Lucieni nr. 70/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#58016",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--lucieni-71-2023",
 "path": "local/dambovita/lucieni/2023/71",
 "kind": "local",
@@ -550,6 +662,29 @@
 "council_name": "Consiliul Local al Comunei Lucieni",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-76-2023",
+"path": "local/dambovita/lucieni/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 76/2023",
+"short": "HCL Lucieni nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": null,
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -621,6 +756,50 @@
 }
 },
 {
+"slug": "hcl-dambovita--lucieni-91-2023",
+"path": "local/dambovita/lucieni/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 91/2023 privind aprobarea acordării unui sprijin financiar pentru Parohia Ciurari",
+"short": "HCL Lucieni nr. 91/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#64456",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-92-2023",
+"path": "local/dambovita/lucieni/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 92/2023 privind aprobarea acordării unui sprijin financiar pentru Parohia Șuța Olteni",
+"short": "HCL Lucieni nr. 92/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#64490",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--lucieni-99-2023",
 "path": "local/dambovita/lucieni/2023/99",
 "kind": "local",
@@ -684,6 +863,28 @@
 "council_name": "Consiliul Local al Comunei Lucieni",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-102-2023",
+"path": "local/dambovita/lucieni/2023/102",
+"kind": "local",
+"year": "2023",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 102/2023 privind desemnarea a doi consilieri locali, în calitate de membri ai Comisiei de evaluare a performanțelor profesionale ale Secretarului general al U.A.T comuna Lucieni pentru anul 2023",
+"short": "HCL Lucieni nr. 102/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#64740",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

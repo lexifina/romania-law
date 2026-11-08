@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/pietrari/2024",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--pietrari-20-2024",
+   "path": "local/dambovita/pietrari/2024/20",
+   "short": "HCL Pietrari nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 20/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-20-16.07.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-20-16.07.2024.pdf",
+     "sha256": "f7fcf4c549ccfc443b86d6d6ea1cf7938fd218a91b499605babf05c98a647332"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-21-2024",
+   "path": "local/dambovita/pietrari/2024/21",
+   "short": "HCL Pietrari nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 21/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-21-05.09.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-21-05.09.2024.pdf",
+     "sha256": "7d1451470ce27d9b79a33c27e06433fbda711ef913fb71cb89d773c54ccb3df8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-25-2024",
+   "path": "local/dambovita/pietrari/2024/25",
+   "short": "HCL Pietrari nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 25/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-25-11-11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-25-11-11.2024.pdf",
+     "sha256": "9abf4fec90fdf4e95150bc97dc1cedc948c644d66c6e365fa5a19685d2476868"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-26-2024",
+   "path": "local/dambovita/pietrari/2024/26",
+   "short": "HCL Pietrari nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 26/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-26-11.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-26-11.11.2024.pdf",
+     "sha256": "50ca7db7f181d731c4787fc9c0fc6ae86ae4480e8579f368530d145a0301bf91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-27-2024",
+   "path": "local/dambovita/pietrari/2024/27",
+   "short": "HCL Pietrari nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 27/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-27-18.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-27-18.11.2024.pdf",
+     "sha256": "4f29df27b028b355db1482a49b9db486c8b2623af86f6adb1bb59202eb62510a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-28-2024",
+   "path": "local/dambovita/pietrari/2024/28",
+   "short": "HCL Pietrari nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 28/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-28-18.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-28-18.11.2024.pdf",
+     "sha256": "44a8d45b9f8ca1f397baef3250c2d370e270d9be0c481cbe64c6b65e4b4a4874"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-29-2024",
+   "path": "local/dambovita/pietrari/2024/29",
+   "short": "HCL Pietrari nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 29/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-29-18.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-29-18.11.2024.pdf",
+     "sha256": "582a1e3a6f91d2b23ec2489f87044d543bdc218c081cc8023031b0dd94eec044"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-30-2024",
+   "path": "local/dambovita/pietrari/2024/30",
+   "short": "HCL Pietrari nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 30/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-30-18.10.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-30-18.10.2024.pdf",
+     "sha256": "03bbbc25a7ae8fe0cac16e4610893fa25c73a28b9d974fd91e6d795d344dde02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-31-2024",
+   "path": "local/dambovita/pietrari/2024/31",
+   "short": "HCL Pietrari nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 31/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-31-18.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-31-18.11.2024.pdf",
+     "sha256": "126cc4120cbb2bc17e43a2396a3fd474c6610e244f199073424dd6da9420498b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-32-2024",
+   "path": "local/dambovita/pietrari/2024/32",
+   "short": "HCL Pietrari nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 32/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-32-18.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-32-18.11.2024.pdf",
+     "sha256": "1bdf633ce1c7e21fd5d9bb7fea5ff8327180fe83f561daef79da3234ee11929a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-34-2024",
+   "path": "local/dambovita/pietrari/2024/34",
+   "short": "HCL Pietrari nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 34/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-34-26.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-34-26.11.2024.pdf",
+     "sha256": "48e171e8f4eac310c7562617a7543c293924efe61ab6eb1bcd152f60f77f1f0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-35-2024",
+   "path": "local/dambovita/pietrari/2024/35",
+   "short": "HCL Pietrari nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 35/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-35-26.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-35-26.11.2024.pdf",
+     "sha256": "066ae5282fdfa7d5f85ffe89f4f741126a642907a612de93e7fe0eaec8b1ec5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-36-2024",
+   "path": "local/dambovita/pietrari/2024/36",
+   "short": "HCL Pietrari nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 36/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-NR.-36-05.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-NR.-36-05.12.2024.pdf",
+     "sha256": "8608a873ffd12f99b6043bf796d5966eecdf3e8624d07d1a6aa387cb4c647d19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-37-2024",
+   "path": "local/dambovita/pietrari/2024/37",
+   "short": "HCL Pietrari nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 37/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-37-05.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-37-05.12.2024.pdf",
+     "sha256": "5513da538c541dd30ce0d5acad51402edd9e201995ed2bbf541c6533ff4ca0c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-38-2024",
+   "path": "local/dambovita/pietrari/2024/38",
+   "short": "HCL Pietrari nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 38/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-38-16.12.2024-SI-ORGANIGRAMA.pdf",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/HOTARAREA-NR.-38-16.12.2024-SI-ORGANIGRAMA.pdf",
+     "sha256": "2a378ff5f6d264bc7e637ee9e7ee0e31430260116723c3f4bd4ea0226c72f761"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-39-2024",
+   "path": "local/dambovita/pietrari/2024/39",
+   "short": "HCL Pietrari nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 39/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-39-16.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-39-16.12.2024.pdf",
+     "sha256": "0458553c943bfc95304df5fd98e02e091bcb9672caf971040793b44ec25dec62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-40-2024",
+   "path": "local/dambovita/pietrari/2024/40",
+   "short": "HCL Pietrari nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 40/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-40-16.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-40-16.12.2024.pdf",
+     "sha256": "6bff53c52351a83f886bf0b4d7da538c30f3322050ba254c78f6c2a1bf47858b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-41-2024",
+   "path": "local/dambovita/pietrari/2024/41",
+   "short": "HCL Pietrari nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 41/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-41-16.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-41-16.12.2024.pdf",
+     "sha256": "5906c5ee42846ffbe9bbe0468bbd9f45edad8b3ec48201b73e61d37a0c8a1893"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-42-2024",
+   "path": "local/dambovita/pietrari/2024/42",
+   "short": "HCL Pietrari nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 42/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-42-16.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-42-16.12.2024.pdf",
+     "sha256": "e6e2b2fc4969975517df09ce9997b3383f65e2f1d1931160e23726f60eb3fbcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-43-2024",
+   "path": "local/dambovita/pietrari/2024/43",
+   "short": "HCL Pietrari nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 43/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarareA-NR.-43-16-12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarareA-NR.-43-16-12.2024.pdf",
+     "sha256": "286bb177c4a82ffe50beec25afa971f4f350c7250c0eb226430d301bebddc559"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-44-2024",
+   "path": "local/dambovita/pietrari/2024/44",
+   "short": "HCL Pietrari nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 44/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-44-16.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-44-16.12.2024.pdf",
+     "sha256": "59be4312ff3d837aeb2c4c3bf63692bfb51cc6be787900323a1de9a1c6dabc80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-45-2024",
+   "path": "local/dambovita/pietrari/2024/45",
+   "short": "HCL Pietrari nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 45/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-45-16.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotarare-nr.-45-16.12.2024.pdf",
+     "sha256": "549be8ba5c68ea3ccc76721bdc0e242121bc3972e3b21fb252e41c8ac61c3e5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--pietrari-46-2024",
+   "path": "local/dambovita/pietrari/2024/46",
+   "short": "HCL Pietrari nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 46/2024",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-46-20.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2025/02/hotararea-nr.-46-20.12.2024.pdf",
+     "sha256": "7d633f6c03570a6456c2bb313cd206980c0706ed266af65a27257aab8b407d84"
+    }
+   ]
+  }
+ ]
+}

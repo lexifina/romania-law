@@ -3,6 +3,28 @@
 "shard": "local/dambovita/ciocanesti/2021",
 "acts": [
 {
+"slug": "hcl-dambovita--ciocanesti-1-2021",
+"path": "local/dambovita/ciocanesti/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 1/2021 privind aprobarea scutirii de la plata majorărilor de întârziere aferente obligațiilor fiscale, constând în impozite și taxe locale datorate bugetului local de către persoanele fizice care au calitatea de contribuabili ai comunei Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/20788",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--ciocanesti-2-2021",
 "path": "local/dambovita/ciocanesti/2021/2",
 "kind": "local",
@@ -25,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-dambovita--ciocanesti-3-2021",
+"path": "local/dambovita/ciocanesti/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 3/2021 privind aprobarea cotizației datorată de UAT Ciocănești către Asociația de Dezvoltare Intercomunitară ''Management integrat al deșeurilor în județul Dâmbovița'' pentru anul 2021",
+"short": "HCL Ciocănești nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/20790",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-4-2021",
+"path": "local/dambovita/ciocanesti/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 4/2021 privind alegerea președintelui de ședință al Consiliului local al comunei Ciocănești, pe o perioadă de 3 luni",
+"short": "HCL Ciocănești nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/20791",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--ciocanesti-5-2021",
 "path": "local/dambovita/ciocanesti/2021/5",
 "kind": "local",
@@ -44,6 +110,95 @@
 "council_name": "Consiliul Local al Comunei Ciocănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-6-2021",
+"path": "local/dambovita/ciocanesti/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 6/2021 privind aprobarea Devizului general - actualizat după achiziție, al obiectivului de investiții ''Modernizare străzi în comuna Ciocănești, județul Dâmbovița''",
+"short": "HCL Ciocănești nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/20793",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-7-2021",
+"path": "local/dambovita/ciocanesti/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 7/2021",
+"short": "HCL Ciocănești nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/20794",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-8-2021",
+"path": "local/dambovita/ciocanesti/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 8/2021 privind aprobarea pentru anul 2021 a Planului de acțiuni de interes local în vederea repartizării orelor de muncă persoanele apte de muncă, beneficiare de ajutor social, conform Legii nr. 416/2001 privind venitul minim garantat",
+"short": "HCL Ciocănești nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/20795",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ciocanesti-9-2021",
+"path": "local/dambovita/ciocanesti/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 9/2021 privind transformarea funcției publice de execuție vacante de inspector, clasa I, grad profesional asistent, în funcția publică de execuție de inspector, clasa I, grad profesional superior din cadrul compartimentului taxe și impozite și modificarea organigramei și a statului de funcții al aparatului de specialitate al primarului comunei Ciocănești, județul Dâmbovița",
+"short": "HCL Ciocănești nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/ciocanesti-db/registru-hcl/20796",
+"council": "dambovita/ciocanesti",
+"council_name": "Consiliul Local al Comunei Ciocănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

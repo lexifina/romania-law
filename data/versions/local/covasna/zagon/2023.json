@@ -3,6 +3,141 @@
  "shard": "local/covasna/zagon/2023",
  "acts": [
   {
+   "slug": "hcl-covasna--zagon-1-2023",
+   "path": "local/covasna/zagon/2023/1",
+   "short": "HCL Zagon nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 1/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129410",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-10-2023",
+   "path": "local/covasna/zagon/2023/10",
+   "short": "HCL Zagon nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 10/2023 privind aprobarea însușirii inventarului mijloacelor fixe și a obiectelor de inventar aparținând Primăriei comunei Zagon și Serviciilor publice locale",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129425",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-11-2023",
+   "path": "local/covasna/zagon/2023/11",
+   "short": "HCL Zagon nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 11/2023 privind aprobarea contului de închiriere a exercițiului bugetar pentru trimestrul IV anul 2022 al comunei ZAGON",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129426",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-12-2023",
+   "path": "local/covasna/zagon/2023/12",
+   "short": "HCL Zagon nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 12/2023 privind delegarea Județului Covasna pentru a participa cu proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale a unor unități de învățământ preuniversitare rurale și a unităților conexe din județul Covasna” la apelul de proiecte Pilonul VI. Politici pentru noua generație, Componenta C15. Educațe, finanțat din fondurile europene aferente Planului național de redresare și reziliență, în numele și pe seama Comunei Zagon",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129427",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-13-2023",
+   "path": "local/covasna/zagon/2023/13",
+   "short": "HCL Zagon nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 13/2023 privind aprobarea participării comunei Zagon la Programul județean pentru sprijinirea Programului „Școală după Școală„",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129428",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-14-2023",
+   "path": "local/covasna/zagon/2023/14",
+   "short": "HCL Zagon nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 14/2023 privind rectificarea bugetului local al comunei Zagon, județul Covasna pe luna MARTIE 2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129429",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-15-2023",
+   "path": "local/covasna/zagon/2023/15",
+   "short": "HCL Zagon nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 15/2023 privind aprobarea programului anual al achizițiilor publice pe anul 2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129430",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-16-2023",
+   "path": "local/covasna/zagon/2023/16",
+   "short": "HCL Zagon nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 16/2023 privind modificarea HCL nr. 67/2022 privind aprobarea solicitării prelungirii scrisorii de garanție pentru garantarea avansului proiectului: „MODERNIZAREA CĂMINELOR CULTURALE DIN SAT ZAGON ȘI SAT PAPAUTI, COMUNA ZAGON, JUD. COVASNA”",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129431",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-17-2023",
+   "path": "local/covasna/zagon/2023/17",
+   "short": "HCL Zagon nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 17/2023 privind aprobarea Programului anual și anunțul de participare privind finanțarea nerambursabilă din fonduri publice a proiectelor culturale și activităților sportive, sprijinul financiar acordat unităților de cult din bugetul Comunei ZAGON pe anul 2023, conform Legii nr. 350/2005",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129435",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129435",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-18-2023",
    "path": "local/covasna/zagon/2023/18",
    "short": "HCL Zagon nr. 18/2023",
@@ -13,6 +148,81 @@
      "from": "2023-03-24",
      "units": 1,
      "source_url": "https://emol.ro/zagon-cv/registru-hcl/129436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-19-2023",
+   "path": "local/covasna/zagon/2023/19",
+   "short": "HCL Zagon nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 19/2023 privind competarea și modificarea a HCL nr. 13/2023 privind gestionarea participării comunei Zagon la Programul județean pentru sprijinirea Programului „Școală după Școală„",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129437",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-2-2023",
+   "path": "local/covasna/zagon/2023/2",
+   "short": "HCL Zagon nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 2/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei ZAGON",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129411",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-20-2023",
+   "path": "local/covasna/zagon/2023/20",
+   "short": "HCL Zagon nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 20/2023 privind aprobarea unui protocol de colaborare-cadrum ce se va încheia între Comuna Zagon și Ministerul Muncii și Solidarității Sociale, pentru colaborarea interinstituțională, în cadrul proiectului „HUB de Servicii MMSS SII MMSS”, cod MySmis 130963",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129438",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-21-2023",
+   "path": "local/covasna/zagon/2023/21",
+   "short": "HCL Zagon nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 21/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129442",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-22-2023",
+   "path": "local/covasna/zagon/2023/22",
+   "short": "HCL Zagon nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 22/2023 privind prețului vânzării prin licitație publică a unei cantități de material lemnos către agenții economici",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129443",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129443",
      "sha256": null
     }
    ]
@@ -33,6 +243,171 @@
    ]
   },
   {
+   "slug": "hcl-covasna--zagon-24-2023",
+   "path": "local/covasna/zagon/2023/24",
+   "short": "HCL Zagon nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 24/2023 privind proiectul de hotărâre privind aprobarea prețului de pornire a serivicului de exploatare a materialului lemnso la drum auto pentru populație",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129445",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-25-2023",
+   "path": "local/covasna/zagon/2023/25",
+   "short": "HCL Zagon nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 25/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Zagon, începând cu data de 01 noiembrie 2022",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129446",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-26-2023",
+   "path": "local/covasna/zagon/2023/26",
+   "short": "HCL Zagon nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 26/2023 privind stabilirea indemnizației lunare a consilierilor locali din cadrul Consiliului Local al comunei Zagon, începând cu data de 01 Noiembrie 2022",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129447",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-27-2023",
+   "path": "local/covasna/zagon/2023/27",
+   "short": "HCL Zagon nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 27/2023 privind aprobarea finanțării nerambursabile din fonduri publice a proiectelor și activităților sportive din bugetul Comunei Zagon pe anul 2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129458",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-28-2023",
+   "path": "local/covasna/zagon/2023/28",
+   "short": "HCL Zagon nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 28/2023 privind aprobarea finanțării nerambursabile din fonduri publice a proiectelor culturale și educaționale din bugetul Comunei ZAGON pe anul 2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129459",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-29-2023",
+   "path": "local/covasna/zagon/2023/29",
+   "short": "HCL Zagon nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 29/2023 privind acordarea unui sprijin financiar parohiilor din comuna Zagon pe anul 2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129460",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-3-2023",
+   "path": "local/covasna/zagon/2023/3",
+   "short": "HCL Zagon nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 3/2023 privind nominalizarea reprezentanților Consiliului Local al comunei ZAGON în comisia pentru evaluarea performanțelor profesionale individuale ale Secretarului Comunei ZAGON, pentru activitarea desfălurată în anul 2022",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129412",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-30-2023",
+   "path": "local/covasna/zagon/2023/30",
+   "short": "HCL Zagon nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 30/2023 privind rectificarea bugetului local al comunei Zagon, județul Covasna pe luna Aprilie 2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129461",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-31-2023",
+   "path": "local/covasna/zagon/2023/31",
+   "short": "HCL Zagon nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 31/2023 privind aprobarea indexării impozitelor și taxelor locale precum și a taxelor speciale, pentru anul 2024, cu rata inflației de 13,8%",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129462",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-32-2023",
+   "path": "local/covasna/zagon/2023/32",
+   "short": "HCL Zagon nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 32/2023 privind aprobarea aderării și participării Comunei Zagon, județul Covasna, prin Consiliul Local al Comunei Zagon la Parteneriatul LEADER cu denumirea ”Asociația Grupul de Acțiune Local PROGRESSIO”, în vederea depunerii sprijinului pregătitor și a implementării Strategiei de Dezvoltare Locală prin accesarea Planului Național Strategic PAC 2023-2027",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129497",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-33-2023",
+   "path": "local/covasna/zagon/2023/33",
+   "short": "HCL Zagon nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 33/2023 privind aprobarea contului de încheiere a exercițiului bugetar pentru trimestrul I anul 2023 al comunei ZAGON",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129498",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129498",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-34-2023",
    "path": "local/covasna/zagon/2023/34",
    "short": "HCL Zagon nr. 34/2023",
@@ -43,6 +418,231 @@
      "from": "2023-05-26",
      "units": 1,
      "source_url": "https://emol.ro/zagon-cv/registru-hcl/129499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-35-2023",
+   "path": "local/covasna/zagon/2023/35",
+   "short": "HCL Zagon nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 35/2023 privind rectificarea bugetului local al comunei Zagon, județul Covasna pe luna Mai 2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129500",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-36-2023",
+   "path": "local/covasna/zagon/2023/36",
+   "short": "HCL Zagon nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 36/2023 privind delegarea Județului Covasna pentru a participa cu proiectul „Achiziționarea de microbuze electrice pentru elevi în Județul Covasna” la apelul de proiecte Pilonul VI. Politici pentru noua generație, Componenta C15. Educație, finanțat din fondurile europene aferente Planului Național de Redresare și Reziliență, în numele și pe seama Comunei Zagon",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129501",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-37-2023",
+   "path": "local/covasna/zagon/2023/37",
+   "short": "HCL Zagon nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 37/2023 privind rectificarea bugetului local al comunei Zagon, județul Covasna pe luna iunie 2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129509",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-38-2023",
+   "path": "local/covasna/zagon/2023/38",
+   "short": "HCL Zagon nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 38/2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129510",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-39-2023",
+   "path": "local/covasna/zagon/2023/39",
+   "short": "HCL Zagon nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 39/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Reabilitate moderată a clădirilor publice. Dispensar uman Comuna Zagon, județul Covasna” cu includerea în proiect a achiziționării și amplasării pe domeniul public al comunei, a 2 stații de reîncărcare (4 punce de reîncărcare) pentru vehicule electrice, aprobat pentru finanțare prin Planul Naționa de Redresare și Reziliență - Componenta C10 - Fondul local",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129511",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-4-2023",
+   "path": "local/covasna/zagon/2023/4",
+   "short": "HCL Zagon nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 4/2023 privind organizarea și funcționarea rețelei școlare în comuna Zagon, județul Covasna pentru anul 2023-2024",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129413",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-40-2023",
+   "path": "local/covasna/zagon/2023/40",
+   "short": "HCL Zagon nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 40/2023 privind aprobarea prețului de pornire a serviciului de exploatare a materialului lemnos la drum auto pentru populație și prețul de pornire pentru vânzare la drum auto al materialului lemnos",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129512",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-41-2023",
+   "path": "local/covasna/zagon/2023/41",
+   "short": "HCL Zagon nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 41/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129518",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-42-2023",
+   "path": "local/covasna/zagon/2023/42",
+   "short": "HCL Zagon nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 42/2023 privind revocare HCL nr. 39/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Reabilitate moderată a clădirilor publice. Dispensar uman Comuna Zagon, județul Covasna” cu includerea în proiect a achiziționării și amplasării pe domeniul public al comunei, a 2 stații de reîncărcare (4 punce de reîncărcare) pentru vehicule electrice, aprobat pentru finanțare prin Planul Naționa de Redresare și Reziliență - Componenta C10 - Fondul local",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129519",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-43-2023",
+   "path": "local/covasna/zagon/2023/43",
+   "short": "HCL Zagon nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 43/2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129520",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-44-2023",
+   "path": "local/covasna/zagon/2023/44",
+   "short": "HCL Zagon nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 44/2023 privind aprobarea contului de încheiere a exercițiului bugetar pentru trimestrul II anul 2023 al comunei ZAGON",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129521",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-45-2023",
+   "path": "local/covasna/zagon/2023/45",
+   "short": "HCL Zagon nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 45/2023 privind modificarea și completarea programului anual al achizițiilor publice pe anul 2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129522",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-46-2023",
+   "path": "local/covasna/zagon/2023/46",
+   "short": "HCL Zagon nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 46/2023 privind îndreptarea erorii materiale strecurate în HCL nr. 92/2022 privind aprobarea impozitelor și taxelor locale, pentru anul 2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129523",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-47-2023",
+   "path": "local/covasna/zagon/2023/47",
+   "short": "HCL Zagon nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 47/2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129524",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-48-2023",
+   "path": "local/covasna/zagon/2023/48",
+   "short": "HCL Zagon nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 48/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Reabilitarea moderată a clădirilor publice. Dispensar uman Comuna Zagon, județul Covasna”, aprobat pentru finanțare prin Planul Național de Redresare și Reziliență - Componenta C10 - Fondul local",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129525",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129525",
      "sha256": null
     }
    ]
@@ -63,6 +663,156 @@
    ]
   },
   {
+   "slug": "hcl-covasna--zagon-5-2023",
+   "path": "local/covasna/zagon/2023/5",
+   "short": "HCL Zagon nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 5/2023 privind aprobarea modalității de valorificare a masei lemnoase din fondul forestier proprietate publică a comunei Zagon, prețurile referință pentru anul 2023 și prețul de valorificare la populație a materialului lemnos exploata la drum auto pentru anul 2023, pentru care Ocolul Silvic Privat Zagon asigura servicii silvice",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129414",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-50-2023",
+   "path": "local/covasna/zagon/2023/50",
+   "short": "HCL Zagon nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 50/2023 privind aprobarea organizării evenimentului „Zilele recoltei, în comuna Zagon, sat Păpăuți în perioada 09-10 septembrie 2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129544",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-51-2023",
+   "path": "local/covasna/zagon/2023/51",
+   "short": "HCL Zagon nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 51/2023 privind modificare HCL nr. 16/2023 aprobarea solicitării prelungirii scrisorii de garanție pentru garantarea avansului proiectului: „MODERNIZAREA CĂMINELOR CULTURALE DIN SAT ZAGON ȘI SAT PAPAUTI, COMUNA ZAGON, JUD. COVASNA”",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129545",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-52-2023",
+   "path": "local/covasna/zagon/2023/52",
+   "short": "HCL Zagon nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 52/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții (D.A.L.I), a indicatorilor tehnico-economici și a devizului geenral pentru obiectivul de investiții „Ranforsare Structura Rutieră, strada Livezii, comuna Zagon, județul Covasna„ precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129546",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-53-2023",
+   "path": "local/covasna/zagon/2023/53",
+   "short": "HCL Zagon nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 53/2023 privind modificarea HCL nr. 22/2019 privind stabilirea componenței echipei mobile, pentru intervenția de urgență în cazurile de violență domestică",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129547",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-54-2023",
+   "path": "local/covasna/zagon/2023/54",
+   "short": "HCL Zagon nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 54/2023 privind rectificarea bugetului local al comunei Zagon, județul Covasna pe luna Octombrie 2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129548",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-55-2023",
+   "path": "local/covasna/zagon/2023/55",
+   "short": "HCL Zagon nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 55/2023 privind acordarea unui mandat special reprezentantului comunei Zagon în Adunarea generală a Asociaței de Dezvoltare Intercomunitară ”AQUACOV”",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129549",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-56-2023",
+   "path": "local/covasna/zagon/2023/56",
+   "short": "HCL Zagon nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 56/2023 privind încheierea unui acord de parteneriat cu Fundația Creștină Diakonia, pentru implementarea proiectului Centru Educațional/Școală după școală în comuna Zagon",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129550",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-57-2023",
+   "path": "local/covasna/zagon/2023/57",
+   "short": "HCL Zagon nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 57/2023 privind desemnarea reprezentanților Consiliului Local, în Consiliul de Administrație al Școlii Gimnaziale Mikes Kelemen Zagon, Județul Covasna, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129551",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-58-2023",
+   "path": "local/covasna/zagon/2023/58",
+   "short": "HCL Zagon nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 58/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/204555",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/204555",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-59-2023",
    "path": "local/covasna/zagon/2023/59",
    "short": "HCL Zagon nr. 59/2023",
@@ -73,6 +823,21 @@
      "from": "2023-11-07",
      "units": 1,
      "source_url": "https://emol.ro/zagon-cv/registru-hcl/204556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-6-2023",
+   "path": "local/covasna/zagon/2023/6",
+   "short": "HCL Zagon nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 6/2023 privind aprobarea bugetului de venituri și cheltuieli și modul de valorificare a materialului lemnos pe anul 2023 din fondul forestier proprietatea publică a comunei Zagon, pentru care Ocolul Silvic Privat Zagon asigură servicii silvice",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129415",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129415",
      "sha256": null
     }
    ]
@@ -228,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--zagon-7-2023",
+   "path": "local/covasna/zagon/2023/7",
+   "short": "HCL Zagon nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 7/2023 privind stabilirea cuantumului burselor pe categorii ce se pot acorda elevilor din sistemul de învățământ preuniversitar de stat din comuina Zagon pe anul școlar 2022-2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129416",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129416",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-70-2023",
    "path": "local/covasna/zagon/2023/70",
    "short": "HCL Zagon nr. 70/2023",
@@ -373,6 +1153,36 @@
      "from": "2023-12-21",
      "units": 1,
      "source_url": "https://emol.ro/zagon-cv/registru-hcl/204622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-8-2023",
+   "path": "local/covasna/zagon/2023/8",
+   "short": "HCL Zagon nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 8/2023 privind aprobarea bugetului local general al comunei Zagon pe total și pe secțiunile de funcționare și de dezvoltare, precum și aprobarea Programului de investiții pe anul 2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129418",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-9-2023",
+   "path": "local/covasna/zagon/2023/9",
+   "short": "HCL Zagon nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 9/2023 privind aprobarea cuantumului cotizației aferente comunei Zagon în calitate de membru asociat la Asociația „Grup de Acțiune Locală Progressio„ conform Hotărârii Adunării Generale nr. 7 din 31.08.2016, pentru anul 2023",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/129419",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/129419",
      "sha256": null
     }
    ]

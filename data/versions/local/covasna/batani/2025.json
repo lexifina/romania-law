@@ -3,6 +3,501 @@
  "shard": "local/covasna/batani/2025",
  "acts": [
   {
+   "slug": "hcl-covasna--batani-1-2025",
+   "path": "local/covasna/batani/2025/1",
+   "short": "HCL Bățani nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 1/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%201%20din%2029.01.2025%20alegerea%20pre%C8%99edintelui%20de%20sedint%C4%83.pdf",
+     "sha256": "a4c7c54994e0561102a23e65878507261b36743450e4646889d7a6f3fd648f14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-11-2025",
+   "path": "local/covasna/batani/2025/11",
+   "short": "HCL Bățani nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 11/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2011%20din%2025.03.2025%20aprobarea%20bugetului%20SC%20Constructorul%20B%C4%83%C8%9Bani%20SRL%20pe%202025.pdf",
+     "sha256": "212f20573333ae62529577411d595b42a133f3126ca3963cccdcec505ba6dc07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-12-2025",
+   "path": "local/covasna/batani/2025/12",
+   "short": "HCL Bățani nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 12/2025 privind aprobare act aditional la Contract nr. 1815 din 31.03.2017 cu SC Constructorul Bățani SRL.pdf",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2012%20din%2025.03.2025%20privind%20aprobare%20act%20aditional%20la%20Contract%20nr.%201815%20din%2031.03.2017%20cu%20SC%20Constructorul%20B%C4%83%C8%9Bani%20SRL.pdf",
+     "sha256": "8ec5a51b1ead68e6db562a8bb420c8efae7db18e879af0cdc1aa66324e0aec7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-13-2025",
+   "path": "local/covasna/batani/2025/13",
+   "short": "HCL Bățani nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 13/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2013%20din%2025.03.2025%20aprobarea%20declan%C8%99%C4%83rii%20procedurii%20de%20selectie%20a%20membrilor%20consiliului%20de%20administratie%20%C8%99i%20numirea%20consiliu+%20administrator%20provizorii.pdf",
+     "sha256": "488cc8d2aefd4a6ebe1fe7a461ee6fff08a1cd32953db371c56bda80bd157fcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-14-2025",
+   "path": "local/covasna/batani/2025/14",
+   "short": "HCL Bățani nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 14/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2014%20din%2025.03.2025%20aprobarea%20volumului%20de%20mas%C4%83%20lemnoas%C4%83%20care%20urmeaz%C4%83%20a%20fi%20exploatat%20%C8%99i%20valorificat%20din%20fond%20forestier%20proprietatea%20comunei.pdf",
+     "sha256": "a1e29a0971eafb46b21e50feb9677e0fc7713385fcab950d69b087e90b2d9af2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-15-2025",
+   "path": "local/covasna/batani/2025/15",
+   "short": "HCL Bățani nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 15/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2015%20din%203.04.2025%20Alegerea%20pre%C8%99edintelui%20de%20%C8%99edin%C8%9B%C4%83.pdf",
+     "sha256": "88a6146ae7c6025c11c00ab0cfe435d67b7c38b26db9114ed2d9a0ee27b08c85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-16-2025",
+   "path": "local/covasna/batani/2025/16",
+   "short": "HCL Bățani nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 16/2025 pentru incălzirea locuinței pentru localitățile.pdf",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2016%20din%203.04.2025%20aprobarea%20particip%C4%83rii%20comunei%20in%20cadrul%20Programului-acordare%20de%20sprijin%20in%20vederea%20achizi%C8%9Bion%C4%83rii%20aparate%20pentru%20inc%C4%83lzirea%20locuin%C8%9Bei%20pentru%20localit%C4%83%C8%9Bile.pdf",
+     "sha256": "f506d0cdaf9d1e6f9d5baa8642215c8b9b7ea515781d16a4777b9e0693286d60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-17-2025",
+   "path": "local/covasna/batani/2025/17",
+   "short": "HCL Bățani nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 17/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2017%20din%203.04.2025%20aprobarea%20particip%C4%83rii%20comunei%20la%20programul%20judetean%20-Reabilitarea%20si%20modernizarea%20imobilelor%20cu%20destina%C8%9Bie%20cabinete%20medicale%20din%20mediu%20rural.pdf",
+     "sha256": "748a615cca45e02a9a09741cdaf560db73546ded637a5448f5c7f3d38a398d20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-18-2025",
+   "path": "local/covasna/batani/2025/18",
+   "short": "HCL Bățani nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 18/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2018%20din%2030.04.2025%20darea%20in%20administrare%20scolii-%20microbuz%20electric.pdf",
+     "sha256": "0bd6efdd6caf31d697e7e4359b34aefd8ea43e7f4661975893d40f4a41e86770"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-21-2025",
+   "path": "local/covasna/batani/2025/21",
+   "short": "HCL Bățani nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 21/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+     "sha256": "6216af763e6ceac390143dcc57ae5ab3e716f9e5083610eea4eaca95f16279dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-22-2025",
+   "path": "local/covasna/batani/2025/22",
+   "short": "HCL Bățani nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 22/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2022%20din%2030.04.2025%20atribuie%20direct%C4%83%20a%20Contractului%20de%20delegare%20a%20gestiunii%20serviciului%20de%20salubrizare%20,%20activitatea%20de%20colectare%20separat%C4%83%20%C8%99i%20transport%20separat%20al%20de%C8%99eurilor%20menaj.pdf",
+     "sha256": "41d8b7b83232c6a09863dfc0d641609f01ba60ef5d72dad8fb98a0d4abe321d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-23-2025",
+   "path": "local/covasna/batani/2025/23",
+   "short": "HCL Bățani nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 23/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2023%20din%2030.04.2025%20stadiul%20de%20inscriere%20%C8%99i%20%C8%9Binere%20la%20zi%20a%20datelor%20din%20registrele%20agricole.pdf",
+     "sha256": "8acf66e7a84c7329ea0586eaf0b028bd5d12e4c65e7e0240f1250c3c38eeb454"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-24-2025",
+   "path": "local/covasna/batani/2025/24",
+   "short": "HCL Bățani nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 24/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2024%20din%2030.04.2025%20modificarea%20art.%201%20din%20HCL%20nr.%208%20din%2025.03.2025.pdf",
+     "sha256": "787f4323a08d7d60c97acb00551baf8a24e9e26670338185d3208caa1fa1d809"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-25-2025",
+   "path": "local/covasna/batani/2025/25",
+   "short": "HCL Bățani nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 25/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2025%20din%2030.04.2025%20revocarea%20HCL%20nr.%2013%20din%2025.03.2025.pdf",
+     "sha256": "5a1c3e38fa40df5b98fff59322eff4fcafb428a8cadd57b1a4c031ba33712c61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-26-2025",
+   "path": "local/covasna/batani/2025/26",
+   "short": "HCL Bățani nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 26/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2026%20din%2030.04.2025%20modificarea%20titlului%20%C8%99i%20art.%204%20din%20HCL%20nr.%2014%20din%2025.03.2025.pdf",
+     "sha256": "b81906f1b070938c2f694beb8253bca78db34c31cbecf80eaabf5a9fe027fdad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-27-2025",
+   "path": "local/covasna/batani/2025/27",
+   "short": "HCL Bățani nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 27/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2027%20din%2030%20mai%202025%20aprobarea%20contului%20de%20executie%20trim%20I%20din%202025.pdf",
+     "sha256": "6618039e3d48ffc49e54a76db99c3258215577fa47c93e2b40fbf32d863ae364"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-28-2025",
+   "path": "local/covasna/batani/2025/28",
+   "short": "HCL Bățani nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 28/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2028%20din%2030%20mai%202025%20aprobare%20PAC%20destinat%20prevenirii%20%C8%99i%20combaterii%20riscului%20de%20s%C4%83r%C4%83cie%20%C8%99i%20excluziune%20social%C4%83.pdf",
+     "sha256": "62e5dc43d10bc0839789da571d6ee9549c9b67ff526fe87fcb90323f7d6fe235"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-29-2025",
+   "path": "local/covasna/batani/2025/29",
+   "short": "HCL Bățani nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 29/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2029%20din%2030%20mai%202025%20initierea%20demersurilor%20necesare%20pt%20cump%C4%83rarea%20imobil%20situat%20in%20B%C4%83%C8%9Banii%20Mari%20nr.%20475.pdf",
+     "sha256": "f5c392d96ca63136593ac24f1e388bc03bfc423b4c779a9db3cf8bd1668d7d47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-3-2025",
+   "path": "local/covasna/batani/2025/3",
+   "short": "HCL Bățani nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 3/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%203%20din%2029.01.2025%20organizarea%20intalnirilor%20cu%20cet%C4%83%C8%9Beni%20%C8%99i%20aprobarea%20programului%20de%20audit%20a%20consilierilor%20local%20pe%20anul%202025.pdf",
+     "sha256": "ebd229e10740d0567048701609a68ee46b01ed0c11ca6fe2304cb1708484d829"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-30-2025",
+   "path": "local/covasna/batani/2025/30",
+   "short": "HCL Bățani nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 30/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2030%20din%2030%20mai%202025%20aprobarea%20acord%C4%83rii%20ajutor%20de%20urgen%C8%9B%C4%83%20cf%20L%20196%20din%202016.pdf",
+     "sha256": "ea47c1abee396fa50e0bca64f5aa631c4fda08cea998b96aab9ac07d4205aa78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-31-2025",
+   "path": "local/covasna/batani/2025/31",
+   "short": "HCL Bățani nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 31/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2031%20din%2025.06.2025%20-%20rectificare%20buget%20local%20al%20comunei%20B%C4%83%C8%9Bani.pdf",
+     "sha256": "b9c92fd8e5733e00feb7d39025c1268ac2c936e520a6a6955e4836c08178d659"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-32-2025",
+   "path": "local/covasna/batani/2025/32",
+   "short": "HCL Bățani nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 32/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2032%20din%2025.06.2025%20revocarea%20HCL%20nr.%2030%20din%2030.05.2025.pdf",
+     "sha256": "50e30208cf971e1f5d7f9e0c97342f1a37c9df5dac8930911262970e15df4718"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-33-2025",
+   "path": "local/covasna/batani/2025/33",
+   "short": "HCL Bățani nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 33/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2033%20din%2024%20iulie%202025%20alegerea%20pre%C8%99edintele%20de%20%C8%99edin%C8%9B%C4%83%20pe%20o%20perioada%20de%20trei%20luni.pdf",
+     "sha256": "dd27fd649a3eed14cc0cc6b6aca278b2cb1464ae26f7a812443ce5716125dacd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-34-2025",
+   "path": "local/covasna/batani/2025/34",
+   "short": "HCL Bățani nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 34/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2034%20din%2024%20iulie%202025%20acordarea%20ajutoarelor%20de%20urgen%C8%9B%C4%83%20in%20conformitate%20cu%20prevederile%20Legii%20nr.%20196%20din%202016.pdf",
+     "sha256": "709817c01e73f00dc716fa30df529c0339c8f561f2320ba58e4e7611cddab516"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-35-2025",
+   "path": "local/covasna/batani/2025/35",
+   "short": "HCL Bățani nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 35/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2035%20din%2028.08.2025-%20aprobare%20DALI%20DC%2044-Obiectul%203.pdf",
+     "sha256": "1b25682f61f94722cdbebeb94d018e590646d55c08a0c57d742b6df2439269da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-36-2025",
+   "path": "local/covasna/batani/2025/36",
+   "short": "HCL Bățani nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 36/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2036%20din%2028.08.2025%20aprobarea%20execut%C4%83rii%20lucr%C4%83rilor%20reabilitare%20DC%2044-%20Obiect%20nr.%203.pdf",
+     "sha256": "e07efac16e36fd3f33409954b661bb0e1ec61f3007521a3f70645173cdd03ae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-37-2025",
+   "path": "local/covasna/batani/2025/37",
+   "short": "HCL Bățani nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 37/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2037%20din%2028.08.2025%20aprobarea%20ind.tehn.economice,%20deviz%20general%20actualizat%20-reabilitare%20DC%2044%20precum%20%C8%99i%20ind.tehn.economice%20%C8%99i%20deviz%20general%20pt%20lucr%C4%83rile%20rest%20de%20exec.obiect3.pdf",
+     "sha256": "be55cc7188077b5c5a6b51c6a2a3c9c550642bab83cdeb81c4d7e70658d8f549"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-38-2025",
+   "path": "local/covasna/batani/2025/38",
+   "short": "HCL Bățani nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 38/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2038%20din%2028.08.2025%20modificarea%20HCL%20nr.%2049%20din%206.11.2025.pdf",
+     "sha256": "e5b9b0882e724322fd1eddcabfc66690444fab60665df87e6cd4534a238bfa68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-39-2025",
+   "path": "local/covasna/batani/2025/39",
+   "short": "HCL Bățani nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 39/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2039%20din%2028.08.2025%20rectificare%20buget%20local.pdf",
+     "sha256": "13ac86a403515d5000c6fbf12d8a8fd46ed9aa93eb411208658ad018e471ed17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-4-2025",
+   "path": "local/covasna/batani/2025/4",
+   "short": "HCL Bățani nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 4/2025 privind desemnarea consilierilor local in comisia de evaluarea performantelor profesionale a secretarului general pe anul 2024.pdf",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%204%20din%2029.01.2025%20privind%20desemnarea%20consilierilor%20local%20in%20comisia%20de%20evaluarea%20%20performantelor%20profesionale%20a%20secretarului%20general%20pe%20anul%202024.pdf",
+     "sha256": "2ec1d2c26a7383585f4d4dc17d94495d16d681f692a9a3efb0a85c752b3e56cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-40-2025",
+   "path": "local/covasna/batani/2025/40",
+   "short": "HCL Bățani nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 40/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+     "sha256": "00a4220af40b0abc46d616208dc21051b1ec28f787b912cae9fee5c3aa3acd8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-41-2025",
+   "path": "local/covasna/batani/2025/41",
+   "short": "HCL Bățani nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 41/2025 privind aprobarea rectificării Bugetului general de venituri și cheltuieli și a programului de investiții a comunei Bățani și Școala Gimnazială Konsza Samu pe anul 2025 Consiliul Local al comunei Bățani întrunit în ședința sa din 25 septembrie 2025 , Analizând : -referatul de aprobare nr. 3482/2025 al primarului comunei Bățani ca inițiator al proiectului -raportul de specialitate nr 3517 / 2025 al",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2041%20din%2025.09.2025%20rectificare%20buget.pdf",
+     "sha256": "9c783e9860fbd1a843961bf270d7217853b1a7f4dce3d978ef8812c1014893d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-43-2025",
+   "path": "local/covasna/batani/2025/43",
+   "short": "HCL Bățani nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 43/2025 privind alegerea președintelui de ședință, pentru ședințele Consiliului Local al comunei Bățani pentru o perioada de 3 luni Consiliul Local al comunei Bățani, județul Covasna, întrunit in ședința ordinară, din 24 octombrie 2025; Având in vedere: - Proiectul de hotărâre nr. 3905 / 2025 și Referatul de aprobare al Primarului comunei Bățani, înregistrat sub nr. 3906 / 2025; - Raportul de specialitate",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2043%20din%2024.10.2025%20alegerea%20presedintelui%20de%20sedinta.pdf",
+     "sha256": "2f7034828dd0fee80b2e16c1f783b8767d191cfe54eab86673f397e44bd63891"
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--batani-44-2025",
    "path": "local/covasna/batani/2025/44",
    "short": "HCL Bățani nr. 44/2025",
@@ -74,6 +569,51 @@
      "units": 1,
      "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2048%20din%2017.11.2025%20aprobarea%20volumului%20de%20mas%C4%83%20lemnoas%C4%83%20care%20urmeaz%C4%83%20a%20se%20exploata%20%C8%99i%20valorifica%20din%20fond%20forestier%20partida%201328%20%C8%99i%201338.pdf",
      "sha256": "8543a371fff74adbb5f9ca3df0bdace1e6779e28f2298c88a8ce6b2ab73db62d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-5-2025",
+   "path": "local/covasna/batani/2025/5",
+   "short": "HCL Bățani nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 5/2025 privind solicitarea trecerii din domeniul public al județului Cv in domeniul public a Comunei Bățani a unui microbuz electric achiziționat prin PNRR.pdf",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%205%20din%2029.01.2025%20privind%20solicitarea%20trecerii%20din%20domeniul%20public%20al%20jude%C8%9Bului%20Cv%20in%20domeniul%20public%20a%20Comunei%20B%C4%83%C8%9Bani%20a%20unui%20microbuz%20%20electric%20achizi%C8%9Bionat%20prin%20PNRR.pdf",
+     "sha256": "ac78d746eda26c8dcde24bbb129852e8742caf22828df0998354c5d5250073cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-6-2025",
+   "path": "local/covasna/batani/2025/6",
+   "short": "HCL Bățani nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 6/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%206%20din%2029.01.2025%20modificarea%20cap.%20VIII,2%20din%20anexa%20la%20HCL%20nr.%20nr.%2060%20din%2011.12.2024.pdf",
+     "sha256": "8d68de37b9c09af8f18c871f687959d2b3194bcac23cbcb99ea0a3a6a206abc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-8-2025",
+   "path": "local/covasna/batani/2025/8",
+   "short": "HCL Bățani nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 8/2025",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%208%20din%2025.03.2025%20aprobare%20cont%20de%20executie%20pe%20anul%202024.pdf",
+     "sha256": "1aedca45893d3d7e8d9724ac508e564d93349831bb995a8642cd56e73dcaeec6"
     }
    ]
   }

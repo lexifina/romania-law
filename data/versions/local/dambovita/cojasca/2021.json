@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cojasca-15-2021",
+   "path": "local/dambovita/cojasca/2021/15",
+   "short": "HCL Cojasca nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 15/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cojasca-16-2021",
    "path": "local/dambovita/cojasca/2021/16",
    "short": "HCL Cojasca nr. 16/2021",
@@ -268,6 +283,21 @@
      "from": "2021-09-29",
      "units": 1,
      "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#4657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-27-2021",
+   "path": "local/dambovita/cojasca/2021/27",
+   "short": "HCL Cojasca nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 27/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]
@@ -628,6 +658,21 @@
      "from": "2021-11-26",
      "units": 1,
      "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#8820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cojasca-5-2021",
+   "path": "local/dambovita/cojasca/2021/5",
+   "short": "HCL Cojasca nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 5/2021 privind desemnarea reprezentanților Consiliului Local Cojasca în Consiliul de Administratie al Liceului Tehnologic Cojasca",
+   "url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#3201",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "https://cojasca.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3316#3201",
      "sha256": null
     }
    ]

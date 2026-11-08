@@ -3,6 +3,28 @@
 "shard": "local/dambovita/corbii-mari/2025",
 "acts": [
 {
+"slug": "hcl-dambovita--corbii-mari-4-2025",
+"path": "local/dambovita/corbii-mari/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 4/2025 privind aprobarea Organigramei si Statului de functii ale aparatului de specialitate al primarului comunei Corbii Mari",
+"short": "HCL Corbii Mari nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://primaria-corbiimari.ro/wp-content/uploads/2026/07/Hotararea-nr.-4-din-22.01.2025-privind-aprobarea-Organigramei-si-Statului-de-functii-ale-aparatului-de-specialitate-al-primarului-comunei-Corbii-Mari.pdf",
+"council": "dambovita/corbii-mari",
+"council_name": "Consiliul Local al Comunei Corbii Mari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--corbii-mari-147-2025",
 "path": "local/dambovita/corbii-mari/2025/147",
 "kind": "local",

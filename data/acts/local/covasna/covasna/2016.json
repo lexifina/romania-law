@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/covasna/covasna/2016",
+"acts": [
+{
+"slug": "hcl-covasna--covasna-2-2016",
+"path": "local/covasna/covasna/2016/2",
+"kind": "local",
+"year": "2016",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 2/2016 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului secțiunii de dezvoltare a bugetului local pe anul 2015 o Consiliul Local al, .r întrunit în ședința sa extraordinară din 08 ianuarie 2016, ședință legal constituită, fiind prezentă majoritatea consilierilor în funcție (___), a analizând Expunerea de motive al Primarului Orașului Covasna privind aprobarea n acoperi",
+"short": "HCL Covasna nr. 2/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-01-08",
+"latest": "2016-01-08",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--covasna-4-2016",
+"path": "local/covasna/covasna/2016/4",
+"kind": "local",
+"year": "2016",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Covasna nr. 4/2016 cu privire la aprobarea Strategiei de Dezvoltare a orasului Covasna pentru perioada 2016 – 2020 Consiliul local al orasului Covasna, întrunit în sedința ordinara din data de 28 ianuarie 2016, .ro sedință legal constituită, fiind prezentă majoritatea consilierilor în funcție ( 14), Analizând expunerea de motive a primarului nr. 4596/2 octombrie 2015, raportul a compartimentului de specialitate nr",
+"short": "HCL Covasna nr. 4/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-01-28",
+"latest": "2016-01-28",
+"portal": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+"council": "covasna/covasna",
+"council_name": "Consiliul Local al Orașului Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

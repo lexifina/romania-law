@@ -3,6 +3,36 @@
  "shard": "local/dambovita/manesti/2024",
  "acts": [
   {
+   "slug": "hcl-dambovita--manesti-1-2024",
+   "path": "local/dambovita/manesti/2024/1",
+   "short": "HCL Mănești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 1/2024",
+   "url": "https://emol.ro/manesti-db/registru-hcl/146273",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/146273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-10-2024",
+   "path": "local/dambovita/manesti/2024/10",
+   "short": "HCL Mănești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 10/2024 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Mănești, judeţul Dâmbovița, începând cu 1 februarie 2024",
+   "url": "https://emol.ro/manesti-db/registru-hcl/147035",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/147035",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-11-2024",
    "path": "local/dambovita/manesti/2024/11",
    "short": "HCL Mănești nr. 11/2024",
@@ -13,6 +43,21 @@
      "from": "2024-03-08",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/147036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-12-2024",
+   "path": "local/dambovita/manesti/2024/12",
+   "short": "HCL Mănești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 12/2024",
+   "url": "https://emol.ro/manesti-db/registru-hcl/147896",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/147896",
      "sha256": null
     }
    ]
@@ -43,6 +88,51 @@
      "from": "2024-03-15",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/147894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-15-2024",
+   "path": "local/dambovita/manesti/2024/15",
+   "short": "HCL Mănești nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 15/2024",
+   "url": "https://emol.ro/manesti-db/registru-hcl/147895",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/147895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-16-2024",
+   "path": "local/dambovita/manesti/2024/16",
+   "short": "HCL Mănești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 16/2024",
+   "url": "https://emol.ro/manesti-db/registru-hcl/147897",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/147897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-17-2024",
+   "path": "local/dambovita/manesti/2024/17",
+   "short": "HCL Mănești nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 17/2024",
+   "url": "https://emol.ro/manesti-db/registru-hcl/147898",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/147898",
      "sha256": null
     }
    ]
@@ -103,6 +193,21 @@
      "from": "2024-10-03",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/169740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-21-2024",
+   "path": "local/dambovita/manesti/2024/21",
+   "short": "HCL Mănești nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 21/2024",
+   "url": "https://emol.ro/manesti-db/registru-hcl/171571",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/171571",
      "sha256": null
     }
    ]
@@ -363,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-38-2024",
+   "path": "local/dambovita/manesti/2024/38",
+   "short": "HCL Mănești nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 38/2024 privind aprobarea STUDIULUI DE OPORTUNITATE și a DOCUMENTAȚIEI DE ATRIBUIRE pentru concesionarea terenurilor cu categoria de folosință pajiște situate în extravilanul comunei Mănești, județul Dâmbovița , în sistem dual",
+   "url": "https://emol.ro/manesti-db/registru-hcl/171681",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/171681",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-39-2024",
    "path": "local/dambovita/manesti/2024/39",
    "short": "HCL Mănești nr. 39/2024",
@@ -403,6 +523,21 @@
      "from": "2024-10-03",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/171683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-41-2024",
+   "path": "local/dambovita/manesti/2024/41",
+   "short": "HCL Mănești nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 41/2024 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Mănești, judeţul Dâmbovița, începând cu drepturile aferente lunii iunie 2024",
+   "url": "https://emol.ro/manesti-db/registru-hcl/171684",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/171684",
      "sha256": null
     }
    ]
@@ -453,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-45-2024",
+   "path": "local/dambovita/manesti/2024/45",
+   "short": "HCL Mănești nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 45/2024",
+   "url": "https://emol.ro/manesti-db/registru-hcl/173535",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/173535",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-46-2024",
    "path": "local/dambovita/manesti/2024/46",
    "short": "HCL Mănești nr. 46/2024",
@@ -493,6 +643,51 @@
      "from": "2024-10-24",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/173546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-49-2024",
+   "path": "local/dambovita/manesti/2024/49",
+   "short": "HCL Mănești nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 49/2024 privind modificarea trimestrializării sumelor defalcate din unele venituri ale bugetului de stat, alocate comunei Mănești în anul 2024, pentru finanțarea cheltuielilor descentralizate la nivelul comunelor, orașelor, municipiilor, pentru plata drepturilor asistenților personali ai persoanelor cu handicap grav sau indemnizațiile lunare",
+   "url": "https://emol.ro/manesti-db/registru-hcl/173556",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/173556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-5-2024",
+   "path": "local/dambovita/manesti/2024/5",
+   "short": "HCL Mănești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 5/2024",
+   "url": "https://emol.ro/manesti-db/registru-hcl/147037",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/147037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-50-2024",
+   "path": "local/dambovita/manesti/2024/50",
+   "short": "HCL Mănești nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 50/2024 privind desemnarea reprezentanților consiliului local în cadrul Consiliului de administrație al Școlii gimnaziale Mănești, județul Dâmbovița, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/173557",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/173557",
      "sha256": null
     }
    ]
@@ -628,6 +823,21 @@
      "from": "2025-01-09",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/185937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-6-2024",
+   "path": "local/dambovita/manesti/2024/6",
+   "short": "HCL Mănești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 6/2024",
+   "url": "https://emol.ro/manesti-db/registru-hcl/147031",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/147031",
      "sha256": null
     }
    ]
@@ -883,6 +1093,21 @@
      "from": "2024-03-08",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/147033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-9-2024",
+   "path": "local/dambovita/manesti/2024/9",
+   "short": "HCL Mănești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 9/2024 privind anularea obligaţiilor fiscale datorate de debitori (persoane juridice) radiaţi din Registrul Comerţului şi scăderea societăţilor radiate din evidenţa fiscală a comunei Mănești",
+   "url": "https://emol.ro/manesti-db/registru-hcl/147034",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/147034",
      "sha256": null
     }
    ]

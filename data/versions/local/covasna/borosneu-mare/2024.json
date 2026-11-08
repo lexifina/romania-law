@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/borosneu-mare/2024",
+ "acts": [
+  {
+   "slug": "hcl-covasna--borosneu-mare-1544-2024",
+   "path": "local/covasna/borosneu-mare/2024/1544",
+   "short": "HCL Boroșneu Mare nr. 1544/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Boroșneu Mare nr. 1544/2024",
+   "url": "https://nagyborosnyo.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://nagyborosnyo.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/Hotararea%20NR.10-%202025-%20Incetarea%20Contractului%20de%20inchiriere%20nr.%201544-09-04-2024.pdf",
+     "sha256": "d117befdc85a8218b27f4091ba75d2c7bb327b283a1efb3be89a4a5b0a2685c0"
+    }
+   ]
+  }
+ ]
+}

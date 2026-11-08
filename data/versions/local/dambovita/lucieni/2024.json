@@ -33,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-25-2024",
+   "path": "local/dambovita/lucieni/2024/25",
+   "short": "HCL Lucieni nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 25/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3267211ea628f0f4018fe05c9c9cdc480e063d6d4999fa76f6ba9d6c42e5afa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-26-2024",
+   "path": "local/dambovita/lucieni/2024/26",
+   "short": "HCL Lucieni nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 26/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b455d45d03e127dae31033fdabbca56da379680c1d6df6dfffaf48b45911bb3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-30-2024",
+   "path": "local/dambovita/lucieni/2024/30",
+   "short": "HCL Lucieni nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 30/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e54e7c09ba4a7ac2dbdc7007c4d0275da3c6d8c3b651dc62fdd318650b259e2a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-34-2024",
    "path": "local/dambovita/lucieni/2024/34",
    "short": "HCL Lucieni nr. 34/2024",
@@ -228,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-54-2024",
+   "path": "local/dambovita/lucieni/2024/54",
+   "short": "HCL Lucieni nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 54/2024 privind aprobarea acordării unui sprijin financiar pentru Parohia Șuța Olteni",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#79775",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24hDD9K4rAqvZhub93fTSKdOY5OSS71e4B6ouGObWI4FHeRrZET6cRq/3009",
+     "sha256": "3434c3aae94f8489d7b8bd5f4e67498dc09033f6fb0158ba377bfc2ecec5bc96"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-60-2024",
    "path": "local/dambovita/lucieni/2024/60",
    "short": "HCL Lucieni nr. 60/2024",
@@ -363,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-79-2024",
+   "path": "local/dambovita/lucieni/2024/79",
+   "short": "HCL Lucieni nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 79/2024 privind desemnarea reprezentantului consiliul local Lucieni în Consiliul de Administraţie al Şcolii Gimnaziale Lucieni",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#85521",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24CYICsphTSF0NWAPD0RfTR.67thRoXfXgUowyVdLrEZC8BPkwH48K2/3009",
+     "sha256": "98ab8d10b9143b5d83653ea44fa117c519680d228b5871f0869c6e6e45d62f1b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-80-2024",
    "path": "local/dambovita/lucieni/2024/80",
    "short": "HCL Lucieni nr. 80/2024",
@@ -464,6 +539,36 @@
      "units": 4,
      "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24oDRNP2diq8q7VUdzXkRFxOso7E1WmROZXqWbEwkZb0Gr1uEaLqfim/3009",
      "sha256": "b72a196de71035be2b5cc91e53b4fea70e8fdfc1ef9a6620c483fbe51b0e8e13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-93-2024",
+   "path": "local/dambovita/lucieni/2024/93",
+   "short": "HCL Lucieni nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 93/2024 privind desemnarea a doi consilieri locali, în calitate de membri ai Comisiei de evaluare a performanțelor profesionale ale Secretarului general al U.A.T comuna Lucieni pentru anul 2024",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#88262",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24lje2//21RqwlYKPKd6QCsei6sq/IkIQU7.xuUhPsNOi7PX4CiNh3G/3009",
+     "sha256": "fc5811b83fa8255578e41756b09c3dc7a809f6f54772775cc9295a8dbf73ebe5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-94-2024",
+   "path": "local/dambovita/lucieni/2024/94",
+   "short": "HCL Lucieni nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 94/2024 privind aprobarea acordării unui sprijin financiar pentru Parohia Ciurari",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#88576",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%242xJMtcWu5bWDtkHBKclSO.kHcq4OMpYHzIRu2gE40nr3k/1gXTSY./3009",
+     "sha256": "8706541db8c8433fa3733289666a496b7a8ee60e1bc03584364b1def8041a4fb"
     }
    ]
   },

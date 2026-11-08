@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-covasna--zagon-3-2025",
+"path": "local/covasna/zagon/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 3/2025 privind aprobarea actului adițional la Convenția de parteneriat din anul 2014 încheiat cu Fundația Creștină Diakonia - Filiala Sfântu Gheroghe și prelungirea convenției din data de 01.01.2025 - 31.12.2025",
+"short": "HCL Zagon nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/215250",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zagon-4-2025",
+"path": "local/covasna/zagon/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 4/2025 privind alegerea președintelui de ședință",
+"short": "HCL Zagon nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/215267",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--zagon-5-2025",
 "path": "local/covasna/zagon/2025/5",
 "kind": "local",
@@ -66,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Zagon",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--zagon-6-2025",
+"path": "local/covasna/zagon/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 6/2025 privind acordarea unui mandat special reprezentantului comunei ZAGON în Adunarea generală a Asociației de dezvoltare intercomunitară ”Sistem Intrat de Management al Deșeurilor în județul Covasna”",
+"short": "HCL Zagon nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/215270",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-covasna--zagon-13-2025",
+"path": "local/covasna/zagon/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 13/2025 privind acordarea unui mandat special reprezentantului comunei Zagon, județul Covasna în Adunarea Generală a Asociației de Dezvoltare Intercomunitară Zonă Metropolitană Târgu Secuiesc-Covasna",
+"short": "HCL Zagon nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/215277",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--zagon-14-2025",
 "path": "local/covasna/zagon/2025/14",
 "kind": "local",
@@ -333,6 +421,28 @@
 }
 },
 {
+"slug": "hcl-covasna--zagon-20-2025",
+"path": "local/covasna/zagon/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 20/2025 privind îndreptarea erorii materiale din cuprinsul art. 1 la HCL nr. 4/2025 privind alegerea președintelui de ședință",
+"short": "HCL Zagon nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/215291",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--zagon-21-2025",
 "path": "local/covasna/zagon/2025/21",
 "kind": "local",
@@ -443,6 +553,28 @@
 }
 },
 {
+"slug": "hcl-covasna--zagon-26-2025",
+"path": "local/covasna/zagon/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 26/2025 privind aprobarea Programului anual și anunțul de participare privind finanțarea nerambursabilă din fonduri publice a proiectelor culturale și activităților sportive, sprijinul financiar acordat unităților de cult din bugetul Comunei Zagon pe anul 2025, conform Legii nr. 350/2005",
+"short": "HCL Zagon nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/215302",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--zagon-27-2025",
 "path": "local/covasna/zagon/2025/27",
 "kind": "local",
@@ -487,6 +619,28 @@
 }
 },
 {
+"slug": "hcl-covasna--zagon-29-2025",
+"path": "local/covasna/zagon/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 29/2025 privind modificarea HCL nr. 61/2024 privind desemnarea reprezentanților Consiliului Local, în Consiliul de Administrație al Școlii Gimnaziale Mikes Kelemen Zagon, Județul Covasna, pentru anul școlar 2024-2025",
+"short": "HCL Zagon nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/215312",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--zagon-30-2025",
 "path": "local/covasna/zagon/2025/30",
 "kind": "local",
@@ -506,6 +660,28 @@
 "council_name": "Consiliul Local al Comunei Zagon",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--zagon-31-2025",
+"path": "local/covasna/zagon/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 31/2025 privind alegerea președintelui de ședință",
+"short": "HCL Zagon nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/215316",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -684,6 +860,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--zagon-40-2025",
+"path": "local/covasna/zagon/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 40/2025 privind acordarea unui sprijin financiar parohiilor din comuna Zagon pe anul 2025",
+"short": "HCL Zagon nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/215353",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -885,6 +1083,28 @@
 }
 },
 {
+"slug": "hcl-covasna--zagon-50-2025",
+"path": "local/covasna/zagon/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 50/2025 privind alegerea președintelui de ședință",
+"short": "HCL Zagon nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-23",
+"latest": "2026-07-23",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/279526",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--zagon-51-2025",
 "path": "local/covasna/zagon/2025/51",
 "kind": "local",
@@ -1039,6 +1259,51 @@
 }
 },
 {
+"slug": "hcl-covasna--zagon-58-2025",
+"path": "local/covasna/zagon/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 58/2025 privind aprobarea achiziționării prin achiziție directă, a unei autoutilitare pentru a servi nevoilor Comunei Zagon",
+"short": "HCL Zagon nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-23",
+"latest": "2026-07-23",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/279546",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zagon-59-2025",
+"path": "local/covasna/zagon/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 59/2025",
+"short": "HCL Zagon nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-23",
+"latest": "2026-07-23",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/279548",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-covasna--zagon-60-2025",
 "path": "local/covasna/zagon/2025/60",
 "kind": "local",
@@ -1058,6 +1323,29 @@
 "council_name": "Consiliul Local al Comunei Zagon",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--zagon-61-2025",
+"path": "local/covasna/zagon/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 61/2025",
+"short": "HCL Zagon nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-23",
+"latest": "2026-07-23",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/279557",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1083,6 +1371,28 @@
 }
 },
 {
+"slug": "hcl-covasna--zagon-63-2025",
+"path": "local/covasna/zagon/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 63/2025 privind alegerea președintelui de ședință",
+"short": "HCL Zagon nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-23",
+"latest": "2026-07-23",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/279559",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--zagon-64-2025",
 "path": "local/covasna/zagon/2025/64",
 "kind": "local",
@@ -1102,6 +1412,52 @@
 "council_name": "Consiliul Local al Comunei Zagon",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--zagon-65-2025",
+"path": "local/covasna/zagon/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 65/2025",
+"short": "HCL Zagon nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-23",
+"latest": "2026-07-23",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/279563",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--zagon-66-2025",
+"path": "local/covasna/zagon/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zagon nr. 66/2025",
+"short": "HCL Zagon nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-23",
+"latest": "2026-07-23",
+"portal": "https://emol.ro/zagon-cv/registru-hcl/279564",
+"council": "covasna/zagon",
+"council_name": "Consiliul Local al Comunei Zagon",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

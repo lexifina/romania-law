@@ -3,6 +3,28 @@
 "shard": "local/dambovita/barbuletu/2025",
 "acts": [
 {
+"slug": "hcl-dambovita--barbuletu-1-2025",
+"path": "local/dambovita/barbuletu/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 1/2025 privind alegerea preşedintelui de şedinţă pentru luna ianuarie 2025",
+"short": "HCL Bărbulețu nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/192222",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--barbuletu-2-2025",
 "path": "local/dambovita/barbuletu/2025/2",
 "kind": "local",
@@ -47,6 +69,117 @@
 }
 },
 {
+"slug": "hcl-dambovita--barbuletu-4-2025",
+"path": "local/dambovita/barbuletu/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 4/2025 privind aprobarea cotizaţiei U.A.T.Comuna Bărbulețu datorată Asociației de Dezvoltare Intercomunitară ”Management Integrat al Deșeurilor în Județul Dâmbovița” pentru anul 2025",
+"short": "HCL Bărbulețu nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-13",
+"latest": "2025-02-13",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/192225",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-5-2025",
+"path": "local/dambovita/barbuletu/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 5/2025 privind validarea Dispozițiilor nr.373 din 19.12.2024 și nr.375 din 23.12.2024 privind rectificarea bugetului local al comunei Bărbulețu pe trimestrul al IV-lea al anului 2024",
+"short": "HCL Bărbulețu nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-13",
+"latest": "2025-02-13",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/187338",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-6-2025",
+"path": "local/dambovita/barbuletu/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 6/2025 privind alegerea preşedintelui de şedinţă pentru luna februarie 2025",
+"short": "HCL Bărbulețu nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/202918",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-7-2025",
+"path": "local/dambovita/barbuletu/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 7/2025",
+"short": "HCL Bărbulețu nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/202917",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-8-2025",
+"path": "local/dambovita/barbuletu/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 8/2025 privind alegerea preşedintelui de şedinţă pentru luna martie 2025",
+"short": "HCL Bărbulețu nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/202927",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--barbuletu-9-2025",
 "path": "local/dambovita/barbuletu/2025/9",
 "kind": "local",
@@ -66,6 +199,28 @@
 "council_name": "Consiliul Local al Comunei Bărbulețu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-10-2025",
+"path": "local/dambovita/barbuletu/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 10/2025 privind alegerea preşedintelui de şedinţă pentru luna aprilie 2025",
+"short": "HCL Bărbulețu nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/202941",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +356,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--barbuletu-17-2025",
+"path": "local/dambovita/barbuletu/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 17/2025 privind alegerea preşedintelui de şedinţă pentru luna mai 2025",
+"short": "HCL Bărbulețu nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-16",
+"latest": "2025-06-16",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/212495",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--barbuletu-18-2025",
 "path": "local/dambovita/barbuletu/2025/18",
 "kind": "local",
@@ -311,6 +488,51 @@
 }
 },
 {
+"slug": "hcl-dambovita--barbuletu-23-2025",
+"path": "local/dambovita/barbuletu/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 23/2025",
+"short": "HCL Bărbulețu nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-16",
+"latest": "2025-06-16",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/212491",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-24-2025",
+"path": "local/dambovita/barbuletu/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 24/2025 privind alegerea preşedintelui de şedinţă pentru luna iunie 2025",
+"short": "HCL Bărbulețu nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-08",
+"latest": "2025-09-08",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/224021",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--barbuletu-25-2025",
 "path": "local/dambovita/barbuletu/2025/25",
 "kind": "local",
@@ -377,6 +599,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--barbuletu-28-2025",
+"path": "local/dambovita/barbuletu/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 28/2025 privind alegerea președintelui de şedință pentru luna iulie 2025",
+"short": "HCL Bărbulețu nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-08",
+"latest": "2025-09-08",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/224047",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--barbuletu-29-2025",
 "path": "local/dambovita/barbuletu/2025/29",
 "kind": "local",
@@ -418,6 +662,28 @@
 "council_name": "Consiliul Local al Comunei Bărbulețu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--barbuletu-31-2025",
+"path": "local/dambovita/barbuletu/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 31/2025 privind alegerea preşedintelui de şedinţă pentru luna august 2025",
+"short": "HCL Bărbulețu nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-08",
+"latest": "2025-09-08",
+"portal": "https://emol.ro/barbuletu-db/registru-hcl/224097",
+"council": "dambovita/barbuletu",
+"council_name": "Consiliul Local al Comunei Bărbulețu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,56 @@
+**Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.**
+
+# Propunere legislativă pentru completarea Legii 227/2015 - Codul fiscal
+
+**Became:** [Legea nr. 88/2023](../../../../lege/2023/88/) (`legea-88-2023`): that act is the law, from its own in-force day; read it with `python tools/on.py <day> legea-88-2023`.
+
+Propunere legislativă L370/2022 · initiator: Membri ai Parlamentului · 11 published stages, 2022-04-27 to 2023-04-12 · <https://www.senat.ro/legis/lista.aspx?nr_cls=L370&an_cls=2022>
+
+- Senate number: L370/2022
+- Type: Propunere legislativă
+- Character: Ordinară
+- Urgent procedure: Da
+- First chamber: Senat
+- Legislative Council opinion: 518/11.05.2022
+- Stage in the bill file: A devenit Legea nr.88/11.04.2023 publicatã în M.O. nr.310/12.04.2023
+- Initiators: 1 member(s) of Parliament, named in the bill file at the source link (credited here as a body)
+
+## Stages
+
+Each stage is one commit (`Kind: draft`, no `In-force:` trailer), dated on the day it was published. Tag `proiect-parlament-2022-l370-2022/<day>` is the draft as it stood after that stage.
+
+| Day | Stage |
+| --- | --- |
+| 2022-04-27 | registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive |
+| 2022-05-03 | documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social |
+| 2022-06-14 | documents published: Aviz comisie |
+| 2022-09-01 | documents published: Raport comisie sesizată pe fond |
+| 2022-09-06 | adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților |
+| 2022-09-12 | registered at the Chamber of Deputies |
+| 2023-03-14 | adopted by the Chamber of Deputies |
+| 2023-03-20 | documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare |
+| 2023-03-25 | sent for promulgation |
+| 2023-04-11 | promulgated, becomes Legea nr. 88/2023 |
+| 2023-04-12 | published in the Monitorul Oficial |
+
+## Files
+
+| File | What |
+| --- | --- |
+| [am-56387abb.md](am-56387abb.md) | Adresă către Camera Deputaților (AM), as published |
+| [axs-8d6ac822.md](axs-8d6ac822.md) | Adresă privind sesizarea CCR (AXS), as published |
+| [cr-fb26491c.md](cr-fb26491c.md) | Raport comisie sesizată pe fond (CR), as published |
+| [em-513e11f9.md](em-513e11f9.md) | Expunere de motive (EM), as published |
+| [fg-505e4ac9.md](fg-505e4ac9.md) | Forma inițiatorului (FG), as published |
+| [fs-8c4d3b51.md](fs-8c4d3b51.md) | Forma adoptată de Senat (FS), as published |
+| [lp-eb17fe99.md](lp-eb17fe99.md) | Forma trimisă la promulgare (LP), as published |
+| [procedura.md](procedura.md) | Procedura: stages and documents so far |
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Draft id: `proiect-parlament-2022-l370-2022`. `tools/on.py` never returns a draft: it reads only commits with an `In-force:` trailer.
+
+## Decisions made by hand
+
+- Propunere legislativă L370/2022: added by Lexifina's drafts source lane from the official bill file of the Senate (senat.ro). A draft is not law: its commits carry Kind: draft and no In-force trailer, dated on the day each stage was published, and credited to the initiator.
+- Propunere legislativă L370/2022: comments by private persons are not collected or published; initiators are credited as a body.

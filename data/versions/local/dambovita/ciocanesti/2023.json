@@ -3,6 +3,186 @@
  "shard": "local/dambovita/ciocanesti/2023",
  "acts": [
   {
+   "slug": "hcl-dambovita--ciocanesti-1-2023",
+   "path": "local/dambovita/ciocanesti/2023/1",
+   "short": "HCL Ciocănești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 1/2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/92329",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/92329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-10-2023",
+   "path": "local/dambovita/ciocanesti/2023/10",
+   "short": "HCL Ciocănești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 10/2023 privind asocierea unității administrativ-teritoriale Ciocănești prin Consiliul local Ciocănești, cu judeţul Dâmboviţa, prin Consiliul Judeţean Dâmboviţa, pentru implementarea obiectivului de investiții „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din județul Dâmbovița” în vederea depunerii cererii de finanțare în cadrul Planului Național de Redresare și Reziliență, Pilonul VI. Politici pentru noua generație Componenta C15: Educație",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/93677",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/93677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-11-2023",
+   "path": "local/dambovita/ciocanesti/2023/11",
+   "short": "HCL Ciocănești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 11/2023 privind aprobarea parteneriatului dintre unitatea administrativ-teritorială Ciocănești prin Consiliul local Ciocănești cu județul Dâmbovița prin Consiliul Județean Dâmbovița pentru implementarea proiectului “Hub-uri de dezvoltare a competențelor digitale la biblioteci” în vederea depunerii cererii de finanțare în cadrul Planului Național de Redresare și Reziliență, INVESTIȚIA I17. Scheme de finanțare pentru biblioteci pentru a deveni hub-uri de dezvoltare a competențelor digitale , Operațiunea D. Competențe digitale, Capital Uman și utilizarea Internetului, Componenta 7 - Transformarea digitală",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/93678",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/93678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-12-2023",
+   "path": "local/dambovita/ciocanesti/2023/12",
+   "short": "HCL Ciocănești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 12/2023 privind aprobarea reţelei şcolare pentru anul şcolar 2023 - 2024 din localitatea Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/95889",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/95889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-13-2023",
+   "path": "local/dambovita/ciocanesti/2023/13",
+   "short": "HCL Ciocănești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 13/2023 privind aprobarea Regulamentul de Organizare şi Funcţionare, Programul de activitate pe anul 2023, Strategia activităţii pe anul 2023, Raportul de activitate pe anul 2022, Calendarul Evenimentelor Social - Culturale pe anul 2023, Indicatori orientativi pentru biblioteca comunală Ciocănești, Consiliul Ştiinţific Consultativ și Programul de lucru al Bibliotecii Comunale Ciocăneşti, judeţul Dâmboviţa",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/95890",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/95890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-14-2023",
+   "path": "local/dambovita/ciocanesti/2023/14",
+   "short": "HCL Ciocănești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 14/2023 privind aprobarea Planului de acţiuni de interes local în vederea repartizării orelor de muncă persoanele apte de muncă, beneficiare de ajutor social, conform legii nr.416/2001 privind venitul minim garantat, pentru anul 2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/95891",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/95891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-15-2023",
+   "path": "local/dambovita/ciocanesti/2023/15",
+   "short": "HCL Ciocănești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 15/2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/95892",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/95892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-16-2023",
+   "path": "local/dambovita/ciocanesti/2023/16",
+   "short": "HCL Ciocănești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 16/2023 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul I - anul 2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/95893",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/95893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-17-2023",
+   "path": "local/dambovita/ciocanesti/2023/17",
+   "short": "HCL Ciocănești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 17/2023 privind completarea inventarului bunurilor care aparțin domeniului public al comunei Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/95894",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/95894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-18-2023",
+   "path": "local/dambovita/ciocanesti/2023/18",
+   "short": "HCL Ciocănești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 18/2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/95895",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/95895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-19-2023",
+   "path": "local/dambovita/ciocanesti/2023/19",
+   "short": "HCL Ciocănești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 19/2023 privind încheierea protocolului de colaborare dintre Ministerul Muncii și Solidarității Sociale și Unitatea Administrativ-Teritorială Ciocănești pentru implementarea proiectului “Hub-uri de servicii MMSS-SII MMSS” cod SMIS 2014+ 130963",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/102841",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/102841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-2-2023",
+   "path": "local/dambovita/ciocanesti/2023/2",
+   "short": "HCL Ciocănești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 2/2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/92330",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/92330",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ciocanesti-20-2023",
    "path": "local/dambovita/ciocanesti/2023/20",
    "short": "HCL Ciocănești nr. 20/2023",
@@ -13,6 +193,171 @@
      "from": "2023-06-06",
      "units": 1,
      "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/102847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-21-2023",
+   "path": "local/dambovita/ciocanesti/2023/21",
+   "short": "HCL Ciocănești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 21/2023 privind indexarea impozitelor și taxelor locale, precum și taxele speciale aplicabile în anul fiscal 2024, ținând cont de rata inflației de 13,8%",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/107569",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/107569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-22-2023",
+   "path": "local/dambovita/ciocanesti/2023/22",
+   "short": "HCL Ciocănești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 22/2023 privind alegerea președintelui de ședință al Consiliului local al comunei Ciocănești, pe o perioadă de 3 luni",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/107628",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/107628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-23-2023",
+   "path": "local/dambovita/ciocanesti/2023/23",
+   "short": "HCL Ciocănești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 23/2023 privind aprobarea situaților financiare anuale asupra patrimoniului și a execuției bugetului local al Unitășii Administrativ-Teritoriale Ciocănesti la data de 31.12.2022",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/107629",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/107629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-24-2023",
+   "path": "local/dambovita/ciocanesti/2023/24",
+   "short": "HCL Ciocănești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 24/2023 privind încheierea contractului de execuție a bugetului local de venituri și cheltuieli pe trimestrul I - al anului 2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/107630",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/107630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-25-2023",
+   "path": "local/dambovita/ciocanesti/2023/25",
+   "short": "HCL Ciocănești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 25/2023 privind acordarea unui sprijin financiar pentru proiectele sportive ale structurilor sportive de drept public înființate pe raza comunei Ciocănești",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/107631",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/107631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-26-2023",
+   "path": "local/dambovita/ciocanesti/2023/26",
+   "short": "HCL Ciocănești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 26/2023 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul II - anul 2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/107632",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/107632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-27-2023",
+   "path": "local/dambovita/ciocanesti/2023/27",
+   "short": "HCL Ciocănești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 27/2023 privind retragerea comunei Ciocănești județul Dâmbovița din cadrul Asociației Grupul de Acțiune Locală Ogoarele Vlăsiei",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/107633",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/107633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-28-2023",
+   "path": "local/dambovita/ciocanesti/2023/28",
+   "short": "HCL Ciocănești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 28/2023 privind aderarea și includerea comunei Ciocănești, județul Dâmbovița la Parteneriatul LEADER cu denumirea „Grupul de Acțiune Locală Ialomița de jos”",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/107634",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/107634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-29-2023",
+   "path": "local/dambovita/ciocanesti/2023/29",
+   "short": "HCL Ciocănești nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 29/2023 privind asocierea unității administrativ-teritoriale comuna Ciocănești prin Consiliul local Potlogi, cu județul Dâmbovița, prin Consiliul Județean Dâmbovița, pentru implementarea obiectivului de investiții„Achiziție microbuze noi electrice pentru școlile din județul Dâmbovița” în vederea depunerii cererii de finanțare în cadrul Planului Național de Redresare și Reziliență, Pilonul VI. Politici pentru noua generație Componenta C15:",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/110058",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/110058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-3-2023",
+   "path": "local/dambovita/ciocanesti/2023/3",
+   "short": "HCL Ciocănești nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 3/2023 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ciocănești, pe o perioadă de 3 luni",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/93670",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/93670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-30-2023",
+   "path": "local/dambovita/ciocanesti/2023/30",
+   "short": "HCL Ciocănești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 30/2023 privind aprobarea inițierii demersurilor de actualizare a Planului de Urbanism General (P.U.G.) și a Regulamentului Local de Urbanism (R.L.U.) aferent ți prelungirea valabilității documentației de urbanism Plan Urbanistic General (P.U.G.) al comunei Ciocănești și Regulamentul Local de Urbanism aferent, aprobat prin Hotărârea Consiliului Local al comunei Ciocănești nr.41/19 octombrie 2012",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/115590",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/115590",
      "sha256": null
     }
    ]
@@ -33,6 +378,126 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ciocanesti-32-2023",
+   "path": "local/dambovita/ciocanesti/2023/32",
+   "short": "HCL Ciocănești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 32/2023 privind aprobarea scutirii de la plata majorărilor de întârziere aferente obligațiilor fiscale, constând în impozite și taxe locale datorate bugetului local de către persoanele fizice care au calitatea de contribuabilii ai comunei Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/115592",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/115592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-33-2023",
+   "path": "local/dambovita/ciocanesti/2023/33",
+   "short": "HCL Ciocănești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 33/2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/115593",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/115593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-34-2023",
+   "path": "local/dambovita/ciocanesti/2023/34",
+   "short": "HCL Ciocănești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 34/2023 privind validarea Dispoziției Primarului nr. 163/27.06.2023 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul II-anul 2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/115594",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/115594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-35-2023",
+   "path": "local/dambovita/ciocanesti/2023/35",
+   "short": "HCL Ciocănești nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 35/2023 privind aprobarea Studiului de oportunitate, caietului de sarcini și a draftului de Contract de achiziție publică de servicii privind delegarea gestiunii activităților de sortare, compostare și depozitare a deșeurilor municipale de pe raza județului Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/115595",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/115595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-36-2023",
+   "path": "local/dambovita/ciocanesti/2023/36",
+   "short": "HCL Ciocănești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 36/2023 privind alocarea unei sume din bugetul local al comunei Ciocănești pentru Parohia Vizurești „Sfântul Ioan Botezătorul” din comuna Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/115596",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/115596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-37-2023",
+   "path": "local/dambovita/ciocanesti/2023/37",
+   "short": "HCL Ciocănești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 37/2023 privind modificarea și completarea Hotărârii nr. 04 dn 23.02.2023 privind aprobarea proiectului „Sistem de Management Integrat al Deșeurilor din județul Dâmbovița - Obiectiv - Instalație de Tratare Deșeuri Colectate Separat și Centru de Aport Voluntar Șotânga” și a cheltuielilor aferente",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/115597",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/115597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-38-2023",
+   "path": "local/dambovita/ciocanesti/2023/38",
+   "short": "HCL Ciocănești nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 38/2023 privind alegerea președintelui de ședință al Consiliului local al comunei Ciocănești, pe o perioadă de 3 luni",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/119433",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/119433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-39-2023",
+   "path": "local/dambovita/ciocanesti/2023/39",
+   "short": "HCL Ciocănești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 39/2023 privind aprobarea transformării a două funcții publice vacante și modificarea statului de funcții din cadrul aparatului de specialitate al primarului comunei Ciocănești, județul Dâmbovița, cu încadrarea în numărul maxim de posturi aprobat pentru anul 2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/119434",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/119434",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ciocanesti-4-2023",
    "path": "local/dambovita/ciocanesti/2023/4",
    "short": "HCL Ciocănești nr. 4/2023",
@@ -43,6 +508,96 @@
      "from": "2023-03-06",
      "units": 1,
      "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/93671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-40-2023",
+   "path": "local/dambovita/ciocanesti/2023/40",
+   "short": "HCL Ciocănești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 40/2023 privind completarea inventarului bunurilor care aparțin domeniului public al comunei Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/119435",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/119435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-41-2023",
+   "path": "local/dambovita/ciocanesti/2023/41",
+   "short": "HCL Ciocănești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 41/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente „Programului pentru Școli al României” în perioada 2023-2029",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/123213",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/123213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-42-2023",
+   "path": "local/dambovita/ciocanesti/2023/42",
+   "short": "HCL Ciocănești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 42/2023 privind validarea Dispoziției Primarului nr. 193/06.09.2023 privind rectificarea bugetului general consolidat al comunei Ciocănești, județul Dâmbovița pe trimestrul III-anul 2023, prin modificarea trimestrializării a sumei de 120 mii lei din trimestrul IV, în trimestrul III",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/123214",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/123214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-43-2023",
+   "path": "local/dambovita/ciocanesti/2023/43",
+   "short": "HCL Ciocănești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 43/2023 privind încheierea contului de execuție a bugetului local de venituri și cheltuieli pe trimestrul II-al anului 2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/123215",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/123215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-44-2023",
+   "path": "local/dambovita/ciocanesti/2023/44",
+   "short": "HCL Ciocănești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 44/2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/123216",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/123216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-45-2023",
+   "path": "local/dambovita/ciocanesti/2023/45",
+   "short": "HCL Ciocănești nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 45/2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/123217",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/123217",
      "sha256": null
     }
    ]
@@ -373,6 +928,36 @@
      "from": "2024-01-04",
      "units": 1,
      "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/136182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-7-2023",
+   "path": "local/dambovita/ciocanesti/2023/7",
+   "short": "HCL Ciocănești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 7/2023 privind mandatarea specială a reprezentantului unității administrativ-teritoriale comuna Ciocănești în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,, Management Integrat al Deșeurilor în județul Dâmbovița”",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/93674",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/93674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-8-2023",
+   "path": "local/dambovita/ciocanesti/2023/8",
+   "short": "HCL Ciocănești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 8/2023",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/93675",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/93675",
      "sha256": null
     }
    ]

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/candesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--candesti-71-2023",
+   "path": "local/dambovita/candesti/2023/71",
+   "short": "HCL Cândești nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 71/2023",
+   "url": "https://primariacandesti.ro/wp-content/uploads/2024/03/HCL-nr.-71-din-21.12.2023-.pdf",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primariacandesti.ro/wp-content/uploads/2024/03/HCL-nr.-71-din-21.12.2023-.pdf",
+     "sha256": "fad3da84453fadbedf35413e8f33a52adbd90c9effebb6b727984f15c3edcb36"
+    }
+   ]
+  }
+ ]
+}

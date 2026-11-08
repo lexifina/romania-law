@@ -115,6 +115,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--aninoasa-67-2023",
+"path": "local/dambovita/aninoasa/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 67/2023 privind aprobarea concesionării spațiului cu destinația de dispensar medical din incinta Centrului Cultural Aninoasa, în vederea desfășurării activității medicale de asistență medicală primară (medicină de familie) și servicii medicale de imagistică",
+"short": "HCL Aninoasa nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-11",
+"latest": "2023-07-11",
+"portal": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#53247",
+"council": "dambovita/aninoasa",
+"council_name": "Consiliul Local al Comunei Aninoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--aninoasa-69-2023",
 "path": "local/dambovita/aninoasa/2023/69",
 "kind": "local",

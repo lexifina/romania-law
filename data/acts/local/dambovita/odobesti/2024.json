@@ -70,6 +70,74 @@
 }
 },
 {
+"slug": "hcl-dambovita--odobesti-4-2024",
+"path": "local/dambovita/odobesti/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 4/2024 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav și a numărului de indemnizații pentru persoanele cu handicap grav pentru anul 2024",
+"short": "HCL Odobești nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/155270",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-5-2024",
+"path": "local/dambovita/odobesti/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 5/2024",
+"short": "HCL Odobești nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/155271",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-6-2024",
+"path": "local/dambovita/odobesti/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 6/2024",
+"short": "HCL Odobești nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/155272",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--odobesti-7-2024",
 "path": "local/dambovita/odobesti/2024/7",
 "kind": "local",
@@ -89,6 +157,29 @@
 "council_name": "Consiliul Local al Comunei Odobești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-8-2024",
+"path": "local/dambovita/odobesti/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 8/2024",
+"short": "HCL Odobești nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/155274",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -155,6 +246,72 @@
 "council_name": "Consiliul Local al Comunei Odobești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-12-2024",
+"path": "local/dambovita/odobesti/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 12/2024 privind aprobarea închirierii prin licitație publică a imobilului teren, curți, construcții, în suprafața de 2194 m.p., identificat prin număr cadastral 70764, înscris în Cartea Funciară nr. 70764, teren aflat în domeniul public al comunei Odobești, județul Dâmbovița",
+"short": "HCL Odobești nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/155278",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-13-2024",
+"path": "local/dambovita/odobesti/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 13/2024 privind alegerea președintelui de ședință al Consiliului Local Odobești",
+"short": "HCL Odobești nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/155286",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-14-2024",
+"path": "local/dambovita/odobesti/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 14/2024 privind aprobarea rectificării bugetului local al comunei Odobești pe trimestrul I al anului fiscal 2024",
+"short": "HCL Odobești nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/155287",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -227,6 +384,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--odobesti-18-2024",
+"path": "local/dambovita/odobesti/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 18/2024 privind anularea obligațiilor fiscale datorate de debitori, persoane juridice, radiați din Registrul Comerțului și scăderea societăților radiate din evidența fiscală",
+"short": "HCL Odobești nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/155291",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--odobesti-19-2024",
 "path": "local/dambovita/odobesti/2024/19",
 "kind": "local",
@@ -249,6 +428,363 @@
 }
 },
 {
+"slug": "hcl-dambovita--odobesti-20-2024",
+"path": "local/dambovita/odobesti/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 20/2024 privind participarea în Programul privind sisteme de alimentare cu apă, canalizare și epurare a apelor uzate prin Administrația Fondului de Mediu a obiectivului de investiții: ”Extindere sistem de canalizare menajera în comuna Odobești, satele Odobești, Crovu și Zidurile, județul Dâmbovița”",
+"short": "HCL Odobești nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-07",
+"latest": "2024-05-07",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/155293",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-21-2024",
+"path": "local/dambovita/odobesti/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 21/2024 privind aprobarea indexării impozitelor și taxelor locale, a amenzilor precum și a altor taxe asimilate acestora pentru anul 2025, cu rata inflației de 10,4%",
+"short": "HCL Odobești nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/163351",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-22-2024",
+"path": "local/dambovita/odobesti/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 22/2024 privind aprobarea rectificării bugetului local al comunei Odobești pe trimestrul II al anului fiscal 2024",
+"short": "HCL Odobești nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/163352",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-23-2024",
+"path": "local/dambovita/odobesti/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 23/2024 privind scoaterea din funcțiune și casarea unor mijloace fixe și obiecte de inventar aflate în patrimoniul comunei Odobești, județul Dâmbovița",
+"short": "HCL Odobești nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/163353",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-24-2024",
+"path": "local/dambovita/odobesti/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 24/2024 privind aprobarea contului de execuție al bugetului local de venituri și cheltuieli al comunei Odobești pentru anul 2023",
+"short": "HCL Odobești nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/163354",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-25-2024",
+"path": "local/dambovita/odobesti/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 25/2024 privind aprobarea Raportului de activitate pe anul 2023 și a Calendarului activităților culturale pentru anul 2024 al Bibliotecii Comunale Odobești, județul Dâmbovița",
+"short": "HCL Odobești nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/163355",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-26-2024",
+"path": "local/dambovita/odobesti/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 26/2024",
+"short": "HCL Odobești nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/163356",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-27-2024",
+"path": "local/dambovita/odobesti/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 27/2024",
+"short": "HCL Odobești nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/163357",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-28-2024",
+"path": "local/dambovita/odobesti/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 28/2024",
+"short": "HCL Odobești nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/163358",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-29-2024",
+"path": "local/dambovita/odobesti/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 29/2024",
+"short": "HCL Odobești nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/163359",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-30-2024",
+"path": "local/dambovita/odobesti/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 30/2024 privind aprobarea contului de execuție al bugetului local de venituri și cheltuieli al comunei Odobești la data de 31.03.2024",
+"short": "HCL Odobești nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/163360",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-31-2024",
+"path": "local/dambovita/odobesti/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 31/2024 privind modificarea Hotărârii Consiliului Local Odobești nr. 18/28.03.2024 pentru anularea obligațiilor fiscale datorate de debitori, persoane juridice, radiați din Registrul Comerțului și scăderea societăților radiate din evidența fiscală",
+"short": "HCL Odobești nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/163361",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-32-2024",
+"path": "local/dambovita/odobesti/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 32/2024 privind alegerea președintelui de ședință al Consiliului Local Odobești",
+"short": "HCL Odobești nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-28",
+"latest": "2024-06-28",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/163380",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-33-2024",
+"path": "local/dambovita/odobesti/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 33/2024",
+"short": "HCL Odobești nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-28",
+"latest": "2024-06-28",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/163378",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-34-2024",
+"path": "local/dambovita/odobesti/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 34/2024 privind aprobarea rectificării bugetului local al comunei Odobești pe trimestrul III al anului fiscal 2024",
+"short": "HCL Odobești nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-28",
+"latest": "2024-06-28",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/163379",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-35-2024",
+"path": "local/dambovita/odobesti/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 35/2024 privind aprobarea rectificării bugetului local al comunei Odobești pe trimestrul III al anului fiscal 2024",
+"short": "HCL Odobești nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-27",
+"latest": "2024-07-27",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/187420",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--odobesti-36-2024",
 "path": "local/dambovita/odobesti/2024/36",
 "kind": "local",
@@ -268,6 +804,28 @@
 "council_name": "Consiliul Local al Comunei Odobești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-37-2024",
+"path": "local/dambovita/odobesti/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 37/2024 privind acceptarea ofertei de donație a unui teren în suprafață de 273 m.p., situat în extravilanul orașului Titu, județul Dâmbovița, identificat cu nr. cadastral 75176",
+"short": "HCL Odobești nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-22",
+"latest": "2024-08-22",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/187422",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -315,6 +873,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--odobesti-40-2024",
+"path": "local/dambovita/odobesti/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 40/2024 privind alegerea președintelui de ședință al Consiliului Local Odobești",
+"short": "HCL Odobești nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-26",
+"latest": "2024-09-26",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/187427",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--odobesti-41-2024",
 "path": "local/dambovita/odobesti/2024/41",
 "kind": "local",
@@ -334,6 +914,50 @@
 "council_name": "Consiliul Local al Comunei Odobești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-42-2024",
+"path": "local/dambovita/odobesti/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 42/2024 privind aprobarea rectificării bugetului local al comunei Odobești pe trimestrul III și IV al anului fiscal 2024",
+"short": "HCL Odobești nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-26",
+"latest": "2024-09-26",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/187429",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-43-2024",
+"path": "local/dambovita/odobesti/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 43/2024 privind aprobarea rectificării bugetului local al comunei Odobești pe trimestrul IV al anului fiscal 2024",
+"short": "HCL Odobești nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/186488",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--bezdead-4-2023",
+"path": "local/dambovita/bezdead/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 4/2023 privind nominalizarea a doi consilierilor locali pentru a fi desemnați în comisia de evaluare a performanțelor profesionale individuale ale secretarului general al comunei pe anul 2022",
+"short": "HCL Bezdead nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/91237",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--bezdead-5-2023",
 "path": "local/dambovita/bezdead/2023/5",
 "kind": "local",
@@ -91,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--bezdead-6-2023",
+"path": "local/dambovita/bezdead/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 6/2023 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav și de indemnizații pentru anul 2023 si aprobarea obligației asistenților personali de a prezenta lunar raport de activitate",
+"short": "HCL Bezdead nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/91239",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--bezdead-7-2023",
 "path": "local/dambovita/bezdead/2023/7",
 "kind": "local",
@@ -110,6 +154,29 @@
 "council_name": "Consiliul Local al Comunei Bezdead",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-8-2023",
+"path": "local/dambovita/bezdead/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 8/2023",
+"short": "HCL Bezdead nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/91241",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -330,6 +397,28 @@
 "council_name": "Consiliul Local al Comunei Bezdead",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-19-2023",
+"path": "local/dambovita/bezdead/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 19/2023 privind concesionarea unui spațiu din incinta Dispensarului Uman din satul Bezdead, comuna Bezdead, județul Dâmbovița",
+"short": "HCL Bezdead nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/94794",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -708,6 +797,50 @@
 }
 },
 {
+"slug": "hcl-dambovita--bezdead-37-2023",
+"path": "local/dambovita/bezdead/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 37/2023 privind alegerea președintelui de ședință pentru lunile mai, iunie și iulie 2023",
+"short": "HCL Bezdead nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/108177",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-38-2023",
+"path": "local/dambovita/bezdead/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 38/2023 privind concesionarea unui spațiu din incinta Dispensarului Uman din satul Bezdead, comuna Bezdead, județul Dâmbovița",
+"short": "HCL Bezdead nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-08",
+"latest": "2023-06-08",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/108178",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--bezdead-39-2023",
 "path": "local/dambovita/bezdead/2023/39",
 "kind": "local",
@@ -860,6 +993,28 @@
 "council_name": "Consiliul Local al Comunei Bezdead",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-46-2023",
+"path": "local/dambovita/bezdead/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 46/2023 privind concesionarea Dispensarului Uman din satul Bezdead, comuna Bezdead, județul Dâmbovița",
+"short": "HCL Bezdead nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-13",
+"latest": "2023-06-13",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/108701",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1039,6 +1194,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--bezdead-55-2023",
+"path": "local/dambovita/bezdead/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 55/2023 privind rectificarea bugetului local pe anul 2023",
+"short": "HCL Bezdead nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-07",
+"latest": "2023-08-07",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/115649",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--bezdead-56-2023",
 "path": "local/dambovita/bezdead/2023/56",
 "kind": "local",
@@ -1193,6 +1370,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--bezdead-63-2023",
+"path": "local/dambovita/bezdead/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 63/2023 privind scoaterea la licitație publică în vederea vânzării a terenului situat în sat Măgura, comuna Bezdead, județul Dâmbovița, aflat în domeniul privat al comunei Bezdead, județul Dâmbovița",
+"short": "HCL Bezdead nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-21",
+"latest": "2023-08-21",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/116582",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--bezdead-64-2023",
 "path": "local/dambovita/bezdead/2023/64",
 "kind": "local",
@@ -1212,6 +1411,50 @@
 "council_name": "Consiliul Local al Comunei Bezdead",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-65-2023",
+"path": "local/dambovita/bezdead/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 65/2023 privind aprobarea indemnizației administratorului și acordarea tichetelor de masă salariaților societății PRESTĂRI SERVICII PRIMAPREST COM BEZDEAD SRL",
+"short": "HCL Bezdead nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/116584",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-66-2023",
+"path": "local/dambovita/bezdead/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 66/2023 privind alegerea președintelui de ședință pentru lunile august, septembrie și octombrie 2023",
+"short": "HCL Bezdead nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/116585",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1256,6 +1499,28 @@
 "council_name": "Consiliul Local al Comunei Bezdead",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-69-2023",
+"path": "local/dambovita/bezdead/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 69/2023 privind vânzarea directă către populație a unei cantități de masă lemnoasă ce se va exploata din pădurea și pășunea împădurită a comunei Bezdead",
+"short": "HCL Bezdead nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-21",
+"latest": "2023-08-21",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/116588",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1436,6 +1701,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--bezdead-78-2023",
+"path": "local/dambovita/bezdead/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 78/2023 privind hotărâre privind închirierea imobilului cu destinația de Dispensar Uman, situat in satul Bezdead, nr. 849, comuna Bezdead, județul Dâmbovița",
+"short": "HCL Bezdead nr. 78/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-04",
+"latest": "2023-10-04",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/123606",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--bezdead-79-2023",
 "path": "local/dambovita/bezdead/2023/79",
 "kind": "local",
@@ -1521,6 +1808,74 @@
 "council_name": "Consiliul Local al Comunei Bezdead",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-83-2023",
+"path": "local/dambovita/bezdead/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 83/2023 privind modificarea Hotărârii Consiliului local al comunei Bezdead nr. 30 din 28.03.2019 privind stabilirea de măsuri pentru organizarea, coordonarea și sprijinirea activității echipei mobile la intervențiile de urgență în cazurile de violență domestică",
+"short": "HCL Bezdead nr. 83/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/125006",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-84-2023",
+"path": "local/dambovita/bezdead/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 84/2023",
+"short": "HCL Bezdead nr. 84/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/125007",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-85-2023",
+"path": "local/dambovita/bezdead/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 85/2023",
+"short": "HCL Bezdead nr. 85/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/125008",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

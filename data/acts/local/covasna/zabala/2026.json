@@ -136,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-covasna--zabala-7-2026",
+"path": "local/covasna/zabala/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 7/2026 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Zăbala, pentru perioada februarie - aprilie 2026",
+"short": "HCL Zăbala nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/252844",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--zabala-8-2026",
 "path": "local/covasna/zabala/2026/8",
 "kind": "local",
@@ -270,6 +292,50 @@
 }
 },
 {
+"slug": "hcl-covasna--zabala-14-2026",
+"path": "local/covasna/zabala/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 14/2026 Privind acordarea unui mandat special reprezentantului comunei Zăbala, județul Covasna în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară ”AQUACOV”",
+"short": "HCL Zăbala nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/265327",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-15-2026",
+"path": "local/covasna/zabala/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 15/2026 cu privire la acordarea unui mandat special reprezentantului Comunei Zăbala, județul Covasna, în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară ”AQUACOV” pentru aprobarea modificării și completării Statutului actualizat al Asociației de Dezvoltare Intercomunitară ”AQUACOV”",
+"short": "HCL Zăbala nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/265328",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--zabala-16-2026",
 "path": "local/covasna/zabala/2026/16",
 "kind": "local",
@@ -289,6 +355,28 @@
 "council_name": "Consiliul Local al Comunei Zăbala",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--zabala-17-2026",
+"path": "local/covasna/zabala/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 17/2026 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Zăbala, pentru ședința ordinară din data de 30 aprilie 2026 și pentru perioada mai - iulie 2026",
+"short": "HCL Zăbala nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/265330",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

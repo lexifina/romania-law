@@ -24,6 +24,51 @@
 "metadata_only": "individual",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-dambovita--moreni-67-2022",
+"path": "local/dambovita/moreni/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 67/2022",
+"short": "HCL Moreni nr. 67/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-19",
+"latest": "2022-04-19",
+"portal": null,
+"council": "dambovita/moreni",
+"council_name": "Consiliul Local al Municipiului Moreni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--moreni-178-2022",
+"path": "local/dambovita/moreni/2022/178",
+"kind": "local",
+"year": "2022",
+"number": "178",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 178/2022 privind modificarea și completarea Hotararii Consiliului Local nr. 115/30.09.2019 pentru aprobarea proiectului “ÎMBUNĂTĂȚIREA CALITĂȚII VIEȚII POPULAȚIEI ÎN MUNICIPIUL MORENI, JUDEȚUL DÂMBOVIȚA“ și a bugetului aferent, cu modificările și completările ulterioare Analizând temeiurile juridice, respectiv: a) art.129 alin.(2) lit”b” și alin(4) lit”e” din Ordonanță de Urgență nr.57/2019 privind Codul a",
+"short": "HCL Moreni nr. 178/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-02",
+"latest": "2022-11-02",
+"portal": "https://primariamoreni.ro/wp-content/uploads/2023/05/HCL-nr-178_2022.pdf",
+"council": "dambovita/moreni",
+"council_name": "Consiliul Local al Municipiului Moreni",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

@@ -1,0 +1,55 @@
+**Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.**
+
+# Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.136/2021 pentru modificarea anexei nr.6 la Ordonanța de urgență a Guvernului nr.196/2005 privind Fondul pentru mediu
+
+**Became:** [Legea nr. 307/2023](../../../../lege/2023/307/) (`legea-307-2023`): that act is the law, from its own in-force day; read it with `python tools/on.py <day> legea-307-2023`.
+
+Proiect de lege L3/2022 · initiator: Guvernul României · 9 published stages, 2021-12-28 to 2023-11-03 · <https://www.senat.ro/legis/lista.aspx?nr_cls=L3&an_cls=2022>
+
+- Senate number: L3/2022
+- Type: Proiect de lege
+- Character: Ordinară
+- Urgent procedure: Da
+- First chamber: Senat
+- Legislative Council opinion: 1039/28.12.2021
+- Stage in the bill file: A devenit Legea nr.307/02.11.2023 publicatã în M.O. nr.1001/03.11.2023
+
+## Stages
+
+Each stage is one commit (`Kind: draft`, no `In-force:` trailer), dated on the day it was published. Tag `proiect-parlament-2022-l3-2022/<day>` is the draft as it stood after that stage.
+
+| Day | Stage |
+| --- | --- |
+| 2021-12-28 | registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document |
+| 2022-02-09 | documents published: Raport comisie sesizată pe fond |
+| 2022-02-14 | adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților |
+| 2022-02-21 | registered at the Chamber of Deputies |
+| 2023-10-11 | adopted by the Chamber of Deputies |
+| 2023-10-16 | documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare |
+| 2023-10-18 | sent for promulgation |
+| 2023-11-02 | promulgated, becomes Legea nr. 307/2023; documents published: Decret de promulgare, Forma promulgată |
+| 2023-11-03 | published in the Monitorul Oficial |
+
+## Files
+
+| File | What |
+| --- | --- |
+| [ad-4d07c707.md](ad-4d07c707.md) | Adresă de înaintare a inițiativei (AD), as published |
+| [am-2480c491.md](am-2480c491.md) | Adresă către Camera Deputaților (AM), as published |
+| [cr-648aa8bd.md](cr-648aa8bd.md) | Raport comisie sesizată pe fond (CR), as published |
+| [em-ba2cd01c.md](em-ba2cd01c.md) | Expunere de motive (EM), as published |
+| [fg-b2d8a027.md](fg-b2d8a027.md) | Forma inițiatorului (FG), as published |
+| [fs-1212bf8f.md](fs-1212bf8f.md) | Forma adoptată de Senat (FS), as published |
+| [hg-2e9be322.md](hg-2e9be322.md) | Document (HG), as published |
+| [lg-e6042db8.md](lg-e6042db8.md) | Aviz Consiliul Legislativ (LG), as published |
+| [og-f6f21842.md](og-f6f21842.md) | Document (OG), as published |
+| [procedura.md](procedura.md) | Procedura: stages and documents so far |
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Draft id: `proiect-parlament-2022-l3-2022`. `tools/on.py` never returns a draft: it reads only commits with an `In-force:` trailer.
+
+## Decisions made by hand
+
+- Proiect de lege L3/2022: added by Lexifina's drafts source lane from the official bill file of the Senate (senat.ro). A draft is not law: its commits carry Kind: draft and no In-force trailer, dated on the day each stage was published, and credited to the initiator.
+- Proiect de lege L3/2022: comments by private persons are not collected or published; initiators are credited as a body.

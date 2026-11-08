@@ -3,6 +3,306 @@
  "shard": "local/covasna/valea-mare/2024",
  "acts": [
   {
+   "slug": "hcl-covasna--valea-mare-1-2024",
+   "path": "local/covasna/valea-mare/2024/1",
+   "short": "HCL Valea Mare nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 1/2024 privind aprobarea execuției bugetului general de venituri și cheltuieli, pe trimestrul IV, al anului 2023, al comunei Valea Mare, județul Covasna",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/139841",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/139841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-10-2024",
+   "path": "local/covasna/valea-mare/2024/10",
+   "short": "HCL Valea Mare nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 10/2024 privind rectificarea bugetului comunei Valea Mare, pentru anul 2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/151481",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/151481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-11-2024",
+   "path": "local/covasna/valea-mare/2024/11",
+   "short": "HCL Valea Mare nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 11/2024 privind aprobarea caietului de sarcini, formularele aferente si modelul de contract, în vederea acordării suportului alimentar preșcolarilor și elevilor în cadrul programului național MASĂ SĂNĂTOASĂ",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/151482",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/151482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-12-2024",
+   "path": "local/covasna/valea-mare/2024/12",
+   "short": "HCL Valea Mare nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 12/2024 Proiect de hotărâre privind modificarea Hotărârii nr. 28/30.10.2020, privind organizarea Comisiilor de specialitate din cadrul Consiliului local al comunei Valea Mare, județul Covasna",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/154598",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/154598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-13-2024",
+   "path": "local/covasna/valea-mare/2024/13",
+   "short": "HCL Valea Mare nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 13/2024 privind desemnarea reprezentantului Consiliului local Valea Mare în Consiliul de Administrație al unității de învățământ din comuna Valea Mare, în anul 2023-2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/154599",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/154599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-14-2024",
+   "path": "local/covasna/valea-mare/2024/14",
+   "short": "HCL Valea Mare nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 14/2024 privind rectificarea bugetului comunei Valea Mare, pentru anul 2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/154600",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/154600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-15-2024",
+   "path": "local/covasna/valea-mare/2024/15",
+   "short": "HCL Valea Mare nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 15/2024 privind indexarea cu rata inflației a impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul fiscal 2025",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/154601",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/154601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-16-2024",
+   "path": "local/covasna/valea-mare/2024/16",
+   "short": "HCL Valea Mare nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 16/2024 privind aprobarea sprijinului financiar pentru unitățile de cult aparținând cultelor religioase recunoscute în România",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/154602",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/154602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-17-2024",
+   "path": "local/covasna/valea-mare/2024/17",
+   "short": "HCL Valea Mare nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 17/2024 privind aprobarea execuției bugetului general de venituri și cheltuieli, pe trimestrul IV, al anului 2023, al comunei Valea Mare, județul Covasna",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/162262",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/162262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-18-2024",
+   "path": "local/covasna/valea-mare/2024/18",
+   "short": "HCL Valea Mare nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 18/2024 privind aprobarea sprijinului financiar pentru unitățile de cult aparținând cultelor religioase recunoscute în România",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/162263",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/162263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-19-2024",
+   "path": "local/covasna/valea-mare/2024/19",
+   "short": "HCL Valea Mare nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 19/2024 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Valea Mare, județul Covasna, începând cu luna iunie 2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/162264",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/162264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-2-2024",
+   "path": "local/covasna/valea-mare/2024/2",
+   "short": "HCL Valea Mare nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 2/2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/139842",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/139842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-20-2024",
+   "path": "local/covasna/valea-mare/2024/20",
+   "short": "HCL Valea Mare nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 20/2024 privind alegerea președintelui de ședința pentru perioada iulie – septembrie 2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/162273",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/162273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-21-2024",
+   "path": "local/covasna/valea-mare/2024/21",
+   "short": "HCL Valea Mare nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 21/2024 privind aprobarea executării de lucrări la obiectivul de investiție ”REABILITARE MODERNIZARE ȘI DOTARE SCOALA GIMNAZIALA ”MIHAI EMINESCU” DIN COMUNA VALEA MARE, JUDEȚUL COVASNA”",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/162274",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/162274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-22-2024",
+   "path": "local/covasna/valea-mare/2024/22",
+   "short": "HCL Valea Mare nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 22/2024 privind rectificarea bugetului comunei Valea Mare, pentru anul 2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/162275",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/162275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-23-2024",
+   "path": "local/covasna/valea-mare/2024/23",
+   "short": "HCL Valea Mare nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 23/2024 proiect de hotărâre privind aprobarea organizării și desfășurării manifestării ”FESTIVALUL VĂLENILOR”, ediția 2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/168170",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/168170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-24-2024",
+   "path": "local/covasna/valea-mare/2024/24",
+   "short": "HCL Valea Mare nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 24/2024 privind actualizarea devizului general si a indicatorilor tehnico-economici după finalizarea procedurilor de achiziție publică pentru obiectivul de investiții „Înființarea sistemului de alimentare cu apa în comuna Valea Mare”, finanțat prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/168167",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/168167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-25-2024",
+   "path": "local/covasna/valea-mare/2024/25",
+   "short": "HCL Valea Mare nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 25/2024 privind actualizarea devizului general si a indicatorilor tehnico-economici după finalizarea procedurilor de achiziție publică pentru obiectivul de investiții „Înființarea sistemului de canalizare în Comuna Valea Mare”, finanțat prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/168169",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/168169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-26-2024",
+   "path": "local/covasna/valea-mare/2024/26",
+   "short": "HCL Valea Mare nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 26/2024 privind exprimarea acordului în vederea scoaterii temporare din circuitul agricol a suprafeței de 8.000 mp pășune, teren extravilan, aparținând domeniului privat al comunei Valea Mare, identificat în CF nr. 23445, Valea Mare, nr. cadastral 23445, în suprafață totala de 504.018 mp, în vederea construirii Parc Fotovoltaic STURICOV- RO Valea Mare",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/168168",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/168168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-27-2024",
+   "path": "local/covasna/valea-mare/2024/27",
+   "short": "HCL Valea Mare nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 27/2024 privind înființarea și delegarea gestiunii prin concesiune a Serviciului de gestionare a câinilor fără stăpân din comuna Valea Mare, județul Covasna",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/170938",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/170938",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--valea-mare-28-2024",
    "path": "local/covasna/valea-mare/2024/28",
    "short": "HCL Valea Mare nr. 28/2024",
@@ -28,6 +328,21 @@
      "from": "2024-09-24",
      "units": 1,
      "source_url": "https://emol.ro/valeamare-cv/registru-hcl/170940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-3-2024",
+   "path": "local/covasna/valea-mare/2024/3",
+   "short": "HCL Valea Mare nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 3/2024 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, pe semestru II, al anului 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/139843",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/139843",
      "sha256": null
     }
    ]
@@ -313,6 +628,81 @@
      "from": "2024-12-30",
      "units": 1,
      "source_url": "https://emol.ro/valeamare-cv/registru-hcl/185160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-5-2024",
+   "path": "local/covasna/valea-mare/2024/5",
+   "short": "HCL Valea Mare nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 5/2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/147648",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/147648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-6-2024",
+   "path": "local/covasna/valea-mare/2024/6",
+   "short": "HCL Valea Mare nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 6/2024 privind privind aprobarea Organigramei și a Statului nominal de funcții, pentru aparatul de specialitate al primarului comunei Valea Mare, județul Covasna",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/147649",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/147649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-7-2024",
+   "path": "local/covasna/valea-mare/2024/7",
+   "short": "HCL Valea Mare nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 7/2024 privind stabilirea salariilor de bază pentru funcțiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Valea Mare, județul Covasna, începând cu luna februarie 2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/147650",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/147650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-8-2024",
+   "path": "local/covasna/valea-mare/2024/8",
+   "short": "HCL Valea Mare nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 8/2024 privind aprobarea programului de acțiune comunitară destinată prevenirii și combaterii riscului de sărăcie și excluziune socială",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/147651",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/147651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-9-2024",
+   "path": "local/covasna/valea-mare/2024/9",
+   "short": "HCL Valea Mare nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 9/2024 privind alegerea președintelui de ședință pentru perioada APRILIE-IUNIE 2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/151480",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/151480",
      "sha256": null
     }
    ]

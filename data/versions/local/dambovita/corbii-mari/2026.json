@@ -3,6 +3,591 @@
  "shard": "local/dambovita/corbii-mari/2026",
  "acts": [
   {
+   "slug": "hcl-dambovita--corbii-mari-1-2026",
+   "path": "local/dambovita/corbii-mari/2026/1",
+   "short": "HCL Corbii Mari nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 1/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-1-din-13.01.2026.pdf",
+     "sha256": "02f27f9a8e648370f274c42eff18e4afbbc2e615b57850d54f402a2a1ca05725"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-10-2026",
+   "path": "local/dambovita/corbii-mari/2026/10",
+   "short": "HCL Corbii Mari nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 10/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-10-din-25.02.2026.pdf",
+     "sha256": "d6e62c3ef3cbd6d1192320aea01484022280f2fce2918c5c43382cc180fdd718"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-11-2026",
+   "path": "local/dambovita/corbii-mari/2026/11",
+   "short": "HCL Corbii Mari nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 11/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-11-din-25.02.2026.pdf",
+     "sha256": "b3ae370635acd474f7564635ef253bc0e49783771eaa31fc30e5d2c129498f8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-12-2026",
+   "path": "local/dambovita/corbii-mari/2026/12",
+   "short": "HCL Corbii Mari nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 12/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-12-din-25.02.2026.pdf",
+     "sha256": "854aaef95804b1203e7d2c3b658b0db1b911c878cb0cddb27f3d3190955e7326"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-13-2026",
+   "path": "local/dambovita/corbii-mari/2026/13",
+   "short": "HCL Corbii Mari nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 13/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-13-din-25.02.2026.pdf",
+     "sha256": "d555f0cafa59690f5d71d35bf120229ea81e5e7a1bfa58c3f215df5170c6616c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-14-2026",
+   "path": "local/dambovita/corbii-mari/2026/14",
+   "short": "HCL Corbii Mari nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 14/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-14-din-19.03.2026.pdf",
+     "sha256": "2b43db9b799e50f773a32807344620777b5e106a21b4823dd3f38970fe022ad8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-15-2026",
+   "path": "local/dambovita/corbii-mari/2026/15",
+   "short": "HCL Corbii Mari nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 15/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-15-din-19.03.2026.pdf",
+     "sha256": "5678ac2b4fba34dcfe1623e773bf33d1afa2df0fe672bc63146ddfdbd85c7952"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-16-2026",
+   "path": "local/dambovita/corbii-mari/2026/16",
+   "short": "HCL Corbii Mari nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 16/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-16-din-19.03.2026.pdf",
+     "sha256": "9f978e988a2377841f49bbed1bdec76a8b53f566e95d0309c3220fd8684dd52f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-17-2026",
+   "path": "local/dambovita/corbii-mari/2026/17",
+   "short": "HCL Corbii Mari nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 17/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-17-din-26.03.2026.pdf",
+     "sha256": "47570c29ae529d3035af20b19e8d31e764f4ef266b34ad89391d9e3d5770659e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-18-2026",
+   "path": "local/dambovita/corbii-mari/2026/18",
+   "short": "HCL Corbii Mari nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 18/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-18-din-14.04.2026.pdf",
+     "sha256": "edbf3105521f159b991e34e68114133cf6c39fe06a65a9296221b1a26da5a6f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-19-2026",
+   "path": "local/dambovita/corbii-mari/2026/19",
+   "short": "HCL Corbii Mari nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 19/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-19-din-14.04.2026.pdf",
+     "sha256": "41f24e661b11b7ec80e1b8b3775c734af163eede1db006058627f80055b84b8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-2-2026",
+   "path": "local/dambovita/corbii-mari/2026/2",
+   "short": "HCL Corbii Mari nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 2/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-2-din-28.01.2026.pdf",
+     "sha256": "f39b7cec75db9c679fd4e6a97aff39060a18444c7be8d50e55632d103b6e6d8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-20-2026",
+   "path": "local/dambovita/corbii-mari/2026/20",
+   "short": "HCL Corbii Mari nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 20/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-20-din-14.04.2026.pdf",
+     "sha256": "169a39f3b705cbb49dc8d72ecd6fede9fadbd1bcba9b936265628e9ce2b8753e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-21-2026",
+   "path": "local/dambovita/corbii-mari/2026/21",
+   "short": "HCL Corbii Mari nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 21/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-21-din-28.04.2026.pdf",
+     "sha256": "71f8887cc4d5b3daf515d6dcdc5201d30c25f65034ea3cfc13113ea561a924b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-22-2026",
+   "path": "local/dambovita/corbii-mari/2026/22",
+   "short": "HCL Corbii Mari nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 22/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-22-din-28.04.2026.pdf",
+     "sha256": "32fb9316571b0ed5983fad12ac7f7a3d241d6b514be61f4e8ad10efee55812ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-23-2026",
+   "path": "local/dambovita/corbii-mari/2026/23",
+   "short": "HCL Corbii Mari nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 23/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-23-din-28.04.2026.pdf",
+     "sha256": "6e8ed3de2e369fb04eb5935e53e18e2e5247f1889b2d9ea45708975bcf728690"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-24-2026",
+   "path": "local/dambovita/corbii-mari/2026/24",
+   "short": "HCL Corbii Mari nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 24/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-24-din-28.04.2026.pdf",
+     "sha256": "6794b2d99db060384234198dcdc1b740d5079ab08c840691c9c6848e3316c264"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-25-2026",
+   "path": "local/dambovita/corbii-mari/2026/25",
+   "short": "HCL Corbii Mari nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 25/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-25-din-28.04.2026.pdf",
+     "sha256": "eec4b8869ddc273676a55c87060dfa8bb0fbef8026e4bf30788843d8c2e3894c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-26-2026",
+   "path": "local/dambovita/corbii-mari/2026/26",
+   "short": "HCL Corbii Mari nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 26/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-26-din-28.04.2026.pdf",
+     "sha256": "5f89a1095d1a4b60f525a4ecfbb0ab55624200e26f1b3611d4a61e2a42833659"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-28-2026",
+   "path": "local/dambovita/corbii-mari/2026/28",
+   "short": "HCL Corbii Mari nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 28/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-28-din-11.05.2026.pdf",
+     "sha256": "316d625eb8d7e8fa422d5956306afffc815d93fd3692ff61ded8b980975f7ebc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-29-2026",
+   "path": "local/dambovita/corbii-mari/2026/29",
+   "short": "HCL Corbii Mari nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 29/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-29-din-11.05.2026.pdf",
+     "sha256": "46a79cd8d7c438e9cda4d19422890c8ff5b4950d1b1a1ab16270050f14015400"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-3-2026",
+   "path": "local/dambovita/corbii-mari/2026/3",
+   "short": "HCL Corbii Mari nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 3/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-3-din-28.01.2026.pdf",
+     "sha256": "274c94ab60ef4fae97178d4be468a34cbe2201941485f96e1cc62ad32759dcc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-30-2026",
+   "path": "local/dambovita/corbii-mari/2026/30",
+   "short": "HCL Corbii Mari nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 30/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-30-din-26.05.2026.pdf",
+     "sha256": "a43bef3f11e6848f674ea572c7d5b488fd9ebde7577fa56e11fa9098b160edee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-31-2026",
+   "path": "local/dambovita/corbii-mari/2026/31",
+   "short": "HCL Corbii Mari nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 31/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-31-din-26.05.2026.pdf",
+     "sha256": "42043640fd3cdcf49c4e330ca8e0766335778a558162785caa836fbde7006777"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-32-2026",
+   "path": "local/dambovita/corbii-mari/2026/32",
+   "short": "HCL Corbii Mari nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 32/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-32-din-02.06.2026.pdf",
+     "sha256": "f5989c109efbf54eee54433bae8e52e4139adb95ae67dd3d542eccdd28b881c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-33-2026",
+   "path": "local/dambovita/corbii-mari/2026/33",
+   "short": "HCL Corbii Mari nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 33/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-33-din-30.06.2026.pdf",
+     "sha256": "8510798aaa9bfb0ffd40e48fb444c2e81dbe2dfb57bf254dc1810ec47d3eb0b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-34-2026",
+   "path": "local/dambovita/corbii-mari/2026/34",
+   "short": "HCL Corbii Mari nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 34/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-34-din-30.06.2026.pdf",
+     "sha256": "1ece81dee449d2d19f366c598ee47550082286a32fd63ca766eca9b7c6f89c36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-35-2026",
+   "path": "local/dambovita/corbii-mari/2026/35",
+   "short": "HCL Corbii Mari nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 35/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-35-din-30.06.2026.pdf",
+     "sha256": "8c92f03797afe30595b74e747e5a192a7656a30a8abe639e170cf49493dbedbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-36-2026",
+   "path": "local/dambovita/corbii-mari/2026/36",
+   "short": "HCL Corbii Mari nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 36/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-36-din-30.06.2026.pdf",
+     "sha256": "6c08e629dd88e21aa121fbf304c526107c1aa9f982d69c19042097181119608a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-37-2026",
+   "path": "local/dambovita/corbii-mari/2026/37",
+   "short": "HCL Corbii Mari nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 37/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-37-din-30.06.2026.pdf",
+     "sha256": "2566aab0b54ec79a0bd503da2c1aa4ffa0941138603affa747040b2398b39fc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-38-2026",
+   "path": "local/dambovita/corbii-mari/2026/38",
+   "short": "HCL Corbii Mari nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 38/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-38-din-30.06.2026.pdf",
+     "sha256": "8f563408079223d8d49c3ba7af4d75f984d747e6d7382707cd9694b508290162"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-39-2026",
+   "path": "local/dambovita/corbii-mari/2026/39",
+   "short": "HCL Corbii Mari nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 39/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-39-din-30.06.2026.pdf",
+     "sha256": "05d01b23da298d9ac5f78bebc7358180a0430237c40289c910f37f8282ea4f90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-4-2026",
+   "path": "local/dambovita/corbii-mari/2026/4",
+   "short": "HCL Corbii Mari nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 4/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-4-din-28.01.2026.pdf",
+     "sha256": "0561d0ff00cf1003fac7aa6d3b5bcfb4450c76ad2680db030e8d1b26e01fb3eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-40-2026",
+   "path": "local/dambovita/corbii-mari/2026/40",
+   "short": "HCL Corbii Mari nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 40/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-40-din-30.06.2026.pdf",
+     "sha256": "c81dccd56b5fb666d7d551552d810fc2edaa133f91b5173dfd69a6d64570b3eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-41-2026",
+   "path": "local/dambovita/corbii-mari/2026/41",
+   "short": "HCL Corbii Mari nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 41/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-41-din-30.06.2026.pdf",
+     "sha256": "f98d8aa10c13d1af084c265890c92eebfe7c7186830526e6ebec8232ebc5dff7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-42-2026",
+   "path": "local/dambovita/corbii-mari/2026/42",
+   "short": "HCL Corbii Mari nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 42/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-42-din-30.06.2026.pdf",
+     "sha256": "6a960ce583ce5833d7155cbe47b0431c61037e195d3d82c194582fb1be223740"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-43-2026",
+   "path": "local/dambovita/corbii-mari/2026/43",
+   "short": "HCL Corbii Mari nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 43/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-43-din-30.06.2026.pdf",
+     "sha256": "70be00a48649c0f98dccab7293e234bbd2e3baa1dfce81b4ce546fdca46e6b8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-44-2026",
+   "path": "local/dambovita/corbii-mari/2026/44",
+   "short": "HCL Corbii Mari nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 44/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-44-din-30.06.2026.pdf",
+     "sha256": "e0f5b8970fa9a450da395a0977e4311fd1c92b1a27df1a5835a6ee0860f97af1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-45-2026",
+   "path": "local/dambovita/corbii-mari/2026/45",
+   "short": "HCL Corbii Mari nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 45/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-45-din-10.07.2026.pdf",
+     "sha256": "c7f66160baf22e3433362c03db6c377308e8521e816167eef1c65f31c5c0d6f6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--corbii-mari-46-2026",
    "path": "local/dambovita/corbii-mari/2026/46",
    "short": "HCL Corbii Mari nr. 46/2026",
@@ -59,6 +644,21 @@
      "units": 1,
      "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-49-din-30.06.2026.pdf",
      "sha256": "5e4600dee4c52771ebc817184eb4855368d91a076f51dd4c6108c7644ada366b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-5-2026",
+   "path": "local/dambovita/corbii-mari/2026/5",
+   "short": "HCL Corbii Mari nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 5/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-5-din-28.01.2026.pdf",
+     "sha256": "cb2077ccc4b5cf7af006376ba59bac805ab2c57fbb6675907bdba63a96198d09"
     }
    ]
   },
@@ -198,6 +798,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--corbii-mari-6-2026",
+   "path": "local/dambovita/corbii-mari/2026/6",
+   "short": "HCL Corbii Mari nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 6/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-6-din-28.01.2026.pdf",
+     "sha256": "5de2c9bc741da62d399254739578ec3afea2679d34d4c57e2a12c07ca670cfde"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--corbii-mari-60-2026",
    "path": "local/dambovita/corbii-mari/2026/60",
    "short": "HCL Corbii Mari nr. 60/2026",
@@ -209,6 +824,36 @@
      "units": 1,
      "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-60-din-07.09.2026.pdf",
      "sha256": "2528443125e903b8d3845bf4a162b5d78f0a5e247f0b7acfdd2bb9f9bd516445"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-8-2026",
+   "path": "local/dambovita/corbii-mari/2026/8",
+   "short": "HCL Corbii Mari nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 8/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-8-din-05.02.2026.pdf",
+     "sha256": "902e137c7f275613294b9ef2b0881ea736d7927c26bec2f7bbe810d4d9102b07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--corbii-mari-9-2026",
+   "path": "local/dambovita/corbii-mari/2026/9",
+   "short": "HCL Corbii Mari nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 9/2026",
+   "url": "https://primaria-corbiimari.ro/documente/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/09/Hotararea-9-din-25.02.2026.pdf",
+     "sha256": "567cff82b55c9344451b45d055c41b0b1c2de202799780c20c88709e65d2f987"
     }
    ]
   }

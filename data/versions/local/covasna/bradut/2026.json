@@ -31,6 +31,81 @@
      "sha256": "2c2fb7fdba4dc2736fc86ebb818cfea503495c25e92a2b18f41aa97931eafe45"
     }
    ]
+  },
+  {
+   "slug": "hcl-covasna--bradut-27-2026",
+   "path": "local/covasna/bradut/2026/27",
+   "short": "HCL Brăduț nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăduț nr. 27/2026",
+   "url": "https://www.comunabradut.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.comunabradut.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202026/HCL%20nr.27%20din%2025%20septembrie%202026.pdf",
+     "sha256": "6f461c29fb0922b0d853f4ce7bb42109a766c94dae3b1204e6c35f7397801e1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--bradut-28-2026",
+   "path": "local/covasna/bradut/2026/28",
+   "short": "HCL Brăduț nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăduț nr. 28/2026",
+   "url": "https://www.comunabradut.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.comunabradut.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202026/HCL%20nr.28%20din%2025%20septembrie%202026.pdf",
+     "sha256": "ade176b5599404ced9bc635cdbb97057adadbb07295bc6b91d11c786df5ca7c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--bradut-29-2026",
+   "path": "local/covasna/bradut/2026/29",
+   "short": "HCL Brăduț nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăduț nr. 29/2026",
+   "url": "https://www.comunabradut.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.comunabradut.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202026/HCL%20nr.29%20din%2025%20septembrie%202026.pdf",
+     "sha256": "cff86103747f299734237727f63c594d5124f8c19109a80fad22c54e92c43e89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--bradut-30-2026",
+   "path": "local/covasna/bradut/2026/30",
+   "short": "HCL Brăduț nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăduț nr. 30/2026",
+   "url": "https://www.comunabradut.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.comunabradut.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202026/HCL%20nr.30%20din%2025%20septembrie%202026.pdf",
+     "sha256": "12f0a4b89dd3a1eeb68404de8def2e8c452a83b375d4edefaa75e767ff86b661"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--bradut-31-2026",
+   "path": "local/covasna/bradut/2026/31",
+   "short": "HCL Brăduț nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăduț nr. 31/2026",
+   "url": "https://www.comunabradut.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.comunabradut.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202026/HCL%20nr.31%20din%2025%20septembrie%202026.pdf",
+     "sha256": "52f348ead69a4c359429582d0e868905f8004515b2fff58505a6154ae4a07b3f"
+    }
+   ]
   }
  ]
 }

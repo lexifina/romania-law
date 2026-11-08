@@ -1,0 +1,636 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/motaieni/2026",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--motaieni-1-2026",
+   "path": "local/dambovita/motaieni/2026/1",
+   "short": "HCL Moțăieni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 1/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.1-din-12.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.1-din-12.01.2026.pdf",
+     "sha256": "ae2e719fe85a55a73a825c53fe36513029f7631681dbd7fe5816118d9566718e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-10-2026",
+   "path": "local/dambovita/motaieni/2026/10",
+   "short": "HCL Moțăieni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 10/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.10-din-27.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.10-din-27.02.2026.pdf",
+     "sha256": "ea7d2d6f7d9f844e714bfbb82daeb6761d937677c55b51d985f838bbf6aeca6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-11-2026",
+   "path": "local/dambovita/motaieni/2026/11",
+   "short": "HCL Moțăieni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 11/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.11-din-27.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.11-din-27.02.2026.pdf",
+     "sha256": "93752bf974ae04bca01b5967eb3c0e3dd99adb80b78b22c506dffa107c66501a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-12-2026",
+   "path": "local/dambovita/motaieni/2026/12",
+   "short": "HCL Moțăieni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 12/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.12-din-27.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.12-din-27.02.2026.pdf",
+     "sha256": "5b3d63cc085aef8502cd5bbc0b68cd9c6335d57cf2656ec3aa05abc23f7e3407"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-13-2026",
+   "path": "local/dambovita/motaieni/2026/13",
+   "short": "HCL Moțăieni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 13/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.13-din-09.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.13-din-09.03.2026.pdf",
+     "sha256": "7fdf6a0714c9be5bb1d6d2cd9054ea3ecaa05db5f2f8d5224cecca642f568dc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-14-2026",
+   "path": "local/dambovita/motaieni/2026/14",
+   "short": "HCL Moțăieni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 14/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.14-din-09.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.14-din-09.03.2026.pdf",
+     "sha256": "7de01973156a36516115d5b8ae28bde8b9f2d43488bbcd2dd97b909c495e452d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-15-2026",
+   "path": "local/dambovita/motaieni/2026/15",
+   "short": "HCL Moțăieni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 15/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.15-din-30.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.15-din-30.03.2026.pdf",
+     "sha256": "517101f34026ad08fa6b3039b0d362adf2f332ab6f8bd7c9c464aa3051694bbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-16-2026",
+   "path": "local/dambovita/motaieni/2026/16",
+   "short": "HCL Moțăieni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 16/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.16-din-30.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.16-din-30.03.2026.pdf",
+     "sha256": "2c3d3f8210704584edbca07617b000a66beff5e29e5191789121cccf08895d1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-17-2026",
+   "path": "local/dambovita/motaieni/2026/17",
+   "short": "HCL Moțăieni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 17/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.17-din-30.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.17-din-30.03.2026.pdf",
+     "sha256": "662b88ceacd22a848dde3e9d12c75fa7e76c12451a849b7aba717dcb7b13156f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-18-2026",
+   "path": "local/dambovita/motaieni/2026/18",
+   "short": "HCL Moțăieni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 18/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.18-din-14.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.18-din-14.04.2026.pdf",
+     "sha256": "8d61c3757e2b6c9d65babce2a192cac9a73aa7df22ccee269d6eb4df8bf2a123"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-19-2026",
+   "path": "local/dambovita/motaieni/2026/19",
+   "short": "HCL Moțăieni nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 19/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.19-din-29.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.19-din-29.04.2026.pdf",
+     "sha256": "8366eec79ad38caa14a473f7ea472a6355b1e5c32626d7edbe996f1da4be0e1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-2-2026",
+   "path": "local/dambovita/motaieni/2026/2",
+   "short": "HCL Moțăieni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 2/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.2-din-29.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.2-din-29.01.2026.pdf",
+     "sha256": "cc777b4ada8e73860617c0e09358c4784a2bb9d3d20e4aeb72bec00c9266bf6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-20-2026",
+   "path": "local/dambovita/motaieni/2026/20",
+   "short": "HCL Moțăieni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 20/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.20-din-29.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.20-din-29.04.2026.pdf",
+     "sha256": "cbb2d81acb1504acdd3666336fdd97bae5f1538774a67d5218ca6b243e65599e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-21-2026",
+   "path": "local/dambovita/motaieni/2026/21",
+   "short": "HCL Moțăieni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 21/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.21-din-08.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.21-din-08.05.2026.pdf",
+     "sha256": "ebc1047361764bdfdd882310387433c17055642590bbb3856241edde2cdcfde5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-22-2026",
+   "path": "local/dambovita/motaieni/2026/22",
+   "short": "HCL Moțăieni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 22/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.22-din-08.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.22-din-08.05.2026.pdf",
+     "sha256": "d6d0caf00d5f4f9e6659677c31eec2f4e5687049fe378cf04dd64ea4c67b6747"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-23-2026",
+   "path": "local/dambovita/motaieni/2026/23",
+   "short": "HCL Moțăieni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 23/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.23-din-08.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.23-din-08.05.2026.pdf",
+     "sha256": "575a392ddf15e59a25cb2ec32650fda152bdf617017e861ca29851c1d830f792"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-24-2026",
+   "path": "local/dambovita/motaieni/2026/24",
+   "short": "HCL Moțăieni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 24/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.24-din-27.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.24-din-27.05.2026.pdf",
+     "sha256": "b8691b89770bda658bceea2edc7422ab56fb5a6e4490a1f31634121963fd09e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-25-2026",
+   "path": "local/dambovita/motaieni/2026/25",
+   "short": "HCL Moțăieni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 25/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.25-din-27.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.25-din-27.05.2026.pdf",
+     "sha256": "b660f1afc882f3e419c0aae4dac842c5931d658b73a6f7654c55f08b87cded9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-26-2026",
+   "path": "local/dambovita/motaieni/2026/26",
+   "short": "HCL Moțăieni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 26/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.26-din-15.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.26-din-15.06.2026.pdf",
+     "sha256": "c522d7f45f1d9f73572552bbc0f9cf1aacc2eab416e617e341585b9740739e16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-27-2026",
+   "path": "local/dambovita/motaieni/2026/27",
+   "short": "HCL Moțăieni nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 27/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.27-din-15.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.27-din-15.06.2026.pdf",
+     "sha256": "7b4a418fbd9fd43c07584d1522f3be8eb03c2783adc7f5f2c860e6325fa5c82c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-28-2026",
+   "path": "local/dambovita/motaieni/2026/28",
+   "short": "HCL Moțăieni nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 28/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.28-din-15.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.28-din-15.06.2026.pdf",
+     "sha256": "0dae7d3624ec9b52a4902074c97ef331263a1173a362183c9f5543c12d172fc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-29-2026",
+   "path": "local/dambovita/motaieni/2026/29",
+   "short": "HCL Moțăieni nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 29/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.29-din-24.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.29-din-24.06.2026.pdf",
+     "sha256": "191fa33b0b21fd5820f977e14054e2d5d1b1eda3589cb92012291ba2a50a439b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-3-2026",
+   "path": "local/dambovita/motaieni/2026/3",
+   "short": "HCL Moțăieni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 3/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.3-din-29.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.3-din-29.01.2026.pdf",
+     "sha256": "a454f2458a678fb6f40bfce25fa5a659dda9e06d9436c9cfa56b40b3e8c3486a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-30-2026",
+   "path": "local/dambovita/motaieni/2026/30",
+   "short": "HCL Moțăieni nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 30/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.30-din-24.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.30-din-24.06.2026.pdf",
+     "sha256": "fde99c86f1aa42edaa4ea70601a269fb3675363ef6ab409775ddf3d819019b80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-31-2026",
+   "path": "local/dambovita/motaieni/2026/31",
+   "short": "HCL Moțăieni nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 31/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.31-din-24.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.31-din-24.06.2026.pdf",
+     "sha256": "8fb70872f186addfc5877ec27dfa7f610724549c890b8620dc3478fa1f6b4880"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-32-2026",
+   "path": "local/dambovita/motaieni/2026/32",
+   "short": "HCL Moțăieni nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 32/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.32-din-24.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.32-din-24.06.2026.pdf",
+     "sha256": "e915e34d3aa1fc4da85888da2662ed824de7ce5056fc0c3e5c2be823bb7adcca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-33-2026",
+   "path": "local/dambovita/motaieni/2026/33",
+   "short": "HCL Moțăieni nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 33/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.33-din-24.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.33-din-24.06.2026.pdf",
+     "sha256": "0ad3891ac4158cb95d81b784a70c487e85235abc0a7ac69f559e37296ec23beb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-34-2026",
+   "path": "local/dambovita/motaieni/2026/34",
+   "short": "HCL Moțăieni nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 34/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.34-din-29.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.34-din-29.06.2026.pdf",
+     "sha256": "71e54a5b488b4d4b5faad5b0a04d0b4afe056257a675c9bb298c792388681c00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-35-2026",
+   "path": "local/dambovita/motaieni/2026/35",
+   "short": "HCL Moțăieni nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 35/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.35-din-30.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.35-din-30.07.2026.pdf",
+     "sha256": "77be850c332d155867cdc52b089c001b2b0a7c0ba8491078264a9a30892306fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-36-2026",
+   "path": "local/dambovita/motaieni/2026/36",
+   "short": "HCL Moțăieni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 36/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.36-din-30.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.36-din-30.07.2026.pdf",
+     "sha256": "322275cf0e7c66e385b61fb3fa5e8a8235a57d2001ff7675f0c4cf5989f76c37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-37-2026",
+   "path": "local/dambovita/motaieni/2026/37",
+   "short": "HCL Moțăieni nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 37/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.37-din-30.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.37-din-30.07.2026.pdf",
+     "sha256": "6a7b98aa080db0baca2c012eda4ea7c15d2f9d7f60b4f5493beca17df9e37dc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-38-2026",
+   "path": "local/dambovita/motaieni/2026/38",
+   "short": "HCL Moțăieni nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 38/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.38-din-30.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.38-din-30.07.2026.pdf",
+     "sha256": "d421ee085a555e1b845b7fe3074ce92cbf6df85b96509e38dc47c7f2274c81a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-39-2026",
+   "path": "local/dambovita/motaieni/2026/39",
+   "short": "HCL Moțăieni nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 39/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.39-din-30.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.39-din-30.07.2026.pdf",
+     "sha256": "8465a7c800f2f5b8c7c6467dc679b22a084510f18f53e2013f9bb1f648ad9657"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-4-2026",
+   "path": "local/dambovita/motaieni/2026/4",
+   "short": "HCL Moțăieni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 4/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.4-din-29.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.4-din-29.01.2026.pdf",
+     "sha256": "8234204273c234bbfd2ca957cf13cdc7d89acd215078e6b1bb9f8293c7ba457d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-40-2026",
+   "path": "local/dambovita/motaieni/2026/40",
+   "short": "HCL Moțăieni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 40/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.40-din-30.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.40-din-30.07.2026.pdf",
+     "sha256": "635c94413abc449128bc57da562d0ea624c08b76a2f443c65f3c4888219a99e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-41-2026",
+   "path": "local/dambovita/motaieni/2026/41",
+   "short": "HCL Moțăieni nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 41/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.41-din-25.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.41-din-25.08.2026.pdf",
+     "sha256": "e675c8330f509b303482011278b4f245fc81f1b0ca0ddd8a0a9f50e128778f4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-42-2026",
+   "path": "local/dambovita/motaieni/2026/42",
+   "short": "HCL Moțăieni nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 42/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.42-din-25.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.42-din-25.08.2026.pdf",
+     "sha256": "cdb6fa417fcab59c1be7bc1e600dc905f12de3ca516e195f3401b410b0d30e4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-5-2026",
+   "path": "local/dambovita/motaieni/2026/5",
+   "short": "HCL Moțăieni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 5/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.5-din-29.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.5-din-29.01.2026.pdf",
+     "sha256": "970e08953be4ec624ad743a0f5e285d08416d71b27e548853c6b6109c43956ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-6-2026",
+   "path": "local/dambovita/motaieni/2026/6",
+   "short": "HCL Moțăieni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 6/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.6-din-29.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.6-din-29.01.2026.pdf",
+     "sha256": "f3d55a0065336f3840f9444726a6fd578f3939b73ff3a1534edaf512530c64b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-7-2026",
+   "path": "local/dambovita/motaieni/2026/7",
+   "short": "HCL Moțăieni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 7/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.7-din-29.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.7-din-29.01.2026.pdf",
+     "sha256": "6685061e018a27e317b952dabbc13ec33c065c73849ddba2edc0eff256c10947"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-8-2026",
+   "path": "local/dambovita/motaieni/2026/8",
+   "short": "HCL Moțăieni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 8/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.8-din-27.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.8-din-27.02.2026.pdf",
+     "sha256": "ef67a6c5e88072761fe70ec56da6454f930c95669d4de800ce9087da228b7859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-9-2026",
+   "path": "local/dambovita/motaieni/2026/9",
+   "short": "HCL Moțăieni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 9/2026",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.9-din-27.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2026/09/hcl-nr.9-din-27.02.2026.pdf",
+     "sha256": "d074a777ea46e56f6fcf7013f62d838f90e8aeed4c8d9a7cbd3913d705c65715"
+    }
+   ]
+  }
+ ]
+}

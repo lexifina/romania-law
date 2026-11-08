@@ -3,6 +3,51 @@
  "shard": "local/dambovita/bezdead/2021",
  "acts": [
   {
+   "slug": "hcl-dambovita--bezdead-1-2021",
+   "path": "local/dambovita/bezdead/2021/1",
+   "short": "HCL Bezdead nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 1/2021 privind nominalizarea a doi consilieri locali pentru a fi desemnați în comisia de evaluare a performanțelor profesionale individuale ale secretarului general al comunei pe anul 2020",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/26600",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/26600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-10-2021",
+   "path": "local/dambovita/bezdead/2021/10",
+   "short": "HCL Bezdead nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 10/2021 privind acordarea unui sprijin în natură persoanelor defavorizate de pe raza UAT Bezdead",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/26609",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/26609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-11-2021",
+   "path": "local/dambovita/bezdead/2021/11",
+   "short": "HCL Bezdead nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 11/2021",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/26610",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/26610",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--bezdead-12-2021",
    "path": "local/dambovita/bezdead/2021/12",
    "short": "HCL Bezdead nr. 12/2021",
@@ -123,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--bezdead-2-2021",
+   "path": "local/dambovita/bezdead/2021/2",
+   "short": "HCL Bezdead nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 2/2021 privind aprobarea cumpărării a unui imobil compus din construcție și teren în suprafață de 500 mp situat în intravilanul comunei Bezdead, sat Bezdead, având destinația de ,,Dispensar Uman”",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/26601",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/26601",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--bezdead-20-2021",
    "path": "local/dambovita/bezdead/2021/20",
    "short": "HCL Bezdead nr. 20/2021",
@@ -133,6 +193,21 @@
      "from": "2021-03-31",
      "units": 1,
      "source_url": "https://emol.ro/bezdead-db/registru-hcl/26766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-21-2021",
+   "path": "local/dambovita/bezdead/2021/21",
+   "short": "HCL Bezdead nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 21/2021",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/26767",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/26767",
      "sha256": null
     }
    ]
@@ -348,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--bezdead-35-2021",
+   "path": "local/dambovita/bezdead/2021/35",
+   "short": "HCL Bezdead nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 35/2021",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/26843",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/26843",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--bezdead-36-2021",
    "path": "local/dambovita/bezdead/2021/36",
    "short": "HCL Bezdead nr. 36/2021",
@@ -408,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--bezdead-4-2021",
+   "path": "local/dambovita/bezdead/2021/4",
+   "short": "HCL Bezdead nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 4/2021 privind vânzarea directă a cantității de 1473,1 m.c. masă lemnoasă către populație",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/26603",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/26603",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--bezdead-40-2021",
    "path": "local/dambovita/bezdead/2021/40",
    "short": "HCL Bezdead nr. 40/2021",
@@ -433,6 +538,21 @@
      "from": "2021-06-24",
      "units": 1,
      "source_url": "https://emol.ro/bezdead-db/registru-hcl/28652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-42-2021",
+   "path": "local/dambovita/bezdead/2021/42",
+   "short": "HCL Bezdead nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 42/2021 privind desemnarea unui consilier local în calitate de responsabil cu afacerile europene",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/28653",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/28653",
      "sha256": null
     }
    ]
@@ -468,6 +588,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--bezdead-45-2021",
+   "path": "local/dambovita/bezdead/2021/45",
+   "short": "HCL Bezdead nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 45/2021",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/32345",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/32345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-46-2021",
+   "path": "local/dambovita/bezdead/2021/46",
+   "short": "HCL Bezdead nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 46/2021 privind concesionarea Dispensarului Uman din satul Bezdead, comuna Bezdead, județul Dâmbovița",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/32346",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/32346",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--bezdead-47-2021",
    "path": "local/dambovita/bezdead/2021/47",
    "short": "HCL Bezdead nr. 47/2021",
@@ -478,6 +628,21 @@
      "from": "2021-07-28",
      "units": 1,
      "source_url": "https://emol.ro/bezdead-db/registru-hcl/32347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-48-2021",
+   "path": "local/dambovita/bezdead/2021/48",
+   "short": "HCL Bezdead nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 48/2021",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/32348",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/32348",
      "sha256": null
     }
    ]
@@ -573,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--bezdead-54-2021",
+   "path": "local/dambovita/bezdead/2021/54",
+   "short": "HCL Bezdead nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 54/2021 privind stabilirea salariilor la nivelul societății PRESTĂRI SERVICII PRIMAPREST COM BEZDEAD SRL",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/34986",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/34986",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--bezdead-55-2021",
    "path": "local/dambovita/bezdead/2021/55",
    "short": "HCL Bezdead nr. 55/2021",
@@ -603,6 +783,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--bezdead-57-2021",
+   "path": "local/dambovita/bezdead/2021/57",
+   "short": "HCL Bezdead nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 57/2021",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/38235",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/38235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-58-2021",
+   "path": "local/dambovita/bezdead/2021/58",
+   "short": "HCL Bezdead nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 58/2021",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/38236",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/38236",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--bezdead-59-2021",
    "path": "local/dambovita/bezdead/2021/59",
    "short": "HCL Bezdead nr. 59/2021",
@@ -613,6 +823,21 @@
      "from": "2021-09-29",
      "units": 1,
      "source_url": "https://emol.ro/bezdead-db/registru-hcl/38237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-6-2021",
+   "path": "local/dambovita/bezdead/2021/6",
+   "short": "HCL Bezdead nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 6/2021 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav și de indemnizații pentru anul 2021 și aprobarea obligației asistenților personali de a prezenta lunar raport de activitate",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/26605",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/26605",
      "sha256": null
     }
    ]
@@ -718,6 +943,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/bezdead-db/registru-hcl/40723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-67-2021",
+   "path": "local/dambovita/bezdead/2021/67",
+   "short": "HCL Bezdead nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 67/2021",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/40724",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/40724",
      "sha256": null
     }
    ]
@@ -1063,6 +1303,21 @@
      "from": "2021-12-22",
      "units": 1,
      "source_url": "https://emol.ro/bezdead-db/registru-hcl/46001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--bezdead-9-2021",
+   "path": "local/dambovita/bezdead/2021/9",
+   "short": "HCL Bezdead nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 9/2021 privind aprobarea Contractului de servicii juridice de consultanță, de asistență și de reprezentare",
+   "url": "https://emol.ro/bezdead-db/registru-hcl/26608",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bezdead-db/registru-hcl/26608",
      "sha256": null
     }
    ]

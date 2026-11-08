@@ -3,6 +3,28 @@
 "shard": "local/dambovita/doicesti/2025",
 "acts": [
 {
+"slug": "hcl-dambovita--doicesti-1-2025",
+"path": "local/dambovita/doicesti/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 1/2025 privind alegerea președintelui de ședință CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA Avand in vedere: - Incheierea Judecatoriei Targoviste nr.3982/21.10.2020 cu privire la validarea mandatelor a 11 consilieri locali alesi in urma desfasurarii alegerilor locale din 27 septembrie 2020; - Incheierea Judecatoriei Targoviste nr.4178/04.11.2020 cu privire la validarea 1 mandat de supleant pe",
+"short": "HCL Doicești nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/03/HCL-NR.-1-DIN-31.01.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--doicesti-2-2025",
 "path": "local/dambovita/doicesti/2025/2",
 "kind": "local",
@@ -44,6 +66,117 @@
 "council_name": "Consiliul Local al Comunei Doicești",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-4-2025",
+"path": "local/dambovita/doicesti/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 4/2025 privind actualizarea chiriei si a redevenței cu rata inflației pentru contractele aflate în derulare ce au ca obiect închirierea sau concesionarea unor bunuri imobile care aparțin domeniului public și domeniului privat al comunei Doicești CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA Analizand: - Proiectul de hotarare privind actualizarea chiriei si a redeventei cu rata inflatiei pentru c",
+"short": "HCL Doicești nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/03/HCL-NR.-4-DIN-31.01.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-11-2025",
+"path": "local/dambovita/doicesti/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 11/2025",
+"short": "HCL Doicești nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-07",
+"latest": "2025-02-07",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/03/HCL-nr-11-din-07.02.2025_26032025121407_Redacted_compressed.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-16-2025",
+"path": "local/dambovita/doicesti/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 16/2025 privind alegerea președintelui de ședință CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA Avand in vedere: - Procesul verbal al Circumscriptiei electorale nr.33 Doicesti privind centralizarea voturilor, constatarea rezultatului alegerilor si atribuirea mandatelor pentru CONSILIUL LOCAL, unde s-au atribuit 13 mandate. - Incheierea Judecatoriei Targoviste nr.6022/11.10.2024 prin care se valid",
+"short": "HCL Doicești nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-03",
+"latest": "2025-03-03",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/03/HCL-NR-16-DIN-03.03.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-41-2025",
+"path": "local/dambovita/doicesti/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 41/2025 privind alegerea președintelui de ședință CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA Avand in vedere: - Procesul verbal al Circumscriptiei electorale nr.33 Doicesti privind centralizarea voturilor, constatarea rezultatului alegerilor si atribuirea mandatelor pentru CONSILIUL LOCAL, unde s-au atribuit 13 mandate. - Incheierea Judecatoriei Targoviste nr.6022/11.10.2024 prin care se valid",
+"short": "HCL Doicești nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/08/HOTARARE-nr.41-2025-alegere-presedinte-sedinta.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-42-2025",
+"path": "local/dambovita/doicesti/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 42/2025",
+"short": "HCL Doicești nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/08/HOTARARE-nr.42-2025-modif.-HCL-nr.71-15.11.2024-privind-organiz.-COMISII-SPECIALITATE.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -91,6 +224,139 @@
 }
 },
 {
+"slug": "hcl-dambovita--doicesti-47-2025",
+"path": "local/dambovita/doicesti/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 47/2025 privind desemnarea reprezentantului UAT comuna Doicesti in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara “ CIVITAS TARGOVISTE” CONSILIUL LOCAL AL COMUNEI DOICESTI, JUDETUL DAMBOVITA Analizand: - Proiectul de hotarare privind desemnarea reprezentantului UAT comuna Doicesti in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara “ CIVITAS TARGOVISTE”, nr. 40/24.07.2025; initia",
+"short": "HCL Doicești nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/08/HOTARARE-nr.47-2025-desemnare-reprez.-in-A.D.I.-CIVITAS.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-48-2025",
+"path": "local/dambovita/doicesti/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 48/2025",
+"short": "HCL Doicești nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/08/HOTARARE-nr.48-2025-modif.-HCL-nr.34-2024-CLADIRI-cu-RISC-SEISMIC-.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-49-2025",
+"path": "local/dambovita/doicesti/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 49/2025 privind aprobarea proiectului „SISTEM DE MANAGEMENT INTEGRAT AL DEȘEURILOR DIN JUDEȚUL DÂMBOVIȚA - OBIECTIV - INSTALAȚIE DE TRATARE DEȘEURI COLECTATE SEPARAT ȘI CENTRU DE APORT VOLUNTAR ȘOTÂNGA ” CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA Analizand: - Proiectul de hotarare privind aprobarea proiectului „SISTEM DE MANAGEMENT INTEGRAT AL DEȘEURILOR DIN JUDEȚUL DÂMBOVIȚA - OBIECTIV - INST",
+"short": "HCL Doicești nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-06",
+"latest": "2025-08-06",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/08/HOTARARE-nr.49-2025-Centru-deseuri-Sotanga.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-58-2025",
+"path": "local/dambovita/doicesti/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 58/2025 privind modificarea titlului HCL nr. 59/30.09.2021 privind acordul scoaterii temporare din circuitul agricol a unui teren în suprafață de 54.441mp mp situat în extravilanul comunei Doicești, punct Paraschiva CONSILIUL LOCAL AL COMUNEI DOICESTI, JUDETUL DAMBOVITA Analizând: -Proiectul de hotărâre privind modificarea titlului HCL nr. 59/30.09.2021 privind acordul scoaterii temporare din circuitul ag",
+"short": "HCL Doicești nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/10/HCL-nr.-58-din-08.10.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-59-2025",
+"path": "local/dambovita/doicesti/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 59/2025 privind implementarea proiectului „Achiziție autoutilitară pentru comuna Doicești, județul Dâmbovița” CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA Analizând: -Proiectul de hotărâre privind implementarea proiectului „Achiziție autoutilitară pentru comuna Doicești, județul Dâmbovița”, nr. 51/17.10.2025; inițiator primarul comunei Doicești; Având în vedere: -Referatul de aprobare al proiect",
+"short": "HCL Doicești nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-20",
+"latest": "2025-10-20",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/10/HCL-nr.-59-din-20.10.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-60-2025",
+"path": "local/dambovita/doicesti/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 60/2025 privind rectificarea bugetului local și actualizarea Programului de investiții Publice pe anul 2025 CONSILIUL LOCAL AL COMUNEI DOICESTI, JUDETUL DAMBOVITA Analizând: -proiectul de hotărâre privind rectificarea bugetului local și actualizarea Programului de Investiții Publice pe anul 2025, nr. 53/20.10.2025; inițiator primarul comunei Doicești; Luând act de: - referatul de aprobare al proiectului d",
+"short": "HCL Doicești nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr.-60-din-27.10.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--doicesti-61-2025",
 "path": "local/dambovita/doicesti/2025/61",
 "kind": "local",
@@ -113,6 +379,205 @@
 }
 },
 {
+"slug": "hcl-dambovita--doicesti-62-2025",
+"path": "local/dambovita/doicesti/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 62/2025 privind actualizarea principalilor indicatori tehnico-economici și a devizului general după achiziție pentru obiectivul de investiție “Modernizare strada Ialomiței – zona stația de epurare în comuna Doicești, județul Dâmbovița” CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA: Analizând: -proiectul de hotărâre privind actualizarea principalilor indicatori tehnico-economici și a devizului gen",
+"short": "HCL Doicești nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr-62-din-27.10.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-63-2025",
+"path": "local/dambovita/doicesti/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 63/2025 privind actualizarea principalilor indicatori tehnico-economici si a devizului general aferent obiectivului de investiție “Modernizare strada Ialomiței – zona stația de epurare în comuna Doicești, județul Dâmbovița” după modificarea cotei TVA la 21% începând cu 01.08.2025 CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA Analizând: -proiectul de hotărâre privind actualizarea principalilor ind",
+"short": "HCL Doicești nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr-63-din-27.10.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-64-2025",
+"path": "local/dambovita/doicesti/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 64/2025 pentru aprobarea actului adițional nr. 2 la Acordul de asociere nr.463/5376/26.06.2023 încheiat cu unitatea administrativ-teritorială Comuna Doicești prin Consiliul Local Doicești pentru implementarea obiectivului de investiție „Achiziție microbuze noi electrice pentru școlile din județul Dâmbovița” în vederea depunerii cererii de finanțare în cadrul Planului Național de Redresare și Reziliență, P",
+"short": "HCL Doicești nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr.-64-din-27.10.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-65-2025",
+"path": "local/dambovita/doicesti/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 65/2025 privind actualizarea principalilor indicatori tehnico-economici și a devizului general după achiziție pentru obiectivul de investiții “Demolare cămin cultural și anexa, construire parc integrat pentru recreere, sport și agrement, în comuna Doicești, județul Dâmbovița” CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA Analizând: -proiectul de hotărâre privind actualizarea principalilor indicat",
+"short": "HCL Doicești nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr.-65-din-27.10.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-66-2025",
+"path": "local/dambovita/doicesti/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 66/2025 privind actualizarea principalilor indicatori tehnico-economici și a devizului general aferent obiectivului de investiții “Demolare cămin cultural și anexa, construire parc integrat pentru recreere, sport și agrement în comuna Doicești, județul Dâmbovița” după modificarea cotei TVA la 21% începând cu 01.08.2025 CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA Analizând: -proiectul de hotărâr",
+"short": "HCL Doicești nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr.-66-din-27.10.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-68-2025",
+"path": "local/dambovita/doicesti/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 68/2025 privind rectificarea bugetului local prin suplimentare de venituri, pentru trimestrul IV, anul 2025 CONSILIUL LOCAL AL COMUNEI DOICESTI, JUDETUL DAMBOVITA Analizând: - proiectul de hotărâre privind rectificarea bugetului local prin suplimentare de venituri, pentru trimestrul IV, anul 2025, 63/14.11.2025; inițiator primarul comunei Doicești; Luând în considerare: - referatul de aprobare al proiectu",
+"short": "HCL Doicești nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr.-68-din-26.11.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-71-2025",
+"path": "local/dambovita/doicesti/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 71/2025 privind aprobarea alocării unor fonduri din bugetul local al comunei Doicești în vederea organizării activităților dedicate Sărbătorilor de Iarnă CONSILIUL LOCAL AL COMUNEI DOICESTI, JUDETUL DAMBOVITA Analizând: - proiectul de hotărâre privind aprobarea alocării unor fonduri din bugetul local al comunei Doicești în vederea organizării activităților dedicate Sărbătorilor de Iarnă, înregistrat la nr",
+"short": "HCL Doicești nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr-71-din-26.11.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-72-2025",
+"path": "local/dambovita/doicesti/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 72/2025 privind aprobarea Registrului Local al spatiilor verzi din Comuna Doicești, județul Dâmbovița CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA Analizând: - proiectul de hotărâre privind aprobarea Registrului Local al spatiilor verzi din Comuna Doicești, județul Dâmbovița, înregistrat la nr. 66/14.11.2025; inițiator primarul comunei; Luând act de: - referatul de aprobare al proiectului de hot",
+"short": "HCL Doicești nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr-72-din-26.11.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-73-2025",
+"path": "local/dambovita/doicesti/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 73/2025",
+"short": "HCL Doicești nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr.-73-din-26.11.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--doicesti-74-2025",
 "path": "local/dambovita/doicesti/2025/74",
 "kind": "local",
@@ -132,6 +597,73 @@
 "council_name": "Consiliul Local al Comunei Doicești",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-75-2025",
+"path": "local/dambovita/doicesti/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 75/2025 privind rectificarea bugetului local prin suplimentare de venituri trimestrul IV pe anul 2025 CONSILIUL LOCAL AL COMUNEI DOICESTI, JUDETUL DAMBOVITA Analizând: -proiectul de hotărâre privind rectificarea bugetului local prin suplimentare de venituri trimestrul IV pe anul 2025, înregistrat la nr. 68/04.12.2025; inițiator primarul comunei; Luând act de : -referatul de aprobare al proiectului de hotă",
+"short": "HCL Doicești nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr-75-din-09.12.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-77-2025",
+"path": "local/dambovita/doicesti/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 77/2025",
+"short": "HCL Doicești nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr-77-din-09.12.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-78-2025",
+"path": "local/dambovita/doicesti/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 78/2025 privind aprobarea rectificării bugetului local prin suplimentare de venituri și virări de credite pe anul 2025 CONSILIUL LOCAL AL COMUNEI DOICESTI, JUDETUL DAMBOVITA Analizând: -proiectul de hotărâre privind aprobarea rectificării bugetului local prin suplimentare de venituri și virări de credite pe anul 2025, înregistrat la nr. 71/12.12.2025; inițiator primarul comunei; Luând act de : - referatul",
+"short": "HCL Doicești nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2026/01/HCL-nr.-78-din-17.12.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

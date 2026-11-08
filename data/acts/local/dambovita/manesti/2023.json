@@ -180,6 +180,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--manesti-9-2023",
+"path": "local/dambovita/manesti/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 9/2023",
+"short": "HCL Mănești nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-17",
+"latest": "2023-05-17",
+"portal": "https://emol.ro/manesti-db/registru-hcl/104148",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--manesti-10-2023",
 "path": "local/dambovita/manesti/2023/10",
 "kind": "local",
@@ -290,6 +313,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--manesti-15-2023",
+"path": "local/dambovita/manesti/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 15/2023 privind prelungirea contractului de consultanță/ asistență/ reprezentare juridică cu ” MICHAEL GRIGORESCU-CABINET DE AVOCAT”",
+"short": "HCL Mănești nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-17",
+"latest": "2023-05-17",
+"portal": "https://emol.ro/manesti-db/registru-hcl/104154",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--manesti-16-2023",
 "path": "local/dambovita/manesti/2023/16",
 "kind": "local",
@@ -357,6 +402,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--manesti-19-2023",
+"path": "local/dambovita/manesti/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 19/2023",
+"short": "HCL Mănești nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-17",
+"latest": "2023-05-17",
+"portal": "https://emol.ro/manesti-db/registru-hcl/104177",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--manesti-20-2023",
 "path": "local/dambovita/manesti/2023/20",
 "kind": "local",
@@ -398,6 +466,29 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-22-2023",
+"path": "local/dambovita/manesti/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 22/2023",
+"short": "HCL Mănești nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-17",
+"latest": "2023-05-17",
+"portal": "https://emol.ro/manesti-db/registru-hcl/104180",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -511,6 +602,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--manesti-28-2023",
+"path": "local/dambovita/manesti/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 28/2023",
+"short": "HCL Mănești nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-17",
+"latest": "2023-05-17",
+"portal": "https://emol.ro/manesti-db/registru-hcl/104186",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--manesti-29-2023",
 "path": "local/dambovita/manesti/2023/29",
 "kind": "local",
@@ -621,6 +735,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--manesti-34-2023",
+"path": "local/dambovita/manesti/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 34/2023 privind aprobarea STUDIUL DE OPORTUNITATE și a DOCUMENTAȚIEI DE ATRIBUIRE pentru concesionarea prin licitație a unei suprafețe de 59.951 mp teren cu categoria de folosință pajiște punct „Hulă” situată în intravilanul comunei Mănești, județul Dâmbovița,în sistem dual",
+"short": "HCL Mănești nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://emol.ro/manesti-db/registru-hcl/121837",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--manesti-35-2023",
 "path": "local/dambovita/manesti/2023/35",
 "kind": "local",
@@ -662,6 +798,29 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-37-2023",
+"path": "local/dambovita/manesti/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 37/2023",
+"short": "HCL Mănești nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://emol.ro/manesti-db/registru-hcl/121840",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -797,6 +956,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--manesti-44-2023",
+"path": "local/dambovita/manesti/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 44/2023",
+"short": "HCL Mănești nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://emol.ro/manesti-db/registru-hcl/121855",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--manesti-45-2023",
 "path": "local/dambovita/manesti/2023/45",
 "kind": "local",
@@ -882,6 +1064,29 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-49-2023",
+"path": "local/dambovita/manesti/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 49/2023",
+"short": "HCL Mănești nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://emol.ro/manesti-db/registru-hcl/121878",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -995,6 +1200,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--manesti-55-2023",
+"path": "local/dambovita/manesti/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 55/2023",
+"short": "HCL Mănești nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://emol.ro/manesti-db/registru-hcl/121904",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--manesti-56-2023",
 "path": "local/dambovita/manesti/2023/56",
 "kind": "local",
@@ -1083,6 +1311,74 @@
 }
 },
 {
+"slug": "hcl-dambovita--manesti-60-2023",
+"path": "local/dambovita/manesti/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 60/2023",
+"short": "HCL Mănești nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://emol.ro/manesti-db/registru-hcl/121909",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-61-2023",
+"path": "local/dambovita/manesti/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 61/2023",
+"short": "HCL Mănești nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://emol.ro/manesti-db/registru-hcl/121910",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-62-2023",
+"path": "local/dambovita/manesti/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 62/2023 privind închirierea unui spațiu din incinta căminului cultural Drăgăești-Ungureni, comuna Mănești, prin încredințare directă, în vederea stabilirii sediului social/punctului de lucru pentru: [\\n] SF SUN POWER ENERGY SRL –societate în curs de formare [\\n] SF RENEWABLE ENERGY SRL –societate în curs de formare [\\n] SF SOLAR POWER SRL-societate în curs de formare",
+"short": "HCL Mănești nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://emol.ro/manesti-db/registru-hcl/121911",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--manesti-63-2023",
 "path": "local/dambovita/manesti/2023/63",
 "kind": "local",
@@ -1124,6 +1420,75 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-65-2023",
+"path": "local/dambovita/manesti/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 65/2023",
+"short": "HCL Mănești nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://emol.ro/manesti-db/registru-hcl/121923",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-66-2023",
+"path": "local/dambovita/manesti/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 66/2023",
+"short": "HCL Mănești nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://emol.ro/manesti-db/registru-hcl/121924",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-67-2023",
+"path": "local/dambovita/manesti/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 67/2023",
+"short": "HCL Mănești nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-26",
+"latest": "2023-09-26",
+"portal": "https://emol.ro/manesti-db/registru-hcl/121925",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1190,6 +1555,73 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-71-2023",
+"path": "local/dambovita/manesti/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 71/2023",
+"short": "HCL Mănești nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-13",
+"latest": "2023-11-13",
+"portal": "https://emol.ro/manesti-db/registru-hcl/126968",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-72-2023",
+"path": "local/dambovita/manesti/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 72/2023 privind desemnarea reprezentanților consiliului local în cadrul Consiliului de administrație al Școlii gimnaziale Mănești, județul Dâmbovița, pentru anul școlar 2023-2024",
+"short": "HCL Mănești nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-13",
+"latest": "2023-11-13",
+"portal": "https://emol.ro/manesti-db/registru-hcl/126969",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-73-2023",
+"path": "local/dambovita/manesti/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 73/2023 privind desemnarea reprezentantului consiliului local al comunei Mănești în cadrul Comisiei pentru Evaluarea și Asigurarea Calității în cadrul Școlii gimnaziale Mănești, județul Dâmbovița, pentru anul școlar 2023-2024",
+"short": "HCL Mănești nr. 73/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-13",
+"latest": "2023-11-13",
+"portal": "https://emol.ro/manesti-db/registru-hcl/126970",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1433,6 +1865,28 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-85-2023",
+"path": "local/dambovita/manesti/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 85/2023 privind aprobarea STUDIUL DE OPORTUNITATE și a DOCUMENTAȚIEI DE ATRIBUIRE pentru concesionarea prin licitație a suprafeței de 150.000 mp înscrisă în Cartea funciară nr. 70.274 și privind aprobarea STUDIUL DE OPORTUNITATE și a DOCUMENTAȚIEI DE ATRIBUIRE pentru concesionarea prin licitație a suprafeței de 150.000 mp înscrisă în Cartea funciară nr. 70.274 și a suprafeței de 127.923 mp înscrisă în Cartea funciară nr.70.275 a comunei Mănești, județul Dâmbovița, teren cu categoria de folosință pajiște punct „Hulă” situat în intravilanul comunei Mănești, județul Dâmbovița , în sistem dual",
+"short": "HCL Mănești nr. 85/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/manesti-db/registru-hcl/144609",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,111 @@
  "shard": "local/dambovita/lucieni/2025",
  "acts": [
   {
+   "slug": "hcl-dambovita--lucieni-10-2025",
+   "path": "local/dambovita/lucieni/2025/10",
+   "short": "HCL Lucieni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 10/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-11-2025",
+   "path": "local/dambovita/lucieni/2025/11",
+   "short": "HCL Lucieni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 11/2025 privind înlocuirea reprezentantului consiliul local Lucieni în Consiliul de Administraţie al Şcolii Gimnaziale Lucieni",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#93857",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#93857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-12-2025",
+   "path": "local/dambovita/lucieni/2025/12",
+   "short": "HCL Lucieni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 12/2025 pentru îndreptarea erorii materiale de la art. 5 din Anexa nr. 1 la HCL nr. 88/28.11.2024 privind aprobarea modificării Contractului de asociere în participațiune nr. 4218/18.07.2022, aprobat prin HCL nr. 43/12.07.2022",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#94393",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#94393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-13-2025",
+   "path": "local/dambovita/lucieni/2025/13",
+   "short": "HCL Lucieni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 13/2025 pentru modificarea HCL nr. 75/04.11.2024 privind organizarea comisiilor de specialitate din cadrul Consiliului local al comunei Lucieni pe principalele domenii de activitate",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#95177",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#95177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-14-2025",
+   "path": "local/dambovita/lucieni/2025/14",
+   "short": "HCL Lucieni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 14/2025 privind aprobarea notelor de fundamentare pentru obiectivele noi de investiții, în vederea cuprinderii acestora în programul anual de investiții, anexă la bugetul local pe anul 2025",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#95243",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#95243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-15-2025",
+   "path": "local/dambovita/lucieni/2025/15",
+   "short": "HCL Lucieni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 15/2025 pentru validarea Dispoziției nr. 32/03.03.2025 privind aprobarea utilizării excedentului bugetului local al comunei Lucieni rezultat la încheierea exercițiului bugetar al anului 2024",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#95148",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#95148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-17-2025",
+   "path": "local/dambovita/lucieni/2025/17",
+   "short": "HCL Lucieni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 17/2025 privind aprobarea acordării unui sprijin financiar pentru Parohia Lucieni",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#95341",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#95341",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-18-2025",
    "path": "local/dambovita/lucieni/2025/18",
    "short": "HCL Lucieni nr. 18/2025",
@@ -573,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-6-2025",
+   "path": "local/dambovita/lucieni/2025/6",
+   "short": "HCL Lucieni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 6/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Lucieni pentru o perioadă de trei luni, februarie - aprilie 2025",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#91520",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#91520",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-60-2025",
    "path": "local/dambovita/lucieni/2025/60",
    "short": "HCL Lucieni nr. 60/2025",
@@ -693,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-7-2025",
+   "path": "local/dambovita/lucieni/2025/7",
+   "short": "HCL Lucieni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 7/2025 privind analiza stadiului de înscriere a datelor în registrul agricol pe trimestrul IV al anului 2024 și aprobarea programului de măsuri pentru eficientizarea înscrierii datelor în registrul agricol",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#91564",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#91564",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-70-2025",
    "path": "local/dambovita/lucieni/2025/70",
    "short": "HCL Lucieni nr. 70/2025",
@@ -798,6 +933,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-8-2025",
+   "path": "local/dambovita/lucieni/2025/8",
+   "short": "HCL Lucieni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 8/2025 privind aprobarea Raportului de activitate pentru anul 2024, a Programului de activitate pentru anul 2025 și a Calendarului activităților pentru anul 2025 ale Bibliotecii Comunale Lucieni",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#91616",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#91616",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-80-2025",
    "path": "local/dambovita/lucieni/2025/80",
    "short": "HCL Lucieni nr. 80/2025",
@@ -838,6 +988,21 @@
      "from": "2025-12-22",
      "units": 1,
      "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#113007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-9-2025",
+   "path": "local/dambovita/lucieni/2025/9",
+   "short": "HCL Lucieni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 9/2025 privind aprobarea execuției bugetului local de venituri și cheltuieli al Primăriei comunei Lucieni la finele trimestrului IV al anului 2024",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#92040",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#92040",
      "sha256": null
     }
    ]

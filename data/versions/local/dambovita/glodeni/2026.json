@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/glodeni/2026",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--glodeni-18-2026",
+   "path": "local/dambovita/glodeni/2026/18",
+   "short": "HCL Glodeni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeni nr. 18/2026",
+   "url": "https://comunaglodeni.ro/wp-content/uploads/2026/07/hcl-nr.-18-din-29.05.2026-validare-rectificare-de-buget-local.pdf",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://comunaglodeni.ro/wp-content/uploads/2026/07/hcl-nr.-18-din-29.05.2026-validare-rectificare-de-buget-local.pdf",
+     "sha256": "c851c7266955065964519cfbe0a231f5d869bf23e745ee3e9f483d2d7fea9c89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--glodeni-19-2026",
+   "path": "local/dambovita/glodeni/2026/19",
+   "short": "HCL Glodeni nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeni nr. 19/2026",
+   "url": "https://comunaglodeni.ro/wp-content/uploads/2026/07/hcl-nr.-19-din-29.05.2026-aprobare-organigrama-si-stat-de-functii.pdf",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://comunaglodeni.ro/wp-content/uploads/2026/07/hcl-nr.-19-din-29.05.2026-aprobare-organigrama-si-stat-de-functii.pdf",
+     "sha256": "5fe9a6287b7a9c54d77425ff8c65ec78d31b55f6e50bb809693cef7160685bc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--glodeni-20-2026",
+   "path": "local/dambovita/glodeni/2026/20",
+   "short": "HCL Glodeni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeni nr. 20/2026",
+   "url": "https://comunaglodeni.ro/wp-content/uploads/2026/07/hcl-nr.-20-din-29.05.2026-aprobare-situatie-financiara-pe-trimestrul-I-anul-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://comunaglodeni.ro/wp-content/uploads/2026/07/hcl-nr.-20-din-29.05.2026-aprobare-situatie-financiara-pe-trimestrul-I-anul-2026.pdf",
+     "sha256": "e467de2dfe81028bee35252f94b3e0b3c082776952e42013f0cb21501d47565d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--glodeni-21-2026",
+   "path": "local/dambovita/glodeni/2026/21",
+   "short": "HCL Glodeni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeni nr. 21/2026",
+   "url": "https://comunaglodeni.ro/wp-content/uploads/2026/07/hcl-nr.-21-din-29.05.2026-rectificare-de-buget-local-cu-suma-de-6-mii-lei.pdf",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://comunaglodeni.ro/wp-content/uploads/2026/07/hcl-nr.-21-din-29.05.2026-rectificare-de-buget-local-cu-suma-de-6-mii-lei.pdf",
+     "sha256": "e3c486a4ffcd9bc37875e5ddbc133d73d72ca38357753d1e0cf879de59b32d5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--glodeni-22-2026",
+   "path": "local/dambovita/glodeni/2026/22",
+   "short": "HCL Glodeni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeni nr. 22/2026",
+   "url": "https://comunaglodeni.ro/wp-content/uploads/2026/07/hcl-nr.-22-din-29.05.2026-modificare-hcl-nr.-17-din-13.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://comunaglodeni.ro/wp-content/uploads/2026/07/hcl-nr.-22-din-29.05.2026-modificare-hcl-nr.-17-din-13.05.2026.pdf",
+     "sha256": "689989cf558441f41742d3b7254b22113c56a590980c9b4228864349e6409129"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--glodeni-24-2026",
+   "path": "local/dambovita/glodeni/2026/24",
+   "short": "HCL Glodeni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeni nr. 24/2026 privind Codul Administrativ, adopta urmatoarea: HOTARARE Art 1",
+   "url": "https://comunaglodeni.ro/wp-content/uploads/2026/07/hcl-nr-24-din-24.06.2026-rectificare-buget-local.pdf",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://comunaglodeni.ro/wp-content/uploads/2026/07/hcl-nr-24-din-24.06.2026-rectificare-buget-local.pdf",
+     "sha256": "092588c1c83323e1a8f802a3190e87f89624344cb22529cfffc05e6a9f030e54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--glodeni-25-2026",
+   "path": "local/dambovita/glodeni/2026/25",
+   "short": "HCL Glodeni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeni nr. 25/2026 privind Codul Administrativ, adopta urmatoarea: HOTARARE Art 1 Se aproba Virarea de credite bugetare în cadrul aceluiași capitol bugetar, astfel:  Indicatorul 680502100101 – Asistență socială Salarii de bază se diminuează în trimestrul III cu suma de 6 mii lei.  Indicatorul 680502100206 – Asistență socială Vouchere de vacanta se majorează în trimestrul III cu suma de 6 mii lei.  Indicatorul 700",
+   "url": "https://comunaglodeni.ro/wp-content/uploads/2026/07/hcl-nr-25-din-06.07.2026-rectificare-buget-local.pdf",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "https://comunaglodeni.ro/wp-content/uploads/2026/07/hcl-nr-25-din-06.07.2026-rectificare-buget-local.pdf",
+     "sha256": "e3d7e52ee6664839f5dde77a4b3452a635f07e1e93bc6549e9d7ff550fa44fc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--glodeni-27-2026",
+   "path": "local/dambovita/glodeni/2026/27",
+   "short": "HCL Glodeni nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeni nr. 27/2026 privind Codul Administrativ, adopta urmatoarea: HOTARARE Art 1",
+   "url": "https://comunaglodeni.ro/wp-content/uploads/2026/08/hcl-nr-27-din-31.07.2026-rectificare-buget-local.pdf",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://comunaglodeni.ro/wp-content/uploads/2026/08/hcl-nr-27-din-31.07.2026-rectificare-buget-local.pdf",
+     "sha256": "e90cbdea59f0aa13e9fd5df2c82efbff6627ccfe05de1d857b0ecce16c50d161"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--glodeni-33-2026",
+   "path": "local/dambovita/glodeni/2026/33",
+   "short": "HCL Glodeni nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeni nr. 33/2026 privind aprobare documentatie pt Reabilitare , modernizare, consolidare , extindere corpC1 cu cladire P+1E si dotare cladire ScoL Buica Ionescu",
+   "url": "https://comunaglodeni.ro/wp-content/uploads/2026/09/Hcl-nr.33-din-10.08.2026-modificare-HCL-23-din-2026-privind-aprobare-documentatie-pt-Reabilitare-modernizare-consolidare-extindere-corpC1-cu-cladire-P1E-si-dotare-cladire-ScoL-Buica-Ionescu.pdf",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://comunaglodeni.ro/wp-content/uploads/2026/09/Hcl-nr.33-din-10.08.2026-modificare-HCL-23-din-2026-privind-aprobare-documentatie-pt-Reabilitare-modernizare-consolidare-extindere-corpC1-cu-cladire-P1E-si-dotare-cladire-ScoL-Buica-Ionescu.pdf",
+     "sha256": "beeddd5e6aae7a0d00970f5b5c270613256f7e442550f2b0771f44a8a4039bdf"
+    }
+   ]
+  }
+ ]
+}

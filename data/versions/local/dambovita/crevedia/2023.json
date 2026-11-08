@@ -3,6 +3,21 @@
  "shard": "local/dambovita/crevedia/2023",
  "acts": [
   {
+   "slug": "hcl-dambovita--crevedia-1-2023",
+   "path": "local/dambovita/crevedia/2023/1",
+   "short": "HCL Crevedia nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 1/2023 privind aprobarea Planului de actiuni si lucrari de interes local pentru anul 2023, desfasurate de beneficiarii de ajutor social,conform prevederilor Legii nr.416/2001, cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/88171",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/88171",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-10-2023",
    "path": "local/dambovita/crevedia/2023/10",
    "short": "HCL Crevedia nr. 10/2023",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-12-2023",
+   "path": "local/dambovita/crevedia/2023/12",
+   "short": "HCL Crevedia nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 12/2023 privind asocierea unității administrativ-teritoriale Crevedia prin Consiliul local Crevedia, cu județul Dâmbovița, prin Consiliul Județean Dâmbovița, pentru implementarea obiectivului de investiții „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversiatr și a unităților conexe din județul Dâmbovița” în vederea depunerii cererii de finanțare în cadrul nPlanului Național de Redresare și Reziliență, Pilonul VI. Politici pentru noua generație Componenta C15: Educație",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/92956",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/92956",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-13-2023",
    "path": "local/dambovita/crevedia/2023/13",
    "short": "HCL Crevedia nr. 13/2023",
@@ -258,6 +288,171 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-2-2023",
+   "path": "local/dambovita/crevedia/2023/2",
+   "short": "HCL Crevedia nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 2/2023 privind alegerea presedintelui de sedinta al Consiliului local Crevedia, judetul Dambovita, pentru o perioada de 3 luni, respectiv, februarie, martie si aprilie 2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/88172",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/88172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-20-2023",
+   "path": "local/dambovita/crevedia/2023/20",
+   "short": "HCL Crevedia nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 20/2023 privind stabilirea de masuri pentru eficientizarea activitatii de inscriere a datelor in registrul agricol pentru perioada 2020-2024",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/96547",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/96547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-21-2023",
+   "path": "local/dambovita/crevedia/2023/21",
+   "short": "HCL Crevedia nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 21/2023 privind analiza stadiului de inscriere a datelor in Registrul agricol pentru trimestrul IV al anului 2022 si stabilirea masurilor pentru eficientizarea acestei activitati la nivelul comunei Crevedia",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/96548",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/96548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-22-2023",
+   "path": "local/dambovita/crevedia/2023/22",
+   "short": "HCL Crevedia nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 22/2023 privind aprobarea rectificarii bugetului local de venituri si cheltuieli pentru anul 2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/96549",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/96549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-23-2023",
+   "path": "local/dambovita/crevedia/2023/23",
+   "short": "HCL Crevedia nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 23/2023 privind aprobarea cotizatiei/contributiei a UAT Comuna Crevedia datorata Asociatiei de Dezvoltare Intercomunitara Management Integrat al Deseurilor in Judetul Dambovita pentru anul 2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/96550",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/96550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-24-2023",
+   "path": "local/dambovita/crevedia/2023/24",
+   "short": "HCL Crevedia nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 24/2023 privind stabilirea si aprobarea taxei de habitat, cu destinatie speciala de salubrizare pentru anul 2023, in cuantumul stabilit pentru anul 2022, pana la aprobarea noilor taxe de salubrizare, conform OUG nr.133/29.09.2022-Ordonanta de urgenta pentru modificarea si completarea Ordonantei de urgenta a Guvernului nr.92/2021 privind regimul deseurilor, precum si a Legii serviciului de salubrizare a localitatilor nr.101/2006",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/96551",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/96551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-25-2023",
+   "path": "local/dambovita/crevedia/2023/25",
+   "short": "HCL Crevedia nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 25/2023 privind aprobarea incheierii unui contract de servicii juridice, consultanta si asistenta juridica pentru apararea intereselor comunei Crevedia precum si ale autoritatilor administratiei publice locale din comuna Crevedia, judetul Dambovita",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/96552",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/96552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-26-2023",
+   "path": "local/dambovita/crevedia/2023/26",
+   "short": "HCL Crevedia nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 26/2023 privind aprobarea implementarii la nivelul comunei Crevedia a proiectului “HUB de servicii MMSS-SII MMSS” (cod MySmis 130963) în vederea obținerii de finanțare prin Programul Operational Competitivitate 2014-2020, Axa Prioritara 2 – Tehnologia Informatiei si Comunicatie (TIC) pentru o economie digitala competitiva",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/97902",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/97902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-27-2023",
+   "path": "local/dambovita/crevedia/2023/27",
+   "short": "HCL Crevedia nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 27/2023 privind alegerea presedintelui de sedinta al Consiliului local Crevedia, judetul Dambovita, pentru o perioada de 3 luni, respectiv mai, iunie si iulie 2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/98916",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/98916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-28-2023",
+   "path": "local/dambovita/crevedia/2023/28",
+   "short": "HCL Crevedia nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 28/2023 privind aprobarea rectificarii bugetului local de venituri si cheltuieli pentru anul 2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/98917",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/98917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-29-2023",
+   "path": "local/dambovita/crevedia/2023/29",
+   "short": "HCL Crevedia nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 29/2023 privind asocierea Comunei Crevedia prin Consiliul Local Crevedia cu Judetul Dambovita prin Consiliul Judetean Dambovita, in cadrul Programului Judetean de Dezvoltare Locala Dambovita, in vederea realizarii in comun, a investitiei Amenajare peisagistica si podete in comuna Crevedia, judetul Dambovita",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/100666",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/100666",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-3-2023",
    "path": "local/dambovita/crevedia/2023/3",
    "short": "HCL Crevedia nr. 3/2023",
@@ -268,6 +463,51 @@
      "from": "2023-02-15",
      "units": 1,
      "source_url": "https://emol.ro/crevedia-db/registru-hcl/88173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-30-2023",
+   "path": "local/dambovita/crevedia/2023/30",
+   "short": "HCL Crevedia nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 30/2023 privind asocierea Comunei Crevedia prin Consiliul Local Crevedia cu Judetul Dambovita prin Consiliul Judetean Dambovita, in cadrul Programului Judetean de Dezvoltare Locala Dambovita, in vederea realizarii in comun, a investitiei Colectare si evacuare ape pluviale zona DN 1A,DJ 701 B, Centrul comunei Crevedia, judetul Dambovita",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/100667",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/100667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-31-2023",
+   "path": "local/dambovita/crevedia/2023/31",
+   "short": "HCL Crevedia nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 31/2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/100668",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/100668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-32-2023",
+   "path": "local/dambovita/crevedia/2023/32",
+   "short": "HCL Crevedia nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 32/2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/100669",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/100669",
      "sha256": null
     }
    ]
@@ -303,6 +543,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-35-2023",
+   "path": "local/dambovita/crevedia/2023/35",
+   "short": "HCL Crevedia nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 35/2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/100672",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/100672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-36-2023",
+   "path": "local/dambovita/crevedia/2023/36",
+   "short": "HCL Crevedia nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 36/2023 privind modificarea si actualizarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apa si de canalizare nr.16/46300/05.11.2009",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/104483",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/104483",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-37-2023",
    "path": "local/dambovita/crevedia/2023/37",
    "short": "HCL Crevedia nr. 37/2023",
@@ -333,6 +603,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-39-2023",
+   "path": "local/dambovita/crevedia/2023/39",
+   "short": "HCL Crevedia nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 39/2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/104486",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/104486",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-4-2023",
    "path": "local/dambovita/crevedia/2023/4",
    "short": "HCL Crevedia nr. 4/2023",
@@ -348,6 +633,186 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-40-2023",
+   "path": "local/dambovita/crevedia/2023/40",
+   "short": "HCL Crevedia nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 40/2023 privind aderarea si includerea comunei Crevedia judetul Dambovita la Parteneriatul LEADER cu denumirea Grupul de Actiune Locala Ogoarele Vlasiei",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/104487",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/104487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-41-2023",
+   "path": "local/dambovita/crevedia/2023/41",
+   "short": "HCL Crevedia nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 41/2023 privind modificarea statului de functii al aparatului de specialitate al primarului comunei Crevedia, judetul Dambovita",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/104488",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/104488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-42-2023",
+   "path": "local/dambovita/crevedia/2023/42",
+   "short": "HCL Crevedia nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 42/2023 privind scoaterea suprafetei de 250mp. situata in T.46, P.296/1/25 sat Samurcasi, din fondul de rezerva a Comisiei de Fond Funciar si introducerea in domeniul privat al comunei Crevedia, judetul Dambovita conform Planului de amplasament si delimitare a imobilului intocmit de firma SC LUF-CAD SRL",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/104489",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/104489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-43-2023",
+   "path": "local/dambovita/crevedia/2023/43",
+   "short": "HCL Crevedia nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 43/2023 privind modificarea si completarea Hotararii nr.08/06.02.2023 privind aprobarea proiectului Sistem de Management Integrat al Deseurilor din Judetul Dambovita-OBIECTIV-Instalatie de Tratare Deseuri Colectate Separat si Centru de Aport Voluntar Sotanga",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/104490",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/104490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-44-2023",
+   "path": "local/dambovita/crevedia/2023/44",
+   "short": "HCL Crevedia nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 44/2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/108090",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/108090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-45-2023",
+   "path": "local/dambovita/crevedia/2023/45",
+   "short": "HCL Crevedia nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 45/2023 privind stabilirea domeniilor serviciilor publice si locurilor in care persoanele care au savarsit infractiuni, sau persoanele care au fost sanctionate contraventional si care vor presta munca neremunerata in folosul comunitatii, ca obligatie stabilita de catre instanta de judecata a Regulamentului privind prestarea de catre contravenienti de activitati in folosul comunitatii sia persoanelor responnsabile pentru punerea in executare a muncii neremunerate in folosul comunitati",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/108091",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/108091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-46-2023",
+   "path": "local/dambovita/crevedia/2023/46",
+   "short": "HCL Crevedia nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 46/2023 privind modificarea Hotararii Consiliului Local Crevedia nr.33/11.04.2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/108092",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/108092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-47-2023",
+   "path": "local/dambovita/crevedia/2023/47",
+   "short": "HCL Crevedia nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 47/2023 privind aprobarea rectificarii bugetului local de venituri si cheltuieli pentru trimestrul II, anul 2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/108093",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/108093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-48-2023",
+   "path": "local/dambovita/crevedia/2023/48",
+   "short": "HCL Crevedia nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 48/2023 privind asocierea unitatii administrativ- teritoriale comuna Crevedia prin Consiliul Local Crevedia, cu Judetul Dambovita, prin Consiliul Judetean Dambovita, pentru implementarea obiectivului de investitii Achizitie microbuze noi electrice pentru scolile din judetul Dambovita in vederea depunerii cererii de finantare in cadrul Planului National de Redresare si Rezilienta, Pilonul VI. Politici pentru noua generatie Componenta C15 Eductie",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/108094",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/108094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-49-2023",
+   "path": "local/dambovita/crevedia/2023/49",
+   "short": "HCL Crevedia nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 49/2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/109051",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/109051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-5-2023",
+   "path": "local/dambovita/crevedia/2023/5",
+   "short": "HCL Crevedia nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 5/2023 pentru aprobarea modificarii HCL nr.68/12.12.2022 privind aprobarea structurii retelei scolare ale unitatilor de invatamant preuniversitar in comuna Crevedia, Judetul Dambovita pentru anul scolar 2023-2024",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/88175",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/88175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-50-2023",
+   "path": "local/dambovita/crevedia/2023/50",
+   "short": "HCL Crevedia nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 50/2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/109052",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/109052",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-51-2023",
    "path": "local/dambovita/crevedia/2023/51",
    "short": "HCL Crevedia nr. 51/2023",
@@ -358,6 +823,51 @@
      "from": "2023-07-27",
      "units": 1,
      "source_url": "https://emol.ro/crevedia-db/registru-hcl/112320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-52-2023",
+   "path": "local/dambovita/crevedia/2023/52",
+   "short": "HCL Crevedia nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 52/2023 privind alegerea presedintelui de sedinta al Consiliului local Crevedia, judetul Dambovita, pentru o perioada de 3 luni, respectiv- august, septembrie si octombrie 2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/112321",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/112321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-53-2023",
+   "path": "local/dambovita/crevedia/2023/53",
+   "short": "HCL Crevedia nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 53/2023 privind aprobarea rectificarii bugetului local de venituri si cheltuieli pentru trimestrul III, anul 2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/112322",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/112322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-54-2023",
+   "path": "local/dambovita/crevedia/2023/54",
+   "short": "HCL Crevedia nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 54/2023 privind aprobarea Studiului de oportunitate, Caietului de sarcini si a draftului de Contract de achizitie publica de servicii privind delegarea gestiunii activitatilor de sortare, compostare si depozitare a deseurilor municipale de pe raza judetului Dambovita",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/112323",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/112323",
      "sha256": null
     }
    ]
@@ -408,6 +918,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-58-2023",
+   "path": "local/dambovita/crevedia/2023/58",
+   "short": "HCL Crevedia nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 58/2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/114761",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/114761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-59-2023",
+   "path": "local/dambovita/crevedia/2023/59",
+   "short": "HCL Crevedia nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 59/2023 privind aprobarea sustinerii financiare si aprobarea semnarii programului de finantare nerambursabila cu Club Sportiv VOINTA 2018 CREVEDIA",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/114762",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/114762",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-6-2023",
    "path": "local/dambovita/crevedia/2023/6",
    "short": "HCL Crevedia nr. 6/2023",
@@ -418,6 +958,36 @@
      "from": "2023-02-15",
      "units": 1,
      "source_url": "https://emol.ro/crevedia-db/registru-hcl/88176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-60-2023",
+   "path": "local/dambovita/crevedia/2023/60",
+   "short": "HCL Crevedia nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 60/2023 privind aprobarea contului de executie a bugetului de venituri si cheltuieli al comunei Crevedia pentru trimestrul II al anului 2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/118766",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/118766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-61-2023",
+   "path": "local/dambovita/crevedia/2023/61",
+   "short": "HCL Crevedia nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 61/2023 privind analiza stadiului de inscriere a datelor in Registrul agricol pentru trimestrul II al anului 2023 si stabilirea masurilor pentru eficientizarea acestei activitati la nivelul comunei Crevedia, judetul Dambovita",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/118767",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/118767",
      "sha256": null
     }
    ]
@@ -438,6 +1008,66 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-63-2023",
+   "path": "local/dambovita/crevedia/2023/63",
+   "short": "HCL Crevedia nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 63/2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/118769",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/118769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-64-2023",
+   "path": "local/dambovita/crevedia/2023/64",
+   "short": "HCL Crevedia nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 64/2023 privind aprobarea cumpararii unui teren intravilan in suprafata de 537 mp situat in comuna Crevedia, sat Samurcasi, judetul Dambovita, nr. cadastral 8471, tarlaua 83, parcela nr.625/41, in vederea amenajarii unui drum de acces",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/118770",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/118770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-65-2023",
+   "path": "local/dambovita/crevedia/2023/65",
+   "short": "HCL Crevedia nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 65/2023 privind aprobarea rectificarii bugetului local de venituri si cheltuieli pentru trimestrul III, anul 2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/118771",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/118771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-66-2023",
+   "path": "local/dambovita/crevedia/2023/66",
+   "short": "HCL Crevedia nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 66/2023 privind aprobarea transformarii unor posturii vacante aferente categoriei functionarilor publici de executie",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/118772",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/118772",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-67-2023",
    "path": "local/dambovita/crevedia/2023/67",
    "short": "HCL Crevedia nr. 67/2023",
@@ -453,6 +1083,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-68-2023",
+   "path": "local/dambovita/crevedia/2023/68",
+   "short": "HCL Crevedia nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 68/2023 privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor/acordurilor- cadru pentru achizitia produselor aferente programului si contractelor/acordurilor- cadru de prestare a serviciilor pentru derularea masurilor educative, la nivel local, pentru perioada 2023-2029 in cadrul Programului pentru scoli al Romaniei",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/118774",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/118774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-69-2023",
+   "path": "local/dambovita/crevedia/2023/69",
+   "short": "HCL Crevedia nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 69/2023 privind modificarea HCL nr.46/30.08.2022 privind predarea catre Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei prin Compania Nationala de Investitii C.N.I S.A, a amplasamentului si asigurarea conditiilor in vederea executarii obiectivului de investitii Construire si amenajare sediu administrativ primarie- comuna Crevedia, judetul Dambovita",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/118775",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/118775",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-7-2023",
    "path": "local/dambovita/crevedia/2023/7",
    "short": "HCL Crevedia nr. 7/2023",
@@ -463,6 +1123,51 @@
      "from": "2023-02-15",
      "units": 1,
      "source_url": "https://emol.ro/crevedia-db/registru-hcl/88177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-70-2023",
+   "path": "local/dambovita/crevedia/2023/70",
+   "short": "HCL Crevedia nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 70/2023 privind aprobarea susținerii financiare a cluburilor sportive locale și aprobarea semnării contractelor de finanțare nerambursabilă cu ASOCIAȚIA CLUB SPORTIV CREVEDIA 2019 și ASOCIAȚIA SPORTIVĂ VOINȚA DÂRZA",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/118776",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/118776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-71-2023",
+   "path": "local/dambovita/crevedia/2023/71",
+   "short": "HCL Crevedia nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 71/2023 privind aprobarea rectificarii bugetului local de venituri si cheltuieli pentru trimestrul III, anul 2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/120198",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/120198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-72-2023",
+   "path": "local/dambovita/crevedia/2023/72",
+   "short": "HCL Crevedia nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 72/2023 privind alegerea viceprimarului comunei Crevedia, judetul Dambovita",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/120199",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/120199",
      "sha256": null
     }
    ]
@@ -498,6 +1203,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-75-2023",
+   "path": "local/dambovita/crevedia/2023/75",
+   "short": "HCL Crevedia nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 75/2023 privind desemnarea reprezentantilor Consiliului Local al comunei Crevedia, judetul Dambovita, in Consiliul de Administratie al Scolii Gimnaziale Crevedia, pentru anul scolar 2023-2024",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/124252",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/124252",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-76-2023",
    "path": "local/dambovita/crevedia/2023/76",
    "short": "HCL Crevedia nr. 76/2023",
@@ -523,6 +1243,21 @@
      "from": "2023-10-17",
      "units": 1,
      "source_url": "https://emol.ro/crevedia-db/registru-hcl/124254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-78-2023",
+   "path": "local/dambovita/crevedia/2023/78",
+   "short": "HCL Crevedia nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 78/2023 privind alegerea presedintelui de sedinta al Consiliului local Crevedia, judetul Dambovita pentru sedinta din data de 24 octombrie 2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/127037",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/127037",
      "sha256": null
     }
    ]
@@ -573,6 +1308,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-81-2023",
+   "path": "local/dambovita/crevedia/2023/81",
+   "short": "HCL Crevedia nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 81/2023 privind alegerea presedintelui de sedinta al Consiliului Local Crevedia, judetul Dambovita, pentru o perioada de 3 luni, respectiv noiembrie/decembrie 2023 si respectiv ianuarie 2024",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/127040",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/127040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-82-2023",
+   "path": "local/dambovita/crevedia/2023/82",
+   "short": "HCL Crevedia nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 82/2023 privind aprobarea rectificarii bugetului local de venituri si cheltuieli pentru trimestrul IV,anul 2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/127041",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/127041",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-83-2023",
    "path": "local/dambovita/crevedia/2023/83",
    "short": "HCL Crevedia nr. 83/2023",
@@ -603,6 +1368,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-85-2023",
+   "path": "local/dambovita/crevedia/2023/85",
+   "short": "HCL Crevedia nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 85/2023 privind aprobarea contului de executie a bugetului de venituri si cheltuieli al comuniei Crevedia pentru trimestrul III al anului 2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/128677",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/128677",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-86-2023",
    "path": "local/dambovita/crevedia/2023/86",
    "short": "HCL Crevedia nr. 86/2023",
@@ -613,6 +1393,21 @@
      "from": "2023-11-21",
      "units": 1,
      "source_url": "https://emol.ro/crevedia-db/registru-hcl/128678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-87-2023",
+   "path": "local/dambovita/crevedia/2023/87",
+   "short": "HCL Crevedia nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 87/2023 privind aprobarea reorganizarii aparatului de specialitate al primarului comunei Crevedia incepand cu luna noiembrie 2023, in conformitate cu Legea nr.296/2023 privind unele masuri fiscal-bugetare pentru asigurarea sustenabilitatii financiare a Romaniei pe termen lung",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/128679",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/128679",
      "sha256": null
     }
    ]

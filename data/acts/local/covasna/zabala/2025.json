@@ -3,6 +3,95 @@
 "shard": "local/covasna/zabala/2025",
 "acts": [
 {
+"slug": "hcl-covasna--zabala-1-2025",
+"path": "local/covasna/zabala/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 1/2025 privind aprobarea organizării şi funcţionării reţelei şcolare din comuna Zăbala, judeţul Covasna pentru anul şcolar 2025-2026",
+"short": "HCL Zăbala nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234594",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-2-2025",
+"path": "local/covasna/zabala/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 2/2025 privind acordarea unui mandat special reprezentantului comunei Zăbala, județul Covasna în Adunarea Generală a Asociației de Dezvoltare Intercomunitară Zonă Metropolitană Târgu Secuiesc-Covasna",
+"short": "HCL Zăbala nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234595",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-3-2025",
+"path": "local/covasna/zabala/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 3/2025 privind organizarea şi programul audienţelor acordate de către consilierii locali pe anul 2025",
+"short": "HCL Zăbala nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234596",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-4-2025",
+"path": "local/covasna/zabala/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 4/2025",
+"short": "HCL Zăbala nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234597",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-covasna--zabala-5-2025",
 "path": "local/covasna/zabala/2025/5",
 "kind": "local",
@@ -22,6 +111,160 @@
 "council_name": "Consiliul Local al Comunei Zăbala",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--zabala-6-2025",
+"path": "local/covasna/zabala/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 6/2025 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Zăbala nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234599",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-7-2025",
+"path": "local/covasna/zabala/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 7/2025 privind aprobarea demersurilor necesare în vederea asigurării gradului de conectare de 99,22% la rețeaua de canlizare menajeră a localității Zăbala până la data de 31.12.2028",
+"short": "HCL Zăbala nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234600",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-8-2025",
+"path": "local/covasna/zabala/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 8/2025 privind adoptarea Bugetului general al unității administrative - teritoriale pe anul 2025",
+"short": "HCL Zăbala nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234601",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-9-2025",
+"path": "local/covasna/zabala/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 9/2025 privind aprobarea Contului de Execuție al Bugetului local al Comunei Zăbala pe Trim. IV. în limita prevederilor și creditelor bugetare aprobate pe anul 2024",
+"short": "HCL Zăbala nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234602",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-10-2025",
+"path": "local/covasna/zabala/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 10/2025 privind aprobarea inventarului anual al Primăriei Comunei Zăbala pentru anul 2024",
+"short": "HCL Zăbala nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234603",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-11-2025",
+"path": "local/covasna/zabala/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 11/2025 privind aprobarea listei obiectelor de inventar de mică valoare și a unor mijloace fixe propuse pentru casare",
+"short": "HCL Zăbala nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234604",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-12-2025",
+"path": "local/covasna/zabala/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 12/2025 privind aprobarea acordării unui trusou pentru nou-născuți, în valoare de 1.000 lei net/nou-născut",
+"short": "HCL Zăbala nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234605",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +290,72 @@
 }
 },
 {
+"slug": "hcl-covasna--zabala-14-2025",
+"path": "local/covasna/zabala/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 14/2025 privind aprobarea unei facilități salariaților primăriei comunei Zăbala privind cerințele minime de securitate și sănătate în muncă referitoare la utilizarea echipamentelor cu ecran de vizualizare pentru salariații primăriei Comunei Zăbala",
+"short": "HCL Zăbala nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234607",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-15-2025",
+"path": "local/covasna/zabala/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 15/2025 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare drum comunal DC13A între DC10 și DC13, în comuna Zăbala, județul Covasna” , aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Zăbala nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234614",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-16-2025",
+"path": "local/covasna/zabala/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 16/2025 privind aprobarea executării lucrărilor pentru obiectivul de investiții „Modernizare drum comunal DC13A între DC10 și DC13, în comuna Zăbala, județul Covasna”",
+"short": "HCL Zăbala nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234615",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--zabala-17-2025",
 "path": "local/covasna/zabala/2025/17",
 "kind": "local",
@@ -69,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-covasna--zabala-18-2025",
+"path": "local/covasna/zabala/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 18/2025 privind aprobarea modificării bugetului local al Comunei Zăbala pe anul 2025 pe total, pe secțiunea de funcționare",
+"short": "HCL Zăbala nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234617",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--zabala-19-2025",
 "path": "local/covasna/zabala/2025/19",
 "kind": "local",
@@ -88,6 +419,271 @@
 "council_name": "Consiliul Local al Comunei Zăbala",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--zabala-20-2025",
+"path": "local/covasna/zabala/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 20/2025 privind aprobarea rectificării bugetului local al Comunei Zăbala pe anul 2025 pe total, pe secțiunile de dezvoltare",
+"short": "HCL Zăbala nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234619",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-21-2025",
+"path": "local/covasna/zabala/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 21/2025 privind aprobarea documentaţiei tehnice, faza Studiu de Fezabilitate şi a indicatorilor tehnico-economici aferenţi, pentru obiectivul de investiții ‚,Înființarea sistemului de distribuție a gazelor naturale, inclusiv a branşamentelor, conform legislaţiei în vigoare, şi racordurilor la sistemul de transport al gazelor naturale”",
+"short": "HCL Zăbala nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234620",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-22-2025",
+"path": "local/covasna/zabala/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 22/2025",
+"short": "HCL Zăbala nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234621",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--zabala-23-2025",
+"path": "local/covasna/zabala/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 23/2025 privind acordarea unui mandat special reprezentantului Comunei Zăbala. în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară ”AQUACOV”",
+"short": "HCL Zăbala nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234622",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-24-2025",
+"path": "local/covasna/zabala/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 24/2025 privind indexarea și stabilirea impozitelor și taxelor locale pentru anul 2026 cu rata inflației de 5,6%",
+"short": "HCL Zăbala nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234623",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-25-2025",
+"path": "local/covasna/zabala/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 25/2025 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Zăbala nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234624",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-26-2025",
+"path": "local/covasna/zabala/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 26/2025 privind aprobarea Contului de Execuție al Bugetului local al Comunei Zăbala pe Trim. I. în limita prevederilor și creditelor bugetare aprobate pe anul 2025",
+"short": "HCL Zăbala nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234625",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-27-2025",
+"path": "local/covasna/zabala/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 27/2025 privind modificarea Hotărârea Consiliului Local al comunei Zăbala nr.15/2025 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare drum comunal DC13A între DC10 și DC13, în comuna Zăbala, județul Covasna”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Zăbala nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234647",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-28-2025",
+"path": "local/covasna/zabala/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 28/2025 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare drum comunal DC13 între limită UAT Zăbala și Surcea, în comuna Zăbala, judeţul Covasna”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Zăbala nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234648",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-29-2025",
+"path": "local/covasna/zabala/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 29/2025 privind aprobarea executării lucrărilor pentru obiectivul de investiții „Modernizare drum comunal DC13 între limită UAT Zăbala și Surcea, în comuna Zăbala, judeţul Covasna”",
+"short": "HCL Zăbala nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234649",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-30-2025",
+"path": "local/covasna/zabala/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 30/2025 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare drum comunal DC9 între Peteni și limită UAT Zăbala, în comuna Zăbala, judeţul Covasna”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Zăbala nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234650",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-31-2025",
+"path": "local/covasna/zabala/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 31/2025 privind aprobarea executării lucrărilor pentru obiectivul de investiții „Modernizare drum comunal DC9 între Peteni și limită UAT Zăbala, în comuna Zăbala, judeţul Covasna",
+"short": "HCL Zăbala nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234664",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -114,6 +710,28 @@
 }
 },
 {
+"slug": "hcl-covasna--zabala-33-2025",
+"path": "local/covasna/zabala/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 33/2025 privind aprobarea programului de acţiune comunitară destinată prevenirii și combaterii riscului de sărăcie și excluziune socială",
+"short": "HCL Zăbala nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234666",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--zabala-34-2025",
 "path": "local/covasna/zabala/2025/34",
 "kind": "local",
@@ -133,6 +751,28 @@
 "council_name": "Consiliul Local al Comunei Zăbala",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--zabala-35-2025",
+"path": "local/covasna/zabala/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 35/2025 privind aprobarea rectificării bugetului local al Comunei Zăbala pe anul 2025 pe total, pe secțiunile de funcționare și dezvoltare",
+"short": "HCL Zăbala nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234668",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -199,6 +839,228 @@
 "council_name": "Consiliul Local al Comunei Zăbala",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--zabala-39-2025",
+"path": "local/covasna/zabala/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 39/2025 privind aprobarea rectificării bugetului local al Comunei Zăbala pe anul 2025 pe total, pe secțiunile de funcționare și dezvoltare",
+"short": "HCL Zăbala nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234672",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-40-2025",
+"path": "local/covasna/zabala/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 40/2025 privind aprobarea Contului de Execuție al Bugetului local al Comunei Zăbala pe Trim. II. în limita prevederilor și creditelor bugetare aprobate pe anul 2025",
+"short": "HCL Zăbala nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234673",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-41-2025",
+"path": "local/covasna/zabala/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 41/2025 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Zăbala nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234674",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-42-2025",
+"path": "local/covasna/zabala/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 42/2025 privind aprobarea rectificării bugetului local al Comunei Zăbala pe anul 2025 pe total, pe secțiunile de funcționare și dezvoltare",
+"short": "HCL Zăbala nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234675",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-43-2025",
+"path": "local/covasna/zabala/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 43/2025",
+"short": "HCL Zăbala nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234676",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--zabala-44-2025",
+"path": "local/covasna/zabala/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 44/2025 privind aprobarea Regulamentului de acces, conduită și înregistrare video/audio în sediul Primăriei Comunei Zăbala, județul Covasna",
+"short": "HCL Zăbala nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234677",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-45-2025",
+"path": "local/covasna/zabala/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 45/2025 privind desemnarea reprezentanților Consiliului local al comunei Zăbala, în Consiliul de Administrație al Școlii Gimnaziale nr.1 Zăbala jud.Covasna, pentru anul școlar 2025-2026",
+"short": "HCL Zăbala nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234678",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-46-2025",
+"path": "local/covasna/zabala/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 46/2025",
+"short": "HCL Zăbala nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234679",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--zabala-47-2025",
+"path": "local/covasna/zabala/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 47/2025 privind desemnarea reprezentantului Consiliului Local al comunei Zăbala, în Comisia de Evaluare și Asigurare a Calității, constituită la nivelul Școlii gimanziale nr.1 Zăbala jud.Covasna, pentru anul școlar 2025-2026",
+"short": "HCL Zăbala nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234680",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--zabala-48-2025",
+"path": "local/covasna/zabala/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zăbala nr. 48/2025 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Construire pod peste pârâul Zăbala, în comuna Zăbala, județul Covasna”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Zăbala nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/zabala-cv/registru-hcl/234681",
+"council": "covasna/zabala",
+"council_name": "Consiliul Local al Comunei Zăbala",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

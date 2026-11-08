@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/motaieni/2023",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--motaieni-42-2023",
+   "path": "local/dambovita/motaieni/2023/42",
+   "short": "HCL Moțăieni nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 42/2023",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2025/01/hcl-nr.42-din-31.05.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2025/01/hcl-nr.42-din-31.05.2023.pdf",
+     "sha256": "cd7f1f147c5d5e3075edc7245ae8639412d07755c252a1788fb93cfe163cbbb5"
+    }
+   ]
+  }
+ ]
+}

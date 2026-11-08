@@ -3,6 +3,96 @@
  "shard": "local/dambovita/lucieni/2026",
  "acts": [
   {
+   "slug": "hcl-dambovita--lucieni-10-2026",
+   "path": "local/dambovita/lucieni/2026/10",
+   "short": "HCL Lucieni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 10/2026 privind aprobarea Metodologiei de evaluare a nevoilor comunității în vederea organizării serviciilor sociale pentru persoanele vârstnice din UA.T. comuna Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#115770",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#115770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-11-2026",
+   "path": "local/dambovita/lucieni/2026/11",
+   "short": "HCL Lucieni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 11/2026 privind completarea inventarului domeniului privat al comunei Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#116621",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#116621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-14-2026",
+   "path": "local/dambovita/lucieni/2026/14",
+   "short": "HCL Lucieni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 14/2026 privind alegerea preşedintelui de şedinţă a Consiliului Local al comunei Lucieni pentru ședința din data de 26.03.2026",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#119243",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#119243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-15-2026",
+   "path": "local/dambovita/lucieni/2026/15",
+   "short": "HCL Lucieni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 15/2026 privind aprobarea Planului anual de acţiune privind serviciile sociale administrate şi finanţate din bugetul Consiliului Local Lucieni pentru anul 2026",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#118229",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#118229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-16-2026",
+   "path": "local/dambovita/lucieni/2026/16",
+   "short": "HCL Lucieni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 16/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-17-2026",
+   "path": "local/dambovita/lucieni/2026/17",
+   "short": "HCL Lucieni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 17/2026 privind acordarea ajutoarelor de urgență la nivelul comunei Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#118301",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#118301",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-18-2026",
    "path": "local/dambovita/lucieni/2026/18",
    "short": "HCL Lucieni nr. 18/2026",
@@ -28,6 +118,21 @@
      "from": "2026-03-26",
      "units": 1,
      "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#118604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-2-2026",
+   "path": "local/dambovita/lucieni/2026/2",
+   "short": "HCL Lucieni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 2/2026 privind aprobarea Raportului de activitate pentru anul 2025, a Programului de activitate pentru anul 2026 și a Calendarului activităților pentru anul 2026 ale Bibliotecii Comunale Lucieni",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#114230",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#114230",
      "sha256": null
     }
    ]
@@ -163,6 +268,21 @@
      "from": "2026-04-29",
      "units": 1,
      "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#120821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-3-2026",
+   "path": "local/dambovita/lucieni/2026/3",
+   "short": "HCL Lucieni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 3/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local Lucieni pentru o perioadă de trei luni, februarie - aprilie 2026",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#114459",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#114459",
      "sha256": null
     }
    ]
@@ -318,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-4-2026",
+   "path": "local/dambovita/lucieni/2026/4",
+   "short": "HCL Lucieni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 4/2026 privind analiza stadiului de înscriere a datelor în registrul agricol pe trimestrul IV al anului 2025 și aprobarea programului de măsuri pentru eficientizarea înscrierii datelor în registrul agricol",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#114465",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#114465",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-40-2026",
    "path": "local/dambovita/lucieni/2026/40",
    "short": "HCL Lucieni nr. 40/2026",
@@ -468,6 +603,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-5-2026",
+   "path": "local/dambovita/lucieni/2026/5",
+   "short": "HCL Lucieni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 5/2026 privind aprobarea execuției bugetului local de venituri și cheltuieli al Primăriei comunei Lucieni la finele trimestrului IV al anului 2025",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#114510",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#114510",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-50-2026",
    "path": "local/dambovita/lucieni/2026/50",
    "short": "HCL Lucieni nr. 50/2026",
@@ -598,6 +748,21 @@
      "from": "2026-09-28",
      "units": 1,
      "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#129701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-6-2026",
+   "path": "local/dambovita/lucieni/2026/6",
+   "short": "HCL Lucieni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 6/2026 pentru validarea Dispoziției nr. 5/16.01.2026 privind aprobarea utilizării excedentului bugetului local al comunei Lucieni rezultat la încheierea exercițiului bugetar al anului 2025",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#114520",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#114520",
      "sha256": null
     }
    ]
@@ -753,6 +918,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-7-2026",
+   "path": "local/dambovita/lucieni/2026/7",
+   "short": "HCL Lucieni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 7/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-70-2026",
    "path": "local/dambovita/lucieni/2026/70",
    "short": "HCL Lucieni nr. 70/2026",
@@ -763,6 +943,21 @@
      "from": "2026-10-27",
      "units": 1,
      "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#131835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-8-2026",
+   "path": "local/dambovita/lucieni/2026/8",
+   "short": "HCL Lucieni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 8/2026 privind actualizarea principalilor indicatori tehnico-economici, după procedurile de achiziție, pentru obiectivul ”Modernizare bază sportivă, sat Lucieni în comuna Lucieni, județul Dâmbovița” finanțat prin asociere cu Consiliul Județean Dâmbovița prin Programul Județean de Dezvoltare Locală, precum și a cotelor de cofinanțare",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#114847",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#114847",
      "sha256": null
     }
    ]

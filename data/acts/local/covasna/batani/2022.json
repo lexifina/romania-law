@@ -3,6 +3,28 @@
 "shard": "local/covasna/batani/2022",
 "acts": [
 {
+"slug": "hcl-covasna--batani-43-2022",
+"path": "local/covasna/batani/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 43/2022 privind modificarea şi completarea Contractului de delegare nr. 4 din 2009. - ADI „ECO SEPSI”, încheiat cu TEGA S.A..pdf",
+"short": "HCL Bățani nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-08",
+"latest": "2022-12-08",
+"portal": "https://nagybacon.ro/ro/monitorul-oficial-local",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--batani-44-2022",
 "path": "local/covasna/batani/2022/44",
 "kind": "local",
@@ -26,6 +48,94 @@
 }
 },
 {
+"slug": "hcl-covasna--batani-45-2022",
+"path": "local/covasna/batani/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 45/2022 privind aprobarea Statutul comunei Bățani.pdf",
+"short": "HCL Bățani nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-08",
+"latest": "2022-12-08",
+"portal": "https://nagybacon.ro/ro/monitorul-oficial-local",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--batani-46-2022",
+"path": "local/covasna/batani/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 46/2022 privind prelungirea mandatului membrilor Consiliului de Administrație și al președintelui - SC Constructorul Bățani SRL.pdf",
+"short": "HCL Bățani nr. 46/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-08",
+"latest": "2022-12-08",
+"portal": "https://nagybacon.ro/ro/monitorul-oficial-local",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--batani-47-2022",
+"path": "local/covasna/batani/2022/47",
+"kind": "local",
+"year": "2022",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 47/2022 privind rectificării Bugetului general de venituri și cheltuieli al comunei Bățani, pe anul 2022.pdf",
+"short": "HCL Bățani nr. 47/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-08",
+"latest": "2022-12-08",
+"portal": "https://nagybacon.ro/ro/monitorul-oficial-local",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--batani-48-2022",
+"path": "local/covasna/batani/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 48/2022 privind alegerea presedintelui de sedinta.pdf",
+"short": "HCL Bățani nr. 48/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://nagybacon.ro/ro/monitorul-oficial-local",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--batani-49-2022",
 "path": "local/covasna/batani/2022/49",
 "kind": "local",
@@ -45,6 +155,73 @@
 "council_name": "Consiliul Local al Comunei Bățani",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-covasna--batani-50-2022",
+"path": "local/covasna/batani/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 50/2022 privind planul de acțiuni de interes local pe anul 2023.pdf",
+"short": "HCL Bățani nr. 50/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://nagybacon.ro/ro/monitorul-oficial-local",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--batani-51-2022",
+"path": "local/covasna/batani/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 51/2022",
+"short": "HCL Bățani nr. 51/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": null,
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--batani-52-2022",
+"path": "local/covasna/batani/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 52/2022 privind rectificarea bugetului local.pdf",
+"short": "HCL Bățani nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://nagybacon.ro/ro/monitorul-oficial-local",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

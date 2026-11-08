@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/covasna/borosneu-mare/2025",
+"acts": [
+{
+"slug": "hcl-covasna--borosneu-mare-28-2025",
+"path": "local/covasna/borosneu-mare/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Boroșneu Mare nr. 28/2025 cu privire la alegerea presedintelui de sedinta.pdf",
+"short": "HCL Boroșneu Mare nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-11",
+"latest": "2025-04-11",
+"portal": "https://nagyborosnyo.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/borosneu-mare",
+"council_name": "Consiliul Local al Comunei Boroșneu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--borosneu-mare-29-2025",
+"path": "local/covasna/borosneu-mare/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Boroșneu Mare nr. 29/2025 Pentru modificarea Hotararii nr. 36-2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Borosneu Mare.pdf",
+"short": "HCL Boroșneu Mare nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-20",
+"latest": "2025-03-20",
+"portal": "https://nagyborosnyo.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/borosneu-mare",
+"council_name": "Consiliul Local al Comunei Boroșneu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--borosneu-mare-33-2025",
+"path": "local/covasna/borosneu-mare/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Boroșneu Mare nr. 33/2025 privind participarea U.A.T",
+"short": "HCL Boroșneu Mare nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-11",
+"latest": "2025-04-11",
+"portal": "https://nagyborosnyo.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/borosneu-mare",
+"council_name": "Consiliul Local al Comunei Boroșneu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--borosneu-mare-50-2025",
+"path": "local/covasna/borosneu-mare/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Boroșneu Mare nr. 50/2025 cu privire la alegera presedintelui de sedinta.pdf",
+"short": "HCL Boroșneu Mare nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-11",
+"latest": "2025-07-11",
+"portal": "https://nagyborosnyo.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/borosneu-mare",
+"council_name": "Consiliul Local al Comunei Boroșneu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

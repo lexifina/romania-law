@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--moreni-70-2023",
+   "path": "local/dambovita/moreni/2023/70",
+   "short": "HCL Moreni nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 70/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f2652d7edbfb30367725100c73ab6328f9a13c92eb710da9d5df03e7d9a0f44b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--moreni-90-2023",
    "path": "local/dambovita/moreni/2023/90",
    "short": "HCL Moreni nr. 90/2023",
@@ -59,6 +74,51 @@
      "units": 1,
      "source_url": "https://primariamoreni.ro/wp-content/uploads/2023/05/HCL-nr-90_2023.pdf",
      "sha256": "a0796dff475e5f6bad08aa45cd1a13692d151f1675de0cd562d8fa307594d406"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-91-2023",
+   "path": "local/dambovita/moreni/2023/91",
+   "short": "HCL Moreni nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 91/2023",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2023/05/HCL-nr-91_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2023/05/HCL-nr-91_2023.pdf",
+     "sha256": "66a682831ec859a81ee2fe9fed876f84c21fcc8e765b06161b36f0d636db6d45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-92-2023",
+   "path": "local/dambovita/moreni/2023/92",
+   "short": "HCL Moreni nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 92/2023",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2023/05/HCL-nr-92_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2023/05/HCL-nr-92_2023.pdf",
+     "sha256": "4e7d7e1ae4a33c2bd3417efeb0477eea1236ab53bb63569bbd9ff9e99316e4da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--moreni-93-2023",
+   "path": "local/dambovita/moreni/2023/93",
+   "short": "HCL Moreni nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 93/2023 Privind aprobarea contractării și garantării unei finanțări rambursabile interne Analizând temeiurile juridice, respectiv; C) art.1 alin.(2), art.3, art.95 alin.(3), art.96, art.100, art.105 alin.(1), art.106 alin.(1) și alin.(2)art.129 alin.(2) și alin.(4) lit.b), art.155 alin.(1) lit.c) și alin.(4) lit.d), art.240 și art.243 alin.(1) lit.a) din Ordonanța de Urgență a Guvernului nr.57/2019 privin",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2023/05/HCL-nr-93_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2023/05/HCL-nr-93_2023.pdf",
+     "sha256": "ff95f5dd9e6b957664b6c371f375120dca426db73ed05dbacf967758c2e72b16"
     }
    ]
   }

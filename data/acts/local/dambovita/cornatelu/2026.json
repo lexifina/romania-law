@@ -201,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--cornatelu-10-2026",
+"path": "local/dambovita/cornatelu/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 10/2026 privind aprobarea închirierii unei suprafețe de pajiște aparținând domeniului privat al comunei Cornățelu, județul Dâmbovița",
+"short": "HCL Cornățelu nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/248776",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--cornatelu-11-2026",
 "path": "local/dambovita/cornatelu/2026/11",
 "kind": "local",
@@ -220,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Cornățelu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-12-2026",
+"path": "local/dambovita/cornatelu/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 12/2026 privind alegerea președintelui de ședință al Consiliului Local Cornățelu, județul Dâmbovița, pentru perioada FEBRUARIE 2026 - APRILIE 2026",
+"short": "HCL Cornățelu nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/255519",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -264,6 +308,29 @@
 "council_name": "Consiliul Local al Comunei Cornățelu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-15-2026",
+"path": "local/dambovita/cornatelu/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 15/2026",
+"short": "HCL Cornățelu nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/255522",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -330,6 +397,50 @@
 "council_name": "Consiliul Local al Comunei Cornățelu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-19-2026",
+"path": "local/dambovita/cornatelu/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 19/2026 privind concesionarea directă a unui spațiu din cadrul Dispensarului Uman din localitatea Bolovani, comuna Cornățelu, județul Dâmbovița",
+"short": "HCL Cornățelu nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/255526",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--cornatelu-20-2026",
+"path": "local/dambovita/cornatelu/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 20/2026 privind concesionarea, prin licitație publică, a unor spații situate în Dispensarul Uman din localitatea Bolovani, comuna Cornățelu, județul Dâmbovița",
+"short": "HCL Cornățelu nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://emol.ro/cornatelu-db/registru-hcl/255527",
+"council": "dambovita/cornatelu",
+"council_name": "Consiliul Local al Comunei Cornățelu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

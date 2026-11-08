@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/motaieni/2024",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--motaieni-18-2024",
+   "path": "local/dambovita/motaieni/2024/18",
+   "short": "HCL Moțăieni nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 18/2024",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2024/05/hotararea-nr.-18_24.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2024/05/hotararea-nr.-18_24.05.2024.pdf",
+     "sha256": "161a2ceba5475bfee6e52cfe6bf6aa3a65dfa522c185a45a0a5323b42d425285"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--motaieni-20-2024",
+   "path": "local/dambovita/motaieni/2024/20",
+   "short": "HCL Moțăieni nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Moțăieni nr. 20/2024",
+   "url": "https://www.primariamotaieni.ro/wp-content/uploads/2024/05/hotarare-20-24.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://www.primariamotaieni.ro/wp-content/uploads/2024/05/hotarare-20-24.05.2024.pdf",
+     "sha256": "f347c7ce2e0ec4b1e1262e6affd3a8c0de1accaa18c1a64d06471a7c860474a0"
+    }
+   ]
+  }
+ ]
+}

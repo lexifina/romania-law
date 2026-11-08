@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dambovita/buciumeni/2023",
+"acts": [
+{
+"slug": "hcl-dambovita--buciumeni-24-2023",
+"path": "local/dambovita/buciumeni/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 24/2023",
+"short": "HCL Buciumeni nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+"council": "dambovita/buciumeni",
+"council_name": "Consiliul Local al Comunei Buciumeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

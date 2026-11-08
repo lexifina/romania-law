@@ -3,6 +3,21 @@
  "shard": "local/covasna/dobarlau/2026",
  "acts": [
   {
+   "slug": "hcl-covasna--dobarlau-1-2026",
+   "path": "local/covasna/dobarlau/2026/1",
+   "short": "HCL Dobârlău nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 1/2026 privind ratificarea Dispoziției nr.2 din 8 ianuarie 2026 a primarului comunei Dobârlău privind acoperirea definitivă a deficitului anului 2025 a secțiunii de dezvoltare a bugetului local al comunei Dobârlău – sursa A",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/261591",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/261591",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--dobarlau-10-2026",
    "path": "local/covasna/dobarlau/2026/10",
    "short": "HCL Dobârlău nr. 10/2026",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--dobarlau-12-2026",
+   "path": "local/covasna/dobarlau/2026/12",
+   "short": "HCL Dobârlău nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 12/2026 privind modificarea HCL NR.96/ 2025 privind aprobarea impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/281533",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/281533",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--dobarlau-13-2026",
    "path": "local/covasna/dobarlau/2026/13",
    "short": "HCL Dobârlău nr. 13/2026",
@@ -43,6 +73,21 @@
      "from": "2026-07-31",
      "units": 1,
      "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/281534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--dobarlau-14-2026",
+   "path": "local/covasna/dobarlau/2026/14",
+   "short": "HCL Dobârlău nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 14/2026 privind abrogarea HCL Nr.7/30.01.2026 privind aprobarea cererii de suplimentare cu notă justificativă și actualizarea Devizului general și a indicatorilor tehnico-economici ai obiectivului de investiție „ Modernizare drumuri sat Mărcuș și sat Dobârlău, comuna Dobârlău, județul Covasna”, finanțat prin Programul național de investiții ,,Anghel Saligny”",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/282041",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/282041",
      "sha256": null
     }
    ]
@@ -73,6 +118,81 @@
      "from": "2026-08-04",
      "units": 1,
      "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/282043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--dobarlau-17-2026",
+   "path": "local/covasna/dobarlau/2026/17",
+   "short": "HCL Dobârlău nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 17/2026 privind alegerea preşedintelui de şedinţă, pentru perioada aprilie-iunie 2026",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/281709",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/281709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--dobarlau-18-2026",
+   "path": "local/covasna/dobarlau/2026/18",
+   "short": "HCL Dobârlău nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 18/2026",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/281710",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/281710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--dobarlau-19-2026",
+   "path": "local/covasna/dobarlau/2026/19",
+   "short": "HCL Dobârlău nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 19/2026",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/281711",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/281711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--dobarlau-2-2026",
+   "path": "local/covasna/dobarlau/2026/2",
+   "short": "HCL Dobârlău nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 2/2026 privind aprobarea tipului de suport alimentar, precum şi a modalităţii de distribuire a acestuia elevilor şi preşcolarilor din cadrul Școlii Gimnaziale Dobârlău, comuna Dobârlău, județul Covasna",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/261592",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/261592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--dobarlau-20-2026",
+   "path": "local/covasna/dobarlau/2026/20",
+   "short": "HCL Dobârlău nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 20/2026 privind stabilirea numărului maxim de posturi, aprobarea structurii organizatorice și a statului de funcții, ale aparatului de specialitae al primarului comunei Dobârlău și ale serviciilor publice fără personalitate juridică aflate în subordinea Consiliului Local al comunei Dobârlău",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/282040",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/282040",
      "sha256": null
     }
    ]
@@ -123,6 +243,36 @@
    ]
   },
   {
+   "slug": "hcl-covasna--dobarlau-24-2026",
+   "path": "local/covasna/dobarlau/2026/24",
+   "short": "HCL Dobârlău nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 24/2026 privind acordarea unui mandat special reprezentantului Comunei Dobârlău în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară ”AQUACOV”",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/282050",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/282050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--dobarlau-25-2026",
+   "path": "local/covasna/dobarlau/2026/25",
+   "short": "HCL Dobârlău nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 25/2026 privind acordarea unui mandat special reprezentantului Comunei Dobârlău în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară ”AQUACOV” pentru aprobarea modificării și completării Statutului actualizat al Asociației de Dezvoltare Intercomunitară ”AQUACOV”",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/282051",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/282051",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--dobarlau-26-2026",
    "path": "local/covasna/dobarlau/2026/26",
    "short": "HCL Dobârlău nr. 26/2026",
@@ -153,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--dobarlau-28-2026",
+   "path": "local/covasna/dobarlau/2026/28",
+   "short": "HCL Dobârlău nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 28/2026 privind modificarea Hotărârii Consiliului Local Nr.20/06.04.2026 privind stabilirea numărului maxim de posturi, aprobarea structurii organizatorice si a statului de functii , ale aparatului de specilitate al primarului comunei Dobârlău și ale serviciilor publice fără personalitate juridică aflate în subordinea Consiliului Local al comunei Dobârlău",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/282054",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/282054",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--dobarlau-29-2026",
    "path": "local/covasna/dobarlau/2026/29",
    "short": "HCL Dobârlău nr. 29/2026",
@@ -163,6 +328,21 @@
      "from": "2026-08-04",
      "units": 1,
      "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/282055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--dobarlau-3-2026",
+   "path": "local/covasna/dobarlau/2026/3",
+   "short": "HCL Dobârlău nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 3/2026 privind aprobarea documentației și a documentelor suport aferente procedurii de atribuire a contractului de servicii de catering - Masă caldă pentru elevii Școlii Gimnaziale Dobârlău, județul Covasna și unitățile arondate, prin Programul national ”Masă sănătoasă”, pentru anul 2026, aprobarea aplicării procedurii simplificate, varianta online, precum și desemnarea Comisiei de evaluare și a expertilor cooptați",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/261593",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/261593",
      "sha256": null
     }
    ]
@@ -318,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--dobarlau-4-2026",
+   "path": "local/covasna/dobarlau/2026/4",
+   "short": "HCL Dobârlău nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 4/2026 privind organizarea întâlnirilor cu cetăţenii şi programul audienţelor acordate cetățenilor de către consilierii locali ai comunei Dobârlău, în perioada ianuarie - decembrie 2026",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/281524",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/281524",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--dobarlau-40-2026",
    "path": "local/covasna/dobarlau/2026/40",
    "short": "HCL Dobârlău nr. 40/2026",
@@ -453,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--dobarlau-5-2026",
+   "path": "local/covasna/dobarlau/2026/5",
+   "short": "HCL Dobârlău nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 5/2026",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/281525",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/281525",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--dobarlau-6-2026",
    "path": "local/covasna/dobarlau/2026/6",
    "short": "HCL Dobârlău nr. 6/2026",
@@ -493,6 +703,21 @@
      "from": "2026-07-31",
      "units": 1,
      "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/281529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--dobarlau-9-2026",
+   "path": "local/covasna/dobarlau/2026/9",
+   "short": "HCL Dobârlău nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârlău nr. 9/2026 privind aprobarea Contractului-model care se va incheia intre Judetul Covasna prin Consiliul Judetean Covasna, Directia Generala de Asistenta Sociala si Protectia Copilului Covasna si comuna Dobârlău prin Consiliul Local pentru cofinanțarea serviciilor sociale acordate în cadrul Directiei Generale de Asistenta Sociala si Protectia Copilului Covasna, pe anul 2026",
+   "url": "https://emol.ro/dobarlau-cv/registru-hcl/281530",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dobarlau-cv/registru-hcl/281530",
      "sha256": null
     }
    ]

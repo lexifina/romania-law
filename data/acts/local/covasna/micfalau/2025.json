@@ -3,6 +3,94 @@
 "shard": "local/covasna/micfalau/2025",
 "acts": [
 {
+"slug": "hcl-covasna--micfalau-4-2025",
+"path": "local/covasna/micfalau/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 4/2025 privind acordarea unui mandat special primarului comunei Micfalău în Adunarea generală a Asociației de Dezvoltare Intercomunitară ”ZONA METROPOLITANĂ SEPSI” pentru aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară ”ZONA METROPOLITANĂ SEPSI” Consiliul Local al comunei Micfalău, întrunit în ședință ordinară din data de 21.01.2025; Având în vedere Referatul de aprobare nr. 481",
+"short": "HCL Micfalău nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-7-2025",
+"path": "local/covasna/micfalau/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 7/2025 pentru aprobarea Indicatorilor tehnico-economici, actualizați, după încheirea contractului de achiziție publică pentru obiectivul de investiții „Modernizare străzi, comuna Micfalău” finanțat prin Programul național de investiții “Anghel Saligny”",
+"short": "HCL Micfalău nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-10-2025",
+"path": "local/covasna/micfalau/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 10/2025 privind aprobarea « Planului de gospodărire al comunei Micfalău » Consiliul local al comunei Micfalău, județul Covasna; Întrunit în ședință publică ordinară din data de 19 februarie 2025; Analizând proiectul de hotărâre și referatul de aprobare a Primarului comunei Micfalău prin care propune aprobarea Planului de gospodărire al comunei Micfalău ; Având în vedere: - raportul compartimentului de spe",
+"short": "HCL Micfalău nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-13-2025",
+"path": "local/covasna/micfalau/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 13/2025 cu privire la stabilirea modalităților de acordare a ajutoarelor de urgență din bugetul local al comunei Micfalău, precum și desemnarea Comisiei de evaluare a cererii de acordare a ajutoarelor de urgență; Consiliul local al comunei Micfalău, întrunit în ședința ordinară din data de 19 februarie 2025, Analizând referatul de aprobare al primarului comunei Micfalău nr.539/13.02.2025 precum și raportu",
+"short": "HCL Micfalău nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--micfalau-14-2025",
 "path": "local/covasna/micfalau/2025/14",
 "kind": "local",
@@ -22,6 +110,182 @@
 "council_name": "Consiliul Local al Comunei Micfalău",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-15-2025",
+"path": "local/covasna/micfalau/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 15/2025 privind aprobarea documentației de atribuire a contractului de lucrări pentru obiectivul de investiție ”Reabilitarea și eficientizarea energetică a Căminului Cultural din Micfalău ”, aprobarea aplicării procedurii simplificate, varianta online, precum și desemnarea Comisiei de evaluare și a experților cooptați Consiliul Local al Comunei Micfalău, județul Covasna, întrunit în ședință ordinară publi",
+"short": "HCL Micfalău nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-16-2025",
+"path": "local/covasna/micfalau/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 16/2025 privind aprobarea solicitării de trecere a bunului mobil – microbuz electric 8+1 locuri pentru elevi - din proprietatea publică a Județului Covasna, în proprietatea publică a U.A.T",
+"short": "HCL Micfalău nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-17-2025",
+"path": "local/covasna/micfalau/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 17/2025 privind aprobarea bugetului local al comunei Micfalău pentru anul 2025 Consiliul local al comunei Micfalău, județul Covasna, Întrunit în ședință publică ordinară din data de 24.03.2025, Analizând Proiectul de hotărâre și Raportul Primarului comunei Micfalău prin care se arată necesitatea și oportunitatea aprobării bugetului local al comunei Micfalău pe anul 2025, Văzând: Raportul de specialitate a",
+"short": "HCL Micfalău nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-24",
+"latest": "2025-03-24",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-19-2025",
+"path": "local/covasna/micfalau/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 19/2025 privind aprobarea cuantumurilor cotizațiilor aferente comunei Micfalău, în calitate de membru, pentru Asociațiile de Dezvoltare Intercomunitare și pentru alte Asociații Consiliul local al comunei Micfalău, judetul Covasna, Întrunit în ședința sa publică ordinară din 24 martie 2025; Analizând proiectul de hotărâre și referatul de aprobare a Primarului comunei Micfalău privind aprobarea cuantumurilo",
+"short": "HCL Micfalău nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-24",
+"latest": "2025-03-24",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-20-2025",
+"path": "local/covasna/micfalau/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 20/2025 privind aprobare transfer autoturisme FIAT Probatiune.docx",
+"short": "HCL Micfalău nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-24",
+"latest": "2025-03-24",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-21-2025",
+"path": "local/covasna/micfalau/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 21/2025 privind desemnarea comisie de evaluare secretar general.doc",
+"short": "HCL Micfalău nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-24",
+"latest": "2025-03-24",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-23-2025",
+"path": "local/covasna/micfalau/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 23/2025 pentru aprobarea încheierii Acordului de parteneriat pentru constituirea unui grup de acțiune locală (GAL) în cadrul Programului pentru Acvacultură și Pescuit 2021-2027; Consiliul local al comunei Micfalău, întrunit în ședință ordinară din data de 24.03.2025; Având în vedere : referatul de aprobare nr.1805/12.03.2025 al Primarului comunei Micfalău; raportul de specialitate nr.1806/12.03.2025 al vi",
+"short": "HCL Micfalău nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-24",
+"latest": "2025-03-24",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--micfalau-26-2025",
+"path": "local/covasna/micfalau/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Micfalău nr. 26/2025 privind aprobarea modului de întocmire și ținere la zi a Registrului agricol al comunei Micfalău pentru perioada 2025-2029 Consiliul Local al comunei Micfalău, judetul Covasna, Întrunit în ședința sa publică ordinară din data de 28 aprilie 2025, Analizând referatul de aprobare și proiectul de hotărâre inițiate de primarul comunei Micfalău privind aprobarea modului de întocmire și ținere la zi a Re",
+"short": "HCL Micfalău nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://mikoujfalu.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/micfalau",
+"council_name": "Consiliul Local al Comunei Micfalău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -289,6 +289,50 @@
 }
 },
 {
+"slug": "hcl-dambovita--manesti-14-2020",
+"path": "local/dambovita/manesti/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 14/2020 privind aprobarea închirierii terenului în suprafață de 1050 mp aferent sondei 483 SNP Drăgăești categoria folosință neproductiv și a terenului în suprafață de 1536 mp aferent sondei 119 MP Drăgăești, categoria folosință neproductiv, societății OMV Petrom SA pentru o perioadă de 3 (trei) ani",
+"short": "HCL Mănești nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://emol.ro/manesti-db/registru-hcl/188",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-15-2020",
+"path": "local/dambovita/manesti/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 15/2020 privind împuternicirea primarului comunei Mănești, județul Dâmbovița pentru semnarea contractului de vânzare-cumpărare având ca obiect imobilul compus din suprafața de 1009 (una mie nouă)mp teren curți-construcții împreună cu construcția în suprafață de 145 mp, situat în intravilanul satului Drăgăești-Ungureni, comuna Mănești, județul Dâmbovița, cu nr.cadastral 520, înscris în cartea funciară nr.71906(provenită din conversia de pe hârtie a CF nr.205)a comunei Mănești, județul Dâmbovița",
+"short": "HCL Mănești nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://emol.ro/manesti-db/registru-hcl/189",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--manesti-16-2020",
 "path": "local/dambovita/manesti/2020/16",
 "kind": "local",
@@ -355,6 +399,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--manesti-19-2020",
+"path": "local/dambovita/manesti/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 19/2020 privind închirierea terenului situat în extravilanul comunei Mănești sat Drăgăești-Ungureni în suprafață de 8.407 mp categoria de folosință DE în vederea realizării obiectivului ”Deviere conductă gaz SSTG Boțești-SRM Teiș”",
+"short": "HCL Mănești nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/manesti-db/registru-hcl/8761",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--manesti-20-2020",
 "path": "local/dambovita/manesti/2020/20",
 "kind": "local",
@@ -374,6 +440,29 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-21-2020",
+"path": "local/dambovita/manesti/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 21/2020",
+"short": "HCL Mănești nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/manesti-db/registru-hcl/8763",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -509,6 +598,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--manesti-28-2020",
+"path": "local/dambovita/manesti/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 28/2020 privind alegerea președintelui de ședință pentru perioada iulie-septembrie 2020",
+"short": "HCL Mănești nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-22",
+"latest": "2020-06-22",
+"portal": "https://emol.ro/manesti-db/registru-hcl/8774",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--manesti-29-2020",
 "path": "local/dambovita/manesti/2020/29",
 "kind": "local",
@@ -550,6 +661,28 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-31-2020",
+"path": "local/dambovita/manesti/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 31/2020 privind constatarea tacitei relocațiuni și aprobarea prelungirii termenului contractului de închiriere cu SC OMV PETROM SA pentru terenul în suprafață de 2147 mp aferent conductei de gaze Vulturești-Parc Teiș",
+"short": "HCL Mănești nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-27",
+"latest": "2020-07-27",
+"portal": "https://emol.ro/manesti-db/registru-hcl/8784",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -663,6 +796,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--manesti-37-2020",
+"path": "local/dambovita/manesti/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 37/2020 privind desemnarea reprezentanților consiliului local în cadrul consiliului de administrație al școlii gimnaziale Mănești, județul Dâmbovița, pentru anul școlar 2020-2021",
+"short": "HCL Mănești nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-15",
+"latest": "2020-09-15",
+"portal": "https://emol.ro/manesti-db/registru-hcl/9853",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--manesti-38-2020",
 "path": "local/dambovita/manesti/2020/38",
 "kind": "local",
@@ -682,6 +837,29 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-39-2020",
+"path": "local/dambovita/manesti/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 39/2020",
+"short": "HCL Mănești nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-18",
+"latest": "2020-09-18",
+"portal": "https://emol.ro/manesti-db/registru-hcl/9876",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -727,6 +905,28 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-42-2020",
+"path": "local/dambovita/manesti/2020/42",
+"kind": "local",
+"year": "2020",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 42/2020 privind alegerea președintelui de ședință",
+"short": "HCL Mănești nr. 42/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/manesti-db/registru-hcl/16792",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -881,6 +1081,29 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--manesti-50-2020",
+"path": "local/dambovita/manesti/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 50/2020",
+"short": "HCL Mănești nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/manesti-db/registru-hcl/16830",
+"council": "dambovita/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

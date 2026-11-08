@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/covasna/2017",
+ "acts": [
+  {
+   "slug": "hcl-covasna--covasna-74-2017",
+   "path": "local/covasna/covasna/2017/74",
+   "short": "HCL Covasna nr. 74/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 74/2017 cu privire la aprobarea rectificarii bugetului general consolidat al orasului Covasna pe anul 2017",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2017/hcl74.pdf",
+     "sha256": "a1421b57fb5bd586831be3674a506c9eaf9f717c092a596a7ba6801aa152c52e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-76-2017",
+   "path": "local/covasna/covasna/2017/76",
+   "short": "HCL Covasna nr. 76/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 76/2017 cu privire la clarificarea situației juridice a terenurilor aparținând Pieței Săptămânale și Remizei PSI",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2017/hcl76.pdf",
+     "sha256": "7c4ca5de7881d0c30b566903dec5c39b8318e1bd3da21d8e284d689160014c68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-77-2017",
+   "path": "local/covasna/covasna/2017/77",
+   "short": "HCL Covasna nr. 77/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 77/2017 cu privire la aprobarea includerii în inventarul domeniului privat al orașului a terenului aferent imobilelor din str. 1 Decembrie 1918, nr. 3 și completarea anexei 4 la HCL 84/2009 cu privire la aprobarea Statutului orașului Covasna și începerea demersurilor pentru vânzarea unor parcele aferente construcțiilor",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2017/hcl77.pdf",
+     "sha256": "740d85cee3355513d31a985c30de620987b2d763ebe85214db424630547a85f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-80-2017",
+   "path": "local/covasna/covasna/2017/80",
+   "short": "HCL Covasna nr. 80/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 80/2017",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2017/hcl80.pdf",
+     "sha256": "c7a6257bef08b1dc7c7ef12b9923be715294eef96d0597661941c614586fe3f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-84-2017",
+   "path": "local/covasna/covasna/2017/84",
+   "short": "HCL Covasna nr. 84/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 84/2017 cu privire la aprobarea inventarului clădirilor care aparțin domeniului privat al oraşului Covasna",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2017/hcl84.pdf",
+     "sha256": "6570e5fca07060b53529eb8d27099c048da43021e72f6ee298f24ac39122dc06"
+    }
+   ]
+  }
+ ]
+}

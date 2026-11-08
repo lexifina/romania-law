@@ -33,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-11-2021",
+   "path": "local/dambovita/manesti/2021/11",
+   "short": "HCL Mănești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 11/2021 privind încheierea unui acord de parteneriat între comuna Mănești prin Consiliul local Mănești și Asociația Națională Cultul Eroilor ” Regina Maria” -Filiala județeană ”Mihai Viteazul ” Dâmbovița",
+   "url": "https://emol.ro/manesti-db/registru-hcl/24185",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/24185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-12-2021",
+   "path": "local/dambovita/manesti/2021/12",
+   "short": "HCL Mănești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 12/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/manesti-db/registru-hcl/24186",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/24186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-13-2021",
+   "path": "local/dambovita/manesti/2021/13",
+   "short": "HCL Mănești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 13/2021",
+   "url": "https://emol.ro/manesti-db/registru-hcl/24187",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/24187",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-14-2021",
    "path": "local/dambovita/manesti/2021/14",
    "short": "HCL Mănești nr. 14/2021",
@@ -138,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-20-2021",
+   "path": "local/dambovita/manesti/2021/20",
+   "short": "HCL Mănești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 20/2021 privind constatarea încetării de drept, înainte de expirarea duratei normale a mandatului de consilier local în cadrul consiliului local al comunei Mănești, județul Dâmbovița",
+   "url": "https://emol.ro/manesti-db/registru-hcl/24220",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/24220",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-21-2021",
    "path": "local/dambovita/manesti/2021/21",
    "short": "HCL Mănești nr. 21/2021",
@@ -163,6 +223,51 @@
      "from": "2021-03-12",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/24222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-23-2021",
+   "path": "local/dambovita/manesti/2021/23",
+   "short": "HCL Mănești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 23/2021 privind aprobarea Raportului de activitate al bibliotecii comunale Mănești pe anul 2020 Programului de activitate al bibliotecii comunale Mănești pe anul 2021 Calendarului manifestărilor cultural-artistice 2021",
+   "url": "https://emol.ro/manesti-db/registru-hcl/24225",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/24225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-24-2021",
+   "path": "local/dambovita/manesti/2021/24",
+   "short": "HCL Mănești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 24/2021 privind aprobarea concesionării pajiștilor din proprietatea publică a comunei Mănești, județul Dâmbovița",
+   "url": "https://emol.ro/manesti-db/registru-hcl/24226",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/24226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-25-2021",
+   "path": "local/dambovita/manesti/2021/25",
+   "short": "HCL Mănești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 25/2021 privind aprobarea cuantumului burselor școlare aferente anului școlar 2020-2021, pentru elevii din ciclul gimnazial din învățământul preuniversitar de stat din comuna Mănești, județul Dâmbovița",
+   "url": "https://emol.ro/manesti-db/registru-hcl/24227",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/24227",
      "sha256": null
     }
    ]
@@ -208,6 +313,21 @@
      "from": "2021-04-08",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/24238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-29-2021",
+   "path": "local/dambovita/manesti/2021/29",
+   "short": "HCL Mănești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 29/2021 privind aprobarea Regulamentului de acordare a burselor, a numărului și a cuantumului burselor școlare aferente anului școlar 2020-2021, pentru elevii din ciclul gimnazial din învățământul preuniversitar de stat la nivelul comunei Mănești, județul Dâmbovița",
+   "url": "https://emol.ro/manesti-db/registru-hcl/24239",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/24239",
      "sha256": null
     }
    ]
@@ -303,6 +423,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-35-2021",
+   "path": "local/dambovita/manesti/2021/35",
+   "short": "HCL Mănești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 35/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/manesti-db/registru-hcl/31262",
+   "versions": [
+    {
+     "from": "2021-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/31262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-36-2021",
+   "path": "local/dambovita/manesti/2021/36",
+   "short": "HCL Mănești nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 36/2021 privind stabilirea modalității de identificare a beneficiarilor de stimulent educațional acordat sub formă de tichete sociale, pentru copiii care provin din familii defavorizate din comuna Mănești, județul Dâmbovița, de soluționare a situațiilor identificate și procedura de acordare a tichetelor sociale pentru grădiniță",
+   "url": "https://emol.ro/manesti-db/registru-hcl/31268",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/31268",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-37-2021",
    "path": "local/dambovita/manesti/2021/37",
    "short": "HCL Mănești nr. 37/2021",
@@ -378,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-41-2021",
+   "path": "local/dambovita/manesti/2021/41",
+   "short": "HCL Mănești nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 41/2021",
+   "url": "https://emol.ro/manesti-db/registru-hcl/32961",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/32961",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-42-2021",
    "path": "local/dambovita/manesti/2021/42",
    "short": "HCL Mănești nr. 42/2021",
@@ -418,6 +583,21 @@
      "from": "2021-07-15",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/33006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-45-2021",
+   "path": "local/dambovita/manesti/2021/45",
+   "short": "HCL Mănești nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 45/2021 privind scoaterea din evidența fiscală a personelor fizice aflate în stare de insolvabilitate și introducerea creanțelor fiscale ale acestora din evidența curentă într-o evidență separată",
+   "url": "https://emol.ro/manesti-db/registru-hcl/33007",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/33007",
      "sha256": null
     }
    ]
@@ -468,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-49-2021",
+   "path": "local/dambovita/manesti/2021/49",
+   "short": "HCL Mănești nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 49/2021 privind inchirierea terenului situat în extravilanul comunei Mănești, sat Drăgăești-Ungureni în suprafață de 7.036 mp categoria de folosință pășune în vederea realizării obiectivelor petroliere: ,,Conductă de amestec de la sondele 626, 627 și 628 Drăgăești la parcul 7 Mănești (Gheboieni) \" , LES (Linie electrică subterană) la sondele 626,627,628 Drăgăești\" și ,,Racordare la rețeaua electrică, sondele 626, 627, 628 Drăgăești\"",
+   "url": "https://emol.ro/manesti-db/registru-hcl/44209",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/44209",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-5-2021",
    "path": "local/dambovita/manesti/2021/5",
    "short": "HCL Mănești nr. 5/2021",
@@ -483,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-50-2021",
+   "path": "local/dambovita/manesti/2021/50",
+   "short": "HCL Mănești nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 50/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/manesti-db/registru-hcl/44210",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/44210",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-51-2021",
    "path": "local/dambovita/manesti/2021/51",
    "short": "HCL Mănești nr. 51/2021",
@@ -493,6 +703,36 @@
      "from": "2021-08-30",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/44211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-52-2021",
+   "path": "local/dambovita/manesti/2021/52",
+   "short": "HCL Mănești nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 52/2021 privind renunțarea la calitatea de membru asociat al comunei Mănești, prin Consiliul local Mănești, în Asociația de Dezvoltare Intercomunitară ,,Valea Dâmboviței''",
+   "url": "https://emol.ro/manesti-db/registru-hcl/44212",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/44212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-53-2021",
+   "path": "local/dambovita/manesti/2021/53",
+   "short": "HCL Mănești nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 53/2021 privind darea în folosință gratuită, pe o perioadă de un an, a unor imobile situate în comuna Mănești satul Mănești, către Asociația Club Sportiv ,,Gloria Mănești\" cu sediul în comuna Mănești, sat Mănești județul Dâmbovița, în scopul folosirii acestora ca bază sportivă",
+   "url": "https://emol.ro/manesti-db/registru-hcl/44213",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/44213",
      "sha256": null
     }
    ]
@@ -553,6 +793,21 @@
      "from": "2021-09-27",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/44222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-58-2021",
+   "path": "local/dambovita/manesti/2021/58",
+   "short": "HCL Mănești nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 58/2021 privind desemnarea reprezentanților consiliului local în cadrul Consiliului de administrație al Școlii gimnaziale Mănești, județul Dâmbovița, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/manesti-db/registru-hcl/44223",
+   "versions": [
+    {
+     "from": "2021-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/44223",
      "sha256": null
     }
    ]
@@ -753,6 +1008,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-70-2021",
+   "path": "local/dambovita/manesti/2021/70",
+   "short": "HCL Mănești nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 70/2021",
+   "url": "https://emol.ro/manesti-db/registru-hcl/44278",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/44278",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-71-2021",
    "path": "local/dambovita/manesti/2021/71",
    "short": "HCL Mănești nr. 71/2021",
@@ -793,6 +1063,36 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/44281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-74-2021",
+   "path": "local/dambovita/manesti/2021/74",
+   "short": "HCL Mănești nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 74/2021 privind desemnarea reprezentantului Consiliului Local în Comisia de evaluare a probei de interviu la concursul pentru ocuparea funcției de director al Școlii Gimnaziale Mănești",
+   "url": "https://emol.ro/manesti-db/registru-hcl/44282",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/44282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-75-2021",
+   "path": "local/dambovita/manesti/2021/75",
+   "short": "HCL Mănești nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 75/2021",
+   "url": "https://emol.ro/manesti-db/registru-hcl/46987",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/46987",
      "sha256": null
     }
    ]

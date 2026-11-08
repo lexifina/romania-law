@@ -3,6 +3,876 @@
  "shard": "local/dambovita/buciumeni/2026",
  "acts": [
   {
+   "slug": "hcl-dambovita--buciumeni-1-2026",
+   "path": "local/dambovita/buciumeni/2026/1",
+   "short": "HCL Buciumeni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 1/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-1-DIN-29.01.2026.pdf",
+     "sha256": "7b351c71df62b927140576e56996044d3be8d13116188cf2e0b200ce941fa4fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-10-2026",
+   "path": "local/dambovita/buciumeni/2026/10",
+   "short": "HCL Buciumeni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 10/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-10-DIN-29.01.2026.pdf",
+     "sha256": "00fc7fcd9319f6c4dcc5e58e66733a440fa41d5bf6968d73e9b516b1be91d3b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-11-2026",
+   "path": "local/dambovita/buciumeni/2026/11",
+   "short": "HCL Buciumeni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 11/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-11-DIN-29.01.2026.pdf",
+     "sha256": "483a4e42904dbcd63d313df82ba39eb6fc6f9489773c2ebe4d4473692566ed69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-12-2026",
+   "path": "local/dambovita/buciumeni/2026/12",
+   "short": "HCL Buciumeni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 12/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-12-DIN-29.01.2026.pdf",
+     "sha256": "580f59ca6dc2ad5f6ed9500506ed6654bbc70c4a39f7b404344f9e6dd8ba5844"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-13-2026",
+   "path": "local/dambovita/buciumeni/2026/13",
+   "short": "HCL Buciumeni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 13/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-13-DIN-27.02.2026.pdf",
+     "sha256": "e597b263c5c73623aa2540d1ccb18cae0a9b65a80cb90cfd4b5e5e1c54787409"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-14-2026",
+   "path": "local/dambovita/buciumeni/2026/14",
+   "short": "HCL Buciumeni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 14/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-14-DIN-27.02.2026.pdf",
+     "sha256": "4ed22a42b57af64e9303aa22aab7bdc3d5e6b8a18dc0c9f001c889a2f2b4979c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-15-2026",
+   "path": "local/dambovita/buciumeni/2026/15",
+   "short": "HCL Buciumeni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 15/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-15-DIN-27.02.2026.pdf",
+     "sha256": "46c3eb6dd3d4ec75befb3d046768ce38fbd46772888c97827a88bb7bd056260c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-16-2026",
+   "path": "local/dambovita/buciumeni/2026/16",
+   "short": "HCL Buciumeni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 16/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-16-DIN-27.02.2026.pdf",
+     "sha256": "2f61b110c8c18f506478e0475b98dee799229c10704244963dfb9b1ccb9e5ba1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-17-2026",
+   "path": "local/dambovita/buciumeni/2026/17",
+   "short": "HCL Buciumeni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 17/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-17-DIN-27.02.2026.pdf",
+     "sha256": "ffbdd84d76ca87c812454e535257e3a86fdb37a71b25d786faff2167ea8907a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-18-2026",
+   "path": "local/dambovita/buciumeni/2026/18",
+   "short": "HCL Buciumeni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 18/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-18-DIN-27.02.2026.pdf",
+     "sha256": "cb523281988a59ef4eccdd9df6151b08ef361a847552f3ba8eff9185066d9270"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-19-2026",
+   "path": "local/dambovita/buciumeni/2026/19",
+   "short": "HCL Buciumeni nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 19/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-19-DIN-10.03.2026.pdf",
+     "sha256": "b27c8856d856421ac256a6030d418ffcba185165f62e00b329a1803ea70212e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-2-2026",
+   "path": "local/dambovita/buciumeni/2026/2",
+   "short": "HCL Buciumeni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 2/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-2-DIN-29.01.2026.pdf",
+     "sha256": "4fd1e8d448c8c2f7e017fd012ce4d5596c9565bee4cbe3401be2d887b99a1fea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-20-2026",
+   "path": "local/dambovita/buciumeni/2026/20",
+   "short": "HCL Buciumeni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 20/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-20-DIN-30.03.2026.pdf",
+     "sha256": "a6d54024c2c1caf214b545946ac73c27c91647917e343586fb66bb605f414769"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-21-2026",
+   "path": "local/dambovita/buciumeni/2026/21",
+   "short": "HCL Buciumeni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 21/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-21-DIN-30.03.2026.pdf",
+     "sha256": "c50f3a270730717752e2b7407209bb56079b2268506cbebf0a4597ce44ac18de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-22-2026",
+   "path": "local/dambovita/buciumeni/2026/22",
+   "short": "HCL Buciumeni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 22/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-22-DIN-30.03.2026.pdf",
+     "sha256": "4610e3da9003391681e9c1fef279b1e1c2d9e7584f867383c5285e98a3d4f881"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-23-2026",
+   "path": "local/dambovita/buciumeni/2026/23",
+   "short": "HCL Buciumeni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 23/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-23-DIN-30.03.2026.pdf",
+     "sha256": "933ca639e4b210b9525e3f896b4182f72ada0f56ccb08c1c90eb6ef4f83da342"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-25-2026",
+   "path": "local/dambovita/buciumeni/2026/25",
+   "short": "HCL Buciumeni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 25/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-25-DIN-09.04.2026.pdf",
+     "sha256": "9333be6eba9b589d7ff0717a46c5ea91bb7d0a2e31159e4e8816817e4844afa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-26-2026",
+   "path": "local/dambovita/buciumeni/2026/26",
+   "short": "HCL Buciumeni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 26/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-26-DIN-29.04.2026.pdf",
+     "sha256": "5fd8930b6ba9f801b634f492c599afd426a51ffd688e80563d5f0e289bc17b0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-27-2026",
+   "path": "local/dambovita/buciumeni/2026/27",
+   "short": "HCL Buciumeni nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 27/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-27-DIN-29.04.2026.pdf",
+     "sha256": "b2eddad9cd05172292caea303a9cb7ccd6eb12db3c7a1ea87d14e2b432a2a86c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-28-2026",
+   "path": "local/dambovita/buciumeni/2026/28",
+   "short": "HCL Buciumeni nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 28/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-28-DIN-29.04.2026.pdf",
+     "sha256": "7441ebbafa7858fd82cf4e451a30a0e8064e38d986a2acf9ef2a4bd3f397ab86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-29-2026",
+   "path": "local/dambovita/buciumeni/2026/29",
+   "short": "HCL Buciumeni nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 29/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-29-DIN-29.04.2026.pdf",
+     "sha256": "259c1d6a9df12c2a44719bdb49b25a5b720446ee05110f271a29bbe06a7d7ffc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-3-2026",
+   "path": "local/dambovita/buciumeni/2026/3",
+   "short": "HCL Buciumeni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 3/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-3-DIN-29.01.2026.pdf",
+     "sha256": "b97f56bbc393d31f354320013125fabc0a5a3254c36c3207d6e65ccbff56664c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-30-2026",
+   "path": "local/dambovita/buciumeni/2026/30",
+   "short": "HCL Buciumeni nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 30/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-30-DIN-29.04.2026.pdf",
+     "sha256": "299ca0d975a6587a229d9b84cdf5079eb44e02dbc661a8324d6868d189678ee7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-31-2026",
+   "path": "local/dambovita/buciumeni/2026/31",
+   "short": "HCL Buciumeni nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 31/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-31-DIN-11.05.2026.pdf",
+     "sha256": "13c96b7dcbb2ad2ec67bb17919fa7037b45a150db3186a9ec33c34c4c4f423d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-32-2026",
+   "path": "local/dambovita/buciumeni/2026/32",
+   "short": "HCL Buciumeni nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 32/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-32-DIN-11.05.2026.pdf",
+     "sha256": "a93993d45bbe68ee018dd9271b1f3d5597a267df9ba467dc2889b6d1cc1cb9f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-33-2026",
+   "path": "local/dambovita/buciumeni/2026/33",
+   "short": "HCL Buciumeni nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 33/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-33-DIN-11.05.2026.pdf",
+     "sha256": "d40165e53afb7b825d9c4c5673e143efbd68c838b23c008df665a1c9b365adb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-34-2026",
+   "path": "local/dambovita/buciumeni/2026/34",
+   "short": "HCL Buciumeni nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 34/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-34-DIN-11.05.2026.pdf",
+     "sha256": "af3cc544b998a5c73cd0564b78886823007697ab0354d22316b3e6788f35d5a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-35-2026",
+   "path": "local/dambovita/buciumeni/2026/35",
+   "short": "HCL Buciumeni nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 35/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-35-DIN-11.05.2026.pdf",
+     "sha256": "1e1578616f9d7170a372a8f32f2d92eaff8ae3f9789460d08cc93aac269c645d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-36-2026",
+   "path": "local/dambovita/buciumeni/2026/36",
+   "short": "HCL Buciumeni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 36/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-36-DIN-11.05.2026.pdf",
+     "sha256": "256c1dd62c100e00efe8e5692cbd9ea5a1629729c9399c7590a3dcfc4776f8e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-37-2026",
+   "path": "local/dambovita/buciumeni/2026/37",
+   "short": "HCL Buciumeni nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 37/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-37-DIN-11.05.2026.pdf",
+     "sha256": "5c10adf4664b416662fcd75202e74b5864114f5a614096bd1577bde455643783"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-38-2026",
+   "path": "local/dambovita/buciumeni/2026/38",
+   "short": "HCL Buciumeni nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 38/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-38-DIN-11.05.2026.pdf",
+     "sha256": "798df9c36cff814c5cc01698d7505c1422c875b957b237b46379c7044351edec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-39-2026",
+   "path": "local/dambovita/buciumeni/2026/39",
+   "short": "HCL Buciumeni nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 39/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-39-DIN-11.05.2026.pdf",
+     "sha256": "aaa058914f96865de59d748d759c2b9007e6dcc1ec74630e885bce4b0cc5f54a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-4-2026",
+   "path": "local/dambovita/buciumeni/2026/4",
+   "short": "HCL Buciumeni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 4/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-4-DIN-29.01.2026.pdf",
+     "sha256": "a908b0bff47deac5eea3df5ed04456d1574e6bd8db633a608d55ed204e0acb68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-40-2026",
+   "path": "local/dambovita/buciumeni/2026/40",
+   "short": "HCL Buciumeni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 40/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-40-DIN-11.05.2026.pdf",
+     "sha256": "fc4110a657ce466bb21f59e6349d88f3d5a0c0ff3237e3719e214edf0cecc022"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-41-2026",
+   "path": "local/dambovita/buciumeni/2026/41",
+   "short": "HCL Buciumeni nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 41/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-41-DIN-20.05.2026.pdf",
+     "sha256": "a86ff98d74609d7d8aa88304e84921408073c02fe9afaf50dc88b3c2b4d31f7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-42-2026",
+   "path": "local/dambovita/buciumeni/2026/42",
+   "short": "HCL Buciumeni nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 42/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-42-DIN-20.05.2026.pdf",
+     "sha256": "a9511883137810b90061676faf88abc36eeb09ef8ca05c87a417785fdfe7f869"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-43-2026",
+   "path": "local/dambovita/buciumeni/2026/43",
+   "short": "HCL Buciumeni nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 43/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-43-DIN-28.05.2026.pdf",
+     "sha256": "7c4975af0e6f6d3d5530f40b4f8a7b09606170ff94b428c007354f9e3caafa44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-44-2026",
+   "path": "local/dambovita/buciumeni/2026/44",
+   "short": "HCL Buciumeni nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 44/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-44-DIN-09.06.2026.pdf",
+     "sha256": "ce01275323e4394baf5bd4e516d448ec369a0ed607e014899a5a53c78f8d656a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-45-2026",
+   "path": "local/dambovita/buciumeni/2026/45",
+   "short": "HCL Buciumeni nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 45/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-45-DIN-09.06.2026.pdf",
+     "sha256": "82770d44654ff815f39c4e79f40e3b465ee23f0faf486ab7429ecffbe5c7b902"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-46-2026",
+   "path": "local/dambovita/buciumeni/2026/46",
+   "short": "HCL Buciumeni nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 46/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-46-DIN-30.06.2026.pdf",
+     "sha256": "710a34af11ba5c7ad67c26ef4d1437c9e90e6c73bd36e817ef2234d517e4e2c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-47-2026",
+   "path": "local/dambovita/buciumeni/2026/47",
+   "short": "HCL Buciumeni nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 47/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-47-DIN-30.06.2026.pdf",
+     "sha256": "1c4628805ef6ca8b3b8c6e62f078feba7e5f18aa2450200fcc54e3fa07510578"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-48-2026",
+   "path": "local/dambovita/buciumeni/2026/48",
+   "short": "HCL Buciumeni nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 48/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-48-DIN-30.06.2026.pdf",
+     "sha256": "4fd0a0ee3be6651032379fda18f1a117a655b4f8ace7b254b45060a096ef0e9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-49-2026",
+   "path": "local/dambovita/buciumeni/2026/49",
+   "short": "HCL Buciumeni nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 49/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/07/HCL-NR-49-DIN-30.06.2026.pdf",
+     "sha256": "045e08f5f77040acbaa44454be929b8666260c073cb5279d5ae73a81988ed727"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-5-2026",
+   "path": "local/dambovita/buciumeni/2026/5",
+   "short": "HCL Buciumeni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 5/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-5-DIN-29.01.2026.pdf",
+     "sha256": "8df66ebc6e45886db319d81de2a30463b0f804302647c31e40f97e9eb9505598"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-50-2026",
+   "path": "local/dambovita/buciumeni/2026/50",
+   "short": "HCL Buciumeni nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 50/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/09/HCL-NR-50-DIN-29.07.2026.pdf",
+     "sha256": "a282136f09fb23debbfb440377913a2362b192056a3c787ecd0f670ce556b6d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-51-2026",
+   "path": "local/dambovita/buciumeni/2026/51",
+   "short": "HCL Buciumeni nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 51/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/09/HCL-NR-51-DIN-29.07.2026.pdf",
+     "sha256": "dfb1a7715e3927ff2164284f175be50a7ae5346c041f95f3e4178747bdfa94aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-52-2026",
+   "path": "local/dambovita/buciumeni/2026/52",
+   "short": "HCL Buciumeni nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 52/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/09/HCL-NR-52-DIN-29.07.2026.pdf",
+     "sha256": "8738d66fe0157bfd1349af580b913a2680ee8a84b8b064faa2c5f5ea170666ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-53-2026",
+   "path": "local/dambovita/buciumeni/2026/53",
+   "short": "HCL Buciumeni nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 53/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/09/HCL-NR-53-DIN-29.07.2026.pdf",
+     "sha256": "6ea9791ba621ade445fa59b37144f7b2657e8a8ac0924d70dc71c9912b026d91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-54-2026",
+   "path": "local/dambovita/buciumeni/2026/54",
+   "short": "HCL Buciumeni nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 54/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/09/HCL-NR-54-DIN-29.07.2026.pdf",
+     "sha256": "e8df35a620a1c9c7377a81edcb0e5522835e9af457778b7b76305943ea275a23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-55-2026",
+   "path": "local/dambovita/buciumeni/2026/55",
+   "short": "HCL Buciumeni nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 55/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/09/HCL-NR-55-DIN-29.07.2026.pdf",
+     "sha256": "b6a384ac63f4e77d1e54294d1d43cb8d1474a0b35f179810e1d7d83117e23807"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-56-2026",
+   "path": "local/dambovita/buciumeni/2026/56",
+   "short": "HCL Buciumeni nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 56/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/09/HCL-NR-56-DIN-29.07.2026.pdf",
+     "sha256": "83774396923fa8e1a84bfb9af3566318d18c223ca3b6edb1263bf8f7fe8a0b69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-57-2026",
+   "path": "local/dambovita/buciumeni/2026/57",
+   "short": "HCL Buciumeni nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 57/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/09/HCL-NR-57-DIN-03.08.2026.pdf",
+     "sha256": "5ec59a26e7f2b1324cd5f0b16fe3699bdeead4ecf61e76a3c1a3c3903ea7779a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-58-2026",
+   "path": "local/dambovita/buciumeni/2026/58",
+   "short": "HCL Buciumeni nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 58/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/09/HCL-NR-58-DIN-03.08.2026.pdf",
+     "sha256": "c2e5fc1657d2acb69f38a2b47b98941c55ad144351b96aa724ecaf047b096c7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-59-2026",
+   "path": "local/dambovita/buciumeni/2026/59",
+   "short": "HCL Buciumeni nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 59/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/09/HCL-NR-59-DIN-03.08.2026.pdf",
+     "sha256": "9b4c0536964440c4fc899af038f9b1d186cbffe64cf9559799521d74ab142827"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-6-2026",
+   "path": "local/dambovita/buciumeni/2026/6",
+   "short": "HCL Buciumeni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 6/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-6-DIN-29.01.2026.pdf",
+     "sha256": "33ea9052eb49297f8f6595bf876498653ac2f1cbd9c2a0f140010c6c65466fb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-60-2026",
+   "path": "local/dambovita/buciumeni/2026/60",
+   "short": "HCL Buciumeni nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 60/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/09/HCL-NR-60-DIN-03.08.2026.pdf",
+     "sha256": "fc589d69fc1b0f40d2c74b31747b3357cac4bd4fa38f9d47342071d58c33cd6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-61-2026",
+   "path": "local/dambovita/buciumeni/2026/61",
+   "short": "HCL Buciumeni nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 61/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/09/HCL-NR-61-DIN-31.08.2026.pdf",
+     "sha256": "c441d2ad52a14a5f40a70262a846643ae2181decb59670b2f10a3a5e030f47dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-62-2026",
+   "path": "local/dambovita/buciumeni/2026/62",
+   "short": "HCL Buciumeni nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 62/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/09/HCL-NR-62-DIN-31.08.2026.pdf",
+     "sha256": "8b8414589ea89a1b74d2b8824b41079b4611ae356f4d5086fa8c41187d802624"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--buciumeni-63-2026",
    "path": "local/dambovita/buciumeni/2026/63",
    "short": "HCL Buciumeni nr. 63/2026",
@@ -104,6 +974,21 @@
      "units": 1,
      "source_url": "https://buciumeni.ro/wp-content/uploads/2026/09/HCL-NR-69-DIN-24.09.2026.pdf",
      "sha256": "ac01341e7b336b418f6aad96df35d8f6a4a1bc9820820b2a694bcc4da8b60857"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-7-2026",
+   "path": "local/dambovita/buciumeni/2026/7",
+   "short": "HCL Buciumeni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 7/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-7-DIN-29.01.2026.pdf",
+     "sha256": "b31166ad2de2c629dea90b8ff4c0f66d8dbb38b822e80543e7b1a5ff0ef09e14"
     }
    ]
   },
@@ -258,6 +1143,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--buciumeni-8-2026",
+   "path": "local/dambovita/buciumeni/2026/8",
+   "short": "HCL Buciumeni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 8/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-8-DIN-29.01.2026.pdf",
+     "sha256": "f7b69a95495f71caeb4bf1865b4b5f291fcbeeefe1bde33a5165dbf5feb1fc73"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--buciumeni-80-2026",
    "path": "local/dambovita/buciumeni/2026/80",
    "short": "HCL Buciumeni nr. 80/2026",
@@ -299,6 +1199,21 @@
      "units": 1,
      "source_url": "https://buciumeni.ro/wp-content/uploads/2026/11/HCL-NR.-82-DIN-29.10.2026.pdf",
      "sha256": "b44bd717658d5ce3fbab0897067f2444fee40d32dfefd78649c5f9731d00b5cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-9-2026",
+   "path": "local/dambovita/buciumeni/2026/9",
+   "short": "HCL Buciumeni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 9/2026",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/04/HCL-NR-9-DIN-29.01.2026.pdf",
+     "sha256": "a4dc22014d37a27df024c53466a2d286dd66a78708313b2b7bc5bef7763e13d5"
     }
    ]
   }

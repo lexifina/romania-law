@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/borosneu-mare/2025",
+ "acts": [
+  {
+   "slug": "hcl-covasna--borosneu-mare-28-2025",
+   "path": "local/covasna/borosneu-mare/2025/28",
+   "short": "HCL Boroșneu Mare nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boroșneu Mare nr. 28/2025 cu privire la alegerea presedintelui de sedinta.pdf",
+   "url": "https://nagyborosnyo.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://nagyborosnyo.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/Hotararea%20nr.%2028-%20cu%20privire%20la%20alegerea%20presedintelui%20de%20sedinta.pdf",
+     "sha256": "8fbe0f1d80d00bf07bd148f94d7bc807b6cd5b52dc5bbae493773c0de2d01e63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--borosneu-mare-29-2025",
+   "path": "local/covasna/borosneu-mare/2025/29",
+   "short": "HCL Boroșneu Mare nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boroșneu Mare nr. 29/2025 Pentru modificarea Hotararii nr. 36-2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Borosneu Mare.pdf",
+   "url": "https://nagyborosnyo.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://nagyborosnyo.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/Hotararea%20nr.%2029-%20Pentru%20modificarea%20Hotararii%20nr.%2036-2024%20privind%20organizarea%20comisiilor%20de%20specialitate%20ale%20Consiliului%20local%20al%20comunei%20Borosneu%20Mare.pdf",
+     "sha256": "99e383c450ad9347f13a5ec39d3692f2925c504dd0e811e642fb598da285e0e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--borosneu-mare-33-2025",
+   "path": "local/covasna/borosneu-mare/2025/33",
+   "short": "HCL Boroșneu Mare nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boroșneu Mare nr. 33/2025 privind participarea U.A.T",
+   "url": "https://nagyborosnyo.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://nagyborosnyo.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/Hotararea%20nr.%2033-%20Participarea%20comunei%20la%20AFM.pdf",
+     "sha256": "4d8f272645dd0fa1d3a466756ef00c885336ec3b7cc86e787fe7201184fd45dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--borosneu-mare-50-2025",
+   "path": "local/covasna/borosneu-mare/2025/50",
+   "short": "HCL Boroșneu Mare nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boroșneu Mare nr. 50/2025 cu privire la alegera presedintelui de sedinta.pdf",
+   "url": "https://nagyborosnyo.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://nagyborosnyo.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/Hotararea%20Nr.%2050-%20cu%20privire%20la%20alegera%20presedintelui%20de%20sedinta.pdf",
+     "sha256": "b275767b297b3f02595f6e69dbf8a81587d73a8912541cf3c8ba99858de5918b"
+    }
+   ]
+  }
+ ]
+}

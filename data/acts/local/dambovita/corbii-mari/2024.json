@@ -23,6 +23,28 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-dambovita--corbii-mari-213-2024",
+"path": "local/dambovita/corbii-mari/2024/213",
+"kind": "local",
+"year": "2024",
+"number": "213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 213/2024",
+"short": "HCL Corbii Mari nr. 213/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://primaria-corbiimari.ro/wp-content/uploads/2025/05/HCL-nr.-213-din-07.11.2024.pdf",
+"council": "dambovita/corbii-mari",
+"council_name": "Consiliul Local al Comunei Corbii Mari",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

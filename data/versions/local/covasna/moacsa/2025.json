@@ -3,6 +3,21 @@
  "shard": "local/covasna/moacsa/2025",
  "acts": [
   {
+   "slug": "hcl-covasna--moacsa-1-2025",
+   "path": "local/covasna/moacsa/2025/1",
+   "short": "HCL Moacșa nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 1/2025 privind acordarea unui mandat special primarului comunei Moacșa in Adunarea generală a Asociației de Dezvoltare Intercomunitară \"ZONA METROPOLITANA SEPSI\" pentru aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară \"ZONA METROPOLITANĂ SEPSI\"",
+   "url": "https://emol.ro/moacsa-cv/registru-hcl/202455",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moacsa-cv/registru-hcl/202455",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--moacsa-10-2025",
    "path": "local/covasna/moacsa/2025/10",
    "short": "HCL Moacșa nr. 10/2025",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--moacsa-2-2025",
+   "path": "local/covasna/moacsa/2025/2",
+   "short": "HCL Moacșa nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 2/2025 privind acordarea unui mandat special reprezentantului Comunei Moacșa în Adunarea generală a Asociației de dezvoltare intercomunitară \"Sistem Integrat de Management al Deșeurilor în județul Covasna\"",
+   "url": "https://emol.ro/moacsa-cv/registru-hcl/202456",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moacsa-cv/registru-hcl/202456",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--moacsa-20-2025",
    "path": "local/covasna/moacsa/2025/20",
    "short": "HCL Moacșa nr. 20/2025",
@@ -258,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--moacsa-3-2025",
+   "path": "local/covasna/moacsa/2025/3",
+   "short": "HCL Moacșa nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 3/2025 privind validarea Dispoziției primarului nr. 1/2025 privind acoperirea definitivă din excedentul anului precedent a deficitului secțiunii de dezvoltare a bugetului local, sursa A",
+   "url": "https://emol.ro/moacsa-cv/registru-hcl/202478",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moacsa-cv/registru-hcl/202478",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--moacsa-4-2025",
    "path": "local/covasna/moacsa/2025/4",
    "short": "HCL Moacșa nr. 4/2025",
@@ -283,6 +328,21 @@
      "from": "2025-04-14",
      "units": 1,
      "source_url": "https://emol.ro/moacsa-cv/registru-hcl/202480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--moacsa-6-2025",
+   "path": "local/covasna/moacsa/2025/6",
+   "short": "HCL Moacșa nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moacșa nr. 6/2025 privind aprobarea raportului de activitate desfășurată de asistenții personali ai persoanelor cu handicap grav pe semestrul II al anului 2024",
+   "url": "https://emol.ro/moacsa-cv/registru-hcl/202481",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moacsa-cv/registru-hcl/202481",
      "sha256": null
     }
    ]

@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--moreni-169-2024",
+   "path": "local/dambovita/moreni/2024/169",
+   "short": "HCL Moreni nr. 169/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 169/2024 pentru modificarea Hotărârii Consiliului Local nr.91/2024 privind aprobarea Organigramei, Statului de funcții și Regulamentul de Organizare și Funcționare a aparatului de specialitate al Primarului Municipiului Moreni, ca urmare a reorganizării unor structuri funcționale din cadrul Primăriei Municipiului Moreni în vederea punerii în aplicare a dispozițiilor Legii nr.296/2023 Analizând temeiurile j",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2024/12/HCL-169-din-05.11.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2024/12/HCL-169-din-05.11.2024.pdf",
+     "sha256": "0006ffce7a4d8d833df9e51a0ad71d0f1014aa55c832306b23521e82d4262da3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--moreni-2-2024",
    "path": "local/dambovita/moreni/2024/2",
    "short": "HCL Moreni nr. 2/2024",

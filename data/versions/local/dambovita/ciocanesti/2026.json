@@ -3,6 +3,21 @@
  "shard": "local/dambovita/ciocanesti/2026",
  "acts": [
   {
+   "slug": "hcl-dambovita--ciocanesti-1-2026",
+   "path": "local/dambovita/ciocanesti/2026/1",
+   "short": "HCL Ciocănești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 1/2026 pentru revocarea Hotărârii Consiliului local Ciocănești nr. 35/20.11.2025 privind aprobarea propunerii reţelei şcolare pentru anul şcolar 2026 - 2027 din localitatea Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/248704",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/248704",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ciocanesti-10-2026",
    "path": "local/dambovita/ciocanesti/2026/10",
    "short": "HCL Ciocănești nr. 10/2026",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ciocanesti-2-2026",
+   "path": "local/dambovita/ciocanesti/2026/2",
+   "short": "HCL Ciocănești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 2/2026 privind aprobarea propunerii reţelei şcolare pentru anul şcolar 2026 - 2027 din localitatea Ciocănești, județul Dâmbovița",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/248705",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/248705",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ciocanesti-20-2026",
    "path": "local/dambovita/ciocanesti/2026/20",
    "short": "HCL Ciocănești nr. 20/2026",
@@ -298,6 +328,111 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/296564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-3-2026",
+   "path": "local/dambovita/ciocanesti/2026/3",
+   "short": "HCL Ciocănești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 3/2026 privind aprobarea Planului de acţiuni de interes local în vederea repartizării orelor de muncă persoanele apte de muncă, beneficiare de ajutor social, conform legii nr. 196/2016 privind venitul minim de incluziune, pentru anul 2026",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/252530",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/252530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-4-2026",
+   "path": "local/dambovita/ciocanesti/2026/4",
+   "short": "HCL Ciocănești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 4/2026",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/252531",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/252531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-5-2026",
+   "path": "local/dambovita/ciocanesti/2026/5",
+   "short": "HCL Ciocănești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 5/2026",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/252532",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/252532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-6-2026",
+   "path": "local/dambovita/ciocanesti/2026/6",
+   "short": "HCL Ciocănești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 6/2026 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ciocănești, pe o perioadă de 3 luni",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/259600",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/259600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-7-2026",
+   "path": "local/dambovita/ciocanesti/2026/7",
+   "short": "HCL Ciocănești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 7/2026 privind aprobarea Regulamentul de Organizare și Funcționare, Programul de activitate pe anul 2026, Strategia activităţii pe anul 2026, Raportul de evaluare al bibliotecii comunale Ciocănești pe anul 2025, Calendarul Principalelor Aniversări și Comemorări pe anul 2026, Consiliul Ştiinţific Consultativ și Programul de lucru al Bibliotecii Comunale Ciocăneşti, judeţul Dâmboviţa",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/259601",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/259601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-8-2026",
+   "path": "local/dambovita/ciocanesti/2026/8",
+   "short": "HCL Ciocănești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 8/2026 privind aprobarea interzicerii desfășurării activităților de jocuri de noroc pe teritoriul Unității Administrativ Teritoriale Comuna Ciocănești",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/259602",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/259602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ciocanesti-9-2026",
+   "path": "local/dambovita/ciocanesti/2026/9",
+   "short": "HCL Ciocănești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocănești nr. 9/2026 pentru modificarea și completarea Hotărârii Consiliului local Ciocănești nr. 43/24.12.2025 privind stabilirea impozitelor și taxele locale, aplicabile la nivelul Comunei Ciocănești pentru anul fiscal 2026",
+   "url": "https://emol.ro/ciocanesti-db/registru-hcl/259603",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocanesti-db/registru-hcl/259603",
      "sha256": null
     }
    ]

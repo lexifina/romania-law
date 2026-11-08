@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cornatelu-11-2025",
+   "path": "local/dambovita/cornatelu/2025/11",
+   "short": "HCL Cornățelu nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 11/2025",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/192011",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/192011",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cornatelu-12-2025",
    "path": "local/dambovita/cornatelu/2025/12",
    "short": "HCL Cornățelu nr. 12/2025",
@@ -288,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cornatelu-28-2025",
+   "path": "local/dambovita/cornatelu/2025/28",
+   "short": "HCL Cornățelu nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 28/2025 privind alegerea președintelui de ședință al Consiliului Local Cornățelu, județul Dâmbovița, pentru perioada MAI - IULIE 2025",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/210250",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/210250",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cornatelu-29-2025",
    "path": "local/dambovita/cornatelu/2025/29",
    "short": "HCL Cornățelu nr. 29/2025",
@@ -363,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cornatelu-33-2025",
+   "path": "local/dambovita/cornatelu/2025/33",
+   "short": "HCL Cornățelu nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 33/2025 privind stabilirea indemnizațiilor personalului voluntar pentru timpul efectiv de lucru prestat la intervenție și la celelalte activități prevazute în programul Serviciului Voluntar pentru Situații de Urgență al comunei Cornățelu",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/214075",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/214075",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cornatelu-34-2025",
    "path": "local/dambovita/cornatelu/2025/34",
    "short": "HCL Cornățelu nr. 34/2025",
@@ -433,6 +478,21 @@
      "from": "2025-08-07",
      "units": 1,
      "source_url": "https://emol.ro/cornatelu-db/registru-hcl/218548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-39-2025",
+   "path": "local/dambovita/cornatelu/2025/39",
+   "short": "HCL Cornățelu nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 39/2025 privind alegerea președintelui de ședință al Consiliului Local Cornățelu, județul Dâmbovița, pentru perioada AUGUST - OCTOMBRIE 2025",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/220528",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/220528",
      "sha256": null
     }
    ]
@@ -853,6 +913,21 @@
      "from": "2025-02-12",
      "units": 1,
      "source_url": "https://emol.ro/cornatelu-db/registru-hcl/189254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cornatelu-9-2025",
+   "path": "local/dambovita/cornatelu/2025/9",
+   "short": "HCL Cornățelu nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornățelu nr. 9/2025 privind alegerea președintelui de ședință al Consiliului Local Cornățelu, județul Dâmbovița, pentru perioada FEBRUARIE - APRILIE 2025",
+   "url": "https://emol.ro/cornatelu-db/registru-hcl/192009",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornatelu-db/registru-hcl/192009",
      "sha256": null
     }
    ]

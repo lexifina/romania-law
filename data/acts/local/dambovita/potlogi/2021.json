@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/dambovita/potlogi/2021",
+"acts": [
+{
+"slug": "hcl-dambovita--potlogi-103-2021",
+"path": "local/dambovita/potlogi/2021/103",
+"kind": "local",
+"year": "2021",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Potlogi nr. 103/2021",
+"short": "HCL Potlogi nr. 103/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-17",
+"latest": "2021-12-17",
+"portal": "https://primariapotlogi.ro/wp-content/uploads/2022/12/Buget-HCL-nr-103-din-17.12.2021.pdf",
+"council": "dambovita/potlogi",
+"council_name": "Consiliul Local al Comunei Potlogi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--potlogi-108-2021",
+"path": "local/dambovita/potlogi/2021/108",
+"kind": "local",
+"year": "2021",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Potlogi nr. 108/2021",
+"short": "HCL Potlogi nr. 108/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-24",
+"latest": "2021-12-24",
+"portal": "https://primariapotlogi.ro/wp-content/uploads/2022/12/Buget-HCL-nr.-108-din-24.12.2021.pdf",
+"council": "dambovita/potlogi",
+"council_name": "Consiliul Local al Comunei Potlogi",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

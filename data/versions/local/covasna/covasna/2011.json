@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/covasna/2011",
+ "acts": [
+  {
+   "slug": "hcl-covasna--covasna-32-2011",
+   "path": "local/covasna/covasna/2011/32",
+   "short": "HCL Covasna nr. 32/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 32/2011 privind darea în folosință gratuită a nivelului I din imobilul de la adresa str",
+   "url": "https://www.primariacovasna.ro/alte-pagini/ro/arhiva-hcl/",
+   "versions": [
+    {
+     "from": "2011-02-15",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2011/hcl32-34_15022011.pdf",
+     "sha256": "3b8ffd9611d19054eef17c2dc069e5981fe949946cb5305219b8e07b46eda196"
+    }
+   ]
+  }
+ ]
+}

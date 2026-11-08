@@ -198,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cobia-21-2026",
+   "path": "local/dambovita/cobia/2026/21",
+   "short": "HCL Cobia nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cobia nr. 21/2026 privind inchirierea catre OMV PETROM SA a terenului necesar pentru realizarea obiectivului de investitii “LUCRARI SUPRAFATA FORAJ, FORAJ , ECHIPARE SONDA, LEA SI CONDUCTA AMESTEC LA SONDA 2801 COBIA NORD”",
+   "url": "https://emol.ro/cobia-db/registru-hcl/283113",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cobia-db/registru-hcl/283113",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cobia-22-2026",
    "path": "local/dambovita/cobia/2026/22",
    "short": "HCL Cobia nr. 22/2026",
@@ -238,6 +253,51 @@
      "from": "2026-09-01",
      "units": 1,
      "source_url": "https://emol.ro/cobia-db/registru-hcl/286031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cobia-25-2026",
+   "path": "local/dambovita/cobia/2026/25",
+   "short": "HCL Cobia nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cobia nr. 25/2026 privind închirierea către OMV PETROM SA a terenului în suprafață de 11579 mp necesar pentru realizarea obiectivului de investiții ”AMENAJARE DRUM DE ACCES, LUCRĂRI SUPRAFAȚĂ FORAJ, FORAJ ȘI ECHIPARE SONDA A2802 COBIA NORD”",
+   "url": "https://emol.ro/cobia-db/registru-hcl/286032",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cobia-db/registru-hcl/286032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cobia-26-2026",
+   "path": "local/dambovita/cobia/2026/26",
+   "short": "HCL Cobia nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cobia nr. 26/2026 privind închirierea către OMV PETROM SA a terenului în suprafață de 3908 mp necesar pentru realizarea obiectivului de investiții ”CONDUCTA DE LA CONDUCTA SONDEI 1800 COBIA LA PAR 4 COBIA”",
+   "url": "https://emol.ro/cobia-db/registru-hcl/286033",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cobia-db/registru-hcl/286033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cobia-27-2026",
+   "path": "local/dambovita/cobia/2026/27",
+   "short": "HCL Cobia nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cobia nr. 27/2026 privind închirierea către OMV PETROM SA a terenului în suprafață de 3716 mp necesar pentru realizarea obiectivului de investiții ”CONDUCTA DE AMESTEC ȘI LINIE ELECTRICĂ DE LA SONDA 2802 COBIA NORD LA PARC 1 COBIA NORD”",
+   "url": "https://emol.ro/cobia-db/registru-hcl/286034",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cobia-db/registru-hcl/286034",
      "sha256": null
     }
    ]
@@ -298,6 +358,21 @@
      "from": "2026-09-01",
      "units": 1,
      "source_url": "https://emol.ro/cobia-db/registru-hcl/286037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--cobia-31-2026",
+   "path": "local/dambovita/cobia/2026/31",
+   "short": "HCL Cobia nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cobia nr. 31/2026 privind alegerea președintelui de ședință în cadrul Consiliului Local",
+   "url": "https://emol.ro/cobia-db/registru-hcl/286038",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cobia-db/registru-hcl/286038",
      "sha256": null
     }
    ]

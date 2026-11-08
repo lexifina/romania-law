@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--zagon-10-2024",
+   "path": "local/covasna/zagon/2024/10",
+   "short": "HCL Zagon nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 10/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/206987",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/206987",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-11-2024",
    "path": "local/covasna/zagon/2024/11",
    "short": "HCL Zagon nr. 11/2024",
@@ -138,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--zagon-19-2024",
+   "path": "local/covasna/zagon/2024/19",
+   "short": "HCL Zagon nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 19/2024 privind aprobarea Programului anual și anunțul de participare privind finanțarea nerambursabilă din fonduri publice a proiectelor și activităților sportive, sprijinul financiar acordat unităților de cult din bugetul Comunei Zagon pe anul 2024, conform Legii nr. 350/2005",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/207068",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/207068",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-2-2024",
    "path": "local/covasna/zagon/2024/2",
    "short": "HCL Zagon nr. 2/2024",
@@ -243,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--zagon-26-2024",
+   "path": "local/covasna/zagon/2024/26",
+   "short": "HCL Zagon nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 26/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/207078",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/207078",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-27-2024",
    "path": "local/covasna/zagon/2024/27",
    "short": "HCL Zagon nr. 27/2024",
@@ -253,6 +298,51 @@
      "from": "2024-04-05",
      "units": 1,
      "source_url": "https://emol.ro/zagon-cv/registru-hcl/207080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-28-2024",
+   "path": "local/covasna/zagon/2024/28",
+   "short": "HCL Zagon nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 28/2024 privind acordarea unui mandat special reprezentantului comunei Zagon în Adunarea Generală a Asociației de Dezvoltare Intercomunitară Zonă Metropolitană Târgu Secuiesc-Covasna",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/207085",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/207085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-29-2024",
+   "path": "local/covasna/zagon/2024/29",
+   "short": "HCL Zagon nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 29/2024 privind acordarea unui sprijin financiar parohiilor din comuna Zagon pe anul 2024",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/207088",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/207088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-3-2024",
+   "path": "local/covasna/zagon/2024/3",
+   "short": "HCL Zagon nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 3/2024",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/206975",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/206975",
      "sha256": null
     }
    ]
@@ -558,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--zagon-50-2024",
+   "path": "local/covasna/zagon/2024/50",
+   "short": "HCL Zagon nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 50/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/207303",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/207303",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-51-2024",
    "path": "local/covasna/zagon/2024/51",
    "short": "HCL Zagon nr. 51/2024",
@@ -663,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--zagon-6-2024",
+   "path": "local/covasna/zagon/2024/6",
+   "short": "HCL Zagon nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 6/2024 privind stabilirea indemnizației de ședință pentru membrii Consiliului local al comunei Zagon",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/206983",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/206983",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--zagon-60-2024",
    "path": "local/covasna/zagon/2024/60",
    "short": "HCL Zagon nr. 60/2024",
@@ -673,6 +793,21 @@
      "from": "2025-05-13",
      "units": 1,
      "source_url": "https://emol.ro/zagon-cv/registru-hcl/207322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--zagon-61-2024",
+   "path": "local/covasna/zagon/2024/61",
+   "short": "HCL Zagon nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Zagon nr. 61/2024 privind desemnarea reprezentanților Consiliului Local, în Consiliul de Administrație al Școlii Gimnaziale Mikes Kelemen Zagon, Județul Covasna, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/zagon-cv/registru-hcl/207323",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/zagon-cv/registru-hcl/207323",
      "sha256": null
     }
    ]

@@ -3,6 +3,28 @@
 "shard": "local/dambovita/runcu/2023",
 "acts": [
 {
+"slug": "hcl-dambovita--runcu-1-2023",
+"path": "local/dambovita/runcu/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 1/2023 privind aprobarea Bugetului de venituri şi cheltuieli al comunei Runcu pe anul 2023",
+"short": "HCL Runcu nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/runcu-db/registru-hcl/123275",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--runcu-7-2023",
 "path": "local/dambovita/runcu/2023/7",
 "kind": "local",
@@ -44,6 +66,183 @@
 "council_name": "Consiliul Local al Comunei Runcu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-10-2023",
+"path": "local/dambovita/runcu/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 10/2023 privind actualizarea inventarului bunurilor care aparțin domeniului public al comunei Runcu, județ Dâmbovița",
+"short": "HCL Runcu nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/runcu-db/registru-hcl/123284",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-11-2023",
+"path": "local/dambovita/runcu/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 11/2023 privind aprobare atribuirea în folosință gratuită a unui teren în temeiul Legii 15/2003",
+"short": "HCL Runcu nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/runcu-db/registru-hcl/123285",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-12-2023",
+"path": "local/dambovita/runcu/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 12/2023 privind aprobarea închirierii disponibilului de pajiști din patrimoniul privat al comunei Runcu, precum si aprobarea Regulamentului privind închirierea prin atribuire directă",
+"short": "HCL Runcu nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/runcu-db/registru-hcl/123304",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-13-2023",
+"path": "local/dambovita/runcu/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 13/2023 privind completarea domeniului public al comunei Runcu",
+"short": "HCL Runcu nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/runcu-db/registru-hcl/123305",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-14-2023",
+"path": "local/dambovita/runcu/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 14/2023",
+"short": "HCL Runcu nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/runcu-db/registru-hcl/123306",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-15-2023",
+"path": "local/dambovita/runcu/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 15/2023 privind aprobarea contului de închidere a exercițiului bugetar al comunei pe anul 2022",
+"short": "HCL Runcu nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/runcu-db/registru-hcl/123307",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-16-2023",
+"path": "local/dambovita/runcu/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 16/2023 privind aprobare desfășurarea și finanțarea manifestărilor cultural-artistice și educative prilejuite de « 8 Martie, Ziua Femeii »",
+"short": "HCL Runcu nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/runcu-db/registru-hcl/123308",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--runcu-17-2023",
+"path": "local/dambovita/runcu/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 17/2023 privind aprobare clasificarea unor drumuri de interes local din comuna Runcu, județ Dâmbovița în categoria funcțională drumuri de exploatare agricolă și amenajării acestora",
+"short": "HCL Runcu nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/runcu-db/registru-hcl/123309",
+"council": "dambovita/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,591 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/buciumeni/2025",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--buciumeni-100-2025",
+   "path": "local/dambovita/buciumeni/2025/100",
+   "short": "HCL Buciumeni nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 100/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-100-DIN-29.10.2025.pdf",
+     "sha256": "05ede43e17eb947b38c9f0db44e4e87806d4614fc78ee5aeee8e4fa2177d0bae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-101-2025",
+   "path": "local/dambovita/buciumeni/2025/101",
+   "short": "HCL Buciumeni nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 101/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-101-DIN-29.10.2025.pdf",
+     "sha256": "11b10f58c7e7b5be58b419ba7d93c7e0510592851fa11ed66098e2393b7a2a0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-102-2025",
+   "path": "local/dambovita/buciumeni/2025/102",
+   "short": "HCL Buciumeni nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 102/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-102-DIN-29.10.2025.pdf",
+     "sha256": "ad565cc2654c751cb7e4ff3c93d54872577d820bf1f7d97a92269fc9eace5381"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-103-2025",
+   "path": "local/dambovita/buciumeni/2025/103",
+   "short": "HCL Buciumeni nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 103/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-103-DIN-29.10.2025.pdf",
+     "sha256": "684b7f7d6134fa62525c574beeb7b51e3fe9174b644849dcc0ff04e536278b37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-104-2025",
+   "path": "local/dambovita/buciumeni/2025/104",
+   "short": "HCL Buciumeni nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 104/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-104-DIN-29.10.2025.pdf",
+     "sha256": "f9446ed174deccd8a7792f9df9fa6bf41b111bee9d0a2eaf2d6a9c376a00aaa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-105-2025",
+   "path": "local/dambovita/buciumeni/2025/105",
+   "short": "HCL Buciumeni nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 105/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-105-DIN-29.10.2025.pdf",
+     "sha256": "b7ea09796ff13557e0d612db33f3d3d0d176d7cd2981ea51cc6926b5fe346f4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-106-2025",
+   "path": "local/dambovita/buciumeni/2025/106",
+   "short": "HCL Buciumeni nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 106/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-106-DIN-29.10.2025.pdf",
+     "sha256": "3e8cba2f743392e08a59f9049cb9bad79cad2fb138f53fa6289d4bdfca95c6e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-107-2025",
+   "path": "local/dambovita/buciumeni/2025/107",
+   "short": "HCL Buciumeni nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 107/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-107-DIN-29.10.2025.pdf",
+     "sha256": "bfdb0e79848c714deacbc2b97fcbbcc717956ec3ee00d6377f5ccffcb5e20aa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-108-2025",
+   "path": "local/dambovita/buciumeni/2025/108",
+   "short": "HCL Buciumeni nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 108/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-108-DIN-29.10.2025.pdf",
+     "sha256": "5f70c51400b0c0ae97eb9b15096633573a3db632cf7d7f2de5ba7a847f25ccda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-109-2025",
+   "path": "local/dambovita/buciumeni/2025/109",
+   "short": "HCL Buciumeni nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 109/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-109-DIN-29.10.2025.pdf",
+     "sha256": "1834e223f53b8fc8a89cdb52250681f7a0558928d9d62807588ae71c3b3f9c7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-110-2025",
+   "path": "local/dambovita/buciumeni/2025/110",
+   "short": "HCL Buciumeni nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 110/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-110-DIN-29.10.2025.pdf",
+     "sha256": "834ef509f4881f3fc9eab0f8f92d47ecf29cd9e9448d5edf1c21f8e2972d517c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-111-2025",
+   "path": "local/dambovita/buciumeni/2025/111",
+   "short": "HCL Buciumeni nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 111/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-111-DIN-29.10.2025.pdf",
+     "sha256": "0b2c1b67d4598f0f437cd3bab6b32aa5d2e4ac2a531e1b445766c18aea373b9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-112-2025",
+   "path": "local/dambovita/buciumeni/2025/112",
+   "short": "HCL Buciumeni nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 112/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/11/HCL-NR-112-DIN-25.11.2025.pdf",
+     "sha256": "4e7ebc5e54b7bc2db6f7ea3ad4fca2289d50d42415d77f92c530c6d25e3e92d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-113-2025",
+   "path": "local/dambovita/buciumeni/2025/113",
+   "short": "HCL Buciumeni nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 113/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/11/HCL-NR-113-DIN-25.11.2025.pdf",
+     "sha256": "ea2ad676dc13788b3dbd78fa3053f58d4017d1b00a44423ee3b2658bc981c08b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-122-2025",
+   "path": "local/dambovita/buciumeni/2025/122",
+   "short": "HCL Buciumeni nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 122/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/11/HCL-NR-122-DIN-25.11.2025.pdf",
+     "sha256": "fbefc509e632198206ca8abef972067e58a23ecc28b9ac60abe37914677c204a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-123-2025",
+   "path": "local/dambovita/buciumeni/2025/123",
+   "short": "HCL Buciumeni nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 123/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-123-DIN-10.12.2025.pdf",
+     "sha256": "c4b1b9330c87686b34433dd095a387a8b97e013af24bca46008320864538cc2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-124-2025",
+   "path": "local/dambovita/buciumeni/2025/124",
+   "short": "HCL Buciumeni nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 124/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-124-DIN-10.12.2025.pdf",
+     "sha256": "0a30244cdc8277b53926b2da6acfeb63c555a80a7bfd98df1b047e577769eec8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-125-2025",
+   "path": "local/dambovita/buciumeni/2025/125",
+   "short": "HCL Buciumeni nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 125/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-125-DIN-10.12.2025.pdf",
+     "sha256": "6c2d2c83dcd1bcb70c141ecf9644a3c5e3cd5594a3b59119888b70a90b17900d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-126-2025",
+   "path": "local/dambovita/buciumeni/2025/126",
+   "short": "HCL Buciumeni nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 126/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-126-DIN-15.12.2025.pdf",
+     "sha256": "fa86529485aad1ee7ecb7e24e9c195c5b921551e7aa2985cc42a69d14553b591"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-127-2025",
+   "path": "local/dambovita/buciumeni/2025/127",
+   "short": "HCL Buciumeni nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 127/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-127-DIN-15.12.2025.pdf",
+     "sha256": "0f55579d053c30868624c3a405bdeb50de5cf1187b6a0afafdb422d38629b776"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-128-2025",
+   "path": "local/dambovita/buciumeni/2025/128",
+   "short": "HCL Buciumeni nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 128/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-128-DIN-29.12.2025.pdf",
+     "sha256": "a31345961689285addc95c7dff9a06e297b85dee25f15292a9f84b72cef7a15c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-129-2025",
+   "path": "local/dambovita/buciumeni/2025/129",
+   "short": "HCL Buciumeni nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 129/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-129-din-29.12.2025.pdf",
+     "sha256": "8edabeb21b950928ccd76a5598a6fed58c2e3a883e4276edfbff420bcb6e31ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-130-2025",
+   "path": "local/dambovita/buciumeni/2025/130",
+   "short": "HCL Buciumeni nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 130/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-130-DIN-29.12.2025.pdf",
+     "sha256": "5bf3c084b5ede2b0ee9b0f0612a4e95bfa1e370780d466dccff952ceb49e7a39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-131-2025",
+   "path": "local/dambovita/buciumeni/2025/131",
+   "short": "HCL Buciumeni nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 131/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-131-DIN-29.12.2025.pdf",
+     "sha256": "858ae67e304cb190d1182e5a7fd37c18a9ab20e83040ddb181fce961f2b73e1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-132-2025",
+   "path": "local/dambovita/buciumeni/2025/132",
+   "short": "HCL Buciumeni nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 132/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-132-DIN-29.12.2025.pdf",
+     "sha256": "3bb012784fb89a2e0dda9732b1a8d1c2ed068b61f73978f8bb2416086757e3f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-133-2025",
+   "path": "local/dambovita/buciumeni/2025/133",
+   "short": "HCL Buciumeni nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 133/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-133-DIN-29.12.2025.pdf",
+     "sha256": "9f38497e35781ecd8fb9a2b7b2d4f28f29267e515c7fadd235c0f91e3a37dd0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-134-2025",
+   "path": "local/dambovita/buciumeni/2025/134",
+   "short": "HCL Buciumeni nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 134/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-134-DIN-29.12.2025.pdf",
+     "sha256": "e0fc3c9b81e7a17b98f236d931d9b4afaea1724f8b00f39629af585f0f6c7b44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-135-2025",
+   "path": "local/dambovita/buciumeni/2025/135",
+   "short": "HCL Buciumeni nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 135/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-135-DIN-29.12.2025.pdf",
+     "sha256": "2ec86c19990529306d3e0661adbe138ab1a6d05a38a2f3f18848c9a0de31babe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-136-2025",
+   "path": "local/dambovita/buciumeni/2025/136",
+   "short": "HCL Buciumeni nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 136/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-136-DIN-29.12.2025.pdf",
+     "sha256": "68a4dfa6141c2a30fdcb5e42c52dd4abd7ac3a80c982b15a7b7bdb9ed50ee59f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-137-2025",
+   "path": "local/dambovita/buciumeni/2025/137",
+   "short": "HCL Buciumeni nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 137/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-137-DIN-29.12.2025.pdf",
+     "sha256": "76bbe43bee1537e024fb1a7f42c13c55df543b2b71d892f2dc7e1ca16c5f0e9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-138-2025",
+   "path": "local/dambovita/buciumeni/2025/138",
+   "short": "HCL Buciumeni nr. 138/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 138/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-138-DIN-29.12.2025.pdf",
+     "sha256": "ca8f277b87453205dc885593db4b3d543cf8988ea2e4d91e1ea9c02ef9eedb70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-139-2025",
+   "path": "local/dambovita/buciumeni/2025/139",
+   "short": "HCL Buciumeni nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 139/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-139-DIN-29.12.2025.pdf",
+     "sha256": "825e1f0c3125b7dd0daeaf1942bab46087fcafd524e5304407d7005beb07243e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-140-2025",
+   "path": "local/dambovita/buciumeni/2025/140",
+   "short": "HCL Buciumeni nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 140/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-140-DIN-29.12.2025.pdf",
+     "sha256": "8f47e46cf237626e5cac660e8f809beb090ff9310a753bd8d4e10af5386471d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-141-2025",
+   "path": "local/dambovita/buciumeni/2025/141",
+   "short": "HCL Buciumeni nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 141/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-141-DIN-29.12.2025.pdf",
+     "sha256": "7109e0472da124d2fa7514cc377994823b4acb6a6d56a40b904a93f20c232e8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-142-2025",
+   "path": "local/dambovita/buciumeni/2025/142",
+   "short": "HCL Buciumeni nr. 142/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 142/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2026/01/HCL.-NR.-142-DIN-29.12.2025.pdf",
+     "sha256": "c7755e3b1e5f19ab343fa6c33661bd0fb62528cbbea012b086965a78f09b4b8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-96-2025",
+   "path": "local/dambovita/buciumeni/2025/96",
+   "short": "HCL Buciumeni nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 96/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-96-DIN-29.10.2025.pdf",
+     "sha256": "3cb2dbb9c363ed6f8be2f3817024189d89003fb8395a2723b5f1e60959b17bfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-97-2025",
+   "path": "local/dambovita/buciumeni/2025/97",
+   "short": "HCL Buciumeni nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 97/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-97-DIN-29.10.2025.pdf",
+     "sha256": "15cd42bc5e91d1970a3365a7ccb2fc1eb259ec5072a0477bb2ace0bc763c8e5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-98-2025",
+   "path": "local/dambovita/buciumeni/2025/98",
+   "short": "HCL Buciumeni nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 98/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-98-DIN-29.10.2025.pdf",
+     "sha256": "d12e585ebd6167d9dbf81e17d2b0e0883c755ca6c01aec00dc5410b37515abc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--buciumeni-99-2025",
+   "path": "local/dambovita/buciumeni/2025/99",
+   "short": "HCL Buciumeni nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Buciumeni nr. 99/2025",
+   "url": "https://buciumeni.ro/consiliul-local/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://buciumeni.ro/wp-content/uploads/2025/12/HCL-NR-99-DIN-29.10.2025.pdf",
+     "sha256": "79b8c78c3989292e515cc49618b30a25567db96e2761db4b9efd33f3969ff210"
+    }
+   ]
+  }
+ ]
+}

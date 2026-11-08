@@ -25,6 +25,72 @@
 }
 },
 {
+"slug": "hcl-dambovita--odobesti-2-2026",
+"path": "local/dambovita/odobesti/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 2/2026 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav si indemnizatii pentru persoanele cu handicap grav pentru semestrul II al anului 2025",
+"short": "HCL Odobești nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/252756",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-3-2026",
+"path": "local/dambovita/odobesti/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 3/2026 privind aprobarea numărului posturilor de asistenti personali pentru persoanele cu handicap grav si numarului de indemnizatii pentru persoanele cu handicap grav pentru anul 2026",
+"short": "HCL Odobești nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/252757",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-4-2026",
+"path": "local/dambovita/odobesti/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 4/2026 privind aprobarea Planului de actiuni sau lucrari de interes local pentru anul 2026 pentru persoanele beneficiare de venit minim de incluziune acordat in baza Legii nr. 196/2016 privind venitul minim de incluziune",
+"short": "HCL Odobești nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/252758",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--odobesti-5-2026",
 "path": "local/dambovita/odobesti/2026/5",
 "kind": "local",
@@ -47,6 +113,74 @@
 }
 },
 {
+"slug": "hcl-dambovita--odobesti-6-2026",
+"path": "local/dambovita/odobesti/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 6/2026",
+"short": "HCL Odobești nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/252763",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-7-2026",
+"path": "local/dambovita/odobesti/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 7/2026",
+"short": "HCL Odobești nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/252764",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-8-2026",
+"path": "local/dambovita/odobesti/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 8/2026 privind modificarea componentei Comisiei de specialitate nr.1 a Consiliului Local Odobesti- Comisia pentru programe de dezvoltare economico-sociala, buget, finanţe, administrarea domeniului public şi privat al comunei, agricultura,urbanism, gospodarire comunala,protectia mediului, servicii si comert,aprobată prin Hotararea Consiliului Local nr.46/22.11.2024",
+"short": "HCL Odobești nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/252765",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--odobesti-9-2026",
 "path": "local/dambovita/odobesti/2026/9",
 "kind": "local",
@@ -66,6 +200,184 @@
 "council_name": "Consiliul Local al Comunei Odobești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-10-2026",
+"path": "local/dambovita/odobesti/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 10/2026",
+"short": "HCL Odobești nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-16",
+"latest": "2026-03-16",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/258411",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-11-2026",
+"path": "local/dambovita/odobesti/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 11/2026 privind alegerea presedintelui de sedinta al Consiliului Local Odobesti",
+"short": "HCL Odobești nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-16",
+"latest": "2026-03-16",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/258413",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-12-2026",
+"path": "local/dambovita/odobesti/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 12/2026",
+"short": "HCL Odobești nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-16",
+"latest": "2026-03-16",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/258421",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-13-2026",
+"path": "local/dambovita/odobesti/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 13/2026 privind aprobarea vănzarii cu drept de preemtiune, a unui teren aflat 0in proprietate privata a comunei Odobesti,situat in satul Odobesti, Comuna Odobești, punct ,,Islaz”,inscris in Cartea Funciara la nr.72395",
+"short": "HCL Odobești nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-16",
+"latest": "2026-03-16",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/258423",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-14-2026",
+"path": "local/dambovita/odobesti/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 14/2026 privind privind aprobarea vânzării prin licitatie publică a terenului în suprafață de 2324 m.p.,aflat in proprietatea privata a comunei Odobesti, situat in satul Odobești,comuna Odobești punct ,,Islaz,nr.cadastral 72396",
+"short": "HCL Odobești nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-16",
+"latest": "2026-03-16",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/258435",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-15-2026",
+"path": "local/dambovita/odobesti/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 15/2026 privind acordarea unui premiu în valoare de 1000 lei pentru familiile din Comuna Odobești, județul Dâmbovița, care au împlinit 50 de ani de căsătorie neîntreruptă in anul 2025",
+"short": "HCL Odobești nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-16",
+"latest": "2026-03-16",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/258440",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-16-2026",
+"path": "local/dambovita/odobesti/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 16/2026 privind aprobarea schimbării destinației unui corp de clădire aparținând bazei materiale a unității de învățământ preuniversitar de stat Scoala Gimnazială Odobesti , în vederea demolării",
+"short": "HCL Odobești nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/270746",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--odobesti-17-2026",
+"path": "local/dambovita/odobesti/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Odobești nr. 17/2026 privind aprobarea schimbării destinației unui corp de clădire aparținând bazei materiale a unității de învățământ preuniversitar de stat Scoala Gimnazială Odobesti , în vederea demolării",
+"short": "HCL Odobești nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://emol.ro/odobesti-db/registru-hcl/270747",
+"council": "dambovita/odobesti",
+"council_name": "Consiliul Local al Comunei Odobești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--moreni-136-2021",
+   "path": "local/dambovita/moreni/2021/136",
+   "short": "HCL Moreni nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Moreni nr. 136/2021",
+   "url": "https://primariamoreni.ro/wp-content/uploads/2023/05/HCL-nr-136_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 1,
+     "source_url": "https://primariamoreni.ro/wp-content/uploads/2023/05/HCL-nr-136_2021.pdf",
+     "sha256": "f4d55a76fe188c6ee1e0102e54526e664840ddd1a97e9e94977b77d6f754638f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--moreni-145-2021",
    "path": "local/dambovita/moreni/2021/145",
    "short": "HCL Moreni nr. 145/2021",

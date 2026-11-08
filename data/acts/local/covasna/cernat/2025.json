@@ -25,6 +25,72 @@
 }
 },
 {
+"slug": "hcl-covasna--cernat-57-2025",
+"path": "local/covasna/cernat/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernat nr. 57/2025 privind concesionarea prin licitație publică a imobilului compus din teren, în suprafață de 1000 mp, și construcții - clădirea stației de alimentare carburanți, platformă tehnologică pavată cu copertină metalică, 2 pompe de alimentare combustibil, rezervoare de combustibil, înscris în CF Cernat nr.27627",
+"short": "HCL Cernat nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-23",
+"latest": "2025-09-23",
+"portal": "https://emol.ro/cernat-cv/registru-hcl/224955",
+"council": "covasna/cernat",
+"council_name": "Consiliul Local al Comunei Cernat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--cernat-58-2025",
+"path": "local/covasna/cernat/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernat nr. 58/2025 privind aprobarea anulării unor creanțe fiscale, reprezentând amenzi contravenționale ale debitorilor decedați",
+"short": "HCL Cernat nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/cernat-cv/registru-hcl/224956",
+"council": "covasna/cernat",
+"council_name": "Consiliul Local al Comunei Cernat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--cernat-59-2025",
+"path": "local/covasna/cernat/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernat nr. 59/2025 privind desemnarea reprezentanții din Consiliul Local Cernat în Consiliul de Administrație la Școala Gimnazială „Vegh Antal” din Cernat",
+"short": "HCL Cernat nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/cernat-cv/registru-hcl/229599",
+"council": "covasna/cernat",
+"council_name": "Consiliul Local al Comunei Cernat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-covasna--cernat-60-2025",
 "path": "local/covasna/cernat/2025/60",
 "kind": "local",
@@ -66,6 +132,117 @@
 "council_name": "Consiliul Local al Comunei Cernat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-covasna--cernat-62-2025",
+"path": "local/covasna/cernat/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernat nr. 62/2025 privind implementarea proiectului „AMENAJAREA ACCESULUI SI A ZONEI VERZI IN CENTRUL SATULUI CERNAT”",
+"short": "HCL Cernat nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/cernat-cv/registru-hcl/229602",
+"council": "covasna/cernat",
+"council_name": "Consiliul Local al Comunei Cernat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--cernat-63-2025",
+"path": "local/covasna/cernat/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernat nr. 63/2025",
+"short": "HCL Cernat nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/cernat-cv/registru-hcl/229603",
+"council": "covasna/cernat",
+"council_name": "Consiliul Local al Comunei Cernat",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-covasna--cernat-64-2025",
+"path": "local/covasna/cernat/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernat nr. 64/2025 privind modificarea anexei la HCL nr. 41/2025 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare străzi în comuna Cernat – etapa I, judeţul Covasna” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Cernat nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/cernat-cv/registru-hcl/229604",
+"council": "covasna/cernat",
+"council_name": "Consiliul Local al Comunei Cernat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--cernat-65-2025",
+"path": "local/covasna/cernat/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernat nr. 65/2025 privind aprobarea investiției \"REABILITAREA ȘI CONSOLIDAREA CLĂDIRII ȘCOLII PRIMARE ALBIȘ ȘI A GRĂDINIȚEI CU PROGRAM NORMAL ALBIȘ\" și aprobarea Notei conceptuale și Temei de proiectare",
+"short": "HCL Cernat nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/cernat-cv/registru-hcl/229605",
+"council": "covasna/cernat",
+"council_name": "Consiliul Local al Comunei Cernat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--cernat-66-2025",
+"path": "local/covasna/cernat/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernat nr. 66/2025 privind alegerea președintelui de ședință",
+"short": "HCL Cernat nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/cernat-cv/registru-hcl/229606",
+"council": "covasna/cernat",
+"council_name": "Consiliul Local al Comunei Cernat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

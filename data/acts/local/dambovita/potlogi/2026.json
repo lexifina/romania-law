@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/dambovita/potlogi/2026",
+"acts": [
+{
+"slug": "hcl-dambovita--potlogi-23-2026",
+"path": "local/dambovita/potlogi/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Potlogi nr. 23/2026",
+"short": "HCL Potlogi nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://primariapotlogi.ro/wp-content/uploads/2026/09/Bugetul-local-pe-anul-2026-HCL-nr.-23-din-11.05.2026.pdf",
+"council": "dambovita/potlogi",
+"council_name": "Consiliul Local al Comunei Potlogi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--potlogi-29-2026",
+"path": "local/dambovita/potlogi/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Potlogi nr. 29/2026",
+"short": "HCL Potlogi nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-10",
+"latest": "2026-06-10",
+"portal": "https://primariapotlogi.ro/wp-content/uploads/2026/09/Bugetul-local-pe-anul-2026-HCL-nr.-29-din-10.06.2026.pdf",
+"council": "dambovita/potlogi",
+"council_name": "Consiliul Local al Comunei Potlogi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--potlogi-39-2026",
+"path": "local/dambovita/potlogi/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Potlogi nr. 39/2026",
+"short": "HCL Potlogi nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-12",
+"latest": "2026-08-12",
+"portal": "https://primariapotlogi.ro/wp-content/uploads/2026/09/Bugetul-local-pe-anul-2026-HCL-nr.-39-din-12.08.2026.pdf",
+"council": "dambovita/potlogi",
+"council_name": "Consiliul Local al Comunei Potlogi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--potlogi-55-2026",
+"path": "local/dambovita/potlogi/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Potlogi nr. 55/2026 privind aprobarea regulamentului de organizare si functionare a spatiilor destinate activitatii jocurilor de noroc",
+"short": "HCL Potlogi nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://primariapotlogi.ro/wp-content/uploads/2026/10/Hotararea-nr.-55-din-28.09.2026-privind-aprobarea-regulamentului-de-organizare-si-functionare-a-spatiilor-destinate-activitatii-jocurilor-de-noroc.pdf",
+"council": "dambovita/potlogi",
+"council_name": "Consiliul Local al Comunei Potlogi",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

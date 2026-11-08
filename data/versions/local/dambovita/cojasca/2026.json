@@ -2088,6 +2088,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--cojasca-6-2026",
+   "path": "local/dambovita/cojasca/2026/6",
+   "short": "HCL Cojasca nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cojasca nr. 6/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--cojasca-60-2026",
    "path": "local/dambovita/cojasca/2026/60",
    "short": "HCL Cojasca nr. 60/2026",

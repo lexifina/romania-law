@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/covasna/2019",
+ "acts": [
+  {
+   "slug": "hcl-covasna--covasna-46-2019",
+   "path": "local/covasna/covasna/2019/46",
+   "short": "HCL Covasna nr. 46/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 46/2019 cu privire la alegerea președintelui de ședință",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2019-04-12",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2019/hcl46.pdf",
+     "sha256": "eef77f4bc338b069a55819df75ba0831b80e69fab6e414ac35394756b1614a58"
+    }
+   ]
+  }
+ ]
+}

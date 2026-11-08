@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--bezdead-2-2024",
+"path": "local/dambovita/bezdead/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 2/2024 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav si de indemnizații pentru anul 2024 si aprobarea obligației asistenților personali de a prezenta lunar raport de activitate",
+"short": "HCL Bezdead nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/143586",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--bezdead-3-2024",
 "path": "local/dambovita/bezdead/2024/3",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Bezdead",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-4-2024",
+"path": "local/dambovita/bezdead/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 4/2024 privind nominalizarea a doi consilierilor locali pentru a fi desemnați în comisia de evaluare a performanțelor profesionale individuale ale secretarului general al comunei pe anul 2023",
+"short": "HCL Bezdead nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/143588",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -67,6 +111,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-6-2024",
+"path": "local/dambovita/bezdead/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 6/2024 privind alegerea președintelui de ședință pentru lunile februarie, martie și aprilie 2024",
+"short": "HCL Bezdead nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/143590",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -665,6 +731,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--bezdead-34-2024",
+"path": "local/dambovita/bezdead/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 34/2024 privind alegerea președintelui de ședință pentru lunile mai, iunie și iulie 2024",
+"short": "HCL Bezdead nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/156548",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--bezdead-35-2024",
 "path": "local/dambovita/bezdead/2024/35",
 "kind": "local",
@@ -842,6 +930,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--bezdead-43-2024",
+"path": "local/dambovita/bezdead/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 43/2024 privind vânzarea directă către populație a unei cantități de masă lemnoasă ce se va exploata din pădurea și pășunea împădurită a comunei Bezdead",
+"short": "HCL Bezdead nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-15",
+"latest": "2024-07-15",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/162282",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--bezdead-44-2024",
 "path": "local/dambovita/bezdead/2024/44",
 "kind": "local",
@@ -972,6 +1082,51 @@
 "council_name": "Consiliul Local al Comunei Bezdead",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-50-2024",
+"path": "local/dambovita/bezdead/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 50/2024",
+"short": "HCL Bezdead nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/165274",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-51-2024",
+"path": "local/dambovita/bezdead/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 51/2024 privind alegerea președintelui de ședință pentru lunile august, septembrie și octombrie 2024",
+"short": "HCL Bezdead nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/165275",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1173,6 +1328,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--bezdead-61-2024",
+"path": "local/dambovita/bezdead/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 61/2024 privind vânzarea directă către populație a unei cantități de masă lemnoasă exploatată din pădurea și pășunea împădurită a comunei Bezdead",
+"short": "HCL Bezdead nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/174203",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--bezdead-62-2024",
 "path": "local/dambovita/bezdead/2024/62",
 "kind": "local",
@@ -1192,6 +1369,94 @@
 "council_name": "Consiliul Local al Comunei Bezdead",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-63-2024",
+"path": "local/dambovita/bezdead/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 63/2024 privind modificarea Hotărârii Consiliului local al comunei Bezdead nr. 43 din 25.06.2024 privind vânzarea directă către populație a unei cantități de masă lemnoasă ce se va exploata din pădurea și pășunea împădurită a comunei Bezdead",
+"short": "HCL Bezdead nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/174205",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-64-2024",
+"path": "local/dambovita/bezdead/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 64/2024 privind alegerea președintelui de ședință pentru lunile octombrie, noiembrie și decembrie 2024",
+"short": "HCL Bezdead nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-25",
+"latest": "2024-10-25",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/177864",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-65-2024",
+"path": "local/dambovita/bezdead/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 65/2024 privind organizarea comisiilor de specialitate din cadrul Consiliului local al comunei Bezdead",
+"short": "HCL Bezdead nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-25",
+"latest": "2024-10-25",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/177865",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--bezdead-66-2024",
+"path": "local/dambovita/bezdead/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bezdead nr. 66/2024 privind alegerea viceprimarului comunei Bezdead pentru mandatul 2024-2028",
+"short": "HCL Bezdead nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-25",
+"latest": "2024-10-25",
+"portal": "https://emol.ro/bezdead-db/registru-hcl/177866",
+"council": "dambovita/bezdead",
+"council_name": "Consiliul Local al Comunei Bezdead",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

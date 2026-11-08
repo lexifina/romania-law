@@ -3,6 +3,756 @@
  "shard": "local/covasna/valea-mare/2023",
  "acts": [
   {
+   "slug": "hcl-covasna--valea-mare-1-2023",
+   "path": "local/covasna/valea-mare/2023/1",
+   "short": "HCL Valea Mare nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 1/2023 privind alegerea președintelui de ședință pentru perioada ianuarie-martie 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108957",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-10-2023",
+   "path": "local/covasna/valea-mare/2023/10",
+   "short": "HCL Valea Mare nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 10/2023 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, pe semestru I și semestrul II, al anului 2022",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108968",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-11-2023",
+   "path": "local/covasna/valea-mare/2023/11",
+   "short": "HCL Valea Mare nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 11/2023 privind alegerea președintelui de ședință pentru perioada APRILIE-IUNIE 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108969",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-12-2023",
+   "path": "local/covasna/valea-mare/2023/12",
+   "short": "HCL Valea Mare nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 12/2023 privind atribuirea directa a pășunilor, proprietate privata a comunei Valea Mare si a Regulamentului organizării pășunatului pe teritoriul comunei Valea Mare, în anul 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108970",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-13-2023",
+   "path": "local/covasna/valea-mare/2023/13",
+   "short": "HCL Valea Mare nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 13/2023 privind atribuirea directă a suprafetei de 291,00 ha pasune, proprietate privata a comunei Valea Mare catre Asociatia Crescătorilor de Bovine si Ovine Valea Mare, în anul 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108971",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-14-2023",
+   "path": "local/covasna/valea-mare/2023/14",
+   "short": "HCL Valea Mare nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 14/2023 privind aprobarea rectificării bugetului comunei Valea Mare, pe anul 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108972",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-15-2023",
+   "path": "local/covasna/valea-mare/2023/15",
+   "short": "HCL Valea Mare nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 15/2023 privind acordarea unui mandat special reprezentantului comunei Valea Mare în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară ”AQUACOV”",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108973",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-16-2023",
+   "path": "local/covasna/valea-mare/2023/16",
+   "short": "HCL Valea Mare nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 16/2023 privind aprobarea depunerii proiectului ”Protecția speciilor de faună sălbatică, prin instalarea de echipamente și/sau dispozitive de tipul gardurilor electrice ori a altor mijloace asemănătoare permise de lege, în vederea diminuării conflictelor și reducerii pagubelor cauzate de animale sălbatice”",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108974",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-17-2023",
+   "path": "local/covasna/valea-mare/2023/17",
+   "short": "HCL Valea Mare nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 17/2023 privind aprobarea rectificării bugetului comunei Valea Mare, pe anul 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108975",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-18-2023",
+   "path": "local/covasna/valea-mare/2023/18",
+   "short": "HCL Valea Mare nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 18/2023 privind aprobarea depunerii proiectului ”Casarea autovehiculelor uzate”",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108976",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-19-2023",
+   "path": "local/covasna/valea-mare/2023/19",
+   "short": "HCL Valea Mare nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 19/2023 privind modificarea salariilor de bază ale funcționarilor publici și personalului contractual, din cadrul aparatului de specialitate al primarului comunei Valea Mare, începând cu data de 01 noiembrie 2022",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108977",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-2-2023",
+   "path": "local/covasna/valea-mare/2023/2",
+   "short": "HCL Valea Mare nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 2/2023 privind aprobarea Bugetului local al Comunei Valea Mare, pentru anul 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108958",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-20-2023",
+   "path": "local/covasna/valea-mare/2023/20",
+   "short": "HCL Valea Mare nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 20/2023 privind stabilirea indemnizației lunare a consilierilor locali din cadrul Consiliului Local al comunei Valea Mare, începând cu data de 01.11.2022",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108978",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-21-2023",
+   "path": "local/covasna/valea-mare/2023/21",
+   "short": "HCL Valea Mare nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 21/2023 privind indexarea cu rata inflației a impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul fiscal 2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108979",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-22-2023",
+   "path": "local/covasna/valea-mare/2023/22",
+   "short": "HCL Valea Mare nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 22/2023 privind aprobarea execuției bugetului general de venituri și cheltuieli, pe trimestrul I, al anului 2023, al comunei Valea Mare, județul Covasna",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108980",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-23-2023",
+   "path": "local/covasna/valea-mare/2023/23",
+   "short": "HCL Valea Mare nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 23/2023 privind aprobarea studiului de fezabilitate, pentru obiectivul de investiție ,,Înființarea sistemului de canalizare, în comuna Valea Mare, județul Covasna”, aprobat pentru finanțare prin Programul Național de investiții “ Anghel Saligny”",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108981",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-24-2023",
+   "path": "local/covasna/valea-mare/2023/24",
+   "short": "HCL Valea Mare nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 24/2023 privind aprobarea studiului de fezabilitate, pentru obiectivul de investiție ,,Înființarea sistemului de alimentare cu apă, în comuna Valea Mare, județul Covasna”, aprobat pentru finanțare prin Programul Național de investiții “ Anghel Saligny”",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108982",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-25-2023",
+   "path": "local/covasna/valea-mare/2023/25",
+   "short": "HCL Valea Mare nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 25/2023 privind aprobarea participării comunei Valea Mare, județul Covasna, prin Consiliul local al comunei Valea Mare, la Parteneriatul LEADER cu denumirea „Asociația Grupul de Acțiune Locală PROGRESSIO” în vederea depunerii sprijinului pregătitor și a implementării Strategiei de Dezvoltare Locală prin accesarea Planului Național Strategic PAC 2023 - 2027",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108983",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-26-2023",
+   "path": "local/covasna/valea-mare/2023/26",
+   "short": "HCL Valea Mare nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 26/2023 privind modificarea HCL nr. 18/2023, privind aprobarea depunerii proiectului ”Casarea autovehiculelor uzate”",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108984",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-27-2023",
+   "path": "local/covasna/valea-mare/2023/27",
+   "short": "HCL Valea Mare nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 27/2023 privind darea în administrarea Școlii Gimnaziale ”Mihai Eminescu” din Valea Mare a imobilului identificat în CF nr. 23 000 Valea Mare nr. cad. 23000 – C9, aflat în proprietatea publică a Comunei Valea Mare",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146693",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-28-2023",
+   "path": "local/covasna/valea-mare/2023/28",
+   "short": "HCL Valea Mare nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 28/2023 privind aprobarea participării unității administrativ teritoriale Valea Mare la „Programul județean de dezvoltare a infrastructurii unităților de învățământ preuniversitar, în perioada 2021-2024”",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146694",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-29-2023",
+   "path": "local/covasna/valea-mare/2023/29",
+   "short": "HCL Valea Mare nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 29/2023 privind aprobarea rectificării bugetului comunei Valea Mare, pentru anul 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146698",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-3-2023",
+   "path": "local/covasna/valea-mare/2023/3",
+   "short": "HCL Valea Mare nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 3/2023 privind aprobarea Studiului de oportunitate, a Documentației de atribuire, Caietului de sarcini, a formularelor și modelelor de documente pentru participarea la licitație și modelului de Contract de concesiune, în vederea concesionării prin licitație publică a terenului aparținând domeniului privat al comunei Valea Mare, jud. Covasna, în suprafața de 490.000 mp, situat în extravilanul localității Comunei Valea Mare, înscris în CF nr. 23442, al UAT Valea Mare",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108959",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-30-2023",
+   "path": "local/covasna/valea-mare/2023/30",
+   "short": "HCL Valea Mare nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 30/2023 privind acordul de principiu al consiliului local Valea Mare pentru concesionarea prin licitație publică a terenului extravilan, aparținând domeniului privat al comunei Valea Mare, identificat prin CF nr. 23445, Valea Mare, nr. cadastral 23445, în suprafață de 504.018 mp, în vederea construirii unui parc fotovoltaic",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146699",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-31-2023",
+   "path": "local/covasna/valea-mare/2023/31",
+   "short": "HCL Valea Mare nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 31/2023 privind actualizarea devizului general, pentru obiectivul de investiție ,,Înființarea sistemului de canalizare, în comuna Valea Mare, județul Covasna”, aprobat pentru finanțare prin Programul Național de investiții “ Anghel Saligny”",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146700",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-32-2023",
+   "path": "local/covasna/valea-mare/2023/32",
+   "short": "HCL Valea Mare nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 32/2023 privind aprobarea completării Planului anual al achizițiilor publice și lucrărilor, pentru anul 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146701",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-33-2023",
+   "path": "local/covasna/valea-mare/2023/33",
+   "short": "HCL Valea Mare nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 33/2023 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146704",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-34-2023",
+   "path": "local/covasna/valea-mare/2023/34",
+   "short": "HCL Valea Mare nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 34/2023 privind aprobarea rectificării bugetului comunei Valea Mare, pe anul 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146705",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-35-2023",
+   "path": "local/covasna/valea-mare/2023/35",
+   "short": "HCL Valea Mare nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 35/2023 privind aprobarea execuției bugetului general de venituri și cheltuieli, pe trimestrul II, al anului 2023, al comunei Valea Mare, județul Covasna",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146706",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-36-2023",
+   "path": "local/covasna/valea-mare/2023/36",
+   "short": "HCL Valea Mare nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 36/2023 privind aprobarea Studiului de oportunitate, a Documentației de atribuire, Caietului de sarcini, a formularelor și modelelor de documente pentru participarea la licitație și modelului de Contract de concesiune, în vederea concesionării prin licitație publică a terenului aparținând domeniului privat al comunei Valea Mare, jud. Covasna, în suprafața de 504.018 mp, situat în extravilanul localității Comunei Valea Mare, înscris în CF nr. 23445, al UAT Valea Mare",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146707",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-37-2023",
+   "path": "local/covasna/valea-mare/2023/37",
+   "short": "HCL Valea Mare nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 37/2023 privind aprobarea rectificării bugetului comunei Valea Mare, pe anul 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146708",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-38-2023",
+   "path": "local/covasna/valea-mare/2023/38",
+   "short": "HCL Valea Mare nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 38/2023 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, pe semestru I, al anului 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146709",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-39-2023",
+   "path": "local/covasna/valea-mare/2023/39",
+   "short": "HCL Valea Mare nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 39/2023 privind aprobarea devizului general al obiectivului de investiții: DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT DIN COMUNA VALEA MARE, propus a se realiza prin programul Planul Național de Redresare și Reziliență, Pilonul VI, Componenta 15: Educație",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146710",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-4-2023",
+   "path": "local/covasna/valea-mare/2023/4",
+   "short": "HCL Valea Mare nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 4/2023 privind aprobarea participării unității administrativ teritoriale Valea Mare la „Programul județean de dezvoltare a infrastructurii unităților de învățământ preuniversitar, în perioada 2021-2024”",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108960",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-40-2023",
+   "path": "local/covasna/valea-mare/2023/40",
+   "short": "HCL Valea Mare nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 40/2023 privind aprobarea organizării și desfășurării manifestării ”FESTIVALUL VĂLENILOR”, ediția 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146711",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-41-2023",
+   "path": "local/covasna/valea-mare/2023/41",
+   "short": "HCL Valea Mare nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 41/2023 privind aprobarea reactualizării Regulamentului de Organizare și Funcționare al Aparatului de Specialitate al Primarului Comunei Valea Mare, județul Covasna",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146712",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-42-2023",
+   "path": "local/covasna/valea-mare/2023/42",
+   "short": "HCL Valea Mare nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 42/2023 privind aprobarea modului de valorificare a unei cantități de masa lemnoasă pentru foc, din pășunea proprietate privată a comunei Valea Mare, județul Covasna",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146713",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-43-2023",
+   "path": "local/covasna/valea-mare/2023/43",
+   "short": "HCL Valea Mare nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 43/2023 privind actualizarea echipei mobile, pentru intervenția de urgență în cazurile de violență domestică",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146714",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-44-2023",
+   "path": "local/covasna/valea-mare/2023/44",
+   "short": "HCL Valea Mare nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 44/2023 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146724",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-45-2023",
+   "path": "local/covasna/valea-mare/2023/45",
+   "short": "HCL Valea Mare nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 45/2023 privind aprobarea rectificării bugetului comunei Valea Mare, pe anul 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146725",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-46-2023",
+   "path": "local/covasna/valea-mare/2023/46",
+   "short": "HCL Valea Mare nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 46/2023 privind desemnarea reprezentantului Consiliului local Valea Mare în Consiliul de Administrație al unităţii de învăţământ din comuna Valea Mare, în anul 2023-2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146726",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-47-2023",
+   "path": "local/covasna/valea-mare/2023/47",
+   "short": "HCL Valea Mare nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 47/2023 privind aprobarea completării Planului anual al achizițiilor publice și lucrărilor, pentru anul 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146727",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-48-2023",
+   "path": "local/covasna/valea-mare/2023/48",
+   "short": "HCL Valea Mare nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 48/2023 privind acordarea unui mandat special reprezentantului comunei Valea Mare, în Adunarea generală a Asociaţiei de Dezvoltare Intercomunitară ”AQUACOV”",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146728",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-49-2023",
+   "path": "local/covasna/valea-mare/2023/49",
+   "short": "HCL Valea Mare nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 49/2023 privind aprobarea rectificării bugetului comunei Valea Mare, pe anul 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146732",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-5-2023",
+   "path": "local/covasna/valea-mare/2023/5",
+   "short": "HCL Valea Mare nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 5/2023 privind aprobarea execuției bugetului general de venituri și cheltuieli, pe trimestrul IV, al anului 2022, al comunei Valea Mare, județul Covasna",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108963",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-50-2023",
+   "path": "local/covasna/valea-mare/2023/50",
+   "short": "HCL Valea Mare nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 50/2023 privind aprobarea execuției bugetului general de venituri și cheltuieli, pe trimestrul III, al anului 2023, al comunei Valea Mare, județul Covasna",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146733",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-51-2023",
+   "path": "local/covasna/valea-mare/2023/51",
+   "short": "HCL Valea Mare nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 51/2023 privind aprobarea prelungirii termenului de valabilitate a Planului Urbanistic General al comunei Valea Mare Și al Regulamentului local de urbanism aferent Planului Urbanistic General",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146734",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-52-2023",
+   "path": "local/covasna/valea-mare/2023/52",
+   "short": "HCL Valea Mare nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 52/2023 privind predarea către Ministerul Dezvoltării, Lucrărilor Publice și Administrației, prin Compania Naţională de Investiţii “C.N.I.” - S.A a constructiei, Scolii Gimnaziale ”Mihai Eminescu Valea Mare, pentru asigurarea condiţiilor în vederea executării obiectivului de investiţii „REABILITAREA, MODERNIZAREA și DOTAREA, ȘCOLII GIMNAZIALE ”MIHAI EMINESCU” – VALEA MARE, COMUNA VALEA MARE”",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146735",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-53-2023",
+   "path": "local/covasna/valea-mare/2023/53",
+   "short": "HCL Valea Mare nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 53/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Valea Mare, judeţul Covasna, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146736",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-54-2023",
+   "path": "local/covasna/valea-mare/2023/54",
+   "short": "HCL Valea Mare nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 54/2023 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Valea Mare, judeţul Covasna, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/146737",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146737",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--valea-mare-55-2023",
    "path": "local/covasna/valea-mare/2023/55",
    "short": "HCL Valea Mare nr. 55/2023",
@@ -73,6 +823,21 @@
      "from": "2024-03-06",
      "units": 1,
      "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-6-2023",
+   "path": "local/covasna/valea-mare/2023/6",
+   "short": "HCL Valea Mare nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 6/2023 privind organizarea rețelei școlare a unităților de învățământ din raza administrativ-teritorială a comunei Valea Mare, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108964",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108964",
      "sha256": null
     }
    ]
@@ -228,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-covasna--valea-mare-7-2023",
+   "path": "local/covasna/valea-mare/2023/7",
+   "short": "HCL Valea Mare nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 7/2023 privind însuşirea Acordului de cooperare pentru asigurarea suportului IT în vederea dezvoltării și gestionării Sistemului de Control Intern Managerial prin intermediul platformei “Soluția e-SCIM”, www.e-scim.ro",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108965",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108965",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--valea-mare-70-2023",
    "path": "local/covasna/valea-mare/2023/70",
    "short": "HCL Valea Mare nr. 70/2023",
@@ -298,6 +1078,36 @@
      "from": "2024-03-06",
      "units": 1,
      "source_url": "https://emol.ro/valeamare-cv/registru-hcl/146772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-8-2023",
+   "path": "local/covasna/valea-mare/2023/8",
+   "short": "HCL Valea Mare nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 8/2023 privind desemnarea consilierilor locali din cadrul Consiliului local al comunei Valea Mare, care vor face parte din Comisia de evaluare a performanțelor individuale ale Secretarului general al comunei Valea Mare",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108966",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--valea-mare-9-2023",
+   "path": "local/covasna/valea-mare/2023/9",
+   "short": "HCL Valea Mare nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Mare nr. 9/2023 privind aprobarea Protocolului de colaborare intre Ministerul Muncii si Solidarității Sociale (MMSS) si Unitatea Administrativ Teritoriala Valea Mare, județul Co-vasna, având ca obiect asigurarea colaborării interinstituționale a MMSS cu (JAT Mereni in cadrul proiectului „ HUB de Servicii MMSS— SII MMSS„ cod MySmis 130963",
+   "url": "https://emol.ro/valeamare-cv/registru-hcl/108967",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/valeamare-cv/registru-hcl/108967",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/dambovita/barbuletu/2026",
  "acts": [
   {
+   "slug": "hcl-dambovita--barbuletu-1-2026",
+   "path": "local/dambovita/barbuletu/2026/1",
+   "short": "HCL Bărbulețu nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 1/2026 privind alegerea preşedintelui de şedinţă pentru luna ianuarie 2026",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/253099",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/253099",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--barbuletu-10-2026",
    "path": "local/dambovita/barbuletu/2026/10",
    "short": "HCL Bărbulețu nr. 10/2026",
@@ -78,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--barbuletu-15-2026",
+   "path": "local/dambovita/barbuletu/2026/15",
+   "short": "HCL Bărbulețu nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 15/2026 privind alegerea preşedintelui de şedinţă pentru luna aprilie 2026",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/265908",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/265908",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--barbuletu-16-2026",
    "path": "local/dambovita/barbuletu/2026/16",
    "short": "HCL Bărbulețu nr. 16/2026",
@@ -103,6 +133,21 @@
      "from": "2026-05-04",
      "units": 1,
      "source_url": "https://emol.ro/barbuletu-db/registru-hcl/265911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-18-2026",
+   "path": "local/dambovita/barbuletu/2026/18",
+   "short": "HCL Bărbulețu nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 18/2026 privind alegerea preşedintelui de şedinţă pentru luna mai 2026",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/269136",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/269136",
      "sha256": null
     }
    ]
@@ -148,6 +193,21 @@
      "from": "2026-05-20",
      "units": 1,
      "source_url": "https://emol.ro/barbuletu-db/registru-hcl/269141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-21-2026",
+   "path": "local/dambovita/barbuletu/2026/21",
+   "short": "HCL Bărbulețu nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 21/2026",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/271410",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/271410",
      "sha256": null
     }
    ]
@@ -438,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--barbuletu-4-2026",
+   "path": "local/dambovita/barbuletu/2026/4",
+   "short": "HCL Bărbulețu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 4/2026",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/253102",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/253102",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--barbuletu-40-2026",
    "path": "local/dambovita/barbuletu/2026/40",
    "short": "HCL Bărbulețu nr. 40/2026",
@@ -463,6 +538,66 @@
      "from": "2026-11-03",
      "units": 1,
      "source_url": "https://emol.ro/barbuletu-db/registru-hcl/297321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-5-2026",
+   "path": "local/dambovita/barbuletu/2026/5",
+   "short": "HCL Bărbulețu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 5/2026 privind aprobarea planurilor de amplasament și delimitare a imobilelor întocmite pentru actualizarea pozițiilor nr.117 și nr.118 din inventarul domeniului public al comunei Bărbulețu, precum și pentru introducerea în inventarul domeniului public al comunei Bărbulețu a terenului aferent clădirii înscrise la poziția nr.118",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/253103",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/253103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-6-2026",
+   "path": "local/dambovita/barbuletu/2026/6",
+   "short": "HCL Bărbulețu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 6/2026 privind alegerea preşedintelui de şedinţă pentru luna februarie 2026",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/253118",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/253118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-7-2026",
+   "path": "local/dambovita/barbuletu/2026/7",
+   "short": "HCL Bărbulețu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 7/2026 privind mandatarea reprezentantului legal al Comunei Bărbulețu pentru a întreprinde în numele și pe seama Comunei Bărbulețu toate demersurile necesare în vederea sprijinirii implementării proiectului județului Dâmbovița prin Consiliul Județean Dâmbovița în cadrul Programului privind îmbunătățirea calității aerului și reducerea cantității de emisii de gaze cu efect de seră, prin utilizarea pentru transportul elevilor a autovehiculelor mai puțin poluante de tipul microbuzelor electrice, hibride și alimentate cu gaz natural comprimat",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/253116",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/253116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--barbuletu-8-2026",
+   "path": "local/dambovita/barbuletu/2026/8",
+   "short": "HCL Bărbulețu nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbulețu nr. 8/2026 privind alegerea preşedintelui de şedinţă pentru luna martie 2026",
+   "url": "https://emol.ro/barbuletu-db/registru-hcl/261585",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/barbuletu-db/registru-hcl/261585",
      "sha256": null
     }
    ]

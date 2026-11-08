@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/covasna/2016",
+ "acts": [
+  {
+   "slug": "hcl-covasna--covasna-2-2016",
+   "path": "local/covasna/covasna/2016/2",
+   "short": "HCL Covasna nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 2/2016 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului secțiunii de dezvoltare a bugetului local pe anul 2015 o Consiliul Local al, .r întrunit în ședința sa extraordinară din 08 ianuarie 2016, ședință legal constituită, fiind prezentă majoritatea consilierilor în funcție (___), a analizând Expunerea de motive al Primarului Orașului Covasna privind aprobarea n acoperi",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2016/hcl02-03-0801.pdf",
+     "sha256": "c00180f1367fb6915f23cf2b5ba971cd394fff885ae0dcf5a19095fb192fc9d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--covasna-4-2016",
+   "path": "local/covasna/covasna/2016/4",
+   "short": "HCL Covasna nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 4/2016 cu privire la aprobarea Strategiei de Dezvoltare a orasului Covasna pentru perioada 2016 – 2020 Consiliul local al orasului Covasna, întrunit în sedința ordinara din data de 28 ianuarie 2016, .ro sedință legal constituită, fiind prezentă majoritatea consilierilor în funcție ( 14), Analizând expunerea de motive a primarului nr. 4596/2 octombrie 2015, raportul a compartimentului de specialitate nr",
+   "url": "https://www.primariacovasna.ro/consiliul-local/hotarari/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2016/hcl04-11-2801.pdf",
+     "sha256": "00ade33749c659622e374455c4bcb048fa729c34274faac159a232676e6ef638"
+    }
+   ]
+  }
+ ]
+}

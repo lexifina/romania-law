@@ -3,6 +3,36 @@
  "shard": "local/dambovita/lucieni/2022",
  "acts": [
   {
+   "slug": "hcl-dambovita--lucieni-1-2022",
+   "path": "local/dambovita/lucieni/2022/1",
+   "short": "HCL Lucieni nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 1/2022 privind stabilirea agentilor economici care vor fi cuprinsi în programul de aprovizionare cu produse alimentare si nealimentare ce urmează a fi distribuite raționalizat populației, în caz de mobilizare sau război",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#12570",
+   "versions": [
+    {
+     "from": "2022-01-18",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#12570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-10-2022",
+   "path": "local/dambovita/lucieni/2022/10",
+   "short": "HCL Lucieni nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 10/2022 privind privind stabilirea unei suprafețe de teren in vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții si demolări de pe raza comunei Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#14696",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#14696",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-103-2022",
    "path": "local/dambovita/lucieni/2022/103",
    "short": "HCL Lucieni nr. 103/2022",
@@ -18,6 +48,96 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-11-2022",
+   "path": "local/dambovita/lucieni/2022/11",
+   "short": "HCL Lucieni nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 11/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-12-2022",
+   "path": "local/dambovita/lucieni/2022/12",
+   "short": "HCL Lucieni nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 12/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-15-2022",
+   "path": "local/dambovita/lucieni/2022/15",
+   "short": "HCL Lucieni nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 15/2022 privind aprobarea trecerii din domeniul public în domeniul privat a unor suprafețe de pășune, aflate în proprietatea Comunei Lucieni",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#16294",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#16294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-16-2022",
+   "path": "local/dambovita/lucieni/2022/16",
+   "short": "HCL Lucieni nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 16/2022 privind rectificarea bugetului pe anul 2022",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#16783",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#16783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-17-2022",
+   "path": "local/dambovita/lucieni/2022/17",
+   "short": "HCL Lucieni nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 17/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-18-2022",
+   "path": "local/dambovita/lucieni/2022/18",
+   "short": "HCL Lucieni nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 18/2022 privind însușirea și aprobarea documentației cadastrale de dezlipire a unor imobile aparținând domeniului public al comunei Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#18206",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#18206",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-19-2022",
    "path": "local/dambovita/lucieni/2022/19",
    "short": "HCL Lucieni nr. 19/2022",
@@ -28,6 +148,21 @@
      "from": "2022-03-29",
      "units": 1,
      "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#18227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-2-2022",
+   "path": "local/dambovita/lucieni/2022/2",
+   "short": "HCL Lucieni nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 2/2022 aprobarea indicatorilor tehnico-economici și a notelor de fundamentare pentru investițiile pe anul 2022",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#12237",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#12237",
      "sha256": null
     }
    ]
@@ -148,6 +283,21 @@
      "from": "2022-04-27",
      "units": 1,
      "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#20548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-3-2022",
+   "path": "local/dambovita/lucieni/2022/3",
+   "short": "HCL Lucieni nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 3/2022 privind analiza stadiului de înscriere a datelor in registrul agricol pe trimestrul al-III-lea al anului 2021 si aprobarea programului de masuri pentru eficientizarea înscrierii datelor in registrul agricol",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#12351",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#12351",
      "sha256": null
     }
    ]
@@ -303,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-4-2022",
+   "path": "local/dambovita/lucieni/2022/4",
+   "short": "HCL Lucieni nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 4/2022 privind aprobarea buget local de venituri și cheltuieli al comunei Lucieni pentru anul 2022",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#12353",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#12353",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-40-2022",
    "path": "local/dambovita/lucieni/2022/40",
    "short": "HCL Lucieni nr. 40/2022",
@@ -448,6 +613,21 @@
      "from": "2022-08-10",
      "units": 1,
      "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#26693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-5-2022",
+   "path": "local/dambovita/lucieni/2022/5",
+   "short": "HCL Lucieni nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 5/2022 privind aprobarea Planului anual de acţiuni de interes local care urmează să fie efectuate în anul 2022 de către beneficiarii de ajutor social",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#12399",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#12399",
      "sha256": null
     }
    ]
@@ -603,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-6-2022",
+   "path": "local/dambovita/lucieni/2022/6",
+   "short": "HCL Lucieni nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 6/2022 privind aprobarea Programului de Măsuri pentru Prevenirea şi Combaterea Marginalizării Sociale în comuna Lucieni, judeţul Dâmboviţa, pentru anul 2022",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#12762",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#12762",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-60-2022",
    "path": "local/dambovita/lucieni/2022/60",
    "short": "HCL Lucieni nr. 60/2022",
@@ -708,6 +903,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-7-2022",
+   "path": "local/dambovita/lucieni/2022/7",
+   "short": "HCL Lucieni nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 7/2022 privind aprobarea executiei bugetului local de venituri si cheltuieli al Primariei comunei Lucieni la finele trimestrului III al anului 2021",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#13463",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#13463",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-70-2022",
    "path": "local/dambovita/lucieni/2022/70",
    "short": "HCL Lucieni nr. 70/2022",
@@ -764,6 +974,21 @@
      "units": 3,
      "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%249w5u6TD0rZm1Y1P3yvPCFO1Fpu3db8h7z/4kBF/Oh7aPTCgqTzxf./3009",
      "sha256": "941760ed33d75a47b06a89e0ffd34f7f74c3641b28c73268f6ab4425ab824ff3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-8-2022",
+   "path": "local/dambovita/lucieni/2022/8",
+   "short": "HCL Lucieni nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 8/2022 privind alegerea președintelui de ședința pentru o perioadă de 3 luni, februarie-aprilie 2022",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#13568",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#13568",
+     "sha256": null
     }
    ]
   },
@@ -854,6 +1079,21 @@
      "units": 1,
      "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24XPI4jssrBCxM8lfZmjERUu0lUpl1YI993aqBpwtg/sa7MLexGPdNm/3009",
      "sha256": "90bed16f77b4d454acd69a03afab1ba87398138da1a4bae4a058f247688fe04d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-9-2022",
+   "path": "local/dambovita/lucieni/2022/9",
+   "short": "HCL Lucieni nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 9/2022 privind aprobarea salariilor de bază ce se vor acorda începând cu data de 01.02.2022 funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al primarului comunei Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#14686",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#14686",
+     "sha256": null
     }
    ]
   },

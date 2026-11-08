@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/potlogi/2024",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--potlogi-4-2024",
+   "path": "local/dambovita/potlogi/2024/4",
+   "short": "HCL Potlogi nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Potlogi nr. 4/2024",
+   "url": "https://primariapotlogi.ro/wp-content/uploads/2024/02/Buget-HCL-nr-4-29.01.2024-B.pdf",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://primariapotlogi.ro/wp-content/uploads/2024/02/Buget-HCL-nr-4-29.01.2024-B.pdf",
+     "sha256": "ca6f4264b227e2e7c91bcc762d86bf65b013ad0b0bcb971a3610751bb5734885"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--potlogi-54-2024",
+   "path": "local/dambovita/potlogi/2024/54",
+   "short": "HCL Potlogi nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Potlogi nr. 54/2024",
+   "url": "https://primariapotlogi.ro/wp-content/uploads/2024/09/Buget-HCL-nr.-54-30.07.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://primariapotlogi.ro/wp-content/uploads/2024/09/Buget-HCL-nr.-54-30.07.2024.pdf",
+     "sha256": "3df480823babd642ece3d407e58ae591080a64d53bc11ecde4fd1d264ba06c43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--potlogi-73-2024",
+   "path": "local/dambovita/potlogi/2024/73",
+   "short": "HCL Potlogi nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Potlogi nr. 73/2024",
+   "url": "https://primariapotlogi.ro/wp-content/uploads/2024/09/Buget-HCL-nr.-73-22.08.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://primariapotlogi.ro/wp-content/uploads/2024/09/Buget-HCL-nr.-73-22.08.2024.pdf",
+     "sha256": "cbaf93045670c6f1b4320218c2bcda1e5488bb844a76e82e326436c36a1e5f34"
+    }
+   ]
+  }
+ ]
+}

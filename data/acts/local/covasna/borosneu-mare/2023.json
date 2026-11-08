@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/covasna/borosneu-mare/2023",
+"acts": [
+{
+"slug": "hcl-covasna--borosneu-mare-10-2023",
+"path": "local/covasna/borosneu-mare/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Boroșneu Mare nr. 10/2023 privind stabilirea indemnizatiei lunare, de care beneficiaza consilierii locali, incepand cu data de 1 ianuarie 2023.pdf",
+"short": "HCL Boroșneu Mare nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-01",
+"latest": "2023-01-01",
+"portal": "https://nagyborosnyo.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/borosneu-mare",
+"council_name": "Consiliul Local al Comunei Boroșneu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-covasna--borosneu-mare-64-2023",
+"path": "local/covasna/borosneu-mare/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Boroșneu Mare nr. 64/2023 privind aprobarea reorganizarii aparatului de specialitate al primarului com Borosneu Mare incepand cu 01.11.2023 in conformitate cu Legea nr.296.2023.pdf",
+"short": "HCL Boroșneu Mare nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-01",
+"latest": "2023-11-01",
+"portal": "https://nagyborosnyo.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/borosneu-mare",
+"council_name": "Consiliul Local al Comunei Boroșneu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

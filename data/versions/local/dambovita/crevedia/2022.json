@@ -33,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-11-2022",
+   "path": "local/dambovita/crevedia/2022/11",
+   "short": "HCL Crevedia nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 11/2022 privind aprobarea încheierii unui contract de servicii juridice, consultanță și asistență juridică pentru apărarea intereselor comunei Crevedia precum și ale autorităților administrației publice locale din comuna Crevedia, județul Dâmbovița",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/54077",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/54077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-12-2022",
+   "path": "local/dambovita/crevedia/2022/12",
+   "short": "HCL Crevedia nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 12/2022",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/54078",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/54078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-13-2022",
+   "path": "local/dambovita/crevedia/2022/13",
+   "short": "HCL Crevedia nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 13/2022 privind desemnarea reprezentantului Consiliului Local în Comisia de evaluare a probei de interviu la concursul pentru ocuparea funcției de director adjunct al Școlii Gimnaziale Crevedia",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/54079",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/54079",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-14-2022",
    "path": "local/dambovita/crevedia/2022/14",
    "short": "HCL Crevedia nr. 14/2022",
@@ -153,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-21-2022",
+   "path": "local/dambovita/crevedia/2022/21",
+   "short": "HCL Crevedia nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 21/2022 privind revocarea Hotărârii Consiliului Local Crevedia nr. 12/10.03.2022",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/59112",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/59112",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-22-2022",
    "path": "local/dambovita/crevedia/2022/22",
    "short": "HCL Crevedia nr. 22/2022",
@@ -208,6 +268,21 @@
      "from": "2022-10-05",
      "units": 1,
      "source_url": "https://emol.ro/crevedia-db/registru-hcl/60386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-26-2022",
+   "path": "local/dambovita/crevedia/2022/26",
+   "short": "HCL Crevedia nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 26/2022 privind alegerea președintelui de ședință a Consiliului local Crevedia, pentru perioada 1 mai 2022 – 31 iulie 2022",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/60387",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/60387",
      "sha256": null
     }
    ]
@@ -273,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-30-2022",
+   "path": "local/dambovita/crevedia/2022/30",
+   "short": "HCL Crevedia nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 30/2022",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/63579",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/63579",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-31-2022",
    "path": "local/dambovita/crevedia/2022/31",
    "short": "HCL Crevedia nr. 31/2022",
@@ -318,6 +408,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-34-2022",
+   "path": "local/dambovita/crevedia/2022/34",
+   "short": "HCL Crevedia nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 34/2022 privind aprobarea susținerii financiare a cluburilor sportive locale și aprobarea semnării contractelor de finanțare nerambursabilă cu ASOCIAȚIA CLUB SPORTIV CREVEDIA 2019 si ASOCIAȚIA SPORTIVĂ VOINȚA DÂRZA",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/66246",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/66246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-35-2022",
+   "path": "local/dambovita/crevedia/2022/35",
+   "short": "HCL Crevedia nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 35/2022",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/66247",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/66247",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-36-2022",
    "path": "local/dambovita/crevedia/2022/36",
    "short": "HCL Crevedia nr. 36/2022",
@@ -358,6 +478,66 @@
      "from": "2022-10-06",
      "units": 1,
      "source_url": "https://emol.ro/crevedia-db/registru-hcl/67149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-39-2022",
+   "path": "local/dambovita/crevedia/2022/39",
+   "short": "HCL Crevedia nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 39/2022 privind alegerea președintelui de ședință a Consiliului local Crevedia, pentru perioada 1 august 2022 – 31 octombrie 2022",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/67150",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/67150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-4-2022",
+   "path": "local/dambovita/crevedia/2022/4",
+   "short": "HCL Crevedia nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 4/2022 privind aprobarea Convenţiei de colaborare între Consiliul Local Crevedia şi Societatea Naţională de Cruce Roşie din România, filiala Dâmboviţa",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/51018",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/51018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-40-2022",
+   "path": "local/dambovita/crevedia/2022/40",
+   "short": "HCL Crevedia nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 40/2022",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/67151",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/67151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-41-2022",
+   "path": "local/dambovita/crevedia/2022/41",
+   "short": "HCL Crevedia nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 41/2022 privind încheierea acordurilor de colaborare pentru gestionarea fondurilor cinegetice nr. 35 (Dârza) și nr. 38 (Ciocănești)",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/67152",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/67152",
      "sha256": null
     }
    ]
@@ -438,6 +618,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--crevedia-47-2022",
+   "path": "local/dambovita/crevedia/2022/47",
+   "short": "HCL Crevedia nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 47/2022 privind însușirea Rapoartelor de evaluare în vederea vânzării terenurilor cu nr. cadastrale 83293 și 84181, amplasate în com. Crevedia, jud. Dâmbovița",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/71304",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/71304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-48-2022",
+   "path": "local/dambovita/crevedia/2022/48",
+   "short": "HCL Crevedia nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 48/2022 privind aprobarea notei de fundamentare privind necesitatea și oportunitatea achiziționării unor autovehicule/utilaje și a unui autobuz școlar",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/74136",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/74136",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--crevedia-49-2022",
    "path": "local/dambovita/crevedia/2022/49",
    "short": "HCL Crevedia nr. 49/2022",
@@ -448,6 +658,36 @@
      "from": "2022-10-10",
      "units": 1,
      "source_url": "https://emol.ro/crevedia-db/registru-hcl/75248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-5-2022",
+   "path": "local/dambovita/crevedia/2022/5",
+   "short": "HCL Crevedia nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 5/2022 privind alegerea președintelui de ședință a Consiliului local Crevedia, pentru perioada 1 februarie 2022 – 30 aprilie 2022",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/51019",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/51019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-50-2022",
+   "path": "local/dambovita/crevedia/2022/50",
+   "short": "HCL Crevedia nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 50/2022 privind desemnarea reprezentanților Consiliului Local al comunei CREVEDIA, județul Dâmbovița, în Consiliul de Administrație al Școlii Gimnaziale Crevedia, pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/75249",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/75249",
      "sha256": null
     }
    ]
@@ -478,6 +718,21 @@
      "from": "2022-10-10",
      "units": 1,
      "source_url": "https://emol.ro/crevedia-db/registru-hcl/75251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-53-2022",
+   "path": "local/dambovita/crevedia/2022/53",
+   "short": "HCL Crevedia nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 53/2022",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/75720",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/75720",
      "sha256": null
     }
    ]
@@ -523,6 +778,21 @@
      "from": "2022-12-02",
      "units": 1,
      "source_url": "https://emol.ro/crevedia-db/registru-hcl/81404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--crevedia-57-2022",
+   "path": "local/dambovita/crevedia/2022/57",
+   "short": "HCL Crevedia nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crevedia nr. 57/2022 privind numirea persoanei care va ține Registrul de evidență a datoriei publice locale a unității administrativ teritoriale Comuna Crevedia și Registrul de evidență a garanțiilor locale a unității administrativ teritoriale Comuna Crevedia",
+   "url": "https://emol.ro/crevedia-db/registru-hcl/81405",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/crevedia-db/registru-hcl/81405",
      "sha256": null
     }
    ]

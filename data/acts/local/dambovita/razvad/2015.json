@@ -3,6 +3,94 @@
 "shard": "local/dambovita/razvad/2015",
 "acts": [
 {
+"slug": "hcl-dambovita--razvad-24-2015",
+"path": "local/dambovita/razvad/2015/24",
+"kind": "local",
+"year": "2015",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 24/2015 privind aprobarea executiei bugetului de venituri si cheltuieli al comunei Razvad la data de 31.12.2014 HCL",
+"short": "HCL Răzvad nr. 24/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-03-19",
+"latest": "2015-03-19",
+"portal": "http://comunarazvad.ro/hotarari-2/",
+"council": "dambovita/razvad",
+"council_name": "Consiliul Local al Comunei Răzvad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--razvad-25-2015",
+"path": "local/dambovita/razvad/2015/25",
+"kind": "local",
+"year": "2015",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 25/2015 privind aprobarea acoperirii deficitului sectiunii de dezvoltare aferent anului 2014 si aprobarea utilizarii excedentului bugetului local inregistrat la data de 31.12.2014 HCL",
+"short": "HCL Răzvad nr. 25/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-03-19",
+"latest": "2015-03-19",
+"portal": "http://comunarazvad.ro/hotarari-2/",
+"council": "dambovita/razvad",
+"council_name": "Consiliul Local al Comunei Răzvad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--razvad-26-2015",
+"path": "local/dambovita/razvad/2015/26",
+"kind": "local",
+"year": "2015",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 26/2015 privind aprobarea bugetului pe anul 2015 HCL",
+"short": "HCL Răzvad nr. 26/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-03-19",
+"latest": "2015-03-19",
+"portal": "http://comunarazvad.ro/hotarari-2/",
+"council": "dambovita/razvad",
+"council_name": "Consiliul Local al Comunei Răzvad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--razvad-66-2015",
+"path": "local/dambovita/razvad/2015/66",
+"kind": "local",
+"year": "2015",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 66/2015 privind desemnarea reprezentantilor CL in consiliul de administratie al Scolii Razvad HCL",
+"short": "HCL Răzvad nr. 66/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-11-24",
+"latest": "2015-11-24",
+"portal": "http://comunarazvad.ro/hotarari-2/",
+"council": "dambovita/razvad",
+"council_name": "Consiliul Local al Comunei Răzvad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--razvad-67-2015",
 "path": "local/dambovita/razvad/2015/67",
 "kind": "local",
@@ -22,6 +110,51 @@
 "council_name": "Consiliul Local al Comunei Răzvad",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-dambovita--razvad-68-2015",
+"path": "local/dambovita/razvad/2015/68",
+"kind": "local",
+"year": "2015",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 68/2015",
+"short": "HCL Răzvad nr. 68/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-11-24",
+"latest": "2015-11-24",
+"portal": "http://comunarazvad.ro/hotarari-2/",
+"council": "dambovita/razvad",
+"council_name": "Consiliul Local al Comunei Răzvad",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--razvad-69-2015",
+"path": "local/dambovita/razvad/2015/69",
+"kind": "local",
+"year": "2015",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 69/2015 privind rectificarea bugetului pe anul 2015 HCL",
+"short": "HCL Răzvad nr. 69/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-11-24",
+"latest": "2015-11-24",
+"portal": "http://comunarazvad.ro/hotarari-2/",
+"council": "dambovita/razvad",
+"council_name": "Consiliul Local al Comunei Răzvad",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

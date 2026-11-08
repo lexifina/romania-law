@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-16-2025",
+   "path": "local/dambovita/manesti/2025/16",
+   "short": "HCL Mănești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 16/2025 privind nominalizarea operatorilor economici din reţeaua comercială a comunei Mănești, județul Dâmbovița, care vor distribui produse raţionalizate către populaţie",
+   "url": "https://emol.ro/manesti-db/registru-hcl/200001",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/200001",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-17-2025",
    "path": "local/dambovita/manesti/2025/17",
    "short": "HCL Mănești nr. 17/2025",
@@ -213,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-23-2025",
+   "path": "local/dambovita/manesti/2025/23",
+   "short": "HCL Mănești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 23/2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/205455",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/205455",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-24-2025",
    "path": "local/dambovita/manesti/2025/24",
    "short": "HCL Mănești nr. 24/2025",
@@ -238,6 +268,36 @@
      "from": "2025-06-03",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/209224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-26-2025",
+   "path": "local/dambovita/manesti/2025/26",
+   "short": "HCL Mănești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 26/2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/218171",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/218171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-27-2025",
+   "path": "local/dambovita/manesti/2025/27",
+   "short": "HCL Mănești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 27/2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/218172",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/218172",
      "sha256": null
     }
    ]
@@ -348,6 +408,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-34-2025",
+   "path": "local/dambovita/manesti/2025/34",
+   "short": "HCL Mănești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 34/2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/218199",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/218199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-35-2025",
+   "path": "local/dambovita/manesti/2025/35",
+   "short": "HCL Mănești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 35/2025 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Mănești, județul Dâmbovița, începând cu drepturile aferente lunii iulie 2025, prin aplicarea prevederilor Ordonanței de urgență a Guvernului nr.36/2025 pentru stabilirea unor măsuri privind personalul plătit din fonduri publice 5",
+   "url": "https://emol.ro/manesti-db/registru-hcl/218200",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/218200",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-36-2025",
    "path": "local/dambovita/manesti/2025/36",
    "short": "HCL Mănești nr. 36/2025",
@@ -408,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-4-2025",
+   "path": "local/dambovita/manesti/2025/4",
+   "short": "HCL Mănești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 4/2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/192260",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/192260",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-40-2025",
    "path": "local/dambovita/manesti/2025/40",
    "short": "HCL Mănești nr. 40/2025",
@@ -433,6 +538,51 @@
      "from": "2025-11-06",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/234404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-42-2025",
+   "path": "local/dambovita/manesti/2025/42",
+   "short": "HCL Mănești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 42/2025 privind desemnarea reprezentanților consiliului local în cadrul Consiliului de administrație al Școlii gimnaziale Mănești, județul Dâmbovița, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/manesti-db/registru-hcl/234405",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/234405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-43-2025",
+   "path": "local/dambovita/manesti/2025/43",
+   "short": "HCL Mănești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 43/2025 privind privind desemnarea reprezentantului consiliului local al comunei Mănești în cadrul Comisiei pentru Evaluarea și Asigurarea Calității în cadrul Școlii gimnaziale Mănești, județul Dâmbovița, pentru anul școlar 2025-2026;",
+   "url": "https://emol.ro/manesti-db/registru-hcl/234406",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/234406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-44-2025",
+   "path": "local/dambovita/manesti/2025/44",
+   "short": "HCL Mănești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 44/2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/234407",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/234407",
      "sha256": null
     }
    ]
@@ -678,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-6-2025",
+   "path": "local/dambovita/manesti/2025/6",
+   "short": "HCL Mănești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 6/2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/193284",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/193284",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-60-2025",
    "path": "local/dambovita/manesti/2025/60",
    "short": "HCL Mănești nr. 60/2025",
@@ -793,6 +958,21 @@
      "from": "2026-04-16",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/250457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-7-2025",
+   "path": "local/dambovita/manesti/2025/7",
+   "short": "HCL Mănești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 7/2025",
+   "url": "https://emol.ro/manesti-db/registru-hcl/193285",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/193285",
      "sha256": null
     }
    ]

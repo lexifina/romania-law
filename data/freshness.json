@@ -90,19 +90,19 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 475761,
+  "acts": 478787,
   "by_status": {
-   "current": 404563,
+   "current": 407563,
    "pending-change": 29438,
    "stale": 4595,
-   "unverified": 37165,
+   "unverified": 37191,
    "source-unavailable": 0
   },
-  "verified_7d": 417975,
-  "verified_30d": 418018,
+  "verified_7d": 420975,
+  "verified_30d": 421018,
   "pct_verified_7d": 87.9,
   "pct_verified_30d": 87.9,
-  "pct_current": 85.0,
+  "pct_current": 85.1,
   "newest_verified": "2026-11-08",
   "oldest_verified": "2018-07-23"
  },
@@ -142,16 +142,16 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 318166,
+   "acts": 321166,
    "by_status": {
-    "current": 312073,
+    "current": 315073,
     "pending-change": 0,
     "stale": 2556,
     "unverified": 3537,
     "source-unavailable": 0
    },
-   "verified_7d": 312031,
-   "verified_30d": 312073,
+   "verified_7d": 315031,
+   "verified_30d": 315073,
    "pct_verified_7d": 98.1,
    "pct_verified_30d": 98.1,
    "pct_current": 98.1,
@@ -176,12 +176,12 @@
    "oldest_verified": "2018-07-23"
   },
   "orders": {
-   "acts": 68247,
+   "acts": 68273,
    "by_status": {
     "current": 33502,
     "pending-change": 13463,
     "stale": 0,
-    "unverified": 21282,
+    "unverified": 21308,
     "source-unavailable": 0
    },
    "verified_7d": 33502,
@@ -280,12 +280,12 @@
    "oldest_verified": "2026-11-05"
   },
   "cnsc": {
-   "acts": 11627,
+   "acts": 11653,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 11627,
+    "unverified": 11653,
     "source-unavailable": 0
    },
    "verified_7d": 0,
@@ -569,16 +569,16 @@
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 318166,
+   "acts": 321166,
    "by_status": {
-    "current": 312073,
+    "current": 315073,
     "pending-change": 0,
     "stale": 2556,
     "unverified": 3537,
     "source-unavailable": 0
    },
-   "verified_7d": 312031,
-   "verified_30d": 312073,
+   "verified_7d": 315031,
+   "verified_30d": 315073,
    "pct_verified_7d": 98.1,
    "pct_verified_30d": 98.1,
    "pct_current": 98.1,
@@ -904,7 +904,7 @@
    "kinds": [
     "local"
    ],
-   "acts": 316188,
+   "acts": 319188,
    "last_successful_check": "2026-11-08",
    "unavailable_since": null,
    "sites": 673,
@@ -927,5 +927,5 @@
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 6768
+ "shards": 6772
 }

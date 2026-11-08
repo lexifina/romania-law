@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/sanzieni/2021",
+ "acts": [
+  {
+   "slug": "hcl-covasna--sanzieni-5-2021",
+   "path": "local/covasna/sanzieni/2021/5",
+   "short": "HCL Sânzieni nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânzieni nr. 5/2021 privind ACHIZITIONAREA ECHIPAMENTELOR TIC.pdf",
+   "url": "https://sanzieni.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://sanzieni.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202021/HCL%20NR.5%20DIN%2021%20ianuarie%202021%20privind%20ACHIZITIONAREA%20ECHIPAMENTELOR%20TIC.pdf",
+     "sha256": "a1c3fe052a838bdb5e2ef0480a1b28b5101a69b3d7c8938b3af2d35194dff65f"
+    }
+   ]
+  }
+ ]
+}

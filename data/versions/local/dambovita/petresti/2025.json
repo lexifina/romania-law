@@ -3,6 +3,36 @@
  "shard": "local/dambovita/petresti/2025",
  "acts": [
   {
+   "slug": "hcl-dambovita--petresti-1-2025",
+   "path": "local/dambovita/petresti/2025/1",
+   "short": "HCL Petrești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 1/2025 privind acoperirea definitiva din excedentul bugetului local a deficitului sectiunii de dezvoltare",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#91376",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#91376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--petresti-14-2025",
+   "path": "local/dambovita/petresti/2025/14",
+   "short": "HCL Petrești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petrești nr. 14/2025 privind desemnarea presedintelui de sedinta pentru perioada februarie 2025- aprilie 2025",
+   "url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#91966",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://petresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/14073#91966",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--petresti-24-2025",
    "path": "local/dambovita/petresti/2025/24",
    "short": "HCL Petrești nr. 24/2025",

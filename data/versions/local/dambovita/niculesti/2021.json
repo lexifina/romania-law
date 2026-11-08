@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--niculesti-10-2021",
+   "path": "local/dambovita/niculesti/2021/10",
+   "short": "HCL Niculești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 10/2021 privind includerea în domeniul public al Comunei Niculești a imobilului ,,Grădinită cu program prelungit",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31729",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-11-2021",
+   "path": "local/dambovita/niculesti/2021/11",
+   "short": "HCL Niculești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 11/2021 privind modificarea și completarea Statului de funcții al aparatului de specialitate al primarului comunei Niculești",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31730",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-12-2021",
+   "path": "local/dambovita/niculesti/2021/12",
+   "short": "HCL Niculești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 12/2021 privind darea în administrare a imobilului ,,Grădinită cu program prelungit ,, din Comuna Niculești, a suprafetei de teren aferente si a dotarilor",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31731",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-13-2021",
+   "path": "local/dambovita/niculesti/2021/13",
+   "short": "HCL Niculești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 13/2021 privind alegerea presedintelui de sedinta in cadrul Consiliului Local al comunei Niculesti",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31732",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31732",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--niculesti-14-2021",
    "path": "local/dambovita/niculesti/2021/14",
    "short": "HCL Niculești nr. 14/2021",
@@ -28,6 +88,111 @@
      "from": "2021-02-26",
      "units": 1,
      "source_url": "https://emol.ro/niculesti-db/registru-hcl/31733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-15-2021",
+   "path": "local/dambovita/niculesti/2021/15",
+   "short": "HCL Niculești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 15/2021 privind aprobarea modificarii si completarii Regulamentului de Organizare si Functionare al Centrului de Asistenta Medico- Sociala (CAMS) Niculestii",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31756",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-16-2021",
+   "path": "local/dambovita/niculesti/2021/16",
+   "short": "HCL Niculești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 16/2021 privind aprobarea actualizării indicatorilor tehnico-economici ai obiectivului de investitii „REABILITAREA SI DOTAREA SCOALA CLASELE I-VIII, CONSTRUIRE TEREN MINIFOTBAL SI VESTARE, SAT CIOCANARI, COMUNA NICULESTI, JUDET DAMBOVITA”",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31757",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-17-2021",
+   "path": "local/dambovita/niculesti/2021/17",
+   "short": "HCL Niculești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 17/2021 privind aprobarea actualizării indicatorilor tehnico-economici ai obiectivului de investitii „EXTINDERE ȘCOALĂ CU GRUPURI SANITARE SAT MOVILA",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31768",
+   "versions": [
+    {
+     "from": "2021-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-18-2021",
+   "path": "local/dambovita/niculesti/2021/18",
+   "short": "HCL Niculești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 18/2021 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitii „CONSTRUIRE MONUMENT EROI IN COMUNA NICULESTI, SAT NICULESTI , PUNCT SCOALA”",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31769",
+   "versions": [
+    {
+     "from": "2021-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-19-2021",
+   "path": "local/dambovita/niculesti/2021/19",
+   "short": "HCL Niculești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 19/2021 privind aprobarea acordarii unor burse elevilor din învățământul gimnazial pentru anul 2020 - 2021",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31770",
+   "versions": [
+    {
+     "from": "2021-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-2-2021",
+   "path": "local/dambovita/niculesti/2021/2",
+   "short": "HCL Niculești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 2/2021",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31720",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-20-2021",
+   "path": "local/dambovita/niculesti/2021/20",
+   "short": "HCL Niculești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 20/2021",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31771",
+   "versions": [
+    {
+     "from": "2021-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31771",
      "sha256": null
     }
    ]
@@ -333,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--niculesti-4-2021",
+   "path": "local/dambovita/niculesti/2021/4",
+   "short": "HCL Niculești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 4/2021 privind aprobarea „Raportului privind activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap grav in anul 2020 semestrul II, angajaţi ai Primăriei comunei Niculești”, judeţul Dâmbovița",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31722",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31722",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--niculesti-40-2021",
    "path": "local/dambovita/niculesti/2021/40",
    "short": "HCL Niculești nr. 40/2021",
@@ -358,6 +538,51 @@
      "from": "2021-01-27",
      "units": 1,
      "source_url": "https://emol.ro/niculesti-db/registru-hcl/31723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-6-2021",
+   "path": "local/dambovita/niculesti/2021/6",
+   "short": "HCL Niculești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 6/2021 privind menținerea salariilor de bază brute lunare pentru funcționarii publici și personalul contractual din cadrul familiei ocupaţionale \"Administraţie\" din aparatul propriu al Primarului comunei Niculești, judeţul Dâmbovița, pentru funcționarii publici din cadrul Serviciului Public Comunitar Local de Evidență a Persoanelor Niculești, fără personalitate juridică, aflat în subordinea Consiliului Local al Comunei Niculești, judeţul Dâmbovița",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31724",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-7-2021",
+   "path": "local/dambovita/niculesti/2021/7",
+   "short": "HCL Niculești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 7/2021",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31725",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--niculesti-8-2021",
+   "path": "local/dambovita/niculesti/2021/8",
+   "short": "HCL Niculești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Niculești nr. 8/2021",
+   "url": "https://emol.ro/niculesti-db/registru-hcl/31726",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/niculesti-db/registru-hcl/31726",
      "sha256": null
     }
    ]

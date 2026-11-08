@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--manesti-11-2026",
+   "path": "local/dambovita/manesti/2026/11",
+   "short": "HCL Mănești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 11/2026",
+   "url": "https://emol.ro/manesti-db/registru-hcl/257904",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/257904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-12-2026",
+   "path": "local/dambovita/manesti/2026/12",
+   "short": "HCL Mănești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 12/2026 pentru desemnarea persoanei care să semenze contractul de vânzare cumpărare ce are ca obiect imobilul, teren situat în intravilanul Satului Drăgăești-Ungureni comuna Mănești județul Dâmbovița, înscris în cartea funciară nr.74804",
+   "url": "https://emol.ro/manesti-db/registru-hcl/257905",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/257905",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--manesti-13-2026",
    "path": "local/dambovita/manesti/2026/13",
    "short": "HCL Mănești nr. 13/2026",
@@ -193,6 +223,21 @@
      "from": "2026-05-07",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/266628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-23-2026",
+   "path": "local/dambovita/manesti/2026/23",
+   "short": "HCL Mănești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 23/2026",
+   "url": "https://emol.ro/manesti-db/registru-hcl/266629",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/266629",
      "sha256": null
     }
    ]
@@ -613,6 +658,21 @@
      "from": "2026-04-16",
      "units": 1,
      "source_url": "https://emol.ro/manesti-db/registru-hcl/252348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--manesti-9-2026",
+   "path": "local/dambovita/manesti/2026/9",
+   "short": "HCL Mănești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 9/2026",
+   "url": "https://emol.ro/manesti-db/registru-hcl/252349",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-db/registru-hcl/252349",
      "sha256": null
     }
    ]
