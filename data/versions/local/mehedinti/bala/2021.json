@@ -3,6 +3,66 @@
  "shard": "local/mehedinti/bala/2021",
  "acts": [
   {
+   "slug": "hcl-mehedinti--bala-42-2021",
+   "path": "local/mehedinti/bala/2021/42",
+   "short": "HCL Bala nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 42/2021 privind aprobarea studiului de fezabilitate ,indicatorilor tehnico-economici si devizului general aferent obiectivului de investitie ,,Infintare retea inteligenta de distributie gaze naturale in comuna Bala,cu localitatile apartinatoare ,judetul Mehedinti",
+   "url": "https://emol.ro/bala-mh/registru-hcl/31502",
+   "versions": [
+    {
+     "from": "2021-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/31502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-43-2021",
+   "path": "local/mehedinti/bala/2021/43",
+   "short": "HCL Bala nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 43/2021 privind organizarea serviciului de iluminat public in comuna Bala,Judetul Mehedinti",
+   "url": "https://emol.ro/bala-mh/registru-hcl/31503",
+   "versions": [
+    {
+     "from": "2021-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/31503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-44-2021",
+   "path": "local/mehedinti/bala/2021/44",
+   "short": "HCL Bala nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 44/2021 privind aprobarea achizitionarii de servicii de consultanta juridica si de reprezentare a intereselor comunei Bala,a Institutiei Primarului comunei Bala precum si a Comisiei Locale de Fond Funciar",
+   "url": "https://emol.ro/bala-mh/registru-hcl/31504",
+   "versions": [
+    {
+     "from": "2021-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/31504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-62-2021",
+   "path": "local/mehedinti/bala/2021/62",
+   "short": "HCL Bala nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 62/2021 privind aprobarea ajustarii,prin actualizarea preturilor aferente materialelor,pentru restul ramas de executat la obiectivul de investitii,,Modernizare drum comunal-DC 54 Runcsor-Dilma,L=10,047 km,comuna Bala,judetul Mehedinti",
+   "url": "https://emol.ro/bala-mh/registru-hcl/39942",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/39942",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--bala-66-2021",
    "path": "local/mehedinti/bala/2021/66",
    "short": "HCL Bala nr. 66/2021",

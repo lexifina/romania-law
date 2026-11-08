@@ -3,6 +3,21 @@
  "shard": "local/maramures/stramtura/2025",
  "acts": [
   {
+   "slug": "hcl-maramures--stramtura-1-2025",
+   "path": "local/maramures/stramtura/2025/1",
+   "short": "HCL Strâmtura nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 1/2025 privind introducerea unui bun în inventarulbunurilor care aparțin domeniului public, al comunei Strâmtura",
+   "url": "https://emol.ro/stramtura-mm/registru-hcl/211618",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stramtura-mm/registru-hcl/211618",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--stramtura-10-2025",
    "path": "local/maramures/stramtura/2025/10",
    "short": "HCL Strâmtura nr. 10/2025",
@@ -298,6 +313,111 @@
      "from": "2025-11-03",
      "units": 1,
      "source_url": "https://emol.ro/stramtura-mm/registru-hcl/233656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--stramtura-3-2025",
+   "path": "local/maramures/stramtura/2025/3",
+   "short": "HCL Strâmtura nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 3/2025 privind aprobarea dezmembrării și parcelării terenului înscris în CF 56051 Strâmtura, cu nr. cadastral 56051, teren de natură fânețe aflat în domeniul privat al comunei Strâmtura, județul Maramureș ca urmare a înregistrării sistematice",
+   "url": "https://emol.ro/stramtura-mm/registru-hcl/211623",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stramtura-mm/registru-hcl/211623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--stramtura-4-2025",
+   "path": "local/maramures/stramtura/2025/4",
+   "short": "HCL Strâmtura nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 4/2025",
+   "url": "https://emol.ro/stramtura-mm/registru-hcl/211624",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stramtura-mm/registru-hcl/211624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--stramtura-5-2025",
+   "path": "local/maramures/stramtura/2025/5",
+   "short": "HCL Strâmtura nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 5/2025 privind aprobarea indicatorilor pentru finanțarea finalizării elaborării Planului Urbanistic General și a Regulamentului Local der Urbanism al comunei Stâmtura, județul Maramureș și transpunerii Planului Urbanistic General și Regulamentului Local de Urbanism în format GIS",
+   "url": "https://emol.ro/stramtura-mm/registru-hcl/211650",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stramtura-mm/registru-hcl/211650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--stramtura-6-2025",
+   "path": "local/maramures/stramtura/2025/6",
+   "short": "HCL Strâmtura nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 6/2025 privind utilizrea excedentului bugetar din anul 2024, ca sursă de finanțare a cheltuielilor la secțiunea de dezvoltare pe anul 2025",
+   "url": "https://emol.ro/stramtura-mm/registru-hcl/211652",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stramtura-mm/registru-hcl/211652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--stramtura-7-2025",
+   "path": "local/maramures/stramtura/2025/7",
+   "short": "HCL Strâmtura nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 7/2025 privind aprobarea bugetului local al comunei Stâmtura pe anul 2025, Consiliului Local al comunei Strâmtura, întrunit în ședință ordinară, din data de 31.03.2025",
+   "url": "https://emol.ro/stramtura-mm/registru-hcl/211655",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stramtura-mm/registru-hcl/211655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--stramtura-8-2025",
+   "path": "local/maramures/stramtura/2025/8",
+   "short": "HCL Strâmtura nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 8/2025 privind aprobarea dezmembrării și parcelării terenului înscris în CF 56415 Stâmtura, cu nr. cadastral 56415, teren de natură livadă și fânețe aflat în domeniul privat al comunei Srâmtura, județul Maramureș, ca urmare a înregistrării sistematice",
+   "url": "https://emol.ro/stramtura-mm/registru-hcl/211656",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stramtura-mm/registru-hcl/211656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--stramtura-9-2025",
+   "path": "local/maramures/stramtura/2025/9",
+   "short": "HCL Strâmtura nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 9/2025 privind aprobarea participării comunei Stâmtura, la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană, finanțat din Fondul pentru Mediu",
+   "url": "https://emol.ro/stramtura-mm/registru-hcl/211660",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stramtura-mm/registru-hcl/211660",
      "sha256": null
     }
    ]

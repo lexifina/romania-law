@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/eselnita/2022",
  "acts": [
   {
+   "slug": "hcl-mehedinti--eselnita-104-2022",
+   "path": "local/mehedinti/eselnita/2022/104",
+   "short": "HCL Eșelnița nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 104/2022 privind predarea liniei aeriene de medie și joasă tensiune formată din stâlpi de beton în număr de 50 buc și rețeaua electrică de joasă și medie tensiune în lungime de 2.5 km",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/70853",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/70853",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--eselnita-135-2022",
    "path": "local/mehedinti/eselnita/2022/135",
    "short": "HCL Eșelnița nr. 135/2022",
@@ -298,6 +313,231 @@
      "from": "2023-02-20",
      "units": 1,
      "source_url": "https://emol.ro/eselnita-mh/registru-hcl/90869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-24-2022",
+   "path": "local/mehedinti/eselnita/2022/24",
+   "short": "HCL Eșelnița nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 24/2022 privind modificarea taxei locale de COMERȚ AMBULANT stabilit prin HCL nr.63/31.05.2021 în comuna Eșelnița, județul Mehedinți",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/56463",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/56463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-27-2022",
+   "path": "local/mehedinti/eselnita/2022/27",
+   "short": "HCL Eșelnița nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 27/2022 privind aprobarea documentației tehnice-proiectului tehnic și a principalilor indicatori tehnico-economici pentru obiectivul de investiții „AMENAJARE ACCESE INTERSECȚII, ÎN COMUNA EȘELNIȚA, JUDEȚUL MEHEDINȚI”",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/56466",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/56466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-31-2022",
+   "path": "local/mehedinti/eselnita/2022/31",
+   "short": "HCL Eșelnița nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 31/2022 privind aprobarea demarării procedurii de licitație publică în SEAP în vederea executării lucrării de reparații-drumul SAT VECHI pentru tronsonul de drum de Str. Duzilor de la casa Oprisan până la Cimitirul din SAT Vechi în comuna Eșelnița, județul Mehedinți",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/56470",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/56470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-35-2022",
+   "path": "local/mehedinti/eselnita/2022/35",
+   "short": "HCL Eșelnița nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 35/2022 privind declararea lunii aprilie anul 2022 ca lună a curățeniei, a refacerii și protecției mediului înconjurător",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/59078",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/59078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-36-2022",
+   "path": "local/mehedinti/eselnita/2022/36",
+   "short": "HCL Eșelnița nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 36/2022 privind aprobarea organizării pazei comunale pe teritoriul administrativ al comunei Eșelnița pe anul 2022",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/59079",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/59079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-40-2022",
+   "path": "local/mehedinti/eselnita/2022/40",
+   "short": "HCL Eșelnița nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 40/2022 privind nominalizarea punctelor de acostare/debarcare pentru ambarcațiunile care desfășoară activități de pescuit comercial situate pe domeniul public al comunei Eșelnița, județul Mehedinți",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/59083",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/59083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-43-2022",
+   "path": "local/mehedinti/eselnita/2022/43",
+   "short": "HCL Eșelnița nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 43/2022 privind modificarea taxei locale de COMERȚ AMBULANT stabilit prin HCL nr.63/31.05.2021 în comuna EȘELNIȚA, județul MEHEDINȚI",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/59086",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/59086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-47-2022",
+   "path": "local/mehedinti/eselnita/2022/47",
+   "short": "HCL Eșelnița nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 47/2022 privind aprobarea Regulamentului de exploatare și administrare a terenului de sport-minifotbal situat în spatele Parcului de Joacă pentru copii din comuna Eșelnița, județul Mehedinți",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/59764",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/59764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-49-2022",
+   "path": "local/mehedinti/eselnita/2022/49",
+   "short": "HCL Eșelnița nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 49/2022 privind aprobarea implementării proiectului de investiție ”Înființare sistem distribuție gaze natural în comuna Eșelnița, județul Mehedinți”",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/59766",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/59766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-50-2022",
+   "path": "local/mehedinti/eselnita/2022/50",
+   "short": "HCL Eșelnița nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 50/2022 privind aprobarea demarării procedurii de licitație publică în vederea achiziționării pe SEAP a două toalete ecologice complet echipate",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/62978",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/62978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-52-2022",
+   "path": "local/mehedinti/eselnita/2022/52",
+   "short": "HCL Eșelnița nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 52/2022 privind aprobarea demarării procedurii de licitație publică în vederea achiziționarii pe SEAP materiale în vederea confecționării unor bariere metalice",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/62980",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/62980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-55-2022",
+   "path": "local/mehedinti/eselnita/2022/55",
+   "short": "HCL Eșelnița nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 55/2022 privind aprobarea Actualizarea Planului Urbanistic General și Regulamentul Urbanistic Local ale comunei Eșelnița, județul Mehedinți",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/68110",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/68110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-62-2022",
+   "path": "local/mehedinti/eselnita/2022/62",
+   "short": "HCL Eșelnița nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 62/2022 privind aprobarea taxei de deversare a apelor uzate în Stația de epurare de către prestatorii de servicii de vidanjare externi",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/68117",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/68117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-63-2022",
+   "path": "local/mehedinti/eselnita/2022/63",
+   "short": "HCL Eșelnița nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 63/2022 privind participarea în cadrul Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități-ADMINISTRAȚIA FONDULUI PENTRU MEDIU pentru investiția „Stații de reîncărcare pentru vehicule electrice în comuna Eșelnița, județul Mehedinți”",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/68118",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/68118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-67-2022",
+   "path": "local/mehedinti/eselnita/2022/67",
+   "short": "HCL Eșelnița nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 67/2022 privind organizarea unei acțiuni social culturale, pentru marcarea „Sărbătorii Înălțarea Domnului-Ziua Eroilor”, în comuna Eșelnița, în anul 2022",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/68122",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/68122",
      "sha256": null
     }
    ]

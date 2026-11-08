@@ -3,6 +3,156 @@
  "shard": "local/mehedinti/livezile/2023",
  "acts": [
   {
+   "slug": "hcl-mehedinti--livezile-1-2023",
+   "path": "local/mehedinti/livezile/2023/1",
+   "short": "HCL Livezile nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 1/2023 privind privind acoperirea definitivă din excedentul bugetului local a deficitului secţiunii dezvoltare",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/85296",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/85296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-10-2023",
+   "path": "local/mehedinti/livezile/2023/10",
+   "short": "HCL Livezile nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 10/2023 privind aprobarea indicatorilor tehnico-economici actualizați la obiectivul de investiții Reabilitare, modernizare, extindere si dotare camine culturale in comuna Livezile, judetul Mehedinti",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/90925",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/90925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-12-2023",
+   "path": "local/mehedinti/livezile/2023/12",
+   "short": "HCL Livezile nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 12/2023",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/97497",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/97497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-13-2023",
+   "path": "local/mehedinti/livezile/2023/13",
+   "short": "HCL Livezile nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 13/2023 privind indexarea impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/102288",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/102288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-14-2023",
+   "path": "local/mehedinti/livezile/2023/14",
+   "short": "HCL Livezile nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 14/2023 privind aprobarea participării Comunei Livezile , Județul Mehedinți la Parteneriatul LEADER cu denumirea ” Asociatia Grupul de Actiune Locala Campia Blahnitei”",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/102289",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/102289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-15-2023",
+   "path": "local/mehedinti/livezile/2023/15",
+   "short": "HCL Livezile nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 15/2023 privind aprobarea Documentației de avizare a lucrărilor de intervenții/ indicatorilor tehnico economici actualizați și a devizului general actualizat pentru obiectivul de investiții “REABILITAREA MODERATĂ A CĂMINULUI CULTURAL DIN SATUL IZVORĂLU DE JOS, COMUNA LIVEZILE, JUDEȚUL MEHEDINȚI” prevăzută la Obiectivul de investiție I.3. ” Reabilitare moderată a clădirilor publice pentru a îmbunătăți furnizarea de servicii publice de către unitățile administrativ-teritoriale din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ, în cadrul Apelurilor de proiecte PNRR/2022/C10, componenta C10 - Fondul local în comuna Livezile, județul Mehedinți",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/103685",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/103685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-16-2023",
+   "path": "local/mehedinti/livezile/2023/16",
+   "short": "HCL Livezile nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 16/2023 privind aprobarea Documentației de avizare a lucrărilor de intervenții/ indicatorilor tehnico economici actualizați și a devizului general actualizat pentru obiectivul de investiții “REABILITAREA MODERATĂ SEDIU PRIMĂRIE, COMUNA LIVEZILE, JUDEȚUL MEHEDINȚI” prevăzută la Obiectivul de investiție I.3. ” Reabilitare moderată a clădirilor publice pentru a îmbunătăți furnizarea de servicii publice de către unitățile administrativ-teritoriale din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ, în cadrul Apelurilor de proiecte PNRR/2022/C10, componenta C10 - Fondul local în comuna Livezile, județul Mehedinți",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/103686",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/103686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-17-2023",
+   "path": "local/mehedinti/livezile/2023/17",
+   "short": "HCL Livezile nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 17/2023 privind aprobarea documentației faza proiect tehnic și devizului general pentru obiectivul de investiții „Reabilitare termica si reparatii acoperis bloc 12 apartamente si respectiv, bloc 4 apartamente, comuna Livezile, judetul Mehedinti ”",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/103687",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/103687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-18-2023",
+   "path": "local/mehedinti/livezile/2023/18",
+   "short": "HCL Livezile nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 18/2023 privind modificarea inventarului domeniului public al comunei Livezile",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/104262",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/104262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-2-2023",
+   "path": "local/mehedinti/livezile/2023/2",
+   "short": "HCL Livezile nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 2/2023 privind aprobarea execuției bugetare pentru anul 2022",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/88154",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/88154",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--livezile-20-2023",
    "path": "local/mehedinti/livezile/2023/20",
    "short": "HCL Livezile nr. 20/2023",
@@ -153,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--livezile-3-2023",
+   "path": "local/mehedinti/livezile/2023/3",
+   "short": "HCL Livezile nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 3/2023 privind aprobarea bugetului local al comunei Livezile , județul Mehedinți pentru anul 2023",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/88155",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/88155",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--livezile-30-2023",
    "path": "local/mehedinti/livezile/2023/30",
    "short": "HCL Livezile nr. 30/2023",
@@ -298,6 +463,81 @@
      "from": "2024-04-05",
      "units": 1,
      "source_url": "https://emol.ro/livezile-mh/registru-hcl/135381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-4-2023",
+   "path": "local/mehedinti/livezile/2023/4",
+   "short": "HCL Livezile nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 4/2023 privind modificarea organigramei și statului de funcții ca urmare a transformării unor funcții",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/88156",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/88156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-5-2023",
+   "path": "local/mehedinti/livezile/2023/5",
+   "short": "HCL Livezile nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 5/2023 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/88157",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/88157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-6-2023",
+   "path": "local/mehedinti/livezile/2023/6",
+   "short": "HCL Livezile nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 6/2023 privind aprobarea participării la realizarea investiției “Reabilitarea și dotare clădire în vederea înființării Centrului Comunitar Integrat în comuna Livezile, județul Mehedinți” prevăzută la Obiectivul de investiție Pilonul V: Sănătate și reziliență instituțională ,COMPONENTA 12 - Sănătate , INVESTIȚIA: 1. Dezvoltarea infrastructurii medicale prespitalicești ,Investiția specifică: I1.4: Centre Comunitare Integrate din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/88158",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/88158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-7-2023",
+   "path": "local/mehedinti/livezile/2023/7",
+   "short": "HCL Livezile nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 7/2023 privind aprobarea participării la realizarea investiției „Dotare și echipare Școala Gimnazială, Comuna Livezile, județul Mehedinți” prevăzută la Obiectivul de investiție I.9. ”Asigurarea echipamentelor și a resurselor tehnologice digitale pentru unitățile de învățământ” din Reforma 5 ”Adoptarea cadrului legislative pentru digitalizarea educației” și Obiectivul de investiție I.11 ”Asigurarea dotărilor pentru sălile de clasă preuniversitare și laboratoarele/atelierele școlare” din Reforma 6 ”Actualizarea cadrului legislative pentru a asigura standardele ecologice de proiecte, construcție și dotare în sistemul de învățământ preuniversitar” - PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ în cadrul Apelurilor de proiecte Dotare cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe - Componenta C15 – Educație, Pilonul VI – Politici pentru noua generație",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/88159",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/88159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-8-2023",
+   "path": "local/mehedinti/livezile/2023/8",
+   "short": "HCL Livezile nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 8/2023 Privind aprobarea Protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și UAT Comuna Livezile, județul Mehedinți, referitor la colaborarea instituțională în cadrul proiectului ”HUB de servicii MMSS-SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/88160",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/88160",
      "sha256": null
     }
    ]

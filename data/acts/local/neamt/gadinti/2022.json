@@ -3,6 +3,138 @@
 "shard": "local/neamt/gadinti/2022",
 "acts": [
 {
+"slug": "hcl-neamt--gadinti-9-2022",
+"path": "local/neamt/gadinti/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 9/2022 privind aprobarea PLANULUI ANUAL DE ACȚIUNE privind serviciile sociale administrate și finanațate din bugetul Consiliului local al comunei Gâdinți, jud. Neamț pentru anul 2022",
+"short": "HCL Gâdinți nr. 9/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-08",
+"latest": "2022-02-08",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/50043",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-15-2022",
+"path": "local/neamt/gadinti/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 15/2022 privind aprobarea Planului de acțiune pentru protecția apelor împotriva poluării cu nitrați din surse agricole",
+"short": "HCL Gâdinți nr. 15/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-18",
+"latest": "2022-03-18",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/54104",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-17-2022",
+"path": "local/neamt/gadinti/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 17/2022 privind instituirea unei taxei speciale",
+"short": "HCL Gâdinți nr. 17/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-18",
+"latest": "2022-03-18",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/54106",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-25-2022",
+"path": "local/neamt/gadinti/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 25/2022 privind aprobarea depunerii cererii de finanțare prin Programul Național de Investiții \"Anghel Saligny\" și a devizului general estimativ aferente obiectivului de investiții ”INFIINȚARE DISTRIBUȚIE GAZE NATURALE SI RACORDURI ÎN COMUNA GÂDINȚI, JUDEȚUL NEAMȚ\"",
+"short": "HCL Gâdinți nr. 25/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-13",
+"latest": "2022-05-13",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/57109",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-48-2022",
+"path": "local/neamt/gadinti/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 48/2022 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+"short": "HCL Gâdinți nr. 48/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/72233",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-49-2022",
+"path": "local/neamt/gadinti/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 49/2022 privind trecerea în domeniul public al comunei Gâdinți și declararea ca bunuri de utilitate publică a unor suprafețe de teren",
+"short": "HCL Gâdinți nr. 49/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/72234",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-neamt--gadinti-54-2022",
 "path": "local/neamt/gadinti/2022/54",
 "kind": "local",

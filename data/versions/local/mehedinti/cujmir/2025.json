@@ -3,6 +3,66 @@
  "shard": "local/mehedinti/cujmir/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--cujmir-11-2025",
+   "path": "local/mehedinti/cujmir/2025/11",
+   "short": "HCL Cujmir nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 11/2025 privind aprobarea bugetului local al Comunei Cujmir si a Listei de investiții publice pentru anul 2025",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/198844",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/198844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-13-2025",
+   "path": "local/mehedinti/cujmir/2025/13",
+   "short": "HCL Cujmir nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 13/2025 privind aprobarea Programului de acțiune comunitară destinat prevenirii sau reducerii riscului de sărăcie și excluziune socială, la nivelul comunei Cujmir, pentru anul 2025",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/208574",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/208574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-14-2025",
+   "path": "local/mehedinti/cujmir/2025/14",
+   "short": "HCL Cujmir nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 14/2025 privind aprobarea Organigramei, Ștatului de funcții si Regulamentului de Organizare si Funcționare pentru Aparatul de specialitate al primarului comunei Cujmir si al Serviciului Public Comunitar Local Evidenta a Persoanei Cujmir pentru anul 2025",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/208575",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/208575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-17-2025",
+   "path": "local/mehedinti/cujmir/2025/17",
+   "short": "HCL Cujmir nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 17/2025 privind aprobarea rectificării bugetului local al Comunei Cujmir pentru anul 2025",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/216293",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/216293",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--cujmir-19-2025",
    "path": "local/mehedinti/cujmir/2025/19",
    "short": "HCL Cujmir nr. 19/2025",
@@ -13,6 +73,21 @@
      "from": "2025-07-18",
      "units": 1,
      "source_url": "https://emol.ro/cujmir-mh/registru-hcl/224852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-2-2025",
+   "path": "local/mehedinti/cujmir/2025/2",
+   "short": "HCL Cujmir nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 2/2025 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2025 /2026",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/188009",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/188009",
      "sha256": null
     }
    ]
@@ -168,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--cujmir-3-2025",
+   "path": "local/mehedinti/cujmir/2025/3",
+   "short": "HCL Cujmir nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 3/2025 privind actualizarea Planului de Analiza si Acoperire a Riscurilor (PAAR) in comuna Cujmir pentru anul 2025",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/193049",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/193049",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--cujmir-30-2025",
    "path": "local/mehedinti/cujmir/2025/30",
    "short": "HCL Cujmir nr. 30/2025",
@@ -298,6 +388,36 @@
      "from": "2026-10-23",
      "units": 1,
      "source_url": "https://emol.ro/cujmir-mh/registru-hcl/245322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-4-2025",
+   "path": "local/mehedinti/cujmir/2025/4",
+   "short": "HCL Cujmir nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 4/2025 privind organizarea activității de apărare împotriva incendiilor in Unitatea Administrativ Teritoriala – Comuna Cujmir pentru anul 2025",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/193050",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/193050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-6-2025",
+   "path": "local/mehedinti/cujmir/2025/6",
+   "short": "HCL Cujmir nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 6/2025 privind actualizarea taxei de salubrizare și a Regulamentului de instituire și administrare a taxei de salubrizare pentru unitatea administrativ-teritorială comuna Cujmir începând cu anul 2025",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/193052",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/193052",
      "sha256": null
     }
    ]

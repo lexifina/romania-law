@@ -3,6 +3,95 @@
 "shard": "local/neamt/bodesti/2025",
 "acts": [
 {
+"slug": "hcl-neamt--bodesti-27-2025",
+"path": "local/neamt/bodesti/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 27/2025 privind aprobarea Protocolului de colaborare intre Comuna Bodesti si Complexul de Servicii Sociale Oslobeni/Centrul de Ingrijire pentru Persoane Adulte cu Dizabilitati Oslobeni;",
+"short": "HCL Bodești nr. 27/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-20",
+"latest": "2025-03-20",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/272319",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-30-2025",
+"path": "local/neamt/bodesti/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 30/2025 privind diminuarea unei suprafețe de teren din domeniul privat la comunei Bodești și trecerea în rezerva Comisiei locale de stabilire a dreptului de proprietate privată asupra terenurilor Bodești a unei suprafețe de teren",
+"short": "HCL Bodești nr. 30/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-25",
+"latest": "2025-04-25",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/272326",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-31-2025",
+"path": "local/neamt/bodesti/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 31/2025 privind aprobarea notei conceptuale și temei de proiectare pentru obiectivul de investiție “Modernizarea și eficientizarea sistemului de iluminat public în Comuna Bodești, județul Neamț – ETAPA 3”",
+"short": "HCL Bodești nr. 31/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-25",
+"latest": "2025-04-25",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/272337",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-35-2025",
+"path": "local/neamt/bodesti/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 35/2025",
+"short": "HCL Bodești nr. 35/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/272365",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--bodesti-63-2025",
 "path": "local/neamt/bodesti/2025/63",
 "kind": "local",

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Poroina Mare nr. 12/2025 privind privind aprobarea studiului de fezabilitate și a devizului general pentru obiectivul de investiții „MODERNIZARE SISTEM DE ALIMENTARE CU APA IN LOCALITATILE POROINA MARE, STIGNITA, SIPOTU, FANTANILE NEGRE, COMUNA POROINA MARE, JUDETUL MEHEDINTI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului
+
+HCL Poroina Mare nr. 12/2025 · 1 versions, from 2025-09-01 (latest in force: 2025-09-01) · <https://emol.ro/poroinamare-mh/registru-hcl/210776>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-mehedinti--poroina-mare-12-2025` (tags `hcl-mehedinti--poroina-mare-12-2025/<day>`; `python tools/on.py <day> hcl-mehedinti--poroina-mare-12-2025`).
+
+## Decisions made by hand
+
+- HCL Poroina Mare nr. 12/2025: listed from Consiliul Local al Comunei Poroina Mare (emol.ro); metadata only for now: no document of it is held.
+- HCL Poroina Mare nr. 12/2025: dated from 1 September 2025, the day the council's register gives it as published (adopted 28 April 2025).
+- HCL Poroina Mare nr. 12/2025: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

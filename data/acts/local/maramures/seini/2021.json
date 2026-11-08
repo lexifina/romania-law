@@ -3,6 +3,72 @@
 "shard": "local/maramures/seini/2021",
 "acts": [
 {
+"slug": "hcl-maramures--seini-44-2021",
+"path": "local/maramures/seini/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 44/2021 privind aprobarea Planului de Mobilitate Urbana Durabila al Orasului Seini, pentru perioada 2021 - 2027 Consiliul local al orașului Seini întrunit în ședință ordinară la data de 20.05.2021 Având în vedere: - Solicitarea ADR NV de reactualizare a Planului de Mobilitate Urbană Durabilă al orașului Seini; - Oportunitatea de a implementa proiecte finanțate prin POR 2021-2027; - Raportul Administratoru",
+"short": "HCL Seini nr. 44/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-20",
+"latest": "2021-05-20",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-maramures--seini-47-2021",
+"path": "local/maramures/seini/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 47/2021 privind aprobarea scutirii de la plata impozitului pe cladiri, terenul aferent si taxa auto pentru unii contribuabili Consiliul local al orasului Seini intrunit in sedinta ordinara din data de 20.05.2021 ; Avand in vedere : -Solicitarile unor contribuabili de a fi scutiti de la plata impozitului pe cladiri, terenul aferent si taxa auto; - Raportul Serviciului economic si resurse umane din cadrul A",
+"short": "HCL Seini nr. 47/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-20",
+"latest": "2021-05-20",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-maramures--seini-48-2021",
+"path": "local/maramures/seini/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 48/2021 privind aprobarea actualizarii Regulamentului de ordine interioara al aparatului de specialitate al primarului orasului Seini Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 20.05.2021 Avand in vedere : - Faptul ca Regulamentul de ordine interioara al Primariei orasului Seini trebuie actualizat; - Expunerea de motive prezentata de primarul orasului Seini ; - Regulamentul",
+"short": "HCL Seini nr. 48/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-20",
+"latest": "2021-05-20",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-maramures--seini-68-2021",
 "path": "local/maramures/seini/2021/68",
 "kind": "local",
@@ -22,6 +88,28 @@
 "council_name": "Consiliul Local al Orașului Seini",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--seini-69-2021",
+"path": "local/maramures/seini/2021/69",
+"kind": "local",
+"year": "2021",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 69/2021 privind aprobarea scutirii de la plata impozitului pe cladiri, terenul aferent si taxa auto pentru unii contribuabili Consiliul local al orasului Seini intrunit in sedinta ordinara din data de 13.09.2021 ; Avand in vedere : -Solicitarile unor contribuabili de a fi scutiti de la plata impozitului pe cladiri, terenul aferent si taxa auto; - Raportul Serviciului economic si resurse umane din cadrul A",
+"short": "HCL Seini nr. 69/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-13",
+"latest": "2021-09-13",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"text_pending": "review"
 }
 }
 ]

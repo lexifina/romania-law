@@ -3,6 +3,111 @@
  "shard": "local/mehedinti/balta/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--balta-11-2025",
+   "path": "local/mehedinti/balta/2025/11",
+   "short": "HCL Balta nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 11/2025 privind aprobarea îmbunătățirii soluției tehnice a proiectului „MODERNIZARE DRUMURI DE EXPLOATARE ÎN COMUNA BALTA, JUDEȚUL MEHEDINȚI”",
+   "url": "https://emol.ro/balta-mh/registru-hcl/212316",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/212316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-12-2025",
+   "path": "local/mehedinti/balta/2025/12",
+   "short": "HCL Balta nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 12/2025 privind aprobarea taxelor și tarifelor Serviciului Public de Alimentare cu Apă al comunei Balta, județul Mehedinți, pentru anul 2025",
+   "url": "https://emol.ro/balta-mh/registru-hcl/212317",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/212317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-13-2025",
+   "path": "local/mehedinti/balta/2025/13",
+   "short": "HCL Balta nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 13/2025 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „ÎNFIINȚARE SISTEM DE ALIMENTARE CU APA ȘI CANALIZARE ÎN COMUNA BALTA, JUDEȚUL MEHEDINȚI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/balta-mh/registru-hcl/212318",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/212318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-14-2025",
+   "path": "local/mehedinti/balta/2025/14",
+   "short": "HCL Balta nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 14/2025 privind întocmirea bugetului inițial pentru Serviciului Public de Alimentare cu Apă al comunei Balta, județul Mehedinți, pentru anul 2025, Sursa F-funcționare din venituri proprii",
+   "url": "https://emol.ro/balta-mh/registru-hcl/212319",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/212319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-15-2025",
+   "path": "local/mehedinti/balta/2025/15",
+   "short": "HCL Balta nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 15/2025 privind „suplimentare buget pentru achiziționarea și amplasare de camere video de supraveghere la Școala Gimnaziala Balta, județul Mehedinți” din bugetul local al UAT Balta",
+   "url": "https://emol.ro/balta-mh/registru-hcl/212320",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/212320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-18-2025",
+   "path": "local/mehedinti/balta/2025/18",
+   "short": "HCL Balta nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 18/2025 privind achiziționare și amplasare Troita-la Podul Armasului, comuna Balta, județul Mehedinți",
+   "url": "https://emol.ro/balta-mh/registru-hcl/212323",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/212323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-3-2025",
+   "path": "local/mehedinti/balta/2025/3",
+   "short": "HCL Balta nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 3/2025 privind demolare baraca pentru paza obsteasca+stație de autobuz Balta, poziția 32-suprafața construită 24 mp situată pe terenul parcului Primăriei",
+   "url": "https://emol.ro/balta-mh/registru-hcl/212307",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/212307",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--balta-39-2025",
    "path": "local/mehedinti/balta/2025/39",
    "short": "HCL Balta nr. 39/2025",
@@ -298,6 +403,36 @@
      "from": "2026-02-20",
      "units": 1,
      "source_url": "https://emol.ro/balta-mh/registru-hcl/254167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-6-2025",
+   "path": "local/mehedinti/balta/2025/6",
+   "short": "HCL Balta nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 6/2025 privind completarea și actualizarea Nomenclatorului stradal al comunei Balta, județul Mehedinți",
+   "url": "https://emol.ro/balta-mh/registru-hcl/212311",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/212311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-9-2025",
+   "path": "local/mehedinti/balta/2025/9",
+   "short": "HCL Balta nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 9/2025 privind aprobarea investiției „AMENAJARE ȘI CONSOLIDARE CENTRU DE ZI PENTRU PERSOANE VULNERABILE COMUNA BALTA, JUDEȚUL MEHEDINȚI”",
+   "url": "https://emol.ro/balta-mh/registru-hcl/212314",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/212314",
      "sha256": null
     }
    ]

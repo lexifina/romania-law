@@ -3,6 +3,66 @@
  "shard": "local/neamt/bodesti/2025",
  "acts": [
   {
+   "slug": "hcl-neamt--bodesti-27-2025",
+   "path": "local/neamt/bodesti/2025/27",
+   "short": "HCL Bodești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 27/2025 privind aprobarea Protocolului de colaborare intre Comuna Bodesti si Complexul de Servicii Sociale Oslobeni/Centrul de Ingrijire pentru Persoane Adulte cu Dizabilitati Oslobeni;",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/272319",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/272319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-30-2025",
+   "path": "local/neamt/bodesti/2025/30",
+   "short": "HCL Bodești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 30/2025 privind diminuarea unei suprafețe de teren din domeniul privat la comunei Bodești și trecerea în rezerva Comisiei locale de stabilire a dreptului de proprietate privată asupra terenurilor Bodești a unei suprafețe de teren",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/272326",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/272326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-31-2025",
+   "path": "local/neamt/bodesti/2025/31",
+   "short": "HCL Bodești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 31/2025 privind aprobarea notei conceptuale și temei de proiectare pentru obiectivul de investiție “Modernizarea și eficientizarea sistemului de iluminat public în Comuna Bodești, județul Neamț – ETAPA 3”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/272337",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/272337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-35-2025",
+   "path": "local/neamt/bodesti/2025/35",
+   "short": "HCL Bodești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 35/2025",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/272365",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/272365",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--bodesti-63-2025",
    "path": "local/neamt/bodesti/2025/63",
    "short": "HCL Bodești nr. 63/2025",

@@ -3,6 +3,28 @@
 "shard": "local/neamt/gadinti/2025",
 "acts": [
 {
+"slug": "hcl-neamt--gadinti-41-2025",
+"path": "local/neamt/gadinti/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 41/2025 privind aprobarea Regulamentului privind înregistrarea, evidența şi radierea vehiculelor care nu se supun înmatriculării în comuna Gâdinți",
+"short": "HCL Gâdinți nr. 41/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/213342",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-neamt--gadinti-77-2025",
 "path": "local/neamt/gadinti/2025/77",
 "kind": "local",

@@ -23,6 +23,72 @@
 "flags": {
 "text_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-maramures--seini-30-2020",
+"path": "local/maramures/seini/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 30/2020 privind aprobarea scutirii de la plata impozitului pe cladiri, terenul aferent si taxa auto pentru unii contribuabili Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 28.05.2020 ; Avand in vedere : -Solicitarile unor contribuabili de a fi scutiti de la plata impozitului pe cladiri, terenul aferent si taxa auto; - Raportul Serviciului economic din cadrul Aparatului de speci",
+"short": "HCL Seini nr. 30/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2020/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-maramures--seini-35-2020",
+"path": "local/maramures/seini/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 35/2020 privind aprobarea scutirii de la plata impozitului pe cladiri, terenul aferent si taxa auto pentru un contribuabil Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 29.06.2020 ; Avand in vedere : -Solicitarea unui contribuabil de a fi scutit de la plata impozitului pe cladiri, terenul aferent si taxa auto; - Raportul Serviciului economic din cadrul Aparatului de specialitat",
+"short": "HCL Seini nr. 35/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-06-29",
+"latest": "2020-06-29",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2020/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-maramures--seini-53-2020",
+"path": "local/maramures/seini/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 53/2020 privind aprobarea scutirii de la plata impozitului pe cladiri, terenul aferent si taxa auto pentru unii contribuabili Consiliul local al orasului Seini intrunit in sedinta extraordinara la data de 14.10.2020 ; Avand in vedere : -Solicitarile unor contribuabili de a fi scutiti de la plata impozitului pe cladiri, terenul aferent si taxa auto; - Raportul Serviciului economic din cadrul Aparatului de",
+"short": "HCL Seini nr. 53/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-10-14",
+"latest": "2020-10-14",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2020/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"text_pending": "review"
+}
 }
 ]
 }

@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--chiheru-de-jos-2-2026",
+   "path": "local/mures/chiheru-de-jos/2026/2",
+   "short": "HCL Chiheru de Jos nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 2/2026 privind aprobarea acoperirii definitive a deficitului secțiunii de funcționare și al secțiunii de dezvoltare al sursei A, pe anul 2025",
+   "url": "https://emol.ro/chiherudejos-ms/registru-hcl/273269",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiherudejos-ms/registru-hcl/273269",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--chiheru-de-jos-20-2026",
    "path": "local/mures/chiheru-de-jos/2026/20",
    "short": "HCL Chiheru de Jos nr. 20/2026",

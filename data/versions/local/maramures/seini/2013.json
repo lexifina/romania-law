@@ -3,6 +3,81 @@
  "shard": "local/maramures/seini/2013",
  "acts": [
   {
+   "slug": "hcl-maramures--seini-1-2013",
+   "path": "local/maramures/seini/2013/1",
+   "short": "HCL Seini nr. 1/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 1/2013 Privind aprobarea impozitelor si taxelor locale pentru anul 2013 ; Consiliul local orasenesc Seini intrunit in sedinta extraordinara la data de 7.01.2013: Avand in vedere : - raportul serviciului economic din cadrul Aparatului de specialitate al primarului orasului prin care se propun taxele si impozitele pe anul 2013 a orasului Seini, - proiectul de hotarare ; - avizul comisiei buget- finante din",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2013/",
+   "versions": [
+    {
+     "from": "2013-01-07",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/hotararea-nr.-1-taxe-si-impozite-locale.pdf",
+     "sha256": "46f2af14a7e7f3450b357107495f3144e4e91c07e162469f7220c45814c36e60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-4-2013",
+   "path": "local/maramures/seini/2013/4",
+   "short": "HCL Seini nr. 4/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 4/2013 Privind aprobarea scutirii de la plata impozitului pe cladiri si a terenului aferent pentru unii contribuabili ; Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 30.01.2013; Avand in vedere : Solicitarile unor contribuabili de a fi scutiti de la plata impozitului pentru cladiri si terenul aferent; -Raportul Serviciului economic din cadrul Aparatului de specialitate al primar",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2013/",
+   "versions": [
+    {
+     "from": "2013-01-30",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/hotararea-nr.-4.pdf",
+     "sha256": "8d277419fb624cd37323d886625d452a2071a13b2b17d63e431dff121045f482"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-5-2013",
+   "path": "local/maramures/seini/2013/5",
+   "short": "HCL Seini nr. 5/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 5/2013 privind aprobarea PUZ – schimbare de destinatie din zona de locuinte in zona industriala si extindere intravilan pentru amenajare zona industriala in cadrul PUG Seini ; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 30.01.2013",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2013/",
+   "versions": [
+    {
+     "from": "2013-01-30",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/hotararea-nr.-5.pdf",
+     "sha256": "6bcd145f3814803d3248025eb3d34d7e50a5c3b5b3c32a24f169f2934e41ec25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-53-2013",
+   "path": "local/maramures/seini/2013/53",
+   "short": "HCL Seini nr. 53/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 53/2013 Privind aprobarea Regulamentului pentru transport persoane in regim de inchiriere si taximetrie; Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 31.10.2013; Avind in vedere: -Solicitarile unor cetateni de a transporta persoane in regim de inchiriere si taximetrie; - Regulamentul privind transportul de persoane intocmit de Serviciul urbanism din cadrul Ap. de specialitate al",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2013/",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/hotararea-nr.-53.pdf",
+     "sha256": "0c9904ef662727e4cb3ff208cef2c2e7fe738f7855329db05c99593381c4b2ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-58-2013",
+   "path": "local/maramures/seini/2013/58",
+   "short": "HCL Seini nr. 58/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 58/2013 Privind aprobarea scutirii de la plata creantelor bugetare accesorii, respectiv a majorarilor de intarziere pentru neplata la timp a impozitelor si taxelor locale pentru unii contribuabili; Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 25.11.2013; Avand in vedere : faptul ca in evidentele Serviciului economic din cadrul Aparatului de specialitate al primarului orasului Se",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2013/",
+   "versions": [
+    {
+     "from": "2013-11-25",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/hotararea-nr.-58.pdf",
+     "sha256": "3079c6b95f0404c40a2ab87107ee472f5fd74f7fd3f66fcf88e7e8ee54304670"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--seini-61-2013",
    "path": "local/maramures/seini/2013/61",
    "short": "HCL Seini nr. 61/2013",
@@ -14,6 +89,36 @@
      "units": 1,
      "source_url": "https://seini.ro/wp-content/uploads/2018/01/hotararea-nr.-61.pdf",
      "sha256": "06daf4525a2b7c07ceb59636429e1b2f88ff6b92c8647f873591ed9ed3b996d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-65-2013",
+   "path": "local/maramures/seini/2013/65",
+   "short": "HCL Seini nr. 65/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 65/2013 Privind aprobarea impozitelor si taxelor locale pentru anul 2014 ; Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 18.12.2013: Avand in vedere : - raportul serviciului economic din cadrul Aparatului de specialitate al primarului orasului prin care se propun taxele si impozitele pe anul 2014 a orasului Seini, - proiectul de hotarare ; - avizul comisiei buget- finante din cad",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2013/",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/hotararea-nr.-65.pdf",
+     "sha256": "e1a650fc10e0ad74a8d39214970719de4696dbafec2135ca4849bce8eb6903d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-70-2013",
+   "path": "local/maramures/seini/2013/70",
+   "short": "HCL Seini nr. 70/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 70/2013 privind aprobarea Regulamentului referitor la circulatia pe drumurile publice din orasul Seini, a autovehiculelor pentru care nu exista obligatia inmatricularii si se inregistreaza la Consiliul local, precum si a vehiculelor cu tractiune animala; Consiliul local orasenesc Seini intrunit in sedinta extraordinara la data de 30.12.2013; Avind in vedere: - expunerea de motive prezentata prin care se p",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2013/",
+   "versions": [
+    {
+     "from": "2013-12-30",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/hotararea-nr.-70.pdf",
+     "sha256": "04fb60ed6436413a816413ac4d73c825c94924a6803144cea06ecd539cd1cb00"
     }
    ]
   }

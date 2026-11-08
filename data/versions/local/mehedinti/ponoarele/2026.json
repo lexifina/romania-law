@@ -3,6 +3,111 @@
  "shard": "local/mehedinti/ponoarele/2026",
  "acts": [
   {
+   "slug": "hcl-mehedinti--ponoarele-10-2026",
+   "path": "local/mehedinti/ponoarele/2026/10",
+   "short": "HCL Ponoarele nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 10/2026 privind organizarea manifestării cultural-artistică ,,Sărbătoarea Liliacului” ediția 2026",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/259985",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/259985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-13-2026",
+   "path": "local/mehedinti/ponoarele/2026/13",
+   "short": "HCL Ponoarele nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 13/2026 privind aprobarea bugetului local de venituri și cheltuieli al comunei Ponoarele, județul Mehedinți, pe anul 2026",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/268474",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/268474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-14-2026",
+   "path": "local/mehedinti/ponoarele/2026/14",
+   "short": "HCL Ponoarele nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 14/2026 privind aprobarea contului anual de execuţie al bugetului local al comunei Ponoarele pentru anul 2025",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/268475",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/268475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-16-2026",
+   "path": "local/mehedinti/ponoarele/2026/16",
+   "short": "HCL Ponoarele nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 16/2026 referitor la modificarea HCL nr. 10/27.03.2026 privind organizarea manifestării cultural-artistică ,,Sărbătoarea Liliacului” ediția 2026",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/268477",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/268477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-19-2026",
+   "path": "local/mehedinti/ponoarele/2026/19",
+   "short": "HCL Ponoarele nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 19/2026 pentru modificarea HCL nr. 50/29.12.2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026, la nivelul Comunei Ponoarele, modificată prin HCL nr.5/04.03.2026",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/272003",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/272003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-2-2026",
+   "path": "local/mehedinti/ponoarele/2026/2",
+   "short": "HCL Ponoarele nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 2/2026 privind actualizarea tarifului de alimentare cu energie electrică la stațiile de reîncărcare a vehiculelor electrice, amplasate pe terenul identificat cu numarul cadastral 53130",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/249870",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/249870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-21-2026",
+   "path": "local/mehedinti/ponoarele/2026/21",
+   "short": "HCL Ponoarele nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 21/2026 privind organizarea Festivalului Național Concurs de Folclor „Ponoare, Ponoare”, ediția a XX-a, anul 2026, stabilirea taxelor pentru agenții economici care desfășoară activități economice în cadrul acestei manifestări, precum și aprobarea unor măsuri organizatorice",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/274392",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/274392",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ponoarele-22-2026",
    "path": "local/mehedinti/ponoarele/2026/22",
    "short": "HCL Ponoarele nr. 22/2026",
@@ -118,6 +223,21 @@
      "from": "2026-09-24",
      "units": 1,
      "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/285184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-3-2026",
+   "path": "local/mehedinti/ponoarele/2026/3",
+   "short": "HCL Ponoarele nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 3/2026 privind aprobarea suportului alimentar acordat preșcolarilor și elevilor, precum și modalitatea de distribuire în cadrul Programului Național ,,Masă Sănătoasă” în anul 2026",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/249871",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/249871",
      "sha256": null
     }
    ]
@@ -273,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--ponoarele-4-2026",
+   "path": "local/mehedinti/ponoarele/2026/4",
+   "short": "HCL Ponoarele nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 4/2026 privind modificarea și completarea Hotărârii Consiliului Local Ponoarele nr.42/ 20.11.2025 privind aderarea U.A.T comuna Ponoarele la Organizația de Management al Destinației Mehedințiul Turistic",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/256931",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/256931",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ponoarele-40-2026",
    "path": "local/mehedinti/ponoarele/2026/40",
    "short": "HCL Ponoarele nr. 40/2026",
@@ -298,6 +433,66 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/296088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-5-2026",
+   "path": "local/mehedinti/ponoarele/2026/5",
+   "short": "HCL Ponoarele nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 5/2026 pentru modificarea HCL nr. 50/29.12.2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026, la nivelul Comunei Ponoarele",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/256932",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/256932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-6-2026",
+   "path": "local/mehedinti/ponoarele/2026/6",
+   "short": "HCL Ponoarele nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 6/2026 privind aprobarea Planului anual de acțiuni și lucrări de interes local ce vor fi executate, în anul 2026, de beneficiarii de venit minim de incluziune, potrivit Legii nr. 196/2016, cu modificările și completările ulterioare, precum și de contravenienții obligați la prestarea unei activități în folosul comunității, conform Ordonanței Guvernului nr. 55/2002, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/259981",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/259981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-8-2026",
+   "path": "local/mehedinti/ponoarele/2026/8",
+   "short": "HCL Ponoarele nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 8/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială la nivelul comunei Ponoarele pentru anul 2026",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/259983",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/259983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-9-2026",
+   "path": "local/mehedinti/ponoarele/2026/9",
+   "short": "HCL Ponoarele nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 9/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “ Modernizarea sistemului de iluminat public in comuna Ponoarele, Judetul Mehedinti ”, aprobat pentru finanțare prin Administratia Fondului pentru Mediu (AFM), precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului, în conformitate cu Legea nr. 141/2025 privind modificarea cotei TVA de la 19% la 21%",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/259984",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/259984",
      "sha256": null
     }
    ]

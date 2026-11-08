@@ -3,6 +3,321 @@
  "shard": "local/neamt/bahna/2026",
  "acts": [
   {
+   "slug": "hcl-neamt--bahna-1-2026",
+   "path": "local/neamt/bahna/2026/1",
+   "short": "HCL Bahna nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 1/2026 privind validarea dispozițiilor privind acoperirea definitivă a deficitului secţiunii de dezvoltare din excedentul bugetar al anilor precedenți",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/249436",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/249436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-12-2026",
+   "path": "local/neamt/bahna/2026/12",
+   "short": "HCL Bahna nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 12/2026",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/259742",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/259742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-13-2026",
+   "path": "local/neamt/bahna/2026/13",
+   "short": "HCL Bahna nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 13/2026",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/259743",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/259743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-14-2026",
+   "path": "local/neamt/bahna/2026/14",
+   "short": "HCL Bahna nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 14/2026 privind reorganizarea aparatului de specialitate al Primarului comunei BAHNA , judetul NEAMȚ , aprobarea Organigramei și a Statului de funcții",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/262440",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/262440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-15-2026",
+   "path": "local/neamt/bahna/2026/15",
+   "short": "HCL Bahna nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 15/2026",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/262441",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/262441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-16-2026",
+   "path": "local/neamt/bahna/2026/16",
+   "short": "HCL Bahna nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 16/2026",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/262442",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/262442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-17-2026",
+   "path": "local/neamt/bahna/2026/17",
+   "short": "HCL Bahna nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 17/2026 privind aprobarea schimbării categoriei de folosinta a unei suprafete de pasune in teren cu vegetatie forestiera",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/262443",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/262443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-18-2026",
+   "path": "local/neamt/bahna/2026/18",
+   "short": "HCL Bahna nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 18/2026 privind aprobarea bugetului local al comunei BAHNA pentru anul 2026",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/267219",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/267219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-19-2026",
+   "path": "local/neamt/bahna/2026/19",
+   "short": "HCL Bahna nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 19/2026 privind aprobarea taxei de închiriere și a Regulamentului privind modalitatea de închiriere a utilajelor aflate in patrimoniul Comunei BAHNA, județul NEAMȚ",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/267220",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/267220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-2-2026",
+   "path": "local/neamt/bahna/2026/2",
+   "short": "HCL Bahna nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 2/2026 privind aprobarea contului de incheiere a exercitiului bugetar pe trim.IV, anul 2025",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/249437",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/249437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-20-2026",
+   "path": "local/neamt/bahna/2026/20",
+   "short": "HCL Bahna nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 20/2026 privind aprobarea Regulamentului de organizare si funcționare al SERVICIULUI VOLUNTAR PENTRU SITUAȚII DE URGENȚĂ TIP V2 AL COMUNEI BAHNA",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/267221",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/267221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-21-2026",
+   "path": "local/neamt/bahna/2026/21",
+   "short": "HCL Bahna nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 21/2026",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/267222",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/267222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-22-2026",
+   "path": "local/neamt/bahna/2026/22",
+   "short": "HCL Bahna nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 22/2026 privind actualizarea NOMENCLATORULUI STRADAL AL COMUNEI BAHNA",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/267223",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/267223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-23-2026",
+   "path": "local/neamt/bahna/2026/23",
+   "short": "HCL Bahna nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 23/2026",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/267224",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/267224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-24-2026",
+   "path": "local/neamt/bahna/2026/24",
+   "short": "HCL Bahna nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 24/2026 privind aprobarea rectificării bugetului local al comunei BAHNA pentru anul 2026",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/269138",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/269138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-25-2026",
+   "path": "local/neamt/bahna/2026/25",
+   "short": "HCL Bahna nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 25/2026 privind aprobarea constituirii ca parte civilă a UAT COMUNA BAHNA și a Consiliul Local al COMUNEI BAHNA în Dosarul nr.1054/121/P/2025 al PARCHETULUI DE PE LÂNGĂ JUDECĂTORIA TÂRGU NEAMȚ",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/269139",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/269139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-27-2026",
+   "path": "local/neamt/bahna/2026/27",
+   "short": "HCL Bahna nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 27/2026 privind privind aprobarea rectificării bugetului local al comunei BAHNA și modificarea listei de investiții pentru anul 2026",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/272474",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/272474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-28-2026",
+   "path": "local/neamt/bahna/2026/28",
+   "short": "HCL Bahna nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 28/2026 privind majorarea tarifelor serviciilor de gestionare a câinilor fără stăpân",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/272475",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/272475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-29-2026",
+   "path": "local/neamt/bahna/2026/29",
+   "short": "HCL Bahna nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 29/2026 privind aprobarea execuţiei bugetului local al Comunei BAHNA pe trimestrul – I – 2026",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/274542",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/274542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-3-2026",
+   "path": "local/neamt/bahna/2026/3",
+   "short": "HCL Bahna nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 3/2026 privind aprobarea planului de acţiuni şi sau lucrări de interes local pentru persoanele majore apte de muncă beneficiare de ajutor de incluziune conform prevederilor Legii nr. 196/2016 privind venitul minim de incluziune pe anul 2026",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/249438",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/249438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-30-2026",
+   "path": "local/neamt/bahna/2026/30",
+   "short": "HCL Bahna nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 30/2026",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/274543",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/274543",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--bahna-31-2026",
    "path": "local/neamt/bahna/2026/31",
    "short": "HCL Bahna nr. 31/2026",
@@ -133,6 +448,21 @@
      "from": "2026-09-23",
      "units": 1,
      "source_url": "https://emol.ro/bahna-nt/registru-hcl/284895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-4-2026",
+   "path": "local/neamt/bahna/2026/4",
+   "short": "HCL Bahna nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 4/2026 privind constituirea unui drept de uz si servitute catre DELGAZ GRID SA a unei suprafete totale de 236 mp teren domeniu public al COMUNEI BAHNA, JUDETUL NEAMT",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/249439",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/249439",
      "sha256": null
     }
    ]
@@ -288,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--bahna-5-2026",
+   "path": "local/neamt/bahna/2026/5",
+   "short": "HCL Bahna nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 5/2026 privind modicarea organigramei şi statului de funcţii pentru PRIMĂRIA COMUNEI BAHNA, JUDEŢUL NEAMȚ",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/249440",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/249440",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--bahna-50-2026",
    "path": "local/neamt/bahna/2026/50",
    "short": "HCL Bahna nr. 50/2026",
@@ -298,6 +643,36 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/bahna-nt/registru-hcl/295706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-6-2026",
+   "path": "local/neamt/bahna/2026/6",
+   "short": "HCL Bahna nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 6/2026 privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav din comuna BAHNA în semestrul II al anului 2025",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/249441",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/249441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-7-2026",
+   "path": "local/neamt/bahna/2026/7",
+   "short": "HCL Bahna nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 7/2026 privind completarea organigramei şi statului de funcţii pentru PRIMĂRIA COMUNEI BAHNA, JUDEŢUL NEAMȚ",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/253131",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/253131",
      "sha256": null
     }
    ]

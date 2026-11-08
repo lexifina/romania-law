@@ -3,6 +3,156 @@
  "shard": "local/mehedinti/grozesti/2020",
  "acts": [
   {
+   "slug": "hcl-mehedinti--grozesti-10-2020",
+   "path": "local/mehedinti/grozesti/2020/10",
+   "short": "HCL Grozești nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 10/2020 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiție “EXTINDERE RETEA DE ILUMINAT PUBLIC, COMUNA GROZEȘTI, JUDETUL MEHEDINTI”",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4333",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-11-2020",
+   "path": "local/mehedinti/grozesti/2020/11",
+   "short": "HCL Grozești nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 11/2020 privind aprobarea numărului de posturi de asistenti personali ai persoanelor cu handicap",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4334",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-12-2020",
+   "path": "local/mehedinti/grozesti/2020/12",
+   "short": "HCL Grozești nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 12/2020 cu privire la aprobarea necesarului de 70 mc/an de masa lemnoasa, pentru perioada sezonului rece",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4335",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-14-2020",
+   "path": "local/mehedinti/grozesti/2020/14",
+   "short": "HCL Grozești nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 14/2020 privind aprobarea rectificarii bugetului local de venituri şi cheltuieli, al comunei Grozesti pe anul 2020",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4337",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-16-2020",
+   "path": "local/mehedinti/grozesti/2020/16",
+   "short": "HCL Grozești nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 16/2020 privind aprobarea măsurilor necesare pentru interzicerea abandonării, aruncării sau gestionării necontrolate a deşeurilor",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4339",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-18-2020",
+   "path": "local/mehedinti/grozesti/2020/18",
+   "short": "HCL Grozești nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 18/2020 privind aprobarea rectificarii bugetului local de venituri şi cheltuieli, al comunei Grozesti pe anul 2020",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4341",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-19-2020",
+   "path": "local/mehedinti/grozesti/2020/19",
+   "short": "HCL Grozești nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 19/2020 privind stabilirea regulilor minime de igiena si sanatate publica pentru populatie la nivelul Comunei Grozesti, judetul Mehedinti",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4342",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-2-2020",
+   "path": "local/mehedinti/grozesti/2020/2",
+   "short": "HCL Grozești nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 2/2020 privind acoperirea definitivă din excedentul bugetului local a deficitului secţiunii de dezvoltare, rezultat la încheierea exerciţiului bugetar aferent anului 2019",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4324",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-20-2020",
+   "path": "local/mehedinti/grozesti/2020/20",
+   "short": "HCL Grozești nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 20/2020 privind aprobarea efectuarii documentatiei tehnice in vederea obtinerii finantarii obiectivului de investitii ,, Eficientizarea si modernizarea Iluminatului public, Comuna Grozesti, judetul Mehedinti''",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4382",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-22-2020",
+   "path": "local/mehedinti/grozesti/2020/22",
+   "short": "HCL Grozești nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 22/2020 privind aprobarea trecerii unor terenuri din domeniul public al Comunei Grozesti in domeniul privat al Comunei Grozesti",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/43803",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/43803",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--grozesti-24-2020",
    "path": "local/mehedinti/grozesti/2020/24",
    "short": "HCL Grozești nr. 24/2020",
@@ -88,6 +238,21 @@
      "from": "2020-09-14",
      "units": 1,
      "source_url": "https://emol.ro/grozesti-mh/registru-hcl/43810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-3-2020",
+   "path": "local/mehedinti/grozesti/2020/3",
+   "short": "HCL Grozești nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 3/2020 privind organizarea retelei scolare a unitatilor de invatamant preuniversitar din raza de competenta a autoritatii administratiei publice locale Grozesti pentru anul scolar 2020-2021",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4326",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4326",
      "sha256": null
     }
    ]
@@ -243,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--grozesti-4-2020",
+   "path": "local/mehedinti/grozesti/2020/4",
+   "short": "HCL Grozești nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 4/2020 privind instituirea taxei de salubrizare si aprobarea Regulamentului privind implementarea, determinarea cuantumului, încasarea si administrarea taxei de salubrizare pentru utilizatorii serviciului de salubrizare pentru anul 2020 in comuna GROZESTI",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4327",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4327",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--grozesti-40-2020",
    "path": "local/mehedinti/grozesti/2020/40",
    "short": "HCL Grozești nr. 40/2020",
@@ -298,6 +478,81 @@
      "from": "2020-12-22",
      "units": 1,
      "source_url": "https://emol.ro/grozesti-mh/registru-hcl/43870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-5-2020",
+   "path": "local/mehedinti/grozesti/2020/5",
+   "short": "HCL Grozești nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 5/2020 privind stabilirea consumului lunar de carburanti pentru autoturismele si utilajele care deservesc Primaria Grozesti, judetul Mehedinti",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4328",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-6-2020",
+   "path": "local/mehedinti/grozesti/2020/6",
+   "short": "HCL Grozești nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 6/2020 privind aprobarea Planului de actiuni si lucrari de interes local pentru repartizarea orelor de munca, care vor fi executate de persoanele beneficiare de ajutor social, conform Legii 416/2001, privind venitul minim garantat",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4329",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-7-2020",
+   "path": "local/mehedinti/grozesti/2020/7",
+   "short": "HCL Grozești nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 7/2020 cu privire la aprobarea modului de intocmire a registrului agricol, pentru perioada 2020-2024",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4330",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-8-2020",
+   "path": "local/mehedinti/grozesti/2020/8",
+   "short": "HCL Grozești nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 8/2020 privind înfiinţarea Serviciului Voluntar pentru Situaţii de Urgenţă",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4331",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-9-2020",
+   "path": "local/mehedinti/grozesti/2020/9",
+   "short": "HCL Grozești nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 9/2020 privind aprobarea bugetului local de venituri și cheltuieli, al comunei Grozesti pe anul 2020",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4332",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4332",
      "sha256": null
     }
    ]

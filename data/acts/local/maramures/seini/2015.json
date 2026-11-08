@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/maramures/seini/2015",
+"acts": [
+{
+"slug": "hcl-maramures--seini-4-2015",
+"path": "local/maramures/seini/2015/4",
+"kind": "local",
+"year": "2015",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 4/2015",
+"short": "HCL Seini nr. 4/2015",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2015-01-29",
+"latest": "2015-01-29",
+"portal": null,
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+}
+]
+}

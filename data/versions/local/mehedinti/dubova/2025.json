@@ -3,6 +3,471 @@
  "shard": "local/mehedinti/dubova/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--dubova-1-2025",
+   "path": "local/mehedinti/dubova/2025/1",
+   "short": "HCL Dubova nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 1/2025 privind aprobarea utilizarii excedentului bugetului local al comunei Dubova rezultat la incheierea exercitiului bugetar al anului 2024",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/186334",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/186334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-10-2025",
+   "path": "local/mehedinti/dubova/2025/10",
+   "short": "HCL Dubova nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 10/2025 privind aprobarea Planului anual, pe anul 2025, de acţiuni şi lucrări de interes local efectuate în folosul comunității de beneficiarii Legii nr. 196/2016",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/197376",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/197376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-12-2025",
+   "path": "local/mehedinti/dubova/2025/12",
+   "short": "HCL Dubova nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 12/2025 privind aprobarea participării comunei Dubova, județul Mehedinți, la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană, program finanțat din Fondul pentru mediu",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/201664",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/201664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-13-2025",
+   "path": "local/mehedinti/dubova/2025/13",
+   "short": "HCL Dubova nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 13/2025 privind aprobarea Planului pentru asigurarea resurselor umane, materiale şi financiare destinate prevenirii şi gestionării situaţiilor de urgenţă pe anul 2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/205342",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/205342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-14-2025",
+   "path": "local/mehedinti/dubova/2025/14",
+   "short": "HCL Dubova nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 14/2025 privind actualizarea Planului de analiză și acoperire a riscurilor (PAAR) 2025, al Comunei Dubova",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/205343",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/205343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-15-2025",
+   "path": "local/mehedinti/dubova/2025/15",
+   "short": "HCL Dubova nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 15/2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/205344",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/205344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-17-2025",
+   "path": "local/mehedinti/dubova/2025/17",
+   "short": "HCL Dubova nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 17/2025 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/205346",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/205346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-18-2025",
+   "path": "local/mehedinti/dubova/2025/18",
+   "short": "HCL Dubova nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 18/2025 privind alegerea președintelui de ședință pentru următoarele 3 luni pentru şedinţele Consiliului local al Comunei Dubova",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/210163",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/210163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-19-2025",
+   "path": "local/mehedinti/dubova/2025/19",
+   "short": "HCL Dubova nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 19/2025 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/210164",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/210164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-2-2025",
+   "path": "local/mehedinti/dubova/2025/2",
+   "short": "HCL Dubova nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 2/2025 privind aprobarea prelungirii valabilității Planului Urbanistic General și Regulamentului Local de Urbanism al Comunei Dubova",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/194292",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/194292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-20-2025",
+   "path": "local/mehedinti/dubova/2025/20",
+   "short": "HCL Dubova nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 20/2025 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, pentru anul 2026",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/210165",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/210165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-21-2025",
+   "path": "local/mehedinti/dubova/2025/21",
+   "short": "HCL Dubova nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 21/2025 privind aprobarea contului de încheiere a exercițiului bugetar la 31 decembrie 2024",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/210166",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/210166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-23-2025",
+   "path": "local/mehedinti/dubova/2025/23",
+   "short": "HCL Dubova nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 23/2025 privind revocarea Hotărârii Consiliului Local Dubova nr. 45/26.07.2024 privind aprobarea apartenentei la domeniul public al Comunei Dubova, judetul Mehedinti, a unui teren si constructie, declararea ca bun imobil de uz/interes/utilitate publica locala",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/210168",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/210168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-24-2025",
+   "path": "local/mehedinti/dubova/2025/24",
+   "short": "HCL Dubova nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 24/2025 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/213558",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/213558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-25-2025",
+   "path": "local/mehedinti/dubova/2025/25",
+   "short": "HCL Dubova nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 25/2025 privind aprobarea Organigramei și Statului de funcții ale aparatului de specialitate al primarului",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/213559",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/213559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-26-2025",
+   "path": "local/mehedinti/dubova/2025/26",
+   "short": "HCL Dubova nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 26/2025 privind aprobarea Planului de măsuri pentru prevenirea și atenuarea efectelor temperaturilor ridicate asupra populației la nivelul comunei Dubova în anul 2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/213560",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/213560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-27-2025",
+   "path": "local/mehedinti/dubova/2025/27",
+   "short": "HCL Dubova nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 27/2025 privind aprobarea planului de apărare împotriva inundațiilor, fenomenelor hidrometeorologice periculoase având ca efect producerea de inundații, secetă hidrologică, incidente/accidente la construcții hidrotehnice, poluări accidentale pe cursurile de apă al comitetului local pentru situații de urgența Dubova 2026-2029",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/213561",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/213561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-28-2025",
+   "path": "local/mehedinti/dubova/2025/28",
+   "short": "HCL Dubova nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 28/2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/213562",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/213562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-30-2025",
+   "path": "local/mehedinti/dubova/2025/30",
+   "short": "HCL Dubova nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 30/2025 privind aprobarea actului adițional nr. 3 la acordul de parteneriat nr. 34729/09.12.2022 încheiat între Unitatea Administrativ-Teritorială Județul Dolj, în calitate de lider de parteneriat, Unitatea Administrativ-Teritorială Județul Mehedinți, Unitatea Administrativ-Teritorială Județul Olt și unitățile administrativ-teritoriale din județele Dolj, Olt și Mehedinți, în vederea implementării proiectului ”Traseu Eurovelo 6 Mehedinți – Dolj – Olt” în cadrul apelului de proiecte PNRR/2022/C11/I.4, Componenta 11-Turism și cultură",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/216084",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/216084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-32-2025",
+   "path": "local/mehedinti/dubova/2025/32",
+   "short": "HCL Dubova nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 32/2025 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/221137",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/221137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-33-2025",
+   "path": "local/mehedinti/dubova/2025/33",
+   "short": "HCL Dubova nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 33/2025 privind aprobarea aderarii UAT Dubova, Judetul Mehedinți, prin Consiliul Local al comunei Dubova la parteneriatul GAL pentru acvacultură și pescuit ”Lacul de acumulare Porțile de Fier” în vederea depunerii sprijinului pregătitor și a implementării strategiei de dezvoltare locală prin accesarea programului pentru acvacultură și pescuit 2021 – 2027 – initiat primar; - copie",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/221714",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/221714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-34-2025",
+   "path": "local/mehedinti/dubova/2025/34",
+   "short": "HCL Dubova nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 34/2025 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/223153",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/223153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-35-2025",
+   "path": "local/mehedinti/dubova/2025/35",
+   "short": "HCL Dubova nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 35/2025 privind alegerea președintelui de ședință pentru următoarele 3 luni pentru şedinţele Consiliului local al Comunei Dubova",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/226335",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/226335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-36-2025",
+   "path": "local/mehedinti/dubova/2025/36",
+   "short": "HCL Dubova nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 36/2025 privind aprobarea Organigramei și Statului de funcții ale aparatului de specialitate al primarului",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/226336",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/226336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-37-2025",
+   "path": "local/mehedinti/dubova/2025/37",
+   "short": "HCL Dubova nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 37/2025 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/226337",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/226337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-39-2025",
+   "path": "local/mehedinti/dubova/2025/39",
+   "short": "HCL Dubova nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 39/2025 privind aprobarea achiziționării si montării unor cămine de apă, amenajarea și împrejmuirea terenului",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/226339",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/226339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-4-2025",
+   "path": "local/mehedinti/dubova/2025/4",
+   "short": "HCL Dubova nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 4/2025 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat acreditate pentru anul şcolar 2025/2026",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/194294",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/194294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-40-2025",
+   "path": "local/mehedinti/dubova/2025/40",
+   "short": "HCL Dubova nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 40/2025 privind aprobarea achiziționării unui serviciu de montare lămpi și remediere iluminat public în satul Eibenthal și Dubova",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/226340",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/226340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-41-2025",
+   "path": "local/mehedinti/dubova/2025/41",
+   "short": "HCL Dubova nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 41/2025 privind participarea UAT Comuna DUBOVA la Programul Regional Sud Vest Oltenia - \"INVESTIȚII ÎN CLĂDIRILE PUBLICE ÎN VEDEREA CREȘTERII EFICIENȚEI ENERGETICE ȘI MĂSURI PENTRU UTILIZAREA UNOR SURSE REGENERABILE DE ENERGIE – APELUL 2 DE PROIECTE “",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/226341",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/226341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-42-2025",
+   "path": "local/mehedinti/dubova/2025/42",
+   "short": "HCL Dubova nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 42/2025 privind aprobarea încheierii unui contract de deszăpezire pentru sezonul de iarnă 2025-2026",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/229765",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/229765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-43-2025",
+   "path": "local/mehedinti/dubova/2025/43",
+   "short": "HCL Dubova nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 43/2025 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/229766",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/229766",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--dubova-44-2025",
    "path": "local/mehedinti/dubova/2025/44",
    "short": "HCL Dubova nr. 44/2025",
@@ -88,6 +553,21 @@
      "from": "2026-01-21",
      "units": 1,
      "source_url": "https://emol.ro/dubova-mh/registru-hcl/236281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-5-2025",
+   "path": "local/mehedinti/dubova/2025/5",
+   "short": "HCL Dubova nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 5/2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/194295",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/194295",
      "sha256": null
     }
    ]
@@ -243,6 +723,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--dubova-6-2025",
+   "path": "local/mehedinti/dubova/2025/6",
+   "short": "HCL Dubova nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 6/2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/194296",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/194296",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--dubova-60-2025",
    "path": "local/mehedinti/dubova/2025/60",
    "short": "HCL Dubova nr. 60/2025",
@@ -298,6 +793,36 @@
      "from": "2026-01-21",
      "units": 1,
      "source_url": "https://emol.ro/dubova-mh/registru-hcl/242789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-7-2025",
+   "path": "local/mehedinti/dubova/2025/7",
+   "short": "HCL Dubova nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 7/2025 privind alegerea președintelui de ședință pentru următoarele 3 luni pentru şedinţele Consiliului local al Comunei Dubova",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/197373",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/197373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-8-2025",
+   "path": "local/mehedinti/dubova/2025/8",
+   "short": "HCL Dubova nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 8/2025 privind aprobarea bugetului local de venituri și cheltuieli inițial pe anul 2025 al comunei Dubova, județul Mehedinți",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/197374",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/197374",
      "sha256": null
     }
    ]

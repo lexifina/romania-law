@@ -3,6 +3,66 @@
  "shard": "local/mures/alunis/2026",
  "acts": [
   {
+   "slug": "hcl-mures--alunis-10-2026",
+   "path": "local/mures/alunis/2026/10",
+   "short": "HCL Aluniș nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 10/2026 privind aprobarea studiului de fezabilitate actualizat, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Înființare rețea de canalizare menajeră în localitățile Fițcău, Aluniș și Lunca Mureșului, comuna Aluniș, jud. Mureș”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/alunis-ms/registru-hcl/287180",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/alunis-ms/registru-hcl/287180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--alunis-11-2026",
+   "path": "local/mures/alunis/2026/11",
+   "short": "HCL Aluniș nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 11/2026 privind aprobarea bugetului de venituri și cheltuieli, întocmit de către Ocolul Silvic Vătava pe anul 2026",
+   "url": "https://emol.ro/alunis-ms/registru-hcl/287182",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/alunis-ms/registru-hcl/287182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--alunis-15-2026",
+   "path": "local/mures/alunis/2026/15",
+   "short": "HCL Aluniș nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 15/2026 privind aprobarea indicatorilor tehnico-economici și devizul de lucrări, pentru obiectivul de investiții: Lucrări de pietruire a drumurilor de exploatare nr.3555 și nr.3609",
+   "url": "https://emol.ro/alunis-ms/registru-hcl/287186",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/alunis-ms/registru-hcl/287186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--alunis-16-2026",
+   "path": "local/mures/alunis/2026/16",
+   "short": "HCL Aluniș nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 16/2026",
+   "url": "https://emol.ro/alunis-ms/registru-hcl/287187",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/alunis-ms/registru-hcl/287187",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--alunis-19-2026",
    "path": "local/mures/alunis/2026/19",
    "short": "HCL Aluniș nr. 19/2026",
@@ -13,6 +73,21 @@
      "from": "2026-09-11",
      "units": 1,
      "source_url": "https://emol.ro/alunis-ms/registru-hcl/287190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--alunis-2-2026",
+   "path": "local/mures/alunis/2026/2",
+   "short": "HCL Aluniș nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 2/2026 privind stabilirea cantității de material lemnos care va fi exploatat în anul 2026",
+   "url": "https://emol.ro/alunis-ms/registru-hcl/287172",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/alunis-ms/registru-hcl/287172",
      "sha256": null
     }
    ]
@@ -168,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--alunis-3-2026",
+   "path": "local/mures/alunis/2026/3",
+   "short": "HCL Aluniș nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 3/2026 privind aprobarea PLANULUI DE ANALIZĂ ȘI ACOPERIRE A RISCURILOR al comunei Aluniș, județul Mureș",
+   "url": "https://emol.ro/alunis-ms/registru-hcl/287173",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/alunis-ms/registru-hcl/287173",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--alunis-30-2026",
    "path": "local/mures/alunis/2026/30",
    "short": "HCL Aluniș nr. 30/2026",
@@ -298,6 +388,66 @@
      "from": "2026-09-11",
      "units": 1,
      "source_url": "https://emol.ro/alunis-ms/registru-hcl/287218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--alunis-4-2026",
+   "path": "local/mures/alunis/2026/4",
+   "short": "HCL Aluniș nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 4/2026 privind indexarea impozitelor și taxelor locale pentru anul 2027",
+   "url": "https://emol.ro/alunis-ms/registru-hcl/287174",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/alunis-ms/registru-hcl/287174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--alunis-5-2026",
+   "path": "local/mures/alunis/2026/5",
+   "short": "HCL Aluniș nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 5/2026 privind inițierea procedurii de actualizare a Amenajamentului pastoral aferent pășunilor proprietatea comunei Aluniș, județul Mureș",
+   "url": "https://emol.ro/alunis-ms/registru-hcl/287175",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/alunis-ms/registru-hcl/287175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--alunis-6-2026",
+   "path": "local/mures/alunis/2026/6",
+   "short": "HCL Aluniș nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 6/2026 privind renunțare la investiția: “Achiziționare și amplasare stații de reîncărcare pentru vehicule electrice în Comuna Aluniș, județul Mureș”",
+   "url": "https://emol.ro/alunis-ms/registru-hcl/287176",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/alunis-ms/registru-hcl/287176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--alunis-7-2026",
+   "path": "local/mures/alunis/2026/7",
+   "short": "HCL Aluniș nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 7/2026 privind aprobarea intrării COMUNEI VĂTAVA în calitate de membru asociat nou în cadrul ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ ZONA REGHIN",
+   "url": "https://emol.ro/alunis-ms/registru-hcl/287177",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/alunis-ms/registru-hcl/287177",
      "sha256": null
     }
    ]

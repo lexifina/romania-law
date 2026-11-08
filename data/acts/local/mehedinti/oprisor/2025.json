@@ -3,6 +3,116 @@
 "shard": "local/mehedinti/oprisor/2025",
 "acts": [
 {
+"slug": "hcl-mehedinti--oprisor-4-2025",
+"path": "local/mehedinti/oprisor/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 4/2025 privind modificarea Hotărârii Consiliului Local al Comunei Oprișor nr. 35/20.11.2023 referitoare la aprobarea proiectului „Înființare capacitate de producere a energiei electrice produsa din surse regenerabile pentru autoconsumul în cadrul UAT Oprișor, județul Mehedinți”",
+"short": "HCL Oprișor nr. 4/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/oprisor-mh/registru-hcl/253516",
+"council": "mehedinti/oprisor",
+"council_name": "Consiliul Local al Comunei Oprișor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--oprisor-5-2025",
+"path": "local/mehedinti/oprisor/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 5/2025 privind aprobarea bugetului local de venituri și cheltuieli al comunei Oprișor pentru anul 2025",
+"short": "HCL Oprișor nr. 5/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/oprisor-mh/registru-hcl/253519",
+"council": "mehedinti/oprisor",
+"council_name": "Consiliul Local al Comunei Oprișor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--oprisor-6-2025",
+"path": "local/mehedinti/oprisor/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 6/2025 privind aprobarea închirierii utilajelor-buldoexcavator și tractor, aflate în proprietatea privată a comunei Oprișor, județul Mehedinți, a Regulamentului privind modalitatea de închiriere a acestora și modificarea de taxe locale din anexa 3 aprobata prin HCL 25/17.12.2024",
+"short": "HCL Oprișor nr. 6/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/oprisor-mh/registru-hcl/253522",
+"council": "mehedinti/oprisor",
+"council_name": "Consiliul Local al Comunei Oprișor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--oprisor-8-2025",
+"path": "local/mehedinti/oprisor/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 8/2025 privind validarea Dispoziției primarului comunei Oprișor cu nr. 32/28.04.2025 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2025, trimestrul II al comunei Oprișor, județul Mehedinți",
+"short": "HCL Oprișor nr. 8/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/oprisor-mh/registru-hcl/253524",
+"council": "mehedinti/oprisor",
+"council_name": "Consiliul Local al Comunei Oprișor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--oprisor-11-2025",
+"path": "local/mehedinti/oprisor/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 11/2025 privind aprobarea Regulamentului pentru eliberarea Autorizațiilor/Acordurilor de funcționare cât și avizarea Programului de funcționare pentru Agenții economici de pe raza Comunei Oprișor, județul Mehedinți",
+"short": "HCL Oprișor nr. 11/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/oprisor-mh/registru-hcl/253531",
+"council": "mehedinti/oprisor",
+"council_name": "Consiliul Local al Comunei Oprișor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-mehedinti--oprisor-13-2025",
 "path": "local/mehedinti/oprisor/2025/13",
 "kind": "local",

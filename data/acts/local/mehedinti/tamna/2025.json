@@ -3,6 +3,50 @@
 "shard": "local/mehedinti/tamna/2025",
 "acts": [
 {
+"slug": "hcl-mehedinti--tamna-1-2025",
+"path": "local/mehedinti/tamna/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 1/2025 privind reorganizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat acreditate pentru anul şcolar -2025-2026",
+"short": "HCL Tâmna nr. 1/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/190084",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-2-2025",
+"path": "local/mehedinti/tamna/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 2/2025 privind aprobarea planului de acţiuni şi lucrări de interes local ce vor fi efectuate în anul 2025",
+"short": "HCL Tâmna nr. 2/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/190085",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-mehedinti--tamna-46-2025",
 "path": "local/mehedinti/tamna/2025/46",
 "kind": "local",

@@ -3,6 +3,576 @@
  "shard": "local/mures/albesti/2025",
  "acts": [
   {
+   "slug": "hcl-mures--albesti-10-2025",
+   "path": "local/mures/albesti/2025/10",
+   "short": "HCL Albești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 10/2025 privind aprobarea modului de întocmire și ținere la zi a Registrului agricol pentru perioada 2025 – 2029 în Comuna Albești",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/196953",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/196953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-11-2025",
+   "path": "local/mures/albesti/2025/11",
+   "short": "HCL Albești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 11/2025 privind avizarea Documentației de delegare temporară - până la finalizarea procedurii de atribuire prin licitație deschisă, a gestiunii activităților de tratare mecano-biologică a deșeurilor reziduale, inclusiv transportul deșeurilor stabilizate biologic și al deșeurilor reziduale care nu mai pot fi valorificate la DDN Sânpaul și al deșeurilor reziduale valorificabile energetic la instalațiile de valorificare energetică, prin exploatarea Stației de Tratare Mecanică și Biologică Sânpaul din județul Mureș",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/196954",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/196954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-14-2025",
+   "path": "local/mures/albesti/2025/14",
+   "short": "HCL Albești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 14/2025 privind aprobarea Planului local de măsuri privind incluziunea cetățenilor români aparținând minorității rome pentru anul 2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/196957",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/196957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-15-2025",
+   "path": "local/mures/albesti/2025/15",
+   "short": "HCL Albești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 15/2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/196958",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/196958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-17-2025",
+   "path": "local/mures/albesti/2025/17",
+   "short": "HCL Albești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 17/2025 privind aprobarea participării UAT –Comuna Albești la Programul național multianual privind finanţarea elaborării şi/sau actualizării planurilor urbanistice generale ale localităţilor şi a regulamentelor locale de urbanism",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/196960",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/196960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-19-2025",
+   "path": "local/mures/albesti/2025/19",
+   "short": "HCL Albești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 19/2025 pentru abrogarea pct.I.1 din Anexa Nr.6 la Hotărârea Consiliului Local Albești Nr.61 din 12.12.2024 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/198024",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/198024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-2-2025",
+   "path": "local/mures/albesti/2025/2",
+   "short": "HCL Albești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 2/2025 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Albești pe o perioadă de trei luni",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/191304",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/191304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-20-2025",
+   "path": "local/mures/albesti/2025/20",
+   "short": "HCL Albești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 20/2025 privind aprobarea neasumării responsabilității organizării și derulării la nivel local a procedurilor de atribuire a contractelor /acordurilor-cadru pentru achiziția produselor și a contractelor/ acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru școli al României, pentru anii școlari 2025-2026 și 2026-2027",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/198025",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/198025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-21-2025",
+   "path": "local/mures/albesti/2025/21",
+   "short": "HCL Albești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 21/2025 privind aprobarea participării UAT –Comuna Albești la Programul multianual privind acordarea de sprijin în vederea achiziționării de aparate pentru încalzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/198026",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/198026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-22-2025",
+   "path": "local/mures/albesti/2025/22",
+   "short": "HCL Albești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 22/2025 privind aprobarea bugetului local al comunei Albești pe anul 2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/199249",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/199249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-23-2025",
+   "path": "local/mures/albesti/2025/23",
+   "short": "HCL Albești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 23/2025 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Albești pe o perioadă de trei luni",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/202796",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/202796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-24-2025",
+   "path": "local/mures/albesti/2025/24",
+   "short": "HCL Albești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 24/2025 privind aprobarea rezultatului inventarierii patrimoniului Comunei Albesti pentru anul 2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/202797",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/202797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-25-2025",
+   "path": "local/mures/albesti/2025/25",
+   "short": "HCL Albești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 25/2025 privind avizarea actului adițional nr.2 la Contractul nr.1491/07.03.2024 privind delegarea gestiunii activităților de sortare a deșeurilor reciclabile, compostare a biodeșeurilor și transfer a deșeurilor prin exploatarea Stației de Sortare, Compostare și Transfer Cristești din județul Mureș",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/202798",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/202798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-27-2025",
+   "path": "local/mures/albesti/2025/27",
+   "short": "HCL Albești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 27/2025 pentru aprobarea acordului de parteneriat privind implementarea programului ”Renovare, extindere și echipare cu calculatoare și echipamente tehnice a bibliotecilor ce vor fi transformate în hub-uri de dezvoltare a competențelor digitale” prin lider de proiect Biblioteca Județeană Mureș",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/209638",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/209638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-28-2025",
+   "path": "local/mures/albesti/2025/28",
+   "short": "HCL Albești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 28/2025 privind aprobarea Programelor de Acțiune Comunitară (PAC) pentru prevenirea și combaterea riscului de sărăcie și excluziune socială pentru anul 2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/209639",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/209639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-29-2025",
+   "path": "local/mures/albesti/2025/29",
+   "short": "HCL Albești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 29/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente şi de calitate”",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/209640",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/209640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-30-2025",
+   "path": "local/mures/albesti/2025/30",
+   "short": "HCL Albești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 30/2025 privind mandatul dat reprezentantului autorităţii de a vota în Adunarea Generală a A.D.I „AQUA INVEST MUREŞ ” aprobarea Studiului de fezabilitate/documentația tehnico-economică și indicatorii tehnico economici pentru “Proiectul regional de dezvoltare a infrastructurii de apă potabilă și apă uzată din județul Mureș”",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/211231",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/211231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-31-2025",
+   "path": "local/mures/albesti/2025/31",
+   "short": "HCL Albești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 31/2025 privind aprobarea Strategiei de tarifare conform rezultatelor Analizei Cost-Beneficiu pentru “PROIECTUL REGIONAL DE DEZVOLTARE A INFRASTRUCTURII DE APĂ ȘI APĂ UZATĂ DIN JUDEȚUL MUREȘ”",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/211232",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/211232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-32-2025",
+   "path": "local/mures/albesti/2025/32",
+   "short": "HCL Albești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 32/2025 privind aprobarea PUZ( Plan Urbanistic Zonal) si Regulamentul aferent pentru „ RECONVERSIE FUNCTIONALA DIN ZONA MIXTA (ISP SI UID) IN ZONA DE LOCUINTE SI FUNCTIUNI COMPLEMENTARE (LFC) ”",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/211233",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/211233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-33-2025",
+   "path": "local/mures/albesti/2025/33",
+   "short": "HCL Albești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 33/2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/211234",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/211234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-34-2025",
+   "path": "local/mures/albesti/2025/34",
+   "short": "HCL Albești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 34/2025 privind acordarea unui mandat special Asociației de Dezvoltare Intercomunitară „ AQUA INVEST MUREŞ” în vederea exercitării atribuțiilor de autoritate publică tutelară a societății Compania Aquaserv S.A Tg. Mureș",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/213739",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/213739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-35-2025",
+   "path": "local/mures/albesti/2025/35",
+   "short": "HCL Albești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 35/2025 privind aprobarea aderării unei unităţi administrativ teritoriale la Asociaţia de Dezvoltare Intercomunitară „AQUA INVEST MUREŞ”",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/213740",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/213740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-36-2025",
+   "path": "local/mures/albesti/2025/36",
+   "short": "HCL Albești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 36/2025 pentru însușirea documentației cadastrale în vederea primei înregistrări a imobilului teren în suprafață de 304 mp având categoria de folosință Drum, identificat în CF nr.2418 Albești, și înscrierea în Cartea funciară a dreptului de proprietate publică în favoarea comunei Albești",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/213741",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/213741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-37-2025",
+   "path": "local/mures/albesti/2025/37",
+   "short": "HCL Albești nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 37/2025 pentru însușirea documentației cadastrale în vederea primei înregistrări a imobilului teren în suprafață de 533 mp având categoria de folosință Drum, identificat în CF nr.2418 Albești, și înscrierea în Cartea funciară a dreptului de proprietate publică în favoarea comunei Albești",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/213742",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/213742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-38-2025",
+   "path": "local/mures/albesti/2025/38",
+   "short": "HCL Albești nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 38/2025 privind modificarea și completarea Regulamentului organizarea şi executarea serviciului de transport în regim de taxi în comuna Albești, județul Mureș aprobat prin HCL nr.16/2020",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/213743",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/213743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-39-2025",
+   "path": "local/mures/albesti/2025/39",
+   "short": "HCL Albești nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 39/2025 privind actualizarea Anexelor nr. 1 și nr. 2 la HCL nr. 34 din 20.07.2023 pentru obiectivul de investiții „Reabilitare și modernizare străzi interioare în localitățile Țopa, Boiu și Drum Comunal DC51, comuna Albești, județul Mureș\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny” precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/213744",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/213744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-4-2025",
+   "path": "local/mures/albesti/2025/4",
+   "short": "HCL Albești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 4/2025 privind planul de acțiuni și lucrări de interes local, munca în folosul comunității pentru anul 2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/191306",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/191306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-40-2025",
+   "path": "local/mures/albesti/2025/40",
+   "short": "HCL Albești nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 40/2025 privind aprobarea aderării unei unităţi administrativ teritoriale la Asociaţia de Dezvoltare Intercomunitară „AQUA INVEST MUREŞ”",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/216665",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/216665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-41-2025",
+   "path": "local/mures/albesti/2025/41",
+   "short": "HCL Albești nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 41/2025 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Albești pe o perioadă de trei luni",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/216666",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/216666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-42-2025",
+   "path": "local/mures/albesti/2025/42",
+   "short": "HCL Albești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 42/2025 pentru însușirea documentației cadastrale în vederea primei înregistrări a imobilului teren în suprafață de 1682 mp având categoria de folosință Drum, identificat în T:34; NR.PARC: 1415/38 Albești, și înscrierea în Cartea funciară a dreptului de proprietate publică în favoarea comunei Albești",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/216667",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/216667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-43-2025",
+   "path": "local/mures/albesti/2025/43",
+   "short": "HCL Albești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 43/2025 pentru însușirea documentației cadastrale în vederea primei înregistrări a imobilului teren în suprafață de 2350 mp având categoria de folosință Drum, identificat în T:34; NR.PARC: 1410/50 Albești, și înscrierea în Cartea funciară a dreptului de proprietate publică în favoarea comunei Albești",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/216668",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/216668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-44-2025",
+   "path": "local/mures/albesti/2025/44",
+   "short": "HCL Albești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 44/2025 privind avizarea încheierii unui act adiţional la contractul nr. 569/18.02.2019 de delegare a gestiunii activităţilor de colectare şi transport a deşeurilor municipale şi a altor fluxuri de deșeuri componente ale serviciului de salubrizare al Județului Mureș – zona 3 Sighișoara",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/220677",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/220677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-46-2025",
+   "path": "local/mures/albesti/2025/46",
+   "short": "HCL Albești nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 46/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale prevăzut la art.3 alin.(2) din Legea nr.100/2024 din 16 aprilie 2024 pentru modificarea și completarea unor acte normative în domeniul asistenței sociale, precum și pentru completarea Legii nr. 78/2014 privind reglementarea activității de voluntariat în România și pentru modificarea Legii nr.272/2004 privind protecția și promovarea drepturilor copilului, în vederea depunerii documentației de acreditare a Primăriei ca și furnizor de servicii sociale",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/221092",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/221092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-47-2025",
+   "path": "local/mures/albesti/2025/47",
+   "short": "HCL Albești nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 47/2025 privind transformarea unei funcţii publice de execuţie vacante din aparatul de specialitate al Primarului comunei Albeşti, judeţul Mureş",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/224129",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/224129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-48-2025",
+   "path": "local/mures/albesti/2025/48",
+   "short": "HCL Albești nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 48/2025 privind avizarea ajustării tarifelor pentru activitățile de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat, componente ale Serviciului de Salubrizare al Județului Mureș, Zona 6 – Bălăușeri inclusiv transferul deșeurilor reciclabile din Stația de transfer zonală către SSCT Cristești, contract nr. 3697/14.08.2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/225598",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/225598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-49-2025",
+   "path": "local/mures/albesti/2025/49",
+   "short": "HCL Albești nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 49/2025 privind avizarea încheierii unui act adițional pentru modificarea contractului nr.3697/14.08.2024 de delegare a gestiunii activității de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat, componente ale Serviciului de Salubrizare al Județului Mureș, Zona 6 – Bălăușeri inclusiv transferul deșeurilor reciclabile din Stația de transfer zonală către SSCT Cristești",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/225599",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/225599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-50-2025",
+   "path": "local/mures/albesti/2025/50",
+   "short": "HCL Albești nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 50/2025 privind aprobarea constituirii Consiliului Comunitar Consultativ la nivelul Comunei Albești pentru perioada 2025-2027 și al Regulamentului de organizare si funcţionare al Consiliului Comunitar Consultativ",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/225600",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/225600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-51-2025",
+   "path": "local/mures/albesti/2025/51",
+   "short": "HCL Albești nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 51/2025 privind actualizarea Anexelor nr. 1 și nr. 2 la HCL nr. 39 din 23.06.2025 pentru obiectivul de investiții „Reabilitare și modernizare străzi interioare în localitățile Țopa, Boiu și Drum Comunal DC51, comuna Albești, județul Mureș\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny” precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/225601",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/225601",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-53-2025",
    "path": "local/mures/albesti/2025/53",
    "short": "HCL Albești nr. 53/2025",
@@ -298,6 +868,36 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/244871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-8-2025",
+   "path": "local/mures/albesti/2025/8",
+   "short": "HCL Albești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 8/2025 privind aprobarea modificării tarifelor de colectare și transport a deșeurilor municipale și a altor fluxuri de deșeuri aferente zonei 3 Sighișoara, și a încheierii unui act adiţional la contractul nr. 569/18.02.2019",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/191310",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/191310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-9-2025",
+   "path": "local/mures/albesti/2025/9",
+   "short": "HCL Albești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 9/2025 privind aprobarea inițiereii procedurii de concesionare/închiriere a pajiștilor permanente pentru anul 2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/196952",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/196952",
      "sha256": null
     }
    ]

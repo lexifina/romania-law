@@ -3,6 +3,66 @@
  "shard": "local/mehedinti/balvanesti/2024",
  "acts": [
   {
+   "slug": "hcl-mehedinti--balvanesti-10-2024",
+   "path": "local/mehedinti/balvanesti/2024/10",
+   "short": "HCL Bâlvănești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 10/2024 privind aprobarea actualizării Devizului general pentru obiectivul “ MODERNIZARE INFRASTRUCTURA DRUMURI COMUNALE IN COMUNA BALVANESTI, JUDETUL MEHEDINTI ”",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/155050",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/155050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-11-2024",
+   "path": "local/mehedinti/balvanesti/2024/11",
+   "short": "HCL Bâlvănești nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 11/2024 privind alegerea președintelui de ședință a Consiliul Local Balvanesti,judetul Mehedinti pentru perioada MAI 2024- IULIE 2024",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/155051",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/155051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-13-2024",
+   "path": "local/mehedinti/balvanesti/2024/13",
+   "short": "HCL Bâlvănești nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 13/2024 privind aprobarea contului de executie al bugetului local si al bugetului de venituri proprii la data de 31 decembrie 2023",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/158161",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/158161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-14-2024",
+   "path": "local/mehedinti/balvanesti/2024/14",
+   "short": "HCL Bâlvănești nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 14/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/158162",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/158162",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--balvanesti-15-2024",
    "path": "local/mehedinti/balvanesti/2024/15",
    "short": "HCL Bâlvănești nr. 15/2024",
@@ -298,6 +358,66 @@
      "from": "2024-12-19",
      "units": 1,
      "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/183792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-6-2024",
+   "path": "local/mehedinti/balvanesti/2024/6",
+   "short": "HCL Bâlvănești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 6/2024 privind aprobarea bugetului local si a bugetului de venituri proprii pe anul 2024",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/150691",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/150691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-7-2024",
+   "path": "local/mehedinti/balvanesti/2024/7",
+   "short": "HCL Bâlvănești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 7/2024 privind privind dezmembrarea în 2 loturi a Cărții Funciare nr. 50570 aparținând comunei Balvanesti;",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/150697",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/150697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-8-2024",
+   "path": "local/mehedinti/balvanesti/2024/8",
+   "short": "HCL Bâlvănești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 8/2024 privind aprobarea asocierii UAT Balvanesti cu UAT Judetul Mehedinti si a indicatorilor tehnico economici pentru obiectivul de investitii „Construire teren de sport in comuna Balvanesti, judetul Mehedinti”",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/150698",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/150698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-9-2024",
+   "path": "local/mehedinti/balvanesti/2024/9",
+   "short": "HCL Bâlvănești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 9/2024 privind indexarea si stabilirea impozitelor,taxelor locale, alte taxe , taxe speciale si amenzile aplicabile in anul 2025, in comuna Balvanesti;",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/155049",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/155049",
      "sha256": null
     }
    ]

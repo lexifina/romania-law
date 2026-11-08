@@ -3,6 +3,426 @@
  "shard": "local/mehedinti/devesel/2023",
  "acts": [
   {
+   "slug": "hcl-mehedinti--devesel-1-2023",
+   "path": "local/mehedinti/devesel/2023/1",
+   "short": "HCL Devesel nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 1/2023 1. Proiect de hotarare privind aprobarea utilizarii sumei de 200.000 lei din excedentul bugetului activitatilor finantate din venituri proprii aferent anului 2022, pentru acoperirea golului temporar de casa",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#38786",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#38786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-10-2023",
+   "path": "local/mehedinti/devesel/2023/10",
+   "short": "HCL Devesel nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 10/2023 Aprobarea proiectului „DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT PREUNIVERSITAR ȘI A UNITĂȚILOR CONEXE DIN COMUNA DEVESEL”",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#42879",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#42879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-11-2023",
+   "path": "local/mehedinti/devesel/2023/11",
+   "short": "HCL Devesel nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 11/2023 Actualizarea planului de achizitii publice pentru anul 2023 al Comunei Devesel, Judetul Mehedinti",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#42884",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#42884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-12-2023",
+   "path": "local/mehedinti/devesel/2023/12",
+   "short": "HCL Devesel nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 12/2023 Aprobarea Protocolului de colaborare intre MINISTERUL MUNCII ȘI SOLIDARITĂȚII SOCIALE (MMSS) si UAT Devesel, judetul Mehedinti, avand ca obiect asigurarea colaborării interinstituționale a MMSS cu UAT in cadrul proiectului ”HUB de servicii MMSS – SII MMSS” cod SMIS 2014+ 130963",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#43778",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#43778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-13-2023",
+   "path": "local/mehedinti/devesel/2023/13",
+   "short": "HCL Devesel nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 13/2023 Alegerea presedintelui de sedinte ale Consiliului Local al Comunei Devesel",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#44647",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#44647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-14-2023",
+   "path": "local/mehedinti/devesel/2023/14",
+   "short": "HCL Devesel nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 14/2023 Aprobarea PV al sedintei anterioare",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#46121",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#46121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-15-2023",
+   "path": "local/mehedinti/devesel/2023/15",
+   "short": "HCL Devesel nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 15/2023 Aprobarea ordinii de zi",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#46132",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#46132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-16-2023",
+   "path": "local/mehedinti/devesel/2023/16",
+   "short": "HCL Devesel nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 16/2023 Rezultatele inventarierii elementelor de activ şi de pasiv, precum şi propunerile de casare a unor bunuri cu durata de funcţionare expirată sau degradate fizic şi moral",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#44648",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#44648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-17-2023",
+   "path": "local/mehedinti/devesel/2023/17",
+   "short": "HCL Devesel nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 17/2023 Aprobarea realizării unui audit extern al activității SC Servicii de Gospodarire Comunala Devesel SRL",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#44679",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#44679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-18-2023",
+   "path": "local/mehedinti/devesel/2023/18",
+   "short": "HCL Devesel nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 18/2023 Revocarea HCL nr. 43/2022",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#44686",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#44686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-19-2023",
+   "path": "local/mehedinti/devesel/2023/19",
+   "short": "HCL Devesel nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 19/2023 completarea inventarului bunurilor care aparțin domeniului public al comunei Devesel, aprobat prin Hotărârea Guvernului nr. 786/2011 privind atestarea domeniului public al judeţului Mehedinti, precum şi al municipiilor, oraşelor şi comunelor din judeţul Mehedinti, cu modificările și completările ulterioare, cu două poziții, cu nr. 328 si nr. 329",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#44949",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#44949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-2-2023",
+   "path": "local/mehedinti/devesel/2023/2",
+   "short": "HCL Devesel nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 2/2023 Proiect de hotarare privind acoperirea definitiva a deficitului sectiunii de functionare (sursa E) a bugetului local al comunei Devesel, judetul Mehedinti pentru anul 2022 in suma de 398,11 lei",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#38790",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#38790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-20-2023",
+   "path": "local/mehedinti/devesel/2023/20",
+   "short": "HCL Devesel nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 20/2023 Stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2024",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#45147",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#45147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-21-2023",
+   "path": "local/mehedinti/devesel/2023/21",
+   "short": "HCL Devesel nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 21/2023 Propunerea de desfiintare/demolare a Scolii Generale din sat Bistretu, comuna Devesel, judetul Mehedinti",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#47188",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#47188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-22-2023",
+   "path": "local/mehedinti/devesel/2023/22",
+   "short": "HCL Devesel nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 22/2023 Stabilirea coeficientilor de ierarhizare corespunzatori salariilor de baza aferente functiilor publice si contractuale din cadrul aparatului de specialitate al primarului comunei Devesel, judetul Mehedinti",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#47194",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#47194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-23-2023",
+   "path": "local/mehedinti/devesel/2023/23",
+   "short": "HCL Devesel nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 23/2023 Aprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „SISTEME DE CANALIZARE CU STATIE DE EPURARE APE MENAJERE UZATE SI RETEA DE ALIMENTARE CU APA IN COMUNA DEVESEL, JUDEȚUL MEHEDINTI”, in vederea finanțarii prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#47210",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#47210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-24-2023",
+   "path": "local/mehedinti/devesel/2023/24",
+   "short": "HCL Devesel nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 24/2023 Alegere presedinte sedinta pentru o perioada de 3 luni",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#51968",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#51968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-25-2023",
+   "path": "local/mehedinti/devesel/2023/25",
+   "short": "HCL Devesel nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 25/2023 Aprobarea delegarii catre UAT Judetul Mehedinti a dreptului de depunere a aplicatiei de finantare in vederea implementarii si monitorizarii proiectului Microbuze electrice pentru elevi la nivelul judetului Mehedinti",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#51969",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#51969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-26-2023",
+   "path": "local/mehedinti/devesel/2023/26",
+   "short": "HCL Devesel nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 26/2023 PHCL privind aprobarea studiului de fezabilitate / indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Reabilitare drumuri sat Devesel, comuna Devesel, județul Mehedinți”, aprobat pentru finanțare prin Programul național de investiții ''Anghel Saligny„precum si a sumei reprezentand categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#52669",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#52669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-27-2023",
+   "path": "local/mehedinti/devesel/2023/27",
+   "short": "HCL Devesel nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 27/2023 PHCL DE APROBARE A PROIECTULUI „Modernizare și reabilitare DJ 562 - Gemeni - DN 56A - (Obârșia de Câmp)-intersecție DJ 562 cu DN 56A - DN 56B + DJ 564 - intersecție DJ 562 (Scăpău) intersecție DJ 562A (Pătulele) intersecție DN 56A (Nicolae Bălcescu)” ȘI A ACORDULUI DE PARTENERIAT",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#53422",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#53422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-28-2023",
+   "path": "local/mehedinti/devesel/2023/28",
+   "short": "HCL Devesel nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 28/2023 Proiect de hotarare privind aprobarea indicatorilor tehnico-economici actualizati ai obiectivului de investiții „Construire capela mortuara 2 locuri, cu sala de pomeniri in sat Devesel, comuna Devesel, judetul Mehedintiʺ",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#54142",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#54142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-29-2023",
+   "path": "local/mehedinti/devesel/2023/29",
+   "short": "HCL Devesel nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 29/2023 Proiect de hotarare privind Modificarea si completarea HCL Nr.21/28.04.2023 privind propunerea de desfiintare/demolare a Scolii Generale din sat Bistretu, comuna Devesel, judetul Mehedinti",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#54143",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#54143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-3-2023",
+   "path": "local/mehedinti/devesel/2023/3",
+   "short": "HCL Devesel nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 3/2023 aprobarea Organigramei si Statului de functii pt aparatul de specialitate al primarului comunei Devesel pt anul 2023",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#40499",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#40499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-30-2023",
+   "path": "local/mehedinti/devesel/2023/30",
+   "short": "HCL Devesel nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 30/2023 Proiect de hotarare privind aprobarea indicatorilor tehnico-economici, a devizului general si a cheltuielilor finanțate de la bugetul local pentru obiectivul de investiții „REABILITARE / MODERNIZARE SCOALA GIMNAZIALA SI GRADINITA IN SAT DEVESEL, COMUNA DEVESEL, JUDEȚUL MEHEDINTI”, in vederea receptiei finale a obiectivului",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#54144",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#54144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-31-2023",
+   "path": "local/mehedinti/devesel/2023/31",
+   "short": "HCL Devesel nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 31/2023 Proiect de hotarare privind aprobarea rectificarii bugetului local de venituri si cheltuieli al Comunei Devesel, pentru trimestru III al anului 2022, conform anexei parte integranta din prezenta hotarare",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#54146",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#54146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-32-2023",
+   "path": "local/mehedinti/devesel/2023/32",
+   "short": "HCL Devesel nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 32/2023 Completarea obiectelor secundare de activitate ale Societatii SC Servicii de Gospodarire Comunala SRL",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#54576",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#54576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-33-2023",
+   "path": "local/mehedinti/devesel/2023/33",
+   "short": "HCL Devesel nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 33/2023 PHCL privind modificarea si completarea HCL NR.26/2023 privind aprobarea studiului de fezabilitate / indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Reabilitare drumuri sat Devesel, comuna Devesel, județul Mehedinți”, aprobat pentru finanțare prin Programul național de investiții ''Anghel Saligny„precum si a sumei reprezentand categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#55605",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#55605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-34-2023",
+   "path": "local/mehedinti/devesel/2023/34",
+   "short": "HCL Devesel nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 34/2023 PHCL privind modificarea si completarea HCL Nr. 30/2023 privind aprobarea indicatorilor tehnico-economici, a devizului general si a cheltuielilor finanțate de la bugetul local pentru obiectivul de investiții „REABILITARE / MODERNIZARE SCOALA GIMNAZIALA SI GRADINITA IN SAT DEVESEL, COMUNA DEVESEL, JUDEȚUL MEHEDINTI”, in vederea receptiei finale a obiectivului",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#55606",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#55606",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--devesel-35-2023",
    "path": "local/mehedinti/devesel/2023/35",
    "short": "HCL Devesel nr. 35/2023",
@@ -13,6 +433,351 @@
      "from": "2023-08-24",
      "units": 1,
      "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#55809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-36-2023",
+   "path": "local/mehedinti/devesel/2023/36",
+   "short": "HCL Devesel nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 36/2023 PHCL privind aprobarea scutirii de la plata majorărilor de întârziere şi penalităţilor aferente obligaţiilor bugetare constând în impozite şi taxe locale, redevenţe şi chirii datorate bugetului local de către persoanele fizice si persoanele juridice, de pe raza administrativ-teritorială a comunei Devesel, judeţul Mehedinţi",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#55813",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#55813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-37-2023",
+   "path": "local/mehedinti/devesel/2023/37",
+   "short": "HCL Devesel nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 37/2023 Alegere presedinte sedinta pentru o perioada de 3 luni",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#57979",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#57979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-38-2023",
+   "path": "local/mehedinti/devesel/2023/38",
+   "short": "HCL Devesel nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 38/2023 Proiect de hotarare privind insusirea investitiei realizate prin FEADR la proiectul ‘’Construire teren de sport sat Devesel, comuna Devesel’’, conform procesului verbal de receptie la terminarea lucrarilor nr. 5722/31.08.2023",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#57980",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#57980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-39-2023",
+   "path": "local/mehedinti/devesel/2023/39",
+   "short": "HCL Devesel nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 39/2023 Proiect de hotarare privind revocarea HCL Devesel Nr.19/2023 privind completarea inventarului bunurilor care apartin domeniului public al comunei Devesel, aprobat prin H.G Nr.786/2011 privind atestarea domeniului public al judetului Mehedinti, precum si al municipiilor, oraselor, comunelor din judetul Mehedinti, cu modificarile si completarile ulterioare, cu doua noi pozitii, cu nr. 328 si nr. 329",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#57981",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#57981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-4-2023",
+   "path": "local/mehedinti/devesel/2023/4",
+   "short": "HCL Devesel nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 4/2023 Aprobarea Raportului privind activitatea desfasurata de asistentii personali ai persoanelor cu handicap grav pt semestrul II anul 2022",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#40503",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#40503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-40-2023",
+   "path": "local/mehedinti/devesel/2023/40",
+   "short": "HCL Devesel nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 40/2023 Proiect de hotarare privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor aferente programului şi a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative la nivel local pentru perioada 2023-2029, aferente Programului pentru şcoli al României",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#57982",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#57982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-41-2023",
+   "path": "local/mehedinti/devesel/2023/41",
+   "short": "HCL Devesel nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 41/2023 aprobarea actului adițional nr. 1 la acordul de parteneriat nr. 34729/09.12.2022 încheiat între Unitatea Administrativ-Teritorială Județul Dolj, în calitate de lider de parteneriat si unitățile administrativ-teritoriale din județele Dolj, Olt și Mehedinți, în vederea implementării proiectului ”Traseu Eurovelo 6 Mehedinți – Dolj – Olt” în cadrul apelului de proiecte PNRR/2022/C11/I.4, Componenta 11 — Turism și cultură, Investiția I.4. ”Implementarea a 3.000 km trasee cicloturistice”",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#59172",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#59172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-42-2023",
+   "path": "local/mehedinti/devesel/2023/42",
+   "short": "HCL Devesel nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 42/2023 Rectificare buget de venituri si cheltuieli Trim. IV 2023",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#59232",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#59232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-43-2023",
+   "path": "local/mehedinti/devesel/2023/43",
+   "short": "HCL Devesel nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 43/2023 Proiect de hotarare privind aprobarea rectificarii bugetului local de venituri si cheltuieli al Comunei Devesel, pentru trimestru IV al anului 2023, conform anexei parte integranta din prezenta hotarare",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#60788",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#60788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-44-2023",
+   "path": "local/mehedinti/devesel/2023/44",
+   "short": "HCL Devesel nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 44/2023 3. Proiect de hotarare privind actualizarea programului anual al achizitiilor publice pentru anul 2023 al Comunei Devesel, Judetul Mehedinti",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#60789",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#60789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-45-2023",
+   "path": "local/mehedinti/devesel/2023/45",
+   "short": "HCL Devesel nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 45/2023 Aprobarea rectificarii bugetului local de venituri si cheltuieli al Comunei Devesel, pentru trimestru IV al anului 2023",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#62178",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#62178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-46-2023",
+   "path": "local/mehedinti/devesel/2023/46",
+   "short": "HCL Devesel nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 46/2023 Aprobarea rectificarii bugetului local de venituri si cheltuieli al Comunei Devesel, pentru trimestru IV al anului 2023, conform anexei parte integranta din prezenta hotarare",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#62960",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#62960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-47-2023",
+   "path": "local/mehedinti/devesel/2023/47",
+   "short": "HCL Devesel nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 47/2023 Aprobarea alocarii unor sume de la bugetul local al comunei Devesel in vederea acordarii de cadouri de Craciun 2023 elevilor și preșcolarilor din comuna Devesel, Județul Mehedinți",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#62957",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#62957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-49-2023",
+   "path": "local/mehedinti/devesel/2023/49",
+   "short": "HCL Devesel nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 49/2023 Alegere presedinte sedinta pentru o perioada de 3 luni",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#63781",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#63781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-5-2023",
+   "path": "local/mehedinti/devesel/2023/5",
+   "short": "HCL Devesel nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 5/2023 Aprobarea planului de lucrari de interes local ce vor fi executate in anul 2023 cu beneficiarii ajutorului social",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#40504",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#40504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-50-2023",
+   "path": "local/mehedinti/devesel/2023/50",
+   "short": "HCL Devesel nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 50/2023 Aprobarea rectificarii bugetului local de venituri si cheltuieli al Comunei Devesel, pentru trimestrul al IV-lea al anului 2023, conform anexei parte integranta din prezenta hotarare",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#64127",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#64127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-51-2023",
+   "path": "local/mehedinti/devesel/2023/51",
+   "short": "HCL Devesel nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 51/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-52-2023",
+   "path": "local/mehedinti/devesel/2023/52",
+   "short": "HCL Devesel nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 52/2023 privind modificarea Hotărârii nr. 27/13.07.2023 pentru aprobarea proiectului „Modernizare și reabilitare DJ 562 - Gemeni - DN 56A - (Obârșia de Câmp)-intersecție DJ 562 cu DN 56A - DN 56B + DJ 564 - intersecție DJ 562 (Scăpău) intersecție DJ 562A (Pătulele) intersecție DN 56A (Nicolae Bălcescu)” și a acordului de parteneriat",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#64818",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#64818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-53-2023",
+   "path": "local/mehedinti/devesel/2023/53",
+   "short": "HCL Devesel nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 53/2023 RECTIFICAREA BUGETULUI LOCAL DE VENITURI SI CHELTUIELI AL COM DEVESEL, JUD. MH PT ANUL 2023",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#65553",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#65553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-6-2023",
+   "path": "local/mehedinti/devesel/2023/6",
+   "short": "HCL Devesel nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 6/2023 Aprobarea planului de lucrari de interes local ce vor fi executate in anul 2023 de persoanele obligate prin hotarari judecatoresti la prestarea unor activitati in folosul comunitatii in comuna Devesel",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#40505",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#40505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-7-2023",
+   "path": "local/mehedinti/devesel/2023/7",
+   "short": "HCL Devesel nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 7/2023 Reorganizarea retelei scolare a unitatilor de invatamant preuniversitar de stat acreditate pt anul scolar 2023-2024",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#40509",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#40509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-8-2023",
+   "path": "local/mehedinti/devesel/2023/8",
+   "short": "HCL Devesel nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 8/2023 Aprobarea bugetului local de venituri si cheltuieli al Comunei Devesel, pentru anul 2023",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#41055",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#41055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--devesel-9-2023",
+   "path": "local/mehedinti/devesel/2023/9",
+   "short": "HCL Devesel nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Devesel nr. 9/2023 Aprobarea planului de achizitii publice pentru anul 2023 al Comunei Devesel",
+   "url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#41056",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#41056",
      "sha256": null
     }
    ]

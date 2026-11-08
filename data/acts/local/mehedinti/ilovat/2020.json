@@ -3,6 +3,116 @@
 "shard": "local/mehedinti/ilovat/2020",
 "acts": [
 {
+"slug": "hcl-mehedinti--ilovat-2-2020",
+"path": "local/mehedinti/ilovat/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 2/2020 privind aprobarea reorganizarii retelei scolare a unitatii de invatamant preuniversitar de stat de pe raza comunei Ilovat",
+"short": "HCL Ilovăț nr. 2/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/15754",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-3-2020",
+"path": "local/mehedinti/ilovat/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 3/2020 privind aprobarea planului de actiuni si lucrari de interes local pe anul 2020 prevazute a fi realizate cu beneficiarii Legii 416/2001",
+"short": "HCL Ilovăț nr. 3/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/15755",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-4-2020",
+"path": "local/mehedinti/ilovat/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 4/2020 privind aprobarea raportului de activitate desfasurata de asistentii personali ai persoanelor cu handicap pe semestrul II - 2019",
+"short": "HCL Ilovăț nr. 4/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/15756",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-5-2020",
+"path": "local/mehedinti/ilovat/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 5/2020 privind aprobarea taxei ADIS pe anul 2020",
+"short": "HCL Ilovăț nr. 5/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/15757",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-6-2020",
+"path": "local/mehedinti/ilovat/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 6/2020 privind aprobarea bugetului local al Primariei Ilovat pe anul 2020",
+"short": "HCL Ilovăț nr. 6/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/15758",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-mehedinti--ilovat-7-2020",
 "path": "local/mehedinti/ilovat/2020/7",
 "kind": "local",

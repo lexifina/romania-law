@@ -3,6 +3,81 @@
  "shard": "local/maramures/sacalaseni/2020",
  "acts": [
   {
+   "slug": "hcl-maramures--sacalaseni-1-2020",
+   "path": "local/maramures/sacalaseni/2020/1",
+   "short": "HCL Săcălășeni nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 1/2020 privind validarea modificărilor intervenite în bugetul local al Comunei Săcălășeni din anul 2019, prin Dispozițiile primarului Comunei Săcălășeni nr. 219 din 19.12.2019 și 220 din 23.12.2019",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1153",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-10-2020",
+   "path": "local/maramures/sacalaseni/2020/10",
+   "short": "HCL Săcălășeni nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 10/2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1162",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-100-2020",
+   "path": "local/maramures/sacalaseni/2020/100",
+   "short": "HCL Săcălășeni nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 100/2020 privind aprobarea proiectului: „Asigurarea accesului elevilor din Comuna Săcălășeni la procesul de învățare în mediul on-line” și a tuturor cheltuielilor legate de proiect",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/11125",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/11125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-102-2020",
+   "path": "local/maramures/sacalaseni/2020/102",
+   "short": "HCL Săcălășeni nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 102/2020 privind stabilirea salariilor de bază pentru funcțiile publice și funcțiile contractuale din cadrul aparatului de specialitate al Primarului comunei Săcălășeni, începând cu data de 1 decembrie 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/12590",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/12590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-103-2020",
+   "path": "local/maramures/sacalaseni/2020/103",
+   "short": "HCL Săcălășeni nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 103/2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/12591",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/12591",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--sacalaseni-104-2020",
    "path": "local/maramures/sacalaseni/2020/104",
    "short": "HCL Săcălășeni nr. 104/2020",
@@ -88,6 +163,21 @@
      "from": "2020-12-03",
      "units": 1,
      "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/13182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-11-2020",
+   "path": "local/maramures/sacalaseni/2020/11",
+   "short": "HCL Săcălășeni nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 11/2020 privind instituirea taxei speciale de salubrizare şi aprobarea regulamentului cu privire la instituirea şi administrarea taxei speciale de salubrizare în Comuna Săcălășeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1163",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1163",
      "sha256": null
     }
    ]
@@ -243,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--sacalaseni-12-2020",
+   "path": "local/maramures/sacalaseni/2020/12",
+   "short": "HCL Săcălășeni nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 12/2020 privind aprobarea documentului „Procedură proprie simplificată privind contractele de achiziție publică/acordurile-cadru de servicii, care au ca obiect, servicii sociale şi alte servicii specifice, prevăzute în anexa nr. 2 a Legii nr. 98/2016, privind achizițiile publice",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1164",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1164",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--sacalaseni-120-2020",
    "path": "local/maramures/sacalaseni/2020/120",
    "short": "HCL Săcălășeni nr. 120/2020",
@@ -298,6 +403,1311 @@
      "from": "2020-12-21",
      "units": 1,
      "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/13461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-13-2020",
+   "path": "local/maramures/sacalaseni/2020/13",
+   "short": "HCL Săcălășeni nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 13/2020 privind validarea modificărilor intervenite în bugetul local al Comunei Săcălășeni din anul 2020, prin Dispoziția primarului Comunei Săcălășeni nr. 50 din 30 ianuarie 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1165",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-14-2020",
+   "path": "local/maramures/sacalaseni/2020/14",
+   "short": "HCL Săcălășeni nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 14/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimnitare” privind imobilul „Strada Castanilor” din satul Culcea, în suprafață de 613 mp",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1166",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-15-2020",
+   "path": "local/maramures/sacalaseni/2020/15",
+   "short": "HCL Săcălășeni nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 15/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimnitare” privind imobilul „Strada Codrului” din satul Culcea, în suprafață de 17611mp",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1167",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-16-2020",
+   "path": "local/maramures/sacalaseni/2020/16",
+   "short": "HCL Săcălășeni nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 16/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimnitare” privind imobilul din satul Coruia, în suprafață de 1364 mp. și trecerea acestuia în Nomenclatorul stradal al comunei Săcălășeni, ca și strada „Ponor”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1168",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-17-2020",
+   "path": "local/maramures/sacalaseni/2020/17",
+   "short": "HCL Săcălășeni nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 17/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimnitare” privind imobilul „Strada Rozelor” din satul Coruia, în suprafață de 653 mp",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1169",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-18-2020",
+   "path": "local/maramures/sacalaseni/2020/18",
+   "short": "HCL Săcălășeni nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 18/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimnitare” privind imobilul „Strada Mărului” din satul Coruia, în suprafață de 295 mp",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1170",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-19-2020",
+   "path": "local/maramures/sacalaseni/2020/19",
+   "short": "HCL Săcălășeni nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 19/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimnitare” privind imobilul „Strada Garoafei” din satul Coruia, în suprafață de 445 mp",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1171",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-2-2020",
+   "path": "local/maramures/sacalaseni/2020/2",
+   "short": "HCL Săcălășeni nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 2/2020 privind aprobarea contului de încheiere a exerciţiului bugetar al Comunei Săcălășeni, judeţul Maramureș, pe anul 2019",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1154",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-21-2020",
+   "path": "local/maramures/sacalaseni/2020/21",
+   "short": "HCL Săcălășeni nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 21/2020 privind aprobarea situației veniturilor și cheltuielilor realizate în anul 2019 și a bugetului estimat de venituri şi cheltuieli pentru anul 2020, privind fondul forestier al comunei Săcălășeni, administrat de Ocolul Silvic Firiza",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1173",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-22-2020",
+   "path": "local/maramures/sacalaseni/2020/22",
+   "short": "HCL Săcălășeni nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 22/2020 privind aprobarea prețurilor de pornire la licitația pe picior organizată pentru partida 151SR, din imobilul „Pădure comunală (sat Coruia)”, deținut de Comuna Săcălășeni în zona „Valea Borcutului(Frumușeaua)” a municipiului Baia Mare",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1174",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-23-2020",
+   "path": "local/maramures/sacalaseni/2020/23",
+   "short": "HCL Săcălășeni nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 23/2020 privind suplimentarea sumei alocate lunar pentru pregătirea elevilor din Comuna Săcălășeni în sportul „șah",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1175",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-24-2020",
+   "path": "local/maramures/sacalaseni/2020/24",
+   "short": "HCL Săcălășeni nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 24/2020 privind rectificarea bugetului local al Comunei Săcălășeni pe anul 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1176",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-25-2020",
+   "path": "local/maramures/sacalaseni/2020/25",
+   "short": "HCL Săcălășeni nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 25/2020 privind aprobarea principalilor indicatori tehnico –economici, actualizați, ai obiectivului de investiții „MODERNIZARE DRUMURI SĂTEȘTI III ÎN COMUNA SĂCĂLĂȘENI, JUDEȚUL MARAMUREȘ” şi a devizului general actualizat",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1177",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-26-2020",
+   "path": "local/maramures/sacalaseni/2020/26",
+   "short": "HCL Săcălășeni nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 26/2020 privind aprobarea principalilor indicatori tehnico –economici, devizului general și documentației tehnice a investiției „LUCRĂRI REST DE EXECUTAT, LA VESTIARELE STADIONULUI COMUNAL DIN COMUNA SĂCĂLĂȘENI, JUDEȚUL MARAMUREȘ",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1178",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-27-2020",
+   "path": "local/maramures/sacalaseni/2020/27",
+   "short": "HCL Săcălășeni nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 27/2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1179",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-28-2020",
+   "path": "local/maramures/sacalaseni/2020/28",
+   "short": "HCL Săcălășeni nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 28/2020 privind însuşirea variantei finale a proiectului de steag al comunei Săcălășeni, Județul Maramureș",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1236",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-29-2020",
+   "path": "local/maramures/sacalaseni/2020/29",
+   "short": "HCL Săcălășeni nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 29/2020 privind aprobarea documentului „PLANUL ANUAL DE ACȚIUNE PRIVIND SERVICIILE SOCIALE ȘI MĂSURILE PROPUSE PENTRU REALIZAREA PROGRAMULUI SOCIAL 2020” în cadrul comunei Săcălășeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1222",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-3-2020",
+   "path": "local/maramures/sacalaseni/2020/3",
+   "short": "HCL Săcălășeni nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 3/2020 privind aprobarea bugetului local al Comunei Săcălășeni, pe anul 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1155",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-30-2020",
+   "path": "local/maramures/sacalaseni/2020/30",
+   "short": "HCL Săcălășeni nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 30/2020 privind aprobarea bugetului de venituri și cheltuieli al Centrului de Ingrijire Bătrani din localitatea Coruia, Comuna Săcălășeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1223",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-31-2020",
+   "path": "local/maramures/sacalaseni/2020/31",
+   "short": "HCL Săcălășeni nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 31/2020 privind aprobarea primirii prin donație a 26 paturi medicale electrice, pentru obiectivul Centrul de Ingrijire Bătrani din localitatea Coruia, Comuna Săcălășeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1224",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-32-2020",
+   "path": "local/maramures/sacalaseni/2020/32",
+   "short": "HCL Săcălășeni nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 32/2020 privind aprobarea ”Planului de Analiză și Acoperire a Riscurilor în domeniul situatiilor de urgență, la nivelul Comunei Săcălășeni, Județul Maramureș”, varianta actualizată, martie 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1225",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-33-2020",
+   "path": "local/maramures/sacalaseni/2020/33",
+   "short": "HCL Săcălășeni nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 33/2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1226",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-34-2020",
+   "path": "local/maramures/sacalaseni/2020/34",
+   "short": "HCL Săcălășeni nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 34/2020 privind indexarea cu rata inflaţei din anul fiscal anterior, 2019, a impozitelor şi taxelor locale care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, în Comuna Săcălășeni, Județul Maramureș",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1227",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-35-2020",
+   "path": "local/maramures/sacalaseni/2020/35",
+   "short": "HCL Săcălășeni nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 35/2020 privind aprobarea implementării în Comuna Săcălășeni a proiectului „WIFI4EU Promovarea conectivităţii la internet în comunităţile locale”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1228",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-36-2020",
+   "path": "local/maramures/sacalaseni/2020/36",
+   "short": "HCL Săcălășeni nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 36/2020 privind aderarea Comunei Săcălășeni, Județul Maramureș la ,,Convenţia Primarilor privind Clima şi Energia” (Covenant of Mayors for Climate & Energy)",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1229",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-37-2020",
+   "path": "local/maramures/sacalaseni/2020/37",
+   "short": "HCL Săcălășeni nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 37/2020 privind aprobarea documentului „Ghidul Solicitantului privind regimul finanţărilor nerambursabile alocate de la bugetul local al comunei Săcălășeni pentru activităţi nonprofit de interes local în anul 2020”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1230",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-38-2020",
+   "path": "local/maramures/sacalaseni/2020/38",
+   "short": "HCL Săcălășeni nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 38/2020 privind aprobarea majorării tarifului de administrare a fondului forestier în suprafață de 78 hectare, deținut de Comuna Săcălășeni, amplasat în Municipiul Baia Mare și administrat de Ocolul Silvic Firiza",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1231",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-39-2020",
+   "path": "local/maramures/sacalaseni/2020/39",
+   "short": "HCL Săcălășeni nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 39/2020 privind aprobarea majorării tarifului de administrare a fondului forestier în suprafață de 26,3 hectare, deținut de Comuna Săcălășeni, amplasat în Comuna Remetea Chioarului și Comuna Săcălășeni, administrat de Ocolul Silvic Șomcuta Mare și aprobarea bugetului de venituri și cheltuieli estimat pentru anul 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1232",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-4-2020",
+   "path": "local/maramures/sacalaseni/2020/4",
+   "short": "HCL Săcălășeni nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 4/2020 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat din Comuna Săcălășeni în anul școlar 2020 - 2021",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1156",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-41-2020",
+   "path": "local/maramures/sacalaseni/2020/41",
+   "short": "HCL Săcălășeni nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 41/2020 privind aprobarea documentului „Regulament privind închirierea bunurilor imobile-clădiri, aflate în proprietatea Comunei Săcălășeni, în vederea derulării unor activități”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1234",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-42-2020",
+   "path": "local/maramures/sacalaseni/2020/42",
+   "short": "HCL Săcălășeni nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 42/2020 privind rectificarea bugetului local al Comunei Săcălășeni pe anul 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1235",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-48-2020",
+   "path": "local/maramures/sacalaseni/2020/48",
+   "short": "HCL Săcălășeni nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 48/2020 privind aprobarea prețurilor de pornire la licitația pe picior organizată pentru partidele 151SR, 187SR și 188SR din imobilul „Pădure comunală (sat Coruia)”, deținut de Comuna Săcălășeni în zona „Valea Borcutului(Frumușeaua)” a municipiului Baia Mare",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/2509",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/2509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-49-2020",
+   "path": "local/maramures/sacalaseni/2020/49",
+   "short": "HCL Săcălășeni nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 49/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimitare” privind imobilul „Strada Podul Stanchii”, tronson II, din satul Săcălășeni, în suprafață de 505 mp",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/2510",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/2510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-5-2020",
+   "path": "local/maramures/sacalaseni/2020/5",
+   "short": "HCL Săcălășeni nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 5/2020 privind aprobarea numărului posturilor de asistent personal al persoanei cu handicap pentru anul 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1157",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-50-2020",
+   "path": "local/maramures/sacalaseni/2020/50",
+   "short": "HCL Săcălășeni nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 50/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimitare” privind imobilul „Strada Școlii”, tronson II, din satul Săcălășeni, în suprafață de 871 mp",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/2511",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/2511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-51-2020",
+   "path": "local/maramures/sacalaseni/2020/51",
+   "short": "HCL Săcălășeni nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 51/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimitare” privind imobilul „Strada Muzeului”, din satul Săcălășeni, în suprafață de 136 mp",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/2512",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/2512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-52-2020",
+   "path": "local/maramures/sacalaseni/2020/52",
+   "short": "HCL Săcălășeni nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 52/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimitare” privind imobilul „Strada Luncii”, din satul Săcălășeni, în suprafață de 676 mp",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/2513",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/2513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-53-2020",
+   "path": "local/maramures/sacalaseni/2020/53",
+   "short": "HCL Săcălășeni nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 53/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimitare” privind imobilul „Strada Florilor”, tronson II, din satul Săcălășeni, în suprafață de 637 mp",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/2514",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/2514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-54-2020",
+   "path": "local/maramures/sacalaseni/2020/54",
+   "short": "HCL Săcălășeni nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 54/2020 privind înființarea Serviciului Voluntar pentru Situaţii de Urgenţă al Comunei Săcălășeni, de tip V1, prin reorganizarea serviciului de categoria C2, aprobarea Regulamentului de organizare şi funcţionare și a Organigramei acestui serviciu",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/2515",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/2515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-55-2020",
+   "path": "local/maramures/sacalaseni/2020/55",
+   "short": "HCL Săcălășeni nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 55/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimitare” privind imobilul „Strada Valea Coruii”, din satul Coruia, în suprafață de 8905 mp",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/3728",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/3728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-56-2020",
+   "path": "local/maramures/sacalaseni/2020/56",
+   "short": "HCL Săcălășeni nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 56/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimitare” privind imobilul din satul Săcălășeni, în suprafață de 9262 mp. și trecerea acestuia în Nomenclatorul stradal al comunei Săcălășeni, ca și strada „Alunilor”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/3729",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/3729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-57-2020",
+   "path": "local/maramures/sacalaseni/2020/57",
+   "short": "HCL Săcălășeni nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 57/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimitare” privind imobilul din satul Culcea, în suprafață de 8272 mp. și trecerea acestuia în Nomenclatorul stradal al comunei Săcălășeni, ca și „Strada Văii”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/3730",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/3730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-58-2020",
+   "path": "local/maramures/sacalaseni/2020/58",
+   "short": "HCL Săcălășeni nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 58/2020 privind aprobarea identificării topografice și documentației „Plan de amplasament și delimitare” privind imobilul „Strada Afinelor”, tronson II, din satul Săcălășeni, în suprafață de 15027 mp",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/3731",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/3731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-59-2020",
+   "path": "local/maramures/sacalaseni/2020/59",
+   "short": "HCL Săcălășeni nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 59/2020 privind implementarea proiectului „ÎMBUNĂTĂŢIREA EFICIENŢEI ENERGETICE A CENTRULUI DE ÎNGRIJIRE BĂTRÂNI-CORUIA\", prin participarea comunei Săcălășeni la programul de finanțare EEA and Norwegian Financial Mechanisms 2014-2021 \"Energy Programme in Romania\" Calls for Proposals Focus area: Energy Efficiency",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/3732",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/3732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-6-2020",
+   "path": "local/maramures/sacalaseni/2020/6",
+   "short": "HCL Săcălășeni nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 6/2020 privind aprobarea exploatării agregatelor minerale din albia răului Lăpuș, în anul 2020, pentru lucrări de interes public local, în limita cantității maxime de 2000 m3",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1158",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-60-2020",
+   "path": "local/maramures/sacalaseni/2020/60",
+   "short": "HCL Săcălășeni nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 60/2020 privind implementarea proiectului „MODERNIZAREA SISTEMULUI DE ILUMINAT PUBLIC ÎN COMUNA SĂCĂLĂȘENI, JUDEȚUL MARAMUREȘ” prin participarea comunei Săcălășeni la „Programul privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/3735",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/3735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-61-2020",
+   "path": "local/maramures/sacalaseni/2020/61",
+   "short": "HCL Săcălășeni nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 61/2020 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2021, în Comuna Săcălășeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/3736",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/3736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-62-2020",
+   "path": "local/maramures/sacalaseni/2020/62",
+   "short": "HCL Săcălășeni nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 62/2020 privind rectificarea bugetului de venituri și cheltuieli al Centrului de Ingrijire Bătrani din localitatea Coruia, Comuna Săcălășeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/3733",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/3733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-63-2020",
+   "path": "local/maramures/sacalaseni/2020/63",
+   "short": "HCL Săcălășeni nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 63/2020 privind rectificarea bugetului local al Comunei Săcălășeni pe anul 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/3734",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/3734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-64-2020",
+   "path": "local/maramures/sacalaseni/2020/64",
+   "short": "HCL Săcălășeni nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 64/2020 privind implementarea proiectului „Sprijin pentru persoanele vulnerabile în contextual epidemiei COVID-19”, cod Mysmis 137872",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/5036",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/5036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-65-2020",
+   "path": "local/maramures/sacalaseni/2020/65",
+   "short": "HCL Săcălășeni nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 65/2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/5037",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/5037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-66-2020",
+   "path": "local/maramures/sacalaseni/2020/66",
+   "short": "HCL Săcălășeni nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 66/2020 privind aprobarea documentației „Studiu de Fezabilitate”, a principalilor indicatori tehnico –economici şi a devizului general al obiectivului de investiții „Hală depozitare echipamente agrement”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/5038",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/5038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-67-2020",
+   "path": "local/maramures/sacalaseni/2020/67",
+   "short": "HCL Săcălășeni nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 67/2020 privind schimbarea destinației unor spații din imobilul „Cămin Cultural Coruia” în spații cu funcțiuni de cazare",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/5039",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/5039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-68-2020",
+   "path": "local/maramures/sacalaseni/2020/68",
+   "short": "HCL Săcălășeni nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 68/2020 privind aprobarea anulării accesoriilor în cazul obligaţiilor bugetare restante la 31 martie 2020, datorate bugetului local al comunei Săcălășeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/5040",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/5040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-69-2020",
+   "path": "local/maramures/sacalaseni/2020/69",
+   "short": "HCL Săcălășeni nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 69/2020 privind rectificarea bugetului local al Comunei Săcălășeni pe anul 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/5041",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/5041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-7-2020",
+   "path": "local/maramures/sacalaseni/2020/7",
+   "short": "HCL Săcălășeni nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 7/2020 privind aprobarea realizării în Comuna Săcălășeni a obiectivului proiectului «Suplimentarea sursei de încălzire cu centrală murală pe gaz la obiectivul „Centrul de Ingrijire Bătrani” din localitatea Coruia, Comuna Săcălășeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1159",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-70-2020",
+   "path": "local/maramures/sacalaseni/2020/70",
+   "short": "HCL Săcălășeni nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 70/2020 privind aprobarea finanțării din bugetul local al comunei Săcălășeni a proiectului: «Amenajare teren de joacă pentru copiii de la Instituția de Educație Timpurie „Guguță” din Orașul Ghindești», implementat de Oraşul Ghindeşti din raionul Floreşti al Republicii Moldova",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/5042",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/5042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-71-2020",
+   "path": "local/maramures/sacalaseni/2020/71",
+   "short": "HCL Săcălășeni nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 71/2020 privind aprobarea finanțării din bugetul local al comunei Săcălășeni a proiectului: „Iluminat public stradal în satul Hirtop, Comuna Ghindești”, implementat de Comuna Ghindeşti din raionul Floreşti al Republicii Moldova",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/5043",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/5043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-72-2020",
+   "path": "local/maramures/sacalaseni/2020/72",
+   "short": "HCL Săcălășeni nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 72/2020 privind aprobarea includerii obiectivului de investiții „MODERNIZAREA SISTEMULUI DE ILUMUNAT PUBLIC ÎN COMUNA SĂCĂLĂȘENI, JUDEȚUL MARAMUREȘ” în Programul privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public finanțat de Ministerul Mediului, Apelor și Pădurilor - Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/6752",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/6752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-73-2020",
+   "path": "local/maramures/sacalaseni/2020/73",
+   "short": "HCL Săcălășeni nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 73/2020 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii „MODERNIZAREA SISTEMULUI DE ILUMINAT PUBLIC ÎN COMUNA SĂCĂLĂȘENI, JUDEȚUL MARAMUREȘ”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/6753",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/6753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-75-2020",
+   "path": "local/maramures/sacalaseni/2020/75",
+   "short": "HCL Săcălășeni nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 75/2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/6793",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/6793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-76-2020",
+   "path": "local/maramures/sacalaseni/2020/76",
+   "short": "HCL Săcălășeni nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 76/2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/6794",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/6794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-77-2020",
+   "path": "local/maramures/sacalaseni/2020/77",
+   "short": "HCL Săcălășeni nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 77/2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/8115",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/8115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-78-2020",
+   "path": "local/maramures/sacalaseni/2020/78",
+   "short": "HCL Săcălășeni nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 78/2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/8116",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/8116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-79-2020",
+   "path": "local/maramures/sacalaseni/2020/79",
+   "short": "HCL Săcălășeni nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 79/2020 privind interzicerea amplasării prin agăţare sau prin orice altă modalitate de amplasare, de panouri şi bannere electorale, sau orice alte materiale de propagandă electorală pe raza comunei Săcălășeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/8117",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/8117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-8-2020",
+   "path": "local/maramures/sacalaseni/2020/8",
+   "short": "HCL Săcălășeni nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 8/2020 privind stabilirea salariilor de bază pentru funcțiile din cadrul obiectivului „Centrul de Ingrijire Bătrani” din localitatea Coruia, Comuna Săcălășeni»",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1160",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-80-2020",
+   "path": "local/maramures/sacalaseni/2020/80",
+   "short": "HCL Săcălășeni nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 80/2020 privind rectificarea bugetului local al Comunei Săcălășeni pe anul 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/8118",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/8118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-81-2020",
+   "path": "local/maramures/sacalaseni/2020/81",
+   "short": "HCL Săcălășeni nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 81/2020 privind rectificarea bugetului de venituri și cheltuieli al Centrului de Ingrijire Bătrani din localitatea Coruia, Comuna Săcălășeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/8119",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/8119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-82-2020",
+   "path": "local/maramures/sacalaseni/2020/82",
+   "short": "HCL Săcălășeni nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 82/2020 privind aprobarea documentației „AMENAJAMENTUL PASTORAL PENTRU PAJIȘTILE DIN COMUNA SĂCĂLĂȘENI”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/8120",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/8120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-83-2020",
+   "path": "local/maramures/sacalaseni/2020/83",
+   "short": "HCL Săcălășeni nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 83/2020 privind modificarea Hotărârii Consiliului Local al comunei Săcălășeni nr. 58 din 28 mai 2020, privind aprobarea identificării topografice și documentației „Plan de amplasament și delimitare” privind imobilul „Strada Afinelor”, tronson II, din satul Săcălășeni, în suprafață de 15027 mp",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/8121",
+   "versions": [
+    {
+     "from": "2020-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/8121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-84-2020",
+   "path": "local/maramures/sacalaseni/2020/84",
+   "short": "HCL Săcălășeni nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 84/2020 privind însuşirea variantei finale a proiectului de steag al comunei Săcălășeni, Județul Maramureș",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/9770",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/9770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-85-2020",
+   "path": "local/maramures/sacalaseni/2020/85",
+   "short": "HCL Săcălășeni nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 85/2020 privind validarea modificărilor intervenite în bugetul local al Comunei Săcălășeni din anul 2020, prin Dispoziția primarului Comunei Săcălășeni nr. 110 din 25.08.2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/9771",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/9771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-86-2020",
+   "path": "local/maramures/sacalaseni/2020/86",
+   "short": "HCL Săcălășeni nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 86/2020 privind aprobarea Regulamentului de premiere a elevilor unităţilor de învațământ din Comuna Săcălășeni, care au obţinut rezultate deosebite la olimpiade şcolare și competiții sportive organizate la nivel local, judeţean si naţional",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/9772",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/9772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-87-2020",
+   "path": "local/maramures/sacalaseni/2020/87",
+   "short": "HCL Săcălășeni nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 87/2020 privind rectificarea bugetului local al Comunei Săcălășeni pe anul 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/9773",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/9773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-88-2020",
+   "path": "local/maramures/sacalaseni/2020/88",
+   "short": "HCL Săcălășeni nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 88/2020 privind implementarea proiectului „Asigurarea accesului elevilor din Comuna Săcălășeni la procesul de învățare în mediul on-line”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/9774",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/9774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-89-2020",
+   "path": "local/maramures/sacalaseni/2020/89",
+   "short": "HCL Săcălășeni nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 89/2020 privind angajare apărător în vederea redactării șă susținerii cauzei în instanță în dosarul 3718/100/2017 al Tribunalului Maramureș și reprezentarea în fața Curții de Apel Cluj",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/9775",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/9775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-9-2020",
+   "path": "local/maramures/sacalaseni/2020/9",
+   "short": "HCL Săcălășeni nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 9/2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1161",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-90-2020",
+   "path": "local/maramures/sacalaseni/2020/90",
+   "short": "HCL Săcălășeni nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 90/2020 privind aprobarea documentului „REGULAMENT DE ORGANIZARE ȘI FUNCȚIONARE A CONSILIULUI LOCAL AL COMUNEI SĂCĂLĂȘENI”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/10026",
+   "versions": [
+    {
+     "from": "2020-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/10026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-91-2020",
+   "path": "local/maramures/sacalaseni/2020/91",
+   "short": "HCL Săcălășeni nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 91/2020 privind rectificarea bugetului local al Comunei Săcălășeni pe anul 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/10021",
+   "versions": [
+    {
+     "from": "2020-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/10021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-92-2020",
+   "path": "local/maramures/sacalaseni/2020/92",
+   "short": "HCL Săcălășeni nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 92/2020 privind transmiterea fără plată de la Comuna Săcălășeni către altă instituţie publică a următorului bun: autoturism marca PEUGEOT, model 607, având numărul de identificare VF39DRHSB92092571",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/10022",
+   "versions": [
+    {
+     "from": "2020-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/10022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-93-2020",
+   "path": "local/maramures/sacalaseni/2020/93",
+   "short": "HCL Săcălășeni nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 93/2020 privind transmiterea cu titlu gratuit de la Comuna Săcălășeni către Centrul de Ingrijire Bătrani din localitatea Coruia, Comuna Săcălășeni, a următorului bun: autoturism marca TOYOTA, model „Corolla”, având numărul de identificare AHTLN56E503031762",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/10023",
+   "versions": [
+    {
+     "from": "2020-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/10023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-94-2020",
+   "path": "local/maramures/sacalaseni/2020/94",
+   "short": "HCL Săcălășeni nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 94/2020 privind achiziția unui autoturism pentru deservirea Comunei Săcălășeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/10024",
+   "versions": [
+    {
+     "from": "2020-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/10024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-95-2020",
+   "path": "local/maramures/sacalaseni/2020/95",
+   "short": "HCL Săcălășeni nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 95/2020 privind achiziția unei autoutilitare, tip pick-up, pentru deservirea „Serviciului Voluntar pentru Situații de Urgență” al comunei Săcălășeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/10025",
+   "versions": [
+    {
+     "from": "2020-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/10025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-96-2020",
+   "path": "local/maramures/sacalaseni/2020/96",
+   "short": "HCL Săcălășeni nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 96/2020 privind aprobarea principalilor indicatori tehnico-economici, actualizați, ai investiției „Hală depozitare echipamente agrement” şi a devizului general actualizat",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/10471",
+   "versions": [
+    {
+     "from": "2020-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/10471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-97-2020",
+   "path": "local/maramures/sacalaseni/2020/97",
+   "short": "HCL Săcălășeni nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 97/2020 privind alegerea președintelui de ședință pentru luna Noiembrie 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/11122",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/11122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-98-2020",
+   "path": "local/maramures/sacalaseni/2020/98",
+   "short": "HCL Săcălășeni nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 98/2020 privind constituirea comisiilor de specialitate ale Consiliului Local al comunei Săcălăşeni",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/11123",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/11123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-99-2020",
+   "path": "local/maramures/sacalaseni/2020/99",
+   "short": "HCL Săcălășeni nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 99/2020 privind rectificarea bugetului local al Comunei Săcălășeni pe anul 2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/11124",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/11124",
      "sha256": null
     }
    ]

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Ponoarele nr. 7/2025 privind reactualizarea pretului lei/mc aferent apei nepotabile-industriala distribuita in sistem contorizat pe raza comunei Ponoarele, judetul Mehedinti, respectiv pentru canalizare-epurare incepand cu 01.03.2025
+
+HCL Ponoarele nr. 7/2025 · 1 versions, from 2026-01-22 (latest in force: 2026-01-22) · <https://emol.ro/ponoarele-mh/registru-hcl/194660>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-mehedinti--ponoarele-7-2025` (tags `hcl-mehedinti--ponoarele-7-2025/<day>`; `python tools/on.py <day> hcl-mehedinti--ponoarele-7-2025`).
+
+## Decisions made by hand
+
+- HCL Ponoarele nr. 7/2025: listed from Consiliul Local al Comunei Ponoarele (emol.ro); metadata only for now: no document of it is held.
+- HCL Ponoarele nr. 7/2025: dated from 22 January 2026, the day the council's register gives it as published (adopted 28 February 2025).
+- HCL Ponoarele nr. 7/2025: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

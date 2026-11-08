@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/livezile/2024",
  "acts": [
   {
+   "slug": "hcl-mehedinti--livezile-1-2024",
+   "path": "local/mehedinti/livezile/2024/1",
+   "short": "HCL Livezile nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 1/2024 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/136663",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/136663",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--livezile-10-2024",
    "path": "local/mehedinti/livezile/2024/10",
    "short": "HCL Livezile nr. 10/2024",
@@ -268,6 +283,66 @@
      "from": "2025-01-20",
      "units": 1,
      "source_url": "https://emol.ro/livezile-mh/registru-hcl/182416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-3-2024",
+   "path": "local/mehedinti/livezile/2024/3",
+   "short": "HCL Livezile nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 3/2024 privind privind acoperirea definitivă din excedent a deficitului secţiunii funcționare",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/136665",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/136665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-4-2024",
+   "path": "local/mehedinti/livezile/2024/4",
+   "short": "HCL Livezile nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 4/2024 privind aprobarea execuției bugetare pentru anul 2023",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/136666",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/136666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-5-2024",
+   "path": "local/mehedinti/livezile/2024/5",
+   "short": "HCL Livezile nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 5/2024 privind aprobarea bugetului local al comunei Livezile , județul Mehedinți pentru anul 2024",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/142615",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/142615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-6-2024",
+   "path": "local/mehedinti/livezile/2024/6",
+   "short": "HCL Livezile nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 6/2024",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/142616",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/142616",
      "sha256": null
     }
    ]

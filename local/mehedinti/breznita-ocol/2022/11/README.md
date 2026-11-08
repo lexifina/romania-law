@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 11/2022 privind aprobarea numarului de posturi si a statului de functii pentru asistentii personali din cadrul Primariei comunei Breznita Ocol pentru anul 2022
+
+HCL Breznița-Ocol nr. 11/2022 · 1 versions, from 2022-02-08 (latest in force: 2022-02-08) · <https://emol.ro/breznita-ocol-mh/registru-hcl/50093>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-mehedinti--breznita-ocol-11-2022` (tags `hcl-mehedinti--breznita-ocol-11-2022/<day>`; `python tools/on.py <day> hcl-mehedinti--breznita-ocol-11-2022`).
+
+## Decisions made by hand
+
+- HCL Breznița-Ocol nr. 11/2022: listed from Consiliul Local al Comunei Breznița-Ocol (emol.ro); metadata only for now: no document of it is held.
+- HCL Breznița-Ocol nr. 11/2022: dated from 8 February 2022, the day it was adopted (the register gives no later day of publication).
+- HCL Breznița-Ocol nr. 11/2022: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -3,6 +3,117 @@
 "shard": "local/mehedinti/grozesti/2021",
 "acts": [
 {
+"slug": "hcl-mehedinti--grozesti-6-2021",
+"path": "local/mehedinti/grozesti/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 6/2021 privind înregistrarea Primăriei Grozești în Sistemul național electronic de plată online a taxelor și impozitelor utilizând cardul bancar",
+"short": "HCL Grozești nr. 6/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-25",
+"latest": "2021-01-25",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/58183",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-14-2021",
+"path": "local/mehedinti/grozesti/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 14/2021",
+"short": "HCL Grozești nr. 14/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-20",
+"latest": "2021-05-20",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/58232",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-22-2021",
+"path": "local/mehedinti/grozesti/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 22/2021 privind aprobarea Planului de apărare împotriva inundațiilor, ghețurilor și poluărilor accidentale pe cursurile de apă",
+"short": "HCL Grozești nr. 22/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/58251",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-25-2021",
+"path": "local/mehedinti/grozesti/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 25/2021 privind acordarea scutirii de la plata majorărilor de întârziere aferente obligațiilor bugetare, constând în impozite și taxe locale datorate bugetului local de către persoanele fizice ce au calitatea de contribuabili la bugetul local al Comunei Grozești",
+"short": "HCL Grozești nr. 25/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-08-03",
+"latest": "2021-08-03",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/58254",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-26-2021",
+"path": "local/mehedinti/grozesti/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 26/2021 privind aprobarea indicatorilor Tehnico-Economici pentru obiectivul „Reabilitare și modernizare ulița Buțu și podețe dalate în comuna Grozești, județul Mehedinți”",
+"short": "HCL Grozești nr. 26/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-21",
+"latest": "2021-09-21",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/58255",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-31-2021",
 "path": "local/mehedinti/grozesti/2021/31",
 "kind": "local",

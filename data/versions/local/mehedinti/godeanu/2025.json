@@ -3,6 +3,171 @@
  "shard": "local/mehedinti/godeanu/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--godeanu-11-2025",
+   "path": "local/mehedinti/godeanu/2025/11",
+   "short": "HCL Godeanu nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 11/2025 privind participarea comunei Godeanu în cadrul Programului privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/226071",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/226071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-13-2025",
+   "path": "local/mehedinti/godeanu/2025/13",
+   "short": "HCL Godeanu nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 13/2025 privind aprobarea devizului general la obiectivul de investiție „Clopotniță în satul Șiroca, comuna Godeanu, județul Mehedinți”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/226073",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/226073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-15-2025",
+   "path": "local/mehedinti/godeanu/2025/15",
+   "short": "HCL Godeanu nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 15/2025",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/226075",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/226075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-16-2025",
+   "path": "local/mehedinti/godeanu/2025/16",
+   "short": "HCL Godeanu nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 16/2025 privind aprobarea participării comunei Godeanu la Programul privind Fondul de Modernizare în România, finanțat prin Ministerul Energiei și depunerea cererii de finanțare pentru proiectul „Înființarea capacității de producere a energiei din surse regenerabile de energie pentru consum propriu, în comuna Godeanu, Județul Mehedinți”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/226076",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/226076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-22-2025",
+   "path": "local/mehedinti/godeanu/2025/22",
+   "short": "HCL Godeanu nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 22/2025 privind aprobarea planului de stabilire a lucrărilor ce urmează a fii executate de către SC GOSPOSARIA COMUNALA GODEANU SRL, în anul 2025",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/226129",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/226129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-24-2025",
+   "path": "local/mehedinti/godeanu/2025/24",
+   "short": "HCL Godeanu nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 24/2025 privind aprobarea intocmirii documentației necesare inscrierii în cartea funciară a imobilului, Drum Vicinal 7, sat Godeanu, comuna Godeanu, județul Mehedinți",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/226131",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/226131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-25-2025",
+   "path": "local/mehedinti/godeanu/2025/25",
+   "short": "HCL Godeanu nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 25/2025 privind realizarea lucrărilor ce se impun pe Drumul Vicinal 7, sat Godeanu, comuna Godeanu, județul Mehedinți, în vederea executării „Cale de acces” la obiectivul de investiție „CONSTRUIRE CENTRU DE COLECTARE DEȘEURI PRIN APORT VOLUNTAR-COMUNA GODEANU, JUDEȚUL MEHEDINȚI”, conform anexei care face parte integranta din prezenta horărâre",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/226132",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/226132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-27-2025",
+   "path": "local/mehedinti/godeanu/2025/27",
+   "short": "HCL Godeanu nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 27/2025 privind stabilirea obiectivului de activitate al Societății Comerciale „Gospodăria Comunala Godeanu SRL”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/226161",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/226161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-31-2025",
+   "path": "local/mehedinti/godeanu/2025/31",
+   "short": "HCL Godeanu nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 31/2025 privind aprobarea Bugetului de venituri și cheltuieli al Comunei Godeanu, pe anul 2025",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/252873",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/252873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-32-2025",
+   "path": "local/mehedinti/godeanu/2025/32",
+   "short": "HCL Godeanu nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 32/2025 privind aprobarea Devizului General al obiectivului de investiție „Achiziție utilaj minibuldoexcavator și accesorii în Comuna Godeanu, județul Mehedinți”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/252875",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/252875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-33-2025",
+   "path": "local/mehedinti/godeanu/2025/33",
+   "short": "HCL Godeanu nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 33/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli al Comunei Godeanu, pe anul 2025",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/252879",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/252879",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--godeanu-34-2025",
    "path": "local/mehedinti/godeanu/2025/34",
    "short": "HCL Godeanu nr. 34/2025",
@@ -298,6 +463,66 @@
      "from": "2026-02-13",
      "units": 1,
      "source_url": "https://emol.ro/godeanu-mh/registru-hcl/252962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-6-2025",
+   "path": "local/mehedinti/godeanu/2025/6",
+   "short": "HCL Godeanu nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 6/2025 privind aprobarea notei justificative actualizată și a Devizului General actualizat, pentru obiectivul de investiție „Modernizare drumuri de interes local în comuna Godeanu, județul Mehedinți”, derulat prin PNDLII",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/226061",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/226061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-7-2025",
+   "path": "local/mehedinti/godeanu/2025/7",
+   "short": "HCL Godeanu nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 7/2025 privind aprobarea schimbării destinației imobilului clădire, din Școala cu clasele I-VIII Godeanu, în spațiu cu altă destinație denumit „Centru permanent pentru bătrâni, în satul Godeanu, comuna Godeanu”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/226063",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/226063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-8-2025",
+   "path": "local/mehedinti/godeanu/2025/8",
+   "short": "HCL Godeanu nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 8/2025 privind aprobarea schimbării destinației imobilului clădire din Școala cu clasele I-IV Marga, în spațiu cu altă destinație denumit „Centru de colectare plante și fructe de pădure în satul Marga, comuna Godeanu”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/226064",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/226064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-9-2025",
+   "path": "local/mehedinti/godeanu/2025/9",
+   "short": "HCL Godeanu nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 9/2025 privind aprobarea schimbării destinației imobilului clădire din Școala cu clasele I-IV Păunești, în spațiu cu altă destinație denumit „Tabără de vară pentru elevi, în satul Păunești, comuna Godeanu”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/226069",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/226069",
      "sha256": null
     }
    ]

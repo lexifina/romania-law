@@ -3,6 +3,141 @@
  "shard": "local/mehedinti/tamna/2023",
  "acts": [
   {
+   "slug": "hcl-mehedinti--tamna-10-2023",
+   "path": "local/mehedinti/tamna/2023/10",
+   "short": "HCL Tâmna nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 10/2023",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/92919",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/92919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-14-2023",
+   "path": "local/mehedinti/tamna/2023/14",
+   "short": "HCL Tâmna nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 14/2023 privind aprobarea Strategiei de dezvoltare locală a comunei Tamna pentru perioada 2021 - 2027",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/100264",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/100264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-15-2023",
+   "path": "local/mehedinti/tamna/2023/15",
+   "short": "HCL Tâmna nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 15/2023 privind implementarea proiectului „DEZVOLTAREA LOCALA A COMUNEI TAMNA, PRIN DOTAREA CU ECHIPAMENTE A SERVICIULUI VOLUNTAR DE SITUATII DE URGENTA DIN CADRUL PRIMARIEI ”",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/100265",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/100265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-16-2023",
+   "path": "local/mehedinti/tamna/2023/16",
+   "short": "HCL Tâmna nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 16/2023",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/102531",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/102531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-17-2023",
+   "path": "local/mehedinti/tamna/2023/17",
+   "short": "HCL Tâmna nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 17/2023 privind aprobarea indicatorilor tehnico-economici,devizului general pentru obiectivul de investitii,,Alimentare cu apa in satul Colaret ,comuna Tamna Judetul Mehedinti”",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/102532",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/102532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-19-2023",
+   "path": "local/mehedinti/tamna/2023/19",
+   "short": "HCL Tâmna nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 19/2023 privind aprobarea Planului local de actiune pentru incluziunea minoritatii rome din comuna Tamna ,judetul Mehedinti pe perioada 2023-2027",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/106694",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/106694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-2-2023",
+   "path": "local/mehedinti/tamna/2023/2",
+   "short": "HCL Tâmna nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 2/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții \" ACTUALIZARE D.A.L.I.: ASFALTARE DRUMURI ȘI ULIȚE SĂTEȘTI ÎN COMUNA TÂMNA, JUDEȚUL MEHEDINȚI\",",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/86971",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/86971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-20-2023",
+   "path": "local/mehedinti/tamna/2023/20",
+   "short": "HCL Tâmna nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 20/2023 privind privind aprobarea Planului de Analiză şi Acoperire a Riscurilor la nivelul comunei Tamna pe anul 2023",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/106695",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/106695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-21-2023",
+   "path": "local/mehedinti/tamna/2023/21",
+   "short": "HCL Tâmna nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 21/2023 privind aprobarea studiului de fezabiltate,indicatorilor tehnico- economici si a devizului general pentru obiectivul de investitii ,,Alimentare cu apa in satul Boceni Comuna Tamna Judetul Mehedinti,,",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/106696",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/106696",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--tamna-22-2023",
    "path": "local/mehedinti/tamna/2023/22",
    "short": "HCL Tâmna nr. 22/2023",
@@ -118,6 +253,21 @@
      "from": "2023-09-01",
      "units": 1,
      "source_url": "https://emol.ro/tamna-mh/registru-hcl/117828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-3-2023",
+   "path": "local/mehedinti/tamna/2023/3",
+   "short": "HCL Tâmna nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 3/2023 privind aprobarea temei de proiectare pentru obiectivul de investiții ” Retea de canalizare cu statie de epurare ape uzate menajere in localitatea Valea Ursului,comuna Tamna ,Judetul Mehedinti",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/86972",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/86972",
      "sha256": null
     }
    ]
@@ -298,6 +448,66 @@
      "from": "2023-12-20",
      "units": 1,
      "source_url": "https://emol.ro/tamna-mh/registru-hcl/133952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-5-2023",
+   "path": "local/mehedinti/tamna/2023/5",
+   "short": "HCL Tâmna nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 5/2023 privind aprobarea planului de acţiuni şi lucrări de interes local ce vor fi efectuate în anul 2023 de către persoanele apte de muncă beneficiare de ajutor social potrivit Legii nr.416/2001 privind venitul minim garantat, cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/86974",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/86974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-6-2023",
+   "path": "local/mehedinti/tamna/2023/6",
+   "short": "HCL Tâmna nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 6/2023 privind aprobarea bugetului local al comunei Tamna pe anul 2023",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/86975",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/86975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-7-2023",
+   "path": "local/mehedinti/tamna/2023/7",
+   "short": "HCL Tâmna nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 7/2023 privind aprobarea implementarii Proiectului ,,HUB de Servicii MMSS-SII MMSS,, ,Cod MySmis 130963",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/92916",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/92916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-8-2023",
+   "path": "local/mehedinti/tamna/2023/8",
+   "short": "HCL Tâmna nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 8/2023 privind aprobarea executiei bugetare pe anul 2022",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/92917",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/92917",
      "sha256": null
     }
    ]

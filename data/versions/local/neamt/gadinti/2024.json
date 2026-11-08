@@ -3,6 +3,81 @@
  "shard": "local/neamt/gadinti/2024",
  "acts": [
   {
+   "slug": "hcl-neamt--gadinti-11-2024",
+   "path": "local/neamt/gadinti/2024/11",
+   "short": "HCL Gâdinți nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 11/2024 privind modificarea și completarea Hotărârii Consiliului local nr.42/2023 privind aprobarea Regulamentului privind modalitatea și criteriile de analiză și soluționare a cererilor de atribuire a loturilor de teren în conformitate cu prevederile Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală, precum și a vânzării acestora",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/149225",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/149225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-14-2024",
+   "path": "local/neamt/gadinti/2024/14",
+   "short": "HCL Gâdinți nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 14/2024 privind constituirea, organizarea și funcționarea Structurii comunitare consultative pentru activitatea de prevenire a separării copilului de familie, la nivelul Comunei Gâdinți",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/149228",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/149228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-18-2024",
+   "path": "local/neamt/gadinti/2024/18",
+   "short": "HCL Gâdinți nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 18/2024 privind aprobarea Regulamentului local privind amplasarea și autorizarea mijloacelor de publicitate pe raza comunei Gâdinți, județul Neamț",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/154747",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/154747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-20-2024",
+   "path": "local/neamt/gadinti/2024/20",
+   "short": "HCL Gâdinți nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 20/2024 privind modificarea și completarea Anexei la Hotărârea Consiliului local nr.42/2023 privind aprobarea Regulamentului privind modalitatea și criteriile de analiză și soluționare a cererilor de atribuire a loturilor de teren în conformitate cu prevederile Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală, precum și a vânzării acestora",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/154749",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/154749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-43-2024",
+   "path": "local/neamt/gadinti/2024/43",
+   "short": "HCL Gâdinți nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 43/2024 privind aprobarea Regulamentului privind modalitatea și criteriile de analiză și soluționare a cererilor de atribuire a loturilor de teren în conformitate cu prevederile Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală, precum și a vânzării acestora",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/166498",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/166498",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--gadinti-53-2024",
    "path": "local/neamt/gadinti/2024/53",
    "short": "HCL Gâdinți nr. 53/2024",
@@ -253,6 +328,21 @@
      "from": "2024-12-19",
      "units": 1,
      "source_url": "https://emol.ro/gadinti-nt/registru-hcl/181660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-7-2024",
+   "path": "local/neamt/gadinti/2024/7",
+   "short": "HCL Gâdinți nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 7/2024 privind aprobarea prelungirii valabilității Planului urbanistic general al comunei Gâdinți",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/138638",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/138638",
      "sha256": null
     }
    ]

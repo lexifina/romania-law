@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Bahna nr. 1/2026 privind validarea dispozițiilor privind acoperirea definitivă a deficitului secţiunii de dezvoltare din excedentul bugetar al anilor precedenți
+
+HCL Bahna nr. 1/2026 · 1 versions, from 2026-04-30 (latest in force: 2026-04-30) · <https://emol.ro/bahna-nt/registru-hcl/249436>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-neamt--bahna-1-2026` (tags `hcl-neamt--bahna-1-2026/<day>`; `python tools/on.py <day> hcl-neamt--bahna-1-2026`).
+
+## Decisions made by hand
+
+- HCL Bahna nr. 1/2026: listed from Consiliul Local al Comunei Bahna (emol.ro); metadata only for now: no document of it is held.
+- HCL Bahna nr. 1/2026: dated from 30 April 2026, the day the council's register gives it as published (adopted 29 January 2026).
+- HCL Bahna nr. 1/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

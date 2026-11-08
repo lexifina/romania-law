@@ -3,6 +3,216 @@
  "shard": "local/mehedinti/floresti/2023",
  "acts": [
   {
+   "slug": "hcl-mehedinti--floresti-1-2023",
+   "path": "local/mehedinti/floresti/2023/1",
+   "short": "HCL Florești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 1/2023 privind participarea Comunei Florești la “Programul privind creșterea eficienței energetice a infrastructurii de iluminat public” și aprobarea Devizului General al obiectivului de investiții „Eficientizarea sistemului de iluminat public din Comuna Florești, judetul Mehedinti”",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/85278",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/85278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-10-2023",
+   "path": "local/mehedinti/floresti/2023/10",
+   "short": "HCL Florești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 10/2023 privind dezmembrarea terenului din Cartea Funciara nr.50522 in doua loturi conform referatului de admitere al OCPI Mehedinti",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/95099",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/95099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-11-2023",
+   "path": "local/mehedinti/floresti/2023/11",
+   "short": "HCL Florești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 11/2023 privind aprobarea participării la realizarea investiției „Dotarea cu mobilier, materiale didactice și echipamente a unitatii de învățământ preuniversitar Școala Gimnazială Floresti, judetul Mehedinti” prevăzută la Obiectivul de investiție I.9.”Asigurarea echipamentelor și a resurselor tehnologice digitale pentru unitățile de învățământ” din Reforma 5 ”Adoptarea cadrului legislative pentru digitalizarea educației” și Obiectivul de investiție I.11 ”Asigurarea dotărilor pentru sălile de clasă preuniversitare și laboratoarele/atelierele școlare” din Reforma 6 ”Actualizarea cadrului legislative pentru a asigura standardele ecologice de proiecte, construcție și dotare în sistemul de învățământ preuniversitar”- PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ în cadrul Apelurilor de proiecte Dotare cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe - Componenta C15 – Educație, Pilonul VI – Politici pentru noua generație",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/95100",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/95100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-12-2023",
+   "path": "local/mehedinti/floresti/2023/12",
+   "short": "HCL Florești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 12/2023 privind aprobarea devizului general si al cererii de finantare pentru investitia „INFIINTARE RETEA DE CANALIZARE IN LOCALITATEA ZEGUJANI SI EXTINDERE RETEA DE CANALIZARE IN SATELE LIVEZI SI GARDOAIA, COMUNA FLORESTI, JUDETUL MEHEDINTI”",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/99426",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/99426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-13-2023",
+   "path": "local/mehedinti/floresti/2023/13",
+   "short": "HCL Florești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 13/2023 privind alegerea Presedintelui de sedinta",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/102591",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/102591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-14-2023",
+   "path": "local/mehedinti/floresti/2023/14",
+   "short": "HCL Florești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 14/2023 privind aprobarea procedurilor pentru investiţia „Înfiinţare parc fotovoltaic în comuna Floreşti, judeţul Mehedinţi”",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/102592",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/102592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-15-2023",
+   "path": "local/mehedinti/floresti/2023/15",
+   "short": "HCL Florești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 15/2023 Privind actualizarea Planului de analiză si acoperire a tipurilor de riscuri in comuna Florești",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/102593",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/102593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-16-2023",
+   "path": "local/mehedinti/floresti/2023/16",
+   "short": "HCL Florești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 16/2023 Privind aderarea comunei Floresti la Grupul de Actiune Locala Tinutul Closani cu finantare prin Planul Strategic PAC 2023 – 2027 respectiv a Fondului European Agricol pentru Dezvoltare Rurala",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/102594",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/102594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-17-2023",
+   "path": "local/mehedinti/floresti/2023/17",
+   "short": "HCL Florești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 17/2023 privind aprobarea coeficientilor corespunzatori salariului de baza la gradatia zero al functiei, gradului/treptei profesionale pentru functiile publice functiile de natura contractuala, între nivelul minim si nivelul maxim, a criteriilor de performanti si a fisei de evaluare individual personalului din cadrul aparatului de specialitate al Primarului comunei Floresti, judetul Mehedinti",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/102595",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/102595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-18-2023",
+   "path": "local/mehedinti/floresti/2023/18",
+   "short": "HCL Florești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 18/2023 Privind aprobarea si organizarea “Zilelor comunei Floresti, judetul Mehedinti”",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/106395",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/106395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-2-2023",
+   "path": "local/mehedinti/floresti/2023/2",
+   "short": "HCL Florești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 2/2023 privind alegerea Presedintelui de sedinta",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/87642",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/87642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-20-2023",
+   "path": "local/mehedinti/floresti/2023/20",
+   "short": "HCL Florești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 20/2023 privind alegerea Presedintelui de sedinta",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/114688",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/114688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-21-2023",
+   "path": "local/mehedinti/floresti/2023/21",
+   "short": "HCL Florești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 21/2023 privind aprobarea organigramei si a statului de functii cu numarului de personal pentru aparatul de specialitate al Primarului comunei Floresti si ale serviciilor publice",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/114689",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/114689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-22-2023",
+   "path": "local/mehedinti/floresti/2023/22",
+   "short": "HCL Florești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 22/2023 privind aprobarea Strategiei de Dezvoltare Locala a Comunei Floresti 2021-2027",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/114690",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/114690",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--floresti-23-2023",
    "path": "local/mehedinti/floresti/2023/23",
    "short": "HCL Florești nr. 23/2023",
@@ -103,6 +313,21 @@
      "from": "2023-10-04",
      "units": 1,
      "source_url": "https://emol.ro/floresti-mh/registru-hcl/121711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-3-2023",
+   "path": "local/mehedinti/floresti/2023/3",
+   "short": "HCL Florești nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 3/2023 Privind revocarea Hotărârii Consiliului Local Floresti nr.26/31.10.2022",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/87643",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/87643",
      "sha256": null
     }
    ]
@@ -258,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--floresti-4-2023",
+   "path": "local/mehedinti/floresti/2023/4",
+   "short": "HCL Florești nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 4/2023 privind aprobarea planului de acţiuni sau lucrări de interes local ce se vor efectua de beneficiarii Legii nr. 416/2001, modificată şi completată prin Legea nr. 276/2010, privind venitul minim garantat si persoanelor care presteaza ore in folosul comunitati pentru anul 2023",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/87644",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/87644",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--floresti-40-2023",
    "path": "local/mehedinti/floresti/2023/40",
    "short": "HCL Florești nr. 40/2023",
@@ -298,6 +538,66 @@
      "from": "2024-01-31",
      "units": 1,
      "source_url": "https://emol.ro/floresti-mh/registru-hcl/134047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-5-2023",
+   "path": "local/mehedinti/floresti/2023/5",
+   "short": "HCL Florești nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 5/2023 privind declararea de utilitate publică de interes local a obiectivului de investiție ”Modernizare Acces Statie de Alimentare cu Apa Gardoaia L=138,00 m, jud. Mehedinti” și acordul de scoatere din circuitul agricol",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/87645",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/87645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-6-2023",
+   "path": "local/mehedinti/floresti/2023/6",
+   "short": "HCL Florești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 6/2023 privind aprobarea bugetului de venituri si cheltuieli al comunei Floresti, Judetul Mehedinti pentru anul 2023",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/87646",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/87646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-7-2023",
+   "path": "local/mehedinti/floresti/2023/7",
+   "short": "HCL Florești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 7/2023 privind aprobarea Protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și UAT Comuna Florești, județul Mehedinți, referitor la colaborarea instituțională în cadrul proiectului ”HUB de servicii MMSS-SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/87647",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/87647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-8-2023",
+   "path": "local/mehedinti/floresti/2023/8",
+   "short": "HCL Florești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 8/2023 privind aprobarea executiei bugetare pentru anul 2022",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/92238",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/92238",
      "sha256": null
     }
    ]

@@ -3,6 +3,28 @@
 "shard": "local/mehedinti/breznita-ocol/2025",
 "acts": [
 {
+"slug": "hcl-mehedinti--breznita-ocol-20-2025",
+"path": "local/mehedinti/breznita-ocol/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 20/2025 privind aprobarea bugetului local al comunei Breznita-Ocol, judetul Mehedinti, pentru anul 2025",
+"short": "HCL Breznița-Ocol nr. 20/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://emol.ro/breznita-ocol-mh/registru-hcl/197165",
+"council": "mehedinti/breznita-ocol",
+"council_name": "Consiliul Local al Comunei Breznița-Ocol",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-mehedinti--breznita-ocol-54-2025",
 "path": "local/mehedinti/breznita-ocol/2025/54",
 "kind": "local",

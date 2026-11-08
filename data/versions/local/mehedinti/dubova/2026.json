@@ -3,6 +3,276 @@
  "shard": "local/mehedinti/dubova/2026",
  "acts": [
   {
+   "slug": "hcl-mehedinti--dubova-1-2026",
+   "path": "local/mehedinti/dubova/2026/1",
+   "short": "HCL Dubova nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 1/2026 privind alegerea președintelui de ședință pentru următoarele 2 luni pentru şedinţele Consiliului local al Comunei Dubova",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/253400",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/253400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-10-2026",
+   "path": "local/mehedinti/dubova/2026/10",
+   "short": "HCL Dubova nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 10/2026 privind stabilirea salariilor de baza pentru funcțiile publice si contractuale din aparatul de specialitate al primarului comunei Dubova, judetul Mehedinți",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/254494",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/254494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-11-2026",
+   "path": "local/mehedinti/dubova/2026/11",
+   "short": "HCL Dubova nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 11/2026 privind aprobarea Devizului General actualizat pentru realizarea obiectivului de investitie \" Constructie pod 1 peste raul Tisovita in sat Baia Noua, comuna Dubova - lungime 8-10 m, judetul Mehedinti\"",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/254495",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/254495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-12-2026",
+   "path": "local/mehedinti/dubova/2026/12",
+   "short": "HCL Dubova nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 12/2026 privind aprobarea Devizului General actualizat pentru realizarea obiectivului de investitie \" Constructie pod 2 peste raul Tisovita in sat Baia Noua, comuna Dubova - lungime 7-9 m, judetul Mehedinti\"",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/254496",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/254496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-13-2026",
+   "path": "local/mehedinti/dubova/2026/13",
+   "short": "HCL Dubova nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 13/2026 privind aprobarea Devizului General actualizat pentru realizarea obiectivului de investitie \" Constructie pod 3 peste raul Tisovita in sat Baia Noua, comuna Dubova - lungime 7-9 m, judetul Mehedinti\"",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/254497",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/254497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-14-2026",
+   "path": "local/mehedinti/dubova/2026/14",
+   "short": "HCL Dubova nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 14/2026 privind aprobarea Devizului General actualizat pentru realizarea obiectivului de investitie \" Modernizare si reabilitare drumuri comunale in comuna Dubova, satele Eibenthal si Baia Nouă\"",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/254498",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/254498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-15-2026",
+   "path": "local/mehedinti/dubova/2026/15",
+   "short": "HCL Dubova nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 15/2026",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/257456",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/257456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-16-2026",
+   "path": "local/mehedinti/dubova/2026/16",
+   "short": "HCL Dubova nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 16/2026 privind modificarea și completarea Hotărârii Consiliului Local Dubova nr. 52/21.11.2025 privind aderarea U.A.T Dubova la Organizația de Management al Destinației Mehedințiul Turistic",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/257457",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/257457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-17-2026",
+   "path": "local/mehedinti/dubova/2026/17",
+   "short": "HCL Dubova nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 17/2026 privind planul de evacuare în situații de urgență 2026",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/260757",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/260757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-2-2026",
+   "path": "local/mehedinti/dubova/2026/2",
+   "short": "HCL Dubova nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 2/2026 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat acreditate pentru anul şcolar 2026/2027",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/253401",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/253401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-20-2026",
+   "path": "local/mehedinti/dubova/2026/20",
+   "short": "HCL Dubova nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 20/2026 privind aprobarea Organigramei și Statului de funcții ale aparatului de specialitate al primarului",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/262546",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/262546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-21-2026",
+   "path": "local/mehedinti/dubova/2026/21",
+   "short": "HCL Dubova nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 21/2026 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/262547",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/262547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-22-2026",
+   "path": "local/mehedinti/dubova/2026/22",
+   "short": "HCL Dubova nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 22/2026 privind aprobarea bugetului local de venituri și cheltuieli inițial pe anul 2026 al comunei Dubova, județul Mehedinți",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/264717",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/264717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-23-2026",
+   "path": "local/mehedinti/dubova/2026/23",
+   "short": "HCL Dubova nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 23/2026",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/264718",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/264718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-24-2026",
+   "path": "local/mehedinti/dubova/2026/24",
+   "short": "HCL Dubova nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 24/2026 privind aprobarea Planului pentru asigurarea resurselor umane, materiale şi financiare destinate prevenirii şi gestionării situaţiilor de urgenţă pe anul 2026",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/264719",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/264719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-25-2026",
+   "path": "local/mehedinti/dubova/2026/25",
+   "short": "HCL Dubova nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 25/2026 privind actualizarea Planului de analiză și acoperire a riscurilor (PAAR) 2026, al Comunei Dubova",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/264720",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/264720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-27-2026",
+   "path": "local/mehedinti/dubova/2026/27",
+   "short": "HCL Dubova nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 27/2026 privind alegerea președintelui de ședință pentru următoarele 3 luni pentru şedinţele Consiliului local al Comunei Dubova",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/264722",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/264722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-28-2026",
+   "path": "local/mehedinti/dubova/2026/28",
+   "short": "HCL Dubova nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 28/2026",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/271778",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/271778",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--dubova-29-2026",
    "path": "local/mehedinti/dubova/2026/29",
    "short": "HCL Dubova nr. 29/2026",
@@ -13,6 +283,21 @@
      "from": "2026-06-11",
      "units": 1,
      "source_url": "https://emol.ro/dubova-mh/registru-hcl/271779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-3-2026",
+   "path": "local/mehedinti/dubova/2026/3",
+   "short": "HCL Dubova nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 3/2026",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/253402",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/253402",
      "sha256": null
     }
    ]
@@ -168,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--dubova-4-2026",
+   "path": "local/mehedinti/dubova/2026/4",
+   "short": "HCL Dubova nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 4/2026",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/253403",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/253403",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--dubova-40-2026",
    "path": "local/mehedinti/dubova/2026/40",
    "short": "HCL Dubova nr. 40/2026",
@@ -298,6 +598,81 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/dubova-mh/registru-hcl/297401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-5-2026",
+   "path": "local/mehedinti/dubova/2026/5",
+   "short": "HCL Dubova nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 5/2026 privind aprobarea Planului anual, pe anul 2026, de acţiuni şi lucrări de interes local efectuate în folosul comunității de beneficiarii Legii nr. 196/2016",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/254489",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/254489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-6-2026",
+   "path": "local/mehedinti/dubova/2026/6",
+   "short": "HCL Dubova nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 6/2026 privind aprobarea raportului referitor la activitatea desfasurata de către asistenții personali in Semestrul II al anului 2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/254490",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/254490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-7-2026",
+   "path": "local/mehedinti/dubova/2026/7",
+   "short": "HCL Dubova nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 7/2026 privind aprobarea dizolvării ,,Asociației de Dezvoltare Intercomunitară Distributie Gaz Orsova – Clisura Dunarii”",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/254491",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/254491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-8-2026",
+   "path": "local/mehedinti/dubova/2026/8",
+   "short": "HCL Dubova nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 8/2026",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/254492",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/254492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-9-2026",
+   "path": "local/mehedinti/dubova/2026/9",
+   "short": "HCL Dubova nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 9/2026",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/254493",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/254493",
      "sha256": null
     }
    ]

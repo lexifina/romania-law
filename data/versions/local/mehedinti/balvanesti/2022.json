@@ -3,6 +3,66 @@
  "shard": "local/mehedinti/balvanesti/2022",
  "acts": [
   {
+   "slug": "hcl-mehedinti--balvanesti-1-2022",
+   "path": "local/mehedinti/balvanesti/2022/1",
+   "short": "HCL Bâlvănești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 1/2022 privind privind aprobarea bugetului local si a bugetului de venituri proprii pe anul 2022",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/50127",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/50127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-10-2022",
+   "path": "local/mehedinti/balvanesti/2022/10",
+   "short": "HCL Bâlvănești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 10/2022",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/62007",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/62007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-11-2022",
+   "path": "local/mehedinti/balvanesti/2022/11",
+   "short": "HCL Bâlvănești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 11/2022 privind alegerea președintelui de ședință a Consiliul Local Balvanesti,judetul Mehedinti pentru perioada MAI 2022- IULIE 2022",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/62010",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/62010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-12-2022",
+   "path": "local/mehedinti/balvanesti/2022/12",
+   "short": "HCL Bâlvănești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 12/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/66064",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/66064",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--balvanesti-13-2022",
    "path": "local/mehedinti/balvanesti/2022/13",
    "short": "HCL Bâlvănești nr. 13/2022",
@@ -103,6 +163,21 @@
      "from": "2022-10-17",
      "units": 1,
      "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/69491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-2-2022",
+   "path": "local/mehedinti/balvanesti/2022/2",
+   "short": "HCL Bâlvănești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 2/2022 privind aprobarea Organigramei si Statul de functii la nivelul comunei Balvanesti pe anul 2022",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/50128",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/50128",
      "sha256": null
     }
    ]
@@ -298,6 +373,81 @@
      "from": "2022-12-30",
      "units": 1,
      "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/85305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-4-2022",
+   "path": "local/mehedinti/balvanesti/2022/4",
+   "short": "HCL Bâlvănești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 4/2022 privind alegerea președintelui de ședință a Consiliul Local Balvanesti,judetul Mehedinti pentru perioada FEBRUARIE 2022- APRILIE 2022",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/50130",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/50130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-5-2022",
+   "path": "local/mehedinti/balvanesti/2022/5",
+   "short": "HCL Bâlvănești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 5/2022 privind utilizarea in anul 2022 a unei sume din excedentul bugetului de venituri proprii al comunei Balvanesti rezultat la incheierea exercitiului bugetar 2021",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/50131",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/50131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-6-2022",
+   "path": "local/mehedinti/balvanesti/2022/6",
+   "short": "HCL Bâlvănești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 6/2022 privind acordarea unui mandat special Asociatiei de Dezvoltare Intercomunitara pentru Salubrizare Mehedinti",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/55888",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/55888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-8-2022",
+   "path": "local/mehedinti/balvanesti/2022/8",
+   "short": "HCL Bâlvănești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 8/2022 privind privind aprobarea realizarii obiectivului de investiții ,,ÎNFIINȚARE REŢEA INTELIGENTĂ DE DISTRIBUTIE A GAZELOR NATURALE IN COMUNA BÂLVĂNEŞTI, JUDEȚUL MEHEDINȚI” conform O.U.G nr. 95/2021 pentru aprobarea Programului Național de Investitii “Anghel Saligny”",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/62005",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/62005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-9-2022",
+   "path": "local/mehedinti/balvanesti/2022/9",
+   "short": "HCL Bâlvănești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 9/2022 privind aprobarea Acordului de parteneriat încheiat între Unitatea Administrativ Teritorială Județul Mehedinți si Unitatea Administrativ Teritorială Comuna Malovăț, Unitatea Administrativ Teritorială Comuna Izvorul Bârzii, Unitatea Administrativ Teritorială Comuna Breznița – Ocol, Unitatea Administrativ Teritorială Comuna Bâlvănești, Unitatea Administrativ Teritorială Comuna Ilovaț pentru realizarea proiectului de dezvoltare de interes zonal ,,ÎNFIINȚARE REŢEA INTELIGENTĂ DE DISTRIBUȚIE A GAZELOR NATURALE ÎN COMUNA BÂLVĂNEŞTI, COMUNA BREZNIŢA OCOL COMUNA ILOVĂŢ, COMUNA IZVORUL BÂRZII, COMUNA MALOVĂŢ, JUDEȚUL MEHEDINȚI“ conform O.U.G nr. 95/2021 pentru aprobarea Programului Național de Investitii “Anghel Saligny”",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/62006",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/62006",
      "sha256": null
     }
    ]

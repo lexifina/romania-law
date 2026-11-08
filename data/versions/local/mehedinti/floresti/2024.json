@@ -3,6 +3,66 @@
  "shard": "local/mehedinti/floresti/2024",
  "acts": [
   {
+   "slug": "hcl-mehedinti--floresti-1-2024",
+   "path": "local/mehedinti/floresti/2024/1",
+   "short": "HCL Florești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 1/2024 privind aprobarea planului de acţiuni sau lucrări de interes local ce se va efectua de beneficiarii Legii nr. 416/2001/ Legii 196/2016 privind venitul minim de incluziune, si pentru persoanelor care presteaza ore in folosul comunitati pentru anul 2024",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/140276",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/140276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-10-2024",
+   "path": "local/mehedinti/floresti/2024/10",
+   "short": "HCL Florești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 10/2024 privind alegerea Presedintelui de sedinta",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/154955",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/154955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-11-2024",
+   "path": "local/mehedinti/floresti/2024/11",
+   "short": "HCL Florești nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 11/2024 privind aprobarea organigramei si a statului de functii cu numarului de personal pentru aparatul de specialitate al Primarului comunei Floresti si ale serviciilor publice",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/154956",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/154956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-12-2024",
+   "path": "local/mehedinti/floresti/2024/12",
+   "short": "HCL Florești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 12/2024 privind aprobarea executiei bugetare la 31.03.2024",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/157580",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/157580",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--floresti-13-2024",
    "path": "local/mehedinti/floresti/2024/13",
    "short": "HCL Florești nr. 13/2024",
@@ -103,6 +163,21 @@
      "from": "2024-10-31",
      "units": 1,
      "source_url": "https://emol.ro/floresti-mh/registru-hcl/171148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-2-2024",
+   "path": "local/mehedinti/floresti/2024/2",
+   "short": "HCL Florești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 2/2024 privind alegerea Presedintelui de sedinta",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/140277",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/140277",
      "sha256": null
     }
    ]
@@ -258,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--floresti-3-2024",
+   "path": "local/mehedinti/floresti/2024/3",
+   "short": "HCL Florești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 3/2024 privind aprobarea coeficientilor corespunzatori salariului de baza la gradatia zero al functiei, gradului/treptei profesionale pentru functiile publice functiile de natura contractuala, între nivelul minim si nivelul maxim, a criteriilor de performanti si a fisei de evaluare individual personalului din cadrul aparatului de specialitate al Primarului comunei Floresti, judetul Mehedinti",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/140278",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/140278",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--floresti-30-2024",
    "path": "local/mehedinti/floresti/2024/30",
    "short": "HCL Florești nr. 30/2024",
@@ -298,6 +388,66 @@
      "from": "2025-01-22",
      "units": 1,
      "source_url": "https://emol.ro/floresti-mh/registru-hcl/185197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-4-2024",
+   "path": "local/mehedinti/floresti/2024/4",
+   "short": "HCL Florești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 4/2024 privind aprobarea decontării cheltuielilor cu naveta și a Regulamentului pentru decontarea cheltuielilor cu naveta pentru salariații din cadrul aparatului de specialitate al primarului comunei Floresti, județul Mehedinti, precum si a cadrelor didactice si a personalului didactic auxiliar din unitatile de invatamant de pe raza comunei Floresti pentru anul 2024",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/140279",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/140279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-6-2024",
+   "path": "local/mehedinti/floresti/2024/6",
+   "short": "HCL Florești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 6/2024 privind aprobarea bugetului de venituri si cheltuieli al comunei Floresti, Judetul Mehedinti pentru anul 2024",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/142348",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/142348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-7-2024",
+   "path": "local/mehedinti/floresti/2024/7",
+   "short": "HCL Florești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 7/2024 privind actualizarea inventarului domeniului public al comunei Floresti, Judetul Mehedinti",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/144727",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/144727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-8-2024",
+   "path": "local/mehedinti/floresti/2024/8",
+   "short": "HCL Florești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 8/2024 privind aprobarea executiei bugetare pentru anul 2023",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/144728",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/144728",
      "sha256": null
     }
    ]

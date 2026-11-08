@@ -3,6 +3,426 @@
  "shard": "local/neamt/gadinti/2021",
  "acts": [
   {
+   "slug": "hcl-neamt--gadinti-1-2021",
+   "path": "local/neamt/gadinti/2021/1",
+   "short": "HCL Gâdinți nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 1/2021 privind aprobarea rețelei școlare din comuna Gâdinți pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/15171",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/15171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-10-2021",
+   "path": "local/neamt/gadinti/2021/10",
+   "short": "HCL Gâdinți nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 10/2021 privind aprobarea utilizării parțiale a excedentului bugetar al anului 2020",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/16190",
+   "versions": [
+    {
+     "from": "2021-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/16190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-12-2021",
+   "path": "local/neamt/gadinti/2021/12",
+   "short": "HCL Gâdinți nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 12/2021 privind aprobarea PLANULUI ANUAL DE ACȚIUNE privind serviciile sociale administrate și finanațate din bugetul Consiliului local al comunei Gâdinți, jud. Neamț pentru anul 2021",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/18299",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/18299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-14-2021",
+   "path": "local/neamt/gadinti/2021/14",
+   "short": "HCL Gâdinți nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 14/2021 privind aprobarea contului anual de execuție bugetară pe anul 2020",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/18301",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/18301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-15-2021",
+   "path": "local/neamt/gadinti/2021/15",
+   "short": "HCL Gâdinți nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 15/2021 privind aprobarea procedurii de acordare a eșalonării la plata obligațiilor fiscale restante datorate bugetului local al comunei Gâdinți",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/18302",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/18302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-16-2021",
+   "path": "local/neamt/gadinti/2021/16",
+   "short": "HCL Gâdinți nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 16/2021 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru realizarea obiectivului de investiţiii „Modernizare străzi de interes local în comuna Gâdinți, județul Neamț”",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/18303",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/18303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-17-2021",
+   "path": "local/neamt/gadinti/2021/17",
+   "short": "HCL Gâdinți nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 17/2021 privind aprobarea asigurării cofinanţării de la bugetul local pentru obiectivul de investiţii ”Modernizare străzi de interes local în comuna Gâdinți, județul Neamț”",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/18304",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/18304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-18-2021",
+   "path": "local/neamt/gadinti/2021/18",
+   "short": "HCL Gâdinți nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 18/2021 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru realizarea obiectivului de investiții ”Extindere rețea de canalizare menajeră și rețea de alimentare cu apă în sat Gâdinți, com. Gâdinți, jud. Neamț”",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/18305",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/18305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-19-2021",
+   "path": "local/neamt/gadinti/2021/19",
+   "short": "HCL Gâdinți nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 19/2021 privind aprobarea asigurării cofinanțării de la bugetul local pentru obiectivul de investiții ”Extinderea rețelei de canalizare menajeră și rețea de alimentare cu apă în sat Gâdinți, com. Gâdinți, jud. Neamț”",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/18306",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/18306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-20-2021",
+   "path": "local/neamt/gadinti/2021/20",
+   "short": "HCL Gâdinți nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 20/2021",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/19865",
+   "versions": [
+    {
+     "from": "2021-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/19865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-21-2021",
+   "path": "local/neamt/gadinti/2021/21",
+   "short": "HCL Gâdinți nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 21/2021 privind acordarea unui mandat special și pentru modificarea H.C.L nr. 13 din 23.03.2018 privind atribuirea și încheierea contractului Delegarea prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare a unităților administrativ-teritoriale membre ale Asociației de Dezvoltare Intercomunitară ”ECONEAMȚ”, din Zona 2, județul Neamț",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/19866",
+   "versions": [
+    {
+     "from": "2021-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/19866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-23-2021",
+   "path": "local/neamt/gadinti/2021/23",
+   "short": "HCL Gâdinți nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 23/2021 privind aprobarea Procedurii-cadru de închiriere a bunurilor imobile aflate în domeniul public sau privat al UAT - Comuna Gâdinți",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/19868",
+   "versions": [
+    {
+     "from": "2021-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/19868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-24-2021",
+   "path": "local/neamt/gadinti/2021/24",
+   "short": "HCL Gâdinți nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 24/2021 privind stabilirea modelului legitimației pentru aleșii locali și a modelului semnului distinctiv al calității acestora",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/22166",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/22166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-27-2021",
+   "path": "local/neamt/gadinti/2021/27",
+   "short": "HCL Gâdinți nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 27/2021 privind aprobarea cuantumului și a numărului estimativ de burse școlare ce se vor acorda elevilor din învățământul preuniversitar din cadrul Școlii gimnaziale, comuna Gâdinti, județul Neamț, pentru anul școlar 2020 - 2021",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/22168",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/22168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-28-2021",
+   "path": "local/neamt/gadinti/2021/28",
+   "short": "HCL Gâdinți nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 28/2021 privind aprobarea Procedurii-cadru privind vânzarea prin licitaţie publică a bunurilor imobile (terenuri şi/sau clădiri) aflate în domeniul privat al Comunei Gâdinți",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/22169",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/22169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-29-2021",
+   "path": "local/neamt/gadinti/2021/29",
+   "short": "HCL Gâdinți nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 29/2021 privind aprobarea utilizării excedentului bugetar al anului 2020",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/22170",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/22170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-3-2021",
+   "path": "local/neamt/gadinti/2021/3",
+   "short": "HCL Gâdinți nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 3/2021 privind aprobarea execuției bugetare la data de 31.12.2020",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/15174",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/15174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-30-2021",
+   "path": "local/neamt/gadinti/2021/30",
+   "short": "HCL Gâdinți nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 30/2021 privind aprobarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/22171",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/22171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-31-2021",
+   "path": "local/neamt/gadinti/2021/31",
+   "short": "HCL Gâdinți nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 31/2021",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/22172",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/22172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-32-2021",
+   "path": "local/neamt/gadinti/2021/32",
+   "short": "HCL Gâdinți nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 32/2021",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/22173",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/22173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-34-2021",
+   "path": "local/neamt/gadinti/2021/34",
+   "short": "HCL Gâdinți nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 34/2021 privind punerea la dispoziţia proiectului \"Watman ll - Sistem informaţional pentru managementul integrat al apelor - etapa II\" a terenului pentru construcţia noilor investiţii aferente acestuia",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/24972",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/24972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-37-2021",
+   "path": "local/neamt/gadinti/2021/37",
+   "short": "HCL Gâdinți nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 37/2021 privind acordarea unui mandat special și pentru modificarea HCL nr. 13 din 23.03.2018 privind atribuirea și încheierea contractului Delegarea prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare a unităților administrativ-teritoriale membre ale Asociației de Dezvoltare Intercomunitară ”ECONEAMȚ”, din Zona 2, județul Neamț",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/27730",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/27730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-39-2021",
+   "path": "local/neamt/gadinti/2021/39",
+   "short": "HCL Gâdinți nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 39/2021 privind atestarea inventarului bunurilor care alcătuiesc domeniului public al comunei Gâdinți, județul Neamț",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/31204",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/31204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-4-2021",
+   "path": "local/neamt/gadinti/2021/4",
+   "short": "HCL Gâdinți nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 4/2021 privind modificarea și completarea H.C.L nr. 43/2020 privind stabilirea impozitelor și taxelor locale pentru anul 2021",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/15175",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/15175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-5-2021",
+   "path": "local/neamt/gadinti/2021/5",
+   "short": "HCL Gâdinți nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 5/2021 privind îndreptarea erorii materiale din H.C.L nr. 51/2020 privind aprobarea devizului general pentru obiectivul de investiții ”Amenajări exterioare sediu primărie Comuna Gâdinți, jud. Neamț”",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/15176",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/15176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-59-2021",
+   "path": "local/neamt/gadinti/2021/59",
+   "short": "HCL Gâdinți nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 59/2021 privind aprobarea Strategiei de dezvoltare economico-socială durabilă a comunei Gâdinți pentru perioada 2021 - 2027",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/38012",
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/38012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-60-2021",
+   "path": "local/neamt/gadinti/2021/60",
+   "short": "HCL Gâdinți nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 60/2021 privind aprobarea depunerii cererii de finanțare prin Programul Național de Investiții \"Anghel Saligny\" și a devizului general estimativ aferente obiectivului de investiții ”Modernizare străzi de interes local în comuna Gâdinți, județul Neamț\"",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/38013",
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/38013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-61-2021",
+   "path": "local/neamt/gadinti/2021/61",
+   "short": "HCL Gâdinți nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 61/2021 privind aprobarea depunerii cererii de finanțare prin Programul Național de Investiții \"Anghel Saligny\" și a devizului general estimativ aferente obiectivului de investiții ”Extindere rețea de alimentare cu apă și canalizare în comuna Gâdinți, județul Neamț”",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/38014",
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/38014",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--gadinti-62-2021",
    "path": "local/neamt/gadinti/2021/62",
    "short": "HCL Gâdinți nr. 62/2021",
@@ -118,6 +538,21 @@
      "from": "2021-11-18",
      "units": 1,
      "source_url": "https://emol.ro/gadinti-nt/registru-hcl/41592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-7-2021",
+   "path": "local/neamt/gadinti/2021/7",
+   "short": "HCL Gâdinți nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 7/2021 privind aprobarea radierii poz.36 din Inventarul bunurilor care aparțin domeniului public al comunei Gâdinți",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/15178",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/15178",
      "sha256": null
     }
    ]

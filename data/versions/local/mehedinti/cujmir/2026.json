@@ -3,6 +3,36 @@
  "shard": "local/mehedinti/cujmir/2026",
  "acts": [
   {
+   "slug": "hcl-mehedinti--cujmir-1-2026",
+   "path": "local/mehedinti/cujmir/2026/1",
+   "short": "HCL Cujmir nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 1/2026 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare pe anul 2025 din excedentul bugetar al anilor precedenți",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/248871",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/248871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-13-2026",
+   "path": "local/mehedinti/cujmir/2026/13",
+   "short": "HCL Cujmir nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 13/2026 privind aprobarea bugetului local al Comunei Cujmir si a Listei de investiții publice pentru anul 2026",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/267583",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/267583",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--cujmir-17-2026",
    "path": "local/mehedinti/cujmir/2026/17",
    "short": "HCL Cujmir nr. 17/2026",
@@ -43,6 +73,21 @@
      "from": "2026-06-23",
      "units": 1,
      "source_url": "https://emol.ro/cujmir-mh/registru-hcl/274944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-2-2026",
+   "path": "local/mehedinti/cujmir/2026/2",
+   "short": "HCL Cujmir nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 2/2026 privind actualizarea Planului de Analiza si Acoperire a Riscurilor (PAAR) in comuna Cujmir pentru anul 2026",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/250844",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/250844",
      "sha256": null
     }
    ]
@@ -198,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--cujmir-3-2026",
+   "path": "local/mehedinti/cujmir/2026/3",
+   "short": "HCL Cujmir nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 3/2026 privind organizarea activității de apărare împotriva incendiilor in Unitatea Administrativ Teritoriala – Comuna Cujmir pentru anul 2026",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/250845",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/250845",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--cujmir-30-2026",
    "path": "local/mehedinti/cujmir/2026/30",
    "short": "HCL Cujmir nr. 30/2026",
@@ -298,6 +358,21 @@
      "from": "2026-10-27",
      "units": 1,
      "source_url": "https://emol.ro/cujmir-mh/registru-hcl/294767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-4-2026",
+   "path": "local/mehedinti/cujmir/2026/4",
+   "short": "HCL Cujmir nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 4/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii sau reducerii riscului de sărăcie și excluziune socială, la nivelul comunei Cujmir, pentru anul 2026",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/250846",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/250846",
      "sha256": null
     }
    ]

@@ -3,6 +3,126 @@
  "shard": "local/mehedinti/livezile/2022",
  "acts": [
   {
+   "slug": "hcl-mehedinti--livezile-1-2022",
+   "path": "local/mehedinti/livezile/2022/1",
+   "short": "HCL Livezile nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 1/2022 privind acoperirea definitivă din excedentul bugetului local a deficitului secțiunii dezvoltare",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/56526",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/56526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-10-2022",
+   "path": "local/mehedinti/livezile/2022/10",
+   "short": "HCL Livezile nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 10/2022 privind planul de lucrări edilitar gospodărești , reactualizat , ce se vor realiza , cu beneficiarii Legii 416/2001",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/56825",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/56825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-11-2022",
+   "path": "local/mehedinti/livezile/2022/11",
+   "short": "HCL Livezile nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 11/2022 privind acordul pentru arondarea locuitorilor comunei Livezile pe linie de evidența persoanelor la serviciul public comunitar local de evidență a persoanelor ce se va înființa la nivelu comunei Rogova",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/56826",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/56826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-12-2022",
+   "path": "local/mehedinti/livezile/2022/12",
+   "short": "HCL Livezile nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 12/2022 privind indexarea impozitelor și taxelor locale pentru anul 2023",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/58930",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/58930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-13-2022",
+   "path": "local/mehedinti/livezile/2022/13",
+   "short": "HCL Livezile nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 13/2022 privind înființarea , organigrama și numărul de personal ale Serviciului Voluntar pentru Situații de Urgență de tip V1, prin reorganizare a serviciului de categoria a III-a al comunei Livezile , județul Mehedinți",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/58931",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/58931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-14-2022",
+   "path": "local/mehedinti/livezile/2022/14",
+   "short": "HCL Livezile nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 14/2022 privind prețul apei furnizate de către Serviciul Apă Livezile",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/58932",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/58932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-15-2022",
+   "path": "local/mehedinti/livezile/2022/15",
+   "short": "HCL Livezile nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 15/2022 privind rectificare de buget",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/60856",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/60856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-16-2022",
+   "path": "local/mehedinti/livezile/2022/16",
+   "short": "HCL Livezile nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 16/2022 privind aprobarea participării la realizarea investiției “Modernizarea sistemului de monitorizare și siguranță a spațiului public în comuna Livezile, județul Mehedinți” prevăzută la Obiectivul de investiție I.1.2. ”Asigurarea infrastructurii pentru transportul verde - ITS/ alte infrastructuri TIC (Sisteme inteligente de management local) din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ în cadrul Apelurilor de proiecte PNRR/2022/C10 în comuna Livezile, județul Mehedinți",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/60857",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/60857",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--livezile-17-2022",
    "path": "local/mehedinti/livezile/2022/17",
    "short": "HCL Livezile nr. 17/2022",
@@ -198,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--livezile-3-2022",
+   "path": "local/mehedinti/livezile/2022/3",
+   "short": "HCL Livezile nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 3/2022 privind aprobarea execuției bugetare",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/56809",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/56809",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--livezile-30-2022",
    "path": "local/mehedinti/livezile/2022/30",
    "short": "HCL Livezile nr. 30/2022",
@@ -298,6 +433,81 @@
      "from": "2023-10-06",
      "units": 1,
      "source_url": "https://emol.ro/livezile-mh/registru-hcl/84551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-5-2022",
+   "path": "local/mehedinti/livezile/2022/5",
+   "short": "HCL Livezile nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 5/2022 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate , pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/56811",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/56811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-6-2022",
+   "path": "local/mehedinti/livezile/2022/6",
+   "short": "HCL Livezile nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 6/2022 privind bugetul Consiliului Local Livezile pentru anul 2022",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/56817",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/56817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-7-2022",
+   "path": "local/mehedinti/livezile/2022/7",
+   "short": "HCL Livezile nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 7/2022 privind rectificarea bugetului local",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/56822",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/56822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-8-2022",
+   "path": "local/mehedinti/livezile/2022/8",
+   "short": "HCL Livezile nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 8/2022 privind aprobarea participării la ”Programul privind reducerea emisiilor de gaze cu efect de serăîn transporturi, prin promovarea infrastructurii pentruvehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități” în vederea realizării obiectivului de investiții ”Înființare stații de reîncărcare pentru vehicule electrice și parcaje aferente în comuna Livezile, județul Mehedinți”",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/56823",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/56823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-9-2022",
+   "path": "local/mehedinti/livezile/2022/9",
+   "short": "HCL Livezile nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 9/2022 privind propunere reprezentanți comisie evaluare secretar general",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/56824",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/56824",
      "sha256": null
     }
    ]

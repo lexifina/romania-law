@@ -3,6 +3,50 @@
 "shard": "local/mehedinti/breznita-ocol/2023",
 "acts": [
 {
+"slug": "hcl-mehedinti--breznita-ocol-10-2023",
+"path": "local/mehedinti/breznita-ocol/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 10/2023 privind analiza stadiului de inscriere a datelor in Registrul agricol si aprobarea programului de masuri pentru eficientizarea activitatii de inscriere a datelor in registrul agricol al comunei Breznita Ocol pentru semestrul II al anului 2022",
+"short": "HCL Breznița-Ocol nr. 10/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/breznita-ocol-mh/registru-hcl/89081",
+"council": "mehedinti/breznita-ocol",
+"council_name": "Consiliul Local al Comunei Breznița-Ocol",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--breznita-ocol-25-2023",
+"path": "local/mehedinti/breznita-ocol/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 25/2023 privind indexarea cu rata inflaţiei de 13,8% a impozitelor şi taxelor locale care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, precum şi actualizarea limitelor amenzilor stabilite conform Legii nr. 227/2015 privind Codul Fiscal, cu modificările şi completările ulterioare",
+"short": "HCL Breznița-Ocol nr. 25/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-25",
+"latest": "2023-04-25",
+"portal": "https://emol.ro/breznita-ocol-mh/registru-hcl/101563",
+"council": "mehedinti/breznita-ocol",
+"council_name": "Consiliul Local al Comunei Breznița-Ocol",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-mehedinti--breznita-ocol-45-2023",
 "path": "local/mehedinti/breznita-ocol/2023/45",
 "kind": "local",

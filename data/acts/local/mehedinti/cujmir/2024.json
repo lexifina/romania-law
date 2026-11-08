@@ -3,6 +3,94 @@
 "shard": "local/mehedinti/cujmir/2024",
 "acts": [
 {
+"slug": "hcl-mehedinti--cujmir-1-2024",
+"path": "local/mehedinti/cujmir/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 1/2024 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare pe anul 2023 din excedentul bugetar al anilor precedenți",
+"short": "HCL Cujmir nr. 1/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-06",
+"latest": "2024-02-06",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/139418",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-5-2024",
+"path": "local/mehedinti/cujmir/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 5/2024 privind aprobarea bugetului local al Comunei Cujmir si a listei de investiții publice pentru anul 2024",
+"short": "HCL Cujmir nr. 5/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/141226",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-8-2024",
+"path": "local/mehedinti/cujmir/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 8/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat după procedura de achiziție lucrări pentru obiectivul de investiții „REABILITARE SI MODERNIZARE ULIŢE SĂTEŞTI IN COMUNA CUJMIR, JUDEŢUL MEHEDINŢI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Cujmir nr. 8/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/141229",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-12-2024",
+"path": "local/mehedinti/cujmir/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 12/2024 privind aprobarea rectificării bugetului local al Comunei Cujmir si suplimentarea Listei de Investiții Publice pentru anul 2024",
+"short": "HCL Cujmir nr. 12/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-19",
+"latest": "2024-03-19",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/148208",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-mehedinti--cujmir-17-2024",
 "path": "local/mehedinti/cujmir/2024/17",
 "kind": "local",

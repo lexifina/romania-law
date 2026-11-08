@@ -3,6 +3,81 @@
  "shard": "local/mehedinti/gruia/2024",
  "acts": [
   {
+   "slug": "hcl-mehedinti--gruia-16-2024",
+   "path": "local/mehedinti/gruia/2024/16",
+   "short": "HCL Gruia nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 16/2024 privind rectificarea bugetului local si modificare si completare lista de investitii",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/147498",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/147498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-2-2024",
+   "path": "local/mehedinti/gruia/2024/2",
+   "short": "HCL Gruia nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 2/2024 privind acoperirea definitiva din excedentul bugetului local a deficitului sectiunii de functionare/dezvoltare",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/136584",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/136584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-20-2024",
+   "path": "local/mehedinti/gruia/2024/20",
+   "short": "HCL Gruia nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 20/2024 privind rectificarea bugetului local si modificare si completare lista de investitii",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/149960",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/149960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-27-2024",
+   "path": "local/mehedinti/gruia/2024/27",
+   "short": "HCL Gruia nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 27/2024 privind aprobarea contului anual de executie al bugetului pe anul 2024",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/157846",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/157846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-4-2024",
+   "path": "local/mehedinti/gruia/2024/4",
+   "short": "HCL Gruia nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 4/2024 pentru completarea HCL nr .2 din 08 01 2024 privind acoperirea definitiva din excedentul bugetului local a deficitului sectiunii de functionare / dezvoltare",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/137660",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/137660",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--gruia-41-2024",
    "path": "local/mehedinti/gruia/2024/41",
    "short": "HCL Gruia nr. 41/2024",
@@ -288,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--gruia-6-2024",
+   "path": "local/mehedinti/gruia/2024/6",
+   "short": "HCL Gruia nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 6/2024 privind aprobarea bugetului de venituri si cheltuieli al comunei Gruia pe anul 2024 si lista de investitii",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/141865",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/141865",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--gruia-60-2024",
    "path": "local/mehedinti/gruia/2024/60",
    "short": "HCL Gruia nr. 60/2024",
@@ -298,6 +388,21 @@
      "from": "2024-12-31",
      "units": 1,
      "source_url": "https://emol.ro/gruia-mh/registru-hcl/183443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-7-2024",
+   "path": "local/mehedinti/gruia/2024/7",
+   "short": "HCL Gruia nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 7/2024 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2024 la “SERVICIUL DE ALIMENTARE CU APĂ AL COMUNEI GRUIA . “, cu personalitate juridică aflat in subordinea Consiliului Local Gruia",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/141866",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/141866",
      "sha256": null
     }
    ]

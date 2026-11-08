@@ -3,6 +3,21 @@
  "shard": "local/neamt/bodesti/2022",
  "acts": [
   {
+   "slug": "hcl-neamt--bodesti-1-2022",
+   "path": "local/neamt/bodesti/2022/1",
+   "short": "HCL Bodești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 1/2022 privind utilizarea în anul 2022 a excedentului bugetului local înregistrat la data de 31 decembrie 2021",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/97815",
+   "versions": [
+    {
+     "from": "2022-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/97815",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--bodesti-100-2022",
    "path": "local/neamt/bodesti/2022/100",
    "short": "HCL Bodești nr. 100/2022",
@@ -93,6 +108,966 @@
    ]
   },
   {
+   "slug": "hcl-neamt--bodesti-11-2022",
+   "path": "local/neamt/bodesti/2022/11",
+   "short": "HCL Bodești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 11/2022 cu privire la aprobarea prelungirii contractului de concesiune cu numărul 3775 din 10.09.2012",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98190",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-15-2022",
+   "path": "local/neamt/bodesti/2022/15",
+   "short": "HCL Bodești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 15/2022 privind aprobarea contului de execuție al bugetului pe anul 2021",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98194",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-16-2022",
+   "path": "local/neamt/bodesti/2022/16",
+   "short": "HCL Bodești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 16/2022 privind utilizarea în anul 2022 a excedentului bugetului local înregistrat la data de 31 decembrie 2021",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98195",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-17-2022",
+   "path": "local/neamt/bodesti/2022/17",
+   "short": "HCL Bodești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 17/2022 privind aprobarea bugetului local al comunei Bodești pentru anul 2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98196",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-18-2022",
+   "path": "local/neamt/bodesti/2022/18",
+   "short": "HCL Bodești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 18/2022 privind aprobarea Strategiei anuale de achiziţii publice a comunei Bodești pentru anul 2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98197",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-19-2022",
+   "path": "local/neamt/bodesti/2022/19",
+   "short": "HCL Bodești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 19/2022 privind actualizarea devizului general și modificarea indicatorilor economici pentru obiectivul de investiţii \"REABILITAREA, MODERNIZAREA, EXTINDEREA SI DOTAREA SCOLII GIMNAZIALE, COMUNA BODESTI, JUDETUL NEAMT\", cod SMIS 124077",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98230",
+   "versions": [
+    {
+     "from": "2022-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-2-2022",
+   "path": "local/neamt/bodesti/2022/2",
+   "short": "HCL Bodești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 2/2022 privind aprobarea actualizarii acordul de parteneriat între Comuna Bodești, lider de proiect (Partener 1) şi Școala Gimnazială Bodești, Comuna Bodești, Județul Neamț și a indicatorilor tehnico-economici pentru realizarea obiectivul de investiție „Construire și dotare grădiniță în comuna Bodești, județul Neamț”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/97816",
+   "versions": [
+    {
+     "from": "2022-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/97816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-20-2022",
+   "path": "local/neamt/bodesti/2022/20",
+   "short": "HCL Bodești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 20/2022 privind rectificarea bugetului local aprobat pentru anul 2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98252",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-24-2022",
+   "path": "local/neamt/bodesti/2022/24",
+   "short": "HCL Bodești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 24/2022 privind aprobarea documentației tehnico-economice, a indicatorilor tehnico-economici faza studiul de fezabilitate pentru obiectivul de investiţie “Inființare sistem de canalizare ape uzate in comuna Bodești, judetul Neamț”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98267",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-25-2022",
+   "path": "local/neamt/bodesti/2022/25",
+   "short": "HCL Bodești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 25/2022 privind rectificarea bugetului local aprobat pentru anul 2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98268",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-26-2022",
+   "path": "local/neamt/bodesti/2022/26",
+   "short": "HCL Bodești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 26/2022 privind aprobarea Acordului de asociere în vederea realizării proiectului de investiție „Înființare sistem de distribuție gaze naturale de interes public județean în comunele Ștefan Cel Mare, Dragomirești, Războieni, Bodești, Girov, Dobreni și Gârcina din județul Neamț”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98269",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-31-2022",
+   "path": "local/neamt/bodesti/2022/31",
+   "short": "HCL Bodești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 31/2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98290",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-32-2022",
+   "path": "local/neamt/bodesti/2022/32",
+   "short": "HCL Bodești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 32/2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98291",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-33-2022",
+   "path": "local/neamt/bodesti/2022/33",
+   "short": "HCL Bodești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 33/2022 privind acordarea unui mandat special in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara “AQUA NEAMT” in vederea exercitarii votului",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98292",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-34-2022",
+   "path": "local/neamt/bodesti/2022/34",
+   "short": "HCL Bodești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 34/2022 privind introducerea unor bunuri în domeniul public al comunei Bodești, județul Neamț",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98293",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-35-2022",
+   "path": "local/neamt/bodesti/2022/35",
+   "short": "HCL Bodești nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 35/2022 privind completarea inventarului bunurilor imobile care alcatuiesc domeniul privat al comunei Bodesti",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98294",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-36-2022",
+   "path": "local/neamt/bodesti/2022/36",
+   "short": "HCL Bodești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 36/2022 privind aprobarea unui acord de parteneriat",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98295",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-37-2022",
+   "path": "local/neamt/bodesti/2022/37",
+   "short": "HCL Bodești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 37/2022 privind aprobarea Listei de priorităţi pentru repartizarea locuințelor disponibile în blocul ANL, precum şi a Listei de repartizare pentru acesta",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98297",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-38-2022",
+   "path": "local/neamt/bodesti/2022/38",
+   "short": "HCL Bodești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 38/2022 privind aprobarea notei conceptuale și temei de proiectare pentru obiectivul de investiție \"Sistem de supraveghere video în satul Corni\"",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98298",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-39-2022",
+   "path": "local/neamt/bodesti/2022/39",
+   "short": "HCL Bodești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 39/2022 privind rectificarea bugetului local aprobat pentru anul 2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98299",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-4-2022",
+   "path": "local/neamt/bodesti/2022/4",
+   "short": "HCL Bodești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 4/2022 privind aprobarea Planului de analiza si acoperirea riscurilor a comunei Bodesti",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98169",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-40-2022",
+   "path": "local/neamt/bodesti/2022/40",
+   "short": "HCL Bodești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 40/2022 privind aprobarea depunerii cererii de finanțare prin Programul Național de Investiții „Anghel Saligny” pentru obiectivul de investiție „Înființare sistem de distribuție gaze naturale de interes public județean în comunele Ștefan Cel Mare, Dragomirești, Războieni, Bodești, Girov, Dobreni și Gârcina din județul Neamț”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98302",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-41-2022",
+   "path": "local/neamt/bodesti/2022/41",
+   "short": "HCL Bodești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 41/2022 privind aprobarea documentației tehnico-economice, a indicatorilor tehnico-economici faza proiect tehnic pentru realizarea obiectivului de investiție „REABILITAREA, MODERNIZAREA, EXTINDEREA SI DOTAREA SCOLII GIMNAZIALE, COMUNA BODESTI, JUDETUL NEAMT\", cod SMIS 124077",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98303",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-42-2022",
+   "path": "local/neamt/bodesti/2022/42",
+   "short": "HCL Bodești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 42/2022 privind alegerea preşedintelui de şedinţă care va conduce lucrările Consiliului local al comunei Bodești în lunile mai, iunie și iulie 2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98304",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-43-2022",
+   "path": "local/neamt/bodesti/2022/43",
+   "short": "HCL Bodești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 43/2022 privind aprobarea încheierii unui Protocol între comuna Bodești si Școala Gimnazială comuna Bodești în vederea predării - primirii echipamentelor achiziționate în cadrul Proiectului „Achiziție de tablete școlare și alte echipamente electronice necesare desfășurarii activității didactice în mediul on-line în comuna Bodești, județul Neamț”, cod SMIS 144111",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98305",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-44-2022",
+   "path": "local/neamt/bodesti/2022/44",
+   "short": "HCL Bodești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 44/2022 privind aprobarea notei conceptuale și temei de proiectare pentru obiectivul de investiție \"Inființare Stație de reîncărcare pentru vehicule electrice în comuna Bodești, județul Neamț\"",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98306",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-45-2022",
+   "path": "local/neamt/bodesti/2022/45",
+   "short": "HCL Bodești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 45/2022 privind rectificarea bugetului local aprobat pentru anul 2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98307",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-46-2022",
+   "path": "local/neamt/bodesti/2022/46",
+   "short": "HCL Bodești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 46/2022 privind aprobarea depunerii si a cheltuielilor proiectului “I.1.2 - Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC/ baza de date deschise GIS” care va fi depus in cadrul Planului național de redresare și rezilienta – apelul de proiecte PNRR/2022/C10, componenta 10— FONDUL LOCAL",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98308",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-47-2022",
+   "path": "local/neamt/bodesti/2022/47",
+   "short": "HCL Bodești nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 47/2022 privind participarea COMUNEI BODESTI la ”Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități” cu investiția ,,Infiintare statii de reincarcare pentru vehicule electrice in comuna BODESTI, judetul Neamt”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98309",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-48-2022",
+   "path": "local/neamt/bodesti/2022/48",
+   "short": "HCL Bodești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 48/2022 privind aplicarea și aprobarea proiectului ”Portal de Interconectare a Serviciilor Publice Administrative, comuna Bodești, județul Neamț” pentru finanțare prin Programul Național de Redresare și Reziliență",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98310",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-49-2022",
+   "path": "local/neamt/bodesti/2022/49",
+   "short": "HCL Bodești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 49/2022 privind aprobarea participării Comunei Bodești, în calitate de membru fondator, la înființarea asociației de dezvoltare intercomunitară „Protecția animalelor Neamț”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98322",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-50-2022",
+   "path": "local/neamt/bodesti/2022/50",
+   "short": "HCL Bodești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 50/2022 privind completarea inventarului bunurilor imobile care alcatuiesc domeniul privat al comunei Bodesti",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98323",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-51-2022",
+   "path": "local/neamt/bodesti/2022/51",
+   "short": "HCL Bodești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 51/2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98324",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-52-2022",
+   "path": "local/neamt/bodesti/2022/52",
+   "short": "HCL Bodești nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 52/2022 privind aprobarea Studiului de fezabilitate si a Indicatorilor tehnico-economici pentru “Proiectul regional de dezvoltarea a infrastructurii de apa si apa uzata din judetul Neamt, in perioada 2014-2020 ”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98325",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-53-2022",
+   "path": "local/neamt/bodesti/2022/53",
+   "short": "HCL Bodești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 53/2022 privind rectificarea bugetului local aprobat pentru anul 2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98326",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-54-2022",
+   "path": "local/neamt/bodesti/2022/54",
+   "short": "HCL Bodești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 54/2022 privind actualizarea taxelor speciale pentru folosirea utilajelor mecanice din dotarea comunei Bodești din cadrul proiectului „Platforma de depozitare şi gospodărire a gunoiului de grajd şi a deşeurilor menajere în comuna Bodești, județul Neamț” și pentru prestarea serviciilor de către Serviciul Voluntar pentru Situații de Urgenta al comunei Bodești",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98327",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-56-2022",
+   "path": "local/neamt/bodesti/2022/56",
+   "short": "HCL Bodești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 56/2022 privind rectificarea bugetului local aprobat pentru anul 2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98329",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-57-2022",
+   "path": "local/neamt/bodesti/2022/57",
+   "short": "HCL Bodești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 57/2022 privind aprobarea Planului de analiza si acoperirea riscurilor a comunei Bodesti",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98330",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-58-2022",
+   "path": "local/neamt/bodesti/2022/58",
+   "short": "HCL Bodești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 58/2022 privind aprobarea ajustării în baza OUG nr. 47/2022 a preţului lucrărilor rămase de executat la obiectivul de investiţi ″Modernizare drumuri locale în comuna Bodești, județul Neamț ″şi încheierii actului adiţional nr. 3 la contractul de execuţie lucrări nr. 6297/18.12.2019",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98331",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-59-2022",
+   "path": "local/neamt/bodesti/2022/59",
+   "short": "HCL Bodești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 59/2022 privind aprobarea metodologiei de calcul a chiriei locuinţelor ANL din comuna Bodești",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98332",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-61-2022",
+   "path": "local/neamt/bodesti/2022/61",
+   "short": "HCL Bodești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 61/2022 privind aprobarea documentației tehnico-economice, a indicatorilor tehnico-economici faza Studiu de fezabilitate pentru realizarea obiectivul de investiție „SISTEM DE SUPRAVEGHERE VIDEO ÎN SATUL CORNI, COMUNA BODEȘTI, JUDEȚUL NEAMȚ”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98334",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-62-2022",
+   "path": "local/neamt/bodesti/2022/62",
+   "short": "HCL Bodești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 62/2022 privind alegerea preşedintelui de şedinţă care va conduce lucrările Consiliului local al comunei Bodești în lunile august, septembrie și octombrie 2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98335",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-63-2022",
+   "path": "local/neamt/bodesti/2022/63",
+   "short": "HCL Bodești nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 63/2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98336",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-64-2022",
+   "path": "local/neamt/bodesti/2022/64",
+   "short": "HCL Bodești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 64/2022 privind aprobarea de principiu a demolării unei construcţii, proprietate a Comunei Bodești",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98353",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-65-2022",
+   "path": "local/neamt/bodesti/2022/65",
+   "short": "HCL Bodești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 65/2022 privind aprobarea cofinanţarii investiției „Extindere reţea de distribuţie a energiei electrice comuna Bodești, sat Bodești, zona Obor, Județul Neamț”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98354",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-66-2022",
+   "path": "local/neamt/bodesti/2022/66",
+   "short": "HCL Bodești nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 66/2022 privind aprobarea cofinanţarii investiției „Extindere reţea de distribuţie a energiei electrice comuna Bodești, sat Corni, zona Precista, Județul Neamț”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98355",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-68-2022",
+   "path": "local/neamt/bodesti/2022/68",
+   "short": "HCL Bodești nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 68/2022 privind rectificarea bugetului local aprobat pentru anul 2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98357",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-69-2022",
+   "path": "local/neamt/bodesti/2022/69",
+   "short": "HCL Bodești nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 69/2022 privind aprobarea Listei de repartizare a locuințelor disponibile în blocul ANL",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98358",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-70-2022",
+   "path": "local/neamt/bodesti/2022/70",
+   "short": "HCL Bodești nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 70/2022 privind rectificarea bugetului local aprobat pentru anul 2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98359",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-71-2022",
+   "path": "local/neamt/bodesti/2022/71",
+   "short": "HCL Bodești nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 71/2022 privind aprobarea neasumării responsabilităţii organizării si derulării procedurilor de atribuirea contractelor/acordurilor - cadru pentru achiziţia produselor si a contractelor/acordurilor - cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivel local, aferente Programului pentru Şcoli al României, în anul școlar 2022-2023",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98360",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-72-2022",
+   "path": "local/neamt/bodesti/2022/72",
+   "short": "HCL Bodești nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 72/2022 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Inființare sistem de canalizare ape uzate in comuna Bodești, judetul Neamț”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98361",
+   "versions": [
+    {
+     "from": "2022-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-73-2022",
+   "path": "local/neamt/bodesti/2022/73",
+   "short": "HCL Bodești nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 73/2022 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a devizului general actaulizat pentru obiectivul de investiții \"Modernizare drumuri locale in comuna Bodesti, judetul Neamt \", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98362",
+   "versions": [
+    {
+     "from": "2022-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-74-2022",
+   "path": "local/neamt/bodesti/2022/74",
+   "short": "HCL Bodești nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 74/2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98364",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-75-2022",
+   "path": "local/neamt/bodesti/2022/75",
+   "short": "HCL Bodești nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 75/2022 privind introducerea unui bun în domeniul public al comunei Bodești, județul Neamț",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98365",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-77-2022",
+   "path": "local/neamt/bodesti/2022/77",
+   "short": "HCL Bodești nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 77/2022 privind rectificarea bugetului local aprobat pentru anul 2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98367",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-78-2022",
+   "path": "local/neamt/bodesti/2022/78",
+   "short": "HCL Bodești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 78/2022 privind punerea la dispoziție în cadrul ”Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Neamț în perioada 2014-2020” a unor suprafețe de teren, din domeniul public al unității administrativ-teritoriale Bodești, pentru construcția/extinderea/reabilitarea noilor investiții aferente acestuia",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98368",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-79-2022",
+   "path": "local/neamt/bodesti/2022/79",
+   "short": "HCL Bodești nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 79/2022 privind însuşirea Acordului de cooperare cu Filiala Judeţeană Neamț a A.Co.R. privind organizarea şi exercitarea serviciului administrativ",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98369",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-8-2022",
+   "path": "local/neamt/bodesti/2022/8",
+   "short": "HCL Bodești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 8/2022 privind aprobarea Programului de Aprovizionare a Populației cu Produse Agroalimentare Raționalizate, valabil în perioada 2021-2024 privind",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98173",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-80-2022",
+   "path": "local/neamt/bodesti/2022/80",
+   "short": "HCL Bodești nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 80/2022 privind retragerea comunei Poiana Teiului din cadrul Asociației de Dezvoltare Intercomunitară Aqua Neamț și modificarea Actelor Statutare ale Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98370",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-81-2022",
+   "path": "local/neamt/bodesti/2022/81",
+   "short": "HCL Bodești nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 81/2022 privind aprobarea Planului anual de evolutie a tarifelor la apa si apa uzata, conform rezultatelor Analizei Cost-Beneficiu pentru “Proiectul regional de dezvoltare a infrastructurii de apa si apa uzata din judetul Neamt , in perioada 2014-2020”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98371",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-82-2022",
+   "path": "local/neamt/bodesti/2022/82",
+   "short": "HCL Bodești nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 82/2022 privind acordarea unui mandat special in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara “AQUA NEAMT” in vederea exercitarii votului",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98372",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-83-2022",
+   "path": "local/neamt/bodesti/2022/83",
+   "short": "HCL Bodești nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 83/2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98373",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-84-2022",
+   "path": "local/neamt/bodesti/2022/84",
+   "short": "HCL Bodești nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 84/2022 privind aprobarea notei conceptuale și temei de proiectare pentru obiectivul de investiție \"Amenajare spatiu de agrement ( spatiu de joaca pentru copii si fitness) în comuna Bodești, jud Neamț\"",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98374",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-85-2022",
+   "path": "local/neamt/bodesti/2022/85",
+   "short": "HCL Bodești nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 85/2022 privind rectificarea bugetului local aprobat pentru anul 2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98375",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98375",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--bodesti-86-2022",
    "path": "local/neamt/bodesti/2022/86",
    "short": "HCL Bodești nr. 86/2022",
@@ -148,6 +1123,21 @@
      "from": "2022-11-11",
      "units": 1,
      "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-9-2022",
+   "path": "local/neamt/bodesti/2022/9",
+   "short": "HCL Bodești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 9/2022 privind aprobarea Listei de priorităţi pentru repartizarea locuințelor disponibile în blocul ANL, precum şi a Listei de repartizare pentru acesta",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98198",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98198",
      "sha256": null
     }
    ]

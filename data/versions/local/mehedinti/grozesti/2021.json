@@ -3,6 +3,66 @@
  "shard": "local/mehedinti/grozesti/2021",
  "acts": [
   {
+   "slug": "hcl-mehedinti--grozesti-14-2021",
+   "path": "local/mehedinti/grozesti/2021/14",
+   "short": "HCL Grozești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 14/2021",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/58232",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/58232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-22-2021",
+   "path": "local/mehedinti/grozesti/2021/22",
+   "short": "HCL Grozești nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 22/2021 privind aprobarea Planului de apărare împotriva inundațiilor, ghețurilor și poluărilor accidentale pe cursurile de apă",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/58251",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/58251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-25-2021",
+   "path": "local/mehedinti/grozesti/2021/25",
+   "short": "HCL Grozești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 25/2021 privind acordarea scutirii de la plata majorărilor de întârziere aferente obligațiilor bugetare, constând în impozite și taxe locale datorate bugetului local de către persoanele fizice ce au calitatea de contribuabili la bugetul local al Comunei Grozești",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/58254",
+   "versions": [
+    {
+     "from": "2021-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/58254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-26-2021",
+   "path": "local/mehedinti/grozesti/2021/26",
+   "short": "HCL Grozești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 26/2021 privind aprobarea indicatorilor Tehnico-Economici pentru obiectivul „Reabilitare și modernizare ulița Buțu și podețe dalate în comuna Grozești, județul Mehedinți”",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/58255",
+   "versions": [
+    {
+     "from": "2021-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/58255",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--grozesti-31-2021",
    "path": "local/mehedinti/grozesti/2021/31",
    "short": "HCL Grozești nr. 31/2021",
@@ -298,6 +358,21 @@
      "from": "2021-12-22",
      "units": 1,
      "source_url": "https://emol.ro/grozesti-mh/registru-hcl/58284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-6-2021",
+   "path": "local/mehedinti/grozesti/2021/6",
+   "short": "HCL Grozești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 6/2021 privind înregistrarea Primăriei Grozești în Sistemul național electronic de plată online a taxelor și impozitelor utilizând cardul bancar",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/58183",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/58183",
      "sha256": null
     }
    ]

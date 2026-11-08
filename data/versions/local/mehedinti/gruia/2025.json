@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/gruia/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--gruia-14-2025",
+   "path": "local/mehedinti/gruia/2025/14",
+   "short": "HCL Gruia nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 14/2025 privind aprobarea Regulamentului de bună gospodărire a comunei Gruia , judeţul Mehedinti",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/197087",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/197087",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--gruia-43-2025",
    "path": "local/mehedinti/gruia/2025/43",
    "short": "HCL Gruia nr. 43/2025",

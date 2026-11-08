@@ -3,6 +3,126 @@
  "shard": "local/mehedinti/ponoarele/2024",
  "acts": [
   {
+   "slug": "hcl-mehedinti--ponoarele-1-2024",
+   "path": "local/mehedinti/ponoarele/2024/1",
+   "short": "HCL Ponoarele nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 1/2024 privind aprobarea rețelei școlare a unităţilor de învăţământ preuniversitar de stat acreditate de la nivelul comunei Ponoarele pentru anul şcolar 2024 - 2025",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/136848",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/136848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-10-2024",
+   "path": "local/mehedinti/ponoarele/2024/10",
+   "short": "HCL Ponoarele nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 10/2024 privind organizarea manifestării cultural-artistică ,,Sărbătoarea Liliacului” ediția 2024",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/145607",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/145607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-11-2024",
+   "path": "local/mehedinti/ponoarele/2024/11",
+   "short": "HCL Ponoarele nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 11/2024 privind aprobarea devizului general actualizat pentru obiectivul de investitie ,,Extindere retea de alimentare cu apa in comuna Ponoarele, judetul Mehedinti''",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/147052",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/147052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-15-2024",
+   "path": "local/mehedinti/ponoarele/2024/15",
+   "short": "HCL Ponoarele nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 15/2024 privind aprobarea cheltuielilor neeligibile si valoarea totala a proiectului ,,Dotarea cu mobilier, materiale didactice și echipamente digitale a Școlii Gimnaziale Dr. Alexandru M. Popescu, Școlii Primare Gărdăneasa și Scolii Primare Bârâiacu din comuna Ponoarele\"",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/155199",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/155199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-17-2024",
+   "path": "local/mehedinti/ponoarele/2024/17",
+   "short": "HCL Ponoarele nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 17/2024 privind rectificarea bugetului local de venituri si cheltuieli al comunei Ponoarele, Judetul Mehedinti pe anul 2024",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/158118",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/158118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-18-2024",
+   "path": "local/mehedinti/ponoarele/2024/18",
+   "short": "HCL Ponoarele nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 18/2024 privind organizarea Festivalului National Concurs de Folclor „Ponoare, Ponoare” editia a-XVIII-a 2024, stabilirea taxelor pentru agentii economici care desfasoara activitati economice la aceasta manifestare, precum si aprobarea unor masuri organizatorice",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/162327",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/162327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-21-2024",
+   "path": "local/mehedinti/ponoarele/2024/21",
+   "short": "HCL Ponoarele nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 21/2024 privind aprobarea lucrarilor de explorare - constituite din foraje geologice pe doua drumuri apartinand domeniului public al comunei Ponoarele, Judetul Mehedinti",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/164354",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/164354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-23-2024",
+   "path": "local/mehedinti/ponoarele/2024/23",
+   "short": "HCL Ponoarele nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 23/2024 privind rectificarea bugetului local de venituri si cheltuieli al comunei Ponoarele, Judetul Mehedinti pe anul 2024",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/164356",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/164356",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ponoarele-24-2024",
    "path": "local/mehedinti/ponoarele/2024/24",
    "short": "HCL Ponoarele nr. 24/2024",
@@ -298,6 +418,36 @@
      "from": "2024-12-24",
      "units": 1,
      "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/185025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-7-2024",
+   "path": "local/mehedinti/ponoarele/2024/7",
+   "short": "HCL Ponoarele nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 7/2024 privind aprobarea bugetului local de venituri si cheltuieli al comunei Ponoarele, Judetul Mehedinti pe anul 2024",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/142201",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/142201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-9-2024",
+   "path": "local/mehedinti/ponoarele/2024/9",
+   "short": "HCL Ponoarele nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 9/2024 privind reactualizarea indicatorilor tehnico - economici pentru obiectivul de investitie ,,Modernizare drum comunal DC 57A Comuna Ponoarele, judetul Mehedinti”",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/145606",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/145606",
      "sha256": null
     }
    ]

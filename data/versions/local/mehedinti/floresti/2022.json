@@ -3,6 +3,51 @@
  "shard": "local/mehedinti/floresti/2022",
  "acts": [
   {
+   "slug": "hcl-mehedinti--floresti-10-2022",
+   "path": "local/mehedinti/floresti/2022/10",
+   "short": "HCL Florești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 10/2022 privind rectificarea bugetului local al comunei Floresti pentru anul 2022",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/56814",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/56814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-11-2022",
+   "path": "local/mehedinti/floresti/2022/11",
+   "short": "HCL Florești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 11/2022 Privind aprobarea documentatiei in vederea participarii la programul “Fondul Local” in cadrul Planului National de Redresare si Rezilienta – Componenta 10",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/56815",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/56815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-12-2022",
+   "path": "local/mehedinti/floresti/2022/12",
+   "short": "HCL Florești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 12/2022 privind alegerea Presedintelui de sedinta",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/60376",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/60376",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--floresti-13-2022",
    "path": "local/mehedinti/floresti/2022/13",
    "short": "HCL Florești nr. 13/2022",
@@ -298,6 +343,81 @@
      "from": "2023-01-13",
      "units": 1,
      "source_url": "https://emol.ro/floresti-mh/registru-hcl/84250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-5-2022",
+   "path": "local/mehedinti/floresti/2022/5",
+   "short": "HCL Florești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 5/2022 privind aprobarea executiei bugetare pentru anul 2021",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/53278",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/53278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-6-2022",
+   "path": "local/mehedinti/floresti/2022/6",
+   "short": "HCL Florești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 6/2022 privind aprobarea obiectului de investitii ,,ÎNFIINȚARE REȚEA INTELIGENTĂ DE DISTRIBUȚIE A GAZELOR NATURALE ÎN COMUNA FLOREȘTI, JUDEȚUL MEHEDINȚI” conform O.U.G nr. 95/2021 pentru aprobarea Programului Național de Investitii “Anghel Saligny”",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/53279",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/53279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-7-2022",
+   "path": "local/mehedinti/floresti/2022/7",
+   "short": "HCL Florești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 7/2022 privind aprobarea contractului de constituire a dreptului de superficie intre Scoala Gimnaziala Floresti si Comuna Floresti jud. Mehedinți pentru terenul in suprafata de 958 mp identificat in Cartea Funciara nr. 50104 pentru o perioada de 5 ani",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/55686",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/55686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-8-2022",
+   "path": "local/mehedinti/floresti/2022/8",
+   "short": "HCL Florești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 8/2022",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/56812",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/56812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-9-2022",
+   "path": "local/mehedinti/floresti/2022/9",
+   "short": "HCL Florești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 9/2022 privind aprobarea contractului de elaborarea documentatiei tehnico-economice in faza de proiectare Proiect Tehnic privind obiectivul de investitii: “MODERNIZARE ACCES STATIE ALIMENTARE CU APA GARDOAIA, JUDETUL MEHEDINTI”",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/56813",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/56813",
      "sha256": null
     }
    ]

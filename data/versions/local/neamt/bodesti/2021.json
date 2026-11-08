@@ -3,6 +3,21 @@
  "shard": "local/neamt/bodesti/2021",
  "acts": [
   {
+   "slug": "hcl-neamt--bodesti-10-2021",
+   "path": "local/neamt/bodesti/2021/10",
+   "short": "HCL Bodești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 10/2021 privind aprobarea asigurării confinanțării obiectivului de investiției Modernizare drumuri locale în comuna Bodești, județul Neamț",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/97192",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/97192",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--bodesti-41-2021",
    "path": "local/neamt/bodesti/2021/41",
    "short": "HCL Bodești nr. 41/2021",
@@ -298,6 +313,21 @@
      "from": "2021-12-22",
      "units": 1,
      "source_url": "https://emol.ro/bodesti-nt/registru-hcl/97444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-9-2021",
+   "path": "local/neamt/bodesti/2021/9",
+   "short": "HCL Bodești nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 9/2021 privind aprobarea realizării investiției ”Modernizare drumuri locale în comuna Bodești, județul Neamț”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/97191",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/97191",
      "sha256": null
     }
    ]

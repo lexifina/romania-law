@@ -3,6 +3,591 @@
  "shard": "local/mehedinti/gruia/2022",
  "acts": [
   {
+   "slug": "hcl-mehedinti--gruia-1-2022",
+   "path": "local/mehedinti/gruia/2022/1",
+   "short": "HCL Gruia nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 1/2022 Proiect de hotarare pentru validarea Dispoziției primarului comunei Gruia nr.337 din 29 12 2021 privind rectificarea bugetului de veniturii si cheltuieli pe luna decembrie 2021",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/46670",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/46670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-10-2022",
+   "path": "local/mehedinti/gruia/2022/10",
+   "short": "HCL Gruia nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 10/2022 privind aprobarea bugetului de venituri si cheltuieli al comunei Gruia pe anul 2022 si lista de investitii",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/50601",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/50601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-11-2022",
+   "path": "local/mehedinti/gruia/2022/11",
+   "short": "HCL Gruia nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 11/2022 aprobarea , bugetului de venituri si cheltuieli pe anul 2022 la “SERVICIUL DE ALIMENTARE CU APĂ AL COMUNEI GRUIA . “, cu personalitate juridică aflat in subordinea Consiliului Local Gruia",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/50602",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/50602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-12-2022",
+   "path": "local/mehedinti/gruia/2022/12",
+   "short": "HCL Gruia nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 12/2022 privind aprobarea Programului anual al achizitiilor publice pe anul 2022",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/50603",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/50603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-15-2022",
+   "path": "local/mehedinti/gruia/2022/15",
+   "short": "HCL Gruia nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 15/2022 privind validarea dispozitiei primarului nr.47 din 18 02 2022 referitoare la aprobarea suplimentarii bugetului local al comunei Gruia pe anul 2022 si rectificarea bugetului local",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/53073",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/53073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-16-2022",
+   "path": "local/mehedinti/gruia/2022/16",
+   "short": "HCL Gruia nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 16/2022 privind actualizarea Programului anual al achizitiilor publice pe anul 2022",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/53074",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/53074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-18-2022",
+   "path": "local/mehedinti/gruia/2022/18",
+   "short": "HCL Gruia nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 18/2022 privind rectificarea bugetului de venituri si cheluieli si modificarea si completarea listei de investitii",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/54403",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/54403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-19-2022",
+   "path": "local/mehedinti/gruia/2022/19",
+   "short": "HCL Gruia nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 19/2022 privind aprobarea solicitarii prelungirii pana la data de 27.12.2022 a Scrisorii de garantie de la FNGCIMM SA IFN nr. 395/11.08.2017 in suma de 452.828,79 lei in vederea garantarii in procent de 100% a obligatiilor de plata a avansului de 452.828,79 lei din fondurile nerambursabile pentru implementarea proiectului “MODERNIZARE, EXTINDERE SI DOTARE GRADINITA, COMUNA GRUIA, LOCALITATEA GRUIA, JUDETUL MEHEDINTI” in com. Gruia, jud. Mehedinti, in baza contractului de finantare nerambursabila nr. C0720EN00011642700209/27.06.2017 cu modificarile si completarile ulterioare, in favoarea Agentiei pentru Finantarea Investitiilor Rurale",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/54404",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/54404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-2-2022",
+   "path": "local/mehedinti/gruia/2022/2",
+   "short": "HCL Gruia nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 2/2022 privind acoperirea definitiva din excedentul bugetului local a deficitului sectiunii de functionare/dezvoltare",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/46671",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/46671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-20-2022",
+   "path": "local/mehedinti/gruia/2022/20",
+   "short": "HCL Gruia nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 20/2022 privind implementarea proiectului „Echipamente sanitare anticovid scoli si gradinita Comuna Gruia\"",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/54681",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/54681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-21-2022",
+   "path": "local/mehedinti/gruia/2022/21",
+   "short": "HCL Gruia nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 21/2022 privind aprobarea Acordului de parteneriat încheiat între Unitatea Administrativ Teritorială Comuna Gruia și Unitatea Administrativ Teritorială Județul Mehedinți, Unitatea Administrativ Teritorială Comuna Salcia, Unitatea Administrativ Teritorială Comuna Vrata, Unitatea Administrativ Teritorială Comuna Gârla Mare , Unitatea Administrativ Teritorială Comuna Pristol , pentru realizarea obiectivului de investiții ”Sistem de distribuţie a gazelor naturale, inclusiv a branşamentelor, precum şi a racordului la sistemul de transport al gazelor naturale în UAT - Comuna Salcia, UAT - Comuna Vrata, UAT - Comuna Gârla Mare, UAT Comuna - Pristol, UAT - Comuna Gruia”",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/55227",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/55227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-22-2022",
+   "path": "local/mehedinti/gruia/2022/22",
+   "short": "HCL Gruia nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 22/2022 privind aprobarea Acordului de parteneriat încheiat între Unitatea Administrativ Teritorială Comuna Gruia și Unitatea Administrativ Teritorială Județul Mehedinți, Unitatea Administrativ Teritorială Comuna Salcia, Unitatea Administrativ Teritorială Comuna Vrata, Unitatea Administrativ Teritorială Comuna Gârla Mare , Unitatea Administrativ Teritorială Comuna Pristol ,Unitatea Administrativ Teritoriala Patulele pentru realizarea obiectivului de investiții ”Sistem de distribuţie a gazelor naturale, inclusiv a branşamentelor, precum şi a racordului la sistemul de transport al gazelor naturale în UAT - Comuna Salcia, UAT - Comuna Vrata, UAT - Comuna Gârla Mare, UAT Comuna - Pristol, UAT - Comuna Gruia ,UAT- Comuna Patulele ”",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/56883",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/56883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-23-2022",
+   "path": "local/mehedinti/gruia/2022/23",
+   "short": "HCL Gruia nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 23/2022 privind rectificarea bugetului de venituri si cheluieli al UAT Gruia",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/56884",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/56884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-24-2022",
+   "path": "local/mehedinti/gruia/2022/24",
+   "short": "HCL Gruia nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 24/2022 privind actualizarea Programului anual al achizitiilor publice pe anul 2022",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/56885",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/56885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-25-2022",
+   "path": "local/mehedinti/gruia/2022/25",
+   "short": "HCL Gruia nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 25/2022 Privind aprobarea documentatiei in vederea participarii la programul “Fondul Local” in cadrul Planului National de Redresare si Rezilienta – Componenta 10",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/56886",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/56886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-26-2022",
+   "path": "local/mehedinti/gruia/2022/26",
+   "short": "HCL Gruia nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 26/2022 privind aprobarea organigramei si statul de functii la Serviciul Public Alimentare cu Apa Gruia",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/56887",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/56887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-27-2022",
+   "path": "local/mehedinti/gruia/2022/27",
+   "short": "HCL Gruia nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 27/2022 PRIVIND APROBAREA CERERII DE FINANTARE SI A DEVIZULUI GENERAL ESTIMATIV IN VEDEREA INCLUDERII LA FINANTARE A OBIECTIVULUI DE INVESTITIE ,,SISTEM DE DISTRIBUȚIE A GAZELOR NATURALE, INCLUSIV A BRANȘAMENTELOR, PRECUM ȘI A RACORDULUI LA SISTEMUL DE TRANSPORT AL GAZELOR NATURALE ÎN UAT - COMUNA SALCIA, UAT - COMUNA VRATA, UAT – COMUNA GÂRLA MARE , UAT -COMUNA – PRISTOL , UAT - COMUNA GRUIA , UAT – COMUNA PĂTULELE ”",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/57723",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/57723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-29-2022",
+   "path": "local/mehedinti/gruia/2022/29",
+   "short": "HCL Gruia nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 29/2022 privind rectificarea bugetului de venituri si cheluieli al UAT Gruia si modificarea si completarea listei de investitii",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/59759",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/59759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-30-2022",
+   "path": "local/mehedinti/gruia/2022/30",
+   "short": "HCL Gruia nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 30/2022 privind aprobarea actualizării Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului Comunei Gruia",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/59760",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/59760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-32-2022",
+   "path": "local/mehedinti/gruia/2022/32",
+   "short": "HCL Gruia nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 32/2022 privind aprobarea situatiilor financiare si a contului de incheiere a exercitiului bugetar pe anul 2021",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/59762",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/59762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-34-2022",
+   "path": "local/mehedinti/gruia/2022/34",
+   "short": "HCL Gruia nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 34/2022 Privind aprobarea documentatiei in vederea participarii la programul “Fondul Local” in cadrul Planului National de Redresare si Rezilienta – Componenta 10",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/60235",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/60235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-35-2022",
+   "path": "local/mehedinti/gruia/2022/35",
+   "short": "HCL Gruia nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 35/2022 privind rectificarea bugetului local",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/62415",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/62415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-36-2022",
+   "path": "local/mehedinti/gruia/2022/36",
+   "short": "HCL Gruia nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 36/2022 privind aprobarea structurii organizatorice a comunei Gruia ,organigrama , statul de funcţii din cadrul aparatului propriu de specialitate al primarului comunei Gruia , pentru anul 2022",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/62416",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/62416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-37-2022",
+   "path": "local/mehedinti/gruia/2022/37",
+   "short": "HCL Gruia nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 37/2022 privind actualizarea Programului anual al achizitiilor publice pe anul 2022",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/62417",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/62417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-38-2022",
+   "path": "local/mehedinti/gruia/2022/38",
+   "short": "HCL Gruia nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 38/2022 privind actualizarea indicatorilor economici pentru investitia ,, MODERNIZAREA RETELEI DE DRUMURI DE INTERES LOCAL IN COMUNA GRUIA, SATELE GRUIA, IZVOARELE, POIANA GRUII, JUDET MEHEDINTI,,",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/62418",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/62418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-39-2022",
+   "path": "local/mehedinti/gruia/2022/39",
+   "short": "HCL Gruia nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 39/2022",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/63844",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/63844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-4-2022",
+   "path": "local/mehedinti/gruia/2022/4",
+   "short": "HCL Gruia nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 4/2022 privind însușirea Acordului de cooperare privind organizarea şi exercitarea activității de urbanism si amenajarea teritoriului",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/48831",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/48831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-40-2022",
+   "path": "local/mehedinti/gruia/2022/40",
+   "short": "HCL Gruia nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 40/2022 privind rectificarea bugetului local si modificare si completare lista de investitii",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/64889",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/64889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-41-2022",
+   "path": "local/mehedinti/gruia/2022/41",
+   "short": "HCL Gruia nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 41/2022 privind rectificarea bugetului local",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/67271",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/67271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-42-2022",
+   "path": "local/mehedinti/gruia/2022/42",
+   "short": "HCL Gruia nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 42/2022 privind rectificarea bugetului local si modificare si completare lista de investitii",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/67948",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/67948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-43-2022",
+   "path": "local/mehedinti/gruia/2022/43",
+   "short": "HCL Gruia nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 43/2022 privind actualizarea Programului anual al achizitiilor publice pe anul 2022",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/67949",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/67949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-44-2022",
+   "path": "local/mehedinti/gruia/2022/44",
+   "short": "HCL Gruia nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 44/2022 privind rectificarea bugetului local si modificare si completare lista de investitii",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/69438",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/69438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-46-2022",
+   "path": "local/mehedinti/gruia/2022/46",
+   "short": "HCL Gruia nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 46/2022 privind analiza stadiului de inscriere a datelor in Registrul Agricol al comunei Gruia pe trimestru I si II al anului 2022 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/69986",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/69986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-49-2022",
+   "path": "local/mehedinti/gruia/2022/49",
+   "short": "HCL Gruia nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 49/2022 cu privire la aprobarea participării la „Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public” cu proiectul:“CREȘTEREA EFICIENȚEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC ÎN COMUNA GRUIA, JUDEȚ MEHEDINTI”",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/69989",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/69989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-5-2022",
+   "path": "local/mehedinti/gruia/2022/5",
+   "short": "HCL Gruia nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 5/2022 privind aderarea comunei Gruia la Asociația Comunelor din România",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/48832",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/48832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-50-2022",
+   "path": "local/mehedinti/gruia/2022/50",
+   "short": "HCL Gruia nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 50/2022 privind aprobarea actualizarii indicatorii tehnico-economici la terminarea lucrarilor, devizului general al proiectului, inclusiv aprobarea tuturor cheltuielilor neeligibile in urma actualizarii preturilor de piata la Autoturism si dotari pentru obiectivul de investitii “INFIINTARE, MODERNIZARE SI DOTARE CENTRU COMUNITAR INTEGRAT IN COMUNA GRUIA” cod SMIS 146511",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/71077",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/71077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-51-2022",
+   "path": "local/mehedinti/gruia/2022/51",
+   "short": "HCL Gruia nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 51/2022 privind rectificarea bugetului local",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/71078",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/71078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-52-2022",
+   "path": "local/mehedinti/gruia/2022/52",
+   "short": "HCL Gruia nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 52/2022 privind rectificarea bugetului local si modificarea listei de investitii",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/72833",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/72833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-53-2022",
+   "path": "local/mehedinti/gruia/2022/53",
+   "short": "HCL Gruia nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 53/2022 privind actualizarea Programului anual de achizitii publice",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/72834",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/72834",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--gruia-54-2022",
    "path": "local/mehedinti/gruia/2022/54",
    "short": "HCL Gruia nr. 54/2022",
@@ -88,6 +673,21 @@
      "from": "2022-11-24",
      "units": 1,
      "source_url": "https://emol.ro/gruia-mh/registru-hcl/79721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-6-2022",
+   "path": "local/mehedinti/gruia/2022/6",
+   "short": "HCL Gruia nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 6/2022 privind aprobarea reţelei scolare a unitatilor de invatamant preuniversitar de pe raza comunei Gruia pentru anul şcolar 2022/2023",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/48833",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/48833",
      "sha256": null
     }
    ]
@@ -298,6 +898,36 @@
      "from": "2022-12-30",
      "units": 1,
      "source_url": "https://emol.ro/gruia-mh/registru-hcl/84035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-8-2022",
+   "path": "local/mehedinti/gruia/2022/8",
+   "short": "HCL Gruia nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 8/2022 privind analiza stadiului de inscriere a datelor in Registrul Agricol al comunei Gruia pe semestru II al anului 2021 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/48835",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/48835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-9-2022",
+   "path": "local/mehedinti/gruia/2022/9",
+   "short": "HCL Gruia nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 9/2022 privind aprobarea cererii de finantare, bugetul cererii de finantare si actualizarea indicatoriilor tehnico-economici conform bugetului cererii de finantare, devizul general al proiectului, inclusiv aprobarea tuturor cheltuielilor neeligibile pentru obiectivul de investitii “INFIINTARE, MODERNIZARE SI DOTARE CENTRU COMUNITAR INTEGRAT IN COMUNA GRUIA” cod SMIS 146511",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/48836",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/48836",
      "sha256": null
     }
    ]

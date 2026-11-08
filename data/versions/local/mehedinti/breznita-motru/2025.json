@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/breznita-motru/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--breznita-motru-1-2025",
+   "path": "local/mehedinti/breznita-motru/2025/1",
+   "short": "HCL Breznița-Motru nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 1/2025 privind aprobarea proiectului organizării rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/189077",
+   "versions": [
+    {
+     "from": "2025-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/189077",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--breznita-motru-17-2025",
    "path": "local/mehedinti/breznita-motru/2025/17",
    "short": "HCL Breznița-Motru nr. 17/2025",
@@ -193,6 +208,21 @@
      "from": "2025-11-25",
      "units": 1,
      "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/236674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-3-2025",
+   "path": "local/mehedinti/breznita-motru/2025/3",
+   "short": "HCL Breznița-Motru nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 3/2025 privind aprobarea Devizului general pentru obiectivul de investiții \"PROIECT TIP - CONSTRUIRE CENTRU DE COLECTARE DEȘEURI PRIN APORT VOLUNTAR - COMUNA BREZNIȚA-MOTRU, JUDEȚUL MEHEDINȚI\", prevăzută în cadrul componentei C3: MANAGEMENTUL DEȘEURILOR, SUBINVESTIȚIA I1.A.-ÎNFIINȚAREA DE CENTRE DE COLECTARE PRIN APORT VOLUNTAR din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ în CADRUL APELULUI DE PROIECTE PNRR/2022/C3/S/I.1.A",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/193787",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/193787",
      "sha256": null
     }
    ]

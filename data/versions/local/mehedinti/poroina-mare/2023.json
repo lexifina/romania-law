@@ -3,6 +3,156 @@
  "shard": "local/mehedinti/poroina-mare/2023",
  "acts": [
   {
+   "slug": "hcl-mehedinti--poroina-mare-14-2023",
+   "path": "local/mehedinti/poroina-mare/2023/14",
+   "short": "HCL Poroina Mare nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 14/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din aparatul de specialitate",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/102500",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/102500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--poroina-mare-15-2023",
+   "path": "local/mehedinti/poroina-mare/2023/15",
+   "short": "HCL Poroina Mare nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 15/2023 privind rectificare buget local",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/102499",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/102499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--poroina-mare-16-2023",
+   "path": "local/mehedinti/poroina-mare/2023/16",
+   "short": "HCL Poroina Mare nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 16/2023 privind participarea comunei Poroina Mare la parteneriatul LEADER - GAL Câmpia Blahniței",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/102501",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/102501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--poroina-mare-17-2023",
+   "path": "local/mehedinti/poroina-mare/2023/17",
+   "short": "HCL Poroina Mare nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 17/2023 privind Rectificarea Bugetului Local de venituri și cheltuieli",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/106900",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/106900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--poroina-mare-18-2023",
+   "path": "local/mehedinti/poroina-mare/2023/18",
+   "short": "HCL Poroina Mare nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 18/2023 privind aprobarea delegării către UAT Județul Mehedinți a dreptului de depunere a aplicației de finanțare în vederea implementării și monitorizării proiectului „Microbuze electrice pentru elevi la nivel județului Mehedinți”",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/110246",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/110246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--poroina-mare-19-2023",
+   "path": "local/mehedinti/poroina-mare/2023/19",
+   "short": "HCL Poroina Mare nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 19/2023 privind rectificara bugetului local pe anul 2023 , pentru trimestrul II",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/110247",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/110247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--poroina-mare-20-2023",
+   "path": "local/mehedinti/poroina-mare/2023/20",
+   "short": "HCL Poroina Mare nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 20/2023 privind aprobarea Studiului de fezabilitate / indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “Construire locuințe de serviciu pentru specialiști din sănătate și învățământ în comuna Poroina Mare, sat Șipotu județul Mehedinți” prevăzută la Obiectivul de investiție I.2. ”Construirea de locuințe pentru tineri /locuințe de serviciu pentru specialiști din sănătate și învățământ “pentru a îmbunătăți furnizarea de servicii publice de către unitățile administrativ- teritoriale din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ în cadrul Apelurilor de proiect PNRR/2022/C10, componenta C10 – Fondul local",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/114756",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/114756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--poroina-mare-21-2023",
+   "path": "local/mehedinti/poroina-mare/2023/21",
+   "short": "HCL Poroina Mare nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 21/2023 privind alegerea președintelui de ședință pentru lunile august, septembrie și octombrie",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/114757",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/114757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--poroina-mare-22-2023",
+   "path": "local/mehedinti/poroina-mare/2023/22",
+   "short": "HCL Poroina Mare nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 22/2023 privind aprobarea participării comunei Poroina Mare, judetul Mehedinti, la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic, 2020-2024 – RABLA PLUS",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/117401",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/117401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--poroina-mare-23-2023",
+   "path": "local/mehedinti/poroina-mare/2023/23",
+   "short": "HCL Poroina Mare nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 23/2023 privind rectificarea Bugetului Local de Venituri si Cheltuieli al Primariei Poroina Mare pe anul 2023",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/117402",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/117402",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--poroina-mare-25-2023",
    "path": "local/mehedinti/poroina-mare/2023/25",
    "short": "HCL Poroina Mare nr. 25/2023",

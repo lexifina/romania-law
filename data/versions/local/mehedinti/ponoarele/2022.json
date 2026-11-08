@@ -3,6 +3,216 @@
  "shard": "local/mehedinti/ponoarele/2022",
  "acts": [
   {
+   "slug": "hcl-mehedinti--ponoarele-10-2022",
+   "path": "local/mehedinti/ponoarele/2022/10",
+   "short": "HCL Ponoarele nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 10/2022 privind aprobarea contului anual de execuţie al bugetului local al comunei Ponoarele pentru anul 2021",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/58927",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/58927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-12-2022",
+   "path": "local/mehedinti/ponoarele/2022/12",
+   "short": "HCL Ponoarele nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 12/2022 privind aprobarea încheierii unui contract de prestării servicii de permanență/intervenție imediată pentru prevenirea și combaterea atacurilor exemplarelor de urs brun",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/58929",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/58929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-13-2022",
+   "path": "local/mehedinti/ponoarele/2022/13",
+   "short": "HCL Ponoarele nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 13/2022 Privind aprobarea documentatiei in vederea participarii la programul “Fondul Local” in cadrul Planului National de Redresare si Rezilienta – Componenta 10",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/60210",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/60210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-14-2022",
+   "path": "local/mehedinti/ponoarele/2022/14",
+   "short": "HCL Ponoarele nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 14/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/62179",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/62179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-15-2022",
+   "path": "local/mehedinti/ponoarele/2022/15",
+   "short": "HCL Ponoarele nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 15/2022 privind aprobarea solicitarii prelungirii Scrisorii de garantie de la FNGCIMM SA IFN nr. 612/10.10.2018 pentru proiectul “REABILITARE, MODERNIZARE SI DOTARE ASEZAMINT CULTURAL SAT GHEORGHESTI” IN COM. PONOARELE, JUD. MEHEDINTI",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/65153",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/65153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-16-2022",
+   "path": "local/mehedinti/ponoarele/2022/16",
+   "short": "HCL Ponoarele nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 16/2022",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/65154",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/65154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-17-2022",
+   "path": "local/mehedinti/ponoarele/2022/17",
+   "short": "HCL Ponoarele nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 17/2022",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/65155",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/65155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-18-2022",
+   "path": "local/mehedinti/ponoarele/2022/18",
+   "short": "HCL Ponoarele nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 18/2022 privind organizarea Festivalului National Concurs de Folclor „Ponoare, Ponoare” editia a-XVI-a 2022, stabilirea taxelor pentru agentii economici care desfasoara activitati economice la aceasta manifestare, precum si aprobarea unor masuri organizatorice",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/66505",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/66505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-19-2022",
+   "path": "local/mehedinti/ponoarele/2022/19",
+   "short": "HCL Ponoarele nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 19/2022 privind trecerea din domeniul public al comunei Ponoarele in domeniul privat al comunei Ponoarele a imobilului C2 - Camin cultural inscris in CF nr. 50353 si aprobarea demolarii acestuia",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/66506",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/66506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-2-2022",
+   "path": "local/mehedinti/ponoarele/2022/2",
+   "short": "HCL Ponoarele nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 2/2022 privind organizarea reţelei şcolare a unitatilor de învăţământ preuniversitar de pe raza de competenta a autoritatii administratiei publice locale Ponoarele pentru anul şcolar 2022-2023",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/49084",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/49084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-20-2022",
+   "path": "local/mehedinti/ponoarele/2022/20",
+   "short": "HCL Ponoarele nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 20/2022 privind schimbarea destinatiei unor imobile proprietate publica a comunei Ponoarele, din imobile cu destinatia de unitati de invatamant in imobile cu alta destinatie",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/66507",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/66507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-22-2022",
+   "path": "local/mehedinti/ponoarele/2022/22",
+   "short": "HCL Ponoarele nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 22/2022 privind rectificarea bugetului local al comunei Ponoarele pe anul 2022",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/67969",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/67969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-24-2022",
+   "path": "local/mehedinti/ponoarele/2022/24",
+   "short": "HCL Ponoarele nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 24/2022 privind aprobarea organigramei, statului de funcții și personal pentru aparatul de specialitate al Primarului comunei Ponoarele, judeţul Mehedinti",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/70555",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/70555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-25-2022",
+   "path": "local/mehedinti/ponoarele/2022/25",
+   "short": "HCL Ponoarele nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 25/2022 privind aprobarea completarii, intocmirii și ținerii la zi a registrului agricol pentru anii 2020-2024 la nivelul comunei Ponoarele",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/70556",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/70556",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ponoarele-26-2022",
    "path": "local/mehedinti/ponoarele/2022/26",
    "short": "HCL Ponoarele nr. 26/2022",
@@ -58,6 +268,21 @@
      "from": "2022-08-31",
      "units": 1,
      "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/70560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-3-2022",
+   "path": "local/mehedinti/ponoarele/2022/3",
+   "short": "HCL Ponoarele nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 3/2022 privind stabilirea Planului de lucrări de interes local pe anul 2022, pentru persoanele majore, apte de muncă din familia beneficiară de ajutor social",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/49085",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/49085",
      "sha256": null
     }
    ]
@@ -213,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--ponoarele-4-2022",
+   "path": "local/mehedinti/ponoarele/2022/4",
+   "short": "HCL Ponoarele nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 4/2022 privind aprobarea solicitarii prelungirii Scrisorii de garantie de la FNGCIMM SA IFN nr. 612/10.10.2018 pentru proiectul “REABILITARE, MODERNIZARE SI DOTARE ASEZAMINT CULTURAL SAT GHEORGHESTI” IN COM. PONOARELE, JUD. MEHEDINTI",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/51380",
+   "versions": [
+    {
+     "from": "2022-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/51380",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ponoarele-40-2022",
    "path": "local/mehedinti/ponoarele/2022/40",
    "short": "HCL Ponoarele nr. 40/2022",
@@ -298,6 +538,81 @@
      "from": "2022-12-27",
      "units": 1,
      "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/84512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-5-2022",
+   "path": "local/mehedinti/ponoarele/2022/5",
+   "short": "HCL Ponoarele nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 5/2022 privind aprobarea bugetului local de venituri si cheltuieli al comunei Ponoarele, Judetul Mehedinti pe anul 2022",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/51381",
+   "versions": [
+    {
+     "from": "2022-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/51381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-6-2022",
+   "path": "local/mehedinti/ponoarele/2022/6",
+   "short": "HCL Ponoarele nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 6/2022 privind aprobarea lucrarilor de cercetare, prospectiuni, ridicari topometrice, foraje de cercetare si prelevari de probe pe doua terenuri apartinand domeniului public al comunei Ponoarele, Judetul Mehedinti",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/55883",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/55883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-7-2022",
+   "path": "local/mehedinti/ponoarele/2022/7",
+   "short": "HCL Ponoarele nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 7/2022 Privind organizarea manifestării cultural-artistică ,,Sărbătoarea Liliacului” de la Ponoarele ediția 2022",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/55884",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/55884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-8-2022",
+   "path": "local/mehedinti/ponoarele/2022/8",
+   "short": "HCL Ponoarele nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 8/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/55885",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/55885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-9-2022",
+   "path": "local/mehedinti/ponoarele/2022/9",
+   "short": "HCL Ponoarele nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 9/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/58926",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/58926",
      "sha256": null
     }
    ]

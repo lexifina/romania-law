@@ -3,6 +3,201 @@
  "shard": "local/mehedinti/corlatel/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--corlatel-1-2025",
+   "path": "local/mehedinti/corlatel/2025/1",
+   "short": "HCL Corlățel nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 1/2025 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/190487",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/190487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-10-2025",
+   "path": "local/mehedinti/corlatel/2025/10",
+   "short": "HCL Corlățel nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 10/2025 privind aprobarea bugetului de venituri și cheltuieli al comunei Corlățel pe anul 2025 și a estimărilor pentru anii 2026-2028 și cheltuirii sumelor din excedentul exercițiului bugetar pe anul 2024 al bugetului local",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/198671",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/198671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-11-2025",
+   "path": "local/mehedinti/corlatel/2025/11",
+   "short": "HCL Corlățel nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 11/2025 privind alegerea președintelui de ședință a Consiliul Local Corlățel pentru lunile mai, iunie și iulie ale anului 2025",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/203949",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/203949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-13-2025",
+   "path": "local/mehedinti/corlatel/2025/13",
+   "short": "HCL Corlățel nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 13/2025 privind aprobarea proiectului „Îmbunătățirea infrastructurii învățământului preșcolar prin realizarea unei grădinițe cu două săli de grupă, în Comuna Corlățel, Județul Mehedinți” și a cheltuielilor legate de acest proiect",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/203951",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/203951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-14-2025",
+   "path": "local/mehedinti/corlatel/2025/14",
+   "short": "HCL Corlățel nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 14/2025 privind atestarea apartenenței la domeniul privat al comunei Corlățel a unui teren și completarea și actualizarea Inventarului terenurilor din domeniul privat al comunei Corlățel",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/208557",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/208557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-15-2025",
+   "path": "local/mehedinti/corlatel/2025/15",
+   "short": "HCL Corlățel nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 15/2025 privind organizarea, în anul 2025, a activităților ocazionate de sărbătorirea nedeilor tradiționale de „Ispas”- ziua satului Valea Anilor, și de „Rusalii”- ziua satului Corlățel",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/208558",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/208558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-16-2025",
+   "path": "local/mehedinti/corlatel/2025/16",
+   "short": "HCL Corlățel nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 16/2025 privind modificarea Hotărârii Consiliului Local Corlățel nr.8 din 24.03.2025 privind completarea și actualizarea Inventarului bunurilor din domeniul public al comunei Corlățel",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/216875",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/216875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-17-2025",
+   "path": "local/mehedinti/corlatel/2025/17",
+   "short": "HCL Corlățel nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 17/2025 privind actualizarea Inventarului bunurilor din domeniul public al comunei Corlățel",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/216876",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/216876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-18-2025",
+   "path": "local/mehedinti/corlatel/2025/18",
+   "short": "HCL Corlățel nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 18/2025 privind modificarea Anexelor nr.1 și nr.2 ale Hotărârii Consiliului Local Corlățel nr.10 din 29.04.2024 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Modernizare drumuri și ulițe în comuna Corlățel, județul Mehedinți”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/216877",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/216877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-19-2025",
+   "path": "local/mehedinti/corlatel/2025/19",
+   "short": "HCL Corlățel nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 19/2025 privind alegerea președintelui de ședință a Consiliul Local Corlățel pentru lunile august, septembrie și octombrie ale anului 2025",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/220466",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/220466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-20-2025",
+   "path": "local/mehedinti/corlatel/2025/20",
+   "short": "HCL Corlățel nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 20/2025 privind aprobarea Programului de acțiune comunitară la nivelul comunei Corlățel pe anul 2025",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/220467",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/220467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-21-2025",
+   "path": "local/mehedinti/corlatel/2025/21",
+   "short": "HCL Corlățel nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 21/2025 privind modificarea Hotărârii Consiliului Local Corlățel nr.10 din 29.04.2024 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Modernizare drumuri și ulițe în comuna Corlățel, județul Mehedinți”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/221966",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/221966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-22-2025",
+   "path": "local/mehedinti/corlatel/2025/22",
+   "short": "HCL Corlățel nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 22/2025 privind modificarea Anexei Hotărârii Consiliului Local Corlățel nr.13 din 16.04.2025 privind aprobarea proiectului „Îmbunătățirea infrastructurii învățământului preșcolar prin realizarea unei grădinițe cu două săli de grupă, în Comuna Corlățel, Județul Mehedinți” și a cheltuielilor legate de acest proiect",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/221967",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/221967",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--corlatel-23-2025",
    "path": "local/mehedinti/corlatel/2025/23",
    "short": "HCL Corlățel nr. 23/2025",
@@ -103,6 +298,21 @@
      "from": "2025-12-03",
      "units": 1,
      "source_url": "https://emol.ro/corlatel-mh/registru-hcl/233735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-3-2025",
+   "path": "local/mehedinti/corlatel/2025/3",
+   "short": "HCL Corlățel nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 3/2025 privind alegerea președintelui de ședință a Consiliul Local Corlățel pentru lunile februarie, martie și aprilie ale anului 2025",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/195285",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/195285",
      "sha256": null
     }
    ]
@@ -298,6 +508,66 @@
      "from": "2026-06-23",
      "units": 1,
      "source_url": "https://emol.ro/corlatel-mh/registru-hcl/245140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-6-2025",
+   "path": "local/mehedinti/corlatel/2025/6",
+   "short": "HCL Corlățel nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 6/2025 privind aprobarea tipului de suport alimentar acordat elevilor și preșcolarilor din unitățile de învățământ de pe raza Comunei Corlățel în anul 2025",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/195288",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/195288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-7-2025",
+   "path": "local/mehedinti/corlatel/2025/7",
+   "short": "HCL Corlățel nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 7/2025 privind actualizarea Planului de Analiza si Acoperire a Riscurilor aferent Unității Administrativ Teritoriale comuna Corlățel, județul Mehedinți",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/198668",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/198668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-8-2025",
+   "path": "local/mehedinti/corlatel/2025/8",
+   "short": "HCL Corlățel nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 8/2025 privind completarea și actualizarea Inventarului bunurilor din domeniul public al comunei Corlățel",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/198669",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/198669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-9-2025",
+   "path": "local/mehedinti/corlatel/2025/9",
+   "short": "HCL Corlățel nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 9/2025 privind aprobarea încheierii exercițiului bugetar al anului 2024",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/198670",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/198670",
      "sha256": null
     }
    ]

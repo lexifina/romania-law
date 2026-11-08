@@ -3,6 +3,95 @@
 "shard": "local/mehedinti/breznita-motru/2023",
 "acts": [
 {
+"slug": "hcl-mehedinti--breznita-motru-4-2023",
+"path": "local/mehedinti/breznita-motru/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 4/2023 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2023-2024",
+"short": "HCL Breznița-Motru nr. 4/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/breznita-motru-mh/registru-hcl/86444",
+"council": "mehedinti/breznita-motru",
+"council_name": "Consiliul Local al Comunei Breznița-Motru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--breznita-motru-17-2023",
+"path": "local/mehedinti/breznita-motru/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 17/2023 privind instrumentarea proiectului „Dotarea Serviciului Voluntar pentru Situații de Urgență al comunei Breznița-Motru, județul Mehedinți”",
+"short": "HCL Breznița-Motru nr. 17/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-12",
+"latest": "2023-05-12",
+"portal": "https://emol.ro/breznita-motru-mh/registru-hcl/101819",
+"council": "mehedinti/breznita-motru",
+"council_name": "Consiliul Local al Comunei Breznița-Motru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--breznita-motru-21-2023",
+"path": "local/mehedinti/breznita-motru/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 21/2023",
+"short": "HCL Breznița-Motru nr. 21/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-15",
+"latest": "2023-05-15",
+"portal": "https://emol.ro/breznita-motru-mh/registru-hcl/102947",
+"council": "mehedinti/breznita-motru",
+"council_name": "Consiliul Local al Comunei Breznița-Motru",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--breznita-motru-24-2023",
+"path": "local/mehedinti/breznita-motru/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 24/2023 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de urbanism și amenajarea teritoriului",
+"short": "HCL Breznița-Motru nr. 24/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://emol.ro/breznita-motru-mh/registru-hcl/109006",
+"council": "mehedinti/breznita-motru",
+"council_name": "Consiliul Local al Comunei Breznița-Motru",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-mehedinti--breznita-motru-34-2023",
 "path": "local/mehedinti/breznita-motru/2023/34",
 "kind": "local",
